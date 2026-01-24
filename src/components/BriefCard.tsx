@@ -81,47 +81,37 @@ export function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
         </div>
 
         {/* Content */}
-        <div className="flex-1 flex flex-col p-4 pt-2 overflow-hidden">
+        <div className="flex flex-col p-4 pt-2 overflow-hidden">
           {/* Location */}
-          <p className="text-slate-500 text-xs mb-2 font-mono tracking-wide shrink-0">
+          <p className="text-slate-500 text-xs mb-2 font-mono tracking-wide">
             {story.location.name.toUpperCase()}
           </p>
 
           {/* Title */}
-          <h2 className="font-serif text-lg font-semibold text-slate-50 leading-tight mb-4 tracking-editorial shrink-0">
+          <h2 className="font-serif text-lg font-semibold text-slate-50 leading-tight mb-4 tracking-editorial">
             {story.title}
           </h2>
 
-          {/* Accordion Content - Only one visible at a time */}
-          <div className="flex-1 overflow-y-auto min-h-0 relative">
-            {/* Bullets View */}
-            <div
-              className={`transition-all duration-300 ease-out ${
-                showAnalysis ? 'opacity-0 pointer-events-none absolute inset-0' : 'opacity-100'
-              }`}
-            >
-              <ul className="space-y-2.5">
-                {story.bullets.map((bullet, index) => (
-                  <li key={index} className="flex gap-3 text-sm">
-                    <span
-                      className={`${bulletText} ${bulletGlow} font-mono font-medium text-[10px] w-5 h-5 rounded flex items-center justify-center shrink-0 mt-0.5 bg-white/5`}
-                    >
-                      {index + 1}
-                    </span>
-                    <span className="text-slate-400 leading-relaxed text-[13px]">
-                      {bullet}
-                    </span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-
-            {/* Analysis View */}
-            <div
-              className={`transition-all duration-300 ease-out ${
-                showAnalysis ? 'opacity-100' : 'opacity-0 pointer-events-none absolute inset-0'
-              }`}
-            >
+          {/* Content - Bullets or Analysis */}
+          {!showAnalysis ? (
+            /* Bullets View - hauteur auto, pas de scroll */
+            <ul className="space-y-2.5 mb-3">
+              {story.bullets.map((bullet, index) => (
+                <li key={index} className="flex gap-3 text-sm">
+                  <span
+                    className={`${bulletText} ${bulletGlow} font-mono font-medium text-[10px] w-5 h-5 rounded flex items-center justify-center shrink-0 mt-0.5 bg-white/5`}
+                  >
+                    {index + 1}
+                  </span>
+                  <span className="text-slate-400 leading-relaxed text-[13px]">
+                    {bullet}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          ) : (
+            /* Analysis View - scroll si contenu long */
+            <div className="max-h-[45vh] overflow-y-auto mb-3">
               {/* Sources */}
               <p className="text-[10px] text-slate-600 mb-4 font-mono uppercase tracking-wider">
                 Sources : {story.sources.join(' • ')}
@@ -132,12 +122,12 @@ export function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
                 {story.execSummary}
               </p>
             </div>
-          </div>
+          )}
 
-          {/* Toggle Button */}
+          {/* Toggle Button - toujours collé au contenu */}
           <button
             onClick={() => setShowAnalysis(!showAnalysis)}
-            className={`mt-3 w-full py-2.5 px-4 rounded-lg font-mono text-xs uppercase tracking-widest transition-all border flex items-center justify-center gap-2 shrink-0 ${
+            className={`w-full py-2.5 px-4 rounded-lg font-mono text-xs uppercase tracking-widest transition-all border flex items-center justify-center gap-2 ${
               isActive
                 ? 'bg-white/5 border-white/10 text-slate-300 hover:bg-white/10 hover:border-white/20'
                 : 'bg-transparent border-white/5 text-slate-600'
