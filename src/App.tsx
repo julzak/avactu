@@ -28,45 +28,43 @@ function App() {
 
   return (
     <div className="h-screen bg-obsidian-950 text-slate-50 flex flex-col overflow-hidden">
-      {/* Header - Brand Identity */}
-      <header className="shrink-0 flex flex-col items-center justify-center pt-6 pb-4 bg-gradient-to-b from-obsidian-900 to-transparent shadow-[0_4px_20px_-5px_rgba(6,182,212,0.15)]">
+      {/* Header - Compact Brand Identity */}
+      <header className="shrink-0 flex items-center justify-center gap-3 px-4 py-2 bg-gradient-to-b from-obsidian-900 to-transparent">
         {/* Logo avec halo violet */}
-        <div className="relative mb-2">
+        <div className="relative">
           {/* Glow layer violet */}
           <div
-            className="absolute inset-0 blur-2xl opacity-30"
+            className="absolute inset-0 blur-xl opacity-30"
             style={{
               background: 'radial-gradient(circle, #6366f1 0%, transparent 60%)',
-              transform: 'scale(3)',
+              transform: 'scale(2.5)',
             }}
           />
           {/* Logo SVG animé */}
-          <AvactuLogo size={80} className="relative" />
+          <AvactuLogo size={48} className="relative" />
         </div>
 
-        {/* Title */}
-        <div className="flex items-center gap-2">
-          <h1 className="font-serif text-2xl font-bold tracking-tight text-slate-50">
-            Avactu
-          </h1>
-          {isOffline && (
-            <div className="flex items-center gap-1 px-2 py-0.5 rounded bg-amber-500/10 border border-amber-500/20">
-              <WifiOff className="w-3 h-3 text-amber-500" />
-              <span className="text-[10px] text-amber-500 font-mono uppercase">Hors ligne</span>
-            </div>
+        {/* Title + Date */}
+        <div className="flex flex-col">
+          <div className="flex items-center gap-2">
+            <h1 className="font-serif text-xl font-bold tracking-tight text-slate-50">
+              Avactu
+            </h1>
+            {isOffline && (
+              <div className="flex items-center gap-1 px-1.5 py-0.5 rounded bg-amber-500/10 border border-amber-500/20">
+                <WifiOff className="w-2.5 h-2.5 text-amber-500" />
+              </div>
+            )}
+          </div>
+          {edition && (
+            <p className="text-slate-500 text-[10px] font-mono uppercase tracking-wider">
+              {new Date(edition.date).toLocaleDateString('fr-FR', {
+                day: 'numeric',
+                month: 'long',
+              })}
+            </p>
           )}
         </div>
-
-        {/* Date */}
-        {edition && (
-          <p className="mt-1 text-slate-500 text-xs font-mono uppercase tracking-wider">
-            {new Date(edition.date).toLocaleDateString('fr-FR', {
-              day: 'numeric',
-              month: 'long',
-              year: 'numeric',
-            })}
-          </p>
-        )}
       </header>
 
       {/* Brief Stack - full height with snap scrolling */}
