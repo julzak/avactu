@@ -2,6 +2,7 @@ import { useStories } from '@/hooks/useStories';
 import { useActiveStory } from '@/hooks/useActiveStory';
 import { useOffline } from '@/hooks/useOffline';
 import { BriefStack } from '@/components/BriefStack';
+import { AvactuLogoTransparent } from '@/components/icons/AvactuLogoTransparent';
 import { WifiOff } from 'lucide-react';
 
 function App() {
@@ -29,25 +30,18 @@ function App() {
     <div className="h-screen bg-obsidian-950 text-slate-50 flex flex-col overflow-hidden">
       {/* Header - Brand Identity */}
       <header className="shrink-0 flex flex-col items-center justify-center pt-6 pb-4 bg-gradient-to-b from-obsidian-900 to-transparent shadow-[0_4px_20px_-5px_rgba(6,182,212,0.15)]">
-        {/* Logo SVG with purple glow */}
+        {/* Logo avec halo violet */}
         <div className="relative mb-2">
-          {/* Glow layer */}
+          {/* Glow layer violet */}
           <div
-            className="absolute inset-0 blur-2xl opacity-50"
+            className="absolute inset-0 blur-2xl opacity-40"
             style={{
               background: 'radial-gradient(circle, #6366f1 0%, transparent 60%)',
-              transform: 'scale(2)',
+              transform: 'scale(2.5)',
             }}
           />
           {/* Logo SVG */}
-          <img
-            src="/logo.svg"
-            alt="Avactu"
-            className="relative w-16 h-16 object-contain"
-            style={{
-              filter: 'drop-shadow(0 0 15px rgba(99, 102, 241, 0.6)) drop-shadow(0 0 30px rgba(99, 102, 241, 0.4))',
-            }}
-          />
+          <AvactuLogoTransparent className="relative w-20 h-20" />
         </div>
 
         {/* Title */}
