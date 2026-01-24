@@ -1,12 +1,11 @@
 /**
- * SMS Notification Script - Envoie les titres du jour à Ava via Twilio
+ * SMS Notification Script - Envoie les titres du jour à Ava via OVH SMS
  *
  * Usage:
  *   npm run send-sms           # Envoie le SMS
  *   npm run send-sms -- --dry-run  # Affiche le message sans l'envoyer
  */
 
-import Twilio from 'twilio';
 import { readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -37,6 +36,13 @@ interface Story {
 interface Edition {
   date: string;
   stories: Story[];
+}
+
+interface OvhSmsResponse {
+  totalCreditsRemoved: number;
+  invalidReceivers: string[];
+  ids: number[];
+  validReceivers: string[];
 }
 
 // Category emojis
@@ -77,7 +83,7 @@ function buildMessage(edition: Edition): string {
   const dateFormatted = formatDate(edition.date);
 
   const lines: string[] = [
-    `☀️ Avactu du ${dateFormatted}`,
+    `Avactu du ${dateFormatted}`,
     '',
   ];
 
@@ -88,37 +94,84 @@ function buildMessage(edition: Edition): string {
   }
 
   lines.push('');
-  lines.push(`👉 ${APP_URL}`);
+  lines.push(`${APP_URL}`);
 
   return lines.join('\n');
 }
 
 /**
- * Send SMS via Twilio
+ * Generate OVH API signature
+ */
+function generateSignature(
+  appSecret: string,
+  consumerKey: string,
+  method: string,
+  url: string,
+  body: string,
+  timestamp: number
+): string {
+  const crypto = require('crypto');
+  const toSign = `${appSecret}+${consumerKey}+${method}+${url}+${body}+${timestamp}`;
+  return '$1$' + crypto.createHash('sha1').update(toSign).digest('hex');
+}
+
+/**
+ * Send SMS via OVH API
  */
 async function sendSMS(message: string): Promise<void> {
-  const accountSid = process.env.TWILIO_ACCOUNT_SID;
-  const authToken = process.env.TWILIO_AUTH_TOKEN;
-  const fromNumber = process.env.TWILIO_PHONE_NUMBER;
+  const appKey = process.env.OVH_APP_KEY;
+  const appSecret = process.env.OVH_APP_SECRET;
+  const consumerKey = process.env.OVH_CONSUMER_KEY;
+  const serviceName = process.env.OVH_SMS_SERVICE;
   const toNumber = process.env.AVA_PHONE_NUMBER;
 
-  if (!accountSid || !authToken || !fromNumber || !toNumber) {
+  if (!appKey || !appSecret || !consumerKey || !serviceName || !toNumber) {
     throw new Error(
-      'Missing environment variables. Required: TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_PHONE_NUMBER, AVA_PHONE_NUMBER'
+      'Missing environment variables. Required: OVH_APP_KEY, OVH_APP_SECRET, OVH_CONSUMER_KEY, OVH_SMS_SERVICE, AVA_PHONE_NUMBER'
     );
   }
 
-  const client = Twilio(accountSid, authToken);
-
-  const result = await client.messages.create({
-    body: message,
-    from: fromNumber,
-    to: toNumber,
+  const url = `https://eu.api.ovh.com/1.0/sms/${serviceName}/jobs`;
+  const method = 'POST';
+  const body = JSON.stringify({
+    receivers: [toNumber],
+    message: message,
+    noStopClause: true,
+    priority: 'high',
+    sender: 'Avactu',
   });
 
+  // Get OVH server time
+  const timeResponse = await fetch('https://eu.api.ovh.com/1.0/auth/time');
+  const timestamp = await timeResponse.json();
+
+  // Generate signature
+  const signature = generateSignature(appSecret, consumerKey, method, url, body, timestamp);
+
+  // Send request
+  const response = await fetch(url, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-Ovh-Application': appKey,
+      'X-Ovh-Consumer': consumerKey,
+      'X-Ovh-Timestamp': String(timestamp),
+      'X-Ovh-Signature': signature,
+    },
+    body: body,
+  });
+
+  if (!response.ok) {
+    const error = await response.text();
+    throw new Error(`OVH API error: ${response.status} - ${error}`);
+  }
+
+  const result: OvhSmsResponse = await response.json();
+
   console.log(`✅ SMS envoyé avec succès!`);
-  console.log(`   SID: ${result.sid}`);
-  console.log(`   Status: ${result.status}`);
+  console.log(`   ID: ${result.ids.join(', ')}`);
+  console.log(`   Destinataires valides: ${result.validReceivers.join(', ')}`);
+  console.log(`   Crédits utilisés: ${result.totalCreditsRemoved}`);
 }
 
 /**
@@ -127,8 +180,8 @@ async function sendSMS(message: string): Promise<void> {
 async function main(): Promise<void> {
   const isDryRun = process.argv.includes('--dry-run');
 
-  console.log('📱 AVACTU - Envoi SMS');
-  console.log('=====================');
+  console.log('📱 AVACTU - Envoi SMS (OVH)');
+  console.log('===========================');
 
   // Load stories
   let edition: Edition;

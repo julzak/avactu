@@ -64,13 +64,14 @@ jobs:
       - name: Wait for deployment
         run: sleep 90
 
-      # 9. Send SMS notification
+      # 9. Send SMS notification via OVH
       - name: Send SMS
         if: ${{ github.event.inputs.skip_sms != 'true' }}
         env:
-          TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
-          TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
-          TWILIO_PHONE_NUMBER: ${{ secrets.TWILIO_PHONE_NUMBER }}
+          OVH_APP_KEY: ${{ secrets.OVH_APP_KEY }}
+          OVH_APP_SECRET: ${{ secrets.OVH_APP_SECRET }}
+          OVH_CONSUMER_KEY: ${{ secrets.OVH_CONSUMER_KEY }}
+          OVH_SMS_SERVICE: ${{ secrets.OVH_SMS_SERVICE }}
           AVA_PHONE_NUMBER: ${{ secrets.AVA_PHONE_NUMBER }}
           APP_URL: ${{ vars.APP_URL || 'avactu.vercel.app' }}
         run: npm run send-sms
