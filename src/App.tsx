@@ -29,8 +29,26 @@ function App() {
     <div className="h-screen bg-obsidian-950 text-slate-50 flex flex-col overflow-hidden">
       {/* Header - Brand Identity */}
       <header className="shrink-0 flex flex-col items-center justify-center pt-6 pb-4 bg-gradient-to-b from-obsidian-900 to-transparent shadow-[0_4px_20px_-5px_rgba(6,182,212,0.15)]">
-        {/* Logo */}
-        <img src="/logo.png" alt="Avactu" className="w-12 h-12 mb-2 object-contain" />
+        {/* Logo with glow effect */}
+        <div className="relative mb-2">
+          {/* Glow layer */}
+          <div
+            className="absolute inset-0 blur-xl opacity-60"
+            style={{
+              background: 'radial-gradient(circle, #6366f1 0%, transparent 70%)',
+              transform: 'scale(1.5)',
+            }}
+          />
+          {/* Logo */}
+          <img
+            src="/logo.png"
+            alt="Avactu"
+            className="relative w-16 h-16 object-contain mix-blend-lighten"
+            style={{
+              filter: 'drop-shadow(0 0 20px rgba(99, 102, 241, 0.5)) drop-shadow(0 0 40px rgba(99, 102, 241, 0.3))',
+            }}
+          />
+        </div>
 
         {/* Title */}
         <div className="flex items-center gap-2">
