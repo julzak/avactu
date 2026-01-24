@@ -177,8 +177,20 @@ Génère la story au format JSON demandé.`;
       throw new Error('Unexpected response type');
     }
 
+    // Clean markdown code fences if present
+    let jsonText = content.text.trim();
+    if (jsonText.startsWith('```json')) {
+      jsonText = jsonText.slice(7);
+    } else if (jsonText.startsWith('```')) {
+      jsonText = jsonText.slice(3);
+    }
+    if (jsonText.endsWith('```')) {
+      jsonText = jsonText.slice(0, -3);
+    }
+    jsonText = jsonText.trim();
+
     // Parse JSON response
-    const storyData = JSON.parse(content.text);
+    const storyData = JSON.parse(jsonText);
 
     // Generate story ID
     const today = new Date().toISOString().split('T')[0];
