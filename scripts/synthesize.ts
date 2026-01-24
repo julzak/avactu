@@ -82,9 +82,15 @@ RÈGLES ABSOLUES :
 4. Identifie TOUJOURS l'enjeu économique sous-jacent, même pour un conflit territorial
 5. Contextualise brièvement l'historique si nécessaire à la compréhension
 
+RÈGLES DE FRANÇAIS POUR LE TITRE :
+- Toujours utiliser les articles devant les noms de pays : LA Russie, LA France, LA Chine, LES États-Unis, LE Royaume-Uni, L'Ukraine, L'Iran
+- Toujours utiliser les articles devant les lieux géographiques : LE Groenland, LA Crimée, LE Moyen-Orient, LA Mer de Chine, LE Détroit de Taïwan
+- Forme correcte : "La Russie intensifie ses bombardements" PAS "Russie intensifie ses bombardements"
+- Forme correcte : "Trump revendique le Groenland" PAS "Trump revendique Groenland"
+
 FORMAT DE SORTIE (JSON strict, pas de markdown) :
 {
-  "title": "Titre factuel et accrocheur (max 60 caractères)",
+  "title": "Titre factuel et accrocheur avec articles corrects (max 60 caractères)",
   "category": "geopolitique" | "economie" | "politique",
   "location": {
     "lat": <latitude du lieu clé>,
