@@ -81,7 +81,7 @@ export function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
         </div>
 
         {/* Content */}
-        <div className="flex-1 flex flex-col p-4 -mt-6 overflow-hidden">
+        <div className="flex-1 flex flex-col p-4 pt-2 overflow-hidden">
           {/* Location */}
           <p className="text-slate-500 text-xs mb-2 font-mono tracking-wide shrink-0">
             {story.location.name.toUpperCase()}
