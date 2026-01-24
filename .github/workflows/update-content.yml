@@ -1,0 +1,76 @@
+name: Update Content & Send SMS
+
+on:
+  # Every 2 days at 7h Paris time (6h UTC in winter, 5h UTC in summer)
+  schedule:
+    - cron: '0 6 */2 * *'
+  # Manual trigger for testing
+  workflow_dispatch:
+    inputs:
+      skip_sms:
+        description: 'Skip SMS sending'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  update-and-notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout repository
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      # 4. Run curation script (fetch RSS feeds)
+      - name: Curate articles
+        run: npm run curate
+
+      # 5. Run synthesis script (generate stories with Claude)
+      - name: Synthesize stories
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run synthesize
+
+      # 6. Commit and push changes
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/stories.json data/raw-articles.json
+          git diff --staged --quiet || git commit -m "chore: update stories $(date +'%Y-%m-%d')"
+          git push
+
+      # 7. Trigger Vercel deployment (via deploy hook)
+      - name: Trigger Vercel deploy
+        if: ${{ vars.VERCEL_DEPLOY_HOOK }}
+        run: |
+          curl -X POST "${{ vars.VERCEL_DEPLOY_HOOK }}"
+
+      # 8. Wait for deployment
+      - name: Wait for deployment
+        run: sleep 90
+
+      # 9. Send SMS notification
+      - name: Send SMS
+        if: ${{ github.event.inputs.skip_sms != 'true' }}
+        env:
+          TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
+          TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
+          TWILIO_PHONE_NUMBER: ${{ secrets.TWILIO_PHONE_NUMBER }}
+          AVA_PHONE_NUMBER: ${{ secrets.AVA_PHONE_NUMBER }}
+          APP_URL: ${{ vars.APP_URL || 'avactu.vercel.app' }}
+        run: npm run send-sms

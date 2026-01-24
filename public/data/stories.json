@@ -1,0 +1,89 @@
+{
+  "date": "2026-01-24",
+  "stories": [
+    {
+      "id": "2026-01-24-01",
+      "category": "geopolitique",
+      "title": "Pékin intensifie ses manoeuvres navales autour de Taïwan",
+      "imageUrl": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800",
+      "location": {
+        "lat": 23.5,
+        "lng": 121,
+        "name": "Détroit de Taïwan"
+      },
+      "bullets": [
+        "La marine chinoise a déployé 30 navires et 50 avions autour de l'île.",
+        "Ces exercices font suite à une visite de parlementaires américains à Taipei.",
+        "Pékin considère Taïwan comme une province rebelle à réunifier, si nécessaire par la force.",
+        "Washington maintient une ambiguïté stratégique tout en armant l'île discrètement.",
+        "Les semi-conducteurs taïwanais (TSMC) représentent 90% de la production mondiale avancée."
+      ],
+      "execSummary": "Les tensions dans le détroit de Taïwan atteignent un nouveau pic après le déploiement massif de forces navales et aériennes chinoises. Cette démonstration de force intervient dans un contexte de visite diplomatique américaine sur l'île, perçue par Pékin comme une provocation.\n\nLa République populaire de Chine n'a jamais renoncé à l'usage de la force pour réunifier ce qu'elle considère comme une province séparatiste depuis 1949. Xi Jinping a réitéré que la réunification était un objectif historique inéluctable. De son côté, le gouvernement taïwanais, dirigé par le DPP pro-indépendance, refuse toute intégration au système politique chinois.\n\nLes États-Unis maintiennent leur politique d'ambiguïté stratégique : reconnaissance diplomatique de Pékin, mais fourniture d'armes à Taipei via le Taiwan Relations Act. Cette position irrite la Chine qui y voit une ingérence dans ses affaires intérieures.\n\nL'enjeu dépasse le symbolique : TSMC, basé à Taïwan, fabrique 90% des puces les plus avancées au monde. Un conflit armé paralyserait l'industrie technologique mondiale, des smartphones aux véhicules électriques.",
+      "sources": ["Le Monde", "The Economist", "Foreign Affairs"],
+      "publishedAt": "2026-01-24T08:00:00Z"
+    },
+    {
+      "id": "2026-01-24-02",
+      "category": "geopolitique",
+      "title": "Nouvelle offensive ukrainienne dans la région de Zaporijjia",
+      "imageUrl": "https://images.unsplash.com/photo-1569974498991-d3c12a504f95?w=800",
+      "location": {
+        "lat": 48.3,
+        "lng": 35,
+        "name": "Zaporijjia, Ukraine"
+      },
+      "bullets": [
+        "L'armée ukrainienne a lancé une contre-offensive dans le sud du pays.",
+        "L'objectif est de couper le corridor terrestre reliant la Russie à la Crimée.",
+        "Moscou qualifie ces actions de terrorisme et menace d'escalade nucléaire tactique.",
+        "Kiev affirme défendre son intégrité territoriale avec le soutien de ses alliés occidentaux.",
+        "La centrale nucléaire de Zaporijjia reste au coeur des préoccupations énergétiques européennes."
+      ],
+      "execSummary": "Les forces armées ukrainiennes ont engagé une nouvelle phase offensive dans la région de Zaporijjia, visant à percer les lignes de défense russes établies depuis 2022. Cette opération s'inscrit dans une stratégie plus large de reconquête territoriale.\n\nL'objectif militaire principal est de couper le corridor terrestre qui relie la Russie continentale à la Crimée annexée en 2014. Ce corridor, passant par Marioupol, constitue une ligne d'approvisionnement vitale pour les forces russes dans le sud.\n\nLe Kremlin dénonce ces opérations comme des actes terroristes et rappelle régulièrement sa doctrine nucléaire, sans exclure l'usage d'armes tactiques en cas de menace existentielle. Cette rhétorique vise à dissuader un soutien occidental accru à Kiev.\n\nL'Ukraine, soutenue par l'OTAN en équipements mais pas en troupes, invoque le droit international à défendre son intégrité territoriale. La centrale nucléaire de Zaporijjia, la plus grande d'Europe, se trouve dans la zone de combat, suscitant l'inquiétude de l'AIEA quant à un risque d'accident majeur.",
+      "sources": ["Reuters", "Le Monde", "Al Jazeera"],
+      "publishedAt": "2026-01-24T09:30:00Z"
+    },
+    {
+      "id": "2026-01-24-03",
+      "category": "economie",
+      "title": "La BCE maintient ses taux face à l'inflation persistante",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800",
+      "location": {
+        "lat": 50.1,
+        "lng": 8.6,
+        "name": "Francfort, Allemagne"
+      },
+      "bullets": [
+        "La Banque centrale européenne maintient son taux directeur à 4,25%.",
+        "L'inflation en zone euro reste à 2,8%, au-dessus de l'objectif de 2%.",
+        "Les marchés anticipaient une baisse, les indices boursiers ont reculé de 1,2%.",
+        "Christine Lagarde justifie cette prudence par les tensions sur les prix de l'énergie.",
+        "Les entreprises endettées et l'immobilier souffrent du coût élevé du crédit."
+      ],
+      "execSummary": "La Banque centrale européenne a décidé de maintenir ses taux directeurs inchangés lors de sa réunion de janvier, déjouant les attentes d'une partie des marchés qui anticipaient une première baisse.\n\nAvec une inflation à 2,8% en zone euro, encore supérieure à l'objectif de 2%, Christine Lagarde a justifié cette décision par la persistance des pressions inflationnistes, notamment liées aux coûts énergétiques et aux tensions géopolitiques qui perturbent les chaînes d'approvisionnement.\n\nCette politique monétaire restrictive divise les économistes. Certains estiment qu'elle risque d'aggraver le ralentissement économique déjà visible en Allemagne et en France. D'autres la jugent nécessaire pour ancrer les anticipations d'inflation et éviter une spirale prix-salaires.\n\nLes secteurs les plus touchés sont l'immobilier, où les transactions ont chuté de 25% en un an, et les entreprises fortement endettées qui voient leur charge financière s'alourdir. Les épargnants, en revanche, bénéficient de rendements obligataires plus attractifs qu'ils ne l'étaient depuis 2008.",
+      "sources": ["Les Échos", "The Economist", "Reuters"],
+      "publishedAt": "2026-01-24T14:00:00Z"
+    },
+    {
+      "id": "2026-01-24-04",
+      "category": "politique",
+      "title": "Le gouvernement présente sa réforme de l'assurance chômage",
+      "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "location": {
+        "lat": 48.8,
+        "lng": 2.3,
+        "name": "Paris, France"
+      },
+      "bullets": [
+        "Le projet durcit les conditions d'accès aux allocations chômage dès février.",
+        "La durée minimale de cotisation passe de 6 à 8 mois sur 24 mois.",
+        "Le gouvernement vise 3,5 milliards d'euros d'économies sur trois ans.",
+        "Les syndicats dénoncent une attaque contre les plus précaires et appellent à la mobilisation.",
+        "Le patronat soutient la réforme, arguant qu'elle incite au retour à l'emploi."
+      ],
+      "execSummary": "Le gouvernement français a présenté un projet de réforme de l'assurance chômage qui durcit significativement les conditions d'indemnisation. Cette mesure s'inscrit dans une politique de réduction des dépenses publiques et d'incitation au retour à l'emploi.\n\nLe texte prévoit notamment de porter la durée minimale de cotisation de 6 à 8 mois sur une période de référence de 24 mois. Concrètement, il faudra avoir travaillé plus longtemps pour ouvrir des droits. L'exécutif table sur 3,5 milliards d'euros d'économies sur trois ans.\n\nLes organisations syndicales s'opposent unanimement au projet. Elles dénoncent une précarisation accrue des travailleurs en contrats courts et des jeunes entrant sur le marché du travail. Des journées de mobilisation sont annoncées.\n\nLe Medef et la CPME soutiennent cette orientation. Selon le patronat, le taux de chômage actuel à 7,2% reflète davantage des freins à l'emploi que l'absence d'offres. La réforme devrait, selon ses partisans, réduire les tensions de recrutement dans les secteurs en pénurie de main-d'oeuvre.",
+      "sources": ["Le Monde", "Les Échos", "AFP"],
+      "publishedAt": "2026-01-24T11:00:00Z"
+    }
+  ]
+}
