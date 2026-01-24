@@ -2,7 +2,6 @@ import { useStories } from '@/hooks/useStories';
 import { useActiveStory } from '@/hooks/useActiveStory';
 import { useOffline } from '@/hooks/useOffline';
 import { BriefStack } from '@/components/BriefStack';
-import { AvactuLogo } from '@/components/icons/AvactuLogo';
 import { WifiOff } from 'lucide-react';
 
 function App() {
@@ -31,7 +30,7 @@ function App() {
       {/* Header - Brand Identity */}
       <header className="shrink-0 flex flex-col items-center justify-center pt-6 pb-4 bg-gradient-to-b from-obsidian-900 to-transparent shadow-[0_4px_20px_-5px_rgba(6,182,212,0.15)]">
         {/* Logo */}
-        <AvactuLogo className="w-10 h-10 mb-2 text-cyan-400" />
+        <img src="/logo.png" alt="Avactu" className="w-12 h-12 mb-2 object-contain" />
 
         {/* Title */}
         <div className="flex items-center gap-2">
