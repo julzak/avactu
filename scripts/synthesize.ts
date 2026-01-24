@@ -82,11 +82,14 @@ RÈGLES ABSOLUES :
 4. Identifie TOUJOURS l'enjeu économique sous-jacent, même pour un conflit territorial
 5. Contextualise brièvement l'historique si nécessaire à la compréhension
 
-RÈGLES DE FRANÇAIS POUR LE TITRE :
+RÈGLES DE FRANÇAIS (TITRE ET BULLETS) :
 - Toujours utiliser les articles devant les noms de pays : LA Russie, LA France, LA Chine, LES États-Unis, LE Royaume-Uni, L'Ukraine, L'Iran
 - Toujours utiliser les articles devant les lieux géographiques : LE Groenland, LA Crimée, LE Moyen-Orient, LA Mer de Chine, LE Détroit de Taïwan
-- Forme correcte : "La Russie intensifie ses bombardements" PAS "Russie intensifie ses bombardements"
-- Forme correcte : "Trump revendique le Groenland" PAS "Trump revendique Groenland"
+- Toujours utiliser les articles devant les groupes de personnes : LES influenceurs, LES médecins, LES particuliers
+- Toujours utiliser les articles devant les concepts : L'usage, LA stratégie, LE contrôle, LA domination
+- Forme correcte : "La Russie bombarde Kiev" PAS "Russie bombarde Kiev"
+- Forme correcte : "Les médecins alertent" PAS "Médecins alertent"
+- Forme correcte : "L'usage de la force" PAS "Usage de la force"
 
 FORMAT DE SORTIE (JSON strict, pas de markdown) :
 {
