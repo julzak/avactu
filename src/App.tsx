@@ -2,7 +2,7 @@ import { useStories } from '@/hooks/useStories';
 import { useActiveStory } from '@/hooks/useActiveStory';
 import { useOffline } from '@/hooks/useOffline';
 import { BriefStack } from '@/components/BriefStack';
-import { AvactuLogoTransparent } from '@/components/icons/AvactuLogoTransparent';
+import { AvactuLogo } from '@/components/ui/AvactuLogo';
 import { WifiOff } from 'lucide-react';
 
 function App() {
@@ -34,14 +34,14 @@ function App() {
         <div className="relative mb-2">
           {/* Glow layer violet */}
           <div
-            className="absolute inset-0 blur-2xl opacity-40"
+            className="absolute inset-0 blur-2xl opacity-30"
             style={{
               background: 'radial-gradient(circle, #6366f1 0%, transparent 60%)',
-              transform: 'scale(2.5)',
+              transform: 'scale(3)',
             }}
           />
-          {/* Logo SVG */}
-          <AvactuLogoTransparent className="relative w-20 h-20" />
+          {/* Logo SVG animé */}
+          <AvactuLogo size={80} className="relative" />
         </div>
 
         {/* Title */}
