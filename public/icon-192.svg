@@ -1,5 +1,95 @@
 <svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient for mesh lines -->
+    <linearGradient id="meshGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+
+    <!-- Gradient for A structure -->
+    <linearGradient id="aGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+
+    <!-- Glow filter for mesh -->
+    <filter id="meshGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Strong glow for A -->
+    <filter id="aGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Heart glow -->
+    <filter id="heartGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Dark background with rounded corners -->
   <rect width="192" height="192" rx="32" fill="#05070A"/>
-  <text x="96" y="115" font-family="system-ui, sans-serif" font-size="72" font-weight="bold" fill="#f8fafc" text-anchor="middle">A</text>
-  <circle cx="140" cy="52" r="16" fill="#f43f5e"/>
+
+  <!-- Sphere mesh -->
+  <g filter="url(#meshGlow)" stroke="url(#meshGradient)" fill="none">
+    <!-- Main circle -->
+    <ellipse cx="96" cy="96" rx="68" ry="68" stroke-width="0.6" opacity="0.3"/>
+
+    <!-- Longitude lines -->
+    <ellipse cx="96" cy="96" rx="68" ry="22" stroke-width="0.5" opacity="0.5"/>
+    <ellipse cx="96" cy="96" rx="68" ry="22" stroke-width="0.5" opacity="0.4" transform="rotate(30, 96, 96)"/>
+    <ellipse cx="96" cy="96" rx="68" ry="22" stroke-width="0.5" opacity="0.5" transform="rotate(60, 96, 96)"/>
+    <ellipse cx="96" cy="96" rx="68" ry="22" stroke-width="0.5" opacity="0.6" transform="rotate(90, 96, 96)"/>
+    <ellipse cx="96" cy="96" rx="68" ry="22" stroke-width="0.5" opacity="0.5" transform="rotate(120, 96, 96)"/>
+    <ellipse cx="96" cy="96" rx="68" ry="22" stroke-width="0.5" opacity="0.4" transform="rotate(150, 96, 96)"/>
+
+    <!-- Latitude lines -->
+    <ellipse cx="96" cy="50" rx="52" ry="15" stroke-width="0.4" opacity="0.3"/>
+    <ellipse cx="96" cy="72" rx="62" ry="18" stroke-width="0.4" opacity="0.4"/>
+    <ellipse cx="96" cy="96" rx="68" ry="22" stroke-width="0.5" opacity="0.5"/>
+    <ellipse cx="96" cy="120" rx="62" ry="18" stroke-width="0.4" opacity="0.4"/>
+    <ellipse cx="96" cy="142" rx="52" ry="15" stroke-width="0.4" opacity="0.3"/>
+
+    <!-- Mesh nodes -->
+    <circle cx="28" cy="96" r="1.5" fill="#22d3ee" opacity="0.6"/>
+    <circle cx="164" cy="96" r="1.5" fill="#22d3ee" opacity="0.6"/>
+    <circle cx="96" cy="28" r="1.5" fill="#22d3ee" opacity="0.5"/>
+    <circle cx="96" cy="164" r="1.5" fill="#22d3ee" opacity="0.5"/>
+  </g>
+
+  <!-- A structure -->
+  <g filter="url(#aGlow)">
+    <!-- Left leg -->
+    <line x1="96" y1="42" x2="51" y2="150" stroke="url(#aGradient)" stroke-width="2" stroke-linecap="round"/>
+    <!-- Right leg -->
+    <line x1="96" y1="42" x2="141" y2="150" stroke="url(#aGradient)" stroke-width="2" stroke-linecap="round"/>
+    <!-- Crossbar -->
+    <line x1="66" y1="108" x2="126" y2="108" stroke="url(#aGradient)" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Node points -->
+    <circle cx="96" cy="42" r="3" fill="#22d3ee"/>
+    <circle cx="51" cy="150" r="4" fill="#22d3ee"/>
+    <circle cx="141" cy="150" r="4" fill="#22d3ee"/>
+    <circle cx="66" cy="108" r="2.5" fill="#22d3ee"/>
+    <circle cx="126" cy="108" r="2.5" fill="#22d3ee"/>
+  </g>
+
+  <!-- Heart at apex -->
+  <g filter="url(#heartGlow)" transform="translate(96, 33) scale(0.5)">
+    <path d="M0 4 C -4 -2, -10 0, -10 6 C -10 12, 0 20, 0 20 C 0 20, 10 12, 10 6 C 10 0, 4 -2, 0 4 Z" fill="#f43f5e"/>
+  </g>
 </svg>
