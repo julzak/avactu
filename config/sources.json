@@ -26,8 +26,18 @@
       "category": "geopolitique"
     },
     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "name": "France 24",
+      "url": "https://www.france24.com/fr/rss",
+      "category": "geopolitique"
+    },
+    {
+      "name": "RFI",
+      "url": "https://www.rfi.fr/fr/rss",
+      "category": "geopolitique"
+    },
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "category": "geopolitique"
     }
   ]

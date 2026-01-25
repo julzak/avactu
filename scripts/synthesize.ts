@@ -102,7 +102,7 @@ FORMAT DE SORTIE (JSON strict, pas de markdown) :
   "location": {
     "lat": <latitude>,
     "lng": <longitude>,
-    "name": "Nom du lieu principal"
+    "name": "Nom du lieu principal (pour les villes françaises, ajouter ', France' : ex: 'Échirolles, France')"
   },
   "bullets": [
     "Point 1 : Le fait principal — qui, quoi, où (max 15 mots)",
