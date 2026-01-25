@@ -89,10 +89,11 @@ STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
 - Paragraphe 4 : ENJEUX — Conséquences économiques, stratégiques, et perspectives futures
 
 RÈGLES DE FRANÇAIS (TITRE ET BULLETS) :
-- Toujours utiliser les articles devant les noms de pays : LA Russie, LA France, LA Chine, LES États-Unis, LE Royaume-Uni, L'Ukraine, L'Iran
-- Toujours utiliser les articles devant les lieux : LE Groenland, LA Crimée, LE Moyen-Orient
-- Toujours utiliser les articles devant les groupes : LES dirigeants, LES analystes, LES forces
+- Toujours utiliser les articles devant les noms de pays : la Russie, la France, la Chine, les États-Unis, le Royaume-Uni, l'Ukraine, l'Iran
+- Toujours utiliser les articles devant les lieux : le Groenland, la Crimée, le Moyen-Orient
+- Toujours utiliser les articles devant les groupes : les dirigeants, les analystes, les forces
 - Forme correcte : "La Russie bombarde Kiev" PAS "Russie bombarde Kiev"
+- IMPORTANT : N'écris PAS les articles en majuscules (pas "LA Russie" mais "La Russie" ou "la Russie")
 
 FORMAT DE SORTIE (JSON strict, pas de markdown) :
 {

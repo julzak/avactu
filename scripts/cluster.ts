@@ -1,16 +1,19 @@
 /**
- * Clustering Script - Regroupe les articles par sujet similaire (algorithme local TF-IDF)
+ * Clustering Script - Regroupe les articles par sujet similaire
+ *
+ * Algorithme amélioré :
+ * - Extraction d'entités nommées (pays, villes, personnalités)
+ * - Matching cross-langue FR/EN
+ * - Filtre anti-sport/divertissement
+ * - TF-IDF + entités pour meilleure similarité
  *
  * Usage: npm run cluster
- *
- * Pas besoin d'API - clustering local ultra-rapide
  */
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
-// ES Module __dirname equivalent
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -51,32 +54,102 @@ interface ClusteredOutput {
 const RAW_ARTICLES_PATH = join(__dirname, '..', 'data', 'raw-articles.json');
 const CLUSTERED_PATH = join(__dirname, '..', 'data', 'clustered-articles.json');
 
-// Target: 4 géopo, 1 éco, 1 politique = 6 stories
 const TARGET_CLUSTERS = {
   geopolitique: 4,
   economie: 1,
   politique: 1,
 };
 
-// Similarity threshold for clustering
-const SIMILARITY_THRESHOLD = 0.25;
+// Mots-clés sport/divertissement à exclure
+const EXCLUDED_KEYWORDS = new Set([
+  // Sports
+  'football', 'soccer', 'cricket', 'rugby', 'tennis', 'basketball', 'golf',
+  'match', 'goal', 'scored', 'league', 'championship', 'tournament', 'cup',
+  'premier league', 'la liga', 'serie a', 'bundesliga', 'champions league',
+  'world cup', 'euro', 'olympic', 'olympics', 'athlete', 'player', 'coach',
+  'team', 'club', 'stadium', 'referee', 'penalty', 'offside', 'halftime',
+  'mbappe', 'mbappé', 'ronaldo', 'messi', 'haaland', 'real madrid', 'barcelona',
+  'manchester', 'liverpool', 'arsenal', 'chelsea', 'psg', 'bayern',
+  't20', 'icc', 'odi', 'test match', 'wicket', 'batsman', 'bowler',
+  // Divertissement
+  'celebrity', 'movie', 'film', 'actor', 'actress', 'singer', 'concert',
+  'album', 'grammy', 'oscar', 'emmy', 'netflix', 'disney', 'streaming',
+  'reality show', 'kardashian', 'taylor swift', 'beyonce',
+]);
 
-// French stop words to ignore
+// Entités géopolitiques importantes (pays, régions, organisations)
+const GEO_ENTITIES: Record<string, string[]> = {
+  'ukraine': ['ukraine', 'ukrainian', 'ukrainien', 'kiev', 'kyiv', 'kharkiv', 'zelensky', 'zelenskyy'],
+  'russia': ['russia', 'russian', 'russie', 'russe', 'moscow', 'moscou', 'kremlin', 'putin', 'poutine'],
+  'usa': ['united states', 'états-unis', 'etats-unis', 'usa', 'american', 'américain', 'washington', 'white house', 'maison blanche', 'trump', 'biden'],
+  'china': ['china', 'chinese', 'chine', 'chinois', 'beijing', 'pékin', 'xi jinping'],
+  'israel': ['israel', 'israeli', 'israël', 'israélien', 'tel aviv', 'jerusalem', 'netanyahu'],
+  'palestine': ['palestine', 'palestinian', 'palestinien', 'gaza', 'hamas', 'west bank', 'cisjordanie'],
+  'iran': ['iran', 'iranian', 'iranien', 'tehran', 'téhéran', 'khamenei'],
+  'syria': ['syria', 'syrian', 'syrie', 'syrien', 'damascus', 'damas', 'assad', 'sdf', 'kurde', 'kurdish'],
+  'france': ['france', 'french', 'français', 'paris', 'macron', 'élysée'],
+  'germany': ['germany', 'german', 'allemagne', 'allemand', 'berlin', 'scholz'],
+  'uk': ['united kingdom', 'royaume-uni', 'britain', 'british', 'britannique', 'london', 'londres', 'starmer', 'sunak'],
+  'eu': ['european union', 'union européenne', 'brussels', 'bruxelles', 'eu', 'ue'],
+  'nato': ['nato', 'otan', 'alliance atlantique'],
+  'un': ['united nations', 'nations unies', 'onu', 'un'],
+  'minneapolis': ['minneapolis', 'minnesota', 'border patrol', 'ice', 'immigration'],
+  'greenland': ['greenland', 'groenland', 'denmark', 'danemark'],
+  'panama': ['panama', 'canal'],
+  'taiwan': ['taiwan', 'taïwan', 'taipei'],
+  'north_korea': ['north korea', 'corée du nord', 'pyongyang', 'kim jong'],
+  'sudan': ['sudan', 'soudan', 'khartoum'],
+  'myanmar': ['myanmar', 'birmanie', 'burma'],
+  'algeria': ['algeria', 'algérie', 'alger', 'algiers'],
+  'iraq': ['iraq', 'irak', 'baghdad', 'bagdad'],
+};
+
+// Stop words FR + EN
 const STOP_WORDS = new Set([
   'le', 'la', 'les', 'un', 'une', 'des', 'du', 'de', 'et', 'en', 'au', 'aux',
   'à', 'ce', 'ces', 'cette', 'que', 'qui', 'quoi', 'dont', 'où', 'sur', 'sous',
-  'par', 'pour', 'avec', 'sans', 'dans', 'est', 'sont', 'a', 'ont', 'être',
-  'avoir', 'fait', 'faire', 'il', 'elle', 'ils', 'elles', 'nous', 'vous',
-  'son', 'sa', 'ses', 'leur', 'leurs', 'plus', 'moins', 'très', 'aussi',
+  'par', 'pour', 'avec', 'sans', 'dans', 'est', 'sont', 'ont', 'être', 'avoir',
   'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of',
   'with', 'by', 'from', 'is', 'are', 'was', 'were', 'be', 'been', 'being',
-  'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would', 'could', 'should',
-  'may', 'might', 'must', 'shall', 'can', 'this', 'that', 'these', 'those',
-  'it', 'its', 'as', 'after', 'before', 'when', 'where', 'how', 'why', 'what',
-  'which', 'who', 'whom', 'whose', 'if', 'then', 'else', 'so', 'than', 'too',
-  'very', 'just', 'only', 'also', 'not', 'no', 'yes', 'all', 'any', 'each',
-  'every', 'both', 'few', 'more', 'most', 'other', 'some', 'such', 'own',
+  'have', 'has', 'had', 'will', 'would', 'could', 'should', 'may', 'might',
+  'this', 'that', 'these', 'those', 'it', 'its', 'as', 'after', 'before',
+  'news', 'live', 'update', 'breaking', 'latest', 'new', 'nouveau', 'nouvelle',
 ]);
+
+/**
+ * Check if article is about sports/entertainment (should be excluded)
+ */
+function isSportOrEntertainment(text: string): boolean {
+  const lower = text.toLowerCase();
+  let matchCount = 0;
+
+  for (const keyword of EXCLUDED_KEYWORDS) {
+    if (lower.includes(keyword)) {
+      matchCount++;
+      if (matchCount >= 2) return true; // Need at least 2 matches to be sure
+    }
+  }
+  return false;
+}
+
+/**
+ * Extract geo-political entities from text
+ */
+function extractEntities(text: string): Set<string> {
+  const lower = text.toLowerCase();
+  const entities = new Set<string>();
+
+  for (const [entity, keywords] of Object.entries(GEO_ENTITIES)) {
+    for (const keyword of keywords) {
+      if (lower.includes(keyword)) {
+        entities.add(entity);
+        break;
+      }
+    }
+  }
+
+  return entities;
+}
 
 /**
  * Tokenize and clean text
@@ -85,17 +158,16 @@ function tokenize(text: string): string[] {
   return text
     .toLowerCase()
     .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '') // Remove accents
+    .replace(/[\u0300-\u036f]/g, '')
     .replace(/[^a-z0-9\s]/g, ' ')
     .split(/\s+/)
     .filter((word) => word.length > 2 && !STOP_WORDS.has(word));
 }
 
 /**
- * Build TF-IDF vectors for documents
+ * Build TF-IDF vectors
  */
 function buildTfIdf(documents: string[][]): Map<string, number>[] {
-  // Calculate document frequency for each term
   const docFreq = new Map<string, number>();
   const numDocs = documents.length;
 
@@ -106,7 +178,6 @@ function buildTfIdf(documents: string[][]): Map<string, number>[] {
     }
   }
 
-  // Build TF-IDF vector for each document
   return documents.map((doc) => {
     const termFreq = new Map<string, number>();
     for (const term of doc) {
@@ -125,7 +196,7 @@ function buildTfIdf(documents: string[][]): Map<string, number>[] {
 }
 
 /**
- * Calculate cosine similarity between two TF-IDF vectors
+ * Calculate cosine similarity
  */
 function cosineSimilarity(vec1: Map<string, number>, vec2: Map<string, number>): number {
   let dotProduct = 0;
@@ -148,56 +219,95 @@ function cosineSimilarity(vec1: Map<string, number>, vec2: Map<string, number>):
 }
 
 /**
- * Cluster articles using TF-IDF similarity
+ * Calculate entity-based similarity (Jaccard)
+ */
+function entitySimilarity(entities1: Set<string>, entities2: Set<string>): number {
+  if (entities1.size === 0 || entities2.size === 0) return 0;
+
+  const intersection = new Set([...entities1].filter(x => entities2.has(x)));
+  const union = new Set([...entities1, ...entities2]);
+
+  return intersection.size / union.size;
+}
+
+/**
+ * Combined similarity score
+ */
+function combinedSimilarity(
+  tfidf1: Map<string, number>,
+  tfidf2: Map<string, number>,
+  entities1: Set<string>,
+  entities2: Set<string>
+): number {
+  const textSim = cosineSimilarity(tfidf1, tfidf2);
+  const entSim = entitySimilarity(entities1, entities2);
+
+  // If entities match strongly, boost similarity
+  if (entSim >= 0.5) {
+    return Math.max(textSim, entSim * 0.8);
+  }
+
+  // Weighted combination
+  return textSim * 0.6 + entSim * 0.4;
+}
+
+/**
+ * Cluster articles
  */
 function clusterArticles(articles: RawArticle[]): ArticleCluster[] {
-  // Tokenize all articles
-  const documents = articles.map((a) => tokenize(`${a.title} ${a.description}`));
+  // Filter out sports/entertainment
+  const filtered = articles.filter(a => {
+    const text = `${a.title} ${a.description}`;
+    const exclude = isSportOrEntertainment(text);
+    if (exclude) {
+      console.log(`   ⚠ Exclu (sport/divertissement): ${a.title.slice(0, 50)}...`);
+    }
+    return !exclude;
+  });
 
-  // Build TF-IDF vectors
+  console.log(`   → ${articles.length - filtered.length} articles sport/divertissement exclus`);
+
+  // Prepare data
+  const documents = filtered.map((a) => tokenize(`${a.title} ${a.description}`));
+  const entities = filtered.map((a) => extractEntities(`${a.title} ${a.description}`));
   const vectors = buildTfIdf(documents);
 
-  // Greedy clustering
+  // Greedy clustering with lower threshold
+  const SIMILARITY_THRESHOLD = 0.20; // Lowered from 0.25
   const clusters: ArticleCluster[] = [];
   const assigned = new Set<number>();
 
-  for (let i = 0; i < articles.length; i++) {
+  for (let i = 0; i < filtered.length; i++) {
     if (assigned.has(i)) continue;
 
-    // Start a new cluster with this article
-    const clusterArticles = [articles[i]];
+    const clusterArticles = [filtered[i]];
     assigned.add(i);
 
-    // Find similar articles
-    for (let j = i + 1; j < articles.length; j++) {
+    for (let j = i + 1; j < filtered.length; j++) {
       if (assigned.has(j)) continue;
 
-      const similarity = cosineSimilarity(vectors[i], vectors[j]);
+      const similarity = combinedSimilarity(vectors[i], vectors[j], entities[i], entities[j]);
+
       if (similarity >= SIMILARITY_THRESHOLD) {
-        clusterArticles.push(articles[j]);
+        clusterArticles.push(filtered[j]);
         assigned.add(j);
       }
     }
 
-    // Create cluster
     const mainArticle = clusterArticles[0];
     const uniqueSources = new Set(clusterArticles.map((a) => a.source));
 
-    // Calculate importance based on:
-    // - Number of articles (more = more important)
-    // - Number of unique sources (more = more important)
-    // - Recency (newer = more important)
+    // Calculate importance
     const numArticles = clusterArticles.length;
     const numSources = uniqueSources.size;
-    const recency = Math.max(
-      ...clusterArticles.map((a) => new Date(a.publishedAt).getTime())
-    );
+    const recency = Math.max(...clusterArticles.map((a) => new Date(a.publishedAt).getTime()));
     const hoursAgo = (Date.now() - recency) / (1000 * 60 * 60);
 
-    let importance = Math.min(10, numArticles * 2 + numSources * 2);
+    // Higher weight for multi-source clusters
+    let importance = numArticles * 1.5 + numSources * 3;
     if (hoursAgo < 6) importance += 2;
     else if (hoursAgo < 12) importance += 1;
-    importance = Math.min(10, Math.max(1, importance));
+    importance = Math.min(10, Math.max(1, Math.round(importance)));
 
     clusters.push({
       id: `cluster-${clusters.length + 1}`,
@@ -212,125 +322,124 @@ function clusterArticles(articles: RawArticle[]): ArticleCluster[] {
 }
 
 /**
- * Select best clusters based on category ratio and importance
+ * Select best clusters
  */
 function selectBestClusters(clusters: ArticleCluster[]): ArticleCluster[] {
   const selected: ArticleCluster[] = [];
 
-  // Sort by importance within each category
+  // Prioritize multi-source clusters
+  const multiSource = clusters
+    .filter(c => new Set(c.articles.map(a => a.source)).size > 1)
+    .sort((a, b) => b.importance - a.importance);
+
+  const singleSource = clusters
+    .filter(c => new Set(c.articles.map(a => a.source)).size === 1)
+    .sort((a, b) => b.importance - a.importance);
+
+  // Sort by category and importance
   const byCategory = {
-    geopolitique: clusters
-      .filter((c) => c.category === 'geopolitique')
-      .sort((a, b) => b.importance - a.importance),
-    economie: clusters
-      .filter((c) => c.category === 'economie')
-      .sort((a, b) => b.importance - a.importance),
-    politique: clusters
-      .filter((c) => c.category === 'politique')
-      .sort((a, b) => b.importance - a.importance),
+    geopolitique: [...multiSource, ...singleSource].filter((c) => c.category === 'geopolitique'),
+    economie: [...multiSource, ...singleSource].filter((c) => c.category === 'economie'),
+    politique: [...multiSource, ...singleSource].filter((c) => c.category === 'politique'),
   };
 
-  // Select based on target ratio
   for (const [category, target] of Object.entries(TARGET_CLUSTERS)) {
     const available = byCategory[category as keyof typeof byCategory];
     selected.push(...available.slice(0, target));
   }
 
-  // If we don't have enough in a category, fill from others
+  // Fill remaining slots
   const totalTarget = Object.values(TARGET_CLUSTERS).reduce((a, b) => a + b, 0);
   if (selected.length < totalTarget) {
-    const remaining = clusters
+    const remaining = [...multiSource, ...singleSource]
       .filter((c) => !selected.includes(c))
-      .sort((a, b) => b.importance - a.importance);
-    selected.push(...remaining.slice(0, totalTarget - selected.length));
+      .slice(0, totalTarget - selected.length);
+    selected.push(...remaining);
   }
 
-  // Sort final selection by importance
   return selected.sort((a, b) => b.importance - a.importance);
 }
 
 /**
- * Main clustering function
+ * Main
  */
 function cluster(): void {
-  console.log('🔗 AVACTU - Script de clustering (TF-IDF local)');
-  console.log('================================================');
+  console.log('🔗 AVACTU - Clustering amélioré (entités + TF-IDF)');
+  console.log('===================================================');
   console.log(`📅 Date: ${new Date().toLocaleString('fr-FR')}\n`);
 
-  // Load raw articles
   if (!existsSync(RAW_ARTICLES_PATH)) {
     console.error('❌ Erreur: raw-articles.json non trouvé');
-    console.error("   Exécutez d'abord: npm run curate");
     process.exit(1);
   }
 
   const rawData: RawArticlesInput = JSON.parse(readFileSync(RAW_ARTICLES_PATH, 'utf-8'));
   console.log(`📚 ${rawData.articleCount} articles bruts chargés\n`);
 
-  // Cluster articles
-  console.log('🤖 Clustering TF-IDF en cours...');
+  console.log('🔍 Filtrage et clustering...');
   const startTime = Date.now();
   const allClusters = clusterArticles(rawData.articles);
   const duration = Date.now() - startTime;
-  console.log(`   → ${allClusters.length} clusters identifiés en ${duration}ms\n`);
+  console.log(`\n   → ${allClusters.length} clusters en ${duration}ms\n`);
 
-  // Log clusters with multiple articles
-  console.log('📊 Clusters multi-sources :');
-  const multiSource = allClusters.filter((c) => c.articles.length > 1);
-  for (const cluster of multiSource.slice(0, 10)) {
+  // Show multi-source clusters
+  const multiSource = allClusters.filter((c) => {
+    const sources = new Set(c.articles.map((a) => a.source));
+    return sources.size > 1;
+  });
+
+  console.log(`📊 ${multiSource.length} clusters multi-sources :`);
+  for (const cluster of multiSource) {
     const sources = [...new Set(cluster.articles.map((a) => a.source))];
-    console.log(
-      `   [${cluster.category.slice(0, 4).toUpperCase()}] (${cluster.importance}/10) ${cluster.topic.slice(0, 50)}...`
-    );
-    console.log(`      → ${cluster.articles.length} articles: ${sources.join(', ')}`);
+    console.log(`   [${cluster.category.slice(0, 4).toUpperCase()}] ${cluster.topic.slice(0, 50)}...`);
+    console.log(`      → ${cluster.articles.length} articles: ${sources.join(' + ')}`);
   }
 
-  // Select best clusters
   const selectedClusters = selectBestClusters(allClusters);
-  console.log(`\n🎯 ${selectedClusters.length} clusters sélectionnés pour synthèse`);
+  console.log(`\n🎯 ${selectedClusters.length} clusters sélectionnés`);
 
-  // Prepare output
+  for (const cluster of selectedClusters) {
+    const sources = [...new Set(cluster.articles.map((a) => a.source))];
+    const multi = sources.length > 1 ? '✓' : ' ';
+    console.log(`   ${multi} [${cluster.category.slice(0, 4)}] (${cluster.importance}/10) ${cluster.topic.slice(0, 45)}...`);
+  }
+
   const output: ClusteredOutput = {
     generatedAt: new Date().toISOString(),
     clusterCount: selectedClusters.length,
     clusters: selectedClusters,
   };
 
-  // Ensure data directory exists
   const dataDir = dirname(CLUSTERED_PATH);
   if (!existsSync(dataDir)) {
     mkdirSync(dataDir, { recursive: true });
   }
 
-  // Write output
   writeFileSync(CLUSTERED_PATH, JSON.stringify(output, null, 2), 'utf-8');
 
   // Summary
-  console.log('\n================================================');
+  console.log('\n===================================================');
   console.log('📊 RÉSUMÉ');
-  console.log('================================================');
+  console.log('===================================================');
 
-  const byCategory = selectedClusters.reduce(
-    (acc, c) => {
-      acc[c.category] = (acc[c.category] || 0) + 1;
-      return acc;
-    },
-    {} as Record<string, number>
-  );
+  const byCategory = selectedClusters.reduce((acc, c) => {
+    acc[c.category] = (acc[c.category] || 0) + 1;
+    return acc;
+  }, {} as Record<string, number>);
 
-  console.log(`Clusters sélectionnés: ${selectedClusters.length}`);
-  console.log(`\nPar catégorie:`);
+  console.log(`Par catégorie:`);
   console.log(`  • Géopolitique: ${byCategory.geopolitique || 0}`);
   console.log(`  • Économie: ${byCategory.economie || 0}`);
   console.log(`  • Politique: ${byCategory.politique || 0}`);
 
   const totalArticles = selectedClusters.reduce((sum, c) => sum + c.articles.length, 0);
-  const multiSourceClusters = selectedClusters.filter((c) => c.articles.length > 1).length;
-  console.log(`\nTotal articles dans les clusters: ${totalArticles}`);
-  console.log(`Clusters multi-sources: ${multiSourceClusters}/${selectedClusters.length}`);
+  const multiSourceCount = selectedClusters.filter((c) =>
+    new Set(c.articles.map(a => a.source)).size > 1
+  ).length;
 
-  console.log(`\n✅ Sauvegardé dans: ${CLUSTERED_PATH}`);
+  console.log(`\nArticles utilisés: ${totalArticles}`);
+  console.log(`Clusters multi-sources: ${multiSourceCount}/${selectedClusters.length}`);
+  console.log(`\n✅ Sauvegardé: ${CLUSTERED_PATH}`);
 }
 
-// Run
 cluster();
