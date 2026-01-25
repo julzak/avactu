@@ -1,14 +1,11 @@
 /**
- * Clustering Script - Regroupe les articles par sujet similaire via Claude
+ * Clustering Script - Regroupe les articles par sujet similaire (algorithme local TF-IDF)
  *
  * Usage: npm run cluster
  *
- * Prérequis:
- *   - ANTHROPIC_API_KEY dans les variables d'environnement
- *   - data/raw-articles.json généré par npm run curate
+ * Pas besoin d'API - clustering local ultra-rapide
  */
 
-import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -40,7 +37,7 @@ interface ArticleCluster {
   id: string;
   topic: string;
   category: 'geopolitique' | 'economie' | 'politique';
-  importance: number; // 1-10
+  importance: number;
   articles: RawArticle[];
 }
 
@@ -61,108 +58,157 @@ const TARGET_CLUSTERS = {
   politique: 1,
 };
 
-const SYSTEM_PROMPT = `Tu es un éditeur de presse expérimenté. Tu dois analyser une liste d'articles et les regrouper par SUJET/ÉVÉNEMENT similaire.
+// Similarity threshold for clustering
+const SIMILARITY_THRESHOLD = 0.25;
 
-OBJECTIF :
-- Identifier les articles qui parlent du MÊME événement ou sujet
-- Créer des clusters cohérents (2-5 articles par cluster idéalement)
-- Évaluer l'importance de chaque cluster (1-10)
-
-RÈGLES :
-1. Deux articles sur "bombardements en Ukraine" = même cluster
-2. Un article sur "Ukraine" et un sur "Gaza" = clusters différents
-3. Garde les articles isolés en cluster solo si pas de match
-4. L'importance dépend de : impact mondial, actualité chaude, enjeux économiques
-
-FORMAT DE SORTIE (JSON strict) :
-{
-  "clusters": [
-    {
-      "topic": "Description courte du sujet (10-15 mots max)",
-      "category": "geopolitique" | "economie" | "politique",
-      "importance": 8,
-      "articleIds": ["id1", "id2", "id3"]
-    }
-  ]
-}
-
-IMPORTANT : Réponds UNIQUEMENT avec le JSON, sans texte avant ou après.`;
+// French stop words to ignore
+const STOP_WORDS = new Set([
+  'le', 'la', 'les', 'un', 'une', 'des', 'du', 'de', 'et', 'en', 'au', 'aux',
+  'à', 'ce', 'ces', 'cette', 'que', 'qui', 'quoi', 'dont', 'où', 'sur', 'sous',
+  'par', 'pour', 'avec', 'sans', 'dans', 'est', 'sont', 'a', 'ont', 'être',
+  'avoir', 'fait', 'faire', 'il', 'elle', 'ils', 'elles', 'nous', 'vous',
+  'son', 'sa', 'ses', 'leur', 'leurs', 'plus', 'moins', 'très', 'aussi',
+  'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of',
+  'with', 'by', 'from', 'is', 'are', 'was', 'were', 'be', 'been', 'being',
+  'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would', 'could', 'should',
+  'may', 'might', 'must', 'shall', 'can', 'this', 'that', 'these', 'those',
+  'it', 'its', 'as', 'after', 'before', 'when', 'where', 'how', 'why', 'what',
+  'which', 'who', 'whom', 'whose', 'if', 'then', 'else', 'so', 'than', 'too',
+  'very', 'just', 'only', 'also', 'not', 'no', 'yes', 'all', 'any', 'each',
+  'every', 'both', 'few', 'more', 'most', 'other', 'some', 'such', 'own',
+]);
 
 /**
- * Cluster articles using Claude
+ * Tokenize and clean text
  */
-async function clusterArticles(
-  client: Anthropic,
-  articles: RawArticle[]
-): Promise<ArticleCluster[]> {
-  // Prepare articles summary for Claude
-  const articlesSummary = articles.map((a, index) => ({
-    id: a.id,
-    index,
-    title: a.title,
-    description: a.description.slice(0, 200),
-    source: a.source,
-    category: a.category,
-  }));
+function tokenize(text: string): string[] {
+  return text
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // Remove accents
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .split(/\s+/)
+    .filter((word) => word.length > 2 && !STOP_WORDS.has(word));
+}
 
-  const userPrompt = `Analyse ces ${articles.length} articles et regroupe-les par sujet similaire.
+/**
+ * Build TF-IDF vectors for documents
+ */
+function buildTfIdf(documents: string[][]): Map<string, number>[] {
+  // Calculate document frequency for each term
+  const docFreq = new Map<string, number>();
+  const numDocs = documents.length;
 
-ARTICLES :
-${JSON.stringify(articlesSummary, null, 2)}
-
-Crée des clusters en regroupant les articles qui traitent du même événement ou sujet.`;
-
-  try {
-    const response = await client.messages.create({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 4096,
-      messages: [{ role: 'user', content: userPrompt }],
-      system: SYSTEM_PROMPT,
-    });
-
-    const content = response.content[0];
-    if (content.type !== 'text') {
-      throw new Error('Unexpected response type');
+  for (const doc of documents) {
+    const uniqueTerms = new Set(doc);
+    for (const term of uniqueTerms) {
+      docFreq.set(term, (docFreq.get(term) || 0) + 1);
     }
-
-    // Clean markdown code fences if present
-    let jsonText = content.text.trim();
-    if (jsonText.startsWith('```json')) {
-      jsonText = jsonText.slice(7);
-    } else if (jsonText.startsWith('```')) {
-      jsonText = jsonText.slice(3);
-    }
-    if (jsonText.endsWith('```')) {
-      jsonText = jsonText.slice(0, -3);
-    }
-    jsonText = jsonText.trim();
-
-    const result = JSON.parse(jsonText);
-
-    // Map article IDs back to full articles
-    const articlesById = new Map(articles.map((a) => [a.id, a]));
-
-    const clusters: ArticleCluster[] = result.clusters.map(
-      (c: { topic: string; category: string; importance: number; articleIds: string[] }, index: number) => {
-        const clusterArticles = c.articleIds
-          .map((id: string) => articlesById.get(id))
-          .filter((a): a is RawArticle => a !== undefined);
-
-        return {
-          id: `cluster-${index + 1}`,
-          topic: c.topic,
-          category: c.category as 'geopolitique' | 'economie' | 'politique',
-          importance: c.importance,
-          articles: clusterArticles,
-        };
-      }
-    );
-
-    return clusters;
-  } catch (error) {
-    console.error('❌ Erreur clustering:', error instanceof Error ? error.message : error);
-    throw error;
   }
+
+  // Build TF-IDF vector for each document
+  return documents.map((doc) => {
+    const termFreq = new Map<string, number>();
+    for (const term of doc) {
+      termFreq.set(term, (termFreq.get(term) || 0) + 1);
+    }
+
+    const tfidf = new Map<string, number>();
+    for (const [term, tf] of termFreq) {
+      const df = docFreq.get(term) || 1;
+      const idf = Math.log(numDocs / df);
+      tfidf.set(term, tf * idf);
+    }
+
+    return tfidf;
+  });
+}
+
+/**
+ * Calculate cosine similarity between two TF-IDF vectors
+ */
+function cosineSimilarity(vec1: Map<string, number>, vec2: Map<string, number>): number {
+  let dotProduct = 0;
+  let norm1 = 0;
+  let norm2 = 0;
+
+  for (const [term, weight] of vec1) {
+    norm1 += weight * weight;
+    if (vec2.has(term)) {
+      dotProduct += weight * vec2.get(term)!;
+    }
+  }
+
+  for (const weight of vec2.values()) {
+    norm2 += weight * weight;
+  }
+
+  if (norm1 === 0 || norm2 === 0) return 0;
+  return dotProduct / (Math.sqrt(norm1) * Math.sqrt(norm2));
+}
+
+/**
+ * Cluster articles using TF-IDF similarity
+ */
+function clusterArticles(articles: RawArticle[]): ArticleCluster[] {
+  // Tokenize all articles
+  const documents = articles.map((a) => tokenize(`${a.title} ${a.description}`));
+
+  // Build TF-IDF vectors
+  const vectors = buildTfIdf(documents);
+
+  // Greedy clustering
+  const clusters: ArticleCluster[] = [];
+  const assigned = new Set<number>();
+
+  for (let i = 0; i < articles.length; i++) {
+    if (assigned.has(i)) continue;
+
+    // Start a new cluster with this article
+    const clusterArticles = [articles[i]];
+    assigned.add(i);
+
+    // Find similar articles
+    for (let j = i + 1; j < articles.length; j++) {
+      if (assigned.has(j)) continue;
+
+      const similarity = cosineSimilarity(vectors[i], vectors[j]);
+      if (similarity >= SIMILARITY_THRESHOLD) {
+        clusterArticles.push(articles[j]);
+        assigned.add(j);
+      }
+    }
+
+    // Create cluster
+    const mainArticle = clusterArticles[0];
+    const uniqueSources = new Set(clusterArticles.map((a) => a.source));
+
+    // Calculate importance based on:
+    // - Number of articles (more = more important)
+    // - Number of unique sources (more = more important)
+    // - Recency (newer = more important)
+    const numArticles = clusterArticles.length;
+    const numSources = uniqueSources.size;
+    const recency = Math.max(
+      ...clusterArticles.map((a) => new Date(a.publishedAt).getTime())
+    );
+    const hoursAgo = (Date.now() - recency) / (1000 * 60 * 60);
+
+    let importance = Math.min(10, numArticles * 2 + numSources * 2);
+    if (hoursAgo < 6) importance += 2;
+    else if (hoursAgo < 12) importance += 1;
+    importance = Math.min(10, Math.max(1, importance));
+
+    clusters.push({
+      id: `cluster-${clusters.length + 1}`,
+      topic: mainArticle.title.slice(0, 80),
+      category: mainArticle.category,
+      importance,
+      articles: clusterArticles,
+    });
+  }
+
+  return clusters;
 }
 
 /**
@@ -190,6 +236,15 @@ function selectBestClusters(clusters: ArticleCluster[]): ArticleCluster[] {
     selected.push(...available.slice(0, target));
   }
 
+  // If we don't have enough in a category, fill from others
+  const totalTarget = Object.values(TARGET_CLUSTERS).reduce((a, b) => a + b, 0);
+  if (selected.length < totalTarget) {
+    const remaining = clusters
+      .filter((c) => !selected.includes(c))
+      .sort((a, b) => b.importance - a.importance);
+    selected.push(...remaining.slice(0, totalTarget - selected.length));
+  }
+
   // Sort final selection by importance
   return selected.sort((a, b) => b.importance - a.importance);
 }
@@ -197,16 +252,10 @@ function selectBestClusters(clusters: ArticleCluster[]): ArticleCluster[] {
 /**
  * Main clustering function
  */
-async function cluster(): Promise<void> {
-  console.log('🔗 AVACTU - Script de clustering');
-  console.log('=================================');
+function cluster(): void {
+  console.log('🔗 AVACTU - Script de clustering (TF-IDF local)');
+  console.log('================================================');
   console.log(`📅 Date: ${new Date().toLocaleString('fr-FR')}\n`);
-
-  // Check API key
-  if (!process.env.ANTHROPIC_API_KEY) {
-    console.error('❌ Erreur: ANTHROPIC_API_KEY non définie');
-    process.exit(1);
-  }
 
   // Load raw articles
   if (!existsSync(RAW_ARTICLES_PATH)) {
@@ -218,21 +267,22 @@ async function cluster(): Promise<void> {
   const rawData: RawArticlesInput = JSON.parse(readFileSync(RAW_ARTICLES_PATH, 'utf-8'));
   console.log(`📚 ${rawData.articleCount} articles bruts chargés\n`);
 
-  // Initialize Anthropic client
-  const client = new Anthropic();
-
   // Cluster articles
-  console.log('🤖 Analyse des articles par Claude...');
-  const allClusters = await clusterArticles(client, rawData.articles);
-  console.log(`   → ${allClusters.length} clusters identifiés\n`);
+  console.log('🤖 Clustering TF-IDF en cours...');
+  const startTime = Date.now();
+  const allClusters = clusterArticles(rawData.articles);
+  const duration = Date.now() - startTime;
+  console.log(`   → ${allClusters.length} clusters identifiés en ${duration}ms\n`);
 
-  // Log all clusters
-  console.log('📊 Tous les clusters :');
-  for (const cluster of allClusters) {
+  // Log clusters with multiple articles
+  console.log('📊 Clusters multi-sources :');
+  const multiSource = allClusters.filter((c) => c.articles.length > 1);
+  for (const cluster of multiSource.slice(0, 10)) {
+    const sources = [...new Set(cluster.articles.map((a) => a.source))];
     console.log(
-      `   [${cluster.category.slice(0, 4).toUpperCase()}] (${cluster.importance}/10) ${cluster.topic}`
+      `   [${cluster.category.slice(0, 4).toUpperCase()}] (${cluster.importance}/10) ${cluster.topic.slice(0, 50)}...`
     );
-    console.log(`      → ${cluster.articles.length} articles: ${cluster.articles.map((a) => a.source).join(', ')}`);
+    console.log(`      → ${cluster.articles.length} articles: ${sources.join(', ')}`);
   }
 
   // Select best clusters
@@ -256,9 +306,9 @@ async function cluster(): Promise<void> {
   writeFileSync(CLUSTERED_PATH, JSON.stringify(output, null, 2), 'utf-8');
 
   // Summary
-  console.log('\n=================================');
+  console.log('\n================================================');
   console.log('📊 RÉSUMÉ');
-  console.log('=================================');
+  console.log('================================================');
 
   const byCategory = selectedClusters.reduce(
     (acc, c) => {
@@ -275,13 +325,12 @@ async function cluster(): Promise<void> {
   console.log(`  • Politique: ${byCategory.politique || 0}`);
 
   const totalArticles = selectedClusters.reduce((sum, c) => sum + c.articles.length, 0);
+  const multiSourceClusters = selectedClusters.filter((c) => c.articles.length > 1).length;
   console.log(`\nTotal articles dans les clusters: ${totalArticles}`);
+  console.log(`Clusters multi-sources: ${multiSourceClusters}/${selectedClusters.length}`);
 
   console.log(`\n✅ Sauvegardé dans: ${CLUSTERED_PATH}`);
 }
 
 // Run
-cluster().catch((error) => {
-  console.error('❌ Erreur fatale:', error);
-  process.exit(1);
-});
+cluster();
