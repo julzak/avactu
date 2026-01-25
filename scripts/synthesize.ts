@@ -1,11 +1,11 @@
 /**
- * Synthesis Script - Génère les stories via Claude API
+ * Synthesis Script - Génère les stories multi-sources via Claude API
  *
  * Usage: npm run synthesize
  *
  * Prérequis:
  *   - ANTHROPIC_API_KEY dans les variables d'environnement
- *   - data/raw-articles.json généré par npm run curate
+ *   - data/clustered-articles.json généré par npm run cluster
  */
 
 import Anthropic from '@anthropic-ai/sdk';
@@ -30,10 +30,18 @@ interface RawArticle {
   fetchedAt: string;
 }
 
-interface RawArticlesInput {
-  generatedAt: string;
-  articleCount: number;
+interface ArticleCluster {
+  id: string;
+  topic: string;
+  category: 'geopolitique' | 'economie' | 'politique';
+  importance: number;
   articles: RawArticle[];
+}
+
+interface ClusteredInput {
+  generatedAt: string;
+  clusterCount: number;
+  clusters: ArticleCluster[];
 }
 
 interface Location {
@@ -60,124 +68,87 @@ interface Edition {
 }
 
 // Constants
-const RAW_ARTICLES_PATH = join(__dirname, '..', 'data', 'raw-articles.json');
+const CLUSTERED_PATH = join(__dirname, '..', 'data', 'clustered-articles.json');
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
 
-// Ratio de contenu selon CLAUDE.md
-const CATEGORY_RATIO = {
-  geopolitique: 4, // ~70%
-  economie: 1,     // ~20%
-  politique: 1,    // ~10%
-} as const;
+// System prompt pour synthèse multi-sources
+const SYSTEM_PROMPT = `Tu es un analyste géopolitique senior. Tu reçois plusieurs articles de presse sur un même sujet provenant de sources différentes.
 
-const MAX_STORIES = 6;
+Ta mission : produire UNE synthèse qui croise ces sources de manière neutre et analytique.
 
-// System prompt pour Claude
-const SYSTEM_PROMPT = `Tu es un analyste géopolitique senior au Quai d'Orsay. Tu rédiges des notes de synthèse pour une lectrice de 16 ans à haut potentiel intellectuel.
+RÈGLES DE NEUTRALITÉ ABSOLUE :
+1. Cite au moins 2-3 sources différentes quand disponibles
+2. Dans les bullets, présente les FAITS uniquement (pas d'opinion, pas de jugement)
+3. Si les sources se contredisent, mentionne-le : "Selon X... tandis que Y affirme..."
+4. Ne prends JAMAIS parti pour un acteur contre un autre
 
-RÈGLES ABSOLUES :
-1. Ne simplifie JAMAIS les concepts (Realpolitik, soft power, balance commerciale, etc.) — clarifie leur rôle dans le contexte
-2. Présente TOUJOURS les perspectives des différents acteurs — jamais un angle unique
-3. Zéro sensationnalisme, zéro jugement moral, zéro opinion personnelle
-4. Identifie TOUJOURS l'enjeu économique sous-jacent, même pour un conflit territorial
-5. Contextualise brièvement l'historique si nécessaire à la compréhension
+STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
+- Paragraphe 1 : LES FAITS — Ce qui s'est passé, quand, où, qui est impliqué (factuel, indiscutable)
+- Paragraphe 2 : POSITION A — Comment l'acteur principal justifie son action, ses arguments, sa logique
+- Paragraphe 3 : POSITION B — Comment l'adversaire/opposant/critique perçoit la situation, ses contre-arguments
+- Paragraphe 4 : ENJEUX — Conséquences économiques, stratégiques, et perspectives futures
 
 RÈGLES DE FRANÇAIS (TITRE ET BULLETS) :
 - Toujours utiliser les articles devant les noms de pays : LA Russie, LA France, LA Chine, LES États-Unis, LE Royaume-Uni, L'Ukraine, L'Iran
-- Toujours utiliser les articles devant les lieux géographiques : LE Groenland, LA Crimée, LE Moyen-Orient, LA Mer de Chine, LE Détroit de Taïwan
-- Toujours utiliser les articles devant les groupes de personnes : LES influenceurs, LES médecins, LES particuliers
-- Toujours utiliser les articles devant les concepts : L'usage, LA stratégie, LE contrôle, LA domination
+- Toujours utiliser les articles devant les lieux : LE Groenland, LA Crimée, LE Moyen-Orient
+- Toujours utiliser les articles devant les groupes : LES dirigeants, LES analystes, LES forces
 - Forme correcte : "La Russie bombarde Kiev" PAS "Russie bombarde Kiev"
-- Forme correcte : "Les médecins alertent" PAS "Médecins alertent"
-- Forme correcte : "L'usage de la force" PAS "Usage de la force"
 
 FORMAT DE SORTIE (JSON strict, pas de markdown) :
 {
-  "title": "Titre factuel et accrocheur avec articles corrects (max 60 caractères)",
+  "title": "Titre factuel avec articles corrects (max 60 caractères)",
   "category": "geopolitique" | "economie" | "politique",
   "location": {
-    "lat": <latitude du lieu clé>,
-    "lng": <longitude du lieu clé>,
-    "name": "Nom du lieu (ville, région, détroit, etc.)"
+    "lat": <latitude>,
+    "lng": <longitude>,
+    "name": "Nom du lieu principal"
   },
   "bullets": [
-    "Point 1 : Qui fait quoi — le fait brut (max 15 mots)",
-    "Point 2 : Pourquoi maintenant — le déclencheur (max 15 mots)",
-    "Point 3 : Position de l'acteur A (max 15 mots)",
-    "Point 4 : Position de l'acteur B ou adversaire (max 15 mots)",
-    "Point 5 : L'enjeu économique ou stratégique (max 15 mots)"
+    "Point 1 : Le fait principal — qui, quoi, où (max 15 mots)",
+    "Point 2 : Le déclencheur — pourquoi maintenant (max 15 mots)",
+    "Point 3 : Position/réaction de l'acteur A (max 15 mots)",
+    "Point 4 : Position/réaction de l'acteur B ou opposant (max 15 mots)",
+    "Point 5 : L'enjeu économique ou stratégique clé (max 15 mots)"
   ],
-  "execSummary": "Analyse structurée de 200-250 mots : (1) Contexte historique en 2 phrases max, (2) Situation actuelle factuelle, (3) Perspectives divergentes des acteurs, (4) Conséquences possibles et enjeux futurs."
+  "execSummary": "4 paragraphes structurés (250-300 mots total) : Faits | Position A | Position B | Enjeux"
 }
 
 IMPORTANT : Réponds UNIQUEMENT avec le JSON, sans texte avant ou après.`;
 
 /**
- * Select articles based on category ratio
- */
-function selectArticles(articles: RawArticle[]): RawArticle[] {
-  const selected: RawArticle[] = [];
-  const byCategory = {
-    geopolitique: articles.filter((a) => a.category === 'geopolitique'),
-    economie: articles.filter((a) => a.category === 'economie'),
-    politique: articles.filter((a) => a.category === 'politique'),
-  };
-
-  // Select based on ratio
-  const totalRatio = CATEGORY_RATIO.geopolitique + CATEGORY_RATIO.economie + CATEGORY_RATIO.politique;
-
-  for (const [category, ratio] of Object.entries(CATEGORY_RATIO)) {
-    const count = Math.round((ratio / totalRatio) * MAX_STORIES);
-    const categoryArticles = byCategory[category as keyof typeof byCategory];
-    selected.push(...categoryArticles.slice(0, count));
-  }
-
-  // Trim to max
-  return selected.slice(0, MAX_STORIES);
-}
-
-/**
- * Group related articles (same topic/event)
- */
-function groupRelatedArticles(articles: RawArticle[]): RawArticle[][] {
-  // Simple grouping: each article is its own group for now
-  // Could be enhanced with NLP/embedding similarity
-  return articles.map((article) => [article]);
-}
-
-/**
- * Synthesize a single story from article group
+ * Synthesize a story from a cluster of articles
  */
 async function synthesizeStory(
   client: Anthropic,
-  articleGroup: RawArticle[],
+  cluster: ArticleCluster,
   storyIndex: number
 ): Promise<Story | null> {
-  const mainArticle = articleGroup[0];
-  const allSources = [...new Set(articleGroup.map((a) => a.source))];
+  // Build detailed prompt with all articles
+  const articlesDetail = cluster.articles
+    .map(
+      (a, i) => `
+ARTICLE ${i + 1} (${a.source}) :
+Titre: ${a.title}
+Description: ${a.description}
+URL: ${a.url}
+`
+    )
+    .join('\n---\n');
 
-  const userPrompt = `Synthétise cette actualité en une story pour l'application Avactu.
+  const userPrompt = `Synthétise ces ${cluster.articles.length} articles sur le sujet "${cluster.topic}" en UNE story pour Avactu.
 
-ARTICLE PRINCIPAL :
-Titre: ${mainArticle.title}
-Source: ${mainArticle.source}
-Description: ${mainArticle.description}
-URL: ${mainArticle.url}
+SOURCES DISPONIBLES :
+${[...new Set(cluster.articles.map((a) => a.source))].join(', ')}
 
-${articleGroup.length > 1 ? `ARTICLES CONNEXES :\n${articleGroup.slice(1).map((a) => `- ${a.title} (${a.source})`).join('\n')}` : ''}
+${articlesDetail}
 
-Génère la story au format JSON demandé.`;
+Génère la story au format JSON demandé. Assure-toi de croiser les perspectives des différentes sources.`;
 
   try {
     const response = await client.messages.create({
       model: 'claude-sonnet-4-20250514',
-      max_tokens: 1024,
-      messages: [
-        {
-          role: 'user',
-          content: userPrompt,
-        },
-      ],
+      max_tokens: 2048,
+      messages: [{ role: 'user', content: userPrompt }],
       system: SYSTEM_PROMPT,
     });
 
@@ -205,16 +176,30 @@ Génère la story au format JSON demandé.`;
     const today = new Date().toISOString().split('T')[0];
     const id = `${today}-${String(storyIndex + 1).padStart(2, '0')}`;
 
+    // Get all unique sources
+    const allSources = [...new Set(cluster.articles.map((a) => a.source))];
+
+    // Find best image (prefer articles with images)
+    const articleWithImage = cluster.articles.find((a) => a.imageUrl);
+    const imageUrl =
+      articleWithImage?.imageUrl ||
+      'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
+
+    // Get most recent publishedAt
+    const mostRecent = cluster.articles.reduce((latest, article) => {
+      return new Date(article.publishedAt) > new Date(latest.publishedAt) ? article : latest;
+    });
+
     const story: Story = {
       id,
-      category: storyData.category || mainArticle.category,
+      category: storyData.category || cluster.category,
       title: storyData.title,
-      imageUrl: mainArticle.imageUrl || 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800',
+      imageUrl,
       location: storyData.location,
       bullets: storyData.bullets,
       execSummary: storyData.execSummary,
       sources: allSources,
-      publishedAt: mainArticle.publishedAt,
+      publishedAt: mostRecent.publishedAt,
     };
 
     return story;
@@ -228,8 +213,8 @@ Génère la story au format JSON demandé.`;
  * Main synthesis function
  */
 async function synthesize(): Promise<void> {
-  console.log('🧠 AVACTU - Script de synthèse');
-  console.log('==============================');
+  console.log('🧠 AVACTU - Script de synthèse multi-sources');
+  console.log('=============================================');
   console.log(`📅 Date: ${new Date().toLocaleString('fr-FR')}\n`);
 
   // Check API key
@@ -239,22 +224,15 @@ async function synthesize(): Promise<void> {
     process.exit(1);
   }
 
-  // Load raw articles
-  if (!existsSync(RAW_ARTICLES_PATH)) {
-    console.error('❌ Erreur: raw-articles.json non trouvé');
-    console.error('   Exécutez d\'abord: npm run curate');
+  // Load clustered articles
+  if (!existsSync(CLUSTERED_PATH)) {
+    console.error('❌ Erreur: clustered-articles.json non trouvé');
+    console.error("   Exécutez d'abord: npm run cluster");
     process.exit(1);
   }
 
-  const rawData: RawArticlesInput = JSON.parse(readFileSync(RAW_ARTICLES_PATH, 'utf-8'));
-  console.log(`📚 ${rawData.articleCount} articles bruts chargés`);
-
-  // Select articles based on ratio
-  const selectedArticles = selectArticles(rawData.articles);
-  console.log(`🎯 ${selectedArticles.length} articles sélectionnés pour synthèse\n`);
-
-  // Group related articles
-  const articleGroups = groupRelatedArticles(selectedArticles);
+  const clusteredData: ClusteredInput = JSON.parse(readFileSync(CLUSTERED_PATH, 'utf-8'));
+  console.log(`📚 ${clusteredData.clusterCount} clusters chargés\n`);
 
   // Initialize Anthropic client
   const client = new Anthropic();
@@ -262,19 +240,22 @@ async function synthesize(): Promise<void> {
   // Synthesize stories
   const stories: Story[] = [];
 
-  for (let i = 0; i < articleGroups.length; i++) {
-    const group = articleGroups[i];
-    console.log(`📝 Synthèse ${i + 1}/${articleGroups.length}: ${group[0].title.slice(0, 50)}...`);
+  for (let i = 0; i < clusteredData.clusters.length; i++) {
+    const cluster = clusteredData.clusters[i];
+    const sourcesList = [...new Set(cluster.articles.map((a) => a.source))].join(', ');
 
-    const story = await synthesizeStory(client, group, i);
+    console.log(`📝 Synthèse ${i + 1}/${clusteredData.clusters.length}: ${cluster.topic}`);
+    console.log(`   Sources: ${sourcesList} (${cluster.articles.length} articles)`);
+
+    const story = await synthesizeStory(client, cluster, i);
     if (story) {
       stories.push(story);
-      console.log(`   ✓ "${story.title}"`);
+      console.log(`   ✓ "${story.title}" → ${story.sources.length} sources`);
     }
 
     // Rate limiting
-    if (i < articleGroups.length - 1) {
-      await new Promise((resolve) => setTimeout(resolve, 1000));
+    if (i < clusteredData.clusters.length - 1) {
+      await new Promise((resolve) => setTimeout(resolve, 1500));
     }
   }
 
@@ -288,20 +269,27 @@ async function synthesize(): Promise<void> {
   writeFileSync(STORIES_PATH, JSON.stringify(edition, null, 2), 'utf-8');
 
   // Summary
-  console.log('\n==============================');
+  console.log('\n=============================================');
   console.log('📊 RÉSUMÉ');
-  console.log('==============================');
+  console.log('=============================================');
   console.log(`Stories générées: ${stories.length}`);
 
-  const byCategory = stories.reduce((acc, story) => {
-    acc[story.category] = (acc[story.category] || 0) + 1;
-    return acc;
-  }, {} as Record<string, number>);
+  const byCategory = stories.reduce(
+    (acc, story) => {
+      acc[story.category] = (acc[story.category] || 0) + 1;
+      return acc;
+    },
+    {} as Record<string, number>
+  );
 
   console.log(`\nPar catégorie:`);
   console.log(`  • Géopolitique: ${byCategory.geopolitique || 0}`);
   console.log(`  • Économie: ${byCategory.economie || 0}`);
   console.log(`  • Politique: ${byCategory.politique || 0}`);
+
+  // Sources stats
+  const avgSources = stories.reduce((sum, s) => sum + s.sources.length, 0) / stories.length;
+  console.log(`\nMoyenne sources par story: ${avgSources.toFixed(1)}`);
 
   console.log(`\n✅ Sauvegardé dans: ${STORIES_PATH}`);
 }

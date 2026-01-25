@@ -39,32 +39,38 @@ jobs:
       - name: Curate articles
         run: npm run curate
 
-      # 5. Run synthesis script (generate stories with Claude)
+      # 5. Run clustering script (group articles by topic)
+      - name: Cluster articles
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run cluster
+
+      # 6. Run synthesis script (generate multi-source stories)
       - name: Synthesize stories
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run synthesize
 
-      # 6. Commit and push changes
+      # 7. Commit and push changes
       - name: Commit and push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add public/data/stories.json data/raw-articles.json
+          git add public/data/stories.json data/raw-articles.json data/clustered-articles.json
           git diff --staged --quiet || git commit -m "chore: update stories $(date +'%Y-%m-%d')"
           git push
 
-      # 7. Trigger Vercel deployment (via deploy hook)
+      # 8. Trigger Vercel deployment (via deploy hook)
       - name: Trigger Vercel deploy
         if: ${{ vars.VERCEL_DEPLOY_HOOK }}
         run: |
           curl -X POST "${{ vars.VERCEL_DEPLOY_HOOK }}"
 
-      # 8. Wait for deployment
+      # 9. Wait for deployment
       - name: Wait for deployment
         run: sleep 90
 
-      # 9. Send SMS notification via OVH
+      # 10. Send SMS notification via OVH
       - name: Send SMS
         if: ${{ github.event.inputs.skip_sms != 'true' }}
         env:

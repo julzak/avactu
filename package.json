@@ -9,7 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "curate": "tsx scripts/curate.ts",
+    "cluster": "tsx scripts/cluster.ts",
     "synthesize": "tsx scripts/synthesize.ts",
+    "pipeline": "npm run curate && npm run cluster && npm run synthesize",
     "send-sms": "tsx scripts/send-sms.ts"
   },
   "dependencies": {
