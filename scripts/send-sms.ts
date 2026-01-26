@@ -1,9 +1,9 @@
 /**
- * SMS Notification Script - Envoie les titres du jour à Ava via OVH SMS
+ * SMS Notification Script - Envoie les titres du jour via OVH SMS HTTP2SMS API
  *
  * Usage:
- *   npm run send-sms           # Envoie le SMS
- *   npm run send-sms -- --dry-run  # Affiche le message sans l'envoyer
+ *   npm run send-sms              # Envoie le SMS à Ava et Félix
+ *   npm run send-sms -- --dry-run # Affiche le message sans l'envoyer
  */
 
 import { readFileSync } from 'fs';
@@ -38,13 +38,6 @@ interface Edition {
   stories: Story[];
 }
 
-interface OvhSmsResponse {
-  totalCreditsRemoved: number;
-  invalidReceivers: string[];
-  ids: number[];
-  validReceivers: string[];
-}
-
 // Category emojis
 const CATEGORY_EMOJI = {
   geopolitique: '🔴',
@@ -56,6 +49,28 @@ const CATEGORY_EMOJI = {
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
 const APP_URL = process.env.APP_URL || 'avactu.vercel.app';
 const MAX_TITLE_LENGTH = 40;
+
+// OVH SMS API endpoint
+const OVH_SMS_API = 'https://www.ovh.com/cgi-bin/sms/http2sms.cgi';
+
+/**
+ * Convert phone number from +33 format to 0033 format (OVH requirement)
+ */
+function convertToOvhFormat(phone: string): string {
+  // Remove spaces and dashes
+  let cleaned = phone.replace(/[\s-]/g, '');
+
+  // Convert +33 to 0033
+  if (cleaned.startsWith('+33')) {
+    cleaned = '0033' + cleaned.slice(3);
+  }
+  // Convert +XX to 00XX for other countries
+  else if (cleaned.startsWith('+')) {
+    cleaned = '00' + cleaned.slice(1);
+  }
+
+  return cleaned;
+}
 
 /**
  * Truncate title to max length
@@ -83,8 +98,7 @@ function buildMessage(edition: Edition): string {
   const dateFormatted = formatDate(edition.date);
 
   const lines: string[] = [
-    `Avactu du ${dateFormatted}`,
-    '',
+    `☀️ Avactu du ${dateFormatted}`,
   ];
 
   for (const story of edition.stories) {
@@ -93,85 +107,58 @@ function buildMessage(edition: Edition): string {
     lines.push(`${emoji} ${title}`);
   }
 
-  lines.push('');
-  lines.push(`${APP_URL}`);
+  lines.push(`👉 ${APP_URL}`);
 
   return lines.join('\n');
 }
 
 /**
- * Generate OVH API signature
+ * Send SMS via OVH HTTP2SMS API
  */
-function generateSignature(
-  appSecret: string,
-  consumerKey: string,
-  method: string,
-  url: string,
-  body: string,
-  timestamp: number
-): string {
-  const crypto = require('crypto');
-  const toSign = `${appSecret}+${consumerKey}+${method}+${url}+${body}+${timestamp}`;
-  return '$1$' + crypto.createHash('sha1').update(toSign).digest('hex');
-}
+async function sendSMS(message: string, phoneNumber: string, recipientName: string): Promise<boolean> {
+  const account = process.env.OVH_SMS_SERVICE;
+  const login = process.env.OVH_SMS_LOGIN;
+  const password = process.env.OVH_SMS_PASSWORD;
 
-/**
- * Send SMS via OVH API
- */
-async function sendSMS(message: string): Promise<void> {
-  const appKey = process.env.OVH_APP_KEY;
-  const appSecret = process.env.OVH_APP_SECRET;
-  const consumerKey = process.env.OVH_CONSUMER_KEY;
-  const serviceName = process.env.OVH_SMS_SERVICE;
-  const toNumber = process.env.AVA_PHONE_NUMBER;
-
-  if (!appKey || !appSecret || !consumerKey || !serviceName || !toNumber) {
+  if (!account || !login || !password) {
     throw new Error(
-      'Missing environment variables. Required: OVH_APP_KEY, OVH_APP_SECRET, OVH_CONSUMER_KEY, OVH_SMS_SERVICE, AVA_PHONE_NUMBER'
+      'Missing environment variables. Required: OVH_SMS_SERVICE, OVH_SMS_LOGIN, OVH_SMS_PASSWORD'
     );
   }
 
-  const url = `https://eu.api.ovh.com/1.0/sms/${serviceName}/jobs`;
-  const method = 'POST';
-  const body = JSON.stringify({
-    receivers: [toNumber],
+  const toNumber = convertToOvhFormat(phoneNumber);
+
+  // Build query string
+  const params = new URLSearchParams({
+    account: account,
+    login: login,
+    password: password,
+    from: 'Avactu',
+    to: toNumber,
     message: message,
-    noStopClause: true,
-    priority: 'high',
-    sender: 'Avactu',
+    noStop: '1',
   });
 
-  // Get OVH server time
-  const timeResponse = await fetch('https://eu.api.ovh.com/1.0/auth/time');
-  const timestamp = await timeResponse.json();
+  const url = `${OVH_SMS_API}?${params.toString()}`;
 
-  // Generate signature
-  const signature = generateSignature(appSecret, consumerKey, method, url, body, timestamp);
+  console.log(`\n📤 Envoi à ${recipientName} (${phoneNumber})...`);
 
-  // Send request
-  const response = await fetch(url, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'X-Ovh-Application': appKey,
-      'X-Ovh-Consumer': consumerKey,
-      'X-Ovh-Timestamp': String(timestamp),
-      'X-Ovh-Signature': signature,
-    },
-    body: body,
-  });
+  try {
+    const response = await fetch(url);
+    const result = await response.text();
 
-  if (!response.ok) {
-    const error = await response.text();
-    throw new Error(`OVH API error: ${response.status} - ${error}`);
+    // OVH returns "OK" on success, or an error message
+    if (result.trim().startsWith('OK')) {
+      console.log(`   ✅ SMS envoyé avec succès à ${recipientName}`);
+      return true;
+    } else {
+      console.error(`   ❌ Erreur OVH pour ${recipientName}: ${result}`);
+      return false;
+    }
+  } catch (error) {
+    console.error(`   ❌ Erreur réseau pour ${recipientName}:`, error instanceof Error ? error.message : error);
+    return false;
   }
-
-  const result: OvhSmsResponse = await response.json();
-
-  console.log(`✅ SMS envoyé avec succès!`);
-  console.log(`   ID: ${result.ids.join(', ')}`);
-  console.log(`   Destinataires valides: ${result.validReceivers.join(', ')}`);
-  console.log(`   Crédits utilisés: ${result.totalCreditsRemoved}`);
 }
 
 /**
@@ -180,8 +167,8 @@ async function sendSMS(message: string): Promise<void> {
 async function main(): Promise<void> {
   const isDryRun = process.argv.includes('--dry-run');
 
-  console.log('📱 AVACTU - Envoi SMS (OVH)');
-  console.log('===========================');
+  console.log('📱 AVACTU - Envoi SMS (OVH HTTP2SMS)');
+  console.log('====================================');
 
   // Load stories
   let edition: Edition;
@@ -190,7 +177,7 @@ async function main(): Promise<void> {
     edition = JSON.parse(content);
   } catch (error) {
     console.error('❌ Erreur: Impossible de lire stories.json');
-    console.error('   Exécutez d\'abord: npm run curate && npm run synthesize');
+    console.error("   Exécutez d'abord: npm run curate && npm run synthesize");
     process.exit(1);
   }
 
@@ -210,15 +197,51 @@ async function main(): Promise<void> {
 
   if (isDryRun) {
     console.log('\n🔸 Mode dry-run: SMS non envoyé');
+
+    // Show what would be sent
+    const avaPhone = process.env.AVA_PHONE_NUMBER || '(non configuré)';
+    const felixPhone = process.env.FELIX_PHONE_NUMBER || '(non configuré)';
+
+    console.log('\n📋 Destinataires:');
+    console.log(`   - Ava: ${avaPhone} → ${avaPhone !== '(non configuré)' ? convertToOvhFormat(avaPhone) : '-'}`);
+    console.log(`   - Félix: ${felixPhone} → ${felixPhone !== '(non configuré)' ? convertToOvhFormat(felixPhone) : '-'}`);
     return;
   }
 
-  // Send SMS
-  console.log('\n📤 Envoi en cours...');
-  try {
-    await sendSMS(message);
-  } catch (error) {
-    console.error('❌ Erreur lors de l\'envoi:', error instanceof Error ? error.message : error);
+  // Get phone numbers
+  const avaPhone = process.env.AVA_PHONE_NUMBER;
+  const felixPhone = process.env.FELIX_PHONE_NUMBER;
+
+  if (!avaPhone && !felixPhone) {
+    console.error('❌ Erreur: Aucun numéro de téléphone configuré');
+    console.error('   Définissez AVA_PHONE_NUMBER et/ou FELIX_PHONE_NUMBER');
+    process.exit(1);
+  }
+
+  // Send SMS to both recipients
+  let successCount = 0;
+  let totalCount = 0;
+
+  if (avaPhone) {
+    totalCount++;
+    if (await sendSMS(message, avaPhone, 'Ava')) {
+      successCount++;
+    }
+  }
+
+  if (felixPhone) {
+    totalCount++;
+    if (await sendSMS(message, felixPhone, 'Félix')) {
+      successCount++;
+    }
+  }
+
+  // Summary
+  console.log('\n' + '═'.repeat(40));
+  if (successCount === totalCount) {
+    console.log(`✅ ${successCount}/${totalCount} SMS envoyés avec succès`);
+  } else {
+    console.log(`⚠️  ${successCount}/${totalCount} SMS envoyés`);
     process.exit(1);
   }
 }
