@@ -133,7 +133,7 @@ async function sendSMS(message: string, phoneNumber: string, recipientName: stri
     account: account,
     login: login,
     password: password,
-    from: 'Avactu',
+    from: 'avactu',
     to: toNumber,
     message: message,
     noStop: '1',
