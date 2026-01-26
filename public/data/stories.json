@@ -1,9 +1,91 @@
 {
-  "date": "2026-01-26T17:08:12.154Z",
+  "date": "2026-01-26T17:18:26.533Z",
   "stories": [
     {
       "id": "2026-01-26-01",
       "category": "geopolitique",
+      "title": "Le Sénégal et le Maroc apaisent les tensions post-CAN",
+      "imageUrl": "https://s.rfi.fr/media/display/20573da4-fad7-11f0-8081-005056bf30b7/w:1024/p:16x9/000-942C6EY.jpg",
+      "location": {
+        "lat": 34.0209,
+        "lng": -6.8416,
+        "name": "Rabat"
+      },
+      "bullets": [
+        "Le Premier ministre sénégalais Ousmane Sonko visite Rabat",
+        "Tensions après la finale CAN 2025 remportée par le Sénégal",
+        "Signature de 17 accords de coopération bilatérale",
+        "La presse des deux pays maintient la polémique",
+        "Renforcement du partenariat stratégique sénégalo-marocain"
+      ],
+      "execSummary": "Le Premier ministre sénégalais Ousmane Sonko s'est rendu à Rabat le 26 janvier 2026, une semaine après la finale controversée de la CAN 2025 remportée par le Sénégal face au Maroc. Cette visite officielle intervient dans le cadre de la 15e commission mixte entre les deux pays, malgré les tensions générées par les incidents entre supporters lors de la finale. Dix-sept accords de coopération ont été signés lors de cette rencontre diplomatique. Ousmane Sonko a affirmé que l'amitié sénégalo-marocaine était \"plus forte que les émotions\" provoquées par les événements sportifs récents. Le gouvernement sénégalais présente cette visite comme une démonstration de la solidité des relations bilatérales, insistant sur la volonté des deux pays de dépasser les récents incidents et de renforcer leur partenariat stratégique dans divers domaines. Cependant, selon Courrier International, les presses des deux pays n'ont pas fini avec les sujets de discorde, suggérant que les tensions persistent au-delà des déclarations officielles d'apaisement. Les médias marocains et sénégalais continuent de commenter les événements de la finale et maintiennent une certaine polémique. Cette \"mi-temps diplomatique\" vise à préserver les relations économiques et politiques entre Dakar et Rabat, deux partenaires stratégiques en Afrique de l'Ouest. L'enjeu dépasse le simple cadre sportif : il s'agit de maintenir la coopération dans des secteurs clés comme l'économie, la sécurité et les échanges commerciaux, essentiels pour les deux nations dans un contexte régional complexe.",
+      "sources": [
+        "RFI",
+        "Le Monde - International",
+        "France 24",
+        "Courrier International",
+        "Le Monde - Économie",
+        "BBC World"
+      ],
+      "publishedAt": "2026-01-26T17:08:26.000Z"
+    },
+    {
+      "id": "2026-01-26-02",
+      "category": "geopolitique",
+      "title": "La Chine ouvre une enquête contre son plus haut général",
+      "imageUrl": "https://focus.courrierinternational.com/2026/01/26/35/55/2972/1981/1200/630/60/0/9de0dfc_upload-1-xcgwihn3khml-web-1839-vlahovic-2024-09-25-2022.jpg",
+      "location": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "Pékin, Chine"
+      },
+      "bullets": [
+        "Le général Zhang Youxia fait l'objet d'une enquête officielle",
+        "Accusé de violations disciplinaires et de saper Xi Jinping",
+        "Purge militaire d'ampleur inédite depuis l'époque de Mao",
+        "Questions sur la loyauté au sein de l'armée chinoise",
+        "Enjeux pour la modernisation des forces armées chinoises"
+      ],
+      "execSummary": "Le 24 janvier 2026, le Parti communiste chinois a ouvert une enquête contre le général Zhang Youxia, 75 ans, premier vice-président de la commission militaire centrale et plus haut gradé de l'armée chinoise. L'enquête porte sur de \"graves violations de la discipline du parti et de la loi\", selon les autorités chinoises. Cette action s'inscrit dans une purge militaire d'une ampleur jamais vue depuis l'époque de Mao, touchant les plus hauts échelons de l'armée. Selon Le Monde, la Chine accuse spécifiquement Zhang Youxia d'avoir cherché à saper le pouvoir de Xi Jinping, révélant des tensions internes au sommet du pouvoir militaire. Le Parti communiste justifie cette enquête par la nécessité de maintenir la discipline et la loyauté absolue envers le leadership politique, présentant cette mesure comme essentielle pour préserver l'unité du parti et de l'armée. Du côté des observateurs internationaux, cette purge soulève de profondes questions sur la stabilité et la cohésion au sein de la deuxième armée la plus puissante de la planète. Courrier International note que l'ampleur de ce \"ménage\" atteint des proportions historiques et interroge sur l'état réel de la modernisation des forces chinoises. Cette affaire révèle les défis de Xi Jinping pour maintenir le contrôle sur l'appareil militaire et pose des questions sur l'efficacité opérationnelle d'une armée en proie à des purges répétées, avec des implications majeures pour l'équilibre géopolitique régional.",
+      "sources": [
+        "Courrier International",
+        "RFI",
+        "Le Monde - Économie",
+        "France 24",
+        "Le Monde - International"
+      ],
+      "publishedAt": "2026-01-26T17:05:14.000Z"
+    },
+    {
+      "id": "2026-01-26-03",
+      "category": "geopolitique",
+      "title": "Israël récupère la dépouille du dernier otage de Gaza",
+      "imageUrl": "https://s.rfi.fr/media/display/63307ec2-fad4-11f0-aba2-005056bf30b7/w:1024/p:16x9/AP26026559206110.jpg",
+      "location": {
+        "lat": 31.354676,
+        "lng": 34.308825,
+        "name": "Bande de Gaza"
+      },
+      "bullets": [
+        "L'armée israélienne identifie Ran Gvili, dernier otage dans Gaza",
+        "Fin de deux ans d'attente depuis les enlèvements du 7 octobre",
+        "Netanyahu salue un « accomplissement extraordinaire » pour Israël",
+        "Le Hamas se félicite parallèlement du plan Trump pour Gaza",
+        "Ouverture limitée annoncée du poste-frontière de Rafah avec l'Égypte"
+      ],
+      "execSummary": "L'armée israélienne a annoncé lundi 26 janvier avoir identifié la dépouille de Ran Gvili, présenté comme le dernier otage israélien détenu dans la bande de Gaza depuis les enlèvements du 7 octobre 2023. Cette identification marque officiellement la fin de la présence d'otages israéliens dans l'enclave palestinienne, selon les sources militaires israéliennes. L'annonce intervient plus de deux ans après le début de la crise des otages.\n\nLe Premier ministre israélien Benjamin Netanyahu a qualifié cette récupération d'« accomplissement extraordinaire », y voyant l'aboutissement des efforts militaires et diplomatiques menés depuis octobre 2023. Israël présente cette étape comme le dernier obstacle levé à une réouverture de Gaza, annonçant une « ouverture limitée » du poste-frontière de Rafah. Les autorités israéliennes considèrent cette récupération comme une victoire stratégique dans leur campagne militaire.\n\nParallèlement, le Hamas palestinien adopte une posture différente, se félicitant du plan de Donald Trump pour Gaza et entamant des pourparlers avec l'administration américaine sur les 20 points de ce plan. Cette approche diplomatique contraste avec la position israélienne axée sur les résultats militaires. Les perspectives palestiniennes sur la situation restent centrées sur les négociations politiques futures plutôt que sur les aspects sécuritaires.\n\nCette évolution ouvre des enjeux complexes pour l'avenir de Gaza. L'ouverture annoncée de Rafah pourrait modifier les flux humanitaires et commerciaux, tandis que les discussions Trump-Hamas introduisent une nouvelle dynamique diplomatique. La Cour suprême israélienne examine également les restrictions d'accès des journalistes à Gaza, soulevant des questions sur la transparence post-conflit et la reconstruction de l'enclave.",
+      "sources": [
+        "RFI",
+        "BBC World",
+        "Courrier International",
+        "France 24",
+        "Le Monde - International"
+      ],
+      "publishedAt": "2026-01-26T17:02:09.000Z"
+    },
+    {
+      "id": "2026-01-26-04",
+      "category": "politique",
       "title": "Trump envoie Tom Homan à Minneapolis après la mort d'Alex Pretti",
       "imageUrl": "https://s.france24.com/media/display/ff1e551c-fad3-11f0-8617-005056a97e36/w:1024/p:16x9/AP26014601305166.jpg",
       "location": {
@@ -12,13 +94,13 @@
         "name": "Minneapolis, États-Unis"
       },
       "bullets": [
-        "Alex Pretti, infirmier de 37 ans, tué par des agents fédéraux samedi",
-        "Trump dépêche son conseiller anti-immigration Tom Homan sur place",
-        "L'administration Trump défend l'action de l'ICE, évoque la légitime défense",
-        "L'opposition dénonce des « mensonges » et une police « hors de contrôle »",
-        "Tensions croissantes autour de la politique migratoire avant les mid-terms"
+        "Alex Pretti, infirmier de 37 ans, tué par la police fédérale",
+        "Deuxième décès impliquant l'ICE à Minneapolis en un mois",
+        "Trump dépêche Tom Homan pour superviser les opérations sur place",
+        "Obama et Clinton appellent les Américains au « sursaut »",
+        "La NRA critique même l'administration Trump sur cette affaire"
       ],
-      "execSummary": "Alex Pretti, un infirmier américain de 37 ans, a été tué samedi 24 janvier par des agents de la police fédérale de l'immigration (ICE) à Minneapolis. Selon France 24 et le Monde, il s'agit de la deuxième mort impliquant l'ICE en moins d'un mois dans cette ville du Minnesota. Donald Trump a annoncé lundi l'envoi de Tom Homan, son conseiller anti-immigration surnommé le « tsar des frontières », pour lui « rendre compte directement » de la situation.\n\nL'administration Trump justifie l'intervention de ses agents par la légitime défense, affirmant qu'Alex Pretti était armé et représentait une menace. Selon RFI, le gouvernement défend les actions des agents fédéraux et impute ce « chaos » aux élus démocrates locaux. Tom Homan a été dépêché sur place dans un contexte où la ministre de la Sécurité intérieure Kristi Noem serait critiquée à la Maison Blanche pour sa gestion des événements.\n\nL'opposition démocrate et les familles des victimes contestent vigoureusement cette version. Selon Courrier International et la BBC, les parents d'Alex Pretti accusent l'administration de « mensonges écœurants ». Les vidéos montrent que l'arme avait été retirée à Pretti avant que les agents n'ouvrent le feu alors qu'il était au sol. Les ex-présidents Clinton et Obama ont appelé les Américains au « sursaut », dénonçant des « scènes horribles ». Même la NRA, habituellement alliée de Trump, critique les tactiques de l'ICE selon la BBC.\n\nCette escalade intervient à dix mois des élections de mi-mandat, dans un contexte où les sondages montrent un rejet croissant de la politique migratoire trumpiste. Selon le Monde, cette « dangereuse stratégie de la tension » pourrait fracturer le camp républicain, certaines voix dissidentes émergeant face aux méthodes contestées de l'ICE. L'enjeu dépasse Minneapolis : il s'agit de la crédibilité d'une politique migratoire durcie qui était au cœur des promesses de campagne de Trump.",
+      "execSummary": "Alex Pretti, infirmier de 37 ans, a été tué samedi par un agent de la Border Patrol à Minneapolis, constituant le deuxième décès impliquant la police fédérale de l'immigration (ICE) dans cette ville du Minnesota en moins d'un mois. Face à la montée des tensions, Donald Trump a annoncé lundi l'envoi de Tom Homan, surnommé le « tsar des frontières », pour lui « rendre compte directement » de la situation.\n\nL'administration Trump justifie l'intervention en affirmant que les agents fédéraux ont tiré en légitime défense et impute ces décès au « chaos provoqué par les démocrates » selon France 24. Le président utilise ces événements pour renforcer sa politique anti-immigration, une promesse de campagne essentielle, tout en accusant les élus démocrates locaux d'être responsables de la situation.\n\nL'opposition démocrate et les anciens présidents Obama et Clinton dénoncent des « mensonges éhontés » et des « scènes horribles », appelant à un « sursaut » des Américains. Les parents d'Alex Pretti accusent les autorités de propager des « mensonges écœurants » selon la BBC. Même la NRA, habituellement alignée avec Trump, critique l'administration sur cette affaire.\n\nCette crise survient à dix mois des élections de mi-mandat, dans un contexte où les sondages montrent un rejet croissant de la manière dont la politique migratoire est mise en œuvre selon Le Monde. L'ICE, dont le budget a été triplé, est devenue « le symbole du second mandat de Donald Trump », alimentant une stratégie de tension qui pourrait avoir des conséquences électorales majeures.",
       "sources": [
         "France 24",
         "Le Monde - International",
@@ -30,89 +112,9 @@
       "publishedAt": "2026-01-26T16:55:32.000Z"
     },
     {
-      "id": "2026-01-26-02",
-      "category": "geopolitique",
-      "title": "La Syrie prolonge le cessez-le-feu kurde malgré les violations",
-      "imageUrl": "https://s.france24.com/media/display/42dd9324-fad6-11f0-b5ae-005056a97e36/w:1024/p:16x9/FR-20260126-161606-162251-CS.jpg",
-      "location": {
-        "lat": 36.2021,
-        "lng": 37.1343,
-        "name": "Alep, Syrie"
-      },
-      "bullets": [
-        "Le cessez-le-feu entre Damas et les forces kurdes prolongé de 15 jours",
-        "Les deux camps s'accusent mutuellement de violations répétées de la trêve",
-        "L'armée syrienne justifie ses actions par la sécurisation du territoire national",
-        "Les forces kurdes dénoncent la mort de cinq civils dans des bombardements",
-        "La ville stratégique de Kobané reste encerclée par les forces gouvernementales"
-      ],
-      "execSummary": "Le 24 janvier, l'armée syrienne et les Forces démocratiques syriennes (FDS) à majorité kurde ont annoncé la prolongation de 15 jours de leur cessez-le-feu dans le nord de la Syrie. Selon France 24 et RFI, cette trêve concerne principalement la région autour de Kobané, ville stratégique encerclée par les forces gouvernementales. Les rapports concordent sur la fragilité de cet accord temporaire dans cette zone géographiquement cruciale.\n\nDamas justifie ses opérations militaires par la nécessité de sécuriser son territoire national et de restaurer le contrôle gouvernemental sur l'ensemble du pays. L'armée syrienne présente ses actions comme légitimes dans le cadre de la souveraineté territoriale, considérant les zones contrôlées par les forces kurdes comme devant être réintégrées sous l'autorité centrale.\n\nLes Forces démocratiques syriennes contestent cette approche et accusent l'armée gouvernementale de violations répétées du cessez-le-feu. Selon RFI, les Kurdes dénoncent notamment la mort de cinq civils d'une même famille dans des bombardements gouvernementaux sur la région de Kobané, illustrant selon eux l'irrespect des accords de trêve par Damas.\n\nCette situation révèle les enjeux complexes du contrôle territorial en Syrie post-conflit. La durabilité de ce cessez-le-feu conditionne la stabilité régionale et l'avenir des populations kurdes. L'issue de ces négociations pourrait redéfinir l'équilibre des forces dans le nord syrien et influencer les relations entre les différents acteurs du conflit syrien.",
-      "sources": [
-        "France 24",
-        "Courrier International",
-        "BBC World",
-        "RFI",
-        "Le Monde - Économie"
-      ],
-      "publishedAt": "2026-01-26T16:47:12.000Z"
-    },
-    {
-      "id": "2026-01-26-03",
-      "category": "geopolitique",
-      "title": "Israël récupère la dépouille du dernier otage de Gaza",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ccaa/live/8e6eb450-fac0-11f0-b5f7-49f0357294ff.jpg",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.467,
-        "name": "Gaza"
-      },
-      "bullets": [
-        "L'armée israélienne identifie le corps de Ran Gvili",
-        "Dernier otage restant dans la bande de Gaza",
-        "Netanyahu qualifie l'opération d'« extraordinaire accomplissement »",
-        "« Tous les otages ramenés » selon l'armée israélienne",
-        "Fin symbolique de la crise des otages"
-      ],
-      "execSummary": "L'armée israélienne a annoncé lundi avoir identifié le corps de Ran Gvili, dernier otage qui restait dans la bande de Gaza selon les sources officielles. Cette identification marque symboliquement la fin de la crise des otages qui avait débuté le 7 octobre 2023, avec la récupération de toutes les personnes capturées lors de l'attaque du Hamas. Le Premier ministre Benjamin Netanyahu a personnellement salué cette opération, la qualifiant d'« extraordinaire accomplissement » selon la BBC et France 24. L'armée israélienne a officiellement déclaré que « tous les otages qui étaient dans la bande de Gaza ont été ramenés », marquant un tournant dans le conflit. Cette annonce intervient dans un contexte où les négociations diplomatiques se poursuivent, avec notamment des discussions entre l'administration Trump et le Hamas concernant l'avenir de Gaza. Parallèlement, la Cour suprême israélienne examine la question de l'accès des journalistes à Gaza, soulevée par la Foreign Press Association, dans un contexte de cessez-le-feu en vigueur depuis octobre 2025. La récupération de ce dernier otage pourrait influencer les dynamiques politiques et diplomatiques régionales, alors que les discussions sur la reconstruction et l'administration future de Gaza s'intensifient.",
-      "sources": [
-        "BBC World",
-        "Courrier International",
-        "France 24",
-        "Le Monde - International"
-      ],
-      "publishedAt": "2026-01-26T16:38:11.000Z"
-    },
-    {
-      "id": "2026-01-26-04",
-      "category": "politique",
-      "title": "La Chine supprime la sélection au lycée à Shengsi",
-      "imageUrl": "https://s.rfi.fr/media/display/d9be7ea2-facc-11f0-8fbb-005056bfb2b6/w:1024/p:16x9/GettyImages-2219468849.jpg",
-      "location": {
-        "lat": 30.7267,
-        "lng": 122.4483,
-        "name": "Shengsi, Chine"
-      },
-      "bullets": [
-        "Le comté de Shengsi supprime l'examen d'entrée au lycée",
-        "Mesure expérimentale pour lutter contre le dépeuplement démographique",
-        "Tous les élèves peuvent désormais poursuivre leurs études",
-        "Test radical dans le système éducatif chinois traditionnel",
-        "Enjeu : retenir les familles dans ce territoire insulaire"
-      ],
-      "execSummary": "Le petit comté insulaire de Shengsi, dans l'est de la Chine, a supprimé l'examen d'entrée au lycée, permettant à tous les élèves qui le souhaitent de poursuivre leurs études secondaires. Cette mesure inédite vise à enrayer le déclin démographique de ce territoire isolé en mer de Chine orientale.\n\nLes autorités locales justifient cette réforme par la nécessité de retenir les familles sur le territoire. En éliminant la barrière sélective traditionnelle, elles espèrent convaincre les parents de rester dans le comté plutôt que de migrer vers les grandes villes pour offrir de meilleures opportunités éducatives à leurs enfants. Cette approche s'inscrit dans une logique de développement territorial face à l'exode rural.\n\nCette expérience représente une rupture majeure avec le système éducatif chinois, historiquement fondé sur la sélection et la compétition académique intensive. Les examens d'entrée constituent traditionnellement un pilier du parcours scolaire chinois, et leur suppression, même localisée, questionne les fondements méritocratiques du système éducatif national.\n\nL'enjeu dépasse la seule question éducative : il s'agit de tester une nouvelle approche pour maintenir la vitalité démographique des territoires périphériques. Si l'expérience s'avère concluante à Shengsi, elle pourrait inspirer d'autres collectivités chinoises confrontées au même défi du dépeuplement, remettant potentiellement en question l'organisation traditionnelle du système scolaire chinois.",
-      "sources": [
-        "RFI",
-        "Le Monde - Économie",
-        "France 24",
-        "Courrier International",
-        "Le Monde - International"
-      ],
-      "publishedAt": "2026-01-26T16:14:07.000Z"
-    },
-    {
       "id": "2026-01-26-05",
       "category": "economie",
-      "title": "L'Espagne réduit la vitesse sur Madrid-Barcelone",
+      "title": "L'Espagne réduit la vitesse sur la ligne Madrid-Barcelone",
       "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eab0/live/dc8612b0-fac9-11f0-92f0-7514a316844b.jpg",
       "location": {
         "lat": 40.4168,
@@ -120,13 +122,13 @@
         "name": "Madrid, Espagne"
       },
       "bullets": [
-        "Fissure découverte sur la ligne ferroviaire Madrid-Barcelone en Espagne",
-        "Limitation de vitesse imposée après cette découverte structurelle critique",
-        "Les autorités ferroviaires espagnoles privilégient la sécurité des passagers",
-        "Mesure préventive suite aux récents accidents ferroviaires mortels",
-        "Impact sur les temps de trajet de cette liaison économique majeure"
+        "L'Espagne découvre une fissure sur la ligne ferroviaire Madrid-Barcelone",
+        "Limitation de vitesse imposée après deux accidents ferroviaires récents",
+        "Les autorités espagnoles privilégient la sécurité des passagers",
+        "Perturbations attendues sur cette liaison très fréquentée",
+        "Impact économique sur le transport ferroviaire haute vitesse"
       ],
-      "execSummary": "L'Espagne a imposé une limitation de vitesse drastique sur la ligne ferroviaire reliant Madrid à Barcelone après la découverte d'une fissure sur cette infrastructure cruciale. Cette mesure préventive intervient dans un contexte particulièrement sensible pour le transport ferroviaire espagnol, marqué par deux accidents ferroviaires mortels récents dans le pays. Les autorités ferroviaires espagnoles justifient cette décision par un impératif absolu de sécurité des passagers. Elles considèrent que la réduction temporaire de la vitesse constitue une mesure de précaution indispensable le temps d'effectuer les réparations nécessaires et de s'assurer de l'intégrité structurelle de la voie. Cette approche préventive vise à éviter tout risque d'accident supplémentaire sur le réseau national. Cette limitation de vitesse aura des conséquences directes sur l'efficacité de cette liaison ferroviaire stratégique qui relie les deux principales métropoles économiques espagnoles. Les temps de trajet seront prolongés, affectant potentiellement les déplacements d'affaires et le transport de passagers entre ces deux pôles économiques majeurs, avec des répercussions possibles sur la compétitivité du transport ferroviaire face aux alternatives aériennes et routières.",
+      "execSummary": "L'Espagne a imposé une réduction drastique de la limite de vitesse sur la ligne ferroviaire Madrid-Barcelone après la découverte d'une fissure sur cette liaison très fréquentée. Cette mesure intervient dans un contexte préoccupant, marqué par deux accidents ferroviaires mortels récents dans le pays, selon la BBC. Les autorités espagnoles justifient cette décision par un impératif de sécurité absolue. Face aux défaillances techniques constatées, elles ont choisi de privilégier la protection des passagers plutôt que la performance commerciale, estimant que tout risque doit être éliminé avant la reprise d'une circulation normale sur cette infrastructure critique. Cette approche préventive s'inscrit dans une démarche de prudence renforcée suite aux récents drames ferroviaires. Les usagers et les opérateurs ferroviaires subissent les conséquences directes de cette limitation de vitesse. La liaison Madrid-Barcelone, artère économique majeure de l'Espagne, voit ses temps de parcours considérablement allongés, affectant les déplacements professionnels et touristiques. Les retards et perturbations générés impactent la compétitivité du transport ferroviaire face à l'aérien sur cette route stratégique, soulevant des questions sur la fiabilité des infrastructures de transport à grande vitesse et leurs coûts de maintenance.",
       "sources": [
         "BBC World",
         "Le Monde - Économie"
@@ -135,26 +137,27 @@
     },
     {
       "id": "2026-01-26-06",
-      "category": "economie",
-      "title": "L'Allemagne va construire des centrales à gaz",
-      "imageUrl": "https://img.lemde.fr/2026/01/25/14/0/5730/3820/1440/960/60/0/d982fc4_upload-1-l3xvhskohtew-2025-04-14t060130z-1908579763-rc2lpda5dc19-rtrmadp-3-ukraine-crisis-russia-gas.JPG",
+      "category": "geopolitique",
+      "title": "La Bulgarie rejoint le Conseil de la paix de Trump pour Gaza",
+      "imageUrl": "https://focus.courrierinternational.com/2026/01/22/0/0/7410/4940/1200/630/60/0/81ca073_ftp-1-smgru9jgbos0-afp-93m32gf.jpg",
       "location": {
-        "lat": 52.52,
-        "lng": 13.405,
-        "name": "Berlin, Allemagne"
+        "lat": 42.7339,
+        "lng": 25.4858,
+        "name": "Sofia, Bulgarie"
       },
       "bullets": [
-        "L'Allemagne obtient l'autorisation de l'UE pour construire des centrales à gaz",
-        "Berlin veut compenser les périodes de faible production d'énergies renouvelables",
-        "L'Allemagne justifie cette mesure par la sécurité énergétique nationale",
-        "Bruxelles valide le projet malgré les objectifs climatiques européens",
-        "Enjeu majeur : équilibrer transition verte et stabilité du réseau électrique"
+        "La Bulgarie rejoint le Conseil de la paix Trump — seuls Sofia et Budapest participent",
+        "L'organisme supervise la reconstruction de Gaza — création récente par Washington",
+        "Sofia justifie son engagement pour la paix régionale — diplomatie constructive",
+        "L'opposition bulgare critique les coûts et risques géopolitiques — isolement européen",
+        "Enjeu : positionnement de la Bulgarie entre UE et États-Unis"
       ],
-      "execSummary": "L'Allemagne a obtenu mi-janvier l'autorisation de la Commission européenne pour construire de nouvelles centrales à gaz et des batteries de stockage. Cette décision vise à sécuriser l'approvisionnement électrique allemand en compensant les périodes où la production d'énergies renouvelables est insuffisante.\n\nBerlin justifie cette stratégie par la nécessité d'assurer la stabilité de son réseau électrique. Les autorités allemandes considèrent ces centrales à gaz comme une solution de transition indispensable pour maintenir la continuité énergétique, particulièrement durant les périodes de faible vent et d'ensoleillement limité qui affectent la production éolienne et solaire.\n\nLa Commission européenne a validé ce projet, reconnaissant implicitement la nécessité de solutions de backup pour les énergies intermittentes. Cette autorisation intervient dans un contexte où l'Union européenne doit concilier ses ambitions climatiques avec les impératifs de sécurité énergétique des États membres.\n\nCette décision soulève des enjeux stratégiques majeurs pour la transition énergétique européenne. Elle illustre les défis techniques et économiques liés à l'intégration massive des énergies renouvelables dans le mix énergétique. L'équilibre entre objectifs climatiques et stabilité du réseau électrique devient crucial pour l'avenir énergétique de l'Europe, particulièrement dans le contexte post-crise ukrainienne.",
+      "execSummary": "La Bulgarie a rejoint jeudi 22 janvier le Conseil de la paix créé par Donald Trump pour superviser la reconstruction de Gaza, devenant avec la Hongrie de Viktor Orban le seul pays européen à intégrer cet organisme international. Cette décision de Sofia intervient dans un contexte de tensions au Moyen-Orient et de redéfinition des alliances internationales sous la nouvelle administration Trump. Le gouvernement bulgare présente cette adhésion comme un engagement constructif pour la paix régionale et la stabilisation de Gaza. Sofia met en avant sa volonté de contribuer activement aux efforts de reconstruction et de dialogue, soulignant l'importance de participer aux initiatives internationales de résolution des conflits. L'opposition et les analystes bulgares questionnent toutefois cette décision, s'interrogeant sur les coûts financiers et diplomatiques pour le pays. Ils craignent un isolement au sein de l'Union européenne et s'inquiètent des implications géopolitiques d'un alignement trop étroit avec les États-Unis dans cette région sensible. Cette adhésion place la Bulgarie dans une position délicate entre ses engagements européens et ses relations transatlantiques. L'enjeu dépasse la simple participation à un conseil international : il révèle les choix stratégiques de Sofia dans un contexte de recomposition géopolitique, avec des conséquences potentielles sur ses relations avec l'UE et son positionnement régional dans les Balkans.",
       "sources": [
+        "Courrier International",
         "Le Monde - Économie"
       ],
-      "publishedAt": "2026-01-26T12:30:06.000Z"
+      "publishedAt": "2026-01-26T13:54:25.000Z"
     }
   ]
 }
