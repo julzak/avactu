@@ -129,11 +129,12 @@ async function sendSMS(message: string, phoneNumber: string, recipientName: stri
   const toNumber = convertToOvhFormat(phoneNumber);
 
   // Build query string
+  // Note: 'from' omis pour utiliser le numéro par défaut OVH
+  // Ajouter "from: 'avactu'" une fois l'expéditeur validé par OVH
   const params = new URLSearchParams({
     account: account,
     login: login,
     password: password,
-    from: 'avactu',
     to: toNumber,
     message: message,
     noStop: '1',
