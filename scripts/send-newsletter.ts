@@ -138,7 +138,7 @@ function generateEmailHtml(stories: Story[], editionDate: string): string {
           <!-- Logo -->
           <tr>
             <td align="center" style="padding-bottom: 24px;">
-              <img src="${APP_URL}/icon-192.svg" alt="Avactu" width="48" height="48" style="display: block; border: 0;" />
+              <img src="${APP_URL}/icon-email.png" alt="Avactu" width="48" height="48" style="display: block; border: 0;" />
             </td>
           </tr>
 
