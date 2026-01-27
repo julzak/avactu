@@ -52,24 +52,26 @@ interface Subscriber {
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
 const APP_URL = process.env.APP_URL || 'https://avactu.vercel.app';
 
-const CATEGORY_EMOJI = {
-  geopolitique: '🌍',
-  economie: '📈',
-  politique: '🏛️',
+// Design System "Tactical Midnight"
+const COLORS = {
+  bgPrimary: '#05070A',
+  textPrimary: '#F8FAFC',
+  textSecondary: '#94A3B8',
+  textMuted: '#64748b',
+  border: 'rgba(148, 163, 184, 0.2)',
 } as const;
 
-const CATEGORY_COLOR = {
-  geopolitique: '#f43f5e',
-  economie: '#06b6d4',
-  politique: '#8b5cf6',
+const CATEGORY_CONFIG = {
+  geopolitique: { emoji: '🔴', label: 'Géopolitique', color: '#f43f5e' },
+  economie: { emoji: '🔵', label: 'Économie', color: '#0ea5e9' },
+  politique: { emoji: '🟣', label: 'Politique', color: '#8b5cf6' },
 } as const;
 
 /**
- * Generate HTML email content
+ * Generate HTML email content - Tactical Midnight Design
  */
 function generateEmailHtml(stories: Story[], editionDate: string): string {
   const formattedDate = new Date(editionDate).toLocaleDateString('fr-FR', {
-    weekday: 'long',
     day: 'numeric',
     month: 'long',
     year: 'numeric',
@@ -77,71 +79,112 @@ function generateEmailHtml(stories: Story[], editionDate: string): string {
 
   const storiesHtml = stories
     .map((story) => {
-      const emoji = CATEGORY_EMOJI[story.category];
-      const color = CATEGORY_COLOR[story.category];
+      const config = CATEGORY_CONFIG[story.category];
       const bulletsHtml = story.bullets
-        .slice(0, 3)
-        .map((b) => `<li style="margin-bottom: 4px; color: #94a3b8;">${b}</li>`)
+        .map((b, i) => `
+          <tr>
+            <td style="padding: 4px 12px 4px 0; vertical-align: top; font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 10px; color: ${COLORS.textSecondary};">${i + 1}</td>
+            <td style="padding: 4px 0; vertical-align: top; font-family: Georgia, serif; font-size: 14px; line-height: 1.5; color: ${COLORS.textSecondary};">${b}</td>
+          </tr>
+        `)
         .join('');
 
       return `
-        <div style="margin-bottom: 24px; padding: 16px; background: #1e293b; border-radius: 12px; border-left: 3px solid ${color};">
-          <div style="font-size: 12px; color: #64748b; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
-            ${emoji} ${story.location.name}
-          </div>
-          <h2 style="font-size: 18px; font-weight: 600; color: #f8fafc; margin: 0 0 12px 0; line-height: 1.3;">
-            ${story.title}
-          </h2>
-          <ul style="margin: 0; padding-left: 20px; font-size: 14px; line-height: 1.5;">
-            ${bulletsHtml}
-          </ul>
-        </div>
+        <tr>
+          <td style="padding-bottom: 28px;">
+            <!-- Category + Location -->
+            <p style="margin: 0 0 8px 0; font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 10px; text-transform: uppercase; letter-spacing: 1px;">
+              <span style="color: ${config.color};">${config.emoji} ${config.label}</span>
+              <span style="color: ${COLORS.textSecondary}; margin-left: 12px;">${story.location.name}</span>
+            </p>
+
+            <!-- Title -->
+            <h2 style="margin: 0 0 12px 0; font-family: Georgia, serif; font-size: 18px; font-weight: 600; line-height: 1.3; color: ${COLORS.textPrimary};">
+              ${story.title}
+            </h2>
+
+            <!-- Bullets -->
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+              ${bulletsHtml}
+            </table>
+          </td>
+        </tr>
+
+        <!-- Separator -->
+        <tr>
+          <td style="padding-bottom: 28px;">
+            <div style="height: 1px; background: linear-gradient(to right, transparent, ${COLORS.textSecondary}, transparent); opacity: 0.2;"></div>
+          </td>
+        </tr>
       `;
     })
     .join('');
 
   return `
-    <!DOCTYPE html>
-    <html lang="fr">
-    <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Avactu - ${formattedDate}</title>
-    </head>
-    <body style="margin: 0; padding: 0; background-color: #0f172a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      <div style="max-width: 600px; margin: 0 auto; padding: 24px 16px;">
-        <!-- Header -->
-        <div style="text-align: center; margin-bottom: 32px;">
-          <h1 style="font-size: 28px; font-weight: 700; color: #f8fafc; margin: 0 0 8px 0; letter-spacing: -0.5px;">
-            Avactu
-          </h1>
-          <p style="font-size: 12px; color: #64748b; margin: 0; text-transform: uppercase; letter-spacing: 1px;">
-            ${formattedDate}
-          </p>
-        </div>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="dark">
+  <title>Avactu — Briefing du ${formattedDate}</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: ${COLORS.bgPrimary}; font-family: Georgia, 'Times New Roman', serif;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: ${COLORS.bgPrimary};">
+    <tr>
+      <td align="center" style="padding: 40px 20px;">
+        <table role="presentation" width="560" cellspacing="0" cellpadding="0" border="0" style="max-width: 560px; width: 100%;">
 
-        <!-- Stories -->
-        ${storiesHtml}
+          <!-- Header -->
+          <tr>
+            <td style="padding-bottom: 32px;">
+              <p style="margin: 0 0 16px 0; font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: ${COLORS.textSecondary};">
+                Briefing du ${formattedDate}
+              </p>
+              <div style="height: 1px; background-color: ${COLORS.textSecondary}; opacity: 0.3;"></div>
+            </td>
+          </tr>
 
-        <!-- CTA Button -->
-        <div style="text-align: center; margin: 32px 0;">
-          <a href="${APP_URL}" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 14px;">
-            Lire sur Avactu →
-          </a>
-        </div>
+          <!-- Stories -->
+          ${storiesHtml}
 
-        <!-- Footer -->
-        <div style="text-align: center; padding-top: 24px; border-top: 1px solid #334155;">
-          <p style="font-size: 12px; color: #64748b; margin: 0;">
-            Tu reçois cet email car tu t'es abonné(e) à Avactu.
-          </p>
-          <p style="font-size: 11px; color: #475569; margin: 8px 0 0 0;">
-            L'actualité mondiale en 15 minutes, tous les 2 jours.
-          </p>
-        </div>
-      </div>
-    </body>
-    </html>
+          <!-- CTA Button -->
+          <tr>
+            <td align="center" style="padding: 20px 0 40px 0;">
+              <a href="${APP_URL}" style="display: inline-block; padding: 14px 28px; font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: ${COLORS.textPrimary}; text-decoration: none; border: 1px solid ${COLORS.textSecondary}; border-radius: 8px;">
+                Lire l'analyse complète
+              </a>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td style="padding-top: 24px; border-top: 1px solid ${COLORS.border};">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td align="center" style="padding-bottom: 16px;">
+                    <p style="margin: 0; font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 11px; color: ${COLORS.textSecondary}; letter-spacing: 0.5px;">
+                      Avactu — L'essentiel, sans le bruit.
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="margin: 0; font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 10px; color: ${COLORS.textMuted};">
+                      Tu reçois cet email car tu t'es abonné sur avactu.vercel.app
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
   `;
 }
 
@@ -150,7 +193,6 @@ function generateEmailHtml(stories: Story[], editionDate: string): string {
  */
 function generateEmailText(stories: Story[], editionDate: string): string {
   const formattedDate = new Date(editionDate).toLocaleDateString('fr-FR', {
-    weekday: 'long',
     day: 'numeric',
     month: 'long',
     year: 'numeric',
@@ -158,22 +200,21 @@ function generateEmailText(stories: Story[], editionDate: string): string {
 
   const storiesText = stories
     .map((story) => {
-      const emoji = CATEGORY_EMOJI[story.category];
-      const bullets = story.bullets.slice(0, 3).map((b) => `  • ${b}`).join('\n');
-      return `${emoji} ${story.location.name}\n${story.title}\n${bullets}`;
+      const config = CATEGORY_CONFIG[story.category];
+      const bullets = story.bullets.map((b, i) => `  ${i + 1}. ${b}`).join('\n');
+      return `${config.emoji} ${config.label.toUpperCase()} — ${story.location.name}\n${story.title}\n\n${bullets}`;
     })
-    .join('\n\n---\n\n');
+    .join('\n\n—————\n\n');
 
-  return `AVACTU - ${formattedDate}
+  return `BRIEFING DU ${formattedDate.toUpperCase()}
 
 ${storiesText}
 
----
+—————
 
-Lire sur Avactu : ${APP_URL}
+Lire l'analyse complète : ${APP_URL}
 
-Tu reçois cet email car tu t'es abonné(e) à Avactu.
-L'actualité mondiale en 15 minutes, tous les 2 jours.
+Avactu — L'essentiel, sans le bruit.
 `;
 }
 
