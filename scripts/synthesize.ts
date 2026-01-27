@@ -88,13 +88,13 @@ STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
 - Paragraphe 3 : POSITION B — Comment l'adversaire/opposant/critique perçoit la situation, ses contre-arguments
 - Paragraphe 4 : ENJEUX — Conséquences économiques, stratégiques, et perspectives futures
 
-RÈGLES DE FRANÇAIS :
-- TITRE : Utiliser les articles normalement (la Russie, les États-Unis, etc.)
-- BULLETS : Style télégraphique SANS articles au début. Exemples :
-  - "Russie bombarde Kiev" PAS "La Russie bombarde Kiev"
-  - "Trump annonce des sanctions" PAS "Le président Trump annonce..."
-  - "Tensions croissantes au Moyen-Orient" PAS "Les tensions croissantes..."
-- IMPORTANT : N'écris PAS les articles en majuscules (pas "LA Russie" mais "La Russie")
+RÈGLES DE FRANÇAIS (TITRE ET BULLETS) :
+- Toujours utiliser les articles devant les noms qui le nécessitent
+- Articles devant les noms de pays : la Russie, la France, la Chine, les États-Unis, le Royaume-Uni, l'Ukraine, l'Iran
+- Articles devant les lieux : le Groenland, la Crimée, le Moyen-Orient
+- Articles devant les groupes/institutions : les dirigeants, les analystes, l'armée, le gouvernement
+- Forme correcte : "La Russie bombarde Kiev" PAS "Russie bombarde Kiev"
+- IMPORTANT : N'écris PAS les articles en majuscules (pas "LA Russie" mais "La Russie" ou "la Russie")
 
 FORMAT DE SORTIE (JSON strict, pas de markdown) :
 {
@@ -106,11 +106,11 @@ FORMAT DE SORTIE (JSON strict, pas de markdown) :
     "name": "Nom du lieu principal (pour les villes françaises, ajouter ', France' : ex: 'Échirolles, France')"
   },
   "bullets": [
-    "Fait principal — qui fait quoi, où (max 15 mots, sans article au début)",
-    "Déclencheur — pourquoi maintenant (max 15 mots, sans article au début)",
-    "Position/réaction de l'acteur A (max 15 mots, sans article au début)",
-    "Position/réaction de l'acteur B ou opposant (max 15 mots, sans article au début)",
-    "Enjeu économique ou stratégique clé (max 15 mots, sans article au début)"
+    "Le fait principal — qui fait quoi, où (max 15 mots)",
+    "Le déclencheur — pourquoi maintenant (max 15 mots)",
+    "La position/réaction de l'acteur A (max 15 mots)",
+    "La position/réaction de l'acteur B ou opposant (max 15 mots)",
+    "L'enjeu économique ou stratégique clé (max 15 mots)"
   ],
   "execSummary": "4 paragraphes structurés (250-300 mots total) : Faits | Position A | Position B | Enjeux"
 }

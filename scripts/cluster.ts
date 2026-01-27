@@ -102,6 +102,16 @@ const GEO_ENTITIES: Record<string, string[]> = {
   'myanmar': ['myanmar', 'birmanie', 'burma'],
   'algeria': ['algeria', 'algérie', 'alger', 'algiers'],
   'iraq': ['iraq', 'irak', 'baghdad', 'bagdad'],
+  'india': ['india', 'indian', 'inde', 'indien', 'indienne', 'new delhi', 'delhi', 'modi'],
+  'japan': ['japan', 'japanese', 'japon', 'japonais', 'tokyo'],
+  'south_korea': ['south korea', 'corée du sud', 'seoul', 'séoul'],
+  'australia': ['australia', 'australian', 'australie', 'australien', 'canberra', 'sydney'],
+  'brazil': ['brazil', 'brazilian', 'brésil', 'brésilien', 'brasilia', 'lula'],
+  'mexico': ['mexico', 'mexican', 'mexique', 'mexicain'],
+  'turkey': ['turkey', 'turkish', 'turquie', 'turc', 'ankara', 'erdogan'],
+  'saudi_arabia': ['saudi', 'saoudite', 'riyadh', 'riyad', 'mbs'],
+  'chile': ['chile', 'chilean', 'chili', 'chilien', 'santiago'],
+  'oman': ['oman', 'omani', 'omanais', 'muscat', 'mascate'],
 };
 
 // Stop words FR + EN
@@ -322,6 +332,29 @@ function clusterArticles(articles: RawArticle[]): ArticleCluster[] {
 }
 
 /**
+ * Check if two clusters are about the same topic (to avoid duplicates)
+ */
+function areSameTopic(cluster1: ArticleCluster, cluster2: ArticleCluster): boolean {
+  const text1 = cluster1.articles.map(a => `${a.title} ${a.description}`).join(' ');
+  const text2 = cluster2.articles.map(a => `${a.title} ${a.description}`).join(' ');
+
+  const entities1 = extractEntities(text1);
+  const entities2 = extractEntities(text2);
+
+  // High entity overlap = same topic
+  const entSim = entitySimilarity(entities1, entities2);
+  if (entSim >= 0.6) return true;
+
+  // Check for shared articles (same URL)
+  const urls1 = new Set(cluster1.articles.map(a => a.url));
+  const urls2 = new Set(cluster2.articles.map(a => a.url));
+  const sharedUrls = [...urls1].filter(u => urls2.has(u)).length;
+  if (sharedUrls > 0) return true;
+
+  return false;
+}
+
+/**
  * Select best clusters
  */
 function selectBestClusters(clusters: ArticleCluster[]): ArticleCluster[] {
@@ -336,6 +369,11 @@ function selectBestClusters(clusters: ArticleCluster[]): ArticleCluster[] {
     .filter(c => new Set(c.articles.map(a => a.source)).size === 1)
     .sort((a, b) => b.importance - a.importance);
 
+  // Helper to check if cluster is duplicate of already selected
+  const isDuplicate = (candidate: ArticleCluster): boolean => {
+    return selected.some(s => areSameTopic(s, candidate));
+  };
+
   // Sort by category and importance
   const byCategory = {
     geopolitique: [...multiSource, ...singleSource].filter((c) => c.category === 'geopolitique'),
@@ -345,16 +383,28 @@ function selectBestClusters(clusters: ArticleCluster[]): ArticleCluster[] {
 
   for (const [category, target] of Object.entries(TARGET_CLUSTERS)) {
     const available = byCategory[category as keyof typeof byCategory];
-    selected.push(...available.slice(0, target));
+    let added = 0;
+    for (const cluster of available) {
+      if (added >= target) break;
+      if (!isDuplicate(cluster)) {
+        selected.push(cluster);
+        added++;
+      } else {
+        console.log(`   ⚠ Doublon ignoré: ${cluster.topic.slice(0, 40)}...`);
+      }
+    }
   }
 
   // Fill remaining slots
   const totalTarget = Object.values(TARGET_CLUSTERS).reduce((a, b) => a + b, 0);
   if (selected.length < totalTarget) {
-    const remaining = [...multiSource, ...singleSource]
-      .filter((c) => !selected.includes(c))
-      .slice(0, totalTarget - selected.length);
-    selected.push(...remaining);
+    const allSorted = [...multiSource, ...singleSource];
+    for (const cluster of allSorted) {
+      if (selected.length >= totalTarget) break;
+      if (!selected.includes(cluster) && !isDuplicate(cluster)) {
+        selected.push(cluster);
+      }
+    }
   }
 
   return selected.sort((a, b) => b.importance - a.importance);
