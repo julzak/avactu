@@ -34,8 +34,7 @@ export function SubscribeForm() {
       const { error } = await supabase!.from('subscribers').insert([
         {
           email: email.toLowerCase().trim(),
-          subscribed_at: new Date().toISOString(),
-          confirmed: true, // Auto-confirm for simplicity
+          confirmed: true,
         },
       ]);
 
