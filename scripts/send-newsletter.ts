@@ -127,7 +127,7 @@ function generateEmailHtml(stories: Story[], editionDate: string): string {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="dark">
-  <title>Avactu — Briefing du ${formattedDate}</title>
+  <title>Avactu — Briefing Avactu du ${formattedDate}</title>
 </head>
 <body style="margin: 0; padding: 0; background-color: ${COLORS.bgPrimary}; font-family: Georgia, 'Times New Roman', serif;">
   <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: ${COLORS.bgPrimary};">
@@ -146,7 +146,7 @@ function generateEmailHtml(stories: Story[], editionDate: string): string {
           <tr>
             <td style="padding-bottom: 32px;">
               <p style="margin: 0 0 16px 0; font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: ${COLORS.textSecondary};">
-                Briefing du ${formattedDate}
+                Briefing Avactu du ${formattedDate}
               </p>
               <div style="height: 1px; background-color: ${COLORS.textSecondary}; opacity: 0.3;"></div>
             </td>
