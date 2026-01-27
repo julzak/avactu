@@ -1,749 +1,24 @@
 {
-  "generatedAt": "2026-01-27T10:20:30.008Z",
+  "generatedAt": "2026-01-27T10:58:42.720Z",
   "clusterCount": 6,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Trump raises US tariffs on South Korea imports to 25%",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Trump raises US tariffs on South Korea imports to 25%",
-          "description": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year.",
-          "url": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5081/live/22f93670-fb18-11f0-a2c0-71839ce781f8.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T09:56:04.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Philippines' Duterte fit to face ICC proceedings, judges say",
-          "description": "The 80-year-old is accused of crimes of humanity over his bloody war on drugs that left thousands killed.",
-          "url": "https://www.bbc.com/news/articles/c0lx2pj84l4o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/801b/live/07d9eec0-fb4a-11f0-8a3f-efae3b17f55b.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T07:12:55.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Droits de douane : Donald Trump relance la guerre commerciale avec la Corée du Sud",
-          "description": "Le président des États-Unis, Donald Trump, qui reproche au parlement de la Corée du Sud de ne pas avoir ratifié l'accord commercial signé entre les deux pays, a annoncé lundi que des produits sud-coréens seraient désormais taxés à 25 %.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260126-droits-de-douane-donald-trump-relance-guerre-commerciale-coree-du-sud",
-          "imageUrl": "https://s.france24.com/media/display/cf7f81ce-fb0e-11f0-80b8-005056bf30b7/w:1024/p:16x9/AP26022784381985.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T23:30:54.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Accord Inde–UE : un partenariat économique majeur pour réduire les tarifs douani",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Accord Inde–UE : un partenariat économique majeur pour réduire les tarifs douaniers",
-          "description": "L'Inde et ‍l'Union européenne (UE) ont annoncé ​mardi la conclusion d'un accord commercial ambitieux, avec l'objectif de se prémunir de relations plus erratiques avec les Etats-Unis de Donald ⁠Trump.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260127-accord-inde%E2%80%93ue-un-partenariat-%C3%A9conomique-majeur-pour-r%C3%A9duire-les-tarifs-douaniers",
-          "imageUrl": "https://s.france24.com/media/display/b9f55a9e-fb64-11f0-9689-005056a90284/w:1024/p:16x9/FR-20260127-090137-090807-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T09:50:35.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "« La nouvelle politique industrielle de Trump est celle d’un capitalisme d’Etat assumé qui vise à piloter les secteurs stratégiques »",
-          "description": "Les prises de participations dans des entreprises notamment minières spécialisées dans les terres rares ou les financements ciblés se multiplient de la part de l’administration Trump. Un capitalisme d’Etat qui n’est pas sans rappeler celui mis en œuvre en France dans la défense ou l’énergie, relève Olivier Pinaud, journaliste au service Economie du « Monde ».",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/27/la-nouvelle-politique-industrielle-de-trump-est-celle-d-un-capitalisme-d-etat-assume-qui-vise-a-piloter-les-secteurs-strategiques_6664284_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/27/12/0/4712/3141/1440/960/60/0/329d8b8_upload-1-hovkh92my1ma-2020-04-22t000000z-746680830-rc2n9g9r3c45-rtrmadp-3-usa-rareearths.JPG",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T09:50:03.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "India and EU announce landmark trade deal",
-          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
-          "url": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T09:37:58.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "L’Inde et l’UE officialisent leur accord commercial ouvrant «une zone de libre-échange de 2 milliards de personnes»",
-          "description": "Mardi 27 janvier, l’Inde et l'Union européenne (UE) ont officialisé la conclusion d'un vaste accord de libre-échange commercial qui, au terme de 20 ans de négociations, va créer « une zone de libre-échange de deux milliards de personnes ». Dans un contexte géopolitique incertain, ce pacte doit permettre aux deux parties de mieux se protéger de la concurrence chinoise et des effets de la guerre des droits de douane engagée par les États-Unis.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260127-l-inde-et-l-ue-officialisent-leur-accord-commercial-ouvrant-une-zone-de-libre-%C3%A9change-de-2-milliards-de-personnes",
-          "imageUrl": "https://s.rfi.fr/media/display/5e2dd9aa-fb57-11f0-becd-005056bfb2b6/w:1024/p:16x9/AP26027236066668.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T08:57:24.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Gavin Newsom, gouverneur de Californie, lance une enquête sur TikTok après des accusations de censure de « contenus critiques envers Trump »",
-          "description": "Des utilisateurs affirment que l’application, désormais sous contrôle américain, a censuré des contenus critiquant Donald Trump en lien avec la mort d’un infirmier de 37 ans, samedi à Minneapolis, tué par la police de l’immigration.",
-          "url": "https://www.lemonde.fr/international/article/2026/01/27/le-gouverneur-democrate-de-californie-lance-une-enquete-sur-tiktok-apres-des-accusations-de-censure_6664278_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/22/0/0/5500/3666/1440/960/60/0/41181a1_ftp-1-n6g9w9okyupc-f4aba4d1dd1748ceada7fdc4f25a3bbd-0-6b32bb6185814949962351c7dd380375.jpg",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T08:53:16.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "États-Unis: les manifestants à Minneapolis affichent leur soutien aux personnes arrêtées par l'ICE",
-          "description": "À Minneapolis, les agents des services fédéraux déployés vont commencer à quitter la ville du nord des États-Unis mardi 27 janvier, alors que Donald Trump dit avoir eu de bonnes conversations avec le maire de la grande ville du Minnesota et avec le gouverneur démocrate Tim Walz. Mais depuis des semaines, des manifestants se rendent devant un bâtiment fédéral de la ville qui abrite l’ICE pour apporter leur soutien aux personnes arrêtées.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260127-%C3%A9tats-unis-les-manifestants-%C3%A0-minneapolis-affichent-leur-soutien-aux-personnes-arr%C3%AAt%C3%A9es-par-l-ice",
-          "imageUrl": "https://s.rfi.fr/media/display/c74b89e6-fb52-11f0-a81b-005056bf30b7/w:1024/p:16x9/AP26026856038944.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T08:46:21.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Des agents de l'ICE présents aux Jeux d'hiver à Milan en février",
-          "description": "Des agents de la police américaine de l'immigration seront présents en Italie pour les JO qui se tiennent à partir du 6 février à Milan pour \"évaluer et atténuer les risques liés aux organisations criminelles transnationales\", a déclaré, mardi, un porte-parole de l'agence. Le maire de la ville, Giuseppe Sala, a déclaré qu'ils \"ne sont pas les bienvenus\".",
-          "url": "https://www.france24.com/fr/europe/20260127-des-agents-de-l-ice-pr%C3%A9sents-aux-jeux-d-hiver-%C3%A0-milan-en-f%C3%A9vrier",
-          "imageUrl": "https://s.france24.com/media/display/342e3576-fb59-11f0-84a7-005056a97e36/w:1024/p:16x9/2026-01-26T112954Z-501327942-UP1EM1Q0VXSLA-RTRMADP-3-OLYMPICS-2026-PREVIEW.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T08:18:01.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Nipah virus outbreak in India triggers Asia airport screenings",
-          "description": "Airports in Thailand and Nepal have begun screening passengers from West Bengal.",
-          "url": "https://www.bbc.com/news/articles/cd7zp581q5do?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/17af/live/4f397450-fb56-11f0-80ad-435009e66207.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T08:02:16.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "« Le retrait des Etats-Unis du régime climatique international risque d’entraîner des conséquences dévastatrices en matière de financement »",
-          "description": "Les chercheuses Carola Kloeck et Kari De Pryck, spécialistes des politiques climatiques, s’inquiètent, dans une tribune au « Monde », du financement de l’atténuation et de l’adaptation au réchauffement dans les pays du Sud, après la défection de Washington.",
-          "url": "https://www.lemonde.fr/idees/article/2026/01/27/le-retrait-des-etats-unis-du-regime-climatique-international-risque-d-entrainer-des-consequences-devastatrices-en-matiere-de-financement_6664273_3232.html",
-          "imageUrl": "https://img.lemde.fr/2025/06/13/0/0/3000/2000/1440/960/60/0/f85df5d_upload-1-sqnpgwqkqi7g-frame-807.jpg",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T08:00:00.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "🔴 L'Inde et l'Union européenne scellent un accord de libre-échange historique",
-          "description": "",
-          "url": "https://www.france24.com/fr/asie-pacifique/20260126-l-inde-et-l-union-europ%C3%A9enne-scellent-un-vaste-accord-de-libre-%C3%A9change-commercial",
-          "imageUrl": "https://s.france24.com/media/display/323f404c-faf1-11f0-b93c-005056bfb2b6/w:1280/p:16x9/3c098dfe3535c3893ed6ebf6f9f71d705fa1c439.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T07:13:57.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "L’Inde et l’UE concluent un accord de libre-échange qui réduit les droits de douane dans de nombreux secteurs",
-          "description": "New Delhi pourrait s’ouvrir un peu plus aux voitures et aux vins européens, en échange d’un meilleur accès en Europe pour ses textiles et ses médicaments.",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/27/l-inde-et-l-ue-concluent-un-accord-de-libre-echange-qui-reduit-les-droits-de-douane-dans-de-nombreux-secteurs_6664269_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/27/0/0/4334/2889/1440/960/60/0/3316bc9_ftp-1-pq5mmc3c8ktr-5996404-01-06.jpg",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T07:08:18.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "À Minneapolis, les agents fédéraux vont quitter la ville pour apaiser les tensions",
-          "description": "Des agents des services fédéraux déployés à Minneapolis vont commencer à quitter la ville mardi, a assuré la municipalité. Le président Donald Trump semble jouer l'apaisement face à la vague d'indignation suscitée par la mort d'un deuxième manifestant américain.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260127-minneapolis-agents-f%C3%A9d%C3%A9raux-vont-quitter-ville-pour-apaiser-tensions-trump",
-          "imageUrl": "https://s.france24.com/media/display/f0cd161a-fb46-11f0-bac3-005056a97e36/w:1024/p:16x9/AP26026181651157.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T07:07:39.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Iran: quelles pourraient être les options des États-Unis en cas d'intervention militaire?",
-          "description": "Le porte-avions Abraham Lincoln et son escorte sont arrivés au Moyen-Orient, a annoncé lundi 26 janvier l'armée américaine, qui renforce ainsi sa présence dans la région à une période de fortes tensions avec l'Iran. Donald Trump avait assuré la semaine passée qu'une « armada » américaine faisait route vers le Golfe et que Washington surveillait de près l'Iran, où le pouvoir a réprimé dans le sang des manifestations d'ampleur.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260127-iran-quelles-pourraient-%C3%AAtre-les-options-des-%C3%A9tats-unis-en-cas-d-intervention-militaire",
-          "imageUrl": "https://s.rfi.fr/media/display/89dffa50-fb44-11f0-b953-005056bfb2b6/w:1024/p:16x9/AP26026255898448.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T06:36:18.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Qui est Gregory Bovino, le visage de la répression migratoire de Donald Trump ?",
-          "description": "Figure de proue de la politique d’expulsion massive menée par Donald Trump, Gregory Bovino incarne une police de l’immigration décomplexée, offensive et médiatique. Commandant de la patrouille frontalière et figure centrale des opérations d’ICE, son départ a été annoncé, mardi, par le président américain après les tueries à Minneapolis.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260127-etats-unis-ice-border-patrol-qui-est-gregory-bovino-repression-immigration",
-          "imageUrl": "https://s.france24.com/media/display/0150f98c-fac7-11f0-8c54-005056a90284/w:1024/p:16x9/063-2256971194.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T06:08:19.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Gregory Bovino, visage de la militarisation de la lutte contre l’immigration de l’administration Trump, écarté de Minneapolis",
-          "description": "Le responsable de la Customs and Border Protection, la police des frontières, qui revendique des méthodes agressives voire illégales, est au centre des critiques depuis que ses agents ont tué l’infirmier Alex Pretti lors d’une manifestation.",
-          "url": "https://www.lemonde.fr/international/article/2026/01/27/gregory-bovino-le-visage-de-la-militarisation-de-la-lutte-contre-l-immigration-clandestine-ecarte-de-minneapolis_6664264_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/22/6/0/4364/2909/1440/960/60/0/e8147f8_ftp-1-hj3jihvaw3ci-5957471-01-06.jpg",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T05:47:36.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Accord Inde-UE, tempête aux États-Unis, RDC : les informations de la nuit",
-          "description": "",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-accord-inde-ue-tempete-aux-etats-unis-rdc-les-informations-de-la-nuit_239817",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/4/2184/1456/1200/630/60/0/0f2e839_ftp-1-zhic5g01ylaj-2026-01-26t072838z-313521033-rc2s8ja21bvh-rtrmadp-3-india-republicday.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T05:07:59.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Gaza : le retour du corps de Ran Gvili, dernier otage du Hamas, ouvre une nouvelle étape",
-          "description": "Le corps du sergent israélien tué le 7-Octobre et retenu depuis à Gaza a été retrouvé par l’armée dans un cimetière du nord de l’enclave. Ce soldat de 24 ans s’était porté au secours de ses compagnons d’armes et de civils en apprenant l’attaque. La remise de son corps conditionnait le lancement de la deuxième phase du « plan de paix » américain.",
-          "url": "https://www.lemonde.fr/international/article/2026/01/27/ran-gvili-le-dernier-otage-du-hamas-identifie-un-heros-israelien_6664256_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/5139/3426/1440/960/60/0/85ea854_ftp-1-y1pa9jsxaub6-2026-01-26t164846z-1905513590-rc249jaapedu-rtrmadp-3-israel-palestinians-last-hostage-body.JPG",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T05:00:19.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Minneapolis : Donald Trump cherche à éteindre l’incendie déclenché par son administration",
-          "description": "Le président américain s’est entretenu avec le gouverneur du Minnesota et le maire de la ville où deux manifestants ont été tués par l’ICE, la police de l’immigration. Une partie des agents fédéraux devrait quitter les lieux mardi.",
-          "url": "https://www.lemonde.fr/international/article/2026/01/27/donald-trump-cherche-a-eteindre-l-incendie-declenche-par-son-administration-a-minneapolis_6664249_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/25/0/0/3900/2600/1440/960/60/0/b5e191b_ftp-1-pmniukfrxvsv-5980507-01-06.jpg",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T04:45:11.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "États-Unis: certains produits sud-coréens de nouveau visés par une taxe de 25%",
-          "description": "Le président américain Donald Trump a annoncé lundi 26 janvier que les droits de douane visant certains produits sud-coréens seraient désormais de 25 %, estimant que le Parlement du pays asiatique n'avait pas ratifié assez rapidement l'accord commercial signé avec Washington.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260127-%C3%A9tats-unis-certains-produits-sud-cor%C3%A9ens-de-nouveau-vis%C3%A9s-par-une-taxe-de-25",
-          "imageUrl": "https://s.rfi.fr/media/display/fa27e634-fb34-11f0-bc0d-005056a90284/w:1024/p:16x9/000-38WV662.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T04:11:52.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Le soutien des Etats-Unis est indispensable à la défense européenne, selon Mark Rutte, le secrétaire général de l’OTAN",
-          "description": "Alors que certains pays ont exprimé leur désir d’une « autonomie stratégique », Mark Rutte a martelé devant le Parlement européen qu’il était impossible pour les Européens de bâtir une nouvelle alliance défensive sans Washington, laquelle serait bien trop onéreuse et ne bénéficierait pas du « parapluie nucléaire américain ».",
-          "url": "https://www.lemonde.fr/international/article/2026/01/27/le-soutien-des-etats-unis-est-indispensable-a-la-defense-europeenne-selon-le-secretaire-general-de-l-otan_6664234_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/7053/4702/1440/960/60/0/4913ee5_ftp-1-ua17khsqzt1r-5991864-01-06.jpg",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T00:44:55.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Can India be a player in the computer chip industry?",
-          "description": "India is investing hundreds of millions of dollars in building up a computer chip industry.",
-          "url": "https://www.bbc.com/news/articles/cn40j0772vwo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7d6a/live/1dc87370-f5e4-11f0-b5f7-49f0357294ff.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T00:05:55.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Au Liban, des frappes israéliennes font trois morts dont un chef militaire du Hezbollah, selon l’Etat hébreu",
-          "description": "Le chef du mouvement chiite, cheikh Naïm Qassem, a mis en garde contre une attaque américaine en Iran, qui serait de nature à « embraser » la région.",
-          "url": "https://www.lemonde.fr/international/article/2026/01/27/au-liban-des-frappes-israeliennes-font-trois-morts-dont-un-chef-militaire-du-hezbollah-selon-l-etat-hebreu_6664233_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/25/0/0/3538/2359/1440/960/60/0/4502de4_ftp-1-gxt4upeifvlq-5982435-01-06.jpg",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T23:38:03.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Le «Discombobulator», la nouvelle arme secrète dans l'arsenal de l'armée américaine révélée par Trump",
-          "description": "Au cours d'une interview au journal le New York Post, Donald Trump a révélé l'existence d'un nouveau type d'arme électromagnétique utilisée le 3 janvier dernier lors de l'opération qui a conduit à l'arrestation de Nicolas Maduro. Une arme qui paralyse les systèmes de défense, mais aussi les hommes.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260126-le-discombobulator-la-nouvelle-arme-secr%C3%A8te-dans-l-arsenal-de-l-arm%C3%A9e-am%C3%A9ricaine-r%C3%A9v%C3%A9l%C3%A9e-par-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/5a801e34-fb0d-11f0-8bf8-005056a97e36/w:1024/p:16x9/AP26022784381985.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T23:28:58.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Mort d’Alex Pretti : L’administration Trump face aux images",
-          "description": "Samedi, un infirmier de 37 ans a été tué à Minneapolis aux Etats-Unis. Abattu par la police de l’immigration (ICE), le manifestant a été neutralisé par des tirs que les autorités américaines ont présenté comme défensifs parce qu'elles considéraient l'homme comme une menace armée. L’analyse des images contredit cette version.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260126-mort-d-alex-pretti-l-administration-trump-face-aux-images",
-          "imageUrl": "https://s.france24.com/media/display/8938a640-fb00-11f0-b302-005056a90284/w:1024/p:16x9/FRAN260126-2220-Live-CS2220.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T21:54:44.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Lula demande à Trump de limiter son «Conseil de paix» à la question de Gaza, rencontre prévue à Washington",
-          "description": "Le président brésilien Lula a demandé lundi 26 janvier à son homologue américain Donald Trump de limiter son « Conseil de paix » à la question de Gaza, lors d'une conversation téléphonique durant laquelle ils sont convenus de se rencontrer à Washington, selon Brasilia.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260126-br%C3%A9sil-lula-demande-%C3%A0-trump-de-limiter-son-conseil-de-paix-%C3%A0-la-question-de-gaza",
-          "imageUrl": "https://s.rfi.fr/media/display/0bf51678-faec-11f0-a388-005056a90284/w:1024/p:16x9/000-86VJ4NQ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T19:37:14.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Minneapolis : un point de bascule ?",
-          "description": "Que se passe-t-il à Minneapolis ? Après la mort d'une seconde victime, Alex Pretti, sous les balles de la police de l’immigration, l’opposition de démocrates comme Barack Obama ou Bill Clinton gronde. Certains républicains s’interrogent aussi sur les dérives de cette police et demandent une enquête. Donald Trump a accusé le maire de Minneapolis Jacob Frey et le gouverneur du Minnesota Tim Walz de susciter l’insurrection. Le président américain a envoyé Tom Homan, le \"tsar des frontières\", à Minneapolis ce lundi soir. Après la mort de Renée Good, le décès d’Alex Pretti est-il un point de bascule ? La police ICE est-elle le révélateur de la dérive autoritaire de Trump et de son administration ?",
-          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260126-minneapolis-un-point-de-bascule",
-          "imageUrl": "https://s.france24.com/media/display/289eab00-fae6-11f0-bf2d-005056a97e36/w:1024/p:16x9/LE-DEBAT-ICE-26-01.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T19:17:25.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "États-Unis: face à la colère, Donald Trump envoie le responsable de sa politique anti-immigration à Minneapolis",
-          "description": "Donald Trump a dépêché lundi 26 janvier Tom Homan, le responsable de sa politique nationale d'expulsions massives de migrants, dans le Minnesota, où l'indignation ne cesse de grandir contre la police de l'immigration, après la mort d'un deuxième Américain aux mains d'agents fédéraux. Le maire de Minneapolis a par ailleurs annoncé que des agents fédéraux quitteront Minneapolis dès mardi 27 janvier.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260126-%C3%A9tats-unis-face-%C3%A0-la-col%C3%A8re-trump-envoie-le-responsable-de-sa-politique-anti-immigration-%C3%A0-minneapolis",
-          "imageUrl": "https://s.rfi.fr/media/display/404beb20-fae9-11f0-b07b-005056a90284/w:1024/p:16x9/000-92PB8PH.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T19:07:06.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Gregory Bovino et son manteau, symboles de la répression trumpiste à Minneapolis",
-          "description": "Alors que la situation se tend de plus en plus à Minneapolis après la mort d’un deuxième manifestant à la suite de tirs d’un agent fédéral, la presse américaine dresse le portrait de Gregory Bovino, figure de la police des frontières. Son style, et notamment son manteau, est âprement commenté et analysé comme le symbole d’une militarisation croissante de la politique anti-immigration de Donald Trump.",
-          "url": "https://www.courrierinternational.com/article/portrait-gregory-bovino-et-son-manteau-symboles-de-la-repression-trumpiste-a-minneapolis_239795",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/0/3000/2000/1200/630/60/0/4f08dcf_upload-1-b8tp1hr4gixn-000-92vp7ty.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T18:51:14.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "« Les revirements de Donald Trump interviennent souvent après des chutes des cours de Bourse »",
-          "description": "Si les menaces commerciales bruyantes du président des Etats-Unis sont suivies de volte-face spectaculaires, c’est que la finance mondiale a imposé une ligne rouge, constate, dans sa chronique Nicolas Chapuis, journaliste au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/01/26/les-revirements-de-donald-trump-interviennent-souvent-apres-des-chutes-des-cours-de-bourse_6664205_3232.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/21/0/0/3548/2365/1440/960/60/0/d04d7de_ftp-1-pnnr1xgxhfab-2026-01-21t152052z-769874476-rc2p5jaahwok-rtrmadp-3-usa-stocks.JPG",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T17:55:04.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Port d'armes : intox autour du pistolet porté par Alex Pretti, tué par des agents fédéraux américains",
-          "description": "En plus d'avoir qualifié d'Alex Pretti, tué samedi par des agents fédéraux à Minneapolis, de \"terroriste de l'intérieur\", les autorités américaines ont aussi affirmé à tort que la victime n'avait pas le droit de porter une arme. D'autres intox, notamment sur la photo de l'arme récupérée par la police de l'immigration américaine (ICE), ont aussi entouré cet événement dramatique.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260126-minneapolis-port-armes-intox-victime-alex-pretti-police-ice-immigration",
-          "imageUrl": "https://s.france24.com/media/display/9d193f3c-fad6-11f0-aa09-005056bf30b7/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-22.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T17:42:01.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Fête nationale en Inde : la puissance militaire affichée devant les dirigeants de l'UE",
-          "description": "Les dirigeants de l'Union européenne assistent au défilé militaire qui marque le Jour de la République en Inde, invités d'honneur du gouvernement de New Delhi avec lequel ils doivent conclure un ambitieux traité de libre-échange commercial.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260126-f%C3%AAte-nationale-en-inde-la-puissance-militaire-affich%C3%A9e-devant-les-dirigeants-de-l-ue",
-          "imageUrl": "https://s.france24.com/media/display/b721df88-fadb-11f0-bd1c-005056a97e36/w:1024/p:16x9/minia-Inde-Parade0.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T17:26:09.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Irak : Al-Maliki de retour ? Les États-Unis contre un gouvernement “contrôlé par l’Iran”",
-          "description": "Cette figure de l’Irak post-Saddam Hussein, dont les deux précédents mandats à la tête de l’exécutif ont été entachés par les tensions communautaires, a reçu l’appui de la majorité chiite pour diriger le prochain gouvernement. Au grand dam de Washington, qui accentue la pression pour limiter l’influence de Téhéran dans le pays.",
-          "url": "https://www.courrierinternational.com/article/politique-irak-al-maliki-de-retour-les-etats-unis-contre-un-gouvernement-controle-par-l-iran_239776",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/24/0/0/3105/2070/1200/630/60/0/b3871a4_ftp-1-aoll4m3wrzis-afp-93w73nt.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T16:28:01.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Ma grossesse sous algorithme",
-          "description": "Le magazine belge “De Standaard Weekblad” consacre sa couverture à l’expérience d’Amanda Hess. Comme elle l’a détaillé dans un récent ouvrage, cette journaliste américaine a suivi sa grossesse et sa lactation à l’aide d’applications spécialisées. Si ces outils répondent à un besoin de contrôle, analyse-t-elle, ils ne le comblent pas pour autant.",
-          "url": "https://www.courrierinternational.com/une/une-du-jour-ma-grossesse-sous-algorithme_239784",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/412/0/1298/865/1200/630/60/0/084423e_upload-1-nvta97ywbmmf-standaard-weekblad-grossesse.png",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T16:24:57.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "L’Inde et l’UE poussés vers un accord commercial par les droits de douane punitifs de Trump",
-          "description": "New Delhi et Bruxelles devraient conclure un accord commercial sans précédent mardi 27 janvier, sans doute doublé d’un partenariat en matière de sécurité et de défense. Plusieurs médias internationaux estiment que la guerre commerciale déclenchée par le président américain redessine les dépendances et alliances économiques.",
-          "url": "https://www.courrierinternational.com/article/economie-l-inde-et-l-ue-pousses-vers-un-accord-commercial-par-les-droits-de-douane-punitifs-de-trump_239808",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/3/0/2416/1610/1200/630/60/0/7f25cae_ftp-1-ciffh4pocd3y-2026-01-26t072212z-713381930-rc2s8ja7uyf2-rtrmadp-3-india-republicday.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T16:17:36.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "“The Beauty” : Ryan Murphy crée un cocktail explosif entre FBI, top models et savants fous",
-          "description": "Un mystérieux produit rend celui ou celle qui le prend aussi magnifique qu’un mannequin, mais conduit à sa mort par combustion spontanée, ce qui pousse le FBI à se lancer dans une enquête sur cet étrange phénomène. “The Beauty”, la série de Ryan Murphy sortie ce 22 janvier sur Disney+, a séduit la presse américaine.",
-          "url": "https://www.courrierinternational.com/article/serie-the-beauty-ryan-murphy-cree-un-cocktail-explosif-entre-fbi-top-models-et-savants-fous_239768",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/0/3000/2000/1200/630/60/0/27b41ba_upload-1-nfmgjvc1i9yx-the-beauty-cooper-madsen-evan-peters-et-jordan-bennett-rebecca-hall.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T16:11:06.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Le rachat de Warner Bros par Netflix inquiète sérieusement les salles de cinéma américaines",
-          "description": "L’association des exploitants de cinémas américains redoute « un impact négatif et irréversible » au niveau mondial et « un préjudice substantiel pour la vie culturelle » aux Etats-Unis si Netflix acquiert le studio.",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/26/le-rachat-de-warner-bros-par-netflix-inquiete-serieusement-les-salles-de-cinema-americaines_6664188_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/6000/4000/1440/960/60/0/b49bf11_upload-1-8xodxicza21v-000-879z9yc.jpg",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T15:57:36.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "France: l’ex-sénateur Joël Guerriau devant la justice pour avoir drogué la déput",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "France: l’ex-sénateur Joël Guerriau devant la justice pour avoir drogué la députée Sandrine Josso",
-          "description": "En France, la révélation de cette affaire fin 2023 avait mis un coup de projecteur sur la soumission chimique, un an avant le procès des viols de Mazan. L'ex-sénateur de Loire-Atlantique Joël Guerriau est devant le tribunal correctionnel de Paris lundi 26 et mardi 27 janvier, accusé d'avoir drogué la députée du même département Sandrine Josso. Cela pour abuser d’elle en novembre 2023. Lors de son interrogatoire, Joël Guerriau a à nouveau plaidé une « erreur d’administration » sans intention sexuelle.",
-          "url": "https://www.rfi.fr/fr/france/20260127-france-l-ex-s%C3%A9nateur-jo%C3%ABl-guerriau-devant-la-justice-pour-avoir-drogu%C3%A9-la-d%C3%A9put%C3%A9e-sandrine-josso",
-          "imageUrl": "https://s.rfi.fr/media/display/7f884998-fb64-11f0-a582-005056bfb2b6/w:1024/p:16x9/AP26026473829887.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T09:44:51.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Trois touristes français meurent dans le naufrage de leur bateau dans le golfe d’Oman",
-          "description": "La police royale a précisé que le navire transportait 25 touristes français, ainsi qu’un guide et un capitaine, lorsqu’il a chaviré au large de Mascate, la capitale du sultanat.",
-          "url": "https://www.lemonde.fr/international/article/2026/01/27/trois-touristes-francais-meurent-dans-le-naufrage-de-leur-bateau-a-oman_6664282_3210.html",
-          "imageUrl": "https://img.lemde.fr/2020/01/11/73/0/960/640/1440/960/60/0/5ede3b4_VdrJsq9-Qz98PEdU40A8cCRX.png",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T09:36:22.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Au Chili, le président élu, José Antonio Kast, présente un gouvernement d’« indépendants » très marqué à droite",
-          "description": "Le premier chef d’Etat d’extrême droite chilien depuis la fin de la dictature a confié la défense et la justice à deux anciens avocats d’Augusto Pinochet, tandis qu’une militante anti-IVG a été nommée au ministère des droits des femmes.",
-          "url": "https://www.lemonde.fr/international/article/2026/01/27/au-chili-un-gouvernement-d-independants-mais-tres-marque-a-droite_6664275_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/21/0/0/5500/3666/1440/960/60/0/e4947ef_ftp-1-o8x0rhis8yrn-2026-01-21t034506z-1511548281-rc2a5jadg1cy-rtrmadp-3-chile-politics-kast.JPG",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T08:17:46.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
-          "description": "Under the plan, access to the Meta platforms' core services would remain free to use.",
-          "url": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eaa4/live/f5a13ad0-fb38-11f0-9ffe-0d55f5bffcbe.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T05:37:52.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "France: Gabriel Attal prépare sa candidature à la présidentielle de 2027",
-          "description": "Le parti Renaissance organise ce 27 septembre un événement, « La Nuit de la Nouvelle République », au Palais Brogniart à Paris. Une réunion va rassembler entre 18 h et minuit des personnalités du monde économique, syndical, de la société civile, des intellectuels qui vont débattre au sein de tables rondes autour d'une question : « Faut-il tout faire péter pour refonder la France ? ». Pas vraiment un meeting politique, mais la mise en scène d'une boîte à idées disruptive, qui participe à préparer la candidature de Gabriel Attal à la présidentielle.",
-          "url": "https://www.rfi.fr/fr/france/20260127-france-gabriel-attal-pr%C3%A9pare-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
-          "imageUrl": "https://s.rfi.fr/media/display/8110fcc8-faf7-11f0-a761-005056a90284/w:1024/p:16x9/000-94368EF.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T04:45:00.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
-          "description": "He has been described as an avid outdoorsman who loved mountain biking.",
-          "url": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/26a3/live/fc00db50-fb52-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T04:39:24.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Procès Martinez Zogo au Cameroun: la fiche de localisation du journaliste au cœur des auditions",
-          "description": "Quatre jours après la commémoration du 3e anniversaire de l'assassinat de l'ex-chef de chaîne de la radio Amplitude FM, dont le corps mutilé avait été retrouvé sur un terrain vague dans la banlieue de Yaoundé, deux nouveaux agents de la Direction générale des renseignements extérieurs (DGRE), en service à la Direction de la surveillance électronique (DSE), ont été entendus. Il s'agit de Rodrigue Tomni et de l'adjudant Bidias à Mousseri. Le premier a reconnu avoir fourni la fiche de localisation, et le second la fiche de renseignement concernant Martinez Zogo.",
-          "url": "https://www.rfi.fr/fr/afrique/20260127-proc%C3%A8s-martinez-zogo-au-cameroun-la-fiche-de-localisation-du-journaliste-au-c%C5%93ur-des-auditions",
-          "imageUrl": "https://s.rfi.fr/media/display/c7fcf76e-f745-11f0-a665-005056bfb2b6/w:1024/p:16x9/IMG-1530.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T04:13:56.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Derrière l’OPA de Daniel Kretinsky sur Fnac Darty, la bataille contre l’influence du chinois JD.com",
-          "description": "En lançant une offre publique d’achat sur Fnac Darty, dont il est déjà le premier actionnaire, le milliardaire tchèque pourrait barrer la route à une entrée indirecte du géant chinois de l’e-commerce JD.com au capital du distributeur français. Une opération suivie de près par l’Etat.",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/27/derriere-l-opa-de-daniel-kretinsky-sur-fnac-darty-la-bataille-contre-l-influence-du-chinois-jd-com_6664238_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/2/0/5398/3598/1440/960/60/0/afab110_upload-1-cuuav2yfxoik-080-hl-smouchmouche-2344252.jpg",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-27T04:00:08.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "'Major step': French MPs vote in favour of bill to ban social media for under-15s",
-          "description": "If the bill passes the upper house it could take effect by the start of France's new school year in September.",
-          "url": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/053a/live/4c7fd700-fab0-11f0-91f4-a739ab96be22.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T01:12:19.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Soumission chimique : 82% des cas dans la sphère privée",
-          "description": "L'ancien sénateur Joël Guerriau comparaît devant le tribunal correctionnel de Paris pour avoir drogué, chez lui, à Paris, le 14 novembre 2023, la députée Sandrine Josso en vue de commettre une agression sexuelle ou un viol. Des faits passibles de cinq ans d'emprisonnement et 75 000 euros d'amende. Plus d'un an après la fin du procès Mazan, la soumission chimique fait à nouveau scandale.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260126-soumission-chimique-82-des-cas-dans-la-sph%C3%A8re-priv%C3%A9e",
-          "imageUrl": "https://s.france24.com/media/display/b13fc7f0-fb0e-11f0-b042-005056bf30b7/w:1024/p:16x9/FRAN260126-2339-Live-CS2339.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T23:37:20.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Le président tchadien Idriss Déby invité à Paris: un réchauffement en cours",
-          "description": "L'heure est-elle au rabibochage entre la France et le Tchad ? Le président tchadien, Mahamat Idriss Déby, a reçu, ce lundi 26 janvier, l'ambassadeur de France, à Ndjamena, et a accepté une invitation de son homologue Emmanuel Macron à se rendre à Paris. Quatorze mois après la rupture brutale et à forte valeur symbolique de l'accord de Défense, les deux États semblent chercher un réchauffement.",
-          "url": "https://www.rfi.fr/fr/afrique/20260126-le-pr%C3%A9sident-tchadien-idriss-d%C3%A9by-invit%C3%A9-%C3%A0-paris-un-r%C3%A9chauffement-en-cours",
-          "imageUrl": "https://s.rfi.fr/media/display/c32b7fe2-38c1-11ef-9955-005056bf30b7/w:1024/p:16x9/000_362C7UY.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T22:45:55.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Daniel Kretinsky en France, une galaxie protéiforme d’achats et d’investissements",
-          "description": "Le milliardaire tchèque multiplie les acquisitions, notamment dans les médias, depuis son arrivée dans l’Hexagone en 2018, dont la dernière en date est celle de Fnac Darty. Mais avec quelle stratégie ?",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/26/daniel-kretinsky-en-france-une-galaxie-proteiforme-d-achats-et-d-investissements_6664226_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/2575/1716/1440/960/60/0/e9a603f_upload-1-sp6a4q5ogeza-2023-10-17t131735z-53086418-rc2cu3ahrjeb-rtrmadp-3-czech-kretinsky.JPG",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T20:15:42.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Crise à Ubisoft : le numéro un français du jeu vidéo envisage de supprimer jusqu’à 200 postes en France",
-          "description": "Après de nombreuses restructurations et fermetures de studios à l’étranger, c’est au tour des salariés du siège français d’être visés.",
-          "url": "https://www.lemonde.fr/jeux-video/article/2026/01/26/crise-a-ubisoft-le-numero-un-francais-du-jeu-video-envisage-de-supprimer-jusqu-a-200-postes-en-france_6664218_1616924.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/5656/3771/1440/960/60/0/01f6e7e_ftp-1-xdfc4wrkdlzc-5992962-01-06.jpg",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T19:14:21.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Nigerian officers to face trial over coup-plot allegations",
-          "description": "Following an investigation some of the 16 detained last year are accused of planning to unseat President Bola Tinubu.",
-          "url": "https://www.bbc.com/news/articles/c9dv4wlw3yzo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1f15/live/9686d2e0-fadd-11f0-b385-5f48925de19a.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T19:07:08.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Réseaux sociaux : quels dangers ?",
-          "description": "Les députés doivent se prononcer ce lundi sur l'interdiction des réseaux sociaux aux moins de 15 ans et les téléphones portables dans les lycées. Le texte, proposé par Renaissance, vise à protéger davantage les adolescents dont la santé mentale est mise à mal par la surexposition à TikTok, Snapchat ou encore Instagram. Les explications de Katia Roux, chargée de plaidoyer technologies et droits humains à Amnesty International France.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260126-r%C3%A9seaux-sociaux-quels-dangers",
-          "imageUrl": "https://s.france24.com/media/display/32781cce-fae1-11f0-ae6f-005056bf30b7/w:1024/p:16x9/capture-12155789876977ac3c824521-97682412.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T18:06:13.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "\"C'étaient des balles de guerre\" : des médecins iraniens témoignent d'une répression sans précédent",
-          "description": "France 24 a recueilli les témoignages de médecins iraniens sur les nuits des 8 et 9 janvier, lors du pic des manifestations antigouvernementales en Iran. Hôpitaux débordés, blessés soignés à domicile, tirs de balles de guerre : ils décrivent une répression d’une violence extrême, qui a fait d'innombrables morts et blessés graves.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20260126-balles-guerre-m%C3%A9decins-iraniens-t%C3%A9moignent-r%C3%A9pression-sans-pr%C3%A9c%C3%A9dent-manifestations-hopitaux-armes-mitrailleuses",
-          "imageUrl": "https://s.france24.com/media/display/f2abfe98-fad7-11f0-92b0-005056a90284/w:1024/p:16x9/2026-01-12T171407Z-921365277-RC29XIA2YXVC-RTRMADP-3-IRAN-ECONOMY-PROTESTS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T18:03:29.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Réseau de chaleur parisien : Engie dépose des recours pour faire annuler le contrat de Dalkia",
-          "description": "La valeur de la concession d’un quart de siècle à partir de 2027 est estimée à 15 milliards d’euros.",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/26/reseau-de-chaleur-parisien-engie-depose-des-recours-pour-faire-annuler-le-contrat-de-dalkia_6664206_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/19/0/0/5500/3666/1440/960/60/0/417eeda_ftp-1-36whosg89nwl-2026-01-19t111633z-1498038051-rc2bsu9zvcrq-rtrmadp-3-engie-masdar-renewables.JPG",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T18:00:01.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Les wagons “no kids” de la SNCF mettent la France “en ébullition”",
-          "description": "L’offre “Optimum” proposant un espace de calme et interdit aux enfants sur la ligne Paris-Lyon a déclenché une vive polémique en France, observe la presse étrangère. Celle-ci est révélatrice d’une société tiraillée entre l’ambition du “vivre-ensemble” et la réalité d’une société de plus en plus fracturée, estiment certains observateurs.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-les-wagons-no-kids-de-la-sncf-mettent-la-france-en-ebullition_239791",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/0/5568/3712/1200/630/60/0/c734fe8_upload-1-wmoekbsjcucv-000-89xd9cq.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T17:10:34.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "En France, le nombre de passagers aériens dépasse pour la première fois son niveau d’avant Covid-19",
-          "description": "Le nombre de voyageurs sur les lignes intérieures continue toutefois de se contracter et reste inférieur de 20,9 % à son niveau de 2019, selon des statistiques de la direction générale de l’aviation civile publiées lundi.",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/26/en-france-le-nombre-de-passagers-aeriens-depasse-pour-la-premiere-fois-son-niveau-d-avant-covid-19_6664187_3234.html",
-          "imageUrl": "https://img.lemde.fr/2025/12/10/0/0/6720/4480/1440/960/60/0/a4fb3f0_ftp-1-mwanvxzoxb51-2025-12-10t010509z-1319151074-rc2cdianok0u-rtrmadp-3-air-transat-strike.JPG",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T15:48:21.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Deadly winter storm grips large parts of the US",
-          "description": "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions.",
-          "url": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/780d/live/ffabd240-fa9f-11f0-b385-5f48925de19a.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T10:17:05.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-5",
-      "topic": "EN DIRECT, guerre en Ukraine : Kiev confirme que l’armée russe équipe certains d",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "EN DIRECT, guerre en Ukraine : Kiev confirme que l’armée russe équipe certains de ses drones de systèmes Starlink",
-          "description": "Le ministre de la défense ukrainien, Mykhaïlo Fedorov, a souligné la nécessité d’une réaction rapide face à ce problème. « Nous devons réagir très rapidement. La vitesse de notre réponse, l’anticipation des incidents futurs et la réaction aux menaces potentielles doivent nous permettre d’éviter des problèmes », a-t-il dit.",
-          "url": "https://www.lemonde.fr/international/live/2026/01/27/en-direct-guerre-en-ukraine-les-dernieres-informations_6664247_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/27/833/0/5000/2500/1440/720/60/0/d40ee86_ftp-1-g3dehjkrypin-2026-01-27t083313z-435620458-rc2w8jaei7yr-rtrmadp-3-ukraine-crisis-east-frontline.JPG",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T09:37:18.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "En direct : le chef d'état-major russe rend visite à ses troupes dans l'est de l'Ukraine",
-          "description": "À l'approche de nouveaux pourparlers entre Russes, Ukrainiens et Américains à Abu Dhabi qui doivent se tenir dans les prochains jours, le chef d'état-major russe a rendu visite à ses troupes combattant dans l'est de l'Ukraine, a annoncé le ministère de la Défense, sans préciser la date ni le lieu. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20260127-en-direct-le-chef-d-%C3%A9tat-major-russe-rend-visite-%C3%A0-ses-troupes-dans-l-est-de-l-ukraine",
-          "imageUrl": "https://s.france24.com/media/display/a03571f2-fb4b-11f0-a83d-005056a90284/w:1024/p:16x9/AP26015421197490.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T06:58:51.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "L’opposition russe en exil fait son entrée au Conseil de l’Europe",
-          "description": "Quinze figures de la dissidence russe à l’étranger ont été autorisées à siéger à l’assemblée parlementaire de cette organisation internationale, distincte de l’Union européenne, chargée de la promotion des droits de l’homme. Les représentants de Moscou en ont été exclus en 2022, en réaction à l’invasion de l’Ukraine.",
-          "url": "https://www.lemonde.fr/international/article/2026/01/27/l-opposition-russe-en-exil-fait-son-entree-au-conseil-de-l-europe_6664232_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/1/0/7156/4770/1440/960/60/0/d7c68d4_upload-1-kz8nvo1r8q8o-000-36hz99w.jpg",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T23:30:02.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Guerre en Ukraine : une école maternelle visée par une frappe russe à Kharkiv. Retrouvez les informations du 18 au 26 janvier 2026.",
-          "description": "Le maire de Kharkiv, Ihor Terekhov, a rapporté que des bombardements ont ciblé la ville en fin de journée et qu’ils ont fait deux blessés.",
-          "url": "https://www.lemonde.fr/international/live/2026/01/27/en-direct-guerre-en-ukraine-une-ecole-maternelle-visee-par-une-frappe-russe-a-kharkiv-selon-les-autorites_6663004_3210.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/299/0/3586/1793/1440/720/60/0/8673e56_ftp-1-itmaxfjd0kvo-2026-01-26t205441z-122615544-rc279jabieg1-rtrmadp-3-ukraine-crisis-attack-kharkiv.JPG",
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T23:14:20.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "L'or franchit la barre des 5 000 dollars l'once, une première historique",
-          "description": "En période d'incertitudes, les investisseurs délaissent les actions et autres placements pour se tourner vers l'or, éternelle valeur refuge. En un an, sa valeur a quasiment doublé pour dépasser, en séance, les 5 100 dollars. Les banques centrales en achètent des quantités bien supérieures à leurs acquisitions habituelles, autour de 60 tonnes par mois au lieu de 17 tonnes en moyenne avant 2022. Mais les analystes craignent une correction du cours de l'or dans les prochains mois. Reste que c'est une valeur sûre et facilement mobilisable quand, comme la Russie après l'invasion à grande échelle de l'Ukraine, un pays fait l'objet de sanctions internationales. Dans les mois qui ont précédé février 2022, Moscou avait d'ailleurs considérablement augmenté les achats d'or.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260126-l-or-franchit-la-barre-des-5-000-dollars-l-once-une-premi%C3%A8re-historique",
-          "imageUrl": "https://s.france24.com/media/display/4886248c-fb06-11f0-b9db-005056a97e36/w:1024/p:16x9/VIDI34KN4KT-EN-STOCKSHOTS-Gold-production-and-sales-3.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T22:37:31.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-1",
-      "topic": "Auchan envisage de vendre 91 supermarchés au Groupement Mousquetaires",
-      "category": "economie",
+      "topic": "Le nouveau visage des écoles internationales à Hong Kong",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Le nouveau visage des écoles internationales à Hong Kong",
+          "description": "Pensées pour les expatriés, les écoles internationales hongkongaises attirent désormais des profils plus divers. Langues et identités multiples redessinent leurs contours, observe le “South China Morning Post”.",
+          "url": "https://www.courrierinternational.com/article/education-le-nouveau-visage-des-ecoles-internationales-a-hong-kong_239151",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/09/16/0/1280/853/1200/630/60/0/5ce4c08_upload-1-42nwllitxeoy-hong-kong-1909685-1280.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T10:48:55.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
         {
           "id": "2026-01-27-aHR0cHM6",
           "title": "Auchan envisage de vendre 91 supermarchés au Groupement Mousquetaires",
@@ -753,40 +28,7 @@
           "source": "Le Monde - Économie",
           "category": "economie",
           "publishedAt": "2026-01-27T10:09:20.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Deux proches de Pinochet nommés ministres : c’était quoi, la dictature chilienne ?",
-          "description": "",
-          "url": "https://www.courrierinternational.com/stories/chili-deux-proches-de-pinochet-nommes-ministres-c-etait-quoi-la-dictature-chilienne_239655",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/2210/594/5006/3337/1200/630/60/0/b615200_upload-1-isdw1xd4xydt-2benedicte-2025-12-20-3342-copie.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T09:31:30.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "En Moselle, recherches et espoirs après la découverte \"unique au monde\" d'hydrogène naturel",
-          "description": "Pourra-t-on prochainement exploiter en Lorraine des millions de tonnes d'hydrogène naturel, possible source d'énergie décarbonée? Les recherches s'intensifient autour de ce gisement sous-terrain potentiellement unique au monde, dont les retombées économiques pourraient profiter à toute la région.",
-          "url": "https://www.france24.com/fr/info-en-continu/20260127-en-moselle-recherches-et-espoirs-apr%C3%A8s-la-d%C3%A9couverte-unique-au-monde-d-hydrog%C3%A8ne-naturel",
-          "imageUrl": "https://s.france24.com/media/display/e8b9745c-fb5d-11f0-8478-005056bfb2b6/w:1024/p:16x9/16370d60cd8781c7d781ae77bc27cef8861810ce.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T08:55:21.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Lili Keller-Rosenberg, une inépuisable rescapée de la Shoah qui témoigne encore et toujours",
-          "description": "Depuis plus de 40 ans, Lili Keller-Rosenberg raconte son histoire dans des établissements scolaires. Issue d'une famille juive originaire de Hongrie, elle a été arrêtée à Roubaix à 11 ans. Déportée à Ravensbrück, puis Bergen-Belsen, elle a réussi à survivre miraculeusement. Rencontre à l'occasion de la Journée internationale dédiée à la mémoire des victimes de l'Holocauste.",
-          "url": "https://www.france24.com/fr/europe/20260127-lili-keller-rosenberg-rescapee-shoah-temoignage-ravensbruck-journee-victimes-holocauste",
-          "imageUrl": "https://s.france24.com/media/display/00814e46-faa2-11f0-8195-005056bfb2b6/w:1024/p:16x9/034-1.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T06:30:28.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
         },
         {
           "id": "2026-01-27-aHR0cHM6",
@@ -797,7 +39,7 @@
           "source": "France 24",
           "category": "geopolitique",
           "publishedAt": "2026-01-27T06:23:14.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
         },
         {
           "id": "2026-01-27-aHR0cHM6",
@@ -808,18 +50,7 @@
           "source": "Courrier International",
           "category": "geopolitique",
           "publishedAt": "2026-01-27T06:01:13.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Est de la RDC: «Nous avons documenté des cas de fraude minière, notamment vers le Rwanda»",
-          "description": "Il y a un an, l’AFC/M23 prenait le contrôle, avec l’aide de ses soutiens rwandais, de Goma, la grande ville de l’est de la RDC. Aujourd'hui, plusieurs grands sites miniers du Nord-Kivu, dont Rubaya, restent sous le contrôle du groupe armé. Mickaël Daudin, directeur du programme ITSCI (International Tin Supply Chain Initiative) chargé de promouvoir des chaînes d’approvisionnement responsables, explique avoir documenté plusieurs cas de fraude minière, notamment vers les pays voisins. Selon lui, la dégradation sécuritaire et la suspension des circuits d’approvisionnement responsables ont accentué ces pratiques.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260127-nous-avons-document%C3%A9-des-cas-de-fraude-mini%C3%A8re-notamment-vers-le-rwanda",
-          "imageUrl": "https://s.rfi.fr/media/display/05a45150-f9ff-11f0-9743-005056bf30b7/w:1024/p:16x9/000-36ZG4WC.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T05:46:07.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
         },
         {
           "id": "2026-01-27-aHR0cHM6",
@@ -830,18 +61,7 @@
           "source": "Le Monde - Économie",
           "category": "economie",
           "publishedAt": "2026-01-27T05:00:31.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Le budget, symbole et limite de la démocratie",
-          "description": "Dans toute organisation, la gestion budgétaire incarne la prise de responsabilité vis-à-vis d’autrui, rappelle dans sa chronique le chercheur en sciences de gestion Armand Hatchuel. Les difficultés à obtenir un budget sans majorité invitent à repenser cette « bonne gestion ».",
-          "url": "https://www.lemonde.fr/emploi/article/2026/01/27/le-budget-symbole-et-limite-de-la-democratie_6664257_1698637.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/23/65/0/5677/3784/1440/960/60/0/ac34b60_ftp-1-gs2jnxqdg5bv-5964780-01-06.jpg",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-27T05:00:19.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
         },
         {
           "id": "2026-01-27-aHR0cHM6",
@@ -852,62 +72,18 @@
           "source": "Le Monde - Économie",
           "category": "economie",
           "publishedAt": "2026-01-27T05:00:14.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
         },
         {
           "id": "2026-01-27-aHR0cHM6",
-          "title": "De la difficulté de prévenir et de qualifier un génocide au XXIe siècle",
-          "description": "Dans un monde toujours plus instable et imprévisible, des conflits éclatent quand d'autres s’enlisent. Des massacres s'accomplissent. Comment faire non seulement pour prévenir les crimes fondamentaux du droit pénal international, dont les génocides, mais aussi pour les qualifier comme tels ?",
-          "url": "https://www.rfi.fr/fr/monde/20260127-de-la-difficult%C3%A9-de-pr%C3%A9venir-et-de-qualifier-un-g%C3%A9nocide-au-xxie-si%C3%A8cle",
-          "imageUrl": "https://s.rfi.fr/media/display/79a3eeae-8075-11ee-93a6-005056bfb2b6/w:1024/p:16x9/AP23307784054431.jpg",
+          "title": "Une mission archéologique égypto-chinoise a découvert un «lac sacré» à Louxor",
+          "description": "Un « lac sacré » découvert dans le complexe du temple de Karnak à Louxor en Égypte. C’est un évènement dans le monde de l’égyptologie, la trouvaille, antérieure, a été officialisée ce week-end lors d’une conférence de presse sur le site donnée par l’équipe sino-égyptienne à son origine. Elle ouvre selon les chercheurs de nouvelles perspectives quant à la compréhension des pratiques religieuses en Égypte ancienne.",
+          "url": "https://www.rfi.fr/fr/afrique/20260127-une-mission-arch%C3%A9ologique-%C3%A9gypto-chinoise-a-d%C3%A9couvert-un-lac-sacr%C3%A9-%C3%A0-louxor",
+          "imageUrl": "https://s.rfi.fr/media/display/049b0ee0-4a64-11ee-a021-005056a90284/w:1024/p:16x9/AP21330712122336.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-01-27T04:55:33.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "« A chaque vol, je culpabilise d’exploser mon bilan carbone » : pourquoi les jeunes continuent de prendre l’avion malgré leurs convictions écologiques",
-          "description": "La forte sensibilité écologique des 18-35 ans va pourtant de pair avec une utilisation de l’avion au moins aussi importante que les autres générations.",
-          "url": "https://www.lemonde.fr/campus/article/2026/01/27/a-chaque-vol-je-culpabilise-d-exploser-mon-bilan-carbone-pourquoi-les-jeunes-continuent-de-prendre-l-avion-malgre-leurs-convictions-ecologiques_6664250_4401467.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/23/0/0/3000/2000/1440/960/60/0/ba8924e_upload-1-hlabfhcrkkrv-avion-e-tudiant.jpg",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-27T04:45:15.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Burkina Faso: un projet de centrale de 200 MW dévoilé pour stabiliser le réseau électrique",
-          "description": "Dans un contexte de développement des investissements des Émirats arabes unis sur le continent africain - 110 milliards de dollars en Afrique entre 2019 et 2023 - l'entreprise émirienne Mark Cables a annoncé ce lundi s'engager dans un gros projet de centrale électrique au Burkina Faso d'un montant de 180 millions d'euros.",
-          "url": "https://www.rfi.fr/fr/afrique/20260127-burkina-faso-un-projet-de-centrale-de-200-mw-d%C3%A9voil%C3%A9-pour-stabiliser-le-r%C3%A9seau-%C3%A9lectrique",
-          "imageUrl": "https://s.rfi.fr/media/display/8234357c-fb1d-11f0-819a-005056a97e36/w:1024/p:16x9/000-UP40P.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T04:15:45.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Madagascar: la rupture d'un barrage près d'Antananarivo menace des milliers d'habitations",
-          "description": "Vigilance rouge dans le sud de la capitale. Suite aux fortes pluies de ces derniers jours, dans la nuit du samedi 24 au dimanche 25 janvier 2026, à une quinzaine de kilomètres d’Antananarivo, un barrage hydro-agricole inauguré il y a deux ans a partiellement cédé, entrainant le déversement d’une rivière en furie vers des milliers d’hectares de parcelles cultivées. Une digue censée protéger les habitations et les cultures menace désormais de rompre. La journée de lundi a été consacrée à tenter de la consolider.",
-          "url": "https://www.rfi.fr/fr/afrique/20260127-madagascar-la-rupture-d-un-barrage-pr%C3%A8s-d-antananarivo-menace-des-milliers-d-habitations",
-          "imageUrl": "https://s.rfi.fr/media/display/a31baba2-fb28-11f0-8edb-005056bf30b7/w:1024/p:16x9/Rupture-Barrage.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T04:14:55.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-27-aHR0cHM6",
-          "title": "Kenya: le pasteur autoproclamé de la secte de Shakahola inculpé pour 52 décès supplémentaires",
-          "description": "Nouveau rebondissement dans l’affaire de la secte de Shakahola. Paul Mackenzie va être poursuivi pour 52 morts supplémentaires. Le pasteur autoproclamé est en détention provisoire depuis 2023, dans le cadre de l’enquête sur la mort d’environ 450 adeptes de sa secte qu’il incitait à jeûner jusqu’à la mort pour rencontrer Jésus dans la forêt de Shakahola, dans l’est du Kenya. En 2025, 34 cadavres et 102 morceaux de corps ont été découverts dans le hameau de Binzaro à une trentaine de kilomètres de Shakahola. Ils correspondent à 52 décès selon l’enquête. Les détectives pointent du doigt une continuation de Shakahola même si le gourou était en détention.",
-          "url": "https://www.rfi.fr/fr/afrique/20260127-kenya-le-pasteur-autoproclam%C3%A9-de-la-secte-de-shakahola-inculp%C3%A9-pour-52-d%C3%A9c%C3%A8s-suppl%C3%A9mentaires",
-          "imageUrl": "https://s.rfi.fr/media/display/f031f576-7f64-11f0-9754-005056bf30b7/w:1024/p:16x9/Five-bodies-recovered-in-Kenya-at-suspected-site-of-cult-deaths.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-27T04:14:31.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
+          "publishedAt": "2026-01-27T04:16:00.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
         },
         {
           "id": "2026-01-27-aHR0cHM6",
@@ -918,139 +94,51 @@
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-01-27T04:00:24.000Z",
-          "fetchedAt": "2026-01-27T10:16:06.664Z"
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
         },
         {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Nigeria: procès en vue pour juger des militaires accusés de tentative de coup d’Etat en 2025",
-          "description": "Le Nigeria va juger des militaires accusés de tentative de coup d'État. L'annonce a été faite, ce lundi 26 janvier, par l'armée nigériane. En octobre dernier, 16 militaires avaient été arrêtés, officiellement pour « indiscipline ». Les rumeurs de tentative de coup d'État, circulant dans la presse, avaient été officiellement démenties. En annonçant ce procès à venir, Lagos reconnaît donc l'existence du complot.",
-          "url": "https://www.rfi.fr/fr/afrique/20260126-nigeria-proc%C3%A8s-en-vue-pour-juger-des-militaires-accus%C3%A9s-de-tentative-de-coup-d-etat-en-2025",
-          "imageUrl": "https://s.rfi.fr/media/display/6d7f4a18-1334-11ea-a386-005056a99247/w:1024/p:16x9/000_144168_0.jpg",
-          "source": "RFI",
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Derrière l’OPA du milliardaire tchèque Daniel Kretinsky sur Fnac Darty, une bataille contre l’influence du groupe chinois JD.com",
+          "description": "En lançant une offre publique d’achat sur Fnac Darty, dont il est déjà le premier actionnaire, le milliardaire tchèque pourrait barrer la route à une entrée indirecte du géant chinois de l’e-commerce au capital du distributeur français. Une opération suivie de près par l’Etat.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/27/derriere-l-opa-de-daniel-kretinsky-sur-fnac-darty-la-bataille-contre-l-influence-du-chinois-jd-com_6664238_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/2/0/5398/3598/1440/960/60/0/afab110_upload-1-cuuav2yfxoik-080-hl-smouchmouche-2344252.jpg",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-27T04:00:08.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Sous la pression du grand frère chinois, le Cambodge s’attaque à la cyberfraude",
+          "description": "Des arrestations ciblées et les admonestations de Pékin ont déclenché un mouvement de panique, provoquant une vague de départs massifs des travailleurs des centres d’arnaque du Cambodge.",
+          "url": "https://www.lemonde.fr/international/article/2026/01/27/sous-la-pression-du-grand-frere-chinois-le-cambodge-s-attaque-a-la-cyberfraude_6664235_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/5448/3632/1440/960/60/0/afad65b_upload-1-mq2b8q47zagm-ap25291098835423.jpg",
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-01-26T23:45:11.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
+          "publishedAt": "2026-01-27T02:00:10.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
         },
         {
           "id": "2026-01-26-aHR0cHM6",
-          "title": "Deadly US winter storm leaves flights delayed and thousands without power",
-          "description": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said.",
-          "url": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d26f/live/90590740-fb04-11f0-8d99-4d63080b9583.jpg",
+          "title": "China has purged its highest-ranked military general. Why?",
+          "description": "Zhang Youxia had been seen as a close ally of China's leader, Xi Jinping.",
+          "url": "https://www.bbc.com/news/articles/c8d0l0g8yz5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/089d/live/38fd3230-fa84-11f0-8536-010c68f74629.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-01-26T22:49:39.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
+          "publishedAt": "2026-01-26T23:19:47.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
         },
         {
           "id": "2026-01-26-aHR0cHM6",
-          "title": "RD Congo : un an après la chute de Goma, certaines voix dénoncent un climat de répression",
-          "description": "En RD Congo, cela fait un an que les rebelles de l’AFC/M23 ont pris le contrôle de Goma alors capitale provinciale du Nord-Kivu. C’est la première fois que la ville est sous rebelle aussi longtemps. Dans la ville, la vie quotidienne a repris son cours mais certaines voix dénoncent un climat de répression. Dans l’est congolais, les exactions contre les civils ont atteint un niveau alarmant selon les humanitaires, et sont commises par toutes les parties en conflit. Reportage.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260126-rd-congo-un-an-apr%C3%A8s-la-chute-de-goma-certaines-voix-d%C3%A9noncent-un-climat-de-r%C3%A9pression",
-          "imageUrl": "https://s.france24.com/media/display/3702eaa2-fafb-11f0-b54e-005056bf30b7/w:1024/p:16x9/FRAN260126-2141-Live-01.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T22:24:19.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Rappels de lait infantile : une association attaque l’Etat pour « carence grave »",
-          "description": "Plusieurs industriels ont procédé à des rappels de laits infantiles dans plus d’une soixantaine de pays au total depuis décembre 2025, en raison d’un risque de contamination à une toxine.",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/26/rappels-de-lait-infantile-une-association-attaque-l-etat-pour-carence-grave_6664224_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/23/0/0/6000/4000/1440/960/60/0/9738324_ftp-1-nney6ybp1wih-5968942-01-06.jpg",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T19:47:22.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Emploi et handicap : la Cour des comptes déplore des dispositifs « insuffisants » avec des résultats « en deçà des attentes »",
-          "description": "L’obligation d’emploi de 6 % de travailleurs handicapés n’est pas réellement atteinte malgré de nombreuses dérogations, et la qualité des carrières n’est pas assez prise en compte, constate un rapport publié lundi 26 janvier.",
-          "url": "https://www.lemonde.fr/societe/article/2026/01/26/emploi-et-handicap-la-cour-des-comptes-deplore-des-dispositifs-insuffisants-avec-des-resultats-en-deca-des-attentes_6664219_3224.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/6000/4000/1440/960/60/0/430b5ad_upload-1-d2zznel2j6ob-000-339g74n.jpg",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T19:14:35.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "CAN 2025 : le Premier ministre sénégalais réaffirme à Rabat l'\"amitié\" avec le Maroc",
-          "description": "L'amitié sénégalo-marocaine est \"plus forte que les émotions\" suscitées par la finale chaotique de la CAN, a déclaré à Rabat le Premier ministre sénégalais Ousmane Sonko. Un message visant à apaiser les tensions entre les supporters des deux pays qui s'écharpent sur les réseaux sociaux au sujet des incidents qui ont entaché la fin de la rencontre.",
-          "url": "https://www.france24.com/fr/afrique/20260126-can-2025-premier-ministre-s%C3%A9n%C3%A9galais-ousmane-sonko-r%C3%A9affirme-rabat-amiti%C3%A9-maroc",
-          "imageUrl": "https://s.france24.com/media/display/77899f4c-fae4-11f0-a110-005056a90284/w:1024/p:16x9/000-942C6ET.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T19:00:32.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Ouganda: la NUP conteste le démenti de l’armée après l’agression de l’épouse de Bobi Wine",
-          "description": "En Ouganda, nouvelle salve sur les réseaux sociaux entre le chef de l’armée et l’opposant Bobi Wine. Muhoozi Kainerugaba, fils du président Yoweri Museveni, nie toute agression contre l’épouse de Bobi Wine, Barbara Kyagulanyi, plus connue sous le nom de « Barbie ». L’opposant – en fuite depuis plusieurs jours, après un raid à son domicile – accuse des soldats d’avoir attaqué sa femme, aujourd’hui hospitalisée. L’opposition dénonce une répression qui s’intensifie, le jour même des 40 ans au pouvoir de Yoweri Museveni, ce lundi 26 janvier.",
-          "url": "https://www.rfi.fr/fr/afrique/20260126-ouganda-la-nup-conteste-le-d%C3%A9menti-de-l-arm%C3%A9e-apr%C3%A8s-l-agression-de-l-%C3%A9pouse-de-bobi-wine",
-          "imageUrl": "https://s.rfi.fr/media/display/8b82ef0a-fae7-11f0-80fb-005056bfb2b6/w:1024/p:16x9/000-92TU6Y8.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T18:59:11.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.265Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Au Cambodge, l’exode de milliers d’étrangers fuyant les centres de cyberarnaque",
-          "description": "Depuis l’arrestation du magnat Chen Zhi et sous la pression des autorités cambodgiennes, des milliers de personnes, pour certaines victimes de travail forcé, quittent les casinos et les centres d’où étaient coordonnées les cyberescroqueries. L’ampleur de l’exode vers Phnom Penh, où se rassemblent les ressortissants étrangers qui tentent de rentrer chez eux, laisse craindre une crise humanitaire.",
-          "url": "https://www.courrierinternational.com/article/criminalite-au-cambodge-l-exode-de-milliers-d-etrangers-fuyant-les-centres-de-cyberarnaque_239775",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/19/0/0/6048/4032/1200/630/60/0/44a078b_ftp-1-zw08akdsdohb-afp-93789we.jpg",
+          "title": "Que cache la purge de Zhang Youxia, plus haut gradé de l’armée chinoise ?",
+          "description": "Une enquête a été ouverte contre le général Zhang Youxia le 24 janvier. L’ampleur du ménage au sein de l’armée atteint des proportions jamais vues depuis l’époque de Mao, constate la presse internationale. Et pose question au sujet de la modernisation des forces chinoises.",
+          "url": "https://www.courrierinternational.com/article/decryptage-que-cache-la-purge-de-zhang-youxia-plus-haut-grade-de-l-armee-chinoise_239807",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/35/55/2972/1981/1200/630/60/0/9de0dfc_upload-1-xcgwihn3khml-web-1839-vlahovic-2024-09-25-2022.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-01-26T17:46:21.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "RD Congo : un an après la prise de contrôle de Goma, des perspectives de paix enlisées",
-          "description": "Un an après la prise de contrôle de Goma par les rebelles, la situation en République Démocratique du Congo reste préoccupante. Les espoirs de paix semblent s'évanouir alors que les groupes armés, solidement ancrés dans la région, poursuivent leurs activités. Les explications de Romain Gras, journaliste chez Jeune Afrique.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260126-rd-congo-un-an-apr%C3%A8s-la-prise-de-contr%C3%B4le-de-goma-des-perspectives-de-paix-enlis%C3%A9es",
-          "imageUrl": "https://s.france24.com/media/display/666a0bd0-fad9-11f0-96cd-005056bf30b7/w:1024/p:16x9/FR-20260126-153256-154230-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T17:16:45.000Z",
-          "fetchedAt": "2026-01-27T10:16:30.004Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "La Commission européenne ouvre une enquête sur Grok après la divulgation de fausses images de femmes et enfants dénudés",
-          "description": "Bruxelles a par ailleurs décidé que WhatsApp devait être soumis aux contraintes réglementaires les plus strictes, comme toutes les « très grandes plateformes » numériques.",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/26/la-commission-europeenne-ouvre-une-enquete-sur-grok-apres-la-divulgation-de-fausses-images-de-femmes-et-enfants-denudes_6664197_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/0/1007/3743/2495/1440/960/60/0/40b4e7a_upload-1-ykvhqv01wnib-epaliveeight774898.jpg",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T17:00:07.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Après la finale de la CAN, la “mi-temps diplomatique” entre le Sénégal et le Maroc ?",
-          "description": "Après s’être affrontés sur la pelouse lors de la finale controversée de la Coupe d’Afrique des nations (CAN) de football, le Maroc et le Sénégal se retrouvent lundi 26 janvier pour renforcer leur coopération bilatérale. Malgré les appels à l’apaisement et à la fraternité de part et d’autre, les presses des deux pays n’en ont pas fini avec les sujets qui fâchent.",
-          "url": "https://www.courrierinternational.com/article/apaisement-apres-la-finale-de-la-can-la-mi-temps-diplomatique-entre-le-senegal-et-le-maroc_239809",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/0/6000/4000/1200/630/60/0/26f34b9_ftp-1-hxdxj7fchmf9-afp-942c6ev.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T16:28:59.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "A Mulhouse, un tiers-lieu pour marier industrie et numérique",
-          "description": "Créé en 2019, KMØ réunit sur une ancienne friche des industries traditionnelles, des start-up innovantes et des écoles de formation numérique. Un modèle hybride qui prévoit de se décliner en 2026 à Belfort, à Colmar et en Suisse.",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/26/a-mulhouse-un-tiers-lieu-pour-marier-industrie-et-numerique_6664179_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/26/0/85/8496/5664/1440/960/60/0/7f1a12f_upload-1-lqfmjv1lqcbp-kmo-photo-luc-boegly-014.jpg",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T15:00:07.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
+          "publishedAt": "2026-01-26T17:05:06.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
         },
         {
           "id": "2026-01-26-aHR0cHM6",
@@ -1061,70 +149,881 @@
           "source": "BBC World",
           "category": "geopolitique",
           "publishedAt": "2026-01-26T13:34:31.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "L’Allemagne va construire des centrales à gaz pour sécuriser son approvisionnement en électricité",
-          "description": "Berlin a obtenu, mi-janvier, l’aval de Bruxelles pour la construction de centrales à gaz et de batteries de stockage, destinées à compenser les périodes de faible production des énergies renouvelables.",
-          "url": "https://www.lemonde.fr/economie/article/2026/01/26/l-allemagne-va-construire-des-centrales-a-gaz-pour-securiser-son-approvisionnement-en-electricite_6664158_3234.html",
-          "imageUrl": "https://img.lemde.fr/2026/01/25/14/0/5730/3820/1440/960/60/0/d982fc4_upload-1-l3xvhskohtew-2025-04-14t060130z-1908579763-rc2lpda5dc19-rtrmadp-3-ukraine-crisis-russia-gas.JPG",
-          "source": "Le Monde - Économie",
-          "category": "economie",
-          "publishedAt": "2026-01-26T12:30:06.000Z",
-          "fetchedAt": "2026-01-27T10:16:11.794Z"
-        },
-        {
-          "id": "2026-01-26-aHR0cHM6",
-          "title": "Heatwave warnings across Australia as millions celebrate national day",
-          "description": "Temperatures are expected to peak on Tuesday, reaching the \"high forties\" in Victoria and South Australia.",
-          "url": "https://www.bbc.com/news/articles/cz6y7nxx5jvo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c467/live/fe7a5a50-faa3-11f0-a422-4ba8a094a8fa.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-01-26T07:15:24.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "Immigration chief at centre of Trump's crackdown set to leave Minneapolis",
+      "id": "cluster-2",
+      "topic": "« Je reviens chez moi » : au Bénin, des afro-descendants en quête de lien avec l",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
           "id": "2026-01-27-aHR0cHM6",
-          "title": "Immigration chief at centre of Trump's crackdown set to leave Minneapolis",
-          "description": "The US president is sending border tsar Tom Homan to the city in an apparent shift in tone from the White House.",
-          "url": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bf2e/live/dd6e7ad0-fb61-11f0-b385-5f48925de19a.jpg",
-          "source": "BBC World",
+          "title": "« Je reviens chez moi » : au Bénin, des afro-descendants en quête de lien avec leurs origines reçoivent un passeport",
+          "description": "Depuis six mois, les personnes d’origine africaine peuvent demander la nationalité béninoise en ligne. Une centaine d’entre elles a déjà obtenu une nationalité provisoire.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/01/27/je-reviens-chez-moi-au-benin-des-afro-descendants-en-quete-de-lien-avec-leurs-origines-recoivent-un-passeport_6664289_3212.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/14/2/0/5500/3666/1440/960/60/0/083959e_ftp-1-5wxhhr759u8l-2026-01-14t090138z-170448063-rc20riavz8dw-rtrmadp-3-benin-tourism-diaspora.JPG",
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-01-27T09:30:21.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
+          "publishedAt": "2026-01-27T10:46:42.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
         },
         {
           "id": "2026-01-27-aHR0cHM6",
-          "title": "Trump joue l’apaisement dans le Minnesota et veut reprendre la main en changeant d’équipe",
-          "description": "Trois jours après le tollé provoqué par la mort d’Alex Pretti, et trois semaines après celle de Renee Good, le président américain change de stratégie en envoyant sur place le “tsar des frontières” Tom Homan à la place du “commandant itinérant” Greg Bovino.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-donald-trump-joue-l-apaisement-dans-le-minnesota-et-tente-de-reprendre-la-main-en-changeant-d-equipe_239818",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/27/74/0/5500/3666/1200/630/60/0/248f765_ftp-1-sc4juzbdq2ey-2026-01-27t043140z-739523072-rc2d9ja25mjb-rtrmadp-3-usa-trump-minnesota.JPG",
+          "title": "L’“accord pétrolier du siècle” : la Hongrie renforce son influence dans les Balkans",
+          "description": "La compagnie hongroise MOL s’apprête à racheter les parts majoritaires du géant russe Gazprom dans la société serbe NIS, fragilisée par des sanctions américaines. Un coup géopolitique qui accroît le poids régional de MOL, et donc de la Hongrie, notent les médias serbes et magyars.",
+          "url": "https://www.courrierinternational.com/article/energie-l-accord-petrolier-du-siecle-la-hongrie-renforce-son-influence-dans-les-balkans_239816",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/19/0/0/6000/4000/1200/630/60/0/75e11d3_ftp-1-e8m9q154iuhp-2026-01-19t145549z-1321530828-rc2r7hax0i3x-rtrmadp-3-usa-sanctions-nis.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-01-27T05:01:29.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
+          "publishedAt": "2026-01-27T10:30:14.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Guerre en Ukraine : « J’ai bien compris que moi, ma famille, ainsi que tous les Ukrainiens ne pouvons compter que sur nous-mêmes pour nous sauver »",
+          "description": "Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Olga rend hommage à ceux qui risquent leur vie pour aider les gens à évacuer les villes proches du front. A Kiev, Sasha lutte contre le froid et désespère de la capacité des démocraties européennes à s’opposer aux ogres impérialistes.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/01/27/guerre-en-ukraine-j-ai-bien-compris-que-moi-ma-famille-ainsi-que-tous-les-ukrainiens-ne-pouvons-compter-que-sur-nous-memes-pour-nous-sauver_6664288_4500055.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/3543/2362/1440/960/60/0/1441276_upload-1-ihllkc7n14wz-olga-sasha-mosaique.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T10:30:07.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Accord Inde–UE : un partenariat économique majeur pour réduire les tarifs douaniers",
+          "description": "L'Inde et ‍l'Union européenne (UE) ont annoncé ​mardi la conclusion d'un accord commercial ambitieux, avec l'objectif de se prémunir de relations plus erratiques avec les Etats-Unis de Donald ⁠Trump.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260127-accord-inde%E2%80%93ue-un-partenariat-%C3%A9conomique-majeur-pour-r%C3%A9duire-les-tarifs-douaniers",
+          "imageUrl": "https://s.france24.com/media/display/b9f55a9e-fb64-11f0-9689-005056a90284/w:1024/p:16x9/FR-20260127-090137-090807-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T09:50:35.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "France: l’ex-sénateur Joël Guerriau devant la justice pour avoir drogué la députée Sandrine Josso",
+          "description": "En France, la révélation de cette affaire fin 2023 avait mis un coup de projecteur sur la soumission chimique, un an avant le procès des viols de Mazan. L'ex-sénateur de Loire-Atlantique Joël Guerriau est devant le tribunal correctionnel de Paris lundi 26 et mardi 27 janvier, accusé d'avoir drogué la députée du même département Sandrine Josso. Cela pour abuser d’elle en novembre 2023. Lors de son interrogatoire, Joël Guerriau a à nouveau plaidé une « erreur d’administration » sans intention sexuelle.",
+          "url": "https://www.rfi.fr/fr/france/20260127-france-l-ex-s%C3%A9nateur-jo%C3%ABl-guerriau-devant-la-justice-pour-avoir-drogu%C3%A9-la-d%C3%A9put%C3%A9e-sandrine-josso",
+          "imageUrl": "https://s.rfi.fr/media/display/7f884998-fb64-11f0-a582-005056bfb2b6/w:1024/p:16x9/AP26026473829887.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T09:44:51.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "India and EU announce landmark trade deal",
+          "description": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
+          "url": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/67e8/live/3db2b4d0-fb51-11f0-b83f-9b32a2d631eb.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T09:37:58.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "EN DIRECT, guerre en Ukraine : Kiev confirme que l’armée russe équipe certains de ses drones de systèmes Starlink",
+          "description": "Le ministre de la défense ukrainien a souligné la nécessité d’une réaction rapide face à ce problème. « Nous devons réagir très rapidement. La vitesse de notre réponse, l’anticipation des incidents futurs et la réaction aux menaces potentielles doivent nous permettre d’éviter des problèmes », a-t-il dit.",
+          "url": "https://www.lemonde.fr/international/live/2026/01/27/en-direct-guerre-en-ukraine-les-dernieres-informations_6664247_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/27/833/0/5000/2500/1440/720/60/0/d40ee86_ftp-1-g3dehjkrypin-2026-01-27t083313z-435620458-rc2w8jaei7yr-rtrmadp-3-ukraine-crisis-east-frontline.JPG",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T09:37:18.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "« La place de l’Europe, dans le cœur des Iraniens, dans l’avenir régional et dans la reconstruction de l’Iran, se joue maintenant »",
+          "description": "Face aux massacres en Iran, une action de l’Union européenne est indispensable, alerte un collectif d’intellectuels, d’artistes, d’avocats et de citoyens : elle dispose de leviers diplomatiques et juridiques pour agir, pleinement compatibles avec l’Etat de droit et la défense des droits humains.",
+          "url": "https://www.lemonde.fr/idees/article/2026/01/27/la-place-de-l-europe-dans-le-c-ur-des-iraniens-dans-l-avenir-regional-et-dans-la-reconstruction-de-l-iran-se-joue-maintenant_6664281_3232.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/09/0/8/1904/1269/1440/960/60/0/2aa6a0e_upload-1-o1j5zx4b7gpd-thumbnail-iran-manif-2025-sirius-02.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T09:30:08.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "L'instant + : en Lorraine, un gisement \"unique au monde\" d'hydrogène naturel",
+          "description": "Un gisement potentiel d'environ 34 millions de tonnes d'hydrogène, à 40 km à l'est de Metz, en Lorraine, suscite de l'espoir pour répondre au défi de la transition énergétique. L'entreprise de la Française de l'Énergie et le laboratoire GéoRessources explorent le sous-sol lorrain via un forage qui pourrait atteindre jusqu'à 4 000 m de profondeur en février.",
+          "url": "https://www.france24.com/fr/plan%C3%A8te/20260127-l-instant-en-lorraine-un-gisement-unique-au-monde-d-hydrog%C3%A8ne-naturel-suscite-de-l-espoir",
+          "imageUrl": "https://s.france24.com/media/display/e8b9745c-fb5d-11f0-8478-005056bfb2b6/w:1024/p:16x9/16370d60cd8781c7d781ae77bc27cef8861810ce.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T08:55:21.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "«Ornement»: les fragments de Les Gordon",
+          "description": "Le producteur rennais Les Gordon poursuit avec Ornement un travail d’exploration sonore entamé il y a plus de dix ans. Entre influences britanniques, héritage asiatique et quête d’indépendance, Les Gordon signe un quatrième album dense, comme une somme de ses influences et de son parcours.",
+          "url": "https://www.rfi.fr/fr/musique/20260127-ornement-les-fragments-de-les-gordon",
+          "imageUrl": "https://s.rfi.fr/media/display/d27a38e0-fad4-11f0-a8e6-005056bf30b7/w:1024/p:16x9/les-gordon.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T08:53:57.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Gavin Newsom, gouverneur de Californie, lance une enquête sur TikTok après des accusations de censure de « contenus critiques envers Trump »",
+          "description": "Des utilisateurs affirment que l’application, désormais sous contrôle américain, a censuré des contenus critiquant Donald Trump en lien avec la mort d’un infirmier de 37 ans, samedi à Minneapolis, tué par la police de l’immigration.",
+          "url": "https://www.lemonde.fr/international/article/2026/01/27/le-gouverneur-democrate-de-californie-lance-une-enquete-sur-tiktok-apres-des-accusations-de-censure_6664278_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/22/0/0/5500/3666/1440/960/60/0/41181a1_ftp-1-n6g9w9okyupc-f4aba4d1dd1748ceada7fdc4f25a3bbd-0-6b32bb6185814949962351c7dd380375.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T08:53:16.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Le moteur thermique, un nouvel enjeu identitaire et politique en Allemagne",
+          "description": "La crise de l’automobile allemande a révélé l’attachement profond du pays à la maîtrise du métal, à la combustion et au sport automobile. Une culture mise à mal par le véhicule moderne, dominé par le logiciel, la batterie et la conduite autonome.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/27/comment-le-moteur-thermique-est-devenu-un-enjeu-identitaire-et-politique-en-allemagne_6664277_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/19/0/7360/4906/1440/960/60/0/997a5f9_upload-1-qrxflim1n3c8-gettyimages-2214921402.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T08:49:12.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "États-Unis: les manifestants à Minneapolis affichent leur soutien aux personnes arrêtées par l'ICE",
+          "description": "À Minneapolis, les agents des services fédéraux déployés vont commencer à quitter la ville du nord des États-Unis mardi 27 janvier, alors que Donald Trump dit avoir eu de bonnes conversations avec le maire de la grande ville du Minnesota et avec le gouverneur démocrate Tim Walz. Mais depuis des semaines, des manifestants se rendent devant un bâtiment fédéral de la ville qui abrite l’ICE pour apporter leur soutien aux personnes arrêtées.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260127-%C3%A9tats-unis-les-manifestants-%C3%A0-minneapolis-affichent-leur-soutien-aux-personnes-arr%C3%AAt%C3%A9es-par-l-ice",
+          "imageUrl": "https://s.rfi.fr/media/display/c74b89e6-fb52-11f0-a81b-005056bf30b7/w:1024/p:16x9/AP26026856038944.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T08:46:21.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Des agents de l'ICE présents aux Jeux d'hiver à Milan en février",
+          "description": "Des agents de la police américaine de l'immigration seront présents en Italie pour les JO qui se tiennent à partir du 6 février à Milan pour \"évaluer et atténuer les risques liés aux organisations criminelles transnationales\", a déclaré, mardi, un porte-parole de l'agence. Le maire de la ville, Giuseppe Sala, a déclaré qu'ils \"ne sont pas les bienvenus\".",
+          "url": "https://www.france24.com/fr/europe/20260127-des-agents-de-l-ice-pr%C3%A9sents-aux-jeux-d-hiver-%C3%A0-milan-en-f%C3%A9vrier",
+          "imageUrl": "https://s.france24.com/media/display/342e3576-fb59-11f0-84a7-005056a97e36/w:1024/p:16x9/2026-01-26T112954Z-501327942-UP1EM1Q0VXSLA-RTRMADP-3-OLYMPICS-2026-PREVIEW.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T08:18:01.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Au Chili, le président élu, José Antonio Kast, présente un gouvernement d’« indépendants » très marqué à droite",
+          "description": "Le premier chef d’Etat d’extrême droite chilien depuis la fin de la dictature a confié la défense et la justice à deux anciens avocats d’Augusto Pinochet, tandis qu’une militante anti-IVG a été nommée au ministère des droits des femmes.",
+          "url": "https://www.lemonde.fr/international/article/2026/01/27/au-chili-un-gouvernement-d-independants-mais-tres-marque-a-droite_6664275_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/21/0/0/5500/3666/1440/960/60/0/e4947ef_ftp-1-o8x0rhis8yrn-2026-01-21t034506z-1511548281-rc2a5jadg1cy-rtrmadp-3-chile-politics-kast.JPG",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T08:17:46.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Corée du Nord : nouveau tir de missile vers la mer du Japon",
+          "description": "Il s’agit du deuxième essai effectué par Pyongyang depuis le début de l’année après une salve de missiles tirée le 4 janvier.",
+          "url": "https://www.lemonde.fr/international/article/2026/01/27/coree-du-nord-nouveau-tir-de-missile-vers-la-mer-du-japon_6664274_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/27/0/0/6489/4326/1440/960/60/0/f08bff8_ftp-1-ajg1a7klgfl5-dd0a36fe317549e297b101cc7155fb56-0-2f7f38d75acd4a3ead785b10560a628d.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T08:12:09.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "« Le retrait des Etats-Unis du régime climatique international risque d’entraîner des conséquences dévastatrices en matière de financement »",
+          "description": "Les chercheuses Carola Kloeck et Kari De Pryck, spécialistes des politiques climatiques, s’inquiètent, dans une tribune au « Monde », du financement de l’atténuation et de l’adaptation au réchauffement dans les pays du Sud, après la défection de Washington.",
+          "url": "https://www.lemonde.fr/idees/article/2026/01/27/le-retrait-des-etats-unis-du-regime-climatique-international-risque-d-entrainer-des-consequences-devastatrices-en-matiere-de-financement_6664273_3232.html",
+          "imageUrl": "https://img.lemde.fr/2025/06/13/0/0/3000/2000/1440/960/60/0/f85df5d_upload-1-sqnpgwqkqi7g-frame-807.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T08:00:00.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "🔴 L'Inde et l'Union européenne scellent un accord de libre-échange historique",
+          "description": "",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260126-l-inde-et-l-union-europ%C3%A9enne-scellent-un-vaste-accord-de-libre-%C3%A9change-commercial",
+          "imageUrl": "https://s.france24.com/media/display/323f404c-faf1-11f0-b93c-005056bfb2b6/w:1280/p:16x9/3c098dfe3535c3893ed6ebf6f9f71d705fa1c439.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T07:13:57.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "L’Inde et l’UE signent un accord de libre-échange qui réduit les droits de douane dans de nombreux secteurs",
+          "description": "New Delhi pourrait s’ouvrir un peu plus aux voitures et aux vins européens, en échange d’un meilleur accès en Europe pour ses textiles et ses médicaments.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/27/l-inde-et-l-ue-concluent-un-accord-de-libre-echange-qui-reduit-les-droits-de-douane-dans-de-nombreux-secteurs_6664269_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/27/0/0/4334/2889/1440/960/60/0/3316bc9_ftp-1-pq5mmc3c8ktr-5996404-01-06.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T07:08:18.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "À Minneapolis, les agents fédéraux vont quitter la ville pour apaiser les tensions",
+          "description": "Des agents des services fédéraux déployés à Minneapolis vont commencer à quitter la ville mardi, a assuré la municipalité. Le président Donald Trump semble jouer l'apaisement face à la vague d'indignation suscitée par la mort d'un deuxième manifestant américain.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260127-minneapolis-agents-f%C3%A9d%C3%A9raux-vont-quitter-ville-pour-apaiser-tensions-trump",
+          "imageUrl": "https://s.france24.com/media/display/f0cd161a-fb46-11f0-bac3-005056a97e36/w:1024/p:16x9/AP26026181651157.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T07:07:39.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Iran: quelles options pour les États-Unis en cas d'intervention militaire?",
+          "description": "Le porte-avions Abraham Lincoln et son escorte sont arrivés au Moyen-Orient, a annoncé lundi 26 janvier l'armée américaine, qui renforce ainsi sa présence dans la région à une période de fortes tensions avec l'Iran. Donald Trump avait assuré la semaine passée qu'une « armada » américaine faisait route vers le Golfe et que Washington surveillait de près l'Iran, où le pouvoir a réprimé dans le sang des manifestations d'ampleur.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260127-iran-quelles-pourraient-%C3%AAtre-les-options-des-%C3%A9tats-unis-en-cas-d-intervention-militaire",
+          "imageUrl": "https://s.rfi.fr/media/display/89dffa50-fb44-11f0-b953-005056bfb2b6/w:1024/p:16x9/AP26026255898448.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T06:36:18.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Lili Keller-Rosenberg, une inépuisable rescapée de la Shoah qui témoigne encore et toujours",
+          "description": "Depuis plus de 40 ans, Lili Keller-Rosenberg raconte son histoire dans des établissements scolaires. Issue d'une famille juive originaire de Hongrie, elle a été arrêtée à Roubaix à 11 ans. Déportée à Ravensbrück, puis Bergen-Belsen, elle a réussi à survivre miraculeusement. Rencontre à l'occasion de la Journée internationale dédiée à la mémoire des victimes de l'Holocauste.",
+          "url": "https://www.france24.com/fr/europe/20260127-lili-keller-rosenberg-rescapee-shoah-temoignage-ravensbruck-journee-victimes-holocauste",
+          "imageUrl": "https://s.france24.com/media/display/00814e46-faa2-11f0-8195-005056bfb2b6/w:1024/p:16x9/034-1.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T06:30:28.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Japon: la Première ministre Sanae Takaichi chute dans les sondages au lancement de la campagne électorale",
+          "description": "La Première ministre japonaise Sanae Takaichi, devenue la première femme à occuper ce poste, voit sa cote de popularité tomber à deux semaines d’élections législatives anticipées du 8 février : selon un sondage du journal Nikkei, son taux d’approbation est passé de 75 % lors de son arrivée au pouvoir en décembre dernier a 67 %. Sanae Takaichi mise sur sa popularité pour renforcer la base de son Parti libéral-démocrate, alors que la coalition gouvernementale n’est majoritaire que de justesse au parlement.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20260127-japon-la-premi%C3%A8re-ministre-sanae-takaichi-chute-dans-les-sondages-au-lancement-de-la-campagne-%C3%A9lectorale",
+          "imageUrl": "https://s.rfi.fr/media/display/8711fc12-fb47-11f0-a7d6-005056a90284/w:1024/p:16x9/AP26027110192717.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T06:18:18.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Qui est Gregory Bovino, le visage de la répression migratoire de Donald Trump ?",
+          "description": "Figure de proue de la politique d’expulsion massive menée par Donald Trump, Gregory Bovino incarne une police de l’immigration décomplexée, offensive et médiatique. Commandant de la patrouille frontalière et figure centrale des opérations d’ICE, son départ a été annoncé, mardi, par le président américain après les tueries à Minneapolis.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260127-etats-unis-ice-border-patrol-qui-est-gregory-bovino-repression-immigration",
+          "imageUrl": "https://s.france24.com/media/display/0150f98c-fac7-11f0-8c54-005056a90284/w:1024/p:16x9/063-2256971194.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T06:08:19.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Gregory Bovino, visage de la militarisation de la lutte contre l’immigration de l’administration Trump, écarté de Minneapolis",
+          "description": "Le responsable de la Customs and Border Protection, la police des frontières, qui revendique des méthodes agressives voire illégales, est au centre des critiques depuis que ses agents ont tué l’infirmier Alex Pretti lors d’une manifestation.",
+          "url": "https://www.lemonde.fr/international/article/2026/01/27/gregory-bovino-le-visage-de-la-militarisation-de-la-lutte-contre-l-immigration-clandestine-ecarte-de-minneapolis_6664264_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/22/6/0/4364/2909/1440/960/60/0/e8147f8_ftp-1-hj3jihvaw3ci-5957471-01-06.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T05:47:36.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Est de la RDC: «Nous avons documenté des cas de fraude minière, notamment vers le Rwanda»",
+          "description": "Il y a un an, l’AFC/M23 prenait le contrôle, avec l’aide de ses soutiens rwandais, de Goma, la grande ville de l’est de la RDC. Aujourd'hui, plusieurs grands sites miniers du Nord-Kivu, dont Rubaya, restent sous le contrôle du groupe armé. Mickaël Daudin, directeur du programme ITSCI (International Tin Supply Chain Initiative) chargé de promouvoir des chaînes d’approvisionnement responsables, explique avoir documenté plusieurs cas de fraude minière, notamment vers les pays voisins. Selon lui, la dégradation sécuritaire et la suspension des circuits d’approvisionnement responsables ont accentué ces pratiques.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260127-nous-avons-document%C3%A9-des-cas-de-fraude-mini%C3%A8re-notamment-vers-le-rwanda",
+          "imageUrl": "https://s.rfi.fr/media/display/05a45150-f9ff-11f0-9743-005056bf30b7/w:1024/p:16x9/000-36ZG4WC.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T05:46:07.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Accord Inde-UE, tempête aux États-Unis, RDC : les informations de la nuit",
+          "description": "",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-accord-inde-ue-tempete-aux-etats-unis-rdc-les-informations-de-la-nuit_239817",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/4/2184/1456/1200/630/60/0/0f2e839_ftp-1-zhic5g01ylaj-2026-01-26t072838z-313521033-rc2s8ja21bvh-rtrmadp-3-india-republicday.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T05:07:59.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Le budget, symbole et limite de la démocratie",
+          "description": "Dans toute organisation, la gestion budgétaire incarne la prise de responsabilité vis-à-vis d’autrui, rappelle dans sa chronique le chercheur en sciences de gestion Armand Hatchuel. Les difficultés à obtenir un budget sans majorité invitent à repenser cette « bonne gestion ».",
+          "url": "https://www.lemonde.fr/emploi/article/2026/01/27/le-budget-symbole-et-limite-de-la-democratie_6664257_1698637.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/23/65/0/5677/3784/1440/960/60/0/ac34b60_ftp-1-gs2jnxqdg5bv-5964780-01-06.jpg",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-27T05:00:19.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "De la difficulté de prévenir et de qualifier un génocide au XXIe siècle",
+          "description": "Dans un monde toujours plus instable et imprévisible, des conflits éclatent quand d'autres s’enlisent. Des massacres s'accomplissent. Comment faire non seulement pour prévenir les crimes fondamentaux du droit pénal international, dont les génocides, mais aussi pour les qualifier comme tels ?",
+          "url": "https://www.rfi.fr/fr/monde/20260127-de-la-difficult%C3%A9-de-pr%C3%A9venir-et-de-qualifier-un-g%C3%A9nocide-au-xxie-si%C3%A8cle",
+          "imageUrl": "https://s.rfi.fr/media/display/79a3eeae-8075-11ee-93a6-005056bfb2b6/w:1024/p:16x9/AP23307784054431.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:55:33.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "« A chaque vol, je culpabilise d’exploser mon bilan carbone » : pourquoi les jeunes continuent de prendre l’avion malgré leurs convictions écologiques",
+          "description": "La forte sensibilité écologique des 18-35 ans va pourtant de pair avec une utilisation de l’avion au moins aussi importante que les autres générations.",
+          "url": "https://www.lemonde.fr/campus/article/2026/01/27/a-chaque-vol-je-culpabilise-d-exploser-mon-bilan-carbone-pourquoi-les-jeunes-continuent-de-prendre-l-avion-malgre-leurs-convictions-ecologiques_6664250_4401467.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/23/0/0/3000/2000/1440/960/60/0/ba8924e_upload-1-hlabfhcrkkrv-avion-e-tudiant.jpg",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-27T04:45:15.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Minneapolis : Donald Trump cherche à éteindre l’incendie déclenché par son administration",
+          "description": "Le président américain s’est entretenu avec le gouverneur du Minnesota et le maire de la ville où deux manifestants ont été tués par l’ICE, la police de l’immigration. Une partie des agents fédéraux devrait quitter les lieux mardi.",
+          "url": "https://www.lemonde.fr/international/article/2026/01/27/donald-trump-cherche-a-eteindre-l-incendie-declenche-par-son-administration-a-minneapolis_6664249_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/25/0/0/3900/2600/1440/960/60/0/b5e191b_ftp-1-pmniukfrxvsv-5980507-01-06.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:45:11.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "France: Gabriel Attal prépare sa candidature à la présidentielle de 2027",
+          "description": "Le parti Renaissance organise ce 27 septembre un événement, « La Nuit de la Nouvelle République », au Palais Brogniart à Paris. Une réunion va rassembler entre 18 h et minuit des personnalités du monde économique, syndical, de la société civile, des intellectuels qui vont débattre au sein de tables rondes autour d'une question : « Faut-il tout faire péter pour refonder la France ? ». Pas vraiment un meeting politique, mais la mise en scène d'une boîte à idées disruptive, qui participe à préparer la candidature de Gabriel Attal à la présidentielle.",
+          "url": "https://www.rfi.fr/fr/france/20260127-france-gabriel-attal-pr%C3%A9pare-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
+          "imageUrl": "https://s.rfi.fr/media/display/8110fcc8-faf7-11f0-a761-005056a90284/w:1024/p:16x9/000-94368EF.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:45:00.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Burkina Faso: un projet de centrale de 200 MW dévoilé pour stabiliser le réseau électrique",
+          "description": "Dans un contexte de développement des investissements des Émirats arabes unis sur le continent africain - 110 milliards de dollars en Afrique entre 2019 et 2023 - l'entreprise émirienne Mark Cables a annoncé ce lundi s'engager dans un gros projet de centrale électrique au Burkina Faso d'un montant de 180 millions d'euros.",
+          "url": "https://www.rfi.fr/fr/afrique/20260127-burkina-faso-un-projet-de-centrale-de-200-mw-d%C3%A9voil%C3%A9-pour-stabiliser-le-r%C3%A9seau-%C3%A9lectrique",
+          "imageUrl": "https://s.rfi.fr/media/display/8234357c-fb1d-11f0-819a-005056a97e36/w:1024/p:16x9/000-UP40P.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:15:45.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Madagascar: la rupture d'un barrage près d'Antananarivo menace des milliers d'habitations",
+          "description": "Vigilance rouge dans le sud de la capitale. Suite aux fortes pluies de ces derniers jours, dans la nuit du samedi 24 au dimanche 25 janvier 2026, à une quinzaine de kilomètres d’Antananarivo, un barrage hydro-agricole inauguré il y a deux ans a partiellement cédé, entrainant le déversement d’une rivière en furie vers des milliers d’hectares de parcelles cultivées. Une digue censée protéger les habitations et les cultures menace désormais de rompre. La journée de lundi a été consacrée à tenter de la consolider.",
+          "url": "https://www.rfi.fr/fr/afrique/20260127-madagascar-la-rupture-d-un-barrage-pr%C3%A8s-d-antananarivo-menace-des-milliers-d-habitations",
+          "imageUrl": "https://s.rfi.fr/media/display/a31baba2-fb28-11f0-8edb-005056bf30b7/w:1024/p:16x9/Rupture-Barrage.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:14:55.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Kenya: le pasteur autoproclamé de la secte de Shakahola inculpé pour 52 décès supplémentaires",
+          "description": "Nouveau rebondissement dans l’affaire de la secte de Shakahola. Paul Mackenzie va être poursuivi pour 52 morts supplémentaires. Le pasteur autoproclamé est en détention provisoire depuis 2023, dans le cadre de l’enquête sur la mort d’environ 450 adeptes de sa secte qu’il incitait à jeûner jusqu’à la mort pour rencontrer Jésus dans la forêt de Shakahola, dans l’est du Kenya. En 2025, 34 cadavres et 102 morceaux de corps ont été découverts dans le hameau de Binzaro à une trentaine de kilomètres de Shakahola. Ils correspondent à 52 décès selon l’enquête. Les détectives pointent du doigt une continuation de Shakahola même si le gourou était en détention.",
+          "url": "https://www.rfi.fr/fr/afrique/20260127-kenya-le-pasteur-autoproclam%C3%A9-de-la-secte-de-shakahola-inculp%C3%A9-pour-52-d%C3%A9c%C3%A8s-suppl%C3%A9mentaires",
+          "imageUrl": "https://s.rfi.fr/media/display/f031f576-7f64-11f0-9754-005056bf30b7/w:1024/p:16x9/Five-bodies-recovered-in-Kenya-at-suspected-site-of-cult-deaths.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:14:31.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Procès Martinez Zogo au Cameroun: la fiche de localisation du journaliste au cœur des auditions",
+          "description": "Quatre jours après la commémoration du 3e anniversaire de l'assassinat de l'ex-chef de chaîne de la radio Amplitude FM, dont le corps mutilé avait été retrouvé sur un terrain vague dans la banlieue de Yaoundé, deux nouveaux agents de la Direction générale des renseignements extérieurs (DGRE), en service à la Direction de la surveillance électronique (DSE), ont été entendus. Il s'agit de Rodrigue Tomni et de l'adjudant Bidias à Mousseri. Le premier a reconnu avoir fourni la fiche de localisation, et le second la fiche de renseignement concernant Martinez Zogo.",
+          "url": "https://www.rfi.fr/fr/afrique/20260127-proc%C3%A8s-martinez-zogo-au-cameroun-la-fiche-de-localisation-du-journaliste-au-c%C5%93ur-des-auditions",
+          "imageUrl": "https://s.rfi.fr/media/display/c7fcf76e-f745-11f0-a665-005056bfb2b6/w:1024/p:16x9/IMG-1530.jpeg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:13:56.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "États-Unis: certains produits sud-coréens de nouveau visés par une taxe de 25%",
+          "description": "Le président américain Donald Trump a annoncé lundi 26 janvier que les droits de douane visant certains produits sud-coréens seraient désormais de 25 %, estimant que le Parlement du pays asiatique n'avait pas ratifié assez rapidement l'accord commercial signé avec Washington.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260127-%C3%A9tats-unis-certains-produits-sud-cor%C3%A9ens-de-nouveau-vis%C3%A9s-par-une-taxe-de-25",
+          "imageUrl": "https://s.rfi.fr/media/display/fa27e634-fb34-11f0-bc0d-005056a90284/w:1024/p:16x9/000-38WV662.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:11:52.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Trop fragile (ou pas) pour être déplacée : la tapisserie de Bayeux enflamme les experts",
+          "description": "“Madness” : une “folie” ! C’est ainsi que le peintre David Hockney a qualifié le prêt de la tapisserie de Bayeux à Londres cette année. Et si le British Museum se veut rassurant, les avis des experts divergent quant aux risques liés à son transport. Un débat relayé par le quotidien britannique “The Daily Telegraph”.",
+          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-trop-fragile-ou-pas-pour-etre-deplacee-la-tapisserie-de-bayeux-enflamme-les-experts_239523",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/22/0/60/4416/2944/1200/630/60/0/9610aea_upload-1-xnqv02lhioir-054-183151.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:00:36.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "“Ils veulent tous nous tuer” : en Iran, la terreur a remplacé l’espoir du début",
+          "description": "Brutalisés par la répression la plus sanglante de l’histoire contemporaine du pays, toujours coupés du monde, et en proie à une crise qui ne cesse de sévir, les Iraniens vivent désormais dans la peur d’être traqués, arrêtés, tués ou exécutés, raconte “The Observer”.",
+          "url": "https://www.courrierinternational.com/article/repression-ils-veulent-tous-nous-tuer-en-iran-la-terreur-a-remplace-l-espoir-du-debut_239780",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/197/47/2039/1359/1200/630/60/0/26ab3de_upload-1-tjpacbfva5n3-303736-w.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:00:09.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Au Royaume-Uni, de plus en plus de députés conservateurs rejoignent le parti d’extrême droite de Nigel Farage",
+          "description": "Trois ex-ministres du Parti conservateur ont rejoint ces dernières semaines Reform UK, en tête dans les sondages. Une vingtaine d’élus et d’anciens membres tory ont basculé vers ce mouvement antimigrants depuis 2024.",
+          "url": "https://www.lemonde.fr/international/article/2026/01/27/au-royaume-uni-nigel-farage-rallie-de-plus-en-plus-de-deputes-conservateurs_6664240_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/62/0/4834/3222/1440/960/60/0/b68ae27_ftp-1-ba37sxdf7t06-2026-01-26t135414z-1078527033-rc209jaoqgq7-rtrmadp-3-britain-politics-reform.JPG",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T04:00:08.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Le soutien des Etats-Unis est indispensable à la défense européenne, selon Mark Rutte, le secrétaire général de l’OTAN",
+          "description": "Alors que certains pays ont exprimé leur désir d’une « autonomie stratégique », Mark Rutte a martelé devant le Parlement européen qu’il était impossible pour les Européens de bâtir une nouvelle alliance défensive sans Washington, laquelle serait bien trop onéreuse et ne bénéficierait pas du « parapluie nucléaire américain ».",
+          "url": "https://www.lemonde.fr/international/article/2026/01/27/le-soutien-des-etats-unis-est-indispensable-a-la-defense-europeenne-selon-le-secretaire-general-de-l-otan_6664234_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/7053/4702/1440/960/60/0/4913ee5_ftp-1-ua17khsqzt1r-5991864-01-06.jpg",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T00:44:55.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
         },
         {
           "id": "2026-01-26-aHR0cHM6",
-          "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
-          "description": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
-          "url": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c904/live/b6c30c30-fb65-11f0-a422-4ba8a094a8fa.jpg",
+          "title": "Nigeria: procès en vue pour juger des militaires accusés de tentative de coup d’Etat en 2025",
+          "description": "Le Nigeria va juger des militaires accusés de tentative de coup d'État. L'annonce a été faite, ce lundi 26 janvier, par l'armée nigériane. En octobre dernier, 16 militaires avaient été arrêtés, officiellement pour « indiscipline ». Les rumeurs de tentative de coup d'État, circulant dans la presse, avaient été officiellement démenties. En annonçant ce procès à venir, Lagos reconnaît donc l'existence du complot.",
+          "url": "https://www.rfi.fr/fr/afrique/20260126-nigeria-proc%C3%A8s-en-vue-pour-juger-des-militaires-accus%C3%A9s-de-tentative-de-coup-d-etat-en-2025",
+          "imageUrl": "https://s.rfi.fr/media/display/6d7f4a18-1334-11ea-a386-005056a99247/w:1024/p:16x9/000_144168_0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T23:45:11.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Soumission chimique : 82% des cas dans la sphère privée",
+          "description": "L'ancien sénateur Joël Guerriau comparaît devant le tribunal correctionnel de Paris pour avoir drogué, chez lui, à Paris, le 14 novembre 2023, la députée Sandrine Josso en vue de commettre une agression sexuelle ou un viol. Des faits passibles de cinq ans d'emprisonnement et 75 000 euros d'amende. Plus d'un an après la fin du procès Mazan, la soumission chimique fait à nouveau scandale.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260126-soumission-chimique-82-des-cas-dans-la-sph%C3%A8re-priv%C3%A9e",
+          "imageUrl": "https://s.france24.com/media/display/b13fc7f0-fb0e-11f0-b042-005056bf30b7/w:1024/p:16x9/FRAN260126-2339-Live-CS2339.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T23:37:20.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Droits de douane : Donald Trump relance la guerre commerciale avec la Corée du Sud",
+          "description": "Le président des États-Unis, Donald Trump, qui reproche au parlement de la Corée du Sud de ne pas avoir ratifié l'accord commercial signé entre les deux pays, a annoncé lundi que des produits sud-coréens seraient désormais taxés à 25 %.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260126-droits-de-douane-donald-trump-relance-guerre-commerciale-coree-du-sud",
+          "imageUrl": "https://s.france24.com/media/display/cf7f81ce-fb0e-11f0-80b8-005056bf30b7/w:1024/p:16x9/AP26022784381985.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T23:30:54.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Le «Discombobulator», la nouvelle arme secrète dans l'arsenal de l'armée américaine révélée par Trump",
+          "description": "Au cours d'une interview au journal le New York Post, Donald Trump a révélé l'existence d'un nouveau type d'arme électromagnétique utilisée le 3 janvier dernier lors de l'opération qui a conduit à l'arrestation de Nicolas Maduro. Une arme qui paralyse les systèmes de défense, mais aussi les hommes.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260126-le-discombobulator-la-nouvelle-arme-secr%C3%A8te-dans-l-arsenal-de-l-arm%C3%A9e-am%C3%A9ricaine-r%C3%A9v%C3%A9l%C3%A9e-par-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/5a801e34-fb0d-11f0-8bf8-005056a97e36/w:1024/p:16x9/AP26022784381985.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T23:28:58.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Syrie: après les affrontements, le retour des familles kurdes à Raqqa",
+          "description": "En Syrie, le cessez-le-feu entre les autorités de Damas et les Forces démocratiques syriennes (FDS), à majorité kurde, a été prolongé samedi 24 janvier pour 15 jours. L’offensive lancée par l’armée syrienne a permis aux forces gouvernementales de récupérer une grande partie du territoire jusqu’ici contrôlé par les SDF. À Raqqa, ville à majorité arabe, connue pour être l'ancienne capitale autoproclamée de l'organisation État islamique, les quelques Kurdes de la ville avaient fui aux premiers jours de l’offensive, avant de revenir. Ils s'inquiètent pour leurs proches, coincés dans le nord du pays.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260126-syrie-apr%C3%A8s-les-affrontements-le-retour-des-familles-kurdes-%C3%A0-raqqa",
+          "imageUrl": "https://s.rfi.fr/media/display/60afda22-fb05-11f0-b743-005056bf30b7/w:1024/p:16x9/AP26025543216689.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T22:59:31.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Le président tchadien Idriss Déby invité à Paris: un réchauffement en cours",
+          "description": "L'heure est-elle au rabibochage entre la France et le Tchad ? Le président tchadien, Mahamat Idriss Déby, a reçu, ce lundi 26 janvier, l'ambassadeur de France, à Ndjamena, et a accepté une invitation de son homologue Emmanuel Macron à se rendre à Paris. Quatorze mois après la rupture brutale et à forte valeur symbolique de l'accord de Défense, les deux États semblent chercher un réchauffement.",
+          "url": "https://www.rfi.fr/fr/afrique/20260126-le-pr%C3%A9sident-tchadien-idriss-d%C3%A9by-invit%C3%A9-%C3%A0-paris-un-r%C3%A9chauffement-en-cours",
+          "imageUrl": "https://s.rfi.fr/media/display/c32b7fe2-38c1-11ef-9955-005056bf30b7/w:1024/p:16x9/000_362C7UY.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T22:45:55.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "L'or franchit la barre des 5 000 dollars l'once, une première historique",
+          "description": "En période d'incertitudes, les investisseurs délaissent les actions et autres placements pour se tourner vers l'or, éternelle valeur refuge. En un an, sa valeur a quasiment doublé pour dépasser, en séance, les 5 100 dollars. Les banques centrales en achètent des quantités bien supérieures à leurs acquisitions habituelles, autour de 60 tonnes par mois au lieu de 17 tonnes en moyenne avant 2022. Mais les analystes craignent une correction du cours de l'or dans les prochains mois. Reste que c'est une valeur sûre et facilement mobilisable quand, comme la Russie après l'invasion à grande échelle de l'Ukraine, un pays fait l'objet de sanctions internationales. Dans les mois qui ont précédé février 2022, Moscou avait d'ailleurs considérablement augmenté les achats d'or.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260126-l-or-franchit-la-barre-des-5-000-dollars-l-once-une-premi%C3%A8re-historique",
+          "imageUrl": "https://s.france24.com/media/display/4886248c-fb06-11f0-b9db-005056a97e36/w:1024/p:16x9/VIDI34KN4KT-EN-STOCKSHOTS-Gold-production-and-sales-3.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T22:37:31.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Sly Dunbar, prolific legend of reggae, dies aged 73",
+          "description": "The drummer and producer played with everyone from Bob Marley to The Rolling Stones and Madonna.",
+          "url": "https://www.bbc.com/news/articles/cn56300z220o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3c92/live/53ee2690-fb05-11f0-a41f-395b54491b3e.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-01-26T21:18:39.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
+          "publishedAt": "2026-01-26T22:35:45.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "RD Congo : un an après la chute de Goma, certaines voix dénoncent un climat de répression",
+          "description": "En RD Congo, cela fait un an que les rebelles de l’AFC/M23 ont pris le contrôle de Goma alors capitale provinciale du Nord-Kivu. C’est la première fois que la ville est sous rebelle aussi longtemps. Dans la ville, la vie quotidienne a repris son cours mais certaines voix dénoncent un climat de répression. Dans l’est congolais, les exactions contre les civils ont atteint un niveau alarmant selon les humanitaires, et sont commises par toutes les parties en conflit. Reportage.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260126-rd-congo-un-an-apr%C3%A8s-la-chute-de-goma-certaines-voix-d%C3%A9noncent-un-climat-de-r%C3%A9pression",
+          "imageUrl": "https://s.france24.com/media/display/3702eaa2-fafb-11f0-b54e-005056bf30b7/w:1024/p:16x9/FRAN260126-2141-Live-01.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T22:24:19.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Mort d'Alex Pretti : l'administration Trump face aux images",
+          "description": "Alex Pretti, un infirmier de 37 ans, a été tué à Minneapolis aux États-Unis samedi. Abattu par la police de l’immigration (ICE), le manifestant a été neutralisé par des tirs que les autorités américaines ont présentés comme défensifs parce qu'elles considéraient l'homme comme une menace armée. L’analyse des images contredit cette version.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260126-mort-d-alex-pretti-l-administration-trump-face-aux-images-1",
+          "imageUrl": "https://s.france24.com/media/display/c98cd66a-fb6b-11f0-8271-005056bfb2b6/w:1024/p:16x9/capture-919072495697894c093ef38-21109173.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T21:54:44.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Daniel Kretinsky en France, une galaxie protéiforme d’achats et d’investissements",
+          "description": "Le milliardaire tchèque multiplie les acquisitions, notamment dans les médias, depuis son arrivée dans l’Hexagone, en 2018, dont la dernière en date est celle de Fnac Darty. Mais avec quelle stratégie ?",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/26/daniel-kretinsky-en-france-une-galaxie-proteiforme-d-achats-et-d-investissements_6664226_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/2575/1716/1440/960/60/0/e9a603f_upload-1-sp6a4q5ogeza-2023-10-17t131735z-53086418-rc2cu3ahrjeb-rtrmadp-3-czech-kretinsky.JPG",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T20:15:42.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Rappels de lait infantile : une association attaque l’Etat pour « carence grave »",
+          "description": "Plusieurs industriels ont procédé à des rappels de laits infantiles dans plus d’une soixantaine de pays au total depuis décembre 2025, en raison d’un risque de contamination à une toxine.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/26/rappels-de-lait-infantile-une-association-attaque-l-etat-pour-carence-grave_6664224_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/23/0/0/6000/4000/1440/960/60/0/9738324_ftp-1-nney6ybp1wih-5968942-01-06.jpg",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T19:47:22.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Emploi et handicap : la Cour des comptes déplore des dispositifs « insuffisants » avec des résultats « en deçà des attentes »",
+          "description": "L’obligation d’emploi de 6 % de travailleurs handicapés n’est pas réellement atteinte malgré de nombreuses dérogations, et la qualité des carrières n’est pas assez prise en compte, constate un rapport publié lundi 26 janvier.",
+          "url": "https://www.lemonde.fr/societe/article/2026/01/26/emploi-et-handicap-la-cour-des-comptes-deplore-des-dispositifs-insuffisants-avec-des-resultats-en-deca-des-attentes_6664219_3224.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/6000/4000/1440/960/60/0/430b5ad_upload-1-d2zznel2j6ob-000-339g74n.jpg",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T19:14:35.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Crise à Ubisoft : le numéro un français du jeu vidéo envisage de supprimer jusqu’à 200 postes en France",
+          "description": "Après de nombreuses restructurations et fermetures de studios à l’étranger, c’est au tour des salariés du siège français d’être visés.",
+          "url": "https://www.lemonde.fr/jeux-video/article/2026/01/26/crise-a-ubisoft-le-numero-un-francais-du-jeu-video-envisage-de-supprimer-jusqu-a-200-postes-en-france_6664218_1616924.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/5656/3771/1440/960/60/0/01f6e7e_ftp-1-xdfc4wrkdlzc-5992962-01-06.jpg",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T19:14:21.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "CAN 2025 : le Premier ministre sénégalais réaffirme à Rabat l'\"amitié\" avec le Maroc",
+          "description": "L'amitié sénégalo-marocaine est \"plus forte que les émotions\" suscitées par la finale chaotique de la CAN, a déclaré à Rabat le Premier ministre sénégalais Ousmane Sonko. Un message visant à apaiser les tensions entre les supporters des deux pays qui s'écharpent sur les réseaux sociaux au sujet des incidents qui ont entaché la fin de la rencontre.",
+          "url": "https://www.france24.com/fr/afrique/20260126-can-2025-premier-ministre-s%C3%A9n%C3%A9galais-ousmane-sonko-r%C3%A9affirme-rabat-amiti%C3%A9-maroc",
+          "imageUrl": "https://s.france24.com/media/display/77899f4c-fae4-11f0-a110-005056a90284/w:1024/p:16x9/000-942C6ET.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T19:00:32.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Gregory Bovino et son manteau, symboles de la répression trumpiste à Minneapolis",
+          "description": "Alors que la situation se tend de plus en plus à Minneapolis après la mort d’un deuxième manifestant à la suite de tirs d’un agent fédéral, la presse américaine dresse le portrait de Gregory Bovino, figure de la police des frontières. Son style, et notamment son manteau, est âprement commenté et analysé comme le symbole d’une militarisation croissante de la politique anti-immigration de Donald Trump.",
+          "url": "https://www.courrierinternational.com/article/portrait-gregory-bovino-et-son-manteau-symboles-de-la-repression-trumpiste-a-minneapolis_239795",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/0/3000/2000/1200/630/60/0/4f08dcf_upload-1-b8tp1hr4gixn-000-92vp7ty.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T18:51:14.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Municipales: Amine Kessaci s'engage avec Payan pour combattre le narcotrafic à Marseille",
+          "description": "Le militant écologiste et anti-drogue Amine Kessaci est candidat aux municipales à Marseille sur la liste du maire sortant de gauche Benoît Payan, souhaitant faire de la deuxième ville de France une \"vitrine dans la lutte contre le narcotrafic\".",
+          "url": "https://www.france24.com/fr/info-en-continu/20260126-municipales-amine-kessaci-s-engage-avec-payan-pour-combattre-le-narcotrafic-%C3%A0-marseille",
+          "imageUrl": "https://s.france24.com/media/display/e13a2714-faf2-11f0-820b-005056a90284/w:1024/p:16x9/a26ad5afb3ce41ccd603f00b7fecfe22fc3026d6.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T18:09:13.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Réseaux sociaux : quels dangers ?",
+          "description": "Les députés doivent se prononcer ce lundi sur l'interdiction des réseaux sociaux aux moins de 15 ans et les téléphones portables dans les lycées. Le texte, proposé par Renaissance, vise à protéger davantage les adolescents dont la santé mentale est mise à mal par la surexposition à TikTok, Snapchat ou encore Instagram. Les explications de Katia Roux, chargée de plaidoyer technologies et droits humains à Amnesty International France.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260126-r%C3%A9seaux-sociaux-quels-dangers",
+          "imageUrl": "https://s.france24.com/media/display/32781cce-fae1-11f0-ae6f-005056bf30b7/w:1024/p:16x9/capture-12155789876977ac3c824521-97682412.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T18:06:13.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "\"C'étaient des balles de guerre\" : des médecins iraniens témoignent d'une répression sans précédent",
+          "description": "France 24 a recueilli les témoignages de médecins iraniens sur les nuits des 8 et 9 janvier, lors du pic des manifestations antigouvernementales en Iran. Hôpitaux débordés, blessés soignés à domicile, tirs de balles de guerre : ils décrivent une répression d’une violence extrême, qui a fait d'innombrables morts et blessés graves.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260126-balles-guerre-m%C3%A9decins-iraniens-t%C3%A9moignent-r%C3%A9pression-sans-pr%C3%A9c%C3%A9dent-manifestations-hopitaux-armes-mitrailleuses",
+          "imageUrl": "https://s.france24.com/media/display/f2abfe98-fad7-11f0-92b0-005056a90284/w:1024/p:16x9/2026-01-12T171407Z-921365277-RC29XIA2YXVC-RTRMADP-3-IRAN-ECONOMY-PROTESTS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T18:03:29.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Israël annonce le rapatriement du corps de Ran Gvili, dernier otage du Hamas à Gaza",
+          "description": "Lundi 26 janvier, l’armée israélienne a annoncé avoir identifié et rapatrié depuis Gaza la dépouille de Ran Gvili, tué en défendant un kibboutz le 7 octobre 2023. Le retour du corps du dernier otage du Hamas sur le sol de l’État hébreu devrait permettre une réouverture du poste-frontière de Rafah, entre la bande de Gaza et l’Égypte.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-israel-annonce-le-rapatriement-du-corps-de-ran-gvili-dernier-otage-du-hamas-a-gaza_239814",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/0/5139/3426/1200/630/60/0/85ea854_ftp-1-iu1co5vd0nt8-2026-01-26t164846z-1905513590-rc249jaapedu-rtrmadp-3-israel-palestinians-last-hostage-body.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T18:02:00.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Réseau de chaleur parisien : Engie dépose des recours pour faire annuler le contrat de Dalkia",
+          "description": "La valeur de la concession d’un quart de siècle à partir de 2027 est estimée à 15 milliards d’euros.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/26/reseau-de-chaleur-parisien-engie-depose-des-recours-pour-faire-annuler-le-contrat-de-dalkia_6664206_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/19/0/0/5500/3666/1440/960/60/0/417eeda_ftp-1-36whosg89nwl-2026-01-19t111633z-1498038051-rc2bsu9zvcrq-rtrmadp-3-engie-masdar-renewables.JPG",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T18:00:01.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "« Les revirements de Donald Trump interviennent souvent après des chutes des cours de Bourse »",
+          "description": "Si les menaces commerciales bruyantes du président des Etats-Unis sont suivies de volte-face spectaculaires, c’est que la finance mondiale a imposé une ligne rouge, constate, dans sa chronique Nicolas Chapuis, journaliste au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/01/26/les-revirements-de-donald-trump-interviennent-souvent-apres-des-chutes-des-cours-de-bourse_6664205_3232.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/21/0/0/3548/2365/1440/960/60/0/d04d7de_ftp-1-pnnr1xgxhfab-2026-01-21t152052z-769874476-rc2p5jaahwok-rtrmadp-3-usa-stocks.JPG",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T17:55:04.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Au Cambodge, l’exode de milliers d’étrangers fuyant les centres de cyberarnaque",
+          "description": "Depuis l’arrestation du magnat Chen Zhi et sous la pression des autorités cambodgiennes, des milliers de personnes, pour certaines victimes de travail forcé, quittent les casinos et les centres d’où étaient coordonnées les cyberescroqueries. L’ampleur de l’exode vers Phnom Penh, où se rassemblent les ressortissants étrangers qui tentent de rentrer chez eux, laisse craindre une crise humanitaire.",
+          "url": "https://www.courrierinternational.com/article/criminalite-au-cambodge-l-exode-de-milliers-d-etrangers-fuyant-les-centres-de-cyberarnaque_239775",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/19/0/0/6048/4032/1200/630/60/0/44a078b_ftp-1-zw08akdsdohb-afp-93789we.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T17:46:21.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Port d'armes : intox autour du pistolet porté par Alex Pretti, tué par des agents fédéraux américains",
+          "description": "En plus d'avoir qualifié d'Alex Pretti, tué samedi par des agents fédéraux à Minneapolis, de \"terroriste de l'intérieur\", les autorités américaines ont aussi affirmé à tort que la victime n'avait pas le droit de porter une arme. D'autres intox, notamment sur la photo de l'arme récupérée par la police de l'immigration américaine (ICE), ont aussi entouré cet événement dramatique.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260126-minneapolis-port-armes-intox-victime-alex-pretti-police-ice-immigration",
+          "imageUrl": "https://s.france24.com/media/display/9d193f3c-fad6-11f0-aa09-005056bf30b7/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-22.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T17:42:01.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Fête nationale en Inde : la puissance militaire affichée devant les dirigeants de l'UE",
+          "description": "Les dirigeants de l'Union européenne assistent au défilé militaire qui marque le Jour de la République en Inde, invités d'honneur du gouvernement de New Delhi avec lequel ils doivent conclure un ambitieux traité de libre-échange commercial.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260126-f%C3%AAte-nationale-en-inde-la-puissance-militaire-affich%C3%A9e-devant-les-dirigeants-de-l-ue",
+          "imageUrl": "https://s.france24.com/media/display/b721df88-fadb-11f0-bd1c-005056a97e36/w:1024/p:16x9/minia-Inde-Parade0.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T17:26:09.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "“Expatriation éducative” : partir d’Allemagne pour fuir l’école",
+          "description": "La famille Betz a traversé la frontière allemande pour vivre à Padborg, au Danemark, et pratiquer l’enseignement à domicile. “Der Spiegel” raconte un choix motivé par le refus d’une scolarité obligatoire perçue comme trop contraignante.",
+          "url": "https://www.courrierinternational.com/article/education-expatriation-educative-partir-d-allemagne-pour-fuir-l-ecole_239038",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/22/0/0/6000/4000/1200/630/60/0/0b7a044_upload-1-pjldkib12h8v-pexels-olia-danilevich-5088180.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T17:13:38.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Les wagons “no kids” de la SNCF mettent la France “en ébullition”",
+          "description": "L’offre “Optimum” proposant un espace de calme et interdit aux enfants sur la ligne Paris-Lyon a déclenché une vive polémique en France, observe la presse étrangère. Celle-ci est révélatrice d’une société tiraillée entre l’ambition du “vivre-ensemble” et la réalité d’une société de plus en plus fracturée, estiment certains observateurs.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-les-wagons-no-kids-de-la-sncf-mettent-la-france-en-ebullition_239791",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/0/5568/3712/1200/630/60/0/c734fe8_upload-1-wmoekbsjcucv-000-89xd9cq.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T17:10:34.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Au Royaume-Uni, les journaux s’opposent à l’action climatique plus qu’ils ne la défendent",
+          "description": "Le site spécialisé “Carbon Brief” a examiné les éditoriaux des journaux britanniques : en 2025, ceux opposés à la lutte contre le dérèglement climatique dépassent en nombre ceux qui la défendent. Un effet de la droitisation du Parti conservateur.",
+          "url": "https://www.courrierinternational.com/article/medias-au-royaume-uni-les-journaux-s-opposent-a-l-action-climatique-plus-qu-ils-ne-la-defendent_239772",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/89/159/7068/4712/1200/630/60/0/42324ab_upload-1-limba19wrav6-web-climat-bertrams-2023-07-31-climate-denier.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T17:02:30.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "La Commission européenne ouvre une enquête sur Grok après la divulgation de fausses images de femmes et enfants dénudés",
+          "description": "Bruxelles a par ailleurs décidé que WhatsApp devait être soumis aux contraintes réglementaires les plus strictes, comme toutes les « très grandes plateformes » numériques.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/26/la-commission-europeenne-ouvre-une-enquete-sur-grok-apres-la-divulgation-de-fausses-images-de-femmes-et-enfants-denudes_6664197_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/0/1007/3743/2495/1440/960/60/0/40b4e7a_upload-1-ykvhqv01wnib-epaliveeight774898.jpg",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T17:00:07.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Après la finale de la CAN, la “mi-temps diplomatique” entre le Sénégal et le Maroc ?",
+          "description": "Après s’être affrontés sur la pelouse lors de la finale controversée de la Coupe d’Afrique des nations (CAN) de football, le Maroc et le Sénégal se retrouvent lundi 26 janvier pour renforcer leur coopération bilatérale. Malgré les appels à l’apaisement et à la fraternité de part et d’autre, les presses des deux pays n’en ont pas fini avec les sujets qui fâchent.",
+          "url": "https://www.courrierinternational.com/article/apaisement-apres-la-finale-de-la-can-la-mi-temps-diplomatique-entre-le-senegal-et-le-maroc_239809",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/26/0/0/6000/4000/1200/630/60/0/26f34b9_ftp-1-hxdxj7fchmf9-afp-942c6ev.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T16:28:59.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Le rachat de Warner Bros par Netflix inquiète sérieusement les salles de cinéma américaines",
+          "description": "L’association des exploitants de cinémas américains redoute « un impact négatif et irréversible » au niveau mondial et « un préjudice substantiel pour la vie culturelle » aux Etats-Unis si Netflix acquiert le studio.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/26/le-rachat-de-warner-bros-par-netflix-inquiete-serieusement-les-salles-de-cinema-americaines_6664188_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/0/0/6000/4000/1440/960/60/0/b49bf11_upload-1-8xodxicza21v-000-879z9yc.jpg",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T15:57:36.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "En France, le nombre de passagers aériens dépasse pour la première fois son niveau d’avant Covid-19",
+          "description": "Le nombre de voyageurs sur les lignes intérieures continue toutefois de se contracter et reste inférieur de 20,9 % à son niveau de 2019, selon des statistiques de la direction générale de l’aviation civile publiées lundi.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/26/en-france-le-nombre-de-passagers-aeriens-depasse-pour-la-premiere-fois-son-niveau-d-avant-covid-19_6664187_3234.html",
+          "imageUrl": "https://img.lemde.fr/2025/12/10/0/0/6720/4480/1440/960/60/0/a4fb3f0_ftp-1-mwanvxzoxb51-2025-12-10t010509z-1319151074-rc2cdianok0u-rtrmadp-3-air-transat-strike.JPG",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T15:48:21.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Spain slashes speed limit on popular train route after fault found",
+          "description": "The discovery of a crack on the Madrid-Barcelona line follows two recent deadly crashes in the country.",
+          "url": "https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eab0/live/dc8612b0-fac9-11f0-92f0-7514a316844b.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T15:17:32.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "A Mulhouse, un tiers-lieu pour marier industrie et numérique",
+          "description": "Créé en 2019, KMØ réunit sur une ancienne friche des industries traditionnelles, des start-up innovantes et des écoles de formation numérique. Un modèle hybride qui prévoit de se décliner en 2026 à Belfort, à Colmar et en Suisse.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/26/a-mulhouse-un-tiers-lieu-pour-marier-industrie-et-numerique_6664179_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/26/0/85/8496/5664/1440/960/60/0/7f1a12f_upload-1-lqfmjv1lqcbp-kmo-photo-luc-boegly-014.jpg",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T15:00:07.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "'I spent £2,000 on one event': Why Gen Z is obsessed with Hyrox",
+          "description": "How young millennials and Generation Z - people in their twenties to early forties - have become obsessed with this fitness craze.",
+          "url": "https://www.bbc.com/news/articles/cj0nmj72v8ro?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c8d7/live/bd1afc30-f216-11f0-8f9d-7304521a922a.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T00:45:40.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "RDC: nouvelles enquêtes sur le fonds d’indemnisation des victimes d’affrontement",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "RDC: nouvelles enquêtes sur le fonds d’indemnisation des victimes d’affrontements ayant impliqué l’Ouganda",
+          "description": "Nouvelle polémique en République démocratique du Congo (RDC) autour du Fonds spécial de réparation et d’indemnisation des victimes des activités illicites de l’Ouganda (Frivao), qui est alimenté par les 325 millions de dollars que Kampala doit verser à la RDC, après sa condamnation par la Cour internationale de justice (CIJ) pour les exactions commises entre 1998 et 2003 dans l’est du pays. Ce fonds censé indemniser les victimes et leurs ayants droit se retrouve au cœur de soupçons de détournement. De nouvelles enquêtes en cours pourraient déboucher sur de nouvelles interpellations.",
+          "url": "https://www.rfi.fr/fr/afrique/20260127-rdc-nouvelles-enqu%C3%AAtes-sur-le-fonds-d-indemnisation-des-victimes-d-affrontements-ayant-impliqu%C3%A9-l-ouganda",
+          "imageUrl": "https://s.rfi.fr/media/display/ba42106e-39d7-11ef-b7d3-005056bfb2b6/w:1024/p:16x9/000_32HR2TL.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T10:22:17.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "À Los Angeles, ce supermarché prisé des stars propose “huit glaçons pour 30 dollars”",
+          "description": "Erewhon est “l’épicerie bio la plus en vogue de Los Angeles”, raconte Jonas Leppin, correspondant sur place pour l’hebdomadaire allemand “Der Spiegel”. Des smoothies de Hailey Bieber aux fraises de Heidi Klum, dans les rayons du magasin, l’expérience proposée est aussi exclusive que les prix des denrées.",
+          "url": "https://www.courrierinternational.com/article/luxe-a-los-angeles-ce-supermarche-prise-des-stars-propose-huit-glacons-pour-30-dollars_239448",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/19/0/0/4500/3000/1200/630/60/0/18a4307_upload-1-rvnrkb1m7w0y-los-angeles-store-1.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T10:19:43.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
         },
         {
           "id": "2026-01-26-aHR0cHM6",
@@ -1135,7 +1034,133 @@
           "source": "Courrier International",
           "category": "geopolitique",
           "publishedAt": "2026-01-26T16:37:12.000Z",
-          "fetchedAt": "2026-01-27T10:16:15.704Z"
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Deadly US winter storm leaves flights delayed and thousands without power",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Deadly US winter storm leaves flights delayed and thousands without power",
+          "description": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said.",
+          "url": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d26f/live/90590740-fb04-11f0-8d99-4d63080b9583.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T10:20:58.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Philippines' Duterte fit to face ICC proceedings, judges say",
+          "description": "The 80-year-old is accused of crimes of humanity over his bloody war on drugs that left thousands killed.",
+          "url": "https://www.bbc.com/news/articles/c0lx2pj84l4o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/801b/live/07d9eec0-fb4a-11f0-8a3f-efae3b17f55b.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T07:12:55.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "En direct : le chef d'état-major russe rend visite à ses troupes dans l'est de l'Ukraine",
+          "description": "À l'approche de nouveaux pourparlers entre Russes, Ukrainiens et Américains à Abu Dhabi qui doivent se tenir dans les prochains jours, le chef d'état-major russe a rendu visite à ses troupes combattant dans l'est de l'Ukraine, a annoncé le ministère de la Défense, sans préciser la date ni le lieu. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20260127-en-direct-le-chef-d-%C3%A9tat-major-russe-rend-visite-%C3%A0-ses-troupes-dans-l-est-de-l-ukraine",
+          "imageUrl": "https://s.france24.com/media/display/a03571f2-fb4b-11f0-a83d-005056a90284/w:1024/p:16x9/AP26015421197490.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T06:58:51.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Trump joue l’apaisement dans le Minnesota et veut reprendre la main en changeant d’équipe",
+          "description": "Trois jours après le tollé provoqué par la mort d’Alex Pretti, et trois semaines après celle de Renee Good, le président américain change de stratégie en envoyant sur place le “tsar des frontières” Tom Homan à la place du “commandant itinérant” Greg Bovino.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-donald-trump-joue-l-apaisement-dans-le-minnesota-et-tente-de-reprendre-la-main-en-changeant-d-equipe_239818",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/27/74/0/5500/3666/1200/630/60/0/248f765_ftp-1-sc4juzbdq2ey-2026-01-27t043140z-739523072-rc2d9ja25mjb-rtrmadp-3-usa-trump-minnesota.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T05:01:29.000Z",
+          "fetchedAt": "2026-01-27T10:54:28.907Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Libye: plusieurs accords signés lors du sommet international de l'énergie à Tripoli",
+          "description": "Clap de fin du Sommet international de l'énergie en Libye. Trois jours de discussions à Tripoli en présence d'officiels et d'investisseurs libyens, mais aussi américains, français, britanniques et italiens. À la clé, plusieurs accords dans le secteur des hydrocarbures.",
+          "url": "https://www.rfi.fr/fr/afrique/20260126-libye-plusieurs-accords-sign%C3%A9s-lors-du-sommet-international-de-l-%C3%A9nergie-%C3%A0-tripoli",
+          "imageUrl": "https://s.rfi.fr/media/display/64aa2448-faf1-11f0-b5f8-005056a90284/w:1024/p:16x9/000-93VH6QB.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T21:20:04.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "« La nouvelle politique industrielle de Trump est celle d’un capitalisme d’Etat ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "« La nouvelle politique industrielle de Trump est celle d’un capitalisme d’Etat assumé qui vise à piloter les secteurs stratégiques »",
+          "description": "Les prises de participations dans des entreprises notamment minières spécialisées dans les terres rares ou les financements ciblés se multiplient de la part de l’administration Trump. Un capitalisme d’Etat qui n’est pas sans rappeler celui mis en œuvre en France dans la défense ou l’énergie, relève Olivier Pinaud, journaliste au service Economie du « Monde ».",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/27/la-nouvelle-politique-industrielle-de-trump-est-celle-d-un-capitalisme-d-etat-assume-qui-vise-a-piloter-les-secteurs-strategiques_6664284_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/27/12/0/4712/3141/1440/960/60/0/329d8b8_upload-1-hovkh92my1ma-2020-04-22t000000z-746680830-rc2n9g9r3c45-rtrmadp-3-usa-rareearths.JPG",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T09:50:03.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-27-aHR0cHM6",
+          "title": "Trois touristes français meurent dans le naufrage de leur bateau dans le golfe d’Oman",
+          "description": "La police royale a précisé que le navire transportait 25 touristes français, ainsi qu’un guide et un capitaine, lorsqu’il a chaviré au large de Mascate, la capitale du sultanat.",
+          "url": "https://www.lemonde.fr/international/article/2026/01/27/trois-touristes-francais-meurent-dans-le-naufrage-de-leur-bateau-a-oman_6664282_3210.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/27/0/43/601/401/1440/960/60/0/babeb60_upload-1-0ztowv31fnrl-capture-d-ecran-2026-01-27-115201.png",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-27T09:36:22.000Z",
+          "fetchedAt": "2026-01-27T10:54:15.171Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
+          "description": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
+          "url": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c904/live/b6c30c30-fb65-11f0-a422-4ba8a094a8fa.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T21:18:39.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "Minneapolis : un point de bascule ?",
+          "description": "Que se passe-t-il à Minneapolis ? Après la mort d'une seconde victime, Alex Pretti, sous les balles de la police de l’immigration, l’opposition de démocrates comme Barack Obama ou Bill Clinton gronde. Certains républicains s’interrogent aussi sur les dérives de cette police et demandent une enquête. Donald Trump a accusé le maire de Minneapolis Jacob Frey et le gouverneur du Minnesota Tim Walz de susciter l’insurrection. Le président américain a envoyé Tom Homan, le \"tsar des frontières\", à Minneapolis ce lundi soir. Après la mort de Renée Good, le décès d’Alex Pretti est-il un point de bascule ? La police ICE est-elle le révélateur de la dérive autoritaire de Trump et de son administration ?",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260126-minneapolis-un-point-de-bascule",
+          "imageUrl": "https://s.france24.com/media/display/3a4b87c8-fb69-11f0-93d3-005056a97e36/w:1024/p:16x9/capture-144211392669789075328825-88921034.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T19:17:25.000Z",
+          "fetchedAt": "2026-01-27T10:54:42.803Z"
+        },
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "États-Unis: face à la colère, Donald Trump envoie le responsable de sa politique anti-immigration à Minneapolis",
+          "description": "Donald Trump a dépêché lundi 26 janvier Tom Homan, le responsable de sa politique nationale d'expulsions massives de migrants, dans le Minnesota, où l'indignation ne cesse de grandir contre la police de l'immigration, après la mort d'un deuxième Américain aux mains d'agents fédéraux. Le maire de Minneapolis a par ailleurs annoncé que des agents fédéraux quitteront Minneapolis dès mardi 27 janvier.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260126-%C3%A9tats-unis-face-%C3%A0-la-col%C3%A8re-trump-envoie-le-responsable-de-sa-politique-anti-immigration-%C3%A0-minneapolis",
+          "imageUrl": "https://s.rfi.fr/media/display/404beb20-fae9-11f0-b07b-005056a90284/w:1024/p:16x9/000-92PB8PH.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-01-26T19:07:06.000Z",
+          "fetchedAt": "2026-01-27T10:54:49.922Z"
         },
         {
           "id": "2026-01-25-aHR0cHM6",
@@ -1146,7 +1171,26 @@
           "source": "BBC World",
           "category": "geopolitique",
           "publishedAt": "2026-01-25T22:29:48.000Z",
-          "fetchedAt": "2026-01-27T10:16:32.803Z"
+          "fetchedAt": "2026-01-27T10:54:49.973Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-23",
+      "topic": "L’Allemagne va construire des centrales à gaz pour sécuriser son approvisionneme",
+      "category": "economie",
+      "importance": 5,
+      "articles": [
+        {
+          "id": "2026-01-26-aHR0cHM6",
+          "title": "L’Allemagne va construire des centrales à gaz pour sécuriser son approvisionnement en électricité",
+          "description": "Berlin a obtenu, mi-janvier, l’aval de Bruxelles pour la construction de centrales à gaz et de batteries de stockage, destinées à compenser les périodes de faible production des énergies renouvelables.",
+          "url": "https://www.lemonde.fr/economie/article/2026/01/26/l-allemagne-va-construire-des-centrales-a-gaz-pour-securiser-son-approvisionnement-en-electricite_6664158_3234.html",
+          "imageUrl": "https://img.lemde.fr/2026/01/25/14/0/5730/3820/1440/960/60/0/d982fc4_upload-1-l3xvhskohtew-2025-04-14t060130z-1908579763-rc2lpda5dc19-rtrmadp-3-ukraine-crisis-russia-gas.JPG",
+          "source": "Le Monde - Économie",
+          "category": "economie",
+          "publishedAt": "2026-01-26T12:30:06.000Z",
+          "fetchedAt": "2026-01-27T10:54:21.959Z"
         }
       ]
     }
