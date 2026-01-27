@@ -135,6 +135,13 @@ function generateEmailHtml(stories: Story[], editionDate: string): string {
       <td align="center" style="padding: 40px 20px;">
         <table role="presentation" width="560" cellspacing="0" cellpadding="0" border="0" style="max-width: 560px; width: 100%;">
 
+          <!-- Logo -->
+          <tr>
+            <td align="center" style="padding-bottom: 24px;">
+              <img src="${APP_URL}/icon-192.svg" alt="Avactu" width="48" height="48" style="display: block; border: 0;" />
+            </td>
+          </tr>
+
           <!-- Header -->
           <tr>
             <td style="padding-bottom: 32px;">
