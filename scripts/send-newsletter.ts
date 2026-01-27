@@ -247,7 +247,7 @@ async function sendNewsletter(): Promise<void> {
   for (const subscriber of subscribers as Subscriber[]) {
     try {
       await resend.emails.send({
-        from: 'Avactu <newsletter@avactu.vercel.app>',
+        from: 'Avactu <onboarding@resend.dev>',
         to: subscriber.email,
         subject: `Avactu du ${formattedDate} - ${edition.stories.length} actus`,
         html: htmlContent,
