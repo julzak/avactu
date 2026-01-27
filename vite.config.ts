@@ -37,11 +37,12 @@ export default defineConfig({
         // Runtime caching strategies
         runtimeCaching: [
           {
-            // Cache stories.json with stale-while-revalidate
+            // Cache stories.json with network-first (always fetch fresh content)
             urlPattern: /\/data\/stories\.json$/,
-            handler: 'StaleWhileRevalidate',
+            handler: 'NetworkFirst',
             options: {
               cacheName: 'stories-cache',
+              networkTimeoutSeconds: 5,
               expiration: {
                 maxEntries: 10,
                 maxAgeSeconds: 60 * 60 * 24 * 2, // 2 days
