@@ -107,7 +107,9 @@ function buildMessage(edition: Edition): string {
     lines.push(`${emoji} ${title}`);
   }
 
-  lines.push(`👉 ${APP_URL}`);
+  // Ensure URL has https:// for clickability
+  const fullUrl = APP_URL.startsWith('http') ? APP_URL : `https://${APP_URL}`;
+  lines.push(`👉 ${fullUrl}`);
 
   return lines.join('\n');
 }
