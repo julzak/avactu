@@ -119,6 +119,7 @@ async function sendSMS(message: string, phoneNumber: string, recipientName: stri
   const account = process.env.OVH_SMS_SERVICE;
   const login = process.env.OVH_SMS_LOGIN;
   const password = process.env.OVH_SMS_PASSWORD;
+  const sender = process.env.OVH_SMS_SENDER;
 
   if (!account || !login || !password) {
     throw new Error(
@@ -129,8 +130,6 @@ async function sendSMS(message: string, phoneNumber: string, recipientName: stri
   const toNumber = convertToOvhFormat(phoneNumber);
 
   // Build query string
-  // Note: 'from' omis pour utiliser le numéro par défaut OVH
-  // Ajouter "from: 'avactu'" une fois l'expéditeur validé par OVH
   const params = new URLSearchParams({
     account: account,
     login: login,
@@ -139,6 +138,11 @@ async function sendSMS(message: string, phoneNumber: string, recipientName: stri
     message: message,
     noStop: '1',
   });
+
+  // Add sender if configured
+  if (sender) {
+    params.set('from', convertToOvhFormat(sender));
+  }
 
   const url = `${OVH_SMS_API}?${params.toString()}`;
 
