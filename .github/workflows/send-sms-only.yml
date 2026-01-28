@@ -1,0 +1,37 @@
+name: Send SMS Only
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_phone:
+        description: 'Test phone number (optional, overrides AVA/FELIX)'
+        required: false
+        type: string
+
+jobs:
+  send-sms:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: Send SMS
+        env:
+          OVH_SMS_SERVICE: ${{ secrets.OVH_SMS_SERVICE }}
+          OVH_SMS_LOGIN: ${{ secrets.OVH_SMS_LOGIN }}
+          OVH_SMS_PASSWORD: ${{ secrets.OVH_SMS_PASSWORD }}
+          OVH_SMS_SENDER: ${{ secrets.OVH_SMS_SENDER }}
+          AVA_PHONE_NUMBER: ${{ inputs.test_phone || secrets.AVA_PHONE_NUMBER }}
+          FELIX_PHONE_NUMBER: ${{ inputs.test_phone && '' || secrets.FELIX_PHONE_NUMBER }}
+          APP_URL: ${{ vars.APP_URL || 'avactu.vercel.app' }}
+        run: npm run send-sms

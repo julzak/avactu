@@ -89,6 +89,7 @@ jobs:
           OVH_SMS_SERVICE: ${{ secrets.OVH_SMS_SERVICE }}
           OVH_SMS_LOGIN: ${{ secrets.OVH_SMS_LOGIN }}
           OVH_SMS_PASSWORD: ${{ secrets.OVH_SMS_PASSWORD }}
+          OVH_SMS_SENDER: ${{ secrets.OVH_SMS_SENDER }}
           AVA_PHONE_NUMBER: ${{ secrets.AVA_PHONE_NUMBER }}
           FELIX_PHONE_NUMBER: ${{ secrets.FELIX_PHONE_NUMBER }}
           APP_URL: ${{ vars.APP_URL || 'avactu.vercel.app' }}
