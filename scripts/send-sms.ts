@@ -92,26 +92,16 @@ function formatDate(dateString: string): string {
 }
 
 /**
- * Build SMS message from stories
+ * Build SMS message from stories (sans emojis pour compatibilité OVH)
  */
 function buildMessage(edition: Edition): string {
   const dateFormatted = formatDate(edition.date);
-
-  const lines: string[] = [
-    `☀️ Avactu du ${dateFormatted}`,
-  ];
-
-  for (const story of edition.stories) {
-    const emoji = CATEGORY_EMOJI[story.category];
-    const title = truncateTitle(story.title);
-    lines.push(`${emoji} ${title}`);
-  }
+  const storyCount = edition.stories.length;
 
   // Ensure URL has https:// for clickability
   const fullUrl = APP_URL.startsWith('http') ? APP_URL : `https://${APP_URL}`;
-  lines.push(`👉 ${fullUrl}`);
 
-  return lines.join('\n');
+  return `Avactu du ${dateFormatted} - ${storyCount} actus disponibles sur ${fullUrl}`;
 }
 
 /**
