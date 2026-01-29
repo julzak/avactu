@@ -218,16 +218,24 @@ async function main(): Promise<void> {
   // Get phone numbers
   const avaPhone = process.env.AVA_PHONE_NUMBER;
   const felixPhone = process.env.FELIX_PHONE_NUMBER;
+  const julienPhone = process.env.JULIEN_PHONE_NUMBER;
 
-  if (!avaPhone && !felixPhone) {
+  if (!avaPhone && !felixPhone && !julienPhone) {
     console.error('❌ Erreur: Aucun numéro de téléphone configuré');
-    console.error('   Définissez AVA_PHONE_NUMBER et/ou FELIX_PHONE_NUMBER');
+    console.error('   Définissez AVA_PHONE_NUMBER, FELIX_PHONE_NUMBER et/ou JULIEN_PHONE_NUMBER');
     process.exit(1);
   }
 
-  // Send SMS to both recipients
+  // Send SMS to all recipients
   let successCount = 0;
   let totalCount = 0;
+
+  if (julienPhone) {
+    totalCount++;
+    if (await sendSMS(message, julienPhone, 'Julien')) {
+      successCount++;
+    }
+  }
 
   if (avaPhone) {
     totalCount++;
