@@ -96,12 +96,21 @@ function formatDate(dateString: string): string {
  */
 function buildMessage(edition: Edition): string {
   const dateFormatted = formatDate(edition.date);
-  const storyCount = edition.stories.length;
+
+  const lines: string[] = [
+    `Avactu du ${dateFormatted}`,
+  ];
+
+  for (const story of edition.stories) {
+    const title = truncateTitle(story.title);
+    lines.push(`- ${title}`);
+  }
 
   // Ensure URL has https:// for clickability
   const fullUrl = APP_URL.startsWith('http') ? APP_URL : `https://${APP_URL}`;
+  lines.push(`Lire: ${fullUrl}`);
 
-  return `Avactu du ${dateFormatted} - ${storyCount} actus disponibles sur ${fullUrl}`;
+  return lines.join('\n');
 }
 
 /**
