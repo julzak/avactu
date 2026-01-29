@@ -92,25 +92,20 @@ function formatDate(dateString: string): string {
 }
 
 /**
- * Build SMS message from stories (sans emojis pour compatibilité OVH)
+ * Build SMS message from stories
+ * Format compact sur 3 lignes (compatibilité OVH : pas de virgules)
  */
 function buildMessage(edition: Edition): string {
   const dateFormatted = formatDate(edition.date);
 
-  const lines: string[] = [
-    `Avactu du ${dateFormatted}`,
-  ];
-
-  for (const story of edition.stories) {
-    const title = truncateTitle(story.title);
-    lines.push(`- ${title}`);
-  }
+  // Extraire les noms de lieux (mots clés)
+  const keywords = edition.stories.map((story) => story.location.name.split(/[,\s]/)[0]);
+  const keywordsLine = keywords.join(' - ');
 
   // Ensure URL has https:// for clickability
   const fullUrl = APP_URL.startsWith('http') ? APP_URL : `https://${APP_URL}`;
-  lines.push(`Lire: ${fullUrl}`);
 
-  return lines.join('\n');
+  return `Avactu du ${dateFormatted}\n${keywordsLine}\nLire: ${fullUrl}`;
 }
 
 /**
