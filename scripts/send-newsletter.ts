@@ -178,8 +178,15 @@ function generateEmailHtml(stories: Story[], editionDate: string): string {
                 <tr>
                   <td align="center">
                     <p style="margin: 0; font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 10px; color: ${COLORS.textMuted};">
-                      Tu reçois cet email car tu t'es abonné sur avactu.vercel.app
+                      Tu reçois cet email car tu t'es abonné sur avactu.com
                     </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding-top: 12px;">
+                    <a href="${APP_URL}/unsubscribe" style="font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 10px; color: ${COLORS.textMuted}; text-decoration: underline;">
+                      Se désabonner
+                    </a>
                   </td>
                 </tr>
               </table>
@@ -222,6 +229,8 @@ ${storiesText}
 Lire l'analyse complète : ${APP_URL}
 
 Avactu — L'essentiel, sans le bruit.
+
+Se désabonner : ${APP_URL}/unsubscribe
 `;
 }
 
