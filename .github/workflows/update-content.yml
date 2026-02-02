@@ -1,9 +1,9 @@
 name: Update Content & Send SMS
 
 on:
-  # Every 2 days (odd days) at 7h Paris time (6h UTC in winter)
+  # Every 2 days (odd days) at ~7h Paris time (start at 5h15 UTC to account for processing time)
   schedule:
-    - cron: '0 6 1-31/2 * *'
+    - cron: '15 5 1-31/2 * *'
   # Manual trigger for testing
   workflow_dispatch:
     inputs:
