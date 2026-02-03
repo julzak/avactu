@@ -1,9 +1,9 @@
-name: Update Content & Send SMS
+name: Update Content & Send Newsletters
 
 on:
-  # Every 2 days (odd days) at ~7h Paris time (start at 5h15 UTC to account for processing time)
+  # Daily at 5h15 UTC (~7h15 Paris time)
   schedule:
-    - cron: '15 5 1-31/2 * *'
+    - cron: '15 5 * * *'
   # Manual trigger for testing
   workflow_dispatch:
     inputs:
@@ -12,6 +12,15 @@ on:
         required: false
         default: 'false'
         type: boolean
+      frequency_override:
+        description: 'Override frequency (leave empty for auto)'
+        required: false
+        type: choice
+        options:
+          - ''
+          - 'daily'
+          - 'biweekly'
+          - 'weekly'
 
 permissions:
   contents: write
@@ -54,37 +63,81 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run synthesize
 
-      # 7. Send newsletter to all subscribers
-      - name: Send newsletter
+      # 7. Determine day info for conditional sending
+      - name: Determine day info
+        id: day_info
+        run: |
+          DAY_OF_MONTH=$(date +%d)
+          DAY_OF_WEEK=$(date +%u)  # 1=Monday, 6=Saturday, 7=Sunday
+          IS_ODD_DAY=$(( DAY_OF_MONTH % 2 ))
+          IS_SATURDAY=$([[ "$DAY_OF_WEEK" == "6" ]] && echo "true" || echo "false")
+          echo "day_of_month=$DAY_OF_MONTH" >> $GITHUB_OUTPUT
+          echo "day_of_week=$DAY_OF_WEEK" >> $GITHUB_OUTPUT
+          echo "is_odd_day=$IS_ODD_DAY" >> $GITHUB_OUTPUT
+          echo "is_saturday=$IS_SATURDAY" >> $GITHUB_OUTPUT
+          echo "📅 Day of month: $DAY_OF_MONTH (odd: $IS_ODD_DAY)"
+          echo "📅 Day of week: $DAY_OF_WEEK (Saturday: $IS_SATURDAY)"
+
+      # 8. Send newsletter to DAILY subscribers (every day)
+      - name: Send newsletter (daily)
+        if: ${{ github.event.inputs.frequency_override == '' || github.event.inputs.frequency_override == 'daily' }}
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           APP_URL: ${{ vars.APP_URL || 'https://avactu.vercel.app' }}
-        run: npm run send-newsletter
+        run: npm run send-newsletter:daily
 
-      # 9. Commit and push changes
+      # 9. Send newsletter to BIWEEKLY subscribers (odd days only)
+      - name: Send newsletter (biweekly)
+        if: ${{ (github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_odd_day == '1') || github.event.inputs.frequency_override == 'biweekly' }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          APP_URL: ${{ vars.APP_URL || 'https://avactu.vercel.app' }}
+        run: npm run send-newsletter:biweekly
+
+      # 10. Generate weekly edition (Saturday only)
+      - name: Generate weekly edition
+        if: ${{ (github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_saturday == 'true') || github.event.inputs.frequency_override == 'weekly' }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: npm run generate-weekly
+
+      # 11. Send newsletter to WEEKLY subscribers (Saturday only)
+      - name: Send newsletter (weekly)
+        if: ${{ (github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_saturday == 'true') || github.event.inputs.frequency_override == 'weekly' }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          APP_URL: ${{ vars.APP_URL || 'https://avactu.vercel.app' }}
+        run: npm run send-newsletter:weekly
+
+      # 12. Commit and push changes
       - name: Commit and push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add public/data/stories.json data/raw-articles.json data/clustered-articles.json
+          git add public/data/stories.json public/data/weekly-stories.json data/raw-articles.json data/clustered-articles.json
           git diff --staged --quiet || git commit -m "chore: update stories $(date +'%Y-%m-%d')"
           git push
 
-      # 10. Trigger Vercel deployment (via deploy hook)
+      # 13. Trigger Vercel deployment (via deploy hook)
       - name: Trigger Vercel deploy
         if: ${{ vars.VERCEL_DEPLOY_HOOK }}
         run: |
           curl -X POST "${{ vars.VERCEL_DEPLOY_HOOK }}"
 
-      # 11. Wait for deployment
+      # 14. Wait for deployment
       - name: Wait for deployment
         run: sleep 90
 
-      # 12. Send SMS notification to VIPs via OVH HTTP2SMS
+      # 15. Send SMS notification to VIPs via OVH HTTP2SMS (odd days only, like biweekly)
       - name: Send SMS to VIPs
-        if: ${{ github.event.inputs.skip_sms != 'true' }}
+        if: ${{ github.event.inputs.skip_sms != 'true' && steps.day_info.outputs.is_odd_day == '1' }}
         env:
           OVH_SMS_SERVICE: ${{ secrets.OVH_SMS_SERVICE }}
           OVH_SMS_LOGIN: ${{ secrets.OVH_SMS_LOGIN }}

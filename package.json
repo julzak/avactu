@@ -13,6 +13,11 @@
     "synthesize": "tsx scripts/synthesize.ts",
     "pipeline": "npm run curate && npm run cluster && npm run synthesize",
     "send-newsletter": "tsx scripts/send-newsletter.ts",
+    "send-newsletter:daily": "tsx scripts/send-newsletter.ts --frequency=daily",
+    "send-newsletter:biweekly": "tsx scripts/send-newsletter.ts --frequency=biweekly",
+    "send-newsletter:weekly": "tsx scripts/send-newsletter.ts --frequency=weekly",
+    "generate-weekly": "tsx scripts/generate-weekly-edition.ts",
+    "generate-og-image": "tsx scripts/generate-og-image.ts",
     "send-sms": "tsx scripts/send-sms.ts"
   },
   "dependencies": {

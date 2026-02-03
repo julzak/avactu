@@ -1,22 +1,41 @@
 /**
  * Newsletter Script - Envoie les stories par email aux abonnés
  *
- * Usage: npm run send-newsletter
+ * Usage:
+ *   npm run send-newsletter:daily     # Envoi aux abonnés quotidiens
+ *   npm run send-newsletter:biweekly  # Envoi aux abonnés tous les 2 jours (défaut)
+ *   npm run send-newsletter:weekly    # Envoi aux abonnés hebdomadaires (10 stories)
  *
  * Prérequis:
  *   - SUPABASE_URL et SUPABASE_SERVICE_KEY dans les variables d'environnement
  *   - RESEND_API_KEY dans les variables d'environnement
  *   - public/data/stories.json généré par npm run synthesize
+ *   - public/data/weekly-stories.json pour les envois hebdomadaires
  */
 
 import { Resend } from 'resend';
 import { createClient } from '@supabase/supabase-js';
-import { readFileSync, existsSync } from 'fs';
+import { readFileSync, existsSync, writeFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+
+// Parse command line arguments
+type Frequency = 'daily' | 'biweekly' | 'weekly';
+
+function parseFrequency(): Frequency {
+  const args = process.argv.slice(2);
+  const frequencyArg = args.find(arg => arg.startsWith('--frequency='));
+  if (frequencyArg) {
+    const value = frequencyArg.split('=')[1];
+    if (value === 'daily' || value === 'biweekly' || value === 'weekly') {
+      return value;
+    }
+  }
+  return 'biweekly'; // Default
+}
 
 // Types
 interface Location {
@@ -46,11 +65,20 @@ interface Subscriber {
   id: string;
   email: string;
   confirmed: boolean;
+  frequency: Frequency;
 }
 
 // Constants
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
+const WEEKLY_STORIES_PATH = join(__dirname, '..', 'public', 'data', 'weekly-stories.json');
 const APP_URL = process.env.APP_URL || 'https://avactu.vercel.app';
+
+// Frequency labels for messages
+const FREQUENCY_LABELS: Record<Frequency, string> = {
+  daily: 'tous les jours',
+  biweekly: 'tous les 2 jours',
+  weekly: 'chaque samedi',
+};
 
 // Design System "Tactical Midnight"
 const COLORS = {
@@ -184,6 +212,9 @@ function generateEmailHtml(stories: Story[], editionDate: string): string {
                 </tr>
                 <tr>
                   <td align="center" style="padding-top: 12px;">
+                    <a href="${APP_URL}/preferences" style="font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 10px; color: ${COLORS.textMuted}; text-decoration: underline; margin-right: 16px;">
+                      Modifier mes préférences
+                    </a>
                     <a href="${APP_URL}/unsubscribe" style="font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 10px; color: ${COLORS.textMuted}; text-decoration: underline;">
                       Se désabonner
                     </a>
@@ -230,17 +261,56 @@ Lire l'analyse complète : ${APP_URL}
 
 Avactu — L'essentiel, sans le bruit.
 
+Modifier mes préférences : ${APP_URL}/preferences
 Se désabonner : ${APP_URL}/unsubscribe
 `;
+}
+
+/**
+ * Save current edition to newsletter_editions table for weekly aggregation
+ */
+async function saveEdition(
+  supabase: ReturnType<typeof createClient>,
+  edition: Edition
+): Promise<void> {
+  const { error } = await supabase.from('newsletter_editions').upsert(
+    {
+      edition_date: edition.date,
+      stories_json: edition.stories,
+    },
+    { onConflict: 'edition_date' }
+  );
+
+  if (error) {
+    console.warn('⚠️  Erreur sauvegarde édition:', error.message);
+  } else {
+    console.log('💾 Édition sauvegardée dans newsletter_editions\n');
+  }
+}
+
+/**
+ * Load weekly stories (10 stories aggregated from last 7 days)
+ */
+function loadWeeklyStories(): Edition {
+  if (!existsSync(WEEKLY_STORIES_PATH)) {
+    console.error('❌ Erreur: weekly-stories.json non trouvé');
+    console.error('   Exécutez d\'abord: npm run generate-weekly');
+    process.exit(1);
+  }
+
+  return JSON.parse(readFileSync(WEEKLY_STORIES_PATH, 'utf-8'));
 }
 
 /**
  * Main newsletter function
  */
 async function sendNewsletter(): Promise<void> {
+  const frequency = parseFrequency();
+
   console.log('📧 AVACTU - Envoi de la newsletter');
   console.log('===================================');
-  console.log(`📅 Date: ${new Date().toLocaleString('fr-FR')}\n`);
+  console.log(`📅 Date: ${new Date().toLocaleString('fr-FR')}`);
+  console.log(`📬 Fréquence: ${frequency} (${FREQUENCY_LABELS[frequency]})\n`);
 
   // Check environment variables
   const supabaseUrl = process.env.SUPABASE_URL;
@@ -257,24 +327,35 @@ async function sendNewsletter(): Promise<void> {
     process.exit(1);
   }
 
-  // Load stories
-  if (!existsSync(STORIES_PATH)) {
-    console.error('❌ Erreur: stories.json non trouvé');
-    process.exit(1);
-  }
-
-  const edition: Edition = JSON.parse(readFileSync(STORIES_PATH, 'utf-8'));
-  console.log(`📰 ${edition.stories.length} stories chargées\n`);
-
   // Initialize clients
   const supabase = createClient(supabaseUrl, supabaseServiceKey);
   const resend = new Resend(resendApiKey);
 
-  // Fetch confirmed subscribers
+  // Load stories based on frequency
+  let edition: Edition;
+
+  if (frequency === 'weekly') {
+    edition = loadWeeklyStories();
+    console.log(`📰 ${edition.stories.length} stories hebdo chargées\n`);
+  } else {
+    // Load daily stories
+    if (!existsSync(STORIES_PATH)) {
+      console.error('❌ Erreur: stories.json non trouvé');
+      process.exit(1);
+    }
+    edition = JSON.parse(readFileSync(STORIES_PATH, 'utf-8'));
+    console.log(`📰 ${edition.stories.length} stories chargées\n`);
+
+    // Save edition to database for weekly aggregation (only for non-weekly)
+    await saveEdition(supabase, edition);
+  }
+
+  // Fetch confirmed subscribers with matching frequency
   const { data: subscribers, error: fetchError } = await supabase
     .from('subscribers')
-    .select('id, email, confirmed')
-    .eq('confirmed', true);
+    .select('id, email, confirmed, frequency')
+    .eq('confirmed', true)
+    .eq('frequency', frequency);
 
   if (fetchError) {
     console.error('❌ Erreur fetch subscribers:', fetchError.message);
@@ -282,11 +363,11 @@ async function sendNewsletter(): Promise<void> {
   }
 
   if (!subscribers || subscribers.length === 0) {
-    console.log('ℹ️  Aucun abonné confirmé, newsletter non envoyée');
+    console.log(`ℹ️  Aucun abonné ${frequency} confirmé, newsletter non envoyée`);
     return;
   }
 
-  console.log(`👥 ${subscribers.length} abonnés confirmés\n`);
+  console.log(`👥 ${subscribers.length} abonnés ${frequency} confirmés\n`);
 
   // Generate email content
   const htmlContent = generateEmailHtml(edition.stories, edition.date);
@@ -297,6 +378,15 @@ async function sendNewsletter(): Promise<void> {
     month: 'long',
   });
 
+  // Customize subject based on frequency
+  const storyCount = edition.stories.length;
+  let subject: string;
+  if (frequency === 'weekly') {
+    subject = `Avactu Hebdo du ${formattedDate} - ${storyCount} actus de la semaine`;
+  } else {
+    subject = `Avactu du ${formattedDate} - ${storyCount} actus`;
+  }
+
   // Send emails
   let successCount = 0;
   let errorCount = 0;
@@ -306,7 +396,7 @@ async function sendNewsletter(): Promise<void> {
       await resend.emails.send({
         from: 'Avactu <briefing@avactu.com>',
         to: subscriber.email,
-        subject: `Avactu du ${formattedDate} - ${edition.stories.length} actus`,
+        subject,
         html: htmlContent,
         text: textContent,
       });
@@ -326,9 +416,10 @@ async function sendNewsletter(): Promise<void> {
   console.log('\n===================================');
   console.log('📊 RÉSUMÉ');
   console.log('===================================');
+  console.log(`Fréquence: ${frequency}`);
   console.log(`Emails envoyés: ${successCount}`);
   console.log(`Erreurs: ${errorCount}`);
-  console.log(`\n✅ Newsletter envoyée !`);
+  console.log(`\n✅ Newsletter ${frequency} envoyée !`);
 }
 
 // Run

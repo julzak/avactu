@@ -4,13 +4,20 @@ import { useOffline } from '@/hooks/useOffline';
 import { BriefStack } from '@/components/BriefStack';
 import { SubscribeForm } from '@/components/SubscribeForm';
 import { UnsubscribePage } from '@/components/UnsubscribePage';
+import { PreferencesPage } from '@/components/PreferencesPage';
 import { AvactuLogo } from '@/components/ui/AvactuLogo';
 import { WifiOff } from 'lucide-react';
 
 function App() {
-  // Simple routing: check if we're on /unsubscribe
-  if (window.location.pathname === '/unsubscribe') {
+  // Simple routing
+  const pathname = window.location.pathname;
+
+  if (pathname === '/unsubscribe') {
     return <UnsubscribePage />;
+  }
+
+  if (pathname === '/preferences') {
+    return <PreferencesPage />;
   }
   const { stories, edition, loading, error } = useStories();
   const { activeStoryId, observe } = useActiveStory(stories.map((s) => s.id));
