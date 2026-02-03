@@ -167,7 +167,11 @@ avactu/
 │   └── main.tsx
 ├── scripts/
 │   ├── curate.ts                 # Récupération RSS
-│   └── synthesize.ts             # Synthèse via Claude API
+│   ├── cluster.ts                # Clustering des articles
+│   ├── synthesize.ts             # Synthèse via Claude API
+│   ├── send-newsletter.ts        # Envoi newsletter (--frequency=daily|biweekly|weekly)
+│   ├── generate-weekly-edition.ts # Agrégation hebdo (10 stories)
+│   └── generate-og-image.ts      # Génération image OG pour partage
 ├── config/
 │   └── sources.json              # Liste des flux RSS
 ├── .github/
@@ -342,3 +346,32 @@ npx cap open ios
 - Les images doivent avoir un fallback (placeholder) en cas d'erreur de chargement
 - Le Service Worker est critique : tester systématiquement le mode offline
 - Pour les coordonnées GPS, utiliser des valeurs approximatives du centre de la zone concernée
+
+---
+
+## ⚠️ Informations critiques du projet
+
+### Domaine et URLs
+- **Domaine production** : `https://avactu.com` (PAS avactu.vercel.app)
+- **APP_URL** dans les scripts : utiliser `avactu.com`
+
+### Logo Avactu
+Le logo est un **A stylisé cyan** avec :
+- Globe mesh en arrière-plan (ellipses cyan)
+- Lignes formant un A avec des nodes aux extrémités
+- Petit coeur rouge au sommet
+- Référence : `public/favicon.svg`
+
+### Newsletter
+- **Fréquences disponibles** : daily, biweekly (défaut), weekly
+- **Scripts** : `send-newsletter:daily`, `send-newsletter:biweekly`, `send-newsletter:weekly`
+- **Cron** : quotidien à 5h15 UTC, envoi conditionnel selon le jour
+
+---
+
+## 🚫 Erreurs à éviter (leçons apprises)
+
+1. **Ne pas deviner les URLs/domaines** — Toujours vérifier la config existante ou demander
+2. **Lire les assets existants avant de les reproduire** — Ex: lire `favicon.svg` avant de créer une image avec le logo
+3. **Tester les largeurs de texte en SVG** — Les badges doivent être assez larges pour le texte (prévoir ~10px par caractère en monospace 12px)
+4. **Vérifier le répertoire de travail** — Si un fichier n'existe pas, chercher avec `find` avant de supposer le mauvais projet
