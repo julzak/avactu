@@ -1,136 +1,159 @@
 {
-  "date": "2026-02-03T06:10:55.004Z",
+  "date": "2026-02-04T07:41:03.349Z",
   "stories": [
     {
-      "id": "2026-02-03-01",
-      "category": "politique",
-      "title": "Le fils de la princesse héritière de Norvège jugé pour viols",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0581/live/cb17b6c0-0062-11f1-a8b8-bdd2c5f9bcad.jpg",
+      "id": "2026-02-04-01",
+      "category": "economie",
+      "title": "Les États-Unis relancent l'accord AGOA avec l'Afrique",
+      "imageUrl": "https://s.france24.com/media/display/f8709664-fe1e-11f0-8998-005056bfb2b6/w:1024/p:16x9/AP26030625255617.jpg",
       "location": {
-        "lat": 59.9139,
-        "lng": 10.7522,
-        "name": "Oslo, Norvège"
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "Washington, États-Unis"
       },
       "bullets": [
-        "Marius Borg Høiby comparaît pour 38 chefs d'accusation incluant quatre viols",
-        "Les accusations s'étendent sur plusieurs années contre l'ex-beau-fils du prince héritier",
-        "La famille royale norvégienne traverse une crise de réputation sans précédent",
-        "De nouvelles accusations d'agression ont conduit à sa détention préventive",
-        "L'affaire menace la stabilité et l'image de la monarchie norvégienne"
+        "L'administration Trump réactive l'AGOA jusqu'à fin 2026",
+        "L'accord commercial permet l'exemption de droits de douane",
+        "Trente pays africains retrouvent l'accès préférentiel au marché",
+        "Un sommet sur les minerais critiques réunit Washington",
+        "Les enjeux géostratégiques renforcent l'importance de l'Afrique"
       ],
-      "execSummary": "Marius Borg Høiby, fils de la princesse héritière Mette-Marit de Norvège, comparaît depuis mardi devant le tribunal d'Oslo pour 38 chefs d'accusation, dont quatre viols. Selon la BBC, cette affaire constitue l'un des plus grands scandales judiciaires en Norvège depuis des années, impliquant directement la famille royale. L'accusé, âgé de 27 ans et ex-beau-fils du prince héritier Haakon, fait face à des charges s'étalant sur plusieurs années.\n\nLa défense de Marius Borg Høiby n'a pas encore présenté publiquement ses arguments détaillés, mais son avocat conteste la gravité des accusations portées contre lui. La famille royale maintient une position de retrait, évitant de commenter publiquement l'affaire pour respecter la procédure judiciaire en cours.\n\nLes médias norvégiens et internationaux soulignent l'impact dévastateur de cette affaire sur la réputation de la monarchie. La BBC rapporte que de nouvelles accusations d'agression ont récemment conduit à la mise en détention préventive de l'accusé pour quatre semaines supplémentaires, aggravant la situation judiciaire.\n\nCette crise survient dans un contexte déjà tendu pour la famille royale norvégienne, notamment avec les liens passés de la princesse Mette-Marit avec l'affaire Epstein. L'issue de ce procès pourrait durablement affecter la stabilité institutionnelle de la monarchie norvégienne et redéfinir les rapports entre la famille royale et l'opinion publique du pays.",
+      "execSummary": "L'administration américaine a réactivé mardi l'African Growth and Opportunity Act (AGOA), accord commercial lancé en 2000 qui permet à de nombreux produits de trente pays africains d'accéder au marché américain sans droits de douane. Cet accord, qui avait expiré le 30 septembre 2025 sous l'administration Trump, est reconduit jusqu'au 31 décembre 2026 avec effet rétroactif selon France 24 et Le Monde.\n\nWashington justifie cette réactivation par sa volonté de maintenir des relations économiques privilégiées avec l'Afrique. L'administration organise parallèlement un sommet sur les minerais critiques avec une quarantaine de délégations africaines, incluant des représentants du Congo, de la Guinée et du Kenya selon RFI. Cette initiative s'inscrit dans une stratégie de sécurisation des approvisionnements en ressources stratégiques.\n\nCette relance intervient après des mois d'incertitude pour les exportateurs africains qui avaient perdu leurs avantages commerciaux. Les pays concernés retrouvent un accès préférentiel crucial pour leurs économies, particulièrement dans les secteurs textile et agricole. L'expiration de l'accord avait créé des tensions diplomatiques et économiques entre Washington et ses partenaires africains.\n\nL'enjeu dépasse le simple cadre commercial : il s'agit pour les États-Unis de contrer l'influence croissante de la Chine et de la Russie sur le continent africain. Le timing de cette réactivation, couplé au sommet sur les minerais critiques, révèle la dimension géostratégique de cette décision dans un contexte de compétition mondiale pour l'accès aux ressources africaines.",
       "sources": [
-        "BBC World",
-        "Le Monde - Économie",
-        "Courrier International",
-        "RFI",
-        "Le Monde - International",
-        "France 24"
-      ],
-      "publishedAt": "2026-02-03T06:01:18.000Z"
-    },
-    {
-      "id": "2026-02-03-02",
-      "category": "geopolitique",
-      "title": "Le Liban et la Syrie : relations gelées après Assad",
-      "imageUrl": "https://s.rfi.fr/media/display/3e6b7386-23ab-11eb-994a-005056bff430/w:1024/p:16x9/liban-syrie-poste-frontiere_0.jpg",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "Beyrouth, Liban"
-      },
-      "bullets": [
-        "Les relations Liban-Syrie restent bloquées 14 mois après Assad",
-        "Damas demande la libération de détenus syriens au Liban",
-        "Le Liban héberge encore des partisans de l'ancien régime syrien",
-        "Beyrouth résiste aux pressions du nouveau gouvernement syrien",
-        "La normalisation attendue n'a pas eu lieu malgré l'espoir"
-      ],
-      "execSummary": "Quatorze mois après la chute du régime de Bachar el-Assad en décembre 2024, les relations diplomatiques entre le Liban et la Syrie demeurent au point mort selon RFI. Malgré l'espoir initial d'une normalisation rapide, aucune amélioration significative n'a été constatée entre les deux pays voisins. Des points de tension majeurs persistent, notamment autour du statut de détenus syriens emprisonnés au Liban et de la présence sur le territoire libanais de partisans de l'ancien régime syrien.\n\nLe nouveau gouvernement syrien, dirigé par Ahmed al-Charaa, justifie ses demandes par la nécessité de récupérer ses ressortissants détenus au Liban et d'assurer la sécurité de ses frontières. Damas considère que la présence d'anciens loyalistes de Assad au Liban constitue une menace pour la stabilité du nouveau régime et exige leur rapatriement ou leur éloignement des zones frontalières.\n\nDe son côté, le Liban refuse de céder aux pressions syriennes, invoquant sa souveraineté nationale et les procédures judiciaires en cours. Beyrouth argue que les détenus syriens font l'objet de poursuites légitimes sur son territoire et que leur libération ne peut s'effectuer sans respecter l'état de droit libanais. Les autorités libanaises craignent également que toute concession soit perçue comme une soumission au nouveau pouvoir syrien.\n\nCette impasse diplomatique compromet la reconstruction des liens économiques et sécuritaires entre les deux pays. L'absence de coopération entrave les échanges commerciaux traditionnels et complique la gestion des flux migratoires. Cette situation pourrait également affecter la stabilité régionale, les deux pays ayant historiquement des liens étroits malgré leurs différends politiques récurrents.",
-      "sources": [
-        "RFI",
-        "Le Monde - International",
-        "Le Monde - Économie",
         "France 24",
-        "Courrier International",
-        "BBC World"
-      ],
-      "publishedAt": "2026-02-03T06:00:06.000Z"
-    },
-    {
-      "id": "2026-02-03-03",
-      "category": "geopolitique",
-      "title": "Les États-Unis et l'Iran préparent des pourparlers nucléaires",
-      "imageUrl": "https://s.rfi.fr/media/display/e718ccc8-fdc0-11f0-994a-005056a97e36/w:1024/p:16x9/AP26030037625428.jpg",
-      "location": {
-        "lat": 41.0082,
-        "lng": 28.9784,
-        "name": "Istanbul, Turquie"
-      },
-      "bullets": [
-        "L'envoyé américain Steve Witkoff rencontre le ministre iranien Araghchi vendredi",
-        "Donald Trump se dit confiant sur un accord nucléaire possible",
-        "L'Iran subit une pression diplomatique après la répression de janvier",
-        "Le président iranien ordonne des pourparlers avec Washington",
-        "Les négociations visent à résoudre la crise nucléaire iranienne"
-      ],
-      "execSummary": "Les États-Unis et l'Iran s'apprêtent à entamer des discussions sur le dossier nucléaire, avec une rencontre prévue vendredi 6 février à Istanbul entre l'émissaire américain Steve Witkoff et le chef de la diplomatie iranienne Abbas Araghchi. Donald Trump s'est déclaré confiant sur la possibilité de conclure un accord avec Téhéran, marquant un changement de ton après les menaces initiales. Selon RFI et France 24, cette ouverture diplomatique intervient après plusieurs semaines de tensions. Du côté américain, Trump justifie cette approche par sa volonté de résoudre définitivement la question nucléaire iranienne par la négociation plutôt que par la confrontation. Le président américain mise sur sa capacité à obtenir un meilleur accord que ses prédécesseurs, en combinant pression économique et ouverture diplomatique. Cette stratégie s'inscrit dans sa politique de désengagement des conflits prolongés au Moyen-Orient. Pour l'Iran, cette ouverture répond à une pression diplomatique accrue après la sanglante répression des manifestations de janvier, selon France 24. Le président iranien a lui-même ordonné ces pourparlers, témoignant d'une volonté de sortir de l'isolement international. La République islamique cherche à desserrer l'étau des sanctions économiques qui pèsent sur le pays. L'enjeu est crucial pour la stabilité régionale et l'économie mondiale. Un accord pourrait lever les sanctions contre l'Iran et réduire les tensions au Moyen-Orient, mais les positions restent éloignées sur l'enrichissement d'uranium et le contrôle international du programme nucléaire iranien.",
-      "sources": [
         "RFI",
-        "Le Monde - International",
         "Courrier International",
-        "France 24"
+        "Le Monde - International",
+        "Le Monde - Économie",
+        "BBC World"
       ],
-      "publishedAt": "2026-02-03T05:41:17.000Z"
+      "publishedAt": "2026-02-04T06:50:58.000Z"
     },
     {
-      "id": "2026-02-03-04",
+      "id": "2026-02-04-02",
       "category": "geopolitique",
-      "title": "L'Ukraine demande l'aide de Musk contre les drones russes",
-      "imageUrl": "https://img.lemde.fr/2026/02/01/0/0/1200/800/1440/960/60/0/5a24b64_ftp-1-llop87et0kjb-5050747-01-06.jpg",
+      "title": "La Russie et l'Ukraine négocient à Abu Dhabi après les frappes",
+      "imageUrl": "https://s.france24.com/media/display/8befe652-0058-11f1-828b-005056a97e36/w:1024/p:16x9/AP26029694576305.jpg",
       "location": {
-        "lat": 50.4501,
-        "lng": 30.5234,
-        "name": "Kiev, Ukraine"
+        "lat": 24.4539,
+        "lng": 54.3773,
+        "name": "Abu Dhabi, Émirats arabes unis"
       },
       "bullets": [
-        "La Russie utilise des drones équipés de Starlink contre l'Ukraine",
-        "Les frappes visent des cibles civiles et militaires éloignées",
-        "Kiev demande l'intervention d'Elon Musk pour bloquer l'accès russe",
-        "Musk affirme avoir pris des mesures pour désactiver les terminaux",
-        "L'Ukraine salue des « résultats concrets » après les restrictions"
+        "La Russie, l'Ukraine et les États-Unis négocient à Abu Dhabi",
+        "Les pourparlers suivent des frappes russes massives sur l'énergie ukrainienne",
+        "Moscou envoie Igor Kostioukov, chef du renseignement militaire sanctionné",
+        "L'Ukraine subit plus de 70 missiles par -20°C, fin de la trêve énergétique",
+        "Les négociations visent à arrêter quatre ans de guerre"
       ],
-      "execSummary": "La Russie a intensifié l'utilisation de drones équipés de terminaux Starlink pour mener des frappes précises et meurtrières contre des cibles civiles et militaires ukrainiennes éloignées du front, selon Le Monde. Ces attaques ont poussé le gouvernement ukrainien à solliciter directement l'intervention d'Elon Musk pour contrer cette nouvelle tactique militaire russe. Du côté ukrainien, cette demande d'aide s'inscrit dans une stratégie défensive face à l'escalade technologique du conflit. Kiev considère que l'accès russe aux services Starlink constitue un avantage militaire significatif permettant des frappes de précision particulièrement dévastatrices, justifiant ainsi l'appel direct au propriétaire de la constellation satellitaire pour obtenir une restriction d'accès. Elon Musk répond avoir pris les mesures nécessaires pour désactiver les terminaux Starlink utilisés par l'armée russe, selon Le Monde. La BBC rapporte que l'Ukraine salue des « résultats concrets » suite aux restrictions imposées par Musk, suggérant une efficacité des mesures prises pour limiter l'accès russe au service satellitaire. Cette situation révèle la dimension technologique croissante du conflit ukrainien et l'influence des entreprises privées dans les enjeux géopolitiques. L'épisode illustre également la dépendance stratégique aux infrastructures spatiales civiles dans les conflits modernes, soulevant des questions sur le contrôle et la neutralité des services satellitaires en temps de guerre.",
+      "execSummary": "Les négociateurs ukrainiens, russes et américains se sont retrouvés mercredi à Abu Dhabi pour des pourparlers de paix visant à mettre fin à quatre ans de guerre en Ukraine. Ces négociations interviennent au lendemain d'attaques russes massives contre les infrastructures énergétiques ukrainiennes, comprenant plus de 70 missiles et 450 drones selon la BBC, laissant des milliers d'Ukrainiens sans chauffage par des températures de -20°C.\n\nLa Russie a envoyé Igor Kostioukov, chef du GRU (renseignement militaire) depuis 2018, pour mener les négociations. Cet amiral partisan de la ligne dure figure sur les listes de sanctions occidentales mais représente la position officielle de Moscou dans ces pourparlers cruciaux. Son choix signale l'approche sécuritaire que privilégie le Kremlin dans ces discussions.\n\nL'Ukraine et ses alliés occidentaux considèrent ces attaques massives contre les infrastructures civiles comme une violation de la \"trêve énergétique\" expirée le weekend dernier. Kiev dénonce cette escalation militaire au moment même où s'ouvrent les négociations, y voyant une tentative de pression de la part de Moscou pour obtenir des concessions lors des pourparlers.\n\nCes négociations à Abu Dhabi représentent un enjeu géopolitique majeur pour stabiliser l'Europe de l'Est et les marchés énergétiques mondiaux. L'issue des discussions pourrait redéfinir l'équilibre sécuritaire européen et déterminer l'avenir des relations russo-occidentales, dans un contexte où les populations civiles ukrainiennes subissent directement les conséquences du conflit prolongé.",
       "sources": [
+        "France 24",
         "Le Monde - International",
         "BBC World"
       ],
-      "publishedAt": "2026-02-03T05:00:33.000Z"
+      "publishedAt": "2026-02-04T05:56:44.000Z"
     },
     {
-      "id": "2026-02-03-05",
-      "category": "politique",
-      "title": "Claude Muhayimana rejugé en appel pour génocide rwandais",
-      "imageUrl": "https://img.lemde.fr/2026/02/02/145/0/5120/3413/1440/960/60/0/8dfd2b5_upload-1-gawcyj72iehj-000-9t73av.jpg",
+      "id": "2026-02-04-03",
+      "category": "geopolitique",
+      "title": "Gaza : des milliers de disparus et tensions judiciaires",
+      "imageUrl": "https://img.lemde.fr/2026/02/03/1/0/8192/5461/1440/960/60/0/cf1fd9a_upload-1-0qx6vwxrwoxb-af4a9467.JPG",
+      "location": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "Gaza"
+      },
+      "bullets": [
+        "Des milliers de Gazaouis restent portés disparus sous les ruines",
+        "La France poursuit deux Franco-Israéliennes pour complicité de génocide",
+        "Le plan Trump prévoit la démilitarisation de l'enclave palestinienne",
+        "Les familles vivent un deuil suspendu sans certitude",
+        "L'aide humanitaire bloquée alimente les tensions internationales"
+      ],
+      "execSummary": "À Gaza, des milliers de familles palestiniennes ignorent le sort de leurs proches disparus depuis le conflit. Selon Le Monde, certains corps gisent sous les ruines, d'autres ont été pulvérisés par les frappes ou emportés par l'armée israélienne. Parallèlement, la justice française a délivré des mandats d'amener contre deux Franco-Israéliennes accusées de complicité de génocide pour avoir bloqué l'aide humanitaire selon RFI. Du côté israélien, les autorités justifient leurs actions militaires par la nécessité de démanteler le Hamas et de récupérer les otages. Le plan imposé par Donald Trump prévoit désormais la démilitarisation complète de l'enclave palestinienne après le retour du dernier otage israélien. Les familles palestiniennes dénoncent l'absence de réponses sur leurs disparus et vivent dans un deuil suspendu. Les avocats des parties civiles saluent les poursuites françaises comme « une décision forte pour les Gazaouis », tandis qu'Israël conteste ces procédures judiciaires. Cette situation illustre les tensions durables entre justice internationale, droit humanitaire et impératifs sécuritaires. L'avenir de Gaza dépendra de l'application effective du cessez-le-feu et de la résolution du statut des milliers de disparus, enjeu crucial pour la réconciliation.",
+      "sources": [
+        "Le Monde - International",
+        "RFI"
+      ],
+      "publishedAt": "2026-02-04T05:01:55.000Z"
+    },
+    {
+      "id": "2026-02-04-04",
+      "category": "geopolitique",
+      "title": "Les États-Unis abattent un drone iranien en mer d'Arabie",
+      "imageUrl": "https://focus.courrierinternational.com/2026/02/04/0/0/4252/2834/1200/630/60/0/9e51e38_ftp-1-u3vapgfhusua-afp-962e2pw.jpg",
+      "location": {
+        "lat": 20,
+        "lng": 65,
+        "name": "Mer d'Arabie"
+      },
+      "bullets": [
+        "Les États-Unis abattent un drone iranien près d'un porte-avions",
+        "Le drone s'approchait d'un navire américain en mer d'Arabie",
+        "Washington justifie par la défense de ses forces navales",
+        "L'Iran n'a pas encore réagi officiellement à l'incident",
+        "Tensions accrues dans cette zone stratégique du golfe Persique"
+      ],
+      "execSummary": "Les forces armées américaines ont abattu un drone iranien qui s'approchait d'un porte-avions américain en mer d'Arabie, selon un porte-parole militaire américain. L'incident s'inscrit dans un contexte de tensions persistantes entre les deux pays dans cette région stratégique. Du côté américain, l'action est justifiée comme une mesure défensive nécessaire pour protéger les navires et le personnel militaire américain déployés dans la zone. Les autorités américaines présentent l'abattage du drone comme une réponse proportionnée à une menace directe contre leurs forces navales opérant légitimement dans les eaux internationales. L'Iran n'a pas encore fourni de réaction officielle à cet incident, et sa version des faits concernant les intentions du drone reste inconnue. Les autorités iraniennes pourraient contester la version américaine ou présenter l'incident sous un angle différent une fois qu'elles auront communiqué publiquement. Cet épisode illustre les tensions géopolitiques croissantes dans le golfe Persique et la mer d'Arabie, zone cruciale pour le transport pétrolier mondial. L'incident risque d'exacerber les relations déjà tendues entre Washington et Téhéran, avec des répercussions potentielles sur la stabilité régionale et les prix énergétiques mondiaux.",
+      "sources": [
+        "Courrier International",
+        "BBC World"
+      ],
+      "publishedAt": "2026-02-04T04:00:22.000Z"
+    },
+    {
+      "id": "2026-02-04-05",
+      "category": "economie",
+      "title": "La France supprime le malus au poids pour les SUV électriques",
+      "imageUrl": "https://img.lemde.fr/2026/02/03/0/0/7144/4763/1440/960/60/0/49dc9d6_upload-1-9ceppy1pqosf-000-397d4ma.jpg",
       "location": {
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "Paris, France"
       },
       "bullets": [
-        "Le Franco-Rwandais Claude Muhayimana comparaît en appel à Paris",
-        "Condamné en 2021 à 14 ans pour complicité de génocide",
-        "Accusé d'avoir transporté des miliciens lors des massacres de 1994",
-        "L'accusé conteste les faits et encourt la perpétuité",
-        "Le procès ravive les débats sur la justice post-génocide"
+        "La loi de finances 2026 supprime le malus au poids prévu pour les SUV électriques",
+        "Le lobbying de Mobilians et des constructeurs automobiles a influencé cette décision",
+        "Les défenseurs justifient cette mesure par le soutien à la transition électrique",
+        "Les écologistes dénoncent un recul face aux enjeux climatiques et d'urbanisme",
+        "L'enjeu porte sur l'équilibre entre industrie automobile et politique environnementale"
       ],
-      "execSummary": "Claude Muhayimana, Franco-Rwandais de 60 ans, comparaît depuis février 2026 devant la Cour d'assises de Paris en appel. Il avait été condamné en première instance en décembre 2021 à quatorze ans de réclusion criminelle pour complicité de génocide lors des massacres de Tutsi au Rwanda en 1994. Selon l'accusation, il aurait transporté des miliciens interahamwe sur différents lieux de massacres dans la préfecture de Kibuye. La défense de Muhayimana conteste fermement les accusations portées contre lui. Ses avocats dénoncent un dossier basé sur des témoignages fragiles et contestent la qualification de complicité de génocide. L'accusé maintient son innocence et affirme avoir été présent au Rwanda pendant le génocide sans pour autant y avoir participé. Il rejette catégoriquement avoir aidé les miliciens dans leurs actions meurtrières. Ce procès en appel s'inscrit dans la continuité des efforts de la justice française pour juger les crimes commis lors du génocide rwandais. L'accusé encourt désormais la réclusion criminelle à perpétuité. Ce type de procès soulève des questions sur la capacité de la justice française à établir la vérité sur des événements survenus il y a trente ans en Afrique, tout en étant crucial pour la reconnaissance des souffrances des victimes et la lutte contre l'impunité.",
+      "execSummary": "La loi de finances pour 2026 retire définitivement le malus au poids qui devait frapper les SUV électriques les plus lourds, selon Le Monde. Cette mesure, qui devait encourager l'achat de véhicules plus légers même électriques, est également accompagnée d'une mise en pause du durcissement du malus pour les véhicules thermiques après 2027. Le secteur automobile français, représenté notamment par Mobilians, avait intensifié ses actions de lobbying pour obtenir cette modification réglementaire. Les représentants de l'industrie automobile défendent cette suppression du malus au poids en arguant qu'elle favorise la transition vers l'électrique sans pénaliser les consommateurs optant pour des véhicules zéro émission. Ils soulignent que les SUV électriques, bien que plus lourds, restent moins polluants que leurs équivalents thermiques et que cette mesure peut accélérer l'adoption des technologies propres. Le secteur met en avant les enjeux de compétitivité industrielle face à la concurrence internationale, notamment chinoise. Les opposants à cette décision, particulièrement les mouvements écologistes, y voient un recul majeur dans la lutte contre l'étalement urbain et la consommation excessive d'espace public. Ils argumentent que le poids des véhicules, même électriques, génère plus d'usure des infrastructures, une consommation énergétique supérieure et des risques accrus pour les autres usagers de la route. Cette décision illustre les tensions persistantes entre impératifs industriels et objectifs environnementaux, dans un contexte où la France cherche à maintenir sa compétitivité automobile tout en respectant ses engagements climatiques.",
       "sources": [
+        "Le Monde - Économie",
         "Le Monde - International",
+        "France 24",
         "Courrier International",
-        "France 24"
+        "RFI",
+        "BBC World"
       ],
-      "publishedAt": "2026-02-03T05:00:15.000Z"
+      "publishedAt": "2026-02-04T07:30:11.000Z"
+    },
+    {
+      "id": "2026-02-04-06",
+      "category": "economie",
+      "title": "L'assurance-vie restreint l'accès aux SCI immobilières",
+      "imageUrl": "https://img.lemde.fr/2025/08/06/0/0/1500/1000/1440/960/60/0/103c551_upload-1-ujsis5rjcvle-lmargent222.jpg",
+      "location": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "Paris, France"
+      },
+      "bullets": [
+        "Le ministère de l'Économie veut bannir les SCI des contrats d'assurance-vie",
+        "Bercy juge « nécessaire » de restreindre cet accès très prisé",
+        "Les épargnants ont massivement adopté les SCI en assurance-vie",
+        "La mesure pourrait affecter des milliers de contrats existants",
+        "L'immobilier indirect dans l'épargne française sera restructuré"
+      ],
+      "execSummary": "Le ministère de l'Économie français annonce son intention de bannir les sociétés civiles immobilières (SCI) des contrats d'assurance-vie, mettant fin à un dispositif d'épargne qui a connu un succès considérable auprès des investisseurs particuliers. Cette mesure, jugée « nécessaire » par Bercy selon Le Monde, vise à restreindre l'accès à ces véhicules d'investissement immobilier indirect qui permettaient aux épargnants de diversifier leurs portefeuilles d'assurance-vie vers l'immobilier.\n\nDu point de vue gouvernemental, cette restriction s'inscrit dans une logique de régulation du secteur de l'assurance-vie et de l'investissement immobilier. Bercy justifie cette décision par la nécessité de mieux encadrer ces produits financiers hybrides, probablement pour des raisons de transparence fiscale et de contrôle des flux d'investissement dans l'immobilier français.\n\nCette annonce suscite des inquiétudes chez les épargnants et les professionnels du secteur qui avaient largement adopté les SCI comme solution d'optimisation patrimoniale. Les investisseurs particuliers risquent de perdre un outil apprécié de diversification de leur épargne retraite et de transmission patrimoniale, les SCI offrant traditionnellement des avantages en termes de gestion immobilière et de fiscalité.\n\nCette réforme pourrait avoir des répercussions importantes sur le marché de l'épargne française, contraignant des milliers de détenteurs de contrats à revoir leur stratégie d'investissement. L'impact sur le secteur de l'assurance-vie et sur les flux d'investissement vers l'immobilier reste à évaluer, cette mesure pouvant rediriger l'épargne vers d'autres supports d'investissement.",
+      "sources": [
+        "Le Monde - Économie",
+        "RFI",
+        "BBC World"
+      ],
+      "publishedAt": "2026-02-04T05:00:19.000Z"
     }
   ]
 }
