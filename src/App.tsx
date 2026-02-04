@@ -5,6 +5,7 @@ import { BriefStack } from '@/components/BriefStack';
 import { SubscribeForm } from '@/components/SubscribeForm';
 import { UnsubscribePage } from '@/components/UnsubscribePage';
 import { PreferencesPage } from '@/components/PreferencesPage';
+import { ConfirmPage } from '@/components/ConfirmPage';
 import { AvactuLogo } from '@/components/ui/AvactuLogo';
 import { WifiOff } from 'lucide-react';
 
@@ -18,6 +19,10 @@ function App() {
 
   if (pathname === '/preferences') {
     return <PreferencesPage />;
+  }
+
+  if (pathname === '/confirm') {
+    return <ConfirmPage />;
   }
   const { stories, edition, loading, error } = useStories();
   const { activeStoryId, observe } = useActiveStory(stories.map((s) => s.id));

@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { Mail, Loader2, Check, AlertCircle, ChevronDown } from 'lucide-react';
-import { supabase, isSupabaseConfigured } from '@/lib/supabase';
 
 type SubscribeState = 'idle' | 'loading' | 'success' | 'error';
 type Frequency = 'daily' | 'biweekly' | 'weekly';
@@ -17,23 +16,12 @@ const FREQUENCY_OPTIONS: FrequencyOption[] = [
   { value: 'weekly', label: 'Hebdo', description: 'Chaque samedi' },
 ];
 
-const FREQUENCY_CONFIRMATION: Record<Frequency, string> = {
-  daily: 'Tu recevras Avactu tous les jours',
-  biweekly: 'Tu recevras Avactu tous les 2 jours',
-  weekly: 'Tu recevras Avactu chaque samedi (10 actus)',
-};
-
 export function SubscribeForm() {
   const [email, setEmail] = useState('');
   const [frequency, setFrequency] = useState<Frequency>('biweekly');
   const [showFrequencyDropdown, setShowFrequencyDropdown] = useState(false);
   const [state, setState] = useState<SubscribeState>('idle');
   const [errorMessage, setErrorMessage] = useState('');
-
-  // Don't render if Supabase is not configured
-  if (!isSupabaseConfigured) {
-    return null;
-  }
 
   const validateEmail = (email: string): boolean => {
     const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -52,26 +40,21 @@ export function SubscribeForm() {
     setState('loading');
 
     try {
-      const { error } = await supabase!.from('subscribers').insert([
-        {
-          email: email.toLowerCase().trim(),
-          confirmed: true,
-          frequency,
+      const response = await fetch('/api/subscribe', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
         },
-      ]);
+        body: JSON.stringify({
+          email: email.toLowerCase().trim(),
+          frequency,
+        }),
+      });
 
-      if (error) {
-        // Handle duplicate email - update frequency instead
-        if (error.code === '23505') {
-          const { error: updateError } = await supabase!
-            .from('subscribers')
-            .update({ frequency })
-            .eq('email', email.toLowerCase().trim());
+      const data = await response.json();
 
-          if (updateError) throw updateError;
-        } else {
-          throw error;
-        }
+      if (!response.ok) {
+        throw new Error(data.error || 'Une erreur est survenue');
       }
 
       setState('success');
@@ -79,7 +62,7 @@ export function SubscribeForm() {
     } catch (err) {
       console.error('Subscribe error:', err);
       setState('error');
-      setErrorMessage('Une erreur est survenue');
+      setErrorMessage(err instanceof Error ? err.message : 'Une erreur est survenue');
     }
   };
 
@@ -88,9 +71,9 @@ export function SubscribeForm() {
   if (state === 'success') {
     return (
       <div className="flex items-center gap-2 px-3 py-2 rounded-lg bg-emerald-500/10 border border-emerald-500/20">
-        <Check className="w-4 h-4 text-emerald-400" />
+        <Check className="w-4 h-4 text-emerald-400 shrink-0" />
         <span className="text-emerald-400 text-xs font-mono">
-          {FREQUENCY_CONFIRMATION[frequency]}
+          Confirme dans l'email que tu vas recevoir
         </span>
       </div>
     );
