@@ -121,7 +121,9 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add public/data/stories.json public/data/weekly-stories.json data/raw-articles.json data/clustered-articles.json
+          git add public/data/stories.json data/raw-articles.json data/clustered-articles.json
+          # Add weekly-stories.json only if it exists (generated on Saturdays)
+          [ -f public/data/weekly-stories.json ] && git add public/data/weekly-stories.json || true
           git diff --staged --quiet || git commit -m "chore: update stories $(date +'%Y-%m-%d')"
           git push
 
