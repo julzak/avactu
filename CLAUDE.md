@@ -366,12 +366,30 @@ Le logo est un **A stylisé cyan** avec :
 - **Fréquences disponibles** : daily, biweekly (défaut), weekly
 - **Scripts** : `send-newsletter:daily`, `send-newsletter:biweekly`, `send-newsletter:weekly`
 - **Cron** : quotidien à 5h15 UTC, envoi conditionnel selon le jour
+- **Inscription** : via `/api/subscribe` → email de confirmation → `/api/confirm?token=xxx`
+- **Flow** : Toute inscription/modification requiert confirmation par email (token UUID, expire 24h)
 
 ---
 
 ## 🚫 Erreurs à éviter (leçons apprises)
 
+### Général
 1. **Ne pas deviner les URLs/domaines** — Toujours vérifier la config existante ou demander
 2. **Lire les assets existants avant de les reproduire** — Ex: lire `favicon.svg` avant de créer une image avec le logo
 3. **Tester les largeurs de texte en SVG** — Les badges doivent être assez larges pour le texte (prévoir ~10px par caractère en monospace 12px)
 4. **Vérifier le répertoire de travail** — Si un fichier n'existe pas, chercher avec `find` avant de supposer le mauvais projet
+
+### Vercel Serverless Functions
+5. **Variables d'environnement séparées** — Les fonctions serverless n'ont PAS accès aux variables `VITE_*`. Il faut créer des variables sans préfixe :
+   - `SUPABASE_URL` (pas VITE_SUPABASE_URL)
+   - `SUPABASE_SERVICE_KEY` (la clé service_role, pas anon)
+   - `RESEND_API_KEY`
+   - `APP_URL`
+6. **Toujours vérifier les env vars dans Vercel Dashboard** après avoir créé des API routes
+
+### GitHub Actions Workflow
+7. **Git add avec fichiers conditionnels** — Ne pas faire `git add file.json` si le fichier n'existe pas toujours. Utiliser : `[ -f file.json ] && git add file.json || true`
+
+### Supabase & Sécurité
+8. **RLS bloque les updates depuis le frontend** — La clé `anon` ne peut pas modifier les données si RLS est activé sans policy appropriée. Utiliser des API routes serverless avec `service_role` key
+9. **Préférer la confirmation par email** — Pour les modifications sensibles (inscription, changement de préférences), utiliser un flow avec token de confirmation par email plutôt que des modifications directes
