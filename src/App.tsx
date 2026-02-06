@@ -35,7 +35,8 @@ function App() {
     if (hash && stories.length > 0) {
       const el = document.querySelector(`[data-story-id="${CSS.escape(hash)}"]`);
       if (el) {
-        setTimeout(() => el.scrollIntoView({ behavior: 'smooth' }), 100);
+        // Delay to ensure layout is complete (images, maps, etc.)
+        setTimeout(() => el.scrollIntoView({ behavior: 'smooth', block: 'start' }), 500);
       }
     }
   }, [stories]);
