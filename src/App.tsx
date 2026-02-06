@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useMemo } from 'react';
 import { useStories } from '@/hooks/useStories';
 import { useActiveStory } from '@/hooks/useActiveStory';
 import { useOffline } from '@/hooks/useOffline';
@@ -29,17 +29,8 @@ function App() {
   const { activeStoryId, observe } = useActiveStory(stories.map((s) => s.id));
   const isOffline = useOffline();
 
-  // Deep link: scroll to story from URL hash
-  useEffect(() => {
-    const hash = window.location.hash.slice(1);
-    if (hash && stories.length > 0) {
-      const el = document.querySelector(`[data-story-id="${CSS.escape(hash)}"]`);
-      if (el) {
-        // Delay to ensure layout is complete (images, maps, etc.)
-        setTimeout(() => el.scrollIntoView({ behavior: 'smooth', block: 'start' }), 500);
-      }
-    }
-  }, [stories]);
+  // Deep link: read hash once for initial scroll
+  const initialStoryId = useMemo(() => window.location.hash.slice(1) || null, []);
 
   if (loading) {
     return (
@@ -119,6 +110,7 @@ function App() {
           stories={stories}
           activeStoryId={activeStoryId}
           onObserve={observe}
+          initialStoryId={initialStoryId}
         />
       </main>
     </div>
