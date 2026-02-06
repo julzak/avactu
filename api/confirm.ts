@@ -1,5 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { createClient } from '@supabase/supabase-js';
+import { Resend } from 'resend';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   // CORS headers
@@ -71,6 +72,28 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     if (updateError) {
       console.error('Update error:', updateError);
       return res.status(500).json({ error: 'Failed to confirm subscription' });
+    }
+
+    // Notify admin when a new subscriber confirms
+    if (!subscriber.confirmed) {
+      const resendApiKey = process.env.RESEND_API_KEY;
+      if (resendApiKey) {
+        const resend = new Resend(resendApiKey);
+        resend.emails.send({
+          from: 'Avactu <briefing@avactu.com>',
+          to: 'jzakoian@gmail.com',
+          subject: `Nouvel abonné Avactu : ${subscriber.email}`,
+          text: [
+            `Nouvel abonné confirmé sur Avactu`,
+            ``,
+            `Email : ${subscriber.email}`,
+            `Fréquence : ${newFrequency}`,
+            `Date : ${new Date().toLocaleString('fr-FR', { timeZone: 'Europe/Paris' })}`,
+          ].join('\n'),
+        }).catch((err) => {
+          console.error('Admin notification email error:', err);
+        });
+      }
     }
 
     // Return success with frequency info
