@@ -50,6 +50,7 @@ export function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
   return (
     <div
       ref={cardRef}
+      id={story.id}
       data-story-id={story.id}
       className="h-[70vh] snap-start snap-always flex-shrink-0 px-4 py-2"
     >

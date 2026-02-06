@@ -1,4 +1,3 @@
-import { useMemo } from 'react';
 import { useStories } from '@/hooks/useStories';
 import { useActiveStory } from '@/hooks/useActiveStory';
 import { useOffline } from '@/hooks/useOffline';
@@ -28,9 +27,6 @@ function App() {
   const { stories, edition, loading, error } = useStories();
   const { activeStoryId, observe } = useActiveStory(stories.map((s) => s.id));
   const isOffline = useOffline();
-
-  // Deep link: read hash once for initial scroll
-  const initialStoryId = useMemo(() => window.location.hash.slice(1) || null, []);
 
   if (loading) {
     return (
@@ -110,7 +106,6 @@ function App() {
           stories={stories}
           activeStoryId={activeStoryId}
           onObserve={observe}
-          initialStoryId={initialStoryId}
         />
       </main>
     </div>
