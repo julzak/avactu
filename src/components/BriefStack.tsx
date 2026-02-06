@@ -15,26 +15,21 @@ export function BriefStack({ stories, activeStoryId, onObserve, initialStoryId }
   useLayoutEffect(() => {
     if (!initialStoryId || !containerRef.current) return;
     const container = containerRef.current;
-    const targetIndex = stories.findIndex(s => s.id === initialStoryId);
-    if (targetIndex <= 0) return;
+    const el = container.querySelector(`[data-story-id="${CSS.escape(initialStoryId)}"]`);
+    if (!el) return;
 
-    const targetCard = container.children[targetIndex] as HTMLElement | undefined;
-    if (!targetCard) return;
-
-    // Use getBoundingClientRect for the VISUAL position (not offsetTop which is
-    // inflated by react-simple-maps SVGs to ~75000px per card)
-    const containerRect = container.getBoundingClientRect();
-    const cardRect = targetCard.getBoundingClientRect();
-    const scrollPos = cardRect.top - containerRect.top;
-
-    // Disable snap + smooth, scroll, then restore
+    // Disable snap temporarily, scroll instantly, re-enable
     container.style.scrollSnapType = 'none';
-    container.style.scrollBehavior = 'auto';
-    container.scrollTop = scrollPos;
-    setTimeout(() => {
-      container.style.scrollSnapType = '';
-      container.style.scrollBehavior = '';
-    }, 300);
+    (el as HTMLElement).style.scrollSnapAlign = 'none';
+    el.scrollIntoView({ behavior: 'instant' as ScrollBehavior, block: 'start' });
+
+    // Re-enable snap after scroll position is committed
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        container.style.scrollSnapType = '';
+        (el as HTMLElement).style.scrollSnapAlign = '';
+      });
+    });
   }, [initialStoryId, stories]);
 
   return (
