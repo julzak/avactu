@@ -30,7 +30,7 @@ export function BriefStack({ stories, activeStoryId, onObserve, initialStoryId }
   }, [initialStoryId]);
 
   return (
-    <div ref={containerRef} className="h-full overflow-y-auto snap-y snap-mandatory scroll-smooth">
+    <div ref={containerRef} className="relative h-full overflow-y-auto snap-y snap-mandatory scroll-smooth">
       {stories.map((story) => (
         <BriefCard
           key={story.id}
