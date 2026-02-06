@@ -15,13 +15,15 @@ export function BriefStack({ stories, activeStoryId, onObserve, initialStoryId }
   useEffect(() => {
     if (!initialStoryId || !containerRef.current) return;
     const container = containerRef.current;
-    const el = container.querySelector(`[data-story-id="${CSS.escape(initialStoryId)}"]`);
+    const el = container.querySelector(`[data-story-id="${CSS.escape(initialStoryId)}"]`) as HTMLElement | null;
     if (el) {
-      // Override CSS scroll-smooth to force instant scroll (smooth + snap-mandatory conflict)
+      // Disable both snap and smooth scroll to prevent them from fighting
+      container.style.scrollSnapType = 'none';
       container.style.scrollBehavior = 'auto';
-      el.scrollIntoView({ block: 'start' });
-      // Restore smooth scroll for user interactions
+      container.scrollTop = el.offsetTop;
+      // Restore after browser has applied the scroll position
       requestAnimationFrame(() => {
+        container.style.scrollSnapType = '';
         container.style.scrollBehavior = '';
       });
     }
