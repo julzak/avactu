@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { Maximize2 } from 'lucide-react';
 import {
   ComposableMap,
   Geographies,
@@ -65,7 +66,7 @@ export function MiniMap({ location, category }: MiniMapProps) {
       <div className="p-1 rounded-full bg-black/30 backdrop-blur-sm">
         <button
           onClick={handleToggle}
-          className="w-16 h-16 rounded-full overflow-hidden border-2 border-white/40 ring-2 ring-black/40 shadow-lg shadow-black/50 hover:border-white/60 transition-colors"
+          className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-white/40 ring-2 ring-black/40 shadow-lg shadow-black/50 hover:border-white/60 transition-colors"
           style={{ boxShadow: `${markerGlow}, 0 4px 12px rgba(0, 0, 0, 0.5)` }}
         >
         <ComposableMap
@@ -102,6 +103,9 @@ export function MiniMap({ location, category }: MiniMapProps) {
             <circle r={3} fill={markerColor} stroke="#fff" strokeWidth={1} />
           </Marker>
         </ComposableMap>
+          <div className="absolute bottom-0.5 right-0.5 bg-black/50 rounded-full p-0.5">
+            <Maximize2 className="w-2.5 h-2.5 text-white/80" />
+          </div>
         </button>
       </div>
 

@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-import { ChevronDown, ChevronUp } from 'lucide-react';
+import { ChevronDown, ChevronUp, Share2, Check } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { MiniMap } from '@/components/MiniMap';
 import type { Story } from '@/types';
@@ -30,6 +30,7 @@ interface BriefCardProps {
 
 export function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
   const [showAnalysis, setShowAnalysis] = useState(false);
+  const [copied, setCopied] = useState(false);
   const cardRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -74,9 +75,32 @@ export function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
             </Badge>
           </div>
 
-          {/* Mini Map */}
-          <div className="absolute top-2 right-2">
+          {/* Mini Map + Share */}
+          <div className="absolute top-2 right-2 flex flex-col items-center gap-2">
             <MiniMap location={story.location} category={story.category} />
+            <button
+              onClick={async () => {
+                const url = `https://avactu.com/s/${story.id}`;
+                try {
+                  if (navigator.share) {
+                    await navigator.share({ title: story.title, url });
+                  } else {
+                    await navigator.clipboard.writeText(url);
+                    setCopied(true);
+                    setTimeout(() => setCopied(false), 2000);
+                  }
+                } catch {
+                  // User cancelled share dialog
+                }
+              }}
+              className="w-8 h-8 rounded-full bg-black/30 backdrop-blur-sm flex items-center justify-center hover:bg-black/50 transition-colors"
+            >
+              {copied ? (
+                <Check className="w-4 h-4 text-green-400" />
+              ) : (
+                <Share2 className="w-4 h-4 text-white/70" />
+              )}
+            </button>
           </div>
         </div>
 
