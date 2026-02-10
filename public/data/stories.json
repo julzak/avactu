@@ -1,165 +1,163 @@
 {
-  "date": "2026-02-09T06:21:57.456Z",
+  "date": "2026-02-10T06:24:21.082Z",
   "stories": [
     {
-      "id": "2026-02-09-01",
-      "category": "politique",
-      "title": "Le Japon accorde une majorité écrasante à Sanae Takaichi",
-      "imageUrl": "https://s.rfi.fr/media/display/9c623794-0579-11f1-948c-005056bfb2b6/w:1024/p:16x9/AP26039499251205.jpg",
+      "id": "2026-02-10-01",
+      "category": "geopolitique",
+      "title": "Israël étend son contrôle en Cisjordanie",
+      "imageUrl": "https://s.rfi.fr/media/display/d3467dba-0646-11f1-8f40-005056bf30b7/w:1024/p:16x9/2026-01-13T102551Z-2098322068-RC21ZIA2CAXO-RTRMADP-3-ISRAEL-PALESTINIANS-WEST-BANK-FOOTBALL.jpg",
       "location": {
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "name": "Tokyo, Japon"
+        "lat": 31.9466,
+        "lng": 35.3027,
+        "name": "Cisjordanie"
       },
       "bullets": [
-        "Le parti de Sanae Takaichi remporte deux tiers de la chambre basse",
-        "Les élections législatives du 8 février confirment sa popularité croissante",
-        "La Première ministre prône un programme ultra-conservateur 'paix par la force'",
-        "L'opposition redoute une dérive plus à droite du pays",
-        "Le défi économique : concilier attentes populaires et inquiétudes des marchés"
+        "Le cabinet israélien approuve des mesures pour contrôler la Cisjordanie",
+        "Extension de l'autorité israélienne en zones palestiniennes A et B",
+        "Israël justifie par la nécessité de réorganiser la gouvernance territoriale",
+        "Les Palestiniens dénoncent une annexion de facto du territoire occupé",
+        "L'UE et plusieurs chancelleries condamnent ces violations du droit international"
       ],
-      "execSummary": "Sanae Takaichi a remporté dimanche 8 février une victoire écrasante aux élections législatives japonaises, son Parti libéral-démocrate (PLD) s'assurant le contrôle des deux tiers de la chambre basse du parlement selon RFI et Le Monde. Cette majorité qualifiée lui permettra de gouverner quasiment seule et d'outrepasser les avis du Sénat si nécessaire. Donald Trump a salué cette 'écrasante victoire' selon Le Monde, souhaitant un 'grand succès' à la Première ministre.\n\nSanae Takaichi justifie son programme ultra-conservateur par une approche 'axée sur la paix par la force' selon Le Monde. Sa formation défend une ligne nationaliste de droite qui a séduit l'électorat japonais dans un contexte géopolitique tendu. La Première ministre revendique cette victoire comme un mandat pour mettre en œuvre ses réformes sans compromis.\n\nSelon Courrier International, certains observateurs s'inquiètent que cette large majorité 'pourrait porter le pays plus à droite'. L'opposition craint une radicalisation des politiques conservatrices et un affaiblissement du pluralisme démocratique face à une telle domination parlementaire du PLD.\n\nLe principal défi de Takaichi sera économique selon RFI : elle doit 'satisfaire à la fois ses électeurs, qui se sentent plus démunis économiquement que jamais, et les marchés, qui s'inquiètent de l'endettement nippon'. Cette double contrainte testera sa capacité à concilier populisme électoral et rigueur budgétaire dans un Japon confronté à des défis démographiques et financiers majeurs.",
+      "execSummary": "Le cabinet de sécurité israélien a approuvé dimanche 8 février 2026 une série de mesures administratives et juridiques visant à étendre son contrôle sur la Cisjordanie occupée. Ces dispositions portent sur l'extension de l'autorité israélienne dans les zones A et B palestiniennes, la réforme du droit foncier pour faciliter l'achat de terres par les colons, et l'administration de sites religieux. Selon RFI et Le Monde, ces décisions marquent une rupture avec des décennies de statu quo et remettent en cause les accords d'Oslo.\n\nPour le gouvernement israélien et le ministre Smotrich cité par France 24, ces mesures visent à « enterrer l'idée d'un État palestinien » et à procéder à une réorganisation nécessaire de la structure de gouvernance territoriale. Les autorités israéliennes présentent ces réformes comme des ajustements administratifs destinés à améliorer la gestion du territoire et accélérer la colonisation de manière légale.\n\nLes Palestiniens et leurs soutiens internationaux perçoivent ces mesures comme une annexion juridique de facto de la Cisjordanie. Selon la BBC et Courrier International, ils dénoncent une officialisation et une aggravation de la réalité d'occupation qui bafoue les accords d'Oslo. La communauté palestinienne exprime son désabusement face à cette escalade unilatérale.\n\nL'Union européenne a rappelé que « l'annexion est illégale en droit international », tandis que de nombreuses chancelleries ont condamné ces mesures selon Courrier International. Seule la Maison-Blanche s'est contentée d'une « vague réprobation ». Ces développements compromettent davantage la solution à deux États et risquent d'aggraver les tensions régionales, alors que la communauté internationale peine à présenter une réponse unifiée face aux violations du droit international.",
       "sources": [
         "RFI",
+        "Le Monde - Économie",
+        "Courrier International",
         "Le Monde - International",
         "France 24",
-        "Courrier International",
-        "Le Monde - Économie"
+        "BBC World"
       ],
-      "publishedAt": "2026-02-09T05:58:35.000Z"
+      "publishedAt": "2026-02-10T06:15:04.000Z"
     },
     {
-      "id": "2026-02-09-02",
+      "id": "2026-02-10-02",
+      "category": "geopolitique",
+      "title": "Macron prône les eurobonds pour renforcer l'Union européenne",
+      "imageUrl": "https://img.lemde.fr/2026/02/09/1167/0/4000/2666/1440/960/60/0/9473c8d_upload-1-uqhchcbtqdlr-kzihnioglu-pol-macron-portrait-09022026-22.JPG",
+      "location": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "Bruxelles, Belgique"
+      },
+      "bullets": [
+        "Emmanuel Macron appelle l'UE à lancer des eurobonds communs",
+        "Sommet européen prévu à Bruxelles dans deux jours",
+        "Le président prône l'investissement conjoint en IA et quantique",
+        "Nécessité d'éviter le décrochage face aux concurrents mondiaux",
+        "Enjeu stratégique pour la compétitivité européenne future"
+      ],
+      "execSummary": "À deux jours d'un sommet européen à Bruxelles, le président Emmanuel Macron appelle les Vingt-Sept à lancer une capacité commune d'endettement via des eurobonds. Dans un entretien accordé au Monde et à plusieurs journaux européens, il préconise des investissements conjoints dans la transition écologique, l'intelligence artificielle et le quantique.\n\nSelon Macron, c'est le moment opportun pour l'Union européenne de franchir cette étape décisive vers une mutualisation de la dette. Le président français justifie cette proposition par la nécessité d'investir massivement dans les technologies d'avenir et la transition énergétique pour maintenir la compétitivité européenne. Il souligne que cette capacité d'endettement commun permettrait de mobiliser les ressources nécessaires à ces défis stratégiques.\n\nCette proposition intervient dans un contexte où l'Europe cherche à renforcer son autonomie stratégique face aux États-Unis et à la Chine. Les eurobonds restent un sujet sensible au sein de l'UE, certains pays membres y étant traditionnellement opposés, craignant une mutualisation des risques financiers.\n\nL'enjeu est considérable pour l'avenir de l'intégration européenne et la capacité de l'Union à rivaliser avec les grandes puissances mondiales. Cette initiative pourrait déterminer si l'Europe parviendra à éviter le décrochage technologique et économique que redoute Macron, particulièrement dans les secteurs stratégiques comme l'IA et les technologies quantiques.",
+      "sources": [
+        "Le Monde - International",
+        "RFI",
+        "Le Monde - Économie",
+        "Courrier International",
+        "France 24",
+        "BBC World"
+      ],
+      "publishedAt": "2026-02-10T05:55:02.000Z"
+    },
+    {
+      "id": "2026-02-10-03",
       "category": "politique",
-      "title": "L'affaire Epstein relancée par la publication de documents",
-      "imageUrl": "https://s.rfi.fr/media/display/e642661e-04f1-11f1-abb9-005056bfb2b6/w:1024/p:16x9/AP26032807748579-1.jpg",
+      "title": "Ghislaine Maxwell auditionée au Congrès américain",
+      "imageUrl": "https://focus.courrierinternational.com/2026/02/09/60/45/1520/1013/1200/630/60/0/d72000f_ftp-1-hhrm6hrynbin-afp-96p649f.jpg",
       "location": {
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "Washington, États-Unis"
       },
       "bullets": [
-        "L'administration américaine publie trois millions de documents Epstein",
-        "La transparence massive relance paradoxalement les théories complotistes",
-        "Les autorités américaines justifient cette démarche par la transparence",
-        "Les experts dénoncent une diffusion contre-productive alimentant les conspirations",
-        "La diplomate norvégienne Mona Juul démissionne après révélations"
+        "Ghislaine Maxwell témoigne devant le Congrès américain le 9 février",
+        "Publication de 3 millions de nouveaux documents du dossier Epstein",
+        "Maxwell exige une grâce présidentielle avant de révéler des informations",
+        "Le Premier ministre britannique Starmer fragilisé par les révélations",
+        "Nombreuses personnalités mondiales impliquées dans les nouveaux documents"
       ],
-      "execSummary": "L'administration américaine a publié plus de trois millions de documents dans le cadre de l'affaire Jeffrey Epstein, impliquant de nombreuses personnalités internationales. Cette publication massive intervient dans un contexte de pression pour plus de transparence sur cette affaire qui avait défrayé la chronique. Parmi les personnalités citées figure la diplomate norvégienne Mona Juul, actuelle ambassadrice en Jordanie et figure importante des négociations israélo-palestiniennes des années 1990. Les autorités américaines justifient cette démarche par un impératif de transparence démocratique, arguant que le public a le droit de connaître la vérité sur les connexions d'Epstein avec diverses élites politiques et économiques. Cette publication vise officiellement à lever les doutes et à répondre aux interrogations persistantes sur cette affaire. Cependant, selon Frédérique Sandretto, professeure de civilisation américaine à Sciences Po, cette transparence massive produit l'effet inverse de celui escompté. La diffusion de documents à l'état brut, sans contextualisation ni analyse, nourrit paradoxalement les théories conspirationnistes plutôt que de les dissiper. Les experts soulignent que cette approche peut être contre-productive. L'affaire illustre les défis de la communication institutionnelle à l'ère numérique, où la surcharge informationnelle peut amplifier la désinformation. La démission de Mona Juul montre les répercussions diplomatiques concrètes de ces révélations sur les carrières internationales, soulevant des questions sur l'équilibre entre transparence et protection de la vie privée des personnalités publiques.",
+      "execSummary": "Le 9 février 2026, Ghislaine Maxwell, complice de Jeffrey Epstein purgeant une peine de 20 ans de prison, a témoigné devant une commission de la Chambre des représentants américaine. Cette audition intervient après la publication le 30 janvier de plus de 3 millions de nouveaux documents judiciaires liés à l'affaire Epstein, révélant les liens étroits du criminel sexuel avec de nombreux scientifiques et personnalités mondiales. Selon RFI et France 24, Maxwell a invoqué son droit au silence lors de cette audition. Selon RFI, Ghislaine Maxwell ne parlera que si elle obtient une grâce de la part de Donald Trump, conditionnant ainsi ses révélations à un accord présidentiel. Les experts juridiques interrogés par France 24 soulignent que cette stratégie vise à négocier une réduction de peine en échange d'informations compromettantes sur des personnalités influentes. La publication des nouveaux documents provoque une tempête politique internationale. Le Premier ministre britannique Keir Starmer traverse selon RFI \"la journée la plus précaire depuis le début de son mandat\", accusé d'avoir nommé ambassadeur à Washington un ami d'Epstein en connaissance de cause. La démission de son bras droit Morgan McSweeney le 8 février fragilise davantage sa position, bien qu'il semble résister aux appels à la démission. Ces révélations bouleversent l'échiquier politique mondial et judiciaire. Les documents exposent l'ampleur du réseau d'Epstein dans le monde scientifique et politique, créant des crises gouvernementales dans plusieurs pays. L'audition de Maxwell pourrait déclencher de nouvelles enquêtes si elle accepte finalement de coopérer, transformant cette affaire en catalyseur de scandales politiques durables.",
       "sources": [
+        "Courrier International",
         "RFI",
-        "Courrier International",
+        "France 24"
+      ],
+      "publishedAt": "2026-02-10T04:59:26.000Z"
+    },
+    {
+      "id": "2026-02-10-04",
+      "category": "politique",
+      "title": "Maxwell refuse de témoigner sans grâce présidentielle",
+      "imageUrl": "https://img.lemde.fr/2026/02/09/0/0/1920/1280/1440/960/60/0/05b0aa3_upload-1-idg8uhf5g5rx-37.jpg",
+      "location": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "Washington, États-Unis"
+      },
+      "bullets": [
+        "Ghislaine Maxwell invoque le 5e amendement devant le Congrès",
+        "Son avocat propose une grâce présidentielle contre son témoignage",
+        "L'avocat affirme que Maxwell peut innocenter Trump et Clinton",
+        "Le département de la justice cache six noms de personnalités",
+        "Les révélations impliquent également des élites russes"
+      ],
+      "execSummary": "Ghislaine Maxwell, ancienne complice de Jeffrey Epstein purgeant une peine de prison, a refusé lundi de témoigner devant la commission d'enquête du Congrès américain, invoquant le cinquième amendement pour éviter de s'auto-incriminer. Selon Le Monde, son avocat a proposé un échange : elle accepterait de parler uniquement en échange d'une grâce présidentielle de Donald Trump. Parallèlement, de nouveaux documents révèlent les liens d'Epstein avec des représentants de l'élite russe entre 2011 et 2019.\n\nLa défense de Maxwell présente sa cliente comme détentrice d'informations exonératrantes pour certaines personnalités politiques. Son avocat affirme qu'elle peut témoigner de l'innocence de Donald Trump et Bill Clinton concernant toute implication dans les activités criminelles d'Epstein. Cette stratégie vise clairement à obtenir une contrepartie politique en échange de révélations potentiellement embarrassantes pour d'autres figures publiques.\n\nLes parlementaires américains critiquent vivement l'opacité maintenue par le département de la justice. Selon Le Monde, six noms de personnalités restent occultés sans explication, dont celui d'un responsable gouvernemental étranger de haut rang et d'une personnalité éminente. Cette censure alimente les soupçons sur l'ampleur réelle du réseau Epstein et ses ramifications internationales.\n\nL'affaire révèle les enjeux politiques considérables autour des révélations sur Epstein. Entre les tentatives de Maxwell d'obtenir sa liberté, les pressions du Congrès pour la transparence et les implications géopolitiques avec la Russie, cette enquête pourrait redéfinir certains équilibres diplomatiques. La question de la grâce présidentielle place Trump dans une position délicate, entre risque politique et opportunité d'éclaircissement.",
+      "sources": [
         "Le Monde - International",
-        "Le Monde - Économie"
-      ],
-      "publishedAt": "2026-02-09T05:55:11.000Z"
-    },
-    {
-      "id": "2026-02-09-03",
-      "category": "politique",
-      "title": "Jimmy Lai condamné à 20 ans de prison à Hong Kong",
-      "imageUrl": "https://focus.courrierinternational.com/2026/02/09/0/0/7554/5036/1200/630/60/0/a467b1c_ftp-1-f5jqujgfioxq-2026-02-09t014407z-1694380166-mt1usatoday28190539-rtrmadp-3-nfl-super-bowl-lx-seattle-seahawks-at-new-england-patriots.JPG",
-      "location": {
-        "lat": 22.3193,
-        "lng": 114.1694,
-        "name": "Hong Kong"
-      },
-      "bullets": [
-        "Le magnat Jimmy Lai condamné à 20 ans — sédition et collusion",
-        "Le tribunal applique la loi sécuritaire — répression pro-démocratie depuis 2020",
-        "La Chine défend la stabilité — nécessaire contre séparatisme hongkongais",
-        "Human Rights Watch dénonce un arrêt — équivaut à mort pour l'activiste",
-        "L'autonomie hongkongaise remise en question — tensions avec l'Occident persistent"
-      ],
-      "execSummary": "Jimmy Lai, magnat de la presse et figure emblématique du mouvement pro-démocratie de Hong Kong, a été condamné lundi à 20 ans de prison par un tribunal hongkongais pour complot de sédition et collusion avec des puissances étrangères, selon France 24. Cette condamnation s'inscrit dans le cadre de la loi sur la sécurité nationale imposée par Pékin en 2020, qui a considérablement durci la répression contre l'opposition démocratique dans l'ancien territoire britannique.\n\nLes autorités chinoises et le gouvernement hongkongais justifient cette sentence par la nécessité de préserver la stabilité et l'ordre public face aux activités séparatistes. Ils soutiennent que la loi sur la sécurité nationale était indispensable pour restaurer la paix après les manifestations massives de 2019 et protéger l'intégrité territoriale chinoise. Pour Pékin, les actions de Jimmy Lai constituaient une menace directe à la souveraineté nationale et à l'unité du pays.\n\nÀ l'opposé, Human Rights Watch qualifie cette condamnation d'\"arrêt de mort\" pour l'activiste de 76 ans, dénonçant une justice instrumentalisée au service de la répression politique. Les organisations internationales de défense des droits humains et plusieurs gouvernements occidentaux considèrent cette sentence comme emblématique de l'érosion des libertés fondamentales à Hong Kong et de la violation du principe \"Un pays, deux systèmes\".\n\nCette affaire cristallise les tensions géopolitiques croissantes entre la Chine et l'Occident autour de Hong Kong. Elle soulève des questions fondamentales sur l'avenir du statut spécial de la région administrative et pourrait influencer les relations commerciales et diplomatiques futures, particulièrement avec les États-Unis et l'Union européenne qui ont déjà adopté des sanctions ciblées.",
-      "sources": [
-        "Courrier International",
-        "France 24",
-        "BBC World",
-        "Le Monde - International"
-      ],
-      "publishedAt": "2026-02-09T05:14:53.000Z"
-    },
-    {
-      "id": "2026-02-09-04",
-      "category": "politique",
-      "title": "Le socialiste Seguro remporte la présidentielle portugaise",
-      "imageUrl": "https://focus.courrierinternational.com/2026/02/08/0/0/4999/3333/1200/630/60/0/d151aa2_ftp-1-dqahmlrmmqbj-2026-02-08t231003z-1000174287-rc2yhjads3yv-rtrmadp-3-portugal-election-president.JPG",
-      "location": {
-        "lat": 38.7223,
-        "lng": -9.1393,
-        "name": "Lisbonne, Portugal"
-      },
-      "bullets": [
-        "António José Seguro élu président avec 66,8% des voix",
-        "Victoire nette face à André Ventura du parti Chega",
-        "Les Portugais choisissent la modération selon les médias",
-        "L'extrême droite progresse malgré la défaite électorale",
-        "Enjeux de polarisation politique pour l'avenir du pays"
-      ],
-      "execSummary": "António José Seguro, candidat socialiste, a remporté dimanche 8 février 2026 le second tour de l'élection présidentielle au Portugal avec 66,8% des suffrages selon France 24 et RFI. Il devance largement André Ventura, candidat du parti d'extrême droite Chega, qui obtient 33,2% des voix. Les résultats portent sur 95% des circonscriptions selon RFI. Le socialiste modéré Seguro justifie sa campagne sur des valeurs de modération et de rassemblement face à la montée des populismes. Ses partisans mettent en avant la nécessité de préserver la stabilité démocratique et les acquis sociaux du Portugal dans un contexte européen tendu. André Ventura et ses soutiens dénoncent un système établi qui ignorerait les préoccupations des classes populaires. L'extrême droite revendique sa progression électorale comme le signe d'un mécontentement croissant face aux politiques traditionnelles, selon les analyses rapportées par Courrier International. Cette élection illustre les tensions politiques européennes entre modération et populisme. Bien que les Portugais aient choisi la continuité selon la presse internationale, l'ascension confirmée de l'extrême droite pose des défis pour la gouvernance future et la cohésion sociale du pays.",
-      "sources": [
-        "Courrier International",
-        "France 24",
-        "RFI"
-      ],
-      "publishedAt": "2026-02-09T04:31:16.000Z"
-    },
-    {
-      "id": "2026-02-09-05",
-      "category": "economie",
-      "title": "L'immobilier français pris dans l'étau des taux d'intérêt",
-      "imageUrl": "https://img.lemde.fr/2026/02/06/1674/0/2740/1826/1440/960/60/0/7d90de3_upload-1-mxsgubpdqwgx-crypto1.jpg",
-      "location": {
-        "lat": 46.2276,
-        "lng": 2.2137,
-        "name": "France"
-      },
-      "bullets": [
-        "Les banques françaises rehaussent les barèmes de leurs crédits immobiliers",
-        "La hausse des taux pèse durablement sur le marché",
-        "Les établissements bancaires justifient par les contraintes réglementaires",
-        "Les acquéreurs subissent une baisse du pouvoir d'achat immobilier",
-        "Le secteur immobilier français face à un ralentissement prolongé"
-      ],
-      "execSummary": "Les banques françaises ont relevé les barèmes de leurs crédits immobiliers, marquant un durcissement des conditions d'accès au financement. Cette tendance haussière des taux d'intérêt semble s'installer dans la durée, selon Le Monde, créant un étau financier autour du marché immobilier français. Le phénomène s'accompagne de situations problématiques, notamment des clients indélicats qui disparaissent sans honorer leurs engagements contractuels.\n\nLes établissements bancaires défendent cette politique de hausse par la nécessité de s'adapter au contexte économique et aux exigences réglementaires. Ils mettent en avant la prudence nécessaire dans l'octroi de crédits et la gestion des risques dans un environnement de taux en hausse. Cette stratégie vise à préserver leur rentabilité, d'ailleurs confirmée par les résultats records du secteur bancaire français en 2025.\n\nDu côté des acquéreurs potentiels, cette hausse des taux représente une contrainte majeure qui réduit significativement leur capacité d'emprunt et leur pouvoir d'achat immobilier. Les ménages français font face à des conditions d'accès au crédit plus restrictives, limitant leurs projets d'acquisition et créant une tension sur la demande.\n\nCes évolutions préfigurent un ralentissement durable du marché immobilier français, avec des conséquences sur l'ensemble de la filière. La situation s'inscrit dans un contexte économique plus large où l'impact de l'intelligence artificielle et les transformations technologiques questionnent l'avenir de secteurs entiers, comme le soulignent les analyses de Wall Street sur les mutations économiques en cours.",
-      "sources": [
-        "Le Monde - Économie",
-        "BBC World",
         "RFI",
-        "Le Monde - International",
         "France 24",
         "Courrier International"
       ],
-      "publishedAt": "2026-02-09T06:00:09.000Z"
+      "publishedAt": "2026-02-10T04:45:10.000Z"
     },
     {
-      "id": "2026-02-09-06",
+      "id": "2026-02-10-05",
       "category": "politique",
-      "title": "Les Français restent attachés aux services publics locaux",
-      "imageUrl": "https://img.lemde.fr/2026/02/08/0/0/7228/4818/1440/960/60/0/e3f165f_upload-1-9qjq7m2znluc-000-92bq863.jpg",
+      "title": "ATD Quart Monde dénonce l'exclusion scolaire des plus pauvres",
+      "imageUrl": "https://img.lemde.fr/2026/02/09/1/0/2997/1998/1440/960/60/0/3050212_upload-1-wmdvjmpj22vt-adsem-le-monde-030-1.jpg",
       "location": {
-        "lat": 46.603354,
-        "lng": 1.888334,
-        "name": "France"
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "Paris, France"
       },
       "bullets": [
-        "Une étude révèle le fort attachement des Français aux services publics",
-        "73% des sondés estiment que ces organismes manquent de moyens",
-        "La proximité reste un critère déterminant pour les usagers français",
-        "Les collectivités locales peinent à répondre aux besoins croissants",
-        "L'enjeu du financement des services publics locaux se renforce"
+        "ATD Quart Monde expérimente contre la ségrégation scolaire en primaire",
+        "La grande pauvreté exclut les enfants du système éducatif français",
+        "L'association teste des solutions pour sensibiliser les établissements scolaires",
+        "Le système actuel reproduit les inégalités sociales dès l'école primaire",
+        "L'enjeu : briser le cercle vicieux pauvreté-échec scolaire-exclusion sociale"
       ],
-      "execSummary": "Une enquête publiée le 9 février révèle que les Français maintiennent un attachement profond aux services publics de proximité, confirmant une tendance historique de confiance dans les institutions locales. Cette étude met en lumière la relation particulière que les citoyens entretiennent avec ces organismes qui constituent le maillage territorial français.\n\nSelon les résultats de cette enquête, les Français valorisent particulièrement la proximité et l'accessibilité de ces services, les considérant comme essentiels au maintien du lien social et de l'égalité territoriale. Cette position reflète une conception française spécifique du service public, où la présence locale est perçue comme garante de l'équité d'accès aux droits et prestations.\n\nCependant, cette adhésion s'accompagne d'une critique majeure : 73% des personnes interrogées estiment que ces services publics locaux manquent de moyens par rapport aux besoins réels de la population. Cette perception traduit une inquiétude quant à la capacité des organismes publics à répondre efficacement aux demandes croissantes des usagers dans un contexte de contraintes budgétaires.\n\nCette situation soulève des enjeux cruciaux pour l'avenir du modèle français de service public. Le défi consiste à préserver cette proximité valorisée par les citoyens tout en trouvant les ressources nécessaires pour maintenir la qualité des prestations. Cette problématique s'inscrit dans le débat plus large sur le financement des collectivités locales et la répartition des compétences entre les différents échelons territoriaux.",
+      "execSummary": "ATD Quart Monde mène une expérimentation dans les écoles primaires françaises pour lutter contre la ségrégation sociale qui touche les enfants en situation de grande pauvreté. Selon l'association, le système éducatif français exclut systématiquement ces enfants, reproduisant et amplifiant les inégalités sociales dès le plus jeune âge.\n\nMarie-Aleth Grard, présidente d'ATD Quart Monde, justifie cette initiative par la nécessité de sensibiliser les établissements scolaires aux mécanismes d'exclusion. L'association considère que l'école, censée être un vecteur d'égalité des chances, devient paradoxalement un facteur d'aggravation des inégalités pour les enfants les plus vulnérables. L'expérimentation vise à outiller les enseignants et personnels éducatifs.\n\nLes détracteurs de cette approche pourraient arguer que le système éducatif français offre déjà des dispositifs d'aide et que la responsabilité ne peut être exclusivement attribuée à l'école. Certains pourraient estimer que les causes de l'échec scolaire des enfants pauvres sont multifactorielles et dépassent le cadre purement éducatif.\n\nL'enjeu dépasse la simple question scolaire : il s'agit de briser le cercle vicieux qui lie pauvreté, échec scolaire et reproduction des inégalités. Cette expérimentation pourrait influencer les politiques éducatives nationales et questionner l'efficacité du modèle méritocratique français face aux défis de la cohésion sociale.",
       "sources": [
         "Le Monde - Économie",
-        "Le Monde - International",
-        "RFI",
-        "Courrier International",
-        "France 24",
         "BBC World"
       ],
-      "publishedAt": "2026-02-09T05:55:07.000Z"
+      "publishedAt": "2026-02-10T04:00:06.000Z"
+    },
+    {
+      "id": "2026-02-10-06",
+      "category": "geopolitique",
+      "title": "L'Iran réprime violemment les manifestations du 8 janvier",
+      "imageUrl": "https://img.lemde.fr/2026/02/09/144/0/960/640/1440/960/60/0/2b0b3c0_upload-1-qcygh0ev10al-img-20260209-wa0002.jpg",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "Téhéran, Iran"
+      },
+      "bullets": [
+        "Cinq manifestants tués lors des protestations du 8 janvier",
+        "Répression armée à Téhéran et Bouchehr contre les contestataires",
+        "Victimes issues de milieux sociaux divers et variés",
+        "Le régime iranien justifie le maintien de l'ordre public",
+        "Nouvelle escalade dans la répression des mouvements protestataires"
+      ],
+      "execSummary": "Le 8 janvier 2026, les forces de sécurité iraniennes ont ouvert le feu sur des manifestants à Téhéran et Bouchehr, tuant au moins cinq personnes : Sina (lycéen), Behrouz (instituteur), Mansoureh (infirmière), Keyvan (travailleur du bâtiment) et Roubina (étudiante en stylisme). Ces victimes illustrent la diversité sociologique de la contestation contre les autorités iraniennes.\n\nLes autorités iraniennes justifient cette répression par la nécessité de maintenir l'ordre public et de préserver la stabilité du régime face à ce qu'elles qualifient d'agitation orchestrée par des forces extérieures. Le gouvernement présente ces manifestations comme une menace à la sécurité nationale nécessitant une réponse ferme.\n\nLes opposants et observateurs internationaux dénoncent une répression disproportionnée contre des citoyens pacifiques exprimant leur mécontentement légitime. Ils soulignent que ces cinq victimes représentent la jeunesse iranienne et les classes laborieuses aspirant à des changements démocratiques, pointant la brutalité excessive du régime.\n\nCette nouvelle escalade de violence témoigne de la persistance des tensions sociales en Iran et pourrait alimenter davantage la contestation. La diversité des profils des victimes révèle l'ampleur du mécontentement populaire, posant la question de la stabilité à long terme du régime face à une opposition socialement transversale.",
+      "sources": [
+        "Le Monde - International",
+        "BBC World",
+        "France 24",
+        "Le Monde - Économie",
+        "RFI"
+      ],
+      "publishedAt": "2026-02-10T04:06:02.000Z"
     }
   ]
 }
