@@ -4,6 +4,7 @@
  * Usage: npx tsx scripts/curate.ts
  */
 
+import { createHash } from 'crypto';
 import Parser from 'rss-parser';
 import metascraper from 'metascraper';
 import metascraperImage from 'metascraper-image';
@@ -94,7 +95,7 @@ function isWithin48Hours(dateString: string | undefined): boolean {
 function generateArticleId(url: string, publishedAt: string): string {
   const date = new Date(publishedAt);
   const dateStr = date.toISOString().split('T')[0];
-  const urlHash = Buffer.from(url).toString('base64').slice(0, 8);
+  const urlHash = createHash('sha256').update(url).digest('hex').slice(0, 8);
   return `${dateStr}-${urlHash}`;
 }
 

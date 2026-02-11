@@ -343,13 +343,20 @@ function areSameTopic(cluster1: ArticleCluster, cluster2: ArticleCluster): boole
 
   // High entity overlap = same topic
   const entSim = entitySimilarity(entities1, entities2);
-  if (entSim >= 0.6) return true;
+  if (entSim >= 0.5) return true;
 
   // Check for shared articles (same URL)
   const urls1 = new Set(cluster1.articles.map(a => a.url));
   const urls2 = new Set(cluster2.articles.map(a => a.url));
   const sharedUrls = [...urls1].filter(u => urls2.has(u)).length;
   if (sharedUrls > 0) return true;
+
+  // Text similarity check (catches same-topic clusters with non-geo entities like person names)
+  const tokens1 = tokenize(text1);
+  const tokens2 = tokenize(text2);
+  const vectors = buildTfIdf([tokens1, tokens2]);
+  const textSim = cosineSimilarity(vectors[0], vectors[1]);
+  if (textSim >= 0.25) return true;
 
   return false;
 }

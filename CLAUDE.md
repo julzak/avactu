@@ -338,6 +338,38 @@ npx cap open ios
 
 ---
 
+## 📱 Communication SMS (Claude Phone)
+
+Quand tu reçois une instruction par SMS (prompt commençant par `[SMS #...]`), tu peux communiquer avec l'utilisateur par SMS :
+
+### Poser une question et attendre la réponse
+```bash
+curl -X POST http://localhost:3000/api/sms \
+  -H "Content-Type: application/json" \
+  -d '{"message": "Ta question ici ?", "project": "avactu", "waitForReply": true, "timeout": 300}'
+```
+→ Envoie un SMS et **bloque jusqu'à la réponse** (timeout 5 min). La réponse est dans le champ `reply.body`.
+
+### Notification simple (non bloquant)
+```bash
+curl -X POST http://localhost:3000/api/sms \
+  -H "Content-Type: application/json" \
+  -d '{"message": "Tâche terminée ✓", "project": "avactu"}'
+```
+
+### Acquitter un message traité
+```bash
+curl -X POST http://localhost:3000/api/inbox/<ID>/ack
+```
+→ Remplace `<ID>` par le numéro du message (ex: `#18` → `/api/inbox/18/ack`)
+
+### Bonnes pratiques
+- **Toujours demander confirmation** avant actions destructives (suppression, reset, etc.)
+- **Envoyer une notification** quand une tâche longue est terminée
+- **Acquitter le message** une fois la tâche complète
+
+---
+
 ## 📝 Notes pour Claude Code
 
 - Toujours utiliser TypeScript strict
@@ -393,3 +425,9 @@ Le logo est un **A stylisé cyan** avec :
 ### Supabase & Sécurité
 8. **RLS bloque les updates depuis le frontend** — La clé `anon` ne peut pas modifier les données si RLS est activé sans policy appropriée. Utiliser des API routes serverless avec `service_role` key
 9. **Préférer la confirmation par email** — Pour les modifications sensibles (inscription, changement de préférences), utiliser un flow avec token de confirmation par email plutôt que des modifications directes
+
+### Pipeline de contenu (curate → cluster → synthesize)
+10. **Article IDs : utiliser un hash crypto, pas base64** — `Buffer.from(url).toString('base64').slice(0, 8)` donne `aHR0cHM6` pour TOUTE URL https → IDs tous identiques. Utiliser `createHash('sha256').update(url).digest('hex').slice(0, 8)`
+11. **Déduplication inter-clusters : vérifier la similarité textuelle** — `areSameTopic()` dans `cluster.ts` ne doit PAS se limiter aux entités géopolitiques (`GEO_ENTITIES`). Les noms de personnes (Maxwell, Epstein, etc.) ne sont pas dans ce dictionnaire. Toujours inclure un check TF-IDF cosine similarity entre les textes des clusters (seuil ~0.25)
+12. **Prompt caching sur l'API Claude** — Le system prompt est statique (~520 tokens) et envoyé 5-6 fois par pipeline. Toujours utiliser `cache_control: { type: 'ephemeral' }` sur le bloc system pour éviter de re-payer les input tokens. Format : `system: [{ type: 'text', text: PROMPT, cache_control: { type: 'ephemeral' } }]`
+13. **Le seuil de similarité entités pour doublons doit rester ≤ 0.5** — À 0.6, deux clusters sur le même sujet avec des entités geo légèrement différentes (ex: {usa} vs {usa, uk}) passent le filtre

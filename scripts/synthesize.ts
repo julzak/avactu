@@ -150,8 +150,14 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     const response = await client.messages.create({
       model: 'claude-sonnet-4-20250514',
       max_tokens: 2048,
+      system: [
+        {
+          type: 'text' as const,
+          text: SYSTEM_PROMPT,
+          cache_control: { type: 'ephemeral' as const },
+        },
+      ],
       messages: [{ role: 'user', content: userPrompt }],
-      system: SYSTEM_PROMPT,
     });
 
     const content = response.content[0];
