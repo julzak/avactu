@@ -20,15 +20,12 @@ CREATE TABLE IF NOT EXISTS newsletter_editions (
 CREATE INDEX IF NOT EXISTS newsletter_editions_date_idx
 ON newsletter_editions (edition_date DESC);
 
--- 4. Enable RLS on newsletter_editions (optional - service key bypasses RLS)
+-- 4. Enable RLS on newsletter_editions
+-- No policies needed: only backend scripts access this table via service_role (bypasses RLS)
 ALTER TABLE newsletter_editions ENABLE ROW LEVEL SECURITY;
 
--- Allow service role to insert/select (for backend scripts)
-CREATE POLICY IF NOT EXISTS "Service role can manage editions"
-ON newsletter_editions
-FOR ALL
-USING (true)
-WITH CHECK (true);
+-- Revoke direct access from client roles
+REVOKE ALL ON newsletter_editions FROM anon, authenticated;
 
 -- 5. Add comment for documentation
 COMMENT ON COLUMN subscribers.frequency IS 'Newsletter frequency: daily, biweekly (default), weekly';
