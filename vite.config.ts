@@ -42,10 +42,10 @@ export default defineConfig({
             handler: 'NetworkFirst',
             options: {
               cacheName: 'stories-cache',
-              networkTimeoutSeconds: 5,
+              networkTimeoutSeconds: 3,
               expiration: {
                 maxEntries: 10,
-                maxAgeSeconds: 60 * 60 * 24 * 2, // 2 days
+                maxAgeSeconds: 60 * 60 * 6, // 6 hours
               },
             },
           },
@@ -98,6 +98,16 @@ export default defineConfig({
       },
     }),
   ],
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          'react-vendor': ['react', 'react-dom'],
+          'map': ['react-simple-maps'],
+        },
+      },
+    },
+  },
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),

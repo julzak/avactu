@@ -16,7 +16,7 @@ export function useStories(): UseStoriesResult {
   useEffect(() => {
     async function fetchStories() {
       try {
-        const response = await fetch('/data/stories.json');
+        const response = await fetch('/data/stories.json', { cache: 'no-cache' });
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
