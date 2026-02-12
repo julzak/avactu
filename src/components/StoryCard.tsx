@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, memo } from 'react';
 import { MapPin, Globe, TrendingUp, Landmark } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import type { Story, Category } from '@/types';
@@ -26,7 +26,7 @@ interface StoryCardProps {
   onClick?: () => void;
 }
 
-export function StoryCard({ story, onClick }: StoryCardProps) {
+export const StoryCard = memo(function StoryCard({ story, onClick }: StoryCardProps) {
   const [imageError, setImageError] = useState(false);
   const CategoryIcon = CATEGORY_ICONS[story.category];
 
@@ -35,19 +35,14 @@ export function StoryCard({ story, onClick }: StoryCardProps) {
       onClick={onClick}
       className="relative aspect-square rounded-lg overflow-hidden cursor-pointer group"
     >
-      {/* Hidden img to detect load errors */}
-      <img
-        src={story.imageUrl}
-        alt=""
-        className="hidden"
-        onError={() => setImageError(true)}
-      />
-
       {/* Background image or fallback */}
       {!imageError ? (
-        <div
-          className="absolute inset-0 bg-slate-800 bg-cover bg-center transition-transform duration-300 group-hover:scale-105"
-          style={{ backgroundImage: `url(${story.imageUrl})` }}
+        <img
+          src={story.imageUrl}
+          alt=""
+          loading="lazy"
+          onError={() => setImageError(true)}
+          className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105 bg-slate-800"
         />
       ) : (
         <FallbackBackground category={story.category} Icon={CategoryIcon} />
@@ -78,7 +73,7 @@ export function StoryCard({ story, onClick }: StoryCardProps) {
       </div>
     </article>
   );
-}
+});
 
 interface FallbackBackgroundProps {
   category: Category;

@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { useMemo, memo } from 'react';
 import {
   ComposableMap,
   Geographies,
@@ -23,7 +23,7 @@ interface WorldMapProps {
   onMarkerClick?: (storyId: string) => void;
 }
 
-export function WorldMap({ stories, activeStoryId, onMarkerClick }: WorldMapProps) {
+export const WorldMap = memo(function WorldMap({ stories, activeStoryId, onMarkerClick }: WorldMapProps) {
   const activeStory = useMemo(
     () => stories.find((s) => s.id === activeStoryId),
     [stories, activeStoryId]
@@ -35,6 +35,30 @@ export function WorldMap({ stories, activeStoryId, onMarkerClick }: WorldMapProp
     }
     return [30, 35];
   }, [activeStory]);
+
+  const geographyRenderer = useMemo(() => {
+    return ({ geographies }: { geographies: GeographyType[] }) =>
+      geographies
+        .filter((geo) => geo.properties.name !== 'Antarctica')
+        .map((geo: GeographyType) => (
+          <Geography
+            key={geo.rsmKey}
+            geography={geo}
+            fill="#334155"
+            stroke="#475569"
+            strokeWidth={0.5}
+            style={{
+              default: {
+                outline: 'none',
+                opacity: activeStoryId ? 0.4 : 1,
+                transition: 'opacity 0.3s ease',
+              },
+              hover: { outline: 'none', fill: '#3f4f63' },
+              pressed: { outline: 'none' },
+            }}
+          />
+        ));
+  }, [activeStoryId]);
 
   return (
     <div className="w-full h-full bg-slate-900 rounded-lg overflow-hidden">
@@ -54,28 +78,7 @@ export function WorldMap({ stories, activeStoryId, onMarkerClick }: WorldMapProp
           ]}
         >
           <Geographies geography={GEO_URL}>
-            {({ geographies }: { geographies: GeographyType[] }) =>
-              geographies
-                .filter((geo) => geo.properties.name !== 'Antarctica')
-                .map((geo: GeographyType) => (
-                  <Geography
-                    key={geo.rsmKey}
-                    geography={geo}
-                    fill="#334155"
-                    stroke="#475569"
-                    strokeWidth={0.5}
-                    style={{
-                      default: {
-                        outline: 'none',
-                        opacity: activeStoryId ? 0.4 : 1,
-                        transition: 'opacity 0.3s ease',
-                      },
-                      hover: { outline: 'none', fill: '#3f4f63' },
-                      pressed: { outline: 'none' },
-                    }}
-                  />
-                ))
-            }
+            {geographyRenderer}
           </Geographies>
 
           {stories.map((story) => {
@@ -125,4 +128,4 @@ export function WorldMap({ stories, activeStoryId, onMarkerClick }: WorldMapProp
       </ComposableMap>
     </div>
   );
-}
+});

@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, memo } from 'react';
 import { ChevronDown, ChevronUp, Share2, Check } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { MiniMap } from '@/components/MiniMap';
@@ -28,7 +28,7 @@ interface BriefCardProps {
   onObserve: (element: HTMLElement | null) => void;
 }
 
-export function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
+export const BriefCard = memo(function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
   const [showAnalysis, setShowAnalysis] = useState(false);
   const [copied, setCopied] = useState(false);
   const cardRef = useRef<HTMLDivElement>(null);
@@ -63,9 +63,11 @@ export function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
       >
         {/* Header Image */}
         <div className="relative h-32 shrink-0 overflow-hidden">
-          <div
-            className="absolute inset-0 bg-obsidian-800 bg-cover bg-center scale-105"
-            style={{ backgroundImage: `url(${story.imageUrl})` }}
+          <img
+            src={story.imageUrl}
+            alt=""
+            loading="lazy"
+            className="absolute inset-0 w-full h-full object-cover scale-105 bg-obsidian-800"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-obsidian-950 via-obsidian-950/50 to-transparent" />
 
@@ -174,4 +176,4 @@ export function BriefCard({ story, isActive, onObserve }: BriefCardProps) {
       </div>
     </div>
   );
-}
+});
