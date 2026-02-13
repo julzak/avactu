@@ -1,158 +1,164 @@
 {
-  "date": "2026-02-12T06:20:35.385Z",
+  "date": "2026-02-13T06:18:29.928Z",
   "stories": [
     {
-      "id": "2026-02-12-01",
-      "category": "economie",
-      "title": "Le Bitcoin chute depuis novembre : crise passagère ou fin d'époque",
-      "imageUrl": "https://s.rfi.fr/media/display/ffad6b92-1549-11ea-8991-005056a99247/w:1024/p:16x9/2d930c53bd3a5e6fda27462e04f239568105ba87.jpg",
+      "id": "2026-02-13-01",
+      "category": "geopolitique",
+      "title": "Marco Rubio mène la délégation américaine à Munich",
+      "imageUrl": "https://s.france24.com/media/display/b8eaedf0-088c-11f1-926f-005056a90284/w:1024/p:16x9/AP26043830930295.jpg",
       "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Paris, France"
+        "lat": 48.1351,
+        "lng": 11.582,
+        "name": "Munich, Allemagne"
       },
       "bullets": [
-        "Le Bitcoin s'effondre depuis novembre après des records été 2025",
-        "La chute suit une période de croissance exceptionnelle juillet-octobre",
-        "Les banques traditionnelles restent prudentes face aux cryptoactifs",
-        "Les néobanques et établissements en ligne étoffent leurs offres",
-        "Un cadre réglementaire plus favorable ne rassure pas tous"
+        "Le secrétaire d'État Marco Rubio conduit la délégation américaine",
+        "La Conférence de Munich s'ouvre après le discours hostile de Vance",
+        "Washington maintient sa pression malgré un ton moins conflictuel",
+        "Les Européens restent prudents face aux nouvelles positions américaines",
+        "L'avenir des relations transatlantiques en question après la rupture"
       ],
-      "execSummary": "Le Bitcoin connaît une chute spectaculaire depuis novembre 2025, après avoir atteint des niveaux records entre juillet et octobre de la même année. Cette dégringolade interroge sur la pérennité de la confiance accordée aux cryptomonnaies par les investisseurs et le grand public. Selon RFI, cette situation soulève la question d'un simple doute passager des investisseurs ou d'une perte de confiance plus globale dans l'écosystème des cryptomonnaies. Les partisans des cryptomonnaies y voient une correction temporaire normale après une période de forte croissance, rappelant que le Bitcoin a déjà traversé plusieurs cycles de hausse et de baisse depuis sa création. Ils mettent en avant l'amélioration du cadre réglementaire et l'intérêt croissant des institutions financières comme signes de maturation du secteur. Pour les sceptiques, cette chute confirme la volatilité excessive et l'instabilité fondamentale des cryptoactifs en tant qu'instruments d'investissement fiables. Selon Le Monde, les banques historiques maintiennent leur prudence face à ces produits, préférant observer plutôt que de s'engager massivement. Les enjeux sont considérables pour l'avenir du secteur financier numérique. Tandis que les néobanques et établissements en ligne continuent d'étoffer leur offre crypto, profitant d'un cadre réglementaire plus favorable, la question se pose de savoir si cette crise marquera un tournant décisif vers une adoption mainstream ou au contraire un retour de bâton durable affectant la confiance des investisseurs institutionnels et particuliers.",
+      "execSummary": "La Conférence de Munich sur la sécurité s'ouvre ce vendredi 13 février avec Marco Rubio à la tête de la délégation américaine. Cette grand-messe diplomatique rassemble une soixantaine de chefs d'État et de gouvernement, dont Volodymyr Zelensky et Friedrich Merz. L'événement intervient exactement un an après le discours d'une agressivité inédite du vice-président J.D. Vance contre les dirigeants européens, marquant une rupture décisive dans les relations transatlantiques.\n\nLa position américaine sous Trump reste ferme selon France 24 : Washington n'entend pas relâcher sa pression sur le continent européen, malgré un ton annoncé comme \"sensiblement moins conflictuel\" cette fois-ci. Les États-Unis maintiennent leur stratégie de remise en cause des alliances traditionnelles, comme l'illustrent les récentes déclarations sur le Groenland et la publication de leur nouvelle stratégie de sécurité.\n\nDu côté européen, la prudence domine selon les sources consultées. Les dirigeants européens \"seront sur le qui-vive\" d'après France 24, tandis que Courrier International souligne que \"l'état des relations transatlantiques sera particulièrement scruté\". Cette méfiance s'explique par l'incertitude persistante quant aux intentions réelles de l'administration Trump envers ses alliés européens.\n\nCette conférence survient alors que l'Europe cherche à définir son avenir \"postaméricain\" selon Courrier International. Les enjeux sont considérables : préservation des liens de défense, maintien de la coopération économique, et redéfinition du rôle de l'OTAN. La rencontre de Munich pourrait déterminer si les relations transatlantiques peuvent encore être sauvées ou si l'Europe doit définitivement s'orienter vers une autonomie stratégique renforcée.",
       "sources": [
+        "France 24",
         "RFI",
+        "Le Monde - International",
+        "Courrier International",
         "Le Monde - Économie",
+        "BBC World"
+      ],
+      "publishedAt": "2026-02-13T06:10:31.000Z"
+    },
+    {
+      "id": "2026-02-13-02",
+      "category": "geopolitique",
+      "title": "L'OTAN se réorganise : la France préserve ses postes",
+      "imageUrl": "https://img.lemde.fr/2026/01/19/0/0/8122/5415/1440/960/60/0/4374f4a_ftp-1-00ka84oau1wh-7380d30b2f374904a3047fe26bf60926-0-313cf45555804d2ea008866d3c153b00.jpg",
+      "location": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "Bruxelles, Belgique"
+      },
+      "bullets": [
+        "L'OTAN acte sa réorganisation le 6 février 2026",
+        "La France maintient ses positions actuelles sans gain d'influence",
+        "L'Allemagne vise le poste de président du comité militaire",
+        "Paris espérait peser davantage dans l'Alliance atlantique",
+        "La redistribution des pouvoirs stratégiques favorise Berlin"
+      ],
+      "execSummary": "L'OTAN a officialisé le 6 février 2026 une réorganisation de sa structure de commandement, processus qui redistribue les responsabilités et les postes clés au sein de l'Alliance atlantique. Cette restructuration intervient dans un contexte de tensions géopolitiques accrues et de redéfinition des équilibres de pouvoir entre les membres européens de l'organisation. La France conserve ses positions actuelles au sein de l'OTAN, évitant ainsi une marginalisation redoutée par Paris. Cependant, contrairement aux espoirs français, cette réorganisation ne permet pas à la France d'accroître son influence au sein de l'Alliance. Les autorités françaises avaient misé sur cette restructuration pour renforcer leur poids stratégique dans les décisions de l'organisation, particulièrement face aux défis sécuritaires européens. L'Allemagne profite de cette réorganisation pour renforcer sa position, avec un candidat déjà désigné pour briguer le poste stratégique de président du comité militaire : l'actuel chef d'état-major de la Bundeswehr. Cette ambition allemande illustre la volonté de Berlin d'assumer un rôle militaire plus important au sein de l'Alliance, en cohérence avec sa montée en puissance défensive depuis 2022. Cette redistribution des responsabilités révèle les nouveaux équilibres géopolitiques européens au sein de l'OTAN. Si la France maintient son rang, l'Allemagne consolide son ascension comme puissance militaire européenne de premier plan. Cette évolution pourrait redéfinir les rapports de force franco-allemands dans la défense européenne et questionner l'architecture traditionnelle du leadership occidental au sein de l'Alliance.",
+      "sources": [
         "Le Monde - International",
-        "Courrier International",
         "France 24",
-        "BBC World"
-      ],
-      "publishedAt": "2026-02-12T06:07:00.000Z"
-    },
-    {
-      "id": "2026-02-12-02",
-      "category": "geopolitique",
-      "title": "Trump annule vingt ans d'efforts pour limiter les émissions",
-      "imageUrl": "https://focus.courrierinternational.com/2023/02/15/0/124/1804/1203/1200/630/60/0/f787471_1676471103560-climatique.png",
-      "location": {
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "name": "Washington D.C., États-Unis"
-      },
-      "bullets": [
-        "Trump annule les politiques climatiques américaines des vingt dernières années",
-        "Les nouvelles mesures visent à relancer l'industrie énergétique fossile",
-        "L'administration justifie par la compétitivité économique et l'indépendance énergétique",
-        "Les opposants dénoncent un recul majeur dans la lutte climatique",
-        "Les conséquences touchent les accords internationaux et l'économie verte"
-      ],
-      "execSummary": "L'administration Trump a officiellement annulé les principales politiques climatiques américaines mises en place au cours des vingt dernières années, selon Courrier International. Ces mesures touchent les réglementations sur les émissions de carbone, les standards environnementaux pour l'industrie et les engagements pris dans le cadre des accords climatiques internationaux. L'ampleur de ces annulations marque un tournant radical dans la politique environnementale américaine, affectant des décennies d'efforts bipartites pour réduire l'empreinte carbone du pays. L'administration Trump défend ces décisions en invoquant la nécessité de relancer l'économie américaine et de renforcer l'indépendance énergétique du pays. Les responsables gouvernementaux argumentent que les réglementations climatiques précédentes entravaient la compétitivité des entreprises américaines face à leurs concurrents internationaux et pénalisaient les secteurs traditionnels de l'énergie. Cette approche vise à privilégier la croissance économique immédiate et la création d'emplois dans les industries fossiles, présentées comme essentielles à la prospérité nationale. Les critiques, incluant des scientifiques et des responsables politiques démocrates, dénoncent un recul historique dans la lutte contre le changement climatique. Ils soulignent que ces mesures compromettent les engagements internationaux des États-Unis et risquent d'affaiblir la position américaine dans les négociations climatiques mondiales. L'impact économique divise : si certains secteurs traditionnels pourraient bénéficier de ces assouplissements, l'industrie des énergies renouvelables et les investissements verts risquent d'être fragilisés, potentiellement au détriment de la compétitivité technologique future du pays.",
-      "sources": [
-        "Courrier International",
-        "BBC World"
-      ],
-      "publishedAt": "2026-02-12T06:00:09.000Z"
-    },
-    {
-      "id": "2026-02-12-03",
-      "category": "geopolitique",
-      "title": "Ramaphosa et Poutine évoquent l'enrôlement de Sud-Africains",
-      "imageUrl": "https://s.rfi.fr/media/display/815ff6c2-07d4-11f1-97d6-005056bf30b7/w:1024/p:16x9/AP24296463378010.jpg",
-      "location": {
-        "lat": -25.7479,
-        "lng": 28.2293,
-        "name": "Pretoria, Afrique du Sud"
-      },
-      "bullets": [
-        "Ramaphosa s'entretient avec Poutine sur les combattants sud-africains en Ukraine",
-        "Des ressortissants sud-africains enrôlés dans les forces russes au front",
-        "L'Afrique du Sud maintient une position prudente envers la Russie",
-        "Plusieurs pays africains critiquent ouvertement le pouvoir russe actuellement",
-        "La question soulève des enjeux diplomatiques pour Pretoria"
-      ],
-      "execSummary": "Le président sud-africain Cyril Ramaphosa s'est entretenu par téléphone le 10 février avec Vladimir Poutine, abordant notamment la situation des ressortissants sud-africains enrôlés dans les forces armées russes et déployés sur le front ukrainien. Cette conversation intervient dans un contexte où des citoyens de plusieurs pays africains se retrouvent engagés militairement aux côtés de la Russie dans le conflit ukrainien. Du côté sud-africain, Ramaphosa justifie cette démarche diplomatique par la nécessité de protéger les intérêts de ses ressortissants et de maintenir des canaux de dialogue avec Moscou. Pretoria adopte une approche prudente, cherchant à préserver ses relations avec la Russie tout en évitant une escalade diplomatique qui pourrait compromettre sa position de neutralité relative dans le conflit ukrainien. À l'inverse, plusieurs autres pays africains ont adopté une position plus critique envers les actions russes, critiquant ouvertement le pouvoir de Poutine et remettant en question l'enrôlement de leurs citoyens dans ce conflit. Cette divergence d'approches révèle les divisions croissantes au sein du continent africain concernant la guerre en Ukraine. Cette situation soulève des enjeux diplomatiques complexes pour l'Afrique du Sud, qui doit naviguer entre ses relations historiques avec la Russie et les pressions internationales croissantes. L'enrôlement de citoyens africains dans les forces russes pourrait également avoir des répercussions sur les relations de Pretoria avec ses partenaires occidentaux et africains, testant sa capacité à maintenir sa politique de non-alignement.",
-      "sources": [
         "RFI",
-        "Le Monde - International",
-        "France 24",
-        "Courrier International",
-        "BBC World"
-      ],
-      "publishedAt": "2026-02-12T05:47:58.000Z"
-    },
-    {
-      "id": "2026-02-12-04",
-      "category": "geopolitique",
-      "title": "Fusillade meurtrière à Tumbler Ridge : 8 morts au Canada",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d1cf/live/5f7a6700-0788-11f1-b2b9-0593a020cf50.jpg",
-      "location": {
-        "lat": 55.1297,
-        "lng": -120.9961,
-        "name": "Tumbler Ridge, Canada"
-      },
-      "bullets": [
-        "Un jeune de 18 ans identifié comme suspect principal",
-        "Huit morts dans une école et domicile voisin",
-        "Six victimes à l'école, deux au domicile proche",
-        "Vingt-cinq blessés lors de la fusillade scolaire",
-        "Communauté rurale de l'ouest canadien sous le choc"
-      ],
-      "execSummary": "Une fusillade meurtrière a frappé Tumbler Ridge, communauté rurale de l'ouest du Canada, faisant huit morts et au moins 25 blessés selon la police. Les tirs ont eu lieu dans une école où six personnes ont été tuées, tandis que deux autres victimes ont été découvertes dans un domicile voisin. Les autorités ont identifié un suspect âgé de 18 ans en lien avec cette tragédie qui a secoué cette petite localité canadienne. L'enquête policière se concentre sur les circonstances ayant mené à ce drame et les liens entre les différents lieux ciblés. Les services d'urgence ont pris en charge les nombreux blessés tandis que la communauté locale tente de comprendre les motivations de cet acte violent. Cette fusillade s'inscrit dans une série d'incidents similaires touchant les établissements scolaires nord-américains, soulevant une fois de plus les questions de sécurité dans les écoles. Les autorités canadiennes devront examiner les protocoles de sécurité existants et l'accès aux armes à feu, particulièrement dans les zones rurales où les contrôles peuvent être moins stricts. Cette tragédie aura des répercussions durables sur cette communauté isolée et relance le débat national sur la prévention de la violence armée dans les institutions éducatives.",
-      "sources": [
-        "BBC World",
         "Le Monde - Économie"
       ],
-      "publishedAt": "2026-02-12T05:24:47.000Z"
+      "publishedAt": "2026-02-13T06:00:06.000Z"
     },
     {
-      "id": "2026-02-12-05",
+      "id": "2026-02-13-03",
       "category": "geopolitique",
-      "title": "Trump privilégie le dialogue avec l'Iran face aux pressions",
-      "imageUrl": "https://focus.courrierinternational.com/2026/02/11/0/15/5259/3506/1200/630/60/0/e4f55f1_ftp-1-6x7qmotpzn6x-2026-02-11t085745z-183491530-rc2kjjad3b7r-rtrmadp-3-iran-crisis-protest.JPG",
+      "title": "Sophie Adenot décolle vers l'ISS avec la mission Crew-12",
+      "imageUrl": "https://s.france24.com/media/display/eeb30f60-0820-11f1-8139-005056a97e36/w:1024/p:16x9/AP26042627835788.jpg",
       "location": {
-        "lat": 38.8951,
-        "lng": -77.0364,
-        "name": "Washington D.C., États-Unis"
+        "lat": 28.5721,
+        "lng": -80.648,
+        "name": "Cap Canaveral, Floride"
       },
       "bullets": [
-        "Trump reçoit Netanyahu à la Maison-Blanche pour discuter de l'Iran",
-        "Les pourparlers américano-iraniens reprennent après la guerre de juin",
-        "Trump maintient sa préférence pour les négociations diplomatiques continues",
-        "Netanyahu pousse pour une pression maximale sur le programme nucléaire",
-        "L'Iran rejette les demandes excessives mais accepte les vérifications"
+        "L'astronaute française Sophie Adenot décolle vers l'ISS vendredi",
+        "Deux reports de dernière minute avant le lancement",
+        "La France célèbre cette première mission française depuis longtemps",
+        "L'équipage de Crew-12 comprend quatre astronautes internationaux",
+        "Enjeu de prestige spatial européen face aux programmes américains"
       ],
-      "execSummary": "Donald Trump a reçu Benyamin Netanyahu à la Maison-Blanche mercredi 11 février pour une rencontre à huis clos centrée sur la stratégie américaine face à l'Iran. Selon Courrier International, RFI et BBC World, aucun accord définitif n'a été annoncé, mais les divergences entre les deux dirigeants sont apparues clairement. En parallèle, les États-Unis et l'Iran ont repris leurs pourparlers à Oman la semaine dernière, marquant le premier dialogue direct depuis la guerre de juin dernier. Trump défend une approche diplomatique privilégiant la poursuite des négociations avec Téhéran sur le dossier nucléaire. Le président américain a indiqué que \"rien de définitif\" n'avait été convenu lors de la rencontre, réaffirmant sa volonté de maintenir le canal diplomatique ouvert malgré les tensions régionales. Netanyahu prône une stratégie opposée en poussant pour une \"pression maximale\" sur l'Iran afin de contraindre Téhéran à abandonner ses programmes nucléaire et balistique. Selon France 24, le Premier ministre israélien cherche à convaincre son allié américain d'adopter une ligne plus dure, estimant que seule une approche coercitive peut faire céder le régime iranien. Cette divergence stratégique illustre les tensions au sein de l'alliance américano-israélienne sur la gestion du dossier iranien. L'Iran de son côté maintient une position ferme : le président Pezeshkian a déclaré que son pays ne \"cédera pas aux demandes excessives\" tout en se montrant ouvert à \"toute vérification\" de son programme nucléaire. Cette crise révèle les enjeux stratégiques majeurs au Moyen-Orient, où l'équilibre régional dépend largement de l'issue des négociations sur le nucléaire iranien et de la capacité américaine à concilier ses relations avec Israël et ses objectifs diplomatiques avec Téhéran.",
+      "execSummary": "Sophie Adenot, astronaute française, s'apprête à décoller vendredi 13 février 2026 vers la Station spatiale internationale (ISS) dans le cadre de la mission Crew-12 de SpaceX, depuis Cap Canaveral en Floride. Après des mois de préparation intensive et deux reports de dernière minute, elle sera accompagnée de trois autres astronautes internationaux pour rejoindre la station orbitale. Pour la France, cette mission représente un moment historique et un symbole de renaissance de sa présence dans l'espace habité. L'Agence spatiale européenne et les autorités françaises mettent en avant cette mission comme la démonstration du savoir-faire européen et de la capacité française à participer aux grands programmes spatiaux internationaux, soulignant l'importance de maintenir l'Europe dans la course spatiale mondiale. Du côté technique et opérationnel, les équipes de SpaceX et de la NASA présentent cette mission comme une routine désormais bien maîtrisée, avec des procédures rodées depuis les précédentes missions Crew. Les responsables américains soulignent la collaboration internationale réussie et la fiabilité des systèmes Dragon pour le transport d'équipages, considérant cette mission comme une nouvelle étape dans la normalisation des vols habités commerciaux. Les enjeux dépassent le cadre purement scientifique, cette mission s'inscrivant dans un contexte de compétition spatiale renouvelée entre grandes puissances. Elle permet à l'Europe de maintenir sa crédibilité dans le secteur spatial habité face à la montée en puissance de la Chine et aux ambitions privées américaines, tout en préparant les futures missions lunaires et martiennes où la coopération internationale sera déterminante.",
       "sources": [
-        "Courrier International",
+        "France 24",
+        "Le Monde - International",
+        "Le Monde - Économie",
         "RFI",
-        "BBC World",
-        "France 24"
+        "Courrier International",
+        "BBC World"
       ],
-      "publishedAt": "2026-02-12T05:02:16.000Z"
+      "publishedAt": "2026-02-13T05:52:22.000Z"
     },
     {
-      "id": "2026-02-12-06",
+      "id": "2026-02-13-04",
       "category": "geopolitique",
-      "title": "L'OTAN lance la mission Sentinelle arctique après la crise",
-      "imageUrl": "https://img.lemde.fr/2026/02/11/1/0/5900/3933/1440/960/60/0/9c7e90a_ftp-1-dynav8wdbhuh-2026-02-11t144019z-1188910905-rc2qjjaejt2h-rtrmadp-3-nato-defence.JPG",
+      "title": "L'Ukraine identifie les soldats morts restitués par la Russie",
+      "imageUrl": "https://img.lemde.fr/2026/02/13/0/0/5455/3637/1440/960/60/0/562dd30_upload-1-zzqslgxdjzb2-forensics-odesa-editorial-001.jpg",
       "location": {
-        "lat": 72,
-        "lng": -40,
-        "name": "Groenland"
+        "lat": 46.4825,
+        "lng": 30.7233,
+        "name": "Odessa, Ukraine"
       },
       "bullets": [
-        "L'OTAN annonce la mission Sentinelle arctique dans le Grand Nord",
-        "Réaction aux tensions russes et menaces de Trump sur le Groenland",
-        "Les ministres de la défense se réunissent à Bruxelles jeudi",
-        "Washington évoque un transfert de responsabilités aux alliés européens",
-        "Renforcement stratégique occidental face aux ambitions russes dans l'Arctique"
+        "L'Ukraine identifie 2 300 corps de soldats restitués par la Russie",
+        "Accord d'échange de corps signé entre les belligérants en juin 2025",
+        "La France engage le dialogue diplomatique avec Moscou et Minsk",
+        "Les analystes révèlent le recrutement de combattants africains par la Russie",
+        "L'identification ADN reste complexe malgré les accords d'échange humanitaire"
       ],
-      "execSummary": "L'Alliance atlantique a annoncé mercredi 11 février le lancement de la mission « Sentinelle arctique » dans l'Arctique, selon RFI, tandis que Le Monde précise que les ministres de la défense se réunissent jeudi 12 février à Bruxelles pour finaliser cette nouvelle activité de défense. Cette décision intervient après avoir « difficilement surmonté la crise groenlandaise » selon Le Monde, faisant référence aux récentes tensions diplomatiques dans la région.\n\nDu côté occidental, cette mission répond à une logique de renforcement stratégique face aux défis sécuritaires dans le Grand Nord. RFI souligne que l'initiative vise à muscler la présence de l'OTAN dans une région stratégique, tandis que Le Monde révèle que Washington envisage un « transfert de responsabilité » en matière de défense vers ses alliés européens, suggérant une redistribution des rôles au sein de l'Alliance.\n\nLes deux sources s'accordent sur le contexte tendu qui motive cette initiative : RFI évoque explicitement les « tensions avec la Russie » et les « menaces de Donald Trump sur le Groenland », tandis que Le Monde fait référence à la « crise groenlandaise » récemment surmontée. Ces éléments révèlent un climat géopolitique dégradé autour du territoire autonome danois.\n\nCette nouvelle mission arctique illustre la montée des enjeux stratégiques dans le Grand Nord, région riche en ressources et aux routes commerciales émergentes. L'initiative témoigne de la volonté occidentale de contrer l'influence russe croissante dans l'Arctique, tout en redéfinissant les responsabilités de défense entre les États-Unis et leurs alliés européens dans un contexte post-crise diplomatique.",
+      "execSummary": "À Odessa, 2 300 corps de soldats ukrainiens morts au front attendent leur identification dans des wagons réfrigérés. Ces dépouilles ont été restituées par la Russie en vertu d'un accord d'échange signé entre les belligérants en juin 2025. Les centres médico-légaux ukrainiens utilisent l'analyse ADN pour redonner une identité à ces combattants tombés sur le champ de bataille.\n\nLa France justifie son engagement diplomatique récent avec Moscou et Minsk par la nécessité de maintenir des canaux de dialogue. Le conseiller d'Emmanuel Macron, Emmanuel Bonne, s'est rendu à Moscou le 3 février, suivi d'une visite d'un haut responsable du Quai d'Orsay en Biélorussie les 5 et 6 février. Paris présente ces contacts comme essentiels pour explorer les voies de résolution du conflit.\n\nLa Biélorussie et les enquêteurs internationaux dénoncent différents aspects du conflit. Minsk souligne que la visite française s'est déroulée \"à l'invitation de la partie biélorusse\". Parallèlement, le collectif All Eyes On Wagner révèle l'existence de réseaux de recrutement de combattants africains envoyés sur le front ukrainien aux côtés de l'armée russe, qualifiant ce système de \"mécanique bien rodée et implacable\".\n\nCes développements illustrent la complexité humanitaire et diplomatique du conflit. L'identification des soldats morts soulève des enjeux familiaux cruciaux pour les proches, tandis que les initiatives diplomatiques françaises interrogent sur l'évolution des stratégies occidentales. Le recrutement de mercenaires africains révèle l'internationalisation croissante du conflit et ses implications géopolitiques élargies.",
       "sources": [
         "Le Monde - International",
-        "RFI"
+        "France 24",
+        "RFI",
+        "Courrier International"
       ],
-      "publishedAt": "2026-02-12T05:00:35.000Z"
+      "publishedAt": "2026-02-13T05:00:46.000Z"
+    },
+    {
+      "id": "2026-02-13-05",
+      "category": "geopolitique",
+      "title": "L'Arabie saoudite ouvre une école de danse à Al-Ula",
+      "imageUrl": "https://img.lemde.fr/2026/02/12/0/18/9492/6328/1440/960/60/0/92f6898_upload-1-srjpvyehnfwn-vertigo-alula-art-festival-hd-l1000411.jpg",
+      "location": {
+        "lat": 26.6094,
+        "lng": 37.9267,
+        "name": "Al-Ula, Arabie saoudite"
+      },
+      "bullets": [
+        "Une école de danse ouvre à Al-Ula en Arabie saoudite",
+        "Initiative portée par la Villa Hegra pour les enfants",
+        "Le royaume diversifie son offre culturelle et artistique",
+        "Ouverture progressive aux arts performatifs dans la ville",
+        "Transformation culturelle dans le cadre de Vision 2030"
+      ],
+      "execSummary": "L'Arabie saoudite inaugure une nouvelle école de danse dans la ville d'Al-Ula, sous l'égide de la Villa Hegra qui multiplie les projets destinés aux enfants. Cette initiative s'inscrit dans l'ouverture progressive de la ville aux arts performatifs, marquant une évolution culturelle notable dans le royaume. Selon Le Monde, l'établissement vise à attirer de jeunes élèves dans une région qui développe son secteur culturel et touristique. Les autorités saoudiennes présentent cette ouverture comme une modernisation nécessaire de leur société, s'alignant sur les objectifs du programme Vision 2030 qui vise à diversifier l'économie et à promouvoir les arts. Cette transformation culturelle fait partie d'une stratégie plus large de développement du secteur du divertissement et du tourisme, avec Al-Ula positionnée comme destination phare. Bien que l'initiative soit présentée positivement par les médias locaux, elle soulève des questions sur l'équilibre entre modernisation et traditions conservatrices dans le royaume. L'enjeu économique est considérable : le développement culturel d'Al-Ula s'inscrit dans la volonté de créer de nouveaux secteurs d'activité et d'attirer les investissements internationaux, tout en préservant le patrimoine historique de la région inscrite au patrimoine mondial de l'UNESCO.",
+      "sources": [
+        "Le Monde - International",
+        "RFI",
+        "BBC World",
+        "Courrier International",
+        "Le Monde - Économie"
+      ],
+      "publishedAt": "2026-02-13T05:00:18.000Z"
+    },
+    {
+      "id": "2026-02-13-06",
+      "category": "politique",
+      "title": "Joann Sfar publie « Terre de sang » sur la Palestine",
+      "imageUrl": "https://img.lemde.fr/2026/02/10/302/0/571/380/1440/960/60/0/b28183b_upload-1-ecc5vt25f7uy-terre-de-sang-p321.jpg",
+      "location": {
+        "lat": 31.9466,
+        "lng": 35.3027,
+        "name": "Cisjordanie"
+      },
+      "bullets": [
+        "Le bédéiste Joann Sfar publie un album sur la Palestine",
+        "L'œuvre témoigne de rencontres en Cisjordanie au printemps 2025",
+        "Sfar adopte une approche pessimiste sans illusions politiques",
+        "L'album documente les témoignages de Palestiniens locaux",
+        "Une œuvre qui questionne les perspectives de paix"
+      ],
+      "execSummary": "Le bédéiste français Joann Sfar publie « Terre de sang », un nouvel album qui documente ses rencontres avec des Palestiniens de Cisjordanie au printemps 2025. Cette bande dessinée s'inscrit dans la tradition du reportage graphique, témoignant d'une réalité complexe sur le terrain palestinien. L'auteur présente son travail comme un témoignage direct des voix palestiniennes qu'il a rencontrées lors de son séjour en Cisjordanie. Sfar revendique une approche documentaire, cherchant à retranscrire fidèlement les récits et expériences des habitants qu'il a côtoyés. Son objectif affiché est de donner la parole à ceux qui vivent quotidiennement la situation palestinienne. L'approche de Sfar est qualifiée de pessimiste et dénuée d'illusions concernant les perspectives de résolution du conflit. L'auteur ne propose pas de solutions politiques et assume une vision sombre de la situation, reflétant probablement les témoignages recueillis sur place. Cette posture contraste avec des œuvres plus militantes ou optimistes sur le sujet. L'album s'inscrit dans un contexte géopolitique tendu où la documentation artistique du conflit israélo-palestinien reste un enjeu sensible. Cette publication enrichit le corpus des œuvres graphiques traitant de cette région, offrant une perspective française sur une réalité palestinienne souvent méconnue du grand public européen.",
+      "sources": [
+        "Le Monde - International",
+        "Le Monde - Économie"
+      ],
+      "publishedAt": "2026-02-13T05:00:11.000Z"
     }
   ]
 }
