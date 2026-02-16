@@ -62,13 +62,13 @@ export const MiniMap = memo(function MiniMap({ location, category }: MiniMapProp
           className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-white/40 ring-2 ring-black/40 shadow-lg shadow-black/50 hover:border-white/60 transition-colors bg-slate-800"
           style={{ boxShadow: `${markerGlow}, 0 4px 12px rgba(0, 0, 0, 0.5)` }}
         >
-          {/* Marker dot */}
+          {/* Marker dot – always centered in the mini circle */}
           <span
             className="absolute w-3 h-3 rounded-full animate-pulse"
             style={{
               backgroundColor: markerColor,
-              left: `${x}%`,
-              top: `${y}%`,
+              left: '50%',
+              top: '50%',
               transform: 'translate(-50%, -50%)',
               boxShadow: `0 0 8px ${markerColor}`,
             }}
