@@ -62,6 +62,15 @@ export const MiniMap = memo(function MiniMap({ location, category }: MiniMapProp
           className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-white/40 ring-2 ring-black/40 shadow-lg shadow-black/50 hover:border-white/60 transition-colors bg-slate-800"
           style={{ boxShadow: `${markerGlow}, 0 4px 12px rgba(0, 0, 0, 0.5)` }}
         >
+          <img
+            src="/world-map.png"
+            alt=""
+            className="absolute w-[200%] h-[200%] object-cover"
+            style={{
+              left: `${50 - x}%`,
+              top: `${50 - y}%`,
+            }}
+          />
           {/* Marker dot – always centered in the mini circle */}
           <span
             className="absolute w-3 h-3 rounded-full animate-pulse"
@@ -99,6 +108,11 @@ export const MiniMap = memo(function MiniMap({ location, category }: MiniMapProp
         >
           {/* Static map area */}
           <div className="relative h-[220px] bg-slate-800">
+            <img
+              src="/world-map.png"
+              alt=""
+              className="absolute inset-0 w-full h-full object-cover"
+            />
             {/* Marker */}
             <span
               className="absolute rounded-full"

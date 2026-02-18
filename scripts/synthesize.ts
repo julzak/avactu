@@ -187,10 +187,15 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     // Get all unique sources
     const allSources = [...new Set(cluster.articles.map((a) => a.source))];
 
-    // Find best image (prefer articles with images)
-    const articleWithImage = cluster.articles.find((a) => a.imageUrl);
+    // Find best image: prefer most recent article with an image
+    const articlesWithImage = cluster.articles
+      .filter((a) => a.imageUrl)
+      .sort(
+        (a, b) =>
+          new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
+      );
     const imageUrl =
-      articleWithImage?.imageUrl ||
+      articlesWithImage[0]?.imageUrl ||
       'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
 
     // Get most recent publishedAt
