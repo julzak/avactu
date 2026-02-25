@@ -12,6 +12,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { isValidEditorialImage } from './image-validation.js';
 
 // ES Module __dirname equivalent
 const __filename = fileURLToPath(import.meta.url);
@@ -187,15 +188,24 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     // Get all unique sources
     const allSources = [...new Set(cluster.articles.map((a) => a.source))];
 
-    // Find best image: prefer most recent article with an image
-    const articlesWithImage = cluster.articles
-      .filter((a) => a.imageUrl)
+    // Find best image: prefer most recent article with a valid editorial image
+    // Filter out logos, placeholders, and generic images
+    const articlesWithValidImage = cluster.articles
+      .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl))
       .sort(
         (a, b) =>
           new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
       );
+
+    if (articlesWithValidImage.length === 0) {
+      const rejectedImages = cluster.articles.filter((a) => a.imageUrl && !isValidEditorialImage(a.imageUrl));
+      if (rejectedImages.length > 0) {
+        console.warn(`   ⚠ ${rejectedImages.length} image(s) rejetée(s) (logo/placeholder) — fallback Unsplash`);
+      }
+    }
+
     const imageUrl =
-      articlesWithImage[0]?.imageUrl ||
+      articlesWithValidImage[0]?.imageUrl ||
       'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
 
     // Get most recent publishedAt
