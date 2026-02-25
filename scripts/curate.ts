@@ -13,6 +13,7 @@ import metascraperDescription from 'metascraper-description';
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { isValidEditorialImage } from './image-validation.js';
 
 // ES Module __dirname equivalent
 const __filename = fileURLToPath(import.meta.url);
@@ -165,6 +166,12 @@ async function parseFeed(source: Source): Promise<RawArticle[]> {
       // Fetch og:image if no image found
       if (!imageUrl && url) {
         imageUrl = await fetchOgImage(url);
+      }
+
+      // Validate image: reject logos, placeholders, and generic images
+      if (imageUrl && !isValidEditorialImage(imageUrl)) {
+        console.warn(`   ⚠ Image rejetée (logo/placeholder): ${imageUrl}`);
+        imageUrl = null;
       }
 
       const article: RawArticle = {
