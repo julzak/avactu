@@ -1,135 +1,163 @@
 {
-  "date": "2026-03-06T06:04:26.086Z",
+  "date": "2026-03-07T05:57:31.702Z",
   "stories": [
     {
-      "id": "2026-03-06-01",
+      "id": "2026-03-07-01",
       "category": "geopolitique",
-      "title": "Les États-Unis et le Venezuela rétablissent leurs relations",
-      "imageUrl": "https://s.rfi.fr/media/display/178b6aea-ec8d-11f0-9cc3-005056bf30b7/w:1024/p:16x9/000-89YL79E.jpg",
+      "title": "La Russie frappe Kharkiv : quatre morts civils",
+      "imageUrl": "https://img.lemde.fr/2026/03/07/292/0/6036/3018/1440/720/60/0/414e883_ftp-1-7jw28tnvqzid-5391817-01-06.jpg",
       "location": {
-        "lat": 10.4806,
-        "lng": -66.9036,
-        "name": "Caracas, Venezuela"
+        "lat": 49.9935,
+        "lng": 36.2304,
+        "name": "Kharkiv, Ukraine"
       },
       "bullets": [
-        "Les États-Unis et le Venezuela annoncent le rétablissement diplomatique",
-        "Rupture des relations en 2019, reprise après capture Maduro",
-        "Washington évoque les perspectives minières et pétrolières vénézuéliennes",
-        "Caracas affirme sa volonté de dialogue constructif avec Washington",
-        "Enjeu énergétique crucial pour les approvisionnements américains régionaux"
+        "La Russie bombarde un immeuble résidentiel à Kharkiv",
+        "Quatre morts et dix blessés dont trois enfants",
+        "L'Ukraine dénonce les attaques contre les civils",
+        "La Russie poursuit sa campagne militaire en Ukraine",
+        "Les tensions hongro-ukrainiennes compliquent le soutien occidental"
       ],
-      "execSummary": "Le 5 mars 2026, les États-Unis et le Venezuela ont annoncé conjointement le rétablissement de leurs relations diplomatiques et consulaires, rompues en 2019. Cette décision intervient deux mois après la capture du président vénézuélien Nicolas Maduro, marquant un tournant majeur dans les relations entre Washington et Caracas. Le ministre de l'Intérieur américain Doug Burgum a conclu jeudi une visite à Caracas pour finaliser cet accord.\n\nDu côté américain, cette normalisation s'inscrit dans une logique pragmatique. Selon Le Monde et France 24, Doug Burgum s'est montré particulièrement confiant dans les perspectives minières et pétrolières du Venezuela, soulignant l'intérêt économique de ce rapprochement pour les États-Unis. Cette approche reflète la volonté de Washington de sécuriser ses approvisionnements énergétiques dans la région.\n\nPour le Venezuela, cette ouverture représente une opportunité de sortie d'isolement. Selon RFI, le ministère vénézuélien des Affaires étrangères a réaffirmé dans un communiqué « sa volonté d'avancer dans une nouvelle étape de dialogue constructif » avec Washington, suggérant une approche conciliatrice du nouveau pouvoir post-Maduro face à l'administration Trump.\n\nLes enjeux de ce rétablissement sont multiples. Sur le plan économique, le Venezuela possède les plus importantes réserves pétrolières mondiales, représentant un atout stratégique pour les États-Unis dans un contexte géopolitique tendu au Moyen-Orient. Cette normalisation pourrait également stabiliser la région caribéenne et offrir de nouvelles perspectives commerciales, tout en testant la capacité du nouveau régime vénézuélien à honorer ses engagements diplomatiques.",
+      "execSummary": "Une frappe russe a touché un immeuble résidentiel de cinq étages à Kharkiv le 7 mars, causant au moins quatre morts et dix blessés, dont trois mineurs selon le chef de l'administration militaire régionale Oleh Synehoubov. Une partie du bâtiment a été complètement détruite dans cette nouvelle attaque contre des infrastructures civiles ukrainiennes. L'Ukraine présente ces bombardements comme des crimes de guerre délibérés visant la population civile, s'inscrivant dans la stratégie russe de démoralisation. Kiev dénonce systématiquement ces attaques contre les zones résidentielles et appelle à un renforcement de l'aide militaire occidentale pour protéger ses villes. Parallèlement, l'Ukraine développe des robots armés pour moderniser ses capacités défensives face à l'offensive russe. De son côté, la Russie justifie ses opérations militaires comme nécessaires pour atteindre ses objectifs stratégiques en Ukraine. Moscou intensifie également son recrutement militaire, ciblant notamment les étudiants universitaires avec des contrats avantageux d'un an, révélant ses besoins croissants en effectifs pour soutenir l'effort de guerre prolongé. Cette escalade intervient dans un contexte de tensions diplomatiques, notamment entre l'Ukraine et la Hongrie après la détention temporaire d'employés bancaires ukrainiens accusés de blanchiment d'argent. Ces incidents révèlent les fissures au sein du soutien européen à Kiev, compliquant la coordination occidentale face à la guerre qui se prolonge et intensifie son impact sur les populations civiles ukrainiennes.",
       "sources": [
-        "RFI",
+        "Le Monde - International",
         "Le Monde - Économie",
         "Courrier International",
-        "Le Monde - International",
-        "France 24",
-        "BBC World"
+        "RFI",
+        "BBC World",
+        "France 24"
       ],
-      "publishedAt": "2026-03-06T05:46:03.000Z"
+      "publishedAt": "2026-03-07T05:30:10.000Z"
     },
     {
-      "id": "2026-03-06-02",
+      "id": "2026-03-07-02",
       "category": "geopolitique",
-      "title": "Israël frappe l'Iran et le Liban, escalade régionale",
-      "imageUrl": "https://img.lemde.fr/2026/03/05/279/0/6643/4428/1440/960/60/0/39d377e_upload-1-m0qbom8rc9ru-mg-2771a.JPG",
+      "title": "L'armée congolaise découvre des armes de Thomas Lubanga en Ituri",
+      "imageUrl": "https://s.rfi.fr/media/display/efc4d2ca-16db-11ec-93b7-005056a90284/w:1024/p:16x9/dr-congo-soldiers-patrol-1170x610.jpeg",
+      "location": {
+        "lat": 1.6732,
+        "lng": 30.8323,
+        "name": "Ituri, République démocratique du Congo"
+      },
+      "bullets": [
+        "L'armée congolaise découvre une cache d'armes à Noro, territoire de Djugu",
+        "Les armes appartiendraient à la milice de Thomas Lubanga, ancien chef de guerre",
+        "Lubanga, condamné par la CPI, a fait son retour dans la région",
+        "Les États-Unis sanctionnent parallèlement des responsables rwandais pour le M23",
+        "L'instabilité persiste dans l'est congolais malgré les cessez-le-feu"
+      ],
+      "execSummary": "L'armée congolaise a annoncé la découverte d'une importante cache d'armes dans la province de l'Ituri, à Noro dans le territoire de Djugu. Selon le porte-parole des opérations militaires, des dizaines de caisses de munitions, des armes automatiques AK-47 et des grenades ont été retrouvées. Ces armes appartiendraient à la milice de Thomas Lubanga, ancien chef de guerre de l'Ituri condamné par la Cour pénale internationale, qui a fait son retour dans la région il y a un an. Cette découverte s'inscrit dans les efforts de l'armée congolaise pour démanteler les groupes armés qui sèment l'instabilité dans l'est du pays. Les autorités militaires présentent cette saisie comme une opération réussie contre les milices locales, illustrant leur capacité à traquer les réseaux d'armement illégal et à neutraliser les anciens chefs de guerre qui tentent de reconstituer leurs forces dans la région. Parallèlement, cette découverte intervient dans un contexte où les États-Unis intensifient leur pression sur les acteurs régionaux, imposant des restrictions de visas à plusieurs hauts responsables rwandais accusés de soutenir la rébellion du M23. Washington dénonce le rôle déstabilisateur du Rwanda dans l'est congolais, tandis que Kigali conteste ces accusations. La situation illustre la complexité des enjeux sécuritaires dans l'est de la RDC, où se mêlent groupes armés locaux, ingérences régionales et rivalités géopolitiques. L'arrivée du nouveau chef de la Monusco, James Swan, témoigne de l'urgence de stabiliser cette région riche en ressources minières, où les conflits armés alimentent l'instabilité chronique et compromettent les efforts de paix régionaux.",
+      "sources": [
+        "RFI",
+        "Le Monde - International",
+        "Courrier International",
+        "BBC World",
+        "France 24",
+        "Le Monde - Économie"
+      ],
+      "publishedAt": "2026-03-07T05:17:29.000Z"
+    },
+    {
+      "id": "2026-03-07-03",
+      "category": "geopolitique",
+      "title": "Trump exige la reddition de l'Iran sans stratégie claire",
+      "imageUrl": "https://focus.courrierinternational.com/2026/03/07/0/0/4953/3302/1200/630/60/0/cc11966_ftp-1-d4ysex6nqe0p-2026-03-07t012950z-261061855-rc2azjamiemf-rtrmadp-3-usa-trump-law-firms-pix.JPG",
       "location": {
         "lat": 35.6892,
         "lng": 51.389,
         "name": "Téhéran, Iran"
       },
       "bullets": [
-        "Israël frappe massivement Téhéran et la banlieue sud de Beyrouth",
-        "Escalade après tensions croissantes avec l'Iran et le Hezbollah",
-        "Israël justifie viser les infrastructures du « régime terroriste iranien »",
-        "L'Iran et le Hezbollah promettent des représailles, ordonnent des évacuations",
-        "Risque d'extension régionale, impacts économiques sur les hydrocarbures"
+        "Trump réclame la « reddition inconditionnelle » de l'Iran au 7e jour",
+        "Israël bombarde Téhéran après des tirs de missiles iraniens",
+        "Les États-Unis veulent installer de nouveaux dirigeants iraniens",
+        "L'Iran riposte en ciblant l'Arabie saoudite et les infrastructures",
+        "Plus de 1000 morts, économie américaine fragilisée par le conflit"
       ],
-      "execSummary": "L'armée israélienne a lancé vendredi 6 mars des frappes « à grande échelle » sur Téhéran, visant selon elle les infrastructures du pouvoir iranien. Simultanément, Israël a ordonné l'évacuation massive de la banlieue sud de Beyrouth, bastion du Hezbollah peuplé de 700 000 habitants, créant un mouvement de panique. Plus de 30 000 personnes ont été déplacées au Liban. L'armée israélienne a également étendu sa zone de contrôle au sud du Liban.\n\nIsraël présente ces opérations comme une réponse nécessaire aux menaces du « régime terroriste iranien » et de ses proxys. L'armée israélienne affirme cibler spécifiquement les infrastructures militaires et les positions du Hezbollah. Le ministre Bezalel Smotrich a menacé que « la banlieue sud de Beyrouth ressemblera bientôt à Khan Younès », en référence à la destruction de cette ville de Gaza.\n\nL'Iran dénonce ces attaques et accuse Israël de chercher à déstabiliser la région. Le Hezbollah a répliqué en ordonnant l'évacuation des localités israéliennes situées à moins de cinq kilomètres de la frontière, dans un message calquant celui d'Israël. Téhéran impute également à Israël les frappes de drones sur l'Azerbaïdjan voisin, accusant l'État hébreu de vouloir « nuire aux bonnes relations » irano-azerbaïdjanaises.\n\nL'escalade fait craindre une régionalisation du conflit, avec des répercussions déjà visibles en Azerbaïdjan et en Irak. Les pays d'Asie du Sud-Est s'inquiètent pour leurs approvisionnements en hydrocarbures face aux perturbations potentielles. Emmanuel Macron a appelé Israël à ne pas « étendre la guerre au Liban » et annoncé l'envoi d'aide humanitaire.",
-      "sources": [
-        "Le Monde - International",
-        "BBC World",
-        "RFI",
-        "France 24",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-03-06T05:31:04.000Z"
-    },
-    {
-      "id": "2026-03-06-03",
-      "category": "economie",
-      "title": "La guerre au Moyen-Orient fragilise l'industrie européenne",
-      "imageUrl": "https://img.lemde.fr/2026/03/05/1/0/4299/2866/1440/960/60/0/160fbda_upload-1-wwe6sqtrfa1f-sipa-01257557-000004.jpg",
-      "location": {
-        "lat": 29.3117,
-        "lng": 47.4818,
-        "name": "Détroit d'Ormuz"
-      },
-      "bullets": [
-        "Les secteurs intensifs en énergie subissent la hausse du gaz",
-        "Plus de 1 100 navires affectés par les interférences GPS",
-        "La chimie et métallurgie européennes sous pression économique",
-        "Le détroit d'Ormuz perturbé compromet le commerce mondial",
-        "Les chaînes d'approvisionnement industrielles européennes menacées"
-      ],
-      "execSummary": "Le conflit au Moyen-Orient génère des répercussions majeures sur l'industrie européenne, particulièrement les secteurs intensifs en énergie comme la chimie, la métallurgie et la production d'engrais. Selon Le Monde, ces industries subissent directement la hausse des prix du gaz et les perturbations des échanges commerciaux. Parallèlement, France 24 rapporte que plus de 1 100 navires ont été affectés par des interférences GPS dans la région depuis le début du conflit, selon l'entreprise maritime Windward. Les industriels européens justifient leurs difficultés par l'explosion des coûts énergétiques et les disruptions logistiques qui rendent leurs productions moins compétitives face à la concurrence mondiale. Ces secteurs, déjà fragilisés par les crises précédentes, appellent à des mesures de soutien gouvernementales pour maintenir leur activité. Les experts maritimes soulignent que les interférences GPS dans le détroit d'Ormuz constituent un risque majeur pour la navigation et contribuent au blocage de cette voie commerciale cruciale. Ces perturbations technologiques s'ajoutent aux tensions géopolitiques pour créer un climat d'incertitude sur les approvisionnements énergétiques et les matières premières. L'enjeu dépasse le cadre industriel immédiat : la sécurisation des approvisionnements énergétiques européens et la préservation de la compétitivité industrielle face à une crise prolongée. La situation pourrait accélérer la transition vers des sources d'énergie alternatives et redéfinir les chaînes d'approvisionnement mondiales.",
-      "sources": [
-        "Le Monde - International",
-        "Le Monde - Économie",
-        "BBC World",
-        "France 24",
-        "RFI"
-      ],
-      "publishedAt": "2026-03-06T05:30:16.000Z"
-    },
-    {
-      "id": "2026-03-06-04",
-      "category": "geopolitique",
-      "title": "Le Soudan enregistre 51 morts dans les combats au Kordofan",
-      "imageUrl": "https://focus.courrierinternational.com/2026/03/05/0/0/5500/3666/1200/630/60/0/5e7fbfa_ftp-1-qtirlprpkilo-2026-03-05t192337z-1382262827-rc2rxjariujl-rtrmadp-3-usa-trump-migration-noem.JPG",
-      "location": {
-        "lat": 12.8628,
-        "lng": 30.2176,
-        "name": "Khartoum, Soudan"
-      },
-      "bullets": [
-        "Le Soudan enregistre 51 morts en 24h au Kordofan",
-        "L'armée régulière affronte les paramilitaires RSF depuis avril 2023",
-        "Les forces armées dénoncent les violations de trêve",
-        "Les RSF accusent l'armée de bombardements civils indiscriminés",
-        "Les armes sophistiquées prolongent le conflit selon la BBC"
-      ],
-      "execSummary": "Le conflit soudanais a fait 51 morts en vingt-quatre heures dans la région du Kordofan, selon Le Monde, illustrant l'escalade continue entre l'armée régulière et les Forces de soutien rapide (RSF) depuis avril 2023. Les appels internationaux à la trêve restent sans effet tandis que les deux camps s'équipent d'armes de plus en plus sophistiquées avec l'aide de leurs alliés respectifs. L'armée soudanaise justifie ses opérations comme une réponse légitime aux violations répétées des cessez-le-feu par les RSF et présente ses actions comme une défense de la souveraineté nationale. Les forces gouvernementales accusent les paramilitaires de cibler délibérément les infrastructures civiles et de violer systématiquement les accords de trêve négociés par les médiateurs internationaux. De leur côté, les RSF dénoncent les bombardements aériens de l'armée régulière qu'elles qualifient d'indiscriminés contre les populations civiles. Les paramilitaires affirment lutter contre un régime militaire illégitime et revendiquent leur rôle de protecteurs des communautés marginalisées du Soudan. L'approvisionnement continu en armements sophistiqués des deux camps, facilité par leurs alliés extérieurs respectifs, transforme ce conflit en guerre d'usure particulièrement meurtrière selon la BBC. Cette escalade militaire compromet les perspectives de négociation politique et aggrave la crise humanitaire dans un pays déjà fragilisé par des décennies d'instabilité chronique.",
+      "execSummary": "Au huitième jour de l'opération « Fureur épique », Donald Trump a exigé vendredi la « reddition inconditionnelle » de l'Iran, déclarant vouloir installer de nouveaux dirigeants « comme au Venezuela ». Israël a intensifié ses bombardements sur Téhéran samedi, ciblant notamment l'aéroport de la capitale après de nouveaux tirs de missiles iraniens. Plus de 1000 personnes ont été tuées dans la région depuis le début du conflit le 28 février, principalement en Iran et au Liban.\n\nL'administration américaine justifie cette escalade par la nécessité de démanteler « l'infrastructure du régime » iranien. La Maison Blanche a publié des vidéos spectaculaires mêlant vraies frappes et extraits de films d'action pour vanter ses succès militaires. Trump affirme s'impliquer dans le choix des futurs dirigeants iraniens et leur reconstruction future, évoquant une domination militaire « incontestable » des forces américano-israéliennes.\n\nL'Iran riposte en ciblant les infrastructures pétrolières saoudiennes et toute présence américaine dans la région. Téhéran cherche à élargir le conflit en frappant l'Arabie saoudite, tentant d'entraîner Riyad dans la guerre. La France maintient sa position de non-belligérance tout en déployant le porte-avions Charles de Gaulle en Méditerranée. Les alliés régionaux comme le Pakistan sont contraints à des équilibres diplomatiques complexes.\n\nÉconomiquement, les États-Unis montrent des signes de fragilité avec 92 000 emplois détruits en février et un chômage à 4,4%. L'économiste Thomas Piketty y voit un « aveu de faiblesse » américain, cette « agitation militaire » servant surtout à « renflouer l'économie ». L'absence d'objectifs clairs inquiète, Trump changeant « constamment » de stratégie depuis le début du conflit, soulevant des interrogations sur les suites de cette domination militaire.",
       "sources": [
         "Courrier International",
         "Le Monde - International",
+        "RFI",
+        "France 24",
         "BBC World"
       ],
-      "publishedAt": "2026-03-06T04:00:15.000Z"
+      "publishedAt": "2026-03-07T05:06:58.000Z"
     },
     {
-      "id": "2026-03-06-06",
-      "category": "geopolitique",
-      "title": "L'Azerbaïdjan accuse l'Iran de frappes sur son territoire",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/195f/live/85482130-18da-11f1-ac88-a3dfa1fd20ed.png",
+      "id": "2026-03-07-04",
+      "category": "politique",
+      "title": "L'écrivaine ukrainienne Sofia Andrukhovych présente son roman",
+      "imageUrl": "https://img.lemde.fr/2026/03/04/343/0/3640/2426/1440/960/60/0/7ecb1b2_upload-1-nn8vmn0ln3qt-l1000382.jpg",
       "location": {
-        "lat": 40.1431,
-        "lng": 47.5769,
-        "name": "Bakou, Azerbaïdjan"
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "Paris, France"
       },
       "bullets": [
-        "L'Azerbaïdjan dénonce des frappes de drones iraniens sur son territoire",
-        "Le président Aliyev place les forces armées en état d'alerte maximale",
-        "L'Iran mise sur l'endurance et la dissuasion face aux adversaires",
-        "Les États-Unis demandent l'aide de l'Ukraine contre les drones iraniens",
-        "Les stocks d'armes épuisés compliquent la gestion du conflit régional"
+        "Sofia Andrukhovych présente « Amadoca » à Paris depuis Kiev",
+        "Le roman traverse l'histoire ukrainienne du XXᵉ siècle à aujourd'hui",
+        "L'écrivaine vit toujours à Kiev malgré la guerre en cours",
+        "L'œuvre propose une réévaluation de l'histoire ukrainienne contemporaine",
+        "La littérature ukrainienne gagne en visibilité internationale"
       ],
-      "execSummary": "Le président azerbaïdjanais Ilham Aliyev a accusé l'Iran d'avoir mené des frappes de drones sur le territoire azerbaïdjanais, qualifiant ces attaques d'« acte de terrorisme ». En réaction, Bakou a placé ses forces armées en état d'alerte maximale, marquant une escalade significative des tensions régionales. Parallèlement, les États-Unis ont sollicité l'aide de l'Ukraine pour contrer la menace des drones iraniens, illustrant l'expansion géographique du conflit.\n\nDu côté azerbaïdjanais, les autorités justifient leur montée en puissance militaire par la nécessité de protéger leur souveraineté territoriale face aux « agressions » iraniennes. Le gouvernement de Bakou présente ces mesures défensives comme une réponse proportionnée à des attaques non provoquées, réclamant une condamnation internationale de ce qu'il considère comme du terrorisme d'État.\n\nL'Iran, selon les analyses, semble adopter une stratégie à long terme basée sur l'endurance et la dissuasion. Téhéran parie sur sa capacité à absorber les frappes plus longtemps que ses adversaires ne peuvent maintenir la pression militaire et économique. Cette approche reflète la conviction iranienne qu'elle peut survivre à un conflit d'usure grâce à ses ressources et à sa résistance historique.\n\nL'épuisement des stocks d'armes constitue un facteur critique pour tous les acteurs impliqués. Les analystes militaires soulignent que bien que les arsenaux ne déterminent pas à eux seuls l'issue du conflit, ils représentent un élément décisif. Cette contrainte logistique pourrait influencer les stratégies de chaque camp et la durée potentielle de l'escalade régionale.",
+      "execSummary": "L'écrivaine ukrainienne Sofia Andrukhovych effectue une visite à Paris pour présenter son roman « Amadoca », une œuvre qui retrace l'histoire de l'Ukraine du XXᵉ siècle jusqu'au début de la guerre actuelle. Malgré le conflit en cours, elle continue de vivre à Kiev avec sa famille, témoignant de la résistance culturelle ukrainienne. Son passage dans la capitale française s'inscrit dans une démarche de promotion de la littérature ukrainienne à l'international.\n\nPour Sofia Andrukhovych, cette période représente un moment crucial pour repenser l'histoire ukrainienne. Elle affirme qu'« il est temps de tout regarder et de tout réévaluer », suggérant une nécessité de réexaminer les récits historiques à la lumière des événements contemporains. Son roman « Amadoca » s'inscrit dans cette démarche de relecture critique du passé ukrainien, offrant une perspective littéraire sur les transformations du pays.\n\nLa présence de l'écrivaine à Paris, alors qu'elle maintient sa résidence à Kiev, illustre la détermination des intellectuels ukrainiens à poursuivre leur travail créatif malgré les circonstances exceptionnelles. Cette démarche témoigne de la volonté de préserver et de diffuser la culture ukrainienne au-delà des frontières nationales, dans un contexte où la guerre redéfinit les enjeux identitaires et culturels.\n\nCette visite parisienne s'inscrit dans un mouvement plus large de reconnaissance internationale de la littérature ukrainienne contemporaine. L'œuvre de Sofia Andrukhovych contribue à faire connaître la perspective ukrainienne sur son histoire et son présent, participant ainsi au rayonnement culturel du pays dans un moment où la diplomatie culturelle revêt une importance stratégique particulière.",
       "sources": [
+        "Le Monde - International",
+        "Le Monde - Économie"
+      ],
+      "publishedAt": "2026-03-07T05:00:11.000Z"
+    },
+    {
+      "id": "2026-03-07-05",
+      "category": "economie",
+      "title": "La SNCF obtient l'autorisation de circuler en Italie",
+      "imageUrl": "https://img.lemde.fr/2025/05/06/0/0/5779/3853/1440/960/60/0/1880398_ftp-import-images-1-fljere4zncn9-5813568-01-06.jpg",
+      "location": {
+        "lat": 45.0703,
+        "lng": 7.6869,
+        "name": "Turin, Italie"
+      },
+      "bullets": [
+        "La SNCF obtient l'autorisation pour les lignes Turin-Venise et Turin-Rome",
+        "Ouverture du marché ferroviaire italien à la concurrence européenne",
+        "La SNCF devient le deuxième concurrent de Trenitalia après Italo",
+        "Trenitalia fait face à une concurrence accrue sur son marché domestique",
+        "Expansion stratégique du transport ferroviaire français en Europe"
+      ],
+      "execSummary": "La SNCF a obtenu l'autorisation de circuler sur les liaisons ferroviaires Turin-Venise et Turin-Rome en Italie. Cette décision s'inscrit dans le cadre de l'ouverture progressive du marché ferroviaire européen à la concurrence, permettant aux opérateurs nationaux d'étendre leurs services au-delà de leurs frontières. L'implantation française intervient après plusieurs années de libéralisation du secteur ferroviaire italien.\n\nDu côté français, cette expansion représente une opportunité stratégique majeure pour la SNCF de diversifier ses activités et d'accéder à un marché ferroviaire dynamique. L'opérateur public français peut capitaliser sur son expertise technique et commerciale développée sur le réseau TGV pour proposer des services à haute vitesse sur ces axes italiens stratégiques reliant le nord industriel aux principales destinations touristiques et économiques du pays.\n\nPour Trenitalia, l'arrivée de la SNCF intensifie la concurrence sur son marché domestique, déjà challengé par l'opérateur privé Italo depuis 2012. Cette nouvelle donne oblige l'opérateur historique italien à repenser sa stratégie tarifaire et commerciale pour maintenir ses parts de marché sur des liaisons rentables, particulièrement face à des concurrents disposant d'une expérience internationale.\n\nCette évolution s'inscrit dans une dynamique plus large de création d'un espace ferroviaire européen intégré, avec des enjeux économiques significatifs pour le transport de voyageurs. La concurrence accrue pourrait bénéficier aux usagers via une amélioration des services et une pression sur les tarifs, tout en renforçant l'attractivité du rail face au transport aérien sur ces liaisons.",
+      "sources": [
+        "Le Monde - Économie",
         "BBC World"
       ],
-      "publishedAt": "2026-03-05T21:33:48.000Z"
+      "publishedAt": "2026-03-06T11:06:22.000Z"
+    },
+    {
+      "id": "2026-03-07-06",
+      "category": "politique",
+      "title": "Marseille, modèle de vivre-ensemble pour la France",
+      "imageUrl": "https://focus.courrierinternational.com/2026/02/10/0/0/3000/2000/1200/630/60/0/f57dc6f_upload-1-fg3xre15qfnn-080-hl-asnival-2201894.jpg",
+      "location": {
+        "lat": 43.2965,
+        "lng": 5.3698,
+        "name": "Marseille, France"
+      },
+      "bullets": [
+        "Le journaliste américain Cole Stangler vit à Marseille",
+        "Les municipales 2026 s'annoncent complexes dans la ville",
+        "Marseille est souvent caricaturée comme ville fracturée",
+        "Le scrutin révèle les défis du vivre-ensemble",
+        "La ville pourrait enseigner la coexistence à la France"
+      ],
+      "execSummary": "À l'approche des élections municipales de 2026, Marseille, deuxième ville de France, attire l'attention du journaliste américain Cole Stangler qui y réside. Le scrutin s'annonce complexe dans cette métropole méditerranéenne de plus de 860 000 habitants, connue pour sa diversité culturelle et ses contrastes sociaux marqués. Selon Stangler, Marseille est régulièrement caricaturée comme une ville fracturée, marquée par les inégalités et les tensions communautaires. Cette perception simpliste masque selon lui une réalité plus nuancée où coexistent différentes populations dans un équilibre fragile mais réel. Le journaliste défend une vision alternative de Marseille, soulignant que malgré ses défis évidents, la ville parvient à maintenir une forme de cohésion sociale que d'autres territoires français pourraient envier. Il met en avant les capacités d'adaptation et de résilience des Marseillais face aux difficultés. L'analyse de Stangler intervient dans un contexte où les questions de vivre-ensemble et d'intégration sont au cœur des débats politiques français. Les élections municipales de 2026 à Marseille pourraient ainsi servir de laboratoire pour tester de nouvelles approches de gouvernance urbaine et de cohésion sociale, avec des enjeux qui dépassent le cadre local pour toucher aux défis nationaux de la République.",
+      "sources": [
+        "Courrier International",
+        "BBC World",
+        "RFI",
+        "France 24",
+        "Le Monde - Économie"
+      ],
+      "publishedAt": "2026-03-07T04:00:17.000Z"
     }
   ]
 }
