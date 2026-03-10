@@ -54,6 +54,7 @@ interface Location {
 interface Story {
   id: string;
   category: 'geopolitique' | 'economie' | 'politique';
+  _clusterCategory?: 'geopolitique' | 'economie' | 'politique';
   title: string;
   imageUrl: string;
   location: Location;
@@ -72,10 +73,41 @@ interface Edition {
 const CLUSTERED_PATH = join(__dirname, '..', 'data', 'clustered-articles.json');
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
 
+/**
+ * Simple word-overlap similarity between two titles (0-1)
+ * Used to pick the most relevant image for a synthesized story
+ */
+function titleSimilarity(title1: string, title2: string): number {
+  const normalize = (t: string) =>
+    t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter(w => w.length > 2);
+  const words1 = new Set(normalize(title1));
+  const words2 = new Set(normalize(title2));
+  if (words1.size === 0 || words2.size === 0) return 0;
+  const intersection = [...words1].filter(w => words2.has(w)).length;
+  return intersection / Math.max(words1.size, words2.size);
+}
+
 // System prompt pour synthèse multi-sources
 const SYSTEM_PROMPT = `Tu es un analyste géopolitique senior. Tu reçois plusieurs articles de presse sur un même sujet provenant de sources différentes.
 
 Ta mission : produire UNE synthèse qui croise ces sources de manière neutre et analytique.
+
+FILTRAGE DE PERTINENCE (CRITIQUE) :
+Avant de synthétiser, évalue si le sujet relève RÉELLEMENT de l'une des 3 catégories ci-dessous.
+
+Définitions strictes des catégories :
+- "geopolitique" : Relations entre ÉTATS ou blocs (diplomatie, conflits armés internationaux, sanctions, alliances, traités, tensions territoriales entre pays). Implique au moins 2 acteurs étatiques.
+- "economie" : Macro-économie, marchés financiers, politique monétaire, commerce international, énergie, tech à impact systémique.
+- "politique" : Politique intérieure d'un pays à portée structurelle (élections, réformes majeures, mouvements sociaux d'ampleur nationale).
+
+SUJETS HORS SCOPE — réponds "hors_sujet" si le sujet est :
+- Faits divers (fusillades, meurtres, accidents, crimes) même spectaculaires, SAUF s'ils déclenchent une crise diplomatique entre États
+- Science, nature, environnement, biodiversité (migrations animales, découvertes scientifiques, météo) SAUF s'ils sont directement liés à une négociation ou un conflit entre États
+- Sport, divertissement, célébrités
+- Catastrophes naturelles SAUF si elles provoquent une crise politique/diplomatique avérée
+
+En cas de doute : si le sujet n'implique pas de relations entre États ou d'enjeu macro-économique/politique structurel, c'est "hors_sujet".
 
 RÈGLES DE NEUTRALITÉ ABSOLUE :
 1. Cite au moins 2-3 sources différentes quand disponibles
@@ -98,9 +130,11 @@ RÈGLES DE FRANÇAIS (TITRE ET BULLETS) :
 - IMPORTANT : N'écris PAS les articles en majuscules (pas "LA Russie" mais "La Russie" ou "la Russie")
 
 FORMAT DE SORTIE (JSON strict, pas de markdown) :
+
+Si le sujet est pertinent :
 {
-  "title": "Titre factuel avec articles corrects (max 60 caractères)",
   "category": "geopolitique" | "economie" | "politique",
+  "title": "Titre factuel avec articles corrects (max 60 caractères)",
   "location": {
     "lat": <latitude>,
     "lng": <longitude>,
@@ -114,6 +148,12 @@ FORMAT DE SORTIE (JSON strict, pas de markdown) :
     "L'enjeu économique ou stratégique clé (max 15 mots)"
   ],
   "execSummary": "4 paragraphes structurés (250-300 mots total) : Faits | Position A | Position B | Enjeux"
+}
+
+Si le sujet est HORS SCOPE :
+{
+  "category": "hors_sujet",
+  "reason": "Explication courte (ex: 'Fait divers sans dimension diplomatique', 'Sujet scientifique/nature')"
 }
 
 IMPORTANT : Réponds UNIQUEMENT avec le JSON, sans texte avant ou après.`;
@@ -181,6 +221,12 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     // Parse JSON response
     const storyData = JSON.parse(jsonText);
 
+    // Filter out irrelevant stories
+    if (storyData.category === 'hors_sujet') {
+      console.log(`   ⊘ Rejeté (hors scope): ${storyData.reason || 'pas de raison'}`);
+      return null;
+    }
+
     // Generate story ID
     const today = new Date().toISOString().split('T')[0];
     const id = `${today}-${String(storyIndex + 1).padStart(2, '0')}`;
@@ -188,14 +234,19 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     // Get all unique sources
     const allSources = [...new Set(cluster.articles.map((a) => a.source))];
 
-    // Find best image: prefer most recent article with a valid editorial image
+    // Find best image: prefer article whose title is most relevant to the synthesized story
     // Filter out logos, placeholders, and generic images
     const articlesWithValidImage = cluster.articles
       .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl))
-      .sort(
-        (a, b) =>
-          new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
-      );
+      .map((a) => ({
+        ...a,
+        relevance: titleSimilarity(storyData.title, a.title),
+      }))
+      .sort((a, b) => {
+        // Primary: relevance to synthesized title; secondary: recency
+        if (Math.abs(a.relevance - b.relevance) > 0.1) return b.relevance - a.relevance;
+        return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+      });
 
     if (articlesWithValidImage.length === 0) {
       const rejectedImages = cluster.articles.filter((a) => a.imageUrl && !isValidEditorialImage(a.imageUrl));
@@ -216,6 +267,7 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     const story: Story = {
       id,
       category: storyData.category || cluster.category,
+      _clusterCategory: cluster.category, // Keep original for post-synthesis enforcement
       title: storyData.title,
       imageUrl,
       location: storyData.location,
@@ -282,10 +334,37 @@ async function synthesize(): Promise<void> {
     }
   }
 
+  // Enforce: geopolitique must be the most represented category
+  // If Claude reclassified too many geo stories, revert them to cluster category
+  const countByCategory = (s: Story[]) => s.reduce((acc, st) => {
+    acc[st.category] = (acc[st.category] || 0) + 1;
+    return acc;
+  }, {} as Record<string, number>);
+
+  let cats = countByCategory(stories);
+  const geoCount = cats.geopolitique || 0;
+  const maxOther = Math.max(cats.economie || 0, cats.politique || 0);
+
+  if (geoCount <= maxOther) {
+    console.log(`\n⚠ Géopolitique (${geoCount}) n'est pas la catégorie dominante — correction...`);
+    // Revert reclassified stories (geo cluster → non-geo by Claude) back to geopolitique
+    for (const story of stories) {
+      if (story._clusterCategory === 'geopolitique' && story.category !== 'geopolitique') {
+        console.log(`   ↩ "${story.title}" : ${story.category} → geopolitique`);
+        story.category = 'geopolitique';
+      }
+    }
+    cats = countByCategory(stories);
+    console.log(`   → Géopolitique: ${cats.geopolitique || 0}, Économie: ${cats.economie || 0}, Politique: ${cats.politique || 0}`);
+  }
+
+  // Strip internal _clusterCategory before output
+  const cleanStories = stories.map(({ _clusterCategory, ...rest }) => rest);
+
   // Create edition
   const edition: Edition = {
     date: new Date().toISOString(),
-    stories,
+    stories: cleanStories,
   };
 
   // Write output
