@@ -1,164 +1,84 @@
 {
-  "date": "2026-03-10T06:05:33.698Z",
+  "date": "2026-03-11T06:08:00.697Z",
   "stories": [
     {
-      "id": "2026-03-10-01",
+      "id": "2026-03-11-01",
       "category": "politique",
-      "title": "Le Chili achève la transition entre Boric et Kast",
-      "imageUrl": "https://s.rfi.fr/media/display/c7039594-1c3d-11f1-a81f-005056bfb2b6/w:1024/p:16x9/000-A2JQ2QU.jpg",
+      "title": "Madagascar : la maire d'Antananarivo destituée pour fraudes",
+      "imageUrl": "https://s.rfi.fr/media/display/f1326692-b65d-11f0-bd54-005056a90284/w:1024/p:16x9/AP2-Brian-Inganga.jpg",
       "location": {
-        "lat": -33.4489,
-        "lng": -70.6693,
-        "name": "Santiago, Chili"
+        "lat": -18.8792,
+        "lng": 47.5079,
+        "name": "Antananarivo, Madagascar"
       },
       "bullets": [
-        "Gabriel Boric passe le pouvoir à José Antonio Kast le 11 mars",
-        "Un différend sur un câble sous-marin chinois complique la transition",
-        "L'extrême droite succède à la gauche après l'élection de décembre",
-        "La passation protocolaire était suspendue depuis plusieurs semaines",
-        "L'investiture marque un tournant politique majeur pour le pays"
+        "Le Conseil d'État annule l'élection municipale du 11 décembre",
+        "Harilala Ramanantsoa démise pour fraudes massives au scrutin",
+        "La majorité présidentielle perd le contrôle de la capitale",
+        "L'opposition dénonce un vide institutionnel problématique",
+        "Madagascar confrontée à une crise de gouvernance locale"
       ],
-      "execSummary": "Le Chili s'apprête à tourner une page politique majeure avec l'investiture de José Antonio Kast le 11 mars 2026, succédant au président de gauche Gabriel Boric. Élu le 14 décembre 2025, le candidat d'extrême droite prendra officiellement ses fonctions lors d'une cérémonie protocolaire à laquelle les Chiliens sont traditionnellement attachés. La passation de pouvoir, normalement engagée plusieurs semaines à l'avance, a été suspendue en raison d'un différend sur un projet de câble sous-marin chinois entre les deux camps. Du côté de l'équipe sortante, cette transition s'inscrit dans le respect des institutions démocratiques, malgré les divergences politiques majeures avec le successeur. Gabriel Boric et son camp de gauche défendent leur bilan et considèrent avoir respecté les procédures constitutionnelles de passation. Pour José Antonio Kast et ses partisans d'extrême droite, cette investiture représente une rupture nécessaire avec les politiques de la gauche et l'opportunité d'imprimer une nouvelle direction au pays. Ils justifient leurs positions sur le dossier du câble chinois par des considérations de souveraineté nationale. Cette alternance politique marque un basculement idéologique significatif pour le Chili, avec des implications potentielles sur les relations internationales du pays, notamment avec la Chine, et sur les orientations économiques et sociales intérieures. L'issue de ce différend sur les infrastructures chinoises pourrait donner le ton des futures relations diplomatiques.",
+      "execSummary": "Le Conseil d'État malgache a annulé lundi 9 mars l'élection municipale d'Antananarivo du 11 décembre 2024, destituant Harilala Ramanantsoa de ses fonctions de maire pour fraudes massives. Cette décision judiciaire fait suite à des recours déposés après le scrutin municipal qui avait vu la victoire de la candidate de la majorité présidentielle dans la capitale malgache. La plus haute juridiction administrative a établi l'existence d'irrégularités substantielles ayant entaché la sincérité du vote. Du côté de la majorité présidentielle, cette annulation constitue un revers politique majeur puisqu'elle perd le contrôle de la capitale, symbole du pouvoir politique et économique du pays. Les partisans du pouvoir en place arguent que les institutions judiciaires font leur travail en garantissant l'intégrité électorale, mais cette défaite fragilise leur assise territoriale dans un contexte politique déjà tendu à Madagascar. L'opposition, paradoxalement, exprime des préoccupations malgré cette victoire judiciaire. Ses représentants dénoncent le vide institutionnel créé par cette annulation, s'inquiétant de l'absence de gouvernance municipale effective dans la capitale. Ils redoutent que cette situation ne paralyse l'administration locale et ne pénalise les habitants d'Antananarivo, privés de représentation démocratique légitime. Cette crise révèle les fragilités du système électoral malgache et pose la question de la crédibilité des institutions démocratiques. L'annulation d'une élection municipale dans la capitale souligne les défis persistants de gouvernance à Madagascar, où les tensions politiques et les accusations de fraude électorale restent récurrentes. La gestion de cette transition et l'organisation d'un nouveau scrutin constitueront un test crucial pour la stabilité politique du pays et la confiance des citoyens envers leurs institutions.",
       "sources": [
         "RFI",
-        "Le Monde - International",
-        "France 24",
         "Courrier International",
+        "Le Monde - International",
         "BBC World",
-        "Le Monde - Économie"
-      ],
-      "publishedAt": "2026-03-10T05:30:20.000Z"
-    },
-    {
-      "id": "2026-03-10-02",
-      "category": "geopolitique",
-      "title": "L'Iran rejette les négociations avec les États-Unis",
-      "imageUrl": "https://s.rfi.fr/media/display/3e1b6504-101c-11f1-8a2d-005056a90284/w:1024/p:16x9/AP26036140080120-1.jpg",
-      "location": {
-        "lat": 32.4279,
-        "lng": 53.688,
-        "name": "Téhéran, Iran"
-      },
-      "bullets": [
-        "L'Iran refuse les négociations avec les États-Unis malgré Trump",
-        "Mojtaba Khamenei succède à son père comme guide suprême",
-        "Trump affirme que la guerre se terminera bientôt",
-        "Les Gardiens de la révolution disent décider de la fin",
-        "Les prix du pétrole chutent de 10% après les déclarations"
-      ],
-      "execSummary": "Alors que Donald Trump affirme que la guerre en Iran « va se terminer bientôt » et serait « très en avance » sur le calendrier prévu, l'Iran a répondu par un rejet catégorique. Le ministre des Affaires étrangères iranien a déclaré mardi que des négociations avec les États-Unis n'étaient « plus à l'ordre du jour » et que l'Iran poursuivrait ses attaques « aussi longtemps que nécessaire ». Le régime a rapidement désigné Mojtaba Khamenei, fils du guide suprême tué le 28 février, pour lui succéder. Du côté américain, Trump justifie cette « excursion militaire » par les succès déjà obtenus sur le plan militaire, tout en menaçant de frapper Téhéran « beaucoup plus fort » si l'Iran « prenait le monde en otage » en bloquant l'acheminement de pétrole dans le détroit d'Ormuz. Le président américain vante les résultats de l'offensive israélo-américaine et laisse entendre qu'une fin rapide du conflit est possible. L'Iran adopte une posture de défiance totale face aux pressions américaines. Les Gardiens de la révolution ont affirmé qu'ils « décideront de la fin de la guerre », tandis que la nomination de Mojtaba Khamenei envoie un signal de continuité et de résistance. La désignation rapide du nouveau guide suprême illustre la volonté du régime de maintenir la ligne dure malgré les bombardements et les pertes subies. Cette escalade rhétorique révèle l'absence de perspective diplomatique claire. Les marchés réagissent fortement aux déclarations contradictoires de Trump, avec une chute de 10% des prix du pétrole mardi. La guerre impacte déjà l'économie palestinienne en Cisjordanie et provoque une pollution massive à Téhéran après l'incendie des dépôts de carburant. L'absence du Royaume-Uni dans l'offensive, qui refuse même l'usage de ses bases militaires, fragilise la coalition menée par Washington.",
-      "sources": [
-        "RFI",
-        "Courrier International",
-        "Le Monde - International",
-        "France 24",
-        "Le Monde - Économie"
-      ],
-      "publishedAt": "2026-03-10T05:12:49.000Z"
-    },
-    {
-      "id": "2026-03-10-03",
-      "category": "geopolitique",
-      "title": "Les États-Unis classent les Frères musulmans soudanais terroristes",
-      "imageUrl": "https://s.rfi.fr/media/display/1dcf6742-1c23-11f1-a49d-005056bfb2b6/w:1024/p:16x9/000-9Q66TY.jpg",
-      "location": {
-        "lat": 15.5007,
-        "lng": 32.5599,
-        "name": "Khartoum, Soudan"
-      },
-      "bullets": [
-        "Les États-Unis désignent les Frères musulmans soudanais organisation terroriste",
-        "La mesure vise leur branche armée alliée au général al-Burhan",
-        "Washington justifie par les exactions commises contre les civils",
-        "Les sanctions incluent gel des avoirs et interdictions d'entrée",
-        "La décision affecte l'équilibre des forces dans le conflit soudanais"
-      ],
-      "execSummary": "Les États-Unis ont officiellement classé lundi 9 mars les Frères musulmans au Soudan comme « organisation terroriste étrangère », déclenchant des sanctions financières et administratives effectives dès le 16 mars. Cette désignation vise spécifiquement un mouvement islamiste dont la branche armée est alliée à l'armée du général Abdel Fattah al-Burhan dans le conflit en cours.\n\nWashington justifie cette mesure par les exactions commises par la branche armée des Frères musulmans soudanais contre les populations civiles. L'administration américaine considère que ce groupe constitue une menace pour la stabilité régionale et participe activement aux violences qui déchirent le pays depuis le début du conflit.\n\nLes Frères musulmans soudanais et leurs alliés contestent cette qualification, arguant de leur légitimité politique historique dans le pays. Leur alliance avec l'armée régulière s'inscrit dans leur vision d'un État islamique face aux Forces de soutien rapide rivales.\n\nCette désignation terroriste entraîne le gel des transactions et avoirs américains, ainsi que l'interdiction d'entrée sur le territoire américain pour les membres du groupe. Elle pourrait modifier l'équilibre des forces au Soudan en limitant les capacités financières d'un acteur clé du conflit, tout en renforçant la pression internationale sur l'armée du général al-Burhan.",
-      "sources": [
-        "RFI",
+        "Le Monde - Économie",
         "France 24"
       ],
-      "publishedAt": "2026-03-10T03:12:22.000Z"
+      "publishedAt": "2026-03-11T05:52:31.000Z"
     },
     {
-      "id": "2026-03-10-04",
-      "category": "politique",
-      "title": "L'UE adopte de nouvelles règles d'expulsion des sans-papiers",
-      "imageUrl": "https://s.rfi.fr/media/display/4b215930-1be7-11f1-a8b7-005056a90284/w:1024/p:16x9/AP26068321615524.jpg",
+      "id": "2026-03-11-03",
+      "category": "geopolitique",
+      "title": "Israël cible les gardiens iraniens restructurant le Hezbollah",
+      "imageUrl": "https://s.france24.com/media/display/b8a5461e-1ca6-11f1-81c5-005056a90284/w:1024/p:16x9/vignette-frappes-iran0.png",
       "location": {
-        "lat": 50.8503,
-        "lng": 4.3517,
-        "name": "Bruxelles, Belgique"
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "Beyrouth, Liban"
       },
       "bullets": [
-        "Les eurodéputés adoptent nouvelles règles d'expulsion des sans-papiers",
-        "Majorité de droite et d'extrême droite vote le texte",
-        "Six États membres prévoient des centres hors UE",
-        "L'opposition dénonce une dérive sécuritaire européenne",
-        "Enjeu majeur pour la politique migratoire commune"
+        "Israël frappe Beyrouth, vise commandants Force Al-Qods iraniens",
+        "Les gardiens iraniens restructurent l'aile militaire du Hezbollah",
+        "L'Iran revendique « l'attaque la plus violente » contre Israël",
+        "760 000 Libanais déplacés depuis début mars selon Beyrouth",
+        "Le pétrole dépasse 100 dollars, marchés inquiets de l'escalade"
       ],
-      "execSummary": "Le Parlement européen a adopté de nouvelles règles d'expulsion des sans-papiers, portées par une majorité de droite et d'extrême droite. Le nouveau règlement permet notamment la création de centres de retour hors des frontières de l'Union européenne. Une demi-douzaine d'États membres, dont l'Allemagne et les Pays-Bas, ont déjà manifesté leur intention d'utiliser cette possibilité. Les partisans du texte justifient cette mesure par la nécessité de renforcer l'efficacité des procédures d'expulsion et de dissuader l'immigration irrégulière vers l'Europe. Ils arguent que ces centres externes permettront de mieux organiser les retours tout en respectant le droit international. La droite européenne présente cette réforme comme une réponse pragmatique aux défis migratoires actuels. Les opposants au règlement, notamment les groupes de gauche et écologistes, dénoncent une dérive sécuritaire qui compromet les valeurs européennes d'accueil et de protection des droits humains. Ils s'inquiètent des conditions d'hébergement dans ces futurs centres externes et de leur conformité avec les standards européens. L'opposition critique également le risque d'externalisation des responsabilités migratoires. Cette adoption marque un tournant dans la politique migratoire européenne, renforçant l'approche sécuritaire face aux flux migratoires. Les implications économiques et diplomatiques avec les pays tiers qui accueilleront ces centres restent à définir, tout comme les modalités concrètes de mise en œuvre de ce dispositif controversé.",
+      "execSummary": "L'armée israélienne affirme avoir tué plusieurs commandants de la Force Al-Qods à Beyrouth, la branche des opérations extérieures des Gardiens de la révolution iraniens. Ces frappes visent spécifiquement les responsables iraniens chargés de la restructuration et du réarmement de l'aile militaire du Hezbollah depuis l'assassinat du guide suprême Ali Khamenei le 1er mars, qui a déclenché l'entrée du Liban dans le conflit.\n\nIsraël justifie ces bombardements intensifiés sur la capitale libanaise comme une riposte nécessaire contre les infrastructures du Hezbollah pro-iranien. L'armée israélienne présente ces opérations comme une réponse défensive face à la montée en puissance du parti-milice libanais sous supervision iranienne directe.\n\nL'Iran de son côté revendique avoir mené « l'attaque la plus violente et la plus lourde depuis le début de la guerre » contre Israël. Le gouvernement libanais dénonce l'impact humanitaire avec près de 760 000 déplacés enregistrés depuis début mars, soulignant les conséquences civiles de cette escalade militaire.\n\nCette intensification impliquant directement les Gardiens de la révolution iraniens marque un nouveau palier dans le conflit régional. Les marchés pétroliers réagissent avec le baril de brut dépassant 100 dollars, reflétant les craintes d'une déstabilisation énergétique majeure au Moyen-Orient face à cette confrontation israélo-iranienne sur le territoire libanais.",
       "sources": [
-        "Le Monde - International",
-        "RFI",
-        "Le Monde - Économie"
-      ],
-      "publishedAt": "2026-03-09T20:36:25.000Z"
-    },
-    {
-      "id": "2026-03-10-05",
-      "category": "economie",
-      "title": "Le droit du travail peine à s'adapter au télétravail",
-      "imageUrl": "https://s.france24.com/media/display/e5df8138-1bd6-11f1-88a2-005056a90284/w:1024/p:16x9/mini-mojtaba.jpg",
-      "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Paris, France"
-      },
-      "bullets": [
-        "Le travail hybride s'impose mais le cadre juridique reste inadapté",
-        "L'évolution des mœurs dépasse la réglementation existante du travail",
-        "Les juristes appellent à moderniser le droit du travail français",
-        "Les employeurs naviguent dans un vide juridique croissant",
-        "L'enjeu concerne l'équilibre pouvoir patronal et droits salariés"
-      ],
-      "execSummary": "Le travail hybride, mêlant présence au bureau et télétravail, s'est généralisé dans les entreprises françaises depuis la pandémie. Cette nouvelle organisation du travail transforme les relations professionnelles et questionne les modalités d'exercice du pouvoir patronal. Selon le juriste Jean-Emmanuel Ray, le droit du travail français ne s'est pas encore totalement adapté à l'ensemble des situations générées par ces nouvelles pratiques. Les entreprises adoptent massivement le travail à distance pour répondre aux attentes des salariés et optimiser leur organisation. Les dirigeants mettent en avant les gains de productivité et la réduction des coûts immobiliers. Cette évolution leur permet également de recruter des talents sur un territoire plus large et d'offrir une meilleure qualité de vie à leurs équipes. Les syndicats et représentants du personnel soulèvent des interrogations sur l'encadrement de ces nouvelles pratiques. Ils s'inquiètent des risques d'isolement professionnel, de la dilution des droits collectifs et du contrôle accru des salariés via les outils numériques. L'adaptation du cadre juridique devient cruciale pour préserver l'équilibre entre flexibilité organisationnelle et protection des travailleurs. Cette mutation du travail interroge l'avenir des relations sociales en entreprise et nécessite une modernisation des règles pour sécuriser juridiquement ces nouvelles formes d'organisation professionnelle.",
-      "sources": [
-        "Le Monde - Économie",
-        "Le Monde - International",
-        "France 24",
-        "Courrier International",
-        "BBC World"
-      ],
-      "publishedAt": "2026-03-10T05:00:27.000Z"
-    },
-    {
-      "id": "2026-03-10-06",
-      "category": "economie",
-      "title": "Yann Le Cun lève 900 millions pour sa start-up d'IA",
-      "imageUrl": "https://focus.courrierinternational.com/2026/03/03/20/39/1696/1131/1200/630/60/0/b2936d9_upload-1-p3qaao5lxft4-w-1844-eva-vazquez-el-pai-s-internacional.jpg",
-      "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Paris, France"
-      },
-      "bullets": [
-        "Yann Le Cun lève 900 millions d'euros pour AMI",
-        "La start-up française valorisée à 3 milliards d'euros",
-        "L'ex-directeur IA Meta vise l'IA du monde réel",
-        "AMI ambitionne une nouvelle branche de l'intelligence artificielle",
-        "Investissement majeur dans l'écosystème tech français"
-      ],
-      "execSummary": "Yann Le Cun, ancien directeur de l'intelligence artificielle chez Meta, a levé 900 millions d'euros pour sa nouvelle start-up AMI, basée en France et valorisée à 3 milliards d'euros. Cette levée de fonds constitue l'un des plus importants tours de table européens dans le secteur de l'IA. Le chercheur français, reconnu mondialement pour ses travaux sur l'apprentissage profond, a quitté son poste chez Meta pour lancer cette nouvelle entreprise axée sur l'intelligence artificielle appliquée au monde réel. AMI se positionne comme une entreprise innovante visant à développer une « nouvelle branche » de l'IA, distincte des modèles linguistiques actuels dominés par les géants américains. L'entreprise entend se concentrer sur des applications concrètes de l'intelligence artificielle dans l'environnement physique, marquant une évolution stratégique par rapport aux IA conversationnelles. Cette levée de fonds massive témoigne de la confiance des investisseurs dans la vision de Le Cun et dans le potentiel de l'écosystème technologique français. Elle positionne la France comme un acteur majeur dans la course mondiale à l'IA, face aux dominations américaine et chinoise. L'investissement pourrait catalyser le développement d'autres start-up françaises dans ce secteur stratégique, renforçant la souveraineté technologique européenne et créant des emplois hautement qualifiés dans l'Hexagone.",
-      "sources": [
-        "Le Monde - Économie",
-        "Courrier International",
-        "RFI",
         "Le Monde - International",
         "France 24",
         "BBC World"
       ],
-      "publishedAt": "2026-03-10T05:00:11.000Z"
+      "publishedAt": "2026-03-11T05:00:30.000Z"
+    },
+    {
+      "id": "2026-03-11-06",
+      "category": "geopolitique",
+      "title": "La Russie profite de la guerre au Moyen-Orient",
+      "imageUrl": "https://focus.courrierinternational.com/2026/03/10/0/0/6807/4538/1200/630/60/0/4d066e7_ftp-1-in9u6iur0gzm-afp-a2n97zq.jpg",
+      "location": {
+        "lat": 55.7558,
+        "lng": 37.6176,
+        "name": "Moscou, Russie"
+      },
+      "bullets": [
+        "La Russie bénéficie de l'envolée des prix du pétrole",
+        "Les frappes américano-israéliennes en Iran ferment le détroit d'Ormuz",
+        "Moscou voit une aubaine économique malgré les sanctions occidentales",
+        "L'Iran reste un allié stratégique russe malgré les bombardements",
+        "Le choc pétrolier atténue l'impact des sanctions sur l'économie russe"
+      ],
+      "execSummary": "Depuis le début des frappes américano-israéliennes sur l'Iran le 28 février, la fermeture du détroit d'Ormuz a provoqué une envolée des prix des hydrocarbures. Les bombardements ont endommagé au moins quatre installations pétrolières iraniennes, causant une pollution sans précédent à Téhéran selon des scientifiques. Cette escalade intervient alors que la Russie poursuit sa guerre en Ukraine, avec des attaques ukrainiennes récentes sur une usine de composants électroniques à Briansk.\n\nPour Moscou, cette crise au Moyen-Orient représente une opportunité économique majeure. Selon France 24, Vladimir Poutine considère l'envolée des prix du pétrole comme \"une aubaine\" qui permet de compenser partiellement l'impact des sanctions occidentales imposées depuis 2022. Les revenus pétroliers russes bénéficient directement de cette tension géopolitique, offrant un répit financier dans le contexte de la guerre ukrainienne.\n\nCependant, cette situation présente aussi des risques pour la Russie. L'Iran constitue un allié stratégique crucial dans la région, et les bombardements américano-israéliens menacent cette relation. Les témoignages d'habitants de Téhéran révèlent l'ampleur des destructions, soulevant des questions sur la capacité de l'Iran à maintenir son soutien aux intérêts russes régionaux.\n\nSelon Courrier International, le choc pétrolier initial s'atténue progressivement, réduisant les bénéfices économiques pour Moscou. Les enjeux sont doubles : exploiter cette fenêtre d'opportunité économique tout en préservant l'alliance iranienne, essentielle à la stratégie géopolitique russe face à l'Occident. Cette équation complexe illustre les interconnexions entre les conflits ukrainien et moyen-oriental.",
+      "sources": [
+        "France 24",
+        "BBC World",
+        "Le Monde - International",
+        "Courrier International"
+      ],
+      "publishedAt": "2026-03-10T20:06:29.000Z"
     }
   ]
 }
