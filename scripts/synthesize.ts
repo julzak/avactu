@@ -26,7 +26,7 @@ interface RawArticle {
   url: string;
   imageUrl: string | null;
   source: string;
-  category: 'geopolitique' | 'economie' | 'politique';
+  category: 'geopolitique' | 'monde';
   publishedAt: string;
   fetchedAt: string;
 }
@@ -34,7 +34,7 @@ interface RawArticle {
 interface ArticleCluster {
   id: string;
   topic: string;
-  category: 'geopolitique' | 'economie' | 'politique';
+  category: 'geopolitique' | 'monde';
   importance: number;
   articles: RawArticle[];
 }
@@ -53,8 +53,8 @@ interface Location {
 
 interface Story {
   id: string;
-  category: 'geopolitique' | 'economie' | 'politique';
-  _clusterCategory?: 'geopolitique' | 'economie' | 'politique';
+  category: 'geopolitique' | 'monde';
+  _clusterCategory?: 'geopolitique' | 'monde';
   title: string;
   imageUrl: string;
   location: Location;
@@ -89,25 +89,25 @@ function titleSimilarity(title1: string, title2: string): number {
 }
 
 // System prompt pour synthèse multi-sources
-const SYSTEM_PROMPT = `Tu es un analyste géopolitique senior. Tu reçois plusieurs articles de presse sur un même sujet provenant de sources différentes.
+const SYSTEM_PROMPT = `Tu es un analyste senior. Tu reçois plusieurs articles de presse sur un même sujet provenant de sources différentes.
 
-Ta mission : produire UNE synthèse qui croise ces sources de manière neutre et analytique.
+Ta mission : produire UNE synthèse qui croise ces sources de manière neutre et analytique. Le public cible a entre 15 et 22 ans — ne simplifie pas, mais rends le sujet captivant et pertinent.
 
 FILTRAGE DE PERTINENCE (CRITIQUE) :
-Avant de synthétiser, évalue si le sujet relève RÉELLEMENT de l'une des 3 catégories ci-dessous.
+Avant de synthétiser, évalue si le sujet relève RÉELLEMENT de l'une des 2 catégories ci-dessous.
 
 Définitions strictes des catégories :
 - "geopolitique" : Relations entre ÉTATS ou blocs (diplomatie, conflits armés internationaux, sanctions, alliances, traités, tensions territoriales entre pays). Implique au moins 2 acteurs étatiques.
-- "economie" : Macro-économie, marchés financiers, politique monétaire, commerce international, énergie, tech à impact systémique.
-- "politique" : Politique intérieure d'un pays à portée structurelle (élections, réformes majeures, mouvements sociaux d'ampleur nationale).
+- "monde" : Sujets d'intérêt général captivants pour un public 15-22 ans — tech, IA, espace, climat, science, société, santé, culture numérique, environnement, phénomènes de société. PAS d'économie pure (marchés, bourse, PIB) ni de politique intérieure (élections, réformes, partis).
 
 SUJETS HORS SCOPE — réponds "hors_sujet" si le sujet est :
 - Faits divers (fusillades, meurtres, accidents, crimes) même spectaculaires, SAUF s'ils déclenchent une crise diplomatique entre États
-- Science, nature, environnement, biodiversité (migrations animales, découvertes scientifiques, météo) SAUF s'ils sont directement liés à une négociation ou un conflit entre États
 - Sport, divertissement, célébrités
-- Catastrophes naturelles SAUF si elles provoquent une crise politique/diplomatique avérée
+- Économie pure (marchés financiers, bourse, politique monétaire, PIB)
+- Politique intérieure (élections, réformes, débats parlementaires, partis politiques)
+- Catastrophes naturelles SAUF si elles provoquent une crise diplomatique avérée ou ont un impact environnemental majeur
 
-En cas de doute : si le sujet n'implique pas de relations entre États ou d'enjeu macro-économique/politique structurel, c'est "hors_sujet".
+En cas de doute pour "monde" : le sujet doit être quelque chose qu'un ado curieux partagerait spontanément avec ses amis. Sinon c'est "hors_sujet".
 
 RÈGLES DE NEUTRALITÉ ABSOLUE :
 1. Cite au moins 2-3 sources différentes quand disponibles
@@ -133,7 +133,7 @@ FORMAT DE SORTIE (JSON strict, pas de markdown) :
 
 Si le sujet est pertinent :
 {
-  "category": "geopolitique" | "economie" | "politique",
+  "category": "geopolitique" | "monde",
   "title": "Titre factuel avec articles corrects (max 60 caractères)",
   "location": {
     "lat": <latitude>,
@@ -334,28 +334,12 @@ async function synthesize(): Promise<void> {
     }
   }
 
-  // Enforce: geopolitique must be the most represented category
-  // If Claude reclassified too many geo stories, revert them to cluster category
-  const countByCategory = (s: Story[]) => s.reduce((acc, st) => {
-    acc[st.category] = (acc[st.category] || 0) + 1;
-    return acc;
-  }, {} as Record<string, number>);
-
-  let cats = countByCategory(stories);
-  const geoCount = cats.geopolitique || 0;
-  const maxOther = Math.max(cats.economie || 0, cats.politique || 0);
-
-  if (geoCount <= maxOther) {
-    console.log(`\n⚠ Géopolitique (${geoCount}) n'est pas la catégorie dominante — correction...`);
-    // Revert reclassified stories (geo cluster → non-geo by Claude) back to geopolitique
-    for (const story of stories) {
-      if (story._clusterCategory === 'geopolitique' && story.category !== 'geopolitique') {
-        console.log(`   ↩ "${story.title}" : ${story.category} → geopolitique`);
-        story.category = 'geopolitique';
-      }
+  // Enforce: revert reclassified stories back to their cluster category
+  for (const story of stories) {
+    if (story._clusterCategory && story.category !== story._clusterCategory) {
+      console.log(`   ↩ "${story.title}" : ${story.category} → ${story._clusterCategory}`);
+      story.category = story._clusterCategory;
     }
-    cats = countByCategory(stories);
-    console.log(`   → Géopolitique: ${cats.geopolitique || 0}, Économie: ${cats.economie || 0}, Politique: ${cats.politique || 0}`);
   }
 
   // Strip internal _clusterCategory before output
@@ -386,8 +370,7 @@ async function synthesize(): Promise<void> {
 
   console.log(`\nPar catégorie:`);
   console.log(`  • Géopolitique: ${byCategory.geopolitique || 0}`);
-  console.log(`  • Économie: ${byCategory.economie || 0}`);
-  console.log(`  • Politique: ${byCategory.politique || 0}`);
+  console.log(`  • Monde: ${byCategory.monde || 0}`);
 
   // Sources stats
   const avgSources = stories.reduce((sum, s) => sum + s.sources.length, 0) / stories.length;

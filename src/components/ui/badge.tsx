@@ -17,10 +17,8 @@ const badgeVariants = cva(
         outline: "text-foreground",
         geopolitique:
           "border-transparent bg-rose-500 text-white",
-        economie:
-          "border-transparent bg-sky-500 text-white",
-        politique:
-          "border-transparent bg-violet-500 text-white",
+        monde:
+          "border-transparent bg-amber-500 text-white",
       },
     },
     defaultVariants: {

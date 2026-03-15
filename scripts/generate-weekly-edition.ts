@@ -21,7 +21,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Types
-type Category = 'geopolitique' | 'economie' | 'politique';
+type Category = 'geopolitique' | 'monde';
 
 interface Location {
   lat: number;
@@ -62,11 +62,10 @@ interface ScoredStory extends Story {
 const WEEKLY_STORIES_PATH = join(__dirname, '..', 'public', 'data', 'weekly-stories.json');
 const TARGET_STORY_COUNT = 10;
 
-// Category target distribution (matching the 70/20/10 ratio)
+// Category target distribution (60/40 ratio)
 const CATEGORY_TARGETS: Record<Category, number> = {
-  geopolitique: 7, // 70%
-  economie: 2, // 20%
-  politique: 1, // 10%
+  geopolitique: 6, // 60%
+  monde: 4, // 40%
 };
 
 /**
@@ -90,8 +89,7 @@ function selectTopStories(allStories: ScoredStory[]): Story[] {
   const selected: Story[] = [];
   const categoryCount: Record<Category, number> = {
     geopolitique: 0,
-    economie: 0,
-    politique: 0,
+    monde: 0,
   };
 
   // First pass: fill category quotas with best stories
@@ -114,7 +112,7 @@ function selectTopStories(allStories: ScoredStory[]): Story[] {
   }
 
   // Final sort by category order then score
-  const categoryOrder: Category[] = ['geopolitique', 'economie', 'politique'];
+  const categoryOrder: Category[] = ['geopolitique', 'monde'];
   return selected.sort((a, b) => {
     const catDiff = categoryOrder.indexOf(a.category) - categoryOrder.indexOf(b.category);
     if (catDiff !== 0) return catDiff;
@@ -198,16 +196,16 @@ async function generateWeeklyEdition(): Promise<void> {
   // Log category distribution
   const categoryDistribution: Record<Category, number> = {
     geopolitique: 0,
-    economie: 0,
-    politique: 0,
+    monde: 0,
   };
   for (const story of allStories) {
-    categoryDistribution[story.category]++;
+    if (categoryDistribution[story.category] !== undefined) {
+      categoryDistribution[story.category]++;
+    }
   }
   console.log('Distribution par catégorie:');
   console.log(`   Géopolitique: ${categoryDistribution.geopolitique}`);
-  console.log(`   Économie: ${categoryDistribution.economie}`);
-  console.log(`   Politique: ${categoryDistribution.politique}\n`);
+  console.log(`   Monde: ${categoryDistribution.monde}\n`);
 
   // Select top 10 stories
   const selectedStories = selectTopStories(allStories);

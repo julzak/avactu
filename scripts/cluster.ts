@@ -25,7 +25,7 @@ interface RawArticle {
   url: string;
   imageUrl: string | null;
   source: string;
-  category: 'geopolitique' | 'economie' | 'politique';
+  category: 'geopolitique' | 'monde';
   publishedAt: string;
   fetchedAt: string;
 }
@@ -39,7 +39,7 @@ interface RawArticlesInput {
 interface ArticleCluster {
   id: string;
   topic: string;
-  category: 'geopolitique' | 'economie' | 'politique';
+  category: 'geopolitique' | 'monde';
   importance: number;
   articles: RawArticle[];
 }
@@ -55,9 +55,8 @@ const RAW_ARTICLES_PATH = join(__dirname, '..', 'data', 'raw-articles.json');
 const CLUSTERED_PATH = join(__dirname, '..', 'data', 'clustered-articles.json');
 
 const TARGET_CLUSTERS = {
-  geopolitique: 4,
-  economie: 1,
-  politique: 1,
+  geopolitique: 3,
+  monde: 3,
 };
 
 // Mots-clés sport/divertissement à exclure
@@ -282,27 +281,36 @@ function clusterArticles(articles: RawArticle[]): ArticleCluster[] {
   const entities = filtered.map((a) => extractEntities(`${a.title} ${a.description}`));
   const vectors = buildTfIdf(documents);
 
-  // Greedy clustering with lower threshold
-  const SIMILARITY_THRESHOLD = 0.20; // Lowered from 0.25
+  // Greedy clustering with centroid comparison
+  const SIMILARITY_THRESHOLD = 0.25;
+  const MAX_CLUSTER_SIZE = 12; // Prevent monster clusters
   const clusters: ArticleCluster[] = [];
   const assigned = new Set<number>();
 
   for (let i = 0; i < filtered.length; i++) {
     if (assigned.has(i)) continue;
 
-    const clusterArticles = [filtered[i]];
+    const clusterIndices = [i];
     assigned.add(i);
 
     for (let j = i + 1; j < filtered.length; j++) {
       if (assigned.has(j)) continue;
+      if (clusterIndices.length >= MAX_CLUSTER_SIZE) break;
 
-      const similarity = combinedSimilarity(vectors[i], vectors[j], entities[i], entities[j]);
+      // Compare against ALL articles in the cluster (average similarity)
+      let totalSim = 0;
+      for (const idx of clusterIndices) {
+        totalSim += combinedSimilarity(vectors[idx], vectors[j], entities[idx], entities[j]);
+      }
+      const avgSimilarity = totalSim / clusterIndices.length;
 
-      if (similarity >= SIMILARITY_THRESHOLD) {
-        clusterArticles.push(filtered[j]);
+      if (avgSimilarity >= SIMILARITY_THRESHOLD) {
+        clusterIndices.push(j);
         assigned.add(j);
       }
     }
+
+    const clusterArticles = clusterIndices.map(idx => filtered[idx]);
 
     const mainArticle = clusterArticles[0];
     const uniqueSources = new Set(clusterArticles.map((a) => a.source));
@@ -384,8 +392,7 @@ function selectBestClusters(clusters: ArticleCluster[]): ArticleCluster[] {
   // Sort by category and importance
   const byCategory = {
     geopolitique: [...multiSource, ...singleSource].filter((c) => c.category === 'geopolitique'),
-    economie: [...multiSource, ...singleSource].filter((c) => c.category === 'economie'),
-    politique: [...multiSource, ...singleSource].filter((c) => c.category === 'politique'),
+    monde: [...multiSource, ...singleSource].filter((c) => c.category === 'monde'),
   };
 
   for (const [category, target] of Object.entries(TARGET_CLUSTERS)) {
@@ -486,8 +493,7 @@ function cluster(): void {
 
   console.log(`Par catégorie:`);
   console.log(`  • Géopolitique: ${byCategory.geopolitique || 0}`);
-  console.log(`  • Économie: ${byCategory.economie || 0}`);
-  console.log(`  • Politique: ${byCategory.politique || 0}`);
+  console.log(`  • Monde: ${byCategory.monde || 0}`);
 
   const totalArticles = selectedClusters.reduce((sum, c) => sum + c.articles.length, 0);
   const multiSourceCount = selectedClusters.filter((c) =>

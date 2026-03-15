@@ -23,7 +23,7 @@ const __dirname = dirname(__filename);
 interface Source {
   name: string;
   url: string;
-  category: 'geopolitique' | 'economie' | 'politique';
+  category: 'geopolitique' | 'monde';
 }
 
 interface SourcesConfig {
@@ -37,7 +37,7 @@ interface RawArticle {
   url: string;
   imageUrl: string | null;
   source: string;
-  category: 'geopolitique' | 'economie' | 'politique';
+  category: 'geopolitique' | 'monde';
   publishedAt: string;
   fetchedAt: string;
 }
@@ -279,8 +279,7 @@ async function curate(): Promise<void> {
   }, {} as Record<string, number>);
 
   console.log(`  • Géopolitique: ${byCategory.geopolitique || 0}`);
-  console.log(`  • Économie: ${byCategory.economie || 0}`);
-  console.log(`  • Politique: ${byCategory.politique || 0}`);
+  console.log(`  • Monde: ${byCategory.monde || 0}`);
 
   console.log(`\n✅ Sauvegardé dans: ${OUTPUT_PATH}`);
 }

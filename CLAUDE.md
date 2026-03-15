@@ -10,11 +10,11 @@ Application mobile permettant à Ava (16 ans) de comprendre l'actualité mondial
 
 | Catégorie | Proportion | Focus |
 |-----------|------------|-------|
-| Géopolitique | 70% | Conflits, alliances, ressources, diplomatie |
-| Économie | 20% | Macro-économie, tech, monnaie, marchés |
-| Politique intérieure | 10% | Enjeux de société FR, pas de polémiques stériles |
+| Géopolitique | 60% (~3 stories) | Conflits, alliances, ressources, diplomatie |
+| Monde | 40% (~2-3 stories) | Tech, IA, espace, climat, science, société, santé, culture numérique — ce qui parle à un 15-22 ans |
 
-**Volume par édition** : 5-6 stories maximum (pas plus).
+**Pas d'économie pure** (marchés, bourse, PIB) ni de **politique intérieure** (élections, partis).
+**Volume par édition** : 5 stories cible, 6 max.
 
 ---
 
@@ -191,7 +191,7 @@ avactu/
 ```typescript
 // types/index.ts
 
-export type Category = "geopolitique" | "economie" | "politique";
+export type Category = "geopolitique" | "monde";
 
 export interface Location {
   lat: number;
@@ -231,8 +231,7 @@ export interface Edition {
 --text-secondary: slate-400;    /* #94a3b8 */
 
 --accent-geopo: rose-500;       /* #f43f5e */
---accent-eco: sky-500;          /* #0ea5e9 */
---accent-politique: violet-500; /* #8b5cf6 */
+--accent-monde: amber-500;      /* #f59e0b */
 
 /* Typographie */
 --font-sans: "Inter", system-ui, sans-serif;
@@ -258,7 +257,7 @@ RÈGLES ABSOLUES :
 FORMAT DE SORTIE (JSON strict, pas de markdown) :
 {
   "title": "Titre factuel et accrocheur (max 60 caractères)",
-  "category": "geopolitique" | "economie" | "politique",
+  "category": "geopolitique" | "monde",
   "location": {
     "lat": <latitude du lieu clé>,
     "lng": <longitude du lieu clé>,

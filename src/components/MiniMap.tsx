@@ -4,14 +4,12 @@ import type { Location, Category } from '@/types';
 
 const CATEGORY_COLORS = {
   geopolitique: '#f43f5e',
-  economie: '#0ea5e9',
-  politique: '#8b5cf6',
+  monde: '#f59e0b',
 } as const;
 
 const CATEGORY_GLOW = {
   geopolitique: '0 0 20px rgba(244, 63, 94, 0.6)',
-  economie: '0 0 20px rgba(14, 165, 233, 0.6)',
-  politique: '0 0 20px rgba(139, 92, 246, 0.6)',
+  monde: '0 0 20px rgba(245, 158, 11, 0.6)',
 } as const;
 
 interface MiniMapProps {

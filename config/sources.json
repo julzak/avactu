@@ -6,16 +6,6 @@
       "category": "geopolitique"
     },
     {
-      "name": "Le Monde - Économie",
-      "url": "https://www.lemonde.fr/economie/rss_full.xml",
-      "category": "economie"
-    },
-    {
-      "name": "Les Échos",
-      "url": "https://www.lesechos.fr/rss/rss_une.xml",
-      "category": "economie"
-    },
-    {
       "name": "Courrier International",
       "url": "https://www.courrierinternational.com/feed/all/rss.xml",
       "category": "geopolitique"
@@ -39,6 +29,26 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "category": "geopolitique"
+    },
+    {
+      "name": "Le Monde - Planète",
+      "url": "https://www.lemonde.fr/planete/rss_full.xml",
+      "category": "monde"
+    },
+    {
+      "name": "Le Monde - Sciences",
+      "url": "https://www.lemonde.fr/sciences/rss_full.xml",
+      "category": "monde"
+    },
+    {
+      "name": "Le Monde - Pixels",
+      "url": "https://www.lemonde.fr/pixels/rss_full.xml",
+      "category": "monde"
+    },
+    {
+      "name": "BBC Science & Environment",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "category": "monde"
     }
   ]
 }

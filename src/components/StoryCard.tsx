@@ -1,24 +1,21 @@
 import { useState, memo } from 'react';
-import { MapPin, Globe, TrendingUp, Landmark } from 'lucide-react';
+import { MapPin, Globe, Sparkles } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import type { Story, Category } from '@/types';
 
 const CATEGORY_LABELS = {
   geopolitique: 'Géopolitique',
-  economie: 'Économie',
-  politique: 'Politique',
+  monde: 'Monde',
 } as const;
 
 const CATEGORY_ICONS = {
   geopolitique: Globe,
-  economie: TrendingUp,
-  politique: Landmark,
+  monde: Sparkles,
 } as const;
 
 const CATEGORY_COLORS = {
   geopolitique: 'from-rose-900/80 to-rose-950',
-  economie: 'from-sky-900/80 to-sky-950',
-  politique: 'from-violet-900/80 to-violet-950',
+  monde: 'from-amber-900/80 to-amber-950',
 } as const;
 
 interface StoryCardProps {
