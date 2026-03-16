@@ -419,13 +419,16 @@ ${articlesDetail}`;
     // Use sources from Claude's response if available, otherwise all sources
     const usedSources = storyData.usedSources || sources;
 
-    // Find best image from articles matching the selected topic
+    // Find best image — only from articles relevant to the synthesized topic
+    // Require minimum relevance to avoid unrelated images (beer for energy crisis)
+    const MIN_IMAGE_RELEVANCE = 0.1;
     const articlesWithValidImage = articles
       .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl))
       .map((a) => ({
         ...a,
         relevance: titleSimilarity(storyData.title, a.title),
       }))
+      .filter((a) => a.relevance >= MIN_IMAGE_RELEVANCE)
       .sort((a, b) => {
         if (Math.abs(a.relevance - b.relevance) > 0.1) return b.relevance - a.relevance;
         return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
@@ -576,6 +579,7 @@ ${articlesDetail}` }],
         const articlesWithValidImage = recentGeopo
           .filter((a: RawArticle) => a.imageUrl && isValidEditorialImage(a.imageUrl))
           .map((a: RawArticle) => ({ ...a, relevance: titleSimilarity(storyData.title, a.title) }))
+          .filter((a: { relevance: number }) => a.relevance >= 0.1)
           .sort((a: { relevance: number; publishedAt: string }, b: { relevance: number; publishedAt: string }) => {
             if (Math.abs(a.relevance - b.relevance) > 0.1) return b.relevance - a.relevance;
             return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
