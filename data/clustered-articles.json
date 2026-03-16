@@ -1,87 +1,76 @@
 {
-  "generatedAt": "2026-03-16T09:52:13.696Z",
+  "generatedAt": "2026-03-16T10:04:05.568Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "Municipales 2026 en direct : les grandes manœuvres sont lancées en vue du second",
+      "topic": "Nouvelles attaques de drones russes sur Kiev, Kharkiv et Zaporijia",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-16-9935c6a5",
-          "title": "Municipales 2026 en direct : les grandes manœuvres sont lancées en vue du second tour",
-          "description": "Paris, Lyon, Marseille, Toulouse... Au lendemain du premier tour des municipales 2026, le suspense demeure sur l'issue du scrutin dans plusieurs villes françaises. Les têtes de liste ont jusqu'à mardi soir pour décider si elles se maintiennent, fusionnent ou se désistent en vue du second tour. Suivez en direct la première journée des tractations.",
-          "url": "https://www.france24.com/fr/france/20260316-municipales-2026-en-direct-grandes-man%C5%93uvres-en-vue-du-second-tour-paris-lyon-marseille-villes-france",
-          "imageUrl": "https://s.france24.com/media/display/3cfb26dc-2115-11f1-9f2e-005056bfb2b6/w:1024/p:16x9/000-A29P9KE.jpg",
+          "id": "2026-03-16-3f2a9ff3",
+          "title": "Nouvelles attaques de drones russes sur Kiev, Kharkiv et Zaporijia",
+          "description": "Des explosions en série ont retenti lundi matin dans le centre de Kiev, les autorités faisant état d'une rare attaque de drones russes en pleine journée sur la capitale ukrainienne, alors que des frappes russes ont également été signalées dans l'est du pays, à Kharkiv et  Zaporijia.",
+          "url": "https://www.france24.com/fr/europe/20260316-nouvelles-attaques-drones-russes-kiev-kharkiv-zaporijia",
+          "imageUrl": "https://s.france24.com/media/display/6b5fe61c-2119-11f1-8835-005056bfb2b6/w:1024/p:16x9/AP26075281757794.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-03-16T09:18:23.000Z",
-          "fetchedAt": "2026-03-16T09:40:59.225Z"
+          "publishedAt": "2026-03-16T09:52:39.000Z",
+          "fetchedAt": "2026-03-16T10:00:05.220Z"
         },
         {
-          "id": "2026-03-16-1a297b40",
-          "title": "Le Mexique enregistre une baisse des homicides, mais “la violence n’a pas disparu”",
-          "description": "Alors que le gouvernement mexicain vient d’annoncer une baisse notable du taux d’homicides dans le pays, la presse appelle toutefois à relativiser ces chiffres. Elle rappelle que, dans un Mexique toujours marqué par une violence persistante, le nombre de disparitions reste alarmant.",
-          "url": "https://www.courrierinternational.com/article/criminalite-le-mexique-enregistre-une-baisse-des-homicides-mais-la-violence-n-a-pas-disparu_241741",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/11/0/0/3600/2400/1200/630/60/0/af30f5b_ftp-1-1ijw9gvxbmvn-mexico-cartels-2.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T09:07:11.000Z",
-          "fetchedAt": "2026-03-16T09:40:49.143Z"
-        },
-        {
-          "id": "2026-03-16-2d3ea7d8",
-          "title": "Contre le VIH, un traitement préventif “révolutionnaire” déployé en Afrique",
-          "description": "Après une année marquée par les coupes budgétaires de l’administration Trump, qui ont ébranlé la lutte contre le VIH à travers le monde, un nouveau traitement de PrEP injectable ne nécessitant que deux injections par an est déployé en Afrique. Reste à savoir si les pays concernés recevront assez de doses du médicament pour lutter efficacement contre l’épidémie.",
-          "url": "https://www.courrierinternational.com/article/sante-contre-le-vih-un-traitement-preventif-revolutionnaire-deploye-en-afrique_241679",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/07/0/61/1749/1166/1200/630/60/0/0ac1bd2_ftp-1-lf9ydink3xw4-2026-03-07t101320z-817653641-rc2xyja15nsw-rtrmadp-3-kenya-hiv-drug.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T08:24:20.000Z",
-          "fetchedAt": "2026-03-16T09:40:49.143Z"
-        },
-        {
-          "id": "2026-03-16-3f89d067",
-          "title": "Nigeria: à un an de la présidentielle, le paysage politique en pleine recomposition",
-          "description": "À moins d'un an de l'élection présidentielle au Nigeria, le paysage politique est en pleine recomposition. Le Parti démocratique populaire, le PDP, autrefois principal parti d'opposition, est en pleine crise, voire au bord de l'implosion alors que la nouvelle coalition d'opposition - le Congrès démocratique africain (ADC) - doit se choisir un candidat pour la présidentielle à venir.",
-          "url": "https://www.rfi.fr/fr/afrique/20260316-nigeria-%C3%A0-un-an-de-la-pr%C3%A9sidentielle-le-paysage-politique-en-pleine-recomposition",
-          "imageUrl": "https://s.rfi.fr/media/display/184cd560-2101-11f1-b713-005056bf30b7/w:1024/p:16x9/AP23306794130543.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T06:28:46.000Z",
-          "fetchedAt": "2026-03-16T09:40:59.962Z"
-        },
-        {
-          "id": "2026-03-16-e07f7227",
-          "title": "Génocide des Yézidis: ouverture d’un procès historique en France",
-          "description": "C’est une première dans l’Hexagone. Un jihadiste français, présumé mort en Syrie, va être jugé par défaut pour génocide et crimes contre l'humanité au préjudice de la minorité religieuse yézidie.",
-          "url": "https://www.rfi.fr/fr/france/20260316-g%C3%A9nocide-des-y%C3%A9zidis-ouverture-d-un-proc%C3%A8s-historique-en-france",
-          "imageUrl": "https://s.rfi.fr/media/display/213f1020-108c-11ea-9c25-005056a99247/w:1024/p:16x9/000_nic6361311_0.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T06:00:47.000Z",
-          "fetchedAt": "2026-03-16T09:40:59.962Z"
-        },
-        {
-          "id": "2026-03-16-c4018987",
-          "title": "« Avec l’opération “Fureur épique”, les Etats-Unis font de la pop culture un langage de la violence du Pentagone »",
-          "description": "Dans une tribune au « Monde », le chargé d’études à l’université Paris-I Panthéon-Sorbonne Louis Lapeyrie s’intéresse aux glissements visuels et narratifs de la communication militaire de l’administration Trump et interroge les nombreux emprunts faits au jeu vidéo.",
-          "url": "https://www.lemonde.fr/idees/article/2026/03/16/avec-l-operation-fureur-epique-les-etats-unis-font-de-la-pop-culture-un-langage-de-la-violence-du-pentagone_6671369_3232.html",
+          "id": "2026-03-16-ff90da1e",
+          "title": "EN DIRECT, guerre en Ukraine : Kiev ciblée par une rare attaque de drones russes en plein jour ; des explosions signalées et des débris retrouvés dans le centre de la capitale",
+          "description": "Les sirènes d’alerte aérienne ont retenti vers 7 h 20 (6 h 20 à Paris), et des explosions ainsi que l’activité des systèmes de défense aérienne ont été entendues une vingtaine de minutes plus tard, selon des journalistes sur place. « L’attaque ennemie contre Kiev est en cours. Restez dans les abris », a mis en garde le maire de Kiev.",
+          "url": "https://www.lemonde.fr/international/live/2026/03/16/en-direct-guerre-en-ukraine-les-dernieres-informations-au-lundi-16-mars_6671255_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-16T05:40:34.000Z",
-          "fetchedAt": "2026-03-16T09:40:47.901Z"
+          "publishedAt": "2026-03-16T06:00:38.000Z",
+          "fetchedAt": "2026-03-16T09:59:50.720Z"
+        },
+        {
+          "id": "2026-03-16-6ed72dcf",
+          "title": "À Moscou, le chef de la diplomatie kényane veut stopper les enrôlements forcés dans l'armée russe",
+          "description": "Le chef de la diplomatie kényane, Musalia Mudavadi s’est envolé dimanche 15 mars 2026 pour Moscou pour mettre un terme aux enrôlements forcés des Kényans au sein de l'armée russe. Ils seraient plus de 1 000 à avoir été recrutés d’après un rapport des services de renseignement, présenté au Parlement en février.",
+          "url": "https://www.rfi.fr/fr/afrique/20260316-%C3%A0-moscou-le-chef-de-la-diplomatie-k%C3%A9nyane-veut-stopper-les-enr%C3%B4lements-forc%C3%A9s-dans-l-arm%C3%A9e-russe",
+          "imageUrl": "https://s.rfi.fr/media/display/d337fff8-06f8-11f1-ae41-005056a90284/w:1024/p:16x9/000-47PQ7YZ.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-16T04:19:10.000Z",
+          "fetchedAt": "2026-03-16T10:00:05.893Z"
+        },
+        {
+          "id": "2026-03-15-2f05847c",
+          "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+          "description": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
+          "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/889d/live/bdc18c80-2065-11f1-99b3-4b0aa65020b6.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-15T12:00:35.000Z",
+          "fetchedAt": "2026-03-16T10:00:06.245Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Avec la guerre contre l’Iran, la Chine découvre la vulnérabilité de ses intérêts",
+      "id": "cluster-5",
+      "topic": "Pétrole : la Chine préparée à la crise actuelle",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
+        {
+          "id": "2026-03-16-b947645a",
+          "title": "Pétrole : la Chine préparée à la crise actuelle",
+          "description": "Malgré les tensions au Moyen-Orient, l’Iran laisse circuler certains pétroliers dans le détroit d’Ormuz… Mais uniquement ceux transportant du pétrole vers la Chine. Une décision qui souligne l’importance stratégique de Pékin pour Téhéran.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260316-p%C3%A9trole-la-chine-pr%C3%A9par%C3%A9e-%C3%A0-la-crise-actuelle",
+          "imageUrl": "https://s.france24.com/media/display/b27cfca4-2116-11f1-8d4e-005056bf30b7/w:1024/p:16x9/capture-4339114769b7c6de87e696-34362992.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-16T09:46:56.000Z",
+          "fetchedAt": "2026-03-16T10:00:05.220Z"
+        },
         {
           "id": "2026-03-16-fa997c83",
           "title": "Avec la guerre contre l’Iran, la Chine découvre la vulnérabilité de ses intérêts au Moyen-Orient",
@@ -91,7 +80,7 @@
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-03-16T09:00:06.000Z",
-          "fetchedAt": "2026-03-16T09:40:47.901Z"
+          "fetchedAt": "2026-03-16T09:59:50.720Z"
         },
         {
           "id": "2026-03-16-c1e4f735",
@@ -102,38 +91,38 @@
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-03-16T05:00:13.000Z",
-          "fetchedAt": "2026-03-16T09:40:47.901Z"
-        },
-        {
-          "id": "2026-03-15-532c9b51",
-          "title": "L'Iran met en garde contre \"toute action\" pouvant étendre la guerre",
-          "description": "Sous les bombes israélo-américaines depuis deux semaines, Téhéran a exhorté dimanche 15 mars les autres nations du monde à s'abstenir de \"toute action\" pouvant étendre la guerre, après un appel américain à sécuriser le stratégique détroit d'Ormuz. Nous en parlons avec notre chroniqueur David Delos.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260315-l-iran-met-en-garde-contre-toute-action-pouvant-%C3%A9tendre-la-guerre",
-          "imageUrl": "https://s.france24.com/media/display/b009b30a-208e-11f1-9f07-005056bfb2b6/w:1024/p:16x9/FR-20260315-170646-171209-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T16:52:45.000Z",
-          "fetchedAt": "2026-03-16T09:40:59.225Z"
-        },
-        {
-          "id": "2026-03-15-97230317",
-          "title": "VIDEO Guerre au Moyen-Orient : des éclats de missiles iraniens ont fait trois blessés et endommagé plusieurs sites",
-          "description": "Un communiqué de la police israélienne indique que de petites bombes, issues d’une ogive à fragmentation, ont touché plusieurs endroits en Israël.",
-          "url": "https://www.lemonde.fr/videos/video/2026/03/15/guerre-au-moyen-orient-des-eclats-de-missiles-iraniens-ont-fait-trois-blesses-et-endommage-plusieurs-sites-israelien_6671297_1669088.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T15:15:17.000Z",
-          "fetchedAt": "2026-03-16T09:40:47.901Z"
+          "fetchedAt": "2026-03-16T09:59:50.720Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "Cisjordanie : quatre membres d'une famille palestinienne tués par les forces isr",
+      "id": "cluster-6",
+      "topic": "Israël annonce un assaut terrestre contre le Hezbollah au Liban",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
+        {
+          "id": "2026-03-16-638912b4",
+          "title": "Israël annonce un assaut terrestre contre le Hezbollah au Liban",
+          "description": "Israël a annoncé lundi 16 mars le lancement d'opérations terrestres contre le Hezbollah pro-iranien au Liban, pendant que son allié américain presse les grandes puissances de s'impliquer pour rouvrir le détroit d'Ormuz verrouillé par l'Iran. Nous en parlons avec notre correspondant Serge Berberi.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260316-isra%C3%ABl-annonce-un-assaut-terrestre-contre-le-hezbollah-au-liban",
+          "imageUrl": "https://s.france24.com/media/display/2c245f2c-211a-11f1-947d-005056bf30b7/w:1024/p:16x9/FR-20260316-090152-090639-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-16T09:45:08.000Z",
+          "fetchedAt": "2026-03-16T10:00:05.220Z"
+        },
+        {
+          "id": "2026-03-16-23a61043",
+          "title": "Dans le sud du Liban, les habitants craignent une invasion israélienne",
+          "description": "De nombreux habitants choisissent de braver les ordres d’évacuation israéliens, de peur de ne jamais pouvoir revenir sur leurs terres. L’armée israélienne a lancé des « opérations terrestres limitées et ciblées » contre le Hezbollah.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/16/au-sud-du-liban-les-habitants-craignent-une-invasion-israelienne_6671385_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-16T09:40:43.000Z",
+          "fetchedAt": "2026-03-16T09:59:50.720Z"
+        },
         {
           "id": "2026-03-16-6537effa",
           "title": "Cisjordanie : quatre membres d'une famille palestinienne tués par les forces israéliennes",
@@ -143,7 +132,7 @@
           "source": "France 24",
           "category": "geopolitique",
           "publishedAt": "2026-03-16T07:55:31.000Z",
-          "fetchedAt": "2026-03-16T09:40:59.225Z"
+          "fetchedAt": "2026-03-16T10:00:05.220Z"
         },
         {
           "id": "2026-03-15-03ed4442",
@@ -154,45 +143,23 @@
           "source": "RFI",
           "category": "geopolitique",
           "publishedAt": "2026-03-15T21:29:41.000Z",
-          "fetchedAt": "2026-03-16T09:40:59.962Z"
+          "fetchedAt": "2026-03-16T10:00:05.893Z"
         },
         {
-          "id": "2026-03-15-e3ff9c97",
-          "title": "Gaza : une tempête de sable balaie les camps de tentes de réfugiés",
-          "description": "Une tempête de sable à Gaza a détruit les abris et emporté les effets personnels de Palestiniens déplacés.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260315-gaza-une-temp%C3%AAte-de-sable-balaie-les-camps-de-tentes-de-r%C3%A9fugi%C3%A9s",
-          "imageUrl": "https://s.france24.com/media/display/4fdc870c-2091-11f1-a961-005056bf30b7/w:1024/p:16x9/GAZA-FR-vignette.jpg",
-          "source": "France 24",
+          "id": "2026-03-15-5b1c4397",
+          "title": "Guerre au Moyen-Orient: Benyamin Netanyahu balaye les rumeurs sur sa mort dans une vidéo",
+          "description": "La rumeur a enflammé la toile tout au long de la journée de ce samedi 14 mars 2026 : le Premier ministre israélien Benyamin Netanyahu serait mort. Relayée massivement sur les réseaux sociaux, l’infox a fait le tour du monde avant d'être balayée par une mise en scène pour le moins inhabituelle ce dimanche. Le Premier ministre israélien s'est affiché dans un café, une tasse à la main, pour prouver qu'il est bien aux commandes. Un démenti sous forme de vidéo diffusé par son bureau qui n'a pas calmé les ardeurs de Téhéran, bien au contraire.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260315-guerre-au-moyen-orient-benyamin-netanyahu-balaye-les-rumeurs-sur-sa-mort-dans-une-vid%C3%A9o",
+          "imageUrl": "https://s.rfi.fr/media/display/8a9842be-1de9-11f1-93a0-005056a97e36/w:1024/p:16x9/2026-02-26T123845Z-946169346-RC2OTJA49CG7-RTRMADP-3-ISRAEL-INDIA.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-15T17:08:27.000Z",
-          "fetchedAt": "2026-03-16T09:40:59.225Z"
-        },
-        {
-          "id": "2026-03-15-92c8ef4e",
-          "title": "Gaza : une tempête de sable touche des tentes de réfugiés déjà délabrées",
-          "description": "Une tempête de sable s'est abattue sur Gaza, provocant d'importants murs de poussières.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260315-gaza-une-temp%C3%AAte-de-sable-touche-des-tentes-de-r%C3%A9fugi%C3%A9s-d%C3%A9j%C3%A0-d%C3%A9labr%C3%A9es",
-          "imageUrl": "https://s.france24.com/media/display/0d822f92-2073-11f1-9a42-005056a97e36/w:1024/p:16x9/FR-20260315-132337-132510-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T16:17:57.000Z",
-          "fetchedAt": "2026-03-16T09:40:59.225Z"
-        },
-        {
-          "id": "2026-03-15-2ed8ec8a",
-          "title": "L’armée israélienne tue un couple palestinien et deux de ses enfants en Cisjordanie",
-          "description": "Quatre membres d’une famille palestinienne ont été tués dans la nuit du 14 au 15 mars alors qu’ils rentraient dans leur village après avoir fait des courses à Naplouse. Ces deux dernières semaines, onze Palestiniens ont été tués par des militaires israéliens ou par des colons, rapporte “The Guardian”.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-l-armee-israelienne-tue-un-couple-palestinien-et-deux-de-ses-enfants-en-cisjordanie_241782",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/15/1/0/7623/5082/1200/630/60/0/fe7195f_ftp-1-emv2mlvfgins-afp-a3bn2a6.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T16:12:32.000Z",
-          "fetchedAt": "2026-03-16T09:40:49.143Z"
+          "publishedAt": "2026-03-15T17:21:49.000Z",
+          "fetchedAt": "2026-03-16T10:00:05.893Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
+      "id": "cluster-12",
       "topic": "Et si les voitures électriques avaient une autonomie infinie ? Ce que ça changer",
       "category": "tech",
       "importance": 10,
@@ -206,7 +173,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-03-15T17:35:00.000Z",
-          "fetchedAt": "2026-03-16T09:41:01.048Z"
+          "fetchedAt": "2026-03-16T10:00:07.878Z"
         },
         {
           "id": "2026-03-15-cab703fc",
@@ -217,7 +184,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-03-15T15:27:00.000Z",
-          "fetchedAt": "2026-03-16T09:41:01.048Z"
+          "fetchedAt": "2026-03-16T10:00:07.878Z"
         },
         {
           "id": "2026-03-15-be2aa26d",
@@ -228,7 +195,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-03-15T07:48:00.000Z",
-          "fetchedAt": "2026-03-16T09:41:01.048Z"
+          "fetchedAt": "2026-03-16T10:00:07.878Z"
         },
         {
           "id": "2026-03-14-9b3abf84",
@@ -239,7 +206,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-03-14T13:03:00.000Z",
-          "fetchedAt": "2026-03-16T09:41:01.048Z"
+          "fetchedAt": "2026-03-16T10:00:07.878Z"
         },
         {
           "id": "2026-03-14-51fe07ce",
@@ -250,7 +217,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-03-14T10:04:00.000Z",
-          "fetchedAt": "2026-03-16T09:41:01.048Z"
+          "fetchedAt": "2026-03-16T10:00:07.878Z"
         }
       ]
     },
@@ -265,11 +232,11 @@
           "title": "Alcohol-free beer and pet grooming used to measure inflation",
           "description": "Houmous and motorhomes are also added to the basket of goods and services used to chart the rising cost of living.",
           "url": "https://www.bbc.com/news/articles/c8eg3g4lklno?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b262/live/4bb387f0-1eef-11f1-8cb7-433d6fa8d367.jpg",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ea0c/live/d87054b0-211b-11f1-801d-ed3cff6bf876.jpg",
           "source": "BBC Business",
           "category": "eco",
           "publishedAt": "2026-03-16T09:30:34.000Z",
-          "fetchedAt": "2026-03-16T09:41:04.924Z"
+          "fetchedAt": "2026-03-16T10:00:16.712Z"
         }
       ]
     }
