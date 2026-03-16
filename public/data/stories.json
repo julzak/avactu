@@ -1,85 +1,56 @@
 {
-  "date": "2026-03-15T06:16:18.921Z",
+  "date": "2026-03-16T06:54:02.121Z",
   "stories": [
     {
-      "id": "2026-03-15-03",
+      "id": "2026-03-16-02",
       "category": "geopolitique",
-      "title": "Israël mobilise ses conscrits dans la guerre élargie",
-      "imageUrl": "https://s.france24.com/media/display/86496c7e-06fb-11f1-b162-005056bfb2b6/w:1024/p:16x9/AP26028570925534.jpg",
+      "title": "Israël lance des opérations terrestres au Liban",
+      "imageUrl": "https://s.rfi.fr/media/display/23a7af98-2101-11f1-943c-005056a90284/w:1024/p:16x9/000-A3CA9NQ.jpg",
       "location": {
-        "lat": 32.0853,
-        "lng": 34.7818,
-        "name": "Tel Aviv, Israël"
+        "lat": 33.8547,
+        "lng": 35.8623,
+        "name": "Liban"
       },
       "bullets": [
-        "La base de Tel-HaShomer incorpore les appelés israéliens",
-        "L'Iran menace de tuer Netanyahu au 16e jour",
-        "Les États-Unis bombardent l'île pétrolière de Kharg",
-        "Le Hezbollah se prépare à une confrontation longue",
-        "Le détroit d'Ormuz reste fermé, pétrole perturbé"
+        "Israël annonce des opérations terrestres limitées contre le Hezbollah",
+        "L'Iran frappe les pays du Golfe avec drones",
+        "L'Arabie saoudite intercepte plus de 60 drones iraniens",
+        "L'Iran refuse les négociations avec Washington malgré Trump",
+        "Le détroit d'Ormuz devient un enjeu stratégique critique"
       ],
-      "execSummary": "Israël intensifie la mobilisation de ses conscrits à la base de Tel-HaShomer près de Tel-Aviv, dans le contexte d'une guerre élargie au 16e jour contre l'Iran et ses alliés. Les États-Unis ont bombardé l'île de Kharg, principal terminal pétrolier iranien représentant 90% des exportations de brut du pays, tandis que l'Iran maintient le blocage du détroit d'Ormuz. De fortes explosions ont frappé Manama, capitale de Bahreïn.\n\nIsraël justifie cette mobilisation massive par la nécessité de faire face à une guerre sur plusieurs fronts contre l'Iran, le Hezbollah au Liban et le Hamas. Les dirigeants israéliens préparent une vaste invasion terrestre du Liban jusqu'au fleuve Litani pour démanteler l'infrastructure militaire du Hezbollah, selon le média américain Axios. Cette incorporation est vécue comme un rite de passage patriotique par les jeunes appelés.\n\nL'Iran et ses alliés dénoncent une escalade dangereuse. Les Gardiens de la révolution iraniens ont juré de \"traquer et tuer\" Netanyahu, qualifié de \"criminel tueur d'enfants\". Le chef du Hezbollah Naïm Qassem s'est dit prêt à une \"longue confrontation\" avec Israël. Téhéran menace de \"réduire en cendres\" les infrastructures pétrolières américaines en cas de nouvelles attaques.\n\nLes enjeux énergétiques sont critiques avec la fermeture du détroit d'Ormuz, passage stratégique pour 20% du pétrole mondial. Le bombardement de Kharg perturbe les marchés énergétiques globaux. Donald Trump estime que d'autres pays \"doivent s'occuper\" de la sécurité du détroit, suggérant un désengagement américain partiel de cette crise régionale majeure.",
+      "execSummary": "Au 17e jour du conflit israélo-américain contre l'Iran, Israël a annoncé lundi 16 mars le lancement d'« opérations terrestres limitées et ciblées » contre le Hezbollah dans le sud du Liban. Selon RFI et Le Monde, l'Arabie saoudite a intercepté plus de 60 drones iraniens depuis minuit, tandis que les Émirats arabes unis et Bahreïn subissent également des frappes. Le trafic aérien à Dubaï reste perturbé malgré une reprise progressive.\n\nIsraël justifie son escalade terrestre comme une réponse nécessaire aux attaques du Hezbollah, mouvement pro-iranien basé au sud du Liban. Selon France 24, Benyamin Netanyahu, malgré des rumeurs sur sa mort rapidement démenties, maintient sa stratégie offensive. Les forces israéliennes affirment cibler spécifiquement les infrastructures du Hezbollah pour neutraliser la menace à long terme.\n\nL'Iran dénonce cette escalade et met en garde contre « toute action pouvant étendre la guerre », selon France 24. Téhéran refuse catégoriquement les négociations avec Washington malgré les ouvertures de Donald Trump, selon Courrier International. L'Iran justifie ses frappes contre les pays du Golfe comme une riposte légitime aux bombardements israélo-américains subis depuis deux semaines.\n\nL'enjeu principal reste le contrôle du détroit d'Ormuz, artère vitale pour 20% du pétrole mondial. Plusieurs pays européens et asiatiques étudient la demande américaine de sécurisation de cette zone stratégique. Avec 850 morts au Liban selon Courrier International, le conflit risque de déstabiliser durablement l'équilibre géopolitique régional et l'approvisionnement énergétique mondial.",
       "sources": [
-        "Le Monde - International",
-        "France 24",
         "RFI",
-        "Courrier International",
-        "BBC World",
-        "Le Monde - Économie"
-      ],
-      "publishedAt": "2026-03-15T06:00:10.000Z"
-    },
-    {
-      "id": "2026-03-15-04",
-      "category": "geopolitique",
-      "title": "Les États-Unis attaquent l'Iran, choc pétrolier mondial",
-      "imageUrl": "https://focus.courrierinternational.com/2026/03/13/0/0/3808/2539/1200/630/60/0/f48a80f_upload-1-4kc2uvgb7obm-nyt-305429.jpg",
-      "location": {
-        "lat": 27.1881,
-        "lng": 50.1048,
-        "name": "Île de Kharg, Iran"
-      },
-      "bullets": [
-        "Les États-Unis frappent l'île pétrolière iranienne de Kharg",
-        "L'Iran menace les ports des Émirats, riposte attendue",
-        "Trump demande l'aide du Golfe pour sécuriser Ormuz",
-        "Téhéran exige l'expulsion des forces américaines de la région",
-        "Choc pétrolier mondial, la Russie en profite économiquement"
-      ],
-      "execSummary": "Les États-Unis ont lancé des frappes militaires contre l'Iran, notamment sur l'île de Kharg d'où partent 90% des exportations pétrolières iraniennes selon France 24. L'attaque contre l'ambassade américaine à Bagdad et les menaces iraniennes contre les ports des Émirats arabes unis témoignent de l'escalade régionale. Cette guerre marque le 15ème jour d'un conflit qui s'étend au-delà des frontières iraniennes.\n\nDonald Trump justifie cette offensive en réclamant l'aide des pays du Golfe pour sécuriser le détroit d'Ormuz, passage stratégique du pétrole mondial selon RFI. Les néoconservateurs américains, menacés par l'isolationnisme MAGA, saisissent cette guerre pour revenir sur le devant de la scène politico-médiatique rapporte Le Monde. L'administration Trump présente cette action comme nécessaire à la stabilité énergétique mondiale.\n\nL'Iran de son côté exige l'expulsion complète des forces américaines de la région et considère les infrastructures des alliés de Washington comme des \"cibles légitimes\" d'après France 24. Téhéran dénonce une agression injustifiée contre sa souveraineté. Contrairement aux espoirs de certains observateurs, le régime iranien ne s'effondre pas rapidement sous les frappes, comme le constate l'écrivaine franco-iranienne Sorour Kasmaï.\n\nCette guerre déclenche un nouveau choc pétrolier qui secoue l'économie mondiale déjà fragilisée par le conflit ukrainien selon Courrier International. L'historien Jean-Pierre Filiu identifie Vladimir Poutine comme \"le grand gagnant\" : l'envolée des prix du pétrole enrichit le budget russe tandis que cette nouvelle crise détourne l'attention occidentale de l'Ukraine. Les conséquences économiques à long terme s'annoncent dramatiques pour une planète déjà en difficulté.",
-      "sources": [
         "Le Monde - International",
         "Courrier International",
-        "RFI",
-        "BBC World",
-        "France 24",
-        "Le Monde - Économie"
+        "France 24"
       ],
-      "publishedAt": "2026-03-15T04:45:23.000Z"
+      "publishedAt": "2026-03-16T05:17:29.000Z"
     },
     {
-      "id": "2026-03-15-06",
+      "id": "2026-03-16-03",
       "category": "geopolitique",
-      "title": "La Russie frappe massivement l'Ukraine, 6 morts",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3e94/live/a81fc5f0-1ff1-11f1-ab95-594143e27d66.jpg",
+      "title": "L'Iran en guerre : entre normalisation et tensions régionales",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f3ba/live/cc0fefa0-20b2-11f1-801d-ed3cff6bf876.jpg",
       "location": {
-        "lat": 50.4501,
-        "lng": 30.5234,
-        "name": "Kiev, Ukraine"
+        "lat": 25.2854,
+        "lng": 51.531,
+        "name": "Doha, Qatar"
       },
       "bullets": [
-        "La Russie lance des frappes massives sur plusieurs régions ukrainiennes",
-        "Les attaques visent particulièrement les infrastructures énergétiques de Kiev",
-        "Au moins 6 morts et des dizaines de blessés recensés",
-        "Zelensky dénonce l'exploitation russe du conflit au Moyen-Orient",
-        "L'Ukraine réclame davantage de missiles de défense antiaérienne"
+        "Conflit armé entre l'Iran et une coalition israélo-américaine",
+        "Les marchés du Golfe reprennent progressivement leur activité",
+        "L'Iran menace les infrastructures pétrolières américaines régionales",
+        "Les États-Unis imposent des restrictions d'espace aérien",
+        "L'île de Kharg, terminal pétrolier stratégique iranien menacé"
       ],
-      "execSummary": "La Russie a mené samedi des frappes qualifiées de « massives » par les autorités ukrainiennes sur plusieurs régions d'Ukraine, causant la mort d'au moins six personnes et blessant des dizaines d'autres. Selon Le Monde et la BBC, les attaques ont ciblé les régions de Kiev, Soumy (nord), Kharkiv (nord-est), Dnipro (centre) et Mykolaïv (sud), avec un focus particulier sur les infrastructures énergétiques de la capitale ukrainienne.\n\nLe président ukrainien Volodymyr Zelensky a dénoncé ces bombardements en les reliant au contexte géopolitique plus large, affirmant selon la BBC que la Russie « exploite » la guerre en Iran pour intensifier ses attaques. Les autorités ukrainiennes présentent ces frappes comme une escalade délibérée visant à affaiblir les capacités énergétiques du pays à l'approche de l'hiver.\n\nDu côté russe, ces opérations s'inscrivent dans la stratégie militaire annoncée de ciblage des infrastructures critiques ukrainiennes. Moscou justifie traditionnellement ces frappes comme des réponses aux actions ukrainiennes et occidentales dans le conflit, bien que les sources consultées ne rapportent pas de déclaration officielle russe spécifique à ces attaques.\n\nCes bombardements soulignent la vulnérabilité persistante de l'Ukraine face aux attaques aériennes russes et relancent le débat sur l'approvisionnement en systèmes de défense antiaérienne. Zelensky a exprimé ses préoccupations concernant les stocks de missiles défensifs, tandis que la multiplication des cibles touchées révèle la capacité russe à maintenir une pression militaire soutenue sur l'ensemble du territoire ukrainien.",
+      "execSummary": "Une guerre oppose actuellement l'Iran à une coalition israélo-américaine, avec des frappes de missiles qui ont contraint à des restrictions d'espace aérien massives dans le Golfe. Selon la BBC, les marchés comme le Souq Waqif de Doha commencent à retrouver une activité normale deux semaines après le début des hostilités, tandis que les compagnies aériennes adaptent leurs routes pour éviter les zones de conflit. L'Iran justifie ses menaces contre les infrastructures pétrolières américaines de la région comme une réponse défensive, Téhéran menaçant de « réduire en cendres » ces installations si son terminal d'exportation de l'île de Kharg était attaqué. Les médias d'État iraniens présentent le conflit sous un angle favorable, gonflant les pertes ennemies et utilisant des manipulations numériques pour glorifier l'Iran, selon l'analyse de la BBC. Les États-Unis et leurs alliés maintiennent les restrictions aériennes pour protéger l'aviation civile, considérant que la sécurité des vols commerciaux reste compromise dans cette zone stratégique. L'enjeu dépasse le militaire : l'île de Kharg représente un point névralgique de l'industrie pétrolière iranienne et des marchés énergétiques mondiaux, sa neutralisation pourrait déstabiliser l'approvisionnement énergétique régional et provoquer une flambée des prix du pétrole à l'échelle internationale.",
       "sources": [
-        "Le Monde - International",
-        "BBC World"
+        "BBC World",
+        "Le Monde - Pixels",
+        "Le Monde - Planète"
       ],
-      "publishedAt": "2026-03-15T04:00:05.000Z"
+      "publishedAt": "2026-03-16T05:14:45.000Z"
     }
   ]
 }
