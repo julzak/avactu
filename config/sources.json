@@ -31,24 +31,39 @@
       "category": "geopolitique"
     },
     {
-      "name": "Le Monde - Planète",
-      "url": "https://www.lemonde.fr/planete/rss_full.xml",
-      "category": "monde"
-    },
-    {
-      "name": "Le Monde - Sciences",
-      "url": "https://www.lemonde.fr/sciences/rss_full.xml",
-      "category": "monde"
-    },
-    {
       "name": "Le Monde - Pixels",
       "url": "https://www.lemonde.fr/pixels/rss_full.xml",
-      "category": "monde"
+      "category": "tech"
     },
     {
-      "name": "BBC Science & Environment",
-      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "category": "monde"
+      "name": "Numerama",
+      "url": "https://www.numerama.com/feed/",
+      "category": "tech"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "category": "tech"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "category": "tech"
+    },
+    {
+      "name": "Le Monde - Économie",
+      "url": "https://www.lemonde.fr/economie/rss_full.xml",
+      "category": "eco"
+    },
+    {
+      "name": "Les Échos",
+      "url": "https://www.lesechos.fr/rss/rss_une.xml",
+      "category": "eco"
+    },
+    {
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "eco"
     }
   ]
 }

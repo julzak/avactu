@@ -26,7 +26,7 @@ interface RawArticle {
   url: string;
   imageUrl: string | null;
   source: string;
-  category: 'geopolitique' | 'monde';
+  category: 'geopolitique' | 'tech' | 'eco';
   publishedAt: string;
   fetchedAt: string;
 }
@@ -34,7 +34,7 @@ interface RawArticle {
 interface ArticleCluster {
   id: string;
   topic: string;
-  category: 'geopolitique' | 'monde';
+  category: 'geopolitique' | 'tech' | 'eco';
   importance: number;
   articles: RawArticle[];
 }
@@ -53,8 +53,8 @@ interface Location {
 
 interface Story {
   id: string;
-  category: 'geopolitique' | 'monde';
-  _clusterCategory?: 'geopolitique' | 'monde';
+  category: 'geopolitique' | 'tech' | 'eco';
+  _clusterCategory?: 'geopolitique' | 'tech' | 'eco';
   title: string;
   imageUrl: string;
   location: Location;
@@ -96,18 +96,22 @@ Ta mission : produire UNE synthèse qui croise ces sources de manière neutre et
 FILTRAGE DE PERTINENCE (CRITIQUE) :
 Avant de synthétiser, évalue si le sujet relève RÉELLEMENT de l'une des 2 catégories ci-dessous.
 
-Définitions strictes des catégories :
-- "geopolitique" : Relations entre ÉTATS ou blocs (diplomatie, conflits armés internationaux, sanctions, alliances, traités, tensions territoriales entre pays). Implique au moins 2 acteurs étatiques.
-- "monde" : Sujets d'intérêt général captivants pour un public 15-22 ans — tech, IA, espace, climat, science, société, santé, culture numérique, environnement, phénomènes de société. PAS d'économie pure (marchés, bourse, PIB) ni de politique intérieure (élections, réformes, partis).
+Définitions des catégories :
+- "geopolitique" : Politique et relations internationales OU événements politiques nationaux MAJEURS (élections, résultats électoraux, changements de gouvernement). Les élections municipales/présidentielles/législatives sont TOUJOURS pertinentes.
+- "tech" : Technologie, IA, espace, science, innovation, culture numérique, cybersécurité, réseaux sociaux, startups tech, cinéma/culture quand l'angle est tech ou phénomène de société (ex: Oscars, IA à Hollywood).
+- "eco" : Économie, business, marchés, entreprises, emploi, énergie, industrie à portée nationale ou internationale.
 
-SUJETS HORS SCOPE — réponds "hors_sujet" si le sujet est :
-- Faits divers (fusillades, meurtres, accidents, crimes) même spectaculaires, SAUF s'ils déclenchent une crise diplomatique entre États
-- Sport, divertissement, célébrités
-- Économie pure (marchés financiers, bourse, politique monétaire, PIB)
-- Politique intérieure (élections, réformes, débats parlementaires, partis politiques)
-- Catastrophes naturelles SAUF si elles provoquent une crise diplomatique avérée ou ont un impact environnemental majeur
+SUJETS HORS SCOPE — réponds "hors_sujet" UNIQUEMENT si :
+- Sport pur (résultats de matchs, transferts, compétitions sportives)
+- Faits divers locaux sans portée nationale
+- People/célébrités sans dimension politique, tech ou économique
 
-En cas de doute pour "monde" : le sujet doit être quelque chose qu'un ado curieux partagerait spontanément avec ses amis. Sinon c'est "hors_sujet".
+IMPORTANT : Les événements suivants ne sont JAMAIS hors sujet :
+- Élections (municipales, présidentielles, législatives) dans tout pays
+- Cérémonies culturelles majeures (Oscars, Cannes, etc.) → catégorie "tech"
+- Manifestations, mouvements sociaux → catégorie "geopolitique"
+
+En cas de doute : le sujet doit être quelque chose qu'un ado curieux partagerait avec ses amis. Garde-le.
 
 RÈGLES DE NEUTRALITÉ ABSOLUE :
 1. Cite au moins 2-3 sources différentes quand disponibles
@@ -133,7 +137,7 @@ FORMAT DE SORTIE (JSON strict, pas de markdown) :
 
 Si le sujet est pertinent :
 {
-  "category": "geopolitique" | "monde",
+  "category": "geopolitique" | "tech" | "eco",
   "title": "Titre factuel avec articles corrects (max 60 caractères)",
   "location": {
     "lat": <latitude>,
@@ -284,6 +288,174 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
   }
 }
 
+// System prompt for pool-based synthesis (tech/eco categories)
+const POOL_SYSTEM_PROMPT = `Tu es un analyste senior. Tu reçois une liste d'articles de presse d'une même catégorie thématique.
+
+Ta mission : identifier LE sujet le plus important/couvert par ces articles, puis produire UNE synthèse multi-sources sur ce sujet.
+
+ÉTAPES :
+1. Lis tous les articles
+2. Identifie le sujet qui apparaît dans le PLUS de sources différentes
+3. Ignore les articles qui ne traitent pas de ce sujet
+4. Synthétise uniquement les articles pertinents
+
+CATÉGORIE ATTENDUE : "%CATEGORY%"
+Définitions :
+- "geopolitique" : Politique et relations internationales OU événements politiques nationaux MAJEURS (élections, résultats électoraux, changements de gouvernement).
+- "tech" : Technologie, IA, espace, science, innovation, culture numérique, cybersécurité, réseaux sociaux, startups tech, cinéma/culture quand l'angle est tech ou phénomène de société (ex: Oscars, IA à Hollywood).
+- "eco" : Économie, business, marchés, entreprises, emploi, énergie, industrie à portée nationale ou internationale.
+
+SUJETS HORS SCOPE — réponds "hors_sujet" UNIQUEMENT si AUCUN sujet pertinent n'émerge :
+- Sport pur (résultats de matchs)
+- Faits divers locaux sans portée nationale
+- People/célébrités sans dimension politique, tech ou économique
+
+RÈGLES DE NEUTRALITÉ ABSOLUE :
+1. Cite au moins 2 sources différentes quand disponibles
+2. Présente les FAITS uniquement dans les bullets
+3. Si les sources se contredisent, mentionne-le
+
+STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
+- Paragraphe 1 : LES FAITS — Ce qui s'est passé, quand, où
+- Paragraphe 2 : CONTEXTE — Pourquoi c'est important
+- Paragraphe 3 : RÉACTIONS — Comment les acteurs réagissent
+- Paragraphe 4 : ENJEUX — Conséquences et perspectives
+
+RÈGLES DE FRANÇAIS :
+- Articles devant les noms de pays et institutions
+- N'écris PAS les articles en majuscules
+
+FORMAT DE SORTIE (JSON strict, pas de markdown) :
+
+Si un sujet pertinent émerge :
+{
+  "category": "%CATEGORY%",
+  "title": "Titre factuel (max 60 caractères)",
+  "location": { "lat": <latitude>, "lng": <longitude>, "name": "Lieu principal" },
+  "bullets": [
+    "Le fait principal (max 15 mots)",
+    "Le déclencheur (max 15 mots)",
+    "Réaction/position A (max 15 mots)",
+    "Réaction/position B (max 15 mots)",
+    "L'enjeu clé (max 15 mots)"
+  ],
+  "execSummary": "4 paragraphes (250-300 mots)",
+  "usedSources": ["Source 1", "Source 2"]
+}
+
+Si aucun sujet pertinent :
+{
+  "category": "hors_sujet",
+  "reason": "Explication courte"
+}
+
+IMPORTANT : Réponds UNIQUEMENT avec le JSON.`;
+
+/**
+ * Synthesize a story from a pool of all articles in a category.
+ * Claude picks the best topic covered by multiple sources.
+ */
+async function synthesizeFromPool(
+  client: Anthropic,
+  articles: RawArticle[],
+  category: 'tech' | 'eco',
+  storyIndex: number
+): Promise<Story | null> {
+  const articlesDetail = articles
+    .map(
+      (a, i) => `
+ARTICLE ${i + 1} (${a.source}) :
+Titre: ${a.title}
+Description: ${a.description}
+URL: ${a.url}
+`
+    )
+    .join('\n---\n');
+
+  const sources = [...new Set(articles.map((a) => a.source))];
+  const prompt = POOL_SYSTEM_PROMPT.replace(/%CATEGORY%/g, category);
+
+  const userPrompt = `Voici ${articles.length} articles de la catégorie "${category}" provenant de ${sources.length} sources (${sources.join(', ')}).
+
+Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.
+
+${articlesDetail}`;
+
+  try {
+    const response = await client.messages.create({
+      model: 'claude-sonnet-4-20250514',
+      max_tokens: 2048,
+      system: [
+        {
+          type: 'text' as const,
+          text: prompt,
+          cache_control: { type: 'ephemeral' as const },
+        },
+      ],
+      messages: [{ role: 'user', content: userPrompt }],
+    });
+
+    const content = response.content[0];
+    if (content.type !== 'text') {
+      throw new Error('Unexpected response type');
+    }
+
+    let jsonText = content.text.trim();
+    if (jsonText.startsWith('```json')) jsonText = jsonText.slice(7);
+    else if (jsonText.startsWith('```')) jsonText = jsonText.slice(3);
+    if (jsonText.endsWith('```')) jsonText = jsonText.slice(0, -3);
+    jsonText = jsonText.trim();
+
+    const storyData = JSON.parse(jsonText);
+
+    if (storyData.category === 'hors_sujet') {
+      console.log(`   ⊘ Rejeté (hors scope): ${storyData.reason || 'pas de raison'}`);
+      return null;
+    }
+
+    const today = new Date().toISOString().split('T')[0];
+    const id = `${today}-${String(storyIndex + 1).padStart(2, '0')}`;
+
+    // Use sources from Claude's response if available, otherwise all sources
+    const usedSources = storyData.usedSources || sources;
+
+    // Find best image from articles matching the selected topic
+    const articlesWithValidImage = articles
+      .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl))
+      .map((a) => ({
+        ...a,
+        relevance: titleSimilarity(storyData.title, a.title),
+      }))
+      .sort((a, b) => {
+        if (Math.abs(a.relevance - b.relevance) > 0.1) return b.relevance - a.relevance;
+        return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+      });
+
+    const imageUrl =
+      articlesWithValidImage[0]?.imageUrl ||
+      'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
+
+    const mostRecent = articles.reduce((latest, article) => {
+      return new Date(article.publishedAt) > new Date(latest.publishedAt) ? article : latest;
+    });
+
+    return {
+      id,
+      category,
+      title: storyData.title,
+      imageUrl,
+      location: storyData.location,
+      bullets: storyData.bullets,
+      execSummary: storyData.execSummary,
+      sources: usedSources,
+      publishedAt: mostRecent.publishedAt,
+    };
+  } catch (error) {
+    console.error(`   ✗ Erreur synthèse pool: ${error instanceof Error ? error.message : error}`);
+    return null;
+  }
+}
+
 /**
  * Main synthesis function
  */
@@ -307,30 +479,158 @@ async function synthesize(): Promise<void> {
   }
 
   const clusteredData: ClusteredInput = JSON.parse(readFileSync(CLUSTERED_PATH, 'utf-8'));
-  console.log(`📚 ${clusteredData.clusterCount} clusters chargés\n`);
+  console.log(`📚 ${clusteredData.clusterCount} clusters chargés`);
+
+  // Also load raw articles for pool-based synthesis (tech/eco)
+  const RAW_ARTICLES_PATH = join(__dirname, '..', 'data', 'raw-articles.json');
+  const rawData = JSON.parse(readFileSync(RAW_ARTICLES_PATH, 'utf-8'));
+  const rawArticles: RawArticle[] = rawData.articles;
 
   // Initialize Anthropic client
   const client = new Anthropic();
 
   // Synthesize stories
   const stories: Story[] = [];
+  let storyIndex = 0;
 
-  for (let i = 0; i < clusteredData.clusters.length; i++) {
-    const cluster = clusteredData.clusters[i];
+  // 1. Synthesize géopo clusters (traditional clustering)
+  const geopoClusters = clusteredData.clusters.filter(c => c.category === 'geopolitique');
+  console.log(`\n🌍 Géopolitique: ${geopoClusters.length} clusters`);
+
+  for (const cluster of geopoClusters) {
+    if (stories.filter(s => s.category === 'geopolitique').length >= 3) break;
     const sourcesList = [...new Set(cluster.articles.map((a) => a.source))].join(', ');
-
-    console.log(`📝 Synthèse ${i + 1}/${clusteredData.clusters.length}: ${cluster.topic}`);
+    console.log(`📝 Synthèse géopo ${storyIndex + 1}: ${cluster.topic.slice(0, 60)}`);
     console.log(`   Sources: ${sourcesList} (${cluster.articles.length} articles)`);
 
-    const story = await synthesizeStory(client, cluster, i);
+    const story = await synthesizeStory(client, cluster, storyIndex);
     if (story) {
       stories.push(story);
       console.log(`   ✓ "${story.title}" → ${story.sources.length} sources`);
+      storyIndex++;
     }
+    await new Promise((resolve) => setTimeout(resolve, 1500));
+  }
 
-    // Rate limiting
-    if (i < clusteredData.clusters.length - 1) {
-      await new Promise((resolve) => setTimeout(resolve, 1500));
+  // If géopo clusters didn't produce enough stories, use pool-based fallback
+  const geopoCount = stories.filter(s => s.category === 'geopolitique').length;
+  if (geopoCount < 3) {
+    const geopoArticles = rawArticles.filter((a: RawArticle) => a.category === 'geopolitique');
+    const needed = 3 - geopoCount;
+    console.log(`\n🌍 Géopo fallback: ${needed} story(ies) manquante(s), pool de ${geopoArticles.length} articles`);
+
+    // Sort by recency, take top 40 most recent
+    const recentGeopo = geopoArticles
+      .sort((a: RawArticle, b: RawArticle) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+      .slice(0, 40);
+
+    // Collect already-covered topics to exclude
+    const coveredTopics = stories.map(s => s.title).join(', ');
+
+    const geopoPoolPrompt = POOL_SYSTEM_PROMPT
+      .replace(/%CATEGORY%/g, 'geopolitique')
+      + (coveredTopics ? `\n\nSUJETS DÉJÀ COUVERTS (ne PAS les reprendre) : ${coveredTopics}` : '');
+
+    for (let i = 0; i < needed; i++) {
+      const excludeTopics = stories.filter(s => s.category === 'geopolitique').map(s => s.title);
+      const excludeStr = excludeTopics.length > 0
+        ? `\n\nATTENTION — SUJETS DÉJÀ COUVERTS (tu DOIS choisir un sujet COMPLÈTEMENT DIFFÉRENT, pas une variante du même conflit/événement) :\n${excludeTopics.map(t => `- ${t}`).join('\n')}`
+        : '';
+
+      const articlesDetail = recentGeopo
+        .map((a: RawArticle, idx: number) => `ARTICLE ${idx + 1} (${a.source}) :\nTitre: ${a.title}\nDescription: ${a.description}\nURL: ${a.url}`)
+        .join('\n---\n');
+
+      const sources = [...new Set(recentGeopo.map((a: RawArticle) => a.source))];
+
+      try {
+        const response = await client.messages.create({
+          model: 'claude-sonnet-4-20250514',
+          max_tokens: 2048,
+          system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
+          messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.
+Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.${excludeStr}
+
+${articlesDetail}` }],
+        });
+
+        const content = response.content[0];
+        if (content.type !== 'text') continue;
+
+        let jsonText = content.text.trim();
+        if (jsonText.startsWith('```json')) jsonText = jsonText.slice(7);
+        else if (jsonText.startsWith('```')) jsonText = jsonText.slice(3);
+        if (jsonText.endsWith('```')) jsonText = jsonText.slice(0, -3);
+        jsonText = jsonText.trim();
+
+        const storyData = JSON.parse(jsonText);
+        if (storyData.category === 'hors_sujet') {
+          console.log(`   ⊘ Rejeté: ${storyData.reason || 'hors scope'}`);
+          continue;
+        }
+
+        const today = new Date().toISOString().split('T')[0];
+        const id = `${today}-${String(storyIndex + 1).padStart(2, '0')}`;
+        const usedSources = storyData.usedSources || sources;
+
+        const articlesWithValidImage = recentGeopo
+          .filter((a: RawArticle) => a.imageUrl && isValidEditorialImage(a.imageUrl))
+          .map((a: RawArticle) => ({ ...a, relevance: titleSimilarity(storyData.title, a.title) }))
+          .sort((a: { relevance: number; publishedAt: string }, b: { relevance: number; publishedAt: string }) => {
+            if (Math.abs(a.relevance - b.relevance) > 0.1) return b.relevance - a.relevance;
+            return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+          });
+
+        const imageUrl = articlesWithValidImage[0]?.imageUrl || 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
+        const mostRecent = recentGeopo.reduce((latest: RawArticle, article: RawArticle) =>
+          new Date(article.publishedAt) > new Date(latest.publishedAt) ? article : latest
+        );
+
+        const story: Story = {
+          id,
+          category: 'geopolitique',
+          title: storyData.title,
+          imageUrl,
+          location: storyData.location,
+          bullets: storyData.bullets,
+          execSummary: storyData.execSummary,
+          sources: usedSources,
+          publishedAt: mostRecent.publishedAt,
+        };
+
+        stories.push(story);
+        console.log(`   ✓ "${story.title}" → ${story.sources.length} sources`);
+        storyIndex++;
+      } catch (error) {
+        console.error(`   ✗ Erreur: ${error instanceof Error ? error.message : error}`);
+      }
+
+      if (i < needed - 1) await new Promise((resolve) => setTimeout(resolve, 1500));
+    }
+  }
+
+  // 2. Synthesize tech from full article pool
+  const techArticles = rawArticles.filter(a => a.category === 'tech');
+  console.log(`\n💻 Tech: ${techArticles.length} articles dans le pool`);
+  if (techArticles.length > 0) {
+    const techStory = await synthesizeFromPool(client, techArticles, 'tech', storyIndex);
+    if (techStory) {
+      stories.push(techStory);
+      console.log(`   ✓ "${techStory.title}" → ${techStory.sources.length} sources`);
+      storyIndex++;
+    }
+    await new Promise((resolve) => setTimeout(resolve, 1500));
+  }
+
+  // 3. Synthesize eco from full article pool
+  const ecoArticles = rawArticles.filter(a => a.category === 'eco');
+  console.log(`\n💰 Éco: ${ecoArticles.length} articles dans le pool`);
+  if (ecoArticles.length > 0) {
+    const ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex);
+    if (ecoStory) {
+      stories.push(ecoStory);
+      console.log(`   ✓ "${ecoStory.title}" → ${ecoStory.sources.length} sources`);
+      storyIndex++;
     }
   }
 
@@ -370,7 +670,8 @@ async function synthesize(): Promise<void> {
 
   console.log(`\nPar catégorie:`);
   console.log(`  • Géopolitique: ${byCategory.geopolitique || 0}`);
-  console.log(`  • Monde: ${byCategory.monde || 0}`);
+  console.log(`  • Tech: ${byCategory.tech || 0}`);
+  console.log(`  • Éco: ${byCategory.eco || 0}`);
 
   // Sources stats
   const avgSources = stories.reduce((sum, s) => sum + s.sources.length, 0) / stories.length;

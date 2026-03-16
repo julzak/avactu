@@ -6,17 +6,20 @@ import type { Story } from '@/types';
 
 const CATEGORY_LABELS = {
   geopolitique: 'Géopolitique',
-  monde: 'Monde',
+  tech: 'Tech',
+  eco: 'Éco',
 } as const;
 
 const BULLET_GLOW = {
   geopolitique: 'shadow-glow-geopo-sm',
-  monde: 'shadow-glow-monde-sm',
+  tech: 'shadow-glow-tech-sm',
+  eco: 'shadow-glow-eco-sm',
 } as const;
 
 const BULLET_TEXT = {
   geopolitique: 'text-rose-400',
-  monde: 'text-amber-400',
+  tech: 'text-cyan-400',
+  eco: 'text-emerald-400',
 } as const;
 
 interface BriefCardProps {

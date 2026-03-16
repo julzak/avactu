@@ -10,7 +10,8 @@ import type { Story } from '@/types';
 
 const CATEGORY_LABELS = {
   geopolitique: 'Géopolitique',
-  monde: 'Monde',
+  tech: 'Tech',
+  eco: 'Éco',
 } as const;
 
 interface StoryDrawerProps {

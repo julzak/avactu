@@ -25,7 +25,7 @@ interface RawArticle {
   url: string;
   imageUrl: string | null;
   source: string;
-  category: 'geopolitique' | 'monde';
+  category: 'geopolitique' | 'tech' | 'eco';
   publishedAt: string;
   fetchedAt: string;
 }
@@ -39,7 +39,7 @@ interface RawArticlesInput {
 interface ArticleCluster {
   id: string;
   topic: string;
-  category: 'geopolitique' | 'monde';
+  category: 'geopolitique' | 'tech' | 'eco';
   importance: number;
   articles: RawArticle[];
 }
@@ -56,24 +56,21 @@ const CLUSTERED_PATH = join(__dirname, '..', 'data', 'clustered-articles.json');
 
 const TARGET_CLUSTERS = {
   geopolitique: 3,
-  monde: 3,
+  tech: 1,
+  eco: 1,
 };
 
-// Mots-clés sport/divertissement à exclure
+// Mots-clés sport à exclure (UNIQUEMENT le sport pur, pas la culture/cinéma)
 const EXCLUDED_KEYWORDS = new Set([
-  // Sports
   'football', 'soccer', 'cricket', 'rugby', 'tennis', 'basketball', 'golf',
-  'match', 'goal', 'scored', 'league', 'championship', 'tournament', 'cup',
+  'match', 'goal', 'scored', 'league', 'championship', 'tournament',
   'premier league', 'la liga', 'serie a', 'bundesliga', 'champions league',
-  'world cup', 'euro', 'olympic', 'olympics', 'athlete', 'player', 'coach',
+  'world cup', 'olympic', 'olympics', 'athlete', 'player', 'coach',
   'team', 'club', 'stadium', 'referee', 'penalty', 'offside', 'halftime',
   'mbappe', 'mbappé', 'ronaldo', 'messi', 'haaland', 'real madrid', 'barcelona',
   'manchester', 'liverpool', 'arsenal', 'chelsea', 'psg', 'bayern',
   't20', 'icc', 'odi', 'test match', 'wicket', 'batsman', 'bowler',
-  // Divertissement
-  'celebrity', 'movie', 'film', 'actor', 'actress', 'singer', 'concert',
-  'album', 'grammy', 'oscar', 'emmy', 'netflix', 'disney', 'streaming',
-  'reality show', 'kardashian', 'taylor swift', 'beyonce',
+  'kardashian', 'taylor swift', 'beyonce', 'reality show',
 ]);
 
 // Entités géopolitiques importantes (pays, régions, organisations)
@@ -241,6 +238,9 @@ function entitySimilarity(entities1: Set<string>, entities2: Set<string>): numbe
 
 /**
  * Combined similarity score
+ * Uses text similarity as primary signal. Entity overlap only boosts when
+ * there are 2+ shared SPECIFIC entities (avoids false matches on generic
+ * countries like "france" or "usa" appearing in unrelated articles).
  */
 function combinedSimilarity(
   tfidf1: Map<string, number>,
@@ -249,15 +249,16 @@ function combinedSimilarity(
   entities2: Set<string>
 ): number {
   const textSim = cosineSimilarity(tfidf1, tfidf2);
-  const entSim = entitySimilarity(entities1, entities2);
+  const intersection = new Set([...entities1].filter(x => entities2.has(x)));
 
-  // If entities match strongly, boost similarity
-  if (entSim >= 0.5) {
-    return Math.max(textSim, entSim * 0.8);
+  // Only boost if 2+ specific entities overlap (strong topical signal)
+  if (intersection.size >= 2) {
+    const entSim = entitySimilarity(entities1, entities2);
+    return Math.max(textSim, textSim * 0.5 + entSim * 0.5);
   }
 
-  // Weighted combination
-  return textSim * 0.6 + entSim * 0.4;
+  // Otherwise, text similarity only
+  return textSim;
 }
 
 /**
@@ -276,14 +277,14 @@ function clusterArticles(articles: RawArticle[]): ArticleCluster[] {
 
   console.log(`   → ${articles.length - filtered.length} articles sport/divertissement exclus`);
 
-  // Prepare data
-  const documents = filtered.map((a) => tokenize(`${a.title} ${a.description}`));
-  const entities = filtered.map((a) => extractEntities(`${a.title} ${a.description}`));
+  // Prepare data — use TITLES ONLY for clustering (more topic-specific than full text)
+  const documents = filtered.map((a) => tokenize(a.title));
+  const entities = filtered.map((a) => extractEntities(a.title));
   const vectors = buildTfIdf(documents);
 
   // Greedy clustering with centroid comparison
-  const SIMILARITY_THRESHOLD = 0.25;
-  const MAX_CLUSTER_SIZE = 12; // Prevent monster clusters
+  const SIMILARITY_THRESHOLD = 0.3;
+  const MAX_CLUSTER_SIZE = 6; // Keep clusters focused
   const clusters: ArticleCluster[] = [];
   const assigned = new Set<number>();
 
@@ -297,14 +298,10 @@ function clusterArticles(articles: RawArticle[]): ArticleCluster[] {
       if (assigned.has(j)) continue;
       if (clusterIndices.length >= MAX_CLUSTER_SIZE) break;
 
-      // Compare against ALL articles in the cluster (average similarity)
-      let totalSim = 0;
-      for (const idx of clusterIndices) {
-        totalSim += combinedSimilarity(vectors[idx], vectors[j], entities[idx], entities[j]);
-      }
-      const avgSimilarity = totalSim / clusterIndices.length;
+      // Compare against SEED article only (prevents topic drift)
+      const seedSim = combinedSimilarity(vectors[i], vectors[j], entities[i], entities[j]);
 
-      if (avgSimilarity >= SIMILARITY_THRESHOLD) {
+      if (seedSim >= SIMILARITY_THRESHOLD) {
         clusterIndices.push(j);
         assigned.add(j);
       }
@@ -364,7 +361,7 @@ function areSameTopic(cluster1: ArticleCluster, cluster2: ArticleCluster): boole
   const tokens2 = tokenize(text2);
   const vectors = buildTfIdf([tokens1, tokens2]);
   const textSim = cosineSimilarity(vectors[0], vectors[1]);
-  if (textSim >= 0.25) return true;
+  if (textSim >= 0.4) return true;
 
   return false;
 }
@@ -392,7 +389,8 @@ function selectBestClusters(clusters: ArticleCluster[]): ArticleCluster[] {
   // Sort by category and importance
   const byCategory = {
     geopolitique: [...multiSource, ...singleSource].filter((c) => c.category === 'geopolitique'),
-    monde: [...multiSource, ...singleSource].filter((c) => c.category === 'monde'),
+    tech: [...multiSource, ...singleSource].filter((c) => c.category === 'tech'),
+    eco: [...multiSource, ...singleSource].filter((c) => c.category === 'eco'),
   };
 
   for (const [category, target] of Object.entries(TARGET_CLUSTERS)) {
@@ -440,9 +438,19 @@ function cluster(): void {
   const rawData: RawArticlesInput = JSON.parse(readFileSync(RAW_ARTICLES_PATH, 'utf-8'));
   console.log(`📚 ${rawData.articleCount} articles bruts chargés\n`);
 
-  console.log('🔍 Filtrage et clustering...');
+  console.log('🔍 Filtrage et clustering par catégorie...');
   const startTime = Date.now();
-  const allClusters = clusterArticles(rawData.articles);
+
+  // Cluster each category separately to avoid mixing unrelated articles
+  const categories = [...new Set(rawData.articles.map(a => a.category))];
+  const allClusters: ArticleCluster[] = [];
+  for (const cat of categories) {
+    const catArticles = rawData.articles.filter(a => a.category === cat);
+    console.log(`\n   📂 ${cat.toUpperCase()} (${catArticles.length} articles)`);
+    const catClusters = clusterArticles(catArticles);
+    allClusters.push(...catClusters);
+  }
+
   const duration = Date.now() - startTime;
   console.log(`\n   → ${allClusters.length} clusters en ${duration}ms\n`);
 
@@ -493,7 +501,8 @@ function cluster(): void {
 
   console.log(`Par catégorie:`);
   console.log(`  • Géopolitique: ${byCategory.geopolitique || 0}`);
-  console.log(`  • Monde: ${byCategory.monde || 0}`);
+  console.log(`  • Tech: ${byCategory.tech || 0}`);
+  console.log(`  • Éco: ${byCategory.eco || 0}`);
 
   const totalArticles = selectedClusters.reduce((sum, c) => sum + c.articles.length, 0);
   const multiSourceCount = selectedClusters.filter((c) =>

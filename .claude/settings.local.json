@@ -6,7 +6,15 @@
       "Bash(npx tailwindcss:*)",
       "Bash(timeout 15 npm run dev)",
       "Bash(npm run build:*)",
-      "Bash(npm run curate:*)"
+      "Bash(npm run curate:*)",
+      "Bash(cat:*)",
+      "Bash(gh run:*)",
+      "Bash(npx tsx:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)"
     ]
   }
 }

@@ -17,8 +17,10 @@ const badgeVariants = cva(
         outline: "text-foreground",
         geopolitique:
           "border-transparent bg-rose-500 text-white",
-        monde:
-          "border-transparent bg-amber-500 text-white",
+        tech:
+          "border-transparent bg-cyan-500 text-white",
+        eco:
+          "border-transparent bg-emerald-500 text-white",
       },
     },
     defaultVariants: {

@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-03-16T06:53:19.837Z",
-  "clusterCount": 6,
+  "generatedAt": "2026-03-16T09:52:13.696Z",
+  "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Nigeria: à un an de la présidentielle, le paysage politique en pleine recomposit",
+      "id": "cluster-2",
+      "topic": "Municipales 2026 en direct : les grandes manœuvres sont lancées en vue du second",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
+        {
+          "id": "2026-03-16-9935c6a5",
+          "title": "Municipales 2026 en direct : les grandes manœuvres sont lancées en vue du second tour",
+          "description": "Paris, Lyon, Marseille, Toulouse... Au lendemain du premier tour des municipales 2026, le suspense demeure sur l'issue du scrutin dans plusieurs villes françaises. Les têtes de liste ont jusqu'à mardi soir pour décider si elles se maintiennent, fusionnent ou se désistent en vue du second tour. Suivez en direct la première journée des tractations.",
+          "url": "https://www.france24.com/fr/france/20260316-municipales-2026-en-direct-grandes-man%C5%93uvres-en-vue-du-second-tour-paris-lyon-marseille-villes-france",
+          "imageUrl": "https://s.france24.com/media/display/3cfb26dc-2115-11f1-9f2e-005056bfb2b6/w:1024/p:16x9/000-A29P9KE.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-16T09:18:23.000Z",
+          "fetchedAt": "2026-03-16T09:40:59.225Z"
+        },
+        {
+          "id": "2026-03-16-1a297b40",
+          "title": "Le Mexique enregistre une baisse des homicides, mais “la violence n’a pas disparu”",
+          "description": "Alors que le gouvernement mexicain vient d’annoncer une baisse notable du taux d’homicides dans le pays, la presse appelle toutefois à relativiser ces chiffres. Elle rappelle que, dans un Mexique toujours marqué par une violence persistante, le nombre de disparitions reste alarmant.",
+          "url": "https://www.courrierinternational.com/article/criminalite-le-mexique-enregistre-une-baisse-des-homicides-mais-la-violence-n-a-pas-disparu_241741",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/11/0/0/3600/2400/1200/630/60/0/af30f5b_ftp-1-1ijw9gvxbmvn-mexico-cartels-2.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-16T09:07:11.000Z",
+          "fetchedAt": "2026-03-16T09:40:49.143Z"
+        },
+        {
+          "id": "2026-03-16-2d3ea7d8",
+          "title": "Contre le VIH, un traitement préventif “révolutionnaire” déployé en Afrique",
+          "description": "Après une année marquée par les coupes budgétaires de l’administration Trump, qui ont ébranlé la lutte contre le VIH à travers le monde, un nouveau traitement de PrEP injectable ne nécessitant que deux injections par an est déployé en Afrique. Reste à savoir si les pays concernés recevront assez de doses du médicament pour lutter efficacement contre l’épidémie.",
+          "url": "https://www.courrierinternational.com/article/sante-contre-le-vih-un-traitement-preventif-revolutionnaire-deploye-en-afrique_241679",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/07/0/61/1749/1166/1200/630/60/0/0ac1bd2_ftp-1-lf9ydink3xw4-2026-03-07t101320z-817653641-rc2xyja15nsw-rtrmadp-3-kenya-hiv-drug.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-16T08:24:20.000Z",
+          "fetchedAt": "2026-03-16T09:40:49.143Z"
+        },
         {
           "id": "2026-03-16-3f89d067",
           "title": "Nigeria: à un an de la présidentielle, le paysage politique en pleine recomposition",
@@ -17,18 +50,7 @@
           "source": "RFI",
           "category": "geopolitique",
           "publishedAt": "2026-03-16T06:28:46.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
-        },
-        {
-          "id": "2026-03-16-127537a5",
-          "title": "Municipales à Paris: Grégoire largement en tête, Dati propose une «liste d'union» à Bournazel",
-          "description": "Cinq listes se sont qualifiées lundi pour le second tour des municipales à Paris, qui ont vu Emmanuel Grégoire arriver largement devant Rachida Dati, qui a proposé une fusion à son concurrent de centre-droit Pierre-Yves Bournazel.",
-          "url": "https://www.rfi.fr/fr/france/20260316-municipales-%C3%A0-paris-gr%C3%A9goire-largement-en-t%C3%AAte-dati-propose-une-liste-d-union-%C3%A0-bournazel",
-          "imageUrl": "https://s.rfi.fr/media/display/e2041944-20fd-11f1-a194-005056a97e36/w:1024/p:16x9/000-A29P9ZQ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T06:15:47.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
+          "fetchedAt": "2026-03-16T09:40:59.962Z"
         },
         {
           "id": "2026-03-16-e07f7227",
@@ -39,18 +61,7 @@
           "source": "RFI",
           "category": "geopolitique",
           "publishedAt": "2026-03-16T06:00:47.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
-        },
-        {
-          "id": "2026-03-16-118a57f1",
-          "title": "Pourquoi les maires jettent l’éponge ?",
-          "description": "Les 15 et 22 mars, les Français se rendent aux urnes pour les élections municipales. Les maires sont élus pour six ans, mais de plus en plus rendent l’écharpe avant la fin de leur mandat. Leurs démissions ont atteint un niveau sans précédent lors du mandat qui s’achève.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20260316-pourquoi-les-maires-jettent-l-%C3%A9ponge",
-          "imageUrl": "https://s.france24.com/media/display/5846e062-1eee-11f1-beda-005056a97e36/w:1024/p:16x9/CEF.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T06:00:09.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.036Z"
+          "fetchedAt": "2026-03-16T09:40:59.962Z"
         },
         {
           "id": "2026-03-16-c4018987",
@@ -61,169 +72,37 @@
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-03-16T05:40:34.000Z",
-          "fetchedAt": "2026-03-16T06:49:00.388Z"
-        },
-        {
-          "id": "2026-03-16-ec8eaf2f",
-          "title": "Afrique du Sud: l'armée déployée dans certains quartiers sensibles pour lutter contre les gangs",
-          "description": "L’armée sud-africaine a commencé à déployer ses effectifs dans certaines zones du pays afin de venir en soutien à la police pour lutter contre la criminalité. La mesure a été prise par le président Cyril Ramaphosa et plus de 2 000 soldats sont mobilisés. Ce n’est pas une première, mais cette fois-ci, l’opération est de grande envergure, pour à la fois mettre fin aux activités minières illégales, et pour rétablir l’ordre dans les quartiers tenus par les gangs.",
-          "url": "https://www.rfi.fr/fr/afrique/20260316-afrique-du-sud-l-arm%C3%A9e-d%C3%A9ploy%C3%A9e-dans-certains-quartiers-sensibles-pour-lutter-contre-les-gangs",
-          "imageUrl": "https://s.rfi.fr/media/display/0a9c866c-20f8-11f1-9e14-005056a90284/w:1024/p:16x9/AP26070405384118.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T05:28:03.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
-        },
-        {
-          "id": "2026-03-16-72189f06",
-          "title": "Municipales 2026: \"Un paysage politique éparpillé façon puzzle\"",
-          "description": "A la Une de la presse, ce lundi 16 mars, les réactions, en France, au premier tour des municipales, marqué par une faible participation - 56%, seulement. Les pourparlers les Etats-Unis et Cuba, qui a libéré 14 prisonniers politiques, samedi. La victoire annoncée de Denis Sassou Nguesso à la présidentielle au Congo-Brazzaville. La grosse boulette d’un espion russe. Et un nouveau sacre pour le pongiste français Félix Lebrun.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260316-municipales-2026-un-paysage-politique-%C3%A9parpill%C3%A9-fa%C3%A7on-puzzle",
-          "imageUrl": "https://s.france24.com/media/display/bb586144-20f6-11f1-a45e-005056bf30b7/w:1024/p:16x9/1-LES-ECHOS-1.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T05:18:26.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.036Z"
-        },
-        {
-          "id": "2026-03-16-b5a0cf7e",
-          "title": "RDC: Félix Tshisekedi crée par ordonnance le tribunal pénal économique et financier",
-          "description": "Le président Felix Tshisekedi a créé ce week-end par ordonnance le tribunal pénal économique et financier, une instance destinée à juger notamment les affaires de corruption, de détournement de fonds publics ou encore de blanchiment de capitaux. Un parquet y sera rattaché. Cette réforme répond à un constat préoccupant : de nombreux dossiers transmis aux parquets par les services de contrôle ou de renseignement n’aboutissaient pas, faute d’expertise suffisante au sein de la magistrature sur les questions financières. Les autorités veulent donc doter la justice congolaise d’outils plus adaptés.",
-          "url": "https://www.rfi.fr/fr/afrique/20260316-rdc-f%C3%A9lix-tshisekedi-cr%C3%A9%C3%A9-par-ordonnance-le-tribunal-p%C3%A9nal-%C3%A9conomique-et-financier",
-          "imageUrl": "https://s.rfi.fr/media/display/0128b08a-02bf-11f1-8cdc-005056bfb2b6/w:1024/p:16x9/2026-02-05T134807Z-2040728753-RC2OFJA6E8J0-RTRMADP-3-USA-TRUMP-PRAYER-BREAKFAST.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T05:09:31.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
-        },
-        {
-          "id": "2026-03-16-5a0a8510",
-          "title": "« L’aide publique au développement est un investissement stratégique pour la France »",
-          "description": "Alors que Christophe Lecourtier, actuel ambassadeur au Maroc, est pressenti pour remplacer Rémy Rioux à la tête de l’Agence française de développement, un collectif rappelle, dans une tribune au « Monde », que dans le contexte de rivalité internationale, l’aide publique au développement est un instrument légitime de soutien à nos entreprises.",
-          "url": "https://www.lemonde.fr/idees/article/2026/03/16/l-aide-publique-au-developpement-est-un-investissement-strategique-pour-la-france_6671362_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T05:00:04.000Z",
-          "fetchedAt": "2026-03-16T06:49:00.388Z"
-        },
-        {
-          "id": "2026-03-16-48742e4e",
-          "title": "Le Sénégal et les États-Unis signent un protocole d'accord sur la santé de 135 millions de dollars",
-          "description": "Le Sénégal et les États-Unis ont signé vendredi à Dakar un protocole d'accord sur la santé d'une valeur de 135 millions de dollars sur cinq ans. Il s'inscrit dans la nouvelle stratégie de santé mondiale de l'administration Trump, couvre des domaines prioritaires : VIH/Sida, paludisme, surveillance des maladies et préparation aux épidémies. Washington apportera 63 millions de dollars, Dakar co-investira 72 millions. Un accord présenté comme un partenariat équilibré mais qui soulève des questions, notamment sur le partage de données sanitaires.",
-          "url": "https://www.rfi.fr/fr/afrique/20260316-le-s%C3%A9n%C3%A9gal-et-les-%C3%A9tats-unis-signent-un-protocole-d-accord-sur-la-sant%C3%A9-de-135-millions-de-dollars",
-          "imageUrl": "https://s.rfi.fr/media/display/97b8a86e-435f-11ef-9849-005056bfb2b6/w:1024/p:16x9/000_33HA63Z.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T04:51:25.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
-        },
-        {
-          "id": "2026-03-16-1d7f30d8",
-          "title": "Municipales 2026 : percée du Rassemblement national et de La France insoumise au premier tour",
-          "description": "L’extrême droite et l’extrême gauche, généralement faible aux élections municipales, ont cette fois-ci “gagné du terrain”, exerçant une forte pression au 2e tour dans les deux plus grandes villes, Paris et Marseille.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-municipales-2026-percee-du-rassemblement-national-et-de-la-france-insoumise-au-premier-tour_241788",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/15/0/0/7497/4998/1200/630/60/0/8ca9f02_ftp-1-taxcislj1hjh-afp-a3dd277.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T04:25:19.000Z",
-          "fetchedAt": "2026-03-16T06:49:05.000Z"
-        },
-        {
-          "id": "2026-03-16-251b2465",
-          "title": "Financement libyen: Nicolas Sarkozy de retour devant la justice pour le procès en appel",
-          "description": "L’ancien chef d’État français et dix autres prévenus sont jugés en appel à partir d’aujourd’hui dans l’affaire des soupçons de financement libyen de la campagne présidentielle de 2007.C'est un nouveau marathon judiciaire de près de trois mois qui débute, ce lundi 16 mars, avec l'ouverture du procès en appel des soupçons de financement libyen devant le tribunal correctionnel de Paris. Les débats, qui seront menés par une nouvelle équipe de magistrats, doivent durer jusqu’au 3 juin. Tour d’horizon des prévenus, tous présumés innocents.",
-          "url": "https://www.rfi.fr/fr/france/20260316-financement-libyen-nicolas-sarkozy-de-retour-devant-la-justice-pour-le-proc%C3%A8s-en-appel",
-          "imageUrl": "https://s.rfi.fr/media/display/d8e893f6-10c9-11f1-b601-005056bf30b7/w:1024/p:16x9/AP25314477318200.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T04:19:26.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
+          "fetchedAt": "2026-03-16T09:40:47.901Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "EN DIRECT – Guerre au Moyen-Orient: Israël dit avoir lancé des «opérations terre",
+      "topic": "Avec la guerre contre l’Iran, la Chine découvre la vulnérabilité de ses intérêts",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-16-6cfa4b0d",
-          "title": "EN DIRECT – Guerre au Moyen-Orient: Israël dit avoir lancé des «opérations terrestres» au Liban",
-          "description": "Au 17e jour de la guerre au Moyen-Orient, l'armée israélienne a annoncé lundi 16 mars avoir lancé des « opérations terrestres limitées et ciblées » contre le mouvement pro-iranien Hezbollah dans le sud du Liban. Les pays du Golfe continuent à être visés par des drones, notamment Riyad, qui a annoncé en avoir intercepté plus de 60 au-dessus de son territoire depuis lundi 16 mars à minuit (dimanche 21h TU), selon le ministère de la Défense.",
-          "url": "https://www.rfi.fr/fr/monde/20260316-direct-guerre-au-moyen-orient-l-arabie-saoudite-a-intercept%C3%A9-plus-de-60-drones-depuis-minuit",
-          "imageUrl": "https://s.rfi.fr/media/display/23a7af98-2101-11f1-943c-005056a90284/w:1024/p:16x9/000-A3CA9NQ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-16T05:17:29.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
-        },
-        {
-          "id": "2026-03-16-62c48c0b",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Israël continue de bombarder intensément l’Iran, le trafic perturbé à l’aéroport de Dubaï",
-          "description": "Au dix-septième jour de la guerre lancée par Israël et les Etats-Unis, les vols sont en reprise progressive à Dubaï, un des aéroports les plus importants au monde. L’Arabie saoudite a annoncé l’interception de plus de 60 drones. Donald Trump, lui, a laissé entendre que Washington et Téhéran sont en « discussion ».",
-          "url": "https://www.lemonde.fr/international/live/2026/03/16/en-direct-guerre-au-moyen-orient-emmanuel-macron-dit-au-president-iranien-qu-il-est-inadmissible-que-la-france-soit-ciblee_6671147_3210.html",
+          "id": "2026-03-16-fa997c83",
+          "title": "Avec la guerre contre l’Iran, la Chine découvre la vulnérabilité de ses intérêts au Moyen-Orient",
+          "description": "Importateur de pétrole et investisseur dans les infrastructures et les technologies du Golfe, la Chine a fait du Moyen-Orient un pilier de son expansion économique. Le conflit régional révèle la fragilité de ce pari.",
+          "url": "https://www.lemonde.fr/economie/article/2026/03/16/avec-la-guerre-contre-l-iran-la-chine-decouvre-la-vulnerabilite-de-ses-interets-au-moyen-orient_6671382_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-16T04:57:41.000Z",
-          "fetchedAt": "2026-03-16T06:49:00.388Z"
+          "publishedAt": "2026-03-16T09:00:06.000Z",
+          "fetchedAt": "2026-03-16T09:40:47.901Z"
         },
         {
-          "id": "2026-03-15-5895f42f",
-          "title": "Guerre au Moyen-Orient: à Dubaï, les autorités cherchent à rassurer",
-          "description": "L'Iran poursuit ses frappes contre ses voisins du Golfe. Ce dimanche 15 mars, de fortes explosions ont retenti à Manama, la capitale du Bahreïn. L'Arabie saoudite dit de son côté avoir détruit dix drones dans l'est de son territoire et sa capitale Riyad. Les Émirats arabes unis ont eux aussi intercepté des missiles et des drones. Le pays qui se vante d'être l'un des plus sûrs est, depuis le début du conflit, l'un des plus touchés par ces frappes. Et c'est un coup dur pour Dubaï, qui s'est imposé comme une destination du tourisme mondial, paradis des influenceurs. C'est pour cela que les autorités tentent de rassurer.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260315-guerre-au-moyen-orient-%C3%A0-duba%C3%AF-les-autorit%C3%A9s-cherchent-%C3%A0-rassurer",
-          "imageUrl": "https://s.rfi.fr/media/display/a138f18a-20c8-11f1-a3f8-005056a90284/w:1024/p:16x9/000-A2VE22D.jpg",
-          "source": "RFI",
+          "id": "2026-03-16-c1e4f735",
+          "title": "Le marsouin du Yangzi, dernier cétacé d’eau douce chinois, sauvé de l’extinction grâce à l’interdiction de pêcher sur toute la longueur du fleuve",
+          "description": "La population de l’animal, surnommé « l’ange souriant du Yangzi », repart à la hausse, avec 177 individus supplémentaires recensés par rapport à 2022.",
+          "url": "https://www.lemonde.fr/planete/article/2026/03/16/en-chine-le-declin-du-marsouin-du-yangzi-enraye-par-l-interdiction-de-pecher-sur-toute-la-longueur-du-fleuve_6671365_3244.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-15T23:53:54.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
-        },
-        {
-          "id": "2026-03-15-03ed4442",
-          "title": "La Somalie hausse le ton contre le projet supposé d'Israël de construire une base militaire au Somaliland",
-          "description": "En décembre dernier, Israël a été le premier pays du monde à reconnaître le Somaliland. Cette région sécessioniste a déclaré son indépendance de la Somalie en 1991 et exerce de fait sa souveraineté, mais la Somalie continue de revendiquer ce territoire et aucun pays membre des Nations unies n'avait, jusqu'alors, reconnu le Somaliland officiellement. Les objectifs d'Israël ne faisaient pas grand doute, mais des révélations faites par un média suédois et, mercredi dernier, par l'agence britannique Bloomberg apportent des précisions sur le projet israélien de construire une base militaire au Somaliland. Un projet auquel la Somalie est tout à fait opposée.",
-          "url": "https://www.rfi.fr/fr/afrique/20260315-la-somalie-hausse-le-ton-contre-le-projet-suppos%C3%A9-d-isra%C3%ABl-de-construire-une-base-militaire-au-somaliland",
-          "imageUrl": "https://s.rfi.fr/media/display/638e7c82-20b5-11f1-b5b2-005056bf30b7/w:1024/p:16x9/000-98HX7GD.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T21:29:41.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
-        },
-        {
-          "id": "2026-03-15-9daa1137",
-          "title": "Guerre au Moyen-Orient : ce qu’il faut retenir de la journée du dimanche 15 mars",
-          "description": "Plusieurs pays, en Europe et en Asie, étudient les réponses à apporter à l’appel à l’aide de Donald Trump pour la sécurisation du détroit d’Ormuz. Téhéran a annoncé ne pas vouloir de pourparlers avec Washington, et les Israéliens sont prêts à poursuivre la guerre pendant plusieurs semaines. Au Liban, les frappes israéliennes ont fait 850 morts depuis le 2 mars.",
-          "url": "https://www.courrierinternational.com/article/recapitulatif-guerre-au-moyen-orient-ce-qu-il-faut-retenir-de-la-journee-du-dimanche-15-mars_241784",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/15/0/0/5500/3666/1200/630/60/0/a2372b8_ftp-1-xzxxqjpo6xdh-2026-03-15t083610z-1896967720-rc2u4kaeyegl-rtrmadp-3-iran-crisis-daily-life.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T18:04:05.000Z",
-          "fetchedAt": "2026-03-16T06:49:05.000Z"
-        },
-        {
-          "id": "2026-03-15-890a7482",
-          "title": "De nouvelles joueuses de l'équipe de football d'Iran retirent leur demande d'asile en Australie",
-          "description": "Trois nouvelles joueuses de la sélection iranienne de football ont décidé de retourner en Iran après avoir demandé, puis obtenu l'asile en Australie. La semaine passée, deux footballeuses, ainsi qu'un membre de l'encadrement, avaient retiré leur demande d'asile dans ce pays et se dirigeaient vers la Malaisie.",
-          "url": "https://www.france24.com/fr/sports/20260315-nouvelles-joueuses-%C3%A9quipe-football-iran-retirent-demande-asile-australie-guerre-moyen-orient",
-          "imageUrl": "https://s.france24.com/media/display/fdb89bc4-2094-11f1-bb2a-005056a90284/w:1024/p:16x9/AP26073858458410.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T17:43:41.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.036Z"
-        },
-        {
-          "id": "2026-03-15-5b1c4397",
-          "title": "Guerre au Moyen-Orient: Benyamin Netanyahu balaye les rumeurs sur sa mort dans une vidéo",
-          "description": "La rumeur a enflammé la toile tout au long de la journée de ce samedi 14 mars 2026 : le Premier ministre israélien Benyamin Netanyahu serait mort. Relayée massivement sur les réseaux sociaux, l’infox a fait le tour du monde avant d'être balayée par une mise en scène pour le moins inhabituelle ce dimanche. Le Premier ministre israélien s'est affiché dans un café, une tasse à la main, pour prouver qu'il est bien aux commandes. Un démenti sous forme de vidéo diffusé par son bureau qui n'a pas calmé les ardeurs de Téhéran, bien au contraire.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260315-guerre-au-moyen-orient-benyamin-netanyahu-balaye-les-rumeurs-sur-sa-mort-dans-une-vid%C3%A9o",
-          "imageUrl": "https://s.rfi.fr/media/display/8a9842be-1de9-11f1-93a0-005056a97e36/w:1024/p:16x9/2026-02-26T123845Z-946169346-RC2OTJA49CG7-RTRMADP-3-ISRAEL-INDIA.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T17:21:49.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
+          "publishedAt": "2026-03-16T05:00:13.000Z",
+          "fetchedAt": "2026-03-16T09:40:47.901Z"
         },
         {
           "id": "2026-03-15-532c9b51",
@@ -234,215 +113,163 @@
           "source": "France 24",
           "category": "geopolitique",
           "publishedAt": "2026-03-15T16:52:45.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.036Z"
+          "fetchedAt": "2026-03-16T09:40:59.225Z"
         },
         {
-          "id": "2026-03-15-dbeb7863",
-          "title": "Cisjordanie : quatre membres d'une famille tués par les forces de sécurité israéliennes",
-          "description": "Des dizaines de Palestiniens se sont rassemblés dimanche 15 mars dans le nord de la Cisjordanie pour les funérailles d'un couple et leurs deux jeunes enfants tués par des tirs de l'armée israélienne, au moment où le territoire occupé par Israël connaît une nouvelle vague de violences meurtrières. Nous en parlons avec notre correspondant à Jérusalem Stéphane Amar.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260315-cisjordanie-quatre-membres-d-une-famille-tu%C3%A9s-par-les-forces-de-s%C3%A9curit%C3%A9-isra%C3%A9liennes",
-          "imageUrl": "https://s.france24.com/media/display/2897f626-208d-11f1-bde3-005056a90284/w:1024/p:16x9/FR-20260315-160714-161038-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T16:48:11.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.036Z"
-        },
-        {
-          "id": "2026-03-15-bd40e185",
-          "title": "Le drone Shahed, symbole de la coopération entre l’Iran et la Russie",
-          "description": "Exporté par Téhéran vers Moscou, puis produit sur place sous licence, le drone-suicide a été enrichi de technologies de navigation et de brouillage russes, comme certains missiles utilisés par l’Iran dans la guerre lancée par les Etats-Unis et Israël.",
-          "url": "https://www.lemonde.fr/international/article/2026/03/15/le-drone-shahed-symbole-de-la-cooperation-entre-teheran-et-moscou_6671306_3210.html",
+          "id": "2026-03-15-97230317",
+          "title": "VIDEO Guerre au Moyen-Orient : des éclats de missiles iraniens ont fait trois blessés et endommagé plusieurs sites",
+          "description": "Un communiqué de la police israélienne indique que de petites bombes, issues d’une ogive à fragmentation, ont touché plusieurs endroits en Israël.",
+          "url": "https://www.lemonde.fr/videos/video/2026/03/15/guerre-au-moyen-orient-des-eclats-de-missiles-iraniens-ont-fait-trois-blesses-et-endommage-plusieurs-sites-israelien_6671297_1669088.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-15T16:27:35.000Z",
-          "fetchedAt": "2026-03-16T06:49:00.388Z"
-        },
-        {
-          "id": "2026-03-15-e8b830bf",
-          "title": "Liban : les déplacés vivent dans des conditions précaires",
-          "description": "De nombreux Libanais ont dû fuir leur domicile pour éviter les frappes israéliennes. Une partie d'entre eux n'a pas trouvé de refuge, les centres d'accueil de la capitale étant saturés. Nous en parlons avec notre correspondant Serge Berberi.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260315-liban-les-d%C3%A9plac%C3%A9s-vivent-dans-des-conditions-pr%C3%A9caires",
-          "imageUrl": "https://s.france24.com/media/display/c242b57c-2074-11f1-aa3b-005056bf30b7/w:1024/p:16x9/FR-20260315-140533-140922-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T16:19:10.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.036Z"
-        },
-        {
-          "id": "2026-03-15-c10709ed",
-          "title": "Hongrie: les partisans d'Orban et de son principal opposant Magyar défilent dans un contexte électoral tendu",
-          "description": "Ce dimanche 15 mars est jour de fête nationale en Hongrie, qui commémore le soulèvement de 1848 contre la domination autrichienne et le règne des Habsbourg. Le parti du Premier ministre souverainiste Viktor Orban et celui de son rival Péter Magyar ont chacun organisé un grand meeting pour mobiliser leurs électeurs, à quatre semaines des élections législatives.",
-          "url": "https://www.rfi.fr/fr/europe/20260315-hongrie-les-partisans-d-orban-et-de-son-principal-opposant-magyar-d%C3%A9filent-dans-un-contexte-%C3%A9lectoral-tendu",
-          "imageUrl": "https://s.rfi.fr/media/display/cc2cdf56-2086-11f1-bd21-005056a90284/w:1024/p:16x9/000-A3CB7KK.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T16:17:00.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.620Z"
+          "publishedAt": "2026-03-15T15:15:17.000Z",
+          "fetchedAt": "2026-03-16T09:40:47.901Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Ir",
+      "id": "cluster-7",
+      "topic": "Cisjordanie : quatre membres d'une famille palestinienne tués par les forces isr",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-16-7cb71f04",
-          "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-          "description": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
-          "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f3ba/live/cc0fefa0-20b2-11f1-801d-ed3cff6bf876.jpg",
-          "source": "BBC World",
+          "id": "2026-03-16-6537effa",
+          "title": "Cisjordanie : quatre membres d'une famille palestinienne tués par les forces israéliennes",
+          "description": "Des dizaines de Palestiniens étaient rassemblés dimanche dans le nord de la Cisjordanie pour les funérailles d'un couple et leurs deux jeunes enfants tués par des tirs de l'armée israélienne, au moment où le territoire occupé par Israël connaît une nouvelle vague de violences meurtrières.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260316-cisjordanie-quatre-membres-d-une-famille-palestinienne-tu%C3%A9s-par-les-forces-isra%C3%A9liennes",
+          "imageUrl": "https://s.france24.com/media/display/758aae64-2106-11f1-bce5-005056a97e36/w:1024/p:16x9/AP26074367822239.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-03-16T05:14:45.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.905Z"
+          "publishedAt": "2026-03-16T07:55:31.000Z",
+          "fetchedAt": "2026-03-16T09:40:59.225Z"
         },
         {
-          "id": "2026-03-16-e9db60f8",
-          "title": "How passenger planes keep flying during a war",
-          "description": "Airspace over Iran and the Gulf remains severely restricted following missile strikes, putting additional pressure on airlines.",
-          "url": "https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7dfa/live/d77b01f0-1edb-11f1-801d-ed3cff6bf876.jpg",
-          "source": "BBC World",
+          "id": "2026-03-15-03ed4442",
+          "title": "La Somalie hausse le ton contre le projet supposé d'Israël de construire une base militaire au Somaliland",
+          "description": "En décembre dernier, Israël a été le premier pays du monde à reconnaître le Somaliland. Cette région sécessioniste a déclaré son indépendance de la Somalie en 1991 et exerce de fait sa souveraineté, mais la Somalie continue de revendiquer ce territoire et aucun pays membre des Nations unies n'avait, jusqu'alors, reconnu le Somaliland officiellement. Les objectifs d'Israël ne faisaient pas grand doute, mais des révélations faites par un média suédois et, mercredi dernier, par l'agence britannique Bloomberg apportent des précisions sur le projet israélien de construire une base militaire au Somaliland. Un projet auquel la Somalie est tout à fait opposée.",
+          "url": "https://www.rfi.fr/fr/afrique/20260315-la-somalie-hausse-le-ton-contre-le-projet-suppos%C3%A9-d-isra%C3%ABl-de-construire-une-base-militaire-au-somaliland",
+          "imageUrl": "https://s.rfi.fr/media/display/638e7c82-20b5-11f1-b5b2-005056bf30b7/w:1024/p:16x9/000-98HX7GD.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-16T00:05:11.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.905Z"
+          "publishedAt": "2026-03-15T21:29:41.000Z",
+          "fetchedAt": "2026-03-16T09:40:59.962Z"
         },
         {
-          "id": "2026-03-16-0ae32983",
-          "title": "What Iranians are being told about the war",
-          "description": "Iranian state media's coverage of the war includes inflations of enemy casualties and digital manipulation intended to glorify Iran.",
-          "url": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/17fe/live/103bdfd0-1fbf-11f1-b048-c9424b2cf5fd.jpg",
-          "source": "BBC World",
+          "id": "2026-03-15-e3ff9c97",
+          "title": "Gaza : une tempête de sable balaie les camps de tentes de réfugiés",
+          "description": "Une tempête de sable à Gaza a détruit les abris et emporté les effets personnels de Palestiniens déplacés.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260315-gaza-une-temp%C3%AAte-de-sable-balaie-les-camps-de-tentes-de-r%C3%A9fugi%C3%A9s",
+          "imageUrl": "https://s.france24.com/media/display/4fdc870c-2091-11f1-a961-005056bf30b7/w:1024/p:16x9/GAZA-FR-vignette.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-03-16T00:05:01.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.905Z"
+          "publishedAt": "2026-03-15T17:08:27.000Z",
+          "fetchedAt": "2026-03-16T09:40:59.225Z"
         },
         {
-          "id": "2026-03-15-77d3c529",
-          "title": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
-          "description": "Five of the seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
-          "url": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/35d3/live/12929140-2094-11f1-a2d4-2940b41354f3.jpg",
-          "source": "BBC World",
+          "id": "2026-03-15-92c8ef4e",
+          "title": "Gaza : une tempête de sable touche des tentes de réfugiés déjà délabrées",
+          "description": "Une tempête de sable s'est abattue sur Gaza, provocant d'importants murs de poussières.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260315-gaza-une-temp%C3%AAte-de-sable-touche-des-tentes-de-r%C3%A9fugi%C3%A9s-d%C3%A9j%C3%A0-d%C3%A9labr%C3%A9es",
+          "imageUrl": "https://s.france24.com/media/display/0d822f92-2073-11f1-9a42-005056a97e36/w:1024/p:16x9/FR-20260315-132337-132510-CS.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-03-15T22:02:21.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.905Z"
+          "publishedAt": "2026-03-15T16:17:57.000Z",
+          "fetchedAt": "2026-03-16T09:40:59.225Z"
         },
         {
-          "id": "2026-03-15-69ede039",
-          "title": "How Iranians are evading internet blocks to contact family abroad",
-          "description": "Iranians are finding tech-savvy ways to get through the regime's restrictions on phone and internet connections.",
-          "url": "https://www.bbc.com/news/articles/ckgl58y5943o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5548/live/584aed00-1d5f-11f1-9120-a910fc22c6ac.jpg",
-          "source": "BBC World",
+          "id": "2026-03-15-2ed8ec8a",
+          "title": "L’armée israélienne tue un couple palestinien et deux de ses enfants en Cisjordanie",
+          "description": "Quatre membres d’une famille palestinienne ont été tués dans la nuit du 14 au 15 mars alors qu’ils rentraient dans leur village après avoir fait des courses à Naplouse. Ces deux dernières semaines, onze Palestiniens ont été tués par des militaires israéliens ou par des colons, rapporte “The Guardian”.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-l-armee-israelienne-tue-un-couple-palestinien-et-deux-de-ses-enfants-en-cisjordanie_241782",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/15/1/0/7623/5082/1200/630/60/0/fe7195f_ftp-1-emv2mlvfgins-afp-a3bn2a6.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-15T18:09:20.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.905Z"
-        },
-        {
-          "id": "2026-03-15-835eccbf",
-          "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-          "description": "Predictions markets have hosted millions of dollars of bets related to the war in Iran.",
-          "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5c41/live/70cd9010-1f0a-11f1-801d-ed3cff6bf876.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-15T00:01:31.000Z",
-          "fetchedAt": "2026-03-16T06:49:20.905Z"
-        },
-        {
-          "id": "2026-03-14-8a900265",
-          "title": "Pourquoi les plateformes laissent-elles proliférer les contenus générés par IA liés à la guerre ?",
-          "description": "Depuis le début de l’attaque israélo-américaine sur l’Iran, les réseaux sociaux laissent proliférer les contenus générés par IA sans indications sur leur nature.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/03/14/pourquoi-les-plateformes-laissent-elles-proliferer-les-contenus-generes-par-ia-lies-a-la-guerre_6671217_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "monde",
-          "publishedAt": "2026-03-14T16:00:00.000Z",
-          "fetchedAt": "2026-03-16T06:49:24.507Z"
-        },
-        {
-          "id": "2026-03-14-f02af8c8",
-          "title": "L’île de Kharg, point névralgique de l’industrie pétrolière iranienne et des marchés énergétiques mondiaux",
-          "description": "Téhéran a menacé de « réduire en cendres » les infrastructures pétrolières liées aux Etats-Unis dans la région en cas de nouvelle attaque sur son terminal d’exportation.",
-          "url": "https://www.lemonde.fr/economie/article/2026/03/14/l-ile-de-kharg-point-nevralgique-de-l-industrie-petroliere-iranienne-et-des-marches-energetiques-mondiaux_6671187_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Planète",
-          "category": "monde",
-          "publishedAt": "2026-03-14T10:28:23.000Z",
-          "fetchedAt": "2026-03-16T06:49:21.964Z"
+          "publishedAt": "2026-03-15T16:12:32.000Z",
+          "fetchedAt": "2026-03-16T09:40:49.143Z"
         }
       ]
     },
     {
-      "id": "cluster-20",
-      "topic": "Funding for green community initiatives",
-      "category": "monde",
-      "importance": 6,
+      "id": "cluster-11",
+      "topic": "Et si les voitures électriques avaient une autonomie infinie ? Ce que ça changer",
+      "category": "tech",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-03-15-adf7a3ab",
-          "title": "Funding for green community initiatives",
-          "description": "Staffordshire Moorlands District Council says projects can receive up to £5.000.",
-          "url": "https://www.bbc.com/news/articles/cx2gvw1z2gwo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/da87/live/603e4cd0-1bcc-11f1-964c-87b629a369ca.png",
-          "source": "BBC Science & Environment",
-          "category": "monde",
-          "publishedAt": "2026-03-15T07:32:42.000Z",
-          "fetchedAt": "2026-03-16T06:49:25.383Z"
+          "id": "2026-03-15-b3c0f2e0",
+          "title": "Et si les voitures électriques avaient une autonomie infinie ? Ce que ça changerait",
+          "description": "Depuis 15 ans, on entend toujours la même chose de la part des réfractaires à la voiture électrique : elle n'a pas assez d'autonomie. En pratique, l'écrasante majorité des possesseurs de véhicules branchés font le constat inverse, avec des voitures qui suffisent largement même pour les trajets les plus longs. On va tout de même jouer le jeu et se demander ce qui changerait dans notre quotidien si les voitures électriques n'étaient plus limitées par l'autonomie. Est-ce qu'on verrait une différence incroyable, ou bien serait-elle au contraire presque imperceptible ?",
+          "url": "https://www.numerama.com/vroom/2187527-et-si-les-voitures-electriques-avaient-une-autonomie-infinie-ce-que-ca-changerait.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/07/rechargeionity-full.jpg?resize=1600,900&key=b5d26432&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-03-15T17:35:00.000Z",
+          "fetchedAt": "2026-03-16T09:41:01.048Z"
         },
         {
-          "id": "2026-03-14-0aee9d7a",
-          "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
-          "description": "Storm Claudia devastated residents in Monmouth, with many still living with the damage.",
-          "url": "https://www.bbc.com/news/articles/c5ykkvn6pqgo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dd02/live/a6549c90-1f25-11f1-b048-c9424b2cf5fd.jpg",
-          "source": "BBC Science & Environment",
-          "category": "monde",
-          "publishedAt": "2026-03-14T07:19:55.000Z",
-          "fetchedAt": "2026-03-16T06:49:25.383Z"
+          "id": "2026-03-15-cab703fc",
+          "title": "Les cartes Magic Tortues Ninja réalisent un rêve que je ne soupçonnais pas",
+          "description": "Wizards of the Coast vient de lancer une extension complète de son célèbre jeu de cartes Magic aux couleurs de Tortues Ninja. Je suis pile la cible, adorant les deux univers diamétralement opposés.",
+          "url": "https://www.numerama.com/pop-culture/2209349-les-cartes-magic-tortues-ninja-realisent-un-reve-que-je-ne-soupconnais-pas.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/capture-decran-2026-03-15-a-103039.jpg?resize=1600,900&key=3d3f9665&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-03-15T15:27:00.000Z",
+          "fetchedAt": "2026-03-16T09:41:01.048Z"
+        },
+        {
+          "id": "2026-03-15-be2aa26d",
+          "title": "Renault change de ton et assume une stratégie beaucoup plus pragmatique",
+          "description": "Après des années d’annonces spectaculaires, Renault change de ton. La nouvelle stratégie mise moins sur le glamour… et davantage sur la solidité à toute épreuve. Revivez les annonces « FutuREady », comme si vous y étiez, au travers de mon édito Watt Else du 12 mars 2026.",
+          "url": "https://www.numerama.com/vroom/2209157-renault-change-de-ton-et-assume-une-strategie-beaucoup-plus-pragmatique.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/francois-provost-renault-futuready.jpg?resize=1600,900&key=15f4491a&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-03-15T07:48:00.000Z",
+          "fetchedAt": "2026-03-16T09:41:01.048Z"
+        },
+        {
+          "id": "2026-03-14-9b3abf84",
+          "title": "J’ai testé Runna pour courir mon premier semi-marathon : j’ai réussi, mais leur modèle est en danger de mort",
+          "description": "Défi idiot, crise de la presque quarantaine, pression populaire et professionnelle (on le dit peu, mais Humanoid est une boîte de sportives et de sportifs) : quelle que soit ma raison profonde, j'ai eu envie de courir un semi-marathon. Et pour m'aider dans cette tâche, moi qui n'ai pas couru depuis 15 ans, j'ai testé une app bien connue : Runna. Verdict : quelques jours après avoir passé la ligne d'arrivée du semi-marathon de Paris.",
+          "url": "https://www.numerama.com/tech/2198221-jai-teste-runna-pour-courir-mon-premier-semi-marathon-jai-reussi-mais-leur-modele-est-en-danger-de-mort.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/design-sans-titre-52.jpg?resize=1600,900&key=b63adb27&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-03-14T13:03:00.000Z",
+          "fetchedAt": "2026-03-16T09:41:01.048Z"
+        },
+        {
+          "id": "2026-03-14-51fe07ce",
+          "title": "Vous rêvez des couleurs du MacBook Neo sur votre Mac ? C’est possible avec une simple commande",
+          "description": "Apple permet de personnaliser l'apparence du système avec des couleurs différentes quand vous sélectionnez du texte ou cliquez sur un bouton. Les trois couleurs du MacBook Neo sont officiellement réservées au nouvel ordinateur d'Apple, mais il est possible de les débloquer avec une commande Terminal.",
+          "url": "https://www.numerama.com/tech/2209167-vous-revez-des-couleurs-du-macbook-neo-sur-votre-mac-cest-possible-avec-une-simple-commande.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/macbook-neo-dos.jpg?resize=1600,900&key=a0e12c1a&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-03-14T10:04:00.000Z",
+          "fetchedAt": "2026-03-16T09:41:01.048Z"
         }
       ]
     },
     {
-      "id": "cluster-21",
-      "topic": "The astronaut who took one giant leap for Manx-kind",
-      "category": "monde",
-      "importance": 5,
+      "id": "cluster-1",
+      "topic": "Alcohol-free beer and pet grooming used to measure inflation",
+      "category": "eco",
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-03-15-1fe38428",
-          "title": "The astronaut who took one giant leap for Manx-kind",
-          "description": "Retired astronaut Nicole Stott says being in space \"does make you look at Earth differently\".",
-          "url": "https://www.bbc.com/news/articles/cpqw0w0819yo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4591/live/895205a0-1ef9-11f1-8cb7-433d6fa8d367.jpg",
-          "source": "BBC Science & Environment",
-          "category": "monde",
-          "publishedAt": "2026-03-15T07:30:24.000Z",
-          "fetchedAt": "2026-03-16T06:49:25.383Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-22",
-      "topic": "Major hedgerow restoration project begins on farm",
-      "category": "monde",
-      "importance": 5,
-      "articles": [
-        {
-          "id": "2026-03-15-7a48efd2",
-          "title": "Major hedgerow restoration project begins on farm",
-          "description": "The restored hedgerows will boost wildlife and help farm productivity, says the National Trust.",
-          "url": "https://www.bbc.com/news/articles/cwyxzj0vxvyo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7772/live/231f2550-1f04-11f1-87bd-bb650a6d53bc.png",
-          "source": "BBC Science & Environment",
-          "category": "monde",
-          "publishedAt": "2026-03-15T06:19:57.000Z",
-          "fetchedAt": "2026-03-16T06:49:25.383Z"
+          "id": "2026-03-16-07f41bcf",
+          "title": "Alcohol-free beer and pet grooming used to measure inflation",
+          "description": "Houmous and motorhomes are also added to the basket of goods and services used to chart the rising cost of living.",
+          "url": "https://www.bbc.com/news/articles/c8eg3g4lklno?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b262/live/4bb387f0-1eef-11f1-8cb7-433d6fa8d367.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-03-16T09:30:34.000Z",
+          "fetchedAt": "2026-03-16T09:41:04.924Z"
         }
       ]
     }
