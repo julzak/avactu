@@ -1,130 +1,126 @@
 {
-  "date": "2026-03-17T06:18:33.352Z",
+  "date": "2026-03-18T06:18:38.902Z",
   "stories": [
     {
-      "id": "2026-03-17-01",
+      "id": "2026-03-18-01",
       "category": "geopolitique",
-      "title": "Les alliés refusent de suivre Trump dans le golfe Persique",
-      "imageUrl": "https://s.france24.com/media/display/bf5dc4a2-21c1-11f1-a414-005056bfb2b6/w:1024/p:16x9/11-IL-FATTO-QUOTIDIANO.jpg",
+      "title": "Un réseau de désinformation cible les pays de l'AES",
+      "imageUrl": "https://s.france24.com/media/display/5f9c78f0-2221-11f1-8f18-005056a97e36/w:1024/p:16x9/main-2-12.png",
       "location": {
-        "lat": 26.5667,
-        "lng": 56.25,
+        "lat": 12.3714,
+        "lng": -1.5197,
+        "name": "Ouagadougou, Burkina Faso"
+      },
+      "bullets": [
+        "Faux médias ciblent le Burkina Faso, le Mali et le Niger",
+        "Opérations lancées fin 2025 sur Facebook, TikTok et X",
+        "Comptes inauthentiques se font passer pour vrais journaux",
+        "Objectif : discréditer les gouvernements de l'Alliance des États",
+        "Menace la stabilité informationnelle au Sahel"
+      ],
+      "execSummary": "Depuis fin 2025, un vaste réseau de désinformation coordonné opère contre l'Alliance des États du Sahel (AES). Des comptes inauthentiques se faisant passer pour des médias légitimes - \"Scoop Africa\", \"La Dépêche africaine\", \"Ouaga FM\" ou \"La Voix du Faso\" - diffusent massivement de fausses informations sur Facebook, TikTok et X. Cette campagne cible spécifiquement le Burkina Faso, le Mali et le Niger, ainsi que la présence russe au Sahel. L'enquête conjointe de RFI et France 24 révèle un écosystème structuré qui gagne rapidement en influence.\n\nLes acteurs derrière ce réseau cherchent explicitement à déstabiliser les pouvoirs en place dans les trois pays de l'AES. Leurs publications visent à saper la crédibilité des gouvernements actuels et à alimenter la contestation interne. La stratégie repose sur l'usurpation d'identité médiatique pour donner une apparence de légitimité aux contenus manipulés. Ces faux médias exploitent les codes journalistiques pour tromper les audiences locales.\n\nLes gouvernements de l'AES n'ont pas encore réagi officiellement à cette révélation, mais ce type d'opération représente une menace directe pour leur stabilité politique. Les autorités de ces pays, déjà confrontées à des défis sécuritaires majeurs, doivent désormais faire face à une guerre informationnelle sophistiquée. La population sahélienne devient la cible d'une manipulation visant à influencer l'opinion publique.\n\nCette campagne de désinformation soulève des questions cruciales sur la sécurité informationnelle en Afrique de l'Ouest. L'identification de ce réseau par les cellules de vérification révèle l'ampleur du phénomène, mais aussi la difficulté à contrer ces opérations sur les plateformes numériques. L'enjeu dépasse les frontières nationales et menace la stabilité régionale, alors que les pays de l'AES tentent de consolider leur alliance face aux défis sécuritaires.",
+      "sources": [
+        "France 24",
+        "RFI"
+      ],
+      "publishedAt": "2026-03-18T06:00:09.000Z"
+    },
+    {
+      "id": "2026-03-18-02",
+      "category": "geopolitique",
+      "title": "Les Émirats continuent leurs livraisons d'armes au Soudan",
+      "imageUrl": "https://s.rfi.fr/media/display/fa56a868-2251-11f1-a611-005056a90284/w:1024/p:16x9/063-2149699660.jpg",
+      "location": {
+        "lat": 15.5007,
+        "lng": 32.5599,
+        "name": "Soudan"
+      },
+      "bullets": [
+        "Les Émirats arabes unis livrent toujours des armes aux paramilitaires soudanais",
+        "Les avions-cargos poursuivent leurs rotations malgré la guerre régionale",
+        "Des dizaines de milliers de vols commerciaux annulés au Moyen-Orient",
+        "Les Forces de soutien rapide continuent de recevoir leur approvisionnement",
+        "Le conflit soudanais s'internationalise avec ce soutien extérieur"
+      ],
+      "execSummary": "Malgré l'escalade de la guerre au Moyen-Orient qui a provoqué l'annulation de dizaines de milliers de vols commerciaux dans le golfe arabo-persique, les livraisons d'armes entre les Émirats arabes unis et les Forces de soutien rapide (FSR) au Soudan se poursuivent sans interruption. Les avions-cargos effectuent toujours leurs allers-retours réguliers pour approvisionner les paramilitaires soudanais, selon les informations du Monde.\n\nDu côté émirati, cette continuité des livraisons s'inscrit dans une stratégie géopolitique régionale où Abou Dhabi maintient ses engagements auprès de ses alliés, indépendamment des tensions qui secouent le Moyen-Orient. Les Émirats considèrent probablement que leur soutien aux FSR reste cohérent avec leurs intérêts stratégiques au Soudan et dans la Corne de l'Afrique.\n\nCette persistance des livraisons d'armes soulève des questions sur les priorités géopolitiques et l'engagement des Émirats dans le conflit soudanais, alors même que la région traverse une crise majeure. Les observateurs internationaux s'interrogent sur la cohérence de maintenir ces approvisionnements militaires dans un contexte aussi tendu.\n\nCette situation illustre la complexité des conflits régionaux interconnectés et pose la question de l'impact de cette aide militaire continue sur l'équilibre des forces au Soudan. L'internationalisation du conflit soudanais risque de prolonger les combats et d'aggraver la crise humanitaire, tandis que la région moyen-orientale fait face à ses propres défis sécuritaires.",
+      "sources": [
+        "Le Monde - International",
+        "RFI",
+        "France 24"
+      ],
+      "publishedAt": "2026-03-18T06:00:08.000Z"
+    },
+    {
+      "id": "2026-03-18-03",
+      "category": "geopolitique",
+      "title": "La Colombie accuse l'Équateur de bombarder son territoire",
+      "imageUrl": "https://s.france24.com/media/display/65752f14-222c-11f1-bb0b-005056bfb2b6/w:1024/p:16x9/7bceaa28e876489ac017d5fe6cb9bb69fe4e89a1.jpg",
+      "location": {
+        "lat": 0.1807,
+        "lng": -78.4678,
+        "name": "Quito, Équateur"
+      },
+      "bullets": [
+        "La Colombie accuse l'Équateur d'avoir largué une bombe sur son territoire",
+        "L'Équateur mène une offensive de deux semaines contre le narcotrafic",
+        "Gustavo Petro affirme détenir des preuves du bombardement équatorien",
+        "Daniel Noboa rejette ces accusations qu'il qualifie de « fausses »",
+        "Tensions diplomatiques entre voisins sur fond de lutte antidrogue"
+      ],
+      "execSummary": "Le président colombien Gustavo Petro a accusé lundi l'Équateur d'avoir bombardé le territoire colombien, affirmant détenir des preuves qu'une « bombe » a été larguée depuis un avion équatorien. Cette accusation intervient alors que l'Équateur a lancé dimanche une opération militaire de deux semaines contre les cartels de la drogue et les groupes criminels.\n\nDu côté colombien, Gustavo Petro maintient ses accusations en prétendant disposer de preuves concrètes du bombardement. La Colombie considère cet incident comme une violation de sa souveraineté territoriale par son voisin équatorien, dans un contexte où les deux pays partagent une frontière poreuse utilisée par les trafiquants.\n\nL'Équateur rejette catégoriquement ces allégations par la voix de son président Daniel Noboa, qui qualifie les accusations de « fausses ». Quito affirme que ses forces armées agissent exclusivement sur le territoire équatorien dans le cadre de leur offensive contre les groupes criminels liés au trafic de drogue, sans franchir la frontière colombienne.\n\nCet incident diplomatique survient à un moment critique où les deux nations luttent contre des cartels transnationaux particulièrement actifs dans la région frontalière. Les tensions risquent de compliquer la coopération bilatérale nécessaire pour combattre efficacement le narcotrafic, qui représente un défi sécuritaire majeur pour l'Amérique latine.",
+      "sources": [
+        "Le Monde - International",
+        "France 24"
+      ],
+      "publishedAt": "2026-03-18T02:01:43.000Z"
+    },
+    {
+      "id": "2026-03-18-04",
+      "category": "tech",
+      "title": "OpenClaw révolutionne l'IA avec des agents autonomes",
+      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/design-sans-titre-2026-03-17t103655181.jpg?resize=1600,900&key=661e588a&watermark",
+      "location": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "Pékin, Chine"
+      },
+      "bullets": [
+        "OpenClaw, agent IA autonome, connaît succès fulgurant Chine",
+        "Géants chinois Baidu, Alibaba, Tencent intègrent OpenClaw services",
+        "Nvidia lance NemoClaw pour sécuriser agents OpenClaw",
+        "Course commerciale s'intensifie entre entreprises chinoises",
+        "Sécurité et gouvernance agents IA deviennent priorité"
+      ],
+      "execSummary": "OpenClaw, un agent d'intelligence artificielle autonome développé par un programmeur autrichien, connaît un succès fulgurant en Chine selon Le Monde. Cet outil révolutionnaire permet aux utilisateurs de déléguer des tâches complexes à des agents IA capables d'agir de manière autonome, marquant une nouvelle étape dans l'évolution de l'intelligence artificielle.\n\nCette percée technologique intervient dans un contexte où la course mondiale à l'IA s'intensifie. Les agents autonomes représentent un saut qualitatif majeur par rapport aux chatbots traditionnels, car ils peuvent non seulement comprendre et répondre, mais aussi agir de manière indépendante pour accomplir des objectifs complexes. Cette capacité d'autonomie ouvre de nouvelles perspectives dans l'automatisation et la productivité.\n\nLes géants technologiques chinois Baidu, Alibaba et Tencent se livrent une course commerciale acharnée pour intégrer OpenClaw à leurs services et fidéliser leurs utilisateurs. Parallèlement, Nvidia a réagi en lançant NemoClaw le 16 mars 2026, une couche de sécurité et de gouvernance qui vient se superposer à OpenClaw, témoignant des préoccupations croissantes autour de la sécurisation de ces agents autonomes.\n\nL'émergence d'OpenClaw soulève des enjeux cruciaux de sécurité et de contrôle. Nvidia espère convaincre les entreprises que l'ère des agents IA peut se concilier avec la sécurité grâce à NemoClaw. Cette technologie pourrait transformer radicalement notre façon de travailler et d'interagir avec l'intelligence artificielle, mais nécessite un encadrement rigoureux pour éviter les dérives.",
+      "sources": [
+        "Le Monde - Pixels",
+        "Numerama"
+      ],
+      "publishedAt": "2026-03-18T05:30:05.000Z"
+    },
+    {
+      "id": "2026-03-18-05",
+      "category": "eco",
+      "title": "Guerre en Iran : flambée des prix énergétiques",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ec4c/live/718c1200-2163-11f1-b297-95b0a0a8331e.jpg",
+      "location": {
+        "lat": 26.0667,
+        "lng": 50.5577,
         "name": "Détroit d'Ormuz"
       },
       "bullets": [
-        "Les États-Unis demandent l'aide militaire pour débloquer Ormuz",
-        "L'Iran bloque les pétroliers depuis trois semaines de guerre",
-        "Trump menace l'OTAN de graves conséquences si refus",
-        "La France et l'Europe refusent l'entraînement dans le conflit",
-        "Les prix énergétiques s'envolent, économie mondiale menacée"
+        "Blocage du détroit d'Ormuz par l'Iran",
+        "Kérosène dépasse 200 dollars le baril en Europe",
+        "Gazole français atteint 2,01 euros le litre",
+        "53 millions de livres d'aide britannique annoncés",
+        "Port de Fujaïrah aux EAU touché"
       ],
-      "execSummary": "Après trois semaines de guerre impliquant l'Iran, Israël et les États-Unis, Donald Trump exige que ses alliés l'aident à débloquer le détroit d'Ormuz, passage stratégique fermé aux pétroliers. Le président américain menace l'OTAN de graves conséquences en cas de refus et reproche à ses partenaires leur manque d'entrain face à cette crise énergétique majeure. Trump justifie cette pression par l'urgence économique : les prix de l'énergie et des matières premières s'envolent depuis le début du conflit, mettant l'économie mondiale en péril. Il présente cette intervention comme nécessaire pour rétablir la liberté de navigation dans une zone cruciale pour les approvisionnements énergétiques mondiaux. Les alliés européens, menés par la France, refusent catégoriquement d'être entraînés dans ce qu'ils perçoivent comme une guerre américano-israélienne contre l'Iran. Selon Le Monde, Paris entend bien mener une coalition internationale pour libérer la navigation, mais seulement une fois les hostilités terminées. L'Union européenne examine la possibilité d'utiliser sa mission Aspides pour protéger le trafic maritime, mais rejette toute participation directe au conflit armé. Cette guerre au Moyen-Orient révèle l'isolement croissant de Trump sur la scène internationale et les limites de sa stratégie de pression sur les alliés. L'enjeu dépasse le militaire : avec 20% du pétrole mondial transitant par Ormuz, le blocage menace l'approvisionnement énergétique global et pourrait déclencher une crise économique majeure si la situation perdure.",
+      "execSummary": "La guerre en Iran a provoqué une crise énergétique majeure avec le blocage du détroit d'Ormuz, passage stratégique pour l'approvisionnement mondial en pétrole. Les prix des carburants raffinés s'envolent : le kérosène dépasse 200 dollars le baril en Europe tandis que le gazole français atteint 2,01 euros le litre. Le Moyen-Orient joue un rôle crucial pour ces combustibles en raison de l'expansion massive de ses capacités de raffinage ces dix dernières années. Les infrastructures énergétiques sont directement menacées, avec la frappe iranienne sur le port de Fujaïrah aux Émirats arabes unis, qui joue un rôle crucial pour maintenir les approvisionnements mondiaux quand le détroit d'Ormuz est bloqué. Face à cette crise, les gouvernements occidentaux mobilisent des moyens d'urgence. Le Premier ministre britannique Keir Starmer a annoncé un plan de soutien de 53 millions de livres pour aider les ménages vulnérables confrontés à la flambée des factures énergétiques, particulièrement ceux utilisant le fioul domestique. Les États-Unis travaillent également avec leurs alliés sur un plan de protection du détroit d'Ormuz. Cette crise énergétique menace de répercussions en cascade sur l'économie mondiale. Au-delà des coûts directs de l'énergie, elle pourrait affecter les prix alimentaires et créer une inflation généralisée. Les secteurs du transport aérien et du fret maritime sont particulièrement exposés, avec des vacanciers déjà contraints de modifier leurs destinations, privilégiant l'Espagne plutôt que Dubaï pour les vacances de Pâques.",
       "sources": [
-        "France 24",
-        "Courrier International",
-        "Le Monde - International"
+        "Le Monde - Économie",
+        "BBC Business"
       ],
-      "publishedAt": "2026-03-17T05:28:56.000Z"
-    },
-    {
-      "id": "2026-03-17-02",
-      "category": "geopolitique",
-      "title": "Crise énergétique : l'Europe divisée face à la flambée des prix",
-      "imageUrl": "https://s.rfi.fr/media/display/17a1ecb2-21a7-11f1-8bc5-005056bf30b7/w:1024/p:16x9/000-N610G.jpg",
-      "location": {
-        "lat": 50.8503,
-        "lng": 4.3517,
-        "name": "Bruxelles"
-      },
-      "bullets": [
-        "Flambée des prix de l'énergie en Europe",
-        "Fermeture du détroit d'Ormuz cause la crise",
-        "Pays asiatiques déclarent jours chômés pour économiser",
-        "Européens divisés sur retour pétrole russe",
-        "Réunion d'urgence des chefs d'État jeudi"
-      ],
-      "execSummary": "L'Europe traverse une crise énergétique majeure provoquée par la fermeture du détroit d'Ormuz dans le contexte de la guerre au Moyen-Orient. La flambée des prix de l'énergie pousse les gouvernements à prendre des mesures d'urgence, le Sri Lanka allant jusqu'à déclarer les mercredis chômés pour économiser le carburant. Cette crise pétrolière frappe particulièrement l'Asie du Sud-Est, très dépendante des hydrocarbures du Golfe.\n\nCette situation révèle la vulnérabilité énergétique européenne et remet en question les fondements de la politique énergétique des Vingt-Sept. Le blocage du passage stratégique d'Ormuz, par lequel transite une part significative du pétrole mondial, crée une pénurie qui force les États à repenser leurs approvisionnements énergétiques.\n\nFace à cette crise, les Européens se trouvent profondément divisés. Plusieurs pays membres poussent à revenir, au moins partiellement, sur les principes actuels : l'interdiction du pétrole russe et l'objectif de neutralité carbone en 2050. Cette remise en cause traduit le désarroi face à une situation qui échappe au contrôle européen.\n\nLes enjeux sont considérables pour l'Union européenne, qui doit concilier urgence énergétique et objectifs climatiques. La réunion des chefs d'État et de gouvernement prévue le 19 mars sera cruciale pour définir une réponse commune. Cette crise pourrait redéfinir durablement la stratégie énergétique européenne et tester la cohésion de l'Union face aux défis géopolitiques.",
-      "sources": [
-        "Le Monde",
-        "RFI",
-        "BBC World"
-      ],
-      "publishedAt": "2026-03-17T05:59:01.000Z"
-    },
-    {
-      "id": "2026-03-17-03",
-      "category": "geopolitique",
-      "title": "Guerre au Moyen-Orient : escalade régionale d'Israël",
-      "imageUrl": "https://s.rfi.fr/media/display/cc066994-21c0-11f1-ad4f-005056bfb2b6/w:1024/p:16x9/AP26075487209265.jpg",
-      "location": {
-        "lat": 33.8547,
-        "lng": 35.8623,
-        "name": "Beyrouth"
-      },
-      "bullets": [
-        "Israël lance des opérations terrestres au Liban",
-        "Frappes simultanées sur Téhéran et Beyrouth",
-        "Explosions à Dubaï et Doha rapportées",
-        "Ambassade américaine à Bagdad attaquée",
-        "110 000 réservistes israéliens mobilisés"
-      ],
-      "execSummary": "Israël a annoncé mardi le lancement d'opérations terrestres « ciblées et limitées » au Liban contre le Hezbollah, marquant une nouvelle escalade dans le conflit au Moyen-Orient entré dans son 18e jour. Parallèlement, l'armée israélienne a mené des frappes simultanées sur Téhéran et Beyrouth, tandis que plusieurs explosions ont retenti à Dubaï et Doha, étendant géographiquement les tensions.\n\nCette escalade s'inscrit dans la volonté d'Israël de démanteler définitivement l'infrastructure du Hezbollah dans le sud du Liban, considérant que les campagnes militaires précédentes ont été insuffisantes. L'État hébreu a mobilisé 110 000 réservistes, un nombre qui continue d'augmenter, témoignant de l'ampleur de l'engagement militaire envisagé.\n\nLes répercussions se multiplient dans la région. L'ambassade américaine à Bagdad a été visée par des drones et roquettes à deux reprises, quatre personnes ont été tuées dans une frappe sur une maison abritant des conseillers iraniens dans la capitale irakienne. Au Liban, près d'un habitant sur quatre a fui les zones de combat, incluant 250 000 travailleurs migrants pris au piège.\n\nCette offensive terrestre israélienne pourrait redéfinir le rapport de force avant d'éventuelles négociations diplomatiques, selon les analystes internationaux. Cependant, l'extension du conflit fait craindre une déstabilisation plus large du Moyen-Orient, avec des conséquences économiques mondiales déjà visibles, notamment sur les prix énergétiques et le blocage du détroit d'Ormuz.",
-      "sources": [
-        "RFI",
-        "Le Monde",
-        "France 24",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-03-17T05:59:01.000Z"
-    },
-    {
-      "id": "2026-03-17-04",
-      "category": "tech",
-      "title": "L'IA générative au cœur de controverses majeures",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grokashcroft.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "location": {
-        "lat": 37.7749,
-        "lng": -122.4194,
-        "name": "San Francisco"
-      },
-      "bullets": [
-        "xAI poursuivi pour génération d'images pédocriminelles",
-        "ChatGPT prépare un mode adulte contesté",
-        "Grok accusé de créer du CSAM réaliste",
-        "OpenAI critiqué par ses experts en santé mentale",
-        "Britannica attaque OpenAI pour violation de droits d'auteur"
-      ],
-      "execSummary": "L'intelligence artificielle générative fait face à une série de controverses majeures. xAI d'Elon Musk est poursuivi par trois adolescentes du Tennessee pour avoir généré des images et vidéos sexualisées d'elles via son chatbot Grok en « mode épicé ». Parallèlement, OpenAI se prépare à lancer un « mode adulte » pour ChatGPT autorisant du contenu érotique textuel, malgré l'opposition unanime de ses experts en santé mentale qui craignent des dérives vers la pornographie et l'aide au suicide.\n\nCes affaires révèlent les défis éthiques et légaux posés par l'IA générative. Les outils peuvent désormais créer du contenu sexuel réaliste à partir de photos réelles, soulevant des questions cruciales sur la protection des mineurs et le consentement. L'Encyclopedia Britannica a également porté plainte contre OpenAI, accusant GPT-4 d'avoir « mémorisé » et de reproduire quasi-textuellement ses contenus protégés.\n\nLes entreprises tech tentent de justifier leurs approches : OpenAI distingue « érotisme » et « pornographie », tandis qu'xAI affirme avoir renforcé ses garde-fous. Mais les critiques pointent l'insuffisance des mesures de vérification d'âge et les risques de contournement des protections. Les plaignantes contre xAI dénoncent l'hypocrisie d'Elon Musk, pourtant défenseur affiché de la protection de l'enfance.\n\nCes controverses marquent un tournant dans la régulation de l'IA générative. Elles posent des questions fondamentales sur les limites acceptables de ces technologies et leur impact sociétal. Les décisions judiciaires à venir pourraient définir le cadre légal de l'IA générative, entre innovation technologique et protection des utilisateurs vulnérables.",
-      "sources": [
-        "The Verge",
-        "Ars Technica",
-        "Numerama"
-      ],
-      "publishedAt": "2026-03-17T00:08:31.000Z"
-    },
-    {
-      "id": "2026-03-17-05",
-      "category": "eco",
-      "title": "Guerre en Iran : flambée du pétrole et crise énergétique",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ec4c/live/718c1200-2163-11f1-b297-95b0a0a8331e.jpg",
-      "location": {
-        "lat": 32.4279,
-        "lng": 53.688,
-        "name": "Iran"
-      },
-      "bullets": [
-        "Frappes américaines sur terminal pétrolier de Kharg (BBC/Le Monde)",
-        "Détroit d'Ormuz verrouillé par l'Iran (BBC/Le Monde)",
-        "Prix pétrole et énergie en forte hausse (BBC/Le Monde)",
-        "Starmer annonce 53M£ d'aide énergétique (BBC)",
-        "Perturbations transport aérien et tourisme (BBC/Le Monde)"
-      ],
-      "execSummary": "Les frappes américaines sur l'île de Kharg, terminal pétrolier stratégique iranien, ont déclenché une crise énergétique majeure. L'Iran a riposté en verrouillant le détroit d'Ormuz, passage crucial pour 20% des approvisionnements pétroliers mondiaux. Cette escalade militaire provoque une flambée des cours du pétrole et une raréfaction de l'offre d'hydrocarbures, selon les analyses du Monde et de la BBC. Le conflit révèle la vulnérabilité des chaînes d'approvisionnement énergétiques mondiales et menace la stabilité économique internationale. Les répercussions touchent directement les consommateurs européens, avec une hausse anticipée des prix de l'essence, des factures énergétiques et même des produits alimentaires. Face à cette crise, le Premier ministre britannique Keir Starmer a annoncé un plan d'aide de 53 millions de livres pour les ménages vulnérables confrontés à la flambée des coûts de chauffage. Les autorités britanniques envisagent d'autres interventions si nécessaire pour protéger les consommateurs. Parallèlement, le secteur du transport aérien subit un double choc : hausse du carburant et réorganisation des flux de trafic entre l'Europe, le Moyen-Orient et l'Asie. Les compagnies du Golfe, acteurs majeurs de ces liaisons, se trouvent fragilisées. L'impact s'étend au tourisme, avec des vacanciers détournant leurs destinations de Dubaï vers l'Espagne pour les vacances de Pâques.",
-      "sources": [
-        "BBC Business",
-        "Le Monde - Économie"
-      ],
-      "publishedAt": "2026-03-17T06:06:10.000Z"
+      "publishedAt": "2026-03-18T05:30:15.000Z"
     }
   ]
 }
