@@ -88,6 +88,34 @@ function titleSimilarity(title1: string, title2: string): number {
   return intersection / Math.max(words1.size, words2.size);
 }
 
+/**
+ * Retry wrapper for Claude API calls with exponential backoff
+ */
+async function withRetry<T>(
+  fn: () => Promise<T>,
+  { maxRetries = 2, baseDelay = 2000, label = 'API call' } = {}
+): Promise<T> {
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      return await fn();
+    } catch (error: unknown) {
+      const isRateLimit = error instanceof Error && (
+        error.message.includes('rate_limit') ||
+        error.message.includes('429') ||
+        error.message.includes('overloaded')
+      );
+      if (attempt < maxRetries && (isRateLimit || (error instanceof Error && error.message.includes('timeout')))) {
+        const delay = baseDelay * Math.pow(2, attempt);
+        console.warn(`   ⚠ ${label} attempt ${attempt + 1} failed, retrying in ${delay}ms...`);
+        await new Promise(r => setTimeout(r, delay));
+        continue;
+      }
+      throw error;
+    }
+  }
+  throw new Error(`${label} failed after ${maxRetries + 1} attempts`);
+}
+
 // System prompt pour synthèse multi-sources
 const SYSTEM_PROMPT = `Tu es un analyste senior. Tu reçois plusieurs articles de presse sur un même sujet provenant de sources différentes.
 
@@ -125,8 +153,10 @@ STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
 - Paragraphe 3 : POSITION B — Comment l'adversaire/opposant/critique perçoit la situation, ses contre-arguments
 - Paragraphe 4 : ENJEUX — Conséquences économiques, stratégiques, et perspectives futures
 
-RÈGLES DE FRANÇAIS (TITRE ET BULLETS) :
-- Toujours utiliser les articles devant les noms qui le nécessitent
+RÈGLES DE FRANÇAIS (TITRE ET BULLETS) — CRITIQUE :
+- Chaque bullet DOIT être une phrase française grammaticalement correcte
+- Chaque bullet DOIT commencer par un article ou déterminant (Le, La, Les, L', Un, Une, Des, De)
+- JAMAIS de bullet commençant directement par un nom commun sans article : "Faux médias..." → "De faux médias...", "Objectif :" → "L'objectif :", "Comptes inauthentiques..." → "Des comptes inauthentiques...", "Menace la stabilité" → "Une menace pour la stabilité"
 - Articles devant les noms de pays : la Russie, la France, la Chine, les États-Unis, le Royaume-Uni, l'Ukraine, l'Iran
 - Articles devant les lieux : le Groenland, la Crimée, le Moyen-Orient
 - Articles devant les groupes/institutions : les dirigeants, les analystes, l'armée, le gouvernement
@@ -192,18 +222,21 @@ ${articlesDetail}
 Génère la story au format JSON demandé. Assure-toi de croiser les perspectives des différentes sources.`;
 
   try {
-    const response = await client.messages.create({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 2048,
-      system: [
-        {
-          type: 'text' as const,
-          text: SYSTEM_PROMPT,
-          cache_control: { type: 'ephemeral' as const },
-        },
-      ],
-      messages: [{ role: 'user', content: userPrompt }],
-    });
+    const response = await withRetry(
+      () => client.messages.create({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 2048,
+        system: [
+          {
+            type: 'text' as const,
+            text: SYSTEM_PROMPT,
+            cache_control: { type: 'ephemeral' as const },
+          },
+        ],
+        messages: [{ role: 'user', content: userPrompt }],
+      }),
+      { label: `synthesize cluster "${cluster.topic.slice(0, 30)}"` }
+    );
 
     const content = response.content[0];
     if (content.type !== 'text') {
@@ -321,7 +354,10 @@ STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
 - Paragraphe 3 : RÉACTIONS — Comment les acteurs réagissent
 - Paragraphe 4 : ENJEUX — Conséquences et perspectives
 
-RÈGLES DE FRANÇAIS :
+RÈGLES DE FRANÇAIS (CRITIQUE) :
+- Chaque bullet DOIT être une phrase française grammaticalement correcte
+- Chaque bullet DOIT commencer par un article ou déterminant (Le, La, Les, L', Un, Une, Des, De)
+- JAMAIS de bullet commençant directement par un nom commun sans article : "Faux médias..." → "De faux médias...", "Objectif :" → "L'objectif :", "Comptes inauthentiques..." → "Des comptes inauthentiques..."
 - Articles devant les noms de pays et institutions
 - N'écris PAS les articles en majuscules
 
@@ -382,18 +418,21 @@ Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétis
 ${articlesDetail}`;
 
   try {
-    const response = await client.messages.create({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 2048,
-      system: [
-        {
-          type: 'text' as const,
-          text: prompt,
-          cache_control: { type: 'ephemeral' as const },
-        },
-      ],
-      messages: [{ role: 'user', content: userPrompt }],
-    });
+    const response = await withRetry(
+      () => client.messages.create({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 2048,
+        system: [
+          {
+            type: 'text' as const,
+            text: prompt,
+            cache_control: { type: 'ephemeral' as const },
+          },
+        ],
+        messages: [{ role: 'user', content: userPrompt }],
+      }),
+      { label: `synthesize pool ${category}` }
+    );
 
     const content = response.content[0];
     if (content.type !== 'text') {
@@ -547,15 +586,18 @@ async function synthesize(): Promise<void> {
       const sources = [...new Set(recentGeopo.map((a: RawArticle) => a.source))];
 
       try {
-        const response = await client.messages.create({
-          model: 'claude-sonnet-4-20250514',
-          max_tokens: 2048,
-          system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
-          messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.
+        const response = await withRetry(
+          () => client.messages.create({
+            model: 'claude-sonnet-4-20250514',
+            max_tokens: 2048,
+            system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
+            messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.
 Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.${excludeStr}
 
 ${articlesDetail}` }],
-        });
+          }),
+          { label: 'synthesize geopo fallback' }
+        );
 
         const content = response.content[0];
         if (content.type !== 'text') continue;
