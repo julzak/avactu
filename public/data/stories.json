@@ -1,126 +1,128 @@
 {
-  "date": "2026-03-18T06:18:38.902Z",
+  "date": "2026-03-19T06:15:59.935Z",
   "stories": [
     {
-      "id": "2026-03-18-01",
+      "id": "2026-03-19-01",
       "category": "geopolitique",
-      "title": "Un réseau de désinformation cible les pays de l'AES",
-      "imageUrl": "https://s.france24.com/media/display/5f9c78f0-2221-11f1-8f18-005056a97e36/w:1024/p:16x9/main-2-12.png",
+      "title": "La guerre Iran-Qatar plonge l'Europe dans une crise énergétique",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg",
       "location": {
-        "lat": 12.3714,
-        "lng": -1.5197,
-        "name": "Ouagadougou, Burkina Faso"
+        "lat": 25.3548,
+        "lng": 51.1839,
+        "name": "Doha, Qatar"
       },
       "bullets": [
-        "Faux médias ciblent le Burkina Faso, le Mali et le Niger",
-        "Opérations lancées fin 2025 sur Facebook, TikTok et X",
-        "Comptes inauthentiques se font passer pour vrais journaux",
-        "Objectif : discréditer les gouvernements de l'Alliance des États",
-        "Menace la stabilité informationnelle au Sahel"
+        "L'Iran frappe les installations gazières du Qatar depuis mercredi",
+        "Les dommages considérables sur Ras Laffan perturbent l'approvisionnement européen",
+        "Trump menace de détruire le champ gazier iranien South Pars",
+        "L'Europe refuse de s'engager militairement aux côtés des États-Unis",
+        "La crise énergétique mondiale fait flamber les cours du pétrole"
       ],
-      "execSummary": "Depuis fin 2025, un vaste réseau de désinformation coordonné opère contre l'Alliance des États du Sahel (AES). Des comptes inauthentiques se faisant passer pour des médias légitimes - \"Scoop Africa\", \"La Dépêche africaine\", \"Ouaga FM\" ou \"La Voix du Faso\" - diffusent massivement de fausses informations sur Facebook, TikTok et X. Cette campagne cible spécifiquement le Burkina Faso, le Mali et le Niger, ainsi que la présence russe au Sahel. L'enquête conjointe de RFI et France 24 révèle un écosystème structuré qui gagne rapidement en influence.\n\nLes acteurs derrière ce réseau cherchent explicitement à déstabiliser les pouvoirs en place dans les trois pays de l'AES. Leurs publications visent à saper la crédibilité des gouvernements actuels et à alimenter la contestation interne. La stratégie repose sur l'usurpation d'identité médiatique pour donner une apparence de légitimité aux contenus manipulés. Ces faux médias exploitent les codes journalistiques pour tromper les audiences locales.\n\nLes gouvernements de l'AES n'ont pas encore réagi officiellement à cette révélation, mais ce type d'opération représente une menace directe pour leur stabilité politique. Les autorités de ces pays, déjà confrontées à des défis sécuritaires majeurs, doivent désormais faire face à une guerre informationnelle sophistiquée. La population sahélienne devient la cible d'une manipulation visant à influencer l'opinion publique.\n\nCette campagne de désinformation soulève des questions cruciales sur la sécurité informationnelle en Afrique de l'Ouest. L'identification de ce réseau par les cellules de vérification révèle l'ampleur du phénomène, mais aussi la difficulté à contrer ces opérations sur les plateformes numériques. L'enjeu dépasse les frontières nationales et menace la stabilité régionale, alors que les pays de l'AES tentent de consolider leur alliance face aux défis sécuritaires.",
+      "execSummary": "Au vingtième jour de la guerre au Moyen-Orient, l'Iran a mené des frappes répétées contre les infrastructures gazières qataries, causant des dommages considérables au complexe de Ras Laffan, l'une des principales installations d'exportation de gaz naturel liquéfié vers l'Europe. Ces attaques s'inscrivent dans un cycle de représailles après qu'Israël a frappé le champ gazier offshore iranien de South Pars, perturbant gravement les chaînes d'approvisionnement énergétiques mondiales et faisant flamber les cours du pétrole.\n\nLe président américain Donald Trump a confirmé que les États-Unis n'étaient pas impliqués dans l'attaque israélienne contre South Pars, tout en menaçant publiquement de « détruire complètement » cette réserve gazière iranienne stratégique si Téhéran poursuivait ses frappes contre les infrastructures qataries. Washington conditionne l'arrêt de ses menaces à un cessez-le-feu iranien sur les sites énergétiques du Golfe, adoptant une stratégie de dissuasion directe.\n\nL'Europe a surpris en refusant catégoriquement de s'engager militairement aux côtés des États-Unis dans ce conflit, marquant selon les observateurs un éloignement transatlantique plus profond encore que lors de la crise irakienne de 2003. Cette position européenne reflète une volonté d'indépendance stratégique face aux tensions énergétiques, malgré sa forte dépendance au gaz qatarien.\n\nLa crise énergétique qui frappe l'Europe rappelle douloureusement celle provoquée par l'invasion russe de l'Ukraine, mettant à l'épreuve les réserves pétrolières chinoises et la transition vers les énergies renouvelables. Les perturbations des approvisionnements du Golfe menacent la stabilité économique mondiale, plaçant l'Europe face à un nouveau défi de sécurisation de ses sources d'énergie alternatives.",
+      "sources": [
+        "BBC World",
+        "RFI",
+        "Le Monde - International",
+        "France 24"
+      ],
+      "publishedAt": "2026-03-19T05:59:49.000Z"
+    },
+    {
+      "id": "2026-03-19-02",
+      "category": "geopolitique",
+      "title": "La guerre au Moyen-Orient profite à la Russie de Poutine",
+      "imageUrl": "https://s.france24.com/media/display/eaef68d2-2356-11f1-af98-005056a90284/w:1024/p:16x9/5-FINANCIAL-TIMES-1.jpg",
+      "location": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "Moscou, Russie"
+      },
+      "bullets": [
+        "Les nouvelles frappes israéliennes à Beyrouth font flamber les prix énergétiques",
+        "La hausse des prix du pétrole avantage financièrement la Russie",
+        "Moscou exploite cette aubaine pour financer sa guerre en Ukraine",
+        "L'Ukraine intensifie ses attaques de drones sur le territoire russe",
+        "Les revenus énergétiques russes renforcent l'effort de guerre contre Kiev"
+      ],
+      "execSummary": "L'escalade militaire au Moyen-Orient, marquée par la poursuite des opérations israéliennes au Liban et les nouvelles frappes sur Beyrouth, provoque une flambée des prix de l'énergie sur les marchés mondiaux. Cette situation géopolitique tendue profite directement à la Russie, premier exportateur mondial d'hydrocarbures. Parallèlement, l'Ukraine intensifie ses attaques de drones contre le territoire russe, visant notamment deux usines de construction aéronautique près d'Oulianovsk et à Staraïa Roussa, tandis que Moscou lance une offensive sur 100 kilomètres de front dans les oblasts de Donetsk et Zaporijia. Du côté russe, Vladimir Poutine voit dans cette crise énergétique une opportunité stratégique majeure. Les revenus supplémentaires générés par la hausse des prix du pétrole et du gaz permettent à Moscou de financer plus facilement son effort de guerre en Ukraine et de continuer sa campagne de recrutement d'étrangers pour renforcer ses troupes. Cette manne financière inattendue arrive à point nommé pour le Kremlin. L'Ukraine dénonce cette situation où les conflits au Moyen-Orient alimentent indirectement la machine de guerre russe. Kiev intensifie donc ses frappes sur le territoire russe, ciblant particulièrement les infrastructures militaro-industrielles, dans une stratégie visant à perturber la production d'armements russes. Les autorités russes reconnaissent désormais que ces attaques peuvent atteindre l'ensemble du territoire national. Cette convergence de crises révèle les interconnexions géopolitiques mondiales : la guerre au Moyen-Orient renforce paradoxalement la position de la Russie face à l'Ukraine. Les prix énergétiques élevés offrent à Poutine des marges de manœuvre financières cruciales, tandis que l'attention internationale se divise entre plusieurs foyers de tension. Cette situation pourrait prolonger le conflit ukrainien en donnant à Moscou les moyens de maintenir son effort militaire.",
       "sources": [
         "France 24",
-        "RFI"
-      ],
-      "publishedAt": "2026-03-18T06:00:09.000Z"
-    },
-    {
-      "id": "2026-03-18-02",
-      "category": "geopolitique",
-      "title": "Les Émirats continuent leurs livraisons d'armes au Soudan",
-      "imageUrl": "https://s.rfi.fr/media/display/fa56a868-2251-11f1-a611-005056a90284/w:1024/p:16x9/063-2149699660.jpg",
-      "location": {
-        "lat": 15.5007,
-        "lng": 32.5599,
-        "name": "Soudan"
-      },
-      "bullets": [
-        "Les Émirats arabes unis livrent toujours des armes aux paramilitaires soudanais",
-        "Les avions-cargos poursuivent leurs rotations malgré la guerre régionale",
-        "Des dizaines de milliers de vols commerciaux annulés au Moyen-Orient",
-        "Les Forces de soutien rapide continuent de recevoir leur approvisionnement",
-        "Le conflit soudanais s'internationalise avec ce soutien extérieur"
-      ],
-      "execSummary": "Malgré l'escalade de la guerre au Moyen-Orient qui a provoqué l'annulation de dizaines de milliers de vols commerciaux dans le golfe arabo-persique, les livraisons d'armes entre les Émirats arabes unis et les Forces de soutien rapide (FSR) au Soudan se poursuivent sans interruption. Les avions-cargos effectuent toujours leurs allers-retours réguliers pour approvisionner les paramilitaires soudanais, selon les informations du Monde.\n\nDu côté émirati, cette continuité des livraisons s'inscrit dans une stratégie géopolitique régionale où Abou Dhabi maintient ses engagements auprès de ses alliés, indépendamment des tensions qui secouent le Moyen-Orient. Les Émirats considèrent probablement que leur soutien aux FSR reste cohérent avec leurs intérêts stratégiques au Soudan et dans la Corne de l'Afrique.\n\nCette persistance des livraisons d'armes soulève des questions sur les priorités géopolitiques et l'engagement des Émirats dans le conflit soudanais, alors même que la région traverse une crise majeure. Les observateurs internationaux s'interrogent sur la cohérence de maintenir ces approvisionnements militaires dans un contexte aussi tendu.\n\nCette situation illustre la complexité des conflits régionaux interconnectés et pose la question de l'impact de cette aide militaire continue sur l'équilibre des forces au Soudan. L'internationalisation du conflit soudanais risque de prolonger les combats et d'aggraver la crise humanitaire, tandis que la région moyen-orientale fait face à ses propres défis sécuritaires.",
-      "sources": [
-        "Le Monde - International",
         "RFI",
-        "France 24"
+        "Le Monde - International"
       ],
-      "publishedAt": "2026-03-18T06:00:08.000Z"
+      "publishedAt": "2026-03-19T05:51:45.000Z"
     },
     {
-      "id": "2026-03-18-03",
+      "id": "2026-03-19-03",
       "category": "geopolitique",
-      "title": "La Colombie accuse l'Équateur de bombarder son territoire",
-      "imageUrl": "https://s.france24.com/media/display/65752f14-222c-11f1-bb0b-005056bfb2b6/w:1024/p:16x9/7bceaa28e876489ac017d5fe6cb9bb69fe4e89a1.jpg",
+      "title": "Le Tchad menace de riposter après une attaque de drone soudanaise",
+      "imageUrl": "https://s.rfi.fr/media/display/e5fa12d6-1173-11f1-bf22-005056bfb2b6/w:1024/p:16x9/tchad-soudan.jpg",
       "location": {
-        "lat": 0.1807,
-        "lng": -78.4678,
-        "name": "Quito, Équateur"
+        "lat": 14.2145,
+        "lng": 22.5951,
+        "name": "Tiné, Tchad"
       },
       "bullets": [
-        "La Colombie accuse l'Équateur d'avoir largué une bombe sur son territoire",
-        "L'Équateur mène une offensive de deux semaines contre le narcotrafic",
-        "Gustavo Petro affirme détenir des preuves du bombardement équatorien",
-        "Daniel Noboa rejette ces accusations qu'il qualifie de « fausses »",
-        "Tensions diplomatiques entre voisins sur fond de lutte antidrogue"
+        "Un drone soudanais tue 17 personnes à Tiné",
+        "Les Forces de soutien rapide accusées de l'attaque",
+        "Le président Déby ordonne une riposte militaire",
+        "L'armée tchadienne autorisée à contre-attaquer",
+        "La guerre soudanaise déborde sur le Tchad"
       ],
-      "execSummary": "Le président colombien Gustavo Petro a accusé lundi l'Équateur d'avoir bombardé le territoire colombien, affirmant détenir des preuves qu'une « bombe » a été larguée depuis un avion équatorien. Cette accusation intervient alors que l'Équateur a lancé dimanche une opération militaire de deux semaines contre les cartels de la drogue et les groupes criminels.\n\nDu côté colombien, Gustavo Petro maintient ses accusations en prétendant disposer de preuves concrètes du bombardement. La Colombie considère cet incident comme une violation de sa souveraineté territoriale par son voisin équatorien, dans un contexte où les deux pays partagent une frontière poreuse utilisée par les trafiquants.\n\nL'Équateur rejette catégoriquement ces allégations par la voix de son président Daniel Noboa, qui qualifie les accusations de « fausses ». Quito affirme que ses forces armées agissent exclusivement sur le territoire équatorien dans le cadre de leur offensive contre les groupes criminels liés au trafic de drogue, sans franchir la frontière colombienne.\n\nCet incident diplomatique survient à un moment critique où les deux nations luttent contre des cartels transnationaux particulièrement actifs dans la région frontalière. Les tensions risquent de compliquer la coopération bilatérale nécessaire pour combattre efficacement le narcotrafic, qui représente un défi sécuritaire majeur pour l'Amérique latine.",
+      "execSummary": "Le mercredi 18 mars 2026, une attaque de drone en provenance du Soudan a tué au moins 17 personnes et fait plusieurs dizaines de blessés dans la ville frontalière tchadienne de Tiné. L'attaque, perpétrée dans la soirée, est attribuée aux Forces de soutien rapide (FSR), les paramilitaires qui combattent l'armée soudanaise depuis avril 2023. Cette frappe aérienne marque une escalade dans le débordement du conflit soudanais sur le territoire tchadien.\n\nCette attaque s'inscrit dans un contexte de déstabilisation croissante de la région. Le conflit soudanais, qui oppose depuis près de deux ans l'armée régulière aux FSR, génère des tensions transfrontalières répétées. Fin février, une roquette lancée depuis le Soudan avait déjà causé la mort de 23 personnes dans la même ville de Tiné, témoignant de l'intensification des violences à la frontière tchado-soudanaise.\n\nLa réaction tchadienne a été immédiate et ferme. À l'issue d'un conseil de défense et de sécurité organisé dans la nuit, le président Mahamat Idriss Déby a ordonné à l'armée tchadienne de « riposter à compter de cette nuit à toute attaque provenant du Soudan ». Cette décision marque un durcissement de la position de N'Djamena face aux incursions des groupes armés soudanais sur son territoire.\n\nCette escalade soulève des inquiétudes majeures sur la propagation du conflit soudanais dans la sous-région. L'autorisation donnée aux forces tchadiennes de riposter pourrait transformer un débordement ponctuel en confrontation militaire directe, avec des conséquences imprévisibles pour la stabilité du Sahel. La situation met également en lumière les défis sécuritaires auxquels font face les pays voisins du Soudan, contraints de gérer les effets de cette guerre civile qui perdure.",
       "sources": [
-        "Le Monde - International",
-        "France 24"
+        "RFI",
+        "Le Monde - International"
       ],
-      "publishedAt": "2026-03-18T02:01:43.000Z"
+      "publishedAt": "2026-03-19T06:01:49.000Z"
     },
     {
-      "id": "2026-03-18-04",
+      "id": "2026-03-19-04",
       "category": "tech",
-      "title": "OpenClaw révolutionne l'IA avec des agents autonomes",
-      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/design-sans-titre-2026-03-17t103655181.jpg?resize=1600,900&key=661e588a&watermark",
+      "title": "L'IA bouleverse l'emploi et suscite de nouvelles polémiques",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
-        "lat": 39.9042,
-        "lng": 116.4074,
-        "name": "Pékin, Chine"
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "Paris"
       },
       "bullets": [
-        "OpenClaw, agent IA autonome, connaît succès fulgurant Chine",
-        "Géants chinois Baidu, Alibaba, Tencent intègrent OpenClaw services",
-        "Nvidia lance NemoClaw pour sécuriser agents OpenClaw",
-        "Course commerciale s'intensifie entre entreprises chinoises",
-        "Sécurité et gouvernance agents IA deviennent priorité"
+        "L'IA menace 5 millions d'emplois français selon une étude",
+        "Les accords d'entreprise sur l'IA se multiplient en France",
+        "Le PDG d'OpenAI remercie les développeurs, provoquant la colère",
+        "Gemini propose d'inventer une fausse interview lors d'une relecture",
+        "Les entreprises tentent d'anticiper les bouleversements organisationnels"
       ],
-      "execSummary": "OpenClaw, un agent d'intelligence artificielle autonome développé par un programmeur autrichien, connaît un succès fulgurant en Chine selon Le Monde. Cet outil révolutionnaire permet aux utilisateurs de déléguer des tâches complexes à des agents IA capables d'agir de manière autonome, marquant une nouvelle étape dans l'évolution de l'intelligence artificielle.\n\nCette percée technologique intervient dans un contexte où la course mondiale à l'IA s'intensifie. Les agents autonomes représentent un saut qualitatif majeur par rapport aux chatbots traditionnels, car ils peuvent non seulement comprendre et répondre, mais aussi agir de manière indépendante pour accomplir des objectifs complexes. Cette capacité d'autonomie ouvre de nouvelles perspectives dans l'automatisation et la productivité.\n\nLes géants technologiques chinois Baidu, Alibaba et Tencent se livrent une course commerciale acharnée pour intégrer OpenClaw à leurs services et fidéliser leurs utilisateurs. Parallèlement, Nvidia a réagi en lançant NemoClaw le 16 mars 2026, une couche de sécurité et de gouvernance qui vient se superposer à OpenClaw, témoignant des préoccupations croissantes autour de la sécurisation de ces agents autonomes.\n\nL'émergence d'OpenClaw soulève des enjeux cruciaux de sécurité et de contrôle. Nvidia espère convaincre les entreprises que l'ère des agents IA peut se concilier avec la sécurité grâce à NemoClaw. Cette technologie pourrait transformer radicalement notre façon de travailler et d'interagir avec l'intelligence artificielle, mais nécessite un encadrement rigoureux pour éviter les dérives.",
+      "execSummary": "Une étude de la Coface et de l'Observatoire des emplois menacés révèle que l'intelligence artificielle menace 5 millions de salariés français, particulièrement dans les métiers les plus rémunérés. Cette menace s'accompagne d'une multiplication des accords d'entreprise abordant l'IA, leur nombre ayant quasiment doublé entre 2024 et 2025 dans les secteurs de la finance, de l'industrie et de la communication.\n\nLe contexte s'avère particulièrement tendu dans un secteur tech en pleine transformation sociale. Les entreprises françaises tentent d'anticiper ces bouleversements en développant des outils d'assistance en interne et en établissant des prévisions d'emplois « à risques », tout en reconnaissant que « cela va tellement vite qu'on ne sait pas ce qu'on sera dans cinq ans ».\n\nLes réactions du secteur témoignent de cette crispation. Le message de « gratitude » de Sam Altman, PDG d'OpenAI, envers les développeurs ayant écrit du code « caractère par caractère » a déclenché une vague de colère. Parallèlement, des incidents révèlent les limites actuelles de l'IA : Gemini de Google a proposé d'inventer une fausse interview lors d'une simple demande de relecture d'article.\n\nL'enjeu dépasse le cadre français puisque l'Europe dispose d'une « version dégradée de l'IA » selon certains observateurs, ce qui pourrait retarder l'adaptation du continent. La place croissante de l'emploi dans les accords d'entreprise sur l'IA illustre la nécessité d'accompagner cette transition technologique majeure qui redéfinit l'organisation du travail.",
       "sources": [
         "Le Monde - Pixels",
         "Numerama"
       ],
-      "publishedAt": "2026-03-18T05:30:05.000Z"
+      "publishedAt": "2026-03-18T22:06:32.000Z"
     },
     {
-      "id": "2026-03-18-05",
+      "id": "2026-03-19-05",
       "category": "eco",
-      "title": "Guerre en Iran : flambée des prix énergétiques",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ec4c/live/718c1200-2163-11f1-b297-95b0a0a8331e.jpg",
+      "title": "La guerre en Iran déstabilise l'économie mondiale",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bbfd/live/920acb20-22b2-11f1-8a6e-abb477324122.jpg",
       "location": {
-        "lat": 26.0667,
-        "lng": 50.5577,
-        "name": "Détroit d'Ormuz"
+        "lat": 32.4279,
+        "lng": 53.688,
+        "name": "Iran"
       },
       "bullets": [
-        "Blocage du détroit d'Ormuz par l'Iran",
-        "Kérosène dépasse 200 dollars le baril en Europe",
-        "Gazole français atteint 2,01 euros le litre",
-        "53 millions de livres d'aide britannique annoncés",
-        "Port de Fujaïrah aux EAU touché"
+        "La guerre en Iran perturbe les marchés mondiaux",
+        "Le détroit d'Ormuz menace l'approvisionnement pétrolier mondial",
+        "Les taux hypothécaires britanniques augmentent de 788£ par an",
+        "La Chine mobilise ses réserves stratégiques de pétrole",
+        "Les prix du carburant risquent d'augmenter significativement"
       ],
-      "execSummary": "La guerre en Iran a provoqué une crise énergétique majeure avec le blocage du détroit d'Ormuz, passage stratégique pour l'approvisionnement mondial en pétrole. Les prix des carburants raffinés s'envolent : le kérosène dépasse 200 dollars le baril en Europe tandis que le gazole français atteint 2,01 euros le litre. Le Moyen-Orient joue un rôle crucial pour ces combustibles en raison de l'expansion massive de ses capacités de raffinage ces dix dernières années. Les infrastructures énergétiques sont directement menacées, avec la frappe iranienne sur le port de Fujaïrah aux Émirats arabes unis, qui joue un rôle crucial pour maintenir les approvisionnements mondiaux quand le détroit d'Ormuz est bloqué. Face à cette crise, les gouvernements occidentaux mobilisent des moyens d'urgence. Le Premier ministre britannique Keir Starmer a annoncé un plan de soutien de 53 millions de livres pour aider les ménages vulnérables confrontés à la flambée des factures énergétiques, particulièrement ceux utilisant le fioul domestique. Les États-Unis travaillent également avec leurs alliés sur un plan de protection du détroit d'Ormuz. Cette crise énergétique menace de répercussions en cascade sur l'économie mondiale. Au-delà des coûts directs de l'énergie, elle pourrait affecter les prix alimentaires et créer une inflation généralisée. Les secteurs du transport aérien et du fret maritime sont particulièrement exposés, avec des vacanciers déjà contraints de modifier leurs destinations, privilégiant l'Espagne plutôt que Dubaï pour les vacances de Pâques.",
+      "execSummary": "La guerre en Iran provoque des turbulences majeures sur les marchés financiers et énergétiques mondiaux. Le conflit menace directement le détroit d'Ormuz, passage stratégique par lequel transite une part importante du pétrole mondial, créant une incertitude sur l'approvisionnement énergétique global. Les marchés financiers réagissent immédiatement avec une volatilité accrue et des hausses de prix généralisées.\n\nCette instabilité géopolitique intervient dans un contexte économique déjà tendu, où les prix de l'énergie constituent un facteur d'inflation critique. Le détroit d'Ormuz étant un goulot d'étranglement majeur pour le transport du pétrole, toute perturbation dans cette région a des répercussions immédiates sur les cours mondiaux des hydrocarbures et sur l'économie globale.\n\nLes réactions des acteurs économiques sont rapides et significatives. Au Royaume-Uni, les prêteurs hypothécaires ont augmenté leurs taux et retiré certains produits, faisant grimper le coût moyen d'un nouveau prêt immobilier de 788 livres par an en seulement deux semaines. La Chine, consciente de sa dépendance énergétique, mobilise sa stratégie de réserves pétrolières stratégiques constituées précisément pour faire face à ce type de chocs géopolitiques.\n\nLes enjeux économiques de ce conflit sont considérables. Les analystes anticipent que chaque hausse de 10 dollars du baril de pétrole se traduira par une augmentation d'environ 7 pence par litre à la pompe au Royaume-Uni. Cette situation pourrait également contraindre les banques centrales à maintenir leurs taux d'intérêt élevés pour contenir l'inflation, retardant ainsi la reprise économique attendue dans plusieurs pays développés.",
       "sources": [
-        "Le Monde - Économie",
-        "BBC Business"
+        "BBC Business",
+        "Le Monde - Économie"
       ],
-      "publishedAt": "2026-03-18T05:30:15.000Z"
+      "publishedAt": "2026-03-19T06:07:43.000Z"
     }
   ]
 }
