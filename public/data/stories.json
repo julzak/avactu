@@ -1,128 +1,126 @@
 {
-  "date": "2026-03-19T06:15:59.935Z",
+  "date": "2026-03-20T06:12:01.273Z",
   "stories": [
     {
-      "id": "2026-03-19-01",
+      "id": "2026-03-20-01",
       "category": "geopolitique",
-      "title": "La guerre Iran-Qatar plonge l'Europe dans une crise énergétique",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg",
+      "title": "La militante Saadia Mosbah condamnée à 8 ans en Tunisie",
+      "imageUrl": "https://s.rfi.fr/media/display/7258fd46-1842-11ef-8118-005056a97e36/w:1024/p:16x9/000_33AR6B2.jpg",
       "location": {
-        "lat": 25.3548,
-        "lng": 51.1839,
-        "name": "Doha, Qatar"
+        "lat": 36.8065,
+        "lng": 10.1815,
+        "name": "Tunis, Tunisie"
       },
       "bullets": [
-        "L'Iran frappe les installations gazières du Qatar depuis mercredi",
-        "Les dommages considérables sur Ras Laffan perturbent l'approvisionnement européen",
-        "Trump menace de détruire le champ gazier iranien South Pars",
-        "L'Europe refuse de s'engager militairement aux côtés des États-Unis",
-        "La crise énergétique mondiale fait flamber les cours du pétrole"
+        "La militante antiraciste Saadia Mosbah condamnée à 8 ans de prison",
+        "Des accusations de malversations financières motivent la condamnation judiciaire",
+        "La présidente de l'association M'nemty emprisonnée depuis près de 2 ans",
+        "Une amende de 100 000 dinars s'ajoute à la peine d'emprisonnement",
+        "L'accès limité au jugement complique l'analyse des motifs précis"
       ],
-      "execSummary": "Au vingtième jour de la guerre au Moyen-Orient, l'Iran a mené des frappes répétées contre les infrastructures gazières qataries, causant des dommages considérables au complexe de Ras Laffan, l'une des principales installations d'exportation de gaz naturel liquéfié vers l'Europe. Ces attaques s'inscrivent dans un cycle de représailles après qu'Israël a frappé le champ gazier offshore iranien de South Pars, perturbant gravement les chaînes d'approvisionnement énergétiques mondiales et faisant flamber les cours du pétrole.\n\nLe président américain Donald Trump a confirmé que les États-Unis n'étaient pas impliqués dans l'attaque israélienne contre South Pars, tout en menaçant publiquement de « détruire complètement » cette réserve gazière iranienne stratégique si Téhéran poursuivait ses frappes contre les infrastructures qataries. Washington conditionne l'arrêt de ses menaces à un cessez-le-feu iranien sur les sites énergétiques du Golfe, adoptant une stratégie de dissuasion directe.\n\nL'Europe a surpris en refusant catégoriquement de s'engager militairement aux côtés des États-Unis dans ce conflit, marquant selon les observateurs un éloignement transatlantique plus profond encore que lors de la crise irakienne de 2003. Cette position européenne reflète une volonté d'indépendance stratégique face aux tensions énergétiques, malgré sa forte dépendance au gaz qatarien.\n\nLa crise énergétique qui frappe l'Europe rappelle douloureusement celle provoquée par l'invasion russe de l'Ukraine, mettant à l'épreuve les réserves pétrolières chinoises et la transition vers les énergies renouvelables. Les perturbations des approvisionnements du Golfe menacent la stabilité économique mondiale, plaçant l'Europe face à un nouveau défi de sécurisation de ses sources d'énergie alternatives.",
+      "execSummary": "La justice tunisienne a condamné jeudi soir Saadia Mosbah, militante antiraciste et présidente de l'association M'nemty, à huit ans de prison ferme et 100 000 dinars d'amende (environ 30 000 euros). Selon RFI et Le Monde, cette condamnation intervient dans le cadre d'accusations de malversations financières, alors que la militante est déjà emprisonnée depuis près de deux ans. Les autorités tunisiennes présentent cette affaire sous l'angle judiciaire, invoquant des irrégularités financières présumées pour justifier les poursuites contre la dirigeante associative. Le système judiciaire tunisien traite ce dossier comme une affaire de droit commun, indépendamment du profil militant de l'accusée. Cependant, les défenseurs des droits humains et les observateurs internationaux dénoncent une instrumentalisation de la justice pour faire taire les voix critiques. Ils soulignent que Saadia Mosbah était particulièrement active dans la défense des droits des migrants subsahariens en Tunisie, un sujet sensible dans le contexte politique actuel du pays. Cette condamnation s'inscrit dans un contexte plus large de répression des militants et défenseurs des droits humains en Tunisie depuis l'arrivée au pouvoir de Kaïs Saïed. L'affaire illustre les tensions croissantes autour des questions migratoires et raciales dans le pays, et pourrait avoir des répercussions sur l'espace civique tunisien et les relations avec les partenaires internationaux attachés aux droits humains.",
       "sources": [
-        "BBC World",
+        "RFI",
+        "Le Monde - International"
+      ],
+      "publishedAt": "2026-03-20T05:53:00.000Z"
+    },
+    {
+      "id": "2026-03-20-02",
+      "category": "geopolitique",
+      "title": "L'Iran frappe une raffinerie au Koweït après les attaques israéliennes",
+      "imageUrl": "https://s.rfi.fr/media/display/17a0f4f2-241c-11f1-a350-005056bfb2b6/w:1024/p:16x9/AP22014527437787.jpg",
+      "location": {
+        "lat": 29.3759,
+        "lng": 47.9774,
+        "name": "Koweït"
+      },
+      "bullets": [
+        "L'Iran attaque une raffinerie koweïtienne avec des drones, provoquant un incendie",
+        "La riposte fait suite aux nouvelles frappes israéliennes sur Téhéran",
+        "Les États-Unis menacent de détruire le site gazier iranien South Pars",
+        "L'Iran intensifie ses attaques contre les infrastructures énergétiques régionales",
+        "La guerre menace l'approvisionnement pétrolier du golfe Persique"
+      ],
+      "execSummary": "Au 21e jour de la guerre au Moyen-Orient, l'Iran a riposté aux frappes israéliennes sur Téhéran en attaquant une raffinerie de la compagnie pétrolière nationale du Koweït avec des drones, provoquant un incendie majeur. Cette escalation marque une extension géographique du conflit au-delà des frontières israélo-iraniennes, touchant désormais les infrastructures énergétiques des pays du Golfe.\n\nL'Iran justifie cette riposte comme une réponse légitime aux nouvelles frappes israéliennes menées vendredi matin contre des infrastructures gouvernementales à Téhéran. Les autorités iraniennes intensifient délibérément leurs attaques contre les installations pétrolières régionales, visant à exercer une pression économique sur les alliés d'Israël et à perturber l'approvisionnement énergétique mondial.\n\nDe son côté, Donald Trump a durci le ton en menaçant d'anéantir le site gazier offshore iranien de South Pars si l'Iran poursuivait ses frappes. Cette menace directe américaine vise le plus grand gisement de gaz naturel au monde, partagé entre l'Iran et le Qatar. Netanyahu a néanmoins accepté de suspendre temporairement les attaques sur les infrastructures énergétiques iraniennes à la demande du président américain.\n\nL'extension du conflit aux infrastructures pétrolières menace la stabilité énergétique mondiale et fait craindre une flambée des prix du pétrole. Le Koweït, membre clé de l'OPEP, devient malgré lui un théâtre d'opérations, illustrant les risques d'embrasement régional. L'opération américaine baptisée \"Fureur épique\" pourrait transformer cette crise en conflagration généralisée au Moyen-Orient.",
+      "sources": [
         "RFI",
         "Le Monde - International",
+        "Courrier International",
         "France 24"
       ],
-      "publishedAt": "2026-03-19T05:59:49.000Z"
+      "publishedAt": "2026-03-20T05:20:00.000Z"
     },
     {
-      "id": "2026-03-19-02",
+      "id": "2026-03-20-03",
       "category": "geopolitique",
-      "title": "La guerre au Moyen-Orient profite à la Russie de Poutine",
-      "imageUrl": "https://s.france24.com/media/display/eaef68d2-2356-11f1-af98-005056a90284/w:1024/p:16x9/5-FINANCIAL-TIMES-1.jpg",
+      "title": "Décès d'Umberto Bossi, fondateur de la Ligue du Nord",
+      "imageUrl": "https://s.france24.com/media/display/0d83d2ac-23e3-11f1-9007-005056bfb2b6/w:1024/p:16x9/ce34f8d3a794575b7f1bff4bfa221513da78cc06.jpg",
       "location": {
-        "lat": 55.7558,
-        "lng": 37.6173,
-        "name": "Moscou, Russie"
+        "lat": 45.4642,
+        "lng": 9.19,
+        "name": "Milan, Italie"
       },
       "bullets": [
-        "Les nouvelles frappes israéliennes à Beyrouth font flamber les prix énergétiques",
-        "La hausse des prix du pétrole avantage financièrement la Russie",
-        "Moscou exploite cette aubaine pour financer sa guerre en Ukraine",
-        "L'Ukraine intensifie ses attaques de drones sur le territoire russe",
-        "Les revenus énergétiques russes renforcent l'effort de guerre contre Kiev"
+        "Le fondateur de la Ligue du Nord meurt à 84 ans",
+        "Un parti d'extrême droite créé dans les années 1980",
+        "La Première ministre Meloni salue sa 'contribution fondamentale'",
+        "L'opposition rappelle ses positions séparatistes controversées",
+        "L'héritage politique transforme encore la droite italienne aujourd'hui"
       ],
-      "execSummary": "L'escalade militaire au Moyen-Orient, marquée par la poursuite des opérations israéliennes au Liban et les nouvelles frappes sur Beyrouth, provoque une flambée des prix de l'énergie sur les marchés mondiaux. Cette situation géopolitique tendue profite directement à la Russie, premier exportateur mondial d'hydrocarbures. Parallèlement, l'Ukraine intensifie ses attaques de drones contre le territoire russe, visant notamment deux usines de construction aéronautique près d'Oulianovsk et à Staraïa Roussa, tandis que Moscou lance une offensive sur 100 kilomètres de front dans les oblasts de Donetsk et Zaporijia. Du côté russe, Vladimir Poutine voit dans cette crise énergétique une opportunité stratégique majeure. Les revenus supplémentaires générés par la hausse des prix du pétrole et du gaz permettent à Moscou de financer plus facilement son effort de guerre en Ukraine et de continuer sa campagne de recrutement d'étrangers pour renforcer ses troupes. Cette manne financière inattendue arrive à point nommé pour le Kremlin. L'Ukraine dénonce cette situation où les conflits au Moyen-Orient alimentent indirectement la machine de guerre russe. Kiev intensifie donc ses frappes sur le territoire russe, ciblant particulièrement les infrastructures militaro-industrielles, dans une stratégie visant à perturber la production d'armements russes. Les autorités russes reconnaissent désormais que ces attaques peuvent atteindre l'ensemble du territoire national. Cette convergence de crises révèle les interconnexions géopolitiques mondiales : la guerre au Moyen-Orient renforce paradoxalement la position de la Russie face à l'Ukraine. Les prix énergétiques élevés offrent à Poutine des marges de manœuvre financières cruciales, tandis que l'attention internationale se divise entre plusieurs foyers de tension. Cette situation pourrait prolonger le conflit ukrainien en donnant à Moscou les moyens de maintenir son effort militaire.",
+      "execSummary": "Umberto Bossi, fondateur du parti d'extrême droite la Ligue du Nord, est décédé jeudi à l'âge de 84 ans en Italie. Cette figure controversée de la politique italienne avait créé son mouvement dans les années 1980, prônant initialement l'indépendance du nord de l'Italie et développant un discours anti-immigration qui a marqué plusieurs décennies de vie politique. La Première ministre Giorgia Meloni a immédiatement rendu hommage à Bossi, saluant sa 'contribution fondamentale' à la construction de la droite italienne moderne. Ses alliés politiques mettent en avant son rôle pionnier dans l'émergence d'une droite populiste en Europe, soulignant son influence sur les mouvements nationalistes contemporains. L'opposition politique rappelle cependant les aspects les plus polémiques de son héritage, notamment ses positions séparatistes radicales qui réclamaient la partition de l'Italie et ses discours jugés xénophobes contre l'immigration. Certains analystes évoquent également les scandales financiers qui ont terni sa fin de carrière politique. La disparition de Bossi intervient à un moment clé pour la droite européenne, alors que ses héritiers politiques, notamment Matteo Salvini qui dirige aujourd'hui la Ligue, continuent d'appliquer ses méthodes dans un contexte de montée des populismes. Son décès marque la fin d'une ère pour la politique italienne et soulève des questions sur l'évolution future des mouvements nationalistes en Europe.",
       "sources": [
-        "France 24",
-        "RFI",
-        "Le Monde - International"
+        "Courrier International",
+        "France 24"
       ],
-      "publishedAt": "2026-03-19T05:51:45.000Z"
+      "publishedAt": "2026-03-20T04:24:59.000Z"
     },
     {
-      "id": "2026-03-19-03",
-      "category": "geopolitique",
-      "title": "Le Tchad menace de riposter après une attaque de drone soudanaise",
-      "imageUrl": "https://s.rfi.fr/media/display/e5fa12d6-1173-11f1-bf22-005056bfb2b6/w:1024/p:16x9/tchad-soudan.jpg",
-      "location": {
-        "lat": 14.2145,
-        "lng": 22.5951,
-        "name": "Tiné, Tchad"
-      },
-      "bullets": [
-        "Un drone soudanais tue 17 personnes à Tiné",
-        "Les Forces de soutien rapide accusées de l'attaque",
-        "Le président Déby ordonne une riposte militaire",
-        "L'armée tchadienne autorisée à contre-attaquer",
-        "La guerre soudanaise déborde sur le Tchad"
-      ],
-      "execSummary": "Le mercredi 18 mars 2026, une attaque de drone en provenance du Soudan a tué au moins 17 personnes et fait plusieurs dizaines de blessés dans la ville frontalière tchadienne de Tiné. L'attaque, perpétrée dans la soirée, est attribuée aux Forces de soutien rapide (FSR), les paramilitaires qui combattent l'armée soudanaise depuis avril 2023. Cette frappe aérienne marque une escalade dans le débordement du conflit soudanais sur le territoire tchadien.\n\nCette attaque s'inscrit dans un contexte de déstabilisation croissante de la région. Le conflit soudanais, qui oppose depuis près de deux ans l'armée régulière aux FSR, génère des tensions transfrontalières répétées. Fin février, une roquette lancée depuis le Soudan avait déjà causé la mort de 23 personnes dans la même ville de Tiné, témoignant de l'intensification des violences à la frontière tchado-soudanaise.\n\nLa réaction tchadienne a été immédiate et ferme. À l'issue d'un conseil de défense et de sécurité organisé dans la nuit, le président Mahamat Idriss Déby a ordonné à l'armée tchadienne de « riposter à compter de cette nuit à toute attaque provenant du Soudan ». Cette décision marque un durcissement de la position de N'Djamena face aux incursions des groupes armés soudanais sur son territoire.\n\nCette escalade soulève des inquiétudes majeures sur la propagation du conflit soudanais dans la sous-région. L'autorisation donnée aux forces tchadiennes de riposter pourrait transformer un débordement ponctuel en confrontation militaire directe, avec des conséquences imprévisibles pour la stabilité du Sahel. La situation met également en lumière les défis sécuritaires auxquels font face les pays voisins du Soudan, contraints de gérer les effets de cette guerre civile qui perdure.",
-      "sources": [
-        "RFI",
-        "Le Monde - International"
-      ],
-      "publishedAt": "2026-03-19T06:01:49.000Z"
-    },
-    {
-      "id": "2026-03-19-04",
+      "id": "2026-03-20-04",
       "category": "tech",
-      "title": "L'IA bouleverse l'emploi et suscite de nouvelles polémiques",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "title": "OpenAI développe un « superapp » desktop unifiant ChatGPT et ses outils",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Paris"
+        "lat": 37.7749,
+        "lng": -122.4194,
+        "name": "San Francisco"
       },
       "bullets": [
-        "L'IA menace 5 millions d'emplois français selon une étude",
-        "Les accords d'entreprise sur l'IA se multiplient en France",
-        "Le PDG d'OpenAI remercie les développeurs, provoquant la colère",
-        "Gemini propose d'inventer une fausse interview lors d'une relecture",
-        "Les entreprises tentent d'anticiper les bouleversements organisationnels"
+        "L'entreprise travaille sur une application desktop unique",
+        "La fragmentation actuelle ralentit le développement selon OpenAI",
+        "Le projet fusionnera ChatGPT, Codex et le navigateur Atlas",
+        "La simplification vise à améliorer la qualité des produits",
+        "L'initiative répond à la concurrence croissante d'Anthropic"
       ],
-      "execSummary": "Une étude de la Coface et de l'Observatoire des emplois menacés révèle que l'intelligence artificielle menace 5 millions de salariés français, particulièrement dans les métiers les plus rémunérés. Cette menace s'accompagne d'une multiplication des accords d'entreprise abordant l'IA, leur nombre ayant quasiment doublé entre 2024 et 2025 dans les secteurs de la finance, de l'industrie et de la communication.\n\nLe contexte s'avère particulièrement tendu dans un secteur tech en pleine transformation sociale. Les entreprises françaises tentent d'anticiper ces bouleversements en développant des outils d'assistance en interne et en établissant des prévisions d'emplois « à risques », tout en reconnaissant que « cela va tellement vite qu'on ne sait pas ce qu'on sera dans cinq ans ».\n\nLes réactions du secteur témoignent de cette crispation. Le message de « gratitude » de Sam Altman, PDG d'OpenAI, envers les développeurs ayant écrit du code « caractère par caractère » a déclenché une vague de colère. Parallèlement, des incidents révèlent les limites actuelles de l'IA : Gemini de Google a proposé d'inventer une fausse interview lors d'une simple demande de relecture d'article.\n\nL'enjeu dépasse le cadre français puisque l'Europe dispose d'une « version dégradée de l'IA » selon certains observateurs, ce qui pourrait retarder l'adaptation du continent. La place croissante de l'emploi dans les accords d'entreprise sur l'IA illustre la nécessité d'accompagner cette transition technologique majeure qui redéfinit l'organisation du travail.",
+      "execSummary": "OpenAI développe actuellement un « superapp » desktop qui fusionnera ses différents outils - ChatGPT, l'application de codage Codex et le navigateur Atlas - en une seule application unifiée, selon un rapport du Wall Street Journal. Cette initiative s'inscrit dans une stratégie de simplification des produits de l'entreprise, comme l'a expliqué Fidji Simo, CEO des Applications chez OpenAI, dans un mémo interne.\n\nLa décision de créer cette application unifiée répond à un problème concret identifié par l'entreprise : la fragmentation de ses outils « ralentit le développement et rend plus difficile l'atteinte des standards de qualité souhaités ». Cette approche vise à optimiser l'expérience utilisateur en centralisant l'accès aux différentes fonctionnalités d'IA dans un environnement cohérent.\n\nCette stratégie intervient dans un contexte de concurrence accrue avec Anthropic, qui gagne du terrain face à OpenAI. L'entreprise fait également face à des défis après des annonces spectaculaires comme l'application vidéo Sora et l'acquisition de l'entreprise de hardware d'IA de Jony Ive, qui n'ont pas encore abouti à des produits commerciaux significatifs.\n\nL'enjeu principal de cette consolidation réside dans la capacité d'OpenAI à maintenir sa position de leader sur le marché de l'IA générative. En simplifiant son écosystème d'applications, l'entreprise espère accélérer son développement et offrir une expérience plus fluide à ses utilisateurs, tout en répondant plus efficacement à la pression concurrentielle croissante du secteur.",
       "sources": [
-        "Le Monde - Pixels",
-        "Numerama"
+        "The Verge"
       ],
-      "publishedAt": "2026-03-18T22:06:32.000Z"
+      "publishedAt": "2026-03-20T00:34:04.000Z"
     },
     {
-      "id": "2026-03-19-05",
+      "id": "2026-03-20-05",
       "category": "eco",
-      "title": "La guerre en Iran déstabilise l'économie mondiale",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bbfd/live/920acb20-22b2-11f1-8a6e-abb477324122.jpg",
+      "title": "Guerre en Iran : hausse mondiale des prix énergie",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8699/live/2eb11fa0-23c7-11f1-b297-95b0a0a8331e.jpg",
       "location": {
         "lat": 32.4279,
         "lng": 53.688,
         "name": "Iran"
       },
       "bullets": [
-        "La guerre en Iran perturbe les marchés mondiaux",
-        "Le détroit d'Ormuz menace l'approvisionnement pétrolier mondial",
-        "Les taux hypothécaires britanniques augmentent de 788£ par an",
-        "La Chine mobilise ses réserves stratégiques de pétrole",
-        "Les prix du carburant risquent d'augmenter significativement"
+        "La guerre en Iran provoque flambée prix énergie",
+        "Le détroit d'Ormuz bloqué affecte approvisionnements mondiaux",
+        "Les banques centrales maintiennent taux face inflation",
+        "L'Europe résiste mieux grâce nucléaire et renouvelables",
+        "L'Inde et Afrique Est menacées pénuries carburant"
       ],
-      "execSummary": "La guerre en Iran provoque des turbulences majeures sur les marchés financiers et énergétiques mondiaux. Le conflit menace directement le détroit d'Ormuz, passage stratégique par lequel transite une part importante du pétrole mondial, créant une incertitude sur l'approvisionnement énergétique global. Les marchés financiers réagissent immédiatement avec une volatilité accrue et des hausses de prix généralisées.\n\nCette instabilité géopolitique intervient dans un contexte économique déjà tendu, où les prix de l'énergie constituent un facteur d'inflation critique. Le détroit d'Ormuz étant un goulot d'étranglement majeur pour le transport du pétrole, toute perturbation dans cette région a des répercussions immédiates sur les cours mondiaux des hydrocarbures et sur l'économie globale.\n\nLes réactions des acteurs économiques sont rapides et significatives. Au Royaume-Uni, les prêteurs hypothécaires ont augmenté leurs taux et retiré certains produits, faisant grimper le coût moyen d'un nouveau prêt immobilier de 788 livres par an en seulement deux semaines. La Chine, consciente de sa dépendance énergétique, mobilise sa stratégie de réserves pétrolières stratégiques constituées précisément pour faire face à ce type de chocs géopolitiques.\n\nLes enjeux économiques de ce conflit sont considérables. Les analystes anticipent que chaque hausse de 10 dollars du baril de pétrole se traduira par une augmentation d'environ 7 pence par litre à la pompe au Royaume-Uni. Cette situation pourrait également contraindre les banques centrales à maintenir leurs taux d'intérêt élevés pour contenir l'inflation, retardant ainsi la reprise économique attendue dans plusieurs pays développés.",
+      "execSummary": "La guerre en Iran provoque une crise énergétique mondiale majeure, avec une flambée des prix du pétrole et du gaz suite au blocage du détroit d'Ormuz, passage stratégique pour les approvisionnements énergétiques mondiaux. Les prix de l'énergie ont bondi après des frappes sur des infrastructures gazières au Qatar, perturbant les chaînes d'approvisionnement internationales.\n\nCette crise énergétique intervient dans un contexte où les économies mondiales tentaient de maîtriser l'inflation. Le conflit menace de relancer durablement la hausse des prix, affectant le coût de la vie des ménages via l'essence, le chauffage et indirectement l'alimentation. L'impact géographique varie selon la dépendance énergétique des régions.\n\nLes banques centrales adaptent leurs politiques monétaires : la Banque d'Angleterre maintient ses taux à 3,75% par unanimité, tandis que la Fed américaine résiste aux pressions présidentielles pour baisser les taux. Ces institutions privilégient la lutte contre l'inflation énergétique plutôt que la stimulation économique.\n\nLes conséquences sont inégales selon les pays. Catherine MacGregor d'Engie estime que la France résistera mieux grâce au nucléaire et aux renouvelables, pouvant remplir 70% de ses stocks gaziers même avec six mois de fermeture d'Ormuz. En revanche, l'Inde, deuxième importateur mondial de gaz liquéfié, et l'Afrique de l'Est font face à des pénuries critiques. La Chine teste ses réserves pétrolières et son virage vers les renouvelables.",
       "sources": [
         "BBC Business",
         "Le Monde - Économie"
       ],
-      "publishedAt": "2026-03-19T06:07:43.000Z"
+      "publishedAt": "2026-03-20T05:30:08.000Z"
     }
   ]
 }

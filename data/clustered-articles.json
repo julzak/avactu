@@ -1,275 +1,198 @@
 {
-  "generatedAt": "2026-03-19T06:14:34.020Z",
+  "generatedAt": "2026-03-20T06:10:49.111Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-3",
-      "topic": "How the Iran war has left Europe facing yet another energy crisis",
+      "topic": "En Tunisie, la militante antiraciste Saadia Mosbah condamnée à huit ans de priso",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-19-cef10c6e",
-          "title": "How the Iran war has left Europe facing yet another energy crisis",
-          "description": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
-          "url": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-19T05:59:49.000Z",
-          "fetchedAt": "2026-03-19T06:10:34.272Z"
-        },
-        {
-          "id": "2026-03-19-ca591ce1",
-          "title": "EN DIRECT – Guerre au Moyen Orient: Trump menace le gisement de South Pars si l'Iran attaque à nouveau le Qatar",
-          "description": "Au vingtième jour de la guerre au Moyen-Orient, l'Iran a frappé des sites gaziers dans les pays du Golfe durant la journée du mercredi 18 mars, provoquant des dommages « considérables » sur le complexe qatarien de Ras Laffan. L'Iran avait alors dit réagir à une attaque contre son site gazier offshore de South Pars, que le président américain a menacé d'anéantir si le pays poursuit ses frappes au Qatar.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260319-en-direct-%E2%80%93-guerre-au-moyen-orient-trump-menace-de-d%C3%A9truire-la-r%C3%A9serve-de-south-pars-si-l-iran-attaque-%C3%A0-nouveau-le-qatar",
-          "imageUrl": "https://s.rfi.fr/media/display/6fe20eaa-2352-11f1-aa23-005056bf30b7/w:1024/p:16x9/AP26064463922278.jpg",
+          "id": "2026-03-20-5d34cd99",
+          "title": "En Tunisie, la militante antiraciste Saadia Mosbah condamnée à huit ans de prison",
+          "description": "La militante tunisienne antiraciste Saadia Mosbah a été condamnée à huit ans de prison et 100 000 dinars d'amende (environ 30 000 euros) dans un jugement rendu jeudi soir. Les avocats n'ayant pas encore eu accès au détail du jugement, il est difficile de connaître les motifs de la condamnation mais elle était jugée sur la base d'accusations de malversations financières.",
+          "url": "https://www.rfi.fr/fr/afrique/20260320-en-tunisie-la-militante-antiraciste-saadia-mosbah-condamn%C3%A9e-%C3%A0-huit-ans-de-prison",
+          "imageUrl": "https://s.rfi.fr/media/display/7258fd46-1842-11ef-8118-005056a97e36/w:1024/p:16x9/000_33AR6B2.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-19T05:19:28.000Z",
-          "fetchedAt": "2026-03-19T06:10:33.901Z"
+          "publishedAt": "2026-03-20T05:53:00.000Z",
+          "fetchedAt": "2026-03-20T06:06:49.054Z"
         },
         {
-          "id": "2026-03-19-7b011fba",
-          "title": "Guerre en Iran : « L’Europe a dit non aux Etats-Unis. C’est nouveau, et c’est un fait majeur »",
-          "description": "Le refus des Européens de s’engager aux côtés de Washington dans la guerre au Moyen-Orient marque un éloignement transatlantique plus profond encore que celui de la crise irakienne en 2003, observe, dans sa chronique, Sylvie Kauffmann.",
-          "url": "https://www.lemonde.fr/idees/article/2026/03/19/guerre-en-iran-l-europe-a-dit-non-aux-etats-unis-c-est-nouveau-et-c-est-un-fait-majeur_6672356_3232.html",
+          "id": "2026-03-19-cccae210",
+          "title": "En Tunisie, la militante antiraciste Saadia Mosbah condamnée à huit ans de prison",
+          "description": "Emprisonnée depuis près de deux ans pour des accusations de malversations financières, la présidente de l’association M’nemty s’est, en outre, vu infliger une lourde amende.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/03/20/en-tunisie-la-militante-antiraciste-saadia-mosbah-condamnee-a-huit-ans-de-prison_6672511_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-19T04:30:07.000Z",
-          "fetchedAt": "2026-03-19T06:10:24.508Z"
-        },
-        {
-          "id": "2026-03-19-dce87eed",
-          "title": "EN DIRECT, guerre au Moyen-Orient : le complexe gazier de Ras Laffan, au Qatar, en proie à des « dommages considérables » après de nouvelles frappes iraniennes, Donald Trump menace de détruire la réserve de South Pars",
-          "description": "Le président américain a confirmé sur sa plateforme Truth Social qu’Israël avait frappé le champ gazier de South Pars, mais il a assuré que les Etats-Unis ne « savaient rien » de l’attaque. Il a promis que plus aucune frappe ne serait menée sur le site iranien si Téhéran s’abstenait de frapper à nouveau les infrastructures énergétiques qataries.",
-          "url": "https://www.lemonde.fr/international/live/2026/03/19/en-direct-guerre-au-moyen-orient-le-complexe-gazier-de-ras-laffan-au-qatar-en-proie-a-des-dommages-considerables-apres-de-nouvelles-frappes-iraniennes-donald-trump-menace-de-detruire-la-reserve-de-south-pars_6671147_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-19T04:01:06.000Z",
-          "fetchedAt": "2026-03-19T06:10:24.508Z"
-        },
-        {
-          "id": "2026-03-19-cbaabf74",
-          "title": "Moyen-Orient en direct : nouvelle attaque de l'Iran sur le principal site gazier du Qatar",
-          "description": "Le Qatar a fait état jeudi, au 20e jour de guerre au Moyen-Orient, d'une attaque de missiles iranienne et de dommages sur sa principale installation gazière, déjà frappée mercredi. Donald Trump menace en réponse de détruire l'immense champ gazier iranien de South Pars en cas de nouvelle attaque de l'Iran. Le cours du pétrole monte en flèche. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260319-moyen-orient-en-direct-iran-attaque-site-gazier-qatar-israel-etats-unis-petrole-ormuz",
-          "imageUrl": "https://s.france24.com/media/display/1f2e4af2-2328-11f1-9dd7-005056bfb2b6/w:1024/p:16x9/2026-03-18T143051Z-1725493995-RC2EWJAJGON8-RTRMADP-3-IRAN-CRISIS-QATAR-LNG.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-19T02:33:07.000Z",
-          "fetchedAt": "2026-03-19T06:10:33.651Z"
-        },
-        {
-          "id": "2026-03-18-1e3a9dc0",
-          "title": "The Iran war is causing a global energy crisis - can China withstand it?",
-          "description": "With oil supply disrupted, Beijing's oil reserves and renewable energy push are being put to the test.",
-          "url": "https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c02e/live/fa99e260-2290-11f1-a268-8f21a3f62cfd.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-18T23:31:03.000Z",
-          "fetchedAt": "2026-03-19T06:10:34.272Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Guerre au Moyen-Orient, Poutine dit \"Spassiba\"",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-03-19-c1f596b9",
-          "title": "Guerre au Moyen-Orient, Poutine dit \"Spassiba\"",
-          "description": "A la Une de la presse, ce jeudi 19 mars, la poursuite des opérations israéliennes au Liban, dont la capitale a subi de nouvelles frappes, hier. La guerre qui provoque une flambée des prix de l’énergie, avantageuse pour la Russie de Vladimir Poutine, qui tente toujours de recruter des étrangers pour l'Ukraine. Des révélations sur le fléau de la pédocriminalité au sein de l’Eglise, et des accusations d’agressions sexuelles contre une figure syndicalisme aux Etats-Unis.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260319-guerre-au-moyen-orient-poutine-dit-spassiba",
-          "imageUrl": "https://s.france24.com/media/display/eaef68d2-2356-11f1-af98-005056a90284/w:1024/p:16x9/5-FINANCIAL-TIMES-1.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-19T05:51:45.000Z",
-          "fetchedAt": "2026-03-19T06:10:33.651Z"
-        },
-        {
-          "id": "2026-03-18-b3b6ad9c",
-          "title": "La Russie face aux vagues de drones ukrainiens",
-          "description": "Les autorités russes font désormais état d'attaques qui, disent-elles, peuvent atteindre la totalité du territoire russe, et brandissent ce risque pour encadrer et limiter les communications. Les drones venus d'Ukraine changent évidemment aussi de longue date la donne sur le champ de bataille, notamment en matière d'évacuation et de traitement des blessés.",
-          "url": "https://www.rfi.fr/fr/europe/20260318-la-russie-face-aux-vagues-de-drones-ukrainiens",
-          "imageUrl": "https://s.rfi.fr/media/display/4a2b501a-230a-11f1-a2b7-005056bf30b7/w:1024/p:16x9/GUERRE-UKRAINE-RUSSIE-DRONE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-18T20:58:52.000Z",
-          "fetchedAt": "2026-03-19T06:10:33.901Z"
-        },
-        {
-          "id": "2026-03-18-53a266cd",
-          "title": "EN DIRECT, guerre en Ukraine : Kiev dit avoir attaqué deux usines de construction aéronautique en Russie ; Moscou lance une offensive sur 100 kilomètres de front dans les oblasts de Donetsk et de Zaporijia",
-          "description": "La première usine visée est située près de la ville d’Oulianovsk, dans le sud-est de la Russie, selon les déclarations de l’état-major ukrainien, qui a aussi annoncé, dans une publication à part, avoir bombardé une autre usine dans la ville de Staraïa Roussa, dans l’oblast de Novgorod.",
-          "url": "https://www.lemonde.fr/international/live/2026/03/18/en-direct-guerre-en-ukraine-kiev-dit-avoir-attaque-deux-usines-de-construction-aeronautique-en-russie-moscou-lance-une-offensive-sur-100-kilometres-de-front-dans-les-oblasts-de-donetsk-et-de-zaporijia_6671255_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-18T18:37:10.000Z",
-          "fetchedAt": "2026-03-19T06:10:24.508Z"
-        },
-        {
-          "id": "2026-03-18-25301513",
-          "title": "Guerre en Ukraine : comment est perçu le retour au pays des soldats russes ?",
-          "description": "En Russie, le retour des soldats du front est une réalité encore peu visible publiquement, mais qui révèle des tensions profondes dans la société. Leur accueil oscille entre héroïsation officielle, malaise social et inquiétudes silencieuses.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260318-guerre-en-ukraine-comment-est-per%C3%A7u-le-retour-au-pays-des-soldats-russes",
-          "imageUrl": "https://s.france24.com/media/display/89600f96-22e2-11f1-9ab7-005056a90284/w:1024/p:16x9/FR-20260318-152114-152327-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-18T16:24:09.000Z",
-          "fetchedAt": "2026-03-19T06:10:33.651Z"
+          "publishedAt": "2026-03-19T23:57:48.000Z",
+          "fetchedAt": "2026-03-20T06:06:30.043Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "Réunion tripartite à Cotonou des chefs d’état-major de France, Côte d'Ivoire et ",
+      "topic": "EN DIRECT - Guerre au Moyen-Orient: incendie dans une raffinerie au Koweït après",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-19-e33052c5",
-          "title": "Réunion tripartite à Cotonou des chefs d’état-major de France, Côte d'Ivoire et Bénin",
-          "description": "Ce jeudi 19 mars 2026, Cotonou accueille un sommet militaire trilatéral de premier plan. Le chef d'état-major général des forces armées béninoises, Fructueux Gbaguidi, reçoit ses homologues de Côte d'Ivoire et de France. Au cœur des échanges : la lutte contre le terrorisme dans une sous-région de plus en plus sous pression. La menace est commune. La réponse se veut concertée. Les patrons des trois armées sont réunis dans la capitale économique du Bénin pour affiner ensemble une stratégie commune, en s'appuyant sur le savoir-faire et l'expertise de forces armées parmi les plus aguerries dans ce domaine. Les militaires échangeront entre eux, mais les discussions ne resteront pas cantonnées aux états-majors : des rencontres avec les responsables politiques sont également prévues.",
-          "url": "https://www.rfi.fr/fr/afrique/20260319-r%C3%A9union-tripartite-%C3%A0-cotonou-des-chefs-d-%C3%A9tat-major-de-france-c%C3%B4te-d-ivoire-et-b%C3%A9nin",
-          "imageUrl": "https://s.rfi.fr/media/display/0d576298-e93b-11ed-8062-005056bf30b7/w:1024/p:16x9/AP22361646484229.jpg",
+          "id": "2026-03-20-cd28af2b",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: incendie dans une raffinerie au Koweït après des attaques de drones",
+          "description": "Au 21e jour de la guerre au Moyen-Orient, une raffinerie au Koweït a été incendiée après une attaque de drones. La veille, Donald Trump a menacé d'anéantir le site gazier offshore de South Pars si l'Iran poursuivait ses frappes au Qatar. Le Premier ministre israélien Benyamin Netanyahu a, lui, indiqué « suspendre » toute attaque sur les infrastructures énergétiques iraniennes, à la demande du président américain.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260320-en-direct-guerre-au-moyen-orient-incendie-dans-une-raffinerie-au-kowe%C3%AFt-apr%C3%A8s-des-attaques-de-drones",
+          "imageUrl": "https://s.rfi.fr/media/display/17a0f4f2-241c-11f1-a350-005056bfb2b6/w:1024/p:16x9/AP22014527437787.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-19T05:15:39.000Z",
-          "fetchedAt": "2026-03-19T06:10:33.901Z"
+          "publishedAt": "2026-03-20T05:20:00.000Z",
+          "fetchedAt": "2026-03-20T06:06:49.054Z"
         },
         {
-          "id": "2026-03-18-c449f823",
-          "title": "Municipales à Paris : débat électrique entre les trois finalistes",
-          "description": "Les trois candidats au deuxième tour des municipales à Paris - Emmanuel Grégoire à gauche, Rachida Dati à droite et Sophia Chikirou pour LFI  - ont débattu dans une ambiance électrique mercredi soir. La question des violences sexuelles dans le périscolaire a occupé une large place.",
-          "url": "https://www.france24.com/fr/france/20260318-municipales-%C3%A0-paris-d%C3%A9bat-%C3%A9lectrique-entre-les-trois-finalistes",
-          "imageUrl": "https://s.france24.com/media/display/761256ca-2313-11f1-9c4f-005056bfb2b6/w:1024/p:16x9/13c88bb75a11ac2654dc135747a0fff8cb1cf5a4.jpg",
-          "source": "France 24",
+          "id": "2026-03-20-a0f5962b",
+          "title": "Poutine chef d’orchestre d’une « opération musicale spéciale » en Europe",
+          "description": "Banni à l’Ouest, Valery Gergiev, maestro tout-puissant en Russie et ambassadeur culturel du maître du Kremlin, aspire à retrouver les salles européennes. Teodor Currentzis et ses orchestres, eux, enchaînent les concerts en Espagne, en Italie et en France. Sur le front de la musique classique, Moscou passe du soft power au « sharp power ».",
+          "url": "https://www.lemonde.fr/international/article/2026/03/20/poutine-chef-d-orchestre-d-une-operation-musicale-speciale-en-europe_6672652_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-18T21:43:12.000Z",
-          "fetchedAt": "2026-03-19T06:10:33.651Z"
+          "publishedAt": "2026-03-20T04:15:07.000Z",
+          "fetchedAt": "2026-03-20T06:06:30.043Z"
         },
         {
-          "id": "2026-03-18-37ccaa81",
-          "title": "Magistrat français, Youssef Badr s'est vu refuser l'accès au tribunal",
-          "description": "Issu d’une famille marocaine immigrée, Youssef Badr partage une réalité souvent invisible : celle des préjugés du quotidien. Dans le métro ou dans la rue, son apparence suffit encore à être jugé.\n \nChaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Aujourd'hui, Youssef Badr revient sur son parcours et les obstacles qu'il a dû affronter pour exercer son métier.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260318-magistrat-fran%C3%A7ais-youssef-badr-s-est-vu-refuser-l-acc%C3%A8s-au-tribunal",
-          "imageUrl": "https://s.france24.com/media/display/a9f25da4-22e7-11f1-9599-005056bf30b7/w:1024/p:16x9/vignette-VERTICAL-Youssef-Badr-avec-Judith0.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-18T16:50:44.000Z",
-          "fetchedAt": "2026-03-19T06:10:33.651Z"
-        },
-        {
-          "id": "2026-03-18-f5a20a8c",
-          "title": "À Paris, la gauche refuse de s’unir et pourrait bien “s’en mordre les doigts”",
-          "description": "“Le suspense grandit” à l’approche du second tour des municipales dans la capitale. Grâce à son alliance avec le candidat Horizons et le désistement “inattendu” de Sarah Knafo, Rachida Dati pourrait rattraper son retard. De son côté, Emmanuel Grégoire “a pris des risques” en refusant la main tendue de l’Insoumise Sophia Chikirou, commente la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-a-paris-la-gauche-refuse-de-s-unir-et-pourrait-bien-s-en-mordre-les-doigts_241936",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/16/0/0/5500/3666/1200/630/60/0/143db32_ftp-1-3wwc3dlfp0nn-2026-03-16t164448z-502396922-rc2p5kacxra6-rtrmadp-3-france-election.JPG",
+          "id": "2026-03-20-7e654a3b",
+          "title": "Les anticorps de lama, une piste prometteuse pour soigner cancers et maladies rares",
+          "description": "Ce camélidé produit de minuscules protéines, appelées “nanocorps”, qui permettraient de lutter contre de nombreuses maladies. Les entreprises de biotechnologie et les laboratoires pharmaceutiques explorent diverses pistes de recherche, espérant trouver la poule aux œufs d’or.",
+          "url": "https://www.courrierinternational.com/article/sante-les-anticorps-de-lama-une-piste-prometteuse-pour-soigner-cancers-et-maladies-rares_239973",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/06/184/0/2200/1466/1200/630/60/0/a5acb6b_upload-1-lku5y4lf1ktn-b14f486e59dacd845f1c50ce6aabde16.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-18T15:46:06.000Z",
-          "fetchedAt": "2026-03-19T06:10:26.158Z"
+          "publishedAt": "2026-03-20T04:00:23.000Z",
+          "fetchedAt": "2026-03-20T06:06:34.707Z"
+        },
+        {
+          "id": "2026-03-20-e4f56a25",
+          "title": "“Fureur épique” : plus qu’un nom de guerre, “l’essence même” de la présidence Trump",
+          "description": "Volontairement offensif et viriliste, le nom choisi pour baptiser l’opération militaire américaine contre l’Iran ne doit rien au hasard, souligne “The New York Times”. Il résume à lui seul l’esprit de la présidence de Donald Trump, qui carbure à la colère. Et il pourrait bien se muer en “Ratage épique” au Moyen-Orient.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-fureur-epique-plus-qu-un-nom-de-guerre-l-essence-meme-de-la-presidence-trump_241900",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/08/0/0/4090/2726/1200/630/60/0/acddd8b_ftp-1-6jw1wrnzw9lo-2264816147.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-20T04:00:11.000Z",
+          "fetchedAt": "2026-03-20T06:06:34.707Z"
+        },
+        {
+          "id": "2026-03-20-a65eab87",
+          "title": "En direct : Israël lance des frappes sur Téhéran, l’Iran riposte sur une raffinerie au Koweït",
+          "description": "Au 21e jour de la guerre au Moyen-Orient, l'armée israélienne a annoncé vendredi matin avoir lancé de nouvelles frappes sur des \"infrastructures\" des autorités iraniennes dans la capitale Téhéran. En représailles, l'Iran continue d'intensifier ses frappes sur des infrastructures énergétiques, dont la raffinerie de la compagnie pétrolière nationale du Koweït, où un incendie s'est déclaré après des attaques de drones. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260320-en-direct-guerre-moyen-orient-iran-israel-etats-unis-golfe-petrole-liban",
+          "imageUrl": "https://s.france24.com/media/display/d4255b48-2405-11f1-824c-005056bfb2b6/w:1024/p:16x9/AP26074564007790.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-20T02:42:34.000Z",
+          "fetchedAt": "2026-03-20T06:06:48.857Z"
+        },
+        {
+          "id": "2026-03-20-694140e2",
+          "title": "Le président nigérian Tinubu achève sa visite au Royaume-Uni avec la signature de plusieurs accords",
+          "description": "Après avoir été reçu en grande pompe par le roi Charles III au château de Windsor, Bola Tinubu a poursuivi sa visite d'État au Royaume-Uni, jeudi 19 mars. Au cours de la dernière journée de ce voyage historique à Londres, celui-ci a notamment été reçu par le Premier ministre britannique, Keir Starmer.",
+          "url": "https://www.rfi.fr/fr/afrique/20260320-le-pr%C3%A9sident-nig%C3%A9rian-tinbubu-ach%C3%A8ve-sa-visite-au-royaume-uni-avec-la-signature-de-plusieurs-accords",
+          "imageUrl": "https://s.rfi.fr/media/display/f424f8f8-23e8-11f1-9bc3-005056bf30b7/w:1024/p:16x9/2026-03-19T120212Z-316483632-RC2M7KA02C1S-RTRMADP-3-BRITAIN-NIGERIA-STARMER.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-20T00:25:48.000Z",
+          "fetchedAt": "2026-03-20T06:06:49.054Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "Décès d’Umberto Bossi, Biélorussie, Tunisie et Ukraine : les informations de la ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-03-20-e359ba50",
+          "title": "Décès d’Umberto Bossi, Biélorussie, Tunisie et Ukraine : les informations de la nuit",
+          "description": "",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-deces-d-umberto-bossi-bielorussie-tunisie-et-ukraine-les-informations-de-la-nuit_241996",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/19/0/3/4194/2796/1200/630/60/0/6040ded_ftp-1-rgrpe3eisq3n-afp-a3z99t8.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-20T04:24:59.000Z",
+          "fetchedAt": "2026-03-20T06:06:34.707Z"
+        },
+        {
+          "id": "2026-03-19-25148e32",
+          "title": "Italie : décès à 84 ans d'Umberto Bossi, fondateur de la Ligue du Nord",
+          "description": "Umberto Bossi, politicien italien fondateur du parti d'extrême droite la Ligue du Nord, est mort jeudi à l'âge de 84 ans. La Première ministre Giorgia Meloni a salué sa \"contribution fondamentale\" à la construction de la droite italienne.",
+          "url": "https://www.france24.com/fr/europe/20260319-italie-d%C3%A9c%C3%A8s-%C3%A0-84-ans-d-umberto-bossi-fondateur-de-la-ligue-du-nord",
+          "imageUrl": "https://s.france24.com/media/display/0d83d2ac-23e3-11f1-9007-005056bfb2b6/w:1024/p:16x9/ce34f8d3a794575b7f1bff4bfa221513da78cc06.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-19T22:29:12.000Z",
+          "fetchedAt": "2026-03-20T06:06:48.857Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-03-19-31f06e20",
+          "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+          "description": "Broadcom says the group is misrepresenting market \"realities.\"",
+          "url": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2238913761-1024x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-03-19T21:29:53.000Z",
+          "fetchedAt": "2026-03-20T06:07:03.522Z"
+        },
+        {
+          "id": "2026-03-19-022551ff",
+          "title": "Huawei définitivement banni des réseaux télécoms en Europe ? La justice européenne tranche",
+          "description": "L’étau se resserre pour Huawei en Europe. Dans ses conclusions rendues ce 19 mars 2026, l’avocate générale de la Cour de justice de l'UE estime que les États membres peuvent légalement exclure l'équipementier chinois de leurs réseaux 2G à 5G au nom de la sécurité nationale.",
+          "url": "https://www.numerama.com/politique/2213829-huawei-definitivement-banni-des-reseaux-telecoms-en-europe-la-justice-europeenne-tranche.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/huawei.jpg?resize=1600,900&key=3482a6be&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-03-19T21:12:55.000Z",
+          "fetchedAt": "2026-03-20T06:06:53.582Z"
+        },
+        {
+          "id": "2026-03-19-be7d5252",
+          "title": "« Les emplois du secteur tertiaire sont désormais exposés à la baisse des embauches et à des licenciements »",
+          "description": "Intelligence artificielle, mondialisation et e‑commerce fragilisent massivement l’emploi, dans un mouvement encore sous-estimé, constate, dans une tribune au « Monde », Adrien Charbuy, spécialiste des politiques de l’emploi au sein de l’Etat.",
+          "url": "https://www.lemonde.fr/idees/article/2026/03/19/les-emplois-du-secteur-tertiaire-sont-desormais-exposes-a-la-baisse-des-embauches-et-a-des-licenciements_6672364_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-03-19T06:30:01.000Z",
+          "fetchedAt": "2026-03-20T06:06:50.638Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Crimson Desert est une aventure aussi incroyable que médiocre",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-03-18-a59f975d",
-          "title": "Crimson Desert est une aventure aussi incroyable que médiocre",
-          "description": "Après l'incroyable succès de son MMORPG, Black Desert Online (aux dernières nouvelles, on parle de 40 millions de joueurs depuis sa sortie en 2015 et 1,7 milliard de dollars de revenus cumulés), le studio et éditeur sud-coréen Pearl Abyss a eu envie de se frotter au jeu solo, tout en restant dans l'action-RPG d'heroic fantasy. Ainsi naquit Crimson Desert, un colosse gargantuesque dont les pieds sont parfois un peu trop faits d'argile. Notre test, après 80 heures de jeu.",
-          "url": "https://www.numerama.com/pop-culture/2211853-test-de-crimson-desert-sur-pc.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/01/crimson-desert.jpg?resize=1600,900&key=95979cd5&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-18T22:00:00.000Z",
-          "fetchedAt": "2026-03-19T06:10:36.716Z"
-        },
-        {
-          "id": "2026-03-18-0446cb71",
-          "title": "Coal plant forced to stay open due to emergency order isn't even running",
-          "description": "Department of Energy's attempts to prop up coal can look pretty pointless.",
-          "url": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1232409436-1024x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-03-18T21:10:45.000Z",
-          "fetchedAt": "2026-03-19T06:10:43.745Z"
-        },
-        {
-          "id": "2026-03-18-7ad9388c",
-          "title": "Éruption volcanique à La Réunion : pourquoi la lave dans l’océan forme-t-elle une nouvelle « plage » ?",
-          "description": "Le Piton de la Fournaise est en éruption, pour la deuxième fois de l'année 2026. À la mi-mars, ses coulées de lave ont atteint l'océan, formant de nouvelles structures semblables à des « plages » naissantes. Comment est-ce possible ? Ces plateformes vont-elles vraiment agrandir le territoire de l'île ?",
-          "url": "https://www.numerama.com/sciences/2212359-eruption-volcanique-a-la-reunion-pourquoi-la-lave-dans-locean-forme-t-elle-une-nouvelle-plage.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/piton-de-la-fournaise-plateforme.jpg?resize=1600,900&key=28a4e324&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-18T15:20:42.000Z",
-          "fetchedAt": "2026-03-19T06:10:36.716Z"
-        },
-        {
-          "id": "2026-03-18-b672ed9f",
-          "title": "Mozilla sort le grand jeu : un VPN gratuit débarque directement dans Firefox",
-          "description": "Mozilla va lancer un VPN gratuit directement intégré à son navigateur. Prévu pour le 24 mars 2026 avec la mise à jour Firefox 149, ce nouvel outil promet de protéger votre navigation avec une enveloppe de 50 Go par mois.",
-          "url": "https://www.numerama.com/tech/2212225-mozilla-sort-le-grand-jeu-un-vpn-gratuit-debarque-directement-dans-firefox.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/distilled-featurelaunch-vpn-02-1.jpg?resize=1600,900&key=5bd82143&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-18T12:02:00.000Z",
-          "fetchedAt": "2026-03-19T06:10:36.716Z"
-        },
-        {
-          "id": "2026-03-18-ac4b6333",
-          "title": "BMW dégaine une berline électrique stylée avec 900 km d’autonomie : tout savoir sur la nouvelle i3",
-          "description": "La BMW i3 est de retour ! Enfin, presque, car la citadine est devenue une berline, la variante 100 % électrique de la mythique Série 3. Outre son design marquant, l'Allemande se distingue par une technologie de pointe : 470 ch, 900 km d'autonomie et une architecture 800 V pour recharger plus vite que son ombre.",
-          "url": "https://www.numerama.com/vroom/2210923-bmw-degaine-une-berline-electrique-stylee-avec-900-km-dautonomie-tout-savoir-sur-la-nouvelle-i3.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/bmw-i3-2026-4.jpg?resize=1600,900&key=333e9a10&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-18T10:50:32.000Z",
-          "fetchedAt": "2026-03-19T06:10:36.716Z"
-        },
-        {
-          "id": "2026-03-18-4fb1963f",
-          "title": "Même un expert de la conduite autonome s’est fait piéger par le « presque parfait » du FSD de Tesla",
-          "description": "Un ancien responsable d’un programme de conduite autonome chez Uber s’est fait trahir par la conduite autonome supervisée de Tesla (FSD). Un accident presque banal, qui rappelle pourtant à quel point le conducteur fait souvent trop confiance à ces systèmes.",
-          "url": "https://www.numerama.com/vroom/2212241-meme-un-expert-de-la-conduite-autonome-sest-fait-pieger-par-le-presque-parfait-du-fsd-de-tesla.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/01/tesla-fsd-2026-3.jpg?resize=1600,900&key=a98a4634&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-18T10:32:50.000Z",
-          "fetchedAt": "2026-03-19T06:10:36.716Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-1",
-      "topic": "Camden pregnancy payment to continue after trial",
+      "topic": "Haro sur la pause cigarette",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-03-19-09cc2122",
-          "title": "Camden pregnancy payment to continue after trial",
-          "description": "The scheme provides £500 to support low-income families welcoming a new baby in the London borough.",
-          "url": "https://www.bbc.com/news/articles/c0e5ezz49lqo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/be7f/live/9a378bb0-22e6-11f1-9c64-25f36d76b36f.png",
-          "source": "BBC Business",
+          "id": "2026-03-20-f2fdfc33",
+          "title": "Haro sur la pause cigarette",
+          "description": "Une étude du site d’emploi Jobleads chiffre à 5 milliards par an le coût de ces pauses pour les entreprises. Un verdict à relativiser.",
+          "url": "https://www.lemonde.fr/emploi/article/2026/03/20/haro-sur-la-pause-cigarette_6672669_1698637.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-03-19T06:07:43.000Z",
-          "fetchedAt": "2026-03-19T06:10:47.355Z"
+          "publishedAt": "2026-03-20T05:30:07.000Z",
+          "fetchedAt": "2026-03-20T06:07:05.472Z"
         }
       ]
     }
