@@ -1,23 +1,149 @@
 {
-  "generatedAt": "2026-03-22T06:10:32.939Z",
+  "generatedAt": "2026-03-23T06:21:11.246Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Italie: référendum très politique sur une réforme de la justice",
+      "id": "cluster-3",
+      "topic": "Réchauffement climatique: la Terre est «poussée au-delà de ses limites» s'alarme",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-22-bb9d5345",
-          "title": "Italie: référendum très politique sur une réforme de la justice",
-          "description": "Les Italiens se prononcent par référendum, dimanche 22 et lundi 23 mars 2026, sur une réforme de la justice, jugée essentielle pour garantir l’impartialité des magistrats, selon la Première ministre Giorgia Meloni. Ses opposants dénoncent une tentative de prise de contrôle par le pouvoir politique.",
-          "url": "https://www.rfi.fr/fr/europe/20260322-r%C3%A9f%C3%A9rendum-tr%C3%A8s-politique-sur-une-r%C3%A9forme-de-la-justice",
-          "imageUrl": "https://s.rfi.fr/media/display/6482dabc-2483-11f1-8de1-005056a90284/w:1024/p:16x9/000-A3G94UX.jpg",
+          "id": "2026-03-23-87a83ade",
+          "title": "Réchauffement climatique: la Terre est «poussée au-delà de ses limites» s'alarme un rapport de l'ONU",
+          "description": "La quantité de chaleur accumulée par la terre a atteint un niveau record en 2025, avec des conséquences à craindre pour des centaines, voire des milliers d'années, alerte lundi l'Organisation météorologique mondiale (OMM), une agence de l'ONU.",
+          "url": "https://www.rfi.fr/fr/environnement/20260323-r%C3%A9chauffement-climatique-la-terre-est-pouss%C3%A9e-au-del%C3%A0-de-ses-limites-s-alarme-un-rapport-de-l-onu",
+          "imageUrl": "https://s.rfi.fr/media/display/c72cb3ac-2679-11f1-add4-005056a97e36/w:1024/p:16x9/000-69BQ9NQ.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-22T05:56:01.000Z",
-          "fetchedAt": "2026-03-22T06:06:32.681Z"
+          "publishedAt": "2026-03-23T05:34:50.000Z",
+          "fetchedAt": "2026-03-23T06:17:11.453Z"
+        },
+        {
+          "id": "2026-03-23-3ed99157",
+          "title": "Les résultats des municipales, “un thermomètre de la vie politique française” avant la présidentielle",
+          "description": "Le second tour a donné des indices aux partis traditionnels sur la pertinence d’une alliance avec l’extrême droite ou l’extrême gauche en 2027.",
+          "url": "https://www.courrierinternational.com/article/vu-d-les-resultats-des-municipales-un-thermometre-de-la-vie-politique-francaise-avant-la-presidentielle_242054",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/22/0/0/3483/2322/1200/630/60/0/e83f31f_ftp-1-em9kadwxftnw-afp-a4ay47m.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-23T04:55:08.000Z",
+          "fetchedAt": "2026-03-23T06:17:00.761Z"
+        },
+        {
+          "id": "2026-03-23-b9667fe6",
+          "title": "UN issues new climate warning as El Niño looms",
+          "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
+          "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-23T04:06:22.000Z",
+          "fetchedAt": "2026-03-23T06:17:11.952Z"
+        },
+        {
+          "id": "2026-03-23-4634016c",
+          "title": "Comment Bayer est devenu un acteur clé de la sécurité nationale des États-Unis",
+          "description": "Le géant pharmaceutique et agrochimique allemand, propriétaire de Monsanto depuis 2018, est le seul producteur de glyphosate et de phosphore blanc aux États-Unis. Le président Trump a pris un décret exécutif visant à soutenir la production de ces deux produits, essentiels à ses yeux pour les secteurs de l’agriculture et de la défense.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-comment-bayer-est-devenu-un-acteur-cle-de-la-securite-nationale-des-etats-unis_241518",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/13/233/279/2427/1618/1200/630/60/0/70922f5_upload-1-ng0jyoq15r5u-1mayk-2009-11-18-5926-copie.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-23T04:00:08.000Z",
+          "fetchedAt": "2026-03-23T06:17:00.761Z"
+        },
+        {
+          "id": "2026-03-23-492048f1",
+          "title": "Municipales 2026 : à chacun son récit victorieux, les regards tournés vers 2027",
+          "description": "Parti socialiste, Les Républicains, Rassemblement national, La France insoumise et même Renaissance ont trouvé des motifs de satisfaction, dimanche soir, dans les résultats du second tour des élections municipales. Les regards sont désormais tournés vers la présidentielle 2027 avec une question qui a dominé les commentaires à gauche : celle de l’union avec LFI.",
+          "url": "https://www.france24.com/fr/france/20260323-municipales-2026-chacun-recit-victorieux-regards-tournes-vers-2027-ps-lfi-rn-lr-renaissance-ecologistes",
+          "imageUrl": "https://s.france24.com/media/display/86591950-264d-11f1-b6e6-005056bf30b7/w:1024/p:16x9/000-A4AB8CA.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-23T00:18:04.000Z",
+          "fetchedAt": "2026-03-23T06:17:10.940Z"
+        },
+        {
+          "id": "2026-03-22-e975f1ed",
+          "title": "Municipales en France: la gauche l'emporte à Paris, Lyon, Marseille mais les alliances avec LFI échouent",
+          "description": "La gauche a conservé Paris, Marseille et Lyon dimanche 22 mars au second tour des municipales, qui ont toutefois signé l'échec général des alliances controversées entre LFI et les socialistes, tandis que la droite et le centre engrangent une belle moisson et que le RN enregistre une vague de victoires dans les villes moyennes.",
+          "url": "https://www.rfi.fr/fr/france/20260322-municipales-en-france-la-gauche-l-emporte-%C3%A0-paris-lyon-marseille-mais-les-alliances-avec-lfi-%C3%A9chouent",
+          "imageUrl": "https://s.rfi.fr/media/display/459670b8-263c-11f1-bd9a-005056bfb2b6/w:1024/p:16x9/000-A4BD82F.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-22T22:39:26.000Z",
+          "fetchedAt": "2026-03-23T06:17:11.453Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "EN DIRECT - Guerre au Moyen-Orient: l'Arabie saoudite et ses voisins du Golfe à ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-03-23-6d578a5c",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: l'Arabie saoudite et ses voisins du Golfe à nouveau attaqués par l'Iran",
+          "description": "Au 25ᵉ jour de la guerre au Moyen-Orient, les attaques se poursuivent dans la région. Le chef de l'Agence internationale de l'Énergie met en garde le monde contre la pire crise de l'énergie depuis des décennies. L’Iran a menacé ce dimanche 22 mars de frapper des infrastructures clés de la région et de fermer entièrement le détroit d'Ormuz, répliquant immédiatement à l'ultimatum lancé par Donald Trump de rouvrir le détroit sous 48 heures. De son côté, Israël doit s'attendre à « encore plusieurs semaines de combats » contre le Hezbollah libanais et l'Iran, a prévenu le porte-parole de l'armée israélienne.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260323-en-direct-guerre-au-moyen-orient-l-arabie-saoudite-et-ses-voisins-du-golfe-%C3%A0-nouveau-attaqu%C3%A9s-par-l-iran",
+          "imageUrl": "https://s.rfi.fr/media/display/03d2453c-2676-11f1-8ce7-005056a97e36/w:1024/p:16x9/000-A4BL2J7.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-23T05:12:45.000Z",
+          "fetchedAt": "2026-03-23T06:17:11.453Z"
+        },
+        {
+          "id": "2026-03-23-8ed242bf",
+          "title": "Du choc pétrolier provoqué par la guerre en Iran à la spirale inflationniste, comment la hausse des prix se propage à l’économie",
+          "description": "L’envolée des cours du pétrole et du gaz va peu à peu se répercuter sur l’ensemble des entreprises, dans l’industrie comme dans l’agroalimentaire, puis sur les consommateurs.",
+          "url": "https://www.lemonde.fr/economie/article/2026/03/23/du-choc-petrolier-provoque-par-la-guerre-en-iran-a-la-spirale-inflationniste-comment-la-hausse-des-prix-se-propage-a-l-economie_6673846_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-23T04:15:03.000Z",
+          "fetchedAt": "2026-03-23T06:16:58.273Z"
+        },
+        {
+          "id": "2026-03-23-dab42a17",
+          "title": "L’Iran prêt à poursuivre l’escalade militaire après trois semaines de guerre",
+          "description": "Téhéran a franchi un nouveau palier, samedi, en visant la base de Diego Garcia, à plus de 4 000 km de ses côtes, puis en tirant un missile sur la ville israélienne de Dimona, proche d’un réacteur nucléaire et d’un important centre de recherche. De son côté, le président américain, Donald Trump, a menacé d’« anéantir » les centrales énergétiques iraniennes, si Téhéran ne rouvrait pas pleinement le détroit d’Ormuz avant lundi soir.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/23/l-iran-pret-a-poursuivre-l-escalade-militaire-apres-trois-semaines-de-guerre_6673844_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-23T04:00:15.000Z",
+          "fetchedAt": "2026-03-23T06:16:58.273Z"
+        },
+        {
+          "id": "2026-03-23-94f15489",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Israël prévoit « plusieurs semaines de combats » supplémentaires contre l’Iran et le Hezbollah",
+          "description": "Les forces israéliennes ont bombardé, dimanche, le pont de Qasmiyeh, qui enjambe le Litani, dans le sud du Liban. Le président libanais, Joseph Aoun, a dénoncé les frappes menées contre des ponts et d’autres infrastructures, les qualifiant de « prélude à une invasion terrestre ».",
+          "url": "https://www.lemonde.fr/international/live/2026/03/23/en-direct-guerre-au-moyen-orient-israel-prevoit-plusieurs-semaines-de-combats-supplementaires-contre-l-iran-et-le-hezbollah_6673056_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-23T01:28:27.000Z",
+          "fetchedAt": "2026-03-23T06:16:58.273Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-22",
+      "topic": "Vol de l’avion supersonique du X-59, Dune 3 en IMAX & pépin sur le Starship – le",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-03-22-1d901c8b",
+          "title": "Vol de l’avion supersonique du X-59, Dune 3 en IMAX & pépin sur le Starship – le récap’ de la semaine",
+          "description": "Au programme de la semaine : un nouveau vol de l'avion expérimental supersonique X-59, les possibilités de visionnage de Dune 3 dans la version IMAX complète et un petit souci dans la préparation du premier étage Super Heavy de la fusée Starship.",
+          "url": "https://www.numerama.com/sciences/2214857-vol-de-lavion-supersonique-du-x-59-dune-3-en-imax-pepin-sur-le-starship-le-recap-de-la-semaine.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/08/test-vol-x-59.jpg?resize=1600,900&key=cd1bd671&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-03-22T06:03:00.000Z",
+          "fetchedAt": "2026-03-23T06:17:13.898Z"
         },
         {
           "id": "2026-03-22-9c39e1bc",
@@ -25,174 +151,70 @@
           "description": "Le cercle de réflexion finlandais Sitra a mené une étude montrant que les jeunes internautes sont soumis à davantage de contenus de droite et d’extrême droite en ligne, peu importent leurs opinions politiques. Ilkka Rasanen, directeur des programmes de Sitra, prône, dans un entretien au « Monde », une intervention de l’Europe.",
           "url": "https://www.lemonde.fr/idees/article/2026/03/22/la-commission-europeenne-doit-determiner-si-les-plateformes-numeriques-ont-cree-un-biais-dangereux-pour-la-democratie_6673489_3232.html",
           "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
+          "source": "Le Monde - Pixels",
+          "category": "tech",
           "publishedAt": "2026-03-22T04:30:23.000Z",
-          "fetchedAt": "2026-03-22T06:06:14.557Z"
+          "fetchedAt": "2026-03-23T06:17:12.777Z"
         },
         {
-          "id": "2026-03-22-c19d7b13",
-          "title": "Référendum sur la justice : pour Giorgia Meloni, un vote à haut risque",
-          "description": "Les 22 et 23 mars, les Italiens sont appelés aux urnes pour s’exprimer sur un référendum qui propose de séparer les carrières des juges de celles des procureurs. De l’issue de ce scrutin, bien plus politique qu’il n’y paraît, pourrait dépendre l’avenir du gouvernement de Giorgia Meloni.",
-          "url": "https://www.courrierinternational.com/article/italie-referendum-sur-la-justice-pour-giorgia-meloni-un-vote-a-haut-risque_241574",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/16/205/0/2400/1600/1200/630/60/0/fbc2689_upload-1-26ltzwgfxc47-p-26-nardi-copie-w.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-22T04:00:16.000Z",
-          "fetchedAt": "2026-03-22T06:06:18.554Z"
-        },
-        {
-          "id": "2026-03-22-c4c1b25f",
-          "title": "En Italie, Giorgia Meloni cherche un nouveau souffle dans un référendum sur la justice",
-          "description": "Les électeurs italiens se prononcent dimanche et lundi sur une réforme de la magistrature. La consultation a pris des allures de plébiscite pour la présidente du conseil, alors que la campagne a été marquée par une polarisation intense et une atmosphère politique pesante.",
-          "url": "https://www.lemonde.fr/international/article/2026/03/22/en-italie-giorgia-meloni-cherche-un-nouveau-souffle-dans-un-referendum-sur-la-justice_6673444_3210.html",
+          "id": "2026-03-21-a5ff9b7d",
+          "title": "« Les messageries privées demeurent un angle mort des efforts de la lutte contre la désinformation »",
+          "description": "Dans une tribune au « Monde », les chercheuses Mariana Olaizola Rosenblat et Katharina Zuegel observent que la réglementation distinguant communications « publiques » et « privées » ne reflète plus la manière dont WhatsApp et Telegram fonctionnent en pratique.",
+          "url": "https://www.lemonde.fr/idees/article/2026/03/21/les-messageries-privees-demeurent-un-angle-mort-des-efforts-de-la-lutte-contre-la-desinformation_6673237_3232.html",
           "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-22T04:00:02.000Z",
-          "fetchedAt": "2026-03-22T06:06:14.557Z"
-        },
-        {
-          "id": "2026-03-22-534dc101",
-          "title": "Cuba: deuxième black-out dans tout le pays en moins d'une semaine",
-          "description": "Cuba est affectée ce 21 mars par sa deuxième panne de courant nationale en moins d'une semaine. C'est ce qu'a annoncé le ministère de l'Énergie de l'île. Cuba subit depuis le mois de janvier un embargo pétrolier américain qui pose de plus en plus de problèmes aux autorités.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260322-cuba-deuxi%C3%A8me-black-out-dans-tout-le-pays-en-moins-d-une-semaine",
-          "imageUrl": "https://s.rfi.fr/media/display/353f633c-25a1-11f1-8315-005056a97e36/w:1024/p:16x9/2026-03-22T031314Z-917308353-RC2C9KAX0TJZ-RTRMADP-3-CUBA-CRISIS-POWER.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-22T03:45:19.000Z",
-          "fetchedAt": "2026-03-22T06:06:32.681Z"
-        },
-        {
-          "id": "2026-03-22-bf5771c2",
-          "title": "L’île de Cuba de nouveau touchée par une panne d’électricité nationale, la deuxième en moins d’une semaine",
-          "description": "Le pays a déjà connu une panne générale de plus de vingt-quatre heures, les 16 et 17 mars. Le gouvernement affirme que les sanctions américaines l’empêchent de réparer son infrastructure électrique vétuste, mais des économistes relèvent aussi le sous-investissement chronique de l’Etat dans ce secteur.",
-          "url": "https://www.lemonde.fr/international/article/2026/03/22/l-ile-de-cuba-de-nouveau-touchee-par-une-panne-d-electricite-nationale-la-deuxieme-en-moins-d-une-semaine_6673408_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-22T03:24:17.000Z",
-          "fetchedAt": "2026-03-22T06:06:14.557Z"
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-03-21T07:30:02.000Z",
+          "fetchedAt": "2026-03-23T06:17:12.777Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "République tchèque: des milliers de manifestants rassemblés contre la politique ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-03-22-961b9fe2",
-          "title": "République tchèque: des milliers de manifestants rassemblés contre la politique d'Andrej Babis",
-          "description": "En République tchèque, plusieurs dizaines de milliers de personnes ont manifesté samedi à Prague contre la politique menée par le gouvernement d’Andrej Babis. Une mobilisation relativement importante face à une coalition au pouvoir qui va tenter dans les prochains mois d’appliquer un programme controversé dans plusieurs domaines.",
-          "url": "https://www.rfi.fr/fr/europe/20260322-r%C3%A9publique-tch%C3%A8que-des-milliers-de-manifestants-rassembl%C3%A9s-contre-la-politique-d-andrej-babis",
-          "imageUrl": "https://s.rfi.fr/media/display/17000d5e-25ab-11f1-9082-005056bfb2b6/w:1024/p:16x9/AP26080616304329.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-22T04:58:07.000Z",
-          "fetchedAt": "2026-03-22T06:06:32.681Z"
-        },
-        {
-          "id": "2026-03-21-ad8b0c29",
-          "title": "Des dizaines de milliers de Tchèques manifestent contre le gouvernement nationaliste du milliardaire Andrej Babis",
-          "description": "Le mouvement citoyen indépendant qui a organisé la manifestation accuse le gouvernement de « minimiser » les menaces représentées par la Russie, qui a envahi l’Ukraine en 2022. Les manifestants reprochent aussi à Andrej Babis d’abuser de son immunité parlementaire afin d’échapper à des poursuites pénales.",
-          "url": "https://www.lemonde.fr/international/article/2026/03/21/des-dizaines-de-milliers-de-tcheques-manifestent-contre-le-gouvernement-nationaliste-du-milliardaire-andrej-babis_6673304_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-21T19:39:46.000Z",
-          "fetchedAt": "2026-03-22T06:06:14.557Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-8",
-      "topic": "ENQUETE VIDEO Israël : la brigade Golani, entre traumatisme et accusations de cr",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-03-22-8644a0ea",
-          "title": "ENQUETE VIDEO Israël : la brigade Golani, entre traumatisme et accusations de crimes de guerre",
-          "description": "La brigade Golani, qui vient de retourner au Liban, a participé à toutes les guerres de l’Etat d’Israël. Endeuillée comme nulle autre par l’attaque terroriste du 7 octobre 2023, cette unité populaire et réputée est accusée de plusieurs exactions et crimes de guerre au cours de l’année écoulée.",
-          "url": "https://www.lemonde.fr/videos/video/2026/03/22/israel-enquete-sur-la-brigade-golani-unite-d-elite-entre-traumatismes-et-suspicions-de-crimes-de-guerre_6673453_1669088.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-22T04:15:09.000Z",
-          "fetchedAt": "2026-03-22T06:06:14.557Z"
-        },
-        {
-          "id": "2026-03-21-efe7521c",
-          "title": "Donald Trump règle ses comptes avec l’ancien procureur Robert Mueller à l’annonce de sa mort",
-          "description": "Le juriste avait été nommé comme procureur spécial dans l’affaire des ingérences russes dans l’élection présidentielle de 2016. « Je suis content qu’il soit mort. Il ne peut plus faire de mal aux innocents », a commenté le président américain.",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/03/21/donald-trump-regle-ses-comptes-avec-l-ancien-procureur-robert-mueller-a-l-annonce-de-sa-mort_6673308_3382.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-21T22:00:05.000Z",
-          "fetchedAt": "2026-03-22T06:06:14.557Z"
-        },
-        {
-          "id": "2026-03-21-5be11941",
-          "title": "Robert Mueller, l’ancien procureur chargé de l’enquête sur la campagne de Donald Trump de 2016, est mort ; le président américain se dit « content » de l’annonce de son décès",
-          "description": "Homme taciturne et discret, il avait également été directeur du FBI, pendant douze ans, de 2001 à 2013. Il était âgé de 81 ans. Le « New York Times » rapportait il y a quelques mois qu’il avait été diagnostiqué de la maladie de Parkinson.",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/03/21/robert-mueller-l-ancien-procureur-charge-de-l-enquete-sur-la-campagne-de-donald-trump-de-2016-est-mort_6673298_3382.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-21T17:39:11.000Z",
-          "fetchedAt": "2026-03-22T06:06:14.557Z"
-        },
-        {
-          "id": "2026-03-21-5d2151d9",
-          "title": "Conflit Israël-Hezbollah : la jeunesse libanaise face à la guerre",
-          "description": "L'armée israélienne a annoncé avoir lancé samedi matin des frappes sur Beyrouth, affirmant viser le mouvement Hezbollah, soutenu par l'Iran. Depuis le 2 mars, le conflit entre l'État hébreu et le Hezbollah a fait un millier de morts au Liban et le déplacement de plus d’un million de personnes. Cette guerre frappe aussi de plein fouet la jeunesse libanaise contrainte de mettre ses rêves en suspens.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260321-conflit-isra%C3%ABl-hezbollah-la-jeunesse-libanaise-face-%C3%A0-la-guerre",
-          "imageUrl": "https://s.france24.com/media/display/29863ce2-250f-11f1-b40d-005056bfb2b6/w:1024/p:16x9/FR-20260321-110421-110554-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-21T10:26:22.000Z",
-          "fetchedAt": "2026-03-22T06:06:32.524Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "Dans les Alpes, le ski avec dépose en hélicoptère trouve toujours des adeptes : ",
+      "id": "cluster-1",
+      "topic": "Why do the West's farmers pay the price for war in Iran?",
       "category": "eco",
+      "importance": 8,
+      "articles": [
+        {
+          "id": "2026-03-23-6ae9b62c",
+          "title": "Why do the West's farmers pay the price for war in Iran?",
+          "description": "Rising oil prices caused by the war in the Gulf has caused an \"overnight shock\" to west country farmers.",
+          "url": "https://www.bbc.com/news/articles/c9v0v1p4el8o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9540/live/3746ac40-22cb-11f1-b72c-95dabe3e6755.png",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-03-23T06:09:57.000Z",
+          "fetchedAt": "2026-03-23T06:17:20.274Z"
+        },
+        {
+          "id": "2026-03-21-1b7034c8",
+          "title": "US lifts sanctions on some Iranian oil as energy prices soar",
+          "description": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
+          "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3ee4/live/b3f62e10-23c9-11f1-934f-036468834728.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-03-21T12:15:20.000Z",
+          "fetchedAt": "2026-03-23T06:17:20.274Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "The cutthroat battle for the US weight-loss drug market",
+      "category": "geopolitique",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-03-22-6b1bccb0",
-          "title": "Dans les Alpes, le ski avec dépose en hélicoptère trouve toujours des adeptes : « Pour certains, c’est un graal, le summum du hors-piste »",
-          "description": "Même s’il est interdit en France, l’héliski, cette pratique du hors-piste avec trajet en hélicoptère, est proposé par de multiples agences savoyardes, qui emmènent leurs clients en Suisse ou en Italie.",
-          "url": "https://www.lemonde.fr/economie/article/2026/03/22/dans-les-alpes-le-ski-avec-depose-en-helicoptere-trouve-toujours-des-adeptes-pour-certains-c-est-un-graal-le-summum-du-hors-piste_6673492_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-03-22T04:30:40.000Z",
-          "fetchedAt": "2026-03-22T06:06:48.371Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "Halide co-founder is suing former partner for bringing source code to Apple",
-      "category": "tech",
-      "importance": 6,
-      "articles": [
-        {
-          "id": "2026-03-21-91a14a01",
-          "title": "Halide co-founder is suing former partner for bringing source code to Apple",
-          "description": "Halide running on an iPhone. | Photo: Allison Johnson / The Verge\t\n\nLux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide, one of the most popular photography apps for the iPhone, which gained a cult following for its robust pro-level controls. \nApple was apparently a big enough fan that it tried to acquire the developer last summer. Those talks never bore fruit, and eventually the company simply hired de With. At the time, it was widely believed that Apple had poached him from Lux. But new allegations from a lawsuit filed by co-founder Ben Sandofsky in the California Superior Court of Santa Cruz claim de With was fired for financial misc …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DSC02494_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-03-21T21:02:56.000Z",
-          "fetchedAt": "2026-03-22T06:06:46.240Z"
+          "id": "2026-03-23-ebdff65d",
+          "title": "The cutthroat battle for the US weight-loss drug market",
+          "description": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
+          "url": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/66a0/live/5e1a7690-248c-11f1-a673-e3b236a15253.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-23T06:03:48.000Z",
+          "fetchedAt": "2026-03-23T06:17:11.952Z"
         }
       ]
     }
