@@ -13,6 +13,7 @@ import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { isValidEditorialImage } from './image-validation.js';
+import { createClient } from '@supabase/supabase-js';
 
 // ES Module __dirname equivalent
 const __filename = fileURLToPath(import.meta.url);
@@ -72,6 +73,40 @@ interface Edition {
 // Constants
 const CLUSTERED_PATH = join(__dirname, '..', 'data', 'clustered-articles.json');
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
+
+/**
+ * Fetch recent story titles by category from newsletter_editions (last N days)
+ */
+async function fetchRecentStoryTitles(category: string, days = 7): Promise<string[]> {
+  const supabaseUrl = process.env.SUPABASE_URL;
+  const supabaseKey = process.env.SUPABASE_SERVICE_KEY;
+  if (!supabaseUrl || !supabaseKey) return [];
+
+  try {
+    const supabase = createClient(supabaseUrl, supabaseKey);
+    const since = new Date(Date.now() - days * 24 * 60 * 60 * 1000).toISOString();
+    const { data, error } = await supabase
+      .from('newsletter_editions')
+      .select('stories_json')
+      .gte('edition_date', since)
+      .order('edition_date', { ascending: false });
+
+    if (error || !data) return [];
+
+    const titles: string[] = [];
+    for (const edition of data) {
+      const stories = edition.stories_json;
+      if (Array.isArray(stories)) {
+        for (const s of stories) {
+          if (s.category === category) titles.push(s.title);
+        }
+      }
+    }
+    return titles;
+  } catch {
+    return [];
+  }
+}
 
 /**
  * Simple word-overlap similarity between two titles (0-1)
@@ -395,7 +430,8 @@ async function synthesizeFromPool(
   client: Anthropic,
   articles: RawArticle[],
   category: 'tech' | 'eco',
-  storyIndex: number
+  storyIndex: number,
+  recentTitles: string[] = []
 ): Promise<Story | null> {
   const articlesDetail = articles
     .map(
@@ -409,7 +445,16 @@ URL: ${a.url}
     .join('\n---\n');
 
   const sources = [...new Set(articles.map((a) => a.source))];
-  const prompt = POOL_SYSTEM_PROMPT.replace(/%CATEGORY%/g, category);
+  let prompt = POOL_SYSTEM_PROMPT.replace(/%CATEGORY%/g, category);
+
+  // Add diversity constraint if we have recent titles
+  if (recentTitles.length > 0) {
+    prompt += `\n\nDIVERSITÉ THÉMATIQUE (CRITIQUE) :
+Les titres suivants ont déjà été couverts ces derniers jours. Tu DOIS choisir un ANGLE DIFFÉRENT ou un SUJET DIFFÉRENT.
+Ne répète PAS le même thème (ex: si "flambée des prix énergétiques" revient 3 fois, choisis un autre sujet éco même s'il est couvert par moins de sources).
+Titres récents à éviter :
+${recentTitles.map(t => `- ${t}`).join('\n')}`;
+  }
 
   const userPrompt = `Voici ${articles.length} articles de la catégorie "${category}" provenant de ${sources.length} sources (${sources.join(', ')}).
 
@@ -668,11 +713,15 @@ ${articlesDetail}` }],
     await new Promise((resolve) => setTimeout(resolve, 1500));
   }
 
-  // 3. Synthesize eco from full article pool
+  // 3. Synthesize eco from full article pool (with diversity from recent editions)
   const ecoArticles = rawArticles.filter(a => a.category === 'eco');
   console.log(`\n💰 Éco: ${ecoArticles.length} articles dans le pool`);
   if (ecoArticles.length > 0) {
-    const ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex);
+    const recentEcoTitles = await fetchRecentStoryTitles('eco', 7);
+    if (recentEcoTitles.length > 0) {
+      console.log(`   📋 ${recentEcoTitles.length} titres éco récents chargés pour diversité`);
+    }
+    const ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, recentEcoTitles);
     if (ecoStory) {
       stories.push(ecoStory);
       console.log(`   ✓ "${ecoStory.title}" → ${ecoStory.sources.length} sources`);

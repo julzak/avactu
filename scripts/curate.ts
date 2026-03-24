@@ -91,6 +91,30 @@ function isWithin48Hours(dateString: string | undefined): boolean {
 }
 
 /**
+ * Detect non-French titles (Spanish, Portuguese, Italian, etc.)
+ * English titles are allowed (BBC, Reuters, The Verge, Ars Technica)
+ */
+function isNonFrenchTitle(title: string): boolean {
+  const lower = title.toLowerCase();
+  const words = lower.split(/\s+/);
+
+  // Spanish/Portuguese markers (words that almost never appear in French or English)
+  const nonFrenchMarkers = [
+    'según', 'también', 'pero', 'sobre', 'gobierno', 'países', 'puede', 'tiene',
+    'está', 'hace', 'entre', 'como', 'desde', 'hasta', 'después', 'antes',
+    'mejor', 'todos', 'cada', 'otro', 'otra', 'otros', 'otras', 'nuevo', 'nueva',
+    'contra', 'mientras', 'ahora', 'aquí', 'donde', 'porque', 'aunque',
+    'hacia', 'según', 'através', 'ainda', 'muito', 'também', 'quando',
+    'porque', 'ainda', 'foram', 'após', 'então', 'será', 'isso',
+    'nella', 'della', 'delle', 'degli', 'questo', 'questa', 'questi', 'perché',
+    'hanno', 'sono', 'stato', 'anche', 'dopo', 'ancora', 'molto',
+  ];
+
+  const markerCount = words.filter(w => nonFrenchMarkers.includes(w)).length;
+  return markerCount >= 2;
+}
+
+/**
  * Generate a unique ID for an article
  */
 function generateArticleId(url: string, publishedAt: string): string {
@@ -101,32 +125,39 @@ function generateArticleId(url: string, publishedAt: string): string {
 }
 
 /**
- * Fetch og:image from article URL
+ * Fetch og:image from article URL with retry
  */
-async function fetchOgImage(url: string): Promise<string | null> {
-  try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 8000);
+async function fetchOgImage(url: string, retries = 1): Promise<string | null> {
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 8000);
 
-    const response = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        'User-Agent': 'Avactu/1.0 (News Aggregator)',
-      },
-    });
+      const response = await fetch(url, {
+        signal: controller.signal,
+        headers: {
+          'User-Agent': 'Avactu/1.0 (News Aggregator)',
+        },
+      });
 
-    clearTimeout(timeout);
+      clearTimeout(timeout);
 
-    if (!response.ok) return null;
+      if (!response.ok) return null;
 
-    const html = await response.text();
-    const metadata = await scraper({ html, url });
+      const html = await response.text();
+      const metadata = await scraper({ html, url });
 
-    return metadata.image || null;
-  } catch (error) {
-    console.warn(`  ⚠ Could not fetch og:image for ${url}`);
-    return null;
+      return metadata.image || null;
+    } catch {
+      if (attempt < retries) {
+        await new Promise(r => setTimeout(r, 1000 * (attempt + 1)));
+        continue;
+      }
+      console.warn(`  ⚠ Could not fetch og:image for ${url}`);
+      return null;
+    }
   }
+  return null;
 }
 
 /**
@@ -174,9 +205,16 @@ async function parseFeed(source: Source): Promise<RawArticle[]> {
         imageUrl = null;
       }
 
+      // Filter out non-French titles (Spanish, Portuguese, etc. from Courrier International / Reuters)
+      const title = item.title || 'Sans titre';
+      if (isNonFrenchTitle(title)) {
+        console.log(`   ⊘ Titre non-français rejeté: ${title.slice(0, 60)}...`);
+        continue;
+      }
+
       const article: RawArticle = {
         id: generateArticleId(url, publishedAt),
-        title: item.title || 'Sans titre',
+        title,
         description: item.contentSnippet || item.content?.replace(/<[^>]*>/g, '').slice(0, 500) || '',
         url,
         imageUrl,
@@ -237,12 +275,18 @@ async function curate(): Promise<void> {
   const sources = loadSources();
   console.log(`📚 ${sources.length} sources configurées`);
 
-  // Fetch all feeds
+  // Fetch all feeds in parallel (batches of 4 to avoid overwhelming connections)
   const allArticles: RawArticle[] = [];
+  const BATCH_SIZE = 4;
 
-  for (const source of sources) {
-    const articles = await parseFeed(source);
-    allArticles.push(...articles);
+  for (let i = 0; i < sources.length; i += BATCH_SIZE) {
+    const batch = sources.slice(i, i + BATCH_SIZE);
+    const results = await Promise.allSettled(batch.map(source => parseFeed(source)));
+    for (const result of results) {
+      if (result.status === 'fulfilled') {
+        allArticles.push(...result.value);
+      }
+    }
   }
 
   // Deduplicate and sort
