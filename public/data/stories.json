@@ -1,156 +1,129 @@
 {
-  "date": "2026-03-24T06:18:48.727Z",
+  "date": "2026-03-25T06:18:21.241Z",
   "stories": [
     {
-      "id": "2026-03-24-01",
+      "id": "2026-03-25-01",
       "category": "geopolitique",
-      "title": "L'UE et l'Australie signent un accord commercial majeur",
-      "imageUrl": "https://s.france24.com/media/display/072d89a8-272f-11f1-ab0c-005056a90284/w:1280/p:16x9/2026-03-24T005902Z-169916550-RC2NAKAQDTGV-RTRMADP-3-AUSTRALIA-EU-TRADE.jpg",
+      "title": "La guerre Iran-USA éclipse Gaza et déstabilise l'Asie",
+      "imageUrl": "https://s.rfi.fr/media/display/5f8a2f86-2791-11f1-a8c3-005056bf30b7/w:1024/p:16x9/000-A3FX7B3.jpg",
       "location": {
-        "lat": -35.2809,
-        "lng": 149.13,
-        "name": "Canberra, Australie"
+        "lat": 31.3547,
+        "lng": 34.3088,
+        "name": "Bande de Gaza"
       },
       "bullets": [
-        "L'Union européenne et l'Australie signent un accord de libre-échange historique",
-        "Des années de négociations aboutissent après les tensions diplomatiques récentes",
-        "L'Europe vise une hausse d'un tiers de ses exportations",
-        "L'Australie offre un meilleur accès à ses minéraux critiques",
-        "La coopération en défense se renforce face aux enjeux géopolitiques"
+        "La guerre USA-Israël contre l'Iran dure depuis un mois",
+        "La crise à Gaza passe au second plan médiatique",
+        "Les Afghans quittent massivement l'Iran par peur",
+        "Le Yémen craint l'escalade via les Houthis pro-iraniens",
+        "La pénurie de carburant frappe durement l'Asie entière"
       ],
-      "execSummary": "L'Union européenne et l'Australie ont signé mardi 24 mars à Canberra un vaste accord de libre-échange, fruit d'années de négociations complexes. Cet accord commercial d'ampleur s'accompagne d'un renforcement de la coopération en matière de défense et d'un meilleur accès européen aux minéraux critiques australiens. La signature intervient après une période de tensions diplomatiques entre les deux partenaires, marquant une normalisation des relations bilatérales.\n\nDu côté européen, l'Union mise sur cet accord pour stimuler significativement ses exportations vers l'Australie, avec un objectif d'augmentation d'un tiers au cours de la prochaine décennie. L'Europe justifie cette approche par sa volonté de diversifier ses partenaires commerciaux et de sécuriser son approvisionnement en matières premières stratégiques, notamment les minéraux critiques essentiels à la transition énergétique et aux technologies vertes.\n\nL'Australie, de son côté, perçoit cet accord comme une opportunité de renforcer ses liens avec l'un des plus grands marchés mondiaux tout en consolidant ses alliances stratégiques. Le pays océanien mise sur sa position géographique et ses ressources naturelles pour jouer un rôle clé dans les chaînes d'approvisionnement européennes, particulièrement dans le contexte géopolitique actuel qui pousse l'Europe à réduire sa dépendance vis-à-vis d'autres fournisseurs.\n\nL'enjeu dépasse le simple commerce : cet accord s'inscrit dans une stratégie plus large de coopération défensive entre partenaires démocratiques face aux défis géopolitiques dans la région Indo-Pacifique. Les minéraux critiques australiens deviennent un atout géostratégique majeur pour l'indépendance technologique européenne, tandis que le renforcement des liens commerciaux consolide l'axe démocratique dans une région en mutation.",
+      "execSummary": "Depuis un mois, les États-Unis et Israël mènent une guerre contre l'Iran qui embrase le Moyen-Orient. Selon RFI, cette escalade éclipse médiatiquement la situation dramatique dans la bande de Gaza, où la catastrophe humanitaire se poursuit loin des projecteurs. La BBC rapporte que l'Asie subit une grave crise énergétique due aux perturbations des approvisionnements pétroliers du Golfe, avec des pénuries et une flambée des prix.\n\nLes autorités américaines et israéliennes justifient cette intervention par la nécessité de contrer la menace iranienne régionale. Téhéran et ses alliés dénoncent une agression injustifiée qui déstabilise toute la région. Les Houthis yéménites, fidèles alliés de l'Iran selon RFI, maintiennent pour l'instant le Yémen hors du conflit, mais les populations locales redoutent un embrasement.\n\nCôté iranien, l'écrivaine Azar Nafisi témoigne dans Le Monde de l'espoir que représentent \"les Iraniens qui ont donné leur vie pour la liberté\", illustrant la résistance civile face au régime. Les populations civiles paient le prix fort : le New York Times via Courrier International documente l'exode massif d'Afghans quittant l'Iran par peur, retournant vers un Afghanistan en crise.\n\nCette guerre reconfigure les équilibres géopolitiques régionaux et mondiaux. L'impact économique se ressent jusqu'en Asie avec la crise énergétique, tandis que les crises humanitaires à Gaza et en Afghanistan risquent de s'aggraver sans attention internationale suffisante.",
       "sources": [
-        "France 24",
+        "RFI",
+        "Courrier International",
+        "BBC World",
+        "Le Monde - International"
+      ],
+      "publishedAt": "2026-03-25T06:01:15.000Z"
+    },
+    {
+      "id": "2026-03-25-02",
+      "category": "geopolitique",
+      "title": "La Première ministre italienne Meloni à Alger pour le gaz",
+      "imageUrl": "https://s.rfi.fr/media/display/97070386-9888-11ec-970c-005056bf30b7/w:1024/p:16x9/000_Par2316540.jpg",
+      "location": {
+        "lat": 36.7372,
+        "lng": 3.0865,
+        "name": "Alger, Algérie"
+      },
+      "bullets": [
+        "La Première ministre italienne Meloni rencontre le président algérien Tebboune",
+        "Les tensions au Moyen-Orient perturbent l'approvisionnement gazier européen",
+        "L'Italie cherche l'Algérie comme alternative énergétique face aux crises",
+        "L'Algérie profite de la hausse des cours mais a des capacités limitées",
+        "La sécurité énergétique européenne dépend de nouveaux partenariats stratégiques"
+      ],
+      "execSummary": "La Première ministre italienne Giorgia Meloni s'est rendue à Alger pour rencontrer le président algérien Abdelmadjid Tebboune, avec l'approvisionnement en gaz au cœur des discussions. Cette visite intervient dans un contexte de fortes tensions au Moyen-Orient qui ont perturbé plusieurs infrastructures énergétiques, notamment au Qatar, premier exportateur mondial de gaz naturel liquéfié.\n\nPour l'Italie et les Européens, l'Algérie représente une alternative stratégique face à l'instabilité géopolitique. Les autorités italiennes cherchent à diversifier leurs sources d'approvisionnement énergétique et voient dans ce partenaire méditerranéen une solution pour garantir leur sécurité énergétique. L'objectif est de réduire la dépendance aux zones de conflit.\n\nDu côté algérien, cette situation constitue une aubaine économique. Le 10e pays producteur mondial de gaz profite de la flambée des prix des hydrocarbures causée par la guerre au Moyen-Orient. L'Algérie, déjà courtisée par les pays de l'UE, se positionne comme un fournisseur fiable dans cette période d'incertitude.\n\nToutefois, les capacités d'approvisionnement de l'Algérie restent limitées, ce qui questionne sa capacité à compenser intégralement les besoins européens. Cette visite s'inscrit dans une stratégie plus large de diversification énergétique européenne, alors que le continent cherche à sécuriser ses approvisionnements face aux crises géopolitiques récurrentes.",
+      "sources": [
+        "RFI",
         "Le Monde - International",
         "Courrier International",
-        "RFI"
+        "France 24"
       ],
-      "publishedAt": "2026-03-24T05:54:23.000Z"
+      "publishedAt": "2026-03-25T05:53:01.000Z"
     },
     {
-      "id": "2026-03-24-02",
+      "id": "2026-03-25-03",
       "category": "geopolitique",
-      "title": "Guerra no Oriente Médio: Trump reporta ataques ao Irã",
-      "imageUrl": "https://s.france24.com/media/display/bf4fc404-273b-11f1-aae0-005056bf30b7/w:1024/p:16x9/FR-20260324-043205-043345-CS.jpg",
-      "location": {
-        "lat": 32.4279,
-        "lng": 53.688,
-        "name": "Irã"
-      },
-      "bullets": [
-        "L'Iran tire des missiles contre Israël mardi matin",
-        "Donald Trump reporte les frappes iraniennes pour 5 jours",
-        "Le président affirme avoir des discussions avec Téhéran",
-        "L'Iran dément tout contact avec les États-Unis",
-        "Les prix du pétrole fluctuent selon les déclarations"
-      ],
-      "execSummary": "L'Iran a lancé une nouvelle salve de missiles contre Israël mardi matin, marquant une escalade dans la guerre au Moyen-Orient qui dure depuis 26 jours. Cette attaque intervient quelques heures après que Donald Trump eut annoncé reporter toutes les frappes sur les infrastructures énergétiques iraniennes pour une période de cinq jours, évoquant des discussions en cours avec un responsable iranien non identifié.\n\nLa situation illustre l'intensification des tensions régionales où les États-Unis et Israël font face à ce que les experts qualifient de \"plus grande milice du monde\", un réseau tentaculaire pensé pour résister indéfiniment. Les conséquences économiques se font sentir globalement, notamment sur les cours du pétrole et les approvisionnements énergétiques, le détroit d'Ormuz restant un point névralgique.\n\nLes réactions sont contrastées : tandis que Trump assure que des négociations sont établies depuis quelques jours, le ministère des Affaires étrangères iranien dément formellement ces affirmations selon les médias du pays. Le New York Times confirme toutefois qu'un processus de discussion a été enclenché entre Steve Witkoff et Abbas Araghchi pour trouver un terrain d'entente. L'Iran avait préalablement menacé de poser des mines navales dans le Golfe en cas d'attaque de ses côtes.\n\nL'enjeu dépasse le cadre régional avec des répercussions mondiales sur l'énergie et l'économie. Les patrons des multinationales de l'énergie réunis au Texas expriment leur fatalisme face aux incertitudes, tandis que les revirements incessants de Trump ne convainquent pas un secteur confronté à l'une des plus grandes crises de son histoire. La Maison Blanche affirme maintenir la maîtrise des événements malgré la complexité croissante du conflit.",
-      "sources": [
-        "RFI",
-        "Le Monde",
-        "France 24",
-        "BBC World"
-      ],
-      "publishedAt": "2026-03-24T06:00:11.000Z"
-    },
-    {
-      "id": "2026-03-24-03",
-      "category": "geopolitique",
-      "title": "Giorgia Meloni subit un revers électoral majeur en Italie",
-      "imageUrl": "https://s.france24.com/media/display/f97811fc-26de-11f1-816c-005056a97e36/w:1024/p:16x9/NW081093-O-01-20260323-01.jpg",
-      "location": {
-        "lat": 41.9028,
-        "lng": 12.4964,
-        "name": "Rome, Italie"
-      },
-      "bullets": [
-        "Le référendum sur la réforme judiciaire rejeté par 53,7%",
-        "La participation élevée favorise l'opposition à Meloni",
-        "L'échec fragilise la majorité avant les législatives 2027",
-        "La campagne référendaire s'est déroulée dans la tension",
-        "L'avenir politique de Meloni remis en question"
-      ],
-      "execSummary": "Le référendum sur la réforme du système judiciaire italien, organisé dimanche et lundi, s'est soldé par un revers électoral majeur pour Giorgia Meloni. Le projet de réforme qu'elle avait présenté et défendu publiquement a été rejeté par 53,7% des voix, dans un contexte de participation élevée qui a favorisé l'opposition.\n\nCette défaite référendaire intervient dans un moment critique pour la présidente du conseil italienne, à quelques mois du début de la campagne pour les élections législatives de 2027. La réforme de la magistrature constituait un enjeu central de son programme politique, et son rejet par les électeurs marque un tournant dans sa législature.\n\nLa campagne référendaire s'est déroulée dans un climat tendu, révélant les divisions profondes de la société italienne sur la question judiciaire. L'opposition a mobilisé efficacement contre ce qu'elle percevait comme une tentative d'affaiblissement de l'indépendance de la justice, tandis que les partisans de Meloni défendaient une modernisation nécessaire du système.\n\nCet échec place désormais la majorité sortante en position défavorable pour la prochaine échéance électorale. Il ouvre un nouveau chapitre de la législature de Giorgia Meloni, qui devra revoir sa stratégie politique et composer avec cette défaite référendaire qui fragilise son autorité et sa capacité à mener ses réformes structurelles.",
-      "sources": [
-        "France 24",
-        "Le Monde"
-      ],
-      "publishedAt": "2026-03-24T06:00:11.000Z"
-    },
-    {
-      "id": "2026-03-24-04",
-      "category": "geopolitique",
-      "title": "Trump évoque des négociations avec l'Iran sur la guerre",
-      "imageUrl": "https://s.rfi.fr/media/display/23458e9c-2743-11f1-8ecb-005056a97e36/w:1024/p:16x9/AP26082717619560.jpg",
-      "location": {
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "name": "Washington"
-      },
-      "bullets": [
-        "Le président Trump affirme négocier avec un responsable iranien",
-        "L'Iran dément officiellement toute discussion avec Washington",
-        "Le New York Times confirme des contacts entre diplomates",
-        "Les États-Unis reportent leurs frappes énergétiques de cinq jours",
-        "L'incertitude plane sur la réalité des négociations"
-      ],
-      "execSummary": "Le président américain Donald Trump a annoncé mardi avoir engagé des discussions avec un responsable iranien non identifié dans le cadre de la guerre au Moyen-Orient, tout en reportant pour cinq jours les frappes prévues contre les infrastructures énergétiques iraniennes. Cette déclaration intervient au 26e jour du conflit qui oppose les États-Unis et Israël à l'Iran et ses alliés régionaux.\n\nCes affirmations de Trump visent apparemment à créer une ouverture diplomatique dans un conflit qui menace de déstabiliser durablement la région et l'économie mondiale. Le détroit d'Ormuz reste bloqué, perturbant les approvisionnements pétroliers mondiaux, tandis que l'Iran maintient ses menaces de poser des mines navales dans le Golfe et de frapper les installations électriques américaines.\n\nTéhéran a immédiatement démenti toute négociation, le ministère des Affaires étrangères iranien qualifiant les déclarations de Trump de tentative de manipulation des prix du pétrole. Cependant, le New York Times cite des sources confirmant qu'un processus de discussion a bien été enclenché entre Steve Witkoff, envoyé de Trump, et Abbas Araghchi, responsable iranien, même si ce dialogue en reste à ses premiers balbutiements.\n\nCette confusion diplomatique illustre l'incertitude qui règne sur l'évolution du conflit. Les patrons des multinationales énergétiques, réunis au Texas, expriment leur fatalisme face aux revirements incessants de Trump. La Maison Blanche affirme garder la maîtrise des événements, mais l'Iran semble conserver \"quelques as dans sa manche\", selon les observateurs, maintenant la pression sur Washington et ses alliés dans cette guerre d'usure sans fin claire.",
-      "sources": [
-        "RFI",
-        "Le Monde",
-        "France 24",
-        "New York Times"
-      ],
-      "publishedAt": "2026-03-24T06:00:11.000Z"
-    },
-    {
-      "id": "2026-03-24-05",
-      "category": "tech",
-      "title": "L'IA générative et le défi des données d'entraînement",
-      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/02/crimson-desert-exploratiion.jpg?resize=1600,900&key=379c929f&watermark",
-      "location": {
-        "lat": 37.7749,
-        "lng": -122.4194,
-        "name": "Silicon Valley"
-      },
-      "bullets": [
-        "L'IA générative dépend des créations humaines pour son entraînement",
-        "Les tensions montent entre exploitants d'IA et créateurs de contenu",
-        "Le PDG de Nvidia affirme avoir atteint l'intelligence artificielle générale",
-        "Les développeurs utilisent l'IA générative dans leurs jeux vidéo",
-        "L'évolution du travail face à la maîtrise des systèmes d'IA"
-      ],
-      "execSummary": "Les débats sur l'intelligence artificielle générative se cristallisent autour de questions fondamentales concernant les données d'entraînement et l'impact sur les créateurs. Un collectif d'économistes et de spécialistes des industries créatives soulève des interrogations sur l'avenir des IA qui dépendent des mêmes données, comparant l'intelligence artificielle à « un puits de pétrole dont le pétrole, ce sont nos créations ». Cette problématique s'illustre concrètement avec l'admission par les développeurs de Crimson Desert d'avoir utilisé l'IA générative dans leur processus de création. Le contexte s'enrichit d'une annonce majeure du PDG de Nvidia Jensen Huang, qui affirme dans le podcast Lex Fridman que « nous avons atteint l'AGI » (intelligence artificielle générale), une déclaration qui relance les débats sur la définition même de cette étape technologique. Cette affirmation intervient alors que Nvidia défend sa technologie DLSS 5 contre les accusations de produire de « l'IA slop ». Les réactions du secteur sont partagées entre enthousiasme technologique et préoccupations éthiques. Les créateurs de contenu s'inquiètent de voir leurs œuvres utilisées sans compensation adéquate pour alimenter des systèmes qui pourraient les remplacer. Parallèlement, les entreprises technologiques continuent d'investir massivement dans ces technologies, comme en témoigne le projet TERAFAB d'Elon Musk visant à créer une méga-usine de semi-conducteurs dédiée à l'IA. Les enjeux dépassent la simple question technique pour toucher aux fondements économiques et créatifs de notre société. La valeur du travail se redéfinit, passant d'une mesure en heures à une évaluation basée sur la maîtrise des systèmes d'IA. Cette transformation soulève des questions cruciales sur l'équilibre entre innovation technologique et préservation des droits des créateurs, ainsi que sur la nécessité de nouveaux modèles économiques pour une coexistence durable entre intelligence artificielle et créativité humaine.",
-      "sources": [
-        "Le Monde - Pixels",
-        "The Verge",
-        "Numerama"
-      ],
-      "publishedAt": "2026-03-24T05:30:16.000Z"
-    },
-    {
-      "id": "2026-03-24-06",
-      "category": "eco",
-      "title": "La flambée des prix énergétiques impacte l'économie",
+      "title": "Le Danemark vote sans majorité claire",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Europe"
+        "lat": 55.6761,
+        "lng": 12.5683,
+        "name": "Copenhague, Danemark"
       },
       "bullets": [
-        "Le pétrole repasse au-dessus de 100 dollars",
-        "La guerre au Moyen-Orient fait flamber les carburants",
-        "Les gouvernements annoncent des mesures d'urgence",
-        "Les secteurs transport et agriculture particulièrement touchés",
-        "Les factures énergétiques menacent de nouvelles hausses"
+        "Les sociaux-démocrates reculent aux législatives danoises (BBC, France 24)",
+        "Le bloc de gauche l'emporte sans majorité absolue (France 24)",
+        "La Première ministre Frederiksen veut rester en poste (France 24)",
+        "Des négociations difficiles s'annoncent pour former un gouvernement (BBC)",
+        "L'instabilité politique menace la stabilité nordique européenne (BBC)"
       ],
-      "execSummary": "Les prix énergétiques connaissent une nouvelle flambée avec le pétrole qui repasse au-dessus de 100 dollars le baril, provoquée par l'escalade du conflit au Moyen-Orient et les incertitudes autour des négociations entre les États-Unis et l'Iran. Cette hausse brutale des cours pétroliers se répercute directement sur les prix des carburants dans toute l'Europe.\n\nCette crise énergétique intervient dans un contexte économique déjà tendu, avec des ménages européens contraints de réduire leurs dépenses de loisirs. L'impact est particulièrement sévère pour les secteurs dépendants des carburants comme l'agriculture, la pêche et les transports, qui voient leurs coûts d'exploitation s'envoler du jour au lendemain.\n\nFace à cette urgence, les gouvernements européens multiplient les mesures d'accompagnement. La France annonce des aides indirectes pour les secteurs touchés avec des reports de cotisations sociales et des prêts de BPIfrance, tout en pressant les raffineurs d'augmenter leur production. L'Irlande réduit directement les taxes sur les carburants de 15 à 20 centimes.\n\nLes perspectives restent préoccupantes car les experts anticipent une répercussion inévitable sur les factures d'électricité si la hausse des prix pétroliers se maintient. Cette crise énergétique pourrait également pousser les épargnants vers une épargne de précaution accrue, comme l'observe déjà la Banque de France avec les retraits sur le Livret A.",
+      "execSummary": "Les élections législatives danoises du 24 mars 2026 ont abouti à une victoire sans majorité du bloc de gauche, marquée par un recul historique des sociaux-démocrates au pouvoir depuis 2019. Le parti de la Première ministre Mette Frederiksen a enregistré ses plus faibles résultats en plus d'un siècle, bien qu'il reste la formation ayant obtenu le plus de voix. Cette situation électorale fragmentée reflète une tendance européenne à l'émiettement politique et aux difficultés de gouvernance.\n\nCe résultat intervient dans un contexte géopolitique tendu en Europe, où les pays nordiques jouent un rôle stabilisateur au sein de l'UE et de l'OTAN. Le Danemark, membre fondateur de l'Alliance atlantique et acteur clé de la politique européenne de sécurité, se retrouve dans une situation d'incertitude gouvernementale alors que la région fait face aux tensions liées au conflit au Moyen-Orient et aux répercussions économiques des crises énergétiques.\n\nMalgré le recul de son parti, Mette Frederiksen s'est déclarée prête à rester en poste et à former un nouveau gouvernement. Les autres forces politiques danoises devront désormais s'engager dans des négociations complexes pour constituer une coalition stable. L'absence de majorité claire complique la formation d'un exécutif, dans un système parlementaire où les compromis sont essentiels.\n\nCette instabilité politique danoise pourrait avoir des répercussions sur la politique européenne, particulièrement dans les domaines de la défense et de l'énergie. Les négociations gouvernementales s'annoncent ardues, avec des enjeux cruciaux pour la stabilité d'un pays considéré comme un pilier de la social-démocratie nordique et un partenaire fiable de ses alliés occidentaux.",
       "sources": [
-        "Le Monde - Économie",
-        "BBC Business"
+        "BBC World",
+        "France 24"
       ],
-      "publishedAt": "2026-03-24T05:00:10.000Z"
+      "publishedAt": "2026-03-25T06:01:15.000Z"
+    },
+    {
+      "id": "2026-03-25-04",
+      "category": "tech",
+      "title": "Meta condamné à 375M$ pour mise en danger de mineurs",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951496/VRG_Illo_STK169_L_Normand_MarkZuckerburg_Negative.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "location": {
+        "lat": 35.0853,
+        "lng": -106.6056,
+        "name": "Nouveau-Mexique"
+      },
+      "bullets": [
+        "Le géant Meta condamné à 375 millions de dollars",
+        "Un jury a reconnu la mise en danger de mineurs",
+        "L'entreprise privilégiait les profits à la sécurité",
+        "Meta annonce son intention de faire appel",
+        "Une décision qui pourrait créer jurisprudence"
+      ],
+      "execSummary": "Le 24 mars 2026, un jury du Nouveau-Mexique a rendu un verdict historique en condamnant Meta, la maison mère de Facebook et Instagram, à payer 375 millions de dollars de dommages et intérêts. Le tribunal a reconnu l'entreprise coupable de mise en danger de mineurs sur ses plateformes, estimant qu'elle avait violé la loi de l'État en trompant les utilisateurs sur la sécurité de ses produits et en facilitant la prédation d'enfants. Le jury a conclu que Meta avait privilégié les profits à la sécurité des utilisateurs et dissimulé ce qu'elle savait des effets néfastes de ses applications.\n\nCette condamnation intervient dans un contexte de préoccupations croissantes concernant l'impact des réseaux sociaux sur la santé mentale des adolescents. Le verdict qualifié d'historique par les observateurs juridiques marque une étape significative dans la responsabilisation des géants technologiques face aux dommages causés aux mineurs. La décision s'appuie sur des preuves montrant que Meta connaissait les risques pour les jeunes utilisateurs mais a choisi de maintenir des pratiques commerciales lucratives.\n\nMeta a immédiatement annoncé son intention de faire appel de cette décision, contestant les conclusions du jury. L'entreprise maintient sa position selon laquelle ses plateformes sont sûres et qu'elle met en place des mesures de protection pour les mineurs. Cependant, cette condamnation pourrait encourager d'autres États à engager des poursuites similaires contre le géant technologique.\n\nLes enjeux de cette affaire dépassent le cas Meta et pourraient redéfinir la responsabilité légale des plateformes numériques envers leurs utilisateurs mineurs. Cette décision pourrait ouvrir la voie à une vague de procès similaires visant d'autres géants du numérique aux États-Unis, créant un précédent juridique important pour la protection des enfants en ligne.",
+      "sources": [
+        "Le Monde - Pixels",
+        "The Verge"
+      ],
+      "publishedAt": "2026-03-25T04:00:31.000Z"
+    },
+    {
+      "id": "2026-03-25-05",
+      "category": "eco",
+      "title": "La guerre au Moyen-Orient fait flamber les prix de l'énergie",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "location": {
+        "lat": 29.3117,
+        "lng": 47.4818,
+        "name": "Golfe Persique"
+      },
+      "bullets": [
+        "Les prix du pétrole dépassent 100 dollars le baril",
+        "La guerre États-Unis-Israël-Iran menace l'approvisionnement énergétique mondial",
+        "Les gouvernements européens préparent des mesures d'aide aux consommateurs",
+        "Les négociations de paix entre Trump et l'Iran restent incertaines",
+        "L'impact inflationniste menace la croissance économique européenne"
+      ],
+      "execSummary": "Les prix du pétrole ont franchi la barre des 100 dollars le baril suite à l'intensification du conflit entre les États-Unis, Israël et l'Iran. Les négociations de paix évoquées par Trump restent contradictoires, créant une forte volatilité sur les marchés énergétiques. Shell a averti que des pénuries d'approvisionnement pourraient toucher l'Europe si le détroit d'Ormuz, passage crucial pour 20% du pétrole mondial, venait à être fermé.\n\nCette crise énergétique intervient dans un contexte économique déjà fragilisé. En France, l'Insee prévoit une croissance réduite à 0,9% au premier semestre 2026 et une accélération de l'inflation due à la hausse des prix énergétiques. Les effets sur le pouvoir d'achat des ménages se feront particulièrement sentir fin 2026 et en 2027.\n\nLes gouvernements européens mobilisent leurs outils de soutien. En France, l'exécutif fait appel aux raffineries pour limiter la hausse des prix à la pompe et prépare des mesures pour les secteurs les plus exposés comme la pêche et le transport. L'Irlande a déjà réduit de 20 centimes la taxe sur le diesel et de 15 centimes celle sur l'essence. Le Royaume-Uni étudie également des aides ciblées pour les ménages les plus vulnérables.\n\nL'enjeu est désormais d'éviter une spirale inflationniste durable qui compromettrait la reprise économique européenne. Les agriculteurs britanniques subissent déjà un \"choc overnight\" selon la BBC, illustrant la rapidité de propagation de cette crise énergétique à l'ensemble de l'économie.",
+      "sources": [
+        "BBC Business",
+        "Le Monde - Économie"
+      ],
+      "publishedAt": "2026-03-25T05:59:26.000Z"
     }
   ]
 }
