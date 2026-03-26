@@ -1,264 +1,209 @@
 {
-  "generatedAt": "2026-03-25T06:17:02.903Z",
+  "generatedAt": "2026-03-26T06:22:11.636Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Bande de Gaza: la tragédie se poursuit, éclipsée par la guerre contre l’Iran",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-03-25-cf136845",
-          "title": "Bande de Gaza: la tragédie se poursuit, éclipsée par la guerre contre l’Iran",
-          "description": "Près d’un mois après le début de la guerre lancée par Tel-Aviv et Washington contre l’Iran, la catastrophe dans la bande de Gaza, éloignée des projecteurs médiatiques, continue.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260325-bande-de-gaza-la-trag%C3%A9die-se-poursuit-%C3%A9clips%C3%A9e-par-la-guerre-contre-l-iran",
-          "imageUrl": "https://s.rfi.fr/media/display/5f8a2f86-2791-11f1-a8c3-005056bf30b7/w:1024/p:16x9/000-A3FX7B3.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-25T06:01:15.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.398Z"
-        },
-        {
-          "id": "2026-03-25-a8bf30a8",
-          "title": "“La peur a pris le dessus” : face à la guerre, l’amer retour au pays des Afghans d’Iran",
-          "description": "Des dizaines de milliers d’Afghans, qui avaient quitté leur pays d’origine pour l’Iran, ont fait le chemin inverse depuis le début de la guerre. Un retour amer, raconte “The New York Times”, alors que l’Afghanistan est en conflit avec le Pakistan et que la pauvreté et l’emprise des talibans annihilent “les espoirs de futur qu’ils tentaient de se construire à l’étranger”.",
-          "url": "https://www.courrierinternational.com/article/reportage-la-peur-a-pris-le-dessus-face-a-la-guerre-l-amer-retour-au-pays-des-afghans-d-iran_242094",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/23/1/0/4000/2666/1200/630/60/0/aac63b3_ftp-1-enfx4xsxb3sk-afghans-iran-1.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-25T04:00:24.000Z",
-          "fetchedAt": "2026-03-25T06:13:02.887Z"
-        },
-        {
-          "id": "2026-03-24-10cedc3f",
-          "title": "Les Yéménites craignent d'être entraînés dans la guerre par les Houthis, fidèles alliés de Téhéran",
-          "description": "Alors que la guerre entre les États-Unis, Israël et l'Iran touche presque tous les pays de la région, de l'Arabie saoudite à l'Irak, le Yémen reste pour l'instant épargné par la guerre. Une exception qui interroge, alors qu'un tiers du territoire est tenu par les rebelles houthis, fidèles alliés de Téhéran. Témoignage de Yéménites qui craignent d'être entraînés dans une nouvelle guerre.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260324-les-y%C3%A9m%C3%A9nites-craignent-d-%C3%AAtre-entra%C3%AEner-dans-la-guerre-par-les-houthis-fid%C3%A8les-alli%C3%A9s-de-t%C3%A9h%C3%A9ran",
-          "imageUrl": "https://s.rfi.fr/media/display/f8048e3e-2785-11f1-8a5e-005056bfb2b6/w:1024/p:16x9/AP26072546612021.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-24T23:39:22.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.398Z"
-        },
-        {
-          "id": "2026-03-24-65394cc0",
-          "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
-          "description": "Asia relies heavily on oil and gas from the Gulf, and shortages and higher prices are starting to bite.",
-          "url": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ca7d/live/f5c4bd60-27a3-11f1-b815-a14f790a1de4.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-24T17:12:50.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.028Z"
-        },
-        {
-          "id": "2026-03-24-ae71b448",
-          "title": "Pour l’écrivaine iranienne Azar Nafisi, l’espoir réside « dans les Iraniens qui ont donné leur vie pour la liberté »",
-          "description": "« Les écrivains face à la guerre au Moyen-Orient » 3/4. Le « Monde des livres » a demandé à Colum McCann (Irlande, Etats-Unis), Noam Guil (Israël) et Azar Nafisi (Iran, Etats-Unis) leur regard sur la guerre.",
-          "url": "https://www.lemonde.fr/livres/article/2026/03/24/pour-l-ecrivaine-iranienne-azar-nafisi-l-espoir-reside-dans-les-iraniens-qui-ont-donne-leur-vie-pour-la-liberte_6674108_3260.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-24T17:00:12.000Z",
-          "fetchedAt": "2026-03-25T06:13:02.374Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-3",
-      "topic": "Giorgia Meloni en visite en Algérie, un partenaire stratégique des Européens pou",
+      "topic": "En Iran, une chape de plomb numérique recouvre un quotidien marqué par les bombe",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-25-42d22dac",
-          "title": "Giorgia Meloni en visite en Algérie, un partenaire stratégique des Européens pour leur approvisionnement en gaz",
-          "description": "Giorgia Meloni est attendue aujourd’hui à Alger, où elle doit rencontrer le président Abdelmadjid Tebboune. Au cœur des discussions : l’approvisionnement en gaz. Dans un contexte de fortes tensions au Moyen-Orient, plusieurs infrastructures énergétiques ont été touchées ces dernières semaines, notamment au Qatar, premier exportateur mondial de gaz naturel liquéfié. Face à ces perturbations, l’Algérie apparaît comme une alternative pour les Européens en quête de sécurité énergétique.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260325-giorgia-meloni-en-visite-en-alg%C3%A9rie-un-partenaire-strat%C3%A9gique-des-europ%C3%A9ens-pour-leur-approvisionnement-en-gaz",
-          "imageUrl": "https://s.rfi.fr/media/display/97070386-9888-11ec-970c-005056bf30b7/w:1024/p:16x9/000_Par2316540.jpg",
+          "id": "2026-03-26-b71307da",
+          "title": "En Iran, une chape de plomb numérique recouvre un quotidien marqué par les bombes et la répression",
+          "description": "Depuis le début de la guerre, le 28 février, l’Iran est plongé dans un huis clos numérique. Cette coupure des communications vers l’extérieur et la limitation des contacts internes intensifient l’incertitude de la population qui ne peut ni s’informer de la réelle situation du pays, ni faire entendre sa voix.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260326-en-iran-une-chape-de-plomb-num%C3%A9rique-recouvre-un-quotidien-marqu%C3%A9-par-les-bombes-et-la-r%C3%A9pression",
+          "imageUrl": "https://s.rfi.fr/media/display/c7bdb014-2836-11f1-a42c-005056a90284/w:1024/p:16x9/AP26083577133011.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-25T05:53:01.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.398Z"
+          "publishedAt": "2026-03-26T06:00:05.000Z",
+          "fetchedAt": "2026-03-26T06:18:19.283Z"
         },
         {
-          "id": "2026-03-25-8ea2c5b6",
-          "title": "En Algérie, Abdelmadjid Tebboune renforce la présidentialisation du régime",
-          "description": "Le Parlement doit adopter, mercredi, une révision constitutionnelle accroissant les pouvoirs du chef de l’Etat, notamment sur les nominations judiciaires et les élections.",
-          "url": "https://www.lemonde.fr/international/article/2026/03/25/en-algerie-abdelmadjid-tebboune-renforce-la-presidentialisation-du-regime_6674157_3210.html",
+          "id": "2026-03-26-d51b6218",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: Israël et les Émirats arabes unis visés par des missiles iraniens",
+          "description": "Au 27e jour de la guerre au Moyen-Orient, les attaques se poursuivent dans toute la région. Ce jeudi 26 mars, l'armée israélienne a indiqué répondre à des attaques de missiles iraniens tirés en direction d'Israël. Les Émirats arabes unis essuient des attaques de drones et missiles également venus d'Iran.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260326-en-direct-guerre-au-moyen-orient-isra%C3%ABl-et-les-%C3%A9mirats-arabes-unis-vis%C3%A9s-par-des-missiles-iraniens",
+          "imageUrl": "https://s.rfi.fr/media/display/e792a7d2-2822-11f1-8523-005056bfb2b6/w:1024/p:16x9/2279b4675516b379e4981ef9861c2f51eeac7da3.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-26T05:33:34.000Z",
+          "fetchedAt": "2026-03-26T06:18:19.283Z"
+        },
+        {
+          "id": "2026-03-26-3dcfad03",
+          "title": "Avec la baisse du nombre d’étudiants étrangers, les universités canadiennes s’inquiètent pour leur avenir",
+          "description": "Réputé auprès des étudiants étrangers grâce à ses frais abordables et à son multiculturalisme, le Canada connaît une baisse des candidatures depuis la mise en place de quotas. D’autres pays, dont la France, pourraient en profiter.",
+          "url": "https://www.lemonde.fr/campus/article/2026/03/26/avec-la-baisse-du-nombre-d-etudiants-etrangers-les-universites-canadiennes-s-inquietent-pour-leur-avenir_6674304_4401467.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-25T04:45:06.000Z",
-          "fetchedAt": "2026-03-25T06:13:02.374Z"
+          "publishedAt": "2026-03-26T04:45:16.000Z",
+          "fetchedAt": "2026-03-26T06:18:10.992Z"
         },
         {
-          "id": "2026-03-25-00a4fb94",
-          "title": "Les municipales dessinent une feuille de route pour battre l’extrême droite",
-          "description": "La chute du macronisme, après bientôt dix ans de règne, offre une occasion de renouveau au centre gauche et au centre droit. À condition que chaque camp parvienne à se fédérer autour de candidatures de rassemblement en 2027.",
-          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-les-municipales-dessinent-une-feuille-de-route-pour-battre-l-extreme-droite_242136",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/24/0/0/1630/1086/1200/630/60/0/18b35ea_upload-1-xcjyeda9b8hr-mix-remix-12-31-3110.jpg",
-          "source": "Courrier International",
+          "id": "2026-03-26-78d41f9e",
+          "title": "Guerre en Iran : quelle stratégie pour Benyamin Nétanyahou ?",
+          "description": "Depuis le début de la guerre en Iran et malgré le sentiment d’un conflit interminable, les Israéliens soutiennent l’action du premier ministre israélien. Analyse en podcast avec Luc Bronner, correspondant du « Monde » à Jérusalem.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/03/26/guerre-en-iran-quelle-strategie-pour-benyamin-netanyahou_6674292_5463015.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-25T04:00:16.000Z",
-          "fetchedAt": "2026-03-25T06:13:02.887Z"
+          "publishedAt": "2026-03-26T04:00:05.000Z",
+          "fetchedAt": "2026-03-26T06:18:10.992Z"
         },
         {
-          "id": "2026-03-25-54800a2e",
-          "title": "Niger-Algérie: relance de la coopération lors d'une visite du Premier ministre algérien à Niamey",
-          "description": "La page de la crise diplomatique est bel et bien tournée entre le Niger et l'Algérie. Les deux voisins affichent la relance et le renforcement de leur coopération apres plusieurs mois d'une crise diplomatique à laquelle a mis fin la visite à Alger du général Abdourahamane Tiani le mois dernier. Ces 23 et 24 mars, c'était au tour du Premier ministre algérien de se rendre à Niamey, accompagné d'une importante délégation ministérielle. Accueilli par Ali Mahamane Lamine Zeine, Sifi Ghrieb a passé deux jours dans la capitale nigérienne pour la 2ème session de la comission mixte algéro-nigérienne. La capitale nigérienne qu'il a quitté ce mardi soir après avoir été reçu par le président de transition.",
-          "url": "https://www.rfi.fr/fr/afrique/20260325-niger-alg%C3%A9rie-relance-de-la-coop%C3%A9ration-lors-d-une-visite-du-premier-ministre-alg%C3%A9rien-%C3%A0-niamey",
-          "imageUrl": "https://s.rfi.fr/media/display/ab46dece-ebd2-11f0-8a6c-005056a97e36/w:1024/p:16x9/000-33G6666.jpg",
-          "source": "RFI",
+          "id": "2026-03-26-ac964ce1",
+          "title": "Au Kenya, les écrivains de la « gen Z » ressuscitent une revue littéraire emblématique",
+          "description": "Avec la revue « Qwani », un collectif se mobilise pour offir un débouché aux textes de jeunes auteurs du pays et leur offrir un espace d’expression.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/26/au-kenya-les-ecrivains-de-la-gen-z-ressuscitent-une-revue-litteraire-emblematique_6674286_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-25T03:21:20.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.398Z"
+          "publishedAt": "2026-03-26T02:30:01.000Z",
+          "fetchedAt": "2026-03-26T06:18:10.992Z"
         },
         {
-          "id": "2026-03-25-c729e79e",
-          "title": "Sénégal: polémique suscitée par un emprunt «secret» pour rembourser la dette",
-          "description": "Au Sénégal, l’emprunt par les autorités de 650 millions d’euros, l’année dernière, via un instrument financier peu connu et particulièrement opaque fait polémique. Il s’agit de TRS ou Total Return Swaps. Si le gouvernement assure avoir effectué ces emprunts dans une logique de diversification des instruments financiers et de façon parfaitement légale, l’opposition et la société civile dénoncent un déficit de transparence.",
-          "url": "https://www.rfi.fr/fr/afrique/20260325-s%C3%A9n%C3%A9gal-pol%C3%A9mique-suscit%C3%A9e-par-un-emprunt-secret-pour-rembourser-la-dette",
-          "imageUrl": "https://s.rfi.fr/media/display/adf69b3c-7a0d-11f0-b1cd-005056a97e36/w:1024/p:16x9/000-36YE2XJ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-25T01:04:47.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.398Z"
-        },
-        {
-          "id": "2026-03-24-af26a43b",
-          "title": "Crise du gaz : l'Algérie peut-elle compenser les besoins de l'UE ?",
-          "description": "La flambée des prix des hydrocarbures du fait de la guerre au Moyen-Orient favorise les pays producteurs dont les opérations ne sont pas affectées par le conflit. Une aubaine pour l'Algérie, 10e pays producteur mondial de gaz, qui profite de la forte hausse des cours. Déjà courtisée par les pays de l'UE, elle possède cependant des capacités d'approvisionnement limitées.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260324-crise-gaz-alg%C3%A9rie-peut-elle-compenser-besoins-ue-europe-qatar-guerre-moyen-orient",
-          "imageUrl": "https://s.france24.com/media/display/9e226576-2799-11f1-be7a-005056a90284/w:1024/p:16x9/main-63.png",
+          "id": "2026-03-25-93bda742",
+          "title": "Les frappes iraniennes provoquent-elles un \"exode massif\" d'Israéliens vers Chypre et l'Egypte ?",
+          "description": "Des sirènes ont retenti lundi soir dans le centre et le sud d’Israël. L’armée dit avoir détecté des tirs iraniens, qui n’auraient fait ni blessés ni dégâts majeurs. Mais sur les réseaux sociaux, plusieurs vidéos affirment que les missiles de Téhéran auraient déclenché une vague de panique en Israël : les citoyens fuiraient en masse par la route autant que par les mers. En réalité, les vidéos ne montrent pas Israël, voire sont générées par l'intelligence artificielle.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260325-les-frappes-iraniennes-provoquent-elles-un-exode-massif-d-isra%C3%A9liens-vers-chypre-et-l-egypte",
+          "imageUrl": "https://s.france24.com/media/display/0ed48a0a-2895-11f1-84a5-005056a97e36/w:1024/p:16x9/Francais-2026-03-25T21-19-32-215Z.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-03-24T18:32:09.000Z",
-          "fetchedAt": "2026-03-25T06:13:02.526Z"
+          "publishedAt": "2026-03-25T22:27:36.000Z",
+          "fetchedAt": "2026-03-26T06:18:11.096Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "La CPI ouvre une enquête contre la Biélorussie pour crimes contre l'humanité",
+      "topic": "Guerre en Iran, partenariat Ghana-UE, Loukachenko en Corée du Nord, Tariq Ramada",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-25-befd730b",
-          "title": "La CPI ouvre une enquête contre la Biélorussie pour crimes contre l'humanité",
-          "description": "Le 25 mars, l’opposition biélorusse démocratique fête sa journée liberté. C’est ce jour-là en 1918 que les Biélorusses ont déclaré leur indépendance, mais quelques mois après, le pays a été rapidement envahi par les Bolchéviques. Il est dirigé depuis 2004 par l’autoritaire Alexandre Loukachenko. Cette année, cette journée fériée non officielle aura un goût de victoire pour l’opposition. Le 12 mars dernier, la Cour pénale internationale a décidé d’ouvrir une enquête contre la Biélorussie pour crimes contre l’humanité.",
-          "url": "https://www.rfi.fr/fr/europe/20260325-la-cpi-ouvre-une-enqu%C3%AAte-contre-la-bi%C3%A9lorussie-pour-crimes-contre-l-humanit%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/4292e6a0-600c-11ef-80b0-005056a97e36/w:1024/p:16x9/AP24222338726113.jpg",
-          "source": "RFI",
+          "id": "2026-03-26-b3e2fbcc",
+          "title": "Guerre en Iran, partenariat Ghana-UE, Loukachenko en Corée du Nord, Tariq Ramadan : les informations de la nuit",
+          "description": "",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-iran-partenariat-ghana-ue-loukachenko-en-coree-du-nord-tariq-ramadan-les-informations-de-la-nuit_242222",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/24/0/0/3600/2400/1200/630/60/0/2c62a7b_ftp-1-1tcaibsqopkq-trump-iran-offramp-1.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-25T05:40:52.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.398Z"
+          "publishedAt": "2026-03-26T05:19:40.000Z",
+          "fetchedAt": "2026-03-26T06:18:11.159Z"
         },
         {
-          "id": "2026-03-24-feb99829",
-          "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
-          "description": "Cities across Ukraine were hit, with local officials reporting at least eight people killed and dozens injured.",
-          "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a7be/live/4f08afa0-27b1-11f1-a79a-77e93010d956.jpg",
-          "source": "BBC World",
+          "id": "2026-03-25-4bf6c04e",
+          "title": "Corée du Nord : Kim Jong-un reçoit Alexandre Loukachenko, à Pyongyang",
+          "description": "Cette visite officielle de deux jours est la première du président biélorusse dans le pays reclus.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/26/coree-du-nord-kim-jong-un-recoit-le-president-bielorusse-alexandre-loukachenko-a-pyongyang_6674282_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-24T21:47:10.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.028Z"
+          "publishedAt": "2026-03-25T23:14:50.000Z",
+          "fetchedAt": "2026-03-26T06:18:10.992Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Un verdict « historique » juge Meta, la maison mère de Facebook et Instagram, re",
+      "id": "cluster-22",
+      "topic": "Le Soudan accuse l'Éthiopie d'appuyer les paramilitaires FSR dans l'État du Nil ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-03-25-3c008217",
+          "title": "Le Soudan accuse l'Éthiopie d'appuyer les paramilitaires FSR dans l'État du Nil Bleu",
+          "description": "Au Soudan, les paramilitaires des Forces de soutien rapide (FSR) ont annoncé ce 24 mars avoir pris la ville d'al-Kurmuk dans l'État du Nil Bleu au sud-est du pays, à la frontière avec l'Éthiopie. Elles sont soutenues par le Mouvement populaire de libération du Soudan-Nord (SPLP-N) dirigé par Abdelaziz el Hilu. L'armée soudanaise s'est retirée dans sa base arrière à Damazin, capitale du Nil Bleu. La prise de cette ville stratégique a relancé les accusations envers l'Éthiopie d’être impliquée au Soudan aux côtés des FSR. Les affrontements ont commencé le 22 mars et ont permis aux FSR de prendre plusieurs autres villes.",
+          "url": "https://www.rfi.fr/fr/afrique/20260325-le-soudan-accuse-l-%C3%A9thiopie-d-appuyer-les-paramilitaires-fsr-dans-l-%C3%A9tat-du-nil-bleu",
+          "imageUrl": "https://s.rfi.fr/media/display/def95142-8a18-11ef-832b-005056a97e36/w:1024/p:16x9/GettyImages-1193515292.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-25T22:56:09.000Z",
+          "fetchedAt": "2026-03-26T06:18:19.283Z"
+        },
+        {
+          "id": "2026-03-25-46161b24",
+          "title": "Guerre au Soudan : le Tchad a fermé sa frontière",
+          "description": "Tout au long de la semaine dernière, des affrontements entre l’Armée soudanaise et les rebelles des FSR ont eu lieu dans l’ouest du Darfour à la frontière avec le Tchad. Des affrontements qui ont plusieurs fois débordé sur le territoire tchadien. Le Tchad a mobilisé plusieurs centaines de soldats à sa frontière avec le Soudan pour empêcher toute intrusion des belligérants. Explications de notre journaliste Harold Girard.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260325-guerre-au-soudan-le-tchad-a-ferm%C3%A9-sa-fronti%C3%A8re",
+          "imageUrl": "https://s.france24.com/media/display/d12c63de-2868-11f1-aa33-005056bfb2b6/w:1024/p:16x9/FR-20260324-215023-215226-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-25T16:43:23.000Z",
+          "fetchedAt": "2026-03-26T06:18:11.096Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-8",
+      "topic": "The surprise hit Nex Playground is the latest console to get a price hike",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-25-3fc5b6d2",
-          "title": "Un verdict « historique » juge Meta, la maison mère de Facebook et Instagram, responsable de mise en danger de mineurs au Nouveau-Mexique",
-          "description": "Le géant de la tech a été condamné à payer 375 millions de dollars de dommages et intérêts par un jury qui a estimé que l’entreprise avait privilégié les profits à la sécurité et dissimulé ce qu’elle savait des effets néfastes de ses applications.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/03/25/un-verdict-historique-contre-meta-la-maison-mere-de-facebook-et-instagram-reconnue-coupable-de-mise-en-danger-de-mineurs-au-nouveau-mexique_6674150_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-03-25-dd489fa1",
+          "title": "The surprise hit Nex Playground is the latest console to get a price hike",
+          "description": "Everything about video games is getting more expensive, and soon that will include a budget-friendly console. The Nex Playground - a Kinect-like device aimed at families that made headlines by outselling the Xbox over the holidays last year - will cost $299 starting on April 1st, a $50 bump.\nIn a statement on the Nex Playground site, co-founder and CEO David Lee cited a number of familiar reasons for the higher price point:\nOver the past six months, the cost of key components - especially memory (DDR) and storage (eMMC) - has risen significantly across the industry. These increases are driven in part by the rapid expansion of AI infrastru …\n\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/entertainment/900856/nex-playground-price-hike",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/sean-hollister-verge-nex-playground-331A1456.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-03-25T04:00:20.000Z",
-          "fetchedAt": "2026-03-25T06:13:10.949Z"
+          "publishedAt": "2026-03-25T20:25:10.000Z",
+          "fetchedAt": "2026-03-26T06:18:26.285Z"
         },
         {
-          "id": "2026-03-24-6c7c6fa8",
-          "title": "Meta reconnu coupable de mise en danger de mineurs sur ses plateformes par un tribunal du Nouveau-Mexique",
-          "description": "Le géant des réseaux sociaux, qui possède Facebook et Instagram, est condamné à verser 375 millions de dollars de dommages et intérêts. Il a annoncé qu’il allait faire appel. Cette décision inédite pourrait ouvrir la voie à une vague de procès similaires visant les géants du numérique aux Etats-Unis.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/03/24/meta-reconnue-coupable-de-mise-en-danger-de-mineurs-sur-ses-plateformes_6674131_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-03-25-2eab378a",
+          "title": "We got an audience with the \"Lunar Viceroy\" to talk how NASA will build a Moon base",
+          "description": "\"It has been clear that we all need to be focused on one thing, not 10 things.\"",
+          "url": "https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/55166155011_de999b99d9_k-1152x648.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-03-24T22:42:24.000Z",
-          "fetchedAt": "2026-03-25T06:13:10.949Z"
+          "publishedAt": "2026-03-25T19:21:57.000Z",
+          "fetchedAt": "2026-03-26T06:18:26.328Z"
         },
         {
-          "id": "2026-03-24-cd30c8e4",
-          "title": "« The Cult of the Signal » : laissés seuls dans un jeu vidéo, des agents IA ont créé leur propre religion",
-          "description": "Sur SpaceMolt, un MMORPG peuplé exclusivement d’agents IA, certains « joueurs » ont fini par former un véritable culte autour d’un mystérieux signal. Un phénomène émergent, né d’une simple règle de jeu et des interactions entre ces intelligences artificielles.",
-          "url": "https://www.numerama.com/tech/2216833-the-cult-of-the-signal-laisses-seuls-dans-un-jeu-video-des-agents-ia-ont-cree-leur-propre-religion.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/1-23.jpg?resize=1600,900&key=63f23d90&watermark",
+          "id": "2026-03-25-006bafd7",
+          "title": "Une baisse d’engagement sur Fortnite conduit Epic Games à licencier 1 000 personnes",
+          "description": "Il semblerait qu'Epic Games dépense « nettement plus » qu'il ne gagne. C'est en tout cas la raison invoquée par son PDG, Tim Sweeney, pour effectuer quelques sacrifices sur l'autel de la rentabilité.",
+          "url": "https://www.numerama.com/pop-culture/2217681-une-baisse-dengagement-sur-fortnite-conduit-epic-games-a-licencier-1-000-personnes.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/epic-games-fortnite.jpg?resize=1600,900&key=6c120059&watermark",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-03-24T14:57:46.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.047Z"
-        },
-        {
-          "id": "2026-03-24-37b72ebf",
-          "title": "Lunar Gateway « suspendue » : la Nasa abandonne son grand rêve de station en orbite lunaire",
-          "description": "Le projet de station en orbite lunaire de la Nasa n'est plus à l'ordre du jour dans le programme Artémis. Jared Isaacman, administrateur de l'agence spatiale américaine, a annoncé ce 24 mars 2026 que la Lunar Gateway était « suspendue ».",
-          "url": "https://www.numerama.com/sciences/2217123-lunar-gateway-suspendue-la-nasa-abandonne-son-grand-reve-de-station-en-orbite-lunaire.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/lunar-gateway-nasa.jpg?resize=1600,900&key=b55b46a2&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-24T14:36:01.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.047Z"
-        },
-        {
-          "id": "2026-03-24-9a5a6ff3",
-          "title": "Ce récent VTC électrique de Nakamura profite d’une grosse réduction de 600 €",
-          "description": "[Deal du jour] Le Crossover LTD de la gamme Nakamura est un vélo tout-chemin électrique fiable et endurant, qui devient très abordable lorsqu'il est en promotion.",
-          "url": "https://www.numerama.com/vroom/2216917-ce-recent-vtc-electrique-de-nakamura-profite-dune-grosse-reduction-de-600-e.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/vtc-electrique-adulte-crossover-ltd-noir.jpg?resize=1600,900&key=9175b0ec&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-24T13:28:28.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.047Z"
-        },
-        {
-          "id": "2026-03-24-925089b6",
-          "title": "Photographie, traduction, bande dessinée… : face à l’IA, cette université sacrifie des filières artistiques",
-          "description": "L’Université de communication de Chine a engagé une vaste réorganisation de son offre de formation, en supprimant 16 filières de premier cycle pour 2025-2026 et en lançant de nouveaux cursus liés à l’intelligence artificielle, a révélé un représentant de l’université début mars.",
-          "url": "https://www.numerama.com/tech/2216473-photographie-traduction-bande-dessinee-face-a-lia-cette-universite-sacrifie-des-filieres-artistiques.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/11/robots-humanoides-chine.jpg?resize=1600,900&key=8330c46e&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-24T11:26:09.000Z",
-          "fetchedAt": "2026-03-25T06:13:11.047Z"
+          "publishedAt": "2026-03-25T09:04:48.000Z",
+          "fetchedAt": "2026-03-26T06:18:19.470Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Oil price falls as Trump talks up Iran peace negotiations",
+      "id": "cluster-8",
+      "topic": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
       "category": "eco",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-25-ab1ef3b5",
-          "title": "Oil price falls as Trump talks up Iran peace negotiations",
-          "description": "Iran has also said that \"non-hostile\" vessels can use the crucial Strait of Hormuz shipping route.",
-          "url": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cd61/live/b8c2d160-27e7-11f1-84b8-75a06f84718a.jpg",
+          "id": "2026-03-26-acaa0e97",
+          "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
+          "description": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
+          "url": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-03-25T05:12:54.000Z",
-          "fetchedAt": "2026-03-25T06:13:19.805Z"
+          "publishedAt": "2026-03-26T01:42:26.000Z",
+          "fetchedAt": "2026-03-26T06:18:27.701Z"
+        },
+        {
+          "id": "2026-03-25-ab1ef3b5",
+          "title": "Oil prices volatile as Trump talks up Iran negotiations",
+          "description": "Crude rose back above $100 a barrel as the US and Iran clashed over bringing the conflict to an end.",
+          "url": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/738e/live/9c6d4c40-281c-11f1-931f-e9f364d2732b.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-03-25T21:18:55.000Z",
+          "fetchedAt": "2026-03-26T06:18:27.701Z"
         },
         {
           "id": "2026-03-25-5fcc8742",
@@ -269,18 +214,7 @@
           "source": "BBC Business",
           "category": "eco",
           "publishedAt": "2026-03-25T00:31:18.000Z",
-          "fetchedAt": "2026-03-25T06:13:19.805Z"
-        },
-        {
-          "id": "2026-03-23-6ae9b62c",
-          "title": "Why do the West's farmers pay the price for war in Iran?",
-          "description": "Rising oil prices caused by the war in the Gulf has caused an \"overnight shock\" to west country farmers.",
-          "url": "https://www.bbc.com/news/articles/c9v0v1p4el8o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9540/live/3746ac40-22cb-11f1-b72c-95dabe3e6755.png",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-03-23T11:15:47.000Z",
-          "fetchedAt": "2026-03-25T06:13:19.805Z"
+          "fetchedAt": "2026-03-26T06:18:27.701Z"
         }
       ]
     }
