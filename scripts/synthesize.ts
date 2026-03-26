@@ -359,13 +359,14 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
 // System prompt for pool-based synthesis (tech/eco categories)
 const POOL_SYSTEM_PROMPT = `Tu es un analyste senior. Tu reçois une liste d'articles de presse d'une même catégorie thématique.
 
-Ta mission : identifier LE sujet le plus important/couvert par ces articles, puis produire UNE synthèse multi-sources sur ce sujet.
+Ta mission : identifier LE sujet le plus important parmi ces articles, puis produire UNE synthèse multi-sources sur ce sujet.
 
 ÉTAPES :
 1. Lis tous les articles
-2. Identifie le sujet qui apparaît dans le PLUS de sources différentes
-3. Ignore les articles qui ne traitent pas de ce sujet
-4. Synthétise uniquement les articles pertinents
+2. Identifie les sujets couverts par PLUSIEURS sources différentes
+3. Parmi ces sujets, choisis celui qui est le plus important ET qui n'a PAS été couvert récemment (voir SUJETS INTERDITS ci-dessous si présent)
+4. Ignore les articles qui ne traitent pas de ce sujet
+5. Synthétise uniquement les articles pertinents
 
 CATÉGORIE ATTENDUE : "%CATEGORY%"
 Définitions :
@@ -433,7 +434,32 @@ async function synthesizeFromPool(
   storyIndex: number,
   recentTitles: string[] = []
 ): Promise<Story | null> {
-  const articlesDetail = articles
+  let prompt = POOL_SYSTEM_PROMPT.replace(/%CATEGORY%/g, category);
+
+  // Pre-filter: remove articles too similar to recent titles (upstream filtering)
+  let filteredArticles = articles;
+  if (recentTitles.length > 0) {
+    const SIMILARITY_THRESHOLD = 0.35;
+    filteredArticles = articles.filter(a => {
+      const maxSim = Math.max(...recentTitles.map(t => titleSimilarity(a.title, t)));
+      return maxSim < SIMILARITY_THRESHOLD;
+    });
+    const removed = articles.length - filteredArticles.length;
+    if (removed > 0) {
+      console.log(`   🔄 ${removed} articles filtrés (trop similaires aux titres récents)`);
+    }
+    // Fallback: if all articles filtered out, keep originals
+    if (filteredArticles.length === 0) filteredArticles = articles;
+
+    // Add hard constraint to prompt
+    prompt += `\n\nSUJETS INTERDITS (déjà couverts ces derniers jours) :
+Les sujets suivants ont DÉJÀ été traités. Tu ne DOIS PAS les couvrir à nouveau, même s'ils apparaissent dans beaucoup de sources.
+Choisis un AUTRE sujet, même s'il est couvert par moins de sources.
+Si tu produis un titre similaire à l'un de ceux-ci, ta réponse sera rejetée.
+${recentTitles.map(t => `- "${t}"`).join('\n')}`;
+  }
+
+  const articlesDetail = filteredArticles
     .map(
       (a, i) => `
 ARTICLE ${i + 1} (${a.source}) :
@@ -444,21 +470,11 @@ URL: ${a.url}
     )
     .join('\n---\n');
 
-  const sources = [...new Set(articles.map((a) => a.source))];
-  let prompt = POOL_SYSTEM_PROMPT.replace(/%CATEGORY%/g, category);
+  const filteredSources = [...new Set(filteredArticles.map((a) => a.source))];
 
-  // Add diversity constraint if we have recent titles
-  if (recentTitles.length > 0) {
-    prompt += `\n\nDIVERSITÉ THÉMATIQUE (CRITIQUE) :
-Les titres suivants ont déjà été couverts ces derniers jours. Tu DOIS choisir un ANGLE DIFFÉRENT ou un SUJET DIFFÉRENT.
-Ne répète PAS le même thème (ex: si "flambée des prix énergétiques" revient 3 fois, choisis un autre sujet éco même s'il est couvert par moins de sources).
-Titres récents à éviter :
-${recentTitles.map(t => `- ${t}`).join('\n')}`;
-  }
+  const userPrompt = `Voici ${filteredArticles.length} articles de la catégorie "${category}" provenant de ${filteredSources.length} sources (${filteredSources.join(', ')}).
 
-  const userPrompt = `Voici ${articles.length} articles de la catégorie "${category}" provenant de ${sources.length} sources (${sources.join(', ')}).
-
-Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.
+Identifie le sujet le plus important qui N'A PAS été couvert récemment et synthétise-le.
 
 ${articlesDetail}`;
 
@@ -497,14 +513,26 @@ ${articlesDetail}`;
       return null;
     }
 
+    // Post-synthesis guard: reject if title too similar to recent titles
+    if (recentTitles.length > 0) {
+      const POST_SIMILARITY_THRESHOLD = 0.4;
+      const maxSim = Math.max(...recentTitles.map(t => titleSimilarity(storyData.title, t)));
+      if (maxSim >= POST_SIMILARITY_THRESHOLD) {
+        const closest = recentTitles.reduce((best, t) =>
+          titleSimilarity(storyData.title, t) > titleSimilarity(storyData.title, best) ? t : best
+        );
+        console.log(`   ⚠️  Titre trop similaire à "${closest}" (sim=${maxSim.toFixed(2)}), rejeté`);
+        return null;
+      }
+    }
+
     const today = new Date().toISOString().split('T')[0];
     const id = `${today}-${String(storyIndex + 1).padStart(2, '0')}`;
 
     // Use sources from Claude's response if available, otherwise all sources
-    const usedSources = storyData.usedSources || sources;
+    const usedSources = storyData.usedSources || filteredSources;
 
-    // Find best image — only from articles relevant to the synthesized topic
-    // Require minimum relevance to avoid unrelated images (beer for energy crisis)
+    // Find best image — search all articles (not just filtered) for best match
     const MIN_IMAGE_RELEVANCE = 0.1;
     const articlesWithValidImage = articles
       .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl))
@@ -522,7 +550,7 @@ ${articlesDetail}`;
       articlesWithValidImage[0]?.imageUrl ||
       'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
 
-    const mostRecent = articles.reduce((latest, article) => {
+    const mostRecent = filteredArticles.reduce((latest, article) => {
       return new Date(article.publishedAt) > new Date(latest.publishedAt) ? article : latest;
     });
 
@@ -700,11 +728,15 @@ ${articlesDetail}` }],
     }
   }
 
-  // 2. Synthesize tech from full article pool
+  // 2. Synthesize tech from full article pool (with diversity)
   const techArticles = rawArticles.filter(a => a.category === 'tech');
   console.log(`\n💻 Tech: ${techArticles.length} articles dans le pool`);
   if (techArticles.length > 0) {
-    const techStory = await synthesizeFromPool(client, techArticles, 'tech', storyIndex);
+    const recentTechTitles = await fetchRecentStoryTitles('tech', 7);
+    if (recentTechTitles.length > 0) {
+      console.log(`   📋 ${recentTechTitles.length} titres tech récents chargés pour diversité`);
+    }
+    const techStory = await synthesizeFromPool(client, techArticles, 'tech', storyIndex, recentTechTitles);
     if (techStory) {
       stories.push(techStory);
       console.log(`   ✓ "${techStory.title}" → ${techStory.sources.length} sources`);
@@ -721,7 +753,13 @@ ${articlesDetail}` }],
     if (recentEcoTitles.length > 0) {
       console.log(`   📋 ${recentEcoTitles.length} titres éco récents chargés pour diversité`);
     }
-    const ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, recentEcoTitles);
+    let ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, recentEcoTitles);
+    // Retry once if rejected by similarity guard
+    if (!ecoStory && recentEcoTitles.length > 0) {
+      console.log(`   🔁 Retry synthèse éco avec contrainte renforcée...`);
+      await new Promise((resolve) => setTimeout(resolve, 1500));
+      ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, recentEcoTitles);
+    }
     if (ecoStory) {
       stories.push(ecoStory);
       console.log(`   ✓ "${ecoStory.title}" → ${ecoStory.sources.length} sources`);
