@@ -1,220 +1,231 @@
 {
-  "generatedAt": "2026-03-26T06:22:11.636Z",
+  "generatedAt": "2026-03-27T06:23:28.022Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-3",
-      "topic": "En Iran, une chape de plomb numérique recouvre un quotidien marqué par les bombe",
+      "id": "cluster-2",
+      "topic": "« La pire décision financière que j’ai prise » : au Royaume-Uni, des millions de",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-26-b71307da",
-          "title": "En Iran, une chape de plomb numérique recouvre un quotidien marqué par les bombes et la répression",
-          "description": "Depuis le début de la guerre, le 28 février, l’Iran est plongé dans un huis clos numérique. Cette coupure des communications vers l’extérieur et la limitation des contacts internes intensifient l’incertitude de la population qui ne peut ni s’informer de la réelle situation du pays, ni faire entendre sa voix.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260326-en-iran-une-chape-de-plomb-num%C3%A9rique-recouvre-un-quotidien-marqu%C3%A9-par-les-bombes-et-la-r%C3%A9pression",
-          "imageUrl": "https://s.rfi.fr/media/display/c7bdb014-2836-11f1-a42c-005056a90284/w:1024/p:16x9/AP26083577133011.jpg",
+          "id": "2026-03-27-fe3b8c91",
+          "title": "« La pire décision financière que j’ai prise » : au Royaume-Uni, des millions de diplômés lourdement endettés",
+          "description": "Une enquête de la commission des finances britanniques doit répondre de l’équitabilité du système de prêts étudiants proposé par le gouvernement à des millions de diplômés, aujourd’hui très endettés.",
+          "url": "https://www.lemonde.fr/campus/article/2026/03/27/la-pire-decision-financiere-que-j-ai-prise-au-royaume-uni-des-millions-de-diplomes-lourdement-endettes_6674480_4401467.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-27T06:00:00.000Z",
+          "fetchedAt": "2026-03-27T06:19:27.400Z"
+        },
+        {
+          "id": "2026-03-27-79ca78ed",
+          "title": "Les États membres de la CPI divisés au sujet du procureur, visé par une enquête",
+          "description": "Le sort du procureur de la Cour pénale internationale (CPI), Karim Khan, reste toujours incertain. Dans un rapport confidentiel remis à des États membres de la CPI le 9 mars, trois juges le dédouanent d'inconduite sexuelle envers une employée de son bureau.",
+          "url": "https://www.rfi.fr/fr/europe/20260327-les-%C3%A9tats-membres-de-la-cpi-divis%C3%A9s-au-sujet-du-procureur-vis%C3%A9-par-une-enqu%C3%AAte",
+          "imageUrl": "https://s.rfi.fr/media/display/8b5b0658-295d-11f1-b179-005056a97e36/w:1024/p:16x9/AP25213684697144.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-26T06:00:05.000Z",
-          "fetchedAt": "2026-03-26T06:18:19.283Z"
+          "publishedAt": "2026-03-27T04:01:28.000Z",
+          "fetchedAt": "2026-03-27T06:19:36.635Z"
         },
         {
-          "id": "2026-03-26-d51b6218",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: Israël et les Émirats arabes unis visés par des missiles iraniens",
-          "description": "Au 27e jour de la guerre au Moyen-Orient, les attaques se poursuivent dans toute la région. Ce jeudi 26 mars, l'armée israélienne a indiqué répondre à des attaques de missiles iraniens tirés en direction d'Israël. Les Émirats arabes unis essuient des attaques de drones et missiles également venus d'Iran.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260326-en-direct-guerre-au-moyen-orient-isra%C3%ABl-et-les-%C3%A9mirats-arabes-unis-vis%C3%A9s-par-des-missiles-iraniens",
-          "imageUrl": "https://s.rfi.fr/media/display/e792a7d2-2822-11f1-8523-005056bfb2b6/w:1024/p:16x9/2279b4675516b379e4981ef9861c2f51eeac7da3.jpg",
+          "id": "2026-03-27-4714b444",
+          "title": "Conflit dans l'est de la RDC: l'ONU demande une rallonge du budget de la Monusco pour soutenir le cessez-le-feu",
+          "description": "Lors d'une réunion devant le Conseil de sécurité, Vivian van de Perre, la représentante du secrétaire générale de l'organisation en RDC qui assure également la direction par intérim de la Monusco, a demandé aux États membres des moyens supplémentaires pour remplir la mission confiée à la force en décembre dernier.",
+          "url": "https://www.rfi.fr/fr/afrique/20260327-conflit-dans-l-est-de-la-rdc-l-onu-demande-une-rallonge-du-budget-de-la-monusco-pour-soutenir-le-cessez-le-feu",
+          "imageUrl": "https://s.rfi.fr/media/display/6e7150f0-08b6-11f1-bb90-005056a97e36/w:1024/p:16x9/Vivian-van-de-Perre-Monusco-%C3%A0-Goma.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-26T05:33:34.000Z",
-          "fetchedAt": "2026-03-26T06:18:19.283Z"
+          "publishedAt": "2026-03-27T03:58:06.000Z",
+          "fetchedAt": "2026-03-27T06:19:36.635Z"
         },
         {
-          "id": "2026-03-26-3dcfad03",
-          "title": "Avec la baisse du nombre d’étudiants étrangers, les universités canadiennes s’inquiètent pour leur avenir",
-          "description": "Réputé auprès des étudiants étrangers grâce à ses frais abordables et à son multiculturalisme, le Canada connaît une baisse des candidatures depuis la mise en place de quotas. D’autres pays, dont la France, pourraient en profiter.",
-          "url": "https://www.lemonde.fr/campus/article/2026/03/26/avec-la-baisse-du-nombre-d-etudiants-etrangers-les-universites-canadiennes-s-inquietent-pour-leur-avenir_6674304_4401467.html",
+          "id": "2026-03-26-e8b70cc2",
+          "title": "En Espagne, Noelia Castilla, 25 ans, paraplégique, obtient une aide médicale à mourir au terme d’un long combat judiciaire",
+          "description": "Après presque deux ans de recours engagés par son père, la jeune femme a obtenu gain de cause dans un cas inédit, qui met à l’épreuve la loi sur l’euthanasie adoptée en 2021 et relance le débat sur l’intervention des proches. Elle est morte jeudi 26 mars.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/26/en-espagne-noelia-castilla-25-ans-paraplegique-obtient-une-aide-medicale-a-mourir-au-terme-d-un-long-combat-judiciaire_6674444_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-26T04:45:16.000Z",
-          "fetchedAt": "2026-03-26T06:18:10.992Z"
+          "publishedAt": "2026-03-26T22:42:38.000Z",
+          "fetchedAt": "2026-03-27T06:19:27.400Z"
         },
         {
-          "id": "2026-03-26-78d41f9e",
-          "title": "Guerre en Iran : quelle stratégie pour Benyamin Nétanyahou ?",
-          "description": "Depuis le début de la guerre en Iran et malgré le sentiment d’un conflit interminable, les Israéliens soutiennent l’action du premier ministre israélien. Analyse en podcast avec Luc Bronner, correspondant du « Monde » à Jérusalem.",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/03/26/guerre-en-iran-quelle-strategie-pour-benyamin-netanyahou_6674292_5463015.html",
+          "id": "2026-03-26-088ac71a",
+          "title": "Polluants éternels: un rapport scientifique appelle à une restriction large au niveau européen",
+          "description": "C'est le « scandale sanitaire du XXIe siècle » : la pollution aux PFAS, aussi appelés « polluants éternels ». Jeudi 26 mars, un rapport scientifique de l'Agence européenne des produits chimiques, très attendu sur le sujet, préconise une « restriction large » de ces derniers par l'Union européenne, sauf « exceptions ciblées » quand il n'y a pas d'alternative.",
+          "url": "https://www.rfi.fr/fr/environnement/20260326-polluants-%C3%A9ternels-un-rapport-scientifique-appelle-%C3%A0-une-restriction-large-au-niveau-europ%C3%A9en",
+          "imageUrl": "https://s.rfi.fr/media/display/9f8f0150-293b-11f1-8fc6-005056bfb2b6/w:1024/p:16x9/000-A22J9G3.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-26T21:05:59.000Z",
+          "fetchedAt": "2026-03-27T06:19:36.635Z"
+        },
+        {
+          "id": "2026-03-26-752a058f",
+          "title": "Espagne: polémique autour de l'euthanasie d'une jeune femme de 25 ans paraplégique",
+          "description": "En Espagne, l'euthanasie est légale depuis près de cinq ans. Mais le cas de Noelia Castillo, jeune Catalane de 25 ans, a relancé les débats. Sa demande, acceptée par la commission de garantie, composée notamment de médecins et juristes, a été retardée à cause de recours judiciaires intentés par son père. Son euthanasie a eu lieu finalement jeudi 26 mars 2026, relançant des débats notamment politiques.",
+          "url": "https://www.rfi.fr/fr/europe/20260326-espagne-pol%C3%A9mique-autour-de-l-euthanasie-d-une-jeune-femme-de-25-ans-parapl%C3%A9gique",
+          "imageUrl": "https://s.rfi.fr/media/display/db31125c-13bc-11ef-817d-005056a90284/w:1024/p:16x9/main%20medecin%20patient%20fin%20de%20vie%20GettyImages-1369162068.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-26T19:47:58.000Z",
+          "fetchedAt": "2026-03-27T06:19:36.635Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "EN DIRECT - Guerre au Moyen-Orient: nouvelles frappes israéliennes sur la banlie",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-03-27-e2dcd831",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: nouvelles frappes israéliennes sur la banlieue sud de Beyrouth et Téhéran",
+          "description": "Au 28e jour de la guerre au Moyen-Orient, les attaques se poursuivent dans toute la région. Tôt ce vendredi 27 mars, des explosions ont retenti dans le sud de la capitale libanaise, sans avertissement ou appel à évacuer préalable. L'armée israélienne a également visé la capitale iranienne Téhéran au cours de la nuit.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260327-en-direct-guerre-au-moyen-orient-nouvelles-frappes-isra%C3%A9liennes-sur-la-banlieue-sud-de-beyrouth-et-t%C3%A9h%C3%A9ran",
+          "imageUrl": "https://s.rfi.fr/media/display/616c18b4-299e-11f1-ab6e-005056bfb2b6/w:1024/p:16x9/2026-03-25T021855Z-685502103-RC2DBKABMSIB-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL-STRIKE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-27T05:41:06.000Z",
+          "fetchedAt": "2026-03-27T06:19:36.635Z"
+        },
+        {
+          "id": "2026-03-27-bd374c1e",
+          "title": "Guerre en Iran : Israël et les pays du Golfe s’inquiètent d’une sortie du conflit bâclée par Donald Trump",
+          "description": "Mis sous pression par la fermeture du détroit d’Ormuz, le président américain pourrait décider d’un cessez-le-feu qui ne réglerait ni le problème de l’accès à cette voie maritime, ni la question de la menace iranienne dans la région.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/27/guerre-en-iran-israel-et-les-pays-du-golfe-s-inquietent-d-une-sortie-du-conflit-baclee-par-donald-trump_6674470_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-26T04:00:05.000Z",
-          "fetchedAt": "2026-03-26T06:18:10.992Z"
+          "publishedAt": "2026-03-27T04:20:34.000Z",
+          "fetchedAt": "2026-03-27T06:19:27.400Z"
         },
         {
-          "id": "2026-03-26-ac964ce1",
-          "title": "Au Kenya, les écrivains de la « gen Z » ressuscitent une revue littéraire emblématique",
-          "description": "Avec la revue « Qwani », un collectif se mobilise pour offir un débouché aux textes de jeunes auteurs du pays et leur offrir un espace d’expression.",
-          "url": "https://www.lemonde.fr/international/article/2026/03/26/au-kenya-les-ecrivains-de-la-gen-z-ressuscitent-une-revue-litteraire-emblematique_6674286_3210.html",
+          "id": "2026-03-27-1ddfbd81",
+          "title": "Guerre en Iran : frein ou accélérateur de la transition énergétique en Europe ?",
+          "description": "Les Etats européens sont divisés sur la réponse à apporter à la flambée des prix du pétrole et du gaz. Les solutions sont connues (électrification, aides à l’achat de véhicules électriques, etc.), mais elles demandent des investissements.",
+          "url": "https://www.lemonde.fr/planete/article/2026/03/27/guerre-en-iran-frein-ou-accelerateur-de-la-transition-energetique-en-europe_6674466_3244.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-26T02:30:01.000Z",
-          "fetchedAt": "2026-03-26T06:18:10.992Z"
+          "publishedAt": "2026-03-27T04:00:44.000Z",
+          "fetchedAt": "2026-03-27T06:19:27.400Z"
         },
         {
-          "id": "2026-03-25-93bda742",
-          "title": "Les frappes iraniennes provoquent-elles un \"exode massif\" d'Israéliens vers Chypre et l'Egypte ?",
-          "description": "Des sirènes ont retenti lundi soir dans le centre et le sud d’Israël. L’armée dit avoir détecté des tirs iraniens, qui n’auraient fait ni blessés ni dégâts majeurs. Mais sur les réseaux sociaux, plusieurs vidéos affirment que les missiles de Téhéran auraient déclenché une vague de panique en Israël : les citoyens fuiraient en masse par la route autant que par les mers. En réalité, les vidéos ne montrent pas Israël, voire sont générées par l'intelligence artificielle.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260325-les-frappes-iraniennes-provoquent-elles-un-exode-massif-d-isra%C3%A9liens-vers-chypre-et-l-egypte",
-          "imageUrl": "https://s.france24.com/media/display/0ed48a0a-2895-11f1-84a5-005056a97e36/w:1024/p:16x9/Francais-2026-03-25T21-19-32-215Z.jpg",
+          "id": "2026-03-27-9d67c2f6",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump repousse au 6 avril son ultimatum concernant les frappes américaines sur les centrales électriques iraniennes",
+          "description": "Le président américain a expliqué, sur son réseau social, que les discussions avec Téhéran se « déroul[ai]ent très bien », et a fixé la nouvelle date limite au 6 avril en soirée, heure de Washington.",
+          "url": "https://www.lemonde.fr/international/live/2026/03/27/en-direct-guerre-au-moyen-orient-donald-trump-repousse-au-6-avril-son-ultimatum-concernant-les-frappes-americaines-sur-les-centrales-electriques-iraniennes_6673056_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-27T00:07:53.000Z",
+          "fetchedAt": "2026-03-27T06:19:27.400Z"
+        },
+        {
+          "id": "2026-03-26-e61479e2",
+          "title": "Israël: l'armée admet des défaillances de son bouclier antimissile après des frappes iraniennes",
+          "description": "L'armée israélienne admet des défaillances ponctuelles de son système d'interception, malgré un taux d'efficacité élevé revendiqué. Des missiles iraniens ont parvenu à percer les défenses de l'État hébreu et fait des blessés dans le sud du pays.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260326-isra%C3%ABl-l-arm%C3%A9e-admet-des-d%C3%A9faillances-de-son-bouclier-antimissile-apr%C3%A8s-des-frappes-iraniennes",
+          "imageUrl": "https://s.rfi.fr/media/display/e588057e-2947-11f1-be1f-005056a90284/w:1024/p:16x9/AP17079550784196.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-26T19:59:20.000Z",
+          "fetchedAt": "2026-03-27T06:19:36.635Z"
+        },
+        {
+          "id": "2026-03-26-af08511a",
+          "title": "Moyen-Orient : comment l'Iran a recours à l'IA pour mener sa guerre de l'information",
+          "description": "Le régime iranien mène actuellement une vaste campagne d'influence numérique à grand renfort d'intelligence artificielle. Objectif : attiser le sentiment anti-guerre aux États-Unis et faire pression sur le président Donald Trump pour mettre fin au conflit.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260326-moyen-orient-comment-iran-mene-une-guerre-de-information-ia-trump-intox",
+          "imageUrl": "https://s.france24.com/media/display/7b42f46e-2864-11f1-b0b6-005056a90284/w:1024/p:16x9/Iran-war-online-AI-fake-news.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-03-25T22:27:36.000Z",
-          "fetchedAt": "2026-03-26T06:18:11.096Z"
+          "publishedAt": "2026-03-26T18:36:10.000Z",
+          "fetchedAt": "2026-03-27T06:19:27.519Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "Guerre en Iran, partenariat Ghana-UE, Loukachenko en Corée du Nord, Tariq Ramada",
+      "id": "cluster-7",
+      "topic": "Donald Trump interdit à son administration de travailler avec des entreprises me",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-26-b3e2fbcc",
-          "title": "Guerre en Iran, partenariat Ghana-UE, Loukachenko en Corée du Nord, Tariq Ramadan : les informations de la nuit",
-          "description": "",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-iran-partenariat-ghana-ue-loukachenko-en-coree-du-nord-tariq-ramadan-les-informations-de-la-nuit_242222",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/24/0/0/3600/2400/1200/630/60/0/2c62a7b_ftp-1-1tcaibsqopkq-trump-iran-offramp-1.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-26T05:19:40.000Z",
-          "fetchedAt": "2026-03-26T06:18:11.159Z"
-        },
-        {
-          "id": "2026-03-25-4bf6c04e",
-          "title": "Corée du Nord : Kim Jong-un reçoit Alexandre Loukachenko, à Pyongyang",
-          "description": "Cette visite officielle de deux jours est la première du président biélorusse dans le pays reclus.",
-          "url": "https://www.lemonde.fr/international/article/2026/03/26/coree-du-nord-kim-jong-un-recoit-le-president-bielorusse-alexandre-loukachenko-a-pyongyang_6674282_3210.html",
+          "id": "2026-03-27-1e7256c9",
+          "title": "Donald Trump interdit à son administration de travailler avec des entreprises menant des politiques antidiscriminations",
+          "description": "Le décret publié par le président américain entrera en vigueur dans trente jours. Pour décrocher des contrats avec l’Etat fédéral, les entreprises devront inclure une clause assurant qu’elles ne se livrent « à aucune activité DEI [diversité, équité et inclusion] ».",
+          "url": "https://www.lemonde.fr/international/article/2026/03/27/donald-trump-interdit-a-son-administration-de-travailler-avec-des-entreprises-menant-des-politiques-antidiscriminations_6674475_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-25T23:14:50.000Z",
-          "fetchedAt": "2026-03-26T06:18:10.992Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-22",
-      "topic": "Le Soudan accuse l'Éthiopie d'appuyer les paramilitaires FSR dans l'État du Nil ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-03-25-3c008217",
-          "title": "Le Soudan accuse l'Éthiopie d'appuyer les paramilitaires FSR dans l'État du Nil Bleu",
-          "description": "Au Soudan, les paramilitaires des Forces de soutien rapide (FSR) ont annoncé ce 24 mars avoir pris la ville d'al-Kurmuk dans l'État du Nil Bleu au sud-est du pays, à la frontière avec l'Éthiopie. Elles sont soutenues par le Mouvement populaire de libération du Soudan-Nord (SPLP-N) dirigé par Abdelaziz el Hilu. L'armée soudanaise s'est retirée dans sa base arrière à Damazin, capitale du Nil Bleu. La prise de cette ville stratégique a relancé les accusations envers l'Éthiopie d’être impliquée au Soudan aux côtés des FSR. Les affrontements ont commencé le 22 mars et ont permis aux FSR de prendre plusieurs autres villes.",
-          "url": "https://www.rfi.fr/fr/afrique/20260325-le-soudan-accuse-l-%C3%A9thiopie-d-appuyer-les-paramilitaires-fsr-dans-l-%C3%A9tat-du-nil-bleu",
-          "imageUrl": "https://s.rfi.fr/media/display/def95142-8a18-11ef-832b-005056a97e36/w:1024/p:16x9/GettyImages-1193515292.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-25T22:56:09.000Z",
-          "fetchedAt": "2026-03-26T06:18:19.283Z"
+          "publishedAt": "2026-03-27T04:42:54.000Z",
+          "fetchedAt": "2026-03-27T06:19:27.400Z"
         },
         {
-          "id": "2026-03-25-46161b24",
-          "title": "Guerre au Soudan : le Tchad a fermé sa frontière",
-          "description": "Tout au long de la semaine dernière, des affrontements entre l’Armée soudanaise et les rebelles des FSR ont eu lieu dans l’ouest du Darfour à la frontière avec le Tchad. Des affrontements qui ont plusieurs fois débordé sur le territoire tchadien. Le Tchad a mobilisé plusieurs centaines de soldats à sa frontière avec le Soudan pour empêcher toute intrusion des belligérants. Explications de notre journaliste Harold Girard.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260325-guerre-au-soudan-le-tchad-a-ferm%C3%A9-sa-fronti%C3%A8re",
-          "imageUrl": "https://s.france24.com/media/display/d12c63de-2868-11f1-aa33-005056bfb2b6/w:1024/p:16x9/FR-20260324-215023-215226-CS.jpg",
+          "id": "2026-03-27-07e41fd4",
+          "title": "Donald Trump aura bientôt sa signature sur les billets de banque américains, une première pour un président des Etats-Unis",
+          "description": "Les premiers billets de 100 dollars arborant la signature du président américain seront imprimés en juin. Traditionnellement, aux Etats-Unis, les billets de banque portent la signature du ministre des finances et du trésorier du pays.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/27/donald-trump-aura-bientot-sa-signature-sur-les-billets-de-banque-americains-une-premiere-pour-un-president-des-etats-unis_6674452_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-27T01:55:24.000Z",
+          "fetchedAt": "2026-03-27T06:19:27.400Z"
+        },
+        {
+          "id": "2026-03-26-6058b75d",
+          "title": "Vénézuela : le président Maduro, accusé de narcoterrorisme, de retour devant la justice américaine",
+          "description": "Le président vénézuélien déchu Nicolas Maduro comparait jeudi 26 mars devant un tribunal de New York, sa deuxième apparition publique depuis sa spectaculaire capture début janvier par les États-Unis. Correspondance d'Alice Campaignolle depuis Caracas pour France 24.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260326-v%C3%A9n%C3%A9zuela-le-pr%C3%A9sident-maduro-accus%C3%A9-de-narcoterrorisme-de-retour-devant-la-justice-am%C3%A9ricaine",
+          "imageUrl": "https://s.france24.com/media/display/f06f1c00-2930-11f1-9875-005056bf30b7/w:1024/p:16x9/FR-20260326-170451-170908-CS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-03-25T16:43:23.000Z",
-          "fetchedAt": "2026-03-26T06:18:11.096Z"
+          "publishedAt": "2026-03-26T16:46:27.000Z",
+          "fetchedAt": "2026-03-27T06:19:27.519Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "The surprise hit Nex Playground is the latest console to get a price hike",
+      "id": "cluster-2",
+      "topic": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-03-25-dd489fa1",
-          "title": "The surprise hit Nex Playground is the latest console to get a price hike",
-          "description": "Everything about video games is getting more expensive, and soon that will include a budget-friendly console. The Nex Playground - a Kinect-like device aimed at families that made headlines by outselling the Xbox over the holidays last year - will cost $299 starting on April 1st, a $50 bump.\nIn a statement on the Nex Playground site, co-founder and CEO David Lee cited a number of familiar reasons for the higher price point:\nOver the past six months, the cost of key components - especially memory (DDR) and storage (eMMC) - has risen significantly across the industry. These increases are driven in part by the rapid expansion of AI infrastru …\n\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/entertainment/900856/nex-playground-price-hike",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/sean-hollister-verge-nex-playground-331A1456.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-03-27-2029e402",
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+          "description": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \n\"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the order, which will go into effect in seven days. \"Punishing Anthropic for bringing public scrutiny to the government's contracting position is classic illegal First Amendme …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-03-25T20:25:10.000Z",
-          "fetchedAt": "2026-03-26T06:18:26.285Z"
-        },
-        {
-          "id": "2026-03-25-2eab378a",
-          "title": "We got an audience with the \"Lunar Viceroy\" to talk how NASA will build a Moon base",
-          "description": "\"It has been clear that we all need to be focused on one thing, not 10 things.\"",
-          "url": "https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/55166155011_de999b99d9_k-1152x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-03-25T19:21:57.000Z",
-          "fetchedAt": "2026-03-26T06:18:26.328Z"
-        },
-        {
-          "id": "2026-03-25-006bafd7",
-          "title": "Une baisse d’engagement sur Fortnite conduit Epic Games à licencier 1 000 personnes",
-          "description": "Il semblerait qu'Epic Games dépense « nettement plus » qu'il ne gagne. C'est en tout cas la raison invoquée par son PDG, Tim Sweeney, pour effectuer quelques sacrifices sur l'autel de la rentabilité.",
-          "url": "https://www.numerama.com/pop-culture/2217681-une-baisse-dengagement-sur-fortnite-conduit-epic-games-a-licencier-1-000-personnes.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/epic-games-fortnite.jpg?resize=1600,900&key=6c120059&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-25T09:04:48.000Z",
-          "fetchedAt": "2026-03-26T06:18:19.470Z"
+          "publishedAt": "2026-03-27T00:33:44.000Z",
+          "fetchedAt": "2026-03-27T06:19:42.826Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
+      "id": "cluster-1",
+      "topic": "Quand la religion guide les investissements en Bourse",
       "category": "eco",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-03-26-acaa0e97",
-          "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
-          "description": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
-          "url": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg",
-          "source": "BBC Business",
+          "id": "2026-03-27-733ffb32",
+          "title": "Quand la religion guide les investissements en Bourse",
+          "description": "Catholiques ou musulmans peuvent se tourner vers des placements qui respectent leur foi.",
+          "url": "https://www.lemonde.fr/argent/article/2026/03/27/quand-la-religion-guide-les-investissements-en-bourse_6674476_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-03-26T01:42:26.000Z",
-          "fetchedAt": "2026-03-26T06:18:27.701Z"
-        },
-        {
-          "id": "2026-03-25-ab1ef3b5",
-          "title": "Oil prices volatile as Trump talks up Iran negotiations",
-          "description": "Crude rose back above $100 a barrel as the US and Iran clashed over bringing the conflict to an end.",
-          "url": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/738e/live/9c6d4c40-281c-11f1-931f-e9f364d2732b.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-03-25T21:18:55.000Z",
-          "fetchedAt": "2026-03-26T06:18:27.701Z"
-        },
-        {
-          "id": "2026-03-25-5fcc8742",
-          "title": "Oil traders bet millions minutes before Trump's Iran talks post",
-          "description": "Market data shows the amount of oil trade rose before the US President said he would postpone attacks on Iran's power plants.",
-          "url": "https://www.bbc.com/news/articles/cg547ljepvzo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cfb2/live/b420e4e0-2769-11f1-82f7-f757ccb9d4bd.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-03-25T00:31:18.000Z",
-          "fetchedAt": "2026-03-26T06:18:27.701Z"
+          "publishedAt": "2026-03-27T05:00:05.000Z",
+          "fetchedAt": "2026-03-27T06:19:42.910Z"
         }
       ]
     }
