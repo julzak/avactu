@@ -216,7 +216,8 @@ Si le sujet est pertinent :
     "La position/réaction de l'acteur B ou opposant (max 15 mots)",
     "L'enjeu économique ou stratégique clé (max 15 mots)"
   ],
-  "execSummary": "4 paragraphes structurés (250-300 mots total) : Faits | Position A | Position B | Enjeux"
+  "execSummary": "4 paragraphes structurés (250-300 mots total) : Faits | Position A | Position B | Enjeux",
+  "bestImageArticle": <numéro de l'article (1-based) dont l'image illustre le MIEUX cette story — choisis l'article dont le SUJET VISUEL correspond le mieux au fait principal, PAS un article sur un sujet connexe mais différent>
 }
 
 Si le sujet est HORS SCOPE :
@@ -259,7 +260,7 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
   try {
     const response = await withRetry(
       () => client.messages.create({
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-sonnet-4-6',
         max_tokens: 2048,
         system: [
           {
@@ -306,30 +307,32 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     // Get all unique sources
     const allSources = [...new Set(cluster.articles.map((a) => a.source))];
 
-    // Find best image: prefer article whose title is most relevant to the synthesized story
-    // Filter out logos, placeholders, and generic images
-    const articlesWithValidImage = cluster.articles
-      .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl))
-      .map((a) => ({
-        ...a,
-        relevance: titleSimilarity(storyData.title, a.title),
-      }))
-      .sort((a, b) => {
-        // Primary: relevance to synthesized title; secondary: recency
-        if (Math.abs(a.relevance - b.relevance) > 0.1) return b.relevance - a.relevance;
-        return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
-      });
+    // Find best image: use Claude's choice (bestImageArticle) with validation fallback
+    let imageUrl = 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
 
-    if (articlesWithValidImage.length === 0) {
-      const rejectedImages = cluster.articles.filter((a) => a.imageUrl && !isValidEditorialImage(a.imageUrl));
-      if (rejectedImages.length > 0) {
-        console.warn(`   ⚠ ${rejectedImages.length} image(s) rejetée(s) (logo/placeholder) — fallback Unsplash`);
+    // Claude picks the best article for the image (1-based index)
+    const pickedIndex = storyData.bestImageArticle;
+    if (pickedIndex && pickedIndex >= 1 && pickedIndex <= cluster.articles.length) {
+      const picked = cluster.articles[pickedIndex - 1];
+      if (picked.imageUrl && isValidEditorialImage(picked.imageUrl)) {
+        imageUrl = picked.imageUrl;
+      } else {
+        console.warn(`   ⚠ Image choisie par Claude (article ${pickedIndex}) rejetée par validation`);
       }
     }
 
-    const imageUrl =
-      articlesWithValidImage[0]?.imageUrl ||
-      'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
+    // Fallback: if Claude's pick was invalid, try other articles sorted by recency
+    if (imageUrl.includes('unsplash.com')) {
+      const fallback = cluster.articles
+        .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl))
+        .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+      if (fallback.length > 0) {
+        imageUrl = fallback[0].imageUrl!;
+        console.warn(`   ⚠ Fallback image: article le plus récent avec image valide`);
+      } else {
+        console.warn(`   ⚠ Aucune image valide — fallback Unsplash`);
+      }
+    }
 
     // Get most recent publishedAt
     const mostRecent = cluster.articles.reduce((latest, article) => {
@@ -412,7 +415,8 @@ Si un sujet pertinent émerge :
     "L'enjeu clé (max 15 mots)"
   ],
   "execSummary": "4 paragraphes (250-300 mots)",
-  "usedSources": ["Source 1", "Source 2"]
+  "usedSources": ["Source 1", "Source 2"],
+  "bestImageArticle": <numéro de l'article (1-based) dont l'image illustre le MIEUX cette story — choisis l'article dont le SUJET VISUEL correspond au fait principal>
 }
 
 Si aucun sujet pertinent :
@@ -481,7 +485,7 @@ ${articlesDetail}`;
   try {
     const response = await withRetry(
       () => client.messages.create({
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-sonnet-4-6',
         max_tokens: 2048,
         system: [
           {
@@ -532,23 +536,32 @@ ${articlesDetail}`;
     // Use sources from Claude's response if available, otherwise all sources
     const usedSources = storyData.usedSources || filteredSources;
 
-    // Find best image — search all articles (not just filtered) for best match
-    const MIN_IMAGE_RELEVANCE = 0.1;
-    const articlesWithValidImage = articles
-      .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl))
-      .map((a) => ({
-        ...a,
-        relevance: titleSimilarity(storyData.title, a.title),
-      }))
-      .filter((a) => a.relevance >= MIN_IMAGE_RELEVANCE)
-      .sort((a, b) => {
-        if (Math.abs(a.relevance - b.relevance) > 0.1) return b.relevance - a.relevance;
-        return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
-      });
+    // Find best image: use Claude's choice (bestImageArticle) with validation fallback
+    let imageUrl = 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
 
-    const imageUrl =
-      articlesWithValidImage[0]?.imageUrl ||
-      'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
+    // Claude picks the best article for the image (1-based index, refers to filteredArticles)
+    const pickedIndex = storyData.bestImageArticle;
+    if (pickedIndex && pickedIndex >= 1 && pickedIndex <= filteredArticles.length) {
+      const picked = filteredArticles[pickedIndex - 1];
+      if (picked.imageUrl && isValidEditorialImage(picked.imageUrl)) {
+        imageUrl = picked.imageUrl;
+      } else {
+        console.warn(`   ⚠ Image choisie par Claude (article ${pickedIndex}) rejetée par validation`);
+      }
+    }
+
+    // Fallback: if Claude's pick was invalid, try all articles sorted by recency
+    if (imageUrl.includes('unsplash.com')) {
+      const fallback = articles
+        .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl))
+        .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+      if (fallback.length > 0) {
+        imageUrl = fallback[0].imageUrl!;
+        console.warn(`   ⚠ Fallback image: article le plus récent avec image valide`);
+      } else {
+        console.warn(`   ⚠ Aucune image valide — fallback Unsplash`);
+      }
+    }
 
     const mostRecent = filteredArticles.reduce((latest, article) => {
       return new Date(article.publishedAt) > new Date(latest.publishedAt) ? article : latest;
@@ -661,7 +674,7 @@ async function synthesize(): Promise<void> {
       try {
         const response = await withRetry(
           () => client.messages.create({
-            model: 'claude-sonnet-4-20250514',
+            model: 'claude-sonnet-4-6',
             max_tokens: 2048,
             system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
             messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.
@@ -691,16 +704,21 @@ ${articlesDetail}` }],
         const id = `${today}-${String(storyIndex + 1).padStart(2, '0')}`;
         const usedSources = storyData.usedSources || sources;
 
-        const articlesWithValidImage = recentGeopo
-          .filter((a: RawArticle) => a.imageUrl && isValidEditorialImage(a.imageUrl))
-          .map((a: RawArticle) => ({ ...a, relevance: titleSimilarity(storyData.title, a.title) }))
-          .filter((a: { relevance: number }) => a.relevance >= 0.1)
-          .sort((a: { relevance: number; publishedAt: string }, b: { relevance: number; publishedAt: string }) => {
-            if (Math.abs(a.relevance - b.relevance) > 0.1) return b.relevance - a.relevance;
-            return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
-          });
-
-        const imageUrl = articlesWithValidImage[0]?.imageUrl || 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
+        // Use Claude's image choice with validation fallback
+        let imageUrl = 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
+        const pickedIdx = storyData.bestImageArticle;
+        if (pickedIdx && pickedIdx >= 1 && pickedIdx <= recentGeopo.length) {
+          const picked = recentGeopo[pickedIdx - 1];
+          if (picked.imageUrl && isValidEditorialImage(picked.imageUrl)) {
+            imageUrl = picked.imageUrl;
+          }
+        }
+        if (imageUrl.includes('unsplash.com')) {
+          const fallback = recentGeopo
+            .filter((a: RawArticle) => a.imageUrl && isValidEditorialImage(a.imageUrl))
+            .sort((a: RawArticle, b: RawArticle) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+          if (fallback.length > 0) imageUrl = fallback[0].imageUrl!;
+        }
         const mostRecent = recentGeopo.reduce((latest: RawArticle, article: RawArticle) =>
           new Date(article.publishedAt) > new Date(latest.publishedAt) ? article : latest
         );
