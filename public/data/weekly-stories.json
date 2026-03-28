@@ -1,209 +1,231 @@
 {
-  "date": "2026-03-21",
+  "date": "2026-03-28",
   "stories": [
     {
-      "id": "2026-03-21-01",
-      "title": "L'Iran propose d'aider les navires japonais dans Ormuz",
+      "id": "2026-03-28-01",
+      "title": "Le Yémen tire son premier missile vers Israël",
       "bullets": [
-        "L'Iran propose d'escorter les navires japonais traversant le détroit d'Ormuz",
-        "Les tensions persistent au 22e jour de guerre Iran-États-Unis",
-        "Les États-Unis excluent un cessez-le-feu mais réduisent leurs opérations",
-        "L'Iran revendique la victoire par la voix de Khamenei",
-        "Le détroit contrôle 20% du trafic pétrolier mondial"
+        "L'armée israélienne détecte un premier missile yéménite depuis le début du conflit",
+        "La guerre Israël-Iran entre dans son deuxième mois sans apaisement",
+        "Les États-Unis espèrent terminer les opérations iraniennes dans deux semaines",
+        "L'Iran frappe une base saoudienne, blessant douze soldats américains",
+        "L'extension régionale du conflit inquiète avec l'entrée du Yémen"
       ],
       "sources": [
         "RFI",
-        "France 24"
-      ],
-      "category": "geopolitique",
-      "imageUrl": "https://s.rfi.fr/media/display/c83e40bc-24e4-11f1-b83f-005056a97e36/w:1024/p:16x9/2026-03-20T113613Z-1764607351-RC2B2KAGWT5F-RTRMADP-3-IRAN-CRISIS-USA-CHINA-WHITE-HOUSE.jpg",
-      "location": {
-        "lat": 26.5667,
-        "lng": 56.25,
-        "name": "Détroit d'Ormuz"
-      },
-      "execSummary": "Au 22e jour du conflit au Moyen-Orient, l'Iran a proposé d'aider les navires japonais à traverser le détroit d'Ormuz, passage stratégique pour le commerce maritime international. Cette offre intervient alors que les tensions militaires persistent entre l'Iran et les États-Unis, avec des explosions rapportées à Téhéran pendant les célébrations du Norouz. Le ministre français Jean-Noël Barrot s'est rendu à Jérusalem pour des discussions diplomatiques avec son homologue israélien.\n\nLes États-Unis, par la voix du président Trump, maintiennent leur position ferme en excluant tout cessez-le-feu immédiat avec l'Iran, tout en annonçant une réduction graduelle de leurs opérations militaires dans la région. Washington justifie cette approche par la nécessité de maintenir la pression sur Téhéran tout en évitant une escalade incontrôlée.\n\nDe son côté, l'Iran affiche sa confiance par un message écrit du guide suprême Mojtaba Khamenei aux Iraniens, déclarant que \"l'ennemi est vaincu\". Téhéran présente son offre d'assistance aux navires japonais comme une démonstration de sa capacité à sécuriser le passage maritime malgré les tensions.\n\nL'enjeu est crucial : le détroit d'Ormuz contrôle environ 20% du trafic pétrolier mondial. Toute perturbation de cette voie commerciale pourrait impacter les prix de l'énergie globalement. La proposition iranienne au Japon, partenaire commercial clé, illustre les tentatives de Téhéran de maintenir ses relations économiques internationales malgré le conflit.",
-      "publishedAt": "2026-03-21T05:14:42.000Z"
-    },
-    {
-      "id": "2026-03-21-02",
-      "title": "Les États-Unis lèvent partiellement les sanctions pétrolières sur l'Iran",
-      "bullets": [
-        "Les États-Unis autorisent la vente de pétrole iranien stocké",
-        "La mesure vise à contrer la flambée des prix énergétiques",
-        "L'Iran affirme ne disposer d'aucun surplus à vendre",
-        "La décision intervient après trois semaines de guerre",
-        "L'enjeu concerne 140 millions de barils selon le Trésor américain"
-      ],
-      "sources": [
         "Le Monde - International",
         "BBC World"
       ],
       "category": "geopolitique",
-      "imageUrl": "https://focus.courrierinternational.com/2026/03/10/0/0/4888/3258/1200/630/60/0/8021104_ftp-1-wmqlxi1vo9wc-2026-03-10t204711z-1253680674-rc2nzja7gbix-rtrmadp-3-iran-crisis.JPG",
+      "imageUrl": "https://s.rfi.fr/media/display/16113d66-2a63-11f1-b405-005056bf30b7/w:1024/p:16x9/000-A4ZK4RQ.jpg",
+      "location": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "Israël"
+      },
+      "execSummary": "L'armée israélienne a annoncé avoir détecté pour la première fois un tir de missile depuis le Yémen vers son territoire, marquant une escalade significative dans le conflit qui oppose Israël à l'Iran depuis maintenant deux mois. Cette attaque intervient alors que les bombardements mutuels entre les deux pays se poursuivent sans relâche, et que le conflit s'étend progressivement à d'autres acteurs régionaux.\n\nDu côté américain, le secrétaire d'État Marco Rubio maintient un optimisme prudent, estimant que les opérations militaires en Iran pourraient se terminer « dans deux semaines » et que Washington peut encore atteindre ses objectifs sans déployer de troupes au sol. Cette position reflète la volonté américaine de limiter son engagement direct tout en soutenant Israël dans ses opérations.\n\nCependant, l'Iran intensifie ses contre-attaques en visant les alliés d'Israël dans la région. Vendredi, un missile iranien a frappé une base aérienne en Arabie saoudite, blessant douze soldats américains dont deux grièvement, et endommageant plusieurs avions ravitailleurs. Cette frappe directe contre des forces américaines marque une nouvelle ligne rouge franchie dans l'escalade régionale.\n\nL'entrée du Yémen dans le conflit soulève des inquiétudes majeures quant à l'extension géographique de la guerre. Cette escalade pourrait compromettre les routes commerciales de la mer Rouge et déstabiliser davantage une région déjà fragilisée, avec des conséquences économiques mondiales potentiellement importantes si le conflit perdure au-delà des deux semaines évoquées par Washington.",
+      "publishedAt": "2026-03-28T05:05:51.000Z"
+    },
+    {
+      "id": "2026-03-28-02",
+      "title": "Au Népal, l'ex-PM arrêté pour répression meurtrière",
+      "bullets": [
+        "L'ancien premier ministre Sharma Oli arrêté au Népal",
+        "Les manifestations de septembre ont fait 77 morts",
+        "L'ex-ministre de l'intérieur également interpellé par la justice",
+        "Le nouveau PM Balendra Shah prend ses fonctions",
+        "La transition démocratique népalaise se poursuit après les émeutes"
+      ],
+      "sources": [
+        "Le Monde",
+        "BBC World"
+      ],
+      "category": "geopolitique",
+      "imageUrl": "https://focus.courrierinternational.com/2026/03/27/0/0/6000/4000/1200/630/60/0/b514d41_ftp-1-uu6iegnyy0su-afp-a4yz3zr.jpg",
+      "location": {
+        "lat": 27.7172,
+        "lng": 85.324,
+        "name": "Katmandou, Népal"
+      },
+      "execSummary": "L'ancien premier ministre népalais Sharma Oli a été arrêté le 27 mars 2026 pour son rôle dans la répression sanglante des manifestations de septembre 2025. Les autorités lui reprochent d'avoir ordonné l'usage de la force contre les manifestants, causant la mort d'au moins 77 personnes et blessant plus de 2 400 autres selon le bilan officiel. L'ancien ministre de l'intérieur a également été interpellé dans cette affaire qui marque un tournant judiciaire majeur pour le pays.\n\nCette arrestation intervient dans un contexte de transition politique sensible, au lendemain de l'entrée en fonction du nouveau premier ministre Balendra Shah, un centriste de 35 ans anciennement rappeur et maire de Katmandou. Les manifestations de septembre avaient éclaté dans un climat de forte tension politique et sociale, provoquant deux jours d'émeutes particulièrement violentes qui avaient ébranlé la stabilité du gouvernement Oli.\n\nLa société civile népalaise et les organisations de défense des droits humains saluent ces arrestations comme un signal fort en faveur de la justice et de la responsabilité politique. Les familles des victimes, qui réclamaient depuis des mois des poursuites contre les responsables de la répression, voient dans cette décision judiciaire une première étape vers la reconnaissance de leurs souffrances.\n\nCes développements soulèvent des questions cruciales sur l'avenir démocratique du Népal et la capacité du nouveau gouvernement à gérer les tensions sociales sans recourir à la violence. L'arrestation d'Oli pourrait également influencer les équilibres politiques régionaux, le Népal étant stratégiquement situé entre l'Inde et la Chine, deux puissances qui suivent de près l'évolution de la situation politique népalaise.",
+      "publishedAt": "2026-03-28T05:20:39.000Z"
+    },
+    {
+      "id": "2026-03-28-03",
+      "title": "Les Européens courtisent l'Algérie pour son gaz",
+      "bullets": [
+        "L'Espagne et l'Italie multiplient les visites en Algérie",
+        "Le conflit au Moyen-Orient perturbe les approvisionnements gaziers",
+        "L'Algérie devient une alternative stratégique au gaz qatari",
+        "Le site de Ras Laffan au Qatar touché par les frappes",
+        "L'Europe cherche à diversifier ses sources d'énergie"
+      ],
+      "sources": [
+        "RFI"
+      ],
+      "category": "geopolitique",
+      "imageUrl": "https://focus.courrierinternational.com/2026/03/27/0/0/6000/4000/1200/630/60/0/b514d41_ftp-1-uu6iegnyy0su-afp-a4yz3zr.jpg",
+      "location": {
+        "lat": 36.7538,
+        "lng": 3.0588,
+        "name": "Alger, Algérie"
+      },
+      "execSummary": "L'Algérie attire les convoitises européennes sur le marché énergétique. Après la visite de la Première ministre italienne Giorgia Meloni en début de semaine, le ministre espagnol des Affaires étrangères José Manuel Albares vient de conclure une visite officielle à Alger. Ces déplacements diplomatiques s'inscrivent dans un contexte de crise énergétique majeure au Moyen-Orient. Le conflit en cours a perturbé l'approvisionnement mondial en gaz naturel liquéfié, notamment après que le premier site de production de GNL au monde, Ras Laffan au Qatar, ait été touché par les frappes militaires. Cette situation géopolitique tendue pousse les pays européens à repenser leur stratégie d'approvisionnement énergétique. L'Algérie, première productrice de gaz naturel d'Afrique et dixième producteur mondial, apparaît comme une alternative crédible et géographiquement proche pour l'Europe. Sa position stratégique en Méditerranée et ses importantes réserves gazières en font un partenaire privilégié pour diversifier les sources d'approvisionnement européennes. Cette diplomatie énergétique illustre la volonté européenne de réduire sa dépendance aux hydrocarbures du Golfe, particulièrement vulnérables aux conflits régionaux, et de sécuriser ses approvisionnements via des partenaires plus stables et accessibles.",
+      "publishedAt": "2026-03-28T05:20:39.000Z"
+    },
+    {
+      "id": "2026-03-27-01",
+      "title": "Les étudiants britanniques face à une crise d'endettement",
+      "bullets": [
+        "Des millions d'étudiants britanniques lourdement endettés par leurs prêts",
+        "Une enquête parlementaire évalue l'équitabilité du système de financement",
+        "Les diplômés dénoncent des décisions financières désastreuses pour leur avenir",
+        "Le gouvernement défend un système permettant l'accès universel aux études",
+        "L'endettement étudiant menace la stabilité financière d'une génération entière"
+      ],
+      "sources": [
+        "Le Monde - International",
+        "RFI"
+      ],
+      "category": "geopolitique",
+      "imageUrl": "https://s.rfi.fr/media/display/8b5b0658-295d-11f1-b179-005056a97e36/w:1024/p:16x9/AP25213684697144.jpg",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "Londres, Royaume-Uni"
+      },
+      "execSummary": "Une commission parlementaire britannique examine actuellement l'équitabilité du système de prêts étudiants qui a plongé des millions de diplômés dans un endettement massif. Les témoignages recueillis révèlent une génération entière qualifiant ces emprunts de « pire décision financière » de leur vie, soulevant des questions sur la viabilité du modèle de financement de l'enseignement supérieur au Royaume-Uni.\n\nLe gouvernement britannique justifie ce système comme un mécanisme permettant l'accès démocratique à l'université, arguant que les prêts étudiants offrent une opportunité d'investissement dans l'avenir professionnel sans barrière financière initiale. Les autorités soulignent que le remboursement est conditionné aux revenus futurs, créant théoriquement une protection pour les diplômés aux salaires modestes.\n\nLes diplômés et leurs représentants contestent vigoureusement cette vision, dénonçant un système qui crée une dette structurelle écrasante dès le début de la vie active. Ils pointent du doigt les taux d'intérêt élevés et l'accumulation rapide des dettes, transformant l'accès à l'éducation en piège financier à long terme qui entrave leurs projets de vie.\n\nCette crise d'endettement étudiant pose des enjeux économiques majeurs pour le Royaume-Uni, risquant de freiner la consommation, l'accession à la propriété et l'entrepreneuriat chez les jeunes diplômés. L'enquête parlementaire pourrait déboucher sur une réforme du système de financement universitaire, avec des implications budgétaires considérables pour l'État britannique.",
+      "publishedAt": "2026-03-27T06:00:00.000Z"
+    },
+    {
+      "id": "2026-03-27-02",
+      "title": "L'Iran et Israël escaladent, Trump reporte son ultimatum",
+      "bullets": [
+        "L'armée israélienne frappe Téhéran et la banlieue sud de Beyrouth",
+        "Les défenses antimissiles israéliennes montrent des failles face aux missiles iraniens",
+        "Trump repousse au 6 avril son ultimatum sur les centrales électriques iraniennes",
+        "L'Iran mène une campagne d'influence numérique avec l'IA contre les États-Unis",
+        "La fermeture du détroit d'Ormuz fait flamber les prix énergétiques européens"
+      ],
+      "sources": [
+        "RFI",
+        "Le Monde - International",
+        "France 24"
+      ],
+      "category": "geopolitique",
+      "imageUrl": "https://s.rfi.fr/media/display/e588057e-2947-11f1-be1f-005056a90284/w:1024/p:16x9/AP17079550784196.jpg",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "Téhéran, Iran"
+      },
+      "execSummary": "Au 28e jour du conflit au Moyen-Orient, les hostilités s'intensifient avec de nouvelles frappes israéliennes sur Téhéran et la banlieue sud de Beyrouth sans avertissement préalable. L'armée israélienne a également admis des défaillances ponctuelles de son système d'interception antimissile, après que des missiles iraniens ont réussi à percer ses défenses et fait des blessés dans le sud du pays. Du côté américain, Donald Trump a repoussé au 6 avril son ultimatum concernant d'éventuelles frappes sur les centrales électriques iraniennes, expliquant que les discussions avec Téhéran se \"déroulent très bien\". Cette escalade militaire s'accompagne d'une guerre de l'information sophistiquée menée par l'Iran, qui utilise l'intelligence artificielle pour influencer l'opinion publique américaine et faire pression sur Trump pour qu'il mette fin au conflit. Le régime iranien déploie des campagnes numériques visant à attiser le sentiment anti-guerre aux États-Unis. Parallèlement, Israël et les pays du Golfe s'inquiètent d'une sortie de conflit précipitée par Trump qui ne résoudrait ni la question de l'accès au détroit d'Ormuz, ni la menace iranienne régionale. La fermeture de cette voie maritime stratégique fait flamber les prix du pétrole et du gaz en Europe, divisant les États européens sur les réponses à apporter : accélération de la transition énergétique ou mesures d'urgence pour sécuriser les approvisionnements.",
+      "publishedAt": "2026-03-27T05:41:06.000Z"
+    },
+    {
+      "id": "2026-03-27-03",
+      "title": "Trump interdit les politiques antidiscriminations",
+      "bullets": [
+        "Trump interdit aux entreprises DEI de travailler avec l'État",
+        "Le décret entre en vigueur dans trente jours",
+        "Les entreprises doivent s'engager contre la diversité/inclusion",
+        "Une juge suspend les sanctions contre Anthropic",
+        "L'administration punit les critiques de l'IA militaire"
+      ],
+      "sources": [
+        "Le Monde",
+        "France 24"
+      ],
+      "category": "geopolitique",
+      "imageUrl": "https://focus.courrierinternational.com/2025/02/12/226/0/5416/3610/1200/630/60/0/9277282_sirius-fs-upload-1-pjodngm48nrs-1739377664840-080-hl-smarty-2023277.jpg",
       "location": {
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "Washington D.C."
       },
-      "execSummary": "Les États-Unis ont autorisé vendredi la vente et la livraison de pétrole iranien stocké sur des navires avant le 20 mars, une mesure exceptionnelle valable jusqu'au 19 avril. Cette décision intervient alors que la guerre au Moyen-Orient entre dans sa quatrième semaine et que les prix de l'énergie connaissent une forte hausse. Selon le secrétaire au Trésor américain, cette levée partielle des sanctions pourrait rapidement apporter 140 millions de barils de pétrole sur les marchés mondiaux. Cette mesure s'inscrit dans un contexte de guerre prolongée où les arsenaux militaires américains s'amenuisent rapidement face aux attaques quotidiennes de missiles et drones iraniens, créant une pression économique et logistique croissante. Téhéran a immédiatement réagi en affirmant ne disposer d'aucun surplus de pétrole brut à offrir aux marchés internationaux, remettant en question l'efficacité potentielle de cette initiative américaine. Cette contradiction soulève des interrogations sur la réalité des stocks disponibles et sur l'impact réel que pourrait avoir cette décision sur la stabilisation des prix énergétiques. L'assouplissement temporaire des sanctions illustre le dilemme stratégique des États-Unis, contraints de jongler entre leurs objectifs militaires contre l'Iran et la nécessité de maintenir la stabilité économique mondiale face à une crise énergétique qui menace l'économie internationale.",
-      "publishedAt": "2026-03-21T05:49:15.000Z"
+      "execSummary": "Le président américain Donald Trump a publié un décret interdisant à son administration de travailler avec des entreprises menant des politiques de diversité, équité et inclusion (DEI). Les entreprises devront inclure une clause garantissant qu'elles ne se livrent à aucune activité DEI pour décrocher des contrats avec l'État fédéral. Cette mesure entrera en vigueur dans trente jours.\n\nCette initiative s'inscrit dans la politique conservatrice de Trump qui vise à démanteler les programmes antidiscriminations dans le secteur privé. En ciblant les politiques DEI, l'administration cherche à contraindre les entreprises américaines à abandonner leurs programmes de promotion de la diversité pour maintenir leurs relations commerciales avec le gouvernement fédéral. Cette approche représente un revirement majeur par rapport aux politiques précédentes.\n\nParallèlement, une juge fédérale a suspendu pour une semaine les sanctions imposées par l'administration Trump à l'entreprise d'intelligence artificielle Anthropic. La magistrate a estimé que ces sanctions violaient probablement la liberté d'expression, Anthropic ayant refusé que son IA Claude soit utilisée pour la surveillance de masse ou des armes autonomes. L'entreprise californienne avait exprimé des réserves sur l'usage militaire de sa technologie.\n\nCes décisions illustrent la tension croissante entre les orientations idéologiques de l'administration Trump et les résistances du secteur privé et judiciaire. L'approche coercitive du gouvernement américain envers les entreprises qui ne partagent pas ses positions politiques soulève des questions sur l'équilibre entre pouvoir exécutif et liberté d'entreprise, créant un précédent dans les relations État-secteur privé.",
+      "publishedAt": "2026-03-27T06:00:00.000Z"
     },
     {
-      "id": "2026-03-21-03",
-      "title": "Les États-Unis lèvent partiellement les sanctions sur l'Iran",
+      "id": "2026-03-27-04",
+      "title": "Le G7 français exclut l'Afrique du Sud sous pression",
       "bullets": [
-        "Les États-Unis autorisent la vente de pétrole iranien stocké",
-        "La mesure vise à contrer la flambée des prix énergétiques",
-        "L'Iran affirme ne disposer d'aucun surplus pétrolier disponible",
-        "La guerre au Moyen-Orient entre dans sa quatrième semaine",
-        "L'objectif est d'apporter 140 millions de barils aux marchés"
+        "La France retire son invitation à l'Afrique du Sud au G7 de juin",
+        "Des pressions américaines évoquées puis démenties par Washington",
+        "Le président sud-africain fait marche arrière après les accusations",
+        "Paris défend un choix de format « G7 resserré » souverain",
+        "L'épisode révèle les tensions diplomatiques post-Trump"
       ],
       "sources": [
-        "Le Monde - International",
-        "BBC World",
-        "RFI"
+        "France 24",
+        "Le Monde"
       ],
       "category": "geopolitique",
-      "imageUrl": "https://focus.courrierinternational.com/2026/03/10/0/0/4888/3258/1200/630/60/0/8021104_ftp-1-wmqlxi1vo9wc-2026-03-10t204711z-1253680674-rc2nzja7gbix-rtrmadp-3-iran-crisis.JPG",
+      "imageUrl": "https://s.france24.com/media/display/2caf68cc-2969-11f1-bbfa-005056a97e36/w:1024/p:16x9/AP25325562360893.jpg",
       "location": {
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "name": "Washington"
+        "lat": 46.4,
+        "lng": 6.6,
+        "name": "Évian, France"
       },
-      "execSummary": "Les États-Unis ont annoncé vendredi la levée partielle de leurs sanctions sur le pétrole iranien, autorisant la vente et la livraison de pétrole et dérivés iraniens stockés sur des navires avant le 20 mars, et ce jusqu'au 19 avril. Cette mesure vise à contrer la flambée des prix énergétiques provoquée par le conflit au Moyen-Orient qui entre dans sa quatrième semaine. Le secrétaire au Trésor américain estime que cette décision pourrait rapidement apporter environ 140 millions de barils de pétrole aux marchés mondiaux. Cependant, l'Iran a immédiatement réagi en affirmant ne disposer d'aucun surplus de pétrole brut à offrir aux marchés internationaux, remettant en question l'efficacité de cette mesure. Cette décision américaine intervient dans un contexte de guerre prolongée où les arsenaux militaires occidentaux s'épuisent face aux milliers de missiles et drones iraniens interceptés quotidiennement. La situation révèle les tensions entre les objectifs militaires du conflit et les préoccupations économiques liées à la stabilité des marchés énergétiques mondiaux.",
-      "publishedAt": "2026-03-21T05:49:15.000Z"
+      "execSummary": "La France a retiré son invitation à l'Afrique du Sud pour le sommet du G7 qui doit se tenir en juin 2026 à Évian. Cette décision survient alors que Pretoria avait initialement été conviée à participer à cette réunion des pays les plus industrialisés. L'annonce de cette exclusion a provoqué des remous diplomatiques entre plusieurs capitales. Cette affaire révèle les nouvelles tensions géopolitiques au sein des forums multilatéraux depuis le retour de Donald Trump au pouvoir. L'Afrique du Sud représente un acteur économique majeur du continent africain et son exclusion questionne les critères de participation aux sommets internationaux. Le G7, qui réunit traditionnellement les États-Unis, le Canada, la France, l'Allemagne, l'Italie, le Japon et le Royaume-Uni, invite régulièrement des pays tiers selon les priorités de la présidence tournante. L'épisode a d'abord vu Pretoria dénoncer jeudi des pressions exercées par l'administration Trump pour expliquer sa mise à l'écart du sommet. Les autorités sud-africaines ont suggéré que Washington aurait fait pression sur Paris pour retirer cette invitation, créant un incident diplomatique. Cependant, le président sud-africain Cyril Ramaphosa a rapidement fait marche arrière sur ces accusations, adoptant un ton plus mesuré. De son côté, l'administration américaine a formellement nié toute implication dans cette décision, rejetant les accusations de chantage diplomatique. Les conséquences de cet épisode pourraient affecter les relations entre la France et l'Afrique du Sud, mais aussi questionner l'influence croissante des États-Unis sur les décisions des alliés européens. Paris justifie sa décision par le choix d'organiser un « G7 resserré », affirmant n'avoir « cédé à aucune pression » extérieure. Cette affaire illustre les défis diplomatiques auxquels font face les pays européens dans leurs relations avec Washington sous la nouvelle administration Trump.",
+      "publishedAt": "2026-03-27T06:00:00.000Z"
     },
     {
-      "id": "2026-03-20-01",
-      "title": "La militante Saadia Mosbah condamnée à 8 ans en Tunisie",
+      "id": "2026-03-28-04",
+      "title": "L'IA générative bouleverse l'industrie musicale",
       "bullets": [
-        "La militante antiraciste Saadia Mosbah condamnée à 8 ans de prison",
-        "Des accusations de malversations financières motivent la condamnation judiciaire",
-        "La présidente de l'association M'nemty emprisonnée depuis près de 2 ans",
-        "Une amende de 100 000 dinars s'ajoute à la peine d'emprisonnement",
-        "L'accès limité au jugement complique l'analyse des motifs précis"
+        "De faux artistes générés par IA inondent les plateformes de streaming",
+        "Des amateurs « percent » du jour au lendemain avec des revenus substantiels",
+        "Les musiciens traditionnels voient leurs revenus chuter drastiquement",
+        "Les plateformes peinent à détecter et réguler ces contenus artificiels",
+        "L'industrie musicale fait face à une révolution technologique majeure"
       ],
       "sources": [
-        "RFI",
-        "Le Monde - International"
+        "Le Monde - Pixels"
       ],
-      "category": "geopolitique",
-      "imageUrl": "https://s.rfi.fr/media/display/7258fd46-1842-11ef-8118-005056a97e36/w:1024/p:16x9/000_33AR6B2.jpg",
+      "category": "tech",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
-        "lat": 36.8065,
-        "lng": 10.1815,
-        "name": "Tunis, Tunisie"
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "Paris"
       },
-      "execSummary": "La justice tunisienne a condamné jeudi soir Saadia Mosbah, militante antiraciste et présidente de l'association M'nemty, à huit ans de prison ferme et 100 000 dinars d'amende (environ 30 000 euros). Selon RFI et Le Monde, cette condamnation intervient dans le cadre d'accusations de malversations financières, alors que la militante est déjà emprisonnée depuis près de deux ans. Les autorités tunisiennes présentent cette affaire sous l'angle judiciaire, invoquant des irrégularités financières présumées pour justifier les poursuites contre la dirigeante associative. Le système judiciaire tunisien traite ce dossier comme une affaire de droit commun, indépendamment du profil militant de l'accusée. Cependant, les défenseurs des droits humains et les observateurs internationaux dénoncent une instrumentalisation de la justice pour faire taire les voix critiques. Ils soulignent que Saadia Mosbah était particulièrement active dans la défense des droits des migrants subsahariens en Tunisie, un sujet sensible dans le contexte politique actuel du pays. Cette condamnation s'inscrit dans un contexte plus large de répression des militants et défenseurs des droits humains en Tunisie depuis l'arrivée au pouvoir de Kaïs Saïed. L'affaire illustre les tensions croissantes autour des questions migratoires et raciales dans le pays, et pourrait avoir des répercussions sur l'espace civique tunisien et les relations avec les partenaires internationaux attachés aux droits humains.",
-      "publishedAt": "2026-03-20T05:53:00.000Z"
+      "execSummary": "Des faux artistes générés par intelligence artificielle envahissent massivement les plateformes de streaming musical, créant une révolution dans l'industrie. Selon une enquête du Monde, ces créateurs virtuels accumulent des dizaines de milliers d'euros de revenus en exploitant les algorithmes de recommandation des plateformes comme Spotify ou Apple Music.\n\nCette transformation technologique bouleverse l'écosystème musical traditionnel. Les outils d'IA permettent désormais de créer facilement des morceaux sans compétences musicales particulières, remettant en question les fondements de la création artistique et du modèle économique de l'industrie.\n\nLes conséquences sont déjà visibles pour les artistes légitimes, qui constatent une chute significative de leurs revenus face à cette concurrence artificielle. Les plateformes de streaming se retrouvent dans une situation délicate, devant concilier innovation technologique et protection des créateurs authentiques.\n\nCet enjeu soulève des questions cruciales sur l'avenir de la création musicale, la rémunération des artistes et la nécessité de réguler l'usage de l'IA dans l'industrie culturelle. La bataille entre authenticité et artificialité ne fait que commencer.",
+      "publishedAt": "2026-03-28T06:02:00.000Z"
     },
     {
-      "id": "2026-03-20-02",
-      "title": "L'Iran frappe une raffinerie au Koweït après les attaques israéliennes",
+      "id": "2026-03-27-05",
+      "title": "Meta et YouTube condamnés pour dépression d'une adolescente",
       "bullets": [
-        "L'Iran attaque une raffinerie koweïtienne avec des drones, provoquant un incendie",
-        "La riposte fait suite aux nouvelles frappes israéliennes sur Téhéran",
-        "Les États-Unis menacent de détruire le site gazier iranien South Pars",
-        "L'Iran intensifie ses attaques contre les infrastructures énergétiques régionales",
-        "La guerre menace l'approvisionnement pétrolier du golfe Persique"
+        "Les plateformes jugées responsables de troubles mentaux adolescents",
+        "Le verdict crée un précédent pour milliers de plaignants",
+        "Les entreprises condamnées à 6 millions de dollars d'amende",
+        "Meta et Google annoncent leur intention de faire appel",
+        "La guérilla judiciaire menace l'industrie des réseaux sociaux"
       ],
       "sources": [
-        "RFI",
-        "Le Monde - International",
-        "Courrier International",
-        "France 24"
-      ],
-      "category": "geopolitique",
-      "imageUrl": "https://s.rfi.fr/media/display/17a0f4f2-241c-11f1-a350-005056bfb2b6/w:1024/p:16x9/AP22014527437787.jpg",
-      "location": {
-        "lat": 29.3759,
-        "lng": 47.9774,
-        "name": "Koweït"
-      },
-      "execSummary": "Au 21e jour de la guerre au Moyen-Orient, l'Iran a riposté aux frappes israéliennes sur Téhéran en attaquant une raffinerie de la compagnie pétrolière nationale du Koweït avec des drones, provoquant un incendie majeur. Cette escalation marque une extension géographique du conflit au-delà des frontières israélo-iraniennes, touchant désormais les infrastructures énergétiques des pays du Golfe.\n\nL'Iran justifie cette riposte comme une réponse légitime aux nouvelles frappes israéliennes menées vendredi matin contre des infrastructures gouvernementales à Téhéran. Les autorités iraniennes intensifient délibérément leurs attaques contre les installations pétrolières régionales, visant à exercer une pression économique sur les alliés d'Israël et à perturber l'approvisionnement énergétique mondial.\n\nDe son côté, Donald Trump a durci le ton en menaçant d'anéantir le site gazier offshore iranien de South Pars si l'Iran poursuivait ses frappes. Cette menace directe américaine vise le plus grand gisement de gaz naturel au monde, partagé entre l'Iran et le Qatar. Netanyahu a néanmoins accepté de suspendre temporairement les attaques sur les infrastructures énergétiques iraniennes à la demande du président américain.\n\nL'extension du conflit aux infrastructures pétrolières menace la stabilité énergétique mondiale et fait craindre une flambée des prix du pétrole. Le Koweït, membre clé de l'OPEP, devient malgré lui un théâtre d'opérations, illustrant les risques d'embrasement régional. L'opération américaine baptisée \"Fureur épique\" pourrait transformer cette crise en conflagration généralisée au Moyen-Orient.",
-      "publishedAt": "2026-03-20T05:20:00.000Z"
-    },
-    {
-      "id": "2026-03-20-03",
-      "title": "Décès d'Umberto Bossi, fondateur de la Ligue du Nord",
-      "bullets": [
-        "Le fondateur de la Ligue du Nord meurt à 84 ans",
-        "Un parti d'extrême droite créé dans les années 1980",
-        "La Première ministre Meloni salue sa 'contribution fondamentale'",
-        "L'opposition rappelle ses positions séparatistes controversées",
-        "L'héritage politique transforme encore la droite italienne aujourd'hui"
-      ],
-      "sources": [
-        "Courrier International",
-        "France 24"
-      ],
-      "category": "geopolitique",
-      "imageUrl": "https://s.france24.com/media/display/0d83d2ac-23e3-11f1-9007-005056bfb2b6/w:1024/p:16x9/ce34f8d3a794575b7f1bff4bfa221513da78cc06.jpg",
-      "location": {
-        "lat": 45.4642,
-        "lng": 9.19,
-        "name": "Milan, Italie"
-      },
-      "execSummary": "Umberto Bossi, fondateur du parti d'extrême droite la Ligue du Nord, est décédé jeudi à l'âge de 84 ans en Italie. Cette figure controversée de la politique italienne avait créé son mouvement dans les années 1980, prônant initialement l'indépendance du nord de l'Italie et développant un discours anti-immigration qui a marqué plusieurs décennies de vie politique. La Première ministre Giorgia Meloni a immédiatement rendu hommage à Bossi, saluant sa 'contribution fondamentale' à la construction de la droite italienne moderne. Ses alliés politiques mettent en avant son rôle pionnier dans l'émergence d'une droite populiste en Europe, soulignant son influence sur les mouvements nationalistes contemporains. L'opposition politique rappelle cependant les aspects les plus polémiques de son héritage, notamment ses positions séparatistes radicales qui réclamaient la partition de l'Italie et ses discours jugés xénophobes contre l'immigration. Certains analystes évoquent également les scandales financiers qui ont terni sa fin de carrière politique. La disparition de Bossi intervient à un moment clé pour la droite européenne, alors que ses héritiers politiques, notamment Matteo Salvini qui dirige aujourd'hui la Ligue, continuent d'appliquer ses méthodes dans un contexte de montée des populismes. Son décès marque la fin d'une ère pour la politique italienne et soulève des questions sur l'évolution future des mouvements nationalistes en Europe.",
-      "publishedAt": "2026-03-20T04:24:59.000Z"
-    },
-    {
-      "id": "2026-03-21-04",
-      "title": "Microsoft annonce des améliorations majeures de Windows 11",
-      "bullets": [
-        "La barre des tâches devient déplaçable sur Windows 11",
-        "Les mises à jour forcées disparaissent définitivement",
-        "L'objectif est de restaurer la confiance des utilisateurs",
-        "Le PDG Pavan Davuluri présente un plan qualité complet",
-        "L'enjeu porte sur l'amélioration de l'expérience utilisateur"
-      ],
-      "sources": [
-        "The Verge",
+        "Le Monde - Pixels",
         "Ars Technica"
       ],
       "category": "tech",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/1-29.jpg?resize=1600,900&key=7b8577ef&watermark",
       "location": {
-        "lat": 47.6062,
-        "lng": -122.3321,
-        "name": "Redmond, États-Unis"
+        "lat": 34.0522,
+        "lng": -118.2437,
+        "name": "Californie"
       },
-      "execSummary": "Microsoft annonce une refonte majeure de Windows 11 pour répondre aux critiques croissantes des utilisateurs. Le chef de Windows, Pavan Davuluri, a dévoilé un plan de réforme comprenant le retour de la barre des tâches déplaçable, une fonctionnalité très demandée depuis le lancement de l'OS. La firme s'engage également à éliminer les mises à jour forcées qui perturbaient le travail des utilisateurs depuis 2015.\n\nCes changements interviennent après une dégradation de la confiance envers Windows 11, marquée par des problèmes de performance, de fiabilité et l'intégration controversée de Copilot AI. Microsoft reconnaît avoir analysé les retours utilisateurs pendant plusieurs mois pour identifier les points de friction. L'entreprise promet de réduire les \"points d'entrée inutiles\" de Copilot dans son plan d'amélioration.\n\nPavan Davuluri affirme que Microsoft est \"profondément engagé dans la qualité de Windows 11\" et présente ces réformes comme une réponse directe aux préoccupations exprimées par la communauté. La société met l'accent sur la personnalisation de l'espace de travail et la réduction des interruptions liées aux mises à jour automatiques.\n\nCes annonces marquent un tournant stratégique pour Microsoft, qui cherche à restaurer sa réputation après les polémiques sur l'intégration forcée de l'IA et les dysfonctionnements répétés. L'enjeu est de taille : reconquérir les utilisateurs mécontents tout en préparant l'avenir de Windows dans un écosystème technologique en mutation rapide.",
-      "publishedAt": "2026-03-21T05:30:07.000Z"
+      "execSummary": "Le mercredi 25 mars 2026, un tribunal californien a rendu un verdict historique en condamnant Instagram (Meta) et YouTube (Google) à verser 6 millions de dollars de dommages-intérêts à une jeune femme dont la dépression adolescente a été jugée directement causée par son addiction aux réseaux sociaux. Cette décision intervient au lendemain d'une condamnation similaire au Nouveau-Mexique, marquant une série de revers judiciaires pour les géants de la tech. Ce jugement constitue un précédent majeur dans la lutte contre les effets néfastes des plateformes sociales sur la santé mentale des jeunes. Il ouvre la voie à des milliers de plaignants qui accusent les réseaux sociaux d'être responsables d'une épidémie d'addiction chez les adolescents. Selon David McCuan, professeur spécialisé dans ce dossier, ces affaires pourraient marquer un « point de départ » dans la responsabilisation juridique des plateformes. Les deux géants technologiques ont immédiatement annoncé leur intention de faire appel de cette décision. Meta et Google contestent leur responsabilité dans les troubles mentaux des utilisateurs mineurs, arguant que leurs plateformes ne peuvent être tenues pour seules responsables de problèmes de santé complexes. Cette bataille judiciaire s'inscrit dans un contexte plus large de pression réglementaire croissante sur les réseaux sociaux. L'impact de ce verdict pourrait être considérable pour l'industrie technologique. Si cette jurisprudence se confirme en appel, elle pourrait déclencher une « guérilla judiciaire » avec des milliers de procès similaires, forçant les plateformes à repenser fondamentalement leurs algorithmes et leurs politiques de protection des mineurs, au risque de voir leurs modèles économiques profondément bouleversés.",
+      "publishedAt": "2026-03-27T04:15:03.000Z"
     },
     {
-      "id": "2026-03-20-04",
-      "title": "OpenAI développe un « superapp » desktop unifiant ChatGPT et ses outils",
+      "id": "2026-03-28-05",
+      "title": "Guerre en Iran : choc pétrolier mondial et mesures d'urgence",
       "bullets": [
-        "L'entreprise travaille sur une application desktop unique",
-        "La fragmentation actuelle ralentit le développement selon OpenAI",
-        "Le projet fusionnera ChatGPT, Codex et le navigateur Atlas",
-        "La simplification vise à améliorer la qualité des produits",
-        "L'initiative répond à la concurrence croissante d'Anthropic"
-      ],
-      "sources": [
-        "The Verge"
-      ],
-      "category": "tech",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "location": {
-        "lat": 37.7749,
-        "lng": -122.4194,
-        "name": "San Francisco"
-      },
-      "execSummary": "OpenAI développe actuellement un « superapp » desktop qui fusionnera ses différents outils - ChatGPT, l'application de codage Codex et le navigateur Atlas - en une seule application unifiée, selon un rapport du Wall Street Journal. Cette initiative s'inscrit dans une stratégie de simplification des produits de l'entreprise, comme l'a expliqué Fidji Simo, CEO des Applications chez OpenAI, dans un mémo interne.\n\nLa décision de créer cette application unifiée répond à un problème concret identifié par l'entreprise : la fragmentation de ses outils « ralentit le développement et rend plus difficile l'atteinte des standards de qualité souhaités ». Cette approche vise à optimiser l'expérience utilisateur en centralisant l'accès aux différentes fonctionnalités d'IA dans un environnement cohérent.\n\nCette stratégie intervient dans un contexte de concurrence accrue avec Anthropic, qui gagne du terrain face à OpenAI. L'entreprise fait également face à des défis après des annonces spectaculaires comme l'application vidéo Sora et l'acquisition de l'entreprise de hardware d'IA de Jony Ive, qui n'ont pas encore abouti à des produits commerciaux significatifs.\n\nL'enjeu principal de cette consolidation réside dans la capacité d'OpenAI à maintenir sa position de leader sur le marché de l'IA générative. En simplifiant son écosystème d'applications, l'entreprise espère accélérer son développement et offrir une expérience plus fluide à ses utilisateurs, tout en répondant plus efficacement à la pression concurrentielle croissante du secteur.",
-      "publishedAt": "2026-03-20T00:34:04.000Z"
-    },
-    {
-      "id": "2026-03-21-05",
-      "title": "Guerre en Iran : flambée énergétique mondiale",
-      "bullets": [
-        "Les prix de l'énergie flambent après les frappes",
-        "Le détroit d'Ormuz menacé de fermeture",
-        "Les factures britanniques augmenteront de 332 livres",
-        "L'AIE évoque la plus grande menace énergétique",
-        "Les marchés financiers mondiaux sous pression"
+        "La guerre en Iran fait flamber les prix du pétrole mondialement",
+        "Le détroit d'Ormuz et Suez perturbent les approvisionnements énergétiques",
+        "La France annonce 70 millions d'aide aux professionnels touchés",
+        "L'Australie et le Royaume-Uni redoutent une récession économique majeure",
+        "Les consommateurs se tournent massivement vers l'électrique"
       ],
       "sources": [
         "Le Monde - Économie",
@@ -216,32 +238,8 @@
         "lng": 53.688,
         "name": "Iran"
       },
-      "execSummary": "La guerre en Iran provoque une crise énergétique mondiale sans précédent. Les frappes sur les infrastructures gazières au Qatar et la menace de fermeture du détroit d'Ormuz ont fait flamber les prix du pétrole et du gaz. Les cours boursiers chutent tandis que les coûts d'emprunt atteignent leur plus haut niveau depuis 2008. La Thaïlande, dépendante à 55% des importations du Golfe, connaît une panique sur les prix de l'essence.\n\nL'Agence internationale de l'énergie qualifie cette situation de \"plus grande menace pour la sécurité énergétique mondiale de toute l'histoire\". Le détroit d'Ormuz, passage stratégique pour 20% du pétrole mondial, pourrait être fermé, paralysant les approvisionnements énergétiques planétaires. Cette crise dépasse largement les conflits précédents par son ampleur géographique et économique.\n\nLes gouvernements réagissent en urgence. L'AIE envisage de libérer une partie des stocks stratégiques de pétrole pour stabiliser les prix. La Banque d'Angleterre maintient ses taux à 3,75% mais se dit prête à les relever si le choc persiste. L'agence prône des mesures d'économie d'énergie comme le télétravail et la conduite plus lente.\n\nLes répercussions économiques s'annoncent durables. Les factures énergétiques britanniques augmenteront de 332 livres par an dès juillet. L'inflation repartira à la hausse, compromettant la baisse des taux d'intérêt. Cette crise énergétique pourrait déclencher une récession mondiale si elle perdure, les analystes craignant des mois de turbulences.",
-      "publishedAt": "2026-03-21T05:00:17.000Z"
-    },
-    {
-      "id": "2026-03-20-05",
-      "title": "Guerre en Iran : hausse mondiale des prix énergie",
-      "bullets": [
-        "La guerre en Iran provoque flambée prix énergie",
-        "Le détroit d'Ormuz bloqué affecte approvisionnements mondiaux",
-        "Les banques centrales maintiennent taux face inflation",
-        "L'Europe résiste mieux grâce nucléaire et renouvelables",
-        "L'Inde et Afrique Est menacées pénuries carburant"
-      ],
-      "sources": [
-        "BBC Business",
-        "Le Monde - Économie"
-      ],
-      "category": "eco",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8699/live/2eb11fa0-23c7-11f1-b297-95b0a0a8331e.jpg",
-      "location": {
-        "lat": 32.4279,
-        "lng": 53.688,
-        "name": "Iran"
-      },
-      "execSummary": "La guerre en Iran provoque une crise énergétique mondiale majeure, avec une flambée des prix du pétrole et du gaz suite au blocage du détroit d'Ormuz, passage stratégique pour les approvisionnements énergétiques mondiaux. Les prix de l'énergie ont bondi après des frappes sur des infrastructures gazières au Qatar, perturbant les chaînes d'approvisionnement internationales.\n\nCette crise énergétique intervient dans un contexte où les économies mondiales tentaient de maîtriser l'inflation. Le conflit menace de relancer durablement la hausse des prix, affectant le coût de la vie des ménages via l'essence, le chauffage et indirectement l'alimentation. L'impact géographique varie selon la dépendance énergétique des régions.\n\nLes banques centrales adaptent leurs politiques monétaires : la Banque d'Angleterre maintient ses taux à 3,75% par unanimité, tandis que la Fed américaine résiste aux pressions présidentielles pour baisser les taux. Ces institutions privilégient la lutte contre l'inflation énergétique plutôt que la stimulation économique.\n\nLes conséquences sont inégales selon les pays. Catherine MacGregor d'Engie estime que la France résistera mieux grâce au nucléaire et aux renouvelables, pouvant remplir 70% de ses stocks gaziers même avec six mois de fermeture d'Ormuz. En revanche, l'Inde, deuxième importateur mondial de gaz liquéfié, et l'Afrique de l'Est font face à des pénuries critiques. La Chine teste ses réserves pétrolières et son virage vers les renouvelables.",
-      "publishedAt": "2026-03-20T05:30:08.000Z"
+      "execSummary": "La guerre entre les États-Unis, Israël et l'Iran provoque un choc pétrolier mondial majeur. Les prix du pétrole s'envolent suite à la perturbation des approvisionnements via le détroit d'Ormuz et le canal de Suez, deux voies stratégiques pour le transport énergétique mondial. En France, les prix à la pompe dépassent 150 pence, contraignant le gouvernement à cartographier les stations-service pour informer les consommateurs.\n\nCe choc énergétique menace l'économie mondiale. L'OCDE prévoit que le Royaume-Uni subira le plus fort impact sur sa croissance parmi les grandes économies. L'Australie fait face à des achats de panique et des pénuries de carburant, poussant le Premier ministre Anthony Albanese à rassurer sur la sécurité des approvisionnements. Les ports d'Afrique de l'Est, déjà congestionnés, peinent à absorber le trafic détourné des routes traditionnelles.\n\nLes gouvernements multiplient les mesures d'urgence. La France débloque 70 millions d'euros en avril pour soutenir agriculteurs, pêcheurs et transporteurs routiers, malgré la mobilisation annoncée de ces derniers. Le Royaume-Uni investit 100 millions de livres pour rouvrir une usine de CO2 sur Teesside, essentielle à l'industrie agroalimentaire. Le Vietnam réduit temporairement ses taxes sur les carburants.\n\nCette crise accélère paradoxalement la transition énergétique. Les Français s'informent massivement sur les véhicules électriques, qui ne représentent encore que 4% du marché de l'occasion. Le gouvernement français prépare une troisième vague de leasing social pour démocratiser l'accès aux voitures électriques, transformant cette crise en opportunité pour réduire la dépendance aux énergies fossiles.",
+      "publishedAt": "2026-03-28T05:00:21.000Z"
     }
   ]
 }
