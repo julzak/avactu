@@ -1,308 +1,231 @@
 {
-  "generatedAt": "2026-03-28T06:14:13.713Z",
+  "generatedAt": "2026-03-29T06:21:39.530Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "EN DIRECT - Guerre au Moyen-Orient: Israël dit avoir détecté un tir de missile d",
+      "id": "cluster-5",
+      "topic": "Guerre au Moyen-Orient en direct : l'Iran menace les universités américaines dan",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-28-62683bfc",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: Israël dit avoir détecté un tir de missile du Yémen, une première",
-          "description": "La guerre au Moyen-Orient entre, ce samedi 28 mars 2026, dans son deuxième mois sans donner le moindre signe d'apaisement, Israël et l'Iran continuant à se bombarder mutuellement. Le secrétaire d'État américain, Marco Rubio, a néanmoins estimé que les opérations en Iran pourraient se terminer « dans deux semaines » et que les États-Unis peuvent encore atteindre leurs objectifs sans troupes au sol. L'armée israélienne a affirmé avoir détecté un tir de missile depuis le Yémen, une première depuis le début du conflit.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260328-en-direct-guerre-au-moyen-orient-isra%C3%ABl-dit-avoir-d%C3%A9tect%C3%A9-un-tir-de-missile-du-y%C3%A9men-une-premi%C3%A8re",
-          "imageUrl": "https://s.rfi.fr/media/display/16113d66-2a63-11f1-b405-005056bf30b7/w:1024/p:16x9/000-A4ZK4RQ.jpg",
+          "id": "2026-03-29-49679369",
+          "title": "Guerre au Moyen-Orient en direct : l'Iran menace les universités américaines dans les pays du Golfe",
+          "description": "Les gardiens de la révolution iraniens ont menacé de frapper les universités américaines présentes dans les pays du Golfe dans la nuit de samedi à dimanche, tandis que de fortes explosions étaient entendues à Téhéran. Suivez la situation en direct sur notre live blog.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260329-guerre-au-moyen-orient-en-direct-l-iran-menace-les-universit%C3%A9s-am%C3%A9ricaines-dans-les-pays-du-golfe",
+          "imageUrl": "https://s.france24.com/media/display/d11b842c-2b2b-11f1-851e-005056bf30b7/w:1024/p:16x9/2026-03-29T013654Z-676348753-RC21EKAAWB29-RTRMADP-3-IRAN-CRISIS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-29T05:30:59.000Z",
+          "fetchedAt": "2026-03-29T06:17:38.939Z"
+        },
+        {
+          "id": "2026-03-29-77d3ae4f",
+          "title": "Guerre au Moyen-Orient : le mois qui a plongé le monde dans un choc énergétique",
+          "description": "Du blocage du détroit d’Ormuz aux envolées du prix du pétrole et du gaz, en passant par le profit fait par le Kremlin… Chronologie de la crise économique inédite qu’a provoquée l’attaque américano-israélienne en Iran, le 28 février.",
+          "url": "https://www.lemonde.fr/economie/article/2026/03/29/guerre-au-moyen-orient-le-mois-qui-a-plonge-le-monde-dans-un-choc-energetique_6675213_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-29T05:30:11.000Z",
+          "fetchedAt": "2026-03-29T06:17:38.783Z"
+        },
+        {
+          "id": "2026-03-29-abe988ef",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Téhéran à nouveau visée par des bombardements ; l’Iran menace de frapper les universités américaines présentes dans les pays du Golfe",
+          "description": "De nouvelles explosions ont été entendues dans la capitale iranienne dimanche matin. Dans la nuit, les gardiens de la révolution iraniens ont conseillé « aux employés, professeurs et étudiants des universités américaines » dans le Golfe « de s’éloigner ». Ces menaces font suite au bombardement de l’Université des sciences et de la technologie de Téhéran dans la nuit de vendredi à samedi.",
+          "url": "https://www.lemonde.fr/international/live/2026/03/29/en-direct-guerre-au-moyen-orient-teheran-a-nouveau-visee-par-des-bombardements-l-iran-menace-de-frapper-les-universites-americaines-presentes-dans-les-pays-du-golfe_6674837_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-29T04:30:48.000Z",
+          "fetchedAt": "2026-03-29T06:17:38.783Z"
+        },
+        {
+          "id": "2026-03-29-ba7a8f41",
+          "title": "Des millions d’Américains défilent aux États-Unis contre Trump, ICE et la guerre en Iran",
+          "description": "Des millions de personnes ont défilé samedi aux États-Unis et à travers le monde pour une nouvelle manifestation “No Kings”, marquée par le rejet de la politique migratoire et économique de Donald Trump et la guerre en Iran.",
+          "url": "https://www.courrierinternational.com/article/manifestations-des-millions-d-americains-defilent-aux-etats-unis-contre-trump-ice-et-la-guerre-en-iran_242327",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/28/5/0/5500/3666/1200/630/60/0/bb515d1_ftp-1-3tzbg4byufz1-2268348203.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-29T04:19:24.000Z",
+          "fetchedAt": "2026-03-29T06:17:39.457Z"
+        },
+        {
+          "id": "2026-03-29-00562f01",
+          "title": "« Et si Trump et Nétanyahou avaient sauvé la République islamique d’Iran en prétendant la renverser ? »",
+          "description": "Non seulement un mois de bombardements israélo-américains n’a pas conduit à l’effondrement du régime des ayatollahs, mais une nouvelle génération, aussi radicale que déterminée, est désormais aux commandes, observe l’historien Jean-Pierre Filiu dans sa chronique.",
+          "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/03/29/et-si-trump-et-netanyahou-avaient-sauve-la-republique-islamique-d-iran-en-pretendant-la-renverser_6675206_6116995.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-29T04:00:38.000Z",
+          "fetchedAt": "2026-03-29T06:17:38.783Z"
+        },
+        {
+          "id": "2026-03-29-edf21a69",
+          "title": "La guerre en Iran au centre des manifestations « No Kings » contre Donald Trump aux Etats-Unis : « L’Amérique est du mauvais côté dans cette histoire »",
+          "description": "Des millions de personnes se sont mobilisées contre l’administration Trump, samedi dans tout le pays, avec pour épicentre Minneapolis-Saint Paul, où deux Américains ont été tués en janvier par des agents fédéraux.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/29/aux-etats-unis-la-guerre-en-iran-au-centre-des-manifestations-no-kings-contre-donald-trump-l-amerique-est-du-mauvais-cote-dans-cette-histoire_6675133_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-29T03:07:02.000Z",
+          "fetchedAt": "2026-03-29T06:17:38.783Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-16",
+      "topic": "Guerre en Iran, attentat déjoué à Paris et Léon XIV à Monaco : les informations ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-03-29-fce84fdc",
+          "title": "Guerre en Iran, attentat déjoué à Paris et Léon XIV à Monaco : les informations de la nuit",
+          "description": "",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-iran-attentat-dejoue-a-paris-et-leon-xiv-a-monaco-les-informations-de-la-nuit_242328",
+          "imageUrl": "https://focus.courrierinternational.com/2025/09/20/154/0/3696/2464/1200/630/60/0/16b6c81_ftp-import-images-1-phumciqopcka-afp-768z49g.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-29T03:47:25.000Z",
+          "fetchedAt": "2026-03-29T06:17:39.457Z"
+        },
+        {
+          "id": "2026-03-29-dfb93917",
+          "title": "Dans Téhéran en guerre, des photos inédites du quotidien des habitants pris sous les bombes",
+          "description": "Les images du photographe iranien que publie « Le Monde » offrent une fenêtre exceptionnelle sur la capitale de 14 millions d’habitants, maintenue dans l’obscurité médiatique depuis le 28 février. Pour sa sécurité, ce photographe a souhaité garder l’anonymat.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/29/dans-teheran-en-guerre-des-photos-inedites-du-quotidien-des-habitants-pris-sous-les-bombes_6675131_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-29T03:00:25.000Z",
+          "fetchedAt": "2026-03-29T06:17:38.783Z"
+        },
+        {
+          "id": "2026-03-29-7a9ed8ae",
+          "title": "Emmanuel Grégoire, de “fourmi discrète et laborieuse” à nouveau maire de Paris",
+          "description": "Le socialiste, qui a “déjoué les pronostics” en battant la candidate des Républicains, Rachida Dati, au second tour des élections municipales, sera officiellement élu maire de Paris dimanche 29 mars. Rompant avec son image de “simple héritier”, Emmanuel Grégoire a su se démarquer de sa prédécesseur, Anne Hidalgo. Sans renier pour autant son bilan, observe la presse étrangère.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-emmanuel-gregoire-de-fourmi-discrete-et-laborieuse-a-nouveau-maire-de-paris_242196",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/22/0/4/3963/2642/1200/630/60/0/a3e54bf_ftp-1-oluje3c2qafh-2026-03-22t212152z-1928369373-rc2x9ka7a6m5-rtrmadp-3-france-election.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-29T03:00:10.000Z",
+          "fetchedAt": "2026-03-29T06:17:39.457Z"
+        },
+        {
+          "id": "2026-03-28-279fe4a0",
+          "title": "Le Sénégal célébré comme champion d’Afrique par ses fans au Stade de France",
+          "description": "Malgré la polémique autour de leur titre continental, les joueurs du Sénégal ont été accueillis comme \"des champions d'Afrique\" par des dizaines de milliers de supporters venus assister au match amical face au Pérou au Stade de France.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260328-le-s%C3%A9n%C3%A9gale-s%C3%A9n%C3%A9gal-c%C3%A9l%C3%A9br%C3%A9-comme-champion-d-afrique-par-ses-fans-au-stade-de-franceal-reste-champion-d-afrique-pour-ses-supporters-au-stade-de-france",
+          "imageUrl": "https://s.france24.com/media/display/43cbb05a-2ae1-11f1-b748-005056a90284/w:1024/p:16x9/minia-sen-champuon.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-28T20:05:01.000Z",
+          "fetchedAt": "2026-03-29T06:17:38.939Z"
+        },
+        {
+          "id": "2026-03-28-6e330b5f",
+          "title": "Le Sénégal présente le trophée de la CAN au Stade de France, devant la diaspora rassemblée pour célébrer les « seuls champions d’Afrique »",
+          "description": "Samedi, les Lions de la Teranga ont battu le Pérou (2-0) lors d’un match amical, à Saint-Denis. Les supporteurs ont fêté le sacre des Lions de la Teranga lors de la Coupe d’Afrique des nations, alors même qu’une décision les a déclarés « forfait ».",
+          "url": "https://www.lemonde.fr/afrique/article/2026/03/28/football-au-stade-de-france-la-diaspora-senegalaise-a-celebre-les-seuls-champions-d-afrique_6675090_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-28T19:18:01.000Z",
+          "fetchedAt": "2026-03-29T06:17:38.783Z"
+        },
+        {
+          "id": "2026-03-28-0b96d0a5",
+          "title": "Au Stade de France, le Sénégal a bel et bien brandi sa Coupe d'Afrique devant 80 000 supporters",
+          "description": "Devant près de 80 000 spectateurs réunis au Stade de France de Saint-Denis pour un match amical contre le Pérou, la sélection sénégalaise a présenté, samedi 28 mars, le trophée de la CAN à sa diaspora, en dépit de l'invalidation du titre par la CAF et des menaces juridiques marocaines. Les Lions n'avaient que la fête en tête.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260328-au-stade-de-france-le-s%C3%A9n%C3%A9gal-a-bel-et-bien-brandi-sa-coupe-d-afrique-devant-80-000-supporters",
+          "imageUrl": "https://s.rfi.fr/media/display/875bdd24-2ac1-11f1-b2ce-005056a97e36/w:1024/p:16x9/SENEGAL-FOOTBALL-TROPHEE-CAN.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-28T05:05:51.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.823Z"
-        },
+          "publishedAt": "2026-03-28T16:24:38.000Z",
+          "fetchedAt": "2026-03-29T06:17:49.435Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-23",
+      "topic": "“Vous allez nous laisser seuls avec Mojtaba ?” : les Iraniens se sentent lâchés ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
         {
-          "id": "2026-03-28-983f2dad",
-          "title": "Pourquoi le sud du Liban est-il une zone de guerre depuis des décennies ? Comprendre en trois minutes",
-          "description": "Depuis l’indépendance du Liban en 1943 et la création d’Israël en 1948, le sud du pays a été le terrain de nombreuses confrontations entre l’Etat hébreu et différents acteurs.",
-          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/03/28/pourquoi-le-sud-du-liban-est-il-une-zone-de-guerre-depuis-des-decennies-comprendre-en-trois-minutes_6674850_6176282.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-03-29-f5b57ef0",
+          "title": "“Vous allez nous laisser seuls avec Mojtaba ?” : les Iraniens se sentent lâchés par Trump",
+          "description": "Le président américain a encore repoussé son ultimatum pour tenter d’arracher un “deal” avec le régime iranien. Ce qui fait redouter la fin de la guerre à des opposants sur place. Et avec elle, un pouvoir qui risque de devenir “encore plus tyrannique et brutal”, raconte l’auteur irano-américain Arash Azizi dans une chronique pour le magazine “The Atlantic”.",
+          "url": "https://www.courrierinternational.com/article/temoignages-vous-allez-nous-laisser-seuls-avec-mojtaba-les-iraniens-se-sentent-laches-par-trump_242261",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/27/33/0/2000/1333/1200/630/60/0/0834beb_upload-1-qhapvva2ds9l-bleibel-2022-09-22-9240-web.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-28T05:00:17.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.085Z"
+          "publishedAt": "2026-03-29T03:00:09.000Z",
+          "fetchedAt": "2026-03-29T06:17:39.457Z"
         },
         {
-          "id": "2026-03-28-738efaaf",
-          "title": "EN DIRECT, guerre en Iran : Israël dit avoir détecté un tir de missile depuis le Yémen vers son territoire, une première en un mois de guerre",
-          "description": "Par ailleurs, 12 soldats américains ont été blessés, dont deux grièvement, après qu’un missile iranien a frappé, vendredi, une base aérienne en Arabie saoudite, ont rapporté le « New York Times » et le « Wall Street Journal ». L’attaque a aussi endommagé plusieurs avions ravitailleurs américains.",
-          "url": "https://www.lemonde.fr/international/live/2026/03/28/en-direct-guerre-en-iran-israel-dit-avoir-detecte-un-tir-de-missile-depuis-le-yemen-vers-son-territoire-une-premiere-en-un-mois-de-guerre_6674837_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-03-28-140c651f",
+          "title": "Pour s’opposer à Trump, l’Europe doit-elle boycotter la Coupe du monde de football ?",
+          "description": "Le football est l’un des rares domaines où l’Europe a davantage d’influence que les États-Unis. À trois mois de la Coupe du monde masculine aux États-Unis, au Canada et au Mexique, le Vieux Continent doit-il utiliser cet avantage pour répondre aux menaces de l’administration Trump ? La rédaction de l’hebdomadaire allemand “Die Zeit” est divisée.",
+          "url": "https://www.courrierinternational.com/article/controverse-pour-s-opposer-a-trump-l-europe-doit-elle-boycotter-la-coupe-du-monde-de-football_241294",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/12/42/49/4004/2669/1200/630/60/0/948e3cb_upload-1-eeezoh0qymez-303905.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-28T04:22:21.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.085Z"
+          "publishedAt": "2026-03-28T14:40:30.000Z",
+          "fetchedAt": "2026-03-29T06:17:39.457Z"
         },
         {
-          "id": "2026-03-28-3ac87117",
-          "title": "Tiger Woods charged with driving under influence after crash",
-          "description": "The 15-time major champion faces charges of driving under the influence after rolling his car in Florida.",
-          "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e586/live/81add310-2a57-11f1-934f-036468834728.jpg",
+          "id": "2026-03-27-9471d948",
+          "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
+          "description": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
+          "url": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/228b/live/07f22eb0-29ce-11f1-a2b6-c773a772cff9.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-03-28T01:00:35.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.968Z"
-        },
-        {
-          "id": "2026-03-28-d42eee65",
-          "title": "Guerre en Iran : nouvelles frappes israéliennes sur Téhéran ; un mort en Israël après des tirs de missiles de l’Iran. Suivez les informations du 21 au 27 mars",
-          "description": "D’après le « Wall Street Journal », qui cite des responsables américains et saoudiens, 12 soldats américains ont été blessés, dont deux grièvement, après qu’un missile iranien a frappé, vendredi, une base aérienne en Arabie saoudite. L’attaque a aussi endommagé plusieurs avions ravitailleurs américains.",
-          "url": "https://www.lemonde.fr/international/live/2026/03/28/en-direct-guerre-en-iran-nouvelles-frappes-israeliennes-sur-teheran-un-mort-en-israel-apres-des-tirs-de-missiles-depuis-l-iran_6673056_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-28T00:59:12.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.085Z"
-        },
-        {
-          "id": "2026-03-27-f4a1f1c5",
-          "title": "Tiger Woods arrêté pour « conduite sous influence » après un accident de la route en Floride",
-          "description": "Le golfeur américain tentait de revenir à la compétition après une rupture d’un tendon d’Achille en mars 2025 et une opération du dos en octobre. L’ancien numéro 1 mondial n’a plus disputé de compétitions depuis juillet 2024.",
-          "url": "https://www.lemonde.fr/international/article/2026/03/27/tiger-woods-arrete-pour-conduite-sous-influence-apres-un-accident-de-la-route-en-floride_6674694_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-27T21:28:23.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.085Z"
+          "publishedAt": "2026-03-27T13:17:22.000Z",
+          "fetchedAt": "2026-03-29T06:17:49.462Z"
         }
       ]
     },
     {
-      "id": "cluster-15",
-      "topic": "À Paris, la “seconde vie” de Matisse se savoure, gorgée de couleurs et de libert",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-03-28-6c175faa",
-          "title": "À Paris, la “seconde vie” de Matisse se savoure, gorgée de couleurs et de liberté",
-          "description": "C’est l’une des expositions à voir ce printemps dans la capitale française. “Matisse : 1941-1954” rassemble 300 œuvres venues du monde entier pour célébrer un artiste qui n’a cessé de gagner en créativité et en audace avec l’âge. La critique canadienne Emily LaBarge lui consacre un article enthousiaste dans “The New York Times”.",
-          "url": "https://www.courrierinternational.com/article/exposition-a-paris-la-seconde-vie-de-matisse-se-savoure-gorgee-de-couleurs-et-de-liberte_242194",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/26/90/0/823/548/1200/630/60/0/1081ff4_upload-1-471n3f0rtn7l-matisse-acanthes.png",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-28T04:00:12.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.115Z"
-        },
-        {
-          "id": "2026-03-27-df92f8e2",
-          "title": "Barrot déplore que son homologue russe Lavrov ait pu \"dérouler sa propagande\" sur France 2",
-          "description": "Diffusée au 20 h de France 2, l’interview du chef de la diplomatie russe Sergueï Lavrov par Léa Salamé a déclenché une vague de critiques en France et en Ukraine. Le ministre des Affaires étrangères français Jean-Noël Barrot déplore des \"mensonges à heure de grande écoute\".",
-          "url": "https://www.france24.com/fr/europe/20260327-barrot-d%C3%A9plore-homologue-russe-lavrov-ait-pu-d%C3%A9rouler-sa-propagande-france2-l%C3%A9a-salam%C3%A9",
-          "imageUrl": "https://s.france24.com/media/display/10a2d7c0-2a06-11f1-a101-005056a90284/w:1024/p:16x9/2026-03-27T153306Z-215598946-RC23DKASNZC0-RTRMADP-3-G7-FOREIGN.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-27T20:24:20.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.145Z"
-        },
-        {
-          "id": "2026-03-27-1498ce33",
-          "title": "France: le chanteur Gims mis en examen pour «blanchiment aggravé»",
-          "description": "Le chanteur Gims a été mis en examen vendredi 27 mars notamment pour blanchiment aggravé, a indiqué le parquet national anticriminalité organisée. La mégastar a été remise en liberté à l'issue de sa mise en examen et placée sous contrôle judiciaire, avec « l'obligation de verser un cautionnement » dont le montant n'a pas été précisé.",
-          "url": "https://www.rfi.fr/fr/france/20260327-france-le-chanteur-gims-mis-en-examen-pour-blanchiment-aggrav%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/3315777c-13cc-11f1-a7fa-005056a97e36/w:1024/p:16x9/gims-3.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-27T19:44:49.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.823Z"
-        },
-        {
-          "id": "2026-03-27-5430cf28",
-          "title": "Massacre de Thiaroye: l'État français condamné pour avoir dissimulé les circonstances du décès d'un tirailleur africain",
-          "description": "C'est une décision historique du tribunal administratif de Paris ce vendredi 27 mars. Plus de 80 ans après le bain de sang de Thiaroye, la justice française a condamné l'État pour avoir dissimulé les circonstances de ce massacre par l'armée coloniale de tirailleurs africains, qui réclamaient leur solde après avoir combattu pour la France.",
-          "url": "https://www.rfi.fr/fr/france/20260327-massacre-de-thiaroye-l-%C3%A9tat-fran%C3%A7ais-condamn%C3%A9-pour-avoir-dissimul%C3%A9-les-circonstances-du-d%C3%A9c%C3%A8s-d-un-tirailleur-africain",
-          "imageUrl": "https://s.rfi.fr/media/display/1b730862-357b-11f0-b82e-005056bfb2b6/w:1024/p:16x9/000_36ND3GD.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-27T18:59:42.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.823Z"
-        },
-        {
-          "id": "2026-03-27-82c5982f",
-          "title": "Massacre de Thiaroye en 1944 : l’Etat français condamné pour avoir dissimulé les circonstances de la mort d’un tirailleur africain",
-          "description": "Le tribunal administratif de Paris avait été saisi par le fils d’un des tirailleurs qui, après avoir servi la France au cours de la seconde guerre mondiale, a été tué par l’armée française en même temps que d’autres qui réclamaient le paiement de leur solde.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/03/27/massacre-de-thiaroye-en-1944-l-etat-francais-condamne-pour-avoir-dissimule-les-circonstances-de-la-mort-d-un-tirailleur-africain_6674663_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-27T16:33:49.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.085Z"
-        },
-        {
-          "id": "2026-03-27-3b05b397",
-          "title": "G7 en France : appel commun \"à un arrêt immédiat\" des attaques visant les civils au Moyen-Orient",
-          "description": "Les ministres des Affaires étrangères du G7, réunis en France, lancent un appel commun « à un arrêt immédiat » des attaques visant les populations et infrastructures civiles au Moyen-Orient. Retour sur la conférence de presse tenue par Jean-Noël Barrot avec Anne Corpet, chroniqueuse internationale, et Jonathan Walsh, reporter France 24 sur place.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260327-g7-en-france-appel-commun-%C3%A0-un-arr%C3%AAt-imm%C3%A9diat-des-attaques-visant-les-civils-au-moyen-orient",
-          "imageUrl": "https://s.france24.com/media/display/a7d7f340-29f8-11f1-9474-005056a97e36/w:1024/p:16x9/FR-20260327-164249-164944-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-27T16:33:28.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.145Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-19",
-      "topic": "Dans un nouvel accès de “mégalomanie”, Trump va signer les billets de banque amé",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-03-28-b6a60e09",
-          "title": "Dans un nouvel accès de “mégalomanie”, Trump va signer les billets de banque américains",
-          "description": "La signature de Donald Trump figurera sur tous les billets de banque américains. Une première pour un président en exercice et une nouvelle preuve de la “mégalomanie” du milliardaire, selon la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/politique-dans-un-nouvel-acces-de-megalomanie-trump-va-signer-les-billets-de-banque-americains_242323",
-          "imageUrl": "https://focus.courrierinternational.com/2025/05/13/35/0/5500/3666/1200/630/60/0/f182e96_ftp-import-images-1-ox0hoehwyu3t-2025-05-13t090248z-442967767-rc21eca7sn9v-rtrmadp-3-usa-court-trump-birthright.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-28T00:58:22.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.115Z"
-        },
-        {
-          "id": "2026-03-27-582eb9dc",
-          "title": "Les États-Unis se donnent \"deux semaines\" pour atteindre leurs objectifs en Iran, assure Rubio",
-          "description": "Le chef de la diplomatie américaine a estimé que Washington souhaitait atteindre ses objectifs militaires dans les \"deux semaines\", alors que les ministres du G7 se réunissaient en périphérie de Paris.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260327-%C3%A9tats-unis-se-donnent-deux-semaines-pour-atteindre-objectifs-en-iran-assure-rubio",
-          "imageUrl": "https://s.france24.com/media/display/0c2fac1a-2a22-11f1-93ec-005056a90284/w:1024/p:16x9/000-A4Y868P.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-27T22:02:55.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.145Z"
-        },
-        {
-          "id": "2026-03-27-4fa65631",
-          "title": "Bras de fer commercial: la Chine lance deux enquêtes visant directement les États-Unis",
-          "description": "Pékin riposte aux offensives commerciales américaines en ouvrant, ce vendredi 27 mars, des investigations ciblées, dans un contexte de tensions croissantes entre les deux premières puissances mondiales.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260327-bras-de-fer-commercial-la-chine-lance-deux-enqu%C3%AAtes-visant-directement-les-%C3%A9tats-unis",
-          "imageUrl": "https://s.rfi.fr/media/display/a471d846-2a08-11f1-93cc-005056bfb2b6/w:1024/p:16x9/AP26065305126885.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-27T19:05:37.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.823Z"
-        },
-        {
-          "id": "2026-03-27-451d522f",
-          "title": "La responsabilité des États-Unis en matière de dégâts climatiques est colossale",
-          "description": "Une étude a quantifié les dommages causés depuis 1990 par les États-Unis, principal émetteur de gaz à effet de serre de l’histoire, par rapport à la croissance économique mondiale.",
-          "url": "https://www.courrierinternational.com/article/le-chiffre-du-jour-la-responsabilite-des-etats-unis-en-matiere-de-degats-climatiques-est-colossale_242285",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/27/0/2/1095/730/1200/630/60/0/fa4b306_upload-1-f7ztaohq68ic-10000milliards.png",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-27T16:59:57.000Z",
-          "fetchedAt": "2026-03-28T06:10:13.115Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "Une affaire de « deepfakes » pornographiques concernant l’acteur Christian Ulmen",
+      "id": "cluster-2",
+      "topic": "L’IA met les musiciens au défi de faire mieux qu’elle",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-03-27-a1881fd4",
-          "title": "Une affaire de « deepfakes » pornographiques concernant l’acteur Christian Ulmen et son ex-femme secoue l’Allemagne",
-          "description": "L’acteur et animateur de télévision allemand Christian Ulmen est visé par une enquête pour harcèlement, après une plainte de son ex-femme, l’actrice Collien Fernandes. Elle l’accuse d’avoir créé et diffusé des fausses vidéos pornographiques d’elle.",
-          "url": "https://www.lemonde.fr/societe/article/2026/03/27/une-affaire-de-deepfakes-pornographiques-concernant-l-acteur-christian-ulmen-et-son-ex-femme-secoue-l-allemagne_6674691_3224.html",
+          "id": "2026-03-29-aacb6375",
+          "title": "L’IA met les musiciens au défi de faire mieux qu’elle",
+          "description": "L’intelligence artificielle gagne de plus en plus de terrain dans les studios d’enregistrement. Gain de temps, source d’inspiration et dépassement de soi : les artistes, intéressés mais prudents, cherchent à s’approprier cet outil à double tranchant.",
+          "url": "https://www.lemonde.fr/culture/article/2026/03/29/l-ia-met-les-musiciens-au-defi-de-faire-mieux-qu-elle_6675202_3246.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-03-27T20:45:23.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.890Z"
-        },
-        {
-          "id": "2026-03-27-5821fec8",
-          "title": "Artémis II : que se passe-t-il s’il y a un pépin juste avant le décollage de la fusée SLS ?",
-          "description": "La NASA fait son possible pour que la mission Artémis II puisse avoir lieu dans la nuit du 1ᵉʳ au 2 avril 2026, mais un souci peut toujours advenir pendant les derniers instants du compte à rebours. L'agence spatiale américaine dispose cependant de plusieurs options qui lui laissent des marges de manœuvre.",
-          "url": "https://www.numerama.com/sciences/2220625-artemis-ii-que-se-passe-t-il-sil-y-a-un-pepin-juste-avant-le-decollage-de-la-fusee-sls.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/02/artemis-ii-sls.jpg?resize=1600,900&key=82dec407&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-27T17:00:03.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.869Z"
-        },
-        {
-          "id": "2026-03-27-84ea0ddf",
-          "title": "Le réalisateur de It Follows revient avec un film de SF horrifique, et le premier trailer est troublant",
-          "description": "Entre banlieue chic et apocalypse préhistorique, le mystérieux projet produit par J.J. Abrams se dévoile enfin. Porté par un duo inédit, Anne Hathaway et Ewan McGregor, The End of Oak Street s'annonce comme l'expérience cinématographique la plus intrigante de l'été 2026. Le voyage vers l'inconnu commence le 14 août.",
-          "url": "https://www.numerama.com/pop-culture/2220065-le-realisateur-de-it-follows-revient-avec-un-film-de-sf-horrifique-et-le-premier-trailer-est-troublant.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/end-of-oak-street-anne-hathaway-2.jpg?resize=1600,900&key=beff1545&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-27T13:42:43.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.869Z"
-        },
-        {
-          "id": "2026-03-27-e6fb23ea",
-          "title": "Interdiction des réseaux sociaux aux adolescents : une idée qui fait son chemin, en Europe et ailleurs",
-          "description": "Alors que le Sénat doit examiner, mardi, une proposition de loi interdisant les réseaux sociaux aux moins de 15 ans, certains pays, comme l’Australie et l’Indonésie, ont déjà sauté le pas. D’autres devraient suivre le mouvement, notamment en Europe.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/03/27/interdiction-des-reseaux-sociaux-aux-adolescents-une-idee-qui-fait-son-chemin-en-europe-et-ailleurs_6674557_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-03-27T13:00:19.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.890Z"
-        },
-        {
-          "id": "2026-03-27-50033c30",
-          "title": "Yann Le Cun, l’ancien ingénieur de Meta, à contre-pied de la Silicon Valley",
-          "description": "« Les gourous de l’IA » (3/12). Le Français, qui a lancé sa start-up AMI après douze ans chez Meta comme directeur de l’intelligence artificielle, prédit une « troisième révolution » de l’IA, avec des systèmes capables de comprendre et d’anticiper le monde réel.",
-          "url": "https://www.lemonde.fr/economie/article/2026/03/27/yann-le-cun-l-ancien-ingenieur-de-meta-a-contre-pied-de-la-silicon-valley_6674554_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-03-27T13:00:08.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.890Z"
-        },
-        {
-          "id": "2026-03-27-77f04eb8",
-          "title": "Comment un patient paralysé a pu jouer à World of Warcraft par la pensée",
-          "description": "Cent jours après avoir reçu l'implant cérébral de Neuralink, un vétéran britannique tétraplégique raconte comment il a retrouvé son autonomie numérique. Sa plus belle victoire ? Jouer à World of Warcraft par la simple force de la pensée. Un témoignage fascinant où la science-fiction devient réalité.",
-          "url": "https://www.numerama.com/sciences/2218799-comment-un-patient-paralyse-a-pu-jouer-a-world-of-warcraft-par-la-pensee.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2023/11/capture-decran-2023-11-07-a-15-00-03.jpg?resize=1600,900&key=739735b2&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-27T09:52:14.000Z",
-          "fetchedAt": "2026-03-28T06:10:22.869Z"
+          "publishedAt": "2026-03-29T04:00:09.000Z",
+          "fetchedAt": "2026-03-29T06:17:49.512Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Alexandre Péraud, chercheur : « Littérature et économie prétendent toutes deux p",
+      "id": "cluster-1",
+      "topic": "'Cost to supply potatoes has risen 40%' ",
       "category": "eco",
-      "importance": 8,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-03-28-e1434955",
-          "title": "Alexandre Péraud, chercheur : « Littérature et économie prétendent toutes deux proposer une représentation du monde et des scénarios possibles »",
-          "description": "Le thème de la dette est commun à de très nombreux romans au XIXᵉ siècle. Partant de ce constat, le professeur de littérature, montre, dans un entretien au « Monde », comment l’essor du roman, genre dominant de la littérature, a accompagné celui du capitalisme financier.",
-          "url": "https://www.lemonde.fr/idees/article/2026/03/28/alexandre-peraud-chercheur-litterature-et-economie-pretendent-toutes-deux-proposer-une-representation-du-monde-et-des-scenarios-possibles_6674840_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-03-29-1caa6d53",
+          "title": "'Cost to supply potatoes has risen 40%' ",
+          "description": "A Staffordshire farmer says the industry will struggle to absorb rising costs.",
+          "url": "https://www.bbc.com/news/articles/c8957234108o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5a60/live/3eb16270-2aac-11f1-a0a3-89526fc96a3b.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-03-28T04:30:15.000Z",
-          "fetchedAt": "2026-03-28T06:10:29.686Z"
-        },
-        {
-          "id": "2026-03-27-a6c182bf",
-          "title": "Nouvelle-Calédonie : Air Calédonie engage une procédure collective, après un mois de blocage de plusieurs aérodromes",
-          "description": "Entreprise vitale pour la continuité territoriale de l’archipel, la compagnie aérienne traverse depuis plusieurs années de graves difficultés.",
-          "url": "https://www.lemonde.fr/economie/article/2026/03/27/nouvelle-caledonie-air-caledonie-engage-une-procedure-collective-apres-un-mois-de-blocage-de-plusieurs-aerodromes_6674647_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-03-27T15:33:53.000Z",
-          "fetchedAt": "2026-03-28T06:10:29.686Z"
+          "publishedAt": "2026-03-29T06:08:25.000Z",
+          "fetchedAt": "2026-03-29T06:18:00.682Z"
         }
       ]
     }
