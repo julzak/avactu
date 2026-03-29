@@ -434,7 +434,7 @@ IMPORTANT : Réponds UNIQUEMENT avec le JSON.`;
 async function synthesizeFromPool(
   client: Anthropic,
   articles: RawArticle[],
-  category: 'tech' | 'eco',
+  category: 'geopolitique' | 'tech' | 'eco',
   storyIndex: number,
   recentTitles: string[] = []
 ): Promise<Story | null> {
@@ -617,22 +617,34 @@ async function synthesize(): Promise<void> {
   // Initialize Anthropic client
   const client = new Anthropic();
 
-  // Synthesize stories
+  // Synthesize stories — flexible allocation, clusters drive the edition
   const stories: Story[] = [];
+  const usedImageUrls = new Set<string>(); // Track used images to prevent duplicates
   let storyIndex = 0;
 
-  // 1. Synthesize géopo clusters (traditional clustering)
-  const geopoClusters = clusteredData.clusters.filter(c => c.category === 'geopolitique');
-  console.log(`\n🌍 Géopolitique: ${geopoClusters.length} clusters`);
+  const TARGET_STORIES = 5;
 
-  for (const cluster of geopoClusters) {
-    if (stories.filter(s => s.category === 'geopolitique').length >= 3) break;
+  // 1. Synthesize all clusters from cluster.ts (already ranked by importance, max 3/category)
+  console.log(`\n📝 Synthèse de ${clusteredData.clusters.length} clusters...`);
+
+  for (const cluster of clusteredData.clusters) {
+    if (stories.length >= TARGET_STORIES) break;
+
     const sourcesList = [...new Set(cluster.articles.map((a) => a.source))].join(', ');
-    console.log(`📝 Synthèse géopo ${storyIndex + 1}: ${cluster.topic.slice(0, 60)}`);
+    console.log(`\n📝 Story ${storyIndex + 1} [${cluster.category}]: ${cluster.topic.slice(0, 60)}`);
     console.log(`   Sources: ${sourcesList} (${cluster.articles.length} articles)`);
 
     const story = await synthesizeStory(client, cluster, storyIndex);
     if (story) {
+      // Deduplicate images: if this image was already used, try fallback
+      if (usedImageUrls.has(story.imageUrl) && !story.imageUrl.includes('unsplash.com')) {
+        console.warn(`   ⚠ Image déjà utilisée, recherche alternative...`);
+        const altImage = cluster.articles
+          .filter((a) => a.imageUrl && isValidEditorialImage(a.imageUrl) && !usedImageUrls.has(a.imageUrl!))
+          .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+        story.imageUrl = altImage[0]?.imageUrl || 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
+      }
+      usedImageUrls.add(story.imageUrl);
       stories.push(story);
       console.log(`   ✓ "${story.title}" → ${story.sources.length} sources`);
       storyIndex++;
@@ -640,148 +652,36 @@ async function synthesize(): Promise<void> {
     await new Promise((resolve) => setTimeout(resolve, 1500));
   }
 
-  // If géopo clusters didn't produce enough stories, use pool-based fallback
-  const geopoCount = stories.filter(s => s.category === 'geopolitique').length;
-  if (geopoCount < 3) {
-    const geopoArticles = rawArticles.filter((a: RawArticle) => a.category === 'geopolitique');
-    const needed = 3 - geopoCount;
-    console.log(`\n🌍 Géopo fallback: ${needed} story(ies) manquante(s), pool de ${geopoArticles.length} articles`);
+  // 2. If clusters didn't fill all slots, use pool-based synthesis for remaining
+  if (stories.length < TARGET_STORIES) {
+    // Identify which categories have room for more stories
+    const categoriesWithArticles: ('geopolitique' | 'tech' | 'eco')[] = ['geopolitique', 'tech', 'eco'];
 
-    // Sort by recency, take top 40 most recent
-    const recentGeopo = geopoArticles
-      .sort((a: RawArticle, b: RawArticle) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
-      .slice(0, 40);
+    for (const category of categoriesWithArticles) {
+      if (stories.length >= TARGET_STORIES) break;
 
-    // Collect already-covered topics to exclude
-    const coveredTopics = stories.map(s => s.title).join(', ');
+      const catArticles = rawArticles.filter((a: RawArticle) => a.category === category);
+      if (catArticles.length === 0) continue;
 
-    const geopoPoolPrompt = POOL_SYSTEM_PROMPT
-      .replace(/%CATEGORY%/g, 'geopolitique')
-      + (coveredTopics ? `\n\nSUJETS DÉJÀ COUVERTS (ne PAS les reprendre) : ${coveredTopics}` : '');
+      const recentTitles = await fetchRecentStoryTitles(category, 7);
+      // Also exclude titles already in this edition
+      const editionTitles = stories.map(s => s.title);
+      const allExcludedTitles = [...recentTitles, ...editionTitles];
 
-    for (let i = 0; i < needed; i++) {
-      const excludeTopics = stories.filter(s => s.category === 'geopolitique').map(s => s.title);
-      const excludeStr = excludeTopics.length > 0
-        ? `\n\nATTENTION — SUJETS DÉJÀ COUVERTS (tu DOIS choisir un sujet COMPLÈTEMENT DIFFÉRENT, pas une variante du même conflit/événement) :\n${excludeTopics.map(t => `- ${t}`).join('\n')}`
-        : '';
+      console.log(`\n🔄 Pool fallback [${category}]: ${catArticles.length} articles`);
 
-      const articlesDetail = recentGeopo
-        .map((a: RawArticle, idx: number) => `ARTICLE ${idx + 1} (${a.source}) :\nTitre: ${a.title}\nDescription: ${a.description}\nURL: ${a.url}`)
-        .join('\n---\n');
-
-      const sources = [...new Set(recentGeopo.map((a: RawArticle) => a.source))];
-
-      try {
-        const response = await withRetry(
-          () => client.messages.create({
-            model: 'claude-sonnet-4-6',
-            max_tokens: 2048,
-            system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
-            messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.
-Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.${excludeStr}
-
-${articlesDetail}` }],
-          }),
-          { label: 'synthesize geopo fallback' }
-        );
-
-        const content = response.content[0];
-        if (content.type !== 'text') continue;
-
-        let jsonText = content.text.trim();
-        if (jsonText.startsWith('```json')) jsonText = jsonText.slice(7);
-        else if (jsonText.startsWith('```')) jsonText = jsonText.slice(3);
-        if (jsonText.endsWith('```')) jsonText = jsonText.slice(0, -3);
-        jsonText = jsonText.trim();
-
-        const storyData = JSON.parse(jsonText);
-        if (storyData.category === 'hors_sujet') {
-          console.log(`   ⊘ Rejeté: ${storyData.reason || 'hors scope'}`);
-          continue;
+      const poolStory = await synthesizeFromPool(client, catArticles, category, storyIndex, allExcludedTitles);
+      if (poolStory) {
+        // Deduplicate images
+        if (usedImageUrls.has(poolStory.imageUrl) && !poolStory.imageUrl.includes('unsplash.com')) {
+          poolStory.imageUrl = 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
         }
-
-        const today = new Date().toISOString().split('T')[0];
-        const id = `${today}-${String(storyIndex + 1).padStart(2, '0')}`;
-        const usedSources = storyData.usedSources || sources;
-
-        // Use Claude's image choice with validation fallback
-        let imageUrl = 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800';
-        const pickedIdx = storyData.bestImageArticle;
-        if (pickedIdx && pickedIdx >= 1 && pickedIdx <= recentGeopo.length) {
-          const picked = recentGeopo[pickedIdx - 1];
-          if (picked.imageUrl && isValidEditorialImage(picked.imageUrl)) {
-            imageUrl = picked.imageUrl;
-          }
-        }
-        if (imageUrl.includes('unsplash.com')) {
-          const fallback = recentGeopo
-            .filter((a: RawArticle) => a.imageUrl && isValidEditorialImage(a.imageUrl))
-            .sort((a: RawArticle, b: RawArticle) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
-          if (fallback.length > 0) imageUrl = fallback[0].imageUrl!;
-        }
-        const mostRecent = recentGeopo.reduce((latest: RawArticle, article: RawArticle) =>
-          new Date(article.publishedAt) > new Date(latest.publishedAt) ? article : latest
-        );
-
-        const story: Story = {
-          id,
-          category: 'geopolitique',
-          title: storyData.title,
-          imageUrl,
-          location: storyData.location,
-          bullets: storyData.bullets,
-          execSummary: storyData.execSummary,
-          sources: usedSources,
-          publishedAt: mostRecent.publishedAt,
-        };
-
-        stories.push(story);
-        console.log(`   ✓ "${story.title}" → ${story.sources.length} sources`);
+        usedImageUrls.add(poolStory.imageUrl);
+        stories.push(poolStory);
+        console.log(`   ✓ "${poolStory.title}" → ${poolStory.sources.length} sources`);
         storyIndex++;
-      } catch (error) {
-        console.error(`   ✗ Erreur: ${error instanceof Error ? error.message : error}`);
       }
-
-      if (i < needed - 1) await new Promise((resolve) => setTimeout(resolve, 1500));
-    }
-  }
-
-  // 2. Synthesize tech from full article pool (with diversity)
-  const techArticles = rawArticles.filter(a => a.category === 'tech');
-  console.log(`\n💻 Tech: ${techArticles.length} articles dans le pool`);
-  if (techArticles.length > 0) {
-    const recentTechTitles = await fetchRecentStoryTitles('tech', 7);
-    if (recentTechTitles.length > 0) {
-      console.log(`   📋 ${recentTechTitles.length} titres tech récents chargés pour diversité`);
-    }
-    const techStory = await synthesizeFromPool(client, techArticles, 'tech', storyIndex, recentTechTitles);
-    if (techStory) {
-      stories.push(techStory);
-      console.log(`   ✓ "${techStory.title}" → ${techStory.sources.length} sources`);
-      storyIndex++;
-    }
-    await new Promise((resolve) => setTimeout(resolve, 1500));
-  }
-
-  // 3. Synthesize eco from full article pool (with diversity from recent editions)
-  const ecoArticles = rawArticles.filter(a => a.category === 'eco');
-  console.log(`\n💰 Éco: ${ecoArticles.length} articles dans le pool`);
-  if (ecoArticles.length > 0) {
-    const recentEcoTitles = await fetchRecentStoryTitles('eco', 7);
-    if (recentEcoTitles.length > 0) {
-      console.log(`   📋 ${recentEcoTitles.length} titres éco récents chargés pour diversité`);
-    }
-    let ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, recentEcoTitles);
-    // Retry once if rejected by similarity guard
-    if (!ecoStory && recentEcoTitles.length > 0) {
-      console.log(`   🔁 Retry synthèse éco avec contrainte renforcée...`);
       await new Promise((resolve) => setTimeout(resolve, 1500));
-      ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, recentEcoTitles);
-    }
-    if (ecoStory) {
-      stories.push(ecoStory);
-      console.log(`   ✓ "${ecoStory.title}" → ${ecoStory.sources.length} sources`);
-      storyIndex++;
     }
   }
 

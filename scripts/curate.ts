@@ -64,7 +64,7 @@ const scraper = metascraper([
 ]);
 
 // Constants
-const HOURS_48 = 48 * 60 * 60 * 1000;
+const HOURS_24 = 24 * 60 * 60 * 1000;
 const CONFIG_PATH = join(__dirname, '..', 'config', 'sources.json');
 const OUTPUT_PATH = join(__dirname, '..', 'data', 'raw-articles.json');
 
@@ -80,14 +80,14 @@ function loadSources(): Source[] {
 /**
  * Check if article is within the last 48 hours
  */
-function isWithin48Hours(dateString: string | undefined): boolean {
+function isWithin24Hours(dateString: string | undefined): boolean {
   if (!dateString) return false;
 
   const articleDate = new Date(dateString);
   const now = new Date();
   const diff = now.getTime() - articleDate.getTime();
 
-  return diff <= HOURS_48 && diff >= 0;
+  return diff <= HOURS_24 && diff >= 0;
 }
 
 /**
@@ -176,7 +176,7 @@ async function parseFeed(source: Source): Promise<RawArticle[]> {
     for (const item of feed.items || []) {
       // Check if article is within 48 hours
       const pubDate = item.pubDate || item.isoDate;
-      if (!isWithin48Hours(pubDate)) {
+      if (!isWithin24Hours(pubDate)) {
         continue;
       }
 
@@ -269,7 +269,7 @@ async function curate(): Promise<void> {
   console.log('🔍 AVACTU - Script de curation');
   console.log('================================');
   console.log(`📅 Date: ${new Date().toLocaleString('fr-FR')}`);
-  console.log(`⏱  Fenêtre: dernières 48 heures\n`);
+  console.log(`⏱  Fenêtre: dernières 24 heures\n`);
 
   // Load sources
   const sources = loadSources();
