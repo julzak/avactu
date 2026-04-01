@@ -1,123 +1,127 @@
 {
-  "date": "2026-03-31T06:48:13.047Z",
+  "date": "2026-04-01T07:00:13.772Z",
   "stories": [
     {
-      "id": "2026-03-31-01",
+      "id": "2026-04-01-01",
       "category": "geopolitique",
-      "title": "Le Mexique menace de protester après un décès en détention ICE",
-      "imageUrl": "https://s.rfi.fr/media/display/ab22605c-2cab-11f1-9929-005056bfb2b6/w:1024/p:16x9/AP26089541251179.jpg",
+      "title": "Israël frappe Téhéran et Beyrouth, veut occuper le sud du Liban",
+      "imageUrl": "https://s.france24.com/media/display/b96854ae-2d92-11f1-823e-005056a90284/w:1024/p:16x9/capture-146307114369ccb8ea047862-79075958.jpg",
       "location": {
-        "lat": 19.4326,
-        "lng": -99.1332,
-        "name": "Mexico, Mexique"
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "Beyrouth, Liban"
       },
       "bullets": [
-        "Un ressortissant mexicain meurt en détention ICE aux États-Unis",
-        "La présidente Sheinbaum annonce des mesures de protestation",
-        "Le Mexique promet d'épuiser toutes les voies légales disponibles",
-        "Les États-Unis n'ont pas encore réagi officiellement",
-        "La tension migratoire entre les deux pays s'aggrave"
+        "L'armée israélienne frappe Téhéran et Beyrouth, sept morts au Liban",
+        "Les tensions s'intensifient au 33e jour de guerre au Moyen-Orient",
+        "Israël annonce vouloir occuper le Sud-Liban après la guerre",
+        "L'Iran et ses alliés multiplient les attaques contre Israël",
+        "L'escalade régionale menace la stabilité du Moyen-Orient"
       ],
-      "execSummary": "Un ressortissant mexicain est décédé alors qu'il était détenu par les services d'immigration américains (ICE), provoquant une crise diplomatique entre le Mexique et les États-Unis. La présidente mexicaine Claudia Sheinbaum a immédiatement réagi en menaçant de prendre des « mesures de protestation » contre Washington. L'incident s'inscrit dans un contexte de tensions croissantes autour des politiques migratoires américaines. La présidente Sheinbaum justifie sa fermeté par la nécessité de protéger les droits de ses concitoyens à l'étranger. Le Mexique considère ce décès comme inacceptable et refuse de laisser passer cet incident sans réaction. Vanessa Calva Ruiz, directrice de la protection consulaire mexicaine aux États-Unis, a confirmé que son pays « épuisera toutes les voies légales, diplomatiques et multilatérales pour demander justice ». Les autorités américaines n'ont pas encore fourni d'explication officielle sur les circonstances du décès. Washington privilégie généralement une approche discrète dans ce type d'affaires, préférant les canaux diplomatiques traditionnels aux déclarations publiques. Les États-Unis pourraient arguer que leurs procédures de détention respectent les standards internationaux. Cet incident risque de compliquer davantage les relations bilatérales déjà tendues par les questions migratoires. La réaction mexicaine pourrait influencer les négociations commerciales en cours et affecter la coopération sécuritaire frontalière. L'opinion publique mexicaine surveille attentivement la capacité de Sheinbaum à défendre les intérêts nationaux face à son puissant voisin du nord.",
+      "execSummary": "L'armée israélienne a mené mercredi une « vague de frappes de grande ampleur » contre des infrastructures iraniennes à Téhéran, selon ses propres déclarations. Simultanément, de nouveaux bombardements israéliens ont tué sept personnes à Beyrouth et sa région, ciblant notamment un haut commandant du Hezbollah. Ces attaques s'inscrivent dans le 33e jour d'une guerre qui s'étend désormais de Gaza au Liban, en passant par l'Iran et le Yémen.\n\nIsraël justifie cette escalade par la nécessité de neutraliser les menaces régionales et annonce clairement ses intentions d'occuper une partie du Sud-Liban une fois le conflit terminé. L'État hébreu présente ces frappes comme des mesures défensives face aux attaques coordonnées de l'Iran et de ses alliés, incluant le Hezbollah libanais et les Houthis yéménites.\n\nL'axe de résistance iranien riposte par des attaques multiples : les Houthis du Yémen revendiquent leur troisième attaque de missiles contre Israël, tandis que l'Iran maintient son soutien aux groupes armés régionaux. Des analystes israéliens, comme l'historien Gershom Gorenberg, dénoncent un « état de guerre permanent » entretenu par Netanyahu pour des raisons politiques personnelles.\n\nCette escalade régionale fait craindre un embrasement généralisé du Moyen-Orient. Les infrastructures énergétiques sont déjà touchées, avec des réservoirs de carburant en flammes à l'aéroport de Koweït. L'administration Trump annonce vouloir retirer les États-Unis de la région « très bientôt », laissant planer l'incertitude sur la désescalade future du conflit.",
+      "sources": [
+        "France 24",
+        "Le Monde - International",
+        "RFI",
+        "Courrier International"
+      ],
+      "publishedAt": "2026-04-01T06:20:49.000Z"
+    },
+    {
+      "id": "2026-04-01-02",
+      "category": "geopolitique",
+      "title": "Crash d'un avion militaire russe : 29 morts après survol de Crimée",
+      "imageUrl": "https://s.rfi.fr/media/display/099f0250-2d4e-11f1-a23e-005056bfb2b6/w:1024/p:16x9/AP26090313573306.jpg",
+      "location": {
+        "lat": 45.3,
+        "lng": 34.4,
+        "name": "Crimée"
+      },
+      "bullets": [
+        "Un avion militaire russe s'écrase, tuant 29 personnes après survol de Crimée",
+        "L'appareil transportait 23 passagers et 6 membres d'équipage selon Moscou",
+        "Le ministère russe privilégie la piste d'une défaillance technique interne",
+        "Les autorités russes écartent officiellement tout impact extérieur sur l'appareil",
+        "L'incident intervient dans un contexte de tensions accrues en zone occupée"
+      ],
+      "execSummary": "Un avion militaire russe s'est écrasé après avoir survolé la Crimée, faisant 29 victimes selon le ministère de la défense russe. L'appareil transportait 23 passagers et 6 membres d'équipage. Le crash s'est produit dans une zone stratégique où la Russie maintient une forte présence militaire depuis l'annexion de la péninsule en 2014. Les autorités russes ont rapidement communiqué sur l'accident, précisant qu'une enquête était en cours pour déterminer les causes exactes de la tragédie. Le ministère de la défense russe affirme qu'aucun signe d'impact extérieur n'a été constaté sur les débris de l'appareil récupérés sur le site du crash. Les premiers éléments de l'enquête orienteraient vers une défaillance technique comme cause principale de l'accident. Cette version officielle écarte implicitement toute hypothèse d'attaque ou d'intervention externe, dans un contexte où la région reste sous surveillance militaire constante. L'accident soulève des questions sur la maintenance et la sécurité des appareils militaires russes opérant dans cette zone sensible. La Crimée reste un enjeu géostratégique majeur du conflit ukrainien, servant de base arrière logistique et militaire pour les forces russes. Cet incident pourrait impacter les opérations aériennes dans la région et relancer les débats sur la sécurité des vols militaires au-dessus des territoires disputés.",
       "sources": [
         "Le Monde - International",
         "RFI"
       ],
-      "publishedAt": "2026-03-31T06:08:35.000Z"
+      "publishedAt": "2026-04-01T05:35:00.000Z"
     },
     {
-      "id": "2026-03-31-02",
+      "id": "2026-04-01-03",
       "category": "geopolitique",
-      "title": "L'Iran recrute des enfants-soldats dès 12 ans",
-      "imageUrl": "https://s.france24.com/media/display/434075fe-2c52-11f1-9532-005056bf30b7/w:1024/p:16x9/AP26088470462585.jpg",
+      "title": "Macron au Japon face à l'imprévisibilité de Trump",
+      "imageUrl": "https://s.france24.com/media/display/309fae7e-2d8d-11f1-ba4a-005056bf30b7/w:1024/p:16x9/adf5089c98dd061dbfd03b355af0bd94a7ccabf3.jpg",
       "location": {
-        "lat": 32.4279,
-        "lng": 53.688,
-        "name": "Iran"
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "Tokyo"
       },
       "bullets": [
-        "Les Gardiens de la révolution lancent une campagne officielle",
-        "Le recrutement vise les enfants dès 12 ans",
-        "Les ONG dénoncent des crimes de guerre",
-        "L'Iran justifie par la « défense de la patrie »",
-        "Le droit international interdit l'utilisation de mineurs"
+        "Le président français achève sa visite officielle au Japon",
+        "Macron vante la « prévisibilité » de l'Europe face à Trump",
+        "Les deux pays renforcent leur coopération économique bilatérale",
+        "L'objectif est de réduire les dépendances aux puissances hégémoniques",
+        "La guerre au Moyen-Orient perturbe l'économie mondiale"
       ],
-      "execSummary": "Les Gardiens de la révolution iraniens ont lancé une campagne officielle de recrutement d'enfants-soldats dès l'âge de 12 ans, justifiée par ce qu'ils appellent la « défense de la patrie ». Cette initiative intervient dans le contexte de la guerre au Moyen-Orient qui oppose l'Iran à Israël et ses alliés depuis plus d'un mois.\n\nCette campagne de recrutement représente une escalade préoccupante dans l'utilisation de mineurs à des fins militaires. Elle s'inscrit dans la stratégie iranienne de mobilisation générale face à l'intensification du conflit régional et aux menaces directes pesant sur le territoire iranien, notamment les frappes israéliennes sur des sites militaires.\n\nLes organisations non gouvernementales ont immédiatement dénoncé cette initiative, rappelant que l'utilisation d'enfants-soldats constitue un crime de guerre selon le droit international humanitaire. Elles alertent sur les risques mortels encourus par ces mineurs dans un contexte de guerre active, où l'Iran fait face à des bombardements réguliers de ses infrastructures militaires et civiles.\n\nCette décision soulève des enjeux majeurs concernant le respect du droit international et la protection de l'enfance en temps de guerre. Elle pourrait également aggraver les tensions diplomatiques avec la communauté internationale et justifier de nouvelles sanctions contre l'Iran, tout en révélant les difficultés militaires que pourrait rencontrer Téhéran face à la coalition menée par Israël.",
-      "sources": [
-        "France 24"
-      ],
-      "publishedAt": "2026-03-31T06:30:47.000Z"
-    },
-    {
-      "id": "2026-03-31-03",
-      "category": "geopolitique",
-      "title": "Israël adopte une loi sur la peine de mort visant les Palestiniens",
-      "imageUrl": "https://focus.courrierinternational.com/2026/03/30/0/0/4813/3208/1200/630/60/0/d700d98_ftp-1-offumopjighs-2026-03-30t201333z-25698780-rc27fka29ypx-rtrmadp-3-israel-palestinians-death-penalty.JPG",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "Jérusalem"
-      },
-      "bullets": [
-        "Le Parlement israélien adopte la peine de mort pour terroristes",
-        "La loi cible spécifiquement les Palestiniens reconnus coupables",
-        "L'Autorité palestinienne dénonce des exécutions extrajudiciaires légitimées",
-        "Le Conseil de l'Europe déplore un grave recul",
-        "L'extrême droite israélienne remporte une victoire politique majeure"
-      ],
-      "execSummary": "Le Parlement israélien a adopté lundi soir une loi instaurant la peine de mort pour les terroristes, conçue pour ne s'appliquer qu'aux Palestiniens reconnus coupables d'attaques anti-israéliennes meurtrières. Cette législation marque un tournant dans l'application de la peine capitale en Israël, qui n'avait exécuté qu'Adolf Eichmann en 1962.\n\nLe texte intervient dans un contexte de guerre au Moyen-Orient et de tensions exacerbées entre Israéliens and Palestiniens. Cette loi constitue une victoire pour l'extrême droite israélienne et représente un durcissement significatif de la politique pénale du pays envers les Palestiniens.\n\nL'Autorité palestinienne a immédiatement condamné cette adoption, dénonçant une tentative de légitimer des exécutions extrajudiciaires. Le Conseil de l'Europe a également exprimé sa désapprobation, qualifiant cette mesure de grave recul en matière de droits humains.\n\nCette législation risque d'aggraver les tensions dans la région et de compliquer davantage les perspectives de paix. Elle suscite des inquiétudes internationales sur le respect du droit international et pourrait avoir des répercussions diplomatiques importantes pour Israël sur la scène mondiale.",
+      "execSummary": "Emmanuel Macron achève sa visite officielle au Japon entamée mardi soir à Tokyo, marquée par des déclarations fortes sur la nécessité de construire une alternative à l'hégémonie américaine et chinoise. Le président français s'est exprimé mercredi matin devant un parterre de chefs d'entreprise et investisseurs japonais dans le cadre d'un forum économique.\n\nDans un contexte international tendu où la guerre au Moyen-Orient perturbe l'économie mondiale, cette visite vise à approfondir les relations franco-japonaises et développer de nouveaux partenariats commerciaux. Macron présente l'Europe comme un pôle de stabilité face à l'imprévisibilité du nouveau mandat de Donald Trump, valorisant la « prévisibilité » européenne comme atout géopolitique et économique.\n\nLe président français a appelé la France et le Japon à renforcer leurs coopérations pour ne plus « dépendre de puissances hégémoniques », visant explicitement les États-Unis et la Chine. Cette stratégie s'inscrit dans une démarche de diversification des partenariats économiques et diplomatiques face aux tensions géopolitiques actuelles.\n\nCette visite illustre la volonté française de repositionner l'Europe sur l'échiquier mondial, en s'appuyant sur des partenaires fiables comme le Japon pour construire une troisième voie entre les blocs américain et chinois. Les enjeux sont considérables dans un monde en recomposition géopolitique accélérée par les conflits actuels.",
       "sources": [
         "France 24",
-        "Courrier International"
+        "RFI"
       ],
-      "publishedAt": "2026-03-31T06:30:47.000Z"
+      "publishedAt": "2026-04-01T06:47:10.000Z"
     },
     {
-      "id": "2026-03-31-04",
+      "id": "2026-04-01-04",
       "category": "tech",
-      "title": "Interdiction réseaux sociaux aux -15 ans arrive au Sénat",
-      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/apple-50.jpg?resize=1600,900&key=58542081&watermark",
+      "title": "Apple fête ses 50 ans : d'un garage californien à géant tech",
+      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/steve-jobs.jpg?resize=1600,900&key=94ce7ade&watermark",
       "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Paris"
+        "lat": 37.3318,
+        "lng": -122.0312,
+        "name": "Cupertino, Californie"
       },
       "bullets": [
-        "La proposition de loi Macron arrive au Sénat",
-        "La majorité sénatoriale propose un système à deux vitesses",
-        "La commission culture distingue deux types de plateformes",
-        "Le Sénat divisé sur l'objectif général du texte",
-        "L'interdiction vise les moins de 15 ans"
+        "Le 1er avril 1976, Steve Jobs et Wozniak fondent Apple",
+        "L'entreprise démarre avec un seul ordinateur fait maison, l'Apple I",
+        "La rencontre improbable entre le visionnaire et le génie technique",
+        "Le duo forme un tandem curieux mais complémentaire",
+        "L'Apple de 2026 génère des centaines de milliards tous les trimestres"
       ],
-      "execSummary": "La proposition de loi voulue par Emmanuel Macron interdisant les réseaux sociaux aux moins de 15 ans arrive dans un Sénat divisé sur la méthode à adopter. Le texte, qui vise à protéger les mineurs des dangers des plateformes numériques, fait face à des divergences d'approche au sein de la Chambre haute.\n\nCette initiative s'inscrit dans un contexte européen où plusieurs pays réfléchissent à encadrer l'accès des mineurs aux réseaux sociaux. La France souhaite ainsi rejoindre les pays pionniers en matière de protection numérique des enfants, face aux préoccupations croissantes concernant l'impact psychologique et social de ces plateformes sur les jeunes.\n\nLa majorité de droite au Sénat ne remet pas en question l'objectif général du texte mais privilégie une approche différenciée. En commission de la culture, les sénateurs ont opté pour un système à deux vitesses qui distingue deux types de plateformes selon leur dangerosité potentielle pour les mineurs.\n\nL'enjeu majeur réside dans l'équilibre entre protection des mineurs et liberté d'accès à l'information. Les débats parlementaires détermineront si la France adoptera une interdiction stricte ou un système plus nuancé, avec des conséquences importantes pour l'industrie numérique et l'éducation aux médias des jeunes Français.",
+      "execSummary": "Le 1er avril 1976, Steve Jobs, Steve Wozniak et Ronald Wayne fondaient Apple Computer Company dans un garage californien, commercialisant alors un seul ordinateur fait maison : l'Apple I. Cette création marquait le début d'une aventure technologique qui allait révolutionner l'informatique personnelle et transformer nos modes de vie. Cinquante ans plus tard, en 2026, Apple célèbre cet anniversaire historique en étant devenu l'une des entreprises les plus valorisées au monde.\n\nL'histoire d'Apple trouve ses racines dans la rencontre improbable entre deux personnalités complémentaires : Steve Jobs, l'ambitieux visionnaire aux talents commerciaux, et Steve Wozniak, le timide génie de l'électronique capable de créer des produits révolutionnaires. Ce duo atypique a su combiner innovation technique et sens du marketing pour créer une marque qui dépasse largement le cadre de la simple technologie. Leur collaboration a posé les bases d'une philosophie d'entreprise centrée sur l'expérience utilisateur et le design.\n\nCette commémoration des 50 ans d'Apple intervient dans un contexte où l'entreprise continue d'innover, notamment avec ses derniers produits comme les AirPods Pro 3 qui intègrent des fonctionnalités d'IA avancées. Les médias tech célèbrent cette étape en retraçant les moments clés qui ont façonné l'histoire de la firme à la pomme, de l'Apple I aux iPhone en passant par les révolutions successives qu'ont représentées le Macintosh et l'iPod.\n\nCet anniversaire symbolise l'évolution spectaculaire d'Apple, passée d'une start-up de garage à un géant technologique générant des centaines de milliards de dollars de revenus chaque trimestre. Cette transformation illustre parfaitement l'impact que peuvent avoir l'innovation et la vision entrepreneuriale sur l'industrie technologique mondiale, faisant d'Apple un cas d'école du succès dans la Silicon Valley.",
       "sources": [
+        "Numerama",
         "Le Monde - Pixels"
       ],
-      "publishedAt": "2026-03-31T06:30:00.000Z"
+      "publishedAt": "2026-04-01T06:50:49.000Z"
     },
     {
-      "id": "2026-03-31-05",
+      "id": "2026-04-01-05",
       "category": "eco",
-      "title": "Crise pétrolière : guerre au Moyen-Orient fait flamber les prix",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "title": "La guerre Iran-Israël fait flamber les prix du pétrole",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/29b0/live/d944dc30-2d23-11f1-a36a-2bc3523bb833.jpg",
       "location": {
         "lat": 26.0667,
         "lng": 50.5577,
         "name": "Golfe Persique"
       },
       "bullets": [
-        "Les prix du pétrole flambent avec l'escalade du conflit iranien",
-        "La fermeture du détroit d'Ormuz menace l'approvisionnement mondial",
-        "Les compagnies aériennes prennent des mesures d'urgence face aux coûts",
-        "La France active le chômage partiel pour soutenir les entreprises",
-        "Les experts craignent une crise pire que celle des années 1970"
+        "Le prix du Brent a bondi de 64% en mars",
+        "La guerre Iran-Israël perturbe les approvisionnements énergétiques mondiaux",
+        "Les compagnies aériennes prennent des mesures d'urgence",
+        "L'essence américaine dépasse 4 dollars pour la première fois",
+        "Les marchés craignent une crise pire qu'en 1970"
       ],
-      "execSummary": "La guerre au Moyen-Orient, entrée dans sa cinquième semaine, provoque une flambée des cours pétroliers qui rappelle la crise des années 1970. L'élargissement du conflit avec l'intervention des rebelles Houthis du Yémen et les menaces sur le détroit d'Ormuz, passage stratégique pour 20% du pétrole mondial, font grimper les prix de l'énergie et inquiètent les marchés asiatiques.\n\nCette crise énergétique survient dans un contexte économique déjà fragile, où les entreprises et les ménages subissent de plein fouet la hausse des coûts. Les secteurs les plus exposés comme l'aviation sont contraints de prendre des mesures d'urgence, à l'image de Korean Air qui annonce des actions drastiques face à l'explosion des prix du carburant.\n\nFace à cette situation, les gouvernements se mobilisent pour limiter l'impact économique. En France, l'État a annoncé la mise en place du chômage partiel pour les entreprises touchées par la baisse d'activité liée au conflit, avec une enveloppe de 70 millions d'euros. Au Royaume-Uni, les dirigeants politiques débattent de mesures d'urgence, entre baisses de taxes et aides directes aux ménages.\n\nLes conséquences de cette crise dépassent le cadre énergétique et menacent la stabilité financière mondiale. Les experts alertent sur les risques d'une crise du crédit privé qui couve depuis des mois et pourrait être précipitée par ce choc pétrolier. L'économie russe, paradoxalement, bénéficie temporairement de cette flambée des prix tout en restant structurellement fragilisée par les sanctions occidentales.",
+      "execSummary": "La guerre entre l'Iran et Israël, entrée dans sa cinquième semaine, provoque une flambée spectaculaire des prix du pétrole. Le Brent livrable en mai a enregistré une hausse record de 64% en mars, atteignant des niveaux proches des plus hauts depuis le début du conflit. Le trafic dans une voie navigable stratégique est presque entièrement interrompu par les combats.\n\nCette crise énergétique rappelle celle des années 1970, mais avec des implications potentiellement plus graves selon les experts. Les marchés asiatiques chutent tandis que les prix de l'énergie s'envolent, créant un cercle vicieux d'inflation et de récession économique. L'extension du conflit avec l'entrée des rebelles Houthis du Yémen, soutenus par l'Iran, qui ont frappé Israël le week-end dernier, amplifie l'instabilité.\n\nLes répercussions se font déjà sentir sur l'économie réelle. Les compagnies aériennes comme Korean Air prennent des mesures d'urgence face à l'explosion des coûts de carburant. Aux États-Unis, l'essence dépasse 4 dollars le gallon pour la première fois depuis 2022, pénalisant directement les consommateurs. Les analystes notent que les marchés pétroliers réagissent désormais aux moindres déclarations de Donald Trump sur le conflit.\n\nLes conséquences économiques s'étendent bien au-delà de l'énergie. Le marché immobilier britannique montre des signes de ralentissement, Nationwide prévoyant un affaiblissement lié à la hausse des coûts hypothécaires et énergétiques. Cette crise soulève la question cruciale de savoir si l'économie mondiale se dirige vers une récession plus sévère que celle provoquée par les chocs pétroliers des années 1970.",
       "sources": [
         "BBC Business",
         "Le Monde - Économie"
       ],
-      "publishedAt": "2026-03-31T06:34:09.000Z"
+      "publishedAt": "2026-04-01T06:21:54.000Z"
     }
   ]
 }

@@ -1,242 +1,198 @@
 {
-  "generatedAt": "2026-03-31T06:46:56.532Z",
+  "generatedAt": "2026-04-01T06:58:54.577Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "ICE : Claudia Sheinbaum, la présidente mexicaine, menace de « mesures de protest",
+      "id": "cluster-1",
+      "topic": "Mondial 2026 : le cauchemar de l'Italie, éliminée par la Bosnie-Herzégovine",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-31-a275915e",
-          "title": "ICE : Claudia Sheinbaum, la présidente mexicaine, menace de « mesures de protestation » après la mort d’un ressortissant détenu aux Etats-Unis",
-          "description": "Le Mexique « épuisera toutes les voies légales, diplomatiques et multilatérales pour demander justice », a également affirmé la directrice de la protection consulaire du Mexique aux Etats-Unis, Vanessa Calva Ruiz.",
-          "url": "https://www.lemonde.fr/international/article/2026/03/31/ice-claudia-sheinbaum-la-presidente-mexicaine-menace-de-mesures-de-protestation-apres-la-mort-d-un-ressortissant-detenu-aux-etats-unis_6675599_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-04-01-d36c3f85",
+          "title": "Mondial 2026 : le cauchemar de l'Italie, éliminée par la Bosnie-Herzégovine",
+          "description": "L’Italie a perdu aux tirs au but face à la Bosnie-Herzégovine et va manquer sa troisième Coupe du monde consécutive. À l'inverse, la République démocratique du Congo fera cet été son retour dans cette compétition après 52 ans d'attente.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260401-mondial-2026-le-cauchemar-italie-%C3%A9liminee-par-la-bosnie-herzegovine-rdcongo",
+          "imageUrl": "https://s.france24.com/media/display/e30efaae-2d6c-11f1-906b-005056a97e36/w:1024/p:16x9/J24-italie-1.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-03-31T06:08:35.000Z",
-          "fetchedAt": "2026-03-31T06:42:55.699Z"
+          "publishedAt": "2026-04-01T06:47:10.000Z",
+          "fetchedAt": "2026-04-01T06:54:54.055Z"
         },
         {
-          "id": "2026-03-31-14bbaad9",
-          "title": "Venezuela: sept ans après sa fermeture, l'ambassade des États-Unis à Caracas reprend du service",
-          "description": "Nouvelle étape dans la relation diplomatique entre Washington et Caracas, l'initiative est aussi un nouveau témoignage du réchauffement des relations entre les deux pays depuis l'enlèvement de l'ancien président vénézuéliens Nicolas Maduro par l'armée américaine, le 3 janvier dernier.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260331-venezuela-sept-ans-apr%C3%A8s-sa-fermeture-l-ambassade-des-%C3%A9tats-unis-%C3%A0-caracas-reprend-du-service",
-          "imageUrl": "https://s.rfi.fr/media/display/ab22605c-2cab-11f1-9929-005056bfb2b6/w:1024/p:16x9/AP26089541251179.jpg",
+          "id": "2026-03-31-cd51e8e6",
+          "title": "Coupe du monde 2026: la Bosnie crucifie l’Italie aux tirs au but et brise son rêve de Mondial",
+          "description": "A dix pendant plus d’une mi-temps, l’équipe de football d’Italie a fini par céder face à la Bosnie, qui a arraché la qualification pour la Coupe du monde au bout des tirs au but (1-1, tab 4-2). Un but de Moise Kean, un immense Donnarumma, n’auront pas suffi à éviter aux Italiens une troisième Coupe du monde consécutive devant la télévision.",
+          "url": "https://www.rfi.fr/fr/sports/20260331-coupe-du-monde-2026-la-bosnie-crucifie-l-italie-aux-tirs-au-but-et-brise-son-r%C3%AAve-de-mondial",
+          "imageUrl": "https://s.rfi.fr/media/display/ee492500-2d46-11f1-ae8e-005056a90284/w:1024/p:16x9/AP26090759748889.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-31T02:47:25.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.556Z"
+          "publishedAt": "2026-03-31T21:39:27.000Z",
+          "fetchedAt": "2026-04-01T06:55:07.586Z"
+        },
+        {
+          "id": "2026-03-31-212e4dbe",
+          "title": "Mondial 2026 : défaite aux tirs au but par la Bosnie, l'Italie ratera encore la Coupe du monde",
+          "description": "Battue par la Bosnie-Herzégovine aux tirs au but mardi à Zenica en finale des barrages européens, l'Italie va manquer sa troisième phase finale consécutive de la Coupe du monde, alors qu'elle avait jusque là échoué à se qualifier une seule fois, pour l'édition 1958 en Suède.",
+          "url": "https://www.france24.com/fr/sports/20260331-football-d%C3%A9faite-par-la-bosnie-l-italie-%C3%A9choue-%C3%A0-se-qualifier-pour-le-mondial-2026",
+          "imageUrl": "https://s.france24.com/media/display/270da79a-2d4b-11f1-8da0-005056bfb2b6/w:1024/p:16x9/AP26090773119454.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-31T21:38:19.000Z",
+          "fetchedAt": "2026-04-01T06:54:54.055Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "« Il n’est pas certain que la Chine sorte économiquement victorieuse du chaos ac",
+      "id": "cluster-5",
+      "topic": "Liban : sept morts dans de nouvelles frappes d'Israël, qui veut occuper le sud a",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-03-31-81e966c3",
-          "title": "« Il n’est pas certain que la Chine sorte économiquement victorieuse du chaos actuel »",
-          "description": "La déstabilisation économique planétaire qu’a engendrée la guerre au Moyen-Orient touche l’usine du monde, qui peine à écouler ses surproductions, constate le journaliste du « Monde » Harold Thibault dans sa chronique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/03/31/il-n-est-pas-certain-que-la-chine-sorte-economiquement-victorieuse-du-chaos-actuel_6675597_3232.html",
+          "id": "2026-04-01-e0192205",
+          "title": "Liban : sept morts dans de nouvelles frappes d'Israël, qui veut occuper le sud après la guerre",
+          "description": "Les autorités libanaises ont annoncé tôt mercredi que de nouvelles attaques israéliennes avaient fait sept morts dans Beyrouth et sa région, au moment où Israël dit vouloir occuper une partie du Sud-Liban une fois la guerre terminée. Les précisions de Serge Berberi, correspondant de France 24 à Beyrouth.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260401-liban-sept-morts-dans-de-nouvelles-frappes-d-isra%C3%ABl-qui-veut-occuper-le-sud-apr%C3%A8s-la-guerre",
+          "imageUrl": "https://s.france24.com/media/display/b96854ae-2d92-11f1-823e-005056a90284/w:1024/p:16x9/capture-146307114369ccb8ea047862-79075958.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-01T06:20:49.000Z",
+          "fetchedAt": "2026-04-01T06:54:54.055Z"
+        },
+        {
+          "id": "2026-04-01-5285ad40",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Israël dit avoir mené une « vague de frappes de grande ampleur » à Téhéran, et avoir frappé un haut commandant du Hezbollah à Beyrouth",
+          "description": "« Il y a peu, l’armée israélienne a achevé une vague de frappes de grande ampleur » qui visaient des infrastructures des autorités iraniennes à Téhéran, a-t-elle écrit. A Beyrouth et alentour, les bombardements israéliens ont fait sept morts.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/01/en-direct-guerre-au-moyen-orient-israel-dit-avoir-mene-une-vague-de-frappes-de-grande-ampleur-a-teheran-et-avoir-avoir-frappe-un-haut-commandant-du-hezbollah-a-beyrouth_6674837_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-03-31T06:00:10.000Z",
-          "fetchedAt": "2026-03-31T06:42:55.699Z"
+          "publishedAt": "2026-04-01T05:30:20.000Z",
+          "fetchedAt": "2026-04-01T06:54:53.910Z"
         },
         {
-          "id": "2026-03-31-a6d5a65e",
-          "title": "En Chine, terre de banquets, manger seul n’est plus un tabou",
-          "description": "Le repas en groupe, où les convives piochent dans une multitude de plats partagés, est une institution en Chine. Ou plutôt était : une nouvelle génération goûte davantage de manger en solitaire, sans craindre les regards désapprobateurs. Un petit bouleversement de civilisation, explique le magazine “Sanlian Shenghuo Zhoukan”.",
-          "url": "https://www.courrierinternational.com/article/societe-en-chine-terre-de-banquets-manger-seul-n-est-plus-un-tabou_237207",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/24/0/0/3013/2009/1200/630/60/0/2aebab7_upload-1-oalb00xiaqum-w-1847-chine-p-28-cazal.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-31T03:00:13.000Z",
-          "fetchedAt": "2026-03-31T06:42:56.131Z"
-        },
-        {
-          "id": "2026-03-30-77c047aa",
-          "title": "En tournée en Afrique, le vice-président chinois a valorisé le rapprochement de Pékin avec le continent",
-          "description": "La diplomatie de Pékin est à l'œuvre en Afrique. Le vice-président chinois, Han Zheng, vient d'achever une tournée dans trois pays, du 24 au 30 mars : le Kenya, l'Afrique du Sud et les Seychelles. Au cœur des discussions menées : le commerce, l'influence et le « partenariat stratégique » avec le continent. Ce fut l'occasion d'un message clair : la Chine accélère son offensive économique et politique en Afrique.",
-          "url": "https://www.rfi.fr/fr/afrique/20260330-en-tourn%C3%A9e-en-afrique-le-vice-pr%C3%A9sident-chinois-a-valoris%C3%A9-le-rapprochement-de-p%C3%A9kin-avec-le-continent",
-          "imageUrl": "https://s.rfi.fr/media/display/7e0fe6b0-d4d8-11ef-96c7-005056bf30b7/w:1024/p:16x9/2025-01-17T010251Z_1808047065_RC2E7CAP7HAC_RTRMADP_3_CHINA-USA-TRUMP.JPG",
+          "id": "2026-04-01-cacb78be",
+          "title": "DIRECT - Guerre au Moyen-Orient: Israël dit avoir mené «une vague de frappes de grande ampleur» à Téhéran",
+          "description": "Au 33e jour de la guerre au Moyen-Orient, des explosions ont été entendues dans le nord, l'est et le centre de Téhéran selon la télévision d'État. Des réservoirs de carburant de l'aéroport de Koweït sont en flammes après une frappe de drones. Donald Trump quant à lui affirme que les États-Unis quitteront l'Iran « très bientôt », il s'adressera à la nation dans la soirée.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260401-direct-guerre-au-moyen-orient-des-r%C3%A9servoirs-de-carburants-de-l-a%C3%A9roport-de-kowe%C3%AFt-en-feu-apr%C3%A8s-une-attaque-de-drones",
+          "imageUrl": "https://s.rfi.fr/media/display/e6089330-2b25-11f1-9323-005056bfb2b6/w:1024/p:16x9/000-A632487.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-03-30T18:45:21.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.556Z"
+          "publishedAt": "2026-04-01T04:03:35.000Z",
+          "fetchedAt": "2026-04-01T06:55:07.586Z"
+        },
+        {
+          "id": "2026-04-01-a2e07513",
+          "title": "Depuis 2023 en Israël, “c’est la même guerre qui tourne en boucle”",
+          "description": "Dans cet article paru dans “The Atlantic”, le journaliste et historien israélien Gershom Gorenberg dénonce un état de guerre permanent entretenu sciemment, selon lui, par Benyamin Nétanyahou pour échapper notamment à ses déboires judiciaires.",
+          "url": "https://www.courrierinternational.com/article/vu-d-israel-depuis-2023-en-israel-c-est-la-meme-guerre-qui-tourne-en-boucle_242281",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/31/0/0/3507/2338/1200/630/60/0/ce6d3ad_upload-1-xllx9bwthqtz-delrosso-2025-08-31-2083.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-01T03:00:17.000Z",
+          "fetchedAt": "2026-04-01T06:54:54.412Z"
+        },
+        {
+          "id": "2026-04-01-e281a5e5",
+          "title": "En direct : les Houthis du Yémen revendiquent une troisième attaque de missiles sur Israël",
+          "description": "Les Houthis du Yémen, alliés de l'Iran, ont revendiqué mercredi leur troisième attaque de missiles contre Israël, dans un communiqué de leur porte-parole publié sur Telegram. Les autorités libanaises ont par ailleurs annoncé que de nouvelles attaques israéliennes avaient fait sept morts à Beyrouth et sa région, au moment où Israël dit vouloir occuper une partie du Sud-Liban une fois la guerre terminée. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260401-en-direct-moyen-orient-iran-liban-israel-donald-trump-ormuz",
+          "imageUrl": "https://s.france24.com/media/display/2bb3cd32-2d97-11f1-900c-005056bfb2b6/w:1024/p:16x9/AP26088551532464.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-01T02:07:26.000Z",
+          "fetchedAt": "2026-04-01T06:54:54.055Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-10",
+      "topic": "EN DIRECT, guerre en Ukraine : 29 morts dans le crash d’un avion militaire russe",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-01-9aa6c9f4",
+          "title": "EN DIRECT, guerre en Ukraine : 29 morts dans le crash d’un avion militaire russe qui venait de survoler la Crimée",
+          "description": "Parmi les victimes figurent 23 passagers et six membres d’équipage, d’après le ministère de la défense russe. Selon la même source, aucun signe d’impact extérieur n’a été constaté sur les débris de l’appareil. La piste d’une défaillance technique est privilégiée.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/01/en-direct-guerre-en-ukraine-vingt-neuf-morts-dans-le-crash-d-un-avion-militaire-russe-qui-venait-de-survoler-la-crimee_6675208_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-01T05:35:00.000Z",
+          "fetchedAt": "2026-04-01T06:54:53.910Z"
+        },
+        {
+          "id": "2026-04-01-dcbea8d7",
+          "title": "Face au cas Orban, jugé trop proche du Kremlin, les Européens restent démunis",
+          "description": "Alors que le premier ministre hongrois, proche du Kremlin, met son veto à une nouvelle aide à l’Ukraine, les Européens font le pari que leurs relations avec Budapest rentreront dans l’ordre après les élections législatives du 12 avril.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/01/face-au-cas-orban-les-europeens-restent-demunis_6675823_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-01T03:31:45.000Z",
+          "fetchedAt": "2026-04-01T06:54:53.910Z"
+        },
+        {
+          "id": "2026-04-01-d38bf627",
+          "title": "Guerre en Ukraine : « Les enfants volés resteront-ils ukrainiens après avoir passé tant de temps en Russie où on les force à oublier ? »",
+          "description": "Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Sasha évoque les troubles psychiques dont elle et nombre de ses compatriotes souffrent. Olga se préoccupe des enfants enlevés à leur pays par la Russie.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/04/01/guerre-en-ukraine-les-enfants-voles-resteront-ils-ukrainiens-apres-avoir-passe-tant-de-temps-en-russie-ou-on-les-force-a-oublier_6675817_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-01T03:00:22.000Z",
+          "fetchedAt": "2026-04-01T06:54:53.910Z"
+        },
+        {
+          "id": "2026-03-31-aee660da",
+          "title": "Ukraine: visite d'une délégation européenne pour commémorer les massacres de Boutcha",
+          "description": "En Ukraine, la justice a été au centre d'une visite symbolique des représentants de la diplomatie européenne avec à leur tête Kaja Kallas, venus commémorer les atrocités découvertes lors de la libération de la ville de Boutcha, une banlieue cossue de Kiev. L'occasion pour l'Europe de rappeler son soutien à l'Ukraine.",
+          "url": "https://www.rfi.fr/fr/europe/20260331-ukraine-visite-d-une-d%C3%A9l%C3%A9gation-europ%C3%A9enne-pour-comm%C3%A9morer-les-massacres-de-boutcha",
+          "imageUrl": "https://s.rfi.fr/media/display/099f0250-2d4e-11f1-a23e-005056bfb2b6/w:1024/p:16x9/AP26090313573306.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-03-31T23:36:37.000Z",
+          "fetchedAt": "2026-04-01T06:55:07.586Z"
         }
       ]
     },
     {
       "id": "cluster-4",
-      "topic": "Déserteurs ukrainiens: Sur la ligne de front, \"un huis clos à devenir fou\"",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-03-31-9525fb1d",
-          "title": "Déserteurs ukrainiens: Sur la ligne de front, \"un huis clos à devenir fou\"",
-          "description": "A la Une de la presse, ce mardi 31 mars, les propositions de Volodymyr Zelensky à la Russie. Le président ukrainien se dit prêt à un «cessez-le-feu» pour Pâques et à une «trêve énergétique». L’Ukraine, qui sort à peine de l’hiver le plus rigoureux qu’elle ait connu depuis vingt ans, aggravé par les frappes russes ses installations énergétiques. Un éléphant blanc élu au sénat colombien. Des superfans de Disney adultes. Et la (mauvaise) vie dans les pays machistes.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260331-d%C3%A9serteurs-ukrainiens-sur-la-ligne-de-front-un-huis-clos-%C3%A0-devenir-fou",
-          "imageUrl": "https://s.france24.com/media/display/433726e4-2cc4-11f1-a8d0-005056bfb2b6/w:1024/p:16x9/30-LE-MONDE-1.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-31T05:44:55.000Z",
-          "fetchedAt": "2026-03-31T06:42:55.821Z"
-        },
-        {
-          "id": "2026-03-31-4e59379d",
-          "title": "Liban : réunion d'urgence à l'ONU après la mort de trois Casques bleus",
-          "description": "Le Conseil de sécurité de l'ONU doit se réunir en urgence mardi après le décès de trois Casques bleus indonésiens dans le sud du Liban, zone d'affrontements entre Israël et le mouvement pro-iranien Hezbollah.    La France a demandé la tenue de cette réunion, qui débutera à 10 h (14 h GMT), au moment où Israël a ordonné à son armée d'élargir la \"zone de sécurité\" au Liban où elle mène des frappes massives et une profonde incursion terrestre.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260331-liban-r%C3%A9union-d-urgence-%C3%A0-l-onu-apr%C3%A8s-la-mort-de-trois-casques-bleus",
-          "imageUrl": "https://s.france24.com/media/display/ce4c112e-2cbd-11f1-8236-005056a97e36/w:1024/p:16x9/FR-20260331-064031-064136-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-31T05:09:28.000Z",
-          "fetchedAt": "2026-03-31T06:42:55.821Z"
-        },
-        {
-          "id": "2026-03-31-1e5d96e5",
-          "title": "Artemis II: l'histoire du lanceur SLS, qui va envoyer l'équipage d'Orion vers la Lune",
-          "description": "Entre mercredi et jeudi, la mission Artemis II pourrait s'élancer. Trois Américains dont une femme, accompagnés d'un Canadien, sont prêts pour un tour de la Lune d'une dizaine de jours sans aterrissage. Ils s'installeront à bord de la capsule Orion, elle-même montée sur le dernier-né des lanceurs de la Nasa, le Space Launch System ou SLS. Cet attelage ne vient pas de nulle part.",
-          "url": "https://www.rfi.fr/fr/science/20260331-artemis-ii-histoire-du-lanceur-sls-qui-va-envoyer-l-%C3%A9quipage-orion-vers-la-lune",
-          "imageUrl": "https://s.rfi.fr/media/display/19029afc-06c2-11f1-9449-005056bf30b7/w:1024/p:16x9/063-2256781284.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-31T05:01:24.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.556Z"
-        },
-        {
-          "id": "2026-03-31-66387e43",
-          "title": "EN DIRECT, guerre en Ukraine : en Russie, une attaque de drones endommage un port de la Baltique",
-          "description": "L’attaque a touché le port d’Oust-Louga, crucial pour les exportations d’hydrocarbures russes. La chute de débris des drones interceptés a endommagé trois immeubles résidentiels et une école de la zone, faisant trois blessés dont deux enfants.",
-          "url": "https://www.lemonde.fr/international/live/2026/03/31/en-direct-guerre-en-ukraine-en-russie-une-attaque-de-drones-endommage-un-port-de-la-baltique_6675208_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-31T04:47:49.000Z",
-          "fetchedAt": "2026-03-31T06:42:55.699Z"
-        },
-        {
-          "id": "2026-03-31-d279fd87",
-          "title": "Liban: la Finul, Force intérimaire des Nations unies, prise entre deux feux",
-          "description": "La Force intérimaire des Nations unies au Liban a annoncé ce lundi 30 mars qu’un Casque bleu indonésien avait été tué dimanche soir par l’explosion d’un projectile d’origine encore indéterminée. Plusieurs autres soldats de la paix ont été blessés lundi, peu après midi, dans une frappe israélienne. Le secrétaire général des Nations unies, Antonio Guterres a « condamné fermement l'incident de dimanche ».",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260331-liban-la-finul-force-int%C3%A9rimaire-des-nations-unies-prise-entre-deux-feux",
-          "imageUrl": "https://s.rfi.fr/media/display/8adab35c-0e7f-11f1-a39f-005056bfb2b6/w:1024/p:16x9/Miniature-Horizontale-12.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-31T04:04:52.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.556Z"
-        },
-        {
-          "id": "2026-03-31-a933da4a",
-          "title": "RDC: plusieurs dizaines de civils enlevés dans une nouvelle attaque des ADF en Ituri",
-          "description": "Alors que le groupe armé multiplie les attaques dans cette province du nord-est de la RDC depuis plusieurs semaines, au moins quatre villages situés à l'ouest de la ville de Bunia ont encore été attaqués samedi 28 et dimanche 29 mars. Si le bilan de cette offensive reste incertain, plusieurs dizaines, sinon plusieurs centaines, de civils ont été enlevés par les assaillants à cette occasion.",
-          "url": "https://www.rfi.fr/fr/afrique/20260331-rdc-plusieurs-dizaines-de-civils-enlev%C3%A9s-dans-une-nouvelle-attaque-des-adf-en-ituri",
-          "imageUrl": "https://s.rfi.fr/media/display/f8ed2f22-1238-11ef-a0f6-005056a97e36/w:1024/p:16x9/000_33U97WL.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-03-31T02:49:03.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.556Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "Interdiction des réseaux sociaux aux moins de 15 ans : la proposition de loi vou",
+      "topic": "Comment les entreprises profitent de l’usage dissimulé de l’intelligence artific",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-03-31-8a44f320",
-          "title": "Interdiction des réseaux sociaux aux moins de 15 ans : la proposition de loi voulue par Emmanuel Macron arrive dans un Sénat divisé",
-          "description": "La majorité de droite à la Chambre haute ne remet pas en question l’objectif général du texte, mais a opté en commission de la culture pour un système à deux vitesses, distinguant deux types de plateformes.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/03/31/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-la-proposition-de-loi-voulue-par-emmanuel-macron-arrive-dans-un-senat-divise-a-son-sujet_6675596_4408996.html",
+          "id": "2026-04-01-bd9efc5a",
+          "title": "Comment les entreprises profitent de l’usage dissimulé de l’intelligence artificielle au travail",
+          "description": "Dans la plupart des organisations, l’intelligence artificielle est d’abord investie de manière informelle par les salariés. Tentées par la sanction, les directions voient aujourd’hui la possibilité de tirer profit du « shadow AI ».",
+          "url": "https://www.lemonde.fr/emploi/article/2026/04/01/comment-les-entreprises-profitent-de-l-usage-dissimule-de-l-intelligence-artificielle-au-travail_6675840_1698637.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-03-31T05:55:52.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.613Z"
-        },
-        {
-          "id": "2026-03-31-c3b5b62e",
-          "title": "Le festival Noûs à la BnF, une réflexion sur la place de l’IA dans la création artistique",
-          "description": "A la Bibliothèque nationale de France, à Paris, du 9 au 19 avril, des expositions, des performances et des conférences célébreront le lien entre innovation numérique et art.",
-          "url": "https://www.lemonde.fr/culture/article/2026/03/31/le-festival-nous-a-la-bnf-une-reflexion-sur-la-place-de-l-ia-dans-la-creation-artistique_6675591_3246.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-03-31T05:00:10.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.613Z"
-        },
-        {
-          "id": "2026-03-30-c86a0ae7",
-          "title": "« Améliorer l’expérience de conduite » : le futur Tesla Roadster embarquera un système de direction totalement inédit",
-          "description": "Tesla vient de lever le voile sur un brevet révolutionnant l'architecture de ses systèmes de direction. Cette innovation technique promet de doubler l'amplitude de rotation tout en optimisant le contrôle numérique du véhicule.",
-          "url": "https://www.numerama.com/vroom/2221685-ameliorer-lexperience-de-conduite-le-futur-tesla-roadster-embarquera-un-systeme-de-direction-totalement-inedit.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2024/02/tesla-roadster-road.jpg?resize=1600,900&key=25ed8784&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-30T15:53:00.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.757Z"
-        },
-        {
-          "id": "2026-03-30-19d14cc5",
-          "title": "Le système FSD de Tesla « dangereux » selon Euro NCAP ? L’organisme force un peu le trait",
-          "description": "La conduite autonome FSD de Tesla est jugée dangereuse par un responsable d’Euro NCAP. Une critique particulièrement sévère qui repose sur des bases discutables.",
-          "url": "https://www.numerama.com/vroom/2221791-le-systeme-fsd-de-tesla-dangereux-selon-euro-ncap-lorganisme-force-un-peu-le-trait.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2023/03/euroncap-teslamodely.jpg?resize=1600,900&key=8f02d48d&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-30T15:36:58.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.757Z"
-        },
-        {
-          "id": "2026-03-30-a61d7421",
-          "title": "Netflix : cette nouvelle série par les créateurs de Stranger Things est déjà un carton",
-          "description": "Alors qu’ils s'apprêtent à quitter le navire rouge pour Paramount en avril 2026, les frères Duffer frappent un dernier grand coup. Leur nouvelle production horrifique, Un très mauvais pressentiment, s’est emparée de la première place du top mondial en seulement trois jours. Analyse d’un braquage en règle.",
-          "url": "https://www.numerama.com/pop-culture/2221681-netflix-cette-nouvelle-serie-par-les-createurs-de-stranger-things-est-deja-un-carton.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/un-tres-mauvais-pressentiment-6.jpeg?resize=1600,900&key=f5bffc10&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-30T15:29:32.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.757Z"
-        },
-        {
-          "id": "2026-03-30-40e6537b",
-          "title": "En France, Apple fête ses 50 ans en transformant un Apple Store en discothèque",
-          "description": "Dans la soirée du 27 mars, Apple a organisé une grande soirée dans son Apple Store des Champs-Élysées. La marque a choisi de célébrer la French touch avec un lineup qui risque de faire saliver les fans de musique électronique… en attendant le jour officiel de ses 50 ans.",
-          "url": "https://www.numerama.com/tech/2221543-en-france-apple-fete-ses-50-ans-en-transformant-un-apple-store-en-discotheque.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/apple-50.jpg?resize=1600,900&key=58542081&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-03-30T13:44:51.000Z",
-          "fetchedAt": "2026-03-31T06:43:09.757Z"
+          "publishedAt": "2026-04-01T04:30:05.000Z",
+          "fetchedAt": "2026-04-01T06:55:07.630Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "'I sent eight letters': Drivers hope for payout from car finance redress scheme",
+      "topic": "Asia stocks jump after Trump suggests Iran war could end in weeks",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-03-31-e1cf2fc1",
-          "title": "'I sent eight letters': Drivers hope for payout from car finance redress scheme",
-          "description": "Millions of motorists could be entitled to compensation with the financial regulator setting out how to apply",
-          "url": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f981/live/6de208c0-2cc7-11f1-b297-95b0a0a8331e.jpg",
+          "id": "2026-04-01-e3981a0d",
+          "title": "Asia stocks jump after Trump suggests Iran war could end in weeks",
+          "description": "The price of Brent crude oil to be delivered in May rose by a record 64% in March as the conflict disrupted energy supplies.",
+          "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7b45/live/f7cf1830-2d89-11f1-8485-6d9c465f57ee.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-03-31T06:34:09.000Z",
-          "fetchedAt": "2026-03-31T06:43:26.381Z"
+          "publishedAt": "2026-04-01T06:21:54.000Z",
+          "fetchedAt": "2026-04-01T06:55:23.396Z"
         }
       ]
     }
