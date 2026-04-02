@@ -387,29 +387,38 @@ async function sendNewsletter(): Promise<void> {
     subject = `Avactu du ${formattedDate} - ${storyCount} actus`;
   }
 
-  // Send emails
+  // Send emails in batch (single API call → single report entry)
+  const emails = (subscribers as Subscriber[]).map((subscriber) => ({
+    from: 'Avactu <briefing@avactu.com>',
+    to: subscriber.email,
+    subject,
+    html: htmlContent,
+    text: textContent,
+  }));
+
+  // Resend batch API supports up to 100 emails per call
+  const BATCH_SIZE = 100;
   let successCount = 0;
   let errorCount = 0;
 
-  for (const subscriber of subscribers as Subscriber[]) {
+  for (let i = 0; i < emails.length; i += BATCH_SIZE) {
+    const batch = emails.slice(i, i + BATCH_SIZE);
     try {
-      await resend.emails.send({
-        from: 'Avactu <briefing@avactu.com>',
-        to: subscriber.email,
-        subject,
-        html: htmlContent,
-        text: textContent,
-      });
+      const { data, error: batchError } = await resend.batch.send(batch);
 
-      successCount++;
-      console.log(`   ✓ ${subscriber.email}`);
+      if (batchError) {
+        console.error(`   ✗ Batch ${i / BATCH_SIZE + 1} error:`, batchError.message);
+        errorCount += batch.length;
+      } else {
+        successCount += data?.data?.length ?? batch.length;
+        for (const subscriber of batch) {
+          console.log(`   ✓ ${subscriber.to}`);
+        }
+      }
     } catch (err) {
-      errorCount++;
-      console.error(`   ✗ ${subscriber.email}: ${err instanceof Error ? err.message : err}`);
+      errorCount += batch.length;
+      console.error(`   ✗ Batch ${i / BATCH_SIZE + 1} failed:`, err instanceof Error ? err.message : err);
     }
-
-    // Rate limiting (Resend free tier: 100/day, 1/second)
-    await new Promise((resolve) => setTimeout(resolve, 1100));
   }
 
   // Summary
