@@ -1,128 +1,151 @@
 {
-  "date": "2026-04-03T06:24:07.775Z",
+  "date": "2026-04-04T06:17:36.958Z",
   "stories": [
     {
-      "id": "2026-04-03-01",
+      "id": "2026-04-04-01",
       "category": "geopolitique",
-      "title": "Le ministre Hegseth évince le chef d'état-major de l'armée",
-      "imageUrl": "https://s.rfi.fr/media/display/ac3d1c50-2f19-11f1-bb52-005056a97e36/w:1024/p:16x9/AP25262572722640.jpg",
+      "title": "L'Iran abat un F-15 américain, course pour le pilote",
+      "imageUrl": "https://s.france24.com/media/display/35484148-2fc2-11f1-9c55-005056a90284/w:1024/p:16x9/AP26093698370653-1.jpg",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "Téhéran, Iran"
+      },
+      "bullets": [
+        "L'Iran abat un F-15E américain, premier depuis le début du conflit",
+        "Le pilote manquant déclenche une course entre Téhéran et Washington",
+        "L'Iran promet une généreuse récompense pour capturer l'aviateur américain",
+        "Les États-Unis tentent des opérations de sauvetage malgré les risques",
+        "L'incident marque un tournant dans l'escalade militaire au Moyen-Orient"
+      ],
+      "execSummary": "Le 28 février, l'Iran a abattu un F-15E Strike Eagle américain au-dessus de son territoire, marquant le premier avion militaire américain perdu depuis le début de la guerre au Moyen-Orient il y a 36 jours. Des deux membres d'équipage, un seul a été secouru tandis que le second reste porté disparu, déclenchant une course acharnée entre Téhéran et Washington pour le retrouver. Selon France 24, l'appareil était habituellement basé au Royaume-Uni, et des images d'épaves publiées par l'agence iranienne Tasnim confirment qu'il s'agit bien d'un F-15E.\n\nL'Iran justifie cette action comme une légitime défense de son espace aérien et promet une \"généreuse récompense\" à quiconque livrerait le pilote américain manquant. Téhéran présente cet abattage comme une victoire militaire significative, revendiquant même avoir touché un second F-35 (non confirmé officiellement) et d'autres appareils impliqués dans les opérations de sauvetage selon NBC.\n\nDu côté américain, la Maison Blanche maintient un silence relatif, se contentant d'indiquer que Donald Trump a été \"tenu informé\" de la situation. Cette retenue contraste avec le discours offensif du président quelques jours plus tôt, affirmant que Téhéran était \"presque à terre\". Les États-Unis multiplient les tentatives de récupération de leur pilote malgré les risques, illustrant l'importance stratégique de cette mission.\n\nCet incident marque une escalade militaire majeure dans un conflit qui s'enlise depuis plus d'un mois. La perte du premier avion américain sur le territoire iranien depuis le début des hostilités souligne la vulnérabilité croissante des forces américaines et pourrait influencer l'opinion publique sur l'engagement militaire au Moyen-Orient, alors que le Pentagone traverse par ailleurs une période de turbulences internes avec des purges au sein de l'état-major.",
+      "sources": [
+        "France 24",
+        "Courrier International",
+        "Le Monde - International"
+      ],
+      "publishedAt": "2026-04-04T05:56:10.000Z"
+    },
+    {
+      "id": "2026-04-04-02",
+      "category": "geopolitique",
+      "title": "La guerre russo-ukrainienne s'étend en Afrique",
+      "imageUrl": "https://s.rfi.fr/media/display/7b6e28b6-2f60-11f1-a23f-005056bf30b7/w:1024/p:16x9/Sans-titre-45.jpg",
+      "location": {
+        "lat": 32.8872,
+        "lng": 13.1913,
+        "name": "Tripoli, Libye"
+      },
+      "bullets": [
+        "L'Ukraine et la Russie s'affrontent désormais en Libye",
+        "Les deux pays rivalisent pour les intérêts économiques africains",
+        "L'Ukraine résiste après 1 500 jours de conflit européen",
+        "La Russie subit des pertes territoriales en mars",
+        "L'Afrique devient un théâtre stratégique de la guerre"
+      ],
+      "execSummary": "Après 1 500 jours de guerre en Europe, le conflit russo-ukrainien s'étend désormais au continent africain, particulièrement en Libye. Une enquête exclusive de RFI révèle une guerre de l'ombre entre Kiev et Moscou sur le sol libyen, centrée autour des intérêts économiques et militaires. Parallèlement, des attaques continuent sur le territoire russe, causant au moins un mort dans le sud du pays samedi. Selon les autorités ukrainiennes, Kiev justifie cette extension du conflit par la nécessité de contrer l'influence russe mondiale et de diversifier ses fronts d'action. L'Ukraine présente ses opérations africaines comme une réponse légitime à la présence militaire russe croissante sur le continent, notamment via le groupe Wagner. Pour sa part, la Russie considère ces actions ukrainiennes comme une escalade injustifiée du conflit au-delà des frontières européennes. Moscou dénonce l'ingérence ukrainienne dans ses partenariats africains traditionnels et maintient que ses activités sur le continent relèvent de coopérations légitimes avec des gouvernements souverains. Ces développements transforment un conflit régional en confrontation géopolitique mondiale. L'extension africaine pourrait redéfinir les équilibres géostratégiques, alors que l'Ukraine montre des signes de résistance en reprenant du terrain en Europe orientale, contrairement aux gains russes qui ont stagné en mars.",
+      "sources": [
+        "Le Monde - International",
+        "RFI",
+        "Courrier International",
+        "France 24"
+      ],
+      "publishedAt": "2026-04-04T04:52:54.000Z"
+    },
+    {
+      "id": "2026-04-04-03",
+      "category": "geopolitique",
+      "title": "Les politiques Trump résistent mieux que prévu",
+      "imageUrl": "https://focus.courrierinternational.com/2026/04/03/0/0/2367/1578/1200/630/60/0/a202ef8_upload-1-wt5l0jxfq6j4-ammer-2025-09-17-2269-v-good.jpg",
       "location": {
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "Washington, États-Unis"
       },
       "bullets": [
-        "Le ministre Pete Hegseth obtient le départ immédiat du général Randy George",
-        "La décision vise à nommer quelqu'un appliquant la vision Trump",
-        "L'administration justifie ce changement par des besoins de réorganisation",
-        "Les démocrates dénoncent une possible politisation de l'armée américaine",
-        "L'enjeu porte sur l'indépendance des institutions militaires face au pouvoir"
+        "Les taxes douanières Trump n'ont pas déclenché la crise attendue",
+        "Le commerce mondial montre une résilience face aux menaces américaines",
+        "L'administration soutient l'expansion minière américaine en Afrique",
+        "Les créations d'emplois dépassent les attentes en mars 2026",
+        "La position économique américaine mondiale reste contestée"
       ],
-      "execSummary": "Le ministre de la Défense Pete Hegseth a obtenu le départ immédiat du général Randy George, chef d'état-major de l'armée de terre américaine. Selon CBS News, cette décision s'inscrit dans une volonté de nommer quelqu'un capable d'appliquer la vision de l'administration Trump. Le général a été contraint de partir en retraite sans préavis, marquant un changement brutal dans la hiérarchie militaire. L'administration Trump justifie ce remplacement par la nécessité d'aligner le commandement militaire sur ses priorités stratégiques et sa vision de la défense nationale. Pete Hegseth, ancien présentateur de Fox News devenu ministre, souhaite placer des personnes partageant l'approche trumpiste au sein des instances dirigeantes du Pentagone. Les parlementaires démocrates expriment leurs inquiétudes face à ce qu'ils perçoivent comme une politisation dangereuse de l'armée américaine. Ils craignent que ces changements ne compromettent l'indépendance traditionnelle des forces armées vis-à-vis du pouvoir politique, principe fondamental du système démocratique américain. Cette éviction s'inscrit dans un contexte plus large de remaniement des institutions fédérales sous Trump. L'enjeu majeur concerne l'équilibre entre l'autorité civile légitime sur l'armée et le maintien de l'indépendance opérationnelle des militaires. Cette tension pourrait redéfinir les relations entre le pouvoir politique et l'establishment militaire, avec des conséquences durables sur la gouvernance américaine et la confiance internationale dans la stabilité institutionnelle des États-Unis.",
+      "execSummary": "Un an après le \"jour de la libération\" du 2 avril 2025, les taxes douanières imposées par Donald Trump n'ont pas provoqué l'effondrement commercial redouté. Le marché de l'emploi américain a rebondi en mars 2026 avec 178 000 créations d'emplois, dépassant les prévisions, tandis qu'une entreprise américaine a racheté pour 700 millions de dollars le groupe congolais Chemaf, spécialisé dans l'extraction de cuivre et de cobalt. L'administration Trump justifie ses politiques par la nécessité de restaurer la souveraineté économique américaine et de concurrencer la Chine sur les matières premières stratégiques. Les annonces tonitruantes de tarifs douaniers massifs visaient à renégocier les termes du commerce international en faveur des États-Unis, selon la logique protectionniste du président. Le Financial Times estime cependant que cette résilience du commerce mondial face aux menaces américaines révèle un déclin relatif de l'influence économique des États-Unis. Les partenaires commerciaux ont développé des stratégies de contournement, tandis que la Chine maintient sa position dominante sur les chaînes d'approvisionnement mondiales, notamment en Afrique. L'enjeu central reste la bataille pour le contrôle des matières premières critiques et la redéfinition des équilibres commerciaux mondiaux. La capacité américaine à imposer ses conditions commerciales semble plus limitée qu'anticipé, suggérant une multipolarisation économique accélérée.",
       "sources": [
-        "RFI",
+        "Courrier International",
         "Le Monde - International"
       ],
-      "publishedAt": "2026-04-03T06:04:14.000Z"
+      "publishedAt": "2026-04-04T03:00:23.000Z"
     },
     {
-      "id": "2026-04-03-02",
+      "id": "2026-04-04-04",
       "category": "geopolitique",
-      "title": "La Russie n'avance plus en Ukraine, première depuis 2023",
-      "imageUrl": "https://s.france24.com/media/display/00de63fc-2ed1-11f1-bd0d-005056a97e36/w:1024/p:16x9/2026-04-02T171631Z-1399421494-RC20HKAQDDIX-RTRMADP-3-UKRAINE-CRISIS-ATTACK-CHERNIHIV.jpg",
+      "title": "Les purges de Trump bouleversent l'administration",
+      "imageUrl": "https://s.rfi.fr/media/display/8c2fbfb0-16e8-11f1-953c-005056bfb2b6/w:1024/p:16x9/000-99NN9G4.jpg",
       "location": {
-        "lat": 49.8397,
-        "lng": 24.0297,
-        "name": "Ukraine"
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "Washington"
       },
       "bullets": [
-        "La Russie n'a gagné aucun territoire ukrainien en mars",
-        "Les forces russes reculent même par endroits selon l'ISW",
-        "L'Ukraine mène des contre-offensives efficaces depuis fin 2025",
-        "Des voix européennes prônent le dialogue avec Moscou",
-        "Le blocage de Starlink handicape l'armée russe"
+        "L'administration Trump subit des purges d'ampleur inédite",
+        "Le Pentagone multiplie les limogeages sous Hegseth",
+        "Les purges visent à écarter les opposants au projet Maga",
+        "L'armée américaine traverse une crise de commandement",
+        "La restructuration idéologique transforme l'appareil d'État"
       ],
-      "execSummary": "L'armée russe n'a enregistré aucun gain territorial en Ukraine durant le mois de mars, une première depuis septembre 2023, selon l'analyse de l'Institut pour l'étude de la guerre (ISW) relayée par l'AFP. Les forces russes reculent même par endroits face aux troupes ukrainiennes, marquant un tournant dans ce conflit qui dure depuis plus de quatre ans. Parallèlement, des frappes russes ont fait au moins deux morts et des dizaines de blessés dans les oblasts de Kherson, Tchernihiv et Donetsk. Le ralentissement de l'offensive russe s'observe depuis fin 2025, avec les forces ukrainiennes qui multiplient les contre-attaques. L'ISW attribue cette stagnation militaire aux contre-offensives ukrainiennes mais aussi à l'interdiction faite à la Russie d'utiliser les terminaux Starlink, ce qui complique ses communications et sa logistique. Les analystes soulignent que cette évolution sur le terrain représente un changement tactique majeur après des mois d'avancées russes constantes. Malgré ces développements militaires, des voix s'élèvent en Europe, notamment en Belgique et en Allemagne, pour préconiser une reprise du dialogue diplomatique avec Vladimir Poutine. Ces appels divisent l'opinion publique européenne et suscitent des débats sur l'opportunité de négocier avec Moscou alors que le conflit se poursuit. Cette évolution militaire pourrait redéfinir les équilibres géopolitiques européens et influencer les futures négociations de paix. L'arrêt des gains territoriaux russes renforce la position de Kiev dans d'éventuelles discussions diplomatiques, mais la poursuite des bombardements civils maintient la tension. L'impact de la restriction d'accès à Starlink illustre le rôle crucial des technologies dans les conflits modernes et pourrait inciter la Russie à réviser sa stratégie militaire.",
-      "sources": [
-        "Le Monde - International",
-        "Courrier International",
-        "France 24",
-        "RFI"
-      ],
-      "publishedAt": "2026-04-03T04:57:38.000Z"
-    },
-    {
-      "id": "2026-04-03-03",
-      "category": "geopolitique",
-      "title": "La guerre Iran-Israël-États-Unis entre dans son 35e jour",
-      "imageUrl": "https://s.rfi.fr/media/display/ac3d1c50-2f19-11f1-bb52-005056a97e36/w:1024/p:16x9/AP25262572722640.jpg",
-      "location": {
-        "lat": 32.4279,
-        "lng": 53.688,
-        "name": "Iran"
-      },
-      "bullets": [
-        "La guerre entre l'Iran et Israël dure depuis 35 jours",
-        "Les États-Unis bombardent les infrastructures civiles iraniennes",
-        "L'Iran riposte avec des missiles longue portée sur Israël",
-        "Le détroit d'Ormuz menace d'être bloqué par Téhéran",
-        "Le programme nucléaire iranien devient plus opaque"
-      ],
-      "execSummary": "Les États-Unis, alliés à Israël, poursuivent leurs bombardements contre l'Iran pour le 35e jour consécutif, détruisant notamment des infrastructures civiles comme des ponts et des centrales électriques. Le président Trump a menacé vendredi de nouvelles destructions après le bombardement d'un pont près de Téhéran qui a fait huit victimes civiles selon les médias iraniens. Les Gardiens de la Révolution iraniens ont riposté dans la nuit de jeudi à vendredi en tirant des missiles longue portée vers Tel-Aviv et Eilat.\n\nCe conflit prolongé transforme fondamentalement l'équilibre géostratégique au Moyen-Orient. L'Iran menace désormais de bloquer le détroit d'Ormuz, passage vital pour l'économie mondiale, forçant le Conseil de sécurité de l'ONU à envisager un vote sur l'usage de la force pour débloquer ce goulet d'étranglement. La guerre a des répercussions économiques mondiales, notamment en Inde où les prix de la bière et de l'eau en bouteille augmentent à cause des difficultés d'approvisionnement en matières premières.\n\nLes dirigeants iraniens durcissent leur position face aux bombardements américano-israéliens. Le ministre des Affaires étrangères Abbas Araghchi a mis en garde l'ONU contre toute \"action provocatrice\" avant le vote crucial du Conseil de sécurité. Les tensions confessionnelles se ravivent également dans la région, notamment à Bahreïn où le régime sunnite procède à des arrestations massives dans la communauté chiite majoritaire, soupçonnée de soutenir Téhéran.\n\nL'enjeu nucléaire devient central dans ce conflit qui radicalise le régime iranien. Loin d'abandonner ses ambitions atomiques, la République islamique accélère sa course vers la bombe dans l'opacité la plus totale. Trump semble pourtant envisager de mettre fin à cette guerre sans résoudre la question nucléaire, créant un dangereux précédent qui pourrait permettre à l'Iran de finaliser son programme militaire nucléaire une fois les hostilités terminées.",
+      "execSummary": "L'administration de Donald Trump procède depuis son retour au pouvoir à des purges gouvernementales d'une ampleur inédite, touchant particulièrement l'état-major militaire américain. Le chef du Pentagone, Pete Hegseth, multiplie les limogeages au sein de l'armée, créant une situation de tourmente institutionnelle sans précédent dans l'histoire récente des États-Unis.\n\nCes purges s'inscrivent dans une démarche stratégique plus large visant à restructurer l'appareil d'État selon l'idéologie « Make America Great Again ». L'objectif affiché est d'éloigner des sphères du pouvoir tous ceux qui n'adhèrent pas suffisamment au projet trumpiste, transformant ainsi la fonction publique fédérale en instrument politique aligné sur les objectifs présidentiels.\n\nLes motivations de ces limogeages massifs répondent à la fois à des envies de vendetta personnelle du président et à un projet idéologique cohérent. L'administration cherche à purger les institutions de leurs éléments jugés déloyaux ou insuffisamment alignés, créant un climat de méfiance et d'incertitude au sein de l'appareil gouvernemental, particulièrement visible dans les structures militaires.\n\nCes bouleversements institutionnels soulèvent des questions majeures sur la stabilité du commandement militaire américain et l'impact sur la capacité opérationnelle des forces armées. La simultanéité entre ces purges internes et les difficultés rencontrées sur le terrain au Moyen-Orient interroge sur les conséquences de cette restructuration idéologique sur l'efficacité de l'appareil sécuritaire américain.",
       "sources": [
         "RFI",
-        "Le Monde",
-        "France 24",
-        "Courrier International"
+        "Le Monde"
       ],
-      "publishedAt": "2026-04-03T06:04:14.000Z"
+      "publishedAt": "2026-04-04T06:00:09.000Z"
     },
     {
-      "id": "2026-04-03-04",
+      "id": "2026-04-04-05",
       "category": "tech",
-      "title": "La mission Artémis II décolle vers la Lune avec quatre astronautes",
-      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/orion.jpg?resize=1600,900&key=9c04f109&watermark",
+      "title": "OpenAI restructure ses équipes dirigeantes",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1239231852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "location": {
-        "lat": 28.5721,
-        "lng": -80.648,
-        "name": "Cap Canaveral"
+        "lat": 37.7749,
+        "lng": -122.4194,
+        "name": "San Francisco"
       },
       "bullets": [
-        "La fusée SLS décolle dans la nuit du 1er au 2 avril 2026",
-        "Le premier équipage vers la Lune depuis plus de 50 ans",
-        "Un voyage historique de 10 jours autour du satellite naturel",
-        "La NASA suit en temps réel la capsule Orion",
-        "Le retour de l'humanité dans l'exploration lunaire habitée"
+        "La CEO d'AGI Fidji Simo prend un congé médical",
+        "Le président Greg Brockman reprend les responsabilités produit",
+        "La CMO Kate Rouch démissionne pour se concentrer sur sa santé",
+        "Les dirigeants business se répartissent les responsabilités opérationnelles",
+        "La restructuration reflète les défis organisationnels d'OpenAI"
       ],
-      "execSummary": "Dans la nuit du 1er au 2 avril 2026, la mission Artémis II de la NASA a décollé du centre spatial Kennedy avec quatre astronautes à bord de la capsule Orion, propulsée par la fusée SLS. Le décollage s'est déroulé à 22h35 UTC après avoir surmonté un problème technique mineur dans le système d'autodestruction de la fusée. Cette mission marque le premier voyage habité vers la Lune depuis plus de 50 ans, depuis la fin du programme Apollo.\n\nL'importance de cette mission dépasse le simple exploit technologique. Artémis II représente une étape cruciale dans le retour de l'humanité vers l'exploration lunaire, ouvrant la voie aux futures missions d'alunissage d'Artémis III. Ce voyage de dix jours autour de la Lune constitue un test grandeur nature des systèmes qui permettront aux futurs astronautes de se poser sur le satellite naturel. L'événement marque également la renaissance de l'exploration spatiale habitée au-delà de l'orbite terrestre.\n\nLes équipes de la NASA ont mis en place un système de suivi en temps réel permettant au public de suivre la progression de la capsule Orion entre la Terre et la Lune. Malgré quelques péripéties mineures comme un problème de plomberie dans les toilettes du vaisseau, l'équipage poursuit sa mission selon les plans établis. Les astronautes sont désormais « inexorablement liés à la Lune » selon les termes d'Ars Technica.\n\nCette mission ouvre de nouvelles perspectives pour l'exploration spatiale et pourrait raviver l'intérêt du public pour les sciences spatiales. Contrairement à Apollo 8 qui avait captivé le monde entier, Artémis II évolue dans un contexte différent où l'espace est devenu plus familier. Néanmoins, elle pose les jalons d'un retour durable de l'humanité sur la Lune et de futures missions vers Mars, marquant le début d'une nouvelle ère de l'exploration spatiale habitée.",
+      "execSummary": "OpenAI traverse une nouvelle période de restructuration de son équipe dirigeante. Fidji Simo, CEO de l'AGI deployment (anciennement CEO des applications), prend un congé médical de plusieurs semaines en raison d'une condition neuro-immune. Parallèlement, Kate Rouch, directrice marketing de l'entreprise, a décidé de démissionner pour se concentrer sur sa santé personnelle. Ces départs surviennent dans un contexte où OpenAI poursuit ses efforts de développement de son \"super app\" et de déploiement de ses technologies d'intelligence artificielle générale. Pour pallier l'absence de Simo, le président Greg Brockman reprendra la direction des produits, incluant le leadership des initiatives de super app. Du côté business, les responsabilités seront réparties entre le Chief Strategy Officer Jason Kwon, la CFO Sarah Friar, et la Chief Revenue Officer Denise Dresser. Cette restructuration illustre les défis organisationnels auxquels fait face OpenAI alors que l'entreprise continue son expansion rapide et ses efforts pour maintenir sa position de leader dans le domaine de l'IA. Les changements interviennent à un moment crucial où la concurrence s'intensifie avec des acteurs comme Anthropic et Google, et où les enjeux de déploiement responsable de l'AGI deviennent de plus en plus critiques.",
       "sources": [
-        "Numerama",
-        "Ars Technica"
+        "The Verge"
       ],
-      "publishedAt": "2026-04-03T05:35:00.000Z"
+      "publishedAt": "2026-04-03T23:52:49.000Z"
     },
     {
-      "id": "2026-04-03-05",
+      "id": "2026-04-04-06",
       "category": "eco",
-      "title": "Les tensions au Moyen-Orient secouent les marchés mondiaux",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "title": "Guerre en Iran: flambée du pétrole, impact sur carburants",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/de4f/live/87429030-2f58-11f1-b471-73a11a0c1806.jpg",
       "location": {
         "lat": 32.4279,
         "lng": 53.688,
         "name": "Iran"
       },
       "bullets": [
-        "Les prix du pétrole bondissent après les menaces de Trump contre l'Iran",
-        "Le président américain promet de ramener l'Iran à l'âge de pierre",
-        "Les actions chutent puis remontent sur les promesses de fin rapide du conflit",
-        "La Banque d'Angleterre alerte sur l'impact potentiel sur les taux hypothécaires",
-        "L'énergie plus chère pourrait affecter 1,3 million de propriétaires britanniques"
+        "Le prix du pétrole bondit de 50% en un mois",
+        "La guerre en Iran depuis le 28 février déclenche la hausse",
+        "Le gouvernement français lance un prêt flash à 3,80%",
+        "Trump menace de nouvelles frappes sur l'Iran",
+        "Les entreprises du transport face à des coûts records"
       ],
-      "execSummary": "Les tensions géopolitiques au Moyen-Orient ont provoqué une forte volatilité sur les marchés financiers mondiaux ces derniers jours. Les prix du pétrole ont bondi après que le président Trump ait menacé de nouvelles frappes contre l'Iran, promettant de ramener le pays « à l'âge de pierre », avant de redescendre brièvement sous les 100 dollars le baril lorsque Trump a promis que le conflit « se terminerait très bientôt ». Les marchés d'actions européens ont d'abord chuté avant de rebondir sur ces déclarations apaisantes.\n\nCette crise énergétique intervient dans un contexte économique déjà fragile, avec des prix des carburants qui ont connu leur plus forte hausse mensuelle jamais enregistrée en mars au Royaume-Uni. L'instabilité géopolitique menace de relancer l'inflation énergétique mondiale, un facteur critique pour les banques centrales qui tentent de maîtriser la hausse des prix.\n\nLa Banque d'Angleterre a immédiatement réagi en avertissant que cette « crise iranienne » pourrait pousser les coûts d'emprunt à la hausse, affectant potentiellement 1,3 million de propriétaires britanniques. Les marchés financiers oscillent désormais au gré des déclarations contradictoires de Trump, créant une incertitude majeure pour les investisseurs.\n\nL'enjeu est désormais de savoir si cette escalade rhétorique se concrétisera par une action militaire qui ferait exploser les prix de l'énergie, ou si la diplomatie permettra d'éviter un choc pétrolier majeur qui pourrait compromettre la reprise économique mondiale et forcer les banques centrales à réviser leur politique monétaire.",
+      "execSummary": "Depuis le déclenchement de la guerre en Iran le 28 février, les cours du pétrole s'envolent de manière spectaculaire. Le baril de Brent, référence européenne, a bondi de plus de 50% en un mois, provoquant une hausse record des prix des carburants. Les stations-service françaises enregistrent les plus fortes hausses mensuelles jamais observées selon la RAC, tandis que les compagnies aériennes font face à des coûts de carburant 120% supérieurs à la normale.\n\nCette flambée des prix constitue un choc économique majeur qui rappelle les précédents chocs pétroliers, avec des répercussions sur l'ensemble de l'économie mondiale. Les entreprises de transport, d'agriculture et de pêche sont particulièrement touchées, leurs coûts énergétiques représentant une part significative de leur chiffre d'affaires.\n\nFace à cette crise, le gouvernement français réagit en lançant un dispositif de soutien d'urgence : un \"prêt flash\" à 3,80% permettant aux TPE et PME d'emprunter entre 5 000 et 50 000 euros sans garanties. L'État a par ailleurs encaissé 270 millions d'euros de recettes fiscales supplémentaires en mars grâce à la hausse des prix. Côté américain, Donald Trump menace de ramener l'Iran \"à l'âge de pierre\" mais sans préciser comment mettre fin au conflit.\n\nLes enjeux sont considérables pour l'économie mondiale. Cette crise pétrolière pourrait déclencher une spirale inflationniste et peser durablement sur la croissance, notamment en Europe très dépendante des importations énergétiques. Les marchés financiers restent volatils, les investisseurs scrutant l'évolution du conflit et ses répercussions sur les chaînes d'approvisionnement mondiales.",
       "sources": [
+        "Le Monde - Économie",
         "BBC Business"
       ],
-      "publishedAt": "2026-04-03T06:00:06.000Z"
+      "publishedAt": "2026-04-04T04:00:39.000Z"
     }
   ]
 }
