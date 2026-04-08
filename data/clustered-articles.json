@@ -1,297 +1,198 @@
 {
-  "generatedAt": "2026-04-07T06:50:22.862Z",
+  "generatedAt": "2026-04-08T06:54:08.134Z",
   "clusterCount": 5,
   "clusters": [
     {
+      "id": "cluster-1",
+      "topic": "Levée des sanctions, nucléaire... Que contient le plan iranien en dix points pro",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-08-fb5832f1",
+          "title": "Levée des sanctions, nucléaire... Que contient le plan iranien en dix points proposé à Trump ?",
+          "description": "Les États-Unis et l'Iran se sont mis d'accord mercredi pour un cessez-le-feu de deux semaines en échange d'une réouverture du détroit d'Ormuz. Téhéran a transmis une \"proposition en dix points\" pour la paix, considérée par Washington comme une \"base viable pour négocier\". Voici ce que l'on sait de cette proposition.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260408-lev%C3%A9e-sanctions-nucl%C3%A9aire-que-contient-plan-dix-points-propos%C3%A9-iran-trump",
+          "imageUrl": "https://s.france24.com/media/display/9761a732-22ef-11f1-8868-005056a97e36/w:1024/p:16x9/AP26073524793175.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-08T06:18:25.000Z",
+          "fetchedAt": "2026-04-08T06:50:07.867Z"
+        },
+        {
+          "id": "2026-04-08-3a40ae97",
+          "title": "EN DIRECT, guerre au Moyen-Orient : après l’annonce d’un cessez-le-feu entre les Etats-Unis et l’Iran, les dernières informations",
+          "description": "Donald Trump a annoncé une trêve de deux semaines, en s’appuyant sur une médiation du Pakistan, en échange d’une réouverture du détroit d’Ormuz. Téhéran a accepté ces conditions, mais dit que « cela ne signifie pas la fin de la guerre ». Israël, en revanche, considère que ce cessez-le-feu ne  « concerne pas le Liban ».",
+          "url": "https://www.lemonde.fr/international/live/2026/04/08/en-direct-guerre-au-moyen-orient-l-iran-accepte-de-negocier-avec-les-etats-unis-mais-dit-que-cela-ne-signifie-pas-la-fin-de-la-guerre_6676633_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-08T05:09:16.000Z",
+          "fetchedAt": "2026-04-08T06:50:07.572Z"
+        },
+        {
+          "id": "2026-04-08-4a5d54d1",
+          "title": "États-Unis: en Géorgie, la guerre en Iran fait vaciller un bastion républicain",
+          "description": "Aux États-Unis une élection à la saveur particulière se tenait ce mardi 7 avril 2026 dans l’État de Géorgie. Il s'agissait de désigner le remplaçant à la Chambre des représentants de Marjorie Taylor Greene, l’ancienne élue républicaine ayant démissionné après être devenue une importante critique de Donald Trump en dénonçant sa gestion du dossier Epstein. Mais également l’abandon des classes populaires et l’interventionnisme militaire. Avec la guerre en Iran et l’augmentation du coût de la vie cette élection était très suivie par les démocrates qui espéraient tirer profit de la baisse de popularité du président dans une région ultra-conservatrice. C’est néanmoins le candidat républicain - soutenu par le président - qui l’a emporté mais les démocrates voient tout de même cette élection comme une victoire partielle.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260408-%C3%A9tats-unis-en-g%C3%A9orgie-la-guerre-en-iran-fait-vaciller-un-bastion-r%C3%A9publicain",
+          "imageUrl": "https://s.rfi.fr/media/display/bbd89c10-c39f-11f0-8b7e-005056bf30b7/w:1024/p:16x9/2025-11-16T153359Z-1078643759-RC2FKGAPBZ1H-RTRMADP-3-USA-TRUMP-EPSTEIN.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-08T04:48:54.000Z",
+          "fetchedAt": "2026-04-08T06:50:18.411Z"
+        },
+        {
+          "id": "2026-04-08-5f93f53b",
+          "title": "Guerre en Iran : Donald Trump annonce un cessez-le-feu avec Téhéran et offre une ouverture de deux semaines à la diplomatie",
+          "description": "Le président américain, qui avait promis d’anéantir l’Iran, a annoncé, mardi soir, un cessez-le-feu avec Téhéran, qui devrait rouvrir le détroit d’Ormuz. Israël a dit soutenir l’accord, mais affirmé que ses opérations au Liban n’étaient pas concernées.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/08/apres-sa-promesse-d-aneantir-l-iran-donald-trump-recule-et-offre-une-ouverture-de-deux-semaines-a-la-diplomatie_6678201_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-08T04:33:39.000Z",
+          "fetchedAt": "2026-04-08T06:50:07.572Z"
+        },
+        {
+          "id": "2026-04-08-40c45767",
+          "title": "Dans un “revirement spectaculaire”, Trump annonce un cessez-le-feu de deux semaines avec l’Iran",
+          "description": "Washington et Téhéran se sont mis d’accord mardi pour une trêve en échange d’une réouverture du détroit d’Ormuz, un peu plus d’une heure avant l’expiration de l’ultimatum de Trump qui menaçait de détruire l’Iran. Pour la presse américaine, les déclarations extrêmes du républicain l’ont sans doute aidé à obtenir cette porte de sortie. Mais s’il ne s’agit que d’un répit temporaire.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-dans-un-revirement-spectaculaire-trump-annonce-un-cessez-le-feu-de-deux-semaines-avec-l-iran_242661",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/06/0/0/7630/5087/1200/630/60/0/e8bb852_ftp-1-oobnuin4zk4o-afp-a6w393g.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-08T04:13:15.000Z",
+          "fetchedAt": "2026-04-08T06:50:08.058Z"
+        },
+        {
+          "id": "2026-04-08-5a7132a8",
+          "title": "EN DIRECT - Moyen-Orient: États-Unis et Iran revendiquent chacun la victoire, des négociations difficiles à venir",
+          "description": "Alors que la guerre au Moyen-Orient se poursuit pour le 40e jour, Washington et Téhéran se sont mis d'accord sur un cessez-le-feu de deux semaines en échange d'une réouverture du détroit d'Ormuz, ce mardi 7 avril. Cependant, ce cessez-le-feu « n'inclut pas le Liban », dit Israël. Les États-Unis et l'Iran revendiquent tous deux la victoire, ce mercredi.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260408-en-direct-guerre-au-moyen-orient-isra%C3%ABl-affirme-que-le-cessez-le-feu-n-inclut-pas-le-liban",
+          "imageUrl": "https://s.rfi.fr/media/display/021c4a86-3313-11f1-bff6-005056a90284/w:1024/p:16x9/063-2270296382.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-08T04:12:52.000Z",
+          "fetchedAt": "2026-04-08T06:50:18.411Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-18",
+      "topic": "Le récit de la libération de Cécile Kohler et Jacques Paris, de la terrifiante s",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-08-35c217f3",
+          "title": "Le récit de la libération de Cécile Kohler et Jacques Paris, de la terrifiante section 209 de la prison d’Evin à une traversée de l’Iran en voiture en pleine guerre",
+          "description": "Détenus depuis 2022, les deux Français ont été libérés en échange de la levée de l’assignation à résidence d’une Iranienne condamnée en France pour « provocation en ligne au terrorisme ».",
+          "url": "https://www.lemonde.fr/international/article/2026/04/08/la-liberation-de-cecile-kohler-et-jacques-paris-un-geste-tactique-de-l-iran-envers-la-france_6678116_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-08T03:00:05.000Z",
+          "fetchedAt": "2026-04-08T06:50:07.572Z"
+        },
+        {
+          "id": "2026-04-07-cc8fc6dd",
+          "title": "Iran : Cécile Kohler et Jacques Paris, libres, sont en route pour la France",
+          "description": "Les Français Cécile ​Kohler et Jacques Paris, libérés de prison en novembre dernier par ​le régime de Téhéran après trois ans et demi de détention, \"sont libres et en chemin vers le territoire français\", a annoncé mardi le président Emmanuel ​Macron ‌sur X.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260407-iran-c%C3%A9cile-kohler-et-jacques-paris-libres-sont-en-route-pour-la-france",
+          "imageUrl": "https://s.france24.com/media/display/cbb0190c-3293-11f1-8635-005056a97e36/w:1024/p:16x9/FR-20260407-153818-154617-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-07T15:22:06.000Z",
+          "fetchedAt": "2026-04-08T06:50:07.867Z"
+        },
+        {
+          "id": "2026-04-07-b13bfc45",
+          "title": "Iran : Cécile Kohler et Jacques Paris “libres et en chemin vers le territoire français”",
+          "description": "Les deux Français, arrêtés en Iran en mai 2022, emprisonnés jusqu’en novembre 2025 puis assignés à l’ambassade de France à Téhéran, sont en passe de retrouver l’Hexagone, a annoncé Emmanuel Macron. Ils ont quitté l’Iran ce mardi 7 avril à l’aube, via l’Azerbaïdjan, a ajouté le ministère des Affaires étrangères.",
+          "url": "https://www.courrierinternational.com/article/diplomatie-iran-cecile-kohler-et-jacques-paris-libres-et-en-chemin-vers-le-territoire-francais_242651",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/07/18/0/7834/5222/1200/630/60/0/b53366c_ftp-1-vkeg3zpos6hx-afp-a6yr6g3.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-07T15:03:10.000Z",
+          "fetchedAt": "2026-04-08T06:50:08.058Z"
+        },
+        {
+          "id": "2026-04-07-10a10bb5",
+          "title": "Cécile Kohler et Jacques Paris, ex-détenus en Iran, «sont libres et en chemin» vers la France, annonce Macron",
+          "description": "Les Français Cécile Kohler et Jacques Paris « sont libres et en chemin vers le territoire français, après trois ans et demi de détention en Iran » où ils avaient longuement été en prison puis assignés à résidence à l'ambassade de France, a annoncé mardi 7 avril Emmanuel Macron.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260407-c%C3%A9cile-kohler-et-jacques-paris-ex-d%C3%A9tenus-en-iran-sont-libres-et-en-chemin-vers-la-france-annonce-macron",
+          "imageUrl": "https://s.rfi.fr/media/display/adf99e0c-2b27-11f0-aada-005056bfb2b6/w:1024/p:16x9/000_44HB2CP.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-07T13:44:22.000Z",
+          "fetchedAt": "2026-04-08T06:50:18.411Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-35",
+      "topic": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-07-c9331ade",
+          "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+          "description": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
+          "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/45da/live/271e4090-32a6-11f1-b4da-a3b95db80b81.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-07T19:40:05.000Z",
+          "fetchedAt": "2026-04-08T06:50:18.447Z"
+        },
+        {
+          "id": "2026-04-07-078ff9c3",
+          "title": "Kanye West interdit d'entrée au Royaume-Uni, le festival Wireless où il devait se produire annulé",
+          "description": "Après un week-end de polémique, le gouvernement britannique a annoncé, mardi 7 avril, interdire Kanye West d'entrée au Royaume-Uni pour des concerts en juillet, en raison de ses saillies antisémites ces dernières années. Dans la foulée, les organisateurs du Wireless Festival, dont le rappeur américain était la tête d'affiche, ont annoncé l'annulation de l'événement qui devait se tenir du 10 au 12 juillet à Londres.",
+          "url": "https://www.rfi.fr/fr/europe/20260407-kanye-west-interdit-d-entr%C3%A9e-au-royaume-uni-le-festival-wireless-o%C3%B9-il-devait-se-produire-annul%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/1bbf50de-328f-11f1-a2ec-005056a97e36/w:1024/p:16x9/AP26096755616856.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-07T15:48:34.000Z",
+          "fetchedAt": "2026-04-08T06:50:18.411Z"
+        }
+      ]
+    },
+    {
       "id": "cluster-2",
-      "topic": "Mauritanie: négociations restreintes entre majorité et oppositions en vue d’un d",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-07-bb5e3bb8",
-          "title": "Mauritanie: négociations restreintes entre majorité et oppositions en vue d’un dialogue national",
-          "description": "En Mauritanie, les réunions préparatoires au dialogue national ont repris ce 6 avril au palais des congrès de Nouakchott. Après une semaine d’impasse sur la question ultrasensible de la limitation des mandats présidentiels, un compromis semble se dessiner sous l’impulsion du chef de l’État. Mais si une partie de l'opposition joue la carte de l'apaisement, d'autres dénoncent une manœuvre constitutionnelle.",
-          "url": "https://www.rfi.fr/fr/afrique/20260407-mauritanie-n%C3%A9gociations-restreintes-entre-majorit%C3%A9-et-oppositions-en-vue-d-un-dialogue-national",
-          "imageUrl": "https://s.rfi.fr/media/display/cc424c16-d666-11f0-badb-005056bfb2b6/w:1024/p:16x9/000-34XM94W.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T06:32:42.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.378Z"
-        },
-        {
-          "id": "2026-04-07-31ade948",
-          "title": "À La Réunion, la révolution du moustique stérile pour lutter contre les épidémies",
-          "description": "Face aux maladies tropicales transmises par le moustique tigre, comme le chikungunya et la dengue, les chercheurs du Cirad et de l’IRD ont mis en place une technique de l’insecte stérile boostée, efficace pour lutter contre ces insectes. En un an, on enregistre une baisse de 40% de ces populations sur les zones ciblées.",
-          "url": "https://www.rfi.fr/fr/france/20260407-%C3%A0-la-r%C3%A9union-la-r%C3%A9volution-du-moustique-st%C3%A9rile-pour-lutter-contre-les-%C3%A9pid%C3%A9mies",
-          "imageUrl": "https://s.rfi.fr/media/display/464f112c-30ff-11f1-8b42-005056a90284/w:1024/p:16x9/DSC01530-OK.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T03:44:10.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.378Z"
-        },
-        {
-          "id": "2026-04-07-5ad28643",
-          "title": "La fin de la guerre en Ukraine sonnera le glas de l’unité occidentale",
-          "description": "Dans les pages du quotidien russe “Izvestia”, publication qui relaie la vision du monde du Kremlin, le politologue Andreï Kortounov envisageait en janvier la fin de la guerre en Ukraine et ses conséquences sur les relations entre la Russie et l’Occident. Dans une langue qui reprend la sémantique de l’État, il anticipe l’affaiblissement des pays européens.",
-          "url": "https://www.courrierinternational.com/article/opinion-la-fin-de-la-guerre-en-ukraine-sonnera-le-glas-de-l-unite-occidentale_239951",
-          "imageUrl": "https://focus.courrierinternational.com/2026/02/18/274/0/900/600/1200/630/60/0/de9335e_upload-1-pqcejf0q1hya-capture-d-e-cran-2026-01-30-a-14-54-21.png",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T03:00:12.000Z",
-          "fetchedAt": "2026-04-07T06:46:22.826Z"
-        },
-        {
-          "id": "2026-04-07-ca684a7d",
-          "title": "« Dans un monde en plein réarmement, l’éducation demeure l’investissement le plus rentable pour la paix »",
-          "description": "Le directeur général de l’Unesco, Khaled El-Enany, et la directrice générale du Partenariat mondial pour l’éducation, Laura Frigenti, s’alarment dans une tribune pour « Le Monde » de la baisse drastique de l’aide internationale à l’éducation, qui conduit à une diminution de la scolarisation des enfants dans le monde.",
-          "url": "https://www.lemonde.fr/societe/article/2026/04/07/dans-un-monde-en-plein-rearmement-l-education-demeure-l-investissement-le-plus-rentable-pour-la-paix_6677755_3224.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T03:00:04.000Z",
-          "fetchedAt": "2026-04-07T06:46:22.257Z"
-        },
-        {
-          "id": "2026-04-07-b2d772e6",
-          "title": "JD Vance due in Hungary to back Orban's re-election bid",
-          "description": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
-          "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/31b4/live/6ab44b00-3202-11f1-8df9-2146dc911a76.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T01:45:41.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.393Z"
-        },
-        {
-          "id": "2026-04-06-13703ea3",
-          "title": "L’organisateur du Wireless Festival, qui fait venir Kanye West, se justifie et demande d’offrir à l’artiste « un peu de pardon et d’espoir »",
-          "description": "L’annonce de la venue du chanteur, connu pour ses propos antisémites et racistes, suscite l’indignation. Celui qui se produit désormais sous le nom de Ye est supposé être l’artiste principal de l’événement qui se tient du 10 au 12 juillet à Londres.",
-          "url": "https://www.lemonde.fr/culture/article/2026/04/07/kanye-west-invite-a-se-produire-au-festival-wireless-a-londres-l-organisateur-appelle-au-pardon_6677689_3246.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-06T23:55:22.000Z",
-          "fetchedAt": "2026-04-07T06:46:22.257Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "Guerre en Iran: Trump \"pas inquiet\" de commettre de possibles crimes de guerre",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-07-21fbd0a6",
-          "title": "Guerre en Iran: Trump \"pas inquiet\" de commettre de possibles crimes de guerre",
-          "description": "A la Une de la presse, ce mardi 7 avril,  les nouvelles menaces de Donald Trump, qui assure ne «pas s’inquiéter» de commettre des crimes de guerre en Iran en bombardant des infrastructures civiles. La guerre contre l’Iran et le blocage du détroit d’Ormuz, qui nourrissent l’intérêt pour le Somaliland. L’ultime tentative de l’Administration Trump pour sauver le soldat Orban, également soutenu par la Russie. Et une très belle histoire d’amitié (la vraie).",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260407-guerre-en-iran-trump-pas-inquiet-de-commettre-de-possibles-crimes-de-guerre",
-          "imageUrl": "https://s.france24.com/media/display/562b2858-3242-11f1-8728-005056a97e36/w:1024/p:16x9/2-NEW-YORK-TIMES.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T05:30:51.000Z",
-          "fetchedAt": "2026-04-07T06:46:22.407Z"
-        },
-        {
-          "id": "2026-04-07-8d5f2dfc",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: nouvelles frappes israéliennes en Iran après les menaces de Trump",
-          "description": "Lors d'une conférence de presse lundi 6 avril, Donald Trump a menacé de détruire l'Iran mardi soir si, d'ici là, Téhéran ne répondait pas à son ultimatum en rouvrant le détroit d'Ormuz, vital pour l'approvisionnement mondial en pétrole. Dans la nuit de lundi à mardi, l'armée israélienne a annoncé une « vague » de frappes aériennes contre l'Iran, mais aussi avoir détecté des missiles iraniens.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260407-en-direct-guerre-au-moyen-orient-nouvelles-frappes-isra%C3%A9liennes-en-iran-apr%C3%A8s-les-menaces-de-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/8ea4a5ce-31b6-11f1-b42d-005056bfb2b6/w:1024/p:16x9/AP26096329397408.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T04:37:56.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.378Z"
-        },
-        {
-          "id": "2026-04-07-eb6f3c8b",
-          "title": "Trump menace l’Iran de destruction totale",
-          "description": "Le président américain a promis de détruire le pays mardi soir si Téhéran ne répond pas d’ici là à son ultimatum en rouvrant le détroit d’Ormuz. Il est toutefois possible qu’il trouve une porte de sortie en prolongeant à nouveau l’échéance, estime la presse américaine.",
-          "url": "https://www.courrierinternational.com/article/guerre-au-moyen-orient-trump-menace-l-iran-de-destruction-totale_242604",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/06/0/0/5397/3598/1200/630/60/0/45a11f0_ftp-1-hywcpgm9tyso-2026-04-06t180113z-195671020-rc2ujka1kcs0-rtrmadp-3-iran-crisis-usa-trump.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T04:04:44.000Z",
-          "fetchedAt": "2026-04-07T06:46:22.826Z"
-        },
-        {
-          "id": "2026-04-07-7c33ad89",
-          "title": "Guerre au Moyen-Orient : Donald Trump menace d’anéantir les infrastructures civiles iraniennes, au risque de provoquer une escalade majeure",
-          "description": "Le président américain a exhorté Téhéran à accepter d’ici à mardi soir un accord de cessez-le-feu, dont les termes ne sont guère précisés. Habitué des ultimatums repoussés ou oubliés, il semblait cette fois décidé à commettre l’irréparable.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/07/donald-trump-menace-d-aneantir-les-infrastructures-civiles-iraniennes-au-risque-de-provoquer-une-escalade-majeure-dans-le-conflit-au-moyen-orient_6677796_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T03:43:28.000Z",
-          "fetchedAt": "2026-04-07T06:46:22.257Z"
-        },
-        {
-          "id": "2026-04-07-332aff89",
-          "title": "Le détroit d’Ormuz, carte maîtresse de l’Iran dans la guerre au Moyen-Orient",
-          "description": "Malgré l’ultimatum lancé par Donald Trump, Téhéran ne semble pas décidé à rouvrir le bras maritime, stratégique pour l’économie mondiale. Le régime en fait désormais un instrument de la souveraineté nationale, envisageant même de monnayer le passage à l’issue du conflit.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/07/le-detroit-d-ormuz-carte-maitresse-de-l-iran-dans-la-guerre-au-moyen-orient_6677794_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T03:30:11.000Z",
-          "fetchedAt": "2026-04-07T06:46:22.257Z"
-        },
-        {
-          "id": "2026-04-07-56492aa8",
-          "title": "Les détails donnés par Trump sur le sauvetage des pilotes américains en Iran : plus de 150 appareils mobilisés, des forces spéciales au sol et un succès tactique",
-          "description": "Le président américain a évoqué, lundi lors d’une conférence de presse, les deux missions qui ont permis de rapatrier sain et sauf les deux militaires qui s’étaient éjectés, vendredi, de leur avion de chasse, abattu par les Iraniens. Une démonstration de force qui permet de resserrer les rangs autour de la Maison Blanche.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/07/donald-trump-glorifie-l-operation-de-sauvetage-des-pilotes-americains-en-iran_6677790_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T03:27:42.000Z",
-          "fetchedAt": "2026-04-07T06:46:22.257Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "Taiwan opposition leader makes first China visit since 2016",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-07-974de2d6",
-          "title": "Taiwan opposition leader makes first China visit since 2016",
-          "description": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
-          "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/799e/live/825d4560-3188-11f1-99c7-55b1c6163ed9.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-07T05:21:20.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.393Z"
-        },
-        {
-          "id": "2026-04-06-0632a651",
-          "title": "La cheffe de l'opposition taïwanaise en visite en Chine, une première en dix ans",
-          "description": "La cheffe de l'opposition taïwanaise, Cheng Li-wun, est arrivée mardi en Chine pour une visite de six jours. Alors qu'elle a longtemps milité pour l'indépendance de Taïwan, elle travaille désormais ardemment à un rapprochement avec Pékin.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20260406-la-cheffe-de-l-opposition-ta%C3%AFwanaise-en-visite-en-chine-une-premi%C3%A8re-depuis-dix-ans",
-          "imageUrl": "https://s.france24.com/media/display/eb8733a6-3206-11f1-a68d-005056bf30b7/w:1024/p:16x9/2409a18a07e7b4786127f37c9c6805a20e13cd17.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-06T22:21:13.000Z",
-          "fetchedAt": "2026-04-07T06:46:22.407Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-8",
-      "topic": "À quel point les astronautes d’Artémis II vont-ils frôler de la Lune ?",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-06-8cde276b",
-          "title": "À quel point les astronautes d’Artémis II vont-ils frôler de la Lune ?",
-          "description": "Reid Wiseman, Christina Koch, Victor Glover et Jeremy Hansen, les quatre astronautes d'Artémis II, sont en train de survoler la Lune, et pourront observer sa face cachée, y compris des endroits qu'aucun œil humain n'a vus dans l'histoire. Mais à quel point la capsule Orion va-t-elle s'approcher du satellite ?",
-          "url": "https://www.numerama.com/sciences/2227095-jusqua-quel-point-les-astronautes-dartemis-ii-vont-ils-sapprocher-de-la-lune.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/artemis-ii-wiseman.jpg?resize=1600,900&key=a2030265&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-06T19:51:02.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.635Z"
-        },
-        {
-          "id": "2026-04-06-5dbf61c6",
-          "title": "Jour J pour Artémis II : suivez en direct le survol de la Lune, qui a lieu actuellement",
-          "description": "Reid Wiseman, Victor Glover, Christina Koch et Jeremy Hansen deviennent cette nuit les humains s'étant éloignés le plus de la Terre, en battant le record de la mission Apollo 13 en 1970, durant le survol de la face cachée de la Lune.",
-          "url": "https://www.numerama.com/sciences/2227029-ou-et-quand-voir-en-direct-le-vol-dartemis-ii-derriere-la-lune-ce-soir.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/artemis-ii-lune.jpg?resize=1600,900&key=7f4018c6&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-06T19:21:19.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.635Z"
-        },
-        {
-          "id": "2026-04-06-3b499325",
-          "title": "Ce jeu vidéo avec un poulpe est bien plus complexe qu’il n’y paraît",
-          "description": "Développé par le studio parisien ZDT Studio, Darwin's Paradox! met en scène un poulpe qui tente de survivre tant bien que mal dans des environnements où tout lui est hostile. Notre test.",
-          "url": "https://www.numerama.com/pop-culture/2225397-test-de-darwins-paradox-sur-ps5.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/img-7717.jpg?resize=1600,900&key=f2e21b41&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-06T16:05:00.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.635Z"
-        },
-        {
-          "id": "2026-04-06-a6df99be",
-          "title": "Samsung&#8217;s Galaxy S27 &#8216;Pro&#8217; could squeeze in between the Ultra and Plus phones",
-          "description": "The S27 Pro will reportedly have the Privacy Display first seen on the S26 Ultra. | Photo: Allison Johnson / The Verge\t\n\nSamsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews. \nThe new Pro model reportedly won't support the S Pen but will feature Samsung's Privacy Display, which is currently only available on the Galaxy S26 Ultra. The Privacy Display allows users to limit the viewing angle on their phone so that the content on the screen is only visible when they're looking directly at it. According to ET News' sources, Samsung is aiming to launch two phones with this premium display tech in its next-gen lineup, which …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-04-06T16:03:14.000Z",
-          "fetchedAt": "2026-04-07T06:46:37.408Z"
-        },
-        {
-          "id": "2026-04-06-5f396adb",
-          "title": "Justine Emard, une artiste qui dialogue avec l’IA",
-          "description": "Enfant, elle était fascinée aussi bien par la création que par l’informatique. L’artiste visuelle de 39 ans, qui participe à la première édition de Noûs, festival art et IA, à la BnF du 9 au 19 avril, à Paris, a aujourd’hui réuni ses deux passions.",
-          "url": "https://www.lemonde.fr/culture/article/2026/04/06/justine-emard-une-artiste-qui-dialogue-avec-l-ia_6677355_3246.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-04-06T11:00:13.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.462Z"
-        },
-        {
-          "id": "2026-04-06-4768a3d3",
-          "title": "Le duel des deux meilleures guildes atteint un point critique sur World of Warcraft",
-          "description": "Dernière ligne droite pour Echo et Liquid. Les deux meilleures guildes du monde doivent se départager sur le premier palier de raid en mode mythique, sur l'extension Midnight de World of Warcraft. Les scores sont très serrés.",
-          "url": "https://www.numerama.com/pop-culture/2226469-le-duel-des-deux-meilleures-guildes-atteint-un-point-critique-sur-world-of-warcraft.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/liquid-vs-echo.jpg?resize=1600,900&key=5a681179&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-06T10:13:36.000Z",
-          "fetchedAt": "2026-04-07T06:46:32.635Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Oil prices rise ahead of Trump's Iran deal deadline",
+      "topic": "Foodbank hub set to expand to meet growing demand",
       "category": "eco",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-04-07-f6d30d54",
-          "title": "Oil prices rise ahead of Trump's Iran deal deadline",
-          "description": "The US president has threatened to take out Iran \"in one night\" if it does not agree to open the Strait of Hormuz.",
-          "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3f38/live/d8a61110-323a-11f1-b36e-e57132df45fa.jpg",
+          "id": "2026-04-08-3fc6bcff",
+          "title": "Foodbank hub set to expand to meet growing demand",
+          "description": "Stratford Foodbank is preparing to move to a larger unit, to meet growing demand for its services.",
+          "url": "https://www.bbc.com/news/articles/cy01k55ygl7o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4690/live/53db92c0-3299-11f1-8cba-9df81803c83c.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-07T05:10:36.000Z",
-          "fetchedAt": "2026-04-07T06:46:40.331Z"
-        },
+          "publishedAt": "2026-04-08T05:09:56.000Z",
+          "fetchedAt": "2026-04-08T06:50:30.923Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Valve brings native Steam Link app to Apple's Vision Pro",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
         {
-          "id": "2026-04-06-83f48f3b",
-          "title": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
-          "description": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
-          "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/87e4/live/78fa26e0-3184-11f1-86cc-99d8e53afbd3.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-04-06T23:34:11.000Z",
-          "fetchedAt": "2026-04-07T06:46:40.331Z"
-        },
-        {
-          "id": "2026-04-06-ad98a716",
-          "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
-          "description": "Brent crude rose above $110 then eased as the US and Iran traded plans for a potential ceasefire.",
-          "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fefe/live/5f932e40-314d-11f1-b849-f5bf4267dd5c.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-04-06T19:31:20.000Z",
-          "fetchedAt": "2026-04-07T06:46:40.331Z"
+          "id": "2026-04-07-3cb31e5a",
+          "title": "Valve brings native Steam Link app to Apple's Vision Pro",
+          "description": "New app can replace third-party options that were jankier to use.",
+          "url": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-1152x648.jpeg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-04-07T22:21:21.000Z",
+          "fetchedAt": "2026-04-08T06:50:27.959Z"
         }
       ]
     }
