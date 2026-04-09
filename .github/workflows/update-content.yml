@@ -1,9 +1,10 @@
 name: Update Content & Send Newsletters
 
 on:
-  # Daily at 5h15 UTC (~7h15 Paris time)
+  # Daily at 4h15 UTC (~6h15 Paris CEST / 5h15 CET)
+  # Compensates ~30-60min GitHub Actions cron delay → newsletter sent ~7h-7h30 Paris
   schedule:
-    - cron: '15 5 * * *'
+    - cron: '15 4 * * *'
   # Manual trigger for testing
   workflow_dispatch:
     inputs:
@@ -49,26 +50,29 @@ jobs:
 
       # 4. Run curation script (fetch RSS feeds)
       - name: Curate articles
+        id: curate
         run: npm run curate
 
       # 5. Run clustering script (group articles by topic)
       - name: Cluster articles
+        id: cluster
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run cluster
 
       # 6. Run synthesis script (generate multi-source stories)
       - name: Synthesize stories
+        id: synthesize
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run synthesize
 
-      # 7. Determine day info for conditional sending
+      # 7. Determine day info for conditional sending (use Paris timezone)
       - name: Determine day info
         id: day_info
         run: |
-          DAY_OF_MONTH=$(date +%d)
-          DAY_OF_WEEK=$(date +%u)  # 1=Monday, 6=Saturday, 7=Sunday
+          DAY_OF_MONTH=$(TZ='Europe/Paris' date +%d)
+          DAY_OF_WEEK=$(TZ='Europe/Paris' date +%u)  # 1=Monday, 6=Saturday, 7=Sunday
           IS_ODD_DAY=$(( DAY_OF_MONTH % 2 ))
           IS_SATURDAY=$([[ "$DAY_OF_WEEK" == "6" ]] && echo "true" || echo "false")
           echo "day_of_month=$DAY_OF_MONTH" >> $GITHUB_OUTPUT
@@ -85,7 +89,7 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          APP_URL: ${{ vars.APP_URL || 'https://avactu.vercel.app' }}
+          APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-newsletter:daily
 
       # 9. Send newsletter to BIWEEKLY subscribers (odd days only)
@@ -95,7 +99,7 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          APP_URL: ${{ vars.APP_URL || 'https://avactu.vercel.app' }}
+          APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-newsletter:biweekly
 
       # 10. Generate weekly edition (Saturday only)
@@ -113,7 +117,7 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          APP_URL: ${{ vars.APP_URL || 'https://avactu.vercel.app' }}
+          APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-newsletter:weekly
 
       # 12. Commit and push changes
@@ -124,7 +128,7 @@ jobs:
           git add public/data/stories.json data/raw-articles.json data/clustered-articles.json
           # Add weekly-stories.json only if it exists (generated on Saturdays)
           [ -f public/data/weekly-stories.json ] && git add public/data/weekly-stories.json || true
-          git diff --staged --quiet || git commit -m "chore: update stories $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "chore: update stories $(TZ='Europe/Paris' date +'%Y-%m-%d')"
           git push
 
       # 13. Trigger Vercel deployment (via deploy hook)
@@ -133,9 +137,20 @@ jobs:
         run: |
           curl -X POST "${{ vars.VERCEL_DEPLOY_HOOK }}"
 
-      # 14. Wait for deployment
+      # 14. Wait for deployment — poll Vercel instead of fixed sleep
       - name: Wait for deployment
-        run: sleep 90
+        if: ${{ vars.VERCEL_DEPLOY_HOOK }}
+        run: |
+          echo "⏳ Waiting for Vercel deployment..."
+          for i in $(seq 1 12); do
+            sleep 15
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" "${{ vars.APP_URL || 'https://avactu.com' }}")
+            echo "   Check $i/12: HTTP $STATUS"
+            if [ "$STATUS" = "200" ]; then
+              echo "✅ Deployment confirmed"
+              break
+            fi
+          done
 
       # 15. Send SMS notification to VIPs via OVH HTTP2SMS (odd days only, like biweekly)
       - name: Send SMS to VIPs
@@ -147,5 +162,5 @@ jobs:
           OVH_SMS_SENDER: ${{ secrets.OVH_SMS_SENDER }}
           AVA_PHONE_NUMBER: ${{ secrets.AVA_PHONE_NUMBER }}
           FELIX_PHONE_NUMBER: ${{ secrets.FELIX_PHONE_NUMBER }}
-          APP_URL: ${{ vars.APP_URL || 'avactu.vercel.app' }}
+          APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-sms
