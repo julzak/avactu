@@ -1,198 +1,187 @@
 {
-  "generatedAt": "2026-04-09T06:54:36.363Z",
+  "generatedAt": "2026-04-10T06:11:13.972Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "« Le retrait du drapeau européen par certaines mairies RN est une insulte à la R",
+      "id": "cluster-4",
+      "topic": "EN DIRECT, guerre en Ukraine : un cessez-le-feu décidé pour la Pâque orthodoxe e",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-09-c66e59ce",
-          "title": "« Le retrait du drapeau européen par certaines mairies RN est une insulte à la République »",
-          "description": "Dans une tribune au « Monde », un collectif de personnalités politiques s’inquiète du geste de certains élus du Rassemblement national, qu’ils perçoivent comme une menace à « l’intégrité et [à] la cohésion nationale » autant que comme une insulte aux Français et à nos voisins européens.",
-          "url": "https://www.lemonde.fr/idees/article/2026/04/09/le-retrait-du-drapeau-europeen-par-certaines-mairies-rn-est-une-insulte-a-la-republique_6678553_3232.html",
+          "id": "2026-04-10-f3c98167",
+          "title": "EN DIRECT, guerre en Ukraine : un cessez-le-feu décidé pour la Pâque orthodoxe entre en vigueur à 16 heures ; Kiev le « respectera si la Russie fait de même »",
+          "description": "Moscou a annoncé que cette trêve unilatérale durerait « jusqu’à la fin de la journée du 12 avril 2026 », selon l’agence étatique TASS. « L’Ukraine a fait savoir à plusieurs reprises qu[’elle était] prêt[e] à prendre des mesures réciproques », a réagi Volodymyr Zelensky.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/10/en-direct-guerre-en-ukraine-poutine-annonce-un-cessez-le-feu-pour-la-paque-orthodoxe-kiev-le-respectera-si-la-russie-fait-de-meme_6676836_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-09T06:34:24.000Z",
-          "fetchedAt": "2026-04-09T06:50:35.728Z"
+          "publishedAt": "2026-04-10T04:52:39.000Z",
+          "fetchedAt": "2026-04-10T06:07:13.361Z"
         },
         {
-          "id": "2026-04-09-78b484d5",
-          "title": "Dans la Hongrie d’Orban, promoteur de la famille mais qui fait fuir sa jeunesse (3/3)",
-          "description": "En Hongrie, Viktor Orban continue de faire de sa politique familiale ambitieuse un axe central à l’approche des élections législatives du 12 avril. Mais en dépit de cet affichage volontariste, de nombreux jeunes peinent à se projeter dans le pays, entre manque de perspectives et pessimisme sur l’avenir.",
-          "url": "https://www.rfi.fr/fr/europe/20260409-dans-la-hongrie-d-orban-promoteur-de-la-famille-mais-qui-fait-fuir-ses-jeunesn",
-          "imageUrl": "https://s.rfi.fr/media/display/01cc7012-326c-11f1-afe2-005056a97e36/w:1024/p:16x9/main-03.png",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-09T06:20:54.000Z",
-          "fetchedAt": "2026-04-09T06:50:50.146Z"
-        },
-        {
-          "id": "2026-04-09-a51cf7e5",
-          "title": "Gambie: un procureur spécial désigné pour poursuivre les crimes de l'ère Jammeh",
-          "description": "La ministère gambien de la Justice a désigné ce mercredi 8 avril lors d'une conférence de presse le procureur spécial en charge de poursuivre les crimes commis sous le régime brutal de l'ex-dictateur Yahya Jammeh. Il s'agit de l'expérimenté avocat britannique Martin Hackett qui aura la lourde tâche de rendre justice, deux ans après l'adoption d'une loi visant à créer un bureau pour suivre ces affaires.",
-          "url": "https://www.rfi.fr/fr/afrique/20260409-gambie-martin-hackett-procureur-sp%C3%A9cial-d%C3%A9sign%C3%A9-crimes-yahya-jammeh",
-          "imageUrl": "https://s.rfi.fr/media/display/e365c00a-10bd-11ea-b3a8-005056bf7c53/w:1024/p:16x9/trrc_0.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-09T05:42:55.000Z",
-          "fetchedAt": "2026-04-09T06:50:50.146Z"
-        },
-        {
-          "id": "2026-04-09-8f1b0f55",
-          "title": "Côte d'Ivoire: le PDCI fête ses 80 ans dans un contexte politique et judiciaire tendu",
-          "description": "En Côte d’Ivoire, le PDCI fête ses 80 ans ce 9 avril. Fondé par Félix Houphouët Boigny le 9 avril 1946, le parti entend célébrer son anniversaire au cours de plusieurs événements : une conférence inaugurale ce jeudi 9 avril et un rassemblement populaire à Yamoussoukro le samedi 18 avril. Toutefois, malgré l’aspect festif, ce parti est aujourd’hui en perte de vitesse.",
-          "url": "https://www.rfi.fr/fr/afrique/20260409-c%C3%B4te-ivoire-pdci-f%C3%AAte-ses-80-ans-contexte-politique-et-judiciaire-tendu-etoile-sud",
-          "imageUrl": "https://s.rfi.fr/media/display/5e6bf532-3e6f-11f0-8fab-005056bfb2b6/w:1024/p:16x9/000_48QT2NP.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-09T04:48:42.000Z",
-          "fetchedAt": "2026-04-09T06:50:50.146Z"
-        },
-        {
-          "id": "2026-04-09-a1bfafdb",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: les frappes israéliennes sur le Liban sont un «grave danger» pour le cessez-le-feu dit l'ONU",
-          "description": "La trêve fragile entre l'Iran et les États-Unis entre ce jeudi dans sa deuxième journée, la communauté internationale s'inquiétant que les frappes meurtrières d'Israël sur le Liban n'enrayent tout le processus. Le vice-président J.D. Vance, qui doit conduire samedi la délégation américaine lors de discussions avec l'Iran au Pakistan, a jugé qu'il appartenait aux dirigeants iraniens de décider si la trêve échouait à cause du Liban.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260409-en-direct-guerre-au-moyen-orient-les-frappes-isra%C3%A9liennes-sur-le-liban-sont-un-grave-danger-pour-le-cessez-le-feu-dit-l-onu",
-          "imageUrl": "https://s.rfi.fr/media/display/4d5b4816-33c8-11f1-b249-005056bfb2b6/w:1024/p:16x9/AP26098422047405.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-09T04:01:18.000Z",
-          "fetchedAt": "2026-04-09T06:50:50.146Z"
-        },
-        {
-          "id": "2026-04-09-ca780578",
-          "title": "Détroit d’Ormuz : l’Iran veut garder le contrôle en instaurant un « droit de passage »",
-          "description": "Durant les deux semaines de cessez-le-feu, Téhéran entend instaurer un péage dans ce passage maritime crucial pour l’économie mondiale. Loin de s’y opposer, Donald Trump a même proposé de créer « une joint-venture ».",
-          "url": "https://www.lemonde.fr/international/article/2026/04/09/l-iran-revendique-maintenir-son-controle-sur-le-detroit-d-ormuz_6678541_3210.html",
+          "id": "2026-04-10-296f36bc",
+          "title": "« Vous n’avez pas de regrets de devoir tuer ? » : dans le Transsibérien, chroniques de soldats russes de retour d’Ukraine",
+          "description": "« A bord du Transsibérien » (2/2). Dans le train qui file vers l’Extrême-Orient, entre Novossibirsk et Vladivostok, début janvier, la violence de la guerre en Ukraine est au cœur des conversations entre soldats en permission et passagers « ordinaires ».",
+          "url": "https://www.lemonde.fr/international/article/2026/04/10/vous-n-avez-pas-de-regrets-de-devoir-tuer-dans-le-transsiberien-chroniques-de-soldats-russes-de-retour-d-ukraine_6678769_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-09T04:00:22.000Z",
-          "fetchedAt": "2026-04-09T06:50:35.728Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-09-c0f2fbd7",
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "description": "Une frappe russe dans la région de Zaporijia a fait un mort et quatre blessés, a précisé jeudi matin le chef de l’administration régionale, Ivan Fedorov, ajoutant : « Plusieurs maisons ont été détruites à Balabyne. »",
-          "url": "https://www.lemonde.fr/international/live/2026/04/09/en-direct-guerre-en-ukraine-les-dernieres-informations-au-jeudi-9-avril-2026-au-matin_6676836_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-09T05:52:50.000Z",
-          "fetchedAt": "2026-04-09T06:50:35.728Z"
+          "publishedAt": "2026-04-10T04:00:51.000Z",
+          "fetchedAt": "2026-04-10T06:07:13.361Z"
         },
         {
-          "id": "2026-04-08-da5c1dda",
-          "title": "Guerre en Ukraine : Nikopol sera-t-elle la nouvelle Pokrovsk ?",
-          "description": "Depuis plusieurs jours, cette ville industrielle située sur la rive droite du Dniepr subit des frappes meurtrières pour la population civile : mardi 7 avril, 12 personnes ont été tuées dans un bus pris pour cible. La rumeur d’une offensive terrestre russe, en vue de l’envahir, à l’instar d’autres villes du Donbass, se répand.",
-          "url": "https://www.courrierinternational.com/article/vu-d-ukraine-guerre-en-ukraine-nikopol-sera-t-elle-la-nouvelle-pokrovsk_242705",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/07/3/0/4240/2826/1200/630/60/0/69b7608_ftp-1-785ci5783e96-2026-04-07t101521z-20891785-rc28kkahnxsz-rtrmadp-3-ukraine-crisis-attack-nikopol.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-08T15:51:45.000Z",
-          "fetchedAt": "2026-04-09T06:50:36.438Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-23",
-      "topic": "Cuba: l'ONU va importer pour la première fois du carburant afin de distribuer l'",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-09-0e1ed469",
-          "title": "Cuba: l'ONU va importer pour la première fois du carburant afin de distribuer l'aide humanitaire",
-          "description": "Cuba est toujours en manque cruel de pétrole. L'embargo états-unien, qui dure depuis six décennies, a été renforcé par un blocus pétrolier instauré en janvier. Même l'ONU n'a pas assez de combustible pour distribuer l'aide humanitaire sur place. Face à cette situation, l'organisation s'apprête donc, pour la première fois, à importer elle-même du carburant à Cuba.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260409-cuba-l-onu-va-importer-pour-la-premi%C3%A8re-fois-du-carburant-afin-de-distribuer-l-aide-humanitaire",
-          "imageUrl": "https://s.rfi.fr/media/display/32c0a624-339e-11f1-807c-005056bfb2b6/w:1024/p:16x9/CUBA-LA-HAVANE-HUMANITAIRE-BLOCUS.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-09T03:01:31.000Z",
-          "fetchedAt": "2026-04-09T06:50:50.146Z"
-        },
-        {
-          "id": "2026-04-09-4fdbfa60",
-          "title": "En demandant le prêt de « Guernica », le Pays basque ravive un débat sensible en Espagne",
-          "description": "A l’approche du 90ᵉ anniversaire du bombardement de la ville basque de Guernica, le gouvernement autonome souhaite obtenir le transfert temporaire du célèbre tableau de Picasso pour une exposition à Bilbao. Le musée madrilène Reina Sofia lui oppose un refus sans appel, arguant de l’extrême fragilité de la toile.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/09/en-demandant-le-pret-de-guernica-le-pays-basque-ravive-un-debat-sensible-en-espagne_6678392_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-09T01:00:05.000Z",
-          "fetchedAt": "2026-04-09T06:50:35.728Z"
-        },
-        {
-          "id": "2026-04-08-dfad161b",
-          "title": "Le conflit en Iran, un choc énergétique majeur",
-          "description": "Le monde est encore dépendant des énergies fossiles mais la guerre en Iran pourrait être le point de départ d'un \"bouleversement de l'architecture énergétique mondiale\". C'est ce que pense Fatih Birol, le directeur exécutif de l'Agence Internationale de l'Énergie. Dans un entretien au Figaro, il prévoit une accélération dans la course aux énergies renouvelables. En revanche, il n'évoque pas un avenir plus sobre en énergie. Depuis 50 ans, les besoins mondiaux en énergie ont été multipliés par 3.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260408-le-conflit-en-iran-un-choc-%C3%A9nerg%C3%A9tique-majeur",
-          "imageUrl": "https://s.france24.com/media/display/049478b6-336c-11f1-a403-005056bf30b7/w:1024/p:16x9/capture-155575321669d688f4ae4631-47521201.jpg",
+          "id": "2026-04-09-9ff665c1",
+          "title": "Ukraine : Poutine annonce un cessez-le-feu pour la Pâques orthodoxe, Kiev fait de même",
+          "description": "Le ⁠président russe Vladimir ​Poutine a annoncé jeudi une ​trêve de deux jours pour la Pâques orthodoxe. Le cessez-le-feu sera en vigueur du 11 ⁠avril à 16 h jusqu'à la fin de soirée le ​12 avril. Le président ukrainien Volodymyr Zelensky a dit avoir accepté, tout en rappelant que Kiev avait proposé à plusieurs reprises ces derniers mois une telle trêve.",
+          "url": "https://www.france24.com/fr/europe/20260409-ukraine-poutine-annonce-un-cessez-le-feu-pour-la-p%C3%A2que-orthodoxe-kiev-devrait-en-faire-autant",
+          "imageUrl": "https://s.france24.com/media/display/7ef2c250-344a-11f1-b871-005056bfb2b6/w:1024/p:16x9/2026-04-09T192243Z-716479078-RC2SLKA9VF0C-RTRMADP-3-RUSSIA-PUTIN.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-08T17:01:57.000Z",
-          "fetchedAt": "2026-04-09T06:50:35.991Z"
+          "publishedAt": "2026-04-09T19:19:35.000Z",
+          "fetchedAt": "2026-04-10T06:07:13.432Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
-      "category": "tech",
+      "id": "cluster-7",
+      "topic": "EN DIRECT - Guerre au Moyen-Orient: des négociations sur le Liban à Washington p",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-08-29e8721b",
-          "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
-          "description": "Meta touts strong benchmarks but admits \"performance gaps\" in agentic and coding systems.",
-          "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-1152x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-04-08T19:59:10.000Z",
-          "fetchedAt": "2026-04-09T06:51:01.423Z"
+          "id": "2026-04-10-71a41503",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: des négociations sur le Liban à Washington pour sauver la trêve en Iran",
+          "description": "De premières discussions indirectes sous l'égide des autorités pakistanaises doivent démarrer demain entre l'Iran et les États-Unis qui ont quinze jours pour se mettre d'accord afin de mettre un terme définitif à la guerre. Depuis 48 heures, la question du Liban fait figure de ligne rouge après les frappes meurtrières de l'armée israélienne à Beyrouth malgré le cessez-le-feu. Les lignes ont fini par bouger jeudi : le département d'État américain va accueillir des discussions directes entre Israël et le Liban dès la semaine prochaine aux États-Unis.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260410-en-direct-guerre-au-moyen-orient-des-n%C3%A9gociations-sur-le-liban-%C3%A0-washington-pour-sauver-la-tr%C3%AAve-en-iran",
+          "imageUrl": "https://s.rfi.fr/media/display/0d6bece4-3493-11f1-a886-005056bfb2b6/w:1024/p:16x9/AP26099290126519.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T04:10:38.000Z",
+          "fetchedAt": "2026-04-10T06:07:23.486Z"
         },
         {
-          "id": "2026-04-08-b10804f7",
-          "title": "Meta is reentering the AI race with a new model called Muse Spark",
-          "description": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appear in WhatsApp, Instagram, Facebook, Messenger, and Meta's smart glasses, as well as roll out in other countries.  \nLike Google Gemini, which easily integrates into Google's product suite, Meta touts Muse Spark as \"purpose-built for Meta's products.\" The model, the first in a new series, will also be available to some of Meta's partners in private …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0312.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-04-10-42be2063",
+          "title": "EN DIRECT, guerre au Moyen-Orient : un cessez-le-feu fragile, entre attaques israéliennes sur le Liban et menaces américaines pour rouvrir le détroit d’Ormuz",
+          "description": "Washington a accusé Téhéran de ne pas respecter ses promesses, Donald Trump étant opposé à tout péage pour le passage maritime. Depuis mercredi, les bombardements israéliens ont tué plus de 300 personnes et en ont blessé au moins 1 150, selon le ministère de la santé libanais.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/10/en-direct-guerre-au-moyen-orient-donald-trump-met-en-garde-l-iran-contre-tout-peage-dans-le-detroit-d-ormuz_6676633_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T03:47:33.000Z",
+          "fetchedAt": "2026-04-10T06:07:13.361Z"
+        },
+        {
+          "id": "2026-04-10-552c44de",
+          "title": "Quand Trump joue au “fou”, il montre sa faiblesse",
+          "description": "Avec ses menaces apocalyptiques, le président des États-Unis a semblé appliquer la théorie de Richard Nixon : pour intimider ses adversaires, il faut avoir l’air prêt à faire n’importe quoi. Sauf que l’Iran n’était pas dupe, écrit “The Atlantic” : il a bien vu que Trump bluffait et paniquait.",
+          "url": "https://www.courrierinternational.com/article/opinion-quand-trump-joue-au-fou-il-montre-sa-faiblesse_242740",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/09/0/0/2400/1600/1200/630/60/0/b5c37c1_upload-1-gu2eqdm9zrlt-trump-web.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T03:00:11.000Z",
+          "fetchedAt": "2026-04-10T06:07:13.672Z"
+        },
+        {
+          "id": "2026-04-10-121562b8",
+          "title": "En direct : le cessez-le-feu entre les États-Unis et l'Iran fragilisé avant les négociations",
+          "description": "Les sirènes d’alerte ont retenti tôt vendredi matin à travers Israël, y compris à Tel-Aviv et dans la ville côtière d’Ashdod, a indiqué l’armée israélienne, après le tir de roquettes en provenance du Liban. Le cessez-le-feu entre les États-Unis et l'Iran semblait de plus en plus fragile vendredi, alors que Washington a accusé Téhéran de ne pas respecter ses promesses concernant le détroit d'Ormuz et qu'Israël a mené des bombardements au Liban. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260410-en-direct-iran-etats-unis-negociations-pakistan-cessez-le-feu-liban-israel-jd-vance",
+          "imageUrl": "https://s.france24.com/media/display/08d63924-348d-11f1-8c3d-005056bfb2b6/w:1024/p:16x9/AP26099566332447.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T02:35:22.000Z",
+          "fetchedAt": "2026-04-10T06:07:13.432Z"
+        },
+        {
+          "id": "2026-04-10-25886363",
+          "title": "Guerre au Moyen-Orient : Washington va accueillir des pourparlers entre Israël et le Liban",
+          "description": "Un responsable américain a affirmé jeudi que Washington accueillerait la semaine prochaine une réunion \"pour discuter des négociations de cessez-le-feu avec Israël et le Liban\". En attendant, les frappes israéliennes contre le Hezbollah continuent. Ce vendredi, c'est le Pakistan qui accueille des pourparlers diplomatiques, cette fois entre l'Iran et les États-Unis.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260410-guerre-moyen-orient-washington-pourparlers-israel-liban-iran-pakistan-etats-unis",
+          "imageUrl": "https://s.france24.com/media/display/5488c28e-3482-11f1-aff8-005056a90284/w:1024/p:16x9/AP26099677731618.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T02:14:27.000Z",
+          "fetchedAt": "2026-04-10T06:07:13.432Z"
+        },
+        {
+          "id": "2026-04-10-88a05c81",
+          "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+          "description": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
+          "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fb74/live/ad515bf0-347e-11f1-bbf7-7db5bb17fba6.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T02:10:44.000Z",
+          "fetchedAt": "2026-04-10T06:07:23.473Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-12",
+      "topic": "CAN-2025: le patron de la CAF, Patrice Motsepe, à Rabat pour apaiser les tension",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-10-9bed8d56",
+          "title": "CAN-2025: le patron de la CAF, Patrice Motsepe, à Rabat pour apaiser les tensions",
+          "description": "Patrice Motsepe était ce jeudi à Rabat, au Maroc, pour s'entretenir avec le président de la Fédération marocaine de football, Fouzi Lekjaa. Le tout dans un contexte tendu après la décision du jury d'appel de la CAF, qui a retiré la victoire au Sénégal lors de la dernière Coupe d'Afrique des Nations (CAN) organisée au Maroc.  L'affaire a été portée au Tribunal arbitral du sport et en attendant sa résolution, le président du football africain tente d'apaiser les tensions.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260410-can-2025-le-patron-de-la-caf-patrice-motsepe-%C3%A0-rabat-pour-apaiser-les-tensions",
+          "imageUrl": "https://s.rfi.fr/media/display/274df980-345d-11f1-9cf2-005056a97e36/w:1024/p:16x9/000-A7BB6AY.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T03:07:49.000Z",
+          "fetchedAt": "2026-04-10T06:07:23.486Z"
+        },
+        {
+          "id": "2026-04-09-7314f7d6",
+          "title": "Sénégal : le président de la CAF Patrice Motsepe en visite à Dakar",
+          "description": "Patrice Motsepe, président de la Confédération africaine de football, est en visite à Dakar. Une visite près d'un mois après la décision de retirer au Sénégal son titre de champion d'Afrique au profit du Maroc. Il s'est entretenu avec le président Diomaye Faye avant de tenir une conférence de presse.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260409-s%C3%A9n%C3%A9gal-le-pr%C3%A9sident-de-la-caf-patrice-motsepe-en-visite-%C3%A0-dakar",
+          "imageUrl": "https://s.france24.com/media/display/386e8a68-3421-11f1-9540-005056a90284/w:1024/p:16x9/FR-20260408-215233-215545-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-09T15:26:33.000Z",
+          "fetchedAt": "2026-04-10T06:07:13.432Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-04-10-d7322d05",
+          "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+          "description": "After leaks on Artemis I and II, Orion's next flight to the Moon will need new valves.",
+          "url": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55194459003_3bae619a73_o-1152x648-1775781075.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-04-08T16:12:54.000Z",
-          "fetchedAt": "2026-04-09T06:51:01.304Z"
+          "publishedAt": "2026-04-10T00:55:51.000Z",
+          "fetchedAt": "2026-04-10T06:07:30.679Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "How the Iran war affects your money and bills",
+      "topic": "1er-Mai : l’autorisation pour les salariés de travailler débattue à l’Assemblée ",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-04-09-80e56bb4",
-          "title": "How the Iran war affects your money and bills",
-          "description": "The conflict in the Middle East has increased pressure on the cost of petrol, household energy bills and even food.",
-          "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/afaf/live/7cc7a4a0-1bc2-11f1-964c-87b629a369ca.jpg",
-          "source": "BBC Business",
+          "id": "2026-04-10-2165e064",
+          "title": "1er-Mai : l’autorisation pour les salariés de travailler débattue à l’Assemblée nationale ; soutiens et opposants se mobilisent",
+          "description": "Adoptée au Sénat l’été dernier, la proposition de loi issue de sénateurs centristes et soutenue par le gouvernement fait son retour ce vendredi à l’Assemblée.",
+          "url": "https://www.lemonde.fr/politique/article/2026/04/10/1er-mai-l-autorisation-pour-les-salaries-de-travailler-debattue-a-l-assemblee-nationale-soutiens-et-opposants-se-mobilisent_6678806_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-04-09T06:42:15.000Z",
-          "fetchedAt": "2026-04-09T06:51:04.981Z"
+          "publishedAt": "2026-04-10T05:47:20.000Z",
+          "fetchedAt": "2026-04-10T06:07:30.767Z"
         }
       ]
     }
