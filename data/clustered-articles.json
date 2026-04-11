@@ -1,187 +1,231 @@
 {
-  "generatedAt": "2026-04-10T06:11:13.972Z",
+  "generatedAt": "2026-04-11T05:43:43.753Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-4",
-      "topic": "EN DIRECT, guerre en Ukraine : un cessez-le-feu décidé pour la Pâque orthodoxe e",
+      "id": "cluster-2",
+      "topic": "Après leur périple lunaire, les astronautes de la mission Artémis II de retour s",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-10-f3c98167",
-          "title": "EN DIRECT, guerre en Ukraine : un cessez-le-feu décidé pour la Pâque orthodoxe entre en vigueur à 16 heures ; Kiev le « respectera si la Russie fait de même »",
-          "description": "Moscou a annoncé que cette trêve unilatérale durerait « jusqu’à la fin de la journée du 12 avril 2026 », selon l’agence étatique TASS. « L’Ukraine a fait savoir à plusieurs reprises qu[’elle était] prêt[e] à prendre des mesures réciproques », a réagi Volodymyr Zelensky.",
-          "url": "https://www.lemonde.fr/international/live/2026/04/10/en-direct-guerre-en-ukraine-poutine-annonce-un-cessez-le-feu-pour-la-paque-orthodoxe-kiev-le-respectera-si-la-russie-fait-de-meme_6676836_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-10T04:52:39.000Z",
-          "fetchedAt": "2026-04-10T06:07:13.361Z"
-        },
-        {
-          "id": "2026-04-10-296f36bc",
-          "title": "« Vous n’avez pas de regrets de devoir tuer ? » : dans le Transsibérien, chroniques de soldats russes de retour d’Ukraine",
-          "description": "« A bord du Transsibérien » (2/2). Dans le train qui file vers l’Extrême-Orient, entre Novossibirsk et Vladivostok, début janvier, la violence de la guerre en Ukraine est au cœur des conversations entre soldats en permission et passagers « ordinaires ».",
-          "url": "https://www.lemonde.fr/international/article/2026/04/10/vous-n-avez-pas-de-regrets-de-devoir-tuer-dans-le-transsiberien-chroniques-de-soldats-russes-de-retour-d-ukraine_6678769_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-10T04:00:51.000Z",
-          "fetchedAt": "2026-04-10T06:07:13.361Z"
-        },
-        {
-          "id": "2026-04-09-9ff665c1",
-          "title": "Ukraine : Poutine annonce un cessez-le-feu pour la Pâques orthodoxe, Kiev fait de même",
-          "description": "Le ⁠président russe Vladimir ​Poutine a annoncé jeudi une ​trêve de deux jours pour la Pâques orthodoxe. Le cessez-le-feu sera en vigueur du 11 ⁠avril à 16 h jusqu'à la fin de soirée le ​12 avril. Le président ukrainien Volodymyr Zelensky a dit avoir accepté, tout en rappelant que Kiev avait proposé à plusieurs reprises ces derniers mois une telle trêve.",
-          "url": "https://www.france24.com/fr/europe/20260409-ukraine-poutine-annonce-un-cessez-le-feu-pour-la-p%C3%A2que-orthodoxe-kiev-devrait-en-faire-autant",
-          "imageUrl": "https://s.france24.com/media/display/7ef2c250-344a-11f1-b871-005056bfb2b6/w:1024/p:16x9/2026-04-09T192243Z-716479078-RC2SLKA9VF0C-RTRMADP-3-RUSSIA-PUTIN.jpg",
+          "id": "2026-04-11-0d16c94d",
+          "title": "Après leur périple lunaire, les astronautes de la mission Artémis II de retour sur Terre",
+          "description": "Les ⁠quatre astronautes d'Artémis II sont ​revenus sur Terre vendredi soir, amerrissant dans l'océan Pacifique au large du sud de la Californie, au terme du premier vol habité autour de la ​Lune depuis plus d'un demi-siècle.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260411-apr%C3%A8s-leur-p%C3%A9riple-lunaire-les-astronautes-de-la-mission-art%C3%A9mis-ii-de-retour-sur-terre",
+          "imageUrl": "https://s.france24.com/media/display/04608ff0-353e-11f1-996e-005056bfb2b6/w:1024/p:16x9/904d39a483e639a3af8572fdc81427f9db185602.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-09T19:19:35.000Z",
-          "fetchedAt": "2026-04-10T06:07:13.432Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "EN DIRECT - Guerre au Moyen-Orient: des négociations sur le Liban à Washington p",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
+          "publishedAt": "2026-04-11T05:01:43.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.243Z"
+        },
         {
-          "id": "2026-04-10-71a41503",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: des négociations sur le Liban à Washington pour sauver la trêve en Iran",
-          "description": "De premières discussions indirectes sous l'égide des autorités pakistanaises doivent démarrer demain entre l'Iran et les États-Unis qui ont quinze jours pour se mettre d'accord afin de mettre un terme définitif à la guerre. Depuis 48 heures, la question du Liban fait figure de ligne rouge après les frappes meurtrières de l'armée israélienne à Beyrouth malgré le cessez-le-feu. Les lignes ont fini par bouger jeudi : le département d'État américain va accueillir des discussions directes entre Israël et le Liban dès la semaine prochaine aux États-Unis.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260410-en-direct-guerre-au-moyen-orient-des-n%C3%A9gociations-sur-le-liban-%C3%A0-washington-pour-sauver-la-tr%C3%AAve-en-iran",
-          "imageUrl": "https://s.rfi.fr/media/display/0d6bece4-3493-11f1-a886-005056bfb2b6/w:1024/p:16x9/AP26099290126519.jpg",
+          "id": "2026-04-11-96c160fc",
+          "title": "Présidentielle au Bénin: une décennie de transformation économique et des défis persistants",
+          "description": "Deux candidats sont en lice ce 12 avril 2026 pour succéder à Patrice Talon à la présidence du Bénin, qui quitte le pouvoir après deux mandats de 5 ans. Une décennie durant laquelle l’économie du pays a été profondément transformée, même si elle fait toujours face à un certain nombre de défis.",
+          "url": "https://www.rfi.fr/fr/afrique/20260411-pr%C3%A9sidentielle-b%C3%A9nin-d%C3%A9cennie-transformation-%C3%A9conomique-et-des-d%C3%A9fis-persistants",
+          "imageUrl": "https://s.rfi.fr/media/display/573145de-34db-11f1-8db5-005056a97e36/w:1024/p:16x9/FotoJet-56.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-10T04:10:38.000Z",
-          "fetchedAt": "2026-04-10T06:07:23.486Z"
+          "publishedAt": "2026-04-11T04:52:05.000Z",
+          "fetchedAt": "2026-04-11T05:39:56.911Z"
         },
         {
-          "id": "2026-04-10-42be2063",
-          "title": "EN DIRECT, guerre au Moyen-Orient : un cessez-le-feu fragile, entre attaques israéliennes sur le Liban et menaces américaines pour rouvrir le détroit d’Ormuz",
-          "description": "Washington a accusé Téhéran de ne pas respecter ses promesses, Donald Trump étant opposé à tout péage pour le passage maritime. Depuis mercredi, les bombardements israéliens ont tué plus de 300 personnes et en ont blessé au moins 1 150, selon le ministère de la santé libanais.",
-          "url": "https://www.lemonde.fr/international/live/2026/04/10/en-direct-guerre-au-moyen-orient-donald-trump-met-en-garde-l-iran-contre-tout-peage-dans-le-detroit-d-ormuz_6676633_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-04-11-19fa175d",
+          "title": "Djibouti: Ismaïl Omar Guelleh réélu avec 97,81% des voix pour un sixième mandat",
+          "description": "Les Djiboutiens étaient appelés aux urnes hier, vendredi, pour élire leur président de la République. Le président sortant Ismaïl Omar Guelleh a été réélu avec 97,81% des voix, selon des résultats officiels, proclamés ce samedi, au terme d'une journée de vote, vendredi 10 avril, sans heurt ni incident mais sans véritable enjeu électoral, de l'avis de l'opposition.",
+          "url": "https://www.rfi.fr/fr/afrique/20260411-djibouti-isma%C3%AFl-omar-guelleh-r%C3%A9%C3%A9lu-avec-97-81-des-voix-pour-un-sixi%C3%A8me-mandat",
+          "imageUrl": "https://s.rfi.fr/media/display/007e02ce-355b-11f1-b061-005056a90284/w:1024/p:16x9/HFkv0jlXMAEx0g1.jfif",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-10T03:47:33.000Z",
-          "fetchedAt": "2026-04-10T06:07:13.361Z"
+          "publishedAt": "2026-04-11T04:03:50.000Z",
+          "fetchedAt": "2026-04-11T05:39:56.911Z"
         },
         {
-          "id": "2026-04-10-552c44de",
-          "title": "Quand Trump joue au “fou”, il montre sa faiblesse",
-          "description": "Avec ses menaces apocalyptiques, le président des États-Unis a semblé appliquer la théorie de Richard Nixon : pour intimider ses adversaires, il faut avoir l’air prêt à faire n’importe quoi. Sauf que l’Iran n’était pas dupe, écrit “The Atlantic” : il a bien vu que Trump bluffait et paniquait.",
-          "url": "https://www.courrierinternational.com/article/opinion-quand-trump-joue-au-fou-il-montre-sa-faiblesse_242740",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/09/0/0/2400/1600/1200/630/60/0/b5c37c1_upload-1-gu2eqdm9zrlt-trump-web.jpg",
+          "id": "2026-04-11-eb39ef53",
+          "title": "Les astronautes de la mission Artémis de retour sur Terre",
+          "description": "Les astronautes de la mission Artemis II ont amerri sains et saufs au large des côtes californiennes, vendredi, après leur mission historique de 10 jours autour de la Lune.",
+          "url": "https://www.courrierinternational.com/article/espace-les-astronautes-de-la-mission-artemis-de-retour-sur-terre_242820",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/11/0/341/3156/2104/1200/630/60/0/2e0b0a9_ftp-1-z8629zsaqjsc-2026-04-11t003926z-747683208-rc2omkagxfbp-rtrmadp-3-space-moon-artemis.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-10T03:00:11.000Z",
-          "fetchedAt": "2026-04-10T06:07:13.672Z"
+          "publishedAt": "2026-04-11T03:32:06.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.744Z"
         },
         {
-          "id": "2026-04-10-121562b8",
-          "title": "En direct : le cessez-le-feu entre les États-Unis et l'Iran fragilisé avant les négociations",
-          "description": "Les sirènes d’alerte ont retenti tôt vendredi matin à travers Israël, y compris à Tel-Aviv et dans la ville côtière d’Ashdod, a indiqué l’armée israélienne, après le tir de roquettes en provenance du Liban. Le cessez-le-feu entre les États-Unis et l'Iran semblait de plus en plus fragile vendredi, alors que Washington a accusé Téhéran de ne pas respecter ses promesses concernant le détroit d'Ormuz et qu'Israël a mené des bombardements au Liban. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260410-en-direct-iran-etats-unis-negociations-pakistan-cessez-le-feu-liban-israel-jd-vance",
-          "imageUrl": "https://s.france24.com/media/display/08d63924-348d-11f1-8c3d-005056bfb2b6/w:1024/p:16x9/AP26099566332447.jpg",
-          "source": "France 24",
+          "id": "2026-04-11-cf547a33",
+          "title": "Six pieds sous terre, les catacombes de Paris retrouvent une seconde jeunesse",
+          "description": "Depuis mercredi 8 avril, après cinq mois de rénovation, l’ossuaire souterrain de la capitale française est de nouveau accessible au public. “The New York Times” s’est rendu dans ce “labyrinthe froid, humide et macabre” pendant sa restauration.",
+          "url": "https://www.courrierinternational.com/article/vu-des-etats-unis-six-pieds-sous-terre-les-catacombes-de-paris-retrouvent-une-seconde-jeunesse_242682",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/07/0/0/4999/3333/1200/630/60/0/9e47f1a_ftp-1-5bwlfeqanjjg-paris-catacombs-2.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-10T02:35:22.000Z",
-          "fetchedAt": "2026-04-10T06:07:13.432Z"
+          "publishedAt": "2026-04-11T03:00:12.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.744Z"
         },
         {
-          "id": "2026-04-10-25886363",
-          "title": "Guerre au Moyen-Orient : Washington va accueillir des pourparlers entre Israël et le Liban",
-          "description": "Un responsable américain a affirmé jeudi que Washington accueillerait la semaine prochaine une réunion \"pour discuter des négociations de cessez-le-feu avec Israël et le Liban\". En attendant, les frappes israéliennes contre le Hezbollah continuent. Ce vendredi, c'est le Pakistan qui accueille des pourparlers diplomatiques, cette fois entre l'Iran et les États-Unis.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260410-guerre-moyen-orient-washington-pourparlers-israel-liban-iran-pakistan-etats-unis",
-          "imageUrl": "https://s.france24.com/media/display/5488c28e-3482-11f1-aff8-005056a90284/w:1024/p:16x9/AP26099677731618.jpg",
-          "source": "France 24",
+          "id": "2026-04-10-ca81aae9",
+          "title": "A Djibouti, le président Ismaïl Omar Guelleh réélu pour un sixième mandat avec 97,81 % des voix",
+          "description": "La présidentielle s’est tenue dans un contexte de répression politique et de chômage massif. Le sortant, à la tête du pays depuis bientôt trente ans, avait d’abord annoncé qu’il passerait la main en 2026, mais une révision constitutionnelle avait finalement levé la limite d’âge des candidats, lui permettant de se représenter.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/04/11/a-djibouti-ismail-omar-guelleh-s-autoproclame-reelu-pour-un-sixieme-mandat_6679173_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-10T02:14:27.000Z",
-          "fetchedAt": "2026-04-10T06:07:13.432Z"
-        },
-        {
-          "id": "2026-04-10-88a05c81",
-          "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
-          "description": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
-          "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fb74/live/ad515bf0-347e-11f1-bbf7-7db5bb17fba6.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-10T02:10:44.000Z",
-          "fetchedAt": "2026-04-10T06:07:23.473Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-12",
-      "topic": "CAN-2025: le patron de la CAF, Patrice Motsepe, à Rabat pour apaiser les tension",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-10-9bed8d56",
-          "title": "CAN-2025: le patron de la CAF, Patrice Motsepe, à Rabat pour apaiser les tensions",
-          "description": "Patrice Motsepe était ce jeudi à Rabat, au Maroc, pour s'entretenir avec le président de la Fédération marocaine de football, Fouzi Lekjaa. Le tout dans un contexte tendu après la décision du jury d'appel de la CAF, qui a retiré la victoire au Sénégal lors de la dernière Coupe d'Afrique des Nations (CAN) organisée au Maroc.  L'affaire a été portée au Tribunal arbitral du sport et en attendant sa résolution, le président du football africain tente d'apaiser les tensions.",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20260410-can-2025-le-patron-de-la-caf-patrice-motsepe-%C3%A0-rabat-pour-apaiser-les-tensions",
-          "imageUrl": "https://s.rfi.fr/media/display/274df980-345d-11f1-9cf2-005056a97e36/w:1024/p:16x9/000-A7BB6AY.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-10T03:07:49.000Z",
-          "fetchedAt": "2026-04-10T06:07:23.486Z"
-        },
-        {
-          "id": "2026-04-09-7314f7d6",
-          "title": "Sénégal : le président de la CAF Patrice Motsepe en visite à Dakar",
-          "description": "Patrice Motsepe, président de la Confédération africaine de football, est en visite à Dakar. Une visite près d'un mois après la décision de retirer au Sénégal son titre de champion d'Afrique au profit du Maroc. Il s'est entretenu avec le président Diomaye Faye avant de tenir une conférence de presse.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260409-s%C3%A9n%C3%A9gal-le-pr%C3%A9sident-de-la-caf-patrice-motsepe-en-visite-%C3%A0-dakar",
-          "imageUrl": "https://s.france24.com/media/display/386e8a68-3421-11f1-9540-005056a90284/w:1024/p:16x9/FR-20260408-215233-215545-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-09T15:26:33.000Z",
-          "fetchedAt": "2026-04-10T06:07:13.432Z"
+          "publishedAt": "2026-04-10T23:53:04.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.216Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
-      "category": "tech",
-      "importance": 7,
+      "topic": "EN DIRECT, guerre au Moyen-Orient : la délégation iranienne est arrivée au Pakis",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-04-10-d7322d05",
-          "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
-          "description": "After leaks on Artemis I and II, Orion's next flight to the Moon will need new valves.",
-          "url": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55194459003_3bae619a73_o-1152x648-1775781075.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-04-10T00:55:51.000Z",
-          "fetchedAt": "2026-04-10T06:07:30.679Z"
+          "id": "2026-04-11-f75fb7ff",
+          "title": "EN DIRECT, guerre au Moyen-Orient : la délégation iranienne est arrivée au Pakistan pour les négociations de paix avec les Etats-Unis",
+          "description": "Le vice-président américain, J. D. Vance, qui dirige la délégation des Etats-Unis, a pour sa part quitté Washington vendredi pour ces pourparlers « à quitte ou double » à Islamabad, selon l’expression employée par le premier ministre pakistanais, Shehbaz Sharif.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/11/en-direct-guerre-au-moyen-orient-la-delegation-iranienne-est-arrivee-au-pakistan-pour-les-negociations-de-paix-avec-les-etats-unis_6676633_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-11T04:39:42.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.216Z"
+        },
+        {
+          "id": "2026-04-11-55e8360d",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: J.D. Vance en route pour le Pakistan pour le début de négociations avec l'Iran",
+          "description": "Le vice-président américain J.D. Vance est en route samedi pour le Pakistan, où doivent se tenir, dans un climat de méfiance mutuelle, des négociations entre les États-Unis et l'Iran pour mettre fin à la guerre au Moyen-Orient après six semaines de conflit.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260411-en-direct-guerre-au-moyen-orient-j-d-vance-en-route-pour-le-pakistan-pour-le-d%C3%A9but-de-n%C3%A9gociations-avec-l-iran",
+          "imageUrl": "https://s.rfi.fr/media/display/d4343c10-355a-11f1-a7e3-005056bf30b7/w:1024/p:16x9/AP26099214972880.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-11T03:59:58.000Z",
+          "fetchedAt": "2026-04-11T05:39:56.911Z"
+        },
+        {
+          "id": "2026-04-11-c159767e",
+          "title": "“Tension et incertitude” à l’aube des pourparlers entre l’Iran et les États-Unis au Pakistan",
+          "description": "À la veille des pourparlers entre l’Iran et les États-Unis au Pakistan, les belligérants ont fait assaut de déclarations menaçantes, vendredi, laissant augurer de discussions difficiles. Pour la presse internationale, il ne faut guère attendre de percée significative de ces négociations.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-tension-et-incertitude-a-l-aube-des-pourparlers-entre-l-iran-et-les-etats-unis-au-pakistan_242818",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/10/0/0/7971/5314/1200/630/60/0/7ddbd57_ftp-1-2lcembnonzmg-afp-a7du463.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-11T03:59:04.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.744Z"
+        },
+        {
+          "id": "2026-04-11-a22494b5",
+          "title": "Le cessez-le-feu entre Washington et Téhéran compromet les chances électorales de Nétanyahou",
+          "description": "La campagne militaire contre l’Iran, soutenue par une majorité de l’opinion publique israélienne, n’a pas atteint les objectifs fixés par le Premier ministre. Ce dernier, qui comptait en tirer un bénéfice politique, reste distancé dans les sondages à l’approche des législatives, explique le correspondant en Israël du “Financial Times”.",
+          "url": "https://www.courrierinternational.com/article/analyse-le-cessez-le-feu-entre-washington-et-teheran-compromet-les-chances-electorales-de-netanyahou_242802",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/25/0/0/3463/2308/1200/630/60/0/f79d146_ftp-1-a4br4ddjhou6-2026-03-25t134314z-340509604-rc2u7kanswtq-rtrmadp-3-iran-crisis-israel-politics.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-11T03:00:15.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.744Z"
+        },
+        {
+          "id": "2026-04-11-b9aba9f1",
+          "title": "J. D. Vance, le vice-président américain, en première ligne pour des négociations périlleuses avec l’Iran",
+          "description": "L’ancien sénateur de l’Ohio est le plus haut responsable américain à participer à des pourparlers avec la République islamique depuis 1979. Alors qu’il était hostile à une guerre d’ampleur, il sera accompagné de Steve Witkoff et Jared Kushner, les deux négociateurs habituels de Donald Trump.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/11/j-d-vance-le-vice-president-americain-en-premiere-ligne-pour-des-negociations-perilleuses-avec-l-iran_6679240_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-11T03:00:03.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.216Z"
+        },
+        {
+          "id": "2026-04-10-b1a0a054",
+          "title": "Au Venezuela, l’opposition appelle à des élections présidentielles après la capture de Maduro par les Etats-Unis",
+          "description": "La vice-présidente Delcy Rodriguez a été investie présidente par intérim le 5 janvier, deux jours après la capture du dirigeant déchu.",
+          "url": "https://www.lemonde.fr/elections/article/2026/04/10/au-venezuela-l-opposition-appelle-a-des-elections-presidentielles-apres-la-capture-de-maduro-par-les-etats-unis_6679087_5001134.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T17:27:05.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.216Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "1er-Mai : l’autorisation pour les salariés de travailler débattue à l’Assemblée ",
+      "id": "cluster-6",
+      "topic": "« C’est maintenant que l’on fête la naissance de Souleiman » : l’odyssée des béb",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-11-70a5c337",
+          "title": "« C’est maintenant que l’on fête la naissance de Souleiman » : l’odyssée des bébés prématurés de Gaza",
+          "description": "Evacués vers l’Egypte en novembre 2023 alors qu’ils n’étaient que des nourrissons en sursis, une partie des prématurés de l’hôpital Al-Shifa de Gaza a regagné l’enclave palestinienne fin mars. Parmi eux, le petit Souleiman a retrouvé une mère qui ne l’avait vu qu’en vidéo depuis sa naissance.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/11/c-est-maintenant-que-l-on-fete-la-naissance-de-souleiman-l-odyssee-des-bebes-prematures-de-gaza_6679319_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-11T04:00:30.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.216Z"
+        },
+        {
+          "id": "2026-04-10-26472b02",
+          "title": "Gaza : l’ONU condamne une « vague incessante de meurtres » de Palestiniens",
+          "description": "En dépit du cessez-le-feu entre Israël et le Hamas entré en vigueur il y a tout juste six mois, plus de 700 Palestiniens ont été tués et plus de 2 000 blessés dans la bande de Gaza. L’ONU dénonce une « impunité généralisée » d’Israël.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/10/gaza-l-onu-condamne-une-vague-incessante-de-meurtres-de-palestiniens_6679126_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T18:47:35.000Z",
+          "fetchedAt": "2026-04-11T05:39:43.216Z"
+        },
+        {
+          "id": "2026-04-10-817d4fe6",
+          "title": "«Vague incessante de meurtres» à Gaza, dénonce le Haut-Commissaire aux droits de l'homme de l'ONU",
+          "description": "Le Haut-Commissaire des Nations Unies aux droits de l'homme, Volker Türk, a condamné vendredi 10 avril les massacres de Palestiniens perpétrés dans la bande de Gaza, six mois après l'entrée en vigueur du fragile cessez-le-feu entre Israël et le Hamas. Depuis début avril, au moins 32 Palestiniens ont été tués par les forces israéliennes. « Les Palestiniens n’ont aucun moyen de survivre », dénonce Volker Türk.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260410-vague-incessante-de-meurtres-%C3%A0-gaza-d%C3%A9nonce-le-haut-commissaire-aux-droits-de-l-homme-de-l-onu",
+          "imageUrl": "https://s.rfi.fr/media/display/65645d04-350c-11f1-a734-005056bfb2b6/w:1024/p:16x9/000-A78M9NN.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-10T17:45:00.000Z",
+          "fetchedAt": "2026-04-11T05:39:56.911Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "The Artemis II mission has ended. Where does NASA go from here?",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-04-11-f1042af4",
+          "title": "The Artemis II mission has ended. Where does NASA go from here?",
+          "description": "\"The work ahead is greater than the work behind us.\"",
+          "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e021278large-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-04-11T03:24:21.000Z",
+          "fetchedAt": "2026-04-11T05:40:05.568Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Assurance auto : que couvre vraiment la garantie bris de glace ?",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-04-10-2165e064",
-          "title": "1er-Mai : l’autorisation pour les salariés de travailler débattue à l’Assemblée nationale ; soutiens et opposants se mobilisent",
-          "description": "Adoptée au Sénat l’été dernier, la proposition de loi issue de sénateurs centristes et soutenue par le gouvernement fait son retour ce vendredi à l’Assemblée.",
-          "url": "https://www.lemonde.fr/politique/article/2026/04/10/1er-mai-l-autorisation-pour-les-salaries-de-travailler-debattue-a-l-assemblee-nationale-soutiens-et-opposants-se-mobilisent_6678806_823448.html",
+          "id": "2026-04-11-e0836124",
+          "title": "Assurance auto : que couvre vraiment la garantie bris de glace ?",
+          "description": "Cette garantie est proposée en option dans les contrats au tiers, explique Olivier Moustacakis, directeur général d’Assurland.com.",
+          "url": "https://www.lemonde.fr/argent/article/2026/04/11/assurance-auto-que-couvre-vraiment-la-garantie-bris-de-glace_6679316_1657007.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-04-10T05:47:20.000Z",
-          "fetchedAt": "2026-04-10T06:07:30.767Z"
+          "publishedAt": "2026-04-11T04:00:22.000Z",
+          "fetchedAt": "2026-04-11T05:40:05.532Z"
         }
       ]
     }
