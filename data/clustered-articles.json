@@ -1,231 +1,220 @@
 {
-  "generatedAt": "2026-04-11T05:43:43.753Z",
+  "generatedAt": "2026-04-12T06:06:52.443Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Après leur périple lunaire, les astronautes de la mission Artémis II de retour s",
+      "id": "cluster-4",
+      "topic": "Guerre au Moyen-Orient en direct : les États-Unis et l'Iran échouent à trouver u",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-11-0d16c94d",
-          "title": "Après leur périple lunaire, les astronautes de la mission Artémis II de retour sur Terre",
-          "description": "Les ⁠quatre astronautes d'Artémis II sont ​revenus sur Terre vendredi soir, amerrissant dans l'océan Pacifique au large du sud de la Californie, au terme du premier vol habité autour de la ​Lune depuis plus d'un demi-siècle.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260411-apr%C3%A8s-leur-p%C3%A9riple-lunaire-les-astronautes-de-la-mission-art%C3%A9mis-ii-de-retour-sur-terre",
-          "imageUrl": "https://s.france24.com/media/display/04608ff0-353e-11f1-996e-005056bfb2b6/w:1024/p:16x9/904d39a483e639a3af8572fdc81427f9db185602.jpg",
+          "id": "2026-04-12-2af38ce7",
+          "title": "Guerre au Moyen-Orient en direct : les États-Unis et l'Iran échouent à trouver un accord de paix",
+          "description": "Les États-Unis et l'Iran ont échoué à trouver un accord pour mettre fin à la guerre au Moyen-Orient, au terme de négociations marathon à Islamabad, a annoncé dimanche le vice-président américain JD Vance, qui rentre aux États-Unis après avoir fait, selon lui, une \"offre finale et la meilleure possible\" à l'Iran. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260412-guerre-au-moyen-orient-en-direct-les-%C3%A9tats-unis-et-l-iran-%C3%A9chouent-%C3%A0-trouver-un-accord-de-paix",
+          "imageUrl": "https://s.france24.com/media/display/f1516844-362d-11f1-9153-005056a90284/w:1024/p:16x9/2026-04-12T023613Z-1201541175-RC2ENKA9BY8N-RTRMADP-3-IRAN-CRISIS-CEASEFIRE-PAKISTAN.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-11T05:01:43.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.243Z"
+          "publishedAt": "2026-04-12T05:11:03.000Z",
+          "fetchedAt": "2026-04-12T06:02:51.812Z"
         },
         {
-          "id": "2026-04-11-96c160fc",
-          "title": "Présidentielle au Bénin: une décennie de transformation économique et des défis persistants",
-          "description": "Deux candidats sont en lice ce 12 avril 2026 pour succéder à Patrice Talon à la présidence du Bénin, qui quitte le pouvoir après deux mandats de 5 ans. Une décennie durant laquelle l’économie du pays a été profondément transformée, même si elle fait toujours face à un certain nombre de défis.",
-          "url": "https://www.rfi.fr/fr/afrique/20260411-pr%C3%A9sidentielle-b%C3%A9nin-d%C3%A9cennie-transformation-%C3%A9conomique-et-des-d%C3%A9fis-persistants",
-          "imageUrl": "https://s.rfi.fr/media/display/573145de-34db-11f1-8db5-005056a97e36/w:1024/p:16x9/FotoJet-56.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-11T04:52:05.000Z",
-          "fetchedAt": "2026-04-11T05:39:56.911Z"
-        },
-        {
-          "id": "2026-04-11-19fa175d",
-          "title": "Djibouti: Ismaïl Omar Guelleh réélu avec 97,81% des voix pour un sixième mandat",
-          "description": "Les Djiboutiens étaient appelés aux urnes hier, vendredi, pour élire leur président de la République. Le président sortant Ismaïl Omar Guelleh a été réélu avec 97,81% des voix, selon des résultats officiels, proclamés ce samedi, au terme d'une journée de vote, vendredi 10 avril, sans heurt ni incident mais sans véritable enjeu électoral, de l'avis de l'opposition.",
-          "url": "https://www.rfi.fr/fr/afrique/20260411-djibouti-isma%C3%AFl-omar-guelleh-r%C3%A9%C3%A9lu-avec-97-81-des-voix-pour-un-sixi%C3%A8me-mandat",
-          "imageUrl": "https://s.rfi.fr/media/display/007e02ce-355b-11f1-b061-005056a90284/w:1024/p:16x9/HFkv0jlXMAEx0g1.jfif",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-11T04:03:50.000Z",
-          "fetchedAt": "2026-04-11T05:39:56.911Z"
-        },
-        {
-          "id": "2026-04-11-eb39ef53",
-          "title": "Les astronautes de la mission Artémis de retour sur Terre",
-          "description": "Les astronautes de la mission Artemis II ont amerri sains et saufs au large des côtes californiennes, vendredi, après leur mission historique de 10 jours autour de la Lune.",
-          "url": "https://www.courrierinternational.com/article/espace-les-astronautes-de-la-mission-artemis-de-retour-sur-terre_242820",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/11/0/341/3156/2104/1200/630/60/0/2e0b0a9_ftp-1-z8629zsaqjsc-2026-04-11t003926z-747683208-rc2omkagxfbp-rtrmadp-3-space-moon-artemis.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-11T03:32:06.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.744Z"
-        },
-        {
-          "id": "2026-04-11-cf547a33",
-          "title": "Six pieds sous terre, les catacombes de Paris retrouvent une seconde jeunesse",
-          "description": "Depuis mercredi 8 avril, après cinq mois de rénovation, l’ossuaire souterrain de la capitale française est de nouveau accessible au public. “The New York Times” s’est rendu dans ce “labyrinthe froid, humide et macabre” pendant sa restauration.",
-          "url": "https://www.courrierinternational.com/article/vu-des-etats-unis-six-pieds-sous-terre-les-catacombes-de-paris-retrouvent-une-seconde-jeunesse_242682",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/07/0/0/4999/3333/1200/630/60/0/9e47f1a_ftp-1-5bwlfeqanjjg-paris-catacombs-2.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-11T03:00:12.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.744Z"
-        },
-        {
-          "id": "2026-04-10-ca81aae9",
-          "title": "A Djibouti, le président Ismaïl Omar Guelleh réélu pour un sixième mandat avec 97,81 % des voix",
-          "description": "La présidentielle s’est tenue dans un contexte de répression politique et de chômage massif. Le sortant, à la tête du pays depuis bientôt trente ans, avait d’abord annoncé qu’il passerait la main en 2026, mais une révision constitutionnelle avait finalement levé la limite d’âge des candidats, lui permettant de se représenter.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/04/11/a-djibouti-ismail-omar-guelleh-s-autoproclame-reelu-pour-un-sixieme-mandat_6679173_3212.html",
+          "id": "2026-04-12-e772d467",
+          "title": "Arnaud Orain, économiste : « Une des grandes leçons de la guerre contre l’Iran, c’est qu’on ne contrôle pas si facilement la mer »",
+          "description": "Le blocage du détroit d’Ormuz est la nouvelle preuve du retour des frontières dans le trafic maritime, marqué par une concurrence et une militarisation grandissantes. La fluidité du commerce maritime, à la fin du XXᵉ siècle, a constitué une parenthèse historique révolue, ainsi que l’explique l’économiste et historien Arnaud Orain dans un entretien au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/04/12/arnaud-orain-economiste-une-des-grandes-lecons-de-la-guerre-contre-l-iran-c-est-qu-on-ne-controle-pas-si-facilement-la-mer_6679538_3232.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-10T23:53:04.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.216Z"
+          "publishedAt": "2026-04-12T04:30:07.000Z",
+          "fetchedAt": "2026-04-12T06:02:51.672Z"
+        },
+        {
+          "id": "2026-04-12-98a8ec93",
+          "title": "Guerre en Iran : J. D. Vance met fin aux pourparlers d’Islamabad après une seule journée de négociations, sans avoir obtenu d’accord",
+          "description": "Le vice-président américain a expliqué que les Iraniens refusaient d’accepter les « conditions » de Washington, notamment « un engagement clair de leur part qu’ils ne chercheront pas à se doter d’une arme nucléaire ».",
+          "url": "https://www.lemonde.fr/international/article/2026/04/12/guerre-en-iran-j-d-vance-met-fin-aux-pourparlers-d-islamabad-apres-une-seule-journee-de-negociations-sans-avoir-obtenu-d-accord_6679539_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-12T04:30:04.000Z",
+          "fetchedAt": "2026-04-12T06:02:51.672Z"
+        },
+        {
+          "id": "2026-04-12-15789b46",
+          "title": "À Islamabad, les États-Unis et l’Iran échouent à trouver un accord de paix",
+          "description": "Washington et Téhéran ne sont pas parvenus à s’entendre pour mettre fin à la guerre au Moyen-Orient, a annoncé dimanche le vice-président américain J.D. Vance, au terme de 21 heures de négociations au Pakistan. Cette impasse diplomatique fragilise le cessez-le-feu de deux semaines conclu la semaine dernière, observe la presse américaine.",
+          "url": "https://www.courrierinternational.com/article/pourparlers-a-islamabad-les-etats-unis-et-l-iran-echouent-a-trouver-un-accord-de-paix_242826",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/12/0/0/6000/4000/1200/630/60/0/b464039_ftp-1-15v5syrnxcnc-2026-04-12t021416z-86610405-rc2enkangvvf-rtrmadp-3-iran-crisis-ceasefire-pakistan.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-12T04:11:42.000Z",
+          "fetchedAt": "2026-04-12T06:02:52.081Z"
+        },
+        {
+          "id": "2026-04-12-993e79ee",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: le Pakistan appelle Américains et Iraniens à continuer à observer le cessez-le-feu",
+          "description": "Les États-Unis et l'Iran ont échoué à trouver un accord pour mettre fin à la guerre au Moyen-Orient, au terme de négociations marathon à Islamabad, a annoncé ce dimanche le vice-président américain J.D. Vance, qui rentre aux États-Unis après avoir fait, selon lui, une « offre finale et la meilleure possible » à l'Iran.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260412-en-direct-guerre-au-moyen-orient-le-pakistan-appelle-am%C3%A9ricains-et-iraniens-%C3%A0-continuer-%C3%A0-observer-le-cessez-le-feu",
+          "imageUrl": "https://s.rfi.fr/media/display/db58aac0-3623-11f1-a17f-005056a90284/w:1024/p:16x9/AP26102106215354.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-12T04:03:24.000Z",
+          "fetchedAt": "2026-04-12T06:03:02.515Z"
+        },
+        {
+          "id": "2026-04-12-96d8cc7e",
+          "title": "« La “victoire” en Iran, construite comme une “vérité alternative” par Trump, apparaît comme une réalité tragique pour les Iraniens »",
+          "description": "La proclamation, le 7 avril, par le président des Etats-Unis, d’une « victoire totale et complète », très loin de la situation en Iran, semble s’inscrire dans une stratégie consistant à imposer une autre réalité à coups d’esbroufe, de manipulation et d’élan disrupteur, note dans sa chronique Philippe Bernard, éditorialiste au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/04/12/la-victoire-en-iran-construite-comme-une-verite-alternative-par-trump-apparait-comme-une-realite-tragique-pour-les-iraniens_6679532_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-12T04:00:28.000Z",
+          "fetchedAt": "2026-04-12T06:02:51.672Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "EN DIRECT, guerre au Moyen-Orient : la délégation iranienne est arrivée au Pakis",
+      "id": "cluster-12",
+      "topic": "Le christianisme en Algérie : une longue histoire, un présent contrarié",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-11-f75fb7ff",
-          "title": "EN DIRECT, guerre au Moyen-Orient : la délégation iranienne est arrivée au Pakistan pour les négociations de paix avec les Etats-Unis",
-          "description": "Le vice-président américain, J. D. Vance, qui dirige la délégation des Etats-Unis, a pour sa part quitté Washington vendredi pour ces pourparlers « à quitte ou double » à Islamabad, selon l’expression employée par le premier ministre pakistanais, Shehbaz Sharif.",
-          "url": "https://www.lemonde.fr/international/live/2026/04/11/en-direct-guerre-au-moyen-orient-la-delegation-iranienne-est-arrivee-au-pakistan-pour-les-negociations-de-paix-avec-les-etats-unis_6676633_3210.html",
+          "id": "2026-04-12-6069be5c",
+          "title": "Le christianisme en Algérie : une longue histoire, un présent contrarié",
+          "description": "Du 13 au 15 avril, Léon XIV sera le premier pape à se rendre en Algérie. Initialement très dynamique, la religion chrétienne a disparu d’Algérie à la suite de la conquête musulmane, pour y revenir à l’époque coloniale. Aujourd’hui ultraminoritaire, le christianisme algérien voit cohabiter une Eglise catholique discrète et admise par le pouvoir, et des Eglises évangéliques en essor mais soumises à la répression.",
+          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/04/12/le-christianisme-en-algerie-une-longue-histoire-un-present-contrarie_6679537_6038514.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-11T04:39:42.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.216Z"
+          "publishedAt": "2026-04-12T04:00:45.000Z",
+          "fetchedAt": "2026-04-12T06:02:51.672Z"
         },
         {
-          "id": "2026-04-11-55e8360d",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: J.D. Vance en route pour le Pakistan pour le début de négociations avec l'Iran",
-          "description": "Le vice-président américain J.D. Vance est en route samedi pour le Pakistan, où doivent se tenir, dans un climat de méfiance mutuelle, des négociations entre les États-Unis et l'Iran pour mettre fin à la guerre au Moyen-Orient après six semaines de conflit.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260411-en-direct-guerre-au-moyen-orient-j-d-vance-en-route-pour-le-pakistan-pour-le-d%C3%A9but-de-n%C3%A9gociations-avec-l-iran",
-          "imageUrl": "https://s.rfi.fr/media/display/d4343c10-355a-11f1-a7e3-005056bf30b7/w:1024/p:16x9/AP26099214972880.jpg",
+          "id": "2026-04-12-b178fda9",
+          "title": "Elections en Hongrie : quels seraient les enjeux d’une défaite de Viktor Orban ? Comprendre en trois minutes",
+          "description": "Pour la première fois depuis 2010, le premier ministre hongrois, eurosceptique et dénoncé pour ses dérives autoritaires, est donné perdant. Un nouveau challenger issu de son propre parti, Péter Magyar, fait figure de favori.",
+          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/04/12/elections-en-hongrie-quels-seraient-les-enjeux-d-une-defaite-de-viktor-orban-comprendre-en-trois-minutes_6679526_6176282.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-12T04:00:03.000Z",
+          "fetchedAt": "2026-04-12T06:02:51.672Z"
+        },
+        {
+          "id": "2026-04-12-3b6be7a3",
+          "title": "Sénégal: à Bignona, le festival des musiques urbaines, un tremplin pour jeunes rappeurs et slameurs",
+          "description": "À Bignona, ville de Basse-Casamance, au Sénégal, se tenait la 11e édition du festival des musiques urbaines de Bignona. Un évènement qui depuis plus de 10 ans veut faire du chef-lieu du département un rendez-vous des musiques actuelles et de la jeunesse.",
+          "url": "https://www.rfi.fr/fr/musique/20260412-s%C3%A9n%C3%A9gal-%C3%A0-bignona-le-festival-des-musiques-urbaines-un-tremplin-pour-jeunes-rappeurs-et-slameurs",
+          "imageUrl": "https://s.rfi.fr/media/display/e8275dda-361b-11f1-aaf4-005056a90284/w:1024/p:16x9/Bignona.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-11T03:59:58.000Z",
-          "fetchedAt": "2026-04-11T05:39:56.911Z"
+          "publishedAt": "2026-04-12T03:08:45.000Z",
+          "fetchedAt": "2026-04-12T06:03:02.515Z"
         },
         {
-          "id": "2026-04-11-c159767e",
-          "title": "“Tension et incertitude” à l’aube des pourparlers entre l’Iran et les États-Unis au Pakistan",
-          "description": "À la veille des pourparlers entre l’Iran et les États-Unis au Pakistan, les belligérants ont fait assaut de déclarations menaçantes, vendredi, laissant augurer de discussions difficiles. Pour la presse internationale, il ne faut guère attendre de percée significative de ces négociations.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-tension-et-incertitude-a-l-aube-des-pourparlers-entre-l-iran-et-les-etats-unis-au-pakistan_242818",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/10/0/0/7971/5314/1200/630/60/0/7ddbd57_ftp-1-2lcembnonzmg-afp-a7du463.jpg",
+          "id": "2026-04-12-20036322",
+          "title": "En Hongrie, Orban joue sa survie politique dans une élection sous haute tension",
+          "description": "À quelques jours du scrutin du 12 avril, la campagne électorale hongroise est empoisonnée par des soupçons d’écoutes illégales et d’ingérence russe et ukrainienne. Les sondages donnent l’opposant Peter Magyar en tête face à Viktor Orban, au pouvoir depuis seize ans.",
+          "url": "https://www.courrierinternational.com/article/analyse-en-hongrie-orban-joue-sa-survie-politique-dans-une-election-sous-haute-tension_242418",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/07/0/0/2050/1366/1200/630/60/0/c5df34f_upload-1-qfmrqnapjgcr-web-1849-p-20-schrank.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-11T03:59:04.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.744Z"
+          "publishedAt": "2026-04-12T03:00:11.000Z",
+          "fetchedAt": "2026-04-12T06:02:52.081Z"
         },
         {
-          "id": "2026-04-11-a22494b5",
-          "title": "Le cessez-le-feu entre Washington et Téhéran compromet les chances électorales de Nétanyahou",
-          "description": "La campagne militaire contre l’Iran, soutenue par une majorité de l’opinion publique israélienne, n’a pas atteint les objectifs fixés par le Premier ministre. Ce dernier, qui comptait en tirer un bénéfice politique, reste distancé dans les sondages à l’approche des législatives, explique le correspondant en Israël du “Financial Times”.",
-          "url": "https://www.courrierinternational.com/article/analyse-le-cessez-le-feu-entre-washington-et-teheran-compromet-les-chances-electorales-de-netanyahou_242802",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/25/0/0/3463/2308/1200/630/60/0/f79d146_ftp-1-a4br4ddjhou6-2026-03-25t134314z-340509604-rc2u7kanswtq-rtrmadp-3-iran-crisis-israel-politics.JPG",
-          "source": "Courrier International",
+          "id": "2026-04-11-03119ee5",
+          "title": "Ligue des champions CAF : l’AS FAR Rabat prend une option pour la finale face à la Renaissance Berkane (2-0)",
+          "description": "Pour cette première demi-finale aller de Ligue des champions CAF dans un duel 100% marocain, l’AS FAR s’est imposé (2-0) à domicile au stade Prince Moulay Abdellah contre la Renaissance Berkane ce samedi soir. Dans un match d’abord haché et pauvre en occasions durant la première période, ce sont des réalisations d’Ahmed Hammoudan puis de Khalid Ait Ouarkhane qui ont permis aux Militaires de l’emporter pour prendre une sérieuse option pour la qualification en finale.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260411-ligue-des-champions-caf-l-as-far-rabat-prend-une-option-pour-la-finale-face-%C3%A0-la-renaissance-berkane-2-0",
+          "imageUrl": "https://s.rfi.fr/media/display/950605be-35eb-11f1-8b3d-005056bfb2b6/w:1024/p:16x9/Screenshot-2026-04-11-at-23-14-52-Ligue-des-Champions-d-Afrique-demi-finale-aller-Victoire-de-l-AS-FAR-sur-la-RS-Berkane-2-0.png",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-11T03:00:15.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.744Z"
+          "publishedAt": "2026-04-11T21:16:56.000Z",
+          "fetchedAt": "2026-04-12T06:03:02.515Z"
         },
         {
-          "id": "2026-04-11-b9aba9f1",
-          "title": "J. D. Vance, le vice-président américain, en première ligne pour des négociations périlleuses avec l’Iran",
-          "description": "L’ancien sénateur de l’Ohio est le plus haut responsable américain à participer à des pourparlers avec la République islamique depuis 1979. Alors qu’il était hostile à une guerre d’ampleur, il sera accompagné de Steve Witkoff et Jared Kushner, les deux négociateurs habituels de Donald Trump.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/11/j-d-vance-le-vice-president-americain-en-premiere-ligne-pour-des-negociations-perilleuses-avec-l-iran_6679240_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-04-11-a1ff3101",
+          "title": "Guinée : Sékouba Bambino, une voix entre tradition mandingue et scène mondiale",
+          "description": "Figure incontournable de la musique guinéenne, Sékouba Bambino Diabaté incarne depuis plus de quatre décennies l’alliance entre tradition griotique et modernité. Révélé très jeune, passé par le mythique Bembeya Jazz National, il a su imposer une carrière solo remarquable tout en s’ouvrant à l’international avec Africando.\n\n Dans ce focus du Journal de l’Afrique, retour sur le parcours d’un artiste devenu passeur entre générations et symbole de l’évolution des musiques africaines.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260411-guin%C3%A9e-s%C3%A9kouba-bambino-une-voix-entre-tradition-mandingue-et-sc%C3%A8ne-mondiale",
+          "imageUrl": "https://s.france24.com/media/display/d822f830-353b-11f1-a02d-005056a97e36/w:1024/p:16x9/FR-20260410-214936-215814-CS.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-11T03:00:03.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.216Z"
-        },
-        {
-          "id": "2026-04-10-b1a0a054",
-          "title": "Au Venezuela, l’opposition appelle à des élections présidentielles après la capture de Maduro par les Etats-Unis",
-          "description": "La vice-présidente Delcy Rodriguez a été investie présidente par intérim le 5 janvier, deux jours après la capture du dirigeant déchu.",
-          "url": "https://www.lemonde.fr/elections/article/2026/04/10/au-venezuela-l-opposition-appelle-a-des-elections-presidentielles-apres-la-capture-de-maduro-par-les-etats-unis_6679087_5001134.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-10T17:27:05.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.216Z"
+          "publishedAt": "2026-04-11T20:38:44.000Z",
+          "fetchedAt": "2026-04-12T06:02:51.812Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "« C’est maintenant que l’on fête la naissance de Souleiman » : l’odyssée des béb",
+      "id": "cluster-43",
+      "topic": "Cyclisme : Paul Seixas remporte le Tour du Pays basque, première victoire frança",
       "category": "geopolitique",
-      "importance": 10,
+      "importance": 9,
       "articles": [
         {
-          "id": "2026-04-11-70a5c337",
-          "title": "« C’est maintenant que l’on fête la naissance de Souleiman » : l’odyssée des bébés prématurés de Gaza",
-          "description": "Evacués vers l’Egypte en novembre 2023 alors qu’ils n’étaient que des nourrissons en sursis, une partie des prématurés de l’hôpital Al-Shifa de Gaza a regagné l’enclave palestinienne fin mars. Parmi eux, le petit Souleiman a retrouvé une mère qui ne l’avait vu qu’en vidéo depuis sa naissance.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/11/c-est-maintenant-que-l-on-fete-la-naissance-de-souleiman-l-odyssee-des-bebes-prematures-de-gaza_6679319_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-11T04:00:30.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.216Z"
-        },
-        {
-          "id": "2026-04-10-26472b02",
-          "title": "Gaza : l’ONU condamne une « vague incessante de meurtres » de Palestiniens",
-          "description": "En dépit du cessez-le-feu entre Israël et le Hamas entré en vigueur il y a tout juste six mois, plus de 700 Palestiniens ont été tués et plus de 2 000 blessés dans la bande de Gaza. L’ONU dénonce une « impunité généralisée » d’Israël.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/10/gaza-l-onu-condamne-une-vague-incessante-de-meurtres-de-palestiniens_6679126_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-10T18:47:35.000Z",
-          "fetchedAt": "2026-04-11T05:39:43.216Z"
-        },
-        {
-          "id": "2026-04-10-817d4fe6",
-          "title": "«Vague incessante de meurtres» à Gaza, dénonce le Haut-Commissaire aux droits de l'homme de l'ONU",
-          "description": "Le Haut-Commissaire des Nations Unies aux droits de l'homme, Volker Türk, a condamné vendredi 10 avril les massacres de Palestiniens perpétrés dans la bande de Gaza, six mois après l'entrée en vigueur du fragile cessez-le-feu entre Israël et le Hamas. Depuis début avril, au moins 32 Palestiniens ont été tués par les forces israéliennes. « Les Palestiniens n’ont aucun moyen de survivre », dénonce Volker Türk.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260410-vague-incessante-de-meurtres-%C3%A0-gaza-d%C3%A9nonce-le-haut-commissaire-aux-droits-de-l-homme-de-l-onu",
-          "imageUrl": "https://s.rfi.fr/media/display/65645d04-350c-11f1-a734-005056bfb2b6/w:1024/p:16x9/000-A78M9NN.jpg",
+          "id": "2026-04-11-205e18ab",
+          "title": "Cyclisme : Paul Seixas remporte le Tour du Pays basque, première victoire française depuis 19 ans",
+          "description": "Presque deux décennies plus tard, un coureur tricolore a enfin gagné une course par étapes. Paul Seixas (Decathlon CMA CGM), a remporté ce samedi le Tour du Pays basque à Bergara et devient le premier Français depuis Christophe Moreau en 2007 a décrocher une course d’une semaine au niveau World Tour. Le Lyonnais, vainqueur de trois étapes cette semaine, a remporté le classement général avec deux minutes et trente secondes d’avance sur l’Allemand Florian Lipowitz (RedBull-Bora-Hansgrohe) et le Norvégien Tobias Halland Johannessen (Uno-X Mobility) à l’issue de la 6e et dernière étape enlevée sous une pluie battante par l’Américain Andrew August (Ineos).",
+          "url": "https://www.rfi.fr/fr/sports/20260411-cyclisme-paul-seixas-remporte-le-tour-du-pays-basque-premi%C3%A8re-victoire-fran%C3%A7aise-depuis-19-ans",
+          "imageUrl": "https://s.rfi.fr/media/display/0dd132ce-35c5-11f1-bf45-005056a97e36/w:1024/p:16x9/000-A7GT37W.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-10T17:45:00.000Z",
-          "fetchedAt": "2026-04-11T05:39:56.911Z"
+          "publishedAt": "2026-04-11T16:43:26.000Z",
+          "fetchedAt": "2026-04-12T06:03:02.515Z"
+        },
+        {
+          "id": "2026-04-11-1c625a37",
+          "title": "Andrea Riccardi, fondateur de Sant’Egidio : « Aux yeux d’Emmanuel Macron, le pape Léon XIV incarne une figure d’autorité »",
+          "description": "Alors que le président français s’est rendu au Vatican, vendredi 10 avril, pour rencontrer le Saint-Père, le fondateur de la communauté Sant’Egidio décrypte, dans un entretien au « Monde », les grandes lignes de cette visite.",
+          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/04/11/andrea-riccardi-fondateur-de-sant-egidio-aux-yeux-d-emmanuel-macron-le-pape-leon-xiv-incarne-une-figure-d-autorite_6679378_6038514.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-11T15:20:54.000Z",
+          "fetchedAt": "2026-04-12T06:02:51.672Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "The Artemis II mission has ended. Where does NASA go from here?",
+      "id": "cluster-1",
+      "topic": "Data centers : « Limiter les impacts spatiaux, énergétiques et environnementaux ",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-04-11-f1042af4",
-          "title": "The Artemis II mission has ended. Where does NASA go from here?",
-          "description": "\"The work ahead is greater than the work behind us.\"",
-          "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e021278large-1152x648.jpg",
-          "source": "Ars Technica",
+          "id": "2026-04-12-fd76e29a",
+          "title": "Data centers : « Limiter les impacts spatiaux, énergétiques et environnementaux des grandes fermes de données est fondamental »",
+          "description": "Dans une tribune au « Monde », l’avocat Sébastien Barles alerte sur la nécessaire mise en place d’une régulation des infrastructures de données, au fonctionnement opaque, énergivore et riche d’externalités négatives dont pâtissent les territoires où sont implantées ces structures.",
+          "url": "https://www.lemonde.fr/idees/article/2026/04/12/data-centers-limiter-les-impacts-spatiaux-energetiques-et-environnementaux-des-grandes-fermes-de-donnees-est-fondamental_6679547_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-04-11T03:24:21.000Z",
-          "fetchedAt": "2026-04-11T05:40:05.568Z"
+          "publishedAt": "2026-04-12T06:00:15.000Z",
+          "fetchedAt": "2026-04-12T06:03:02.599Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Assurance auto : que couvre vraiment la garantie bris de glace ?",
+      "id": "cluster-7",
+      "topic": "« L’abolition de la convention judiciaire d’intérêt public entamerait la crédibi",
       "category": "eco",
-      "importance": 7,
+      "importance": 5,
       "articles": [
         {
-          "id": "2026-04-11-e0836124",
-          "title": "Assurance auto : que couvre vraiment la garantie bris de glace ?",
-          "description": "Cette garantie est proposée en option dans les contrats au tiers, explique Olivier Moustacakis, directeur général d’Assurland.com.",
-          "url": "https://www.lemonde.fr/argent/article/2026/04/11/assurance-auto-que-couvre-vraiment-la-garantie-bris-de-glace_6679316_1657007.html",
+          "id": "2026-04-11-559836b9",
+          "title": "« L’abolition de la convention judiciaire d’intérêt public entamerait la crédibilité de la France sur la scène internationale »",
+          "description": "Dans une tribune au « Monde », le vice-président de la Société française pour le droit international, Nicola Bonucci, et l’avocat Vincent Filhol s’insurgent contre le projet de suppression de la CJIP, dix ans après sa création par la loi Sapin 2 relative à la transparence.",
+          "url": "https://www.lemonde.fr/idees/article/2026/04/11/l-abolition-de-la-convention-judiciaire-d-interet-public-entamerait-la-credibilite-de-la-france-sur-la-scene-internationale_6679345_3232.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-04-11T04:00:22.000Z",
-          "fetchedAt": "2026-04-11T05:40:05.532Z"
+          "publishedAt": "2026-04-11T08:00:08.000Z",
+          "fetchedAt": "2026-04-12T06:03:10.743Z"
         }
       ]
     }
