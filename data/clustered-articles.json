@@ -1,176 +1,209 @@
 {
-  "generatedAt": "2026-04-13T06:30:34.103Z",
+  "generatedAt": "2026-04-14T06:14:07.796Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Peine de mort : l'Iran a exécuté au moins 1 639 personnes en 2025, un record dep",
+      "id": "cluster-1",
+      "topic": "États-Unis: forte réaction de la communauté catholique à «l'icone IA» de Donald ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-13-3c871308",
-          "title": "Peine de mort : l'Iran a exécuté au moins 1 639 personnes en 2025, un record depuis 1989",
-          "description": "Selon deux ONG, la République islamique d'Iran a atteint, en 2025, avec au moins 1 639 personnes tuées, un niveau inédit d’exécutions depuis plus de trois décennies, soit plus de quatre mises à mort par jour en moyenne.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260413-peine-de-mort-l-iran-a-ex%C3%A9cut%C3%A9-au-moins-1-639-personnes-en-2025-un-record-depuis-1989",
-          "imageUrl": "https://s.france24.com/media/display/0c5ed0e8-36fd-11f1-b6e4-005056bfb2b6/w:1024/p:16x9/5c60a4015dd1919be4a6e5b65ee8b835990ecfdf.jpg",
-          "source": "France 24",
+          "id": "2026-04-14-356637b5",
+          "title": "États-Unis: forte réaction de la communauté catholique à «l'icone IA» de Donald Trump",
+          "description": "Donald Trump persiste et signe : il ne s’excusera pas auprès du pape Léon XIV après l’avoir qualifié « de faible face aux crimes » et « terrible en politique étrangère ». Le président américain multiplie les attaques contre le souverain pontife qui dit ne pas vouloir entrer dans un débat avec lui. À cela, s’ajoute une image générée par IA qui a beaucoup fait parler et que le président a finalement supprimée face à la polémique.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260414-%C3%A9tats-unis-forte-r%C3%A9action-de-la-communaut%C3%A9-catholique-%C3%A0-l-icone-ia-de-donald-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/2f98f200-37c5-11f1-b4eb-005056a90284/w:1024/p:16x9/000-A7N23Z7.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-13T05:53:09.000Z",
-          "fetchedAt": "2026-04-13T06:26:33.501Z"
+          "publishedAt": "2026-04-14T05:56:48.000Z",
+          "fetchedAt": "2026-04-14T06:10:19.348Z"
         },
         {
-          "id": "2026-04-13-0282cb10",
-          "title": "Le pari risqué de Donald Trump, qui annonce un blocus maritime de l’Iran après l’échec des premières négociations",
-          "description": "Le président américain a décidé d’organiser un blocus des ports iraniens pour empêcher le contrôle du détroit d’Ormuz par Téhéran. Une mesure qui pourrait mener à une nouvelle escalade militaire.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/13/le-pari-risque-de-donald-trump-qui-fait-monter-la-pression-dans-le-detroit-d-ormuz-faute-d-une-capitulation-iranienne_6679652_3210.html",
+          "id": "2026-04-14-5676b154",
+          "title": "Madagascar: six mois de pouvoir militaire, quel bilan pour les jeunes?",
+          "description": "À Madagascar, cela fait aujourd’hui six mois que les militaires du Capsat ont pris le pouvoir. L’occasion de demander à la jeunesse malgache le bilan qu’elle tire des premiers mois du régime de la Refondation, elle qui a joué un rôle crucial dans la contestation contre Andry Rajoelina en investissant la rue pendant trois semaines en septembre et octobre 2025. À l’université d’Antananarivo, les jeunes rencontrés portent un regard pour le moins sévère, estimant que les autorités de transition n’ont pas rompu avec les pratiques du précédent régime.",
+          "url": "https://www.rfi.fr/fr/afrique/20260414-madagascar-six-mois-de-pouvoir-militaire-quel-bilan-pour-les-jeunes",
+          "imageUrl": "https://s.rfi.fr/media/display/d2c1fa2c-9bf2-11f0-bb36-005056bfb2b6/w:1024/p:16x9/000-76YT6UC.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-14T05:05:15.000Z",
+          "fetchedAt": "2026-04-14T06:10:19.348Z"
+        },
+        {
+          "id": "2026-04-14-229f7940",
+          "title": "Trump et l'Eglise catholique, \"le schisme\"",
+          "description": "A la Une de la presse, ce mardi 14 avril, l’indignation face aux critiques de Donald Trump sur le pape Léon. Le président des Etats-Unis, dont un juge fédéral a rejeté hier,  la plainte en diffamation contre The Wall Street Journal, et qui abandonne d’autres poursuites en diffamation contre The Guardian. Une enquête sur la façon dont les fake news ciblent les réfugiés, en France. Et une campagne pour compter les insectes.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260414-trump-et-l-eglise-catholique-le-schisme",
+          "imageUrl": "https://s.france24.com/media/display/9b0a1ef6-37bb-11f1-a04b-005056a97e36/w:1024/p:16x9/15-THE-GUARDIAN-BLEU.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-14T04:40:31.000Z",
+          "fetchedAt": "2026-04-14T06:10:07.412Z"
+        },
+        {
+          "id": "2026-04-14-dd8c52d1",
+          "title": "Canada : Mark Carney obtient une majorité parlementaire à la faveur de législatives partielles",
+          "description": "Désormais à la tête d’une majorité absolue avec le parti libéral, l’ancien banquier central va être en mesure de mener sans entrave sa politique d’émancipation des Etats-Unis.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/14/canada-mark-carney-obtient-une-majorite-parlementaire-a-la-faveur-de-legislatives-partielles_6679875_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-13T02:30:01.000Z",
-          "fetchedAt": "2026-04-13T06:26:33.461Z"
+          "publishedAt": "2026-04-14T03:37:34.000Z",
+          "fetchedAt": "2026-04-14T06:10:07.255Z"
         },
         {
-          "id": "2026-04-13-2474a550",
-          "title": "Washington va imposer un blocus des ports iraniens",
-          "description": "Depuis l'échec des négociations à Islamabad, où Donald Trump réclamait la réouverture du détroit d'Ormuz, une réponse était attendue : l'armée américaine a annoncé dimanche qu'elle imposerait à partir de lundi à 14 h GMT un blocus aux \"navires de toutes nationalités entrant ou sortant des ports et zones côtières iraniens\". \"Les États-Unis laissent le trafic international en dehors de ces ports continuer\", commente Sonia Ghezali, correspondante de France 24 à Washington.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260413-washington-va-imposer-un-blocus-des-ports-iraniens",
-          "imageUrl": "https://s.france24.com/media/display/888fdfac-36cd-11f1-8d48-005056bfb2b6/w:1024/p:16x9/NW100844-O-01-20260413-01.jpg",
-          "source": "France 24",
+          "id": "2026-04-14-14ded0c1",
+          "title": "Donald Trump ouvre une crise avec les catholiques américains après avoir attaqué le pape et partagé un photomontage",
+          "description": "Le président américain a prétendu, contre toute vraisemblance, que l’image qu’il a partagée le représentait en « bénévole de la Croix-Rouge », mais a dû la retirer. Cette publication et sa longue diatribe contre Léon XIV ont consterné les fidèles, une indignation touchant même la mouvance MAGA.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/14/attaques-contre-le-pape-photomontage-en-christ-donald-trump-ouvre-une-crise-avec-les-catholiques-americains-et-choque-sa-base_6679871_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-13T01:08:15.000Z",
-          "fetchedAt": "2026-04-13T06:26:33.501Z"
+          "publishedAt": "2026-04-14T03:23:36.000Z",
+          "fetchedAt": "2026-04-14T06:10:07.255Z"
         },
         {
-          "id": "2026-04-13-babc297e",
-          "title": "Moyen-Orient en direct : vers un blocus américain des ports iraniens, incertitudes sur les négociations",
-          "description": "En l'absence d'accord pour mettre fin au conflit au Moyen-Orient, l'armée américaine va débuter un blocus des ports iraniens à partir de lundi 14 h GMT, a confirmé lundi Donald Trump. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260413-moyen-orient-en-direct-debut-blocus-ports-iraniens-annonce-lundi-apres-midi-armee-etats-unis-israel-liban-guerre",
-          "imageUrl": "https://s.france24.com/media/display/439e5a3a-36fb-11f1-b47b-005056bfb2b6/w:1024/p:16x9/2026-04-03T140932Z-1553634500-RC2T6KAKHJA6-RTRMADP-3-IRAN-CRISIS-USA.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-13T00:38:38.000Z",
-          "fetchedAt": "2026-04-13T06:26:33.501Z"
-        },
-        {
-          "id": "2026-04-12-62906108",
-          "title": "Les États-Unis vont imposer dès lundi un blocus des ports iraniens après l'échec des pourparlers",
-          "description": "Quelques heures après l'échec des négociations entre Washington et Téhéran au Pakistan, Donald Trump a annoncé dimanche que les États-Unis allaient bloquer le détroit d'Ormuz afin d'éviter à l'Iran de percevoir un droit de passage. L'armée américaine a précisé qu'elle imposera ce blocus aux \"navires de toutes nationalités entrant ou sortant des ports et zones côtières iraniens\" à partir de lundi à 14 h GMT.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260412-etats-unis-imposer-blocus-ports-iraniens-echec-pourparlers-moyen-orient-armee-donald-trump-guerre",
-          "imageUrl": "https://s.france24.com/media/display/8c24c814-36c1-11f1-b9e4-005056bf30b7/w:1024/p:16x9/2026-04-12T105934Z-1187401653-RC2GNKA6PWFY-RTRMADP-3-IRAN-CRISIS-HORMUZ.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-12T22:48:47.000Z",
-          "fetchedAt": "2026-04-13T06:26:33.501Z"
-        },
-        {
-          "id": "2026-04-12-b5e840d0",
-          "title": "Trump annonce un blocus américain du détroit d’Ormuz après les négociations avec l’Iran",
-          "description": "Le président des États-Unis a réagi quelques heures après la clôture sans accord des pourparlers au Pakistan avec le régime iranien. Il a sorti une nouvelle carte de sa manche, qui ne serait toutefois pas sans risque.",
-          "url": "https://www.courrierinternational.com/article/guerre-trump-annonce-un-blocus-americain-du-detroit-d-ormuz-apres-les-negociations-avec-l-iran_242829",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/12/0/429/4642/3095/1200/630/60/0/b8a357e_ftp-1-1g0l2c9zihtv-2026-04-12t110126z-205811498-rc2gnka3lpqh-rtrmadp-3-iran-crisis-hormuz.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-12T14:53:29.000Z",
-          "fetchedAt": "2026-04-13T06:26:33.849Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-22",
-      "topic": "Le réseau de paiement russe A7, outil de contournement des sanctions, gagne du t",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-13-ff614d0f",
-          "title": "Le réseau de paiement russe A7, outil de contournement des sanctions, gagne du terrain en Afrique",
-          "description": "Un rapport publié par le Center for Information Resilience met en lumière les démarches discrètes de la société russe de cryptomonnaie A7 pour créer un réseau de paiement alternatif en Afrique, et contourner les sanctions imposées par les États-Unis, le Royaume-Uni ou l'Europe avec l'exclusion du système de messagerie interbancaire Swift notamment. Cette enquête va plus loin, estimant que ces démarches sont directement appuyées par le Kremlin, pour intégrer A7 dans les opérations stratégiques et militaires du Kremlin en Afrique.",
-          "url": "https://www.rfi.fr/fr/afrique/20260413-le-r%C3%A9seau-de-paiement-russe-a7-outil-de-contournement-des-sanctions-gagne-du-terrain-en-afrique",
-          "imageUrl": "https://s.rfi.fr/media/display/3a46d442-36d5-11f1-937a-005056bfb2b6/w:1024/p:16x9/%D0%9E%D0%B4%D0%B8%D0%BD-%D0%B8%D0%B7-%D0%BE%D1%84%D0%B8%D1%81%D0%BE%D0%B2-%D0%9F%D1%80%D0%BE%D0%BC%D1%81%D0%B2%D1%8F%D0%B7%D1%8C%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0-%D0%B2-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.jpg",
+          "id": "2026-04-14-1fc0ba29",
+          "title": "Nigeria: une enquête lancée après une frappe meurtrière de l'armée dans le nord-est du pays",
+          "description": "L'armée de l'air a annoncé une enquête après la frappe aérienne ayant touché un marché local à Jilli, dans le nord-est du Nigeria samedi 11 avril. De nombreuses voix essentiellement de l'opposition ont condamné cette frappe militaire dont la cible était des membres de l'Iswap. Des critiques contestées par le cabinet du président Bola Ahmed Tinubu.",
+          "url": "https://www.rfi.fr/fr/afrique/20260414-nigeria-une-enqu%C3%AAte-lanc%C3%A9e-apr%C3%A8s-une-frappe-meurtri%C3%A8re-de-l-arm%C3%A9e-dans-le-nord-est-du-pays",
+          "imageUrl": "https://s.rfi.fr/media/display/7ca9a1fc-37a2-11f1-8ff8-005056bfb2b6/w:1024/p:16x9/AFP-TV-20260413-WAR-NGA-MilitaryAttack-A7KB2KE-en.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-13T03:06:16.000Z",
-          "fetchedAt": "2026-04-13T06:26:48.712Z"
-        },
-        {
-          "id": "2026-04-12-4c31232b",
-          "title": "“Le brasseur de Poutine” : dans les pas d’un jeune Écossais parti se battre pour les Russes",
-          "description": "Converti à la religion orthodoxe, Jay Fraser a quitté en 2024 le confort de sa vie en Écosse pour rejoindre le front aux côtés des forces du Kremlin. Convaincu de combattre un Occident corrompu, le jeune homme de 23 ans a perdu ses illusions dans les forêts d’Ukraine. Un témoignage rare recueilli par “The Observer”.",
-          "url": "https://www.courrierinternational.com/long-format/recit-le-brasseur-de-poutine-dans-les-pas-d-un-jeune-ecossais-parti-se-battre-pour-les-russes_241911",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/31/862/0/3543/2362/1200/630/60/0/fe441b2_upload-1-2tjd5dixw18j-the-sens-of-the-war-2.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-12T15:29:49.000Z",
-          "fetchedAt": "2026-04-13T06:26:33.849Z"
+          "publishedAt": "2026-04-14T03:07:31.000Z",
+          "fetchedAt": "2026-04-14T06:10:19.348Z"
         }
       ]
     },
     {
-      "id": "cluster-25",
-      "topic": "Adlène Meddi, écrivain : “La visite du pape en Algérie est un message à la fois ",
+      "id": "cluster-6",
+      "topic": "Crise d’Ormuz : la position d’équilibre de la Chine, première partenaire commerc",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-13-fec40aa1",
-          "title": "Adlène Meddi, écrivain : “La visite du pape en Algérie est un message à la fois spirituel et politique”",
-          "description": "Du 13 au 15 avril, le pape Léon XIV se rend en Algérie, pour entamer une tournée africaine qui le conduira ensuite au Cameroun, en Angola et en Guinée équatoriale. Dans un entretien accordé à “Courrier International”, le journaliste et écrivain algérien Adlène Meddi revient sur la portée de cette visite.",
-          "url": "https://www.courrierinternational.com/article/interview-adlene-meddi-ecrivain-la-visite-du-pape-en-algerie-est-un-message-a-la-fois-spirituel-et-politique_242148",
-          "imageUrl": "https://focus.courrierinternational.com/2026/02/25/181/0/3173/2115/1200/630/60/0/a069367_ftp-1-hhzelfufafqm-pope-africa.JPG",
-          "source": "Courrier International",
+          "id": "2026-04-14-0b9ef6f2",
+          "title": "Crise d’Ormuz : la position d’équilibre de la Chine, première partenaire commerciale de l’Iran, mais contrainte de ménager Donald Trump",
+          "description": "La diplomatie chinoise met en avant son activisme pour obtenir une cessation des hostilités, alors qu’avant la guerre déclenchée par Israël et les Etats-Unis, Pékin achetait plus de 80 % de son pétrole à Téhéran.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/14/crise-d-ormuz-la-position-d-equilibre-de-la-chine-premier-partenaire-commercial-de-l-iran-mais-contraint-de-menager-donald-trump_6679887_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-13T03:00:12.000Z",
-          "fetchedAt": "2026-04-13T06:26:33.849Z"
+          "publishedAt": "2026-04-14T04:55:23.000Z",
+          "fetchedAt": "2026-04-14T06:10:07.255Z"
         },
         {
-          "id": "2026-04-12-78138db6",
-          "title": "Algérie : le pape Léon XIV attendu pour une visite historique",
-          "description": "Léon XIV est attendu lundi 13 avril pour une visite de deux jours en Algérie, la première d'un pape dans le pays à majorité musulmane. \"Il s'agira de s'adresser au monde islamique, mais aussi d'affronter un défi commun de coexistence\", a déclaré jeudi le directeur du service de presse du Saint-Siège, Matteo Bruni.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260412-alg%C3%A9rie-le-pape-l%C3%A9on-xiv-attendu-pour-une-visite-historique",
-          "imageUrl": "https://s.france24.com/media/display/900f32f0-36aa-11f1-aa20-005056bf30b7/w:1024/p:16x9/FR-20260412-214739-214922-CS.jpg",
+          "id": "2026-04-14-4bacd3e1",
+          "title": "Donald Trump redouble de menaces envers l’Iran après l’entrée en vigueur de son blocus des ports iraniens",
+          "description": "Le président américain a promis de détruire tout navire forçant le blocage. Téhéran a dénoncé un acte « illégal » de « piraterie ».",
+          "url": "https://www.lemonde.fr/international/article/2026/04/14/donald-trump-redouble-de-menaces-envers-l-iran-apres-l-entree-en-vigueur-de-son-blocus-des-ports-iraniens_6679886_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-14T04:45:40.000Z",
+          "fetchedAt": "2026-04-14T06:10:07.255Z"
+        },
+        {
+          "id": "2026-04-13-93a9e6f8",
+          "title": "Donald Trump menace de détruire tout navire militaire forçant le blocus des ports iraniens",
+          "description": "Au lendemain de l'échec des pourparlers entre les États-Unis et l'Iran, Donald Trump a menacé lundi de \"destruction\" tout \"navire d'attaque rapide\" iranien qui forcera le blocus américains des ports de l'Iran. Téhéran a dénoncé cette situation, condamnant un acte \"illégal\" de \"piraterie\", et a menacé en retour de s'en prendre aux ports de ses voisins du Golfe.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260413-donald-trump-menace-de-d%C3%A9truire-tout-navire-militaire-for%C3%A7ant-le-blocus-des-ports-iraniens",
+          "imageUrl": "https://s.france24.com/media/display/df0f2408-3774-11f1-87df-005056a97e36/w:1024/p:16x9/000-A7KV7G3.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-12T20:55:50.000Z",
-          "fetchedAt": "2026-04-13T06:26:33.501Z"
+          "publishedAt": "2026-04-13T20:21:02.000Z",
+          "fetchedAt": "2026-04-14T06:10:07.412Z"
+        },
+        {
+          "id": "2026-04-13-eaa1cadf",
+          "title": "Détroit d’Ormuz : le contre-blocus américain fera-t-il plier Téhéran ?",
+          "description": "Après l’échec des négociations, Washington veut accroître la pression sur l’Iran. Mais la décision de bloquer le détroit d’Ormuz risque d’être contre-productive et de porter préjudice plus à l’économie mondiale qu’au pouvoir iranien, écrit le “Financial Times”.",
+          "url": "https://www.courrierinternational.com/article/analyse-detroit-d-ormuz-le-contre-blocus-americain-fera-t-il-plier-teheran_242858",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/13/0/0/2400/1600/1200/630/60/0/c2b2515_upload-1-vica75ubr2le-hormuz.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-13T15:45:08.000Z",
+          "fetchedAt": "2026-04-14T06:10:07.779Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Rising fuel costs puts strain on transport charity",
-      "category": "eco",
-      "importance": 7,
+      "id": "cluster-16",
+      "topic": "En Hongrie, une nouvelle ère commence au lendemain de la défaite de Viktor Orban",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-04-13-5180accb",
-          "title": "Rising fuel costs puts strain on transport charity",
-          "description": "A charity in Gloucestershire says it will have to find an extra £20k to cover increased fuel costs.",
-          "url": "https://www.bbc.com/news/articles/cwyxljjvnj2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bf26/live/8d82bc00-34bb-11f1-a676-6ff4dfb1e8ec.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-04-13T05:27:56.000Z",
-          "fetchedAt": "2026-04-13T06:27:00.281Z"
+          "id": "2026-04-14-98b3f82c",
+          "title": "En Hongrie, une nouvelle ère commence au lendemain de la défaite de Viktor Orban",
+          "description": "Lors d’une conférence de presse de trois heures, le vainqueur des élections, Péter Magyar, conservateur mais pro-européen, a maintenu une certaine ambiguïté au sujet de l’Ukraine, mais a dessiné les contours d’un retour à l’Etat de droit.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/14/en-hongrie-une-nouvelle-ere-commence-au-lendemain-de-la-defaite-de-viktor-orban_6679874_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-14T03:30:09.000Z",
+          "fetchedAt": "2026-04-14T06:10:07.255Z"
+        },
+        {
+          "id": "2026-04-13-11b58636",
+          "title": "Hongrie : vers une \"nouvelle ère\" ?",
+          "description": "En Hongrie, le Premier ministre Viktor Orbán a perdu le pouvoir après 16 ans à la tête du pays. Le vainqueur est un conservateur pro-européen, Peter Magyar. Au lendemain de sa victoire, le nouveau Premier ministre a pris la parole et promis une « nouvelle ère » pour la Hongrie.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260413-hongrie-vers-une-nouvelle-%C3%A8re",
+          "imageUrl": "https://s.france24.com/media/display/aff00468-375f-11f1-8fb5-005056bf30b7/w:1024/p:16x9/Francais-2026-04-13T17-12-43-721Z.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-13T18:21:55.000Z",
+          "fetchedAt": "2026-04-14T06:10:07.412Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Room for the Moon is thrillingly weird experimental pop",
+      "id": "cluster-6",
+      "topic": "Oil prices ease on hopes of new US-Iran peace talks",
+      "category": "eco",
+      "importance": 8,
+      "articles": [
+        {
+          "id": "2026-04-14-e41b7ee3",
+          "title": "Oil prices ease on hopes of new US-Iran peace talks",
+          "description": "Crude prices jumped above $100 on Monday after talks failed between the two sides at the weekend.",
+          "url": "https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2d84/live/8bf48930-37a0-11f1-bdff-893e177acf0e.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-04-14T03:46:04.000Z",
+          "fetchedAt": "2026-04-14T06:10:30.128Z"
+        },
+        {
+          "id": "2026-04-13-882f5d41",
+          "title": "Oil jumps back above $100 after US-Iran peace talks fail",
+          "description": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
+          "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2c56/live/e52998b0-373c-11f1-b3bd-89f011397f28.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-04-13T19:17:57.000Z",
+          "fetchedAt": "2026-04-14T06:10:30.128Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s ho",
       "category": "tech",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-04-12-79baab55",
-          "title": "Room for the Moon is thrillingly weird experimental pop",
-          "description": "I mean, I guess it kinda looks like the moon? | Image: Kate NV / RVNG Intl.\t\n\nFor obvious reasons, I've had Moon on the mind all week. So I was trying to figure out what I should recommend this week that would thematically fit. Brian Eno's Apollo: Atmospheres and Soundtracks is incredible, and if you haven't listened to it, go do that now. But it also seemed a bit on the nose. Radiohead's A Moon Shaped Pool also came to mind. But it also felt a bit obvious. Then I remembered Kate NV's Room for the Moon, a record I had on repeat in 2020. \nRussian artist Kate Shilonosova chases ideas across 11 tracks inspired by Russian and Japanese pop from the '70s and '80s, as well as children's movies. This obviously leads Room for …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Room-for-the-Moon.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-04-14-99465e0a",
+          "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+          "description": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted to break the glass doors of the building with a chair and stated that he had come to burn down the location and kill anyone inside.\"\nHis charges include \"attempted damage and destruction of property by means of explosives and possession of an unregistered firearm,\" according to the Departmen …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/screenshot_2026-04-13_161515_0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-04-12T20:00:00.000Z",
-          "fetchedAt": "2026-04-13T06:26:55.247Z"
+          "publishedAt": "2026-04-14T00:02:38.000Z",
+          "fetchedAt": "2026-04-14T06:10:27.877Z"
         }
       ]
     }
