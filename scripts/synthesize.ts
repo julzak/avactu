@@ -9,6 +9,7 @@
  */
 
 import Anthropic from '@anthropic-ai/sdk';
+import { MODELS } from '../config/models.js';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -259,7 +260,7 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
   try {
     const response = await withRetry(
       () => client.messages.create({
-        model: 'claude-sonnet-4-20250514',
+        model: MODELS.synthesis,
         max_tokens: 2048,
         system: [
           {
@@ -481,7 +482,7 @@ ${articlesDetail}`;
   try {
     const response = await withRetry(
       () => client.messages.create({
-        model: 'claude-sonnet-4-20250514',
+        model: MODELS.synthesis,
         max_tokens: 2048,
         system: [
           {
@@ -661,7 +662,7 @@ async function synthesize(): Promise<void> {
       try {
         const response = await withRetry(
           () => client.messages.create({
-            model: 'claude-sonnet-4-20250514',
+            model: MODELS.synthesis,
             max_tokens: 2048,
             system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
             messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.

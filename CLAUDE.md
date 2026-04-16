@@ -133,7 +133,7 @@ Au clic sur une card, un drawer s'ouvre (85% hauteur) :
 {
   "runtime": "Node.js 20+",
   "scraping": "rss-parser + metascraper",
-  "synthese": "API Claude (claude-sonnet-4-20250514)",
+  "synthese": "API Claude (claude-opus-4-6) — config centralisée dans config/models.ts",
   "scheduling": "GitHub Actions (cron 48h)",
   "hosting": "Vercel ou GitHub Pages (gratuit)"
 }
