@@ -54,11 +54,8 @@ interface ClusteredOutput {
 const RAW_ARTICLES_PATH = join(__dirname, '..', 'data', 'raw-articles.json');
 const CLUSTERED_PATH = join(__dirname, '..', 'data', 'clustered-articles.json');
 
-const TARGET_CLUSTERS = {
-  geopolitique: 3,
-  tech: 1,
-  eco: 1,
-};
+const TOTAL_STORIES = 5;
+const MAX_PER_CATEGORY = 3; // No single category can dominate the edition
 
 // Mots-clés sport à exclure (UNIQUEMENT le sport pur, pas la culture/cinéma)
 const EXCLUDED_KEYWORDS = new Set([
@@ -367,56 +364,44 @@ function areSameTopic(cluster1: ArticleCluster, cluster2: ArticleCluster): boole
 }
 
 /**
- * Select best clusters
+ * Select best clusters — flexible allocation based on importance.
+ * Picks the top TOTAL_STORIES clusters regardless of category,
+ * with MAX_PER_CATEGORY cap to ensure diversity.
  */
 function selectBestClusters(clusters: ArticleCluster[]): ArticleCluster[] {
   const selected: ArticleCluster[] = [];
+  const categoryCount: Record<string, number> = {};
 
-  // Prioritize multi-source clusters
-  const multiSource = clusters
-    .filter(c => new Set(c.articles.map(a => a.source)).size > 1)
-    .sort((a, b) => b.importance - a.importance);
+  // Prioritize multi-source clusters, then by importance
+  const ranked = [...clusters].sort((a, b) => {
+    const aMulti = new Set(a.articles.map(ar => ar.source)).size > 1 ? 1 : 0;
+    const bMulti = new Set(b.articles.map(ar => ar.source)).size > 1 ? 1 : 0;
+    if (aMulti !== bMulti) return bMulti - aMulti;
+    return b.importance - a.importance;
+  });
 
-  const singleSource = clusters
-    .filter(c => new Set(c.articles.map(a => a.source)).size === 1)
-    .sort((a, b) => b.importance - a.importance);
-
-  // Helper to check if cluster is duplicate of already selected
   const isDuplicate = (candidate: ArticleCluster): boolean => {
     return selected.some(s => areSameTopic(s, candidate));
   };
 
-  // Sort by category and importance
-  const byCategory = {
-    geopolitique: [...multiSource, ...singleSource].filter((c) => c.category === 'geopolitique'),
-    tech: [...multiSource, ...singleSource].filter((c) => c.category === 'tech'),
-    eco: [...multiSource, ...singleSource].filter((c) => c.category === 'eco'),
-  };
+  for (const cluster of ranked) {
+    if (selected.length >= TOTAL_STORIES) break;
 
-  for (const [category, target] of Object.entries(TARGET_CLUSTERS)) {
-    const available = byCategory[category as keyof typeof byCategory];
-    let added = 0;
-    for (const cluster of available) {
-      if (added >= target) break;
-      if (!isDuplicate(cluster)) {
-        selected.push(cluster);
-        added++;
-      } else {
-        console.log(`   ⚠ Doublon ignoré: ${cluster.topic.slice(0, 40)}...`);
-      }
+    // Skip if this category already at max
+    const catCount = categoryCount[cluster.category] || 0;
+    if (catCount >= MAX_PER_CATEGORY) {
+      console.log(`   ⊘ Max ${MAX_PER_CATEGORY} atteint pour ${cluster.category}: ${cluster.topic.slice(0, 40)}...`);
+      continue;
     }
-  }
 
-  // Fill remaining slots
-  const totalTarget = Object.values(TARGET_CLUSTERS).reduce((a, b) => a + b, 0);
-  if (selected.length < totalTarget) {
-    const allSorted = [...multiSource, ...singleSource];
-    for (const cluster of allSorted) {
-      if (selected.length >= totalTarget) break;
-      if (!selected.includes(cluster) && !isDuplicate(cluster)) {
-        selected.push(cluster);
-      }
+    // Skip duplicates
+    if (isDuplicate(cluster)) {
+      console.log(`   ⚠ Doublon ignoré: ${cluster.topic.slice(0, 40)}...`);
+      continue;
     }
+
+    selected.push(cluster);
+    categoryCount[cluster.category] = catCount + 1;
   }
 
   return selected.sort((a, b) => b.importance - a.importance);
