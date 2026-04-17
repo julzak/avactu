@@ -1,190 +1,146 @@
 {
-  "generatedAt": "2026-04-16T06:17:34.364Z",
+  "generatedAt": "2026-04-17T06:18:10.252Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Russie: le serrage de vis sur internet suscite un mécontentement croissant",
+      "id": "cluster-2",
+      "topic": "La Birmanie annule toutes les condamnations à mort, qui seront commuées en peine",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-16-13efe013",
-          "title": "Russie: le serrage de vis sur internet suscite un mécontentement croissant",
-          "description": "En plus des coupures internet, Telegram est désormais inaccessible sans VPN en Russie. Ces outils, qui permettent de se localiser dans un autre pays, sont aussi l'objet d’une pression croissante. Des restrictions qui passent mal dans le pays.",
-          "url": "https://www.rfi.fr/fr/europe/20260416-russie-le-serrage-de-vis-sur-internet-suscite-un-m%C3%A9contentement-croissant",
-          "imageUrl": "https://s.rfi.fr/media/display/f254759e-38e7-11f1-b9e3-005056a97e36/w:1024/p:16x9/2026-04-03T070139Z-1076890015-RC2YKGAJ6NUL-RTRMADP-3-RUSSIA-INTERNET-MAX-PIX-TV.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-16T05:52:16.000Z",
-          "fetchedAt": "2026-04-16T06:13:43.598Z"
-        },
-        {
-          "id": "2026-04-16-3580f02e",
-          "title": "En Ukraine, une dizaine de morts dans une série de frappes russes",
-          "description": "De nouvelles frappes russes ont fait au moins 14 morts dans la nuit de mercredi à jeudi en Ukraine, dont sept à Odessa (sud), quatre dans la capitale Kiev et trois dans la région de Dnipropetrovsk (centre), selon les autorités.",
-          "url": "https://www.france24.com/fr/europe/20260416-en-ukraine-une-dizaine-de-morts-dans-une-s%C3%A9rie-de-frappes-russes",
-          "imageUrl": "https://s.france24.com/media/display/6a8583ce-3950-11f1-b831-005056bf30b7/w:1024/p:16x9/AP26105658352366.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-16T05:18:42.000Z",
-          "fetchedAt": "2026-04-16T06:13:33.822Z"
-        },
-        {
-          "id": "2026-04-15-78f588b2",
-          "title": "La hausse des cours du pétrole, une aubaine financière inespérée pour Moscou",
-          "description": "La flambée des prix de l’énergie provoquée par la guerre au Moyen-Orient améliore à point nommé les indicateurs économiques russes. Dans son édition du jour, le quotidien “Izvestia”, publication favorable au Kremlin, en souligne les dividendes immédiats pour l’État russe.",
-          "url": "https://www.courrierinternational.com/une/une-du-jour-la-hausse-des-cours-du-petrole-une-aubaine-financiere-inesperee-pour-moscou_242967",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/15/959/0/2245/1496/1200/630/60/0/bb42cb0_upload-1-evmh7w3b96bk-izvestia-15-04-2026-1-page-0001.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-15T14:37:54.000Z",
-          "fetchedAt": "2026-04-16T06:13:33.908Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Victor Wembanyama, une saison de MVP pour le jeune Français des Spurs ?",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-16-797d9aa7",
-          "title": "Victor Wembanyama, une saison de MVP pour le jeune Français des Spurs ?",
-          "description": "Victor Wembanyama a conclu sa troisième saison NBA avec des statistiques impressionnantes, faisant de lui l’un des favoris pour le trophée de meilleur joueur de la saison (MVP). Son impact a été considérable en attaque, mais aussi et surtout en défense, avec son équipe des San Antonio Spurs, candidate au titre après s’être qualifiée en playoffs pour la première fois depuis 2018.",
-          "url": "https://www.france24.com/fr/sports/20260416-basketball-nba-victor-wembanyama-saison-de-mvp-fran%C3%A7ais-san-antonio-spurs",
-          "imageUrl": "https://s.france24.com/media/display/6af60864-382a-11f1-8dba-005056a90284/w:1024/p:16x9/063-2252977595.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-16T05:23:41.000Z",
-          "fetchedAt": "2026-04-16T06:13:33.822Z"
-        },
-        {
-          "id": "2026-04-16-c6379b3d",
-          "title": "RDC: Kinshasa et l’AFC/M23 formalisent en Suisse un mécanisme conjoint de vérification du cessez-le-feu",
-          "description": "L’AFC/M23 et le gouvernement congolais ont signé en Suisse un nouveau dispositif de suivi du cessez-le-feu. Un mécanisme attendu depuis plusieurs semaines, qui intègre désormais les deux parties au conflit pour vérifier les violations sur le terrain. Un outil qui s’inscrit dans la continuité de l’accord signé à Doha le 14 octobre 2025, puis des termes de référence adoptés le 2 février 2026. Mais comment comprendre l’architecture de ce nouveau dispositif et la portée de ce qui vient d’être signé ?",
-          "url": "https://www.rfi.fr/fr/afrique/20260416-rdc-kinshasa-et-l-afc-m23-formalisent-en-suisse-un-m%C3%A9canisme-conjoint-de-v%C3%A9rification-du-cessez-le-feu",
-          "imageUrl": "https://s.rfi.fr/media/display/119a66da-8c30-11f0-900e-005056a90284/w:1024/p:16x9/AP23340701658143.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-16T04:08:41.000Z",
-          "fetchedAt": "2026-04-16T06:13:43.598Z"
-        },
-        {
-          "id": "2026-04-16-bea9a1ed",
-          "title": "Cameroun: le pape Léon XIV fait étape à Bamenda, chef lieu de la «crise anglophone»",
-          "description": "Après Yaoundé, le pape Léon XIV se rend jeudi 16 avril à Bamenda, chef-lieu de la région anglophone du Nord-Ouest. Une étape symbolique dans ce territoire, l’un des deux – avec le Sud-Ouest – touchés depuis 2017 par la « crise anglophone », qui oppose forces gouvernementales et groupes armés séparatistes, avec au milieu, comme premières victimes, les civils. Une visite que le souverain pontife a placée sous le signe de la paix, de la réconciliation et de la justice.",
-          "url": "https://www.rfi.fr/fr/afrique/20260416-cameroun-le-pape-l%C3%A9on-xiv-fait-%C3%A9tape-%C3%A0-bamenda-chef-lieu-de-la-crise-anglophone",
-          "imageUrl": "https://s.rfi.fr/media/display/c6c4ccf0-392b-11f1-9b02-005056a97e36/w:1024/p:16x9/AP26104508447513.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-16T02:28:12.000Z",
-          "fetchedAt": "2026-04-16T06:13:43.598Z"
-        },
-        {
-          "id": "2026-04-15-d206238a",
-          "title": "Mauritanie-France: les présidents El Ghazouani et Macron affichent leur volonté de renforcer leur coopération",
-          "description": "Le président mauritanien Mohamed Ould Cheikh El Ghazouani a été reçu, mercredi 15 avril 2026, par son homologue français Emmanuel Macron, dans le cadre d'une visite de trois jours, une première pour un chef d'État mauritanien. Face à la presse, les deux hommes ont affirmé vouloir renforcer la coopération entre les deux pays.",
-          "url": "https://www.rfi.fr/fr/afrique/20260415-mauritanie-france-les-pr%C3%A9sidents-el-ghazouani-et-macron-affichent-leur-volont%C3%A9-de-renforcer-leur-coop%C3%A9ration",
-          "imageUrl": "https://s.rfi.fr/media/display/d77cf186-3911-11f1-a438-005056bf30b7/w:1024/p:16x9/AP26105590024432.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-15T22:42:15.000Z",
-          "fetchedAt": "2026-04-16T06:13:43.598Z"
-        },
-        {
-          "id": "2026-04-15-6a9aa62a",
-          "title": "Le blocus : une arme de guerre depuis plus de 2500 ans",
-          "description": "Un blocus est aujourd'hui un acte de guerre réglementé mais cela n'a pas toujours été le cas. Notamment durant l'Antiquité ou lorsque Napoléon a mis sous cloche les îles britanniques en 1806. Quel est le blocus le plus long de l'histoire ? Combien de blocus sont toujours en vigueur ? Que dit le droit international ? Réponses avec Cécile Galluccio",
-          "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260415-le-blocus-une-arme-de-guerre-depuis-plus-de-2500-ans",
-          "imageUrl": "https://s.france24.com/media/display/e837d2c0-3916-11f1-8dbe-005056bfb2b6/w:1024/p:16x9/FRAN260415-2339-Live-CS2339.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-15T22:17:29.000Z",
-          "fetchedAt": "2026-04-16T06:13:33.822Z"
-        },
-        {
-          "id": "2026-04-15-43b56af2",
-          "title": "Nayla Karamé Majdalani, psychologue : \"Les Libanais sont dans un état d'abattement total\"",
-          "description": "Depuis le 2 mars, date à laquelle le Hezbollah a entraîné le Liban dans le conflit régional avec l'Iran, les frappes israéliennes ont fait plus de 2 000 morts selon un bilan officiel. \"Les Libanais vivent des traumatismes qui se succèdent et sont dans un état d'abattement total de cette guerre\", explique la psychologue clinicienne Nayla Karamé Majdalani à France 24. Les déplacés, sans aide psychologique, sont dans un état \"terrible\" et cherchent d’abord à survivre, entre manque de soins et de logement, explique-t-elle.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260415-nayla-karam%C3%A9-majdalani-psychologue-les-libanais-sont-dans-un-%C3%A9tat-d-abattement-total",
-          "imageUrl": "https://s.france24.com/media/display/c125505c-38ff-11f1-a9c0-005056bf30b7/w:1024/p:16x9/FR-20260415-200545-201343-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-15T19:24:59.000Z",
-          "fetchedAt": "2026-04-16T06:13:33.822Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-10",
-      "topic": "Aux Etats-Unis, la maison mère de Ticketmaster reconnue coupable de monopole ill",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-16-32d42a86",
-          "title": "Aux Etats-Unis, la maison mère de Ticketmaster reconnue coupable de monopole illégal",
-          "description": "Un jury civil fédéral américain a estimé mercredi que Live Nation avait surfacturé les spectateurs des grandes salles de concert, en raison de ses pratiques anticoncurrentielles. Ce verdict fait planer la menace d’un démantèlement du géant mondial du spectacle vivant et de la billetterie, souligne la presse américaine.",
-          "url": "https://www.courrierinternational.com/article/musique-aux-etats-unis-la-maison-mere-de-ticketmaster-reconnue-coupable-de-monopole-illegal_243003",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/15/0/0/2400/1600/1200/630/60/0/fa63413_ftp-1-7zelmjxjlvuu-livenation-antitrust.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-16T03:48:02.000Z",
-          "fetchedAt": "2026-04-16T06:13:33.908Z"
-        },
-        {
-          "id": "2026-04-15-ce1281ba",
-          "title": "Live Nation, maison mère du géant de l’évènementiel Ticketmaster, jugée coupable de monopole illégal aux Etats-Unis",
-          "description": "Le groupe était accusé d’abuser de sa position dominante sur les marchés de l’organisation de spectacles et de la billetterie. Une procédure séparée doit décider de la peine infligée à l’entreprise, qui pourrait aller jusqu’à son démantèlement et à la cession de Ticketmaster.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/15/live-nation-maison-mere-du-geant-de-l-evenementiel-ticketmaster-jugee-coupable-de-monopole-illegal-aux-etats-unis_6680347_3210.html",
+          "id": "2026-04-17-16bc79c8",
+          "title": "La Birmanie annule toutes les condamnations à mort, qui seront commuées en peines de prison à vie",
+          "description": "La mesure a été annoncée dans le cadre d’une amnistie plus large pour marquer le Nouvel An birman, Thingyan, à l’occasion duquel des grâces sont traditionnellement accordées.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/17/la-birmanie-annule-toutes-les-condamnations-a-mort-qui-seront-commuees-en-peines-de-prison-a-vie_6680822_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-15T20:59:36.000Z",
-          "fetchedAt": "2026-04-16T06:13:33.883Z"
+          "publishedAt": "2026-04-17T05:53:28.000Z",
+          "fetchedAt": "2026-04-17T06:14:09.635Z"
         },
         {
-          "id": "2026-04-15-9a92be7c",
-          "title": "Afrique du Sud: Roelf Meyer, figure clé de la transition démocratique, nommé ambassadeur aux États-Unis",
-          "description": "L'Afrique du Sud a nommé son prochain ambassadeur aux États-Unis. Il s'agit de Roelf Meyer, figure clé de la transition du régime d'apartheid à la démocratie dans les années 1990. L'annonce de cette nomination est tombée mardi 14 avril. Avec ce choix, Pretoria répond à l'administration américaine, qui accuse le gouvernement sud-africain de persécuter sa minorité blanche.",
-          "url": "https://www.rfi.fr/fr/afrique/20260415-afrique-du-sud-roelf-meyer-figure-cl%C3%A9-de-la-transition-d%C3%A9mocratique-nomm%C3%A9-ambassadeur-aux-%C3%A9tats-unis",
-          "imageUrl": "https://s.rfi.fr/media/display/1ee1232c-38d5-11f1-9622-005056a90284/w:1024/p:16x9/000-14Z896.jpg",
+          "id": "2026-04-17-ace81abb",
+          "title": "Birmanie: le pays annule toutes les condamnations à mort",
+          "description": "Le dirigeant birman Min Aung Hlaing a ordonné, vendredi 17 avril 2026, l'annulation de toutes les condamnations à mort, l'une de ses premières mesures officielles depuis sa récente installation comme président civil, cinq ans après son coup d'État.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20260417-birmanie-le-pays-annule-toutes-les-condamnations-%C3%A0-mort",
+          "imageUrl": "https://s.rfi.fr/media/display/63a71acc-2c5d-11f1-820a-005056a90284/w:1024/p:16x9/BIRMANIE-MIN-AUND-HLAING.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-15T15:41:31.000Z",
-          "fetchedAt": "2026-04-16T06:13:43.598Z"
-        },
-        {
-          "id": "2026-04-15-8fcbcc36",
-          "title": "Les étrangers boudent la Coupe du monde aux États-Unis, les hôteliers bradent leurs prix",
-          "description": "Les prix des billets atteignent des sommets. La guerre en Iran reporte les projets de voyage. Et le sentiment antiaméricain grandit. Autant d’explications au faible taux de remplissage constaté par l’industrie hôtelière aux États-Unis cet été. Dans les villes hôtes de la compétition de football, les tarifs des nuitées ont chuté d’un tiers.",
-          "url": "https://www.courrierinternational.com/article/tourisme-les-etrangers-boudent-la-coupe-du-monde-aux-etats-unis-les-hoteliers-bradent-leurs-prix_242970",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/15/0/0/3600/2400/1200/630/60/0/c2a616b_upload-1-htckh2rytpnc-us-tourism-decline.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-15T15:19:52.000Z",
-          "fetchedAt": "2026-04-16T06:13:33.908Z"
-        },
-        {
-          "id": "2026-04-15-3d7cc061",
-          "title": "Au Venezuela, les Etats-Unis désignent un nouveau chef de mission diplomatique",
-          "description": "Les Etats-Unis ont nommé John Barrett chef de mission diplomatique de leur ambassade au Venezuela. Les deux pays ont repris le 5 mars leurs relations diplomatiques rompues en 2019, mais il n’y a pas encore d’ambassadeur dans le pays.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/15/venezuela-les-etats-unis-designent-un-nouveau-chef-de-mission-diplomatique_6680296_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-15T14:38:37.000Z",
-          "fetchedAt": "2026-04-16T06:13:33.883Z"
+          "publishedAt": "2026-04-17T05:48:59.000Z",
+          "fetchedAt": "2026-04-17T06:14:21.890Z"
         }
       ]
     },
     {
-      "id": "cluster-35",
+      "id": "cluster-4",
+      "topic": "Conférence au sommet à Paris pour la sécurisation du détroit d'Ormuz",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-17-bc5086fb",
+          "title": "Conférence au sommet à Paris pour la sécurisation du détroit d'Ormuz",
+          "description": "Le président français, Emmanuel Macron, et le Premier ministre britannique, Keir Starmer, vont travailler vendredi à Paris avec une \"trentaine de participants\" à la mise en place d'une mission de sécurisation de la navigation dans le détroit d'Ormuz, une fois que le fragile cessez-le-feu irano-américain sera consolidé.",
+          "url": "https://www.france24.com/fr/info-en-continu/20260417-conf%C3%A9rence-au-sommet-%C3%A0-paris-pour-la-s%C3%A9curisation-du-d%C3%A9troit-d-ormuz",
+          "imageUrl": "https://s.france24.com/media/display/ed082666-3a1e-11f1-b86f-005056a97e36/w:1024/p:16x9/d485676ce6d37987c34c5e848d9f369568140e85.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T05:33:13.000Z",
+          "fetchedAt": "2026-04-17T06:14:09.856Z"
+        },
+        {
+          "id": "2026-04-17-358efbee",
+          "title": "Réunion internationale à Paris ce vendredi autour de la sécurisation du détroit d'Ormuz",
+          "description": "La sécurité maritime dans le détroit d'Ormuz, c'est le sujet d'une réunion internationale ce vendredi 17 avril à Paris. Une initiative franco-britannique à laquelle se joignent une trentaine de pays. Alors que le passage est aujourd'hui entravé par l'Iran et par le blocus imposé par les États-Unis aux ports iraniens, l'idée est de préparer la suite et de rétablir la confiance indispensable à la navigation commerciale dans cette région du monde quand les hostilités auront cessé.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260417-r%C3%A9union-internationale-%C3%A0-paris-ce-vendredi-autour-de-la-s%C3%A9curisation-du-d%C3%A9troit-d-ormuz",
+          "imageUrl": "https://s.rfi.fr/media/display/a6bebca8-1156-11ea-8219-005056a99247/w:1024/p:16x9/le_detroit_dormuz_0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T04:47:56.000Z",
+          "fetchedAt": "2026-04-17T06:14:21.890Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "Victoire de Péter Magyar: la Commission européenne se rend en Hongrie, une visit",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-17-45af7788",
+          "title": "Victoire de Péter Magyar: la Commission européenne se rend en Hongrie, une visite trop précipitée?",
+          "description": "Depuis la victoire de Péter Magyar et de son parti Tisza aux élections législatives hongroises, la présidente de la Commission européenne, Ursula von der Leyen, ne cache pas son impatience de travailler avec le futur Premier ministre hongrois à qui elle a déjà téléphoné, mardi 14 avril. Pour Péter Magyar la priorité absolue est le versement des fonds européens - gelés par la commission - que Viktor Orbán a fait perdre à la Hongrie. Ce sera l'un des sujets d’une importante visite que va mener la Commission européenne ce vendredi 17 avril 2026 à Budapest.",
+          "url": "https://www.rfi.fr/fr/europe/20260417-victoire-de-p%C3%A9ter-magyar-la-commission-europ%C3%A9enne-se-rend-en-hongrie-une-visite-trop-pr%C3%A9cipit%C3%A9e",
+          "imageUrl": "https://s.rfi.fr/media/display/67820a30-3748-11f1-a60c-005056bf30b7/w:1024/p:16x9/AP26103444672348.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T05:13:49.000Z",
+          "fetchedAt": "2026-04-17T06:14:21.890Z"
+        },
+        {
+          "id": "2026-04-17-155fde6c",
+          "title": "« Yellow Letters », une mise en lumière des vies brisées des intellectuels turcs réprimés : « Du jour au lendemain, tu deviens un indésirable aux yeux de la société. Certains ne l’ont pas supporté et il y a même eu un suicide »",
+          "description": "Entre 2016 et 2018, des milliers de professeurs turcs opposés au régime du président Erdoğan ont été licenciés et mis au ban de la société. Récompensé de l’Ours d’or du meilleur film de la Berlinale 2026, le long-métrage d’İlker Çatak se penche sur leur sort, et réveille de douloureux souvenirs chez ces anciens universitaires.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/04/17/yellow-letters-une-mise-en-lumiere-des-vies-brisees-des-intellectuels-turcs-reprimes-du-jour-au-lendemain-tu-deviens-un-indesirable-aux-yeux-de-la-societe-certains-ne-l-ont-pas-supporte-et-il-y-a-meme-eu-un-suicide_6680818_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T05:00:08.000Z",
+          "fetchedAt": "2026-04-17T06:14:09.635Z"
+        },
+        {
+          "id": "2026-04-17-7ac374d7",
+          "title": "Burkina Faso: vague de haine contre une journaliste après un reportage sur la situation du pays",
+          "description": "Les critiques en ligne ne faiblissent pas au Burkina Faso après la diffusion d’un reportage sur la situation politique et sécuritaire du pays. Vendredi 10 avril 2026, la chaîne britannique Sky News a diffusé un document tourné à Ouagadougou avec l’aval des autorités — un fait rare, dans un contexte où l’information est étroitement contrôlée depuis l’arrivée au pouvoir du capitaine Ibrahim Traoré. Mais si son reportage donne la parole aux défenseurs du régime, il montre aussi l'envers du décor de la propagande. Depuis, son autrice est victime d'un torrent de haine et de fausses informations sur les réseaux sociaux.",
+          "url": "https://www.rfi.fr/fr/afrique/20260417-burkina-faso-vague-de-haine-contre-une-journaliste-apr%C3%A8s-un-reportage-sur-la-situation-du-pays",
+          "imageUrl": "https://s.rfi.fr/media/display/993212a4-39ec-11f1-b178-005056a97e36/w:1024/p:16x9/Design-sans-titre-6-1.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T04:13:49.000Z",
+          "fetchedAt": "2026-04-17T06:14:21.890Z"
+        },
+        {
+          "id": "2026-04-17-28753a6a",
+          "title": "En Cisjordanie, l’impunité absolue des colons auteurs de crimes",
+          "description": "Depuis 2020, la justice israélienne n’a prononcé aucune condamnation à de la prison ferme contre les colons juifs responsables de la mort de civils palestiniens, alors que le nombre et la gravité des crimes qu’ils commettent ne cessent de croître.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/17/en-cisjordanie-l-impunite-absolue-des-colons-auteurs-de-meurtre_6680801_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T03:45:01.000Z",
+          "fetchedAt": "2026-04-17T06:14:09.635Z"
+        },
+        {
+          "id": "2026-04-17-67cb4ba9",
+          "title": "Quel est le premier animal apparu sur Terre ? La réponse déchire la communauté scientifique",
+          "description": "Depuis l’avènement de la génomique, on ne sait plus très bien quel est le premier animal à être apparu sur Terre. On a longtemps pensé que c’étaient les éponges, mais l’étude du matériel génétique a fait valser cette certitude. Le débat est vif parmi les chercheurs, constate la revue britannique “Nature”.",
+          "url": "https://www.courrierinternational.com/article/sciences-quel-est-le-premier-animal-apparu-sur-terre-la-reponse-dechire-la-communaute-scientifique_241046",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/02/326/0/1772/1181/1200/630/60/0/13ed92a_upload-1-nxek49dea2mj-web-nature-af-print-copie.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T03:00:18.000Z",
+          "fetchedAt": "2026-04-17T06:14:10.158Z"
+        },
+        {
+          "id": "2026-04-17-980754e9",
+          "title": "Congo-Brazzaville: Denis Sassou-Nguesso prête serment pour un cinquième mandat à la tête du pays",
+          "description": "Le chef de l’État congolais, Denis Sassou-Nguesso, 82 ans dont 41 ans cumulés au pouvoir, a été investi jeudi 16 avril, pour son cinquième mandat consécutif. Il a été réélu avec 94,90% de suffrages au terme de la présidentielle du 15 mars dernier. La cérémonie dans un stade à Kintélé, banlieue nord de Brazzaville, en présence de centaines de milliers de Congolais et d’une dizaine de chefs d’États africains, dont Paul Kagamé et Félix Tshisekedi",
+          "url": "https://www.rfi.fr/fr/afrique/20260417-congo-brazzaville-denis-sassou-nguesso-pr%C3%AAte-serment-pour-un-cinqui%C3%A8me-mandat-%C3%A0-la-t%C3%AAte-du-pays",
+          "imageUrl": "https://s.rfi.fr/media/display/02c8dd50-3a07-11f1-b77f-005056a97e36/w:1024/p:16x9/AP26070441845788.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T02:43:58.000Z",
+          "fetchedAt": "2026-04-17T06:14:21.890Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-64",
       "topic": "Dans les câbles sous-marins, les fleurons français ASN et Orange alertent sur la",
       "category": "tech",
-      "importance": 10,
+      "importance": 9,
       "articles": [
         {
           "id": "2026-04-15-9bbe7904",
@@ -195,7 +151,7 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-04-15T11:30:00.000Z",
-          "fetchedAt": "2026-04-16T06:13:43.663Z"
+          "fetchedAt": "2026-04-17T06:14:21.796Z"
         },
         {
           "id": "2026-04-15-396e7fec",
@@ -206,48 +162,26 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-04-15T10:37:04.000Z",
-          "fetchedAt": "2026-04-16T06:13:43.615Z"
-        },
-        {
-          "id": "2026-04-15-166a569f",
-          "title": "« On ne peut pas gagner la bataille informationnelle si on ne mène pas la guerre » : les dessous de French Response, la riposte numérique du Quai d’Orsay",
-          "description": "Dans le cadre d'un entretien avec Pascal Confavreux, Numerama a souhaité disséquer avec le porte-parole du ministère de l'Europe et des Affaires Étrangères, les mécanismes d'un OVNI diplomatique arrivé sur X il y a quelques mois : French Response.",
-          "url": "https://www.numerama.com/cyberguerre/2231711-on-ne-peut-pas-gagner-la-bataille-informationnelle-si-on-ne-mene-pas-la-guerre-les-dessous-de-french-response-la-riposte-numerique-du-quai-dorsay.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/design-sans-titre-2026-04-14t164005171.jpg?resize=1600,900&key=4c2e7de8&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-15T05:30:00.000Z",
-          "fetchedAt": "2026-04-16T06:13:43.615Z"
-        },
-        {
-          "id": "2026-04-14-cef5b0d6",
-          "title": "Voici toutes les voitures électriques à moins de 25 000 € disponibles en France",
-          "description": "En 2026, le seuil des 25 000 € est devenu le nouveau champ de bataille des constructeurs. Citroën, Renault, Hyundai et sans oublier Dacia : voici les meilleures voitures électriques vendues sous cette barre symbolique.",
-          "url": "https://www.numerama.com/vroom/2082393-voici-toutes-les-voitures-electriques-a-moins-de-25-000-e-disponibles-en-france.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/essai-renault-twingo-e-tech-7.jpg?resize=1600,900&key=bd4e3ea9&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-14T14:08:29.000Z",
-          "fetchedAt": "2026-04-16T06:13:43.615Z"
+          "fetchedAt": "2026-04-17T06:14:21.971Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "The price of school prom is extortionate, says teen",
+      "id": "cluster-3",
+      "topic": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-04-16-0b340c1c",
-          "title": "The price of school prom is extortionate, says teen",
-          "description": "A parent and ex-pupil says proms put pressure on children and adults alike.",
-          "url": "https://www.bbc.com/news/articles/cy01127jjejo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b873/live/3d24fde0-38d5-11f1-897a-bdd15f22bdb0.jpg",
+          "id": "2026-04-17-b9fc2dcb",
+          "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+          "description": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+          "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-16T04:27:57.000Z",
-          "fetchedAt": "2026-04-16T06:13:54.557Z"
+          "publishedAt": "2026-04-17T01:34:22.000Z",
+          "fetchedAt": "2026-04-17T06:14:39.013Z"
         }
       ]
     }
