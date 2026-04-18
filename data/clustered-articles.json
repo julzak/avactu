@@ -1,187 +1,275 @@
 {
-  "generatedAt": "2026-04-17T06:18:10.252Z",
+  "generatedAt": "2026-04-18T05:54:11.546Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "La Birmanie annule toutes les condamnations à mort, qui seront commuées en peine",
+      "topic": "Moyen-Orient en direct : l'Iran menace de refermer le détroit d'Ormuz si le bloc",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-17-16bc79c8",
-          "title": "La Birmanie annule toutes les condamnations à mort, qui seront commuées en peines de prison à vie",
-          "description": "La mesure a été annoncée dans le cadre d’une amnistie plus large pour marquer le Nouvel An birman, Thingyan, à l’occasion duquel des grâces sont traditionnellement accordées.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/17/la-birmanie-annule-toutes-les-condamnations-a-mort-qui-seront-commuees-en-peines-de-prison-a-vie_6680822_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-17T05:53:28.000Z",
-          "fetchedAt": "2026-04-17T06:14:09.635Z"
-        },
-        {
-          "id": "2026-04-17-ace81abb",
-          "title": "Birmanie: le pays annule toutes les condamnations à mort",
-          "description": "Le dirigeant birman Min Aung Hlaing a ordonné, vendredi 17 avril 2026, l'annulation de toutes les condamnations à mort, l'une de ses premières mesures officielles depuis sa récente installation comme président civil, cinq ans après son coup d'État.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20260417-birmanie-le-pays-annule-toutes-les-condamnations-%C3%A0-mort",
-          "imageUrl": "https://s.rfi.fr/media/display/63a71acc-2c5d-11f1-820a-005056a90284/w:1024/p:16x9/BIRMANIE-MIN-AUND-HLAING.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-17T05:48:59.000Z",
-          "fetchedAt": "2026-04-17T06:14:21.890Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Conférence au sommet à Paris pour la sécurisation du détroit d'Ormuz",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-17-bc5086fb",
-          "title": "Conférence au sommet à Paris pour la sécurisation du détroit d'Ormuz",
-          "description": "Le président français, Emmanuel Macron, et le Premier ministre britannique, Keir Starmer, vont travailler vendredi à Paris avec une \"trentaine de participants\" à la mise en place d'une mission de sécurisation de la navigation dans le détroit d'Ormuz, une fois que le fragile cessez-le-feu irano-américain sera consolidé.",
-          "url": "https://www.france24.com/fr/info-en-continu/20260417-conf%C3%A9rence-au-sommet-%C3%A0-paris-pour-la-s%C3%A9curisation-du-d%C3%A9troit-d-ormuz",
-          "imageUrl": "https://s.france24.com/media/display/ed082666-3a1e-11f1-b86f-005056a97e36/w:1024/p:16x9/d485676ce6d37987c34c5e848d9f369568140e85.jpg",
+          "id": "2026-04-18-2f4761e2",
+          "title": "Moyen-Orient en direct : l'Iran menace de refermer le détroit d'Ormuz si le blocus américain se poursuit",
+          "description": "Téhéran a menacé tôt samedi de refermer le détroit stratégique d'Ormuz, si les États-Unis maintenaient leur blocus des ports iraniens, après avoir annoncé la veille sa réouverture complète pour les navires commerciaux. Sans accord, le blocus des ports iraniens continuera, avait prévenu pour sa part le président américain Donald Trump.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260418-moyen-orient-en-direct-l-iran-menace-de-refermer-le-d%C3%A9troit-d-ormuz-si-le-blocus-am%C3%A9ricain-se-poursuit-trump-ghalibaf-gardiens-r%C3%A9volution-israel-liban-etats-unis-petrole",
+          "imageUrl": "https://s.france24.com/media/display/0e1a5ce6-3779-11f1-ae5e-005056bfb2b6/w:1024/p:16x9/AP26102802553726.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-17T05:33:13.000Z",
-          "fetchedAt": "2026-04-17T06:14:09.856Z"
+          "publishedAt": "2026-04-18T05:18:26.000Z",
+          "fetchedAt": "2026-04-18T05:50:11.055Z"
         },
         {
-          "id": "2026-04-17-358efbee",
-          "title": "Réunion internationale à Paris ce vendredi autour de la sécurisation du détroit d'Ormuz",
-          "description": "La sécurité maritime dans le détroit d'Ormuz, c'est le sujet d'une réunion internationale ce vendredi 17 avril à Paris. Une initiative franco-britannique à laquelle se joignent une trentaine de pays. Alors que le passage est aujourd'hui entravé par l'Iran et par le blocus imposé par les États-Unis aux ports iraniens, l'idée est de préparer la suite et de rétablir la confiance indispensable à la navigation commerciale dans cette région du monde quand les hostilités auront cessé.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260417-r%C3%A9union-internationale-%C3%A0-paris-ce-vendredi-autour-de-la-s%C3%A9curisation-du-d%C3%A9troit-d-ormuz",
-          "imageUrl": "https://s.rfi.fr/media/display/a6bebca8-1156-11ea-8219-005056a99247/w:1024/p:16x9/le_detroit_dormuz_0.jpg",
+          "id": "2026-04-18-e31e376d",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que « le blocus continuera » sur les ports iraniens si aucun accord de paix n’est conclu avec Téhéran et menace de ne pas prolonger le cessez-le-feu",
+          "description": "De son côté, l’Iran a menacé samedi de refermer le détroit stratégique d’Ormuz si les Etats-Unis maintenaient leur blocus, après avoir annoncé la veille sa réouverture complète pour les navires commerciaux.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/18/en-direct-guerre-au-moyen-orient-donald-trump-veut-un-accord-avant-de-lever-le-blocus-des-ports-iraniens-teheran-menace-de-refermer-le-detroit-d-ormuz-si-ce-blocus-continue_6679867_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-18T04:56:34.000Z",
+          "fetchedAt": "2026-04-18T05:50:10.905Z"
+        },
+        {
+          "id": "2026-04-18-fd63629d",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: Donald Trump affirme que le blocus des ports iraniens va «continuer» si un accord n'est pas conclu",
+          "description": "Le président américain Donald Trump a déclaré vendredi soir qu'il maintiendrait le blocus américain sur les ports iraniens si aucun accord de paix n'est conclu avec Téhéran, ajoutant qu'il pourrait ne pas prolonger le cessez-le-feu après son expiration mercredi. L'Iran, de son côté, a menacé ce samedi de refermer le détroit stratégique d'Ormuz si les États-Unis maintenaient leur blocus des ports iraniens, après avoir annoncé la veille sa réouverture complète pour les navires commerciaux.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260418-en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-le-blocus-des-ports-iraniens-va-continuer-si-un-accord-n-est-pas-conclu",
+          "imageUrl": "https://s.rfi.fr/media/display/06697b30-26d0-11f1-bce2-005056bf30b7/w:1024/p:16x9/AP26071396916169-1.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-17T04:47:56.000Z",
-          "fetchedAt": "2026-04-17T06:14:21.890Z"
+          "publishedAt": "2026-04-18T04:17:51.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.776Z"
+        },
+        {
+          "id": "2026-04-18-5e5785cb",
+          "title": "Téhéran menace de refermer le détroit d’Ormuz en cas de poursuite du blocus américain",
+          "description": "L’Iran a exigé samedi la fin du blocus des ports iraniens, prévenant que le passage stratégique d’Ormuz pourrait ne pas rester ouvert en cas de refus américain. L’agacement de Téhéran contrastait samedi avec l’optimisme affiché par Donald Trump : celui-ci a assuré qu’il n’y avait plus de “points de blocage” entre les deux pays et que l’Iran était prêt à céder son stock d’uranium enrichi.",
+          "url": "https://www.courrierinternational.com/article/guerre-en-iran-teheran-menace-de-refermer-le-detroit-d-ormuz-en-cas-de-poursuite-du-blocus-americain_243106",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/17/0/429/4641/3094/1200/630/60/0/0372e3f_ftp-1-cdub3c9dsk9p-2026-04-17t153426z-461897271-rc23rka43bdx-rtrmadp-3-iraq-basra-oil.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-18T04:06:30.000Z",
+          "fetchedAt": "2026-04-18T05:50:11.312Z"
+        },
+        {
+          "id": "2026-04-18-17301970",
+          "title": "Donald Trump envisage avec optimisme une sortie de crise imminente au Moyen-Orient, en dépit des dénégations de l’Iran",
+          "description": "Le président américain assure que Téhéran a accepté de « ne plus jamais fermer le détroit d’Ormuz » et de livrer son stock d’uranium enrichi aux Etats-Unis. Des allégations « mensongères » selon les Iraniens.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/18/donald-trump-envisage-avec-optimisme-une-sortie-de-crise-imminente-au-moyen-orient-en-depit-des-denegations-de-l-iran_6681061_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-18T03:15:00.000Z",
+          "fetchedAt": "2026-04-18T05:50:10.905Z"
+        },
+        {
+          "id": "2026-04-17-d4cf6b0d",
+          "title": "Le détroit d'Ormuz rouvre, Trump affirme qu'il ne reste pas de \"points de blocage\" avec l'Iran",
+          "description": "Le président américain a assuré qu'il n'y avait pas de \"points de blocage\" pour conclure un accord de paix avec l'Iran, après que Téhéran a annoncé la réouverture du détroit d'Ormuz vendredi. Il a toutefois précisé que le blocus américain des ports iraniens demeurerait \"totalement en vigueur\" jusqu'à la fin des négociations.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260417-d%C3%A9troit-ormuz-rouvre-trump-affirme-reste-pas-points-blocage-avec-iran-guerre-moyen-orient-liban",
+          "imageUrl": "https://s.france24.com/media/display/88e327da-3a9b-11f1-a1b3-005056a97e36/w:1024/p:16x9/2026-04-17T153425Z-1797731019-RC23RKAOVSFD-RTRMADP-3-IRAQ-BASRA-OIL.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T21:05:01.000Z",
+          "fetchedAt": "2026-04-18T05:50:11.055Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "Victoire de Péter Magyar: la Commission européenne se rend en Hongrie, une visit",
+      "id": "cluster-5",
+      "topic": "Élections législatives en Bulgarie: Roumen Radev, un «nouvel Orban» au sein de l",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-17-45af7788",
-          "title": "Victoire de Péter Magyar: la Commission européenne se rend en Hongrie, une visite trop précipitée?",
-          "description": "Depuis la victoire de Péter Magyar et de son parti Tisza aux élections législatives hongroises, la présidente de la Commission européenne, Ursula von der Leyen, ne cache pas son impatience de travailler avec le futur Premier ministre hongrois à qui elle a déjà téléphoné, mardi 14 avril. Pour Péter Magyar la priorité absolue est le versement des fonds européens - gelés par la commission - que Viktor Orbán a fait perdre à la Hongrie. Ce sera l'un des sujets d’une importante visite que va mener la Commission européenne ce vendredi 17 avril 2026 à Budapest.",
-          "url": "https://www.rfi.fr/fr/europe/20260417-victoire-de-p%C3%A9ter-magyar-la-commission-europ%C3%A9enne-se-rend-en-hongrie-une-visite-trop-pr%C3%A9cipit%C3%A9e",
-          "imageUrl": "https://s.rfi.fr/media/display/67820a30-3748-11f1-a60c-005056bf30b7/w:1024/p:16x9/AP26103444672348.jpg",
+          "id": "2026-04-18-71c6ddeb",
+          "title": "Élections législatives en Bulgarie: Roumen Radev, un «nouvel Orban» au sein de l'UE?",
+          "description": "Un pro-russe favori des élections législatives en Hongrie ce dimanche 19 avril : l'ex-président Roumen Radev pourrait remporter le scrutin, alors que le pays est en crise. Ce sont les huitièmes élections organisées en cinq ans. Les enjeux décryptés par Romain Le Quiniou, directeur du centre de réflexion Eurocreative et spécialiste de l'Europe centrale et orientale.",
+          "url": "https://www.rfi.fr/fr/europe/20260418-%C3%A9lections-l%C3%A9gislatives-en-bulgarie-roumen-radev-un-nouvel-orban-au-sein-de-l-ue",
+          "imageUrl": "https://s.rfi.fr/media/display/dcc4f070-3a98-11f1-8ec2-005056bfb2b6/w:1024/p:16x9/BULGARIE-ROUMEN-RADEV-LEGISLATIVES.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-17T05:13:49.000Z",
-          "fetchedAt": "2026-04-17T06:14:21.890Z"
+          "publishedAt": "2026-04-18T04:59:52.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.776Z"
         },
         {
-          "id": "2026-04-17-155fde6c",
-          "title": "« Yellow Letters », une mise en lumière des vies brisées des intellectuels turcs réprimés : « Du jour au lendemain, tu deviens un indésirable aux yeux de la société. Certains ne l’ont pas supporté et il y a même eu un suicide »",
-          "description": "Entre 2016 et 2018, des milliers de professeurs turcs opposés au régime du président Erdoğan ont été licenciés et mis au ban de la société. Récompensé de l’Ours d’or du meilleur film de la Berlinale 2026, le long-métrage d’İlker Çatak se penche sur leur sort, et réveille de douloureux souvenirs chez ces anciens universitaires.",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/04/17/yellow-letters-une-mise-en-lumiere-des-vies-brisees-des-intellectuels-turcs-reprimes-du-jour-au-lendemain-tu-deviens-un-indesirable-aux-yeux-de-la-societe-certains-ne-l-ont-pas-supporte-et-il-y-a-meme-eu-un-suicide_6680818_4500055.html",
+          "id": "2026-04-18-eb701d58",
+          "title": "Avec la guerre en Iran, une relation transatlantique de plus en plus distante",
+          "description": "Emmanuel Macron a organisé une conférence sur la liberté de navigation dans le détroit d’Ormuz, vendredi, sans les Etats-Unis. Même les pays européens les plus prudents, comme l’Allemagne, ou ceux qui vantaient un lien privilégié avec le président américain, comme l’Italie, se démarquent désormais ouvertement.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/18/avec-la-guerre-en-iran-une-relation-transatlantique-de-plus-en-plus-distante_6681100_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-17T05:00:08.000Z",
-          "fetchedAt": "2026-04-17T06:14:09.635Z"
+          "publishedAt": "2026-04-18T03:45:08.000Z",
+          "fetchedAt": "2026-04-18T05:50:10.905Z"
         },
         {
-          "id": "2026-04-17-7ac374d7",
-          "title": "Burkina Faso: vague de haine contre une journaliste après un reportage sur la situation du pays",
-          "description": "Les critiques en ligne ne faiblissent pas au Burkina Faso après la diffusion d’un reportage sur la situation politique et sécuritaire du pays. Vendredi 10 avril 2026, la chaîne britannique Sky News a diffusé un document tourné à Ouagadougou avec l’aval des autorités — un fait rare, dans un contexte où l’information est étroitement contrôlée depuis l’arrivée au pouvoir du capitaine Ibrahim Traoré. Mais si son reportage donne la parole aux défenseurs du régime, il montre aussi l'envers du décor de la propagande. Depuis, son autrice est victime d'un torrent de haine et de fausses informations sur les réseaux sociaux.",
-          "url": "https://www.rfi.fr/fr/afrique/20260417-burkina-faso-vague-de-haine-contre-une-journaliste-apr%C3%A8s-un-reportage-sur-la-situation-du-pays",
-          "imageUrl": "https://s.rfi.fr/media/display/993212a4-39ec-11f1-b178-005056a97e36/w:1024/p:16x9/Design-sans-titre-6-1.png",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-17T04:13:49.000Z",
-          "fetchedAt": "2026-04-17T06:14:21.890Z"
-        },
-        {
-          "id": "2026-04-17-28753a6a",
-          "title": "En Cisjordanie, l’impunité absolue des colons auteurs de crimes",
-          "description": "Depuis 2020, la justice israélienne n’a prononcé aucune condamnation à de la prison ferme contre les colons juifs responsables de la mort de civils palestiniens, alors que le nombre et la gravité des crimes qu’ils commettent ne cessent de croître.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/17/en-cisjordanie-l-impunite-absolue-des-colons-auteurs-de-meurtre_6680801_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-17T03:45:01.000Z",
-          "fetchedAt": "2026-04-17T06:14:09.635Z"
-        },
-        {
-          "id": "2026-04-17-67cb4ba9",
-          "title": "Quel est le premier animal apparu sur Terre ? La réponse déchire la communauté scientifique",
-          "description": "Depuis l’avènement de la génomique, on ne sait plus très bien quel est le premier animal à être apparu sur Terre. On a longtemps pensé que c’étaient les éponges, mais l’étude du matériel génétique a fait valser cette certitude. Le débat est vif parmi les chercheurs, constate la revue britannique “Nature”.",
-          "url": "https://www.courrierinternational.com/article/sciences-quel-est-le-premier-animal-apparu-sur-terre-la-reponse-dechire-la-communaute-scientifique_241046",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/02/326/0/1772/1181/1200/630/60/0/13ed92a_upload-1-nxek49dea2mj-web-nature-af-print-copie.jpg",
+          "id": "2026-04-18-1d788412",
+          "title": "Crise énergétique : la France montre qu’une autre politique est possible",
+          "description": "L’Allemagne va réduire pendant deux mois les taxes sur les produits pétroliers, le diesel et l’essence, permettant une économie de 17 centimes par litre à la pompe. Une mesure à court terme, critique le quotidien de centre gauche “Süddeutsche Zeitung”. Mieux vaudrait faire comme dans l’Hexagone, où l’on a compris que la fin des moteurs thermiques est inéluctable. Et où l’on réagit avec clairvoyance.",
+          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-crise-energetique-la-france-montre-qu-une-autre-politique-est-possible_243036",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/15/0/0/6106/4070/1200/630/60/0/09d42ca_ftp-1-ul01kjxyxkgw-afp-a7wv3zq.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-17T03:00:18.000Z",
-          "fetchedAt": "2026-04-17T06:14:10.158Z"
+          "publishedAt": "2026-04-18T03:00:34.000Z",
+          "fetchedAt": "2026-04-18T05:50:11.312Z"
         },
         {
-          "id": "2026-04-17-980754e9",
-          "title": "Congo-Brazzaville: Denis Sassou-Nguesso prête serment pour un cinquième mandat à la tête du pays",
-          "description": "Le chef de l’État congolais, Denis Sassou-Nguesso, 82 ans dont 41 ans cumulés au pouvoir, a été investi jeudi 16 avril, pour son cinquième mandat consécutif. Il a été réélu avec 94,90% de suffrages au terme de la présidentielle du 15 mars dernier. La cérémonie dans un stade à Kintélé, banlieue nord de Brazzaville, en présence de centaines de milliers de Congolais et d’une dizaine de chefs d’États africains, dont Paul Kagamé et Félix Tshisekedi",
-          "url": "https://www.rfi.fr/fr/afrique/20260417-congo-brazzaville-denis-sassou-nguesso-pr%C3%AAte-serment-pour-un-cinqui%C3%A8me-mandat-%C3%A0-la-t%C3%AAte-du-pays",
-          "imageUrl": "https://s.rfi.fr/media/display/02c8dd50-3a07-11f1-b77f-005056a97e36/w:1024/p:16x9/AP26070441845788.jpg",
+          "id": "2026-04-18-8a1b4ea7",
+          "title": "En Corée du Sud, fin de cavale pour Neukgu, le loup qui s’était échappé d’un zoo",
+          "description": "L’animal a été attrapé vendredi, ont indiqué les autorités, après neuf jours d’intenses recherches. Les autorités avaient déployé des centaines d’agents, des drones et des caméras thermiques pour retrouver le fugitif, insaisissable malgré plusieurs signalements.",
+          "url": "https://www.courrierinternational.com/article/animaux-en-coree-du-sud-fin-de-cavale-pour-neukgu-le-loup-qui-s-etait-echappe-d-un-zoo_243105",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/17/0/311/3378/2252/1200/630/60/0/f795899_ftp-1-hoofu8citbxv-2026-04-17t025103z-1436583545-rc2pqka8csuc-rtrmadp-3-southkorea-wolf.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-18T03:00:04.000Z",
+          "fetchedAt": "2026-04-18T05:50:11.312Z"
+        },
+        {
+          "id": "2026-04-18-5a875f0e",
+          "title": "Voyage du pape au Cameroun, Belgique, centres de données, Bafta des jeux vidéo : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-voyage-du-pape-au-cameroun-belgique-centres-de-donnee-bafta-des-jeux-video-les-informations-de-la-nuit_243104",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/17/0/0/2949/1966/1200/630/60/0/e1e3ab5_ftp-1-hjnocqzz4ce7-afp-a86g448.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-18T03:00:04.000Z",
+          "fetchedAt": "2026-04-18T05:50:11.312Z"
+        },
+        {
+          "id": "2026-04-18-8cf40f02",
+          "title": "Italie: Matteo Salvini réunit les Patriotes pour l'Europe à Milan pour relancer la Ligue",
+          "description": "À un peu plus d'un an des prochaines élections législatives en Italie, le vice-Premier ministre et ministre des Transports, Matteo Salvini, leader du parti d'extrême droite de la Ligue, tente de relancer sa formation dans les sondages. Ce samedi 18 avril, à Milan, il convie les élus et sympathisants de la Ligue, ainsi que ses alliés du groupe des « Patriotes pour l'Europe », dont le Français Jordan Bardella et le Néerlandais Geert Wilders. Il cherche un nouveau souffle, alors que Giorgia Meloni traverse une période compliquée.",
+          "url": "https://www.rfi.fr/fr/europe/20260418-italie-matteo-salvini-r%C3%A9unit-les-patriotes-pour-l-europe-%C3%A0-milan-pour-relancer-la-ligue",
+          "imageUrl": "https://s.rfi.fr/media/display/9484f860-3ab5-11f1-aea4-005056a97e36/w:1024/p:16x9/ITALIE-EXTREME-DROITE-MATTEO-SALVINI.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-17T02:43:58.000Z",
-          "fetchedAt": "2026-04-17T06:14:21.890Z"
+          "publishedAt": "2026-04-18T02:43:14.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.776Z"
         }
       ]
     },
     {
-      "id": "cluster-64",
-      "topic": "Dans les câbles sous-marins, les fleurons français ASN et Orange alertent sur la",
-      "category": "tech",
-      "importance": 9,
+      "id": "cluster-22",
+      "topic": "Oscar Schmidt, légende du basket brésilien, est mort à 68 ans",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-04-15-9bbe7904",
-          "title": "Dans les câbles sous-marins, les fleurons français ASN et Orange alertent sur la « distorsion de concurrence » provoquée par la taxe carbone européenne",
-          "description": "Alcatel Submarine Networks et Orange Marine considèrent que l’intégration de leur activité dans le système européen d’échange de quotas d’émission de C02 en 2027 menace leur compétitivité.",
-          "url": "https://www.lemonde.fr/economie/article/2026/04/15/dans-les-cables-sous-marins-les-fleurons-francais-asn-et-orange-alertent-sur-la-distorsion-de-concurrence-provoquee-par-la-taxe-carbone-europeenne_6680277_3234.html",
+          "id": "2026-04-18-659123e6",
+          "title": "Oscar Schmidt, légende du basket brésilien, est mort à 68 ans",
+          "description": "Cette « icône absolue » de son sport, longtemps recordman du monde du nombre de points marqués au cours de sa très longue carrière, a brillé dans des clubs au Brésil, en Italie et en Espagne, mais n’a jamais évolué en NBA.",
+          "url": "https://www.lemonde.fr/sport/article/2026/04/18/oscar-schmidt-legende-du-basket-bresilien-est-mort-a-68-ans_6680994_3242.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-04-15T11:30:00.000Z",
-          "fetchedAt": "2026-04-17T06:14:21.796Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-18T00:18:00.000Z",
+          "fetchedAt": "2026-04-18T05:50:10.905Z"
         },
         {
-          "id": "2026-04-15-396e7fec",
-          "title": "La Renault 4 électrique décapotable est là, sauf pour les Français",
-          "description": "Enfin, la version « Plein Sud » de la Renault 4 électrique et son grand toit ouvrant est disponible à la commande. Problème, la France est encore boudée. Dans des pays voisins comme l'Allemagne, le prix est fixé à 36 300 €.",
-          "url": "https://www.numerama.com/vroom/2233295-la-renault-4-electrique-decapotable-est-la-sauf-pour-les-francais.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/renault-4-e-tech-plein-sud-2.jpg?resize=1600,900&key=f57a7374&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-15T10:37:04.000Z",
-          "fetchedAt": "2026-04-17T06:14:21.971Z"
+          "id": "2026-04-17-1a6c0790",
+          "title": "Oscar Schmidt, légende du basket et meilleur marqueur de l'histoire des JO, est décédé",
+          "description": "Le Brésilien Oscar Schmidt, légende du basket et fine gâchette à la carrière inhabituellement longue, est mort vendredi à l'âge de 68 ans, ont annoncé la Confédération brésilienne de basket (CBB) et sa famille.",
+          "url": "https://www.rfi.fr/fr/sports/20260417-oscar-schmidt-l%C3%A9gende-du-basket-et-meilleur-marqueur-de-l-histoire-des-jo-est-d%C3%A9c%C3%A9d%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/66cff758-3aa6-11f1-a85d-005056a90284/w:1024/p:16x9/000-A8932G3.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-17T21:43:22.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.776Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "category": "eco",
-      "importance": 7,
+      "topic": "Fuites de données : l’éducation nationale, une cible vulnérable face aux cyberat",
+      "category": "tech",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-04-17-b9fc2dcb",
-          "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-          "description": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
-          "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg",
+          "id": "2026-04-18-8168cd29",
+          "title": "Fuites de données : l’éducation nationale, une cible vulnérable face aux cyberattaques",
+          "description": "Deux vols de données ont touché ces dernières semaines des bases de données d’élèves et d’enseignants. Le ministère, qui possède des données sur des millions de personnels, élèves et familles, et dont les systèmes informatiques sont vieillissants et mal sécurisés, est une cible privilégiée des pirates informatiques.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/04/18/fuites-de-donnees-l-education-nationale-une-cible-vulnerable-face-aux-cyberattaques_6681062_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-04-18T03:15:06.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.826Z"
+        },
+        {
+          "id": "2026-04-17-32a40766",
+          "title": "Cryptomonnaies : six jeunes mis en examen après l’enlèvement d’une mère et son fils",
+          "description": "Les victimes avaient été libérées mardi, un jour après leur enlèvement en Bourgogne. Le commanditaire présumé ne fait pas partie des personnes arrêtées.",
+          "url": "https://www.lemonde.fr/societe/article/2026/04/17/cryptomonnaies-six-jeunes-mis-en-examen-apres-l-enlevement-d-une-mere-et-son-fils_6680926_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-04-17T20:41:29.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.826Z"
+        },
+        {
+          "id": "2026-04-17-a7eaca20",
+          "title": "ExoMars 2028 : sauvée de la malédiction, la mission européenne s’envolera vers Mars sur un Falcon Heavy",
+          "description": "Longtemps considérée comme maudite, la mission européenne ExoMars voit enfin son horizon s’éclaircir. Épaulé par la NASA, le rover Rosalind Franklin s’envolera fin 2028 à bord du rare et surpuissant Falcon Heavy de SpaceX, prêt à traquer d'anciennes traces de vie sous le sol martien.",
+          "url": "https://www.numerama.com/sciences/2234699-exomars-2028-sauvee-de-la-malediction-la-mission-europeenne-senvolera-vers-mars-sur-un-falcon-heavy.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2024/10/falcon-heavy.jpg?resize=1600,900&key=988be96f&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-04-17T16:18:07.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.966Z"
+        },
+        {
+          "id": "2026-04-17-4831b9da",
+          "title": "Il construit un Pokédex réaliste capable d’identifier n’importe quel Pokémon",
+          "description": "Bien sûr, quelqu’un s’est mis en tête de fabriquer un Pokédex fidèle à celui de l’anime diffusé à la fin des années 90. Un Pokédex, qui plus est entièrement fonctionnel, capable de reconnaître de nombreux Pokémon.",
+          "url": "https://www.numerama.com/pop-culture/2235185-il-construit-un-pokedex-realiste-capable-didentifier-nimporte-quel-pokemon.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/mr-volt-pokedex.jpg?resize=1600,900&key=fd576c2f&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-04-17T14:17:11.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.966Z"
+        },
+        {
+          "id": "2026-04-17-2821008e",
+          "title": "« On doit réguler la parole sur les réseaux sociaux » : Macron veut en finir avec les faux comptes, à un an de la présidentielle",
+          "description": "À tout juste un an de la prochaine élection présidentielle, à laquelle Emmanuel Macron ne participera pas, l'exécutif accélère sur le front de la sécurité démocratique. Dans le viseur du chef de l'État : l'opacité des algorithmes, les fermes de faux comptes et les ingérences étrangères.",
+          "url": "https://www.numerama.com/politique/2234863-on-doit-reguler-la-parole-sur-les-reseaux-sociaux-macron-veut-en-finir-avec-les-faux-comptes-a-un-an-de-la-presidentielle.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/12/macron-anonymat.jpg?resize=1600,900&key=2caf9ba5&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-04-17T13:58:24.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.966Z"
+        },
+        {
+          "id": "2026-04-17-cd58b10c",
+          "title": "La vente de SFR cache un changement majeur pour de nombreux opérateurs low-cost",
+          "description": "Si vous êtes client RED ou SFR, les questions concernant les répercussions d'un rachat de l'opérateur sont logiques. Mais l’impact dépasse largement ces deux enseignes. Une galaxie d’opérateurs virtuels (MVNO) dépendent exclusivement des antennes de SFR pour fonctionner. Pour leurs abonnés, l'incertitude commence.",
+          "url": "https://www.numerama.com/tech/2094611-la-vente-de-sfr-cache-un-changement-majeur-pour-de-nombreux-operateurs-low-cost.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/10/sfr-1.jpg?resize=1600,900&key=a23aa562&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-04-17T13:39:08.000Z",
+          "fetchedAt": "2026-04-18T05:50:19.966Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "Mortgage rates show signs of falling after Iran war peak",
+      "category": "eco",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-04-17-268bb1b6",
+          "title": "Mortgage rates show signs of falling after Iran war peak",
+          "description": "Major lenders make rate reductions as markets take some heart from a possible truce in the Iran war.",
+          "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/27de/live/fa2d1d40-3a3e-11f1-826b-272fcb9e69bd.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-17T01:34:22.000Z",
-          "fetchedAt": "2026-04-17T06:14:39.013Z"
+          "publishedAt": "2026-04-17T23:33:10.000Z",
+          "fetchedAt": "2026-04-18T05:50:30.137Z"
         }
       ]
     }
