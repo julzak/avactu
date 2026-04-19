@@ -1,275 +1,198 @@
 {
-  "generatedAt": "2026-04-18T05:54:11.546Z",
+  "generatedAt": "2026-04-19T06:11:45.401Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Moyen-Orient en direct : l'Iran menace de refermer le détroit d'Ormuz si le bloc",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-18-2f4761e2",
-          "title": "Moyen-Orient en direct : l'Iran menace de refermer le détroit d'Ormuz si le blocus américain se poursuit",
-          "description": "Téhéran a menacé tôt samedi de refermer le détroit stratégique d'Ormuz, si les États-Unis maintenaient leur blocus des ports iraniens, après avoir annoncé la veille sa réouverture complète pour les navires commerciaux. Sans accord, le blocus des ports iraniens continuera, avait prévenu pour sa part le président américain Donald Trump.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260418-moyen-orient-en-direct-l-iran-menace-de-refermer-le-d%C3%A9troit-d-ormuz-si-le-blocus-am%C3%A9ricain-se-poursuit-trump-ghalibaf-gardiens-r%C3%A9volution-israel-liban-etats-unis-petrole",
-          "imageUrl": "https://s.france24.com/media/display/0e1a5ce6-3779-11f1-ae5e-005056bfb2b6/w:1024/p:16x9/AP26102802553726.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-18T05:18:26.000Z",
-          "fetchedAt": "2026-04-18T05:50:11.055Z"
-        },
-        {
-          "id": "2026-04-18-e31e376d",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que « le blocus continuera » sur les ports iraniens si aucun accord de paix n’est conclu avec Téhéran et menace de ne pas prolonger le cessez-le-feu",
-          "description": "De son côté, l’Iran a menacé samedi de refermer le détroit stratégique d’Ormuz si les Etats-Unis maintenaient leur blocus, après avoir annoncé la veille sa réouverture complète pour les navires commerciaux.",
-          "url": "https://www.lemonde.fr/international/live/2026/04/18/en-direct-guerre-au-moyen-orient-donald-trump-veut-un-accord-avant-de-lever-le-blocus-des-ports-iraniens-teheran-menace-de-refermer-le-detroit-d-ormuz-si-ce-blocus-continue_6679867_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-18T04:56:34.000Z",
-          "fetchedAt": "2026-04-18T05:50:10.905Z"
-        },
-        {
-          "id": "2026-04-18-fd63629d",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: Donald Trump affirme que le blocus des ports iraniens va «continuer» si un accord n'est pas conclu",
-          "description": "Le président américain Donald Trump a déclaré vendredi soir qu'il maintiendrait le blocus américain sur les ports iraniens si aucun accord de paix n'est conclu avec Téhéran, ajoutant qu'il pourrait ne pas prolonger le cessez-le-feu après son expiration mercredi. L'Iran, de son côté, a menacé ce samedi de refermer le détroit stratégique d'Ormuz si les États-Unis maintenaient leur blocus des ports iraniens, après avoir annoncé la veille sa réouverture complète pour les navires commerciaux.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260418-en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-le-blocus-des-ports-iraniens-va-continuer-si-un-accord-n-est-pas-conclu",
-          "imageUrl": "https://s.rfi.fr/media/display/06697b30-26d0-11f1-bce2-005056bf30b7/w:1024/p:16x9/AP26071396916169-1.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-18T04:17:51.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.776Z"
-        },
-        {
-          "id": "2026-04-18-5e5785cb",
-          "title": "Téhéran menace de refermer le détroit d’Ormuz en cas de poursuite du blocus américain",
-          "description": "L’Iran a exigé samedi la fin du blocus des ports iraniens, prévenant que le passage stratégique d’Ormuz pourrait ne pas rester ouvert en cas de refus américain. L’agacement de Téhéran contrastait samedi avec l’optimisme affiché par Donald Trump : celui-ci a assuré qu’il n’y avait plus de “points de blocage” entre les deux pays et que l’Iran était prêt à céder son stock d’uranium enrichi.",
-          "url": "https://www.courrierinternational.com/article/guerre-en-iran-teheran-menace-de-refermer-le-detroit-d-ormuz-en-cas-de-poursuite-du-blocus-americain_243106",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/17/0/429/4641/3094/1200/630/60/0/0372e3f_ftp-1-cdub3c9dsk9p-2026-04-17t153426z-461897271-rc23rka43bdx-rtrmadp-3-iraq-basra-oil.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-18T04:06:30.000Z",
-          "fetchedAt": "2026-04-18T05:50:11.312Z"
-        },
-        {
-          "id": "2026-04-18-17301970",
-          "title": "Donald Trump envisage avec optimisme une sortie de crise imminente au Moyen-Orient, en dépit des dénégations de l’Iran",
-          "description": "Le président américain assure que Téhéran a accepté de « ne plus jamais fermer le détroit d’Ormuz » et de livrer son stock d’uranium enrichi aux Etats-Unis. Des allégations « mensongères » selon les Iraniens.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/18/donald-trump-envisage-avec-optimisme-une-sortie-de-crise-imminente-au-moyen-orient-en-depit-des-denegations-de-l-iran_6681061_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-18T03:15:00.000Z",
-          "fetchedAt": "2026-04-18T05:50:10.905Z"
-        },
-        {
-          "id": "2026-04-17-d4cf6b0d",
-          "title": "Le détroit d'Ormuz rouvre, Trump affirme qu'il ne reste pas de \"points de blocage\" avec l'Iran",
-          "description": "Le président américain a assuré qu'il n'y avait pas de \"points de blocage\" pour conclure un accord de paix avec l'Iran, après que Téhéran a annoncé la réouverture du détroit d'Ormuz vendredi. Il a toutefois précisé que le blocus américain des ports iraniens demeurerait \"totalement en vigueur\" jusqu'à la fin des négociations.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260417-d%C3%A9troit-ormuz-rouvre-trump-affirme-reste-pas-points-blocage-avec-iran-guerre-moyen-orient-liban",
-          "imageUrl": "https://s.france24.com/media/display/88e327da-3a9b-11f1-a1b3-005056a97e36/w:1024/p:16x9/2026-04-17T153425Z-1797731019-RC23RKAOVSFD-RTRMADP-3-IRAQ-BASRA-OIL.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-17T21:05:01.000Z",
-          "fetchedAt": "2026-04-18T05:50:11.055Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-5",
-      "topic": "Élections législatives en Bulgarie: Roumen Radev, un «nouvel Orban» au sein de l",
+      "topic": "Moyen-Orient en direct : des \"progrès\" dans les négociations, mais un accord fin",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-18-71c6ddeb",
-          "title": "Élections législatives en Bulgarie: Roumen Radev, un «nouvel Orban» au sein de l'UE?",
-          "description": "Un pro-russe favori des élections législatives en Hongrie ce dimanche 19 avril : l'ex-président Roumen Radev pourrait remporter le scrutin, alors que le pays est en crise. Ce sont les huitièmes élections organisées en cinq ans. Les enjeux décryptés par Romain Le Quiniou, directeur du centre de réflexion Eurocreative et spécialiste de l'Europe centrale et orientale.",
-          "url": "https://www.rfi.fr/fr/europe/20260418-%C3%A9lections-l%C3%A9gislatives-en-bulgarie-roumen-radev-un-nouvel-orban-au-sein-de-l-ue",
-          "imageUrl": "https://s.rfi.fr/media/display/dcc4f070-3a98-11f1-8ec2-005056bfb2b6/w:1024/p:16x9/BULGARIE-ROUMEN-RADEV-LEGISLATIVES.jpg",
-          "source": "RFI",
+          "id": "2026-04-19-d8388d0a",
+          "title": "Moyen-Orient en direct : des \"progrès\" dans les négociations, mais un accord final \"encore loin\", selon l'Iran",
+          "description": "Les négociations de paix entre l’Iran et les États-Unis ont \"fait des progrès\", mais un accord final reste \"encore loin\", selon le président du Parlement iranien Mohammad Bagher Ghalibaf. Téhéran verrouille de nouveau le détroit d’Ormuz en réponse au blocus américain de ses ports, à trois jours de la fin du cessez-le-feu. Suivez en direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260419-moyen-orient-en-direct-des-progr%C3%A8s-dans-les-n%C3%A9gociations-mais-un-accord-final-encore-loin-selon-l-iran-trump-ghalibaf-gardiens-revolution-israel-liban-hezbollah",
+          "imageUrl": "https://s.france24.com/media/display/84b086aa-3517-11f1-ba07-005056a97e36/w:1024/p:16x9/000-94PX697-1.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-18T04:59:52.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.776Z"
+          "publishedAt": "2026-04-19T05:08:28.000Z",
+          "fetchedAt": "2026-04-19T06:07:45.136Z"
         },
         {
-          "id": "2026-04-18-eb701d58",
-          "title": "Avec la guerre en Iran, une relation transatlantique de plus en plus distante",
-          "description": "Emmanuel Macron a organisé une conférence sur la liberté de navigation dans le détroit d’Ormuz, vendredi, sans les Etats-Unis. Même les pays européens les plus prudents, comme l’Allemagne, ou ceux qui vantaient un lien privilégié avec le président américain, comme l’Italie, se démarquent désormais ouvertement.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/18/avec-la-guerre-en-iran-une-relation-transatlantique-de-plus-en-plus-distante_6681100_3210.html",
+          "id": "2026-04-19-81769ba0",
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran évoque des « progrès » dans les négociations de paix mais prévient qu’un accord final est « encore loin »",
+          "description": "Les pourparlers de paix entre l’Iran et les Etats-Unis ont « fait des progrès » mais de « nombreuses divergences » persistent, a affirmé, samedi, le président du Parlement iranien, Mohammad Bagher Ghalibaf, qui avait représenté Téhéran lors des négociations avec Washington les 11 et 12 avril au Pakistan.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/19/en-direct-guerre-au-moyen-orient-l-iran-evoque-des-progres-dans-les-negociations-de-paix-mais-previent-qu-un-accord-final-est-encore-loin_6679867_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-18T03:45:08.000Z",
-          "fetchedAt": "2026-04-18T05:50:10.905Z"
+          "publishedAt": "2026-04-19T04:50:05.000Z",
+          "fetchedAt": "2026-04-19T06:07:45.111Z"
         },
         {
-          "id": "2026-04-18-1d788412",
-          "title": "Crise énergétique : la France montre qu’une autre politique est possible",
-          "description": "L’Allemagne va réduire pendant deux mois les taxes sur les produits pétroliers, le diesel et l’essence, permettant une économie de 17 centimes par litre à la pompe. Une mesure à court terme, critique le quotidien de centre gauche “Süddeutsche Zeitung”. Mieux vaudrait faire comme dans l’Hexagone, où l’on a compris que la fin des moteurs thermiques est inéluctable. Et où l’on réagit avec clairvoyance.",
-          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-crise-energetique-la-france-montre-qu-une-autre-politique-est-possible_243036",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/15/0/0/6106/4070/1200/630/60/0/09d42ca_ftp-1-ul01kjxyxkgw-afp-a7wv3zq.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-18T03:00:34.000Z",
-          "fetchedAt": "2026-04-18T05:50:11.312Z"
-        },
-        {
-          "id": "2026-04-18-8a1b4ea7",
-          "title": "En Corée du Sud, fin de cavale pour Neukgu, le loup qui s’était échappé d’un zoo",
-          "description": "L’animal a été attrapé vendredi, ont indiqué les autorités, après neuf jours d’intenses recherches. Les autorités avaient déployé des centaines d’agents, des drones et des caméras thermiques pour retrouver le fugitif, insaisissable malgré plusieurs signalements.",
-          "url": "https://www.courrierinternational.com/article/animaux-en-coree-du-sud-fin-de-cavale-pour-neukgu-le-loup-qui-s-etait-echappe-d-un-zoo_243105",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/17/0/311/3378/2252/1200/630/60/0/f795899_ftp-1-hoofu8citbxv-2026-04-17t025103z-1436583545-rc2pqka8csuc-rtrmadp-3-southkorea-wolf.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-18T03:00:04.000Z",
-          "fetchedAt": "2026-04-18T05:50:11.312Z"
-        },
-        {
-          "id": "2026-04-18-5a875f0e",
-          "title": "Voyage du pape au Cameroun, Belgique, centres de données, Bafta des jeux vidéo : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-voyage-du-pape-au-cameroun-belgique-centres-de-donnee-bafta-des-jeux-video-les-informations-de-la-nuit_243104",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/17/0/0/2949/1966/1200/630/60/0/e1e3ab5_ftp-1-hjnocqzz4ce7-afp-a86g448.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-18T03:00:04.000Z",
-          "fetchedAt": "2026-04-18T05:50:11.312Z"
-        },
-        {
-          "id": "2026-04-18-8cf40f02",
-          "title": "Italie: Matteo Salvini réunit les Patriotes pour l'Europe à Milan pour relancer la Ligue",
-          "description": "À un peu plus d'un an des prochaines élections législatives en Italie, le vice-Premier ministre et ministre des Transports, Matteo Salvini, leader du parti d'extrême droite de la Ligue, tente de relancer sa formation dans les sondages. Ce samedi 18 avril, à Milan, il convie les élus et sympathisants de la Ligue, ainsi que ses alliés du groupe des « Patriotes pour l'Europe », dont le Français Jordan Bardella et le Néerlandais Geert Wilders. Il cherche un nouveau souffle, alors que Giorgia Meloni traverse une période compliquée.",
-          "url": "https://www.rfi.fr/fr/europe/20260418-italie-matteo-salvini-r%C3%A9unit-les-patriotes-pour-l-europe-%C3%A0-milan-pour-relancer-la-ligue",
-          "imageUrl": "https://s.rfi.fr/media/display/9484f860-3ab5-11f1-aea4-005056a97e36/w:1024/p:16x9/ITALIE-EXTREME-DROITE-MATTEO-SALVINI.jpg",
+          "id": "2026-04-19-e4d44063",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: Donald Trump et Téhéran assurent que les négociations font «des progrès»",
+          "description": "Le président du Parlement iranien, Mohammed ⁠Bager Qalibaf, considéré comme le négociateur en chef de la délégation iranienne, a déclaré que des progrès avaient été effectués lors des récents pourparlers entre Téhéran et Washington, tandis que le président américain, Donald Trump, a fait état ⁠de « très bonnes conversations ».",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260419-en-direct-guerre-au-moyen-orient-donald-trump-et-t%C3%A9h%C3%A9ran-assurent-que-les-n%C3%A9gociations-font-des-progr%C3%A8s",
+          "imageUrl": "https://s.rfi.fr/media/display/451fdfb0-3ba5-11f1-9a8c-005056bf30b7/w:1024/p:16x9/2026-04-18T142746Z-920170678-RC2QRKA80IGI-RTRMADP-3-USA-TRUMP.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-18T02:43:14.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.776Z"
+          "publishedAt": "2026-04-19T04:15:17.000Z",
+          "fetchedAt": "2026-04-19T06:07:59.752Z"
+        },
+        {
+          "id": "2026-04-19-c487d85f",
+          "title": "L’Iran verrouille de nouveau le détroit d’Ormuz, Donald Trump dénonce un « chantage »",
+          "description": "« Toute tentative d’approche sera considérée comme une coopération avec l’ennemi et le navire contrevenant sera pris pour cible », a affirmé le corps des gardiens de la révolution iraniens.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/19/l-iran-verrouille-de-nouveau-le-detroit-d-ormuz-donald-trump-denonce-un-chantage_6681288_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-19T02:30:07.000Z",
+          "fetchedAt": "2026-04-19T06:07:45.111Z"
         }
       ]
     },
     {
-      "id": "cluster-22",
-      "topic": "Oscar Schmidt, légende du basket brésilien, est mort à 68 ans",
+      "id": "cluster-11",
+      "topic": "Dans le sud du Liban, une situation toujours plus instable après la mort d’un ca",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-18-659123e6",
-          "title": "Oscar Schmidt, légende du basket brésilien, est mort à 68 ans",
-          "description": "Cette « icône absolue » de son sport, longtemps recordman du monde du nombre de points marqués au cours de sa très longue carrière, a brillé dans des clubs au Brésil, en Italie et en Espagne, mais n’a jamais évolué en NBA.",
-          "url": "https://www.lemonde.fr/sport/article/2026/04/18/oscar-schmidt-legende-du-basket-bresilien-est-mort-a-68-ans_6680994_3242.html",
+          "id": "2026-04-19-1424f36a",
+          "title": "Dans le sud du Liban, une situation toujours plus instable après la mort d’un casque bleu français lors d’une attaque attribuée au Hezbollah",
+          "description": "Le sergent-chef Florian Montorio, un soldat de la Finul, a été tué, samedi, dans une embuscade, alors qu’il déminait une route. Emmanuel Macron a appelé les autorités libanaises « à identifier et à poursuivre sans délai les responsables ».",
+          "url": "https://www.lemonde.fr/international/article/2026/04/19/dans-le-sud-du-liban-une-situation-toujours-plus-volatile-apres-la-mort-d-un-casque-bleu-francais-lors-d-une-attaque-attribuee-au-hezbollah_6681432_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-18T00:18:00.000Z",
-          "fetchedAt": "2026-04-18T05:50:10.905Z"
+          "publishedAt": "2026-04-19T04:15:02.000Z",
+          "fetchedAt": "2026-04-19T06:07:45.111Z"
         },
         {
-          "id": "2026-04-17-1a6c0790",
-          "title": "Oscar Schmidt, légende du basket et meilleur marqueur de l'histoire des JO, est décédé",
-          "description": "Le Brésilien Oscar Schmidt, légende du basket et fine gâchette à la carrière inhabituellement longue, est mort vendredi à l'âge de 68 ans, ont annoncé la Confédération brésilienne de basket (CBB) et sa famille.",
-          "url": "https://www.rfi.fr/fr/sports/20260417-oscar-schmidt-l%C3%A9gende-du-basket-et-meilleur-marqueur-de-l-histoire-des-jo-est-d%C3%A9c%C3%A9d%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/66cff758-3aa6-11f1-a85d-005056a90284/w:1024/p:16x9/000-A8932G3.jpg",
+          "id": "2026-04-19-55a83fb0",
+          "title": "Voyage dans un pays qui n’existe pas : le Somaliland, un territoire stratégique qui attire les superpuissances",
+          "description": "Cette République autoproclamée en 1991, qui rêve d’accéder à la scène internationale, se retrouve au cœur d’un jeu de bases militaires et d’alliances rivales, prise entre les ambitions israéliennes, américaines et émiraties et les menaces venues du Yémen et de la Somalie voisine.",
+          "url": "https://www.lemonde.fr/afrique/visuel/2026/04/19/voyage-dans-un-pays-qui-n-existe-pas-le-somaliland-un-territoire-strategique-qui-attire-les-superpuissances_6681394_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-19T04:00:22.000Z",
+          "fetchedAt": "2026-04-19T06:07:45.111Z"
+        },
+        {
+          "id": "2026-04-19-d0e692f4",
+          "title": "Ni droite, ni gauche, ni extrêmes ? La carte politique française est un casse-tête",
+          "description": "À un an de l’élection présidentielle de 2027, la France politique se redessine sous nos yeux, analyse le journaliste britannique John Lichfield dans “The Local”. En tentant de s’émanciper des étiquettes traditionnelles, les responsables politiques brouillent les frontières idéologiques entre la gauche et la droite.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-ni-droite-ni-gauche-ni-extremes-la-carte-politique-francaise-est-un-casse-tete_242689",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/13/0/31/2338/1559/1200/630/60/0/0923027_upload-1-a0na8ysdqids-nardi-marianne-g.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-19T03:00:24.000Z",
+          "fetchedAt": "2026-04-19T06:07:45.661Z"
+        },
+        {
+          "id": "2026-04-19-be2557e6",
+          "title": "Tunisie: le nom du comédien Lotfi Abdelli vient s'ajouter à une longue liste de condamnations",
+          "description": "En Tunisie, l'humoriste et comédien de renom Lotfi Abdelli a été condamné par contumace à dix-huit mois de prison par le tribunal de Sfax à l'est du pays. Il est accusé d'outrage à un fonctionnaire public, attribution de faits non prouvés à un agent public et atteinte aux bonnes moeurs. En cause, l'un de ses one-man shows, en 2022, où il s'était moqué de la police. Des agents en civil avaient tenté d'interrompre le spectacle. La scène avait été filmée et avait provoqué une polémique. En exil en France depuis ces faits, Lotfi Abdelli a ironisé sur ce jugement qui s'inscrit  dans la foulée de nombreuses condamnations cette semaine en Tunisie.",
+          "url": "https://www.rfi.fr/fr/afrique/20260419-tunisie-le-nom-du-com%C3%A9dien-lotfi-abdelli-vient-s-ajouter-%C3%A0-une-longue-liste-de-condamnations",
+          "imageUrl": "https://s.rfi.fr/media/display/1a44f0f0-1769-11ed-9529-005056bfa79e/w:1024/p:16x9/000_HT5T3.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-17T21:43:22.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.776Z"
+          "publishedAt": "2026-04-19T01:21:18.000Z",
+          "fetchedAt": "2026-04-19T06:07:59.752Z"
+        },
+        {
+          "id": "2026-04-18-af9b2854",
+          "title": "EN DIRECT, guerre en Ukraine : enquête terroriste ouverte après la mort de six personnes lors d’une fusillade à Kiev. Retrouvez les informations du 11 au 17 avril",
+          "description": "L’Ukraine a été attaquée par 219 drones russes pendant la nuit de vendredi à samedi.  Les défenses anti-aériennes ukrainiennes affirment avoir abattu ou neutralisé 190 de ces appareils. De leur côté, les Russes ont déclaré avoir intercepté plus de 250 drones ukrainiens dans la nuit.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/19/en-direct-guerre-en-ukraine-enquete-terroriste-ouverte-apres-la-mort-de-six-personnes-lors-d-une-fusillade-a-kiev_6679492_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-18T22:10:30.000Z",
+          "fetchedAt": "2026-04-19T06:07:45.111Z"
+        },
+        {
+          "id": "2026-04-18-641c6bb8",
+          "title": "Qualifications Mondial féminin 2027: un nul qui coûte cher aux Bleues, accrochées par les Pays-Bas",
+          "description": "Accrochées après avoir ouvert le score, les Bleues n'ont pu faire mieux qu'un nul contre les Pays-Bas samedi à Auxerre (1-1), et n'ont plus en mains leur destin dans la course à la qualification directe pour le Mondial 2027 au Brésil.",
+          "url": "https://www.rfi.fr/fr/sports/20260418-qualifications-mondial-f%C3%A9minin-2027-un-nul-qui-co%C3%BBte-cher-aux-bleues-accroch%C3%A9es-par-les-pays-bas",
+          "imageUrl": "https://s.rfi.fr/media/display/69230c20-3b6e-11f1-a063-005056bfb2b6/w:1024/p:16x9/000-A8AW2U7.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-18T21:38:13.000Z",
+          "fetchedAt": "2026-04-19T06:07:59.752Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Fuites de données : l’éducation nationale, une cible vulnérable face aux cyberat",
+      "id": "cluster-12",
+      "topic": "Elections législatives en Bulgarie : corruption et liens avec la Russie au cœur ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-19-00dfc78f",
+          "title": "Elections législatives en Bulgarie : corruption et liens avec la Russie au cœur de la campagne",
+          "description": "En tête dans les sondages, l’ancien président Roumen Radev, qui entretient des ambiguïtés sur la Russie, s’est fait remarquer pour ses positions anticorruption et promet d’« en finir avec l’oligarchie ». Le scrutin de dimanche sera le huitième en cinq ans.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/19/elections-legislatives-en-bulgarie-corruption-et-liens-avec-la-russie-au-c-ur-de-la-campagne_6681393_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-19T04:00:22.000Z",
+          "fetchedAt": "2026-04-19T06:07:45.111Z"
+        },
+        {
+          "id": "2026-04-19-4bd9ac20",
+          "title": "Bulgarie: des élections législatives anticipées sous le signe du désenchantement démocratique",
+          "description": "Dimanche 19 avril, les Bulgares, au pays comme à l'étranger, se rendent aux urnes pour élire leurs députés. L'occasion de faire le point sur la situation économique de ce pays qui, en janvier 2026, et malgré ses divisions internes, a rejoint la monnaie unique. Un passage à l'euro plutôt réussi.",
+          "url": "https://www.rfi.fr/fr/europe/20260419-bulgarie-des-%C3%A9lections-l%C3%A9gislatives-anticip%C3%A9es-sous-le-signe-du-d%C3%A9senchantement-d%C3%A9mocratique",
+          "imageUrl": "https://s.rfi.fr/media/display/c82cef82-3a75-11f1-b40a-005056a90284/w:1024/p:16x9/2026-04-16T080144Z-744398286-RC2VOKARKS1T-RTRMADP-3-BULGARIA-ELECTION-PREVIEW.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-19T03:59:27.000Z",
+          "fetchedAt": "2026-04-19T06:07:59.752Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "The RAM shortage could last years",
       "category": "tech",
-      "importance": 10,
+      "importance": 6,
       "articles": [
         {
-          "id": "2026-04-18-8168cd29",
-          "title": "Fuites de données : l’éducation nationale, une cible vulnérable face aux cyberattaques",
-          "description": "Deux vols de données ont touché ces dernières semaines des bases de données d’élèves et d’enseignants. Le ministère, qui possède des données sur des millions de personnels, élèves et familles, et dont les systèmes informatiques sont vieillissants et mal sécurisés, est une cible privilégiée des pirates informatiques.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/04/18/fuites-de-donnees-l-education-nationale-une-cible-vulnerable-face-aux-cyberattaques_6681062_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-04-18-0918c9a0",
+          "title": "The RAM shortage could last years",
+          "description": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.\nThe world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add new fabrication capacity, but almost none of it will be online until at least 2027, if not 2028. SK opened a fab in Cheongju in February, but that is the only increase in production among the three for 2026.\nNikkei says that production would need to increase by 12 percent a year in 2026 and 2027 to meet demand. But according to Counte …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-04-18T03:15:06.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.826Z"
-        },
-        {
-          "id": "2026-04-17-32a40766",
-          "title": "Cryptomonnaies : six jeunes mis en examen après l’enlèvement d’une mère et son fils",
-          "description": "Les victimes avaient été libérées mardi, un jour après leur enlèvement en Bourgogne. Le commanditaire présumé ne fait pas partie des personnes arrêtées.",
-          "url": "https://www.lemonde.fr/societe/article/2026/04/17/cryptomonnaies-six-jeunes-mis-en-examen-apres-l-enlevement-d-une-mere-et-son-fils_6680926_3224.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-04-17T20:41:29.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.826Z"
-        },
-        {
-          "id": "2026-04-17-a7eaca20",
-          "title": "ExoMars 2028 : sauvée de la malédiction, la mission européenne s’envolera vers Mars sur un Falcon Heavy",
-          "description": "Longtemps considérée comme maudite, la mission européenne ExoMars voit enfin son horizon s’éclaircir. Épaulé par la NASA, le rover Rosalind Franklin s’envolera fin 2028 à bord du rare et surpuissant Falcon Heavy de SpaceX, prêt à traquer d'anciennes traces de vie sous le sol martien.",
-          "url": "https://www.numerama.com/sciences/2234699-exomars-2028-sauvee-de-la-malediction-la-mission-europeenne-senvolera-vers-mars-sur-un-falcon-heavy.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2024/10/falcon-heavy.jpg?resize=1600,900&key=988be96f&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-17T16:18:07.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.966Z"
-        },
-        {
-          "id": "2026-04-17-4831b9da",
-          "title": "Il construit un Pokédex réaliste capable d’identifier n’importe quel Pokémon",
-          "description": "Bien sûr, quelqu’un s’est mis en tête de fabriquer un Pokédex fidèle à celui de l’anime diffusé à la fin des années 90. Un Pokédex, qui plus est entièrement fonctionnel, capable de reconnaître de nombreux Pokémon.",
-          "url": "https://www.numerama.com/pop-culture/2235185-il-construit-un-pokedex-realiste-capable-didentifier-nimporte-quel-pokemon.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/mr-volt-pokedex.jpg?resize=1600,900&key=fd576c2f&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-17T14:17:11.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.966Z"
-        },
-        {
-          "id": "2026-04-17-2821008e",
-          "title": "« On doit réguler la parole sur les réseaux sociaux » : Macron veut en finir avec les faux comptes, à un an de la présidentielle",
-          "description": "À tout juste un an de la prochaine élection présidentielle, à laquelle Emmanuel Macron ne participera pas, l'exécutif accélère sur le front de la sécurité démocratique. Dans le viseur du chef de l'État : l'opacité des algorithmes, les fermes de faux comptes et les ingérences étrangères.",
-          "url": "https://www.numerama.com/politique/2234863-on-doit-reguler-la-parole-sur-les-reseaux-sociaux-macron-veut-en-finir-avec-les-faux-comptes-a-un-an-de-la-presidentielle.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/12/macron-anonymat.jpg?resize=1600,900&key=2caf9ba5&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-17T13:58:24.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.966Z"
-        },
-        {
-          "id": "2026-04-17-cd58b10c",
-          "title": "La vente de SFR cache un changement majeur pour de nombreux opérateurs low-cost",
-          "description": "Si vous êtes client RED ou SFR, les questions concernant les répercussions d'un rachat de l'opérateur sont logiques. Mais l’impact dépasse largement ces deux enseignes. Une galaxie d’opérateurs virtuels (MVNO) dépendent exclusivement des antennes de SFR pour fonctionner. Pour leurs abonnés, l'incertitude commence.",
-          "url": "https://www.numerama.com/tech/2094611-la-vente-de-sfr-cache-un-changement-majeur-pour-de-nombreux-operateurs-low-cost.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/10/sfr-1.jpg?resize=1600,900&key=a23aa562&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-17T13:39:08.000Z",
-          "fetchedAt": "2026-04-18T05:50:19.966Z"
+          "publishedAt": "2026-04-18T21:08:45.000Z",
+          "fetchedAt": "2026-04-19T06:08:12.408Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "Mortgage rates show signs of falling after Iran war peak",
+      "id": "cluster-6",
+      "topic": "I'm a carer but I can't afford to go to work because of fuel prices",
       "category": "eco",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-04-17-268bb1b6",
-          "title": "Mortgage rates show signs of falling after Iran war peak",
-          "description": "Major lenders make rate reductions as markets take some heart from a possible truce in the Iran war.",
-          "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/27de/live/fa2d1d40-3a3e-11f1-826b-272fcb9e69bd.jpg",
+          "id": "2026-04-18-baa1840b",
+          "title": "I'm a carer but I can't afford to go to work because of fuel prices",
+          "description": "The conflict in the Middle East has caused rapid price rises for both petrol and diesel.",
+          "url": "https://www.bbc.com/news/articles/cx2d1jpl543o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0e17/live/c4dc2e70-397f-11f1-8acf-d3bfb6ea953d.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-17T23:33:10.000Z",
-          "fetchedAt": "2026-04-18T05:50:30.137Z"
+          "publishedAt": "2026-04-18T23:01:08.000Z",
+          "fetchedAt": "2026-04-19T06:08:16.906Z"
         }
       ]
     }
