@@ -1,187 +1,220 @@
 {
-  "generatedAt": "2026-04-20T06:30:58.504Z",
+  "generatedAt": "2026-04-21T06:17:46.665Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Ligue 1 : en battant Paris, Lyon relance la course au titre et à l'Europe",
+      "topic": "Emmanuel Macron reçoit le Premier ministre libanais, Nawaf Salam, à l'Élysée",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-20-3dc31f31",
-          "title": "Ligue 1 : en battant Paris, Lyon relance la course au titre et à l'Europe",
-          "description": "Le Paris Saint-Germain s'est incliné face à Lyon (2-1) et voit Lens se rapprocher. Lyon peut encore espérer se qualifier directement pour la Ligue des champions.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260420-ligue-1-battant-paris-lyon-relance-course-au-titre-et-%C3%A0-l-europe",
-          "imageUrl": "https://s.france24.com/media/display/2b6282a6-3c56-11f1-b1e4-005056bf30b7/w:1024/p:16x9/J24-psg-1-4.jpg",
+          "id": "2026-04-21-1091a893",
+          "title": "Emmanuel Macron reçoit le Premier ministre libanais, Nawaf Salam, à l'Élysée",
+          "description": "Le Premier ministre libanais, Nawaf Salam, sera accueilli mardi en fin de journée par Emmanuel Macron à l'Élysée. Le président entend réaffirmer son soutien au cessez-le-feu entre Israël et le Hezbollah trois jours après le décès d’un Casque bleu français dans le sud du Liban, tué lors d’une embuscade imputée au groupe chiite pro-iranien.",
+          "url": "https://www.france24.com/fr/france/20260421-emmanuel-macron-re%C3%A7oit-premier-ministre-libanais-nawaf-salam-france-liban",
+          "imageUrl": "https://s.france24.com/media/display/d5300000-3d47-11f1-b4a2-005056bfb2b6/w:1024/p:16x9/000-93TU8YF.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-20T06:21:28.000Z",
-          "fetchedAt": "2026-04-20T06:26:58.183Z"
+          "publishedAt": "2026-04-21T06:10:20.000Z",
+          "fetchedAt": "2026-04-21T06:13:46.485Z"
         },
         {
-          "id": "2026-04-20-1f32b16d",
-          "title": "Emmanuel Macron en Pologne pour renforcer le partenariat entre Paris et Varsovie",
-          "description": "Ce lundi, Emmanuel Macron et les ministres des Affaires étrangères, de la Culture, de l’Énergie se rendent à Gdansk pour le premier sommet franco-polonais. Une initiative qui concrétise le Traité de Nancy, signé l’an dernier par Varsovie et Paris afin de renforcer le partenariat entre les deux pays. La rencontre pourrait bien être l’occasion pour eux de signer de nouveaux accords dans plusieurs domaines.",
-          "url": "https://www.rfi.fr/fr/europe/20260420-emmanuel-macron-en-pologne-pour-renforcer-le-partenariat-entre-paris-et-varsovie",
-          "imageUrl": "https://s.rfi.fr/media/display/9d7edb8c-3c6f-11f1-bc35-005056a97e36/w:1024/p:16x9/AP26006505044910-1.jpg",
+          "id": "2026-04-21-6bdb22e7",
+          "title": "Paris enquête sur des banques libanaises accusées d’avoir déplacé des milliards d'euros en pleine crise",
+          "description": "Le parquet de Paris a ouvert début avril une enquête préliminaire sur des banques libanaises. Elle fait suite aux plaintes de deux associations anticorruption. Selon elles, en pleine crise financière de 2019, ces banques auraient arraché plusieurs milliards d'euros à l'économie du Liban, très affaiblie. Ces sommes auraient été envoyées à l'étranger et en Europe. L'enquête doit déterminer si une poignée de Libanais aisés a profité de cet argent exilé.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260421-paris-enqu%C3%AAte-sur-des-banques-libanaises-accus%C3%A9es-d-avoir-d%C3%A9plac%C3%A9-des-milliards-d-euros-en-pleine-crise",
+          "imageUrl": "https://s.rfi.fr/media/display/ab9fc0bc-3ac2-11ed-b055-005056bf30b7/w:1024/p:16x9/000_32JV9YZ.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-20T04:17:05.000Z",
-          "fetchedAt": "2026-04-20T06:27:12.295Z"
+          "publishedAt": "2026-04-21T05:46:06.000Z",
+          "fetchedAt": "2026-04-21T06:14:01.246Z"
+        },
+        {
+          "id": "2026-04-20-806f650d",
+          "title": "“Une joie mais aussi une souffrance” : au Liban, le douloureux retour des déplacés",
+          "description": "Des milliers de Libanais sont rentrés dans le sud du pays après l’annonce, le 17 avril, d’une trêve provisoire. Ils découvrent leurs maisons et leurs villages rasés alors que d’autres villages sont toujours occupés par Israël et interdits d’accès, raconte “The Guardian”.",
+          "url": "https://www.courrierinternational.com/article/reportage-une-joie-mais-aussi-une-souffrance-au-liban-le-douloureux-retour-des-deplaces_243140",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/20/1/0/8192/5461/1200/630/60/0/cdadd30_upload-1-wpytrjpnnzrd-mideast-conflict-26.jpeg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-20T16:09:32.000Z",
+          "fetchedAt": "2026-04-21T06:13:46.647Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Détroit d’Ormuz : la marine américaine ouvre le feu sur le cargo iranien « Tousk",
+      "id": "cluster-6",
+      "topic": "Aux Etats-Unis, malgré les critiques de Trump, les énergies renouvelables prospè",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-20-4784f285",
-          "title": "Détroit d’Ormuz : la marine américaine ouvre le feu sur le cargo iranien « Touska » et en prend le contrôle, l’Iran promet de riposter",
-          "description": "Un destroyer américain a intercepté le cargo et lui a ordonné de s’arrêter, mais l’équipage ayant refusé d’obéir, le navire de guerre l’a immobilisé en tirant sur la salle des machines, selon Donald Trump. En réponse, Téhéran refuse de participer aux négociations qui devaient s’ouvrir lundi à Islamabad, selon la télévision iranienne.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/20/detroit-d-ormuz-la-marine-americaine-ouvre-le-feu-sur-le-cargo-iranien-touska-et-en-prend-le-controle-l-iran-promet-de-riposter_6681680_3210.html",
+          "id": "2026-04-21-26bc458e",
+          "title": "Aux Etats-Unis, malgré les critiques de Trump, les énergies renouvelables prospèrent au niveau local",
+          "description": "En dépit d’un discours largement hostile au sein de la Maison Blanche, qui donne la priorité aux hydrocarbures, le solaire et l’éolien continuent de progresser dans certains Etats.",
+          "url": "https://www.lemonde.fr/economie/article/2026/04/21/aux-etats-unis-malgre-les-critiques-de-trump-les-energies-renouvelables-prosperent-au-niveau-local_6681960_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-20T06:14:31.000Z",
-          "fetchedAt": "2026-04-20T06:26:58.080Z"
+          "publishedAt": "2026-04-21T05:31:03.000Z",
+          "fetchedAt": "2026-04-21T06:13:46.176Z"
         },
         {
-          "id": "2026-04-20-cc1c31e1",
-          "title": "EN DIRECT, guerre au Moyen-Orient : J. D. Vance attendu au Pakistan pour de nouvelles négociations ; l’Iran ne compte pas discuter à nouveau avec les Etats-Unis",
-          "description": "Des médias iraniens avancent qu’une levée du blocus naval américain serait une condition préalable à des pourparlers. Une question rendue encore plus compliquée par l’annonce dimanche de la saisie par la marine américaine du « Touska », un cargo battant pavillon iranien, dans le golfe d’Oman. Téhéran a d’ailleurs promis de « riposter bientôt » à ce qu’il qualifie d’« acte de piraterie armée ».",
-          "url": "https://www.lemonde.fr/international/live/2026/04/20/en-direct-guerre-au-moyen-orient-j-d-vance-attendu-au-pakistan-pour-de-nouvelles-negociations-l-iran-ne-compte-pas-discuter-a-nouveau-avec-les-etats-unis_6679867_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-20T06:03:01.000Z",
-          "fetchedAt": "2026-04-20T06:26:58.080Z"
-        },
-        {
-          "id": "2026-04-20-928de427",
-          "title": "«Slopaganda»: entre l'Iran et les États-Unis, la guerre des trolls devient virale",
-          "description": "La guerre au Moyen-Orient se joue aussi sur les réseaux sociaux. Téhéran et Washington se sont engagés dans une bataille de communication acharnée avec des contenus générés par IA. La « slopaganda » inonde les plateformes.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260420-slopaganda-entre-l-iran-et-les-%C3%A9tats-unis-la-guerre-des-trolls-devient-virale",
-          "imageUrl": "https://s.rfi.fr/media/display/a8ff9154-3bf7-11f1-9a6d-005056a97e36/w:1024/p:16x9/000-A7BX3LA-1.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-20T05:06:22.000Z",
-          "fetchedAt": "2026-04-20T06:27:12.295Z"
-        },
-        {
-          "id": "2026-04-20-16e35e9b",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: l'Iran promet de «riposter bientôt» à l'arraisonnement d'un cargo par les États-Unis",
-          "description": "Téhéran ne compte pas participer à de nouvelles négociations avec Washington, a rapporté la télévision d'État iranienne, même si une délégation américaine doit arriver ce lundi 20 avril au Pakistan afin de relancer les pourparlers de paix à deux jours de l'expiration du cessez-le-feu.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260420-en-direct-guerre-au-moyen-orient-l-iran-promet-de-riposter-bient%C3%B4t-%C3%A0-l-arraisonnement-d-un-cargo-par-les-%C3%A9tats-unis",
-          "imageUrl": "https://s.rfi.fr/media/display/15992512-3c6d-11f1-bb55-005056a97e36/w:1024/p:16x9/2026-04-19T235055Z-816513121-RC2GSKA8INN4-RTRMADP-3-IRAN-CRISIS-TRUMP-SHIP.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-20T04:03:37.000Z",
-          "fetchedAt": "2026-04-20T06:27:12.295Z"
-        },
-        {
-          "id": "2026-04-20-7f9d23ba",
-          "title": "Guerre en Iran : incertitudes sur de nouveaux pourparlers entre Téhéran et Washington",
-          "description": "Donald Trump a annoncé dimanche qu’une délégation américaine se rendrait lundi à Islamabad pour de nouveaux pourparlers avec l’Iran sur un accord de paix. Mais les autorités de Téhéran ont répliqué qu’elles ne reprendraient pas les discussions tant que le blocus naval américain ne serait pas levé.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-guerre-en-iran-incertitudes-sur-de-nouveaux-pourparlers-entre-teheran-et-washington_243116",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/19/0/0/7039/4693/1200/630/60/0/dc53966_ftp-1-ozc2giut5aji-afp-a8bm2cq.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-20T03:50:50.000Z",
-          "fetchedAt": "2026-04-20T06:26:58.167Z"
-        },
-        {
-          "id": "2026-04-20-183d9355",
-          "title": "Entre l’Iran et les Etats-Unis, escalade navale et dialogue de sourds à l’approche de l’expiration du cessez-le-feu",
-          "description": "Donald Trump a annoncé, dimanche, l’envoi d’une délégation américaine à Islamabad pour de nouvelles discussions avec Téhéran, qui se refuse à confirmer sa participation.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/20/entre-l-iran-et-les-etats-unis-escalade-navale-et-dialogue-de-sourds-a-l-approche-de-l-expiration-du-cessez-le-feu_6681600_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-20T03:17:58.000Z",
-          "fetchedAt": "2026-04-20T06:26:58.080Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-20",
-      "topic": "Oil prices rise after Trump says Iranian ship seized",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-20-76988971",
-          "title": "Oil prices rise after Trump says Iranian ship seized",
-          "description": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-          "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/99c3/live/2d7d8d60-3c4c-11f1-995c-0b1e92f7d783.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-20T02:29:04.000Z",
-          "fetchedAt": "2026-04-20T06:27:12.230Z"
-        },
-        {
-          "id": "2026-04-19-9979c43b",
-          "title": "L’uranium enrichi iranien, l’autre point de blocage entre Washington et Téhéran",
-          "description": "Avec la réouverture du détroit d’Ormuz, le sort des 440 kilos d’uranium enrichi à 60 % détenus par l’Iran est au cœur des négociations avec les États-Unis, assure la presse étrangère. Le président américain, Donald Trump, a annoncé dimanche l’envoi d’une délégation américaine au Pakistan pour de nouveaux pourparlers, lundi 20 avril.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-l-uranium-enrichi-iranien-l-autre-point-de-blocage-entre-washington-et-teheran_243114",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/17/0/267/5466/3644/1200/630/60/0/d63851d_ftp-1-ntnqepi6j23l-iran-underground-facility.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-19T16:01:41.000Z",
-          "fetchedAt": "2026-04-20T06:26:58.167Z"
-        },
-        {
-          "id": "2026-04-19-04f1346b",
-          "title": "Iran-États-Unis : le vice-président, JD Vance, attendu au Pakistan pour relancer les négociations",
-          "description": "Le président Donald Trump a annoncé dimanche qu'une délégation américaine serait au Pakistan lundi pour relancer les négociations avec l'Iran, cette fois sans son vice-président JD Vance, tout en menaçant de détruire les infrastructures de ce pays en cas d'échec des pourparlers.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260419-iran-%C3%A9tats-unis-le-vice-pr%C3%A9sident-jd-vance-attendu-au-pakistan-pour-relancer-les-n%C3%A9gociations",
-          "imageUrl": "https://s.france24.com/media/display/c852440c-3bfc-11f1-9769-005056a90284/w:1024/p:16x9/FR-20260419-160146-160314-CS.jpg",
+          "id": "2026-04-21-505b5859",
+          "title": "NBA : Victor Wembanyama élu défenseur de l'année à l'unanimité",
+          "description": "Victor Wembanyama est le plus jeune défenseur de l’année de l'histoire en NBA, le premier à l'unanimité.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260421-nba-victor-wembanyama-%C3%A9lu-d%C3%A9fenseur-de-l-ann%C3%A9e-%C3%A0-l-unanimit%C3%A9",
+          "imageUrl": "https://s.france24.com/media/display/1f4b5942-3d1f-11f1-9c48-005056bf30b7/w:1024/p:16x9/J24-wembanyama.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-19T15:35:29.000Z",
-          "fetchedAt": "2026-04-20T06:26:58.183Z"
+          "publishedAt": "2026-04-21T05:22:49.000Z",
+          "fetchedAt": "2026-04-21T06:13:46.485Z"
+        },
+        {
+          "id": "2026-04-21-1e34bc8f",
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran refuse de « négocier sous la menace » alors que le cessez-le-feu avec les Etats-Unis expire mercredi soir",
+          "description": "Une délégation américaine emmenée par le vice-président J. D. Vance doit se rendre à Islamabad, au Pakistan. Téhéran n’a pas encore confirmé sa présence. « Nous nous sommes préparés à abattre de nouvelles cartes sur le champ de bataille », a averti le président du Parlement iranien, Mohammad Bagher Ghalibaf.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/21/en-direct-guerre-au-moyen-orient-l-iran-declare-refuser-de-negocier-sous-la-menace-alors-que-l-incertitude-sur-des-pourparlers-avec-les-etats-unis-demeure_6681958_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-21T04:29:35.000Z",
+          "fetchedAt": "2026-04-21T06:13:46.176Z"
+        },
+        {
+          "id": "2026-04-21-21feb78c",
+          "title": "Laura Field, politiste : « Aux Etats-Unis, la radicalisation de la droite se poursuit »",
+          "description": "Dans un entretien au « Monde », la chercheuse américaine analyse les courants politiques et intellectuels qui soutiennent l’administration Trump. Elle montre que le masculinisme et l’antisémitisme se diffusent de plus en plus au sein de la jeune génération de collaborateurs politiques.",
+          "url": "https://www.lemonde.fr/idees/article/2026/04/21/laura-field-politiste-aux-etats-unis-la-radicalisation-de-la-droite-se-poursuit_6681957_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-21T04:00:41.000Z",
+          "fetchedAt": "2026-04-21T06:13:46.176Z"
+        },
+        {
+          "id": "2026-04-21-7ec287c4",
+          "title": "ONU: l'heure du grand oral pour les quatre candidats à la succession d'Antonio Guterres",
+          "description": "Antonio Guterres, le secrétaire général de l'ONU termine son deuxième mandat à la fin de l'année et la course à sa succession est déjà lancée. Les auditions en public commencent à New York aujourd'hui et se dérouleront sur deux jours. Les candidats seront soumis pendant trois heures chacun aux questions des 193 États membres et de représentants de la société civile. Les quatre candidats déclarés à ce jour - deux favoris, deux outsiders - ont chacun l'ambition de réformer une structure qui apparaît à bout de souffle.",
+          "url": "https://www.rfi.fr/fr/monde/20260421-onu-l-heure-du-grand-oral-pour-les-quatre-candidats-%C3%A0-la-succession-d-antonio-guterres",
+          "imageUrl": "https://s.rfi.fr/media/display/606aba32-3d36-11f1-ac7d-005056a97e36/w:1024/p:16x9/063-2174183327.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-21T04:00:33.000Z",
+          "fetchedAt": "2026-04-21T06:14:01.246Z"
+        },
+        {
+          "id": "2026-04-21-c151da11",
+          "title": "Cuba affirme que des pourparlers ont eu lieu \"récemment\" avec les États-Unis à La Havane",
+          "description": "Alejandro Garcia, un haut responsable du ministère cubain des Affaires étrangères, a évoqué lundi de \"récents\" pourparlers dans un cadre \"respectueux et professionnel\" à La Havane avec des responsables américains. Cette rencontre intervient alors que Washington a imposé un blocus destiné à sevrer de pétrole l'île caribéenne.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260421-cuba-affirme-pourparlers-recemment-avec-etats-unis-la-havane-blocus-petrole-tensions-prisonniers-politiques",
+          "imageUrl": "https://s.france24.com/media/display/25dbd850-3cf1-11f1-b586-005056bf30b7/w:1024/p:16x9/8023442650001w.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-21T03:29:12.000Z",
+          "fetchedAt": "2026-04-21T06:13:46.485Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "« On ne peut pas laisser à des entreprises privées, juges et parties, le soin de",
+      "id": "cluster-12",
+      "topic": "Tim Cook, Japon, Gaza, Elon Musk, fusillade au Mexique : les informations de la ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-21-f23da62f",
+          "title": "Tim Cook, Japon, Gaza, Elon Musk, fusillade au Mexique : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-tim-cook-japon-gaza-elon-musk-fusillade-au-mexique-les-informations-de-la-nuit_243166",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/20/0/0/6000/4000/1200/630/60/0/f2bf8a6_ftp-1-qbrnpazatm4g-2026-04-20t212824z-771989567-rc2vxia4qkld-rtrmadp-3-apple-ceo.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-21T04:18:12.000Z",
+          "fetchedAt": "2026-04-21T06:13:46.647Z"
+        },
+        {
+          "id": "2026-04-20-908f8978",
+          "title": "Mexique : une Canadienne tuée et treize blessés dans une fusillade sur le site de Teotihuacan",
+          "description": "Une Canadienne a été tuée par balles et une dizaine de personnes ont été blessées lundi lors d'une fusillade sur le site archéologique des pyramides de Teotihuacan, au Mexique. Le tireur s'est ensuite suicidé, son mobile reste inconnu.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260420-mexique-canadienne-tu%C3%A9e-quatre-bless%C3%A9s-fusillade-site-arch%C3%A9ologique-teotihuacan",
+          "imageUrl": "https://s.france24.com/media/display/0b1ee148-3cf5-11f1-964d-005056a90284/w:1024/p:16x9/000-A8FN3ZT.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-20T21:00:28.000Z",
+          "fetchedAt": "2026-04-21T06:13:46.485Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "John Ternus is taking over from Tim Cook as Apple&#8217;s CEO",
       "category": "tech",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-04-20-2644aa98",
-          "title": "« On ne peut pas laisser à des entreprises privées, juges et parties, le soin de définir les règles du jeu de l’IA »",
-          "description": "Les propositions d’OpenAI, acteur majeur de l’intelligence artificielle, dirigé par Sam Altman, soulèvent des questions sur l’atténuation des risques sociaux et sur le partage des bénéfices de cette révolution technologique. Reste à savoir si on peut lui faire confiance, s’interroge Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/04/20/on-ne-peut-pas-laisser-a-des-entreprises-privees-juges-et-parties-le-soin-de-definir-les-regles-du-jeu-de-l-ia_6681596_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-04-20-c7ff8577",
+          "title": "John Ternus is taking over from Tim Cook as Apple&#8217;s CEO",
+          "description": "John Ternus and Tim Cook | Image: Apple\t\n\nThe multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Cook’s legacy, and what will Apple look like under the leadership of Ternus and new chief hardware officer Johny Srouji?\nWe’ll keep track of all of the latest updates right here, starting with a live recording of The Vergecast.\n\n\n\n\t\t\t\t\t\nRead Tim Cook’s letter to the Apple world as he departs as CEO\n\t\t\t\nNew Apple CEO calls for an emergency Vergecast.\n\t\t\t\nApple names Johny Srouji as chief hardware officer\n\t\t\t\nApple CEO Tim Cook is stepping down",
+          "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-04-20T03:00:05.000Z",
-          "fetchedAt": "2026-04-20T06:27:12.361Z"
+          "publishedAt": "2026-04-20T21:44:15.000Z",
+          "fetchedAt": "2026-04-21T06:14:12.464Z"
+        },
+        {
+          "id": "2026-04-20-36b1770b",
+          "title": "Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO",
+          "description": "Apple CEO Tim Cook has written a letter to the community as he prepares to step down from his role in September. \"This is not goodbye. But at this moment of transition, I wanted to take the opportunity to say thank you,\" Cook writes.\nAs part of the shift, John Ternus, Apple's senior vice president of hardware engineering, will take over for Cook, who will become executive chairman. Meanwhile, Johny Srouji is taking over for Ternus and has now been appointed chief hardware officer.\nYou can read Cook's full letter here: \nTo the Apple community:\nFor the past 15 years I've started just about every morning the same way. I open my email and …\n\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951499/VRG_Illo_STK170_L_Normand_TimCook_Negative.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-04-20T21:42:36.000Z",
+          "fetchedAt": "2026-04-21T06:14:12.464Z"
+        },
+        {
+          "id": "2026-04-20-0b398a6c",
+          "title": "John Ternus will replace Tim Cook as Apple CEO",
+          "description": "Cook will be executive chairman, but will no longer run the company day to day.",
+          "url": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1388205526-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-04-20T21:05:35.000Z",
+          "fetchedAt": "2026-04-21T06:14:12.489Z"
+        },
+        {
+          "id": "2026-04-20-c4d73baf",
+          "title": "Apple CEO Tim Cook is stepping down",
+          "description": "Apple CEO Tim Cook is stepping down and will be succeeded by John Ternus, currently Apple's senior vice president of hardware engineering. Ternus will take over as CEO and join Apple's board of directors on September 1st, 2026. Cook, who joined Apple in 1998 and took over as CEO from Steve Jobs in 2011, will become executive chairman of Apple's board.\nApple has also named Johny Srouji, previously Apple's SVP of hardware technologies, as the company's chief hardware officer, effective immediately. Srouji will \"assume an expanded role leading Hardware Engineering, which John Ternus most recently oversaw, as well as the hardware technologies o …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-04-20T20:42:59.000Z",
+          "fetchedAt": "2026-04-21T06:14:12.464Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Debt problems in seaside town among  UK's worst",
+      "topic": "Pop-up shop helps families cope with rising costs",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-04-20-cdb6152a",
-          "title": "Debt problems in seaside town among  UK's worst",
-          "description": "A debt charity believes the town's seasonal job market is in part to blame.",
-          "url": "https://www.bbc.com/news/articles/c3ex27kkq0xo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3e4f/live/83e0bc50-c9e6-11f0-993d-ed000479df42.jpg",
+          "id": "2026-04-21-a3822e87",
+          "title": "Pop-up shop helps families cope with rising costs",
+          "description": "Customers receive tokens to claim up to 10 free items, from clothing to everyday home essentials.",
+          "url": "https://www.bbc.com/news/articles/crk113n080no?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8edc/live/371d5150-38cf-11f1-897a-bdd15f22bdb0.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-20T05:23:30.000Z",
-          "fetchedAt": "2026-04-20T06:27:20.581Z"
+          "publishedAt": "2026-04-21T05:35:19.000Z",
+          "fetchedAt": "2026-04-21T06:14:17.373Z"
         }
       ]
     }
