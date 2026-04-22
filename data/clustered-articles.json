@@ -1,220 +1,253 @@
 {
-  "generatedAt": "2026-04-21T06:17:46.665Z",
+  "generatedAt": "2026-04-22T06:14:23.395Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Emmanuel Macron reçoit le Premier ministre libanais, Nawaf Salam, à l'Élysée",
+      "id": "cluster-4",
+      "topic": "Liban-Israël : l'accord du 17 mai 1983, un précédent qui plane sur les négociati",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-21-1091a893",
-          "title": "Emmanuel Macron reçoit le Premier ministre libanais, Nawaf Salam, à l'Élysée",
-          "description": "Le Premier ministre libanais, Nawaf Salam, sera accueilli mardi en fin de journée par Emmanuel Macron à l'Élysée. Le président entend réaffirmer son soutien au cessez-le-feu entre Israël et le Hezbollah trois jours après le décès d’un Casque bleu français dans le sud du Liban, tué lors d’une embuscade imputée au groupe chiite pro-iranien.",
-          "url": "https://www.france24.com/fr/france/20260421-emmanuel-macron-re%C3%A7oit-premier-ministre-libanais-nawaf-salam-france-liban",
-          "imageUrl": "https://s.france24.com/media/display/d5300000-3d47-11f1-b4a2-005056bfb2b6/w:1024/p:16x9/000-93TU8YF.jpg",
+          "id": "2026-04-22-f311d989",
+          "title": "Liban-Israël : l'accord du 17 mai 1983, un précédent qui plane sur les négociations",
+          "description": "Au moment où le Liban s'apprête à relancer des discussions directes avec l'État hébreu ressurgit le spectre de l’accord israélo-libanais du 17 mai 1983, resté alors lettre morte. Le président Joseph Aoun et son Premier ministre Nawaf Salam sont la cible de critiques véhémentes du Hezbollah, qui rejette par avance tout compromis et agite des menaces implicites.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260422-accord-17-mai-1983-discussions-liban-israel-gemayel-hezbollah-assad",
+          "imageUrl": "https://s.france24.com/media/display/d93b507c-3dac-11f1-a1e6-005056bfb2b6/w:1024/p:16x9/AP492572123881.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-21T06:10:20.000Z",
-          "fetchedAt": "2026-04-21T06:13:46.485Z"
+          "publishedAt": "2026-04-22T05:19:59.000Z",
+          "fetchedAt": "2026-04-22T06:10:22.948Z"
         },
         {
-          "id": "2026-04-21-6bdb22e7",
-          "title": "Paris enquête sur des banques libanaises accusées d’avoir déplacé des milliards d'euros en pleine crise",
-          "description": "Le parquet de Paris a ouvert début avril une enquête préliminaire sur des banques libanaises. Elle fait suite aux plaintes de deux associations anticorruption. Selon elles, en pleine crise financière de 2019, ces banques auraient arraché plusieurs milliards d'euros à l'économie du Liban, très affaiblie. Ces sommes auraient été envoyées à l'étranger et en Europe. L'enquête doit déterminer si une poignée de Libanais aisés a profité de cet argent exilé.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260421-paris-enqu%C3%AAte-sur-des-banques-libanaises-accus%C3%A9es-d-avoir-d%C3%A9plac%C3%A9-des-milliards-d-euros-en-pleine-crise",
-          "imageUrl": "https://s.rfi.fr/media/display/ab9fc0bc-3ac2-11ed-b055-005056bf30b7/w:1024/p:16x9/000_32JV9YZ.jpg",
+          "id": "2026-04-22-ff3b68e5",
+          "title": "La suspension de l'accord d'association entre Israël et l'UE ne fait pas l'unanimité chez les 27",
+          "description": "Rendez-vous manqué pour les membres de l'UE qui comptaient sur la réunion des ministres des Affaires étrangères pour sanctionner Israël en suspendant un accord d'association. L'unanimité n'a pas été obtenue, mardi au Luxembourg, l'Allemagne et l'Italie s'y opposant. La Commission européenne a proposé de suspendre uniquement le volet commercial du texte – seule la majorité qualifiée des États membres serait alors nécessaire.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260422-la-suspension-de-l-accord-d-association-entre-isra%C3%ABl-et-l-ue-ne-fait-pas-l-unanimit%C3%A9-chez-les-27",
+          "imageUrl": "https://s.france24.com/media/display/b3b0e1e2-3df6-11f1-8abc-005056bf30b7/w:1024/p:16x9/FR-20260422-043529-043731-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-22T02:57:33.000Z",
+          "fetchedAt": "2026-04-22T06:10:22.948Z"
+        },
+        {
+          "id": "2026-04-21-7fcaffac",
+          "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+          "description": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
+          "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fa58/live/35b82990-3d91-11f1-b55d-0f258dce1735.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-21T16:13:27.000Z",
+          "fetchedAt": "2026-04-22T06:10:33.600Z"
+        },
+        {
+          "id": "2026-04-21-665b61b4",
+          "title": "Iran sees mass redundancies from war with US and Israel",
+          "description": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
+          "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fd4a/live/df3e79e0-3d8e-11f1-ac78-2112837ce2aa.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-21T16:05:51.000Z",
+          "fetchedAt": "2026-04-22T06:10:33.600Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "EN DIRECT, guerre en Ukraine : le point sur la situation",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-22-efa8c9ba",
+          "title": "EN DIRECT, guerre en Ukraine : le point sur la situation",
+          "description": "L’Union européenne espère débloquer le prêt de 90 milliards d’euros destiné à l’Ukraine en lançant mercredi la procédure finale pour le mettre en œuvre.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/22/en-direct-guerre-en-ukraine-l-union-europeenne-va-lancer-la-procedure-finale-pour-mettre-en-uvre-le-pret-de-90-milliards-d-euros-destine-a-kiev_6681322_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-22T04:58:21.000Z",
+          "fetchedAt": "2026-04-22T06:10:22.793Z"
+        },
+        {
+          "id": "2026-04-22-16df6ffa",
+          "title": "L'Ukraine a réparé l'oléoduc de Droujba et attend le prêt de 90 milliards d'euros promis par l'UE",
+          "description": "Alors que l'Ukraine a réparé l'oléoduc de Droujba et assure que le pompage de pétrole russe reprendra dès réception d'une demande officielle de la part de la Hongrie ou de la Slovaquie, Volodymyr Zelensky, lui, lie la remise en fonction de l'infrastructure au prêt européen de 90 milliards d'euros dont Kiev a urgemment besoin pour renflouer ses caisses.",
+          "url": "https://www.rfi.fr/fr/europe/20260422-l-ukraine-a-r%C3%A9par%C3%A9-l-ol%C3%A9oduc-de-droujba-et-attend-les-90-milliards-d-euros-de-pr%C3%AAt-promis-par-l-ue",
+          "imageUrl": "https://s.rfi.fr/media/display/a46ee638-3e01-11f1-bc39-005056bfb2b6/w:1024/p:16x9/AP26105555710017.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-21T05:46:06.000Z",
-          "fetchedAt": "2026-04-21T06:14:01.246Z"
+          "publishedAt": "2026-04-22T04:14:30.000Z",
+          "fetchedAt": "2026-04-22T06:10:33.369Z"
         },
         {
-          "id": "2026-04-20-806f650d",
-          "title": "“Une joie mais aussi une souffrance” : au Liban, le douloureux retour des déplacés",
-          "description": "Des milliers de Libanais sont rentrés dans le sud du pays après l’annonce, le 17 avril, d’une trêve provisoire. Ils découvrent leurs maisons et leurs villages rasés alors que d’autres villages sont toujours occupés par Israël et interdits d’accès, raconte “The Guardian”.",
-          "url": "https://www.courrierinternational.com/article/reportage-une-joie-mais-aussi-une-souffrance-au-liban-le-douloureux-retour-des-deplaces_243140",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/20/1/0/8192/5461/1200/630/60/0/cdadd30_upload-1-wpytrjpnnzrd-mideast-conflict-26.jpeg",
-          "source": "Courrier International",
+          "id": "2026-04-22-777f0886",
+          "title": "« Tout le monde s’est mis à croire en Dieu au premier bombardement » : en Ukraine, les aumôniers militaires, témoins directs de l’enfer du front",
+          "description": "Eprouvés par quatre années de guerre à grande échelle, les soldats trouvent auprès des chapelains militaires un soutien moral précieux. Confrontés à la mort et à la destruction au quotidien, ils sont de plus en plus nombreux à réclamer la présence de prêtres.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/22/tout-le-monde-s-est-mis-a-croire-en-dieu-au-premier-bombardement-en-ukraine-les-aumoniers-militaires-temoins-directs-de-l-enfer-du-front_6682335_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-20T16:09:32.000Z",
-          "fetchedAt": "2026-04-21T06:13:46.647Z"
+          "publishedAt": "2026-04-22T03:30:13.000Z",
+          "fetchedAt": "2026-04-22T06:10:22.793Z"
+        },
+        {
+          "id": "2026-04-21-418a70ee",
+          "title": "Aide de 90 milliards à l’Ukraine : les Européens croient à la levée imminente du veto hongrois",
+          "description": "Volodymyr Zelensky a annoncé, mardi, que l’oléoduc Droujba, qui achemine du pétrole russe en Hongrie en passant par l’Ukraine et qui avait été endommagé par des frappes russes, a été réparé.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/21/aide-de-90-milliards-a-l-ukraine-les-europeens-croient-a-la-levee-imminente-du-veto-hongrois_6682058_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-21T19:30:40.000Z",
+          "fetchedAt": "2026-04-22T06:10:22.793Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "Aux Etats-Unis, malgré les critiques de Trump, les énergies renouvelables prospè",
+      "id": "cluster-11",
+      "topic": "NBA : les Spurs perdent le match 2 et Victor Wembanyama sur protocole commotion",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-21-26bc458e",
-          "title": "Aux Etats-Unis, malgré les critiques de Trump, les énergies renouvelables prospèrent au niveau local",
-          "description": "En dépit d’un discours largement hostile au sein de la Maison Blanche, qui donne la priorité aux hydrocarbures, le solaire et l’éolien continuent de progresser dans certains Etats.",
-          "url": "https://www.lemonde.fr/economie/article/2026/04/21/aux-etats-unis-malgre-les-critiques-de-trump-les-energies-renouvelables-prosperent-au-niveau-local_6681960_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-21T05:31:03.000Z",
-          "fetchedAt": "2026-04-21T06:13:46.176Z"
-        },
-        {
-          "id": "2026-04-21-505b5859",
-          "title": "NBA : Victor Wembanyama élu défenseur de l'année à l'unanimité",
-          "description": "Victor Wembanyama est le plus jeune défenseur de l’année de l'histoire en NBA, le premier à l'unanimité.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260421-nba-victor-wembanyama-%C3%A9lu-d%C3%A9fenseur-de-l-ann%C3%A9e-%C3%A0-l-unanimit%C3%A9",
-          "imageUrl": "https://s.france24.com/media/display/1f4b5942-3d1f-11f1-9c48-005056bf30b7/w:1024/p:16x9/J24-wembanyama.jpg",
+          "id": "2026-04-22-a71343b6",
+          "title": "NBA : les Spurs perdent le match 2 et Victor Wembanyama sur protocole commotion",
+          "description": "Les San Antonio Spurs ont perdu, mardi, Victor Wembanyama sur protocole commotion et le match 2 face aux Portland Trail Blazers (106-103).L'international français est incertain pour la prochaine rencontre.",
+          "url": "https://www.france24.com/fr/sports/20260422-nba-les-spurs-perdent-le-match-2-et-victor-wembanyama-sur-protocole-commotion",
+          "imageUrl": "https://s.france24.com/media/display/489a60e6-3dfa-11f1-afd7-005056bfb2b6/w:1024/p:16x9/2026-04-22T012234Z-250062867-MT1USATODAY28780491-RTRMADP-3-NBA-PORTLAND-TRAIL-BLAZERS-AT-SAN-ANTONIO-SPURS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-21T05:22:49.000Z",
-          "fetchedAt": "2026-04-21T06:13:46.485Z"
+          "publishedAt": "2026-04-22T04:09:14.000Z",
+          "fetchedAt": "2026-04-22T06:10:22.948Z"
         },
         {
-          "id": "2026-04-21-1e34bc8f",
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran refuse de « négocier sous la menace » alors que le cessez-le-feu avec les Etats-Unis expire mercredi soir",
-          "description": "Une délégation américaine emmenée par le vice-président J. D. Vance doit se rendre à Islamabad, au Pakistan. Téhéran n’a pas encore confirmé sa présence. « Nous nous sommes préparés à abattre de nouvelles cartes sur le champ de bataille », a averti le président du Parlement iranien, Mohammad Bagher Ghalibaf.",
-          "url": "https://www.lemonde.fr/international/live/2026/04/21/en-direct-guerre-au-moyen-orient-l-iran-declare-refuser-de-negocier-sous-la-menace-alors-que-l-incertitude-sur-des-pourparlers-avec-les-etats-unis-demeure_6681958_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-21T04:29:35.000Z",
-          "fetchedAt": "2026-04-21T06:13:46.176Z"
-        },
-        {
-          "id": "2026-04-21-21feb78c",
-          "title": "Laura Field, politiste : « Aux Etats-Unis, la radicalisation de la droite se poursuit »",
-          "description": "Dans un entretien au « Monde », la chercheuse américaine analyse les courants politiques et intellectuels qui soutiennent l’administration Trump. Elle montre que le masculinisme et l’antisémitisme se diffusent de plus en plus au sein de la jeune génération de collaborateurs politiques.",
-          "url": "https://www.lemonde.fr/idees/article/2026/04/21/laura-field-politiste-aux-etats-unis-la-radicalisation-de-la-droite-se-poursuit_6681957_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-21T04:00:41.000Z",
-          "fetchedAt": "2026-04-21T06:13:46.176Z"
-        },
-        {
-          "id": "2026-04-21-7ec287c4",
-          "title": "ONU: l'heure du grand oral pour les quatre candidats à la succession d'Antonio Guterres",
-          "description": "Antonio Guterres, le secrétaire général de l'ONU termine son deuxième mandat à la fin de l'année et la course à sa succession est déjà lancée. Les auditions en public commencent à New York aujourd'hui et se dérouleront sur deux jours. Les candidats seront soumis pendant trois heures chacun aux questions des 193 États membres et de représentants de la société civile. Les quatre candidats déclarés à ce jour - deux favoris, deux outsiders - ont chacun l'ambition de réformer une structure qui apparaît à bout de souffle.",
-          "url": "https://www.rfi.fr/fr/monde/20260421-onu-l-heure-du-grand-oral-pour-les-quatre-candidats-%C3%A0-la-succession-d-antonio-guterres",
-          "imageUrl": "https://s.rfi.fr/media/display/606aba32-3d36-11f1-ac7d-005056a97e36/w:1024/p:16x9/063-2174183327.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-21T04:00:33.000Z",
-          "fetchedAt": "2026-04-21T06:14:01.246Z"
-        },
-        {
-          "id": "2026-04-21-c151da11",
-          "title": "Cuba affirme que des pourparlers ont eu lieu \"récemment\" avec les États-Unis à La Havane",
-          "description": "Alejandro Garcia, un haut responsable du ministère cubain des Affaires étrangères, a évoqué lundi de \"récents\" pourparlers dans un cadre \"respectueux et professionnel\" à La Havane avec des responsables américains. Cette rencontre intervient alors que Washington a imposé un blocus destiné à sevrer de pétrole l'île caribéenne.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260421-cuba-affirme-pourparlers-recemment-avec-etats-unis-la-havane-blocus-petrole-tensions-prisonniers-politiques",
-          "imageUrl": "https://s.france24.com/media/display/25dbd850-3cf1-11f1-b586-005056bf30b7/w:1024/p:16x9/8023442650001w.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-21T03:29:12.000Z",
-          "fetchedAt": "2026-04-21T06:13:46.485Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-12",
-      "topic": "Tim Cook, Japon, Gaza, Elon Musk, fusillade au Mexique : les informations de la ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-21-f23da62f",
-          "title": "Tim Cook, Japon, Gaza, Elon Musk, fusillade au Mexique : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-tim-cook-japon-gaza-elon-musk-fusillade-au-mexique-les-informations-de-la-nuit_243166",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/20/0/0/6000/4000/1200/630/60/0/f2bf8a6_ftp-1-qbrnpazatm4g-2026-04-20t212824z-771989567-rc2vxia4qkld-rtrmadp-3-apple-ceo.JPG",
+          "id": "2026-04-21-3810a031",
+          "title": "La NBA ne fait rien pour arranger les fans français de Victor Wembanyama",
+          "description": "Le pivot français a été sacré, lundi 20 avril, meilleur défenseur de l’année. Dans l’Hexagone, les matchs de Victor Wembanyama sont la plupart du temps diffusés en pleine nuit, ce qui en dit long sur la façon dont la NBA perçoit ses fans étrangers, observe le média américain “Bloomberg”.",
+          "url": "https://www.courrierinternational.com/article/vu-des-etats-unis-la-nba-ne-fait-rien-pour-arranger-les-fans-francais-de-victor-wembanyama_243194",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/20/0/0/5701/3801/1200/630/60/0/1e670c2_ftp-1-qspiiprpu11u-2026-04-20t035749z-787999816-mt1usatoday28769786-rtrmadp-3-nba-playoffs-portland-trail-blazers-at-san-antonio-spurs.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-21T04:18:12.000Z",
-          "fetchedAt": "2026-04-21T06:13:46.647Z"
-        },
-        {
-          "id": "2026-04-20-908f8978",
-          "title": "Mexique : une Canadienne tuée et treize blessés dans une fusillade sur le site de Teotihuacan",
-          "description": "Une Canadienne a été tuée par balles et une dizaine de personnes ont été blessées lundi lors d'une fusillade sur le site archéologique des pyramides de Teotihuacan, au Mexique. Le tireur s'est ensuite suicidé, son mobile reste inconnu.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260420-mexique-canadienne-tu%C3%A9e-quatre-bless%C3%A9s-fusillade-site-arch%C3%A9ologique-teotihuacan",
-          "imageUrl": "https://s.france24.com/media/display/0b1ee148-3cf5-11f1-964d-005056a90284/w:1024/p:16x9/000-A8FN3ZT.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-20T21:00:28.000Z",
-          "fetchedAt": "2026-04-21T06:13:46.485Z"
+          "publishedAt": "2026-04-21T15:54:42.000Z",
+          "fetchedAt": "2026-04-22T06:10:23.265Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "John Ternus is taking over from Tim Cook as Apple&#8217;s CEO",
+      "id": "cluster-2",
+      "topic": "« Ce qui me prenait une semaine me demande désormais deux secondes » : les jeune",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-20-c7ff8577",
-          "title": "John Ternus is taking over from Tim Cook as Apple&#8217;s CEO",
-          "description": "John Ternus and Tim Cook | Image: Apple\t\n\nThe multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Cook’s legacy, and what will Apple look like under the leadership of Ternus and new chief hardware officer Johny Srouji?\nWe’ll keep track of all of the latest updates right here, starting with a live recording of The Vergecast.\n\n\n\n\t\t\t\t\t\nRead Tim Cook’s letter to the Apple world as he departs as CEO\n\t\t\t\nNew Apple CEO calls for an emergency Vergecast.\n\t\t\t\nApple names Johny Srouji as chief hardware officer\n\t\t\t\nApple CEO Tim Cook is stepping down",
-          "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-04-22-7fe295a2",
+          "title": "« Ce qui me prenait une semaine me demande désormais deux secondes » : les jeunes diplômés utilisent l’IA pour tenter de se faire recruter",
+          "description": "Plus de 90 % des étudiants ont recours à l’intelligence artificielle pour améliorer leur dossier lors de leurs recherches d’emploi. Face à cette standardisation, les responsables des ressources humaines adaptent leurs méthodes d’entretien.",
+          "url": "https://www.lemonde.fr/campus/article/2026/04/22/ce-qui-me-prenait-une-semaine-me-demande-desormais-deux-secondes-les-jeunes-diplomes-utilisent-l-ia-pour-tenter-de-se-faire-recruter_6682353_4401467.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-04-20T21:44:15.000Z",
-          "fetchedAt": "2026-04-21T06:14:12.464Z"
+          "publishedAt": "2026-04-22T05:00:08.000Z",
+          "fetchedAt": "2026-04-22T06:10:33.358Z"
         },
         {
-          "id": "2026-04-20-36b1770b",
-          "title": "Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO",
-          "description": "Apple CEO Tim Cook has written a letter to the community as he prepares to step down from his role in September. \"This is not goodbye. But at this moment of transition, I wanted to take the opportunity to say thank you,\" Cook writes.\nAs part of the shift, John Ternus, Apple's senior vice president of hardware engineering, will take over for Cook, who will become executive chairman. Meanwhile, Johny Srouji is taking over for Ternus and has now been appointed chief hardware officer.\nYou can read Cook's full letter here: \nTo the Apple community:\nFor the past 15 years I've started just about every morning the same way. I open my email and …\n\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951499/VRG_Illo_STK170_L_Normand_TimCook_Negative.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-04-21-e57ede18",
+          "title": "Des capteurs de Météo-France de l’aéroport de Roissy au cœur d’une suspicion de manipulation sur Polymarket",
+          "description": "Les 6 et 15 avril au soir, les températures enregistrées par une sonde positionnée à Paris - Charles-de-Gaulle se sont anormalement emballées. Phénomène météo ou anomalie ? De forts soupçons pèsent sur une manipulation à la faveur de paris en ligne.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/04/21/des-capteurs-de-meteo-france-de-l-aeroport-de-roissy-au-c-ur-d-une-suspicion-de-manipulation-sur-polymarket_6682047_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-04-20T21:42:36.000Z",
-          "fetchedAt": "2026-04-21T06:14:12.464Z"
+          "publishedAt": "2026-04-21T17:51:43.000Z",
+          "fetchedAt": "2026-04-22T06:10:33.358Z"
         },
         {
-          "id": "2026-04-20-0b398a6c",
-          "title": "John Ternus will replace Tim Cook as Apple CEO",
-          "description": "Cook will be executive chairman, but will no longer run the company day to day.",
-          "url": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1388205526-1152x648.jpg",
-          "source": "Ars Technica",
+          "id": "2026-04-21-85557156",
+          "title": "Contenus pédopornographiques : Telegram visé par une enquête du régulateur britannique des médias",
+          "description": "Le régulateur rappelle que, selon la loi britannique, les fournisseurs de services « d’utilisateur à utilisateur » sont « tenus d’évaluer et d’atténuer le risque » que le partage ou la détention de tels contenus « soit commis sur leurs plateformes ».",
+          "url": "https://www.lemonde.fr/pixels/article/2026/04/21/contenus-pedopornographiques-telegram-vise-par-une-enquete-du-regulateur-britannique-des-medias_6682038_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-04-20T21:05:35.000Z",
-          "fetchedAt": "2026-04-21T06:14:12.489Z"
+          "publishedAt": "2026-04-21T16:41:54.000Z",
+          "fetchedAt": "2026-04-22T06:10:33.358Z"
         },
         {
-          "id": "2026-04-20-c4d73baf",
-          "title": "Apple CEO Tim Cook is stepping down",
-          "description": "Apple CEO Tim Cook is stepping down and will be succeeded by John Ternus, currently Apple's senior vice president of hardware engineering. Ternus will take over as CEO and join Apple's board of directors on September 1st, 2026. Cook, who joined Apple in 1998 and took over as CEO from Steve Jobs in 2011, will become executive chairman of Apple's board.\nApple has also named Johny Srouji, previously Apple's SVP of hardware technologies, as the company's chief hardware officer, effective immediately. Srouji will \"assume an expanded role leading Hardware Engineering, which John Ternus most recently oversaw, as well as the hardware technologies o …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-04-21-2272db1b",
+          "title": "Tout savoir sur les aides à l’achat d’une voiture électrique en 2026",
+          "description": "Si vous avez envie d’acheter une voiture électrique, il faut savoir que les différentes aides à l'achat évoluent régulièrement. Découvrez tout ce qu'il y a à savoir sur les aides restantes pour l'achat d'un véhicule électrique avant qu'elles ne disparaissent.",
+          "url": "https://www.numerama.com/vroom/974563-achat-dune-voiture-electrique-de-quelles-aides-financieres-pouvez-vous-beneficier.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2022/05/renault-megane.jpg?resize=1600,900&key=1303f02b&watermark",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-04-20T20:42:59.000Z",
-          "fetchedAt": "2026-04-21T06:14:12.464Z"
+          "publishedAt": "2026-04-21T16:36:15.000Z",
+          "fetchedAt": "2026-04-22T06:10:33.522Z"
+        },
+        {
+          "id": "2026-04-21-22edc149",
+          "title": "Il s’est passé un moment incroyable entre ces deux joueurs pro sur Dragon Ball FighterZ",
+          "description": "C'est durant l'événement Dragon Ball Games Battle Hour de 2026 que s'est tenu un tournoi de Dragon Ball FighterZ. L'occasion pour deux joueurs rivaux de longue date de livrer un combat spectaculaire.",
+          "url": "https://www.numerama.com/pop-culture/2237001-il-sest-passe-un-moment-incroyable-entre-ces-deux-joueurs-pro-sur-dragon-ball-fighterz.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/dbz-double-ko.jpg?resize=1600,900&key=b38792a8&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-04-21T12:14:42.000Z",
+          "fetchedAt": "2026-04-22T06:10:33.522Z"
+        },
+        {
+          "id": "2026-04-21-1c4b5159",
+          "title": "Xiaomi continue de puiser chez Tesla pour devenir une marque puissante",
+          "description": "À quelques jours du salon auto de Beijing, une nouvelle recrue fait son arrivée chez Xiaomi. Pour la première fois, la marque chinoise a désigné un directeur technique (CTO), preuve qu'elle compte bien devenir un acteur majeur du secteur automobile.",
+          "url": "https://www.numerama.com/vroom/2236943-xiaomi-continue-de-puiser-chez-tesla-pour-devenir-une-marque-puissante.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/xiaomi-su7-restylee-4.jpg?resize=1600,900&key=1bf5a875&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-04-21T10:52:00.000Z",
+          "fetchedAt": "2026-04-22T06:10:33.522Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Pop-up shop helps families cope with rising costs",
+      "id": "cluster-2",
+      "topic": "War in Iran 'has put up our fuel bill by £100,000'",
       "category": "eco",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-04-21-a3822e87",
-          "title": "Pop-up shop helps families cope with rising costs",
-          "description": "Customers receive tokens to claim up to 10 free items, from clothing to everyday home essentials.",
-          "url": "https://www.bbc.com/news/articles/crk113n080no?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8edc/live/371d5150-38cf-11f1-897a-bdd15f22bdb0.jpg",
+          "id": "2026-04-22-74f8d501",
+          "title": "War in Iran 'has put up our fuel bill by £100,000'",
+          "description": "How are rising oil prices affecting truckers, carers and heating oil users?",
+          "url": "https://www.bbc.com/news/articles/c248j1r7qrdo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1061/live/76c625f0-3d63-11f1-a7f7-c90fc0a93ea1.png",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-21T05:35:19.000Z",
-          "fetchedAt": "2026-04-21T06:14:17.373Z"
+          "publishedAt": "2026-04-22T05:19:19.000Z",
+          "fetchedAt": "2026-04-22T06:10:42.920Z"
+        },
+        {
+          "id": "2026-04-22-a27b2c34",
+          "title": "World's biggest maker of condoms set to raise prices due to Iran war",
+          "description": "Malaysia-based Karex produces more than five billion condoms a year and supplies global brands like Durex and Trojan.",
+          "url": "https://www.bbc.com/news/articles/cy71zj1381po?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a393/live/1fe8e980-3e11-11f1-b55d-0f258dce1735.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-04-22T03:28:52.000Z",
+          "fetchedAt": "2026-04-22T06:10:42.920Z"
+        },
+        {
+          "id": "2026-04-21-8e7c8592",
+          "title": "Petrol thefts surge as Iran war pushes up fuel costs",
+          "description": "One petrol retailer says he is experiencing about five drive-offs a week at each forecourt, costing him thousands.",
+          "url": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4eab/live/12dd75d0-3d44-11f1-9d5c-8ba507d7dbde.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-04-21T08:59:03.000Z",
+          "fetchedAt": "2026-04-22T06:10:42.920Z"
         }
       ]
     }
