@@ -1,264 +1,308 @@
 {
-  "generatedAt": "2026-04-23T06:21:14.580Z",
+  "generatedAt": "2026-04-24T06:24:34.715Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Le secrétaire ​américain à la Marine limogé en plein conflit avec l'Iran",
+      "id": "cluster-1",
+      "topic": "Trump annonce une prolongation de la trêve au Liban, les négociations au point m",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-23-d5ef98e9",
-          "title": "Le secrétaire ​américain à la Marine limogé en plein conflit avec l'Iran",
-          "description": "Le plus haut responsable civil de la Marine américaine, John Phelan, quitte ses fonctions \"avec effet immédiat\", a indiqué mercredi le Pentagone, sans fournir d'explication à son départ soudain. Des sources indiquent cependant que le secrétaire à la Marine a été limogé, comme de nombreux autres responsables avant lui depuis le retour de Donald Trump à la Maison Blanche.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260423-etats-unis-secretaire-marine-americaine-john-phelan-limoge",
-          "imageUrl": "https://s.france24.com/media/display/e3600298-3ed6-11f1-abea-005056a97e36/w:1024/p:16x9/AP26112780386553.jpg",
+          "id": "2026-04-24-0cd6e41e",
+          "title": "Trump annonce une prolongation de la trêve au Liban, les négociations au point mort avec l'Iran",
+          "description": "Le Liban et Israël ont ⁠prolongé de trois ​semaines le cessez-le-feu temporaire conclu entre les deux pays, a annoncé le président américain à l'issue ​d'une réunion à Washington entre des représentants des deux pays. Une annonce qui intervient alors que des doutes entourent le cessez-le-feu temporaire ​et les négociations entre les États-Unis et l'Iran.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260424-trump-annonce-prolongation-tr%C3%AAve-liban-n%C3%A9gociations-point-mort-avec-iran-guerre-moyen-orient",
+          "imageUrl": "https://s.france24.com/media/display/cc726426-3f9f-11f1-8a48-005056bf30b7/w:1024/p:16x9/AP26113787413107.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-23T06:05:19.000Z",
-          "fetchedAt": "2026-04-23T06:17:14.559Z"
+          "publishedAt": "2026-04-24T05:53:42.000Z",
+          "fetchedAt": "2026-04-24T06:20:35.033Z"
         },
         {
-          "id": "2026-04-22-e2c2bbdf",
-          "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-          "description": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
-          "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/411e/live/38447e10-3e73-11f1-b55d-0f258dce1735.jpg",
-          "source": "BBC World",
+          "id": "2026-04-24-ea6d2b2a",
+          "title": "RDC: à la rencontre des migrants expulsés des États-Unis",
+          "description": "Vendredi 17 avril, un premier groupe de migrants expulsés des États-Unis vers la République démocratique du Congo à la suite de la signature d'un accord entre les deux pays est arrivé à Kinshasa. Au nombre de 15, ils sont depuis hébergés dans un complexe hôtelier situé près de la capitale congolaise où ils ont été pris en charge par l’Organisation internationale des migrations (OIM). Si un visa d’une semaine leur a été accordé à leur arrivée, ils doivent désormais faire un choix : rentrer dans leur pays d’origine ou rester en RDC.",
+          "url": "https://www.rfi.fr/fr/afrique/20260424-rdc-%C3%A0-la-rencontre-des-migrants-expuls%C3%A9s-des-%C3%A9tats-unis",
+          "imageUrl": "https://s.rfi.fr/media/display/21d4f7a4-3f22-11f1-ba99-005056bfb2b6/w:1024/p:16x9/WhatsApp-Image-2026-04-23-at-16-34-43.jpeg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-22T21:23:25.000Z",
-          "fetchedAt": "2026-04-23T06:17:26.344Z"
+          "publishedAt": "2026-04-24T03:17:48.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.184Z"
         },
         {
-          "id": "2026-04-22-2b283666",
-          "title": "Iran / Trump : une trêve inflammable ?",
-          "description": "Donald Trump a décidé unilatéralement de prolonger la trêve avec Téhéran pour une durée indéterminée. Il a affirmé vouloir permettre la poursuite des négociations tout en maintenant le blocus maritime américain, que les Iraniens considèrent comme une violation du cessez-le-feu. Ce mercredi, l’Iran a tiré sur trois navires dans le détroit d’Ormuz.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260422-iran-trump-une-tr%C3%AAve-inflammable",
-          "imageUrl": "https://s.france24.com/media/display/ca549376-3e73-11f1-af9d-005056a97e36/w:1024/p:16x9/Francais-2026-04-22T17-16-30-867Z.jpg",
+          "id": "2026-04-24-b6ef53c7",
+          "title": "Polymarket : un soldat américain inculpé pour avoir gagné 400 000 dollars en pariant sur la chute de Nicolas Maduro",
+          "description": "Le militaire est accusé de délit d’initié pour avoir prédit l’intervention des Etats-Unis au Venezuela le 3 janvier et empoché cette somme.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/04/24/polymarket-un-militaire-americain-inculpe-pour-avoir-parie-sur-la-chute-de-nicolas-maduro-grace-a-des-informations-confidentielles_6682920_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-24T00:48:38.000Z",
+          "fetchedAt": "2026-04-24T06:20:34.268Z"
+        },
+        {
+          "id": "2026-04-23-f0f517df",
+          "title": "En direct : Donald Trump annonce une prolongation du cessez-le-feu au Liban de \"trois semaines\"",
+          "description": "",
+          "url": "https://www.france24.com/fr/moyen-orient/20260423-en-direct-moyen-orient-liban-pourparlers-israel-treve-etats-unis-iran-trump-ormuz",
+          "imageUrl": "https://s.france24.com/media/display/84b66cc8-3f5d-11f1-a088-005056a90284/w:1280/p:16x9/AP26113779315859.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-22T18:09:55.000Z",
-          "fetchedAt": "2026-04-23T06:17:14.559Z"
+          "publishedAt": "2026-04-23T21:36:58.000Z",
+          "fetchedAt": "2026-04-24T06:20:35.033Z"
         },
         {
-          "id": "2026-04-22-763b1747",
-          "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-          "description": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
-          "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/db11/live/0b800030-3de1-11f1-93eb-a371fe7f0f0d.jpg",
+          "id": "2026-04-23-d7f84869",
+          "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+          "description": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+          "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6c0f/live/40fcfd40-3f3e-11f1-b23e-977dc8cd7ec8.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-04-22T00:32:10.000Z",
-          "fetchedAt": "2026-04-23T06:17:26.344Z"
+          "publishedAt": "2026-04-23T20:45:51.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.161Z"
+        },
+        {
+          "id": "2026-04-23-1ca93a7f",
+          "title": "VIDEO Etats-Unis : une « purge » à la tête de l’armée américaine ?",
+          "description": "John Phelan, le secrétaire à la marine américaine, a quitté ses fonctions « avec effet immédiat », a annoncé le Pentagone, sans donner plus d’explications. Un nom qui s’ajoute à la liste des hauts gradés écartés depuis février 2025.",
+          "url": "https://www.lemonde.fr/international/video/2026/04/23/etats-unis-une-purge-a-la-tete-de-l-armee-americaine_6682841_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-23T17:04:43.000Z",
+          "fetchedAt": "2026-04-24T06:20:34.268Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Regain de tensions entre Moscou et Berlin, sur fond de guerre en Ukraine",
+      "topic": "Le Nigeria en appelle à ses partenaires étrangers, dont la France, face à une si",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-23-f2a9e8c2",
-          "title": "Regain de tensions entre Moscou et Berlin, sur fond de guerre en Ukraine",
-          "description": "Depuis quelques jours, les sujets de tensions diplomatiques se multiplient entre la Russie et l'Allemagne : suspension des livraisons de pétrole kazakh via l'oléoduc Droujba, arrestation d'une citoyenne allemande en Russie ou encore nationalisation d'actifs d'une compagnie pétrogazière allemande. Moscou n'apprécie pas le soutien apporté par Berlin à Kiev depuis le début de l'invasion de l'Ukraine.",
-          "url": "https://www.rfi.fr/fr/europe/20260423-regain-de-tensions-entre-moscou-et-berlin-sur-fond-de-guerre-en-ukraine",
-          "imageUrl": "https://s.rfi.fr/media/display/30648be6-3e9a-11f1-b810-005056bfb2b6/w:1024/p:16x9/2026-04-14T085921Z-956928173-RC2WOKA0SG6W-RTRMADP-3-UKRAINE-CRISIS-GERMANY-ZELENSKIY-ARRIVAL.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-23T06:03:33.000Z",
-          "fetchedAt": "2026-04-23T06:17:26.618Z"
-        },
-        {
-          "id": "2026-04-23-fc3d93da",
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "description": "Deux personnes ont été tuées dans une attaque russe qui a touché la ville industrielle de Dnipro, à plus de 100 kilomètres de la ligne de front. Huit personnes ont également été blessées et une personne est portée disparue, selon le responsable de l’administration régionale.",
-          "url": "https://www.lemonde.fr/international/live/2026/04/23/en-direct-guerre-en-ukraine-une-attaque-russe-sur-dnipro-fait-au-moins-deux-morts_6681322_3210.html",
+          "id": "2026-04-24-b54646ee",
+          "title": "Le Nigeria en appelle à ses partenaires étrangers, dont la France, face à une situation sécuritaire dégradée",
+          "description": "Alors qu’elles affrontent des groupes armés, notamment djihadistes, dans le nord du pays, les autorités nigérianes ont annoncé le renforcement de coopérations avec la France et la Turquie.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/24/le-nigeria-en-appelle-a-ses-partenaires-etrangers-dont-la-france-face-a-une-situation-securitaire-degradee_6683015_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-23T04:59:01.000Z",
-          "fetchedAt": "2026-04-23T06:17:13.943Z"
+          "publishedAt": "2026-04-24T05:30:02.000Z",
+          "fetchedAt": "2026-04-24T06:20:34.268Z"
+        },
+        {
+          "id": "2026-04-24-892d7b9e",
+          "title": "« On lui a laissé des somnifères et un numéro à appeler » : le retour difficile des ex-otages français de l’étranger",
+          "description": "Isolement, absence de suivi, difficultés administratives… Pour de nombreux anciens otages et détenus français à l’étranger, l’épreuve se prolonge autrement avec le retour en France, entre perte de repères et sentiment d’abandon.",
+          "url": "https://www.lemonde.fr/societe/article/2026/04/24/on-lui-a-laisse-des-somniferes-et-un-numero-a-appeler-le-retour-difficile-des-ex-otages-francais-de-l-etranger_6683006_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-24T04:30:03.000Z",
+          "fetchedAt": "2026-04-24T06:20:34.268Z"
+        },
+        {
+          "id": "2026-04-23-12dba677",
+          "title": "France: Deliveroo et Uber Eats visés par une plainte pour «traite d'êtres humains»",
+          "description": "En France, les plateformes Deliveroo et Uber Eats font l'objet d'une plainte pour « traite d'êtres humains », déposée mercredi 22 avril auprès du parquet de Paris par quatre associations de livreurs. Une démarche inédite qui dénonce des conditions de travail jugées indignes et une précarité extrême.",
+          "url": "https://www.rfi.fr/fr/france/20260423-france-deliveroo-et-uber-eats-vis%C3%A9s-par-une-plainte-pour-traite-d-%C3%AAtres-humains",
+          "imageUrl": "https://s.rfi.fr/media/display/0f4aee62-3f3c-11f1-876b-005056bfb2b6/w:1024/p:16x9/2026-04-23T131651Z-430249946-RC21VKA6TYM9-RTRMADP-3-FRANCE-DELIVEROO.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-23T19:31:33.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.184Z"
+        },
+        {
+          "id": "2026-04-23-665bc251",
+          "title": "À Paris, un G7 environnement qui passe le climat sous silence",
+          "description": "À Paris se tient ces jeudi et vendredi un G7 Environnement qui n'abordera pas la question du climat. La France a choisi de passer sous silence ce sujet pourtant central pour ne pas froisser les États-Unis. L'administration Trump a envoyé pour la représenter à ce sommet une responsable de second plan de l'Agence américaine pour l'Environnement, signe du peu de cas qu'elle fait de cette réunion comme de la diplomatie environnementale en général.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260423-%C3%A0-paris-un-g7-environnement-qui-passe-le-climat-sous-silence",
+          "imageUrl": "https://s.france24.com/media/display/6edf5eca-3f33-11f1-9943-005056bfb2b6/w:1024/p:16x9/capture-4255201269ea4bfba6f070-41798079.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-23T17:05:19.000Z",
+          "fetchedAt": "2026-04-24T06:20:35.033Z"
+        },
+        {
+          "id": "2026-04-23-6564e038",
+          "title": "BBC visits migrant camp in northern France as new deal announced",
+          "description": "A proposed three-year deal with Paris is aimed at stopping migrants crossing the Channel on small boats.",
+          "url": "https://www.bbc.com/news/videos/cgrl891xkpvo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a165/live/489e3200-3ef6-11f1-95e9-c9f2031e3375.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-23T09:39:50.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.161Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "Gaza continue de subir un «cessez-le-feu» sous les bombes, dans l’insalubrité et",
+      "id": "cluster-11",
+      "topic": "A Chypre, Volodymyr Zelensky met tout son poids pour déclencher la procédure d’a",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-23-a2feeb6c",
-          "title": "Gaza continue de subir un «cessez-le-feu» sous les bombes, dans l’insalubrité et sans aide humanitaire",
-          "description": "Alors que le cessez-le-feu se poursuit entre Israël et le Hezbollah libanais, malgré sa fragilité, beaucoup questionnent les garanties d’un tel accord avec l’État hébreu, surtout en ayant en tête la situation de la bande de Gaza. Car six mois après avoir été signé le 10 octobre 2025, les Gazaouis estiment que le cessez-le-feu dans le territoire palestinien n'en est pas vraiment un : il a été violé par Israël des centaines de fois depuis son entrée en vigueur.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260423-israel-gaza-continue-de-subir-un-cessez-le-feu-sous-les-bombes-dans-l-insalubrit%C3%A9-et-sans-aide-humanitaire",
-          "imageUrl": "https://s.rfi.fr/media/display/a6b7a608-3ed0-11f1-9abb-005056a90284/w:1024/p:16x9/2026-04-22T111205Z-1527378638-RC2USKA3L2G7-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA-CIGARETTES.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-23T04:56:05.000Z",
-          "fetchedAt": "2026-04-23T06:17:26.618Z"
-        },
-        {
-          "id": "2026-04-23-dadeffff",
-          "title": "Au Pérou, une controverse sur l’achat d’avions F-16 provoque la démission des ministres des affaires étrangères et de la défense",
-          "description": "Les deux ministres ont quitté leurs postes en réaction à la volonté du président par intérim péruvien, José Maria Balcazar, de reporter de l’acquisition d’avions de combat aux Etats-Unis afin d’en laisser la responsabilité à son successeur.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/23/au-perou-une-controverse-sur-l-achat-d-avions-f-16-provoque-la-demission-des-ministres-des-affaires-etrangeres-et-de-la-defense_6682738_3210.html",
+          "id": "2026-04-24-868046bc",
+          "title": "A Chypre, Volodymyr Zelensky met tout son poids pour déclencher la procédure d’adhésion de l’Ukraine à l’UE",
+          "description": "Après le déblocage du prêt de 90 milliards d’euros, les dirigeants européens, réunis à Agia Napa, jeudi, pour un sommet informel, sont restés prudents sur l’ouverture de la négociation et refusent tout passe-droit ou procédure accélérée.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/24/a-chypre-volodymyr-zelensky-plaide-pour-l-adhesion-de-l-ukraine-a-l-union-europeenne_6682998_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-23T03:58:27.000Z",
-          "fetchedAt": "2026-04-23T06:17:13.943Z"
+          "publishedAt": "2026-04-24T03:45:06.000Z",
+          "fetchedAt": "2026-04-24T06:20:34.268Z"
         },
         {
-          "id": "2026-04-22-3621384e",
-          "title": "Le Togo va présenter une nouvelle carte du monde à l'ONU respectant la taille réelle de l'Afrique",
-          "description": "L'Union africaine souhaite une meilleure représentation de son continent sur les cartes. L'organisation continentale a confié une mission au Togo : définir une carte du monde qui respecte la véritable taille des pays. Dans la majorité des cas, on utilise la carte de la projection dite Mercator. Mais depuis quelques années, des voix de la société civile se sont élevées à travers le monde pour la dénoncer, car l'Afrique y est représentée dans des proportions presque dix fois moindres que sa surface réelle. Et c'est donc le Togo qui doit défendre cette résolution en septembre devant la prochaine Assemblée générale des Nations unies.",
-          "url": "https://www.rfi.fr/fr/afrique/20260422-le-togo-va-pr%C3%A9senter-une-nouvelle-carte-du-monde-%C3%A0-l-onu-respectant-la-taille-r%C3%A9elle-de-l-afrique",
-          "imageUrl": "https://s.rfi.fr/media/display/ed720300-7cf6-11f0-a219-005056bfb2b6/w:1024/p:16x9/Mercator-projection.jpg",
+          "id": "2026-04-24-e653993f",
+          "title": "L'Europe débloque son prêt de 90 milliards d'euros à l'Ukraine",
+          "description": "Réunis à Chypre dans le cadre d'un sommet informel, les chefs d'État et de gouvernement de l'Union européenne ont enfin réussi à valider un prêt de 90 milliards d'euros à Kiev grâce à la levée du veto de la Hongrie, jeudi 23 avril. De son côté, le président ukrainien Volodymyr Zelensky a profité de l'occasion pour remettre la pression sur les Vingt-Sept, réclamant pour son pays « une pleine adhésion » à l'UE. La journée de vendredi doit, quant à elle, être consacrée à la guerre au Moyen-Orient.",
+          "url": "https://www.rfi.fr/fr/europe/20260424-l-europe-d%C3%A9bloque-son-pr%C3%AAt-de-90-milliards-d-euros-%C3%A0-l-ukraine",
+          "imageUrl": "https://s.rfi.fr/media/display/8e92c010-3f86-11f1-8bad-005056bfb2b6/w:1024/p:16x9/AP26113617342949.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-22T22:15:44.000Z",
-          "fetchedAt": "2026-04-23T06:17:26.618Z"
+          "publishedAt": "2026-04-24T03:17:29.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.184Z"
         },
         {
-          "id": "2026-04-22-4c90fe0e",
-          "title": "En RDC, la Commission électorale propose de réformer un système que tout le monde contourne",
-          "description": "La Commission électorale nationale indépendante a remis à l’Assemblée nationale un rapport qui propose de revoir les fondements du calcul électoral. Au cœur du débat : une règle arithmétique que personne ne comprend vraiment, et que tout le monde contourne.",
-          "url": "https://www.rfi.fr/fr/afrique/20260422-en-rdc-la-commission-%C3%A9lectorale-propose-de-r%C3%A9former-un-syst%C3%A8me-que-tout-le-monde-contourne-1-2",
-          "imageUrl": "https://s.rfi.fr/media/display/bc2de294-10b6-11ea-b07e-005056bf7c53/w:1024/p:16x9/parlement-rdc-palais-peuple_0.jpg",
-          "source": "RFI",
+          "id": "2026-04-23-fc22cde8",
+          "title": "Orban hors-jeu, Zelensky gagnant ?",
+          "description": "Les dirigeants européens sont rassemblés à Chypre ce jeudi, où ils doivent discuter de la situation au Moyen-Orient, mais surtout célébrer, aux côtés de Volodymyr Zelensky, le déblocage de 90 milliards d’euros d’aide pour l’Ukraine. Un prêt qui sera consacré à l’effort de guerre, alors que les frappes russes continuent de faire des victimes chaque jour dans le pays.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260423-orban-hors-jeu-zelensky-gagnant",
+          "imageUrl": "https://s.france24.com/media/display/7ea89d90-3f3c-11f1-90b9-005056bfb2b6/w:1024/p:16x9/Francais-2026-04-23T17-16-05-884Z.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-22T19:22:58.000Z",
-          "fetchedAt": "2026-04-23T06:17:26.618Z"
+          "publishedAt": "2026-04-23T18:21:31.000Z",
+          "fetchedAt": "2026-04-24T06:20:35.033Z"
         },
         {
-          "id": "2026-04-22-7d5d078f",
-          "title": "En Cisjordanie, un Palestinien tué par des colons",
-          "description": "La mort d’Awda Atef Awawdeh, 25 ans, près de Ramallah, survient au lendemain de celle de deux Palestiniens, dont un adolescent de 14 ans, dans des circonstances similaires.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/22/en-cisjordanie-un-palestinien-tue-par-des-colons_6682456_3210.html",
+          "id": "2026-04-23-2928f151",
+          "title": "VIDEO Prêt de 90 milliards à l’Ukraine : Volodymyr Zelensky et l’UE appellent à une « mise en œuvre rapide »",
+          "description": "Après le retrait du veto hongrois sur la question, l’UE a définitivement approuvé, jeudi 23 avril, le prêt de 90 milliards d’euros accordé à l’Ukraine.",
+          "url": "https://www.lemonde.fr/international/video/2026/04/23/pret-de-90-milliards-a-l-ukraine-volodymyr-zelensky-et-l-ue-appellent-a-une-mise-en-uvre-rapide_6682844_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-22T18:30:47.000Z",
-          "fetchedAt": "2026-04-23T06:17:13.943Z"
+          "publishedAt": "2026-04-23T17:35:39.000Z",
+          "fetchedAt": "2026-04-24T06:20:34.268Z"
         },
         {
-          "id": "2026-04-22-73783d10",
-          "title": "Hongrie : « Après seize ans d’un régime illibéral, peut-on restaurer l’Etat de droit en acceptant de le mettre entre parenthèses ? »",
-          "description": "Dans une tribune au « Monde », la politiste Ambre Bruneteau s’interroge sur la manière dont le futur premier ministre hongrois, Péter Magyar, pourra solder les années Orban. Selon elle, la question qui s’ouvre n’est pas seulement celle de l’alternance politique, mais d’une sortie de régime.",
-          "url": "https://www.lemonde.fr/idees/article/2026/04/22/hongrie-apres-seize-ans-d-un-regime-illiberal-peut-on-restaurer-l-etat-de-droit-en-acceptant-de-le-mettre-entre-parentheses_6682450_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-04-23-ab2378ae",
+          "title": "Le prêt européen à Kiev enfin débloqué : c’était “une question de vie ou de mort”",
+          "description": "Après la remise en service d’un oléoduc acheminant du pétrole russe, la Hongrie et la Slovaquie ont levé leur veto au prêt de 90 milliards d’euros à l’Ukraine. “Une bouée de sauvetage indispensable” qui pourrait, peut-être, redonner un avantage à l’armée ukrainienne alors que Moscou est en proie à des difficultés économiques.",
+          "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-le-pret-europeen-a-kiev-enfin-debloque-c-etait-une-question-de-vie-ou-de-mort_243314",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/23/80/0/2970/1980/1200/630/60/0/bfa710c_ftp-1-uird1uh6u83z-2026-04-23t124643z-1035735776-rc2x4gaok1bb-rtrmadp-3-ukraine-crisis-eu-loan-budget.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-22T17:30:08.000Z",
-          "fetchedAt": "2026-04-23T06:17:13.943Z"
+          "publishedAt": "2026-04-23T16:43:55.000Z",
+          "fetchedAt": "2026-04-24T06:20:34.525Z"
+        },
+        {
+          "id": "2026-04-22-9487ba2e",
+          "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+          "description": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
+          "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/40de/live/992a3f20-3e29-11f1-b55d-0f258dce1735.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-22T17:48:44.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.161Z"
         }
       ]
     },
     {
-      "id": "cluster-46",
-      "topic": "Un hackeur interpellé en Vendée après plusieurs cyberattaques visant notamment d",
+      "id": "cluster-41",
+      "topic": "Cybersécurité : face aux bouleversements de l’IA, un appel à « ne pas céder à la",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-22-d98571df",
-          "title": "Un hackeur interpellé en Vendée après plusieurs cyberattaques visant notamment des fédérations sportives",
-          "description": "L’homme, qui agit sous le pseudonyme « HexDex », a également piraté un site répertoriant les particuliers détenteurs d’armes, des syndicats comme la CFDT et FO ainsi que des sites d’agents de l’éducation nationale, selon le ministère public.",
-          "url": "https://www.lemonde.fr/societe/article/2026/04/22/un-hacker-interpelle-en-vendee-apres-plusieurs-cyberattaques-visant-notamment-des-federations-sportives_6682379_3224.html",
+          "id": "2026-04-23-bc4049fd",
+          "title": "Cybersécurité : face aux bouleversements de l’IA, un appel à « ne pas céder à la panique »",
+          "description": "Le Conseil de l’intelligence artificielle et du numérique, organe public indépendant, souligne dans une note les enjeux majeurs posés par Mythos, le nouveau modèle d’IA d’Anthropic et ses capacités de pointe en matière de sécurité numérique.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/04/23/cybersecurite-face-aux-bouleversements-de-l-ia-un-appel-a-ne-pas-ceder-a-la-panique_6682802_4408996.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-04-22T09:45:05.000Z",
-          "fetchedAt": "2026-04-23T06:17:25.790Z"
+          "publishedAt": "2026-04-23T12:30:01.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.285Z"
         },
         {
-          "id": "2026-04-22-fb91c5e5",
-          "title": "« Je n’ai installé aucune extension », comment Claude Desktop modifie vos navigateurs à votre insu, même ceux que vous n’avez pas encore",
-          "description": "Dans un billet publié le 18 avril 2026, un consultant en cybersécurité affirme que Claude Desktop, l’application de bureau d’Anthropic, préautorise discrètement l’accès aux navigateurs dès l’installation, y compris à ceux qui ne sont pas encore présents sur la machine.",
-          "url": "https://www.numerama.com/cyberguerre/2237663-je-nai-installe-aucune-extension-comment-claude-desktop-modifie-vos-navigateurs-a-votre-insu-meme-ceux-que-vous-navez-pas-encore.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/design-sans-titre-2026-04-22t101840498.jpg?resize=1600,900&key=02dfaaee&watermark",
+          "id": "2026-04-23-b2d78392",
+          "title": "Google a une arme secrète pour gagner la guerre de l’IA : les TPU 8t et TPU 8i",
+          "description": "Google vient de présenter la 8ᵉ génération de ses puces maison dédiées à l'intelligence artificielle : les TPU 8t et TPU 8i. Le géant du web mise sur deux puces et sépare la phase d'apprentissage et la phase d'exécution pour la première fois afin d'optimiser les coûts et d'augmenter sa capacité à être indépendant du reste de l'industrie, Nvidia compris.",
+          "url": "https://www.numerama.com/tech/2238981-google-devoile-les-tpu-8t-et-tpu-8i-les-puces-qui-lui-donnent-un-gros-avantage-en-ia.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/google-tpu.jpg?resize=1600,900&key=93f791e7&watermark",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-04-22T08:35:23.000Z",
-          "fetchedAt": "2026-04-23T06:17:25.754Z"
+          "publishedAt": "2026-04-23T10:58:00.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.353Z"
         },
         {
-          "id": "2026-04-22-cff55794",
-          "title": "SpaceX mise sur l’IA et noue un partenariat avec l’éditeur de code Cursor",
-          "description": "Le partenariat est assorti d’une option de rachat à 60 milliards de dollars d’ici à la fin de l’année. Ce partenariat avec Cursor a lieu alors qu’une course est engagée dans la Silicon Valley pour capter les développeurs professionnels, devenus le principal moteur de croissance de l’industrie de l’IA.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/04/22/spacex-mise-sur-l-ia-et-noue-un-partenariat-avec-l-editeur-de-code-cursor_6682368_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-04-23-a9992b8f",
+          "title": "Bitcoin, faux laissez-passer et vrais tirs : le détroit d’Ormuz est devenu une arnaque pour les armateurs",
+          "description": "Depuis plusieurs jours, le détroit d'Ormuz, l'un des points les plus surveillés du globe en ce moment, est le théâtre d'arnaques cyber mêlant cryptomonnaies, confusion administrative et tensions militaires.",
+          "url": "https://www.numerama.com/cyberguerre/2238717-bitcoin-faux-laissez-passer-et-vrais-tirs-le-detroit-dormuz-est-devenu-une-arnaque-pour-les-armateurs.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/design-sans-titre-2026-04-23t113001848.jpg?resize=1600,900&key=71690f2b&watermark",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-04-22T08:14:55.000Z",
-          "fetchedAt": "2026-04-23T06:17:25.790Z"
+          "publishedAt": "2026-04-23T09:54:01.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.353Z"
         },
         {
-          "id": "2026-04-22-7fe295a2",
-          "title": "« Ce qui me prenait une semaine me demande désormais deux secondes » : les jeunes diplômés utilisent l’IA pour tenter de se faire recruter",
-          "description": "Plus de 90 % des étudiants ont recours à l’intelligence artificielle pour améliorer leur dossier lors de leurs recherches d’emploi. Face à cette standardisation, les responsables des ressources humaines adaptent leurs méthodes d’entretien.",
-          "url": "https://www.lemonde.fr/campus/article/2026/04/22/ce-qui-me-prenait-une-semaine-me-demande-desormais-deux-secondes-les-jeunes-diplomes-utilisent-l-ia-pour-tenter-de-se-faire-recruter_6682353_4401467.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-04-23-419b9543",
+          "title": "Pourquoi Super Mario Galaxy Le Film a une importance capitale pour l’avenir des jeux vidéo",
+          "description": "Shigeru Miyamoto, père de Mario et responsable créatif de Nintendo, est revenu sur la révélation majeure de Super Mario Galaxy Le Film. Centrée sur Peach, elle est bel et bien canon dans les jeux vidéo.",
+          "url": "https://www.numerama.com/pop-culture/2238637-pourquoi-super-mario-galaxy-le-film-a-une-importance-capitale-pour-lavenir-des-jeux-video.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2022/12/capture-decran-2022-12-21-a-10-24-31.jpg?resize=1600,900&key=5d7ca67b&watermark",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-04-22T05:00:05.000Z",
-          "fetchedAt": "2026-04-23T06:17:25.790Z"
+          "publishedAt": "2026-04-23T09:17:43.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.353Z"
         },
         {
-          "id": "2026-04-21-e57ede18",
-          "title": "Des capteurs de Météo-France de l’aéroport de Roissy au cœur d’une suspicion de manipulation sur Polymarket",
-          "description": "Les 6 et 15 avril au soir, les températures enregistrées par une sonde positionnée à Paris - Charles-de-Gaulle se sont anormalement emballées. Phénomène météo ou anomalie ? De forts soupçons pèsent sur une manipulation à la faveur de paris en ligne.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/04/21/des-capteurs-de-meteo-france-de-l-aeroport-de-roissy-au-c-ur-d-une-suspicion-de-manipulation-sur-polymarket_6682047_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-04-23-e992cc3d",
+          "title": "Crimson Desert s’offre un mode difficile : quels sont les changements ?",
+          "description": "Pearl Abyss a déployé un nouveau gros patch pour Crimson Desert. Au menu : ajout de modes de difficulté et de nouvelles possibilités de personnalisation pour les contrôles.",
+          "url": "https://www.numerama.com/pop-culture/2238619-crimson-desert-soffre-un-mode-difficile-quels-sont-les-changements.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/02/crimson-desert-rpg.jpg?resize=1600,900&key=4364ed00&watermark",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-04-21T17:51:43.000Z",
-          "fetchedAt": "2026-04-23T06:17:25.790Z"
+          "publishedAt": "2026-04-23T07:21:02.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.353Z"
         },
         {
-          "id": "2026-04-21-85557156",
-          "title": "Contenus pédopornographiques : Telegram visé par une enquête du régulateur britannique des médias",
-          "description": "Le régulateur rappelle que, selon la loi britannique, les fournisseurs de services « d’utilisateur à utilisateur » sont « tenus d’évaluer et d’atténuer le risque » que le partage ou la détention de tels contenus « soit commis sur leurs plateformes ».",
-          "url": "https://www.lemonde.fr/pixels/article/2026/04/21/contenus-pedopornographiques-telegram-vise-par-une-enquete-du-regulateur-britannique-des-medias_6682038_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-04-23-53efea7f",
+          "title": "Avec Stranger Things : Chroniques de 1985, la série culte s’offre une virée animée  et nostalgique",
+          "description": "Quelques mois après le final plein d'émotions de Stranger Things, la série horrifique la plus populaire des années 2010, les frères Duffer et Netflix nous invitent à revenir à Hawkins pour un nouveau shoot de nostalgie… animée ! Prêts pour de nouvelles aventures Demogorgonesques ?",
+          "url": "https://www.numerama.com/pop-culture/2237685-avec-stranger-things-chroniques-de-1985-la-serie-culte-soffre-une-viree-animee-et-nostalgique.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/stranger-things-85-couv.jpg?resize=1600,900&key=38fbcf7f&watermark",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-04-21T16:41:54.000Z",
-          "fetchedAt": "2026-04-23T06:17:25.790Z"
+          "publishedAt": "2026-04-23T07:01:00.000Z",
+          "fetchedAt": "2026-04-24T06:20:44.353Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Lucia Withnel, agente de l’éducation nationale : « J’avais peur d’être stigmatis",
+      "id": "cluster-6",
+      "topic": "From scientist to silk farmer: India's silk industry renewal",
       "category": "eco",
-      "importance": 8,
+      "importance": 6,
       "articles": [
         {
-          "id": "2026-04-23-0ec33a32",
-          "title": "Lucia Withnel, agente de l’éducation nationale : « J’avais peur d’être stigmatisée en portant un appareil visible par tous »",
-          "description": "Diagnostiquée malentendante à 20 ans, cette agente administrative au rectorat de Guyane a traversé une longue période de déni avant d’assumer son handicap et de s’insérer professionnellement.",
-          "url": "https://www.lemonde.fr/emploi/article/2026/04/23/lucia-withnel-agente-de-l-education-nationale-j-avais-peur-d-etre-stigmatisee-en-portant-un-appareil-visible-par-tous_6682757_1698637.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-04-23-15d00e1c",
+          "title": "From scientist to silk farmer: India's silk industry renewal",
+          "description": "Silk production is an increasingly high-tech business in India.",
+          "url": "https://www.bbc.com/news/articles/c0e7le127v5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c23c/live/e999b7d0-2e9b-11f1-a79a-77e93010d956.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-23T06:00:12.000Z",
-          "fetchedAt": "2026-04-23T06:17:33.811Z"
-        },
-        {
-          "id": "2026-04-23-5c4b8308",
-          "title": "Deliveroo et Uber Eats visés par une plainte pour « traite d’êtres humains » à l’égard de leurs livreurs en France",
-          "description": "Plusieurs associations dénoncent les « conditions de travail indignes » et les « revenus de survie » de ces travailleurs souvent immigrés. Uber Eats est également sous la menace d’une action de groupe pour « discriminations ».",
-          "url": "https://www.lemonde.fr/economie/article/2026/04/23/deliveroo-et-uber-eats-vises-par-une-plainte-pour-traite-d-etres-humains-envers-leurs-livreurs-en-france_6682755_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-04-23T05:55:11.000Z",
-          "fetchedAt": "2026-04-23T06:17:33.811Z"
+          "publishedAt": "2026-04-23T23:50:01.000Z",
+          "fetchedAt": "2026-04-24T06:20:57.583Z"
         }
       ]
     }
