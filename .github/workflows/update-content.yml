@@ -1,10 +1,12 @@
 name: Update Content & Send Newsletters
 
 on:
-  # Daily at 4h15 UTC (~6h15 Paris CEST / 5h15 CET)
-  # Compensates ~30-60min GitHub Actions cron delay → newsletter sent ~7h-7h30 Paris
+  # Daily at 1h00 UTC. The actual GitHub Actions cron delay is ~1h30 to ~2h30
+  # so the workflow really starts between ~02:30 and ~03:30 UTC.
+  # The send-newsletter steps are gated behind a "wait until 07:00 Paris" step,
+  # so the actual send time is deterministic regardless of cron drift.
   schedule:
-    - cron: '15 4 * * *'
+    - cron: '0 1 * * *'
   # Manual trigger for testing
   workflow_dispatch:
     inputs:
@@ -82,7 +84,20 @@ jobs:
           echo "📅 Day of month: $DAY_OF_MONTH (odd: $IS_ODD_DAY)"
           echo "📅 Day of week: $DAY_OF_WEEK (Saturday: $IS_SATURDAY)"
 
-      # 8. Send newsletter to DAILY subscribers (every day)
+      # 8. Wait until 07:00 Paris before sending — decouples send time from cron drift
+      - name: Wait until 07:00 Paris
+        run: |
+          TARGET_TS=$(TZ='Europe/Paris' date -d 'today 07:00' +%s)
+          NOW_TS=$(date +%s)
+          SLEEP=$(( TARGET_TS - NOW_TS ))
+          if [ "$SLEEP" -gt 0 ]; then
+            echo "⏳ Sleeping ${SLEEP}s until 07:00 Paris..."
+            sleep "$SLEEP"
+          else
+            echo "⚠️  Already past 07:00 Paris (overshoot=$(( -SLEEP ))s) — sending immediately"
+          fi
+
+      # 9. Send newsletter to DAILY subscribers (every day)
       - name: Send newsletter (daily)
         if: ${{ github.event.inputs.frequency_override == '' || github.event.inputs.frequency_override == 'daily' }}
         env:
@@ -92,7 +107,7 @@ jobs:
           APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-newsletter:daily
 
-      # 9. Send newsletter to BIWEEKLY subscribers (odd days only)
+      # 10. Send newsletter to BIWEEKLY subscribers (odd days only)
       - name: Send newsletter (biweekly)
         if: ${{ (github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_odd_day == '1') || github.event.inputs.frequency_override == 'biweekly' }}
         env:
@@ -102,7 +117,7 @@ jobs:
           APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-newsletter:biweekly
 
-      # 10. Generate weekly edition (Saturday only)
+      # 11. Generate weekly edition (Saturday only)
       - name: Generate weekly edition
         if: ${{ (github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_saturday == 'true') || github.event.inputs.frequency_override == 'weekly' }}
         env:
@@ -110,7 +125,7 @@ jobs:
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: npm run generate-weekly
 
-      # 11. Send newsletter to WEEKLY subscribers (Saturday only)
+      # 12. Send newsletter to WEEKLY subscribers (Saturday only)
       - name: Send newsletter (weekly)
         if: ${{ (github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_saturday == 'true') || github.event.inputs.frequency_override == 'weekly' }}
         env:
@@ -120,7 +135,7 @@ jobs:
           APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-newsletter:weekly
 
-      # 12. Commit and push changes
+      # 13. Commit and push changes
       - name: Commit and push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -131,13 +146,13 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update stories $(TZ='Europe/Paris' date +'%Y-%m-%d')"
           git push
 
-      # 13. Trigger Vercel deployment (via deploy hook)
+      # 14. Trigger Vercel deployment (via deploy hook)
       - name: Trigger Vercel deploy
         if: ${{ vars.VERCEL_DEPLOY_HOOK }}
         run: |
           curl -X POST "${{ vars.VERCEL_DEPLOY_HOOK }}"
 
-      # 14. Wait for deployment — poll Vercel instead of fixed sleep
+      # 15. Wait for deployment — poll Vercel instead of fixed sleep
       - name: Wait for deployment
         if: ${{ vars.VERCEL_DEPLOY_HOOK }}
         run: |
@@ -152,7 +167,7 @@ jobs:
             fi
           done
 
-      # 15. Send SMS notification to VIPs via OVH HTTP2SMS (odd days only, like biweekly)
+      # 16. Send SMS notification to VIPs via OVH HTTP2SMS (odd days only, like biweekly)
       - name: Send SMS to VIPs
         if: ${{ github.event.inputs.skip_sms != 'true' && steps.day_info.outputs.is_odd_day == '1' }}
         env:
