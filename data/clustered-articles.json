@@ -1,242 +1,253 @@
 {
-  "generatedAt": "2026-04-26T06:23:58.044Z",
+  "generatedAt": "2026-04-27T06:45:08.304Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Colombie: un attentat à la bombe fait une quinzaine de morts dans le sud-ouest d",
+      "id": "cluster-2",
+      "topic": "Caraïbes : l’armée américaine attaque un nouveau bateau accusé de narcotrafic da",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-26-ed34c49d",
-          "title": "Colombie: un attentat à la bombe fait une quinzaine de morts dans le sud-ouest du pays",
-          "description": "Un attentat à la bombe a fait au moins 14 morts et 38 blessés samedi 25 avril sur une route du sud-ouest de la Colombie, secouée par une série d'attaques à un peu plus d'un mois de la présidentielle. En pleine campagne électorale dominée par les questions de sécurité, les autorités ont accusé la principale dissidence des Forces armées révolutionnaires de Colombie (Farc), qui n'a pas adhéré à l'accord de paix de 2016 et sème la terreur dans le pays.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260426-colombie-un-attentat-%C3%A0-la-bombe-fait-une-quinzaine-de-morts-dans-le-sud-ouest-du-pays",
-          "imageUrl": "https://s.rfi.fr/media/display/b1f8ef58-4133-11f1-8c12-005056bf30b7/w:1024/p:16x9/AP26115860739536.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-26T06:09:35.000Z",
-          "fetchedAt": "2026-04-26T06:20:07.725Z"
-        },
-        {
-          "id": "2026-04-26-45b7c200",
-          "title": "Après des tirs au gala de la presse à Washington, Donald Trump décrit un « loup solitaire » : « Personne ne m’avait dit que c’était une profession si dangereuse »",
-          "description": "L’assaillant, aux motivations encore inconnues, a été neutralisé avant de parvenir à la salle de réception, dont le président américain a été évacué.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/26/un-homme-arme-tente-de-forcer-l-entree-d-un-gala-de-la-presse-a-washington-accueillant-donald-trump_6683433_3210.html",
+          "id": "2026-04-27-290775fa",
+          "title": "Caraïbes : l’armée américaine attaque un nouveau bateau accusé de narcotrafic dans l’est du Pacifique",
+          "description": "Les responsables militaires américains ont revendiqué au moins huit frappes de ce type en avril, portant le nombre total de personnes tuées lors de ces opérations à au moins 185, selon un décompte de l’Agence France-Presse.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/27/caraibes-une-nouvelle-frappe-americaine-contre-un-bateau-soupconne-de-narcotrafic-fait-trois-morts_6683618_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-26T04:56:30.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.530Z"
+          "publishedAt": "2026-04-27T06:22:28.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.090Z"
         },
         {
-          "id": "2026-04-26-67696874",
-          "title": "Tunisie: les activités de la Ligue tunisienne des droits de l'homme suspendues pour un mois",
-          "description": "Lauréate du prix Nobel de la paix en 2015 aux côtés des autres organisations membre du quartet du dialogue national, la Ligue tunisienne des droits de l'homme (LTDH) dit avoir été informée d'un gel de ses activités pour un mois, sans toutefois avoir encore reçu de notification officielle des autorités. Depuis la fin de 2025, près d'une trentaine d'associations ont déjà connu le même sort.",
-          "url": "https://www.rfi.fr/fr/afrique/20260426-tunisie-les-activit%C3%A9s-de-la-ligue-tunisienne-des-droits-de-l-homme-suspendues-pour-un-mois",
-          "imageUrl": "https://s.rfi.fr/media/display/c363ddd2-47b7-11f0-b689-005056bfb2b6/w:1024/p:16x9/FMM-RFI-archive-Afrique-Tunisie-Tunis-et-Kairouan-FMM-Studio-graphique.jpg",
+          "id": "2026-04-27-1882fab6",
+          "title": "Charles III en visite aux États-Unis: une mission diplomatique sous tension",
+          "description": "Le roi Charles III et la reine Camilla arrivent ce lundi 27 avril à Washington pour une visite officielle de trois jours, à l'occasion du 250e anniversaire de l'indépendance américaine. Mais ce déplacement hautement symbolique intervient dans un contexte de tensions politiques inédites entre les États-Unis et le Royaume-Uni, mettant à l'épreuve la célèbre « relation spéciale » entre les deux alliés.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260427-charles-iii-en-visite-aux-%C3%A9tats-unis-une-mission-diplomatique-sous-tension",
+          "imageUrl": "https://s.rfi.fr/media/display/ca27e884-416c-11f1-b1e9-005056a97e36/w:1024/p:16x9/000-A8Y49TP.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-26T02:52:40.000Z",
-          "fetchedAt": "2026-04-26T06:20:07.725Z"
+          "publishedAt": "2026-04-27T06:22:15.000Z",
+          "fetchedAt": "2026-04-27T06:41:24.364Z"
         },
         {
-          "id": "2026-04-26-92b27253",
-          "title": "Au moins 14 personnes tuées dans un attentat en Colombie, en proie à une vague de violences",
-          "description": "Le département du Cauca, dans le sud-ouest de la Colombie, a été visé samedi par un attentat à la bombe, à un peu plus d'un mois des élections présidentielles. Au moins 14 personnes ont été tuées et une quarantaine ont été blessées. Les autorités ont accusé la principale dissidence des Forces armées révolutionnaires de Colombie (Farc).",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260426-au-moins-14-personnes-tu%C3%A9es-dans-un-attentat-en-colombie-en-proie-%C3%A0-une-vague-de-violences",
-          "imageUrl": "https://s.france24.com/media/display/bd2ad1a4-4109-11f1-bfd4-005056a97e36/w:1024/p:16x9/3c858104cabf3a91d0ddfdd16c775150382f927a.jpg",
+          "id": "2026-04-27-d41ce053",
+          "title": "Attaques au Mali: \"La faillite de la junte mise à nu\"",
+          "description": "A la Une de la presse, ce lundi 27 avril, la situation toujours très instable au Mali, après les attaques, ce week-end, des djihadistes du GSIM, alliés aux indépendantistes du Nord. Le début, aujourd’hui, de la visite d’Etat du roi Charles III aux Etats-Unis pour les 250 ans de l’indépendance américaine, malgré la nouvelle tentative d’assassinat de Donald Trump, samedi soir. Une réunion très attendue à l’Assemblée nationale, en France. Un exploit kényan. Et le roi mondial de la marmelade.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260427-attaques-au-mali-la-faillite-de-la-junte-mise-%C3%A0-nu",
+          "imageUrl": "https://s.france24.com/media/display/f10a6ec2-41fd-11f1-b8d0-005056bfb2b6/w:1024/p:16x9/5-LE-DJELY.png",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-26T00:49:11.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.607Z"
+          "publishedAt": "2026-04-27T06:04:00.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.070Z"
         },
         {
-          "id": "2026-04-25-cf27af04",
-          "title": "Au Mali, les djihadistes font vaciller la junte en menant une attaque sans précédent",
-          "description": "Plusieurs villes, dont Bamako et Kati, où résident les généraux au pouvoir, ont été la cible, samedi, d’un assaut coordonné entre les djihadistes du GSIM et les indépendantistes touaregs du FLA. Dans la soirée, la situation était sous contrôle des forces gouvernementales et de leur allié russe dans la capitale.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/04/26/au-mali-les-djihadistes-font-vaciller-la-junte-en-menant-une-attaque-sans-precedent_6683312_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-25T23:15:02.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.530Z"
-        },
-        {
-          "id": "2026-04-25-61c81cfb",
-          "title": "En Colombie, un attentat à la bombe fait au moins 14 morts et des dizaines de blessés dans la région du Cauca",
-          "description": "A quelques semaines de l’élection présidentielle, les autorités accusent la principale dissidence des Forces armées révolutionnaires de Colombie (FARC), qui n’a pas adhéré à l’accord de paix de 2016 et avec qui les négociations ont été abandonnées.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/25/en-colombie-un-attentat-a-la-bombe-fait-sept-morts-et-20-blesses-dans-la-region-du-cauca_6683278_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-25T19:59:43.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.530Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Municipales en Cisjordanie et à Gaza: les Palestiniens entre espoir et désintérê",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-26-1bb016a7",
-          "title": "Municipales en Cisjordanie et à Gaza: les Palestiniens entre espoir et désintérêt",
-          "description": "À travers l’organisation des municipales samedi 25 avril, l’Autorité palestinienne, sous pression de ses partenaires internationaux, a voulu démontrer sa capacité à se réformer et relancer un élan démocratique dans un territoire où les dernières élections nationales ont eu lieu en 2006. Le scrutin s’est déroulé sans accroc majeur, mais sans enthousiasme non plus. La participation a atteint seulement 53 % en Cisjordanie, voire 21 % à Deir el-Balah, la seule ville de la bande de Gaza où ce scrutin était organisé.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260426-appel%C3%A9s-aux-urnes-pour-des-municipales-en-cisjordanie-et-%C3%A0-gaza-les-palestiniens-entre-espoir-et-d%C3%A9sint%C3%A9r%C3%AAt",
-          "imageUrl": "https://s.rfi.fr/media/display/04183f4a-4130-11f1-80b4-005056bfb2b6/w:1024/p:16x9/FullSizeRender-6.jpeg",
+          "id": "2026-04-27-aebab50a",
+          "title": "États-Unis: qui est le «survivant désigné» chargé de remplacer le président s'il ne peut plus gouverner?",
+          "description": "Le président américain et la première dame ont été escortés alors qu'ils participaient pour la première fois au dîner de gala des correspondants de la Maison Blanche, après des coups de feu tirés samedi 25 avril. L'événement mondain et politique  s'est transformé en une véritable scène d'enquête criminelle. Aux États-Unis, cet incident a aussi mis en lumière le concept du « designated survivor » (« survivant désigné » en français).",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260427-%C3%A9tats-unis-qui-est-le-survivant-d%C3%A9sign%C3%A9-charg%C3%A9-de-remplacer-le-pr%C3%A9sident-s-il-ne-peut-plus-gouverner",
+          "imageUrl": "https://s.rfi.fr/media/display/0c2ac6e6-41f6-11f1-9528-005056bf30b7/w:1024/p:16x9/2026-04-27T004425Z-967870431-RC2SWKAJZR1U-RTRMADP-3-USA-TRUMP-DINNER.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-26T05:25:52.000Z",
-          "fetchedAt": "2026-04-26T06:20:07.725Z"
+          "publishedAt": "2026-04-27T05:26:39.000Z",
+          "fetchedAt": "2026-04-27T06:41:24.364Z"
         },
         {
-          "id": "2026-04-25-a592c4fa",
-          "title": "Elections municipales en Cisjordanie occupée et dans le centre de Gaza",
-          "description": "Claire Duhamel décrypte la situation en direct de Ramallah.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260425-elections-municipales-en-cisjordanie-occup%C3%A9e-et-dans-le-centre-de-gaza",
-          "imageUrl": "https://s.france24.com/media/display/0e6be728-40cf-11f1-b451-005056bfb2b6/w:1024/p:16x9/FR-20260425-160523-160913-CS.jpg",
-          "source": "France 24",
+          "id": "2026-04-27-8ef7b4d7",
+          "title": "Attaques au Mali: après la mort du ministre de la Défense, les populations inquiètes malgré un certain calme",
+          "description": "La journée de dimanche 26 avril a été mouvementée au Mali, quelques jours après le lancement des attaques coordonnées entre rebelles du Front de libération de l’Azawad (FLA) et les jihadistes. Alors que Bamako a reconnu la mort du ministre de la Défense, les mercenaires russes ont demandé et obtenu le feu vert des nouveaux maîtres de Kidal pour quitter les lieux. La population, de son côté, s’inquiète de la violence et craint une instabilité encore plus importante qu’avant.",
+          "url": "https://www.rfi.fr/fr/afrique/20260427-attaques-au-mali-apr%C3%A8s-la-mort-du-ministre-de-la-d%C3%A9fense-les-populations-inqui%C3%A8tes-malgr%C3%A9-un-certain-calme",
+          "imageUrl": "https://s.rfi.fr/media/display/3d13e0ea-41f5-11f1-b911-005056bf30b7/w:1024/p:16x9/000-A8ZV3TB.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-25T17:56:12.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.607Z"
+          "publishedAt": "2026-04-27T04:56:24.000Z",
+          "fetchedAt": "2026-04-27T06:41:24.364Z"
         },
         {
-          "id": "2026-04-25-4ec34111",
-          "title": "Municipales en Cisjordanie et à Gaza : les bureaux de vote ont ouvert",
-          "description": "Les Palestiniens ont commencé à voter samedi pour les élections municipales en Cisjordanie, occupée par Israël, et dans une partie de la bande de Gaza, lors du premier scrutin organisé depuis le début de la guerre à Gaza.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260425-municipales-en-cisjordanie-et-%C3%A0-gaza-les-bureaux-de-vote-ont-ouvert",
-          "imageUrl": "https://s.france24.com/media/display/2308f848-40ab-11f1-98cf-005056a97e36/w:1024/p:16x9/FR-20260425-150528-150727-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-25T13:39:49.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.607Z"
-        },
-        {
-          "id": "2026-04-25-b9c07066",
-          "title": "A Gaza et en Cisjordanie, les Palestiniens sont appelés à voter",
-          "description": "Claire Duhamel est en direct de al-Bireh, Cisjordanie.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260425-les-palestiniens-appel%C3%A9s-%C3%A0-voter-premier-scrutin-depuis-la-guerre-%C3%A0-gaza",
-          "imageUrl": "https://s.france24.com/media/display/40bb66a0-40a6-11f1-9100-005056bf30b7/w:1024/p:16x9/FR-20260425-141428-141617-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-25T13:19:07.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.607Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "Les tiers-lieux, la fantaisie retrouvée de la vie à Paris",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-26-f71954d6",
-          "title": "Les tiers-lieux, la fantaisie retrouvée de la vie à Paris",
-          "description": "Cette semaine, dans notre newsletter consacrée à ce que la presse étrangère écrit de meilleur et de pire sur l’Hexagone : une ode au lien social, à la solidarité et à la fête.",
-          "url": "https://www.courrierinternational.com/article/sacres-francais-les-tiers-lieux-la-fantaisie-retrouvee-de-la-vie-a-paris_243352",
-          "imageUrl": null,
+          "id": "2026-04-27-e4e39991",
+          "title": "Un possible mobile politique derrière l’attaque du dîner des correspondants à Washington",
+          "description": "Le suspect de 31 ans, identifié par la presse américaine sous le nom de Cole Allen, a cherché à assassiner Donald Trump et de hauts responsables de son administration, a affirmé dimanche la Maison-Blanche. Selon un document que s’est procuré le New York Times, ce Californien était en colère contre les actions menées par le gouvernement républicain.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-un-possible-mobile-politique-derriere-l-attaque-du-diner-des-correspondants-a-washington_243373",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/26/1/0/5500/3666/1200/630/60/0/934dfb8_ftp-1-tai1kir45xjg-2026-04-26t174555z-8033206-rc25xkarxdvi-rtrmadp-3-usa-trump-dinner-suspect.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-26T05:01:12.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.863Z"
-        },
-        {
-          "id": "2026-04-26-d8223af8",
-          "title": "Tchernobyl: 40 ans après, des incertitudes persistantes sur les conséquences sanitaires en France",
-          "description": "Il y a 40 ans, plusieurs territoires de l'est de la France furent exposés aux particules radioactives transportées dans l'air après l'explosion du réacteur de la centrale nucléaire de Tchernobyl. Des retombées longtemps jugées insignifiantes par le service central de protection contre les rayonnements ionisants, mais dont les effets réels restent difficiles à mesurer, notamment en raison d'un accès incomplet aux données. La Commission de recherche et d'information indépendantes sur la radioactivité (Criirad), créée au lendemain de la catastrophe, exigent aujourd'hui plus de transparence de la part des autorités françaises.",
-          "url": "https://www.rfi.fr/fr/france/20260426-tchernobyl-40-ans-apr%C3%A8s-des-incertitudes-persistantes-sur-les-cons%C3%A9quences-sanitaires-en-france",
-          "imageUrl": "https://s.rfi.fr/media/display/8757ebea-4102-11f1-a284-005056bf30b7/w:1024/p:16x9/TCHERNOBYL-NUCLEAIRE-ACCIDENT-CENTRALE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-26T02:50:37.000Z",
-          "fetchedAt": "2026-04-26T06:20:07.725Z"
-        },
-        {
-          "id": "2026-04-25-6dbc416a",
-          "title": "A Athènes, Emmanuel Macron pousse les entreprises françaises à investir en Grèce",
-          "description": "En visite dans la capitale grecque, le président français était accompagné d’une délégation d’entrepreneurs français intéressés par l’investissement dans un pays en pleine croissance.",
-          "url": "https://www.lemonde.fr/economie/article/2026/04/25/a-athenes-emmanuel-macron-pousse-les-entreprises-francaises-a-investir-en-grece_6683272_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-25T16:51:11.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.530Z"
-        },
-        {
-          "id": "2026-04-25-5e0bfb59",
-          "title": "Emmanuel Macron veut étaler le remboursement de la dette européenne de la période Covid et plaide pour de nouveaux emprunts communs",
-          "description": "Au second jour de sa visite en Grèce, le président de la République a également vanté la solidité de la clause d’assistance mutuelle de l’Union européenne en cas d’attaque.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/25/emmanuel-macron-veut-etaler-le-remboursement-de-la-dette-europeenne-de-la-periode-covid-et-plaide-pour-de-nouveaux-emprunts-communs_6683263_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-25T14:46:22.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.530Z"
-        },
-        {
-          "id": "2026-04-25-bc6e7761",
-          "title": "\"La France, c'est fini pour moi\" : Boualem Sansal dit vouloir vivre en Belgique",
-          "description": "Gracié en novembre par le président algérien Abdelmadjid Tebboune après avoir été incarcéré pendant un an, Boualem Sansal dit vouloir \"se tirer\" de France. L'écrivain franco-algérien est au cœur d'une polémique depuis qu'il a quitté son éditeur Gallimard pour rejoindre Grasset, propriété de Vincent Bolloré. L'auteur entre samedi à l’Académie royale de langue et de littérature françaises de Belgique.",
-          "url": "https://www.france24.com/fr/france/20260425-france-pour-moi-est-fini-alg%C3%A9rie-boualem-sansal-dit-vouloir-vivre-belgique-bollor%C3%A9",
-          "imageUrl": "https://s.france24.com/media/display/315ea3ae-40ae-11f1-88d8-005056a90284/w:1024/p:16x9/000-A8WG8DP.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-25T14:13:19.000Z",
-          "fetchedAt": "2026-04-26T06:19:57.607Z"
-        },
-        {
-          "id": "2026-04-25-bfee7251",
-          "title": "France: les propositions choc du rapporteur de la commission sur l'audiovisuel public",
-          "description": "Alors que les travaux de la critiquée commission d'enquête sur l'audiovisuel public se sont achevés après quatre mois d'auditions sous tension, certaines des préconisations du rapport ont fuité. Les députés doivent voter lundi 27 avril pour ou contre la diffusion du document. Dans ce dernier, le rapporteur et député d’extrême droite Charles Alloncle propose des économies drastiques, pour économiser un milliard d'euros, soit un quart du budget actuel de l'audiovisuel public.",
-          "url": "https://www.rfi.fr/fr/france/20260425-fusions-de-cha%C3%AEnes-nominations-par-le-pr%C3%A9sident-les-propositions-choc-du-rapporteur-de-la-commission-sur-l-audiovisuel-public",
-          "imageUrl": "https://s.rfi.fr/media/display/b280da8c-40aa-11f1-9a22-005056bf30b7/w:1024/p:16x9/000-A74X2K7.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-25T13:30:04.000Z",
-          "fetchedAt": "2026-04-26T06:20:07.725Z"
+          "publishedAt": "2026-04-27T04:00:02.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.634Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "« Si écrire permet d’organiser nos idées, comment comprendrons-nous le monde si ",
-      "category": "tech",
-      "importance": 7,
+      "id": "cluster-9",
+      "topic": "Vincent Lemire, historien : « Dans le conflit israélo-palestinien, Jérusalem n’e",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-04-26-45f998f0",
-          "title": "« Si écrire permet d’organiser nos idées, comment comprendrons-nous le monde si nous laissons l’IA rédiger à notre place ? »",
-          "description": "Dans sa chronique, Philippe Bernard, éditorialiste au « Monde », dresse les questions posées par l’effondrement de l’écrit et l’essor de l’intelligence artificielle sur nos capacités cérébrales.",
-          "url": "https://www.lemonde.fr/idees/article/2026/04/26/si-ecrire-permet-d-organiser-nos-idees-comment-comprendrons-nous-le-monde-si-nous-laissons-l-ia-rediger-a-notre-place_6683425_3232.html",
+          "id": "2026-04-27-76a99683",
+          "title": "Vincent Lemire, historien : « Dans le conflit israélo-palestinien, Jérusalem n’est pas le verrou, elle peut devenir la clé »",
+          "description": "L’historien propose, dans un entretien au « Monde », de s’atteler aux conditions de vie concrètes des habitants de Jérusalem pour inventer de nouvelles formes de coprésence entre Israéliens et Palestiniens.",
+          "url": "https://www.lemonde.fr/idees/article/2026/04/27/vincent-lemire-historien-dans-le-conflit-israelo-palestinien-jerusalem-n-est-pas-le-verrou-elle-peut-devenir-la-cle_6683606_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T04:00:04.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.090Z"
+        },
+        {
+          "id": "2026-04-27-912ac2a1",
+          "title": "La visite de Charles III à la Maison Blanche maintenue malgré l'attaque au gala de la presse",
+          "description": "Le roi Charles III et la reine Camilla effectuent leur première visite d'État aux États-Unis, dès lundi, à l'occasion du 250ᵉ anniversaire de l'indépendance américaine. Malgré l'attaque lors du gala des correspondants, la visite \"se déroulera comme prévu\", selon Buckingham. En pleine crispation diplomatique, le souverain britannique doit prononcer un discours devant le Congrès américain, mardi.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260427-donald-trump-recoit-roi-charles-iii-attaque-gala-presse-famille-royale-tensions-iran-visite-etat-camilla",
+          "imageUrl": "https://s.france24.com/media/display/35c6c8f2-2d0f-11f1-b6b9-005056bf30b7/w:1024/p:16x9/2026-03-09T100506Z-974078868-RC29UGASSZTE-RTRMADP-3-IRAN-CRISIS-TRUMP-BRITAIN-ROYALS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T02:54:03.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.070Z"
+        },
+        {
+          "id": "2026-04-26-55b66b53",
+          "title": "\"Cinglé\", \"génie\", anti-Trump : ce que l'on sait du tireur suspect du gala de la presse",
+          "description": "L'assaillant armé qui a plongé dans le chaos le gala de l'association des correspondants accrédités à la Maison Blanche, auquel assistait le président américain, a été identifié dimanche par des médias américains comme étant un ingénieur en mécanique de 31 ans originaire de Californie. Il va être présenté lundi à la justice.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260426-ce-que-l-on-sait-du-suspect-arr%C3%AAt%C3%A9-apr%C3%A8s-les-tirs-lors-du-gala-de-la-presse-%C3%A0-washington-cole-tomas-allen",
+          "imageUrl": "https://s.france24.com/media/display/b46ac2a6-4152-11f1-8c00-005056bf30b7/w:1024/p:16x9/AR-20260426-110205-110409-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-26T20:43:52.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.070Z"
+        },
+        {
+          "id": "2026-04-26-b1d73b80",
+          "title": "Coups de feu au gala de la presse à Washington : ce que l’on sait de l’homme suspecté d’avoir tiré",
+          "description": "Donald Trump l’a décrit comme « une personne très perturbée ». Le président américain a aussi estimé que les enquêteurs disposaient d’« informations assez solides », évoquant une « haine ancienne » et une motivation qu’il a qualifiée de « religieuse ».",
+          "url": "https://www.lemonde.fr/international/article/2026/04/26/coups-de-feu-au-gala-de-la-presse-a-washington-ce-que-l-on-sait-de-l-homme-suspecte-d-avoir-tire_6683458_3211.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-26T16:23:13.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.090Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-10",
+      "topic": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-27-487b2604",
+          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "description": "Le dirigeant nord-coréen, Kim Jong-un, a reçu à Pyongyang le ministre de la défense russe, Andreï Belooussov, et le président de la Douma, Viatcheslav Volodine, réaffirmant son soutien dans « cette guerre sacrée et juste »",
+          "url": "https://www.lemonde.fr/international/live/2026/04/27/en-direct-guerre-en-ukraine-le-dirigeant-nord-coreen-kim-jong-un-reaffirme-a-la-russie-son-soutien-dans-cette-guerre-sacree-et-juste_6683420_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T03:50:30.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.090Z"
+        },
+        {
+          "id": "2026-04-27-f2ff6a4c",
+          "title": "En Ukraine, le difficile retour des prisonniers de guerre libérés",
+          "description": "Les échanges de prisonniers représentent sans doute la seule forme de coopération encore fructueuse entre la Russie et l’Ukraine : les deux pays en ont organisé plus de 70 depuis le début de la guerre. Mais, pour les rapatriés, la libération est le début d’un nouveau combat, analyse le journal autrichien “Wiener Zeitung” : ils doivent réapprendre à vivre normalement.",
+          "url": "https://www.courrierinternational.com/article/reportage-en-ukraine-le-difficile-retour-des-prisonniers-de-guerre-liberes_242894",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/22/21/16/2343/1562/1200/630/60/0/822e593_upload-1-wxltxfjb12qk-kazanevsky-2016-09-25-4622-w.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T03:00:26.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.634Z"
+        },
+        {
+          "id": "2026-04-26-af57eee7",
+          "title": "Ukraine : 40 ans après Tchernobyl, une centrale dans la guerre",
+          "description": "Emmanuelle Galichet, enseignante-chercheure en physique nucléaire, est nitre invitée.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260426-ukraine-40-ans-apr%C3%A8s-tchernobyl-une-centrale-dans-la-guerre",
+          "imageUrl": "https://s.france24.com/media/display/dc6a23c4-416a-11f1-a80e-005056a97e36/w:1024/p:16x9/FR-20260426-131853-132602-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-26T12:39:58.000Z",
+          "fetchedAt": "2026-04-27T06:41:08.070Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-14",
+      "topic": "Cryptomonnaie : derrière le rapt d’une magistrate, un commando de jeunes Lyonnai",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-26-398f5666",
+          "title": "Cryptomonnaie : derrière le rapt d’une magistrate, un commando de jeunes Lyonnais et un mystérieux commanditaire numérique",
+          "description": "Agés de 17 à 20 ans, les cinq participants présumés à la séquestration d’une magistrate de l’Isère et de sa mère, en février, ont été recrutés dans la banlieue lyonnaise via Telegram. Leur insaisissable commanditaire apparaît dans plusieurs autres affaires de chantage à la cryptomonnaie.",
+          "url": "https://www.lemonde.fr/societe/article/2026/04/26/cryptomonnaie-derriere-le-rapt-d-une-magistrate-un-commando-de-jeunes-lyonnais-et-un-mysterieux-commanditaire-numerique_6683462_3224.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-04-26T04:00:10.000Z",
-          "fetchedAt": "2026-04-26T06:20:07.814Z"
+          "publishedAt": "2026-04-26T12:26:17.000Z",
+          "fetchedAt": "2026-04-27T06:41:24.413Z"
+        },
+        {
+          "id": "2026-04-26-d64a9f1e",
+          "title": "Les meilleurs films de zombies à voir au moins une fois dans votre vie",
+          "description": "Oubliez les cadavres qui traînent la patte. Le genre zombie a muté. Aujourd’hui, il court, il saute, il nous filme de l'intérieur et il nous fait même bien rire entre deux démembrements. Des couloirs sombres de Barcelone aux gares bondées de Corée, voici les films qui ont redéfini la fin du monde, dans ce guide pour découvrir les meilleurs films de zombies.",
+          "url": "https://www.numerama.com/pop-culture/2239273-les-meilleurs-films-de-zombies-a-voir-au-moins-une-fois-dans-votre-vie.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/dawn-of-the-dead-romero-director-dead-06fb0129-5072-40d5-a62e-449045797cd2.jpg?resize=1600,900&key=25459f9c&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-04-26T10:00:00.000Z",
+          "fetchedAt": "2026-04-27T06:41:24.468Z"
+        },
+        {
+          "id": "2026-04-25-eaed4875",
+          "title": "Une voiture sur cinq était électrique en mars en Europe : une croissance visible enfin dans tous les pays",
+          "description": "Tous les pays européens affichent des immatriculations de véhicules électriques en hausse, enfin, tous sauf deux. Sur le mois de mars, la voiture électrique affiche même une croissance insolente de 48,9 % dans l’Union européenne.",
+          "url": "https://www.numerama.com/vroom/2240665-une-voiture-sur-cinq-etait-electrique-en-mars-en-europe-une-croissance-visible-enfin-dans-tous-les-pays.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/bev-en-europe1-1.jpg?resize=1600,900&key=372701bc&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-04-25T12:02:00.000Z",
+          "fetchedAt": "2026-04-27T06:41:24.468Z"
+        },
+        {
+          "id": "2026-04-25-338359b4",
+          "title": "Les propriétaires d’une Switch 2 vont pouvoir découvrir l’un des meilleurs MMORPG",
+          "description": "Square Enix a officialisé l'arrivée d'une version Switch 2 pour Final Fantasy XIV, son MMORPG particulièrement populaire. Elle nécessitera un abonnement à part.",
+          "url": "https://www.numerama.com/pop-culture/2240779-les-proprietaires-dune-switch-2-vont-pouvoir-decouvrir-lun-des-meilleurs-mmorpg.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/capture-decran-2026-04-25-a-103906.jpg?resize=1600,900&key=576dacc4&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-04-25T08:46:15.000Z",
+          "fetchedAt": "2026-04-27T06:41:24.468Z"
         }
       ]
     },
     {
-      "id": "cluster-15",
-      "topic": "Island's inflation rate is 2.7%, new figures show",
+      "id": "cluster-1",
+      "topic": "Oil prices rise as US-Iran peace talks stall",
       "category": "eco",
-      "importance": 5,
+      "importance": 8,
       "articles": [
         {
-          "id": "2026-04-24-3bfb8c5d",
-          "title": "Island's inflation rate is 2.7%, new figures show",
-          "description": "Statistics Jersey says there have been \"sharp increases\" in some energy prices.",
-          "url": "https://www.bbc.com/news/articles/c5yl1jppge5o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/86da/live/be483a90-3fd3-11f1-8d04-6f63ea2b2d4b.jpg",
+          "id": "2026-04-27-621c5fb1",
+          "title": "Oil prices rise as US-Iran peace talks stall",
+          "description": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
+          "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8fd6/live/a68c34a0-41d2-11f1-adaa-197daed18477.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-24T14:10:34.000Z",
-          "fetchedAt": "2026-04-26T06:20:17.237Z"
+          "publishedAt": "2026-04-27T06:03:29.000Z",
+          "fetchedAt": "2026-04-27T06:41:33.232Z"
+        },
+        {
+          "id": "2026-04-26-518e6aee",
+          "title": "Higher prices could last for eight months after Iran war, minister says",
+          "description": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
+          "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e770/live/74d53e30-414f-11f1-9d1f-0d69b57ee6a5.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-04-26T13:58:54.000Z",
+          "fetchedAt": "2026-04-27T06:41:33.232Z"
         }
       ]
     }
