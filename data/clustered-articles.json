@@ -1,253 +1,231 @@
 {
-  "generatedAt": "2026-04-27T06:45:08.304Z",
+  "generatedAt": "2026-04-28T04:33:05.074Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "Caraïbes : l’armée américaine attaque un nouveau bateau accusé de narcotrafic da",
+      "topic": "La Russie, alliée incertaine de la junte malienne menacée par l’offensive djihad",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-27-290775fa",
-          "title": "Caraïbes : l’armée américaine attaque un nouveau bateau accusé de narcotrafic dans l’est du Pacifique",
-          "description": "Les responsables militaires américains ont revendiqué au moins huit frappes de ce type en avril, portant le nombre total de personnes tuées lors de ces opérations à au moins 185, selon un décompte de l’Agence France-Presse.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/27/caraibes-une-nouvelle-frappe-americaine-contre-un-bateau-soupconne-de-narcotrafic-fait-trois-morts_6683618_3210.html",
+          "id": "2026-04-28-0dafe38b",
+          "title": "La Russie, alliée incertaine de la junte malienne menacée par l’offensive djihadiste",
+          "description": "Dimanche 26 avril, après la prise de Kidal par les rebelles du Font de libération de l’Azawad, au moins 400 paramilitaires d’Africa Corps, nouveau groupe russe au Mali après la dissolution de Wagner, ont été évacués sous escorte de la ville.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/04/28/la-russie-alliee-incertaine-de-la-junte-malienne-menacee-par-l-offensive-djihadiste_6683869_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-27T06:22:28.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.090Z"
+          "publishedAt": "2026-04-28T04:00:31.000Z",
+          "fetchedAt": "2026-04-28T04:29:04.783Z"
         },
         {
-          "id": "2026-04-27-1882fab6",
-          "title": "Charles III en visite aux États-Unis: une mission diplomatique sous tension",
-          "description": "Le roi Charles III et la reine Camilla arrivent ce lundi 27 avril à Washington pour une visite officielle de trois jours, à l'occasion du 250e anniversaire de l'indépendance américaine. Mais ce déplacement hautement symbolique intervient dans un contexte de tensions politiques inédites entre les États-Unis et le Royaume-Uni, mettant à l'épreuve la célèbre « relation spéciale » entre les deux alliés.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260427-charles-iii-en-visite-aux-%C3%A9tats-unis-une-mission-diplomatique-sous-tension",
-          "imageUrl": "https://s.rfi.fr/media/display/ca27e884-416c-11f1-b1e9-005056a97e36/w:1024/p:16x9/000-A8Y49TP.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T06:22:15.000Z",
-          "fetchedAt": "2026-04-27T06:41:24.364Z"
-        },
-        {
-          "id": "2026-04-27-d41ce053",
-          "title": "Attaques au Mali: \"La faillite de la junte mise à nu\"",
-          "description": "A la Une de la presse, ce lundi 27 avril, la situation toujours très instable au Mali, après les attaques, ce week-end, des djihadistes du GSIM, alliés aux indépendantistes du Nord. Le début, aujourd’hui, de la visite d’Etat du roi Charles III aux Etats-Unis pour les 250 ans de l’indépendance américaine, malgré la nouvelle tentative d’assassinat de Donald Trump, samedi soir. Une réunion très attendue à l’Assemblée nationale, en France. Un exploit kényan. Et le roi mondial de la marmelade.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260427-attaques-au-mali-la-faillite-de-la-junte-mise-%C3%A0-nu",
-          "imageUrl": "https://s.france24.com/media/display/f10a6ec2-41fd-11f1-b8d0-005056bfb2b6/w:1024/p:16x9/5-LE-DJELY.png",
+          "id": "2026-04-27-a250a0f0",
+          "title": "Alliance Jnim-FLA, junte fragilisée, départ de mercenaires russes : que se passe-t-il au Mali ?",
+          "description": "Après une série d'attaques coordonnées sans précédent, menées samedi à travers le pays par des jihadistes du Jnim et des rebelles indépendantistes touareg du FLA, le Mali est plongé dans l’incertitude. Que sait-on de la situation sur le terrain ? Quels sont les intérêts communs des deux groupes ? Pourquoi est-ce un coup dur pour le régime malien ? Décryptage.",
+          "url": "https://www.france24.com/fr/afrique/20260427-mali-alliance-jnim-fla-junte-fragilisee-depart-mercenaires-russes-iafrica-corps-touareg-jihadistes",
+          "imageUrl": "https://s.france24.com/media/display/b6167316-4224-11f1-bbdb-005056bf30b7/w:1024/p:16x9/000-A92J2CE.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-27T06:04:00.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.070Z"
+          "publishedAt": "2026-04-27T16:57:33.000Z",
+          "fetchedAt": "2026-04-28T04:29:04.665Z"
         },
         {
-          "id": "2026-04-27-aebab50a",
-          "title": "États-Unis: qui est le «survivant désigné» chargé de remplacer le président s'il ne peut plus gouverner?",
-          "description": "Le président américain et la première dame ont été escortés alors qu'ils participaient pour la première fois au dîner de gala des correspondants de la Maison Blanche, après des coups de feu tirés samedi 25 avril. L'événement mondain et politique  s'est transformé en une véritable scène d'enquête criminelle. Aux États-Unis, cet incident a aussi mis en lumière le concept du « designated survivor » (« survivant désigné » en français).",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260427-%C3%A9tats-unis-qui-est-le-survivant-d%C3%A9sign%C3%A9-charg%C3%A9-de-remplacer-le-pr%C3%A9sident-s-il-ne-peut-plus-gouverner",
-          "imageUrl": "https://s.rfi.fr/media/display/0c2ac6e6-41f6-11f1-9528-005056bf30b7/w:1024/p:16x9/2026-04-27T004425Z-967870431-RC2SWKAJZR1U-RTRMADP-3-USA-TRUMP-DINNER.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T05:26:39.000Z",
-          "fetchedAt": "2026-04-27T06:41:24.364Z"
-        },
-        {
-          "id": "2026-04-27-8ef7b4d7",
-          "title": "Attaques au Mali: après la mort du ministre de la Défense, les populations inquiètes malgré un certain calme",
-          "description": "La journée de dimanche 26 avril a été mouvementée au Mali, quelques jours après le lancement des attaques coordonnées entre rebelles du Front de libération de l’Azawad (FLA) et les jihadistes. Alors que Bamako a reconnu la mort du ministre de la Défense, les mercenaires russes ont demandé et obtenu le feu vert des nouveaux maîtres de Kidal pour quitter les lieux. La population, de son côté, s’inquiète de la violence et craint une instabilité encore plus importante qu’avant.",
-          "url": "https://www.rfi.fr/fr/afrique/20260427-attaques-au-mali-apr%C3%A8s-la-mort-du-ministre-de-la-d%C3%A9fense-les-populations-inqui%C3%A8tes-malgr%C3%A9-un-certain-calme",
-          "imageUrl": "https://s.rfi.fr/media/display/3d13e0ea-41f5-11f1-b911-005056bf30b7/w:1024/p:16x9/000-A8ZV3TB.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T04:56:24.000Z",
-          "fetchedAt": "2026-04-27T06:41:24.364Z"
-        },
-        {
-          "id": "2026-04-27-e4e39991",
-          "title": "Un possible mobile politique derrière l’attaque du dîner des correspondants à Washington",
-          "description": "Le suspect de 31 ans, identifié par la presse américaine sous le nom de Cole Allen, a cherché à assassiner Donald Trump et de hauts responsables de son administration, a affirmé dimanche la Maison-Blanche. Selon un document que s’est procuré le New York Times, ce Californien était en colère contre les actions menées par le gouvernement républicain.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-un-possible-mobile-politique-derriere-l-attaque-du-diner-des-correspondants-a-washington_243373",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/26/1/0/5500/3666/1200/630/60/0/934dfb8_ftp-1-tai1kir45xjg-2026-04-26t174555z-8033206-rc25xkarxdvi-rtrmadp-3-usa-trump-dinner-suspect.JPG",
+          "id": "2026-04-27-af8065c2",
+          "title": "Derrière les attaques au Mali, Moscou voit une manœuvre occidentale",
+          "description": "Au Mali, la situation politique intérieure restait peu lisible, lundi 27 avril. Les attaques des djihadistes du GSIM et des rebelles touareg survenues le week-end ont constitué un revers pour l’Africa Corps, la force militaire russe intervenant en renfort du régime militaire. En Russie, le récit des événements repose sur les communications de cette structure paramilitaire qui incrimine l’Occident.",
+          "url": "https://www.courrierinternational.com/article/vu-de-russie-derriere-les-attaques-au-mali-moscou-voit-une-man-uvre-occidentale_243383",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/26/0/0/6000/4000/1200/630/60/0/b25a9e8_ftp-1-avvf2pmompit-afp-a92j2ce.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-27T04:00:02.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.634Z"
+          "publishedAt": "2026-04-27T16:26:23.000Z",
+          "fetchedAt": "2026-04-28T04:29:05.360Z"
         }
       ]
     },
     {
-      "id": "cluster-9",
-      "topic": "Vincent Lemire, historien : « Dans le conflit israélo-palestinien, Jérusalem n’e",
+      "id": "cluster-5",
+      "topic": "Après l’attaque à Washington, la Maison-Blanche accuse la gauche et les médias",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-27-76a99683",
-          "title": "Vincent Lemire, historien : « Dans le conflit israélo-palestinien, Jérusalem n’est pas le verrou, elle peut devenir la clé »",
-          "description": "L’historien propose, dans un entretien au « Monde », de s’atteler aux conditions de vie concrètes des habitants de Jérusalem pour inventer de nouvelles formes de coprésence entre Israéliens et Palestiniens.",
-          "url": "https://www.lemonde.fr/idees/article/2026/04/27/vincent-lemire-historien-dans-le-conflit-israelo-palestinien-jerusalem-n-est-pas-le-verrou-elle-peut-devenir-la-cle_6683606_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T04:00:04.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.090Z"
-        },
-        {
-          "id": "2026-04-27-912ac2a1",
-          "title": "La visite de Charles III à la Maison Blanche maintenue malgré l'attaque au gala de la presse",
-          "description": "Le roi Charles III et la reine Camilla effectuent leur première visite d'État aux États-Unis, dès lundi, à l'occasion du 250ᵉ anniversaire de l'indépendance américaine. Malgré l'attaque lors du gala des correspondants, la visite \"se déroulera comme prévu\", selon Buckingham. En pleine crispation diplomatique, le souverain britannique doit prononcer un discours devant le Congrès américain, mardi.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260427-donald-trump-recoit-roi-charles-iii-attaque-gala-presse-famille-royale-tensions-iran-visite-etat-camilla",
-          "imageUrl": "https://s.france24.com/media/display/35c6c8f2-2d0f-11f1-b6b9-005056bf30b7/w:1024/p:16x9/2026-03-09T100506Z-974078868-RC29UGASSZTE-RTRMADP-3-IRAN-CRISIS-TRUMP-BRITAIN-ROYALS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T02:54:03.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.070Z"
-        },
-        {
-          "id": "2026-04-26-55b66b53",
-          "title": "\"Cinglé\", \"génie\", anti-Trump : ce que l'on sait du tireur suspect du gala de la presse",
-          "description": "L'assaillant armé qui a plongé dans le chaos le gala de l'association des correspondants accrédités à la Maison Blanche, auquel assistait le président américain, a été identifié dimanche par des médias américains comme étant un ingénieur en mécanique de 31 ans originaire de Californie. Il va être présenté lundi à la justice.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260426-ce-que-l-on-sait-du-suspect-arr%C3%AAt%C3%A9-apr%C3%A8s-les-tirs-lors-du-gala-de-la-presse-%C3%A0-washington-cole-tomas-allen",
-          "imageUrl": "https://s.france24.com/media/display/b46ac2a6-4152-11f1-8c00-005056bf30b7/w:1024/p:16x9/AR-20260426-110205-110409-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-26T20:43:52.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.070Z"
-        },
-        {
-          "id": "2026-04-26-b1d73b80",
-          "title": "Coups de feu au gala de la presse à Washington : ce que l’on sait de l’homme suspecté d’avoir tiré",
-          "description": "Donald Trump l’a décrit comme « une personne très perturbée ». Le président américain a aussi estimé que les enquêteurs disposaient d’« informations assez solides », évoquant une « haine ancienne » et une motivation qu’il a qualifiée de « religieuse ».",
-          "url": "https://www.lemonde.fr/international/article/2026/04/26/coups-de-feu-au-gala-de-la-presse-a-washington-ce-que-l-on-sait-de-l-homme-suspecte-d-avoir-tire_6683458_3211.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-26T16:23:13.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.090Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-10",
-      "topic": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-27-487b2604",
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "description": "Le dirigeant nord-coréen, Kim Jong-un, a reçu à Pyongyang le ministre de la défense russe, Andreï Belooussov, et le président de la Douma, Viatcheslav Volodine, réaffirmant son soutien dans « cette guerre sacrée et juste »",
-          "url": "https://www.lemonde.fr/international/live/2026/04/27/en-direct-guerre-en-ukraine-le-dirigeant-nord-coreen-kim-jong-un-reaffirme-a-la-russie-son-soutien-dans-cette-guerre-sacree-et-juste_6683420_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T03:50:30.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.090Z"
-        },
-        {
-          "id": "2026-04-27-f2ff6a4c",
-          "title": "En Ukraine, le difficile retour des prisonniers de guerre libérés",
-          "description": "Les échanges de prisonniers représentent sans doute la seule forme de coopération encore fructueuse entre la Russie et l’Ukraine : les deux pays en ont organisé plus de 70 depuis le début de la guerre. Mais, pour les rapatriés, la libération est le début d’un nouveau combat, analyse le journal autrichien “Wiener Zeitung” : ils doivent réapprendre à vivre normalement.",
-          "url": "https://www.courrierinternational.com/article/reportage-en-ukraine-le-difficile-retour-des-prisonniers-de-guerre-liberes_242894",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/22/21/16/2343/1562/1200/630/60/0/822e593_upload-1-wxltxfjb12qk-kazanevsky-2016-09-25-4622-w.jpg",
+          "id": "2026-04-28-89869069",
+          "title": "Après l’attaque à Washington, la Maison-Blanche accuse la gauche et les médias",
+          "description": "Alors qu’un tribunal fédéral de Washington a inculpé lundi le tireur présumé pour tentative d’assassinat sur le président américain, l’administration républicaine a estimé que l’opposition démocrate et les médias avaient alimenté ce type de violences en “diabolisant” Donald Trump.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-apres-l-attaque-a-washington-la-maison-blanche-accuse-la-gauche-et-les-medias_243431",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/27/0/0/3067/2044/1200/630/60/0/08fd66f_ftp-1-poehvhns8omx-2026-04-27t181605z-1757453096-rc2txkasr4op-rtrmadp-3-usa-trump.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-27T03:00:26.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.634Z"
+          "publishedAt": "2026-04-28T03:59:59.000Z",
+          "fetchedAt": "2026-04-28T04:29:05.360Z"
         },
         {
-          "id": "2026-04-26-af57eee7",
-          "title": "Ukraine : 40 ans après Tchernobyl, une centrale dans la guerre",
-          "description": "Emmanuelle Galichet, enseignante-chercheure en physique nucléaire, est nitre invitée.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260426-ukraine-40-ans-apr%C3%A8s-tchernobyl-une-centrale-dans-la-guerre",
-          "imageUrl": "https://s.france24.com/media/display/dc6a23c4-416a-11f1-a80e-005056a97e36/w:1024/p:16x9/FR-20260426-131853-132602-CS.jpg",
+          "id": "2026-04-28-85f22ff6",
+          "title": "États-Unis: le tireur du dîner des correspondants de la Maison Blanche inculpé de «tentative d'assassinat» contre Donald Trump",
+          "description": "Accusé d'être l'auteur des coups de feu tirés dans l'hôtel où se déroulait le dîner des correspondants de la Maison Blanche samedi soir, Cole Allen a été présenté à un juge qui l'a formellement inculpé de « tentative d'assassinat » contre le président et d'« usage illégal d'armes à feu ». Il encourt une peine de prison à vie.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260428-%C3%A9tats-unis-le-tireur-du-d%C3%AEner-des-correspondants-de-la-maison-blanche-inculp%C3%A9-de-tentative-d-assassinat-contre-donald-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/041e9312-42ad-11f1-b7f2-005056bf30b7/w:1024/p:16x9/2026-04-27T170303Z-557619832-RC2TXKAVJ8EC-RTRMADP-3-USA-TRUMP-DINNER-SUSPECT.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-28T02:56:51.000Z",
+          "fetchedAt": "2026-04-28T04:29:21.293Z"
+        },
+        {
+          "id": "2026-04-27-bc6dfd92",
+          "title": "Aux Etats-Unis, deux projets éoliens offshore impliquant Engie stoppés par l’administration Trump",
+          "description": "Le ministère de l’intérieur a annoncé l’abandon de Bluepoint Wind, au large des côtes du New Jersey et New York, et de Golden State Wind, au large des côtes californiennes. Ces programmes devaient fournir plus de deux millions de foyers en électricité.",
+          "url": "https://www.lemonde.fr/planete/article/2026/04/28/aux-etats-unis-deux-projets-eoliens-offshore-impliquant-engie-stoppes-par-l-administration-trump_6683720_3244.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T23:47:41.000Z",
+          "fetchedAt": "2026-04-28T04:29:04.783Z"
+        },
+        {
+          "id": "2026-04-27-5f3e8fcf",
+          "title": "Charles III reçu par Donald Trump à la Maison Blanche sur fond de désaccord sur la guerre en Iran",
+          "description": "Le monarque britannique a commencé, lundi, une visite d’Etat censée célébrer les liens entre les deux pays, 250 ans après l’indépendance des Etats-Unis.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/28/charles-iii-recu-par-donald-trump-a-la-maison-blanche-sur-fond-de-desaccord-sur-la-guerre-en-iran_6683685_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T22:38:39.000Z",
+          "fetchedAt": "2026-04-28T04:29:04.783Z"
+        },
+        {
+          "id": "2026-04-27-e0434510",
+          "title": "Tirs au dîner des correspondants : une attaque mise en scène par la Maison Blanche ?",
+          "description": "Samedi, un homme a tenté de s’introduire dans la salle du gala annuel de la presse à Washington. Selon la Maison Blanche, son intention était de viser Donald Trump et plusieurs responsables de son administration. Comme pour les précédentes tentatives d'assassinat contre le Président américain, l'attaque a généré une vague de complotisme sur la toile. Certains affirment que Karoline Leavitt savait que des tirs auraient lieu, d'autres que JD Vance a été volontairement évacué avant Donald Trump.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260427-tirs-au-d%C3%AEner-des-correspondants-une-attaque-mise-en-sc%C3%A8ne-par-la-maison-blanche",
+          "imageUrl": "https://s.france24.com/media/display/57884202-4279-11f1-bb27-005056a90284/w:1024/p:16x9/Francais-2026-04-27T20-19-36-916Z.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-26T12:39:58.000Z",
-          "fetchedAt": "2026-04-27T06:41:08.070Z"
+          "publishedAt": "2026-04-27T21:27:15.000Z",
+          "fetchedAt": "2026-04-28T04:29:04.665Z"
+        },
+        {
+          "id": "2026-04-27-10f7fb9d",
+          "title": "L’attaque au Hilton, un sombre avertissement pour la sécurité du gouvernement Trump",
+          "description": "Du président au vice-président, en passant par des membres du cabinet, presque tout le gratin du gouvernement américain était présent au dîner de gala à l’hôtel Hilton de Washington, le 25 avril, où un homme a tiré sans faire de victimes. Un test grandeur nature de sécurité qui aurait pu beaucoup plus mal tourner, souligne “The Atlantic”.",
+          "url": "https://www.courrierinternational.com/article/analyse-l-attaque-au-hilton-un-sombre-avertissement-pour-la-securite-du-gouvernement-trump_243394",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/26/0/0/4999/3333/1200/630/60/0/66b4afa_ftp-1-olyj1nl8wlcz-trump-dinner-security.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T15:54:55.000Z",
+          "fetchedAt": "2026-04-28T04:29:05.360Z"
         }
       ]
     },
     {
-      "id": "cluster-14",
-      "topic": "Cryptomonnaie : derrière le rapt d’une magistrate, un commando de jeunes Lyonnai",
-      "category": "tech",
+      "id": "cluster-6",
+      "topic": "En Indonésie, 14 morts dans une collision entre deux trains près de Djakarta",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-26-398f5666",
-          "title": "Cryptomonnaie : derrière le rapt d’une magistrate, un commando de jeunes Lyonnais et un mystérieux commanditaire numérique",
-          "description": "Agés de 17 à 20 ans, les cinq participants présumés à la séquestration d’une magistrate de l’Isère et de sa mère, en février, ont été recrutés dans la banlieue lyonnaise via Telegram. Leur insaisissable commanditaire apparaît dans plusieurs autres affaires de chantage à la cryptomonnaie.",
-          "url": "https://www.lemonde.fr/societe/article/2026/04/26/cryptomonnaie-derriere-le-rapt-d-une-magistrate-un-commando-de-jeunes-lyonnais-et-un-mysterieux-commanditaire-numerique_6683462_3224.html",
+          "id": "2026-04-28-e955cbfa",
+          "title": "En Indonésie, 14 morts dans une collision entre deux trains près de Djakarta",
+          "description": "Un train grandes lignes a percuté la dernière voiture d’un train de banlieue lundi, en fin de journée, près de la gare de Bekasi Timur, à 25 kilomètres à l’est de la capitale indonésienne. Plus de 80 personnes sont blessées, selon la compagnie des chemins de fer KAI.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/28/en-indonesie-14-morts-dans-une-collision-entre-deux-trains-pres-de-djakarta_6683861_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-04-26T12:26:17.000Z",
-          "fetchedAt": "2026-04-27T06:41:24.413Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-28T03:31:21.000Z",
+          "fetchedAt": "2026-04-28T04:29:04.783Z"
         },
         {
-          "id": "2026-04-26-d64a9f1e",
-          "title": "Les meilleurs films de zombies à voir au moins une fois dans votre vie",
-          "description": "Oubliez les cadavres qui traînent la patte. Le genre zombie a muté. Aujourd’hui, il court, il saute, il nous filme de l'intérieur et il nous fait même bien rire entre deux démembrements. Des couloirs sombres de Barcelone aux gares bondées de Corée, voici les films qui ont redéfini la fin du monde, dans ce guide pour découvrir les meilleurs films de zombies.",
-          "url": "https://www.numerama.com/pop-culture/2239273-les-meilleurs-films-de-zombies-a-voir-au-moins-une-fois-dans-votre-vie.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/dawn-of-the-dead-romero-director-dead-06fb0129-5072-40d5-a62e-449045797cd2.jpg?resize=1600,900&key=25459f9c&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-26T10:00:00.000Z",
-          "fetchedAt": "2026-04-27T06:41:24.468Z"
+          "id": "2026-04-28-7d5074ff",
+          "title": "« Pour nous, adhérer à l’UE n’est pas un rêve mais une stratégie de survie en tant qu’Etat démocratique », clame la présidente moldave, Maia Sandu",
+          "description": "La cheffe d’Etat milite pour une intégration européenne de la Moldavie, de l’Ukraine et des Balkans occidentaux, afin de résister à la pression russe. Elle évoque aussi l’idée d’une réunification de son pays avec la Roumanie pour accélérer le processus.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/28/pour-nous-adherer-a-l-ue-n-est-pas-un-reve-mais-une-strategie-de-survie-en-tant-qu-etat-democratique-clame-la-presidente-moldave-maia-sandu_6683823_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-28T03:00:12.000Z",
+          "fetchedAt": "2026-04-28T04:29:04.783Z"
         },
         {
-          "id": "2026-04-25-eaed4875",
-          "title": "Une voiture sur cinq était électrique en mars en Europe : une croissance visible enfin dans tous les pays",
-          "description": "Tous les pays européens affichent des immatriculations de véhicules électriques en hausse, enfin, tous sauf deux. Sur le mois de mars, la voiture électrique affiche même une croissance insolente de 48,9 % dans l’Union européenne.",
-          "url": "https://www.numerama.com/vroom/2240665-une-voiture-sur-cinq-etait-electrique-en-mars-en-europe-une-croissance-visible-enfin-dans-tous-les-pays.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/bev-en-europe1-1.jpg?resize=1600,900&key=372701bc&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-25T12:02:00.000Z",
-          "fetchedAt": "2026-04-27T06:41:24.468Z"
+          "id": "2026-04-28-4bca6370",
+          "title": "Le Parlement européen se prononce à nouveau sur une définition commune du viol dans l'UE",
+          "description": "Un texte visant à introduire la notion de consentement dans la législation sur le viol des 27 États membres de l’Union européenne doit être soumis au vote des eurodéputés, ce mardi 28 avril, à Strasbourg. Si une proposition similaire a déjà été adoptée par l'institution il y a deux ans, celle-ci avait ensuite été bloquée par plusieurs pays - dont la France - au niveau du Conseil européen.",
+          "url": "https://www.rfi.fr/fr/europe/20260428-le-parlement-europ%C3%A9en-se-prononce-%C3%A0-nouveau-sur-une-d%C3%A9finition-commune-du-viol-dans-l-ue",
+          "imageUrl": "https://s.rfi.fr/media/display/d33d6dfa-f62f-11f0-ae0a-005056a90284/w:1024/p:16x9/2026-01-20T122257Z-1696151045-RC2Z4JA0RZT8-RTRMADP-3-EU-PARLIAMENT.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-28T02:57:29.000Z",
+          "fetchedAt": "2026-04-28T04:29:21.293Z"
         },
         {
-          "id": "2026-04-25-338359b4",
-          "title": "Les propriétaires d’une Switch 2 vont pouvoir découvrir l’un des meilleurs MMORPG",
-          "description": "Square Enix a officialisé l'arrivée d'une version Switch 2 pour Final Fantasy XIV, son MMORPG particulièrement populaire. Elle nécessitera un abonnement à part.",
-          "url": "https://www.numerama.com/pop-culture/2240779-les-proprietaires-dune-switch-2-vont-pouvoir-decouvrir-lun-des-meilleurs-mmorpg.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/capture-decran-2026-04-25-a-103906.jpg?resize=1600,900&key=576dacc4&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-25T08:46:15.000Z",
-          "fetchedAt": "2026-04-27T06:41:24.468Z"
+          "id": "2026-04-27-250ae08b",
+          "title": "Taylor Swift veut faire de sa voix une marque déposée, sur fond de déferlante des contenus générés par l’IA",
+          "description": "La chanteuse a soumis deux empreintes sonores et une photo d’elle sur scène à l’United States Patent and Trademark Office (USPTO).",
+          "url": "https://www.lemonde.fr/pixels/article/2026/04/28/taylor-swift-veut-faire-de-sa-voix-une-marque-deposee-sur-fond-de-deferlante-des-contenus-generes-par-l-ia_6683687_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T23:15:01.000Z",
+          "fetchedAt": "2026-04-28T04:29:04.783Z"
+        },
+        {
+          "id": "2026-04-27-6c5f8893",
+          "title": "Au Nigeria, une trentaine de personnes tuées dans une attaque revendiquée par un groupe djihadiste",
+          "description": "Des hommes armés ont fait irruption dimanche à Guyaku, dans le nord-est du pays. Le gouverneur a attribué l’attaque à Boko Haram, mais un groupe rival, l’Etat islamique en Afrique de l’Ouest (Iswap), a affirmé en être l’auteur.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/04/28/au-nigeria-une-trentaine-de-personnes-tuees-dans-une-attaque_6683684_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T22:11:58.000Z",
+          "fetchedAt": "2026-04-28T04:29:04.783Z"
+        },
+        {
+          "id": "2026-04-27-a9f17c03",
+          "title": "Tirées par l'Europe, les dépenses militaires mondiales ont atteint un niveau record en 2025",
+          "description": "En 2025, les dépenses militaires mondiales ont atteint près de 2 900 milliards de dollars, en hausse d'environ 3% par rapport à 2024, selon le rapport annuel de l'Institut international de recherche sur la paix de Stockholm (Sipri) publié lundi 27 avril. L'Europe a vu ses dépenses augmenter drastiquement.",
+          "url": "https://www.rfi.fr/fr/europe/20260427-tir%C3%A9es-par-l-europe-les-d%C3%A9penses-militaires-mondiales-atteignent-un-niveau-record-en-2025",
+          "imageUrl": "https://s.rfi.fr/media/display/1e7651a8-425f-11f1-8fdf-005056bfb2b6/w:1024/p:16x9/AP26073246101739.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-27T20:35:50.000Z",
+          "fetchedAt": "2026-04-28T04:29:21.293Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Oil prices rise as US-Iran peace talks stall",
-      "category": "eco",
-      "importance": 8,
+      "topic": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "category": "tech",
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-04-27-621c5fb1",
-          "title": "Oil prices rise as US-Iran peace talks stall",
-          "description": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
-          "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8fd6/live/a68c34a0-41d2-11f1-adaa-197daed18477.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-04-27T06:03:29.000Z",
-          "fetchedAt": "2026-04-27T06:41:33.232Z"
-        },
+          "id": "2026-04-28-687c479c",
+          "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+          "description": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one.\nThe Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \n\"Elon Musk is a greedy, racist, homophobic piece of garbage.\"\n\"Elon Musk is a world-class jerk.\"\n\"I very much dislike Tesla. As a woman of color, I am very aware of the damaging statements and actions Elon Musk has enacted and been a part of.\"\nM …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-04-28T03:39:33.000Z",
+          "fetchedAt": "2026-04-28T04:29:31.171Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "My tenant owes £15,000 in rent, but I can't get them out of the property",
+      "category": "eco",
+      "importance": 7,
+      "articles": [
         {
-          "id": "2026-04-26-518e6aee",
-          "title": "Higher prices could last for eight months after Iran war, minister says",
-          "description": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
-          "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e770/live/74d53e30-414f-11f1-9d1f-0d69b57ee6a5.jpg",
+          "id": "2026-04-27-5cdf5147",
+          "title": "My tenant owes £15,000 in rent, but I can't get them out of the property",
+          "description": "Landlords tell BBC News why they fear new laws could make it harder to remove problematic tenants.",
+          "url": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/31ab/live/95286fc0-3d96-11f1-bd52-e755d604ece4.png",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-26T13:58:54.000Z",
-          "fetchedAt": "2026-04-27T06:41:33.232Z"
+          "publishedAt": "2026-04-27T23:56:45.000Z",
+          "fetchedAt": "2026-04-28T04:29:36.314Z"
         }
       ]
     }
