@@ -1,231 +1,220 @@
 {
-  "generatedAt": "2026-04-28T04:33:05.074Z",
+  "generatedAt": "2026-04-29T04:27:58.509Z",
   "clusterCount": 5,
   "clusters": [
     {
+      "id": "cluster-1",
+      "topic": "« Une terre pour tous », un plan de paix israélo-palestinien en rupture avec la ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-04-29-4791d2cb",
+          "title": "« Une terre pour tous », un plan de paix israélo-palestinien en rupture avec la solution à deux Etats",
+          "description": "Le mouvement « A Land for All » plaide en faveur de l’instauration, entre la mer et le Jourdain, d’un système confédéral, fondé sur deux entités étatiques mais une seule patrie, où les deux peuples disposeraient d’une totale liberté de circulation et de résidence.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/29/une-terre-pour-tous-un-plan-de-paix-israelo-palestinien-en-rupture-avec-la-solution-a-deux-etats_6684090_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-29T04:15:52.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
+        },
+        {
+          "id": "2026-04-29-3fd46225",
+          "title": "Le « profiteur de guerre », une figure honnie qui interroge les limites morales du capitalisme",
+          "description": "Si les bénéfices engrangés durant les conflits ont de tout temps suscité opprobre et suspicion, c’est la première guerre mondiale, conflit industriel et « total », qui a donné à l’expression sa portée politique et conduit à la taxation des « surprofits ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/04/29/le-profiteur-de-guerre-une-figure-honnie-qui-interroge-les-limites-morales-du-capitalisme_6684083_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-29T04:00:28.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
+        },
+        {
+          "id": "2026-04-29-4adf3d25",
+          "title": "Au Mali, djihadistes et indépendantistes accentuent la pression sur la junte : « A partir d’aujourd’hui, nous bloquons Bamako »",
+          "description": "Les djihadistes du GSIM ont annoncé, mardi, le « siège total » de la capitale. Au nord, au moins cinq localités sont tombées aux mains des assaillants. « La situation est maîtrisée », a assuré de son côté le président, Assimi Goïta.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/04/29/au-mali-djihadistes-et-independantistes-accentuent-la-pression-sur-la-junte-a-partir-d-aujourd-hui-nous-bloquons-bamako_6684074_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-29T03:15:01.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
+        },
+        {
+          "id": "2026-04-29-b7cbfd4b",
+          "title": "RDC-AFC/M23: malgré les engagements de Montreux, aucun détenu n’a été libéré dans le délai imparti",
+          "description": "Le 28 avril, date limite fixée à l’issue des négociations de Montreux, est passé sans qu’aucune libération n’ait eu lieu. Ni du côté de l’AFC/M23, ni du côté du gouvernement congolais. Trois cent onze détenus retenus par la rébellion, cent soixante-six côté gouvernemental. Les listes étaient établies, les protocoles signés, le facilitateur désigné. Et pourtant.",
+          "url": "https://www.rfi.fr/fr/afrique/20260429-rdc-afc-m23-malgr%C3%A9-les-engagements-de-montreux-aucun-d%C3%A9tenu-n-a-%C3%A9t%C3%A9-lib%C3%A9r%C3%A9-dans-le-d%C3%A9lai-imparti",
+          "imageUrl": "https://s.rfi.fr/media/display/8ed8b7de-4330-11f1-9094-005056a97e36/w:1024/p:16x9/000-468L9C9.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-29T03:00:02.000Z",
+          "fetchedAt": "2026-04-29T04:24:07.401Z"
+        },
+        {
+          "id": "2026-04-29-148d3e90",
+          "title": "Le Kosovo échoue encore à élire un président et doit organiser de nouvelles élections législatives",
+          "description": "Le vote au Parlement pour élire le chef de l’Etat n’a pas pu avoir lieu, lundi, faute d’un quorum des deux tiers des députés, à cause du boycott de l’opposition. Les électeurs vont être appelés aux urnes pour des législatives, pour la troisième fois en un peu plus d’un an.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/29/le-kosovo-echoue-encore-a-elire-un-president-et-doit-organiser-de-nouvelles-elections-legislatives_6684062_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-29T00:24:25.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
+        },
+        {
+          "id": "2026-04-28-6664887d",
+          "title": "Mondial 2026 : les joueurs couvrant leur bouche pendant une altercation recevront un carton rouge",
+          "description": "\"Tout joueur se couvrant la bouche lors d’une confrontation avec un adversaire pourra être sanctionné d’un carton rouge\" et exclu du terrain, a écrit la Fifa mardi dans un communiqué. Cette règle, qui vise à  endiguer les débordements racistes, sera introduite lors de la Coupe du monde au Canada, États-Unis et Mexique, du 11 juin au 19 juillet.",
+          "url": "https://www.france24.com/fr/sports/20260428-mondial-2026-fifa-joueurs-couvrant-bouche-pendant-altercation-recevront-carton-rouge-racisme",
+          "imageUrl": "https://s.france24.com/media/display/dc9bfcec-4349-11f1-a2d4-005056bfb2b6/w:1024/p:16x9/AP26063682920023.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-28T21:38:32.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.891Z"
+        }
+      ]
+    },
+    {
       "id": "cluster-2",
-      "topic": "La Russie, alliée incertaine de la junte malienne menacée par l’offensive djihad",
+      "topic": "Le roi Charles III appelle les Etats-Unis à ne pas céder au repli sur soi lors d",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-28-0dafe38b",
-          "title": "La Russie, alliée incertaine de la junte malienne menacée par l’offensive djihadiste",
-          "description": "Dimanche 26 avril, après la prise de Kidal par les rebelles du Font de libération de l’Azawad, au moins 400 paramilitaires d’Africa Corps, nouveau groupe russe au Mali après la dissolution de Wagner, ont été évacués sous escorte de la ville.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/04/28/la-russie-alliee-incertaine-de-la-junte-malienne-menacee-par-l-offensive-djihadiste_6683869_3212.html",
+          "id": "2026-04-29-faa0da21",
+          "title": "Le roi Charles III appelle les Etats-Unis à ne pas céder au repli sur soi lors d’un discours au Congrès à Washington",
+          "description": "Tout en gardant un ton consensuel, le souverain britannique a jugé « nécessaire » une « détermination inflexible » à défendre l’Ukraine et rappelé l’importance de l’Etat de droit et de la défense de l’environnement.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/29/le-roi-charles-iii-appelle-les-etats-unis-a-ne-pas-ceder-au-repli-sur-soi-lors-d-un-discours-au-congres-a-washington_6684089_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-28T04:00:31.000Z",
-          "fetchedAt": "2026-04-28T04:29:04.783Z"
+          "publishedAt": "2026-04-29T04:15:07.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
         },
         {
-          "id": "2026-04-27-a250a0f0",
-          "title": "Alliance Jnim-FLA, junte fragilisée, départ de mercenaires russes : que se passe-t-il au Mali ?",
-          "description": "Après une série d'attaques coordonnées sans précédent, menées samedi à travers le pays par des jihadistes du Jnim et des rebelles indépendantistes touareg du FLA, le Mali est plongé dans l’incertitude. Que sait-on de la situation sur le terrain ? Quels sont les intérêts communs des deux groupes ? Pourquoi est-ce un coup dur pour le régime malien ? Décryptage.",
-          "url": "https://www.france24.com/fr/afrique/20260427-mali-alliance-jnim-fla-junte-fragilisee-depart-mercenaires-russes-iafrica-corps-touareg-jihadistes",
-          "imageUrl": "https://s.france24.com/media/display/b6167316-4224-11f1-bbdb-005056bf30b7/w:1024/p:16x9/000-A92J2CE.jpg",
-          "source": "France 24",
+          "id": "2026-04-29-dd52d2ec",
+          "title": "Minsk libère le journaliste polono-biélorusse Andrzej Poczobut dans le cadre d’un échange de prisonniers coordonné avec les Etats-Unis",
+          "description": "Andrzej Poczobut, lauréat du Prix Sakharov 2025, a été relâché mardi, de même que neuf autres prisonniers dans le cadre d’un échange négocié sous l’égide de Washington, entre la Pologne, la Moldavie, la Russie et la Biélorussie.",
+          "url": "https://www.lemonde.fr/international/article/2026/04/29/minsk-libere-le-journaliste-polono-bielorusse-andrzej-poczobut-dans-le-cadre-d-un-echange-de-prisonniers-coordonne-avec-les-etats-unis_6684088_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-27T16:57:33.000Z",
-          "fetchedAt": "2026-04-28T04:29:04.665Z"
+          "publishedAt": "2026-04-29T04:00:45.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
         },
         {
-          "id": "2026-04-27-af8065c2",
-          "title": "Derrière les attaques au Mali, Moscou voit une manœuvre occidentale",
-          "description": "Au Mali, la situation politique intérieure restait peu lisible, lundi 27 avril. Les attaques des djihadistes du GSIM et des rebelles touareg survenues le week-end ont constitué un revers pour l’Africa Corps, la force militaire russe intervenant en renfort du régime militaire. En Russie, le récit des événements repose sur les communications de cette structure paramilitaire qui incrimine l’Occident.",
-          "url": "https://www.courrierinternational.com/article/vu-de-russie-derriere-les-attaques-au-mali-moscou-voit-une-man-uvre-occidentale_243383",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/26/0/0/6000/4000/1200/630/60/0/b25a9e8_ftp-1-avvf2pmompit-afp-a92j2ce.jpg",
-          "source": "Courrier International",
+          "id": "2026-04-29-52398b74",
+          "title": "Le Ghana refuse un accord de santé avec les États-Unis sur fond de tensions autour des données",
+          "description": "Après plusieurs mois de négociations, le Ghana dit non à un accord sanitaire avec les États-Unis. En cause : des désaccords persistants sur le partage de données de santé. L’information, révélée mardi 28 avril 2026 par l’agence Reuters, s’appuie sur une source impliquée dans les discussions côté ghanéen. Un nouveau revers pour Washington, qui tente de redéfinir sa stratégie d’aide internationale.",
+          "url": "https://www.rfi.fr/fr/afrique/20260429-le-ghana-refuse-un-accord-de-sant%C3%A9-avec-les-%C3%A9tats-unis-sur-fond-de-tensions-autour-des-donn%C3%A9es",
+          "imageUrl": "https://s.rfi.fr/media/display/1ecef16c-4360-11f1-8d34-005056bfb2b6/w:1024/p:16x9/2026-04-28T095006Z-1099701019-RC2LZHAC7CAS-RTRMADP-3-USA-GHANA-HEALTH.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-27T16:26:23.000Z",
-          "fetchedAt": "2026-04-28T04:29:05.360Z"
+          "publishedAt": "2026-04-29T03:39:59.000Z",
+          "fetchedAt": "2026-04-29T04:24:07.401Z"
+        },
+        {
+          "id": "2026-04-29-a809645b",
+          "title": "Etats-Unis - Iran : la guerre dans l’impasse",
+          "description": "Plus d’une semaine après l’expiration officielle du cessez-le-feu entre l’Iran et les Etats-Unis, les deux parties ne sont pas parvenues se retrouver autour de la table des négociations. Quels sont les blocages et les issues possibles ? Explications et hypothèses, dans ce podcast, avec Piotr Smolar, correspondant du « Monde » aux Etats-unis.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/04/29/etats-unis-iran-la-guerre-dans-l-impasse_6684069_5463015.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-29T03:00:06.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
+        },
+        {
+          "id": "2026-04-28-42a7c5c1",
+          "title": "EN DIRECT, guerre en Ukraine : Charles III appelle les Etats-Unis à faire preuve d’une « détermination sans faille » aux côtés de Kiev",
+          "description": "Devant le Congrès américain, le souverain britannique a affirmé que le soutien des Etats-Unis à Kiev était nécessaire « afin d’obtenir une paix juste et durable ». Il a aussi exhorté les Américains à rester fidèles à leurs alliés occidentaux historiques.",
+          "url": "https://www.lemonde.fr/international/live/2026/04/29/en-direct-guerre-en-ukraine-charles-iii-appelle-les-etats-unis-a-faire-preuve-d-une-determination-sans-faille-aux-cotes-de-kiev_6683420_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-28T22:53:02.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
+        },
+        {
+          "id": "2026-04-28-640ecaa8",
+          "title": "Charles III s’adresse au Congrès américain, une première pour la royauté britannique depuis 1991",
+          "description": "Sur fond de tensions sur la guerre en Iran, le souverain a appelé les Etats-Unis à rester fidèles à leurs alliés occidentaux et à continuer à soutenir l’Ukraine.",
+          "url": "https://www.lemonde.fr/international/video/2026/04/29/charles-iii-s-adresse-au-congres-americain-une-premiere-pour-la-royaute-britannique-depuis-1991_6683995_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-04-28T22:04:07.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "Après l’attaque à Washington, la Maison-Blanche accuse la gauche et les médias",
+      "id": "cluster-14",
+      "topic": "Au Sénégal, une masculinité en souffrance : “Un homme n’a pas le droit de montre",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-28-89869069",
-          "title": "Après l’attaque à Washington, la Maison-Blanche accuse la gauche et les médias",
-          "description": "Alors qu’un tribunal fédéral de Washington a inculpé lundi le tireur présumé pour tentative d’assassinat sur le président américain, l’administration républicaine a estimé que l’opposition démocrate et les médias avaient alimenté ce type de violences en “diabolisant” Donald Trump.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-apres-l-attaque-a-washington-la-maison-blanche-accuse-la-gauche-et-les-medias_243431",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/27/0/0/3067/2044/1200/630/60/0/08fd66f_ftp-1-poehvhns8omx-2026-04-27t181605z-1757453096-rc2txkasr4op-rtrmadp-3-usa-trump.JPG",
+          "id": "2026-04-29-8298cb5b",
+          "title": "Au Sénégal, une masculinité en souffrance : “Un homme n’a pas le droit de montrer sa vulnérabilité”",
+          "description": "Étouffée par un poids social qui les empêche de montrer une quelconque vulnérabilité, la souffrance mentale des hommes est taboue. Pères, époux, soutiens de famille, le quotidien sénégalais “Le Soleil” est allé à la rencontre de ces hommes qui ne peuvent pas dire “Je vais mal”.",
+          "url": "https://www.courrierinternational.com/article/societe-au-senegal-une-masculinite-en-souffrance-un-homme-n-a-pas-le-droit-de-montrer-sa-vulnerabilite_243168",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/28/0/0/2400/1600/1200/630/60/0/b98df0d_upload-1-fevufye6ei0y-senegal-hajo.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-28T03:59:59.000Z",
-          "fetchedAt": "2026-04-28T04:29:05.360Z"
+          "publishedAt": "2026-04-29T03:00:09.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.976Z"
         },
         {
-          "id": "2026-04-28-85f22ff6",
-          "title": "États-Unis: le tireur du dîner des correspondants de la Maison Blanche inculpé de «tentative d'assassinat» contre Donald Trump",
-          "description": "Accusé d'être l'auteur des coups de feu tirés dans l'hôtel où se déroulait le dîner des correspondants de la Maison Blanche samedi soir, Cole Allen a été présenté à un juge qui l'a formellement inculpé de « tentative d'assassinat » contre le président et d'« usage illégal d'armes à feu ». Il encourt une peine de prison à vie.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260428-%C3%A9tats-unis-le-tireur-du-d%C3%AEner-des-correspondants-de-la-maison-blanche-inculp%C3%A9-de-tentative-d-assassinat-contre-donald-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/041e9312-42ad-11f1-b7f2-005056bf30b7/w:1024/p:16x9/2026-04-27T170303Z-557619832-RC2TXKAVJ8EC-RTRMADP-3-USA-TRUMP-DINNER-SUSPECT.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-28T02:56:51.000Z",
-          "fetchedAt": "2026-04-28T04:29:21.293Z"
-        },
-        {
-          "id": "2026-04-27-bc6dfd92",
-          "title": "Aux Etats-Unis, deux projets éoliens offshore impliquant Engie stoppés par l’administration Trump",
-          "description": "Le ministère de l’intérieur a annoncé l’abandon de Bluepoint Wind, au large des côtes du New Jersey et New York, et de Golden State Wind, au large des côtes californiennes. Ces programmes devaient fournir plus de deux millions de foyers en électricité.",
-          "url": "https://www.lemonde.fr/planete/article/2026/04/28/aux-etats-unis-deux-projets-eoliens-offshore-impliquant-engie-stoppes-par-l-administration-trump_6683720_3244.html",
+          "id": "2026-04-28-d297cef7",
+          "title": "Madagascar réclame l’expulsion d’un agent attaché à l’ambassade de France",
+          "description": "L’épisode fait suite à la diffusion sur les réseaux sociaux d’accusations de tentative de déstabilisation visant la France. Des rumeurs démenties par Paris.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/04/28/madagascar-reclame-l-expulsion-d-un-agent-attache-a-l-ambassade-de-france_6683987_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-27T23:47:41.000Z",
-          "fetchedAt": "2026-04-28T04:29:04.783Z"
-        },
-        {
-          "id": "2026-04-27-5f3e8fcf",
-          "title": "Charles III reçu par Donald Trump à la Maison Blanche sur fond de désaccord sur la guerre en Iran",
-          "description": "Le monarque britannique a commencé, lundi, une visite d’Etat censée célébrer les liens entre les deux pays, 250 ans après l’indépendance des Etats-Unis.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/28/charles-iii-recu-par-donald-trump-a-la-maison-blanche-sur-fond-de-desaccord-sur-la-guerre-en-iran_6683685_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T22:38:39.000Z",
-          "fetchedAt": "2026-04-28T04:29:04.783Z"
-        },
-        {
-          "id": "2026-04-27-e0434510",
-          "title": "Tirs au dîner des correspondants : une attaque mise en scène par la Maison Blanche ?",
-          "description": "Samedi, un homme a tenté de s’introduire dans la salle du gala annuel de la presse à Washington. Selon la Maison Blanche, son intention était de viser Donald Trump et plusieurs responsables de son administration. Comme pour les précédentes tentatives d'assassinat contre le Président américain, l'attaque a généré une vague de complotisme sur la toile. Certains affirment que Karoline Leavitt savait que des tirs auraient lieu, d'autres que JD Vance a été volontairement évacué avant Donald Trump.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260427-tirs-au-d%C3%AEner-des-correspondants-une-attaque-mise-en-sc%C3%A8ne-par-la-maison-blanche",
-          "imageUrl": "https://s.france24.com/media/display/57884202-4279-11f1-bb27-005056a90284/w:1024/p:16x9/Francais-2026-04-27T20-19-36-916Z.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T21:27:15.000Z",
-          "fetchedAt": "2026-04-28T04:29:04.665Z"
-        },
-        {
-          "id": "2026-04-27-10f7fb9d",
-          "title": "L’attaque au Hilton, un sombre avertissement pour la sécurité du gouvernement Trump",
-          "description": "Du président au vice-président, en passant par des membres du cabinet, presque tout le gratin du gouvernement américain était présent au dîner de gala à l’hôtel Hilton de Washington, le 25 avril, où un homme a tiré sans faire de victimes. Un test grandeur nature de sécurité qui aurait pu beaucoup plus mal tourner, souligne “The Atlantic”.",
-          "url": "https://www.courrierinternational.com/article/analyse-l-attaque-au-hilton-un-sombre-avertissement-pour-la-securite-du-gouvernement-trump_243394",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/26/0/0/4999/3333/1200/630/60/0/66b4afa_ftp-1-olyj1nl8wlcz-trump-dinner-security.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T15:54:55.000Z",
-          "fetchedAt": "2026-04-28T04:29:05.360Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "En Indonésie, 14 morts dans une collision entre deux trains près de Djakarta",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-28-e955cbfa",
-          "title": "En Indonésie, 14 morts dans une collision entre deux trains près de Djakarta",
-          "description": "Un train grandes lignes a percuté la dernière voiture d’un train de banlieue lundi, en fin de journée, près de la gare de Bekasi Timur, à 25 kilomètres à l’est de la capitale indonésienne. Plus de 80 personnes sont blessées, selon la compagnie des chemins de fer KAI.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/28/en-indonesie-14-morts-dans-une-collision-entre-deux-trains-pres-de-djakarta_6683861_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-28T03:31:21.000Z",
-          "fetchedAt": "2026-04-28T04:29:04.783Z"
-        },
-        {
-          "id": "2026-04-28-7d5074ff",
-          "title": "« Pour nous, adhérer à l’UE n’est pas un rêve mais une stratégie de survie en tant qu’Etat démocratique », clame la présidente moldave, Maia Sandu",
-          "description": "La cheffe d’Etat milite pour une intégration européenne de la Moldavie, de l’Ukraine et des Balkans occidentaux, afin de résister à la pression russe. Elle évoque aussi l’idée d’une réunification de son pays avec la Roumanie pour accélérer le processus.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/28/pour-nous-adherer-a-l-ue-n-est-pas-un-reve-mais-une-strategie-de-survie-en-tant-qu-etat-democratique-clame-la-presidente-moldave-maia-sandu_6683823_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-28T03:00:12.000Z",
-          "fetchedAt": "2026-04-28T04:29:04.783Z"
-        },
-        {
-          "id": "2026-04-28-4bca6370",
-          "title": "Le Parlement européen se prononce à nouveau sur une définition commune du viol dans l'UE",
-          "description": "Un texte visant à introduire la notion de consentement dans la législation sur le viol des 27 États membres de l’Union européenne doit être soumis au vote des eurodéputés, ce mardi 28 avril, à Strasbourg. Si une proposition similaire a déjà été adoptée par l'institution il y a deux ans, celle-ci avait ensuite été bloquée par plusieurs pays - dont la France - au niveau du Conseil européen.",
-          "url": "https://www.rfi.fr/fr/europe/20260428-le-parlement-europ%C3%A9en-se-prononce-%C3%A0-nouveau-sur-une-d%C3%A9finition-commune-du-viol-dans-l-ue",
-          "imageUrl": "https://s.rfi.fr/media/display/d33d6dfa-f62f-11f0-ae0a-005056a90284/w:1024/p:16x9/2026-01-20T122257Z-1696151045-RC2Z4JA0RZT8-RTRMADP-3-EU-PARLIAMENT.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-28T02:57:29.000Z",
-          "fetchedAt": "2026-04-28T04:29:21.293Z"
-        },
-        {
-          "id": "2026-04-27-250ae08b",
-          "title": "Taylor Swift veut faire de sa voix une marque déposée, sur fond de déferlante des contenus générés par l’IA",
-          "description": "La chanteuse a soumis deux empreintes sonores et une photo d’elle sur scène à l’United States Patent and Trademark Office (USPTO).",
-          "url": "https://www.lemonde.fr/pixels/article/2026/04/28/taylor-swift-veut-faire-de-sa-voix-une-marque-deposee-sur-fond-de-deferlante-des-contenus-generes-par-l-ia_6683687_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T23:15:01.000Z",
-          "fetchedAt": "2026-04-28T04:29:04.783Z"
-        },
-        {
-          "id": "2026-04-27-6c5f8893",
-          "title": "Au Nigeria, une trentaine de personnes tuées dans une attaque revendiquée par un groupe djihadiste",
-          "description": "Des hommes armés ont fait irruption dimanche à Guyaku, dans le nord-est du pays. Le gouverneur a attribué l’attaque à Boko Haram, mais un groupe rival, l’Etat islamique en Afrique de l’Ouest (Iswap), a affirmé en être l’auteur.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/04/28/au-nigeria-une-trentaine-de-personnes-tuees-dans-une-attaque_6683684_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T22:11:58.000Z",
-          "fetchedAt": "2026-04-28T04:29:04.783Z"
-        },
-        {
-          "id": "2026-04-27-a9f17c03",
-          "title": "Tirées par l'Europe, les dépenses militaires mondiales ont atteint un niveau record en 2025",
-          "description": "En 2025, les dépenses militaires mondiales ont atteint près de 2 900 milliards de dollars, en hausse d'environ 3% par rapport à 2024, selon le rapport annuel de l'Institut international de recherche sur la paix de Stockholm (Sipri) publié lundi 27 avril. L'Europe a vu ses dépenses augmenter drastiquement.",
-          "url": "https://www.rfi.fr/fr/europe/20260427-tir%C3%A9es-par-l-europe-les-d%C3%A9penses-militaires-mondiales-atteignent-un-niveau-record-en-2025",
-          "imageUrl": "https://s.rfi.fr/media/display/1e7651a8-425f-11f1-8fdf-005056bfb2b6/w:1024/p:16x9/AP26073246101739.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-27T20:35:50.000Z",
-          "fetchedAt": "2026-04-28T04:29:21.293Z"
+          "publishedAt": "2026-04-28T19:00:41.000Z",
+          "fetchedAt": "2026-04-29T04:23:57.773Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "topic": "Au procès OpenAI, Elon Musk dresse son autoportrait en bienfaiteur de l’humanité",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-04-28-687c479c",
-          "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-          "description": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one.\nThe Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires: \n\"Elon Musk is a greedy, racist, homophobic piece of garbage.\"\n\"Elon Musk is a world-class jerk.\"\n\"I very much dislike Tesla. As a woman of color, I am very aware of the damaging statements and actions Elon Musk has enacted and been a part of.\"\nM …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-04-29-f5ee169c",
+          "title": "Au procès OpenAI, Elon Musk dresse son autoportrait en bienfaiteur de l’humanité",
+          "description": "Le patron de Tesla et SpaceX accuse Sam Altman d’avoir détourné la fondation à but non lucratif qu’ils avaient fondée en 2015. Interrogé mardi, il a mis en garde : « L’IA peut guérir toutes les maladies et rendre tout le monde prospère, mais elle peut aussi nous tuer tous. »",
+          "url": "https://www.lemonde.fr/economie/article/2026/04/29/au-proces-openai-elon-musk-dresse-son-autoportrait-en-bienfaiteur-de-l-humanite_6684076_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-04-28T03:39:33.000Z",
-          "fetchedAt": "2026-04-28T04:29:31.171Z"
+          "publishedAt": "2026-04-29T03:44:50.000Z",
+          "fetchedAt": "2026-04-29T04:24:07.372Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "My tenant owes £15,000 in rent, but I can't get them out of the property",
+      "id": "cluster-5",
+      "topic": "A fresh financial crisis may be coming - it won't play out like the last one",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-04-27-5cdf5147",
-          "title": "My tenant owes £15,000 in rent, but I can't get them out of the property",
-          "description": "Landlords tell BBC News why they fear new laws could make it harder to remove problematic tenants.",
-          "url": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/31ab/live/95286fc0-3d96-11f1-bd52-e755d604ece4.png",
+          "id": "2026-04-28-7ff6b30b",
+          "title": "A fresh financial crisis may be coming - it won't play out like the last one",
+          "description": "Several warning lights are flashing that have some wondering whether we are in the foothills of another financial crisis.",
+          "url": "https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/16fb/live/1782a5f0-430d-11f1-ac78-2112837ce2aa.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-04-27T23:56:45.000Z",
-          "fetchedAt": "2026-04-28T04:29:36.314Z"
+          "publishedAt": "2026-04-28T23:17:58.000Z",
+          "fetchedAt": "2026-04-29T04:24:28.250Z"
         }
       ]
     }
