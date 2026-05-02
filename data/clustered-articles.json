@@ -1,198 +1,330 @@
 {
-  "generatedAt": "2026-05-01T04:47:18.703Z",
+  "generatedAt": "2026-05-02T04:18:28.795Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Souad Massi: «Si on laisse la parole aux fous furieux, on va vers une troisième ",
+      "id": "cluster-3",
+      "topic": "Sud du Liban: avec la destruction méthodique des habitations par Israël, une mém",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-01-ba5e8cfc",
-          "title": "Souad Massi: «Si on laisse la parole aux fous furieux, on va vers une troisième guerre mondiale»",
-          "description": "Zagate (« Ça se gâte ») nous avertit Souad Massi. Bien plus rock et blues que le très intime Sequana (2022), ce neuvième album, plein d’émotions, sur lequel elle a convié Gaël Faye, Youssoupha et Jasser Haj Youssef, souligne la cohérence et la richesse d’une artiste engagée. Rencontre.",
-          "url": "https://www.rfi.fr/fr/musique/20260501-souad-massi-si-on-laisse-la-parole-aux-fous-furieux-on-va-vers-une-troisi%C3%A8me-guerre-mondiale",
-          "imageUrl": "https://s.rfi.fr/media/display/2c138a32-4490-11f1-9f02-005056bfb2b6/w:1024/p:16x9/Souad-Massi-album-Zagate-2026-Yann-Orhan.jpg",
+          "id": "2026-05-02-0db62333",
+          "title": "Sud du Liban: avec la destruction méthodique des habitations par Israël, une mémoire qui s'efface",
+          "description": "Des villages entiers sont rasés de la carte par l’armée israélienne. Les habitants du Liban-Sud craignent de perdre leurs racines et leur mémoire.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260502-samedi-6h-l-%C5%93uvre-de-destruction-m%C3%A9thodique-des-isra%C3%A9liens-table-rase-au-liban-sud",
+          "imageUrl": "https://s.rfi.fr/media/display/daec2ad2-4549-11f1-bb6f-005056a90284/w:1024/p:16x9/PHOTO-Khiyam.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-01T04:30:16.000Z",
-          "fetchedAt": "2026-05-01T04:43:33.356Z"
+          "publishedAt": "2026-05-02T03:58:10.000Z",
+          "fetchedAt": "2026-05-02T04:14:43.872Z"
         },
         {
-          "id": "2026-05-01-bbf79744",
-          "title": "AES - Cédéao: les attaques au Mali relancent l’urgence d’un dialogue mené par Lansana Kouyaté",
-          "description": "Les pays voisins du Mali, préoccupés par les attaques de ces derniers jours. En parallèle, Lansana Kouyaté, le négociateur en chef de la Cédéao prépare une tournée au Niger, au Burkina et au Mali pour faciliter le dialogue entre les pays de l'AES – Mali, Niger, Burkina Faso – et la Cédéao.",
-          "url": "https://www.rfi.fr/fr/afrique/20260501-aes-c%C3%A9d%C3%A9ao-les-attaques-au-mali-relancent-l-urgence-d-un-dialogue-men%C3%A9-par-lansana-kouyat%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/dddb709a-44db-11f1-aa2f-005056bf30b7/w:1024/p:16x9/Audience-30-04-2026-55.jpg",
+          "id": "2026-05-01-e2ce7875",
+          "title": "Mali: le Jnim et le FLA progressent, les jihadistes formulent une offre politique, le régime ne cède pas",
+          "description": "Au Mali, après avoir conquis Kidal le week-end dernier, les jihadistes du Groupe de soutien à l'islam et aux musulmans (Jnim) et les indépendantistes du Front de libération de l'Azawad (FLA) ont pris vendredi 1er mai le contrôle des camps militaires de Tessalit et d'Aguelhoc. Leur progression inquiète les habitants des grandes villes du nord du Mali. Dans un communiqué diffusé dans la nuit du 30 avril au 1er mai, le Jnim tente plus que jamais de se positionner en acteur politique, appelant « toutes les forces vives de la nation malienne » à faire chuter le régime en place. Les autorités de transition demeurent déterminées à combattre et à se maintenir au pouvoir, avec le soutien de la Russie. Les opérations militaires se poursuivent et des citernes sont entrées à Bamako, en dépit du blocus jihadiste.",
+          "url": "https://www.rfi.fr/fr/afrique/20260501-mali-le-jnim-et-le-fla-progressent-les-jihadistes-formulent-une-offre-politique-le-r%C3%A9gime-ne-c%C3%A8de-pas",
+          "imageUrl": "https://s.rfi.fr/media/display/c6f18970-627d-11ee-abc9-005056a90321/w:1024/p:16x9/Carte-Mali.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-01T03:03:42.000Z",
-          "fetchedAt": "2026-05-01T04:43:33.356Z"
+          "publishedAt": "2026-05-01T22:06:16.000Z",
+          "fetchedAt": "2026-05-02T04:14:43.872Z"
         },
         {
-          "id": "2026-05-01-d7e47f76",
-          "title": "Au Mali, les rebelles djihadistes appellent à faire tomber la junte au pouvoir pour instaurer « une transition pacifique et inclusive »",
-          "description": "Cinq jours après des attaques sans précédent sur des positions stratégiques de l’armée, et alors que la capitale Bamako est sous blocus, la force unifiée antidjihadiste du Niger, du Burkina Faso et du Mali a, de son côté, mené « d’intenses campagnes aériennes » dans le nord du Mali.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/05/01/au-mali-les-rebelles-djihadistes-appellent-a-faire-tomber-la-junte-au-pouvoir-pour-instaurer-une-transition-pacifique-et-inclusive_6684665_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-05-01-cdda4452",
+          "title": "Cameroun: après les violences dans le Nord-Ouest, le gouvernement présente sa version des faits",
+          "description": "Après plusieurs jours de silence, au Cameroun, les autorités donnent leur version au sujet des violences meurtrières survenues dimanche 26 avril 2026 dans un village du département de Bui dans la région anglophone du Nord-Ouest. Les acteurs de la société civile s'inquiètent des informations qui remontent du terrain, faisant état d'au moins 15 morts civils. Selon un communiqué du ministère de la Défense, 14 personnes ont été tuées et toutes seraient membres de groupes armés séparatistes.",
+          "url": "https://www.rfi.fr/fr/afrique/20260501-cameroun-apr%C3%A8s-les-violences-dans-le-nord-ouest-le-gouvernement-pr%C3%A9sente-sa-version-des-faits",
+          "imageUrl": "https://s.rfi.fr/media/display/0c6e1e30-43c9-11f1-ae19-005056bfb2b6/w:1024/p:16x9/cameroun-jakiri.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-01T00:13:28.000Z",
-          "fetchedAt": "2026-05-01T04:43:18.364Z"
+          "publishedAt": "2026-05-01T15:00:27.000Z",
+          "fetchedAt": "2026-05-02T04:14:43.872Z"
         },
         {
-          "id": "2026-04-30-f88ce4b8",
-          "title": "Selon un psychologue jugé pour sa mort, Maradona était \"bipolaire\" avec \"un trouble narcissique\"",
-          "description": "Pour la première fois, un diagnostic de pathologies mentales a été révélé au public au sujet de Diego Maradona, dont l'équipe soignante est en procès pour sa mort en Argentine. Selon un psychologue entendu jeudi, l'ancienne star du football souffrait d'un \"trouble bipolaire\" et d'un \"trouble de la personnalité narcissique\".",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260430-argentine-proces-maradona-bipolaire-trouble-narcissique-psychologue-juge-mort",
-          "imageUrl": "https://s.france24.com/media/display/c8c2be2e-382f-11f1-98e5-005056a90284/w:1024/p:16x9/2026-04-14T135200Z-1882430227-RC21PKAK8Z4W-RTRMADP-3-ARGENTINA-MARADONA-COURT.jpg",
-          "source": "France 24",
+          "id": "2026-05-01-3de70611",
+          "title": "Les biopics musicaux, dernier espoir d’“un secteur à la limite de la noyade”",
+          "description": "Le succès du biopic musical consacré à Michael Jackson semble confirmer une réalité frappante : les questions d’objectivité, d’intégrité et de véracité des faits importent peu au public, pour qui, d’après le quotidien britannique “The Guardian”, il est normal qu’une pop star soigne sa propre image et la monétise sans scrupule.",
+          "url": "https://www.courrierinternational.com/stories/hollywood-les-biopics-musicaux-dernier-espoir-d-un-secteur-a-la-limite-de-la-noyade_243455",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/29/44/0/2000/1333/1200/630/60/0/d9d6c3b_upload-1-m58kttjlevpu-001-mkt-001-cin-v0093-cnpt-1002.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-30T23:36:21.000Z",
-          "fetchedAt": "2026-05-01T04:43:18.340Z"
+          "publishedAt": "2026-05-01T13:21:18.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.964Z"
         },
         {
-          "id": "2026-04-30-e4341c23",
-          "title": "Ligue Conférence : Strasbourg, surpris par le Rayo en demi-finale aller, part avec un désavantage",
-          "description": "Strasbourg s'est fait piéger jeudi soir par le Rayo Vallecano en demi-finale aller de la Ligue Conférence. L'affaire est toutefois loin d'être perdue pour le club alsacien, qui pourra encore inverser la situation la semaine prochaine pour rejoindre la finale.",
-          "url": "https://www.france24.com/fr/sports/20260430-ligue-conf%C3%A9rence-strasbourg-surpris-par-le-rayo-en-demi-finale-aller-part-avec-un-d%C3%A9savantage",
-          "imageUrl": "https://s.france24.com/media/display/6b7880c6-44de-11f1-81d6-005056a97e36/w:1024/p:16x9/5173b94b3ca21dc67f12b7da484b3757c755f919.jpg",
-          "source": "France 24",
+          "id": "2026-05-01-7f092a5f",
+          "title": "Jeunesse sous pression : l’expatriation devient une option sérieuse",
+          "description": "Chômage, logement inaccessible, avenir incertain : selon “Der Spiegel”, “Die Welt” et “Der Tagesspiegel”, un jeune Allemand sur cinq envisage sérieusement l’expatriation. Derrière les chiffres, une quête de stabilité et de sens.",
+          "url": "https://www.courrierinternational.com/article/allemagne-jeunesse-sous-pression-l-expatriation-devient-une-option-serieuse_242401",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/31/0/8/4272/2848/1200/630/60/0/f359b4f_upload-1-dqxwfoledjf5-wal-172619-puddle-7844705.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-30T21:49:11.000Z",
-          "fetchedAt": "2026-05-01T04:43:18.340Z"
+          "publishedAt": "2026-05-01T08:31:42.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.964Z"
         },
         {
           "id": "2026-04-30-4c0154ba",
           "title": "Britney Spears charged in California with driving under influence ",
           "description": "The pop star is facing one misdemeanour count of driving under the influence of any alcohol and drug.",
           "url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1d14/live/28616b10-44d2-11f1-8de1-593a7bb5acaa.jpg",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3e1e/live/0b236240-4529-11f1-ac78-2112837ce2aa.jpg",
           "source": "BBC World",
           "category": "geopolitique",
           "publishedAt": "2026-04-30T21:46:18.000Z",
-          "fetchedAt": "2026-05-01T04:43:33.322Z"
+          "fetchedAt": "2026-05-02T04:14:43.908Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "Joschka Fischer, ancien chef de la diplomatie allemande : « La dissolution de l’",
+      "id": "cluster-6",
+      "topic": "Donald Trump relance la guerre commerciale avec l’Europe, sur fond de mécontente",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-01-c4fec089",
-          "title": "Joschka Fischer, ancien chef de la diplomatie allemande : « La dissolution de l’Alliance atlantique a déjà commencé »",
-          "description": "Alors que la construction de l’OTAN est un  plus gros succès diplomatique des Etats-Unis, le président Donald Trump et sa base MAGA entendent saborder l’organisation de défense militaire, ce qui affaiblira à terme la puissance américaine, prédit l’ancien ministre des affaires étrangères allemand, dans une tribune au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/05/01/joschka-fischer-ancien-chef-de-la-diplomatie-allemande-la-dissolution-de-l-alliance-atlantique-a-deja-commence_6684673_3232.html",
+          "id": "2026-05-02-8ab66c24",
+          "title": "Donald Trump relance la guerre commerciale avec l’Europe, sur fond de mécontentement sur l’Iran",
+          "description": "Le président américain a annoncé, vendredi, que les importations de voitures et de camions en provenance du Vieux Continent seraient soumises à une taxation de 25 %, au lieu de 15 %, à compter de la semaine prochaine.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/02/donald-trump-relance-la-guerre-commerciale-avec-l-europe-sur-fond-de-mecontentement-sur-l-iran_6684829_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-01T03:30:05.000Z",
-          "fetchedAt": "2026-05-01T04:43:18.364Z"
+          "publishedAt": "2026-05-02T03:30:13.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.445Z"
         },
         {
-          "id": "2026-04-30-597013e4",
-          "title": "Décès de Georg Baselitz, l’artiste allemand à la tronçonneuse",
-          "description": "Georg Baselitz, figure majeure de l’art européen d’après-guerre, s’est éteint à l’âge de 88 ans, « paisiblement », a déclaré sa galerie Ropac ce jeudi 30 avril. Peintre aux toiles souvent violentes, sculpteur de géants taillés à la tronçonneuse, Baselitz incarnait, selon la formule consacrée, « le plus Allemand des peintres allemands ».",
-          "url": "https://www.rfi.fr/fr/culture/20260430-d%C3%A9c%C3%A8s-de-georg-baselitz-l-artiste-allemand-%C3%A0-la-tron%C3%A7onneuse",
-          "imageUrl": "https://s.rfi.fr/media/display/101e0f9c-0d23-11ea-9990-005056a9aa4d/w:1024/p:16x9/P1070809_0.JPG",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-30T16:35:31.000Z",
-          "fetchedAt": "2026-05-01T04:43:33.356Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "Au Maroc, les États-Unis réaffirment soutenir la solution marocaine sur le Sahar",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-01-1a160aa3",
-          "title": "Au Maroc, les États-Unis réaffirment soutenir la solution marocaine sur le Sahara occidental",
-          "description": "Après une visite importante du côté d'Alger pour discuter de sujets économiques et sécuritaires. Le secrétaire d'État adjoint américain Christopher Landau s'est rendu à Rabat pour deux jours pour rencontrer le ministre des Affaires étrangères Nasser Bourrita. L'Américain est venu au Maroc pour renforcer encore un peu plus la coopération entre les deux pays et rappeler la position américaine sur la question du Sahara occidental.",
-          "url": "https://www.rfi.fr/fr/afrique/20260501-au-maroc-les-%C3%A9tats-unis-r%C3%A9affirment-soutenir-la-solution-marocaine-sur-le-sahara-occidental",
-          "imageUrl": "https://s.rfi.fr/media/display/adca87cc-4505-11f1-9b68-005056bf30b7/w:1024/p:16x9/000-A9CZ6UB.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-01T03:11:48.000Z",
-          "fetchedAt": "2026-05-01T04:43:33.356Z"
-        },
-        {
-          "id": "2026-04-30-b29e5814",
-          "title": "Mojtaba Khamenei défie les États-Unis, le cours du pétrole reste volatile",
-          "description": "Alors que le guide suprême iranien, Mojtaba Khamenei, a affirmé, jeudi, que les tats-Unis avaient subi une \"défaite honteuse\" face à son pays, les cours du pétrole ont brièvement bondi à 126 dollars le baril, un niveau inédit depuis 2022.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260430-mojtaba-khamenei-d%C3%A9fie-les-%C3%A9tats-unis-le-cours-du-p%C3%A9trole-reste-volatile",
-          "imageUrl": "https://s.france24.com/media/display/7e6ef99e-409c-11f1-a463-005056bf30b7/w:1024/p:16x9/2026-04-24T115554Z-1992140229-RC2KVKAW129B-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-30T20:52:17.000Z",
-          "fetchedAt": "2026-05-01T04:43:18.340Z"
-        },
-        {
-          "id": "2026-04-30-ab975ea3",
-          "title": "Aux Etats-Unis, le Congrès met fin au shutdown record du ministère de la sécurité intérieure",
-          "description": "Le DHS, l’un des plus gros ministères américains avec plus de 260 000 employés, a vu son financement expirer le 14 février, faute d’accord entre démocrates et républicains.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/30/aux-etats-unis-le-congres-met-fin-au-shutdown-record-du-ministere-de-la-securite-interieure_6684655_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-30T18:03:03.000Z",
-          "fetchedAt": "2026-05-01T04:43:18.364Z"
-        },
-        {
-          "id": "2026-04-30-e5723e0c",
-          "title": "Une “bombe” : les États-Unis accusent un gouverneur mexicain de liens avec le narcotrafic",
-          "description": "La justice américaine accuse le gouverneur de Sinaloa, Rubén Rocha Moya, de liens avec le narcotrafic et réclame son extradition. Pour une partie de la presse, cette demande des États-Unis était prévisible après plusieurs années de soupçons à l’encontre de l’édile. Jeudi 30 avril, la présidente mexicaine, Claudia Sheinbaum, a demandé aux États-Unis de fournir des preuves “irréfutables”.",
-          "url": "https://www.courrierinternational.com/article/justice-une-bombe-les-etats-unis-accusent-un-gouverneur-mexicain-de-liens-avec-le-narcotrafic_243569",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/30/0/0/7869/5246/1200/630/60/0/c5cac27_upload-1-6ul6ixjj4n1z-000-a9dq29e.jpg",
+          "id": "2026-05-02-24250370",
+          "title": "Trump lâché par ses alliés : la panique gagne l’extrême droite européenne",
+          "description": "À l’approche d’échéances décisives, les partis d’extrême droite européens ajustent leur position face à un Donald Trump devenu encombrant. Ses soutiens d’hier prennent leurs distances, conscients que l’image du président américain peut désormais peser sur leurs ambitions électorales, analyse “Politico”, à Bruxelles.",
+          "url": "https://www.courrierinternational.com/article/analyse-trump-lache-par-ses-allies-la-panique-gagne-l-extreme-droite-europeenne_243176",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/28/149/63/2292/1528/1200/630/60/0/0b5eaaf_upload-1-qha0xcjmzitf-kountouris-2026-03-19-4725-w2.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-30T16:07:27.000Z",
-          "fetchedAt": "2026-05-01T04:43:19.062Z"
+          "publishedAt": "2026-05-02T03:00:26.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.964Z"
+        },
+        {
+          "id": "2026-05-02-05a93329",
+          "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+          "description": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+          "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/26ce/live/cba9b850-4594-11f1-b55d-0f258dce1735.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-02T00:41:43.000Z",
+          "fetchedAt": "2026-05-02T04:14:43.908Z"
+        },
+        {
+          "id": "2026-05-01-a954f627",
+          "title": "En annonçant la fin des hostilités, Donald Trump s’affranchit du Congrès dans le dossier iranien",
+          "description": "Donald Trump a annoncé vendredi 1er mai 2026 qu'il se passait du feu vert du Congrès pour la guerre en Iran, alors qu'expirait la limite de 60 jours fixée par la loi pour obtenir une autorisation parlementaire au déclenchement des hostilités.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260501-en-annon%C3%A7ant-la-fin-des-hostilit%C3%A9s-donald-trump-s-affranchit-du-congr%C3%A8s-dans-le-dossier-iranien",
+          "imageUrl": "https://s.rfi.fr/media/display/e96d097e-45b6-11f1-a577-005056bfb2b6/w:1024/p:16x9/AP26121605688015.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-01T23:51:21.000Z",
+          "fetchedAt": "2026-05-02T04:14:43.872Z"
+        },
+        {
+          "id": "2026-05-01-b793c6c7",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump contourne le Congrès sur l’Iran, affirmant que les hostilités sont « terminées »",
+          "description": "Le président américain a annoncé vendredi qu’il se passait du feu vert du Congrès pour la guerre en Iran, alors qu’expirait la limite de soixante jours fixée par la loi pour obtenir une autorisation parlementaire au déclenchement des hostilités.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-au-moyen-orient-donald-trump-declare-dans-une-lettre-au-congres-que-les-hostilites-contre-l-iran-sont-terminees_6684072_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-01T22:50:59.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.445Z"
+        },
+        {
+          "id": "2026-05-01-c519ce72",
+          "title": "Coupe du monde de football 2026 : l’Iran exclu du tournoi par Donald Trump?",
+          "description": "A J-41 jours avant la Coupe du Monde de football masculin aux Etats-Unis, au Mexique et au Canada, une rumeur circule : Washington aurait exclut l'Iran et souhaiterait la remplacer par l'Italie ! Si le projet a bien été proposé par un officiel de l'administration Trump, le président de la FIFA Gianni Infantino a confirmé que l'Iran participerait bien au tournoi. Cependant, des questions demeurent pour l'accueil des fans, et en cas de boycott de dernière minute par Téhéran.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260501-coupe-du-monde-de-football-2026-l-iran-exclu-du-tournoi-par-washington",
+          "imageUrl": "https://s.france24.com/media/display/2981a886-45a2-11f1-bfe6-005056bfb2b6/w:1024/p:16x9/Francais-2026-05-01T20-11-35-401Z.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-01T21:10:46.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.423Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Chippies sell catfish as 'traditional fish supper'",
-      "category": "eco",
-      "importance": 7,
+      "id": "cluster-16",
+      "topic": "Jean Pisani-Ferry : « Les Etats-Unis ont durablement perdu leur magistère moral ",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-05-01-5f6842f2",
-          "title": "Chippies sell catfish as 'traditional fish supper'",
-          "description": "A BBC investigation finds chip shop owners passing off cheaper species as \"traditional fish and chips\".",
-          "url": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c4fa/live/a21983f0-37dc-11f1-a488-f5dec36f7fff.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-05-01T00:11:27.000Z",
-          "fetchedAt": "2026-05-01T04:43:46.134Z"
+          "id": "2026-05-02-29a76505",
+          "title": "Jean Pisani-Ferry : « Les Etats-Unis ont durablement perdu leur magistère moral »",
+          "description": "En tournant le dos à la démocratie et à la liberté, valeurs que les Etats-Unis incarnaient, désormais remplacées par la loi du plus fort et la culture du « deal », Donald Trump fait un tort irréparable à la première puissance mondiale, estime l’économiste, dans sa chronique.",
+          "url": "https://www.lemonde.fr/idees/article/2026/05/02/jean-pisani-ferry-les-etats-unis-ont-durablement-perdu-leur-magistere-moral_6684825_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-02T03:00:13.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.445Z"
+        },
+        {
+          "id": "2026-05-02-e6d2200a",
+          "title": "Les Etats-Unis vont retirer quelque 5 000 militaires d’Allemagne d’ici à un an et menacent de réduire les effectifs en Italie et en Espagne",
+          "description": "Cette annonce intervient après des propos du chancelier Friedrich Merz, qui ont suscité la colère de Donald Trump. Plus de 36 000 soldats américains sont actuellement positionnés outre-Rhin.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/02/les-etats-unis-vont-retirer-quelque-5-000-militaires-d-allemagne-d-ici-un-an-et-menacent-de-reduire-les-effectifs-en-italie-et-en-espagne_6684790_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-02T00:49:39.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.445Z"
+        },
+        {
+          "id": "2026-05-02-52ad68fb",
+          "title": "Les États-Unis vont retirer quelque 5000 militaires d'Allemagne d'ici un an",
+          "description": "Le ministre de la Défense américain Pete Hegseth a ordonné le retrait de quelque 5 000 militaires d'Allemagne d'ici un an, soit environ 15% de ses effectifs présents dans ce pays, a indiqué le Pentagone vendredi.",
+          "url": "https://www.rfi.fr/fr/europe/20260502-les-%C3%A9tats-unis-vont-retirer-quelque-5000-militaires-d-allemagne-d-ici-un-an",
+          "imageUrl": "https://s.rfi.fr/media/display/55a15d1e-17dd-11f1-96b5-005056a97e36/w:1024/p:16x9/1024px-435th-SFS-conducts-airborne-operations-over-Ramstein-Air-Base-8259397.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-02T00:38:02.000Z",
+          "fetchedAt": "2026-05-02T04:14:43.872Z"
+        },
+        {
+          "id": "2026-05-01-0fcab43e",
+          "title": "Aux Etats-Unis, une cour d’appel fédérale suspend l’envoi postal de la pilule abortive",
+          "description": "La décision de cette cour d’appel conservatrice suspendant l’acheminement postal de la mifépristone fait droit à une demande de l’Etat républicain de Louisiane.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/02/aux-etats-unis-une-cour-d-appel-federale-suspend-l-envoi-postal-de-la-pilule-abortive_6684757_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-01T22:35:39.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.445Z"
+        },
+        {
+          "id": "2026-05-01-305eccdc",
+          "title": "Les Etats-Unis sanctionnent l'ancien président congolais Joseph Kabila",
+          "description": "Après avoir sanctionné l’armée rwandaise en raison de son soutien aux rebelles de l’AFC/M23, Washington frappe l’ancien président de la République Démocratique du Congo, Joseph Kabila, qui a dirigé le pays de 2001 à 2019.  Il est accusé de « semer l’instabilité » dans son pays.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260501-les-etats-unis-sanctionnent-l-ancien-pr%C3%A9sident-congolais-joseph-kabila",
+          "imageUrl": "https://s.france24.com/media/display/034aa748-45a3-11f1-89c6-005056a97e36/w:1024/p:16x9/DN194331-A-01-20260427-01-1.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-01T21:47:04.000Z",
+          "fetchedAt": "2026-05-02T04:14:28.423Z"
+        },
+        {
+          "id": "2026-05-01-623cc9a5",
+          "title": "États-Unis: Donald Trump annonce un renforcement des sanctions contre Cuba",
+          "description": "Donald Trump a annoncé vendredi un durcissement des sanctions contre Cuba, où un défilé a été organisé à l'occasion du 1er-Mai pour « défendre la patrie » et dénoncer les menaces d'agression militaire américaine. Des mesures « illégales » et « abusives », dénonce la diplomatie cubaine.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260501-%C3%A9tats-unis-donald-trump-annonce-un-renforcement-des-sanctions-contre-cuba",
+          "imageUrl": "https://s.rfi.fr/media/display/c07317b4-4595-11f1-8228-005056bfb2b6/w:1024/p:16x9/AP26121589754316.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-01T19:53:23.000Z",
+          "fetchedAt": "2026-05-02T04:14:43.872Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Trump nominates Fox News doctor to be the next surgeon general",
+      "id": "cluster-6",
+      "topic": "Apple raises the Mac Mini&#8217;s starting price",
       "category": "tech",
-      "importance": 6,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-04-30-c6d5901e",
-          "title": "Trump nominates Fox News doctor to be the next surgeon general",
-          "description": "Trump lashes out at Cassidy while announcing his new nomination.",
-          "url": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2188445138-1152x648.jpg",
+          "id": "2026-05-01-390b79fa",
+          "title": "Apple raises the Mac Mini&#8217;s starting price",
+          "description": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during an earnings call that a chip shortage will impact its Mac products in the coming months.\n\"If you look forward to June, the majority of our supply constraints will be on several Mac models,\" Cook said. \"We think looking forward that the Mac Mini and the Mac Studio may take several months to reach supply-demand balance.\" He added that both devices saw \"higher-than-expected demand\" as well, with many people b …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717370/DSC_1249.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-05-01T21:52:09.000Z",
+          "fetchedAt": "2026-05-02T04:15:04.377Z"
+        },
+        {
+          "id": "2026-05-01-d9e63847",
+          "title": "Apple may take \"several months\" to catch up to Mac mini and Studio demand",
+          "description": "Chip shortages and demand from AI enthusiasts are both playing a part.",
+          "url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-1152x648.jpeg",
           "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-04-30T22:09:36.000Z",
-          "fetchedAt": "2026-05-01T04:43:42.300Z"
+          "publishedAt": "2026-05-01T14:10:48.000Z",
+          "fetchedAt": "2026-05-02T04:15:04.414Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "« Je trouvais que c’était sale, voire vulgaire, d’aller négocier comme un marcha",
+      "category": "eco",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-02-f1f851c9",
+          "title": "« Je trouvais que c’était sale, voire vulgaire, d’aller négocier comme un marchand de tapis » : les jeunes actifs tentent de faire imploser le tabou des rémunérations",
+          "description": "A l’heure où la directive européenne sur la transparence salariale, qui doit être transposée en droit français, remet le sujet sur la table, certains tentent de le désacraliser au sein de leur entreprise. Avec plus ou moins de succès.",
+          "url": "https://www.lemonde.fr/campus/article/2026/05/02/je-trouvais-que-c-etait-sale-voire-vulgaire-d-aller-negocier-comme-un-marchand-de-tapis-les-jeunes-actifs-tentent-de-faire-imploser-le-tabou-des-remunerations_6684841_4401467.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-02T04:01:02.000Z",
+          "fetchedAt": "2026-05-02T04:15:04.533Z"
+        },
+        {
+          "id": "2026-05-02-148792c4",
+          "title": "EasyJet condamnée pour refus d’embarquer un passager au passeport périmé depuis moins de cinq ans",
+          "description": "Les pays comme l’Italie ou la Grèce, qui ont ratifié un accord du Conseil de l’Europe, ne peuvent exiger de passeport français en cours de validité.",
+          "url": "https://www.lemonde.fr/argent/article/2026/05/02/easyjet-condamnee-pour-refus-d-embarquer-un-passager-au-passeport-perime-depuis-moins-de-cinq-ans_6684833_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-02T04:00:18.000Z",
+          "fetchedAt": "2026-05-02T04:15:04.533Z"
+        },
+        {
+          "id": "2026-05-01-c14ac73e",
+          "title": "Helios : quand une panne du logiciel de comptabilité publique menace la paie de millions de fonctionnaires",
+          "description": "En février, un problème sur un matériel japonais a bloqué pendant douze jours le logiciel de comptabilité publique Helios. L’Assemblée nationale s’inquiète des « vulnérabilités » mises en évidence par cet incident.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/01/affaire-helios-quand-une-panne-informatique-menace-la-paie-de-millions-de-fonctionnaires_6684701_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-01T09:22:02.000Z",
+          "fetchedAt": "2026-05-02T04:15:04.533Z"
+        },
+        {
+          "id": "2026-05-01-ae58a971",
+          "title": "A Lyon, un programme de logements revendique l’utilisation de « bois bleu », souvent délaissé car marqué par un champignon",
+          "description": "Portant des traces bleutées dues à un champignon après le passage du scolyte qui ravage les forêts d’épicéas, ce bois conserve ses propriétés mécaniques, mais son emploi dans la construction implique de dépasser certains préjugés.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/01/a-lyon-un-programme-de-logements-revendique-l-utilisation-de-bois-bleu-souvent-delaisse-car-marque-par-un-champignon_6684694_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-01T08:00:09.000Z",
+          "fetchedAt": "2026-05-02T04:15:04.533Z"
+        },
+        {
+          "id": "2026-05-01-cd8c22cd",
+          "title": "Pourquoi le 1ᵉʳ-Mai est-il férié, chômé et payé ? Une conquête sociale toujours débattue",
+          "description": "Journée de revendication salariale et syndicale, le 1ᵉʳ-Mai est aujourd’hui célébré dans la plupart des pays du monde. En France, les dérogations au travail sont au cœur du débat.",
+          "url": "https://www.lemonde.fr/politique/article/2026/05/01/pourquoi-le-1-mai-est-il-ferie-une-conquete-sociale-devenue-un-rituel-toujours-debattu_6684695_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-01T08:00:07.000Z",
+          "fetchedAt": "2026-05-02T04:15:04.533Z"
+        },
+        {
+          "id": "2026-05-01-23df9261",
+          "title": "Voitures électriques : les ventes en France ont augmenté de 48 % depuis le début de l’année malgré un marché global en recul",
+          "description": "Plus de 148 300 véhicules électriques ont été vendus au cours des quatre premiers mois de 2025, selon la Plateforme automobile (PFA), qui regroupe tous les constructeurs.",
+          "url": "https://www.lemonde.fr/economie-francaise/article/2026/05/01/voitures-electriques-les-ventes-ont-bondi-de-48-depuis-le-debut-de-l-annee-en-france-malgre-un-marche-automobile-en-recul_6684690_1656968.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-01T07:27:08.000Z",
+          "fetchedAt": "2026-05-02T04:15:04.533Z"
         }
       ]
     }
