@@ -1,234 +1,179 @@
 {
-  "generatedAt": "2026-05-02T04:18:28.795Z",
+  "generatedAt": "2026-05-03T04:39:39.540Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-3",
-      "topic": "Sud du Liban: avec la destruction méthodique des habitations par Israël, une mém",
+      "id": "cluster-2",
+      "topic": "États-Unis: la dette américaine atteint 100% du produit intérieur brut",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-02-0db62333",
-          "title": "Sud du Liban: avec la destruction méthodique des habitations par Israël, une mémoire qui s'efface",
-          "description": "Des villages entiers sont rasés de la carte par l’armée israélienne. Les habitants du Liban-Sud craignent de perdre leurs racines et leur mémoire.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260502-samedi-6h-l-%C5%93uvre-de-destruction-m%C3%A9thodique-des-isra%C3%A9liens-table-rase-au-liban-sud",
-          "imageUrl": "https://s.rfi.fr/media/display/daec2ad2-4549-11f1-bb6f-005056a90284/w:1024/p:16x9/PHOTO-Khiyam.jpg",
+          "id": "2026-05-03-6316cfea",
+          "title": "États-Unis: la dette américaine atteint 100% du produit intérieur brut",
+          "description": "C'est un chiffre symbolique mais révélateur : la dette cumulée des États-Unis dépasse désormais 100% du produit intérieur brut (PIB). Autrement dit, il faudrait pour la rembourser mettre de côté la production de tout le pays pendant une année entière. Une situation qui n'est pas exactement nouvelle mais qui inquiète certains économistes.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260503-%C3%A9tats-unis-la-dette-am%C3%A9ricaine-atteint-100-du-produit-int%C3%A9rieur-brut",
+          "imageUrl": "https://s.rfi.fr/media/display/7003a250-46a6-11f1-8355-005056bfb2b6/w:1024/p:16x9/063-2244853933.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-02T03:58:10.000Z",
-          "fetchedAt": "2026-05-02T04:14:43.872Z"
+          "publishedAt": "2026-05-03T04:14:44.000Z",
+          "fetchedAt": "2026-05-03T04:35:54.969Z"
         },
         {
-          "id": "2026-05-01-e2ce7875",
-          "title": "Mali: le Jnim et le FLA progressent, les jihadistes formulent une offre politique, le régime ne cède pas",
-          "description": "Au Mali, après avoir conquis Kidal le week-end dernier, les jihadistes du Groupe de soutien à l'islam et aux musulmans (Jnim) et les indépendantistes du Front de libération de l'Azawad (FLA) ont pris vendredi 1er mai le contrôle des camps militaires de Tessalit et d'Aguelhoc. Leur progression inquiète les habitants des grandes villes du nord du Mali. Dans un communiqué diffusé dans la nuit du 30 avril au 1er mai, le Jnim tente plus que jamais de se positionner en acteur politique, appelant « toutes les forces vives de la nation malienne » à faire chuter le régime en place. Les autorités de transition demeurent déterminées à combattre et à se maintenir au pouvoir, avec le soutien de la Russie. Les opérations militaires se poursuivent et des citernes sont entrées à Bamako, en dépit du blocus jihadiste.",
-          "url": "https://www.rfi.fr/fr/afrique/20260501-mali-le-jnim-et-le-fla-progressent-les-jihadistes-formulent-une-offre-politique-le-r%C3%A9gime-ne-c%C3%A8de-pas",
-          "imageUrl": "https://s.rfi.fr/media/display/c6f18970-627d-11ee-abc9-005056a90321/w:1024/p:16x9/Carte-Mali.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-01T22:06:16.000Z",
-          "fetchedAt": "2026-05-02T04:14:43.872Z"
-        },
-        {
-          "id": "2026-05-01-cdda4452",
-          "title": "Cameroun: après les violences dans le Nord-Ouest, le gouvernement présente sa version des faits",
-          "description": "Après plusieurs jours de silence, au Cameroun, les autorités donnent leur version au sujet des violences meurtrières survenues dimanche 26 avril 2026 dans un village du département de Bui dans la région anglophone du Nord-Ouest. Les acteurs de la société civile s'inquiètent des informations qui remontent du terrain, faisant état d'au moins 15 morts civils. Selon un communiqué du ministère de la Défense, 14 personnes ont été tuées et toutes seraient membres de groupes armés séparatistes.",
-          "url": "https://www.rfi.fr/fr/afrique/20260501-cameroun-apr%C3%A8s-les-violences-dans-le-nord-ouest-le-gouvernement-pr%C3%A9sente-sa-version-des-faits",
-          "imageUrl": "https://s.rfi.fr/media/display/0c6e1e30-43c9-11f1-ae19-005056bfb2b6/w:1024/p:16x9/cameroun-jakiri.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-01T15:00:27.000Z",
-          "fetchedAt": "2026-05-02T04:14:43.872Z"
-        },
-        {
-          "id": "2026-05-01-3de70611",
-          "title": "Les biopics musicaux, dernier espoir d’“un secteur à la limite de la noyade”",
-          "description": "Le succès du biopic musical consacré à Michael Jackson semble confirmer une réalité frappante : les questions d’objectivité, d’intégrité et de véracité des faits importent peu au public, pour qui, d’après le quotidien britannique “The Guardian”, il est normal qu’une pop star soigne sa propre image et la monétise sans scrupule.",
-          "url": "https://www.courrierinternational.com/stories/hollywood-les-biopics-musicaux-dernier-espoir-d-un-secteur-a-la-limite-de-la-noyade_243455",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/29/44/0/2000/1333/1200/630/60/0/d9d6c3b_upload-1-m58kttjlevpu-001-mkt-001-cin-v0093-cnpt-1002.jpg",
+          "id": "2026-05-03-055fa137",
+          "title": "Guerre en Iran, Biélorussie, pilule abortive aux États-Unis : les informations de la nuit",
+          "description": "",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-iran-bielorussie-pilule-abortive-aux-etats-unis-les-informations-de-la-nuit_243593",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/18/0/0/5451/3634/1200/630/60/0/a17482b_ftp-1-nx4o3q3c7vwj-mideast-conflict-30.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-01T13:21:18.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.964Z"
+          "publishedAt": "2026-05-03T03:00:21.000Z",
+          "fetchedAt": "2026-05-03T04:35:39.819Z"
         },
         {
-          "id": "2026-05-01-7f092a5f",
-          "title": "Jeunesse sous pression : l’expatriation devient une option sérieuse",
-          "description": "Chômage, logement inaccessible, avenir incertain : selon “Der Spiegel”, “Die Welt” et “Der Tagesspiegel”, un jeune Allemand sur cinq envisage sérieusement l’expatriation. Derrière les chiffres, une quête de stabilité et de sens.",
-          "url": "https://www.courrierinternational.com/article/allemagne-jeunesse-sous-pression-l-expatriation-devient-une-option-serieuse_242401",
-          "imageUrl": "https://focus.courrierinternational.com/2026/03/31/0/8/4272/2848/1200/630/60/0/f359b4f_upload-1-dqxwfoledjf5-wal-172619-puddle-7844705.jpg",
-          "source": "Courrier International",
+          "id": "2026-05-03-20633b41",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce qu’il va étudier un plan iranien mais doute qu’il soit « acceptable »",
+          "description": "Le président américain a dit samedi qu’il allait étudier un texte de Téhéran pour résoudre le conflit, tout en expliquant qu’il ne pouvait s’imaginer « qu’il soit acceptable, parce que [les Iraniens] n’ont pas encore payé un prix suffisant pour ce qu’ils ont fait à l’humanité et au monde depuis 47 ans » et la fondation de la République islamique.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-qu-il-va-etudier-un-plan-iranien-mais-doute-qu-il-soit-acceptable_6684072_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-01T08:31:42.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.964Z"
+          "publishedAt": "2026-05-03T00:45:51.000Z",
+          "fetchedAt": "2026-05-03T04:35:39.204Z"
         },
         {
-          "id": "2026-04-30-4c0154ba",
-          "title": "Britney Spears charged in California with driving under influence ",
-          "description": "The pop star is facing one misdemeanour count of driving under the influence of any alcohol and drug.",
-          "url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3e1e/live/0b236240-4529-11f1-ac78-2112837ce2aa.jpg",
-          "source": "BBC World",
+          "id": "2026-05-02-1f5f1491",
+          "title": "Aux Etats-Unis, la crise énergétique a précipité la chute de la compagnie aérienne Spirit Airlines",
+          "description": "Pionnière du modèle low cost outre-Atlantique, elle a annoncé arrêter ses activités samedi 2 mai, malgré la mobilisation de la Maison Blanche. Près de 17 000 salariés sont concernés, d’autres compagnies s’organisent pour reprendre les billets des passagers qui ont vu leurs vols annulés.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/03/aux-etats-unis-la-crise-energetique-a-precipite-la-chute-de-la-compagnie-aerienne-spirit-airlines_6684925_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-30T21:46:18.000Z",
-          "fetchedAt": "2026-05-02T04:14:43.908Z"
+          "publishedAt": "2026-05-02T22:59:53.000Z",
+          "fetchedAt": "2026-05-03T04:35:39.204Z"
+        },
+        {
+          "id": "2026-05-02-be02b6d4",
+          "title": "Philippines: une décharge en feu depuis trois semaines, inquiétude pour la santé et l'environnement",
+          "description": "La décharge de Navotas, installée sur l'île de Luçon aux Philippines et en périphérie de Manille, brûle depuis le 10 avril. Plusieurs centaines de riverains ont été évacués. Grâce aux efforts des pompiers, une partie de l'incendie a été étouffée avec de l'eau et de la terre. Mais des fumées toxiques polluent toujours l'air. Des alertes sont émises quant aux risques de contamination des sols et des écosystèmes marins.",
+          "url": "https://www.rfi.fr/fr/environnement/20260502-philippines-une-d%C3%A9charge-en-feu-depuis-trois-semaines-inqui%C3%A9tude-pour-la-sant%C3%A9-et-l-environnement",
+          "imageUrl": "https://s.rfi.fr/media/display/8235339e-464c-11f1-a167-005056a90284/w:1024/p:16x9/000-A9G239F.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-02T19:33:33.000Z",
+          "fetchedAt": "2026-05-03T04:35:54.969Z"
+        },
+        {
+          "id": "2026-05-02-90c2ca29",
+          "title": "IVG: la justice américaine s'attaque à l'envoi postal de la pilule abortive",
+          "description": "Une cour d'appel américaine a provisoirement suspendu, vendredi 1er mai, la possibilité d'envoyer par la poste la mifépristone. Utilisé dans la majorité des avortements, ce médicament est devenu un levier essentiel pour contourner les interdictions locales depuis la décision de la Cour suprême des États-Unis, en 2022.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260502-ivg-la-justice-am%C3%A9ricaine-s-attaque-%C3%A0-l-envoi-postal-de-la-pilule-abortive",
+          "imageUrl": "https://s.rfi.fr/media/display/a7bdbe3a-2a72-11ef-bf72-005056a97e36/w:1024/p:16x9/AP24086509334207.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-02T17:05:24.000Z",
+          "fetchedAt": "2026-05-03T04:35:54.969Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "Donald Trump relance la guerre commerciale avec l’Europe, sur fond de mécontente",
+      "id": "cluster-8",
+      "topic": "Laure Ferrari, la Française qui murmure à l’oreille de Nigel Farage, le patron d",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-02-8ab66c24",
-          "title": "Donald Trump relance la guerre commerciale avec l’Europe, sur fond de mécontentement sur l’Iran",
-          "description": "Le président américain a annoncé, vendredi, que les importations de voitures et de camions en provenance du Vieux Continent seraient soumises à une taxation de 25 %, au lieu de 15 %, à compter de la semaine prochaine.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/02/donald-trump-relance-la-guerre-commerciale-avec-l-europe-sur-fond-de-mecontentement-sur-l-iran_6684829_3234.html",
+          "id": "2026-05-03-0d110942",
+          "title": "Laure Ferrari, la Française qui murmure à l’oreille de Nigel Farage, le patron de l’extrême droite britannique",
+          "description": "Inconnue en France, Laure Ferrari, 46 ans, conseille dans l’ombre son compagnon Nigel Farage, dont le parti, Reform UK, est en tête des sondages au Royaume-Uni. Après avoir été un rouage des extrêmes droites internationales au Parlement européen et gravité dans l’orbite de l’idéologue trumpiste Steve Bannon, la Française rêve désormais d’accompagner son conjoint au 10 Downing Street, la résidence des premiers ministres.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/05/03/laure-ferrari-la-francaise-qui-murmure-a-l-oreille-de-nigel-farage-le-patron-de-l-extreme-droite-britannique_6684996_4500055.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-02T03:30:13.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.445Z"
+          "publishedAt": "2026-05-03T03:30:09.000Z",
+          "fetchedAt": "2026-05-03T04:35:39.204Z"
         },
         {
-          "id": "2026-05-02-24250370",
-          "title": "Trump lâché par ses alliés : la panique gagne l’extrême droite européenne",
-          "description": "À l’approche d’échéances décisives, les partis d’extrême droite européens ajustent leur position face à un Donald Trump devenu encombrant. Ses soutiens d’hier prennent leurs distances, conscients que l’image du président américain peut désormais peser sur leurs ambitions électorales, analyse “Politico”, à Bruxelles.",
-          "url": "https://www.courrierinternational.com/article/analyse-trump-lache-par-ses-allies-la-panique-gagne-l-extreme-droite-europeenne_243176",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/28/149/63/2292/1528/1200/630/60/0/0b5eaaf_upload-1-qha0xcjmzitf-kountouris-2026-03-19-4725-w2.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T03:00:26.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.964Z"
-        },
-        {
-          "id": "2026-05-02-05a93329",
-          "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-          "description": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-          "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/26ce/live/cba9b850-4594-11f1-b55d-0f258dce1735.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T00:41:43.000Z",
-          "fetchedAt": "2026-05-02T04:14:43.908Z"
-        },
-        {
-          "id": "2026-05-01-a954f627",
-          "title": "En annonçant la fin des hostilités, Donald Trump s’affranchit du Congrès dans le dossier iranien",
-          "description": "Donald Trump a annoncé vendredi 1er mai 2026 qu'il se passait du feu vert du Congrès pour la guerre en Iran, alors qu'expirait la limite de 60 jours fixée par la loi pour obtenir une autorisation parlementaire au déclenchement des hostilités.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260501-en-annon%C3%A7ant-la-fin-des-hostilit%C3%A9s-donald-trump-s-affranchit-du-congr%C3%A8s-dans-le-dossier-iranien",
-          "imageUrl": "https://s.rfi.fr/media/display/e96d097e-45b6-11f1-a577-005056bfb2b6/w:1024/p:16x9/AP26121605688015.jpg",
+          "id": "2026-05-03-ec64d628",
+          "title": "RDC: pour célébrer ses 20 ans de carrière, le chanteur Fally Ipupa ensorcelle le Stade de France",
+          "description": "C’est une première pour un artiste africain francophone : le chanteur congolais Fally Ipupa enchaîne deux concerts, ce week-end, au Stade de France, devant un total de 160 000 spectateurs réunis pour célébrer ses 20 ans de carrière. Un spectacle qui fait aussi la fierté de toute la diaspora congolaise qui vit dans l'Hexagone, non sans susciter parfois une certaine émotion...",
+          "url": "https://www.rfi.fr/fr/afrique/20260503-rdc-pour-c%C3%A9l%C3%A9brer-ses-20-ans-de-carri%C3%A8re-le-chanteur-fally-ipupa-ensorcelle-le-stade-de-france",
+          "imageUrl": "https://s.rfi.fr/media/display/c6ec9f98-2025-11f0-9b12-005056bfb2b6/w:1024/p:16x9/fally-ipupa-solidarite-congo-avril-2025-paris.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-01T23:51:21.000Z",
-          "fetchedAt": "2026-05-02T04:14:43.872Z"
+          "publishedAt": "2026-05-03T03:01:35.000Z",
+          "fetchedAt": "2026-05-03T04:35:54.969Z"
         },
         {
-          "id": "2026-05-01-b793c6c7",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump contourne le Congrès sur l’Iran, affirmant que les hostilités sont « terminées »",
-          "description": "Le président américain a annoncé vendredi qu’il se passait du feu vert du Congrès pour la guerre en Iran, alors qu’expirait la limite de soixante jours fixée par la loi pour obtenir une autorisation parlementaire au déclenchement des hostilités.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/02/en-direct-guerre-au-moyen-orient-donald-trump-declare-dans-une-lettre-au-congres-que-les-hostilites-contre-l-iran-sont-terminees_6684072_3210.html",
+          "id": "2026-05-02-127670bd",
+          "title": "Pour vivre la nuit aussi, allez donc à Paris plutôt qu’à Londres",
+          "description": "Arrivée avec un lourd bagage d’appréhensions dans la capitale française, une journaliste britannique découvre un Paris ouvert, sociable et tolérant sur la vie nocturne, dont Londres ferait bien de s’inspirer, selon elle. Son récit a été publié par “The Spectator”.",
+          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-pour-vivre-la-nuit-aussi-allez-donc-a-paris-plutot-qu-a-londres_198164_1",
           "imageUrl": null,
-          "source": "Le Monde - International",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-01T22:50:59.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.445Z"
+          "publishedAt": "2026-05-02T17:22:26.000Z",
+          "fetchedAt": "2026-05-03T04:35:39.819Z"
         },
         {
-          "id": "2026-05-01-c519ce72",
-          "title": "Coupe du monde de football 2026 : l’Iran exclu du tournoi par Donald Trump?",
-          "description": "A J-41 jours avant la Coupe du Monde de football masculin aux Etats-Unis, au Mexique et au Canada, une rumeur circule : Washington aurait exclut l'Iran et souhaiterait la remplacer par l'Italie ! Si le projet a bien été proposé par un officiel de l'administration Trump, le président de la FIFA Gianni Infantino a confirmé que l'Iran participerait bien au tournoi. Cependant, des questions demeurent pour l'accueil des fans, et en cas de boycott de dernière minute par Téhéran.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260501-coupe-du-monde-de-football-2026-l-iran-exclu-du-tournoi-par-washington",
-          "imageUrl": "https://s.france24.com/media/display/2981a886-45a2-11f1-bfe6-005056bfb2b6/w:1024/p:16x9/Francais-2026-05-01T20-11-35-401Z.jpg",
+          "id": "2026-05-02-29621b38",
+          "title": "À Paris, la librairie centenaire Shakespeare and Company plus moderne que jamais",
+          "description": "À l’heure du numérique et des recommandations algorithmiques, notre société opère un retour vers le livre objet et la librairie comme lieu de rencontre, observe la journaliste du magazine américain “Forbes”. Des valeurs que Shakespeare and Company défend depuis sa création.",
+          "url": "https://www.courrierinternational.com/article/vu-des-etats-unis-a-paris-la-librairie-centenaire-shakespeare-and-company-plus-moderne-que-jamais_243407",
+          "imageUrl": null,
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-02T08:47:45.000Z",
+          "fetchedAt": "2026-05-03T04:35:39.819Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-10",
+      "topic": "Gaza: en dépit du cessez-le-feu, l'aide humanitaire chute et ravive les risques ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-03-36382149",
+          "title": "Gaza: en dépit du cessez-le-feu, l'aide humanitaire chute et ravive les risques de malnutrition",
+          "description": "À Gaza, la situation humanitaire reste catastrophique. Le Haut-Commissaire des Nations unies aux droits de l'homme a appelé Israël à lever toutes les restrictions sur l'accès aux biens de première nécessité et à autoriser l'acheminement de l'aide humanitaire dans l'enclave. Le nombre de camions d'aide entrant à Gaza a chuté de façon drastique, en violation du cessez-le-feu d'octobre 2025 conclu avec le Hamas. Certains craignent déjà le retour des pénuries de nourriture, d'eau potable ou de gaz de cuisine.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260503-gaza-en-d%C3%A9pit-du-cessez-le-feu-l-aide-humanitaire-chute-et-ravive-les-risques-de-malnutrition",
+          "imageUrl": "https://s.rfi.fr/media/display/457fc0a0-467d-11f1-a74d-005056bfb2b6/w:1024/p:16x9/GAZA-MALNUTRITION-HUMANITAIRE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T03:04:13.000Z",
+          "fetchedAt": "2026-05-03T04:35:54.969Z"
+        },
+        {
+          "id": "2026-05-03-6fd7dc1f",
+          "title": "«Flottille pour Gaza»: manifestation à Barcelone pour réclamer la libération des deux militants détenus en Israël",
+          "description": "À la suite de l’interception d'une nouvelle flottille pour Gaza par l'armée israélienne au large de la Crète jeudi 30 avril, tous ses membres ont été relâchés, à l'exception de deux d'entre eux qui ont été conduits en Israël pour y être interrogés. L'un, Saïf Abukeshek, est de nationalité espagnole, l'autre, Thiago Ávila, est brésilien. Un rassemblement pour réclamer leur libération a été organisé à Barcelone, ce samedi 2 mai.",
+          "url": "https://www.rfi.fr/fr/europe/20260503-flottille-pour-gaza-manifestation-%C3%A0-barcelone-pour-r%C3%A9clamer-la-lib%C3%A9ration-des-deux-militants-d%C3%A9tenus-en-isra%C3%ABl",
+          "imageUrl": "https://s.rfi.fr/media/display/8bbd57dc-4676-11f1-b457-005056bfb2b6/w:1024/p:16x9/2026-05-02T190919Z-1129162797-RC271LAFD174-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA-FLOTILLA-SPAIN.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T03:02:26.000Z",
+          "fetchedAt": "2026-05-03T04:35:54.969Z"
+        },
+        {
+          "id": "2026-05-02-bc52121a",
+          "title": "Israël détient deux militants de la \"Flottille pour Gaza\" interceptée au large de la Grèce",
+          "description": "Deux militants pro-palestiniens, ⁠qui étaient à ​bord de navires humanitaires en route vers Gaza, ont été conduits en Israël samedi pour être interrogés. Parmi les 175 militants arrêtés jeudi au large des côtes grecques, ils sont les seuls à ne pas avoir été relâchés. L'Espagne, dont est originaire un des deux hommes, a qualifié la décision israélienne de \"complètement illégale\".",
+          "url": "https://www.france24.com/fr/moyen-orient/20260502-isra%C3%ABl-d%C3%A9tient-deux-militants-de-la-flottille-pour-gaza-intercept%C3%A9e-au-large-de-la-gr%C3%A8ce",
+          "imageUrl": "https://s.france24.com/media/display/264736da-4639-11f1-bb47-005056a97e36/w:1024/p:16x9/035afbdab33bebaac2a36bba3b8ccebf8aa766a7.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-01T21:10:46.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.423Z"
+          "publishedAt": "2026-05-02T17:59:37.000Z",
+          "fetchedAt": "2026-05-03T04:35:39.144Z"
         }
       ]
     },
     {
-      "id": "cluster-16",
-      "topic": "Jean Pisani-Ferry : « Les Etats-Unis ont durablement perdu leur magistère moral ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-02-29a76505",
-          "title": "Jean Pisani-Ferry : « Les Etats-Unis ont durablement perdu leur magistère moral »",
-          "description": "En tournant le dos à la démocratie et à la liberté, valeurs que les Etats-Unis incarnaient, désormais remplacées par la loi du plus fort et la culture du « deal », Donald Trump fait un tort irréparable à la première puissance mondiale, estime l’économiste, dans sa chronique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/05/02/jean-pisani-ferry-les-etats-unis-ont-durablement-perdu-leur-magistere-moral_6684825_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T03:00:13.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.445Z"
-        },
-        {
-          "id": "2026-05-02-e6d2200a",
-          "title": "Les Etats-Unis vont retirer quelque 5 000 militaires d’Allemagne d’ici à un an et menacent de réduire les effectifs en Italie et en Espagne",
-          "description": "Cette annonce intervient après des propos du chancelier Friedrich Merz, qui ont suscité la colère de Donald Trump. Plus de 36 000 soldats américains sont actuellement positionnés outre-Rhin.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/02/les-etats-unis-vont-retirer-quelque-5-000-militaires-d-allemagne-d-ici-un-an-et-menacent-de-reduire-les-effectifs-en-italie-et-en-espagne_6684790_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T00:49:39.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.445Z"
-        },
-        {
-          "id": "2026-05-02-52ad68fb",
-          "title": "Les États-Unis vont retirer quelque 5000 militaires d'Allemagne d'ici un an",
-          "description": "Le ministre de la Défense américain Pete Hegseth a ordonné le retrait de quelque 5 000 militaires d'Allemagne d'ici un an, soit environ 15% de ses effectifs présents dans ce pays, a indiqué le Pentagone vendredi.",
-          "url": "https://www.rfi.fr/fr/europe/20260502-les-%C3%A9tats-unis-vont-retirer-quelque-5000-militaires-d-allemagne-d-ici-un-an",
-          "imageUrl": "https://s.rfi.fr/media/display/55a15d1e-17dd-11f1-96b5-005056a97e36/w:1024/p:16x9/1024px-435th-SFS-conducts-airborne-operations-over-Ramstein-Air-Base-8259397.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T00:38:02.000Z",
-          "fetchedAt": "2026-05-02T04:14:43.872Z"
-        },
-        {
-          "id": "2026-05-01-0fcab43e",
-          "title": "Aux Etats-Unis, une cour d’appel fédérale suspend l’envoi postal de la pilule abortive",
-          "description": "La décision de cette cour d’appel conservatrice suspendant l’acheminement postal de la mifépristone fait droit à une demande de l’Etat républicain de Louisiane.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/02/aux-etats-unis-une-cour-d-appel-federale-suspend-l-envoi-postal-de-la-pilule-abortive_6684757_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-01T22:35:39.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.445Z"
-        },
-        {
-          "id": "2026-05-01-305eccdc",
-          "title": "Les Etats-Unis sanctionnent l'ancien président congolais Joseph Kabila",
-          "description": "Après avoir sanctionné l’armée rwandaise en raison de son soutien aux rebelles de l’AFC/M23, Washington frappe l’ancien président de la République Démocratique du Congo, Joseph Kabila, qui a dirigé le pays de 2001 à 2019.  Il est accusé de « semer l’instabilité » dans son pays.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260501-les-etats-unis-sanctionnent-l-ancien-pr%C3%A9sident-congolais-joseph-kabila",
-          "imageUrl": "https://s.france24.com/media/display/034aa748-45a3-11f1-89c6-005056a97e36/w:1024/p:16x9/DN194331-A-01-20260427-01-1.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-01T21:47:04.000Z",
-          "fetchedAt": "2026-05-02T04:14:28.423Z"
-        },
-        {
-          "id": "2026-05-01-623cc9a5",
-          "title": "États-Unis: Donald Trump annonce un renforcement des sanctions contre Cuba",
-          "description": "Donald Trump a annoncé vendredi un durcissement des sanctions contre Cuba, où un défilé a été organisé à l'occasion du 1er-Mai pour « défendre la patrie » et dénoncer les menaces d'agression militaire américaine. Des mesures « illégales » et « abusives », dénonce la diplomatie cubaine.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260501-%C3%A9tats-unis-donald-trump-annonce-un-renforcement-des-sanctions-contre-cuba",
-          "imageUrl": "https://s.rfi.fr/media/display/c07317b4-4595-11f1-8228-005056bfb2b6/w:1024/p:16x9/AP26121589754316.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-01T19:53:23.000Z",
-          "fetchedAt": "2026-05-02T04:14:43.872Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
+      "id": "cluster-25",
       "topic": "Apple raises the Mac Mini&#8217;s starting price",
       "category": "tech",
-      "importance": 10,
+      "importance": 9,
       "articles": [
         {
           "id": "2026-05-01-390b79fa",
@@ -239,7 +184,7 @@
           "source": "The Verge",
           "category": "tech",
           "publishedAt": "2026-05-01T21:52:09.000Z",
-          "fetchedAt": "2026-05-02T04:15:04.377Z"
+          "fetchedAt": "2026-05-03T04:36:08.287Z"
         },
         {
           "id": "2026-05-01-d9e63847",
@@ -250,81 +195,26 @@
           "source": "Ars Technica",
           "category": "tech",
           "publishedAt": "2026-05-01T14:10:48.000Z",
-          "fetchedAt": "2026-05-02T04:15:04.414Z"
+          "fetchedAt": "2026-05-03T04:36:08.307Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "« Je trouvais que c’était sale, voire vulgaire, d’aller négocier comme un marcha",
+      "id": "cluster-2",
+      "topic": "Quelle réduction d’impôt pour les dons aux associations ?",
       "category": "eco",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-05-02-f1f851c9",
-          "title": "« Je trouvais que c’était sale, voire vulgaire, d’aller négocier comme un marchand de tapis » : les jeunes actifs tentent de faire imploser le tabou des rémunérations",
-          "description": "A l’heure où la directive européenne sur la transparence salariale, qui doit être transposée en droit français, remet le sujet sur la table, certains tentent de le désacraliser au sein de leur entreprise. Avec plus ou moins de succès.",
-          "url": "https://www.lemonde.fr/campus/article/2026/05/02/je-trouvais-que-c-etait-sale-voire-vulgaire-d-aller-negocier-comme-un-marchand-de-tapis-les-jeunes-actifs-tentent-de-faire-imploser-le-tabou-des-remunerations_6684841_4401467.html",
+          "id": "2026-05-03-6a77ca4d",
+          "title": "Quelle réduction d’impôt pour les dons aux associations ?",
+          "description": "Donner, c’est donner, et on pourra vous y reprendre : car si la somme versée ne dépasse pas une certaine valeur, votre don est déductible de l’impôt sur le revenu jusqu’à 75 %.",
+          "url": "https://www.lemonde.fr/argent/article/2026/05/03/quelle-reduction-d-impot-pour-les-dons-aux-associations_6685002_1657007.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-05-02T04:01:02.000Z",
-          "fetchedAt": "2026-05-02T04:15:04.533Z"
-        },
-        {
-          "id": "2026-05-02-148792c4",
-          "title": "EasyJet condamnée pour refus d’embarquer un passager au passeport périmé depuis moins de cinq ans",
-          "description": "Les pays comme l’Italie ou la Grèce, qui ont ratifié un accord du Conseil de l’Europe, ne peuvent exiger de passeport français en cours de validité.",
-          "url": "https://www.lemonde.fr/argent/article/2026/05/02/easyjet-condamnee-pour-refus-d-embarquer-un-passager-au-passeport-perime-depuis-moins-de-cinq-ans_6684833_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-02T04:00:18.000Z",
-          "fetchedAt": "2026-05-02T04:15:04.533Z"
-        },
-        {
-          "id": "2026-05-01-c14ac73e",
-          "title": "Helios : quand une panne du logiciel de comptabilité publique menace la paie de millions de fonctionnaires",
-          "description": "En février, un problème sur un matériel japonais a bloqué pendant douze jours le logiciel de comptabilité publique Helios. L’Assemblée nationale s’inquiète des « vulnérabilités » mises en évidence par cet incident.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/01/affaire-helios-quand-une-panne-informatique-menace-la-paie-de-millions-de-fonctionnaires_6684701_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-01T09:22:02.000Z",
-          "fetchedAt": "2026-05-02T04:15:04.533Z"
-        },
-        {
-          "id": "2026-05-01-ae58a971",
-          "title": "A Lyon, un programme de logements revendique l’utilisation de « bois bleu », souvent délaissé car marqué par un champignon",
-          "description": "Portant des traces bleutées dues à un champignon après le passage du scolyte qui ravage les forêts d’épicéas, ce bois conserve ses propriétés mécaniques, mais son emploi dans la construction implique de dépasser certains préjugés.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/01/a-lyon-un-programme-de-logements-revendique-l-utilisation-de-bois-bleu-souvent-delaisse-car-marque-par-un-champignon_6684694_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-01T08:00:09.000Z",
-          "fetchedAt": "2026-05-02T04:15:04.533Z"
-        },
-        {
-          "id": "2026-05-01-cd8c22cd",
-          "title": "Pourquoi le 1ᵉʳ-Mai est-il férié, chômé et payé ? Une conquête sociale toujours débattue",
-          "description": "Journée de revendication salariale et syndicale, le 1ᵉʳ-Mai est aujourd’hui célébré dans la plupart des pays du monde. En France, les dérogations au travail sont au cœur du débat.",
-          "url": "https://www.lemonde.fr/politique/article/2026/05/01/pourquoi-le-1-mai-est-il-ferie-une-conquete-sociale-devenue-un-rituel-toujours-debattu_6684695_823448.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-01T08:00:07.000Z",
-          "fetchedAt": "2026-05-02T04:15:04.533Z"
-        },
-        {
-          "id": "2026-05-01-23df9261",
-          "title": "Voitures électriques : les ventes en France ont augmenté de 48 % depuis le début de l’année malgré un marché global en recul",
-          "description": "Plus de 148 300 véhicules électriques ont été vendus au cours des quatre premiers mois de 2025, selon la Plateforme automobile (PFA), qui regroupe tous les constructeurs.",
-          "url": "https://www.lemonde.fr/economie-francaise/article/2026/05/01/voitures-electriques-les-ventes-ont-bondi-de-48-depuis-le-debut-de-l-annee-en-france-malgre-un-marche-automobile-en-recul_6684690_1656968.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-01T07:27:08.000Z",
-          "fetchedAt": "2026-05-02T04:15:04.533Z"
+          "publishedAt": "2026-05-03T04:00:29.000Z",
+          "fetchedAt": "2026-05-03T04:36:08.434Z"
         }
       ]
     }
