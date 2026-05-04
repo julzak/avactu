@@ -1,220 +1,308 @@
 {
-  "generatedAt": "2026-05-03T04:39:39.540Z",
+  "generatedAt": "2026-05-04T04:39:57.263Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "États-Unis: la dette américaine atteint 100% du produit intérieur brut",
+      "id": "cluster-1",
+      "topic": "L'OMS, MSF et le CICR fustigent la généralisation des attaques contre les servic",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-03-6316cfea",
-          "title": "États-Unis: la dette américaine atteint 100% du produit intérieur brut",
-          "description": "C'est un chiffre symbolique mais révélateur : la dette cumulée des États-Unis dépasse désormais 100% du produit intérieur brut (PIB). Autrement dit, il faudrait pour la rembourser mettre de côté la production de tout le pays pendant une année entière. Une situation qui n'est pas exactement nouvelle mais qui inquiète certains économistes.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260503-%C3%A9tats-unis-la-dette-am%C3%A9ricaine-atteint-100-du-produit-int%C3%A9rieur-brut",
-          "imageUrl": "https://s.rfi.fr/media/display/7003a250-46a6-11f1-8355-005056bfb2b6/w:1024/p:16x9/063-2244853933.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-03T04:14:44.000Z",
-          "fetchedAt": "2026-05-03T04:35:54.969Z"
-        },
-        {
-          "id": "2026-05-03-055fa137",
-          "title": "Guerre en Iran, Biélorussie, pilule abortive aux États-Unis : les informations de la nuit",
-          "description": "",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-iran-bielorussie-pilule-abortive-aux-etats-unis-les-informations-de-la-nuit_243593",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/18/0/0/5451/3634/1200/630/60/0/a17482b_ftp-1-nx4o3q3c7vwj-mideast-conflict-30.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-03T03:00:21.000Z",
-          "fetchedAt": "2026-05-03T04:35:39.819Z"
-        },
-        {
-          "id": "2026-05-03-20633b41",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce qu’il va étudier un plan iranien mais doute qu’il soit « acceptable »",
-          "description": "Le président américain a dit samedi qu’il allait étudier un texte de Téhéran pour résoudre le conflit, tout en expliquant qu’il ne pouvait s’imaginer « qu’il soit acceptable, parce que [les Iraniens] n’ont pas encore payé un prix suffisant pour ce qu’ils ont fait à l’humanité et au monde depuis 47 ans » et la fondation de la République islamique.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-qu-il-va-etudier-un-plan-iranien-mais-doute-qu-il-soit-acceptable_6684072_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-03T00:45:51.000Z",
-          "fetchedAt": "2026-05-03T04:35:39.204Z"
-        },
-        {
-          "id": "2026-05-02-1f5f1491",
-          "title": "Aux Etats-Unis, la crise énergétique a précipité la chute de la compagnie aérienne Spirit Airlines",
-          "description": "Pionnière du modèle low cost outre-Atlantique, elle a annoncé arrêter ses activités samedi 2 mai, malgré la mobilisation de la Maison Blanche. Près de 17 000 salariés sont concernés, d’autres compagnies s’organisent pour reprendre les billets des passagers qui ont vu leurs vols annulés.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/03/aux-etats-unis-la-crise-energetique-a-precipite-la-chute-de-la-compagnie-aerienne-spirit-airlines_6684925_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T22:59:53.000Z",
-          "fetchedAt": "2026-05-03T04:35:39.204Z"
-        },
-        {
-          "id": "2026-05-02-be02b6d4",
-          "title": "Philippines: une décharge en feu depuis trois semaines, inquiétude pour la santé et l'environnement",
-          "description": "La décharge de Navotas, installée sur l'île de Luçon aux Philippines et en périphérie de Manille, brûle depuis le 10 avril. Plusieurs centaines de riverains ont été évacués. Grâce aux efforts des pompiers, une partie de l'incendie a été étouffée avec de l'eau et de la terre. Mais des fumées toxiques polluent toujours l'air. Des alertes sont émises quant aux risques de contamination des sols et des écosystèmes marins.",
-          "url": "https://www.rfi.fr/fr/environnement/20260502-philippines-une-d%C3%A9charge-en-feu-depuis-trois-semaines-inqui%C3%A9tude-pour-la-sant%C3%A9-et-l-environnement",
-          "imageUrl": "https://s.rfi.fr/media/display/8235339e-464c-11f1-a167-005056a90284/w:1024/p:16x9/000-A9G239F.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T19:33:33.000Z",
-          "fetchedAt": "2026-05-03T04:35:54.969Z"
-        },
-        {
-          "id": "2026-05-02-90c2ca29",
-          "title": "IVG: la justice américaine s'attaque à l'envoi postal de la pilule abortive",
-          "description": "Une cour d'appel américaine a provisoirement suspendu, vendredi 1er mai, la possibilité d'envoyer par la poste la mifépristone. Utilisé dans la majorité des avortements, ce médicament est devenu un levier essentiel pour contourner les interdictions locales depuis la décision de la Cour suprême des États-Unis, en 2022.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260502-ivg-la-justice-am%C3%A9ricaine-s-attaque-%C3%A0-l-envoi-postal-de-la-pilule-abortive",
-          "imageUrl": "https://s.rfi.fr/media/display/a7bdbe3a-2a72-11ef-bf72-005056a97e36/w:1024/p:16x9/AP24086509334207.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T17:05:24.000Z",
-          "fetchedAt": "2026-05-03T04:35:54.969Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-8",
-      "topic": "Laure Ferrari, la Française qui murmure à l’oreille de Nigel Farage, le patron d",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-03-0d110942",
-          "title": "Laure Ferrari, la Française qui murmure à l’oreille de Nigel Farage, le patron de l’extrême droite britannique",
-          "description": "Inconnue en France, Laure Ferrari, 46 ans, conseille dans l’ombre son compagnon Nigel Farage, dont le parti, Reform UK, est en tête des sondages au Royaume-Uni. Après avoir été un rouage des extrêmes droites internationales au Parlement européen et gravité dans l’orbite de l’idéologue trumpiste Steve Bannon, la Française rêve désormais d’accompagner son conjoint au 10 Downing Street, la résidence des premiers ministres.",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/05/03/laure-ferrari-la-francaise-qui-murmure-a-l-oreille-de-nigel-farage-le-patron-de-l-extreme-droite-britannique_6684996_4500055.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-03T03:30:09.000Z",
-          "fetchedAt": "2026-05-03T04:35:39.204Z"
-        },
-        {
-          "id": "2026-05-03-ec64d628",
-          "title": "RDC: pour célébrer ses 20 ans de carrière, le chanteur Fally Ipupa ensorcelle le Stade de France",
-          "description": "C’est une première pour un artiste africain francophone : le chanteur congolais Fally Ipupa enchaîne deux concerts, ce week-end, au Stade de France, devant un total de 160 000 spectateurs réunis pour célébrer ses 20 ans de carrière. Un spectacle qui fait aussi la fierté de toute la diaspora congolaise qui vit dans l'Hexagone, non sans susciter parfois une certaine émotion...",
-          "url": "https://www.rfi.fr/fr/afrique/20260503-rdc-pour-c%C3%A9l%C3%A9brer-ses-20-ans-de-carri%C3%A8re-le-chanteur-fally-ipupa-ensorcelle-le-stade-de-france",
-          "imageUrl": "https://s.rfi.fr/media/display/c6ec9f98-2025-11f0-9b12-005056bfb2b6/w:1024/p:16x9/fally-ipupa-solidarite-congo-avril-2025-paris.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-03T03:01:35.000Z",
-          "fetchedAt": "2026-05-03T04:35:54.969Z"
-        },
-        {
-          "id": "2026-05-02-127670bd",
-          "title": "Pour vivre la nuit aussi, allez donc à Paris plutôt qu’à Londres",
-          "description": "Arrivée avec un lourd bagage d’appréhensions dans la capitale française, une journaliste britannique découvre un Paris ouvert, sociable et tolérant sur la vie nocturne, dont Londres ferait bien de s’inspirer, selon elle. Son récit a été publié par “The Spectator”.",
-          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-pour-vivre-la-nuit-aussi-allez-donc-a-paris-plutot-qu-a-londres_198164_1",
-          "imageUrl": null,
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T17:22:26.000Z",
-          "fetchedAt": "2026-05-03T04:35:39.819Z"
-        },
-        {
-          "id": "2026-05-02-29621b38",
-          "title": "À Paris, la librairie centenaire Shakespeare and Company plus moderne que jamais",
-          "description": "À l’heure du numérique et des recommandations algorithmiques, notre société opère un retour vers le livre objet et la librairie comme lieu de rencontre, observe la journaliste du magazine américain “Forbes”. Des valeurs que Shakespeare and Company défend depuis sa création.",
-          "url": "https://www.courrierinternational.com/article/vu-des-etats-unis-a-paris-la-librairie-centenaire-shakespeare-and-company-plus-moderne-que-jamais_243407",
-          "imageUrl": null,
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-02T08:47:45.000Z",
-          "fetchedAt": "2026-05-03T04:35:39.819Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-10",
-      "topic": "Gaza: en dépit du cessez-le-feu, l'aide humanitaire chute et ravive les risques ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-03-36382149",
-          "title": "Gaza: en dépit du cessez-le-feu, l'aide humanitaire chute et ravive les risques de malnutrition",
-          "description": "À Gaza, la situation humanitaire reste catastrophique. Le Haut-Commissaire des Nations unies aux droits de l'homme a appelé Israël à lever toutes les restrictions sur l'accès aux biens de première nécessité et à autoriser l'acheminement de l'aide humanitaire dans l'enclave. Le nombre de camions d'aide entrant à Gaza a chuté de façon drastique, en violation du cessez-le-feu d'octobre 2025 conclu avec le Hamas. Certains craignent déjà le retour des pénuries de nourriture, d'eau potable ou de gaz de cuisine.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260503-gaza-en-d%C3%A9pit-du-cessez-le-feu-l-aide-humanitaire-chute-et-ravive-les-risques-de-malnutrition",
-          "imageUrl": "https://s.rfi.fr/media/display/457fc0a0-467d-11f1-a74d-005056bfb2b6/w:1024/p:16x9/GAZA-MALNUTRITION-HUMANITAIRE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-03T03:04:13.000Z",
-          "fetchedAt": "2026-05-03T04:35:54.969Z"
-        },
-        {
-          "id": "2026-05-03-6fd7dc1f",
-          "title": "«Flottille pour Gaza»: manifestation à Barcelone pour réclamer la libération des deux militants détenus en Israël",
-          "description": "À la suite de l’interception d'une nouvelle flottille pour Gaza par l'armée israélienne au large de la Crète jeudi 30 avril, tous ses membres ont été relâchés, à l'exception de deux d'entre eux qui ont été conduits en Israël pour y être interrogés. L'un, Saïf Abukeshek, est de nationalité espagnole, l'autre, Thiago Ávila, est brésilien. Un rassemblement pour réclamer leur libération a été organisé à Barcelone, ce samedi 2 mai.",
-          "url": "https://www.rfi.fr/fr/europe/20260503-flottille-pour-gaza-manifestation-%C3%A0-barcelone-pour-r%C3%A9clamer-la-lib%C3%A9ration-des-deux-militants-d%C3%A9tenus-en-isra%C3%ABl",
-          "imageUrl": "https://s.rfi.fr/media/display/8bbd57dc-4676-11f1-b457-005056bfb2b6/w:1024/p:16x9/2026-05-02T190919Z-1129162797-RC271LAFD174-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA-FLOTILLA-SPAIN.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-03T03:02:26.000Z",
-          "fetchedAt": "2026-05-03T04:35:54.969Z"
-        },
-        {
-          "id": "2026-05-02-bc52121a",
-          "title": "Israël détient deux militants de la \"Flottille pour Gaza\" interceptée au large de la Grèce",
-          "description": "Deux militants pro-palestiniens, ⁠qui étaient à ​bord de navires humanitaires en route vers Gaza, ont été conduits en Israël samedi pour être interrogés. Parmi les 175 militants arrêtés jeudi au large des côtes grecques, ils sont les seuls à ne pas avoir été relâchés. L'Espagne, dont est originaire un des deux hommes, a qualifié la décision israélienne de \"complètement illégale\".",
-          "url": "https://www.france24.com/fr/moyen-orient/20260502-isra%C3%ABl-d%C3%A9tient-deux-militants-de-la-flottille-pour-gaza-intercept%C3%A9e-au-large-de-la-gr%C3%A8ce",
-          "imageUrl": "https://s.france24.com/media/display/264736da-4639-11f1-bb47-005056a97e36/w:1024/p:16x9/035afbdab33bebaac2a36bba3b8ccebf8aa766a7.jpg",
+          "id": "2026-05-04-ddc45e73",
+          "title": "L'OMS, MSF et le CICR fustigent la généralisation des attaques contre les services de santé",
+          "description": "Face à la prolifération des \"violences visant les infrastructures, les moyens de transport et le personnel de santé\" lors des conflits, les dirigeants de l'Organisation mondiale de la santé, du Comité international de la Croix-Rouge et de Médecins sans frontières dénoncent, dimanche dans une déclaration commune, \"un échec de la volonté politique\" et lancent un \"appel urgent à l'action\".",
+          "url": "https://www.france24.com/fr/sant%C3%A9/20260504-oms-msf-cicr-fustigent-generalisation-attaques-contre-services-sante-appel-action-echec-onu-soignants-hopital",
+          "imageUrl": "https://s.france24.com/media/display/bd409d78-0856-11f0-9fc6-005056bf30b7/w:1024/p:16x9/000_37LH4T2.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-02T17:59:37.000Z",
-          "fetchedAt": "2026-05-03T04:35:39.144Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-25",
-      "topic": "Apple raises the Mac Mini&#8217;s starting price",
-      "category": "tech",
-      "importance": 9,
-      "articles": [
-        {
-          "id": "2026-05-01-390b79fa",
-          "title": "Apple raises the Mac Mini&#8217;s starting price",
-          "description": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during an earnings call that a chip shortage will impact its Mac products in the coming months.\n\"If you look forward to June, the majority of our supply constraints will be on several Mac models,\" Cook said. \"We think looking forward that the Mac Mini and the Mac Studio may take several months to reach supply-demand balance.\" He added that both devices saw \"higher-than-expected demand\" as well, with many people b …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717370/DSC_1249.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-05-01T21:52:09.000Z",
-          "fetchedAt": "2026-05-03T04:36:08.287Z"
+          "publishedAt": "2026-05-04T04:30:58.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.942Z"
         },
         {
-          "id": "2026-05-01-d9e63847",
-          "title": "Apple may take \"several months\" to catch up to Mac mini and Studio demand",
-          "description": "Chip shortages and demand from AI enthusiasts are both playing a part.",
-          "url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-1152x648.jpeg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-05-01T14:10:48.000Z",
-          "fetchedAt": "2026-05-03T04:36:08.307Z"
+          "id": "2026-05-03-bc06bd7b",
+          "title": "L’OMS, le CICR et MSF dénoncent « l’échec » de la communauté internationale face aux attaques des services de santé dans les conflits",
+          "description": "« Les violences visant les infrastructures, les moyens de transport et le personnel de santé se poursuivent sans relâche », déplorent les chefs de l’Organisation mondiale de la santé, du Comité international de la Croix-Rouge et de Médecins sans frontières.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/04/attaques-contre-les-services-de-sante-lors-des-conflits-l-oms-le-cicr-et-msf-denoncent-l-echec-de-la-communaute-internationale_6685257_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T22:44:59.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.608Z"
+        },
+        {
+          "id": "2026-05-03-e6616099",
+          "title": "Au Maroc, deux soldats américains sont portés disparus dans des exercices militaires",
+          "description": "Deux soldats américains sont portés disparus depuis samedi soir dans le sud du Maroc où ils participaient à des exercices militaires internationaux conjoints. Des recherches menées par les forces armées royales marocaines et le commandement des États-Unis pour l'Afrique sont en cours.",
+          "url": "https://www.france24.com/fr/afrique/20260503-maroc-deux-soldats-americains-sont-portes-disparus-exercices-militaires-african-lion",
+          "imageUrl": "https://s.france24.com/media/display/ef065a1e-4707-11f1-919a-005056a90284/w:1024/p:16x9/000-46VY33R.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T16:06:53.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.942Z"
+        },
+        {
+          "id": "2026-05-03-0bd5e3bd",
+          "title": "Réforme controversée de la justice en Serbie: l'Union européenne bloque une aide de 600 millions d'euros",
+          "description": "La Serbie vient d'être privée - au moins temporairement - d'un important versement d'aide européenne au développement, en raison d'une loi de réforme de la justice, jugée attentatoire à l'indépendance des juges, et votée dans un contexte de grande instabilité du pouvoir suite aux manifestations étudiantes de 2025. Depuis février 2026, cette loi était devenue le thème de conversation principal entre Bruxelles et Belgrade et les échanges entre Marta Kos, commissaire à l'Élargissement et Nemanja Starovic, ministre serbe de l'intégration européenne, ont confirmé l'ampleur de la crise.",
+          "url": "https://www.rfi.fr/fr/europe/20260503-r%C3%A9forme-controvers%C3%A9e-de-la-justice-en-serbie-l-union-europ%C3%A9enne-bloque-une-aide-de-600-millions-d-euros",
+          "imageUrl": "https://s.rfi.fr/media/display/bdd6366e-2f5e-11f1-8797-005056bfb2b6/w:1024/p:16x9/Le-pr%C3%A9sident-serbe-Aleksandar-Vucic-%C3%A0-Abu-Dhabi-aux-%C3%89mirats-arabes-unis-le-13-janvier-2026.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T13:04:22.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.613Z"
+        },
+        {
+          "id": "2026-05-03-ae9e1d63",
+          "title": "L’autrice ghanéenne Nana Darkoa Sekyiamah s’attaque aux clichés sur la sexualité des femmes africaines",
+          "description": "Le livre « La Vie sexuelle des femmes africaines » est sorti en français en mars. Figure connue des milieux féministes ghanéens et africains, l’autrice y dépeint l’intimité de 31 femmes du continent et de la diaspora.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/05/03/l-autrice-ghaneenne-nana-darkoa-sekyiamah-s-attaque-aux-cliches-sur-la-sexualite-des-femmes-africaines_6685223_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T11:37:39.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.608Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Quelle réduction d’impôt pour les dons aux associations ?",
+      "topic": "Donald Trump annonce lancer une opération pour débloquer des navires coincés dep",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-04-2e7aadd2",
+          "title": "Donald Trump annonce lancer une opération pour débloquer des navires coincés depuis deux mois dans le détroit d’Ormuz",
+          "description": "La marine américaine doit escorter, à partir de lundi matin, au travers du passage stratégique des bateaux de pays « qui n’ont rien à voir avec le conflit au Moyen-Orient », a dit le président des Etats-Unis. « Toute intervention américaine (…) sera considérée comme une violation du cessez-le-feu », a répondu l’Iran.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/04/donald-trump-annonce-lancer-une-operation-pour-debloquer-des-navires-coinces-depuis-deux-mois-dans-le-detroit-d-ormuz_6685343_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-04T04:28:57.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.608Z"
+        },
+        {
+          "id": "2026-05-04-5fb5cd3d",
+          "title": "EN DIRECT - Moyen-Orient: l'opération américaine dans le détroit d'Ormuz, une violation du cessez-le-feu pour Téhéran",
+          "description": "Donald Trump lance le « Projet Liberté » : dès ce lundi 4 mai, la marine américaine va escorter les quelques 900 navires bloqués dans le Golfe, pour leur permettre de traverser le détroit d’Ormuz sans encombre. Le président américain a fait l’annonce tout en complimentant l’Iran, avec qui il considère avoir des discussions « très positives ». Pourtant, Téhéran a déjà rétorqué qu’il considérerait toute « interférence » américaine comme une violation du cessez-le-feu.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260504-en-direct-moyen-orient-l-op%C3%A9ration-am%C3%A9ricaine-dans-le-d%C3%A9troit-d-ormuz-une-violation-du-cessez-le-feu-pour-t%C3%A9h%C3%A9ran",
+          "imageUrl": "https://s.rfi.fr/media/display/de8c84de-476f-11f1-9c56-005056bfb2b6/w:1024/p:16x9/AP26121535011777.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-04T04:27:51.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.613Z"
+        },
+        {
+          "id": "2026-05-04-2f65ce30",
+          "title": "Trump annonce une opération pour débloquer le détroit d’Ormuz",
+          "description": "Le président américain a déclaré dimanche que Washington allait entamer des efforts à partir de lundi pour débloquer des navires coincés depuis deux mois dans le Golfe, provoquant une mise en garde de Téhéran. Les contours de cette initiative restent flous, estime la presse américaine, tout en soulignant que l’opération pourrait mener à une rupture de la trêve.",
+          "url": "https://www.courrierinternational.com/article/guerre-en-iran-trump-annonce-une-operation-pour-debloquer-le-detroit-d-ormuz_243599",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/03/0/0/5000/3333/1200/630/60/0/284c634_ftp-1-4fanzp1wbybj-trump-iran-2.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-04T04:15:18.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.982Z"
+        },
+        {
+          "id": "2026-05-04-5a601c3d",
+          "title": "Nigeria: une quarantaine d'éleveurs peuls tués par des miliciens nigérians et béninois",
+          "description": "Les victimes de l'attaque qui s'est déroulée jeudi 30 avril dans l'État du Niger, dans le centre-ouest du Nigeria, étaient accusées d'être des informateurs du groupe jihadiste Ansaru, né d'une scission du groupe Boko Haram en 2021.",
+          "url": "https://www.rfi.fr/fr/afrique/20260504-nigeria-une-quarantaine-d-%C3%A9leveurs-peuls-tu%C3%A9s-par-des-miliciens-nig%C3%A9rians-et-b%C3%A9ninois",
+          "imageUrl": "https://s.rfi.fr/media/display/164892c6-117d-11ea-a365-005056bf7c53/w:1024/p:16x9/170471274_0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-04T02:53:23.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.613Z"
+        },
+        {
+          "id": "2026-05-04-7a0b66f8",
+          "title": "Israël acquiert de nouveaux chasseurs américains et lance un plan massif pour parvenir à l'autonomie stratégique",
+          "description": "Alors que l'État hébreu est engagé dans un conflit régional qui s'étend sur plusieurs fronts, Benyamin Netanyahu durcit le ton et muscle son arsenal : dimanche 3 mai, le Premier ministre israélien a annoncé l’achat de nouveaux avions de combat américains, mais aussi un plan massif pour atteindre l’autonomie militaire dans une accélération stratégique sans précédant pour son pays.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260504-isra%C3%ABl-acquiert-de-nouveaux-chasseurs-am%C3%A9ricains-et-lance-un-plan-massif-pour-parvenir-%C3%A0-l-autonomie-strat%C3%A9gique",
+          "imageUrl": "https://s.rfi.fr/media/display/012a3c32-4740-11f1-b5cd-005056bf30b7/w:1024/p:16x9/2026-05-02T011005Z-1375780402-RC24T1A2JOKM-RTRMADP-3-IRAN-CRISIS-USA-ARMS-ALLIES.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-04T02:51:56.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.613Z"
+        },
+        {
+          "id": "2026-05-04-d27e81aa",
+          "title": "L'ancien maire de New York, Rudy Giuliani, hospitalisé dans un état \"critique\"",
+          "description": "L'ex-avocat de 81 ans, Rudy Giuliani, est hospitalisé dans \"un état critique mais stable\", a indiqué dimanche son porte-parole, sans préciser la nature des problèmes de santé de l'ancien maire de New York. Donald Trump a salué un \"véritable guerrier\", profitant de cette occasion pour attaquer les démocrates.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260504-ancien-maire-new-york-rudy-giuliani-hospitalise-etat-critique-etats-unis-avocat-sante-trump",
+          "imageUrl": "https://s.france24.com/media/display/91be4676-4754-11f1-9026-005056a90284/w:1024/p:16x9/AP26123852238419.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-04T02:20:07.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.942Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Guerre en Ukraine, Mélenchon candidat à la présidentielle, Ebay, hantavirus, Rud",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-04-81fe561c",
+          "title": "Guerre en Ukraine, Mélenchon candidat à la présidentielle, Ebay, hantavirus, Rudy Giuliani : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-ukraine-melenchon-candidat-a-la-presidentielle-ebay-hantavirus-rudy-giuliani-les-informations-de-la-nuit_243598",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/03/1/0/4496/2997/1200/630/60/0/ebed095_ftp-1-q22jzvsqnhk3-afp-a9nl37q.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-04T04:26:44.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.982Z"
+        },
+        {
+          "id": "2026-05-04-a75ce662",
+          "title": "Jean-Luc Mélenchon à nouveau candidat à la présidentielle",
+          "description": "Quatrième campagne de Jean-Luc Mélenchon pour l'Élysée. Le patron de LFI a choisi le 20 heures de TF1 pour officialiser sa candidature à l'élection présidentielle de 2027. Il a d'ores et déjà désigné son principal rival, le Rassemblement national. Une candidature qui tombe à un moment où la gauche est divisée, tant sur les programmes que sur la stratégie.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260504-jean-luc-m%C3%A9lenchon-%C3%A0-nouveau-candidat-%C3%A0-la-pr%C3%A9sidentielle",
+          "imageUrl": "https://s.france24.com/media/display/50ca4fc8-4756-11f1-a3d3-005056a97e36/w:1024/p:16x9/FR-20260504-023421-023610-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-04T01:15:17.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.942Z"
+        },
+        {
+          "id": "2026-05-03-f0d215a2",
+          "title": "Cinq morts dans des attaques de drones entre l'Ukraine et la Russie, Kiev frappe des navires russes",
+          "description": "L'Ukraine a affirmé, dimanche 3 mai, avoir frappé plusieurs navires russes – un porte-missiles et trois pétroliers de la « flotte fantôme » –, alors que les deux pays ont lancé, dans les heures précédentes, des centaines de drones dans une série d'attaques qui a fait au moins cinq morts.",
+          "url": "https://www.rfi.fr/fr/europe/20260503-cinq-morts-dans-des-attaques-de-drones-entre-l-ukraine-et-la-russie-kiev-frappe-des-navires-russes",
+          "imageUrl": "https://s.rfi.fr/media/display/c4081d22-470f-11f1-b4cd-005056bf30b7/w:1024/p:16x9/2026-05-03T163847Z-1704484341-RC2R1LAGZCB1-RTRMADP-3-UKRAINE-CRISIS-ATTACK-DNIPRO.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T20:28:33.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.613Z"
+        },
+        {
+          "id": "2026-05-03-bb7c9df9",
+          "title": "Africains envoyés sur le front en Ukraine : une enquête révèle l’ampleur du système",
+          "description": "Dans son enquête titrée “Le business du désespoir”, le collectif d’investigation All Eyes On Wagner a décortiqué les réseaux de recrutement de combattants africains envoyés sur le front ukrainien pour combattre aux côtés de l’armée russe. Un rapport qui donne à voir une mécanique bien rodée et implacable.",
+          "url": "https://www.courrierinternational.com/article/guerre-africains-envoyes-sur-le-front-en-ukraine-une-enquete-revele-l-ampleur-du-systeme_240504_1",
+          "imageUrl": null,
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T16:27:41.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.982Z"
+        },
+        {
+          "id": "2026-05-03-0c549c83",
+          "title": "Drones et systèmes de défense : l'Ukraine veut exporter son savoir-faire",
+          "description": "En Ukraine, au moins trois personnes ont été tuées dans des frappes de drone russes dans la région d'Odessa, à Kherson et à Dnipro. Kiev frappe aussi le territoire Russe : une personne a été tuée près de Moscou… un savoir-faire qui pourrait s’exporter. En plus de quatre ans de guerre, le pays a acquis des compétences spécifiques, une expertise très pointue. Volodymyr Zelensky est en train d’en faire un atout. Explications et analyse de David Delos, chroniqueur international France 24.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260503-drones-et-syst%C3%A8mes-de-d%C3%A9fense-l-ukraine-veut-exporter-son-savoir-faire",
+          "imageUrl": "https://s.france24.com/media/display/06e4e19e-470a-11f1-95d5-005056bf30b7/w:1024/p:16x9/FR-20260503-170510-171240-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T16:18:55.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.942Z"
+        },
+        {
+          "id": "2026-05-03-2117744b",
+          "title": "Guerre en Ukraine : Kiev frappe le port russe de Primorsk, des navires russes touchés",
+          "description": "Des drones ukrainiens ont frappé dimanche le port russe de Primorsk, situé sur la mer Baltique. Le gouverneur de cette localité a affirmé avoir abattu plus de 60 drones pendant la nuit. Dans ce port, se situe un centre d'exportation de pétrole russe. Selon le président ukrainien Volodymyr Zelensky, plusieurs bateaux ont été touchés. D'autres attaques a été lancée par Kiev à travers la Russie.",
+          "url": "https://www.france24.com/fr/europe/20260503-guerre-en-ukraine-kiev-frappe-port-primorsk-russie-navires-russes-touches-incendie-drones-exportation-petrole-zelensky",
+          "imageUrl": "https://s.france24.com/media/display/2b9f658c-46ff-11f1-8489-005056bfb2b6/w:1024/p:16x9/000-A4DU69E.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-03T14:53:58.000Z",
+          "fetchedAt": "2026-05-04T04:35:56.942Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "Cent soixante-neuf e-mails et six heures de réunion par semaine : les risques de",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-04-ba634b87",
+          "title": "Cent soixante-neuf e-mails et six heures de réunion par semaine : les risques de l’« infobésité » au travail",
+          "description": "Si l’on additionne le temps passé en réunion, le traitement des e-mails et les tchats, le total atteint, par semaine, vingt-sept heures chez les dirigeants, dix-neuf chez les manageurs et dix chez les salariés non manageurs, explique dans sa chronique Jules Thomas, journaliste du « Monde ». Un rythme qui a des conséquences sur la santé mentale et la productivité.",
+          "url": "https://www.lemonde.fr/emploi/article/2026/05/04/cent-soixante-neuf-e-mails-et-six-heures-de-reunion-par-semaine-les-risques-de-l-infobesite-au-travail_6685334_1698637.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-04T04:00:25.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.678Z"
+        },
+        {
+          "id": "2026-05-03-8b49cdde",
+          "title": "« Je déteste mon job, mais j’ai l’impression que c’est comme ça partout » : la gen Z raconte un monde du travail violent et fracturé sur le forum AntiTaff",
+          "description": "Les témoignages anonymes dans cette communauté de Reddit donnent à voir les coulisses de situations professionnelles en pleine perte de sens et apportent aussi soutien et entraide aux salariés désillusionnés.",
+          "url": "https://www.lemonde.fr/campus/article/2026/05/03/je-deteste-mon-job-mais-j-ai-l-impression-que-c-est-comme-ca-partout-sur-reddit-le-monde-du-travail-raconte-par-la-gen-z_6685141_4401467.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-03T08:00:03.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.678Z"
+        },
+        {
+          "id": "2026-05-03-2878c61e",
+          "title": "Les drôles de prédictions d’une IA bloquée en 1930, une curieuse voiture électrique à réaction & le test du quadricycle français Ipop – le récap’ de la semaine",
+          "description": "Un fabricant chinois d’aspirateurs présente une voiture électrique à réaction ? Une IA figée en 1930 ? Ou encore le test d'un quadricycle français ? Voilà ce qui a notamment retenu votre attention cette semaine.",
+          "url": "https://www.numerama.com/vroom/2245555-les-droles-de-predictions-dune-ia-bloquee-en-1930-une-curieuse-voiture-electrique-a-reaction-le-test-du-quadricycle-francais-ipop-le-recap-de-la-semaine.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/dreame-nebula-next-01-jet-edition-2.jpg?resize=1600,900&key=f496e7d4&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-03T05:32:00.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.632Z"
+        },
+        {
+          "id": "2026-05-02-fea8a210",
+          "title": "Vous avez reçu ce SMS après l’achat d’une voiture électrique ? Ce n’est pas une arnaque",
+          "description": "La question anime les groupes de propriétaires de voitures électriques, surtout chez Tesla. Est-ce que ce SMS à propos d’un contrôle de l’acquisition d’un véhicule électrique est une tentative d’arnaque ou une opération légitime ?",
+          "url": "https://www.numerama.com/vroom/2245731-vous-avez-recu-ce-sms-apres-lachat-dune-voiture-electrique-ce-nest-pas-une-arnaque.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/sms-proprietaire-tesla-arnaque.jpg?resize=1600,900&key=ef64f5b2&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-02T10:52:56.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.632Z"
+        },
+        {
+          "id": "2026-05-02-388e40f6",
+          "title": "Phénomène lumineux dans le ciel le 1er mai : ce n’était pas un ovni",
+          "description": "Un étonnant phénomène lumineux a été observé dans le ciel français le soir du vendredi 1er mai 2026. Il ne s’agit pas d’un OVNI, mais du dégazage du second étage d’une fusée de SpaceX, un événement qui était attendu par les observateurs. Une traînée lumineuse a pu être aperçue dans le ciel français ce 1er […]",
+          "url": "https://www.numerama.com/sciences/2245713-phenomene-lumineux-dans-le-ciel-le-1er-mai-ce-netait-pas-un-ovni.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/phenomene-1ermai.jpg?resize=1600,900&key=91599b8d&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-02T09:19:22.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.632Z"
+        },
+        {
+          "id": "2026-05-02-cfb45887",
+          "title": "Les conseils en orientation des parents à l’heure de l’intelligence artificielle : « Pourquoi pas pilote ? Je ne monterais pas dans un avion dont le pilote est une IA »",
+          "description": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, les parents perturbés face à l’orientation scolaire de leurs enfants à l’heure de l’intelligence artificielle.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/05/02/les-conseils-en-orientation-des-parents-a-l-heure-de-l-intelligence-artificielle-pourquoi-pas-pilote-je-ne-monterais-pas-dans-un-avion-dont-le-pilote-est-une-ia_6684849_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-02T08:00:06.000Z",
+          "fetchedAt": "2026-05-04T04:36:05.678Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "Samsung family pays off record $8bn inheritance tax bill",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-05-03-6a77ca4d",
-          "title": "Quelle réduction d’impôt pour les dons aux associations ?",
-          "description": "Donner, c’est donner, et on pourra vous y reprendre : car si la somme versée ne dépasse pas une certaine valeur, votre don est déductible de l’impôt sur le revenu jusqu’à 75 %.",
-          "url": "https://www.lemonde.fr/argent/article/2026/05/03/quelle-reduction-d-impot-pour-les-dons-aux-associations_6685002_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-05-04-65d3398e",
+          "title": "Samsung family pays off record $8bn inheritance tax bill",
+          "description": "The bill is tied to the estate left by the firm's late chairman Lee Kun-hee, who died in  October 2020.",
+          "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9a92/live/644676f0-4763-11f1-a897-39829ff0bf25.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-05-03T04:00:29.000Z",
-          "fetchedAt": "2026-05-03T04:36:08.434Z"
+          "publishedAt": "2026-05-04T04:24:22.000Z",
+          "fetchedAt": "2026-05-04T04:36:12.266Z"
         }
       ]
     }
