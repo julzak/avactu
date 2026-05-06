@@ -1,264 +1,198 @@
 {
-  "generatedAt": "2026-05-05T04:16:09.618Z",
+  "generatedAt": "2026-05-06T04:32:52.817Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "EN DIRECT, guerre au Moyen-Orient : le chef de la diplomatie iranienne met en ga",
+      "id": "cluster-1",
+      "topic": "Donald Trump suspend l’opération d’escorte des navires dans le détroit d’Ormuz",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-05-3599f1a4",
-          "title": "EN DIRECT, guerre au Moyen-Orient : le chef de la diplomatie iranienne met en garde les Etats-Unis face à un possible « bourbier »",
-          "description": "Abbas Araghtchi a exhorté Washington à privilégier la voie de la médiation du Pakistan. Il invite Abou Dabi à faire de même alors que les Émirats arabes unis ont annoncé, lundi, avoir été visés par une attaque de drones iraniens et avoir intercepté des missiles de croisière, dans les premières frappes de Téhéran en plus d’un mois.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/05/en-direct-guerre-au-moyen-orient-le-chef-de-la-diplomatie-iranienne-met-en-garde-les-etats-unis-face-a-un-possible-bourbier_6684072_3210.html",
+          "id": "2026-05-06-8808cb0b",
+          "title": "Donald Trump suspend l’opération d’escorte des navires dans le détroit d’Ormuz",
+          "description": "Le président américain a fait état de « grands progrès » dans les négociations avec Téhéran. Plus tôt dans la journée, le secrétaire d’Etat, Marco Rubio, avait affirmé que la phase offensive du conflit avec l’Iran était terminée.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/06/donald-trump-suspend-l-operation-d-escorte-des-navires-dans-le-detroit-d-ormuz_6685836_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-05T04:06:39.000Z",
-          "fetchedAt": "2026-05-05T04:12:08.828Z"
+          "publishedAt": "2026-05-06T04:23:02.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.554Z"
         },
         {
-          "id": "2026-05-05-e0004e5b",
-          "title": "La trêve entre les États-Unis et l’Iran menacée par la flambée de violence dans le Golfe",
-          "description": "⁠Les États-Unis et l’Iran ont tous deux procédé lundi à des interventions militaires dans ‌le Golfe. Ce regain des tensions est survenu quelques heures après l’annonce par le président américain, Donald Trump, de l’opération “Projet liberté” visant à rouvrir le détroit d’Ormuz.",
-          "url": "https://www.courrierinternational.com/article/conflit-la-treve-entre-les-etats-unis-et-l-iran-menacee-par-la-flambee-de-violence-dans-le-golfe_243656",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/04/0/0/5500/3666/1200/630/60/0/f9381cf_ftp-1-h186ii2vhcs6-2026-05-04t131123z-1602517501-rc262la2do6b-rtrmadp-3-iran-crisis.JPG",
+          "id": "2026-05-06-b7c2c7ce",
+          "title": "Trump suspend l’opération américaine d’escorte des navires dans le détroit d’Ormuz",
+          "description": "Le républicain a annoncé mardi soir qu’il interrompait temporairement la mission de sécurisation lancée ‌la veille dans le passage maritime, à la suite d’une demande du Pakistan et d’autres pays. Cette déclaration pourrait raviver l’espoir d’une issue diplomatique portée par Islamabad, notent les médias américains.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-trump-suspend-l-operation-americaine-d-escorte-des-navires-dans-le-detroit-d-ormuz_243709",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/04/0/0/6000/4000/1200/630/60/0/5bf4b48_ftp-1-i0vhtthcg8vu-afp-a9rn2pu.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-05T03:59:44.000Z",
-          "fetchedAt": "2026-05-05T04:12:09.138Z"
+          "publishedAt": "2026-05-06T04:01:10.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.979Z"
         },
         {
-          "id": "2026-05-05-9be3a896",
-          "title": "Comment les Etats-Unis et l’Iran contribuent au « double blocage » du détroit d’Ormuz",
-          "description": "Décrétée lundi par Donald Trump, l’opération « Project Freedom », censée permettre la reprise de la circulation dans le passage stratégique, a entraîné un regain de tensions avec Téhéran.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/05/comment-les-etats-unis-et-l-iran-contribuent-au-double-blocage-du-detroit-d-ormuz_6685530_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-05T03:24:37.000Z",
-          "fetchedAt": "2026-05-05T04:12:08.828Z"
-        },
-        {
-          "id": "2026-05-05-56b56f02",
-          "title": "Après les tensions, l'Allemagne temporise et joue l'apaisement avec les États-Unis",
-          "description": "Les relations germano-américaines traversent une période de tensions. Il y a une semaine, le chancelier allemand Friedrich Merz estimait que Donald Trump n'avait pas de stratégie face à l'Iran et que les États-Unis se faisaient « humilier » au Moyen-Orient. Si d'autres critiques allemandes n'avaient pas suscité de réaction à Washington, le président américain a, cette fois, répondu en critiquant vertement le dirigeant allemand et en annonçant le retrait à venir de 5 000 militaires américains stationnés en Allemagne. Si la nouvelle a jeté un froid, Berlin veut désormais calmer le jeu.",
-          "url": "https://www.rfi.fr/fr/europe/20260505-apr%C3%A8s-les-tensions-l-allemagne-temporise-et-joue-l-apaisement-avec-les-%C3%A9tats-unis",
-          "imageUrl": "https://s.rfi.fr/media/display/e72d3e82-4808-11f1-9f76-005056a97e36/w:1024/p:16x9/2026-05-04T162148Z-1058153077-RC24XJA3P7QM-RTRMADP-3-USA-TRUMP-GERMANY-MERZ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-05T02:58:18.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.612Z"
-        },
-        {
-          "id": "2026-05-04-0ebe6275",
-          "title": "Etats-Unis : des agents fédéraux neutralisent un homme armé à proximité de la Maison Blanche",
-          "description": "Le suspect a été blessé et conduit à l’hôpital. Son état de santé et ses motivations ne sont pas encore connus.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/05/etats-unis-des-agents-federaux-neutralisent-un-homme-arme-a-proximite-de-la-maison-blanche_6685484_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-04T23:40:08.000Z",
-          "fetchedAt": "2026-05-05T04:12:08.828Z"
-        },
-        {
-          "id": "2026-05-04-627a1413",
-          "title": "Les Émirats arabes unis à nouveau visés par l'Iran au lancement d'une opération américaine à Ormuz",
-          "description": "Une attaque de drones iraniens est accusée d'avoir visé, lundi, les Émirats arabes unis, provoquant un incendie sur le site pétrolier de Fujaïrah et blessant trois personnes. Il s'agit des premières frappes de Téhéran en plus d'un mois. Mais l'Iran s'en défend : le pays \"n'avait aucun projet de cibler les Émirats\", rapporte la télévision d'État.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260504-amirats-arabes-unis-nouveau-vises-par-iran-au-lancement-operation-americaine-detroit-ormuz-drones-attaque-pays-golfe",
-          "imageUrl": "https://s.france24.com/media/display/892cdfec-4806-11f1-bec3-005056a97e36/w:1024/p:16x9/000-A39G4YQ.jpg",
+          "id": "2026-05-05-d13fd1ed",
+          "title": "En direct : Trump dit suspendre l'opération pour escorter des bateaux dans le détroit d'Ormuz",
+          "description": "Le président américain Donald Trump a annoncé, lundi soir, qu'il suspendait l'opération \"Projet Liberté\", destinée à escorter les navires à travers le détroit d'Ormuz, en place depuis un jour. Cette pause doit permettre de \"voir si l'accord peut être finalisé et signé\". Plus tôt, le chef de la diplomatie américaine a annoncé que les États-Unis proposeraient une résolution au Conseil de sécurité de l'ONU pour \"défendre la liberté de navigation dans le détroit d'Ormuz\". Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260505-en-direct-donald-trump-suspendre-operation-americaine-pour-escorter-bateaux-detroit-ormuz-moyen-orient-etats-unis-liban-golfe",
+          "imageUrl": "https://s.france24.com/media/display/24133804-489c-11f1-b796-005056a90284/w:1024/p:16x9/AP26125546066424.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-04T22:35:50.000Z",
-          "fetchedAt": "2026-05-05T04:12:08.966Z"
+          "publishedAt": "2026-05-05T23:35:09.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.535Z"
+        },
+        {
+          "id": "2026-05-05-3effe5dc",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump suspend l’opération d’escorte des bateaux dans le détroit d’Ormuz en raison de « progrès considérables » pour un accord avec l’Iran",
+          "description": "Le président américain a précisé que le blocus restait néanmoins en vigueur dans ce passage maritime stratégique, mais que le « projet liberté », en place depuis un jour seulement, « sera suspendu pendant une courte période pour voir si l’accord peut être finalisé et signé ».",
+          "url": "https://www.lemonde.fr/international/live/2026/05/06/en-direct-guerre-au-moyen-orient-le-secretaire-d-etat-americain-marco-rubio-assure-que-la-phase-offensive-du-conflit-avec-l-iran-est-finie_6684072_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-05T22:42:17.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.554Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Allemagne, guerre en Ukraine, Maison-Blanche : les informations de la nuit",
+      "id": "cluster-3",
+      "topic": "Russie : Maria Bontsler, la défenseuse des droits humains qui, en prison, refuse",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-05-8d084600",
-          "title": "Allemagne, guerre en Ukraine, Maison-Blanche : les informations de la nuit",
-          "description": "",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-allemagne-guerre-en-ukraine-maison-blanche-les-informations-de-la-nuit_243657",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/05/0/0/5077/3384/1200/630/60/0/7f19406_ftp-1-nletts0f0gn5-2026-05-05t015729z-311610972-rc2p2laiwwec-rtrmadp-3-germany-accident-aftermath.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-05T03:55:06.000Z",
-          "fetchedAt": "2026-05-05T04:12:09.138Z"
-        },
-        {
-          "id": "2026-05-04-370f7ed4",
-          "title": "EN DIRECT, guerre en Ukraine : Kiev annonce un cessez-le-feu unilatéral à partir du mercredi 6 mai",
-          "description": "Volodymyr Zelensky a décrété sa propre trêve à partir de minuit, dans la nuit de mardi à mercredi, après que la Russie a annoncé un cessez-le-feu unilatéral les 8 et 9 mai pour les commémorations nationales de la victoire de la seconde guerre mondiale.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/05/en-direct-guerre-en-ukraine-14-morts-dans-70-frappes-russes-aujourd-hui_6684995_3210.html",
+          "id": "2026-05-06-fd80b370",
+          "title": "Russie : Maria Bontsler, la défenseuse des droits humains qui, en prison, refuse de « se taire » face au pouvoir du Kremlin",
+          "description": "Après avoir passé des décennies à défendre devant les tribunaux des opposants au régime et à la guerre en Ukraine, l’avocate est elle-même emprisonnée depuis un an. A 65 ans, poursuivie pour trahison, elle encourt une peine de vingt ans de réclusion. Elle a écrit au « Monde » depuis sa détention.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/06/russie-maria-bontsler-la-defenseuse-des-droits-humains-qui-en-prison-refuse-de-se-taire-face-au-pouvoir-du-kremlin_6685834_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-04T22:13:42.000Z",
-          "fetchedAt": "2026-05-05T04:12:08.828Z"
+          "publishedAt": "2026-05-06T04:00:44.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.554Z"
         },
         {
-          "id": "2026-05-04-15d9cd46",
-          "title": "Allemagne: une voiture fauche des piétons à Leipzig, au moins deux morts",
-          "description": "Deux personnes ont été tuées lorsqu'une voiture a fauché, lundi 4 mai dans l'après-midi, des piétons dans les rues de Leipzig, dans l'est de l'Allemagne, a annoncé le maire Burkhard Jung. Le conducteur a été arrêté. Il s’agit d’un Allemand de 33 ans, né en Allemagne et résidant dans la région. Aucune information n'a été donnée, pour l'heure, quant à ses motivations.",
-          "url": "https://www.rfi.fr/fr/europe/20260504-allemagne-une-voiture-fauche-des-pi%C3%A9tons-%C3%A0-leipzig-au-moins-deux-morts",
-          "imageUrl": "https://s.rfi.fr/media/display/1a5fa958-47d6-11f1-8f79-005056a90284/w:1024/p:16x9/ALLEMAGNE-LEIPZIG-VOITURE.jpg",
-          "source": "RFI",
+          "id": "2026-05-06-8c168881",
+          "title": "La Russie frappe l'Ukraine alors que le cessez-le-feu de Kiev a commencé",
+          "description": "L'Ukraine fait état mercredi d'une attaque de la Russie quelques heures après l'entrée en vigueur du cessez-le-feu unilatéral de Kiev. De son côté, Moscou a annoncé une trêve pour les célébrations de la victoire contre l'Allemagne nazie, le 9 mai. La journée de mardi a été particulièrement sanglante en Ukraine, avec au moins 28 personnes tuées dans des attaques russes.",
+          "url": "https://www.france24.com/fr/europe/20260506-apr%C3%A8s-une-journ%C3%A9e-sanglante-en-ukraine-la-tr%C3%AAve-annonc%C3%A9e-par-kiev-entre-en-vigueur",
+          "imageUrl": "https://s.france24.com/media/display/4a7d096a-4898-11f1-b37a-005056a97e36/w:1024/p:16x9/ab483c62566ad6bbb6fbaa39a34b929563284b8b.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-04T16:28:52.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.612Z"
-        },
-        {
-          "id": "2026-05-04-13a17b4f",
-          "title": "Robert Fico et Volodymyr Zelensky relancent le dialogue entre la Slovaquie et l'Ukraine",
-          "description": "Le Premier ministre slovaque nationaliste Robert Fico a rencontré le président ukrainien Volodymyr Zelensky, lundi 4 mai, en marge du sommet de la Communauté politique européenne à Erevan, en Arménie. Le président ukrainien s'est dit ouvert à un dialogue constructif, alors que les deux dirigeants ont récemment multiplié les échanges après une période de fortes tensions.",
-          "url": "https://www.rfi.fr/fr/europe/20260504-robert-fico-et-volodymyr-zelensky-relancent-le-dialogue-entre-la-slovaquie-et-l-ukraine",
-          "imageUrl": "https://s.rfi.fr/media/display/40308c26-47c5-11f1-b89b-005056a90284/w:1024/p:16x9/2026-05-04T112655Z-257581447-RC2B2LASESEZ-RTRMADP-3-ARMENIA-EU-SUMMIT-ZELENSKIY-FICO.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-04T15:02:21.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.612Z"
+          "publishedAt": "2026-05-06T03:07:12.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.535Z"
         }
       ]
     },
     {
-      "id": "cluster-10",
-      "topic": "Algérie : Emmanuel Macron espère encore obtenir une réconciliation entre Paris e",
+      "id": "cluster-19",
+      "topic": "Au Brésil, un adolescent ouvre le feu dans son école et tue deux employées",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-05-be38af7c",
-          "title": "Algérie : Emmanuel Macron espère encore obtenir une réconciliation entre Paris et Alger avant la fin de son mandat",
-          "description": "Le chef de l’Etat, qui avait commencé son premier quinquennat en misant sur un apaisement des mémoires, voit la relation bilatérale plongée dans sa crise la plus virulente depuis 1962. Un échec auquel il refuse de se résigner, à un an de son départ de l’Elysée.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/05/05/algerie-emmanuel-macron-espere-encore-obtenir-une-reconciliation-entre-paris-et-alger-avant-la-fin-de-son-mandat_6685529_3212.html",
+          "id": "2026-05-06-29262280",
+          "title": "Au Brésil, un adolescent ouvre le feu dans son école et tue deux employées",
+          "description": "Le garçon de 13 ans s’est rendu à la police après avoir également blessé une autre employée et une élève de l’établissement situé dans le nord-ouest du pays.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/06/au-bresil-un-adolescent-ouvre-le-feu-dans-son-ecole-et-tue-deux-employees_6685789_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-05T03:00:34.000Z",
-          "fetchedAt": "2026-05-05T04:12:08.828Z"
+          "publishedAt": "2026-05-06T02:13:45.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.554Z"
         },
         {
-          "id": "2026-05-04-8ec72f18",
-          "title": "Sommet de la CPE: l'Arménie regarde vers l'Europe, Macron salue un choix «raisonnable»",
-          "description": "Le huitième sommet de la Communauté politique européenne (CPE) a tracé une ligne claire : la volonté de consolider une souveraineté européenne élargie. Près de 50 dirigeants se sont réunis à Erevan, lundi 4 mai, avec un invité inédit : le Premier ministre canadien Mark Carney. C'est la première fois qu'un dirigeant Outre-Atlantique participe à ce sommet. L'Arménie, elle, a démontré, une nouvelle fois, son attrait pour l'Europe plutôt que pour la Russie.",
-          "url": "https://www.rfi.fr/fr/europe/20260504-sommet-de-la-cpe-l-arm%C3%A9nie-regarde-vers-l-europe-macron-salue-un-choix-raisonnable",
-          "imageUrl": "https://s.rfi.fr/media/display/a1d22b38-4801-11f1-8d74-005056a90284/w:1024/p:16x9/000-A9RK2ZQ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-04T21:56:49.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.612Z"
-        },
-        {
-          "id": "2026-05-04-211abb4d",
-          "title": "En visite à Erevan, Emmanuel Macron salue le choix de l'Arménie de \"se tourner vers l'Europe\"",
-          "description": "Au premier jour d'une visite d'État dans la capitale arménienne pour le sommet de la Communauté politique européenne (CPE), lundi, le président français a salué le choix de l'Arménie de \"se tourner vers l'Europe\". Emmanuel Macron a également félicité le choix de la \"paix\" avec l'Azerbaïdjan, le \"seul raisonnable\", selon lui, pour s'affranchir de la Russie.",
-          "url": "https://www.france24.com/fr/europe/20260504-sommet-cpe-erevan-emmanuel-macron-salue-choix-armenie-tourner-vers-europe-azerbaidjan-europe-russie",
-          "imageUrl": "https://s.france24.com/media/display/e6549bf6-4801-11f1-a013-005056bfb2b6/w:1024/p:16x9/000-A9T32Q6.jpg",
+          "id": "2026-05-06-3788036e",
+          "title": "Fusillade dans une école au Brésil : un adolescent tue deux membres du personnel",
+          "description": "Un jeune garçon a ouvert le feu mardi dans son école de Rio Branco, capitale de l'État amazonien d'Acre. Il a tué deux membres du personnel, en a blessé un troisième ainsi qu'une élève de 11 ans. Il s'est ensuite rendu et a été arrêté.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260506-fusillade-dans-une-%C3%A9cole-au-br%C3%A9sil-un-adolescent-tue-deux-membres-du-personnel",
+          "imageUrl": "https://s.france24.com/media/display/abc41ba8-48e5-11f1-8194-005056bfb2b6/w:1024/p:16x9/cb2920938d9898eb026ead6c99441aa13545acad.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-04T21:46:57.000Z",
-          "fetchedAt": "2026-05-05T04:12:08.966Z"
+          "publishedAt": "2026-05-06T00:51:10.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.535Z"
+        },
+        {
+          "id": "2026-05-05-0c5dd09a",
+          "title": "La Roumanie retombe dans le chaos politique après le vote d’une motion de censure par les sociaux-démocrates et l’extrême droite",
+          "description": "Le vote des parlementaires a entraîné la chute du gouvernement du premier ministre libéral, Ilie Bolojan. Malgré un vote conjoint avec les nationalistes de l’Alliance pour l’unité des Roumains, le Parti social-démocrate n’exclut pas de participer une nouvelle coalition pro-européenne.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/05/la-roumanie-retombe-dans-le-chaos-politique-apres-le-vote-d-une-motion-de-censure-par-les-sociaux-democrates-et-l-extreme-droite_6685642_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-05T18:00:03.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.554Z"
+        },
+        {
+          "id": "2026-05-05-ee97888b",
+          "title": "Brésil : un petit avion s'écrase contre un immeuble, faisant trois morts",
+          "description": "Un petit avion s'est écrasé lundi 4 mai contre un immeuble de trois étages à Belo Horizonte, métropole du sud-est du Brésil, faisant trois morts et deux blessés graves, selon les autorités.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260505-br%C3%A9sil-un-petit-avion-s-%C3%A9crase-contre-un-immeuble-faisant-trois-morts",
+          "imageUrl": "https://s.france24.com/media/display/a51467a4-48a4-11f1-ad24-005056a97e36/w:1024/p:16x9/Bre%CC%81sil-2.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-05T17:07:30.000Z",
+          "fetchedAt": "2026-05-06T04:28:52.535Z"
+        },
+        {
+          "id": "2026-05-05-c34e8cfe",
+          "title": "«Un agrégateur de moyens»: au Moyen-Orient, le porte-avions «Charles de Gaulle» est le pilier de la défense européenne",
+          "description": "La mission du porte-avions « Charles de Gaulle » devait initialement se dérouler en mer de Norvège. Mais la guerre au Moyen-Orient a bouleversé les plans de la marine française, et le groupe aéronaval a pris la route de la Méditerranée orientale. Positionné au large de Chypre, le porte-avions est un outil de réassurance sur le flanc sud de l'Union européenne.",
+          "url": "https://www.rfi.fr/fr/france/20260505-un-agr%C3%A9gateur-de-moyens-au-moyen-orient-le-porte-avions-charles-de-gaulle-est-le-pilier-de-la-d%C3%A9fense-europ%C3%A9enne",
+          "imageUrl": "https://s.rfi.fr/media/display/1c1186a4-3e35-11f1-937a-005056a97e36/w:1024/p:16x9/000-9BC3YW.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-05T15:33:18.000Z",
+          "fetchedAt": "2026-05-06T04:29:06.128Z"
+        },
+        {
+          "id": "2026-05-05-39ed567f",
+          "title": "Ouest du Tchad: une attaque attribuée à Boko Haram fait plus de 20 morts sur une base militaire",
+          "description": "Une attaque attribuée à Boko Haram, survenue dans la nuit de lundi à mardi sur la base militaire de Barka Tolorom (ouest du Tchad), sur la rive tchadienne du Lac Tchad, a fait plus de 20 morts et plusieurs blessés, ont indiqué mardi des sources concordantes à RFI. Un communiqué de l'état-major général des armées fait état, lui, de « 23 morts et 26 blessés » parmi les Forces de défense et de sécurité. « Un nombre important des éléments de la secte a été neutralisé et des matériels récupérés, et le ratissage continue », assure le texte. Un village voisin a par ailleurs été incendié et pillé. Pas encore de bilan du côté des victimes civiles. Les activités des ONG sur place ont été gelées pour le moment.",
+          "url": "https://www.rfi.fr/fr/en-bref/20260505-ouest-du-tchad-une-attaque-attribu%C3%A9e-%C3%A0-boko-haram-fait-plus-de-20-morts-sur-une-base-militaire",
+          "imageUrl": "https://s.rfi.fr/media/display/95de5d84-4891-11f1-9f79-005056a97e36/w:1024/p:16x9/000-86P84R7-1.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-05T13:20:35.000Z",
+          "fetchedAt": "2026-05-06T04:29:06.128Z"
         }
       ]
     },
     {
-      "id": "cluster-12",
-      "topic": "L’anomalie du « manchot » : cette découverte fait espérer une percée considérabl",
+      "id": "cluster-1",
+      "topic": "L’impossible droit à la déconnexion des salariés : « A chaque appel, ça me fait ",
       "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-04-567d516c",
-          "title": "L’anomalie du « manchot » : cette découverte fait espérer une percée considérable en physique",
-          "description": "L'étude de la collision des particules au Cern a donné des résultats qui contredisent le modèle standard de la physique. Si cela se confirme, ce serait une remise en cause du socle qui maintient la science moderne depuis des décennies.",
-          "url": "https://www.numerama.com/sciences/2246051-lanomalie-du-manchot-cette-decouverte-du-cern-defie-50-ans-de-physique.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/manchot-empereur-emperor-penguin-aptenodytes-forsteri.jpg?resize=1600,900&key=15ae6708&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-04T16:53:25.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.493Z"
-        },
-        {
-          "id": "2026-05-04-701185f9",
-          "title": "Le remake live action de Raiponce s’offre une star de Star Wars pour un rôle très mystérieux",
-          "description": "Le royaume de Corona s'agrandit. Alors que Disney peaufine l'adaptation en prises de vues réelles de son classique de 2010, Raiponce, une nouvelle étoile vient de s'ajouter à la distribution. Diego Luna, la star de la série Andor, rejoint ce projet très attendu aux côtés de Kathryn Hahn.",
-          "url": "https://www.numerama.com/pop-culture/2245833-le-remake-live-action-de-raiponce-soffre-une-star-de-star-wars-pour-un-role-tres-mysterieux.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/capture-decran-2026-05-04-a-101426.jpg?resize=1600,900&key=d8119a71&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-04T13:56:00.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.493Z"
-        },
-        {
-          "id": "2026-05-04-0274fdb6",
-          "title": "« Une simple tactique marketing » : IMAX contre-attaque violemment contre Disney et son Infinity Vision ",
-          "description": "C'est une guerre ouverte pour la domination des écrans géants. Alors que Disney vient de lancer « Infinity Vision », son propre label pour les salles premium, le CFO d'IMAX n'a pas mâché ses mots. Pour l'entreprise technologique, cette nouvelle certification n'est qu'un écran de fumée destiné à masquer une faiblesse stratégique de la firme aux grandes oreilles.",
-          "url": "https://www.numerama.com/pop-culture/2246037-une-simple-tactique-marketing-imax-contre-attaque-violemment-contre-disney-et-son-infinity-vision.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/pm1186-gen-d002-r1-77-1920x1080px-et-ccim-fre-r01c8e81-w1265.jpg?resize=1600,900&key=3d574e48&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-04T13:25:00.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.493Z"
-        },
-        {
-          "id": "2026-05-04-a6d01a26",
-          "title": "Pragmata a vraiment aidé un père dans le deuil de sa fille",
-          "description": "Un homme, qui a perdu sa fille, raconte combien Pragmata a été thérapeutique pour lui grâce à la présence du personnage de Diana. Une histoire terriblement touchante.",
-          "url": "https://www.numerama.com/pop-culture/2245871-cette-histoire-liee-au-jeu-video-pragmata-va-vous-fendre-le-coeur.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/08/ss-9699288b90d0aad320e998f107b59edd27e9ea611920x1080.jpg?resize=1600,900&key=05ddab12&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-04T08:58:50.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.493Z"
-        },
-        {
-          "id": "2026-05-04-ba634b87",
-          "title": "Cent soixante-neuf e-mails et six heures de réunion par semaine : les risques de l’« infobésité » au travail",
-          "description": "Si l’on additionne le temps passé en réunion, le traitement des e-mails et les tchats, le total atteint, par semaine, vingt-sept heures chez les dirigeants, dix-neuf chez les manageurs et dix chez les salariés non manageurs, explique dans sa chronique Jules Thomas, journaliste du « Monde ». Un rythme qui a des conséquences sur la santé mentale et la productivité.",
-          "url": "https://www.lemonde.fr/emploi/article/2026/05/04/cent-soixante-neuf-e-mails-et-six-heures-de-reunion-par-semaine-les-risques-de-l-infobesite-au-travail_6685334_1698637.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-04T04:00:14.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.506Z"
-        },
-        {
-          "id": "2026-05-03-8b49cdde",
-          "title": "« Je déteste mon job, mais j’ai l’impression que c’est comme ça partout » : la gen Z raconte un monde du travail violent et fracturé sur le forum AntiTaff",
-          "description": "Les témoignages anonymes dans cette communauté de Reddit donnent à voir les coulisses de situations professionnelles en pleine perte de sens et apportent aussi soutien et entraide aux salariés désillusionnés.",
-          "url": "https://www.lemonde.fr/campus/article/2026/05/03/je-deteste-mon-job-mais-j-ai-l-impression-que-c-est-comme-ca-partout-sur-reddit-le-monde-du-travail-raconte-par-la-gen-z_6685141_4401467.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-03T08:00:03.000Z",
-          "fetchedAt": "2026-05-05T04:12:18.506Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Pétrole, gaz : se dirige-t-on vers la plus grosse crise de l’histoire ?",
-      "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-05-05-f7cdd5e2",
-          "title": "Pétrole, gaz : se dirige-t-on vers la plus grosse crise de l’histoire ?",
-          "description": "Après plus de deux mois de guerre au Moyen-Orient, les indicateurs macroéconomiques s’affolent, sans réellement plonger. Mais pour combien de temps ? Eléments de réponse dans ce podcast avec Eric Albert, journaliste au service Economie du « Monde ».",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/05/05/petrole-gaz-se-dirige-t-on-vers-la-plus-grosse-crise-de-l-histoire_6685525_5463015.html",
+          "id": "2026-05-06-5932cb24",
+          "title": "L’impossible droit à la déconnexion des salariés : « A chaque appel, ça me fait monter les pulsations »",
+          "description": "Introduit dans la loi depuis dix ans, le droit à la déconnexion peine encore à faire émerger des pratiques respectueuses du temps de repos des salariés.",
+          "url": "https://www.lemonde.fr/emploi/article/2026/05/06/l-impossible-droit-a-la-deconnexion-des-salaries-a-chaque-appel-ca-me-fait-monter-les-pulsations_6685832_1698637.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-06T04:00:22.000Z",
+          "fetchedAt": "2026-05-06T04:29:06.081Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "'I have to make my own dog food' - voters counting living costs on eve of electi",
+      "category": "eco",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-05-05-5b2e181c",
+          "title": "'I have to make my own dog food' - voters counting living costs on eve of election",
+          "description": "India Lerigo makes her own dog food and batch cooks a month's worth of meals over a weekend to save money.",
+          "url": "https://www.bbc.com/news/articles/cjwpd0631y3o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1b85/live/2b3b5f50-46f1-11f1-9217-a5b6a670d3f7.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-05-05T03:00:13.000Z",
-          "fetchedAt": "2026-05-05T04:12:25.759Z"
+          "publishedAt": "2026-05-05T21:45:45.000Z",
+          "fetchedAt": "2026-05-06T04:29:24.472Z"
         }
       ]
     }
