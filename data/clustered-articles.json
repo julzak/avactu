@@ -1,198 +1,220 @@
 {
-  "generatedAt": "2026-05-06T04:32:52.817Z",
+  "generatedAt": "2026-05-07T04:33:23.550Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Donald Trump suspend l’opération d’escorte des navires dans le détroit d’Ormuz",
+      "topic": "Iran considering US proposal as Trump says war will be 'over quickly'",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-06-8808cb0b",
-          "title": "Donald Trump suspend l’opération d’escorte des navires dans le détroit d’Ormuz",
-          "description": "Le président américain a fait état de « grands progrès » dans les négociations avec Téhéran. Plus tôt dans la journée, le secrétaire d’Etat, Marco Rubio, avait affirmé que la phase offensive du conflit avec l’Iran était terminée.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/06/donald-trump-suspend-l-operation-d-escorte-des-navires-dans-le-detroit-d-ormuz_6685836_3210.html",
+          "id": "2026-05-07-8faf48d7",
+          "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+          "description": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+          "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b568/live/479e7760-498d-11f1-9cba-7526402c46eb.png",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-07T04:06:33.000Z",
+          "fetchedAt": "2026-05-07T04:29:32.363Z"
+        },
+        {
+          "id": "2026-05-07-0adc429a",
+          "title": "En direct : Donald Trump prédit une fin rapide à la guerre avec l'Iran",
+          "description": "Donald Trump a affirmé mercredi soir, lors d'un événement de campagne en Géorgie, que la guerre en Iran serait terminée \"rapidement\". Quelques heures plus tôt, le président américain avait jugé \"très possible\" d'arriver à un accord avec Téhéran après la tenue de \"très bonnes discussions\" dans les dernières 24 heures.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260507-en-direct-moyen-orient-donald-trump-guerre-iran-liban-ormuz-israel",
+          "imageUrl": "https://s.france24.com/media/display/682a3c3a-49ba-11f1-a0d4-005056bfb2b6/w:1024/p:16x9/AP26126696870282.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-07T02:17:31.000Z",
+          "fetchedAt": "2026-05-07T04:29:23.256Z"
+        },
+        {
+          "id": "2026-05-06-81b9529f",
+          "title": "Trump's hopes for an Iran peace deal come with caveats",
+          "description": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
+          "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7e05/live/f0085a00-4970-11f1-bd52-e755d604ece4.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-06T17:32:04.000Z",
+          "fetchedAt": "2026-05-07T04:29:32.363Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Russie : plongée dans les secrets de l’université Bauman de Moscou, qui forme le",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-07-1f9bd42d",
+          "title": "Russie : plongée dans les secrets de l’université Bauman de Moscou, qui forme les meilleurs hackeurs",
+          "description": "ENQUETE VIDEO Russie : les documents secrets de l’école des hackeurs de l’armée",
+          "url": "https://www.lemonde.fr/videos/video/2026/05/07/russie-plongee-dans-les-secrets-de-l-universite-bauman-de-moscou-qui-forme-les-meilleurs-hackeurs_6686498_1669088.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-06T04:23:02.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.554Z"
+          "publishedAt": "2026-05-07T04:01:28.000Z",
+          "fetchedAt": "2026-05-07T04:29:23.001Z"
         },
         {
-          "id": "2026-05-06-b7c2c7ce",
-          "title": "Trump suspend l’opération américaine d’escorte des navires dans le détroit d’Ormuz",
-          "description": "Le républicain a annoncé mardi soir qu’il interrompait temporairement la mission de sécurisation lancée ‌la veille dans le passage maritime, à la suite d’une demande du Pakistan et d’autres pays. Cette déclaration pourrait raviver l’espoir d’une issue diplomatique portée par Islamabad, notent les médias américains.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-trump-suspend-l-operation-americaine-d-escorte-des-navires-dans-le-detroit-d-ormuz_243709",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/04/0/0/6000/4000/1200/630/60/0/5bf4b48_ftp-1-i0vhtthcg8vu-afp-a9rn2pu.jpg",
+          "id": "2026-05-07-fee2ec4f",
+          "title": "A l’université Bauman de Moscou, la secrète école des hackeurs russes, pilier de la guerre hybride en Europe",
+          "description": "Selon 2 000 documents obtenus par un consortium de médias internationaux, dont « Le Monde » fait partie, la prestigieuse université technique d’Etat Bauman de Moscou forme en toute confidentialité des agents du renseignement militaire russe, en particulier des hackeurs. Ces listes d’élèves, de professeurs, et ces plans de cours offrent une plongée inédite dans la « militarisation de l’éducation », en pleine guerre hybride menée par Vladimir Poutine.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/05/07/a-l-universite-bauman-de-moscou-la-secrete-ecole-des-hackeurs-russes-pilier-de-la-guerre-hybride-en-europe_6686484_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-07T03:45:10.000Z",
+          "fetchedAt": "2026-05-07T04:29:23.001Z"
+        },
+        {
+          "id": "2026-05-06-72012076",
+          "title": "L’Autriche ne veut plus être “un paradis pour les espions”",
+          "description": "Le pays alpin a expulsé, lundi 4 mai, trois diplomates russes accusés d’avoir intercepté des communications pour le compte de Moscou. Pour la presse autrichienne, il s’agit avant tout d’un symbole : Vienne entend se débarrasser de sa réputation de “nid d’espions”.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-l-autriche-ne-veut-plus-etre-un-paradis-pour-les-espions_243715",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/04/55/0/5600/3733/1200/630/60/0/692c318_ftp-1-aaojimpptc10-afp-a9qv9y9.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-06T04:01:10.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.979Z"
+          "publishedAt": "2026-05-06T15:30:58.000Z",
+          "fetchedAt": "2026-05-07T04:29:23.287Z"
         },
         {
-          "id": "2026-05-05-d13fd1ed",
-          "title": "En direct : Trump dit suspendre l'opération pour escorter des bateaux dans le détroit d'Ormuz",
-          "description": "Le président américain Donald Trump a annoncé, lundi soir, qu'il suspendait l'opération \"Projet Liberté\", destinée à escorter les navires à travers le détroit d'Ormuz, en place depuis un jour. Cette pause doit permettre de \"voir si l'accord peut être finalisé et signé\". Plus tôt, le chef de la diplomatie américaine a annoncé que les États-Unis proposeraient une résolution au Conseil de sécurité de l'ONU pour \"défendre la liberté de navigation dans le détroit d'Ormuz\". Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260505-en-direct-donald-trump-suspendre-operation-americaine-pour-escorter-bateaux-detroit-ormuz-moyen-orient-etats-unis-liban-golfe",
-          "imageUrl": "https://s.france24.com/media/display/24133804-489c-11f1-b796-005056a90284/w:1024/p:16x9/AP26125546066424.jpg",
-          "source": "France 24",
+          "id": "2026-05-06-f783038a",
+          "title": "Face au spectre d’une pénurie de kérosène, les compagnies aériennes affinent leur stratégie",
+          "description": "La situation toujours tendue au Moyen-Orient risque d’avoir de fortes répercussions sur les réserves de kérosène, ce qui pourrait engendrer des annulations de vols en cascade cet été. Face à ce risque, certaines compagnies ont déjà concocté des stratégies d’urgence.",
+          "url": "https://www.courrierinternational.com/article/economie-face-au-spectre-d-une-penurie-de-kerosene-les-compagnies-aeriennes-affinent-leur-strategie_243735",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/01/2/0/6205/4136/1200/630/60/0/258ece7_ftp-1-rs5jkoj7k69i-2026-05-01t000432z-857731734-rc2ftja8st5a-rtrmadp-3-qantas-flights.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-05T23:35:09.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.535Z"
+          "publishedAt": "2026-05-06T15:20:15.000Z",
+          "fetchedAt": "2026-05-07T04:29:23.287Z"
         },
         {
-          "id": "2026-05-05-3effe5dc",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump suspend l’opération d’escorte des bateaux dans le détroit d’Ormuz en raison de « progrès considérables » pour un accord avec l’Iran",
-          "description": "Le président américain a précisé que le blocus restait néanmoins en vigueur dans ce passage maritime stratégique, mais que le « projet liberté », en place depuis un jour seulement, « sera suspendu pendant une courte période pour voir si l’accord peut être finalisé et signé ».",
-          "url": "https://www.lemonde.fr/international/live/2026/05/06/en-direct-guerre-au-moyen-orient-le-secretaire-d-etat-americain-marco-rubio-assure-que-la-phase-offensive-du-conflit-avec-l-iran-est-finie_6684072_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-05-06-17662764",
+          "title": "«Ressacs: une histoire touarègue», un documentaire témoin d'une culture qui se perd",
+          "description": "Dans Ressacs : une histoire touarègue, film documentaire sorti en salle le mercredi 6 mai, le réalisateur Intagrist el Ansari a souhaité immortaliser les coutumes, traditions et l’imaginaire de son peuple, les Touaregs. Le fruit de dix ans de travail dans des campements nomades et dans des camps de réfugiés afin de garder une trace d’un monde qui n’existe déjà plus tout à fait.",
+          "url": "https://www.rfi.fr/fr/afrique/20260506-ressacs-une-histoire-touar%C3%A8gue-un-documentaire-t%C3%A9moin-d-une-culture-qui-se-perd",
+          "imageUrl": "https://s.rfi.fr/media/display/287297da-4943-11f1-8658-005056bf30b7/w:1024/p:16x9/Avec-Imarhan-Timbuktu-2a.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-05T22:42:17.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.554Z"
+          "publishedAt": "2026-05-06T13:56:39.000Z",
+          "fetchedAt": "2026-05-07T04:29:32.399Z"
+        },
+        {
+          "id": "2026-05-06-32ddefb7",
+          "title": "La chanteuse Rokia Traoré condamnée à de la prison avec sursis en Belgique dans un litige de garde d'enfant",
+          "description": "La chanteuse malienne Rokia Traoré a été condamnée, mercredi 6 mai 2026, par le tribunal correctionnel de Bruxelles à deux ans de prison avec sursis, dans un litige l'opposant au père de sa fille née en 2015, à propos de la garde de l'enfant.",
+          "url": "https://www.rfi.fr/fr/europe/20260506-la-chanteuse-rokia-traor%C3%A9-condamn%C3%A9e-%C3%A0-de-la-prison-avec-sursis-en-belgique-dans-un-litige-de-garde-d-enfant",
+          "imageUrl": "https://s.rfi.fr/media/display/caebb948-99ad-11ea-b470-005056a98db9/w:1024/p:16x9/000_arp3596014_1_0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-06T12:58:33.000Z",
+          "fetchedAt": "2026-05-07T04:29:32.399Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Russie : Maria Bontsler, la défenseuse des droits humains qui, en prison, refuse",
+      "id": "cluster-25",
+      "topic": "EN DIRECT, guerre en Ukraine : Moscou appelle les ambassades étrangères à Kiev à",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-06-fd80b370",
-          "title": "Russie : Maria Bontsler, la défenseuse des droits humains qui, en prison, refuse de « se taire » face au pouvoir du Kremlin",
-          "description": "Après avoir passé des décennies à défendre devant les tribunaux des opposants au régime et à la guerre en Ukraine, l’avocate est elle-même emprisonnée depuis un an. A 65 ans, poursuivie pour trahison, elle encourt une peine de vingt ans de réclusion. Elle a écrit au « Monde » depuis sa détention.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/06/russie-maria-bontsler-la-defenseuse-des-droits-humains-qui-en-prison-refuse-de-se-taire-face-au-pouvoir-du-kremlin_6685834_3210.html",
+          "id": "2026-05-06-8a57ef3c",
+          "title": "EN DIRECT, guerre en Ukraine : Moscou appelle les ambassades étrangères à Kiev à évacuer leur personnel en raison d’éventuels bombardements de représailles le 9 mai",
+          "description": "Cet avertissement intervient quelques heures après que la Russie a annoncé mercredi la tenue d’essais de missiles capables de transporter des charges nucléaires sur le polygone de Koura, dans la péninsule du Kamtchatka en Extrême-Orient.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/07/en-direct-guerre-en-ukraine-moscou-appelle-les-ambassades-etrangeres-a-kiev-a-evacuer-leur-personnel-en-raison-d-eventuels-bombardements-de-represailles-le-9-mai_6684995_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-06T04:00:44.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.554Z"
+          "publishedAt": "2026-05-06T23:21:25.000Z",
+          "fetchedAt": "2026-05-07T04:29:23.001Z"
         },
         {
-          "id": "2026-05-06-8c168881",
-          "title": "La Russie frappe l'Ukraine alors que le cessez-le-feu de Kiev a commencé",
-          "description": "L'Ukraine fait état mercredi d'une attaque de la Russie quelques heures après l'entrée en vigueur du cessez-le-feu unilatéral de Kiev. De son côté, Moscou a annoncé une trêve pour les célébrations de la victoire contre l'Allemagne nazie, le 9 mai. La journée de mardi a été particulièrement sanglante en Ukraine, avec au moins 28 personnes tuées dans des attaques russes.",
-          "url": "https://www.france24.com/fr/europe/20260506-apr%C3%A8s-une-journ%C3%A9e-sanglante-en-ukraine-la-tr%C3%AAve-annonc%C3%A9e-par-kiev-entre-en-vigueur",
-          "imageUrl": "https://s.france24.com/media/display/4a7d096a-4898-11f1-b37a-005056a97e36/w:1024/p:16x9/ab483c62566ad6bbb6fbaa39a34b929563284b8b.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-06T03:07:12.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.535Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-19",
-      "topic": "Au Brésil, un adolescent ouvre le feu dans son école et tue deux employées",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-06-29262280",
-          "title": "Au Brésil, un adolescent ouvre le feu dans son école et tue deux employées",
-          "description": "Le garçon de 13 ans s’est rendu à la police après avoir également blessé une autre employée et une élève de l’établissement situé dans le nord-ouest du pays.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/06/au-bresil-un-adolescent-ouvre-le-feu-dans-son-ecole-et-tue-deux-employees_6685789_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-06T02:13:45.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.554Z"
-        },
-        {
-          "id": "2026-05-06-3788036e",
-          "title": "Fusillade dans une école au Brésil : un adolescent tue deux membres du personnel",
-          "description": "Un jeune garçon a ouvert le feu mardi dans son école de Rio Branco, capitale de l'État amazonien d'Acre. Il a tué deux membres du personnel, en a blessé un troisième ainsi qu'une élève de 11 ans. Il s'est ensuite rendu et a été arrêté.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260506-fusillade-dans-une-%C3%A9cole-au-br%C3%A9sil-un-adolescent-tue-deux-membres-du-personnel",
-          "imageUrl": "https://s.france24.com/media/display/abc41ba8-48e5-11f1-8194-005056bfb2b6/w:1024/p:16x9/cb2920938d9898eb026ead6c99441aa13545acad.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-06T00:51:10.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.535Z"
-        },
-        {
-          "id": "2026-05-05-0c5dd09a",
-          "title": "La Roumanie retombe dans le chaos politique après le vote d’une motion de censure par les sociaux-démocrates et l’extrême droite",
-          "description": "Le vote des parlementaires a entraîné la chute du gouvernement du premier ministre libéral, Ilie Bolojan. Malgré un vote conjoint avec les nationalistes de l’Alliance pour l’unité des Roumains, le Parti social-démocrate n’exclut pas de participer une nouvelle coalition pro-européenne.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/05/la-roumanie-retombe-dans-le-chaos-politique-apres-le-vote-d-une-motion-de-censure-par-les-sociaux-democrates-et-l-extreme-droite_6685642_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-05T18:00:03.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.554Z"
-        },
-        {
-          "id": "2026-05-05-ee97888b",
-          "title": "Brésil : un petit avion s'écrase contre un immeuble, faisant trois morts",
-          "description": "Un petit avion s'est écrasé lundi 4 mai contre un immeuble de trois étages à Belo Horizonte, métropole du sud-est du Brésil, faisant trois morts et deux blessés graves, selon les autorités.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260505-br%C3%A9sil-un-petit-avion-s-%C3%A9crase-contre-un-immeuble-faisant-trois-morts",
-          "imageUrl": "https://s.france24.com/media/display/a51467a4-48a4-11f1-ad24-005056a97e36/w:1024/p:16x9/Bre%CC%81sil-2.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-05T17:07:30.000Z",
-          "fetchedAt": "2026-05-06T04:28:52.535Z"
-        },
-        {
-          "id": "2026-05-05-c34e8cfe",
-          "title": "«Un agrégateur de moyens»: au Moyen-Orient, le porte-avions «Charles de Gaulle» est le pilier de la défense européenne",
-          "description": "La mission du porte-avions « Charles de Gaulle » devait initialement se dérouler en mer de Norvège. Mais la guerre au Moyen-Orient a bouleversé les plans de la marine française, et le groupe aéronaval a pris la route de la Méditerranée orientale. Positionné au large de Chypre, le porte-avions est un outil de réassurance sur le flanc sud de l'Union européenne.",
-          "url": "https://www.rfi.fr/fr/france/20260505-un-agr%C3%A9gateur-de-moyens-au-moyen-orient-le-porte-avions-charles-de-gaulle-est-le-pilier-de-la-d%C3%A9fense-europ%C3%A9enne",
-          "imageUrl": "https://s.rfi.fr/media/display/1c1186a4-3e35-11f1-937a-005056a97e36/w:1024/p:16x9/000-9BC3YW.jpg",
+          "id": "2026-05-06-1b72e25a",
+          "title": "Malgré la guerre en Ukraine, l'UE délivre toujours plus de visas aux vacanciers russes",
+          "description": "D'après les informations du site d'informations Euractiv, plus de 620 000 ressortissants russes ont reçu des visas en 2025. Ce chiffre est en hausse de 10 % par rapport à 2024. La France a été la plus généreuse avec l'Italie et l'Espagne, ce qui sème le trouble en Europe.",
+          "url": "https://www.rfi.fr/fr/europe/20260506-malgr%C3%A9-la-guerre-en-ukraine-l-ue-d%C3%A9livre-toujours-plus-de-visas-aux-vacanciers-russes",
+          "imageUrl": "https://s.rfi.fr/media/display/aa8c78d0-497a-11f1-a520-005056bfb2b6/w:1024/p:16x9/AP21190524134685.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-05T15:33:18.000Z",
-          "fetchedAt": "2026-05-06T04:29:06.128Z"
+          "publishedAt": "2026-05-06T19:18:57.000Z",
+          "fetchedAt": "2026-05-07T04:29:32.399Z"
         },
         {
-          "id": "2026-05-05-39ed567f",
-          "title": "Ouest du Tchad: une attaque attribuée à Boko Haram fait plus de 20 morts sur une base militaire",
-          "description": "Une attaque attribuée à Boko Haram, survenue dans la nuit de lundi à mardi sur la base militaire de Barka Tolorom (ouest du Tchad), sur la rive tchadienne du Lac Tchad, a fait plus de 20 morts et plusieurs blessés, ont indiqué mardi des sources concordantes à RFI. Un communiqué de l'état-major général des armées fait état, lui, de « 23 morts et 26 blessés » parmi les Forces de défense et de sécurité. « Un nombre important des éléments de la secte a été neutralisé et des matériels récupérés, et le ratissage continue », assure le texte. Un village voisin a par ailleurs été incendié et pillé. Pas encore de bilan du côté des victimes civiles. Les activités des ONG sur place ont été gelées pour le moment.",
-          "url": "https://www.rfi.fr/fr/en-bref/20260505-ouest-du-tchad-une-attaque-attribu%C3%A9e-%C3%A0-boko-haram-fait-plus-de-20-morts-sur-une-base-militaire",
-          "imageUrl": "https://s.rfi.fr/media/display/95de5d84-4891-11f1-9f79-005056a97e36/w:1024/p:16x9/000-86P84R7-1.jpg",
-          "source": "RFI",
+          "id": "2026-05-06-2e742e3b",
+          "title": "Guerre en Ukraine : Poutine fragilisé ?",
+          "description": "La Russie poursuit ses attaques contre l’Ukraine, malgré la proposition de cessez-le-feu de Kiev entrée en vigueur mercredi à 00h00. Le Président ukrainien, Volodymyr Zelensky dénonce un \"refus évident\" de la Russie d’accepter cette trêve. Cette initiative ukrainienne faisait suite à une trêve unilatérale annoncée par Moscou pour les commémorations du 9 mai marquant la victoire soviétique sur l'Allemagne nazie en 1945.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260506-guerre-en-ukraine-poutine-fragilis%C3%A9",
+          "imageUrl": "https://s.france24.com/media/display/d44f3cfe-4973-11f1-b536-005056bf30b7/w:1024/p:16x9/Francais-2026-05-06T17-19-17-973Z.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-05T13:20:35.000Z",
-          "fetchedAt": "2026-05-06T04:29:06.128Z"
+          "publishedAt": "2026-05-06T18:09:25.000Z",
+          "fetchedAt": "2026-05-07T04:29:23.256Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "L’impossible droit à la déconnexion des salariés : « A chaque appel, ça me fait ",
-      "category": "tech",
-      "importance": 7,
-      "articles": [
-        {
-          "id": "2026-05-06-5932cb24",
-          "title": "L’impossible droit à la déconnexion des salariés : « A chaque appel, ça me fait monter les pulsations »",
-          "description": "Introduit dans la loi depuis dix ans, le droit à la déconnexion peine encore à faire émerger des pratiques respectueuses du temps de repos des salariés.",
-          "url": "https://www.lemonde.fr/emploi/article/2026/05/06/l-impossible-droit-a-la-deconnexion-des-salaries-a-chaque-appel-ca-me-fait-monter-les-pulsations_6685832_1698637.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-06T04:00:22.000Z",
-          "fetchedAt": "2026-05-06T04:29:06.081Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "'I have to make my own dog food' - voters counting living costs on eve of electi",
+      "id": "cluster-2",
+      "topic": "« Souffrance au travail dans le service public » : le cri de colère d’une avocat",
       "category": "eco",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-07-5289662a",
+          "title": "« Souffrance au travail dans le service public » : le cri de colère d’une avocate de fonctionnaires",
+          "description": "Face à la souffrance psychique exprimée par de nombreux agents, Christelle Mazza fustige dans un essai engagé la responsabilité de l’Etat et le tournant gestionnaire impulsé dans le service public. L’avocate dénonce dans le même temps le travail mené, sur le plan judiciaire, par les tribunaux administratifs et le Conseil d’Etat.",
+          "url": "https://www.lemonde.fr/emploi/article/2026/05/07/souffrance-au-travail-dans-le-service-public-le-cri-de-colere-d-une-avocate-de-fonctionnaires_6686495_1698637.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-07T04:00:54.000Z",
+          "fetchedAt": "2026-05-07T04:29:43.129Z"
+        },
+        {
+          "id": "2026-05-07-185ac640",
+          "title": "Comment la France a perdu les trois quarts de ses raffineries de pétrole en un demi-siècle",
+          "description": "La guerre au Moyen-Orient a ravivé les inquiétudes sur l’approvisionnement énergétique de la France, qui importe la quasi-totalité de son pétrole brut et la moitié de son gazole. En cinquante ans, le nombre de raffineries dans l’Hexagone est passé de 24 à 6.",
+          "url": "https://www.lemonde.fr/economie-francaise/article/2026/05/07/comment-la-france-a-perdu-les-trois-quarts-de-ses-raffineries-de-petrole-en-un-demi-siecle_6686446_1656968.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-07T03:00:24.000Z",
+          "fetchedAt": "2026-05-07T04:29:43.129Z"
+        },
+        {
+          "id": "2026-05-06-97caecab",
+          "title": "Transavia ouvre son premier salon à Orly, signe d’une discrète « prémiumisation » de la compagnie low cost d’Air France-KLM",
+          "description": "Au moment où elle reprend la quasi-intégralité des créneaux de décollage et d’atterrissage d’Air France dans le deuxième aéroport parisien, la compagnie au logo vert entame une mue de son modèle économique.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/06/transavia-ouvre-son-premier-salon-a-orly-signe-d-une-discrete-premiumisation-de-la-compagnie-low-cost-d-air-france-klm_6686011_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-06T07:13:21.000Z",
+          "fetchedAt": "2026-05-07T04:29:43.129Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "SpaceX is starting to move on from the world's most successful rocket",
+      "category": "tech",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-05-05-5b2e181c",
-          "title": "'I have to make my own dog food' - voters counting living costs on eve of election",
-          "description": "India Lerigo makes her own dog food and batch cooks a month's worth of meals over a weekend to save money.",
-          "url": "https://www.bbc.com/news/articles/cjwpd0631y3o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1b85/live/2b3b5f50-46f1-11f1-9217-a5b6a670d3f7.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-05-05T21:45:45.000Z",
-          "fetchedAt": "2026-05-06T04:29:24.472Z"
+          "id": "2026-05-06-0c1bdfa2",
+          "title": "SpaceX is starting to move on from the world's most successful rocket",
+          "description": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
+          "url": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2211835635-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-05-06T22:28:47.000Z",
+          "fetchedAt": "2026-05-07T04:29:43.136Z"
         }
       ]
     }
