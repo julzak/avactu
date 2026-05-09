@@ -1,242 +1,242 @@
 {
-  "generatedAt": "2026-05-08T04:16:23.469Z",
+  "generatedAt": "2026-05-09T04:22:26.547Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-4",
-      "topic": "A la veille de l’investiture de Péter Magyar, la Hongrie saisie d’un printemps d",
+      "id": "cluster-1",
+      "topic": "EN DIRECT - Guerre au Moyen-Orient: Washington attend toujours la réponse de Téh",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-08-c6e1f038",
-          "title": "A la veille de l’investiture de Péter Magyar, la Hongrie saisie d’un printemps démocratique",
-          "description": "La défaite du premier ministre sortant, Viktor Orban, qui passera samedi les rênes du gouvernement à Péter Magyar, fait souffler un vent de changement dans le pays. Les oligarques proches de l’ancien pouvoir font face à la multiplication d’enquêtes.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/08/a-la-veille-de-l-investiture-de-peter-magyar-la-hongrie-saisie-d-un-printemps-democratique_6686888_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-08T04:00:25.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.163Z"
-        },
-        {
-          "id": "2026-05-08-42ae364f",
-          "title": "Soudan du Sud: un cessez-le-feu rejeté par l'opposition, mais un premier pas vers la paix?",
-          "description": "Au Soudan du Sud, le remplacement du chef de l’armée fait-elle entrevoir une fin au conflit qui fait rage au nord-est du pays ? Dès sa prise de fonctions, le chef de l’armée, le général Santino Deng Wol, a annoncé un cessez-le-feu unilatéral avec le mouvement de Riek Machar, cessez-le-feu de prime abord rejeté.",
-          "url": "https://www.rfi.fr/fr/afrique/20260508-soudan-du-sud-un-cessez-le-feu-rejet%C3%A9-par-l-opposition-mais-un-premier-pas-vers-la-paix",
-          "imageUrl": "https://s.rfi.fr/media/display/3a29c736-4a7f-11f1-aed5-005056bf30b7/w:1024/p:16x9/000-336824Y.jpg",
+          "id": "2026-05-09-e33af23e",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: Washington attend toujours la réponse de Téhéran à son offre",
+          "description": "Donald Trump attendait vendredi soir une réponse de l'Iran, qui n'est toujours pas venue, à sa dernière proposition en vue de mettre durablement fin aux hostilités. Le Premier ministre du Qatar, Cheikh Mohammed ben Abdelrahmane al-Thani, a plaidé vendredi pour des négociations avec l'Iran en s'entretenant à Washington avec le vice-président américain J.D. Vance.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260509-en-direct-guerre-au-moyen-orient-washington-attend-toujours-la-r%C3%A9ponse-de-t%C3%A9h%C3%A9ran-%C3%A0-son-offre",
+          "imageUrl": "https://s.rfi.fr/media/display/4a75f8e8-4b5c-11f1-abee-005056a90284/w:1024/p:16x9/000-A9UE2NR.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-08T02:32:32.000Z",
-          "fetchedAt": "2026-05-08T04:12:39.980Z"
+          "publishedAt": "2026-05-09T04:10:07.000Z",
+          "fetchedAt": "2026-05-09T04:18:39.476Z"
         },
         {
-          "id": "2026-05-08-a71aa0ef",
-          "title": "Au Venezuela, les autorités reconnaissent la mort d’un prisonnier politique neuf mois après",
-          "description": "Le corps de Victor Hugo Quero Navas, 51 ans, dont les autorités ont reconnu, jeudi, la mort près d’un an après son décès, va être exhumé pour identification, a annoncé le bureau du ministère public.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/08/au-venezuela-les-autorites-reconnaissent-la-mort-d-un-prisonnier-politique-neuf-mois-apres_6686781_3210.html",
+          "id": "2026-05-09-c00f5782",
+          "title": "EN DIRECT, guerre au Moyen-Orient : une marée noire a été repérée au large de l’île de Kharg, en Iran",
+          "description": "Selon des images satellites diffusées vendredi par l’observatoire CEOBS, la nappe de pétrole dérive vers le sud du golfe Persique et « il semble peu probable qu’elle soit traitée de manière appropriée ». Son origine est inconnue à ce stade. Le « New York Times » l’estime à 50 km2.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/09/en-direct-guerre-au-moyen-orient-une-maree-noire-a-ete-reperee-au-large-de-l-ile-de-kharg-en-iran_6686485_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-08T02:02:21.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.163Z"
+          "publishedAt": "2026-05-09T00:07:28.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.128Z"
         },
         {
-          "id": "2026-05-08-a12752d8",
-          "title": "En Pologne, les sangliers investissent les villes et provoquent un vif débat",
-          "description": "Si leur nombre diminue dans le pays, les suidés sont davantage présents en zone urbaine. Entre abattage et mesures de prévention, deux lignes s’affrontent.",
-          "url": "https://www.lemonde.fr/planete/article/2026/05/08/en-pologne-les-sangliers-investissent-les-villes-et-provoquent-un-vif-debat_6686747_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-05-08-1259e546",
+          "title": "Iran: le secrétaire d'État américain Marco Rubio somme les Européens de partager le fardeau",
+          "description": "Le chef de la diplomatie américaine Marco Rubio a achevé vendredi 8 mai une visite de deux jours à Rome où il s'est efforcé d'apaiser les tensions avec le pape et a sommé les Européens de venir en aide dans le détroit d'Ormuz.",
+          "url": "https://www.rfi.fr/fr/europe/20260508-iran-le-secr%C3%A9taire-d-%C3%A9tat-am%C3%A9ricain-marco-rubio-somme-les-europ%C3%A9ens-de-partager-le-fardeau",
+          "imageUrl": "https://s.rfi.fr/media/display/0490695c-4af4-11f1-98c8-005056bfb2b6/w:1024/p:16x9/AP26128392719086.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-08T01:00:09.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.163Z"
+          "publishedAt": "2026-05-08T16:10:39.000Z",
+          "fetchedAt": "2026-05-09T04:18:39.476Z"
         },
         {
-          "id": "2026-05-08-b3cae503",
-          "title": "Pays-Bas : le premier ministre dénonce une « lâche » attaque à la bombe contre les locaux de son parti",
-          "description": "S’il n’y a pas eu de victimes, des militants se trouvaient dans le bâtiment visé. La police a annoncé l’arrestation d’un suspect.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/08/pays-bas-le-premier-ministre-denonce-une-lache-attaque-a-la-bombe-contre-les-locaux-de-son-parti_6686714_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-08T00:49:51.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.163Z"
-        },
-        {
-          "id": "2026-05-08-820e6753",
-          "title": "En direct : Trump dit que le cessez-le-feu est toujours en vigueur après une attaque contre trois navires américains",
-          "description": "",
-          "url": "https://www.france24.com/fr/moyen-orient/20260507-en-direct-etats-unis-iran-s-accusent-violations-cessez-le-feu-detroit-d-ormuz-trump-liban",
-          "imageUrl": "https://s.france24.com/media/display/d3e9f9ca-4a63-11f1-942e-005056bf30b7/w:1280/p:16x9/AP26121532277860.jpg",
+          "id": "2026-05-08-a48d7767",
+          "title": "L'UE espère éviter la pénurie de kérosène cet été et lorgne sur le Jet A américain en plan B",
+          "description": "L'Union européenne assure être à l'abri des pénuries de kérosène cet été à ce stade. Mais les Vingt-Sept se préparent à tous les scénarios, y compris en recourant au carburant américain \"Jet A\" pour faire face si nécessaire.",
+          "url": "https://www.france24.com/fr/europe/20260508-l-ue-esp%C3%A8re-%C3%A9viter-la-p%C3%A9nurie-de-k%C3%A9ros%C3%A8ne-cet-%C3%A9t%C3%A9-et-lorgne-sur-le-jet-a-am%C3%A9ricain-en-plan-b",
+          "imageUrl": "https://s.france24.com/media/display/b6e9e5ba-4ae5-11f1-9604-005056a90284/w:1024/p:16x9/000-B29829E.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-08T00:46:54.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.180Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-12",
-      "topic": "Côte d’Ivoire: après la dissolution de la Commission électorale, l’opposition fi",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-08-2f2ab741",
-          "title": "Côte d’Ivoire: après la dissolution de la Commission électorale, l’opposition fixe ses conditions",
-          "description": "Le gouvernement a dissous hier la Commission électorale indépendante. Depuis 25 ans, la CEI organise et supervise les scrutins électoraux. Elle était régulièrement l’objet de vives critiques des partis politiques, qui la soupçonnent d’être déséquilibrée et partisane. Après l’annonce de sa dissolution, la classe politique pose des conditions concernant la mise en place d’un nouveau système de gestion des élections.",
-          "url": "https://www.rfi.fr/fr/afrique/20260508-c%C3%B4te-d-ivoire-apr%C3%A8s-la-dissolution-de-la-commission-%C3%A9lectorale-l-opposition-fixe-ses-conditions",
-          "imageUrl": "https://s.rfi.fr/media/display/f08712b8-b984-11f0-bb05-005056bf30b7/w:1024/p:16x9/WhatsApp-Image-2025-11-04-at-14-44-41.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-08T03:04:22.000Z",
-          "fetchedAt": "2026-05-08T04:12:39.980Z"
+          "publishedAt": "2026-05-08T14:07:58.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.143Z"
         },
         {
-          "id": "2026-05-07-a45d6bc1",
-          "title": "En Côte d’Ivoire, Alassane Ouattara dissout la Commission électorale indépendante",
-          "description": "Décriée depuis des années par ses opposants, l’instance chargée des scrutins ivoiriens n’est plus. Le chef de l’État, qui reconnaît que la commission a suscité “des critiques et des réserves” en a décidé ainsi. Le quotidien “L’Avenir” dresse le portrait d’un président responsable.",
-          "url": "https://www.courrierinternational.com/une/une-du-jour-en-cote-d-ivoire-alassane-ouattara-dissout-la-commission-electorale-independante_243800",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/07/336/0/1080/720/1200/630/60/0/fc3319a_upload-1-f4j9dorelgv3-avenir-cei-007052026.jpg",
+          "id": "2026-05-08-b5da1b77",
+          "title": "Comment les républicains de Trump se sont convertis aux substances psychédéliques",
+          "description": "Historiquement très opposés aux drogues, les républicains ont bien changé, comme en témoigne le décret pris par le président pour encourager la recherche sur les thérapies à base d’hallucinogènes. La presse états-unienne décrypte les raisons de ce virage.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-comment-les-republicains-de-trump-se-sont-convertis-aux-substances-psychedeliques_243742",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/21/0/0/6000/4000/1200/630/60/0/b16b375_ftp-1-tdldqfgl4ncf-2026-04-21t165349z-1285081465-rc2qrkaakkjf-rtrmadp-3-health-psychedelics.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-07T16:03:30.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.582Z"
+          "publishedAt": "2026-05-08T12:08:55.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.587Z"
+        },
+        {
+          "id": "2026-05-08-553c6e75",
+          "title": "L’Iran peut résister longtemps au blocus de Trump, avertit confidentiellement la CIA",
+          "description": "L’agence de renseignement estime qu’il faudra des mois, au minimum, pour que l’Iran soit véritablement mis à l’épreuve par le blocus de ses ports imposé par les États-Unis. Ses réserves de missiles seraient en outre bien moins entamées que ne le dit le président Donald Trump.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-l-iran-peut-resister-longtemps-au-blocus-de-trump-avertit-confidentiellement-la-cia_243823",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/08/0/0/6000/4000/1200/630/60/0/181b37b_ftp-1-s4dxeiucwf7o-afp-b2984at.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-08T08:47:41.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.587Z"
         }
       ]
     },
     {
-      "id": "cluster-18",
-      "topic": "Débats sur la loi de programmation militaire : l’Assemblée approuve une nouvelle",
+      "id": "cluster-15",
+      "topic": "“Art Reef”, un récif artistique au fond de l’Atlantique, où la nature a repris s",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-08-40031843",
-          "title": "Débats sur la loi de programmation militaire : l’Assemblée approuve une nouvelle trajectoire des dépenses avec 36 milliards d’euros de plus",
-          "description": "Les débats s’étirant, les députés n’ont pas achevé l’examen du texte dans les délais prévus. Une décision doit être prise mardi sur la reprise des débats.",
-          "url": "https://www.lemonde.fr/politique/article/2026/05/08/debats-sur-la-loi-de-programmation-militaire-l-assemblee-approuve-une-nouvelle-trajectoire-des-depenses-avec-36-milliards-d-euros-de-plus_6686681_823448.html",
+          "id": "2026-05-09-693c6513",
+          "title": "“Art Reef”, un récif artistique au fond de l’Atlantique, où la nature a repris ses droits",
+          "description": "L’une des œuvres les plus ambitieuses de Vhils, l’invité du numéro du 7 mai de “Courrier international”, se trouve à douze mètres de profondeur, au large du Portugal. “Art Reef”, un ensemble de sculptures monumentales réalisées à partir de pièces récupérées dans des centrales électriques, était déjà considéré comme novateur en 2023. Aujourd’hui, le directeur de création du Studio Vhils, rencontré à Lisbonne, revient sur l’évolution d’une œuvre destinée, dès sa conception, non seulement à interagir avec le vivant mais à s’effacer pour lui laisser la place.",
+          "url": "https://www.courrierinternational.com/long-format/le-monde-selon-vhils-art-reef-un-recif-artistique-au-fond-de-l-atlantique-ou-la-nature-a-repris-ses-droits_243447",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/14/0/69/7809/5206/1200/630/60/0/b95888a_upload-1-x4fdbgbp2muu-img-1540.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-09T03:00:16.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.587Z"
+        },
+        {
+          "id": "2026-05-09-da3997f1",
+          "title": "En Hongrie, Peter Magyar devra “prouver que le changement de régime n’était pas qu’un slogan”",
+          "description": "Prenant officiellement ses fonctions samedi 9 mai, le nouveau Premier ministre hongrois promet une ambitieuse rupture politique et économique avec l’ère Orban. Mais tiendra-t-il ses promesses de campagne ou provoquera-t-il d’immenses déceptions ? Les médias locaux s’interrogent.",
+          "url": "https://www.courrierinternational.com/article/politique-en-hongrie-peter-magyar-devra-prouver-que-le-changement-de-regime-n-etait-pas-qu-un-slogan_243716",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/04/0/110/6607/4405/1200/630/60/0/a50ce5a_ftp-1-qqi9c00ergvl-afp-a9q46wz.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-09T03:00:06.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.587Z"
+        },
+        {
+          "id": "2026-05-09-70785f6b",
+          "title": "Au Danemark, Mette Frederiksen échoue à composer une coalition gouvernementale",
+          "description": "Le roi a demandé au leader du parti libéral de mener de nouvelles négociations afin de former un gouvernement de droite. Le bloc de gauche était arrivé en tête des législatives de mars, mais sans majorité au Parlement.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/09/au-danemark-mette-frederiksen-echoue-a-composer-une-coalition-gouvernementale_6687211_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-08T00:34:50.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.163Z"
+          "publishedAt": "2026-05-09T02:25:23.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.128Z"
         },
         {
-          "id": "2026-05-07-b65f0d82",
-          "title": "Nigeria : dix-huit bûcherons tués dans une attaque attribuée à Boko Haram",
-          "description": "L’insurrection djihadiste dans le nord-est du Nigeria, commencée en 2009, a fait plus de 40 000 morts et déplacé environ deux millions de personnes, selon l’ONU.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/08/nigeria-dix-huit-bucherons-tues-dans-une-attaque-attribuee-a-boko-haram_6686615_3210.html",
+          "id": "2026-05-08-4b2b21cd",
+          "title": "L'Union européenne cherche des réponses face au risque de pénurie de kérosène",
+          "description": "Combien de vols supprimés cet été en Europe ? Face au risque de pénurie de kérosène, les compagnies aériennes s’inquiètent… et Bruxelles tente de rassurer. La Commission européenne a annoncé ce vendredi 8 mai une série de mesures pour mieux gérer les stocks de carburant.",
+          "url": "https://www.rfi.fr/fr/europe/20260508-l-union-europ%C3%A9enne-cherche-des-r%C3%A9ponses-face-au-risque-de-p%C3%A9nurie-de-k%C3%A9ros%C3%A8ne",
+          "imageUrl": "https://s.rfi.fr/media/display/135df33c-6a07-11ec-a10b-005056a97e36/w:1024/p:16x9/2021-12-02T150243Z_1616101383_RC2A6R9WWTUZ_RTRMADP_3_FRANCE-AIRPORT.JPG",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-08T21:47:02.000Z",
+          "fetchedAt": "2026-05-09T04:18:39.476Z"
+        },
+        {
+          "id": "2026-05-08-7fb4c208",
+          "title": "Le Ghana veut inscrire les violences xénophobes à l'agenda de la prochaine réunion de l'UA",
+          "description": "Suite aux violences xénophobes qui se sont multipliées en Afrique du Sud, le mois dernier, les réactions africaines se multiplient. Après le Ghana qui demande à ce que le débat soit inscrit à l'agenda de la prochaine réunion de l'Union Africaine, le Nigeria a décidé de rapatrier ses ressortissants.  Face à ses réactions, le gouvernement de Pretoria reste sur la défensive.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260508-le-ghana-veut-inscrire-les-violences-x%C3%A9nophobes-%C3%A0-l-agenda-de-la-prochaine-r%C3%A9union-de-l-ua",
+          "imageUrl": "https://s.france24.com/media/display/9b30dca0-4b19-11f1-bf9b-005056a90284/w:1024/p:16x9/FRAN260508-2143-Live-01.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-08T21:28:47.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.143Z"
+        },
+        {
+          "id": "2026-05-08-dafe7c40",
+          "title": "VIDEO Royaume-Uni : les premières réactions en images, après la percée historique de la droite radicale",
+          "description": "Le premier ministre, Keir Starmer, a annoncé refuser de démissionner après le recul de son parti, le Labour, aux élections locales qui ont vu, ce 7 mai, le parti Reform UK en grande forme.",
+          "url": "https://www.lemonde.fr/international/video/2026/05/08/royaume-uni-les-premieres-reactions-en-images-apres-la-percee-historique-de-la-droite-radicale_6687107_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-07T23:15:56.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.163Z"
-        },
-        {
-          "id": "2026-05-07-adca55dc",
-          "title": "Sud-Liban : un soldat israélien fait fumer une statue de la Vierge Marie",
-          "description": "Alors que le cessez-le-feu entre Israël et le Hezbollah reste extrêmement fragile, une nouvelle image fait polémique : elle montre un soldat de l'armée israélienne en train de positionner une cigarette devant la bouche d'une statue de la Vierge Marie, comme pour la faire fumer. La scène a eu lieu au Sud-Liban, dans la même ville où un soldat avait vandalisé une statue de Jésus. Un peu plus loin, à Yaroun, les images prouvent que l'armée israélienne a bien détruit un couvent malgré ses démentis.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260507-sud-liban-un-soldat-isra%C3%A9lien-fait-fumer-une-statue-de-la-vierge-marie",
-          "imageUrl": "https://s.france24.com/media/display/94803cf2-4a56-11f1-a5fd-005056bfb2b6/w:1024/p:16x9/Francais-2026-05-07T20-21-31-583Z.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-07T21:34:18.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.180Z"
-        },
-        {
-          "id": "2026-05-07-c2134e2c",
-          "title": "Émirats arabes unis: la famille royale bénéficie de plus de 71 millions d'euros de subventions agricoles de l'UE",
-          "description": "La famille royale dirigeante des Émirats arabes unis a bénéficié de plus de 71 millions d'euros de subventions agricoles de l'Union européenne sur six ans, ont révélé dans une enquête conjointe le Guardian et le média d'investigation anglophone DeSmog. Des sommes qui viennent de la PAC, la Politique agricole commune de l'UE, destinées aux agriculteurs européens pour leur permettre un niveau de vie équitable.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260507-%C3%A9mirats-arabes-unis-la-famille-royale-b%C3%A9n%C3%A9ficie-de-plus-de-71-millions-d-euros-de-subventions-agricoles-de-l-ue",
-          "imageUrl": "https://s.rfi.fr/media/display/fc2fac4e-e612-11ed-8564-005056a90284/w:1024/p:16x9/000_33DF3FJ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-07T21:04:33.000Z",
-          "fetchedAt": "2026-05-08T04:12:39.980Z"
-        },
-        {
-          "id": "2026-05-07-23771a0b",
-          "title": "Guerre au Moyen-Orient: quels scénarios pour la sortie d'un conflit qui risque d'être gelé",
-          "description": "Cela fait un mois qu’un cessez-le-feu a interrompu les bombardements israéliens et américains sur l’Iran. Le bras de fer continue néanmoins dans le détroit d’Ormuz, où la navigation internationale est prisonnière d’un double blocus iranien et américain. Dans ce contexte, l’Iran affirme être toujours en train d’examiner la proposition d’accord venue des États-Unis.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260507-guerre-au-moyen-orient-quels-scenarios-pour-la-sortie-d-un-conflit-qui-risque-d-%C3%AAtre-gel%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/0135c9b6-4499-11f1-a810-005056bfb2b6/w:1024/p:16x9/AP26117545379836.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-07T16:45:42.000Z",
-          "fetchedAt": "2026-05-08T04:12:39.980Z"
-        },
-        {
-          "id": "2026-05-07-c9c00bcd",
-          "title": "Tunisie : la Ligue tunisienne des droits de l’homme suspendue, les militants s’inquiètent",
-          "description": "La Ligue tunisienne des droits de l’homme (LTDH) vit depuis dix jours un gel de ses activités, une suspension qui doit durer jusqu’à la fin du mois selon l’administration de Kaïs Saïed. Officiellement justifiée par la nécessité de régulariser sa situation fiscale et administrative, cette mesure est perçue par de nombreuses ONG comme une volonté de museler la défense des libertés, d’autant que plusieurs associations ont subi le même sort. Correspondance de Lilia Blaise à Tunis.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260507-tunisie-la-ligue-tunisienne-des-droits-de-l-homme-suspendue-les-militants-s-inqui%C3%A8tent",
-          "imageUrl": "https://s.france24.com/media/display/c1a44fc4-4a2f-11f1-bd97-005056a90284/w:1024/p:16x9/FR-20260506-215137-215346-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-07T16:27:58.000Z",
-          "fetchedAt": "2026-05-08T04:12:23.180Z"
+          "publishedAt": "2026-05-08T18:56:03.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.128Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "category": "eco",
+      "id": "cluster-17",
+      "topic": "Braqueur en fuite, bière au goût amer et Claude Monet : petites histoires de Fra",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-08-429c1b34",
-          "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-          "description": "The flare-up further endangers the US-Iran ceasefire, which Trump extended indefinitely on 21 April.",
-          "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ceca/live/514c94a0-4a6d-11f1-9270-375e80dbfe3c.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-05-08T02:23:03.000Z",
-          "fetchedAt": "2026-05-08T04:13:03.206Z"
+          "id": "2026-05-09-86aeb94e",
+          "title": "Braqueur en fuite, bière au goût amer et Claude Monet : petites histoires de France",
+          "description": "La cavale d’un braqueur bien loin du stéréotype hollywoodien, la côte d’Albâtre dans les yeux de Claude Monet ou encore un brasseur breton mis en demeure par Yoko Ono… Voici une petite sélection des histoires surprenantes en France racontées cette semaine par la presse étrangère.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-braqueur-en-fuite-biere-au-gout-amer-et-claude-monet-petites-histoires-de-france_243741",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/05/0/0/6000/4000/1200/630/60/0/7fc5442_ftp-1-qbqqe5u69s83-afp-a9um4t3.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-09T03:00:04.000Z",
+          "fetchedAt": "2026-05-09T04:18:26.587Z"
         },
         {
-          "id": "2026-05-06-ddf97272",
-          "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-          "description": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
-          "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b9c5/live/5a6e0e90-4966-11f1-ac78-2112837ce2aa.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-05-06T16:11:44.000Z",
-          "fetchedAt": "2026-05-08T04:13:03.206Z"
+          "id": "2026-05-08-4d21498c",
+          "title": "Politique française: Boris Vallaud quitte la direction du Parti socialiste avec ses soutiens",
+          "description": "Après Elisabeth Borne qui quitte la direction de Renaissance, Boris Vallaud quitte la direction du PS. Une décision qui arrive alors que les désaccords avec le premier secrétaire du parti Olivier Faure s’affichent au grand jour depuis des mois.",
+          "url": "https://www.rfi.fr/fr/france/20260508-politique-fran%C3%A7aise-boris-vallaud-quitte-la-direction-du-parti-socialiste-avec-ses-soutiens",
+          "imageUrl": "https://s.rfi.fr/media/display/575ac19c-a99f-11f0-b69a-005056bf30b7/w:1024/p:16x9/2025-10-14T153517Z-1409180957-RC2RBHASMSXE-RTRMADP-3-FRANCE-POLITICS.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-08T23:20:27.000Z",
+          "fetchedAt": "2026-05-09T04:18:39.476Z"
         },
         {
-          "id": "2026-05-06-02fe3b76",
-          "title": "Next to hike prices by up to 8% outside Europe due to Iran war costs",
-          "description": "No extra price rises are slated for the UK, which saw better than expected sales in the first quarter.",
-          "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9a3b/live/b391b740-d49d-11ef-a70a-7188cb9abb89.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-05-06T08:43:47.000Z",
-          "fetchedAt": "2026-05-08T04:13:03.206Z"
+          "id": "2026-05-08-7d56ca35",
+          "title": "Algérie: à Sétif, la France reconnaît «les événements tragiques» du 8 mai 1945",
+          "description": "Vendredi 8 mai 2026, la ministre française déléguée aux armées et aux anciens combattants, Alice Rufo, était à Sétif, envoyée par Emmanuel Macron dans un geste de Paris envers Alger pour le dégel des relations diplomatiques entre les deux pays. Elle a assisté en Algérie aux commémorations des massacres de Sétif, début, le 8 mai 1945, d'une répression sanglante par les forces coloniales françaises.",
+          "url": "https://www.rfi.fr/fr/afrique/20260508-guerre-d-alg%C3%A9rie-%C3%A0-s%C3%A9tif-la-france-reconna%C3%AEt-les-%C3%A9v%C3%A9nements-tragiques-du-8-mai-1945",
+          "imageUrl": "https://s.rfi.fr/media/display/0746fdb6-4b2e-11f1-b950-005056a90284/w:1024/p:16x9/000-B29Y83D.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-08T22:56:43.000Z",
+          "fetchedAt": "2026-05-09T04:18:39.476Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+      "id": "cluster-2",
+      "topic": "Manufacturing qubits that can move",
       "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-05-08-a121265f",
+          "title": "Manufacturing qubits that can move",
+          "description": "It's hard to mix electronic manufacturing and flexible geometry.",
+          "url": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1726618763-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-05-08T23:13:57.000Z",
+          "fetchedAt": "2026-05-09T04:18:52.624Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-19",
+      "topic": "'We had people come just to see it': Amazon delivers its first UK parcels by dro",
+      "category": "eco",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-05-07-069b2572",
-          "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
-          "description": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
-          "url": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2238676352-1024x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-05-07T21:35:01.000Z",
-          "fetchedAt": "2026-05-08T04:12:58.223Z"
+          "id": "2026-05-07-2c5b541d",
+          "title": "'We had people come just to see it': Amazon delivers its first UK parcels by drone",
+          "description": "The unmanned aircraft can drop off 100 parcels a day within a 12km radius of Amazon's hub.",
+          "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fff0/live/3de903e0-496d-11f1-8ac1-2336fddb3c06.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-05-07T08:31:34.000Z",
+          "fetchedAt": "2026-05-09T04:18:56.838Z"
+        },
+        {
+          "id": "2026-05-07-08057a5c",
+          "title": "Watch: Drone delivers first Amazon parcels in UK",
+          "description": "The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows.",
+          "url": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/de78/live/3da3f970-4a0e-11f1-bd52-e755d604ece4.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-05-07T07:54:50.000Z",
+          "fetchedAt": "2026-05-09T04:18:56.838Z"
         }
       ]
     }
