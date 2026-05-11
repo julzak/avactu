@@ -1,117 +1,24 @@
 {
-  "generatedAt": "2026-05-10T04:43:01.057Z",
+  "generatedAt": "2026-05-11T04:58:01.434Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Hantavirus : les Canaries se préparent à l’arrivée imminente du navire Hondius",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-10-4f8e7378",
-          "title": "Hantavirus : les Canaries se préparent à l’arrivée imminente du navire Hondius",
-          "description": "Le navire de croisière néerlandais Hondius, touché par une épidémie de hantavirus, était attendu dimanche à l’aube dans l’archipel espagnol des Canaries. Un imposant déploiement sanitaire et sécuritaire a été prévu pour prendre en charge les passagers.",
-          "url": "https://www.courrierinternational.com/article/sante-hantavirus-les-canaries-se-preparent-a-l-arrivee-imminente-du-navire-hondius_243836",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/09/0/157/4686/3124/1200/630/60/0/04ae048_ftp-1-ntpbolfcj4xi-2026-05-09t193747z-208277446-rc2v5la0pec6-rtrmadp-3-cruiseship-hantavirus-tenerife.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T04:06:38.000Z",
-          "fetchedAt": "2026-05-10T04:39:00.675Z"
-        },
-        {
-          "id": "2026-05-10-2fe86e94",
-          "title": "EN DIRECT, hantavirus : le navire de croisière MV « Hondius » est en approche des Canaries",
-          "description": "Plus d’une centaine de passagers, dont cinq Français, et membres d’équipage doivent débarquer du bateau où a été détecté un foyer d’hantavirus. Ils seront ensuite transférés jusqu’à l’aéroport de Tenerife-Sud pour être rapatriés par avion vers leur pays d’origine.",
-          "url": "https://www.lemonde.fr/sante/live/2026/05/10/en-direct-hantavirus-l-evacuation-du-mv-hondius-prevue-vers-8-heures-une-reunion-annoncee-a-matignon-pour-faire-un-point-de-situation_6686093_1651302.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T00:08:08.000Z",
-          "fetchedAt": "2026-05-10T04:39:00.502Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-2",
-      "topic": "EN DIRECT - Guerre au Moyen-Orient: l'Iran menace d'une «lourde riposte» après l",
+      "topic": "Conflit Iran–États-Unis–Israël: comment l’Arabie saoudite tente de se tenir à di",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-10-617f1e7b",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: l'Iran menace d'une «lourde riposte» après l'attaque de ses pétroliers",
-          "description": "L'Iran a menacé de s'en prendre à des sites appartenant à Washington au Moyen-Orient en cas d'attaque de sa marine marchande, après des frappes américaines contre deux de ses pétroliers, et alors que les États-Unis attendent toujours la réponse de Téhéran à leurs dernières propositions.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260510-en-direct-guerre-au-moyen-orient-l-iran-menace-d-une-lourde-riposte-apr%C3%A8s-l-attaque-de-ses-p%C3%A9troliers",
-          "imageUrl": "https://s.rfi.fr/media/display/1662af5a-4c25-11f1-a795-005056bfb2b6/w:1024/p:16x9/AP26126593132169.jpg",
+          "id": "2026-05-11-0ca45608",
+          "title": "Conflit Iran–États-Unis–Israël: comment l’Arabie saoudite tente de se tenir à distance de la guerre",
+          "description": "Quel est le positionnement du royaume saoudien vis-à-vis du conflit entre l’Iran, les États-Unis et Israël ? Depuis plus de deux mois, Riyad semble vouloir se tenir à distance des bruits de bottes, et pour cause.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260511-conflit-iran%E2%80%93%C3%A9tats-unis%E2%80%93isra%C3%ABl-comment-l-arabie-saoudite-tente-de-se-tenir-%C3%A0-distance-de-la-guerre",
+          "imageUrl": "https://s.rfi.fr/media/display/6a5a086e-4c76-11f1-a003-005056bf30b7/w:1024/p:16x9/AP21059114433808.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-10T04:04:38.000Z",
-          "fetchedAt": "2026-05-10T04:39:11.135Z"
+          "publishedAt": "2026-05-11T04:43:37.000Z",
+          "fetchedAt": "2026-05-11T04:54:12.937Z"
         },
-        {
-          "id": "2026-05-10-239c174c",
-          "title": "Le Pakistan, médiateur intéressé de la guerre en Iran",
-          "description": "Islamabad s’est imposé comme intermédiaire inattendu entre Washington et Téhéran, utilisant un art consommé de la courtisanerie pour obtenir les faveurs de Donald Trump et ses canaux discrets avec la République islamique pour tenter de dénouer la crise autour du détroit d’Ormuz.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/10/le-pakistan-mediateur-interesse-de-la-guerre-en-iran_6687669_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T04:00:10.000Z",
-          "fetchedAt": "2026-05-10T04:39:00.502Z"
-        },
-        {
-          "id": "2026-05-10-9dff8c3b",
-          "title": "Après avoir embrassé un seul homme pendant vingt ans, j’en ai embrassé onze en un mois",
-          "description": "Chaque semaine, la chronique phénomène du “New York Times” sur l’amour vous est proposée en exclusivité, traduite en français par “Courrier international”. Brusquement quittée par son mari après deux décennies de vie commune, cette femme raconte avoir embrassé de nombreux hommes pour s’en remettre : Steph, Bryan, Andrew 1, Andrew 2 et tous les autres l’ont aidée à surmonter son chagrin.",
-          "url": "https://www.courrierinternational.com/article/modern-love-apres-avoir-embrasse-un-seul-homme-pendant-vingt-ans-j-en-ai-embrasse-onze-en-un-mois_243380",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/05/160/0/1720/1146/1200/630/60/0/4ab3b83_upload-1-foe8bmkkzval-1-26st-modern-chack-superjumbo-copie.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T03:00:14.000Z",
-          "fetchedAt": "2026-05-10T04:39:00.675Z"
-        },
-        {
-          "id": "2026-05-10-ff8904c9",
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran menace de riposter contre des sites américains en cas d’attaque contre ses pétroliers",
-          "description": "Ces menaces surviennent après des attaques, vendredi, de l’armée américaine contre deux pétroliers iraniens dans le Golfe d’Oman. Par ailleurs, les autorités libanaises ont annoncé, samedi, la mort de neuf personnes, dont une fillette, dans de nouvelles frappes israéliennes sur le sud du pays.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/10/en-direct-guerre-au-moyen-orient-l-iran-menace-de-riposter-contre-des-sites-americains-en-cas-d-attaque-contre-ses-petroliers_6686485_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T00:24:47.000Z",
-          "fetchedAt": "2026-05-10T04:39:00.502Z"
-        },
-        {
-          "id": "2026-05-09-7b4c0026",
-          "title": "Les États-Unis sanctionnent trois entreprises chinoises pour leur aide à l'Iran",
-          "description": "À moins d'une semaine de la visite de Donald Trump en Chine prévue les 14 et 15 mai, le département d'État américain annonce des sanctions contre trois sociétés chinoises. Elles sont accusées d'avoir apporté une aide militaire à l'Iran.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260509-les-%C3%A9tats-unis-sanctionnent-trois-entreprises-chinoises-pour-leur-aide-%C3%A0-l-iran",
-          "imageUrl": "https://s.rfi.fr/media/display/328caa38-4be3-11f1-a0fb-005056a90284/w:1024/p:16x9/AP26128843535674.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-09T20:26:35.000Z",
-          "fetchedAt": "2026-05-10T04:39:11.135Z"
-        },
-        {
-          "id": "2026-05-09-3c229cdb",
-          "title": "L'Iran dément une marée noire dans le golfe Persique, la tâche observée par satellite «fortement réduite»",
-          "description": "Téhéran dément le scénario d'une marée noire dans le golfe Persique. Les autorités iraniennes ont réagi après les informations du New York Times. Le journal américain révélait la présence en mer d'une nappe de pétrole au large de l'île de Kharg, principal terminal pétrolier du pays.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260509-l-iran-d%C3%A9ment-une-mar%C3%A9e-noire-dans-le-golfe-persique-la-t%C3%A2che-observ%C3%A9e-par-satellite-fortement-r%C3%A9duite",
-          "imageUrl": "https://s.rfi.fr/media/display/5b8284bc-4bc0-11f1-9953-005056a90284/w:1024/p:16x9/000-B2CT3KE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-09T16:09:38.000Z",
-          "fetchedAt": "2026-05-10T04:39:11.135Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-5",
-      "topic": "Guerre en Ukraine, États-Unis et Brésil : les informations de la nuit",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
         {
           "id": "2026-05-10-48288435",
           "title": "Guerre en Ukraine, États-Unis et Brésil : les informations de la nuit",
@@ -121,122 +28,204 @@
           "source": "Courrier International",
           "category": "geopolitique",
           "publishedAt": "2026-05-10T03:59:39.000Z",
-          "fetchedAt": "2026-05-10T04:39:00.675Z"
-        },
+          "fetchedAt": "2026-05-11T04:54:01.087Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "A Nairobi, Emmanuel Macron clôt une décennie de tempêtes dans les relations entr",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
         {
-          "id": "2026-05-09-70bbb585",
-          "title": "Guerre en Ukraine : Vladimir Poutine assure que le conflit « touche à sa fin ». Retrouvez les informations du 3 au 9 mai.",
-          "description": "Le président russe a affirmé « ni proposer ni refuser » une rencontre avec Volodymyr Zelensky, se disant prêt à le rencontrer « à Moscou ou dans un pays tiers », mais uniquement pour signer un accord.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/09/en-direct-guerre-en-ukraine-vladimir-poutine-assure-que-le-conflit-touche-a-sa-fin-kiev-et-moscou-s-accusent-de-violer-le-cessez-le-feu_6684995_3210.html",
+          "id": "2026-05-11-2f6b4a64",
+          "title": "A Nairobi, Emmanuel Macron clôt une décennie de tempêtes dans les relations entre la France et l’Afrique",
+          "description": "Arrivé au pouvoir en promettant de refonder la relation entre la France et ses anciennes colonies, Emmanuel Macron a dû gérer une succession de crises, en particulier au Sahel. Dans la partie anglophone du continent, Paris peine à se faire une place.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/11/a-nairobi-emmanuel-macron-clot-une-decennie-de-tempetes-dans-les-relations-entre-la-france-et-l-afrique_6687955_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-09T19:52:13.000Z",
-          "fetchedAt": "2026-05-10T04:39:00.502Z"
+          "publishedAt": "2026-05-11T04:30:05.000Z",
+          "fetchedAt": "2026-05-11T04:54:00.859Z"
         },
         {
-          "id": "2026-05-09-40510ca3",
-          "title": "«Southern Spear»: plus de 190 morts dans les opérations antidrogues contestées des États-Unis dans la Caraïbe",
-          "description": "Depuis qu’a commencé l’opération « Southern Spear » (Lance du Sud), en novembre 2025, les bombardements réguliers contre des embarcations ont fait plus de 190 morts. Des opérations menées en dehors de tout cadre légal. Des experts et des responsables de l'ONU dénoncent des exécutions extrajudiciaires.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260509-southern-spear-plus-de-190-morts-dans-les-op%C3%A9rations-antidrogues-contest%C3%A9es-des-etats-unis-dans-la-cara%C3%AFbe",
-          "imageUrl": "https://s.rfi.fr/media/display/b90a01d4-4ba5-11f1-a249-005056bfb2b6/w:1024/p:16x9/000-A92T8T4.jpg",
+          "id": "2026-05-11-c64176f7",
+          "title": "Ouverture d'un deuxième procès du chanteur marocain Saad Lamjarred pour viol en France",
+          "description": "C'est une star marocaine, connue dans tout le Moyen-Orient et aux millions de vues sur YouTube. Le chanteur Saad Lamjarred, 40 ans, est jugé à partir de ce lundi 11 mai 2026 devant la cour d'assises de Draguignan, dans le sud de la France, pour un viol qu'il conteste. L'artiste a déjà été condamné en France en 2023 pour des faits de même nature, une décision dont il a fait appel.",
+          "url": "https://www.rfi.fr/fr/france/20260511-ouverture-d-un-deuxi%C3%A8me-proc%C3%A8s-du-chanteur-marocain-saad-lamjarred-pour-viol-en-france",
+          "imageUrl": "https://s.rfi.fr/media/display/1e15610a-b1f2-11ed-a90d-005056bfb2b6/w:1024/p:16x9/000_339P6FG.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-09T12:53:57.000Z",
-          "fetchedAt": "2026-05-10T04:39:11.135Z"
+          "publishedAt": "2026-05-11T03:35:24.000Z",
+          "fetchedAt": "2026-05-11T04:54:12.937Z"
         },
         {
-          "id": "2026-05-09-90b424a6",
-          "title": "Les États-Unis sanctionnent des entreprises chinoises pour leur aide militaire à l’Iran",
-          "description": "Vendredi 8 mai, le département d’État américain a annoncé des sanctions à l’encontre de trois sociétés chinoises. Elles auraient fourni des images satellites à l’Iran, utilisées à des fins militaires. Un différend supplémentaire entre la Chine et les États-Unis, alors qu’une visite de Donald Trump à Pékin devrait avoir lieu la semaine prochaine.",
-          "url": "https://www.courrierinternational.com/article/conflit-les-etats-unis-sanctionnent-des-entreprises-chinoises-pour-leur-aide-militaire-a-l-iran_243833",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/21/8/0/5500/3666/1200/630/60/0/04ecced_ftp-1-19ew0j5ww71f-2026-04-21t060116z-396698700-rc24mha6ksu3-rtrmadp-3-usa-china-trump.JPG",
-          "source": "Courrier International",
+          "id": "2026-05-11-e070c3e1",
+          "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+          "description": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
+          "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/485f/live/71733440-4cd0-11f1-a5f9-d73fa1ebe64c.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-05-09T10:48:22.000Z",
-          "fetchedAt": "2026-05-10T04:39:00.675Z"
+          "publishedAt": "2026-05-11T02:48:53.000Z",
+          "fetchedAt": "2026-05-11T04:54:12.914Z"
+        },
+        {
+          "id": "2026-05-11-fd88e754",
+          "title": "EN DIRECT, hantavirus : le décret régissant les mesures d’isolement des passagers français rapatriés, dont l’un présente des symptômes, a été publié",
+          "description": "Les premières évacuations d’une partie des passagers et membres d’équipage du MV « Hondius » ont eu lieu dimanche. Les cinq Français ayant séjourné à bord du navire sont arrivés à Paris et ont été placés « en quarantaine » le temps d’une « évaluation médicale et épidémiologique ».",
+          "url": "https://www.lemonde.fr/sante/live/2026/05/11/en-direct-hantavirus-le-decret-regissant-les-mesures-d-isolement-des-passagers-francais-rapatries-dont-l-un-presente-des-symptomes-a-ete-publie_6686093_1651302.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-11T01:01:52.000Z",
+          "fetchedAt": "2026-05-11T04:54:00.859Z"
+        },
+        {
+          "id": "2026-05-10-9cebccf2",
+          "title": "France: pour les 25 ans de la loi Taubira sur l'esclavage, Sébastien Lecornu marque le coup",
+          "description": "Comme tous les 10 mai, la France commémore le souvenir de la traite et de l'esclavage et leur abolition. En cette année 2026, cela marque aussi les 25 ans de la loi dite Taubira, ayant fait de la France le premier pays au monde à reconnaître l'esclavage comme un crime contre l'humanité. Lors d'une cérémonie officielle au Sénat, le chef du gouvernement a évidemment rendu hommage à l'ex-ministre socialiste et appelé à la vigilance, en France et dans le monde, près de deux siècles après l'abolition de l'esclavage.",
+          "url": "https://www.rfi.fr/fr/france/20260510-france-pour-les-25-ans-de-la-loi-taubira-sur-l-esclavage-s%C3%A9bastien-lecornu-marque-le-coup",
+          "imageUrl": "https://s.rfi.fr/media/display/6afb9d6c-4cb9-11f1-81ff-005056a97e36/w:1024/p:16x9/000-B29E429.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-10T22:19:10.000Z",
+          "fetchedAt": "2026-05-11T04:54:12.937Z"
+        },
+        {
+          "id": "2026-05-10-d047c1a1",
+          "title": "Sommet Africa Forward : l'ère du \"pré-carré français\" est terminée pour Emmanuel Macron",
+          "description": "L'ère du pré-carré français en afrique francophone est terminée. C'est la déclaration d'Emmanuel Macron à son arrivée au Kenya, à la veille de l'ouverture du sommet Africa Forward qui se tient le 11 et 12 mai à Nairobi.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260510-sommet-africa-forward-l-%C3%A8re-du-pr%C3%A9-carr%C3%A9-fran%C3%A7ais-est-termin%C3%A9e-pour-emmanuel-macron",
+          "imageUrl": "https://s.france24.com/media/display/2ddf7b96-4cb0-11f1-8305-005056bf30b7/w:1024/p:16x9/WB127978-O-01-20260510-01.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-10T21:31:46.000Z",
+          "fetchedAt": "2026-05-11T04:54:01.206Z"
         }
       ]
     },
     {
       "id": "cluster-6",
-      "topic": "Aphex Twin, légende de l’électro, connaît une surprenante popularité chez les pl",
-      "category": "tech",
+      "topic": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se montre confiant sur un écha",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-09-464c43c1",
-          "title": "Aphex Twin, légende de l’électro, connaît une surprenante popularité chez les plus jeunes",
-          "description": "Les compositions de l’artiste réapparaissent, parfois près de 30 ans après leur sortie, dans des vidéos diffusées massivement sur les réseaux. Une viralité révélatrice de la manière dont la Gen Z découvre, et s’approprie, la musique.",
-          "url": "https://www.lemonde.fr/culture/article/2026/05/09/aphex-twin-legende-de-l-electro-connait-une-surprenante-popularite-chez-les-plus-jeunes_6687476_3246.html",
+          "id": "2026-05-11-a004fe78",
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se montre confiant sur un échange de prisonniers « 1 000 contre 1 000 » avec la Russie",
+          "description": "Le président ukrainien a expliqué que les contacts avec les Etats-Unis se poursuivaient concernant les garanties de mise en œuvre d’un tel échange de prisonniers, qui « devrait avoir lieu prochainement ».",
+          "url": "https://www.lemonde.fr/international/live/2026/05/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-montre-confiant-sur-un-echange-de-prisonniers-1-000-contre-1-000-avec-la-russie_6687661_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-09T15:00:26.000Z",
-          "fetchedAt": "2026-05-10T04:39:11.206Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-11T04:08:16.000Z",
+          "fetchedAt": "2026-05-11T04:54:00.859Z"
         },
         {
-          "id": "2026-05-09-d7aac795",
-          "title": "Un ado transforme la roue de son hamster en chargeur de smartphone",
-          "description": "Un YouTubeur a transformé la roue d'exercice de son hamster en mini-turbine pour recharger son téléphone. Ça fonctionne, à condition de patienter et de soigner son câble USB.",
-          "url": "https://www.numerama.com/sciences/2250295-un-ado-transforme-la-roue-de-son-hamster-en-chargeur-de-smartphone.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/can-a-hamster-charge-my-phone-6-29-screenshot.jpg?resize=1600,900&key=dd3a04b0&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-09T09:06:04.000Z",
-          "fetchedAt": "2026-05-10T04:39:11.240Z"
-        },
-        {
-          "id": "2026-05-09-38ad812b",
-          "title": "Deux robots humanoïdes Helix-02 rangent une chambre en moins de deux minutes (mais pas la vôtre)",
-          "description": "Figure a publié une vidéo de deux humanoïdes Helix-02 qui remettent en ordre une chambre à coucher en moins de deux minutes.",
-          "url": "https://www.numerama.com/tech/2250269-deux-robots-humanoides-helix-02-rangent-une-chambre-en-moins-de-deux-minutes-mais-pas-la-votre.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/capture-decran-2026-05-09-a-092617.jpg?resize=1600,900&key=27ca50fe&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-09T07:44:34.000Z",
-          "fetchedAt": "2026-05-10T04:39:11.240Z"
-        },
-        {
-          "id": "2026-05-09-3d171be7",
-          "title": "Dominique Méda, sociologue : « Dans l’entreprise, donnons aux travailleurs un pouvoir équivalent à ceux qui apportent le capital »",
-          "description": "Malgré les promesses de l’IA, le travail restera au cœur de nos sociétés et de nos identités, explique la sociologue dans sa chronique. Au lieu de l’abolir, il faudrait, selon elle, le repenser en renforçant le pouvoir des travailleurs dans les décisions économiques.",
-          "url": "https://www.lemonde.fr/idees/article/2026/05/09/dominique-meda-sociologue-dans-l-entreprise-donnons-aux-travailleurs-un-pouvoir-equivalent-a-ceux-qui-apportent-le-capital_6687254_3232.html",
+          "id": "2026-05-11-f85c1eb5",
+          "title": "Comment la Russie capture, emprisonne et torture des milliers de civils ukrainiens : « Elle ignore toutes les lois et fait ce qu’elle veut »",
+          "description": "Depuis l’invasion de 2022, Moscou arrête en masse les citoyens des territoires occupés, quel que soit leur profil, afin de briser toute résistance. Plus de 16 000 sont actuellement prisonniers, selon le Défenseur des droits ukrainien. Kiev tente de les faire libérer, mais se heurte à un mur.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/11/comment-la-russie-capture-emprisonne-et-torture-des-milliers-de-civils-ukrainiens-elle-ignore-toutes-les-lois-et-fait-ce-qu-elle-veut_6687904_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-09T04:00:14.000Z",
-          "fetchedAt": "2026-05-10T04:39:11.206Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-11T03:15:02.000Z",
+          "fetchedAt": "2026-05-11T04:54:00.859Z"
         },
         {
-          "id": "2026-05-08-981c9e02",
-          "title": "« Trois lueurs au-dessus du relief lunaire » : les USA ouvrent leurs premiers X-Files sur les OVNI",
-          "description": "Ce qui n’était qu’une pique de Donald Trump contre Barack Obama en février dernier vient de se transformer en séisme d’État. Ce 8 mai 2026, le Département de la Guerre a lancé le portail War.gov/UFO, livrant au public les premières pièces d’un puzzle de 161 archives déclassifiées sur les phénomènes aérospatiaux non identifiés.",
-          "url": "https://www.numerama.com/politique/2250137-trois-lueurs-au-dessus-du-relief-lunaire-les-usa-ouvrent-leurs-premiers-x-files-sur-les-ovni.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/ufo-dod.jpg?resize=1600,900&key=0ef275aa&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-08T14:46:24.000Z",
-          "fetchedAt": "2026-05-10T04:39:11.240Z"
+          "id": "2026-05-10-d4178f1b",
+          "title": "Guerre en Ukraine : Vladimir Poutine propose l’ex-chancelier Schröder comme médiateur ; Berlin sceptique",
+          "description": "Interrogé samedi sur son candidat favori pour reprendre le dialogue avec les Européens, le président russe a répondu qu’il préférait « personnellement » Gerhard Schröder. Au pouvoir de 1998 à 2005, ce social-démocrate de 82 ans est depuis vingt ans un soutien fidèle du chef du Kremlin.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/10/guerre-en-ukraine-vladimir-poutine-propose-l-ex-chancelier-schroder-comme-mediateur-berlin-sceptique_6687731_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-10T18:33:25.000Z",
+          "fetchedAt": "2026-05-11T04:54:00.859Z"
+        },
+        {
+          "id": "2026-05-10-fea4c178",
+          "title": "Trêve en Ukraine : Moscou veut relancer le dialogue",
+          "description": "Le cessez-le-feu entre l’Ukraine et la Russie doit durer jusqu’au 11 mai, alors que Vladimir Poutine évoque une possible fin du conflit. Une perspective encore jugée peu crédible, même si certains dirigeants européens commencent à envisager d’éventuelles négociations. Moscou a proposé l’ancien chancelier allemand Gerhard Schröder comme médiateur, une idée rejetée par Berlin. Les précisions d'Anne Corpet, chroniqueuse sur les questions internationales pour France 24.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260510-tr%C3%AAve-en-ukraine-moscou-veut-relancer-le-dialogue",
+          "imageUrl": "https://s.france24.com/media/display/5be1a6e4-4c7f-11f1-983e-005056a97e36/w:1024/p:16x9/FR-20260510-160908-161332-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-10T14:57:34.000Z",
+          "fetchedAt": "2026-05-11T04:54:01.206Z"
+        },
+        {
+          "id": "2026-05-10-c72d13ef",
+          "title": "Ukraine : Kharkiv frappée par la Russie malgré le cessez-le-feu",
+          "description": "De nouvelles frappes russes ont touché plusieurs villes ukrainiennes, notamment Kharkiv, malgré le cessez-le-feu temporaire de trois jours décrété samedi. Moscou et Kiev s’accusent mutuellement de violations de la trêve, alors que Vladimir Poutine affirme rester ouvert aux négociations et évoque une possible issue au conflit.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260510-ukraine-kharkiv-frapp%C3%A9e-par-la-russie-malgr%C3%A9-le-cessez-le-feu",
+          "imageUrl": "https://s.france24.com/media/display/fb29ec22-4c7d-11f1-8765-005056bfb2b6/w:1024/p:16x9/FR-20260510-160708-160907-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-10T14:55:10.000Z",
+          "fetchedAt": "2026-05-11T04:54:01.206Z"
+        },
+        {
+          "id": "2026-05-10-d11212bb",
+          "title": "Ukraine : Berlin sceptique face à la proposition russe de nommer médiateur l'ex-chancelier Schröder",
+          "description": "Berlin a accueilli fraîchement l'initiative du président russe Vladimir Poutine, qui a proposé son ami et ancien chancelier allemand Gerhard Schröder comme médiateur dans la guerre en Ukraine. Des sources gouvernementales allemandes ont affirmé que le premier test de crédibilité serait que Moscou prolonge la trêve en cours.",
+          "url": "https://www.france24.com/fr/europe/20260510-ukraine-berlin-sceptique-face-proposition-russe-nommer-ex-chancelier-schr%C3%B6der-m%C3%A9diateur",
+          "imageUrl": "https://s.france24.com/media/display/b9b917c4-4c76-11f1-a777-005056a90284/w:1024/p:16x9/gerard-schroeder.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-10T14:28:59.000Z",
+          "fetchedAt": "2026-05-11T04:54:01.206Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Superprofits : à travers le monde, les entreprises cotées multiplient des bénéfi",
+      "id": "cluster-11",
+      "topic": "« Ayez peur de la Chine » : l’opaque campagne américaine sur TikTok pour imposer",
+      "category": "tech",
+      "importance": 9,
+      "articles": [
+        {
+          "id": "2026-05-10-7068bdf2",
+          "title": "« Ayez peur de la Chine » : l’opaque campagne américaine sur TikTok pour imposer son IA",
+          "description": "Selon une enquête de Wired publiée le 1er mai 2026, un réseau de groupes financés par la « dark money » américaine rémunérerait des influenceurs pour promouvoir l’IA made in USA tout en alimentant la peur de la Chine.",
+          "url": "https://www.numerama.com/tech/2249257-ayez-peur-de-la-chine-lopaque-campagne-americaine-sur-tiktok-pour-imposer-son-ia.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/1-11.jpg?resize=1600,900&key=ab93dd1f&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-10T12:29:00.000Z",
+          "fetchedAt": "2026-05-11T04:54:12.995Z"
+        },
+        {
+          "id": "2026-05-09-bdcb9df7",
+          "title": "« Je passe mon temps à consulter machinalement mon portable, je suis dépendante et ça me rend triste » : pour vivre heureux, ils vivent « offline »",
+          "description": "Et si on débranchait tout ? Clubs de marche, de lecture et expériences d’ascèse low-tech se multiplient pour socialiser dans la « vraie vie ». Bienvenue dans le monde « offline », entre fantasme d’une existence analogique et nostalgie d’un monde pré-Internet censément plus simple.",
+          "url": "https://www.lemonde.fr/m-perso/article/2026/05/09/je-passe-mon-temps-a-consulter-machinalement-mon-portable-je-suis-dependante-et-ca-me-rend-triste-pour-vivre-heureux-ils-vivent-offline_6687486_4497916.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-09T17:00:09.000Z",
+          "fetchedAt": "2026-05-11T04:54:13.112Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Cyber-crime increasingly coming with threats of physical violence",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-05-10-7278b4cc",
-          "title": "Superprofits : à travers le monde, les entreprises cotées multiplient des bénéfices record",
-          "description": "Loin de se limiter à TotalEnergies, les entreprises cotées en Bourse affichant des superprofits se multiplient, tout comme explosent les montants reversés aux actionnaires sous forme de dividendes ou de rachats d’actions.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/10/superprofits-a-travers-le-monde-les-entreprises-cotees-multiplient-des-benefices-record_6687681_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-05-10-ab7c2c9e",
+          "title": "Cyber-crime increasingly coming with threats of physical violence",
+          "description": "While hackers used to sneak into computer systems, intimidation of staff is now more common.",
+          "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d5d0/live/0fa188f0-3eea-11f1-a821-9161fbfb806d.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-05-10T04:30:25.000Z",
-          "fetchedAt": "2026-05-10T04:39:15.682Z"
+          "publishedAt": "2026-05-10T23:34:59.000Z",
+          "fetchedAt": "2026-05-11T04:54:19.781Z"
         }
       ]
     }
