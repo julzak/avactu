@@ -1,231 +1,209 @@
 {
-  "generatedAt": "2026-05-11T04:58:01.434Z",
+  "generatedAt": "2026-05-12T04:34:40.389Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Conflit Iran–États-Unis–Israël: comment l’Arabie saoudite tente de se tenir à di",
+      "id": "cluster-1",
+      "topic": "EN DIRECT, hantavirus : l’état de santé de la patiente française diagnostiquée p",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-11-0ca45608",
-          "title": "Conflit Iran–États-Unis–Israël: comment l’Arabie saoudite tente de se tenir à distance de la guerre",
-          "description": "Quel est le positionnement du royaume saoudien vis-à-vis du conflit entre l’Iran, les États-Unis et Israël ? Depuis plus de deux mois, Riyad semble vouloir se tenir à distance des bruits de bottes, et pour cause.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260511-conflit-iran%E2%80%93%C3%A9tats-unis%E2%80%93isra%C3%ABl-comment-l-arabie-saoudite-tente-de-se-tenir-%C3%A0-distance-de-la-guerre",
-          "imageUrl": "https://s.rfi.fr/media/display/6a5a086e-4c76-11f1-a003-005056bf30b7/w:1024/p:16x9/AP21059114433808.jpg",
-          "source": "RFI",
+          "id": "2026-05-12-c2973723",
+          "title": "EN DIRECT, hantavirus : l’état de santé de la patiente française diagnostiquée positive est « très critique », selon l’OMS",
+          "description": "Les quatre autres passagers sont « toujours testés négatifs » et font l’objet « d’un processus d’isolement renforcé en milieu hospitalier », a précisé lundi Sébastien Lecornu. Le premier ministre a par ailleurs annoncé lundi soir une « quarantaine renforcée en milieu hospitalier » pour tous les cas contacts.",
+          "url": "https://www.lemonde.fr/sante/live/2026/05/12/en-direct-hantavirus-l-etat-de-sante-de-la-patiente-francaise-diagnostiquee-positive-est-tres-critique-selon-l-oms_6686093_1651302.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-11T04:43:37.000Z",
-          "fetchedAt": "2026-05-11T04:54:12.937Z"
+          "publishedAt": "2026-05-12T04:24:40.000Z",
+          "fetchedAt": "2026-05-12T04:30:39.857Z"
         },
         {
-          "id": "2026-05-10-48288435",
-          "title": "Guerre en Ukraine, États-Unis et Brésil : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-ukraine-etats-unis-et-bresil-les-informations-de-la-nuit_243837",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/09/95/0/5056/3370/1200/630/60/0/9f9b21a_ftp-1-2haqwt2cpdva-afp-b2dd9cr.jpg",
+          "id": "2026-05-11-5521d658",
+          "title": "Un Tunisien mis en examen et écroué à Paris, suspecté d'avoir fomenté un projet d'attaque terroriste",
+          "description": "Un Tunisien de 27 ans a été interpellé le 7 mai dans le cadre d'une enquête préliminaire initiée la veille \"du chef d'association de malfaiteurs terroriste en vue de crimes contre les personnes\", selon le Parquet national antiterroriste (Pnat).",
+          "url": "https://www.france24.com/fr/france/20260511-un-tunisien-mis-en-examen-et-%C3%A9crou%C3%A9-%C3%A0-paris-suspect%C3%A9-d-avoir-foment%C3%A9-un-projet-d-attaque-terroriste",
+          "imageUrl": "https://s.france24.com/media/display/a00317f6-2e55-11f1-b805-005056a97e36/w:1024/p:16x9/AP26087650282776.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-11T20:19:17.000Z",
+          "fetchedAt": "2026-05-12T04:30:39.917Z"
+        },
+        {
+          "id": "2026-05-11-67fd0df1",
+          "title": "L’influenceur algérien « Doualemn », jugé en appel, se dit victime des tensions entre la France et l’Algérie",
+          "description": "Boualem Naman, un agent de nettoyage de 60 ans connu sur TikTok sous le pseudonyme de « Doualemn », a assuré être une « victime collatérale » des tensions entre les deux pays, se défendant d’avoir incité à la violence.",
+          "url": "https://www.lemonde.fr/societe/article/2026/05/11/l-influenceur-algerien-doualemn-juge-en-appel-se-dit-victime-des-tensions-entre-la-france-et-l-algerie_6688162_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-11T18:34:35.000Z",
+          "fetchedAt": "2026-05-12T04:30:39.857Z"
+        },
+        {
+          "id": "2026-05-11-afda856a",
+          "title": "Emmanuel Macron : « Je ne veux plus que la France regarde l’Afrique comme un pré carré »",
+          "description": "Le président français a choisi d’organiser, lundi 11 et mardi 12 mai, le sommet Africa Forward, le nouveau label des sommets Afrique-France, à Nairobi. Son dernier grand moment politique avec le continent.",
+          "url": "https://www.lemonde.fr/afrique/video/2026/05/11/emmanuel-macron-je-ne-veux-plus-que-la-france-regarde-l-afrique-comme-un-pre-carre_6688142_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-11T16:00:54.000Z",
+          "fetchedAt": "2026-05-12T04:30:39.857Z"
+        },
+        {
+          "id": "2026-05-11-fab31fbc",
+          "title": "Sommet \"Africa Forward\" : Macron annonce 23 milliards d'euros d'investissements en Afrique",
+          "description": "Le président français Emmanuel Macron a annoncé lundi \"23 milliards d'euros d'investissements pour l'Afrique\", dont 14 milliards d'euros d'investissements strictement français, privés et publics, lors de l'événement qui se tient à Nairobi, au Kenya.",
+          "url": "https://www.france24.com/fr/afrique/20260511-sommet-africa-forward-emmanuel-macron-annonce-23-milliards-d-euros-d-investissements-en-afrique",
+          "imageUrl": "https://s.france24.com/media/display/1d004612-4d4f-11f1-9624-005056bfb2b6/w:1024/p:16x9/000-B2HG86Y.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-11T15:41:39.000Z",
+          "fetchedAt": "2026-05-12T04:30:39.917Z"
+        },
+        {
+          "id": "2026-05-11-9bbea55b",
+          "title": "Emmanuel Macron “colonise l’État” en nommant ses proches collaborateurs à des postes clés",
+          "description": "À moins d’un an de l’élection présidentielle, Emmanuel Macron place ses alliés politiques à des postes clés pour qu’ils assurent le “fonctionnement normal des institutions lorsqu’il ne sera plus là”, observe la presse internationale. Pour le média conservateur espagnol “El Confidencial”, il agit selon une “logique de prédation”.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-emmanuel-macron-colonise-l-etat-en-nommant-ses-proches-collaborateurs-a-des-postes-cles_243872",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/05/0/0/6192/4128/1200/630/60/0/a977da6_ftp-1-uzl1jhaf45hf-afp-a9wf6nq.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-10T03:59:39.000Z",
-          "fetchedAt": "2026-05-11T04:54:01.087Z"
+          "publishedAt": "2026-05-11T15:06:39.000Z",
+          "fetchedAt": "2026-05-12T04:30:40.311Z"
         }
       ]
     },
     {
       "id": "cluster-4",
-      "topic": "A Nairobi, Emmanuel Macron clôt une décennie de tempêtes dans les relations entr",
+      "topic": "La pression s’accentue sur Keir Starmer, lâché par plusieurs ministres",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-11-2f6b4a64",
-          "title": "A Nairobi, Emmanuel Macron clôt une décennie de tempêtes dans les relations entre la France et l’Afrique",
-          "description": "Arrivé au pouvoir en promettant de refonder la relation entre la France et ses anciennes colonies, Emmanuel Macron a dû gérer une succession de crises, en particulier au Sahel. Dans la partie anglophone du continent, Paris peine à se faire une place.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/11/a-nairobi-emmanuel-macron-clot-une-decennie-de-tempetes-dans-les-relations-entre-la-france-et-l-afrique_6687955_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-05-12-25871dbe",
+          "title": "La pression s’accentue sur Keir Starmer, lâché par plusieurs ministres",
+          "description": "Les appels à la démission du Premier ministre britannique se sont multipliés lundi, après la défaite électorale cinglante du Labour jeudi dernier. Selon la presse britannique, la ministre de l’Intérieur Shabana Mahmood et la cheffe de la diplomatie Yvette Cooper ont appelé le dirigeant travailliste à fixer un calendrier pour son départ.",
+          "url": "https://www.courrierinternational.com/article/royaume-uni-la-pression-s-accentue-sur-keir-starmer-lache-par-plusieurs-ministres_243907",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/11/84/0/3000/2000/1200/630/60/0/360c393_ftp-1-4lky0tlsdnx7-2026-05-11t092456z-2096302665-rc2x6larstdv-rtrmadp-3-britain-politics-starmer.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-11T04:30:05.000Z",
-          "fetchedAt": "2026-05-11T04:54:00.859Z"
+          "publishedAt": "2026-05-12T04:03:23.000Z",
+          "fetchedAt": "2026-05-12T04:30:40.311Z"
         },
         {
-          "id": "2026-05-11-c64176f7",
-          "title": "Ouverture d'un deuxième procès du chanteur marocain Saad Lamjarred pour viol en France",
-          "description": "C'est une star marocaine, connue dans tout le Moyen-Orient et aux millions de vues sur YouTube. Le chanteur Saad Lamjarred, 40 ans, est jugé à partir de ce lundi 11 mai 2026 devant la cour d'assises de Draguignan, dans le sud de la France, pour un viol qu'il conteste. L'artiste a déjà été condamné en France en 2023 pour des faits de même nature, une décision dont il a fait appel.",
-          "url": "https://www.rfi.fr/fr/france/20260511-ouverture-d-un-deuxi%C3%A8me-proc%C3%A8s-du-chanteur-marocain-saad-lamjarred-pour-viol-en-france",
-          "imageUrl": "https://s.rfi.fr/media/display/1e15610a-b1f2-11ed-a90d-005056bfb2b6/w:1024/p:16x9/000_339P6FG.jpg",
-          "source": "RFI",
+          "id": "2026-05-11-7df26313",
+          "title": "Au Royaume-Uni, le Premier ministre Keir Starmer sous pression pour démissionner",
+          "description": "Après la déroute électorale du Parti travailliste, les appels à la démission du Premier ministre britannique Keir Starmer se sont multipliés lundi, y compris au sein de son gouvernement et ce malgré son discours dans la matinée visant à apaiser dans ses rangs.",
+          "url": "https://www.france24.com/fr/europe/20260511-royaume-uni-premier-ministre-keir-starmer-sous-pression-demission",
+          "imageUrl": "https://s.france24.com/media/display/3c6f340c-4d88-11f1-b471-005056a90284/w:1024/p:16x9/AP26131392269537.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-11T03:35:24.000Z",
-          "fetchedAt": "2026-05-11T04:54:12.937Z"
+          "publishedAt": "2026-05-11T22:34:01.000Z",
+          "fetchedAt": "2026-05-12T04:30:39.917Z"
         },
         {
-          "id": "2026-05-11-e070c3e1",
-          "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
-          "description": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
-          "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/485f/live/71733440-4cd0-11f1-a5f9-d73fa1ebe64c.jpg",
+          "id": "2026-05-11-738d34aa",
+          "title": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
+          "description": "Sir Keir Starmer pledged to rebuild the UK's relationship with Europe in a defiant speech on Monday.",
+          "url": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1ef3/live/0181b210-4d52-11f1-a556-3191549e7ed9.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-05-11T02:48:53.000Z",
-          "fetchedAt": "2026-05-11T04:54:12.914Z"
+          "publishedAt": "2026-05-11T17:15:52.000Z",
+          "fetchedAt": "2026-05-12T04:30:49.999Z"
         },
         {
-          "id": "2026-05-11-fd88e754",
-          "title": "EN DIRECT, hantavirus : le décret régissant les mesures d’isolement des passagers français rapatriés, dont l’un présente des symptômes, a été publié",
-          "description": "Les premières évacuations d’une partie des passagers et membres d’équipage du MV « Hondius » ont eu lieu dimanche. Les cinq Français ayant séjourné à bord du navire sont arrivés à Paris et ont été placés « en quarantaine » le temps d’une « évaluation médicale et épidémiologique ».",
-          "url": "https://www.lemonde.fr/sante/live/2026/05/11/en-direct-hantavirus-le-decret-regissant-les-mesures-d-isolement-des-passagers-francais-rapatries-dont-l-un-presente-des-symptomes-a-ete-publie_6686093_1651302.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-05-11-cc5e0821",
+          "title": "“Legends”, quand des douaniers britanniques s’infiltrent chez les trafiquants d’héroïne",
+          "description": "Mise en ligne sur Netflix le 7 mai, “Legends” porte à l’écran l’histoire vraie d’un groupe de douaniers recrutés pour une mission spéciale : faire tomber les réseaux de trafic d’héroïne qui envahit le Royaume-Uni à l’aube des années 1990. La presse britannique a accueilli avec enthousiasme cette minisérie, qui replonge dans l’ère Thatcher.",
+          "url": "https://www.courrierinternational.com/article/sur-netflix-legends-quand-des-douaniers-britanniques-s-infiltrent-chez-les-trafiquants-d-heroine_243854",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/11/0/465/5025/3350/1200/630/60/0/ad4a7aa_upload-1-i9k1fyaytyxm-legends-n-s1-e2-00-45-51-07-2.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-11T01:01:52.000Z",
-          "fetchedAt": "2026-05-11T04:54:00.859Z"
-        },
-        {
-          "id": "2026-05-10-9cebccf2",
-          "title": "France: pour les 25 ans de la loi Taubira sur l'esclavage, Sébastien Lecornu marque le coup",
-          "description": "Comme tous les 10 mai, la France commémore le souvenir de la traite et de l'esclavage et leur abolition. En cette année 2026, cela marque aussi les 25 ans de la loi dite Taubira, ayant fait de la France le premier pays au monde à reconnaître l'esclavage comme un crime contre l'humanité. Lors d'une cérémonie officielle au Sénat, le chef du gouvernement a évidemment rendu hommage à l'ex-ministre socialiste et appelé à la vigilance, en France et dans le monde, près de deux siècles après l'abolition de l'esclavage.",
-          "url": "https://www.rfi.fr/fr/france/20260510-france-pour-les-25-ans-de-la-loi-taubira-sur-l-esclavage-s%C3%A9bastien-lecornu-marque-le-coup",
-          "imageUrl": "https://s.rfi.fr/media/display/6afb9d6c-4cb9-11f1-81ff-005056a97e36/w:1024/p:16x9/000-B29E429.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T22:19:10.000Z",
-          "fetchedAt": "2026-05-11T04:54:12.937Z"
-        },
-        {
-          "id": "2026-05-10-d047c1a1",
-          "title": "Sommet Africa Forward : l'ère du \"pré-carré français\" est terminée pour Emmanuel Macron",
-          "description": "L'ère du pré-carré français en afrique francophone est terminée. C'est la déclaration d'Emmanuel Macron à son arrivée au Kenya, à la veille de l'ouverture du sommet Africa Forward qui se tient le 11 et 12 mai à Nairobi.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260510-sommet-africa-forward-l-%C3%A8re-du-pr%C3%A9-carr%C3%A9-fran%C3%A7ais-est-termin%C3%A9e-pour-emmanuel-macron",
-          "imageUrl": "https://s.france24.com/media/display/2ddf7b96-4cb0-11f1-8305-005056bf30b7/w:1024/p:16x9/WB127978-O-01-20260510-01.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T21:31:46.000Z",
-          "fetchedAt": "2026-05-11T04:54:01.206Z"
+          "publishedAt": "2026-05-11T15:05:08.000Z",
+          "fetchedAt": "2026-05-12T04:30:40.311Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se montre confiant sur un écha",
+      "id": "cluster-16",
+      "topic": "Les Chinois nous regardaient comme un modèle, Trump fait de l’Amérique un repous",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-11-a004fe78",
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se montre confiant sur un échange de prisonniers « 1 000 contre 1 000 » avec la Russie",
-          "description": "Le président ukrainien a expliqué que les contacts avec les Etats-Unis se poursuivaient concernant les garanties de mise en œuvre d’un tel échange de prisonniers, qui « devrait avoir lieu prochainement ».",
-          "url": "https://www.lemonde.fr/international/live/2026/05/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-montre-confiant-sur-un-echange-de-prisonniers-1-000-contre-1-000-avec-la-russie_6687661_3210.html",
+          "id": "2026-05-12-7cc1cf9c",
+          "title": "Les Chinois nous regardaient comme un modèle, Trump fait de l’Amérique un repoussoir",
+          "description": "Expatrié à Shanghai, cet essayiste et éditeur raconte comment le regard sur le “pays magnifique”, les États-Unis, a profondément changé. Le locataire de la Maison-Blanche y a contribué plus qu’aucun autre, et c’est avec une image très écornée qu’il arrivera en Chine pour son sommet avec Xi Jinping.",
+          "url": "https://www.courrierinternational.com/article/billet-les-chinois-nous-regardaient-comme-un-modele-trump-fait-de-l-amerique-un-repoussoir_243729",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/01/0/0/5476/3651/1200/630/60/0/0db73f3_ftp-1-h5nsohmylldp-trump-scene-8.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-12T03:00:10.000Z",
+          "fetchedAt": "2026-05-12T04:30:40.311Z"
+        },
+        {
+          "id": "2026-05-11-7abe60a3",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump estime que le cessez-le-feu entre l’Iran et les Etats-Unis est « sous assistance respiratoire » ; l’Iran se dit prêt à « riposter » en cas d’agression",
+          "description": "Le président du Parlement iranien, Mohammad Bagher Ghalibaf, a déclaré que les forces armées de son pays étaient « prêtes à riposter et à donner une leçon » en cas d’agression. Le président américain a, lui, déclaré envisager de relancer son opération « Projet Liberté ».",
+          "url": "https://www.lemonde.fr/international/live/2026/05/12/en-direct-guerre-au-moyen-orient-donald-trump-estime-que-le-cessez-le-feu-entre-l-iran-et-les-etats-unis-est-sous-assistance-respiratoire-l-iran-se-dit-pret-a-riposter-en-cas-d-agression_6686485_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-11T04:08:16.000Z",
-          "fetchedAt": "2026-05-11T04:54:00.859Z"
+          "publishedAt": "2026-05-11T22:42:26.000Z",
+          "fetchedAt": "2026-05-12T04:30:39.857Z"
         },
         {
-          "id": "2026-05-11-f85c1eb5",
-          "title": "Comment la Russie capture, emprisonne et torture des milliers de civils ukrainiens : « Elle ignore toutes les lois et fait ce qu’elle veut »",
-          "description": "Depuis l’invasion de 2022, Moscou arrête en masse les citoyens des territoires occupés, quel que soit leur profil, afin de briser toute résistance. Plus de 16 000 sont actuellement prisonniers, selon le Défenseur des droits ukrainien. Kiev tente de les faire libérer, mais se heurte à un mur.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/11/comment-la-russie-capture-emprisonne-et-torture-des-milliers-de-civils-ukrainiens-elle-ignore-toutes-les-lois-et-fait-ce-qu-elle-veut_6687904_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T03:15:02.000Z",
-          "fetchedAt": "2026-05-11T04:54:00.859Z"
-        },
-        {
-          "id": "2026-05-10-d4178f1b",
-          "title": "Guerre en Ukraine : Vladimir Poutine propose l’ex-chancelier Schröder comme médiateur ; Berlin sceptique",
-          "description": "Interrogé samedi sur son candidat favori pour reprendre le dialogue avec les Européens, le président russe a répondu qu’il préférait « personnellement » Gerhard Schröder. Au pouvoir de 1998 à 2005, ce social-démocrate de 82 ans est depuis vingt ans un soutien fidèle du chef du Kremlin.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/10/guerre-en-ukraine-vladimir-poutine-propose-l-ex-chancelier-schroder-comme-mediateur-berlin-sceptique_6687731_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T18:33:25.000Z",
-          "fetchedAt": "2026-05-11T04:54:00.859Z"
-        },
-        {
-          "id": "2026-05-10-fea4c178",
-          "title": "Trêve en Ukraine : Moscou veut relancer le dialogue",
-          "description": "Le cessez-le-feu entre l’Ukraine et la Russie doit durer jusqu’au 11 mai, alors que Vladimir Poutine évoque une possible fin du conflit. Une perspective encore jugée peu crédible, même si certains dirigeants européens commencent à envisager d’éventuelles négociations. Moscou a proposé l’ancien chancelier allemand Gerhard Schröder comme médiateur, une idée rejetée par Berlin. Les précisions d'Anne Corpet, chroniqueuse sur les questions internationales pour France 24.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260510-tr%C3%AAve-en-ukraine-moscou-veut-relancer-le-dialogue",
-          "imageUrl": "https://s.france24.com/media/display/5be1a6e4-4c7f-11f1-983e-005056a97e36/w:1024/p:16x9/FR-20260510-160908-161332-CS.jpg",
+          "id": "2026-05-11-f39bc863",
+          "title": "Hantavirus : une prise en charge à géométrie variable entre l'Europe et les États-Unis",
+          "description": "Alors que la plupart des personnes ayant voyagé à bord du MV Hondius ont été rapatriées, leur prise en charge médicale n'est pas partout la même. Entre l’Europe et les États-Unis notamment, l'approche vis-à-vis de ces plaisanciers potentiellement infectés par une souche d'hantavirus létale est très différente.",
+          "url": "https://www.france24.com/fr/europe/20260511-hantavirus-prise-en-charge-%C3%A0-g%C3%A9om%C3%A9trie-variable-entre-europe-et-%C3%A9tats-unis",
+          "imageUrl": "https://s.france24.com/media/display/8b592884-4d56-11f1-8ace-005056bf30b7/w:1024/p:16x9/hantavirus-tenerife.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-10T14:57:34.000Z",
-          "fetchedAt": "2026-05-11T04:54:01.206Z"
-        },
-        {
-          "id": "2026-05-10-c72d13ef",
-          "title": "Ukraine : Kharkiv frappée par la Russie malgré le cessez-le-feu",
-          "description": "De nouvelles frappes russes ont touché plusieurs villes ukrainiennes, notamment Kharkiv, malgré le cessez-le-feu temporaire de trois jours décrété samedi. Moscou et Kiev s’accusent mutuellement de violations de la trêve, alors que Vladimir Poutine affirme rester ouvert aux négociations et évoque une possible issue au conflit.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260510-ukraine-kharkiv-frapp%C3%A9e-par-la-russie-malgr%C3%A9-le-cessez-le-feu",
-          "imageUrl": "https://s.france24.com/media/display/fb29ec22-4c7d-11f1-8765-005056bfb2b6/w:1024/p:16x9/FR-20260510-160708-160907-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T14:55:10.000Z",
-          "fetchedAt": "2026-05-11T04:54:01.206Z"
-        },
-        {
-          "id": "2026-05-10-d11212bb",
-          "title": "Ukraine : Berlin sceptique face à la proposition russe de nommer médiateur l'ex-chancelier Schröder",
-          "description": "Berlin a accueilli fraîchement l'initiative du président russe Vladimir Poutine, qui a proposé son ami et ancien chancelier allemand Gerhard Schröder comme médiateur dans la guerre en Ukraine. Des sources gouvernementales allemandes ont affirmé que le premier test de crédibilité serait que Moscou prolonge la trêve en cours.",
-          "url": "https://www.france24.com/fr/europe/20260510-ukraine-berlin-sceptique-face-proposition-russe-nommer-ex-chancelier-schr%C3%B6der-m%C3%A9diateur",
-          "imageUrl": "https://s.france24.com/media/display/b9b917c4-4c76-11f1-a777-005056a90284/w:1024/p:16x9/gerard-schroeder.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-10T14:28:59.000Z",
-          "fetchedAt": "2026-05-11T04:54:01.206Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-11",
-      "topic": "« Ayez peur de la Chine » : l’opaque campagne américaine sur TikTok pour imposer",
-      "category": "tech",
-      "importance": 9,
-      "articles": [
-        {
-          "id": "2026-05-10-7068bdf2",
-          "title": "« Ayez peur de la Chine » : l’opaque campagne américaine sur TikTok pour imposer son IA",
-          "description": "Selon une enquête de Wired publiée le 1er mai 2026, un réseau de groupes financés par la « dark money » américaine rémunérerait des influenceurs pour promouvoir l’IA made in USA tout en alimentant la peur de la Chine.",
-          "url": "https://www.numerama.com/tech/2249257-ayez-peur-de-la-chine-lopaque-campagne-americaine-sur-tiktok-pour-imposer-son-ia.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/1-11.jpg?resize=1600,900&key=ab93dd1f&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-10T12:29:00.000Z",
-          "fetchedAt": "2026-05-11T04:54:12.995Z"
-        },
-        {
-          "id": "2026-05-09-bdcb9df7",
-          "title": "« Je passe mon temps à consulter machinalement mon portable, je suis dépendante et ça me rend triste » : pour vivre heureux, ils vivent « offline »",
-          "description": "Et si on débranchait tout ? Clubs de marche, de lecture et expériences d’ascèse low-tech se multiplient pour socialiser dans la « vraie vie ». Bienvenue dans le monde « offline », entre fantasme d’une existence analogique et nostalgie d’un monde pré-Internet censément plus simple.",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/05/09/je-passe-mon-temps-a-consulter-machinalement-mon-portable-je-suis-dependante-et-ca-me-rend-triste-pour-vivre-heureux-ils-vivent-offline_6687486_4497916.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-09T17:00:09.000Z",
-          "fetchedAt": "2026-05-11T04:54:13.112Z"
+          "publishedAt": "2026-05-11T17:15:02.000Z",
+          "fetchedAt": "2026-05-12T04:30:39.917Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Cyber-crime increasingly coming with threats of physical violence",
+      "topic": "OpenAI just released its answer to Claude Mythos",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-05-11-0698c5e8",
+          "title": "OpenAI just released its answer to Claude Mythos",
+          "description": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.\nIts launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was too dangerous to publicly release and only shared privately as a part of its own initiative, dubbed Project Glasswing. Still, that didn't stop at leas …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-05-11T23:05:01.000Z",
+          "fetchedAt": "2026-05-12T04:30:57.673Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Des produits structurés liés à l’action Stellantis risquent de faire perdre de l",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-05-10-ab7c2c9e",
-          "title": "Cyber-crime increasingly coming with threats of physical violence",
-          "description": "While hackers used to sneak into computer systems, intimidation of staff is now more common.",
-          "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d5d0/live/0fa188f0-3eea-11f1-a821-9161fbfb806d.jpg",
-          "source": "BBC Business",
+          "id": "2026-05-12-90c0b7ab",
+          "title": "Des produits structurés liés à l’action Stellantis risquent de faire perdre de l’argent aux épargnants",
+          "description": "Entre 2 et 2,5 milliards d’euros auraient été investis dans ces placements entre 2023 et 2024, et 80 % de ceux en cours sont en zone rouge ou s’en approchent dangereusement.",
+          "url": "https://www.lemonde.fr/argent/article/2026/05/12/des-produits-structures-lies-a-l-action-stellantis-risquent-de-faire-perdre-de-l-argent-aux-epargnants_6688191_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-05-10T23:34:59.000Z",
-          "fetchedAt": "2026-05-11T04:54:19.781Z"
+          "publishedAt": "2026-05-12T04:00:21.000Z",
+          "fetchedAt": "2026-05-12T04:30:57.725Z"
         }
       ]
     }
