@@ -1,209 +1,253 @@
 {
-  "generatedAt": "2026-05-12T04:34:40.389Z",
+  "generatedAt": "2026-05-13T04:41:33.982Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "EN DIRECT, hantavirus : l’état de santé de la patiente française diagnostiquée p",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-12-c2973723",
-          "title": "EN DIRECT, hantavirus : l’état de santé de la patiente française diagnostiquée positive est « très critique », selon l’OMS",
-          "description": "Les quatre autres passagers sont « toujours testés négatifs » et font l’objet « d’un processus d’isolement renforcé en milieu hospitalier », a précisé lundi Sébastien Lecornu. Le premier ministre a par ailleurs annoncé lundi soir une « quarantaine renforcée en milieu hospitalier » pour tous les cas contacts.",
-          "url": "https://www.lemonde.fr/sante/live/2026/05/12/en-direct-hantavirus-l-etat-de-sante-de-la-patiente-francaise-diagnostiquee-positive-est-tres-critique-selon-l-oms_6686093_1651302.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-12T04:24:40.000Z",
-          "fetchedAt": "2026-05-12T04:30:39.857Z"
-        },
-        {
-          "id": "2026-05-11-5521d658",
-          "title": "Un Tunisien mis en examen et écroué à Paris, suspecté d'avoir fomenté un projet d'attaque terroriste",
-          "description": "Un Tunisien de 27 ans a été interpellé le 7 mai dans le cadre d'une enquête préliminaire initiée la veille \"du chef d'association de malfaiteurs terroriste en vue de crimes contre les personnes\", selon le Parquet national antiterroriste (Pnat).",
-          "url": "https://www.france24.com/fr/france/20260511-un-tunisien-mis-en-examen-et-%C3%A9crou%C3%A9-%C3%A0-paris-suspect%C3%A9-d-avoir-foment%C3%A9-un-projet-d-attaque-terroriste",
-          "imageUrl": "https://s.france24.com/media/display/a00317f6-2e55-11f1-b805-005056a97e36/w:1024/p:16x9/AP26087650282776.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T20:19:17.000Z",
-          "fetchedAt": "2026-05-12T04:30:39.917Z"
-        },
-        {
-          "id": "2026-05-11-67fd0df1",
-          "title": "L’influenceur algérien « Doualemn », jugé en appel, se dit victime des tensions entre la France et l’Algérie",
-          "description": "Boualem Naman, un agent de nettoyage de 60 ans connu sur TikTok sous le pseudonyme de « Doualemn », a assuré être une « victime collatérale » des tensions entre les deux pays, se défendant d’avoir incité à la violence.",
-          "url": "https://www.lemonde.fr/societe/article/2026/05/11/l-influenceur-algerien-doualemn-juge-en-appel-se-dit-victime-des-tensions-entre-la-france-et-l-algerie_6688162_3224.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T18:34:35.000Z",
-          "fetchedAt": "2026-05-12T04:30:39.857Z"
-        },
-        {
-          "id": "2026-05-11-afda856a",
-          "title": "Emmanuel Macron : « Je ne veux plus que la France regarde l’Afrique comme un pré carré »",
-          "description": "Le président français a choisi d’organiser, lundi 11 et mardi 12 mai, le sommet Africa Forward, le nouveau label des sommets Afrique-France, à Nairobi. Son dernier grand moment politique avec le continent.",
-          "url": "https://www.lemonde.fr/afrique/video/2026/05/11/emmanuel-macron-je-ne-veux-plus-que-la-france-regarde-l-afrique-comme-un-pre-carre_6688142_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T16:00:54.000Z",
-          "fetchedAt": "2026-05-12T04:30:39.857Z"
-        },
-        {
-          "id": "2026-05-11-fab31fbc",
-          "title": "Sommet \"Africa Forward\" : Macron annonce 23 milliards d'euros d'investissements en Afrique",
-          "description": "Le président français Emmanuel Macron a annoncé lundi \"23 milliards d'euros d'investissements pour l'Afrique\", dont 14 milliards d'euros d'investissements strictement français, privés et publics, lors de l'événement qui se tient à Nairobi, au Kenya.",
-          "url": "https://www.france24.com/fr/afrique/20260511-sommet-africa-forward-emmanuel-macron-annonce-23-milliards-d-euros-d-investissements-en-afrique",
-          "imageUrl": "https://s.france24.com/media/display/1d004612-4d4f-11f1-9624-005056bfb2b6/w:1024/p:16x9/000-B2HG86Y.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T15:41:39.000Z",
-          "fetchedAt": "2026-05-12T04:30:39.917Z"
-        },
-        {
-          "id": "2026-05-11-9bbea55b",
-          "title": "Emmanuel Macron “colonise l’État” en nommant ses proches collaborateurs à des postes clés",
-          "description": "À moins d’un an de l’élection présidentielle, Emmanuel Macron place ses alliés politiques à des postes clés pour qu’ils assurent le “fonctionnement normal des institutions lorsqu’il ne sera plus là”, observe la presse internationale. Pour le média conservateur espagnol “El Confidencial”, il agit selon une “logique de prédation”.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-emmanuel-macron-colonise-l-etat-en-nommant-ses-proches-collaborateurs-a-des-postes-cles_243872",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/05/0/0/6192/4128/1200/630/60/0/a977da6_ftp-1-uzl1jhaf45hf-afp-a9wf6nq.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T15:06:39.000Z",
-          "fetchedAt": "2026-05-12T04:30:40.311Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "La pression s’accentue sur Keir Starmer, lâché par plusieurs ministres",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-12-25871dbe",
-          "title": "La pression s’accentue sur Keir Starmer, lâché par plusieurs ministres",
-          "description": "Les appels à la démission du Premier ministre britannique se sont multipliés lundi, après la défaite électorale cinglante du Labour jeudi dernier. Selon la presse britannique, la ministre de l’Intérieur Shabana Mahmood et la cheffe de la diplomatie Yvette Cooper ont appelé le dirigeant travailliste à fixer un calendrier pour son départ.",
-          "url": "https://www.courrierinternational.com/article/royaume-uni-la-pression-s-accentue-sur-keir-starmer-lache-par-plusieurs-ministres_243907",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/11/84/0/3000/2000/1200/630/60/0/360c393_ftp-1-4lky0tlsdnx7-2026-05-11t092456z-2096302665-rc2x6larstdv-rtrmadp-3-britain-politics-starmer.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-12T04:03:23.000Z",
-          "fetchedAt": "2026-05-12T04:30:40.311Z"
-        },
-        {
-          "id": "2026-05-11-7df26313",
-          "title": "Au Royaume-Uni, le Premier ministre Keir Starmer sous pression pour démissionner",
-          "description": "Après la déroute électorale du Parti travailliste, les appels à la démission du Premier ministre britannique Keir Starmer se sont multipliés lundi, y compris au sein de son gouvernement et ce malgré son discours dans la matinée visant à apaiser dans ses rangs.",
-          "url": "https://www.france24.com/fr/europe/20260511-royaume-uni-premier-ministre-keir-starmer-sous-pression-demission",
-          "imageUrl": "https://s.france24.com/media/display/3c6f340c-4d88-11f1-b471-005056a90284/w:1024/p:16x9/AP26131392269537.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T22:34:01.000Z",
-          "fetchedAt": "2026-05-12T04:30:39.917Z"
-        },
-        {
-          "id": "2026-05-11-738d34aa",
-          "title": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
-          "description": "Sir Keir Starmer pledged to rebuild the UK's relationship with Europe in a defiant speech on Monday.",
-          "url": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1ef3/live/0181b210-4d52-11f1-a556-3191549e7ed9.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T17:15:52.000Z",
-          "fetchedAt": "2026-05-12T04:30:49.999Z"
-        },
-        {
-          "id": "2026-05-11-cc5e0821",
-          "title": "“Legends”, quand des douaniers britanniques s’infiltrent chez les trafiquants d’héroïne",
-          "description": "Mise en ligne sur Netflix le 7 mai, “Legends” porte à l’écran l’histoire vraie d’un groupe de douaniers recrutés pour une mission spéciale : faire tomber les réseaux de trafic d’héroïne qui envahit le Royaume-Uni à l’aube des années 1990. La presse britannique a accueilli avec enthousiasme cette minisérie, qui replonge dans l’ère Thatcher.",
-          "url": "https://www.courrierinternational.com/article/sur-netflix-legends-quand-des-douaniers-britanniques-s-infiltrent-chez-les-trafiquants-d-heroine_243854",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/11/0/465/5025/3350/1200/630/60/0/ad4a7aa_upload-1-i9k1fyaytyxm-legends-n-s1-e2-00-45-51-07-2.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T15:05:08.000Z",
-          "fetchedAt": "2026-05-12T04:30:40.311Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-16",
-      "topic": "Les Chinois nous regardaient comme un modèle, Trump fait de l’Amérique un repous",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-12-7cc1cf9c",
-          "title": "Les Chinois nous regardaient comme un modèle, Trump fait de l’Amérique un repoussoir",
-          "description": "Expatrié à Shanghai, cet essayiste et éditeur raconte comment le regard sur le “pays magnifique”, les États-Unis, a profondément changé. Le locataire de la Maison-Blanche y a contribué plus qu’aucun autre, et c’est avec une image très écornée qu’il arrivera en Chine pour son sommet avec Xi Jinping.",
-          "url": "https://www.courrierinternational.com/article/billet-les-chinois-nous-regardaient-comme-un-modele-trump-fait-de-l-amerique-un-repoussoir_243729",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/01/0/0/5476/3651/1200/630/60/0/0db73f3_ftp-1-h5nsohmylldp-trump-scene-8.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-12T03:00:10.000Z",
-          "fetchedAt": "2026-05-12T04:30:40.311Z"
-        },
-        {
-          "id": "2026-05-11-7abe60a3",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump estime que le cessez-le-feu entre l’Iran et les Etats-Unis est « sous assistance respiratoire » ; l’Iran se dit prêt à « riposter » en cas d’agression",
-          "description": "Le président du Parlement iranien, Mohammad Bagher Ghalibaf, a déclaré que les forces armées de son pays étaient « prêtes à riposter et à donner une leçon » en cas d’agression. Le président américain a, lui, déclaré envisager de relancer son opération « Projet Liberté ».",
-          "url": "https://www.lemonde.fr/international/live/2026/05/12/en-direct-guerre-au-moyen-orient-donald-trump-estime-que-le-cessez-le-feu-entre-l-iran-et-les-etats-unis-est-sous-assistance-respiratoire-l-iran-se-dit-pret-a-riposter-en-cas-d-agression_6686485_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T22:42:26.000Z",
-          "fetchedAt": "2026-05-12T04:30:39.857Z"
-        },
-        {
-          "id": "2026-05-11-f39bc863",
-          "title": "Hantavirus : une prise en charge à géométrie variable entre l'Europe et les États-Unis",
-          "description": "Alors que la plupart des personnes ayant voyagé à bord du MV Hondius ont été rapatriées, leur prise en charge médicale n'est pas partout la même. Entre l’Europe et les États-Unis notamment, l'approche vis-à-vis de ces plaisanciers potentiellement infectés par une souche d'hantavirus létale est très différente.",
-          "url": "https://www.france24.com/fr/europe/20260511-hantavirus-prise-en-charge-%C3%A0-g%C3%A9om%C3%A9trie-variable-entre-europe-et-%C3%A9tats-unis",
-          "imageUrl": "https://s.france24.com/media/display/8b592884-4d56-11f1-8ace-005056bf30b7/w:1024/p:16x9/hantavirus-tenerife.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-11T17:15:02.000Z",
-          "fetchedAt": "2026-05-12T04:30:39.917Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-2",
-      "topic": "OpenAI just released its answer to Claude Mythos",
+      "topic": "La guerre au Moyen-Orient plonge le transport aérien dans une crise inédite",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-13-a290b67f",
+          "title": "La guerre au Moyen-Orient plonge le transport aérien dans une crise inédite",
+          "description": "Entre hausse des prix des billets, annulations de vols et crainte d’une pénurie de kérosène, l’aviation commerciale traverse une tempête qui fragilise les compagnies aériennes, certaines se montrant particulièrement vulnérables.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/13/la-guerre-au-moyen-orient-plonge-le-transport-aerien-dans-une-crise-inedite_6688623_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-13T04:10:17.000Z",
+          "fetchedAt": "2026-05-13T04:37:33.540Z"
+        },
+        {
+          "id": "2026-05-13-6a9a7637",
+          "title": "Ouverture du Festival de Cannes: «La Vénus électrique», un baiser de la mort, mais dans quelle réalité?",
+          "description": "Quand le cinéma nous plonge dans un état d’illusion pour mieux confronter le réel… La Vénus électrique, un envol artistique très sage du réalisateur français Pierre Salvadori, a été longuement applaudi hier soir, lors de la cérémonie d’ouverture très engagée au Palais des Festivals. Oui, c’était le film d’ouverture du Festival de Cannes. Reste à savoir : sur quelle réalité ouvre-t-il ?",
+          "url": "https://www.rfi.fr/fr/culture/20260513-ouverture-du-festival-de-cannes-la-v%C3%A9nus-%C3%A9lectrique-un-baiser-de-la-mort-mais-dans-quelle-r%C3%A9alit%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/531e0082-4e5c-11f1-b331-005056bfb2b6/w:1024/p:16x9/La-Fee1-Capture-d-%C3%A9cran-2026-05-13-014029.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-13T04:04:13.000Z",
+          "fetchedAt": "2026-05-13T04:37:44.629Z"
+        },
+        {
+          "id": "2026-05-13-b18f64f4",
+          "title": "EN DIRECT, guerre au Moyen-Orient : la Chine encourage le Pakistan à « intensifier ses efforts de médiation » entre les Etats-Unis et l’Iran",
+          "description": "Lors d’un entretien téléphonique avec son homologue pakistanais, Ishaq Dar, le ministre des affaires étrangères chinois, Wang Yi, a également appelé Islamabad « à contribuer à traiter de manière appropriée les questions liées à l’ouverture du détroit d’Ormuz ».",
+          "url": "https://www.lemonde.fr/international/live/2026/05/13/en-direct-guerre-au-moyen-orient-la-chine-encourage-le-pakistan-a-intensifier-ses-efforts-de-mediation-entre-les-etats-unis-et-l-iran_6686485_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-13T03:36:04.000Z",
+          "fetchedAt": "2026-05-13T04:37:33.540Z"
+        },
+        {
+          "id": "2026-05-13-e65b5490",
+          "title": "Hantavirus : existe-t-il un risque de propagation ?",
+          "description": "Tous les passagers du bateau de croisière sur lequel un virus mortel originaire d’Amérique du Sud s’est déclaré ont été évacués et rapatriés dans leurs pays d’origine dimanche 10 mai et lundi 11 mai. C’est l’heure de la mobilisation, dans leurs pays d’origine, pour casser la chaîne de transmission de l’agent pathogène. Dans ce podcast, Delphine Roucaute, journaliste au « Monde », répond aux nombreuses questions qui se posent désormais.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/05/13/hantavirus-existe-t-il-un-risque-de-propagation_6688569_5463015.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-13T03:00:09.000Z",
+          "fetchedAt": "2026-05-13T04:37:33.540Z"
+        },
+        {
+          "id": "2026-05-13-ee48e7db",
+          "title": "Argentine: nouvelles manifestations pour défendre l'université publique face aux coupes budgétaires",
+          "description": "Des dizaines de milliers de personnes ont manifesté dans les grandes villes d'Argentine, ce mardi 12 mai 2026, pour défendre l'université publique, menacée par les coupes budgétaires du président Javier Milei.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260513-argentine-nouvelles-manifestations-pour-d%C3%A9fendre-l-universit%C3%A9-publique-face-aux-coupes-budg%C3%A9taires",
+          "imageUrl": "https://s.rfi.fr/media/display/c7b8c36e-4e70-11f1-b8d7-005056bf30b7/w:1024/p:16x9/2026-05-12T182359Z-407646606-RC2U7LAWNJ0W-RTRMADP-3-ARGENTINA-EDUCATION-PROTEST.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-13T02:11:10.000Z",
+          "fetchedAt": "2026-05-13T04:37:44.629Z"
+        },
+        {
+          "id": "2026-05-13-a951acba",
+          "title": "En Argentine, des dizaines de milliers de personnes manifestent contre les coupes budgétaires visant l’université publique",
+          "description": "Le gouvernement refuse d’indexer les ressources de l’université sur l’inflation, comme prévu par une loi votée au Parlement.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/13/en-argentine-des-dizaines-de-milliers-de-personnes-manifestent-contre-les-coupes-budgetaires-visant-l-universite-publique_6688502_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-13T01:26:06.000Z",
+          "fetchedAt": "2026-05-13T04:37:33.540Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "Malgré toutes les critiques justifiées, l’Europe regrettera amèrement Emmanuel M",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-13-d3f9db02",
+          "title": "Malgré toutes les critiques justifiées, l’Europe regrettera amèrement Emmanuel Macron",
+          "description": "En déplacement en Arménie la semaine dernière, le président français a interprété “La Bohème” de Charles Aznavour. Pour la journaliste de l’hebdomadaire allemand “Der Spiegel”, ces images, bien que “kitsch” sont “un petit îlot d’humanité” dans un “monde devenu fou” où, “entre Trump et Poutine, l’absence de scrupules a la cote”.",
+          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-malgre-toutes-les-critiques-justifiees-l-europe-regrettera-amerement-emmanuel-macron_243816",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/05/1/0/7084/4722/1200/630/60/0/7b5b31b_ftp-1-oj0lyiwdg8ul-afp-a9we8m3.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-13T03:00:21.000Z",
+          "fetchedAt": "2026-05-13T04:37:34.209Z"
+        },
+        {
+          "id": "2026-05-12-31883e21",
+          "title": "Au sommet Africa Forward, l’opération séduction d’Emmanuel Macron",
+          "description": "« Le pré carré » de la France en Afrique, « c’est terminé », a martelé mardi 12 mai Emmanuel Macron à Nairobi. Le président a balayé l’idée d’une perte d’influence hexagonale sur le continent en vantant la diversification de ses partenariats, en particulier avec les pays anglophones.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/05/12/a-nairobi-l-operation-seduction-d-emmanuel-macron_6688294_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-12T20:02:47.000Z",
+          "fetchedAt": "2026-05-13T04:37:33.540Z"
+        },
+        {
+          "id": "2026-05-12-75c4ab2c",
+          "title": "Amazon va investir 15 milliards d'euros en France",
+          "description": "Le géant américain souhaite renforcer sa présence dans l'Hexagone. Il va y investir 15 milliards d'euros sur les trois prochaines années, ce qui va lui permettre de construire quatre nouveaux centres de distribution et de créer 7000 postes en CDI.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260512-amazon-va-investir-15-milliards-d-euros-en-france",
+          "imageUrl": "https://s.france24.com/media/display/6908f56c-498b-11f1-a30c-005056a97e36/w:1024/p:16x9/Francais-2026-05-06T20-20-08-702Z.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-12T19:54:49.000Z",
+          "fetchedAt": "2026-05-13T04:37:33.783Z"
+        },
+        {
+          "id": "2026-05-12-e172868c",
+          "title": "Sahel, RD Congo et bilan africain... Ce qu'il faut retenir de l'interview d'Emmanuel Macron",
+          "description": "À l'issue du sommet \"Africa Forward\" organisé à Nairobi par la France et le Kenya lundi et mardi, Emmanuel Macron a répondu aux questions de France 24, RFI et TV5 Monde. L'occasion aussi, pour le chef de l'État, de revenir sur son bilan africain alors que son second quinquennat prend fin dans un an.",
+          "url": "https://www.france24.com/fr/afrique/20260512-sahel-rd-congo-bilan-africain-interview-emmanuel-macron",
+          "imageUrl": "https://s.france24.com/media/display/029fa2b6-4e28-11f1-b299-005056bf30b7/w:1024/p:16x9/Macron-Itw-3.jpeg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-12T19:36:22.000Z",
+          "fetchedAt": "2026-05-13T04:37:33.783Z"
+        },
+        {
+          "id": "2026-05-12-034127a8",
+          "title": "Emmanuel Macron revient sur la politique française au Sahel",
+          "description": "\"Je pense qu'on aurait dû avoir ce dialogue exigeant plus tôt. Et peut-être, dans ces cas-là, repenser notre présence militaire plus tôt.\" Dans son interview à FRANCE 24, RFI et TV5MONDE, le président français est revenu sur l'état de la relation entre la France et les pays du Sahel. Extrait.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260512-emmanuel-macron-revient-sur-la-politique-fran%C3%A7aise-au-sahel",
+          "imageUrl": "https://s.france24.com/media/display/84d553e2-4e38-11f1-950c-005056a90284/w:1024/p:16x9/SAHEL-FR-Verticale.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-12T19:34:22.000Z",
+          "fetchedAt": "2026-05-13T04:37:33.783Z"
+        },
+        {
+          "id": "2026-05-12-8fea631f",
+          "title": "Suivez l'interview d'Emmanuel Macron sur France 24 à l'issue du sommet \"Africa Forward\"",
+          "description": "",
+          "url": "https://www.france24.com/fr/afrique/20260512-suivez-interview-emmanuel-macron-france-24-sommet-africa-forward",
+          "imageUrl": "https://s.france24.com/media/display/10c8657a-4e29-11f1-850a-005056bfb2b6/w:1280/p:16x9/Macron-Itw-2.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-12T18:55:19.000Z",
+          "fetchedAt": "2026-05-13T04:37:33.783Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-14",
+      "topic": "Guerre au Moyen-Orient: au nord d'Israël, la menace permanente des drones du Hez",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-13-2307561f",
+          "title": "Guerre au Moyen-Orient: au nord d'Israël, la menace permanente des drones du Hezbollah",
+          "description": "L'armée israélienne a déclaré mardi 12 mai 2026 que ses troupes avaient mené une opération de plusieurs jours dans la région du fleuve Litani, dans le sud du Liban, où des échanges de tirs avec le Hezbollah se poursuivent malgré un cessez-le-feu. 13 morts ont été annoncés mardi soir dans des frappes israeliennes selon les autorités libanaises. Côté israélien de la frontière, beaucoup d’habitants ont quitté la zone frontalière avec le Liban. Le cessez le feu a été décrété il y a presque un mois mais la zone est loin d’être calme. Civils et militaires craignent les drones du Hezbollah.",
+          "url": "https://www.rfi.fr/fr/monde/20260513-guerre-au-moyen-orient-au-nord-d-isra%C3%ABl-la-menace-permanente-des-drones-du-hezbollah",
+          "imageUrl": "https://s.rfi.fr/media/display/3a9d1178-4e7b-11f1-8d2c-005056a97e36/w:1024/p:16x9/PHOTO-2026-05-13-06-15-32.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-13T01:05:38.000Z",
+          "fetchedAt": "2026-05-13T04:37:44.629Z"
+        },
+        {
+          "id": "2026-05-12-0022c4d6",
+          "title": "Eurovision : une vaste campagne d’Israël pour influencer les votes révélée par une enquête",
+          "description": "Selon une enquête du “New York Times”, le pouvoir israélien a massivement investi pour promouvoir ses candidats, provoquant l’ire de plusieurs autres pays participants. L’Eurovision 2026 démarre ce mardi 12 mai à Vienne sur fond de vives polémiques : cinq pays européens se sont retirés du concours de chant pour protester contre la participation d’Israël, ce qui constitue le “plus grand boycott en soixante-dix ans”.",
+          "url": "https://www.courrierinternational.com/article/musique-eurovision-une-vaste-campagne-d-israel-pour-influencer-les-votes-revelee-par-une-enquete_243912",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/11/0/0/2590/1726/1200/630/60/0/dcdc0ca_ftp-1-2osytcndx73c-2026-05-11t201035z-2046200369-rc287la5n15u-rtrmadp-3-music-eurovision.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-12T15:28:56.000Z",
+          "fetchedAt": "2026-05-13T04:37:34.209Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-14",
+      "topic": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attra",
       "category": "tech",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-05-11-0698c5e8",
-          "title": "OpenAI just released its answer to Claude Mythos",
-          "description": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.\nIts launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was too dangerous to publicly release and only shared privately as a part of its own initiative, dubbed Project Glasswing. Still, that didn't stop at leas …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-05-12-be34d5c9",
+          "title": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attractive\"",
+          "description": "eBay board doubts GameStop's ability to buy and operate the much larger firm.",
+          "url": "https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/gamestop-store-1-1152x648.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-05-11T23:05:01.000Z",
-          "fetchedAt": "2026-05-12T04:30:57.673Z"
+          "publishedAt": "2026-05-12T17:18:04.000Z",
+          "fetchedAt": "2026-05-13T04:37:55.549Z"
+        },
+        {
+          "id": "2026-05-12-64e25de0",
+          "title": "« Ni crédible ni attractive » : eBay refuse l’offre de rachat à 56 milliards de dollars de GameStop",
+          "description": "Le 3 mai 2026, GameStop a créé la surprise en annonçant une OPA non sollicitée sur eBay, valorisée à 55,5 milliards de dollars. Une proposition refusée par eBay le 12 mai 2026, qui a jugé l'offre « ni crédible, ni attractive ».",
+          "url": "https://www.numerama.com/tech/2245805-ni-credible-ni-attractive-ebay-refuse-loffre-de-rachat-a-56-milliards-de-dollars-de-gamestop.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/game-stop-x-ebay.jpg?resize=1600,900&key=46b12e69&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-12T15:52:05.000Z",
+          "fetchedAt": "2026-05-13T04:37:44.606Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Des produits structurés liés à l’action Stellantis risquent de faire perdre de l",
+      "id": "cluster-14",
+      "topic": "British Steel nationalisé : « Pas question pour le Royaume-Uni d’être dépendant ",
       "category": "eco",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-05-12-90c0b7ab",
-          "title": "Des produits structurés liés à l’action Stellantis risquent de faire perdre de l’argent aux épargnants",
-          "description": "Entre 2 et 2,5 milliards d’euros auraient été investis dans ces placements entre 2023 et 2024, et 80 % de ceux en cours sont en zone rouge ou s’en approchent dangereusement.",
-          "url": "https://www.lemonde.fr/argent/article/2026/05/12/des-produits-structures-lies-a-l-action-stellantis-risquent-de-faire-perdre-de-l-argent-aux-epargnants_6688191_1657007.html",
+          "id": "2026-05-12-a51220fd",
+          "title": "British Steel nationalisé : « Pas question pour le Royaume-Uni d’être dépendant des importations d’aciers essentiels notamment pour la défense »",
+          "description": "Le premier ministre travailliste, Keir Starmer, a annoncé, lundi, son intention de « prendre le contrôle total » de l’aciériste. Après ce sauvetage des derniers hauts-fourneaux du pays, la question de l’orientation de la politique industrielle britannique demeure entière, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/12/british-steel-nationalise-dans-un-monde-fragmente-et-hostile-pas-question-pour-le-royaume-uni-d-etre-dependant-des-importations-d-aciers-essentiels-notamment-pour-la-defense_6688226_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-05-12T04:00:21.000Z",
-          "fetchedAt": "2026-05-12T04:30:57.725Z"
+          "publishedAt": "2026-05-12T09:51:09.000Z",
+          "fetchedAt": "2026-05-13T04:37:55.306Z"
+        },
+        {
+          "id": "2026-05-12-e070c3e1",
+          "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+          "description": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
+          "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/485f/live/71733440-4cd0-11f1-a5f9-d73fa1ebe64c.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-05-12T02:50:17.000Z",
+          "fetchedAt": "2026-05-13T04:37:57.608Z"
+        },
+        {
+          "id": "2026-05-11-f1814c41",
+          "title": "British Steel nationalisation plans announced by Starmer",
+          "description": "The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.",
+          "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3d94/live/87576030-4d32-11f1-bd52-e755d604ece4.png",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-05-11T11:22:01.000Z",
+          "fetchedAt": "2026-05-13T04:37:57.608Z"
         }
       ]
     }
