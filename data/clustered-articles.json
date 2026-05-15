@@ -1,319 +1,231 @@
 {
-  "generatedAt": "2026-05-14T04:40:26.812Z",
+  "generatedAt": "2026-05-15T04:46:15.914Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "A Pékin, Xi Jinping invite Donald Trump à faire en sorte que la Chine et les Eta",
+      "topic": "EN DIRECT - Moyen-Orient: la Chine réclame un cessez-le-feu durable et la réouve",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-14-90ae28f3",
-          "title": "A Pékin, Xi Jinping invite Donald Trump à faire en sorte que la Chine et les Etats-Unis soient « des partenaires, pas des rivaux »",
-          "description": "Le président chinois reçoit son homologue américain jeudi et vendredi sur fond de multiples désaccords sur les échanges commerciaux, l’approvisionnement en terres rares ou Taïwan, et de tensions liées au conflit au Moyen-Orient.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/14/a-pekin-xi-jinping-invite-donald-trump-a-faire-en-sorte-que-la-chine-et-les-etats-unis-soient-des-partenaires-pas-des-rivaux_6689038_3210.html",
+          "id": "2026-05-15-98bc869e",
+          "title": "EN DIRECT - Moyen-Orient: la Chine réclame un cessez-le-feu durable et la réouverture d'Ormuz «dès que possible»",
+          "description": "Vendredi 15 mai, la Chine a réclamé un cessez-le-feu complet au Moyen-Orient et la réouverture du détroit d'Ormuz « dès que possible », en marge du sommet entre les présidents chinois Xi Jinping et américain Donald Trump à Pékin.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260515-en-direct-moyen-orient-la-chine-r%C3%A9clame-un-cessez-le-feu-durable-et-la-r%C3%A9ouverture-d-ormuz-d%C3%A8s-que-possible",
+          "imageUrl": "https://s.rfi.fr/media/display/fdc3464e-4f9e-11f1-82b8-005056bfb2b6/w:1024/p:16x9/AP26124422896227.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-15T04:20:29.000Z",
+          "fetchedAt": "2026-05-15T04:42:26.161Z"
+        },
+        {
+          "id": "2026-05-15-9ef1ff06",
+          "title": "Donald Trump déçoit le marché en annonçant une commande chinoise de 200 avions Boeing inférieure aux prévisions",
+          "description": "L’action de l’avionneur américain a perdu plus de 5 % au moment de l’annonce alors que des médias américains évoquaient depuis plusieurs mois une commande potentielle record de la Chine portant sur près de 600 avions.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/15/donald-trump-decoit-le-marche-en-annoncant-une-commande-chinoise-de-200-avions-boeing-inferieure-aux-previsions_6689386_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-14T04:12:54.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.433Z"
+          "publishedAt": "2026-05-15T03:45:59.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.336Z"
         },
         {
-          "id": "2026-05-14-a8b168e2",
-          "title": "Xi Jinping accueille Trump à Pékin pour un sommet “décisif”",
-          "description": "Le président chinois a accueilli Donald Trump avec faste, jeudi à Pékin, lors d’une cérémonie de bienvenue réglée au millimètre, place Tiananmen. Les deux hommes et leurs délégations sont entrés dans le Palais du Peuple peu avant 10h30 locales (4h30, heure française) pour un sommet “décisif”, note la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-xi-jinping-accueille-trump-a-pekin-pour-un-sommet-decisif_244002",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/14/0/0/2680/1786/1200/630/60/0/e766954_ftp-1-vnp33cvwob9f-afp-b2td4kh.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-14T04:10:27.000Z",
-          "fetchedAt": "2026-05-14T04:36:27.025Z"
-        },
-        {
-          "id": "2026-05-14-6fc8aceb",
-          "title": "Trump met en scène les racines très chrétiennes des États-Unis",
-          "description": "Pour célébrer les 250 ans du pays, la Maison-Blanche met en avant la foi. Prières publiques et lectures de la Bible sont organisées en grande pompe, raconte “USA Today”. Les autorités promeuvent un récit historique centré sur le christianisme, quitte à le falsifier.",
-          "url": "https://www.courrierinternational.com/article/commemorations-trump-met-en-scene-les-racines-tres-chretiennes-des-etats-unis_242365",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/28/0/0/1734/1156/1200/630/60/0/427704d_upload-1-gzyqgha1m7uw-p-23-kamensky-w.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-14T03:00:13.000Z",
-          "fetchedAt": "2026-05-14T04:36:27.025Z"
-        },
-        {
-          "id": "2026-05-14-693d6a5d",
-          "title": "Coupe du monde 2026 : les Etats-Unis assouplissent la politique de caution demandée aux équipes et supporteurs de certains pays",
-          "description": "Ces cautions de 5 000 à 15 000 dollars ne seront plus demandées aux membres des équipes en compétition et de leurs supporteurs respectant certaines conditions. Cinq pays qualifiés sont notamment soumis à ces cautions : l’Algérie, le Cap-Vert, la Côte d’Ivoire, le Sénégal et la Tunisie.",
-          "url": "https://www.lemonde.fr/sport/article/2026/05/14/coupe-du-monde-2026-les-etats-unis-assouplissent-la-politique-de-caution-demandee-aux-equipes-et-supporters-de-certains-pays_6688926_3242.html",
+          "id": "2026-05-15-5018ba4a",
+          "title": "EN DIRECT, guerre au Moyen-Orient : la Chine appelle à un cessez-le-feu complet et durable et à la réouverture du détroit d’Ormuz",
+          "description": "Alors que Téhéran a annoncé laisser passer des navires chinois, le ministère des affaires étrangères chinoises a appelé, en marge du sommet entre les présidents chinois Xi Jinping et américain Donald Trump à Pékin, à un retour à la situation d’avant-guerre.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/15/en-direct-guerre-au-moyen-orient-la-chine-appelle-a-un-cessez-le-feu-complet-et-durable-et-a-la-reouverture-du-detroit-d-ormuz_6688992_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-14T02:02:26.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.433Z"
+          "publishedAt": "2026-05-15T03:38:34.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.336Z"
         },
         {
-          "id": "2026-05-14-36348ce0",
-          "title": "\"Des partenaires, pas des rivaux\" : Xi Jinping accueille Donald Trump avec les honneurs en Chine",
-          "description": "Le président chinois Xi Jinping a accueilli son homologue américain Donald Trump jeudi à Pékin, affirmant que la Chine et les États-Unis devraient être \"des partenaires, pas des rivaux\". De multiples sujets de crispation attendent cependant les deux chefs d'État, de la guerre commerciale à Taïwan en passant par l'Iran.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20260514-des-partenaires-pas-des-rivaux-xi-jinping-accueille-donald-trump-avec-les-honneurs-en-chine",
-          "imageUrl": "https://s.france24.com/media/display/b019797a-4f3c-11f1-95b1-005056bf30b7/w:1024/p:16x9/785e8118363b7673ec236a53453e835c61d1a8ad.jpg",
+          "id": "2026-05-14-54d17780",
+          "title": "Au Tchad, Les Patriotes, membre de l’ex-GCAP, dénoncent un climat politique de plus en plus tendu",
+          "description": "Nouvelle alerte de l’opposition tchadienne sur l’état du climat politique dans le pays. En conférence de presse mercredi à N’Djamena, le parti Les Patriotes, membre de l’ex Groupe de concertation des acteurs politique, le GCAP, a dénoncé ce qu’il décrit comme un durcissement du pouvoir, sur fond de condamnations judiciaires visant plusieurs responsables politiques. Le mouvement évoque également une dégradation de la situation sécuritaire et des fractures communautaires croissantes.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260514-au-tchad-les-patriotes-membre-de-l-ex-gcap-d%C3%A9noncent-un-climat-politique-de-plus-en-plus-tendu",
+          "imageUrl": "https://s.france24.com/media/display/79e864d0-4fd0-11f1-88b9-005056bfb2b6/w:1024/p:16x9/FRAN260514-2140-Live-01.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-14T00:09:14.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.415Z"
+          "publishedAt": "2026-05-14T20:16:56.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.411Z"
         },
         {
-          "id": "2026-05-13-6f2c8c7b",
-          "title": "États-Unis : le Sénat valide la nomination de Kevin Warsh à la tête de la Fed",
-          "description": "Le Sénat américain a validé mercredi, par 54 votes contre 45, la nomination de Kevin Warsh, candidat de Donald Trump, à la tête de la puissante banque centrale des États-Unis, la Réserve fédérale (Fed). La plupart des élus de l'opposition démocrate ont voté contre.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260513-%C3%A9tats-unis-s%C3%A9nat-valide-nomination-kevin-warsh-t%C3%AAte-fed-reserve-federale-trump",
-          "imageUrl": "https://s.france24.com/media/display/54fa7fce-4f0c-11f1-ad86-005056a97e36/w:1024/p:16x9/2026-04-29T112257Z-725063161-RC2TTKAM19IG-RTRMADP-3-USA-FED-WARSH.jpg",
-          "source": "France 24",
+          "id": "2026-05-14-c4a655dc",
+          "title": "Le discounter textile Zeeman voit sa fréquentation fragilisée par la flambée des prix des carburants",
+          "description": "A pas comptés, l’enseigne néerlandaise d’habillement à petits prix poursuit son expansion en France. Ses 1 800 salariés déplorent sa politique salariale.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/14/le-discounter-textile-zeeman-voit-sa-frequentation-fragilisee-par-la-flambee-des-prix-des-carburants_6689125_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-13T20:55:06.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.415Z"
+          "publishedAt": "2026-05-14T17:19:08.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.336Z"
+        },
+        {
+          "id": "2026-05-14-e031ce68",
+          "title": "Donald Trump en Chine : un banquet éminemment politique avec Xi Jinping",
+          "description": "Le président chinois reçoit son homologue américain jeudi et vendredi, à Pékin, sur fond de multiples désaccords. Lors d’un banquet organisé jeudi soir, le président des Etats-Unis a qualifié ses discussions avec M. Xi d’« extrêmement positives et productives ».",
+          "url": "https://www.lemonde.fr/international/video/2026/05/14/donald-trump-en-chine-un-banquet-avec-xi-jinping-eminemment-politique_6689122_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-14T16:32:58.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.336Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Paquebot confiné à Bordeaux, Israël et Pérou : les informations de la nuit",
+      "id": "cluster-4",
+      "topic": "Au Royaume-Uni, les prudentes manœuvres d’approche des rivaux de Keir Starmer",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-14-f113d885",
-          "title": "Paquebot confiné à Bordeaux, Israël et Pérou : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-paquebot-confine-a-bordeaux-israel-et-perou-les-informations-de-la-nuit_244003",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/13/0/0/5500/3666/1200/630/60/0/5b0fdc9_ftp-1-df0l4pvnu3it-2026-05-13t162141z-930068593-rc2g8latf1uo-rtrmadp-3-cruiseship-france.JPG",
+          "id": "2026-05-15-1809b42a",
+          "title": "Au Royaume-Uni, les prudentes manœuvres d’approche des rivaux de Keir Starmer",
+          "description": "Si le premier ministre est vivement contesté au sein du Parti travailliste, aucun de ses opposants ne s’est pour l’instant porté candidat à son remplacement. Au Labour, la procédure pour évincer le chef de file est particulièrement complexe et risquée.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/15/au-royaume-uni-les-prudentes-man-uvres-d-approche-des-rivaux-de-keir-starmer_6689390_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-15T04:00:27.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.336Z"
+        },
+        {
+          "id": "2026-05-14-942adbeb",
+          "title": "Royaume-Uni: démission de Wes Streeting, ministre de la Santé et potentiel rival de Keir Starmer",
+          "description": "Le ministre britannique de la Santé, Wes Streeting, pressenti comme concurrent de Keir Starmer à la direction du Parti travailliste et à Downing Street, a annoncé jeudi 14 mai 2026 sa démission du gouvernement. Alors que le Premier ministre est sur la sellette depuis des jours, ce départ de l'exécutif fait grandir la menace sur l'avenir de Keir Starmer.",
+          "url": "https://www.rfi.fr/fr/europe/20260514-royaume-uni-d%C3%A9mission-de-wes-streeting-ministre-de-la-sant%C3%A9-et-potentiel-rival-de-keir-starmer",
+          "imageUrl": "https://s.rfi.fr/media/display/fd1d9052-4fa1-11f1-b6c3-005056bf30b7/w:1024/p:16x9/000-B2UK9T3.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-14T15:32:42.000Z",
+          "fetchedAt": "2026-05-15T04:42:26.161Z"
+        },
+        {
+          "id": "2026-05-14-7a06bb57",
+          "title": "“Un coup à la jugulaire” : Keir Starmer lâché par son principal rival Wes Streeting",
+          "description": "Le ministre britannique de la Santé a présenté sa démission, jeudi 14 mai, dans une lettre virulente à l’endroit du Premier ministre, après les lourdes pertes enregistrées par les travaillistes aux élections locales. Le locataire du 10-Downing Street se trouve plus que jamais au bord du précipice.",
+          "url": "https://www.courrierinternational.com/article/royaume-uni-un-coup-a-la-jugulaire-keir-starmer-lache-par-son-principal-rival-wes-streeting_244008",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/14/42/0/5000/3333/1200/630/60/0/7f5395b_ftp-1-9qlaobtaoqmy-afp-b2ul8zq.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-14T04:10:40.000Z",
-          "fetchedAt": "2026-05-14T04:36:27.025Z"
-        },
-        {
-          "id": "2026-05-14-083c2798",
-          "title": "Eurovision 2026 : pourquoi Israël est-il accusé d’avoir fait du concours un outil politique ? Comprendre en 3 minutes",
-          "description": "L’Espagne, l’Irlande, l’Islande, les Pays-Bas et la Slovénie boycottent la 70ᵉ édition du concours organisé cette année à Vienne pour protester contre la décision de l’Union européenne de radio-télévision de maintenir la participation d’Israël.",
-          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/05/14/eurovision-2026-pourquoi-israel-est-il-accuse-d-avoir-fait-du-concours-un-outil-politique-comprendre-en-3-minutes_6689029_6176282.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-14T04:00:10.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.433Z"
-        },
-        {
-          "id": "2026-05-14-e1305df9",
-          "title": "Liban-Israël : à Washington, les négociations s’annoncent difficiles pour deux délégations sous pression",
-          "description": "Des discussions directes débutent jeudi entre un Etat hébreu peu incité au compromis et des Libanais incapables de désarmer le Hezbollah, alors que l’escalade meurtrière se poursuit entre l’armée israélienne et le mouvement chiite.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/14/liban-israel-a-washington-les-negociations-s-annoncent-difficiles-pour-deux-delegations-sous-pression_6689026_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-14T03:30:04.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.433Z"
-        },
-        {
-          "id": "2026-05-14-c9b93eb4",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Israël accentue ses frappes sur le Liban alors que vont s’ouvrir des discussions entre les deux pays à Washington",
-          "description": "Les négociations directes entre Israël et le Liban s’ouvrent, jeudi, dans la capitale américaine, au lendemain de nouveaux bombardements israéliens qui ont fait, malgré la trêve en vigueur, au moins 22 morts, selon le ministère de la santé libanais.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/14/en-direct-guerre-au-moyen-orient-israel-accentue-ses-frappes-sur-le-liban-alors-que-vont-s-ouvrir-des-discussions-entre-les-deux-pays-a-washington_6688992_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-14T03:20:45.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.433Z"
-        },
-        {
-          "id": "2026-05-14-1d17a53c",
-          "title": "Syrie : Amnesty International appelle à enquêter sur de possibles crimes de guerre commis par l’armée israélienne",
-          "description": "Selon l’ONG, les forces israéliennes ont détruit de manière « délibérée » des habitations civiles et forcé la population à partir dans trois villages du gouvernorat de Kuneitra, dans le sud de la Syrie, après la chute de Bachar Al-Assad.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/14/syrie-amnesty-international-appelle-a-enqueter-sur-de-possibles-crimes-de-guerre-commis-par-l-armee-israelienne_6688893_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-14T01:28:26.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.433Z"
-        },
-        {
-          "id": "2026-05-13-60bae71f",
-          "title": "Guerre au Moyen-Orient : les bombardements israéliens s’intensifient au Liban. Retrouvez les informations du 7 au 13 mai.",
-          "description": "Au moins 22 personnes sont mortes, mercredi, dans les frappes de l’Etat hébreu au Liban. Le Hezbollah a revendiqué plusieurs attaques contre les forces israéliennes dans le sud du pays.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/13/en-direct-guerre-au-moyen-orient-les-bombardements-israeliens-s-intensifient-au-liban_6686485_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-13T18:41:11.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.433Z"
+          "publishedAt": "2026-05-14T13:56:14.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.810Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "Céline Marangé, chercheuse à l’Ecole militaire : « Un déni subsiste en France su",
+      "topic": "Guerre en Ukraine : comment Kiev a su imposer, au moins pour un temps, sa maîtri",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-14-24ddccc7",
-          "title": "Céline Marangé, chercheuse à l’Ecole militaire : « Un déni subsiste en France sur la radicalité des intentions du pouvoir russe »",
-          "description": "La politiste publie « La guerre d’Europe a commencé », qui replace le conflit en Ukraine dans le temps long de l’impérialisme russe et prend la mesure de la menace que le Kremlin fait peser sur les pays de l’OTAN et de l’Union européenne. Etat des lieux.",
-          "url": "https://www.lemonde.fr/livres/article/2026/05/14/celine-marange-chercheuse-a-l-ecole-militaire-un-deni-subsiste-en-france-sur-la-radicalite-des-intentions-du-pouvoir-russe_6689034_3260.html",
+          "id": "2026-05-15-cd70533b",
+          "title": "Guerre en Ukraine : comment Kiev a su imposer, au moins pour un temps, sa maîtrise des données numériques issues des champs de bataille",
+          "description": "Au cœur de la guerre de drones se trouvent des outils informatiques et numériques qui en démultiplient l’efficacité. Kiev disposait jusqu’à présent d’un avantage dans ce domaine, qui inspire les pays de l’OTAN. Mais la Russie se rattrape, et l’IA rebat les cartes.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/15/guerre-en-ukraine-comment-kiev-a-su-imposer-au-moins-pour-un-temps-sa-maitrise-des-donnees-numeriques-issues-des-champs-de-bataille_6689389_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-14T04:00:32.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.433Z"
+          "publishedAt": "2026-05-15T04:00:15.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.336Z"
         },
         {
-          "id": "2026-05-13-546b1a44",
-          "title": "En Éthiopie, Emmanuel Macron affiche son soutien au Fonds pour la paix de l'Union africaine",
-          "description": "Le président français Emmanuel Macron, en visite en Éthiopie mercredi 13 mai 2026, s'est exprimé pour la première fois au siège de l'Union africaine (UA), à Addis-Abeba. Dans un discours prononcé après une rencontre tripartite avec le président de la Commission de l'UA, Mahmoud Ali Youssouf, et le secrétaire général de l'ONU, Antonio Guterres, le président français a fait quelques annonces, notamment en faveur du Fonds pour la paix de l'UA.",
-          "url": "https://www.rfi.fr/fr/afrique/20260513-en-%C3%A9thiopie-emmanuel-macron-affiche-son-soutien-au-fonds-pour-la-paix-de-l-union-africaine",
-          "imageUrl": "https://s.rfi.fr/media/display/87ad2512-4f10-11f1-866b-005056a97e36/w:1024/p:16x9/AP26133628826106.jpg",
+          "id": "2026-05-14-c43500b0",
+          "title": "EN DIRECT, guerre en Ukraine : l’attaque russe sur Kiev a fait au moins 24 morts, la ville décrète un jour de deuil national le 15 mai",
+          "description": "« Ce jour-là, les drapeaux sur tous les bâtiments municipaux de la ville seront mis en berne. Il est également recommandé de mettre en berne les drapeaux nationaux sur les bâtiments publics et privés », a déclaré le maire, Vitali Klitschko. Des dizaines de personnes ont aussi été blessées.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/14/en-direct-guerre-en-ukraine-l-attaque-russe-sur-kiev-a-fait-au-moins-16-morts-la-ville-decrete-un-jour-de-deuil-national-le-15-mai_6687661_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-14T21:36:47.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.336Z"
+        },
+        {
+          "id": "2026-05-14-3443d906",
+          "title": "Cannes 2026: dans «Gabin», Maxence Voiseux suit un garçon pendant dix ans, entre vaches et vérités",
+          "description": "C'est un documentaire rare, tourné pendant dix ans dans un village près d’Arras, dans le nord de la France. Avec Gabin, le réalisateur français Maxence Voiseux réussit un premier film exceptionnel. Il nous embarque dans la vie d'un garçon, qu'on accompagne entre ses 8 ans et ses 18 ans, avec tout ce qui va avec. Au Festival de Cannes, le film est projeté à la Quinzaine des réalisateurs.",
+          "url": "https://www.rfi.fr/fr/culture/20260514-cannes-2026-gabin-maxence-voiseux-suit-ce-gar%C3%A7on-pendant-dix-ans-entre-vaches-et-v%C3%A9rit%C3%A9s",
+          "imageUrl": "https://s.rfi.fr/media/display/ffc8c85c-4f98-11f1-ba34-005056bf30b7/w:1024/p:16x9/Gabin1-Capture-d-%C3%A9cran-2026-05-14-152657.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-13T22:19:24.000Z",
-          "fetchedAt": "2026-05-14T04:36:41.936Z"
+          "publishedAt": "2026-05-14T13:30:21.000Z",
+          "fetchedAt": "2026-05-15T04:42:26.161Z"
         },
         {
-          "id": "2026-05-13-1f11ace5",
-          "title": "La France, cible privilégiée de la désinformation russe",
-          "description": "Des comptes favorables à la Russie affirment à tort que les deux militaires français morts lors d'un stage de plongée en France, ont été tués à Odessa, en Ukraine, lors d'une attaque russe. Un exemple supplémentaire, qui s'ajoute à la liste des fausses informations et des rumeurs qui visent la France, cible privilégiée de la désinformation russe.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260513-la-france-cible-privil%C3%A9gi%C3%A9e-de-la-d%C3%A9sinformation-russe",
-          "imageUrl": "https://s.france24.com/media/display/28b6b9b4-4f0c-11f1-b30d-005056bfb2b6/w:1024/p:16x9/FRAN260513-2220-Live-CS2220.jpg",
-          "source": "France 24",
+          "id": "2026-05-14-83292fb6",
+          "title": "Talibans invités à Bruxelles: au-delà du symbole, un tournant dans la politique migratoire européenne",
+          "description": "Près de cinq ans après leur retour au pouvoir, Bruxelles s'apprête à ouvrir ses portes à des représentants talibans. Et ce non pour parler droits humains ou condition des femmes, mais expulsions : la Commission européenne les invite à discuter du renvoi d'exilés afghans vers leur pays d'origine. Un tournant diplomatique plébiscité par de nombreux États membres depuis des mois, mais qui se heurte à plusieurs obstacles juridiques et à la désapprobation des associations.",
+          "url": "https://www.rfi.fr/fr/europe/20260514-talibans-invit%C3%A9s-%C3%A0-bruxelles-au-del%C3%A0-du-symbole-un-tournant-dans-la-politique-migratoire-europ%C3%A9enne",
+          "imageUrl": "https://s.rfi.fr/media/display/b8f5d224-4f0e-11f1-b89e-005056a97e36/w:1024/p:16x9/000-9LP3LH.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-13T20:51:49.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.415Z"
+          "publishedAt": "2026-05-14T12:29:23.000Z",
+          "fetchedAt": "2026-05-15T04:42:26.161Z"
         },
         {
-          "id": "2026-05-13-edc3e6e5",
-          "title": "Emmanuel Macron et Abiy Ahmed, une relation privilégiée malgré la guerre et les massacres au Tigré",
-          "description": "Pour la dernière étape de sa tournée africaine, Emmanuel Macron a fait le choix de l’Ethiopie. L’occasion d’afficher une nouvelle fois son soutien à son premier ministre, Abiy Ahmed, dont l’action dans la région du Tigré, théâtre d’une guerre meurtrière entre 2020 et 2022, a été critiquée.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/05/13/emmanuel-macron-et-abiy-ahmed-une-relation-privilegiee-malgre-la-guerre-et-les-massacres-au-tigre_6688748_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-13T18:39:38.000Z",
-          "fetchedAt": "2026-05-14T04:36:26.433Z"
-        },
-        {
-          "id": "2026-05-13-2f742d4d",
-          "title": "Le Kremlin prépare le récit d’une fin de guerre “acceptable” pour vendre la paix aux Russes",
-          "description": "Face à l’enlisement de la guerre en Ukraine, aux difficultés économiques et à la lassitude générale, les stratèges du Kremlin élaborent un scénario de sortie de crise, affirme le site d’investigation “Dossier”. Ce média dirigé par un oligarque exilé révèle les éléments rhétoriques que préconise l’administration présidentielle pour rendre la fin de la guerre acceptable aux yeux des Russes.",
-          "url": "https://www.courrierinternational.com/article/strategie-le-kremlin-prepare-le-recit-d-une-fin-de-guerre-acceptable-pour-vendre-la-paix-aux-russes_243974",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/30/0/0/6000/4000/1200/630/60/0/2f03c4a_ftp-1-glaokutsbozu-2026-04-30t125314z-409685273-rc2nzkajo0jt-rtrmadp-3-russia-putin.JPG",
+          "id": "2026-05-14-2b091137",
+          "title": "“Plus une seule goutte” de carburant : Cuba désormais complètement à sec",
+          "description": "Le ministre cubain de l’Énergie, Vicente de la O ‌Levy, a déclaré, mercredi 13 mai, que l’île, soumise à un blocus de la part des États-Unis, était complètement ⁠à court ‌de carburant. De nombreux Cubains sont, une nouvelle fois, descendus dans la rue pour protester contre les coupures d’électricité.",
+          "url": "https://www.courrierinternational.com/article/penurie-plus-une-seule-goutte-de-carburant-cuba-desormais-completement-a-sec_244006",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/12/0/0/6000/4000/1200/630/60/0/13dcfba_ftp-1-im8uawz4jojs-2026-05-12t215522z-881439158-rc2v7labl4fp-rtrmadp-3-cuba-crisis-fuel.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-13T17:22:19.000Z",
-          "fetchedAt": "2026-05-14T04:36:27.025Z"
+          "publishedAt": "2026-05-14T09:28:43.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.810Z"
         },
         {
-          "id": "2026-05-13-29da619e",
-          "title": "À Nairobi, Emmanuel Macron séduit avec ses séquences de communication politique",
-          "description": "Après deux jours de rencontres et de moments choisis, la presse kényane s’enthousiasme de l’apparente simplicité du président français. Ce qui n’empêche pas certains médias d’être dubitatifs quant à la pertinence de ce forum, dont l’Afrique ne retirera probablement que des partenariats asymétriques, voire désavantageux.",
-          "url": "https://www.courrierinternational.com/article/vu-du-kenya-a-nairobi-emmanuel-macron-seduit-avec-ses-sequences-de-communication-politique_243980",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/11/0/0/5500/3666/1200/630/60/0/9f46c69_ftp-1-2hswl05l1d9y-2026-05-11t074106z-17906808-rc2v6la3hbvn-rtrmadp-3-africa-france-summit.JPG",
+          "id": "2026-05-14-42340921",
+          "title": "Grâce aux peuples autochtones, la Terre peut avoir un “futur ancestral”",
+          "description": "",
+          "url": "https://www.courrierinternational.com/article/climatiques-grace-aux-peuples-autochtones-la-terre-peut-avoir-un-futur-ancestral_243982",
+          "imageUrl": "https://focus.courrierinternational.com/2023/02/15/0/124/1804/1203/1200/630/60/0/f787471_1676471103560-climatique.png",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-13T14:59:53.000Z",
-          "fetchedAt": "2026-05-14T04:36:27.025Z"
+          "publishedAt": "2026-05-14T05:01:06.000Z",
+          "fetchedAt": "2026-05-15T04:42:15.810Z"
         }
       ]
     },
     {
-      "id": "cluster-65",
-      "topic": "Google dévoile les Googlebook, des ordinateurs portables sous Android avec une s",
+      "id": "cluster-1",
+      "topic": "Quatre conseils pour prolonger la durée de vie de ses câbles de recharge de smar",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-05-12-19de9cda",
-          "title": "Google dévoile les Googlebook, des ordinateurs portables sous Android avec une souris réinventée",
-          "description": "15 ans après les Chromebook, Google monte en puissance avec une nouvelle proposition pour réinventer l'ordinateur portable. Les Googlebook, qui seront lancés en fin d'année, misent sur une intégration profonde de l'IA pour se faire une place sur un marché saturé par Windows et macOS.",
-          "url": "https://www.numerama.com/tech/2251661-google-devoile-les-googlebook-des-ordinateurs-portables-sous-android-avec-une-souris-reinventee.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/googlebook-1.jpg?resize=1600,900&key=7c55e4ab&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-12T17:00:00.000Z",
-          "fetchedAt": "2026-05-14T04:36:42.124Z"
-        },
-        {
-          "id": "2026-05-12-b1e1440a",
-          "title": "Majorité numérique : après avoir tergiversé, la Commission européenne prépare une loi",
-          "description": "Sous la pression de dix Etats membres, au premier rang desquels la France, l’exécutif communautaire veut désormais introduire un âge minimal d’accès aux réseaux sociaux. Et évoque un projet de loi pour l’été.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/12/majorite-numerique-apres-avoir-tergiverse-la-commission-europeenne-prepare-une-loi_6688274_3234.html",
+          "id": "2026-05-15-f95b215a",
+          "title": "Quatre conseils pour prolonger la durée de vie de ses câbles de recharge de smartphone et d’ordinateur",
+          "description": "Acheter des câbles longs, les protéger contre le soleil, les décrocher par le connecteur… Des experts donnent leurs conseils pour faire durer les câbles USB.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/05/15/quatre-conseils-pour-prolonger-la-duree-de-vie-de-ses-cables-de-recharge-de-smartphone-et-d-ordinateur_6689391_4408996.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-05-12T16:07:42.000Z",
-          "fetchedAt": "2026-05-14T04:36:42.001Z"
-        },
-        {
-          "id": "2026-05-12-0b4640f1",
-          "title": "The Punisher: One Last Kill sera court, trop court pour de nombreux fans",
-          "description": "Le retour tant attendu de Frank Castle laisse déjà un goût amer aux fidèles de l'antihéros. Alors que Disney+ s'apprête à mettre en ligne ce mardi soir aux États-Unis (dans la nuit de mardi à mercredi en France, vers 3h du matin) The Punisher: One Last Kill, la durée officielle du programme vient d'être révélée à seulement quelques heures de la sortie. Entre excitation et frustration, les fans s'interrogent.",
-          "url": "https://www.numerama.com/pop-culture/2252045-the-punisher-one-last-kill-sera-court-trop-court-pour-de-nombreux-fans.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/jon-bernthal-as-punisher-in-spider-man-brand-new-day.avif?resize=1600,900&key=863ec2cf&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-12T15:57:17.000Z",
-          "fetchedAt": "2026-05-14T04:36:42.124Z"
-        },
-        {
-          "id": "2026-05-12-3c0889a4",
-          "title": "Une plateforme de LFI visée par une cyberattaque",
-          "description": "Un pirate a revendiqué, jeudi 7 mai, le vol de données issues de la plateforme Action populaire, lancée à l’occasion de la campagne présidentielle de 2022. La France insoumise dément, mais reconnaît avoir été récemment la cible de « plusieurs attaques cybercriminelles ».",
-          "url": "https://www.lemonde.fr/pixels/article/2026/05/12/une-plateforme-de-lfi-visee-par-une-cyberattaque_6688259_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-12T14:26:21.000Z",
-          "fetchedAt": "2026-05-14T04:36:42.001Z"
-        },
-        {
-          "id": "2026-05-12-d67b87bf",
-          "title": "Droits voisins pour la presse : la justice européenne valide le droit des éditeurs à une « rémunération équitable » face à Meta",
-          "description": "La Cour de justice de l’Union européenne a estimé dans un arrêt mardi que l’Italie avait le droit d’imposer que les éditeurs de presse reçoivent une rémunération équitable de la part des plateformes. Le Conseil européen des éditeurs a qualifié cette décision de « cruciale ».",
-          "url": "https://www.lemonde.fr/pixels/article/2026/05/12/droits-voisins-pour-la-presse-la-justice-europeenne-valide-le-droit-des-editeurs-a-une-remuneration-equitable-face-a-meta_6688252_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-12T13:12:34.000Z",
-          "fetchedAt": "2026-05-14T04:36:42.001Z"
+          "publishedAt": "2026-05-15T04:00:29.000Z",
+          "fetchedAt": "2026-05-15T04:42:26.014Z"
         }
       ]
     },
     {
-      "id": "cluster-22",
-      "topic": "Conséquence de la guerre en Iran, « le roi des chips japonais Calbee vendra des ",
+      "id": "cluster-4",
+      "topic": "Why Modi wants Indians to buy less gold and take fewer foreign holidays",
       "category": "eco",
-      "importance": 9,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-05-13-7adfa5f5",
-          "title": "Conséquence de la guerre en Iran, « le roi des chips japonais Calbee vendra des snacks dans des emballages en noir et blanc au lieu des habituels paquets multicolores »",
-          "description": "Le groupe veut réduire la consommation de pigments et de solvants produits à partir de pétrole alors que le Japon, dépendant des hydrocarbures du Moyen-Orient, peine à s’approvisionner en naphta, produit essentiel à de nombreuses industries, observe Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/13/consequence-de-la-guerre-en-iran-le-roi-des-chips-japonais-calbee-vendra-des-snacks-dans-des-emballages-en-noir-et-blanc-au-lieu-des-habituels-paquets-multicolores_6688663_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-13T09:30:01.000Z",
-          "fetchedAt": "2026-05-14T04:37:10.034Z"
-        },
-        {
-          "id": "2026-05-13-4d0cfa94",
-          "title": "What do Japanese crisps have to do with the Iran war?",
-          "description": "Calbee says it will temporarily switch to black and white packaging as ink supplies have been disrupted by the closure of the Strait of Hormuz.",
-          "url": "https://www.bbc.com/news/videos/c20274wj8p7o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0nkwydw.jpg",
+          "id": "2026-05-14-b0b8f8f5",
+          "title": "Why Modi wants Indians to buy less gold and take fewer foreign holidays",
+          "description": "Modi has urged Indians to save dollars as war and oil shocks strain the rupee and economy further this year.",
+          "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e713/live/fe15e590-4e89-11f1-94b7-2b18c5340a3f.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-05-13T06:18:12.000Z",
-          "fetchedAt": "2026-05-14T04:37:14.343Z"
+          "publishedAt": "2026-05-14T23:49:30.000Z",
+          "fetchedAt": "2026-05-15T04:42:39.595Z"
         }
       ]
     }
