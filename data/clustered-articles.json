@@ -1,319 +1,297 @@
 {
-  "generatedAt": "2026-05-21T05:06:59.685Z",
+  "generatedAt": "2026-05-22T04:58:51.060Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "EN DIRECT, guerre en Ukraine : le chancelier allemand, Friedrich Merz, propose q",
+      "topic": "Réunion de l'Otan à Helsingborg: de nouvelles tensions entre l'Europe et les Éta",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-21-67e548cf",
-          "title": "EN DIRECT, guerre en Ukraine : le chancelier allemand, Friedrich Merz, propose que Kiev devienne un « membre associé » de l’Union européenne",
-          "description": "Dans une lettre adressée au président du Conseil européen, Antonio Costa, et à la présidente de la Commission européenne, Ursula von der Leyen, le dirigeant allemand suggère qu’à défaut d’adhésion à court terme l’Ukraine puisse participer à certaines réunions des Vingt-Sept, disposer d’un commissaire sans portefeuille et de députés sans droit de vote.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/21/en-direct-guerre-en-ukraine-le-chancelier-allemand-friedrich-merz-propose-que-kiev-devienne-un-membre-associe-de-l-union-europeenne_6690053_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-21T04:40:39.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.231Z"
-        },
-        {
-          "id": "2026-05-21-70e21c85",
-          "title": "Le retrait américain d’Allemagne cache un autre danger pour l’Europe",
-          "description": "Au départ de plus 5 000 soldats américains stationnés outre-Rhin s’ajoute l’annulation d’un accord de défense central dans la stratégie de dissuasion européenne. D’après le quotidien conservateur berlinois “Die Welt”, des discussions seraient d’ores et déjà menées en coulisses pour trouver une solution de remplacement.",
-          "url": "https://www.courrierinternational.com/article/analyse-le-retrait-americain-d-allemagne-cache-un-autre-danger-pour-l-europe_243888",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/02/0/254/3994/2663/1200/630/60/0/8a2ca3b_ftp-1-61y3qzzs81xc-2026-05-02t083745z-1119197471-rc2w0lab5bib-rtrmadp-3-usa-trump-germany.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-21T03:00:17.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.557Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Au Soudan, l’usage des drones fige les positions et conduit la guerre dans une i",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-21-384a12e8",
-          "title": "Au Soudan, l’usage des drones fige les positions et conduit la guerre dans une impasse",
-          "description": "Ces dernières semaines, des zones contrôlées par l’armée, notamment autour de la capitale, ont été ciblées par des attaques de drones menées par les Forces de soutien rapide. Ces frappes témoignent de la capacité de nuisance des paramilitaires.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/05/21/au-soudan-l-usage-des-drones-fige-les-positions-et-conduit-la-guerre-dans-une-impasse_6691825_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-21T04:30:07.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.231Z"
-        },
-        {
-          "id": "2026-05-21-997d1158",
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit « examiner » une nouvelle proposition américaine, Donald Trump prévient Téhéran qu’il attend « les bonnes réponses »",
-          "description": "« Vouloir contraindre l’Iran à capituler par la force n’est qu’une illusion », a mis en garde mercredi soir le président iranien, Massoud Pezeshkian, appelant au « respect mutuel », qui « en matière de diplomatie est bien plus sage, plus sûr et plus durable que la guerre ».",
-          "url": "https://www.lemonde.fr/international/live/2026/05/21/en-direct-guerre-au-moyen-orient-l-iran-dit-examiner-une-nouvelle-proposition-americaine-donald-trump-previent-teheran-qu-il-attend-les-bonnes-reponses_6691823_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-21T04:11:50.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.231Z"
-        },
-        {
-          "id": "2026-05-21-2c82a6b9",
-          "title": "Raul Castro inculpé par les États-Unis, une “escalade majeure” dans l’offensive contre le régime cubain",
-          "description": "L’ex-président cubain est mis en cause dans la mort de trois Américains, abattus en vol en février 1996. La communauté cubaine de Miami a célébré une inculpation attendue depuis 30 ans.",
-          "url": "https://www.courrierinternational.com/article/justice-raul-castro-inculpe-par-les-etats-unis-une-escalade-majeure-dans-l-offensive-contre-le-regime-cubain_244252",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/20/0/0/5472/3648/1200/630/60/0/86c269c_ftp-1-7er9xst40tez-2026-05-20t181721z-615547553-rc25dlax00ai-rtrmadp-3-cuba-crisis-usa.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-21T03:55:06.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.557Z"
-        },
-        {
-          "id": "2026-05-21-c55ec2ff",
-          "title": "Moyen-Orient en direct : Washington lève les sanctions contre la rapporteure de l'ONU sur Gaza",
-          "description": "Les États-Unis ont levé mercredi les sanctions prises à l'encontre de Francesca Albanese, une experte de l'ONU spécialiste des territoires palestiniens ayant vivement critiqué Israël, suite à une décision de justice. L'Iran a annoncé mercredi soir examiner une nouvelle proposition de paix américaine via le médiateur pakistanais, Donald Trump avertissant que la situation était \"sur le fil\", entre un accord ou une reprise des hostilités. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260521-moyen-orient-en-direct-iran-donald-trump-gaza-liban-etats-unis",
-          "imageUrl": "https://s.france24.com/media/display/16a8fda4-0826-11f1-9aad-005056a97e36/w:1024/p:16x9/2026-02-06T110209Z-1834722381-RC2B6HAWHUOZ-RTRMADP-3-USA-TRUMP-RETRIBUTION-SANCTIONS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-21T02:42:16.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.250Z"
-        },
-        {
-          "id": "2026-05-21-c2bf8db7",
-          "title": "Groenland : l’émissaire de Donald Trump affirme qu’« il est temps que les Etats-Unis remettent leur empreinte » sur le territoire",
-          "description": "Jeff Landry, par ailleurs gouverneur républicain de Louisiane, s’est rendu dans le territoire autonome danois sans y être invité. Le président américain a répété à plusieurs reprises vouloir s’emparer de l’île de l’Arctique.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/21/groenland-l-emissaire-de-donald-trump-affirme-qu-il-est-temps-que-les-etats-unis-remettent-leur-empreinte-sur-le-territoire_6691801_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-21T02:06:45.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.231Z"
-        },
-        {
-          "id": "2026-05-21-9782bb42",
-          "title": "Assaut du Capitole : deux policiers portent plainte contre Donald Trump pour empêcher la création d’un fonds susceptible d’indemniser les émeutiers",
-          "description": "Harry Dunn et Daniel Hodges, mobilisés face aux insurgés le 6 janvier 2021, dénoncent « l’acte de corruption présidentielle le plus éhonté de ce siècle ». Doté de 1,776 milliard, ce fonds créé par l’administration Trump est censé « réparer » des injustices commises sous Joe Biden.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/21/assaut-du-capitole-deux-policiers-portent-plainte-contre-donald-trump-pour-empecher-la-creation-d-un-fonds-susceptible-d-indemniser-les-emeutiers_6691800_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-21T01:34:21.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.231Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-18",
-      "topic": "Les données sur la floraison des cerisiers au Japon ont un nouveau protecteur",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-21-879895da",
-          "title": "Les données sur la floraison des cerisiers au Japon ont un nouveau protecteur",
-          "description": "Mort en août 2025, le climatologue Yasuyuki Aono laissait orpheline une série chronologique remarquable compilant mille deux cents ans de données sur les cerisiers de l’ancienne capitale, Kyoto, dont la floraison de plus en plus précoce témoigne du dérèglement climatique. Son successeur vient d’être trouvé.",
-          "url": "https://www.courrierinternational.com/article/climat-les-donnees-sur-la-floraison-des-cerisiers-au-japon-ont-un-nouveau-protecteur_243198",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/30/0/0/8640/5760/1200/630/60/0/d5a32d7_upload-1-yk5x5k1xuugk-000-a63g2g4.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-21T03:00:07.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.557Z"
-        },
-        {
-          "id": "2026-05-21-df0ee062",
-          "title": "Ebola en RDC: 100 tonnes de matériel déployées dans l'est, l’OMS parle d’un risque régional «élevé»",
-          "description": "La riposte s’organise face à l’épidémie d’Ebola qui touche depuis plusieurs jours plusieurs zones de l’est de la RDC. L’épicentre se trouve en Ituri, à Bunia, et dans plusieurs centres de santé de cette province. À Kinshasa, un conseil des ministres extraordinaire a été convoqué ce mercredi 20 mai. Et dans les zones touchées, du matériel et des équipes sont déjà arrivés.",
-          "url": "https://www.rfi.fr/fr/afrique/20260521-ebola-en-rdc-100-tonnes-de-mat%C3%A9riel-d%C3%A9ploy%C3%A9es-dans-l-est-l-oms-parle-d-un-risque-r%C3%A9gional-%C3%A9lev%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/481e4bd2-549d-11f1-884f-005056a97e36/w:1024/p:16x9/AP26139621333997.jpg",
+          "id": "2026-05-22-75a8d055",
+          "title": "Réunion de l'Otan à Helsingborg: de nouvelles tensions entre l'Europe et les États-Unis",
+          "description": "Les ministres des Affaires étrangères des trente-deux pays de l’Alliance atlantique sont réunis ces jeudi 21 et vendredi 22 mai 2026 à Helsingborg dans le sud de la Suède. Cette réunion devait à l’origine être consacrée à la préparation du sommet de l’Otan début juillet en Turquie mais la guerre au Moyen-Orient s’invite en force et promet des débats tendus au vu des remarques de Marco Rubio, le ministre américain selon qui « les pays de l’Otan refusent de faire quoi que ce soit ». À leur refus de s’impliquer dans sa guerre contre l’Iran sont ensuite venus s’ajouter le refus espagnol de laisser les bombardiers de l’US Air Force en route pour le Moyen-Orient faire escale sur son sol puis les remarques du chancelier allemand affirmant que l’Iran humiliait les États-Unis.",
+          "url": "https://www.rfi.fr/fr/europe/20260522-r%C3%A9union-de-l-otan-%C3%A0-helsingborg-de-nouvelles-tension-entre-l-europe-et-les-%C3%A9tats-unis",
+          "imageUrl": "https://s.rfi.fr/media/display/a3e982ba-b4d9-11f0-931d-005056a97e36/w:1024/p:16x9/000-32F22KB.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-21T02:48:58.000Z",
-          "fetchedAt": "2026-05-21T05:03:07.982Z"
+          "publishedAt": "2026-05-22T04:42:38.000Z",
+          "fetchedAt": "2026-05-22T04:55:07.210Z"
         },
         {
-          "id": "2026-05-21-c54d4634",
-          "title": "À l’ONU, les États adoptent une résolution qui renforce leurs obligations climatiques",
-          "description": "Relégué derrière les guerres et le pétrole cher, le combat pour le climat progresse sur le terrain juridique. Portée par le Vanuatu, une résolution sur le devoir climatique des États a été adoptée mercredi 20 mai lors d’une assemblée générale de l’ONU. Les pays entérinent ainsi l’avis historique de la Cour internationale de justice de l’an dernier. Un petit exploit dans un contexte international chaotique.",
-          "url": "https://www.rfi.fr/fr/environnement/20260521-%C3%A0-l-onu-les-%C3%A9tats-adoptent-une-r%C3%A9solution-qui-renforce-leurs-obligations-climatiques",
-          "imageUrl": "https://s.rfi.fr/media/display/c691a86e-54b2-11f1-9276-005056a97e36/w:1024/p:16x9/ONU-5.png",
+          "id": "2026-05-21-e5975cd3",
+          "title": "L’arche monumentale voulue par Donald Trump validée par la commission des beaux-arts de Washington",
+          "description": "L’instance, dont le conseil d’administration a été entièrement remplacé par la Maison Blanche en 2025, a voté à l’unanimité pour la construction du monument de 76 mètres de haut, qui sera surmonté de grandes statues dorées.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/22/l-arche-monumentale-voulue-par-donald-trump-validee-par-la-commission-des-beaux-arts-de-washington_6691946_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-21T23:14:23.000Z",
+          "fetchedAt": "2026-05-22T04:54:50.684Z"
+        },
+        {
+          "id": "2026-05-21-0f7c84e1",
+          "title": "Trump repousse la signature d'un décret sur la régulation des entreprises de l'IA aux États-Unis",
+          "description": "Aux États-Unis, la signature d'un décret très attendu sur l'intelligence artificielle et la cybersécurité a été reportée au dernier moment, jeudi 21 mai. Le texte prévoyait une plus forte régulation des entreprises américaines dans le domaine. Mais Donald Trump a estimé que certaines mesures pourraient représenter un frein au développement et même donner un avantage à la Chine",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260521-trump-repousse-la-signature-d-un-d%C3%A9cret-sur-la-r%C3%A9gulation-des-entreprises-de-l-ia-aux-%C3%A9tats-unis",
+          "imageUrl": "https://s.rfi.fr/media/display/b5e834b4-50ee-11f1-90f6-005056a90284/w:1024/p:16x9/AP26135553186902.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-21T02:32:04.000Z",
-          "fetchedAt": "2026-05-21T05:03:07.982Z"
+          "publishedAt": "2026-05-21T22:40:50.000Z",
+          "fetchedAt": "2026-05-22T04:55:07.210Z"
         },
         {
-          "id": "2026-05-20-214b8ac8",
-          "title": "L’image d’un Antonov accidenté au Mali, détournée pour faire croire à une attaque des groupes armés",
-          "description": "Alors que fin avril, les militaires au pouvoir au Mali ont perdu le contrôle de plusieurs localités dans le nord du pays, les bombardements gouvernementaux et les attaques des groupes armés terroristes se poursuivent. Une guerre qui se joue aussi sur les réseaux sociaux, les protagonistes publiant communiqués et vidéos de propagande Des images parfois mensongères comme celles de cet avion en flammes dans le désert malien après une prétendue frappe du mouvement islamiste JNIM-FLA",
-          "url": "https://www.rfi.fr/fr/monde/20260520-l-image-d-un-antonov-accident%C3%A9-au-mali-d%C3%A9tourn%C3%A9e-pour-faire-croire-%C3%A0-une-attaque-des-groupes-arm%C3%A9s",
-          "imageUrl": "https://s.rfi.fr/media/display/0d65b8f8-5462-11f1-b4cc-005056bfb2b6/w:1024/p:16x9/108-1.png",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-20T16:55:19.000Z",
-          "fetchedAt": "2026-05-21T05:03:07.982Z"
-        },
-        {
-          "id": "2026-05-20-6e6361f7",
-          "title": "Variant Ebola : pas de vaccin avant deux mois selon l'OMS, accélaration des tests pour un vaccin",
-          "description": "L'OMS évoque un risque de contamination du virus Ebola \"élevé\" en Afrique centrale mais \"faible\" au niveau mondial. La souche en cause, Bundibugyo (BDBV), est l’une des six espèces d’ebolavirus dont il n’existe à ce jour aucun vaccin ni traitement spécifique homologué. Récit de Rebecca Martin.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260520-variant-ebola-pas-de-vaccin-avant-deux-mois-selon-l-oms-acc%C3%A9laration-des-tests-pour-un-vaccin",
-          "imageUrl": "https://s.france24.com/media/display/695a70ca-545a-11f1-8ff3-005056bfb2b6/w:1024/p:16x9/FR-20260520-161801-162000-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-20T15:14:17.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.250Z"
-        },
-        {
-          "id": "2026-05-20-0e4a88bd",
-          "title": "Crocodiles, reptiles volants et dinosaures : en Suède, un climat tropical à l'ère jurassique",
-          "description": "La paléontologue Vivi Vajda est parvenue à recréer en illustrations le climat de la Suède il y a 200 millions d'années. Reptiles géants, végétation dense et climat tropical : l'équipe a recréé tout un écosystème du Jurassique, à partir d'échantillons collectés dans le sud du pays.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260520-instant-positif-crocodiles-animaux-volants-dinosaures-suede-climat-tropical-jurassique",
-          "imageUrl": "https://s.france24.com/media/display/5ed15f00-5451-11f1-9765-005056bfb2b6/w:1024/p:16x9/000-33WP9CM.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-20T15:11:40.000Z",
-          "fetchedAt": "2026-05-21T05:02:59.250Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-30",
-      "topic": "Candidats LFI visés par une ingérence numérique étrangère : une « action judicia",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-20-0b9a0494",
-          "title": "Candidats LFI visés par une ingérence numérique étrangère : une « action judiciaire est engagée », annonce Laurent Nuñez",
-          "description": "Une opération d’ingérence numérique menée à partir d’Israël a visé trois candidats « insoumis » aux municipales : Sébastien Delogu à Marseille, François Piquemal à Toulouse et David Guiraud à Roubaix.",
-          "url": "https://www.lemonde.fr/politique/article/2026/05/20/ingerence-numerique-etrangere-une-action-judiciaire-est-engagee-apres-des-soupcons-visant-des-candidats-lfi-annonce-laurent-nunez_6691738_823448.html",
+          "id": "2026-05-21-bc09c90d",
+          "title": "Etats-Unis : Donald Trump lève des restrictions sur de puissants gaz à effet de serre",
+          "description": "Le président américain, climatosceptique revendiqué, a assuré que sa décision permettrait de faire baisser le coût de l’alimentation pour les Américains.",
+          "url": "https://www.lemonde.fr/planete/article/2026/05/21/etats-unis-donald-trump-leve-des-restrictions-sur-de-puissants-gaz-a-effet-de-serre_6691936_3244.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-20T14:06:50.000Z",
-          "fetchedAt": "2026-05-21T05:03:08.072Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-21T20:02:44.000Z",
+          "fetchedAt": "2026-05-22T04:54:50.684Z"
         },
         {
-          "id": "2026-05-20-56360769",
-          "title": "Mercedes lance une électrique de 1 169 ch avec un son de V8 et une fausse boîte de vitesses",
-          "description": "Mercedes a levé le voile sur sa nouvelle voiture électrique haute performance : l'AMG GT Coupé 4 Portes. Une puissance phénoménale de 1 169 ch, un faux bruit de V8 et une simulation de boîte de vitesses sous le capot. Le nouveau monstre d'Affalterbach veut séduire les plus férus de mécanique.",
-          "url": "https://www.numerama.com/vroom/2256949-mercedes-lance-une-electrique-de-1-169-ch-avec-un-son-de-v8-et-une-fausse-boite-de-vitesses.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/mercedes-amg-gt-coupe-electrique-5.jpg?resize=1600,900&key=a4fc3fc0&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-20T13:53:36.000Z",
-          "fetchedAt": "2026-05-21T05:03:08.051Z"
+          "id": "2026-05-21-c095a5cc",
+          "title": "“Bibi était furieux” : un appel entre Trump et Nétanyahou révèle des désaccords croissants sur l’Iran",
+          "description": "Le locataire de la Maison-Blanche et le Premier ministre israélien ont eu un entretien téléphonique long et “difficile” mardi 19 mai. Plusieurs médias américains évoquent un désaccord profond entre les deux alliés sur le dénouement de la guerre lancée à la fin de février contre l’Iran.",
+          "url": "https://www.courrierinternational.com/article/guerre-bibi-etait-furieux-un-appel-entre-trump-et-netanyahou-revele-des-desaccords-croissants-sur-l-iran_244271",
+          "imageUrl": "https://focus.courrierinternational.com/2026/03/19/0/0/3088/2059/1200/630/60/0/4ad41ef_ftp-1-nniskmxgic9h-2026-03-19t141525z-117379779-rc2zahan32ia-rtrmadp-3-iran-crisis-israel-usa.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-21T16:37:30.000Z",
+          "fetchedAt": "2026-05-22T04:54:51.290Z"
         },
         {
-          "id": "2026-05-20-09965857",
-          "title": "« Recourir à l’IA dans le traitement du contentieux des étrangers se ferait au détriment d’une véritable prise en considération des droits en jeu »",
-          "description": "Dans une tribune au « Monde », la doctorante en droit public Julia Castro John évoque les enjeux relatifs au lancement annoncé par l’exécutif d’Astrée, une intelligence artificielle conçue pour automatiser et optimiser le traitement des requêtes contentieuses des personnes étrangères.",
-          "url": "https://www.lemonde.fr/idees/article/2026/05/20/recourir-a-l-ia-dans-le-traitement-du-contentieux-des-etrangers-se-ferait-au-detriment-d-une-veritable-prise-en-consideration-des-droits-en-jeu_6691729_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-20T13:00:04.000Z",
-          "fetchedAt": "2026-05-21T05:03:08.072Z"
-        },
-        {
-          "id": "2026-05-20-e0f2ef2e",
-          "title": "Un RPG Le Seigneur des anneaux ultra prometteur vient d’être officialisé",
-          "description": "C’est l’officialisation que personne n'avait vue venir, et elle s'annonce déjà monumentale. Le studio tchèque Warhorse Studios vient de briser le silence sur X pour officialiser ses prochains projets. Au programme ? Une suite très attendue, mais surtout un RPG en monde ouvert ultra-réaliste ancré dans l'univers de la Terre du Milieu.",
-          "url": "https://www.numerama.com/pop-culture/2256867-un-rpg-le-seigneur-des-anneaux-ultra-prometteur-vient-detre-officialise.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/bu3miktklptaicuqdumrs2o5xu.jpg?resize=1600,900&key=ba92a0d6&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-20T09:45:09.000Z",
-          "fetchedAt": "2026-05-21T05:03:08.051Z"
-        },
-        {
-          "id": "2026-05-20-44c23bf1",
-          "title": "Grève historique chez Samsung : 50 000 salariés s’apprêtent à paralyser le monde de la tech",
-          "description": "La grève devrait bien avoir lieu chez Samsung en Corée du Sud, à partir du 21 mai 2026. Ce bras de fer social pourrait provoquer une perturbation globale, avec une paralysie possible de la production des puces essentielles au fonctionnement de l'intelligence artificielle.",
-          "url": "https://www.numerama.com/tech/2256703-la-greve-historique-chez-samsung-en-coree-du-sud-est-imminente-lindustrie-de-lia-retient-son-souffle.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/greve.jpg?resize=1600,900&key=3a74044b&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-20T09:11:30.000Z",
-          "fetchedAt": "2026-05-21T05:03:08.051Z"
-        },
-        {
-          "id": "2026-05-20-22064c51",
-          "title": "« C’est officiel » : le créateur de Rick et Morty confirme une excellente nouvelle pour les fans",
-          "description": "Wubba Lubba Dub Dub ! Alors que la saison 9 s'apprête à débarquer sur nos écrans, le co-créateur de la série, Dan Harmon, vient de lâcher une véritable bombe. Le film Rick et Morty, qui n'était jusqu'ici qu'une vieille rumeur persistante, est officiellement en développement. Mieux encore : il a trouvé le réalisateur parfait pour orchestrer ce chaos interdimensionnel sur grand écran.",
-          "url": "https://www.numerama.com/pop-culture/2256689-cest-officiel-le-createur-de-rick-et-morty-confirme-une-excellente-nouvelle-pour-les-fans.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2021/11/rickandmorty-1-jpg.jpg?resize=1600,900&key=27efbcb0&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-20T08:26:51.000Z",
-          "fetchedAt": "2026-05-21T05:03:08.051Z"
+          "id": "2026-05-21-62b5f67b",
+          "title": "Raúl Castro inculpé aux États-Unis, “une tentative ridicule de déprécier sa stature de héros”",
+          "description": "Les médias officiels cubains, au garde-à-vous et en rangs serrés, n’ont pas de mots assez durs pour qualifier la décision de la justice américaine d’inculper l’ancien président cubain, Raúl Castro. Le spectre d’une opération américaine, sur le modèle de celle réalisée au Venezuela, est dans toutes les têtes.",
+          "url": "https://www.courrierinternational.com/article/vu-de-cuba-raul-castro-inculpe-aux-etats-unis-une-tentative-ridicule-de-deprecier-sa-stature-de-heros_244277",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/20/0/0/2009/1339/1200/630/60/0/456a3a7_ftp-1-0u9sa714amk7-2026-05-20t153417z-129445058-rc2qjv9qruy3-rtrmadp-3-cuba-crisis-usa.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-21T15:45:59.000Z",
+          "fetchedAt": "2026-05-22T04:54:51.290Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Qu’est-ce qui fait un bon pompier, une infirmière de valeur ou un officier recon",
-      "category": "eco",
+      "topic": "Camille Yembe: «Jeune & Laide», un premier album pour réparer une jeunesse cabos",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-21-7e0cb2de",
-          "title": "Qu’est-ce qui fait un bon pompier, une infirmière de valeur ou un officier reconnu ?",
-          "description": "« Sociologie du travail et des professions » propose d’explorer les représentations que les travailleurs ont de leur propre métier, soulignant la pluralité des regards qui peuvent s’exprimer au sein d’une même corporation.",
-          "url": "https://www.lemonde.fr/emploi/article/2026/05/21/qu-est-ce-qui-fait-un-bon-pompier-une-infirmiere-de-valeur-ou-un-officier-reconnu_6691814_1698637.html",
+          "id": "2026-05-22-37bff23a",
+          "title": "Camille Yembe: «Jeune & Laide», un premier album pour réparer une jeunesse cabossée",
+          "description": "La jeune musicienne belge publie son premier album, Jeune & Laide, qui raconte son enfance cabossée, ses questionnements et sa folle envie de trouver sa place parmi les stars de la pop.",
+          "url": "https://www.rfi.fr/fr/musique/20260522-camille-yembe-jeune-laide-un-premier-album-pour-r%C3%A9parer-une-jeunesse-caboss%C3%A9e",
+          "imageUrl": "https://s.rfi.fr/media/display/800f3706-5513-11f1-8b30-005056a97e36/w:1024/p:16x9/camille-yembe.jpeg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-22T04:30:13.000Z",
+          "fetchedAt": "2026-05-22T04:55:07.210Z"
+        },
+        {
+          "id": "2026-05-22-4d67b54d",
+          "title": "A Los Angeles, des spots politiques conçus grâce à une IA déstabilisent la campagne municipale",
+          "description": "Ancienne star de la téléréalité, Spencer Pratt, républicain revendiqué et candidat à l’élection, diffuse des vidéos alliant populisme et science fiction pour s’en prendre à la maire sortante, Karen Bass, et à d’autres figures démocrates.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/22/a-los-angeles-des-spots-politiques-concus-grace-a-une-ia-destabilisent-la-campagne-municipale_6692154_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-22T03:43:38.000Z",
+          "fetchedAt": "2026-05-22T04:54:50.684Z"
+        },
+        {
+          "id": "2026-05-22-3c3353c8",
+          "title": "À Gaza, la crainte que le cessez-le-feu fragile et la survie deviennent une situation pérenne",
+          "description": "Au moins six Palestiniens ont été tués, jeudi 21 mai, lors d'assauts distincts de l'armée israélienne dans plusieurs localités de l'enclave palestinienne sous blocus, massacrée par plus de deux ans d'attaques. Sur place, on craint que le cessez-le-feu, pas vraiment respecté depuis son entrée en vigueur il y a plus de sept mois, se transforme en un statu quo dans lequel les populations parviennent à peine à survivre.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260522-%C3%A0-gaza-la-crainte-que-le-cessez-le-feu-fragile-et-la-survie-deviennent-une-situation-p%C3%A9renne",
+          "imageUrl": "https://s.rfi.fr/media/display/44d5a3d0-555b-11f1-bed3-005056bfb2b6/w:1024/p:16x9/AP26139258856973.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-22T03:26:56.000Z",
+          "fetchedAt": "2026-05-22T04:55:07.210Z"
+        },
+        {
+          "id": "2026-05-22-2c05e98d",
+          "title": "Mozambique: nourrir sa famille, le défi quotidien des communautés déplacées du Cabo Delgado",
+          "description": "Plus de 1 500 personnes se sont déplacées depuis le début du mois au Cabo Delgado, dans le nord du Mozambique, selon l’Observatoire international des migrations. Elles fuient les attaques des shebabs, groupe terroriste affilié à l’État islamique. Selon l’ONG Acled, qui fait une veille des conflits dans le monde, plus de 15 incidents violents ont eu lieu ces deux dernières semaines. Les déplacés vivent dans des conditions très précaires.",
+          "url": "https://www.rfi.fr/fr/afrique/20260522-mozambique-nourrir-sa-famille-le-d%C3%A9fi-quotidien-des-communaut%C3%A9s-d%C3%A9plac%C3%A9es-du-cabo-delgado",
+          "imageUrl": "https://s.rfi.fr/media/display/79bad78c-5588-11f1-93ac-005056a90284/w:1024/p:16x9/AP21222575709939.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-22T03:23:02.000Z",
+          "fetchedAt": "2026-05-22T04:55:07.210Z"
+        },
+        {
+          "id": "2026-05-22-27e27499",
+          "title": "Tanzanie: un membre du parti d'opposition Chadema échappe miraculeusement à une tentative d'enlèvement",
+          "description": "Assistant personnel de Tundu Lissu, le leader du parti d'opposition Chadema lui-même emprisonné depuis plus d’un an, David Djumbe est parvenu à fausser compagnie à un groupe d'hommes armés qui a tenté de le kidnapper alors qu'il rentrait chez lui dans la soirée du mercredi 20 mai.",
+          "url": "https://www.rfi.fr/fr/afrique/20260522-tanzanie-un-membre-du-parti-d-opposition-chadema-%C3%A9chappe-miraculeusement-%C3%A0-une-tentative-d-enl%C3%A8vement",
+          "imageUrl": "https://s.rfi.fr/media/display/56018772-0fc2-11ea-a040-005056a99247/w:1024/p:16x9/dar_es_salam_0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-22T03:08:13.000Z",
+          "fetchedAt": "2026-05-22T04:55:07.210Z"
+        },
+        {
+          "id": "2026-05-22-27c74fe6",
+          "title": "Centrafrique: le président Faustin-Archange Touadéra nomme un nouveau gouvernement",
+          "description": "Bien que la proclamation des résultats définitifs du second tour des élections législatives n'ait toujours pas eu lieu en Centrafrique, le chef de l'État a annoncé la composition de sa nouvelle équipe gouvernementale, jeudi 21 mai. Forte de 29 membres, elle ne compte que 10 nouveaux ministres.",
+          "url": "https://www.rfi.fr/fr/afrique/20260522-centrafrique-le-pr%C3%A9sident-faustin-archange-touad%C3%A9ra-nomme-un-nouveau-gouvernement",
+          "imageUrl": "https://s.rfi.fr/media/display/8da5a53c-e44b-11eb-ac24-005056bf30b7/w:1024/p:16x9/touad%C3%A9ra.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-22T03:07:01.000Z",
+          "fetchedAt": "2026-05-22T04:55:07.210Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-18",
+      "topic": "Emmanuel Macron esquisse la possibilité de « réparations » de l’esclavage, vingt",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-22-0c160639",
+          "title": "Emmanuel Macron esquisse la possibilité de « réparations » de l’esclavage, vingt-cinq ans après la loi Taubira",
+          "description": "A un an de la fin de son mandat, le chef de l’Etat ouvre un nouveau chapitre du travail mémoriel français en évoquant, pour la première fois, la question des « réparations » liées à la traite transatlantique.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/05/22/emmanuel-macron-esquisse-la-possibilite-de-reparations-de-l-esclavage-vingt-cinq-ans-apres-la-loi-taubira_6692047_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-22T03:00:11.000Z",
+          "fetchedAt": "2026-05-22T04:54:50.684Z"
+        },
+        {
+          "id": "2026-05-21-16f9d535",
+          "title": "Esclavage : Macron soutient l'abrogation du Code noir et évoque la question des \"réparations\"",
+          "description": "Le président français a soutenu jeudi l’abrogation symbolique du Code noir, estimant que son maintien constituait \"une forme d'offense\" à la République. À l'occasion du 25e anniversaire de la loi reconnaissant la traite et l'esclavage comme crime un contre l'humanité, Emmanuel Macron a aussi jugé que la question des réparations ne devait pas être éludée, mais que sa \"réflexion\" et ses \"décisions\" sur le sujet étaient \"encore inachevées\".",
+          "url": "https://www.france24.com/fr/france/20260521-esclavage-macron-soutient-l-abrogation-du-code-noir-et-%C3%A9voque-la-question-des-r%C3%A9parations-taubira",
+          "imageUrl": "https://s.france24.com/media/display/c5da0086-554f-11f1-aeaf-005056bfb2b6/w:1024/p:16x9/AP26141624604131.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-21T20:24:30.000Z",
+          "fetchedAt": "2026-05-22T04:54:50.727Z"
+        },
+        {
+          "id": "2026-05-21-3f8962ff",
+          "title": "Emmanuel Macron soutient l’abrogation du Code noir et évoque sa réflexion, « inachevée », sur d’éventuelles réparations",
+          "description": "A l’occasion du 25ᵉ anniversaire de la loi Taubira, qui reconnaît la traite et l’esclavage comme crime contre l’humanité, le président de la République a soutenu l’abrogation symbolique du texte juridique encadrant l’esclavage aux XVIIᵉ et XVIIIᵉ siècles.",
+          "url": "https://www.lemonde.fr/societe/article/2026/05/21/emmanuel-macron-soutient-l-abrogation-du-code-noir-et-evoque-sa-reflexion-inachevee-sur-d-eventuelles-reparations_6691932_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-21T19:23:09.000Z",
+          "fetchedAt": "2026-05-22T04:54:50.684Z"
+        },
+        {
+          "id": "2026-05-21-694539bc",
+          "title": "Consigner les bouteilles en plastique: la France cherche à réduire ses déchets",
+          "description": "Le Président Emmanuel Macron a relancé l'idée de la consigne pour les bouteilles en plastique. La France paye chaque année 1,5 milliard d'euros de pénalités à l'Union Européenne parce qu'elle n'atteint pas les taux de recyclage requis. Il y a donc une urgence économique et environnementale à améliorer le recyclage dans le pays. Les Français sont parmi les plus gros consommateurs de plastique en Europe.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260521-consigner-les-bouteilles-en-plastique-la-france-cherche-%C3%A0-r%C3%A9duire-ses-d%C3%A9chets",
+          "imageUrl": "https://s.france24.com/media/display/98d0897a-552c-11f1-a17c-005056a97e36/w:1024/p:16x9/capture-9026313646a0f296f580fd4-10545912.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-21T15:57:42.000Z",
+          "fetchedAt": "2026-05-22T04:54:50.727Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-40",
+      "topic": "Un cadre sur deux utilise l’IA au travail une fois par semaine",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-21-853d9c6f",
+          "title": "Un cadre sur deux utilise l’IA au travail une fois par semaine",
+          "description": "L’intelligence artificielle sert majoritairement à chercher des idées ou à alimenter des réflexions, à rédiger des rapports ou documents écrits, ou à obtenir une analyse sur un problème spécifique, explique, dans sa chronique, le journaliste du « Monde » Jules Thomas",
+          "url": "https://www.lemonde.fr/emploi/article/2026/05/21/un-cadre-sur-deux-utilise-l-ia-au-travail-une-fois-par-semaine_6691864_1698637.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-21T10:00:10.000Z",
+          "fetchedAt": "2026-05-22T04:55:06.501Z"
+        },
+        {
+          "id": "2026-05-21-403d851f",
+          "title": "The Witcher a failli être un jeu multijoueur",
+          "description": "CD Projekt Red a raconté une anecdote sur le premier The Witcher. À l'époque de son développement, le studio polonais avait envisagé un mode multijoueur. Comme pour un certain Cyberpunk 2077.",
+          "url": "https://www.numerama.com/pop-culture/2257455-the-witcher-a-failli-etre-un-jeu-multijoueur.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2023/11/the-witcher.jpg?resize=1600,900&key=b4cd0512&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-21T09:40:58.000Z",
+          "fetchedAt": "2026-05-22T04:55:06.643Z"
+        },
+        {
+          "id": "2026-05-21-5c8dea13",
+          "title": "« Aucune hésitation » : une IA d’OpenAI a terrassé un problème de géométrie vieux de 80 ans",
+          "description": "Le 20 mai 2026, OpenAI a affirmé qu’un de ses modèles d’IA avait contribué à réfuter une conjecture mathématique formulée par Paul Erdős en 1946. Le problème consiste à déterminer combien de paires de points peuvent être placées exactement à distance 1 dans un plan.",
+          "url": "https://www.numerama.com/tech/2257419-aucune-hesitation-une-ia-dopenai-a-terrasse-un-probleme-de-geometrie-vieux-de-80-ans.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/1-27.jpg?resize=1600,900&key=17f28304&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-21T08:35:45.000Z",
+          "fetchedAt": "2026-05-22T04:55:06.643Z"
+        },
+        {
+          "id": "2026-05-21-027bbfd0",
+          "title": "« J’étais seul dans ma chambre et j’ai dérapé » : le parcours d’« HexDex », jeune maraîcher vendéen devenu hackeur « pour faire le buzz »",
+          "description": "« Données personnelles, la grande fuite » (6/9). Le 23 avril, Faouzi C., 21 ans, a été mis en examen et placé en détention provisoire à l’issue d’une enquête de cinq mois. Le jeune homme, qui dit s’être inventé un « personnage », est soupçonné d’avoir dérobé les bases de données de plus 90 organismes publics et privés.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/05/21/j-etais-seul-dans-ma-chambre-et-j-ai-derape-la-derive-du-hackeur-hexdex-jeune-maraicher-vendeen-en-quete-de-reconnaissance_6691824_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-21T04:30:01.000Z",
+          "fetchedAt": "2026-05-22T04:55:06.501Z"
+        },
+        {
+          "id": "2026-05-21-39f5b0c8",
+          "title": "Arnaques téléphoniques : radioscopie d’un fléau social",
+          "description": "Alors qu’un nombre record de fuites de données a marqué l’année 2025, les réseaux cybercriminels multiplient les techniques d’escroqueries. Dans ce podcast, décryptage de ce phénomène de société à l’aide de témoignages et de l’analyse de deux journalistes au service Pixels du « Monde », Florian Reynaud et Martin Untersinger.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/05/21/arnaques-telephoniques-radioscopie-d-un-fleau-social_6691805_5463015.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-21T03:00:02.000Z",
+          "fetchedAt": "2026-05-22T04:55:06.501Z"
+        },
+        {
+          "id": "2026-05-20-ee83da64",
+          "title": "Course à la Lune : l’ESA tape du poing sur la table face au déclin européen",
+          "description": "Lunar Gateway suspendu, Mars Sample Return sabré... Face aux choix unilatéraux des États-Unis, le directeur général de l’ESA tire la sonnette d’alarme. Pour Josef Aschbacher, l'Europe doit d’urgence s’unir pour financer son autonomie spatiale avant d'être définitivement reléguée au rang de simple passagère de l'Histoire.",
+          "url": "https://www.numerama.com/sciences/2256031-course-a-la-lune-lesa-tape-du-poing-sur-la-table-face-au-declin-europeen.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/07/ariane-6.jpg?resize=1600,900&key=490192dc&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-20T15:35:04.000Z",
+          "fetchedAt": "2026-05-22T04:55:06.643Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Prix des carburants : Sébastien Lecornu amplifie les aides sans s’avancer sur le",
+      "category": "eco",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-05-22-33ac6c40",
+          "title": "Prix des carburants : Sébastien Lecornu amplifie les aides sans s’avancer sur leur financement",
+          "description": "Le premier ministre a annoncé jeudi la prolongation et l’élargissement des mesures déjà annoncées. Le coût du plan pourrait atteindre 1,2 milliard à 1,7 milliard d’euros sur l’année. Rien n’est dit sur les économies nécessaires.",
+          "url": "https://www.lemonde.fr/politique/article/2026/05/22/prix-des-carburants-sebastien-lecornu-amplifie-les-aides-sans-s-avancer-sur-leur-financement_6692120_823448.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-05-21T04:00:06.000Z",
-          "fetchedAt": "2026-05-21T05:03:14.668Z"
-        },
-        {
-          "id": "2026-05-21-a89e6a35",
-          "title": "L’ex-journaliste de Canal+ Jean-Baptiste Rivoire condamné à verser 142 500 euros à son ancien employeur pour avoir critiqué sa politique dans un documentaire",
-          "description": "Il est reproché au journaliste d’investigation d’avoir violé sa clause de confidentialité en 2021, quelques mois après son départ du groupe audiovisuel détenu par Vincent Bolloré.",
-          "url": "https://www.lemonde.fr/actualite-medias/article/2026/05/21/l-ex-journaliste-de-canal-jean-baptiste-rivoire-condamne-a-verser-142-500-euros-a-son-ancien-employeur-pour-avoir-critique-sa-politique-dans-un-documentaire_6691802_3236.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-21T02:58:39.000Z",
-          "fetchedAt": "2026-05-21T05:03:14.668Z"
-        },
-        {
-          "id": "2026-05-20-a326f714",
-          "title": "Au G7, les Etats-Unis font tout pour ne pas faire apparaître les mots « changement climatique » dans le communiqué",
-          "description": "La France a commandé une étude sur conséquences économiques des « événements météorologiques extrêmes » au réseau des banques centrales travaillant sur les conséquences du réchauffement climatique, dont la Réserve fédérale américaine s’est retirée.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/20/au-g7-les-etats-unis-font-tout-pour-ne-pas-faire-apparaitre-le-mot-changement-climatique-dans-le-communique_6691733_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-20T13:33:21.000Z",
-          "fetchedAt": "2026-05-21T05:03:14.668Z"
-        },
-        {
-          "id": "2026-05-20-7e086fb6",
-          "title": "Fuel duty freeze extended until the end of the year",
-          "description": "Fuel duty was initially cut by 5p in March 2022, under the Conservative government.",
-          "url": "https://www.bbc.com/news/articles/c3021md6jq6o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e674/live/b3af4460-5479-11f1-b682-cf91850925ea.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-05-20T13:21:45.000Z",
-          "fetchedAt": "2026-05-21T05:03:17.326Z"
-        },
-        {
-          "id": "2026-05-20-7a78c0cf",
-          "title": "Droits de douane : les Européens valident l’accord avec les Etats-Unis et posent des garde-fous",
-          "description": "Le Parlement européen et les 27 Etats membres sont parvenus à un accord, mercredi 20 mai au matin, dont ils espèrent qu’il évitera une escalade avec Donald Trump. La plupart des importations américaines ne seront pas taxées.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/20/droits-de-douane-les-europeens-valident-l-accord-avec-washington-et-posent-des-garde-fous_6691718_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-20T11:05:23.000Z",
-          "fetchedAt": "2026-05-21T05:03:14.668Z"
+          "publishedAt": "2026-05-22T03:34:23.000Z",
+          "fetchedAt": "2026-05-22T04:55:17.012Z"
         }
       ]
     }
