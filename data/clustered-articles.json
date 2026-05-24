@@ -1,242 +1,286 @@
 {
-  "generatedAt": "2026-05-23T04:36:14.413Z",
+  "generatedAt": "2026-05-24T05:00:49.169Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Tanzanie: Washington sanctionne un haut policier accusé de torture et de violenc",
+      "id": "cluster-2",
+      "topic": "Les Etats-Unis et l’Iran disent avancer sur un accord de paix permettant notamme",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-23-39732e7f",
-          "title": "Tanzanie: Washington sanctionne un haut policier accusé de torture et de violences sexuelles",
-          "description": "Les États-Unis ont sanctionné, jeudi 21 mai, le haut responsable policier tanzanien Faustine Jackson Mafwele, accusé d’être impliqué dans de graves violations des droits humains contre deux militants est-africains arrêtés il y a un an à Dar es Salaam.",
-          "url": "https://www.rfi.fr/fr/afrique/20260523-tanzanie-washington-sanctionne-un-haut-policier-accus%C3%A9-de-torture-et-de-violences-sexuelles",
-          "imageUrl": "https://s.rfi.fr/media/display/a033ac70-9051-11ef-a4dd-005056bf30b7/w:1024/p:16x9/2024-10-20T140047Z_1576146266_RC296AAQMCD6_RTRMADP_3_TANZANIA-POLITICS.JPG",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-23T04:21:17.000Z",
-          "fetchedAt": "2026-05-23T04:32:24.141Z"
-        },
-        {
-          "id": "2026-05-23-c80b8fc3",
-          "title": "Un juge américain met fin aux poursuites contre Kilmar Abrego Garcia, devenu symbole des expulsions de l’administration Trump",
-          "description": "Le juge fédéral a estimé que les poursuites engagées par les procureurs fédéraux à l’encontre de cet habitant du Maryland constituent « un abus des pouvoirs » du parquet.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/23/un-juge-americain-met-fin-aux-poursuites-contre-kilmar-abrego-garcia-devenu-symbole-des-expulsions-de-l-administration-trump_6692623_3210.html",
+          "id": "2026-05-24-bb76ae84",
+          "title": "Les Etats-Unis et l’Iran disent avancer sur un accord de paix permettant notamment la réouverture du détroit d’Ormuz",
+          "description": "Donald Trump a évoqué un compromis « largement négocié » qui prévoirait un assouplissement des sanctions pesant sur Téhéran, mais laisserait pour l’heure le dossier nucléaire de côté.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/24/les-etats-unis-et-l-iran-disent-avancer-sur-un-accord-de-paix-permettant-notamment-la-reouverture-du-detroit-d-ormuz_6693200_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-23T03:25:14.000Z",
-          "fetchedAt": "2026-05-23T04:32:13.708Z"
+          "publishedAt": "2026-05-24T04:39:51.000Z",
+          "fetchedAt": "2026-05-24T04:56:48.687Z"
         },
         {
-          "id": "2026-05-23-c687de61",
-          "title": "Californie : 40 000 personnes évacuées près de Los Angeles après une fuite chimique menaçant d’explosion et de pollution",
-          "description": "Une citerne de 26 000 litres de méthacrylate de méthyle, un produit inflammable utilisé pour la fabrication du plastique, présente une fuite dans une localité du comté d’Orange.",
-          "url": "https://www.lemonde.fr/planete/article/2026/05/23/californie-40-000-personnes-evacuees-pres-de-los-angeles-apres-une-fuite-chimique-menacant-d-explosion-et-de-pollution_6692521_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-23T01:34:05.000Z",
-          "fetchedAt": "2026-05-23T04:32:13.708Z"
-        },
-        {
-          "id": "2026-05-22-7789364b",
-          "title": "Politique migratoire : l’administration Trump annonce imposer aux candidats à la « carte verte » de retourner dans leur pays d’origine pour en faire la demande",
-          "description": "Il est actuellement possible pour certains détenteurs de visas, déjà présents sur le territoire américain, de faire des démarches sur place. La réforme affecterait des centaines de milliers de demandeurs.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/23/carte-verte-l-administration-trump-annonce-imposer-aux-candidats-de-retourner-dans-leur-pays-d-origine-pour-deposer-leur-demande_6692389_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-22T23:20:02.000Z",
-          "fetchedAt": "2026-05-23T04:32:13.708Z"
-        },
-        {
-          "id": "2026-05-22-162d7d10",
-          "title": "Angélique Kidjo : « HOPE », l’album de l’espoir et d’une Afrique créative",
-          "description": "Icône mondiale de la musique africaine, Angélique Kidjo est l’invitée exceptionnelle du Journal de l’Afrique sur France 24. La chanteuse béninoise revient sur HOPE, son nouvel album, une œuvre portée par les thèmes de l’espoir, de la transmission et des grands défis du monde contemporain. Dans cet entretien avec Fatimata Wane, elle évoque également sa tournée internationale, l’évolution de la scène musicale africaine et la place des artistes engagés aujourd’hui.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260522-ang%C3%A9lique-kidjo-hope-l-album-de-l-espoir-et-d-une-afrique-cr%C3%A9ative",
-          "imageUrl": "https://s.france24.com/media/display/551e5bb0-561e-11f1-8dac-005056bfb2b6/w:1024/p:16x9/FR-20260522-215040-215912-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-22T21:02:41.000Z",
-          "fetchedAt": "2026-05-23T04:32:13.840Z"
-        },
-        {
-          "id": "2026-05-22-6a5cd12b",
-          "title": "États-Unis: démission de la cheffe du renseignement Tulsi Gabbard, nouveau départ dans l'administration Trump",
-          "description": "La cheffe du renseignement américain Tulsi Gabbard, est devenue, vendredi 22 mai 2026, la dernière ministre en date à quitter le gouvernement Trump. Elle a démissionné en avançant des raisons personnelles. La presse la disait fragilisée en raison de propos récents sur l'Iran.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260522-%C3%A9tats-unis-d%C3%A9mission-de-la-cheffe-du-renseignement-tulsi-gabbard-nouveau-d%C3%A9part-dans-l-administration-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/65ee3dfe-5617-11f1-a5ab-005056a90284/w:1024/p:16x9/AP26092056159463.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-22T20:12:24.000Z",
-          "fetchedAt": "2026-05-23T04:32:24.141Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormit",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-23-2d821915",
-          "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-          "description": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
-          "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-23T04:05:03.000Z",
-          "fetchedAt": "2026-05-23T04:32:24.016Z"
-        },
-        {
-          "id": "2026-05-22-47c68197",
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que Kiev a repris 590 kilomètres carrés et que « la tendance n’est clairement pas en faveur » de Moscou",
-          "description": "Selon le chef de l’Etat ukrainien, son armée poursuit ses frappes à longue portée contre les infrastructures énergétiques russes. Il affirme qu’une raffinerie située à Iaroslavl, à environ 700 kilomètres de la frontière ukrainienne, avait été visée au cours des dernières vingt-quatre heures.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/22/en-direct-guerre-en-ukraine-la-russie-accuse-kiev-d-avoir-bombarde-un-college-dans-l-oblast-de-louhansk-l-armee-ukrainienne-dement-avoir-cible-des-civils_6690053_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-22T18:13:49.000Z",
-          "fetchedAt": "2026-05-23T04:32:13.708Z"
-        },
-        {
-          "id": "2026-05-22-48b3ef4a",
-          "title": "Au moins six morts dans une frappe ukrainienne sur un lycée en territoire occupé par la Russie",
-          "description": "Au moins six personnes ont été tuées, des dizaines d'autres blessées et 15 sont portées disparues après une frappe de drones ukrainiens, vendredi 22 mai 2026 sur un lycée dans la région de Lougansk, occupée par la Russie dans l'est de l'Ukraine. Les autorités russes, qui ont rapporté l'attaque, ont dénoncé un « crime monstrueux ».",
-          "url": "https://www.rfi.fr/fr/europe/20260522-au-moins-six-morts-dans-une-frappe-ukrainienne-sur-un-lyc%C3%A9e-en-territoire-occup%C3%A9-par-la-russie",
-          "imageUrl": "https://s.rfi.fr/media/display/7f6a613e-55f6-11f1-8369-005056bfb2b6/w:1024/p:16x9/AP26142371631181.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-22T17:13:26.000Z",
-          "fetchedAt": "2026-05-23T04:32:24.141Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "Sénégal, carte verte, Tulsi Gabbard, accord UE-Mexique et hantavirus : les infor",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-23-6cebb070",
-          "title": "Sénégal, carte verte, Tulsi Gabbard, accord UE-Mexique et hantavirus : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-senegal-carte-verte-tulsi-gabbard-accord-ue-mexique-et-hantavirus-les-informations-de-la-nuit_244344",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/22/0/0/3423/2282/1200/630/60/0/589a379_ftp-1-l2ru0s49kscs-afp-b3t666c.jpg",
+          "id": "2026-05-24-49232139",
+          "title": "Trump assure qu’un accord avec l’Iran est en voie de “finalisation\"",
+          "description": "Donald Trump a assuré samedi soir qu’un accord pour mettre fin à la guerre entre les États-Unis et l’Iran avait été “largement négocié” et était en voie de “finalisation”. Selon le président américain, l’accord prévoirait notamment la réouverture du détroit d’Ormuz – une affirmation rapidement démentie par Téhéran.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-trump-assure-qu-un-accord-avec-l-iran-est-en-voie-de-finalisation_244349",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/23/3/0/2560/1706/1200/630/60/0/90e5985_ftp-1-pmn4dtood7wf-afp-b3v93wf.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-23T03:56:15.000Z",
-          "fetchedAt": "2026-05-23T04:32:13.906Z"
+          "publishedAt": "2026-05-24T04:13:44.000Z",
+          "fetchedAt": "2026-05-24T04:56:49.149Z"
         },
         {
-          "id": "2026-05-22-28afbbbe",
-          "title": "Droits de douane : l’Union européenne et le Mexique signent un accord commercial réduisant leurs taxes réciproques",
-          "description": "L’accord signé par Claudia Sheinbaum et Ursula von der Leyen porte sur de nombreux produits agroalimentaires et facilitera également le commerce des pièces automobiles.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/22/droits-de-douane-l-union-europeenne-et-le-mexique-signent-un-accord-commercial-reduisant-leurs-taxes-reciproques_6692351_3234.html",
+          "id": "2026-05-24-602da359",
+          "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+          "description": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+          "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-24T01:18:31.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.799Z"
+        },
+        {
+          "id": "2026-05-23-134b1103",
+          "title": "EN DIRECT, guerre au Moyen-Orient : un projet d’accord avec l’Iran incluant la réouverture du détroit d’Ormuz « a été largement négocié », affirme Donald Trump",
+          "description": "« Les derniers aspects et détails de l’accord sont actuellement en discussion et seront annoncés prochainement », a écrit le président américain sur son Truth Social, à la suite d’échanges téléphoniques avec des dirigeants de pays du Golfe, notamment.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/24/en-direct-guerre-au-moyen-orient-un-projet-d-accord-avec-l-iran-incluant-la-reouverture-du-detroit-d-ormuz-a-ete-largement-negocie-affirme-donald-trump_6691823_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-22T21:41:35.000Z",
-          "fetchedAt": "2026-05-23T04:32:13.708Z"
+          "publishedAt": "2026-05-23T23:38:06.000Z",
+          "fetchedAt": "2026-05-24T04:56:48.687Z"
+        },
+        {
+          "id": "2026-05-23-61d65e3b",
+          "title": "Une fusillade éclate près de la Maison Blanche : le suspect tué, un passant blessé",
+          "description": "Un homme a ouvert le feu, samedi en début de soirée, sur des agents devant la Maison Blanche où se trouvait Donald Trump. Le suspect est mort après avoir été touché par balles par le Secret Service, l’agence de sécurité présidentielle.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/24/des-coups-de-feu-tires-pres-de-la-maison-blanche-a-washington_6692854_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-23T23:33:36.000Z",
+          "fetchedAt": "2026-05-24T04:56:48.687Z"
+        },
+        {
+          "id": "2026-05-23-5d605541",
+          "title": "Donald Trump et l'Iran font état d'une percée dans les négociations sur la fin de la guerre",
+          "description": "Donald ⁠Trump a révélé samedi que les négociateurs américains et iraniens se rapprochaient \"grandement\" de la ⁠finalisation d'un accord visant ​à mettre fin au conflit, tandis que Téhéran a révélé que la République islamique était en \"phase de finalisation\" d'un protocole d'accord avec Washington en vue de cesser les hostilités.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260523-les-%C3%A9tats-unis-et-l-iran-font-%C3%A9tat-d-une-perc%C3%A9e-dans-leurs-n%C3%A9gociations-sur-la-fin-de-la-guerre",
+          "imageUrl": "https://s.france24.com/media/display/d10bdca0-56d9-11f1-84be-005056bfb2b6/w:1024/p:16x9/AP26143383264946.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-23T17:09:15.000Z",
+          "fetchedAt": "2026-05-24T04:56:48.709Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "EN DIRECT, guerre en Ukraine : Kiev à nouveau visée par une « attaque massive » ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-24-7a968696",
+          "title": "EN DIRECT, guerre en Ukraine : Kiev à nouveau visée par une « attaque massive » russe dans la nuit de samedi à dimanche",
+          "description": "Une personne a été tuée et au moins treize autres blessées, selon le maire de la capitale Vitali Klitschko. Une école a été touchée dans le quartier de Chevtchenkivsky, et une frappe « à proximité » d’un autre établissement scolaire a entraîné le blocage, par des débris, de l’entrée d’un abri où sont réfugiés des habitants.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/24/en-direct-guerre-en-ukraine-kiev-a-nouveau-visee-par-une-attaque-massive-russe-dans-la-nuit-de-samedi-a-dimanche_6693162_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-24T04:14:57.000Z",
+          "fetchedAt": "2026-05-24T04:56:48.687Z"
+        },
+        {
+          "id": "2026-05-24-838b803e",
+          "title": "Le temps d'un immense concert, un rappeur biélorusse rassemble les russophones d'Europe à Bucarest",
+          "description": "L'Arène nationale, le plus grand stade de Roumanie, a accueilli 42 000 spectateurs, samedi 23 mai, à l'occasion d'un concert du rappeur biélorusse Max Korzh âgé de 37 ans. Si celui-ci est inconnu des Roumains, des milliers de russophones se sont en revanche pressés dans la capitale roumaine depuis les quatre coins de l’Europe pour l'écouter. Le chanteur refuse de se produire en Russie et dans son propre pays depuis l'invasion de l'Ukraine, en 2022.",
+          "url": "https://www.rfi.fr/fr/europe/20260524-le-temps-d-un-immense-concert-un-rappeur-bi%C3%A9lorusse-rassemble-les-russophones-d-europe-%C3%A0-bucarest",
+          "imageUrl": "https://s.rfi.fr/media/display/2c3f6af6-56f8-11f1-bdc4-005056a97e36/w:1024/p:16x9/ROUMANIE-STADE-BUCAREST-NATIONAL-ARENA.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-24T02:51:49.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.455Z"
+        },
+        {
+          "id": "2026-05-24-58972bae",
+          "title": "Ukraine: au moins un mort dans d'intenses bombardements russes sur la capitale, Kiev",
+          "description": "La capitale ukrainienne a été violemment bombardée par l'armée russe dans la nuit du samedi 23 au dimanche 24 mai. Quelques heures auparavant, le président ukrainien Volodymyr Zelensky et l'ambassade des États-Unis à Kiev s'étaient inquiétés de la possibilité d'une attaque russe imminente et de grande ampleur tandis que Vladimir Poutine avait promis une réponse militaire à la frappe de drones ukrainiens sur des bâtiments éducatifs de la région de Lougansk occupée par Moscou, dans la nuit du jeudi 21 au vendredi 22 mai.",
+          "url": "https://www.rfi.fr/fr/europe/20260524-ukraine-attaque-de-missiles-massive-sur-kiev-une-%C3%A9cole-touch%C3%A9e-par-les-bombardements",
+          "imageUrl": "https://s.rfi.fr/media/display/59504a56-571b-11f1-82dc-005056bf30b7/w:1024/p:16x9/2026-05-24T004338Z-1433988545-RC2CFLAQAUJB-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-24T02:51:23.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.455Z"
+        },
+        {
+          "id": "2026-05-24-6ad3b019",
+          "title": "Ukraine : la capitale Kiev touchée par d'intenses bombardements russes",
+          "description": "L'armée ukrainienne a annoncé dans la nuit de samedi à dimanche que la capitale faisait l'objet \"d'une attaque massive de missiles ennemis\". Selon le maire de Kiev, une école a été touchée dans le quartier de Shevchenkivsky. Le premier bilan est d'au moins un mort. Samedi, le président ukrainien Volodymyr Zelensky et l'ambassade des États-Unis à Kiev s'étaient inquiétés de la possibilité d'une frappe russe imminente contre le pays.",
+          "url": "https://www.france24.com/fr/europe/20260524-ukraine-la-capitale-kiev-touch%C3%A9e-par-d-intenses-bombardements-russes",
+          "imageUrl": "https://s.france24.com/media/display/ea52e842-5711-11f1-8c4b-005056bf30b7/w:1024/p:16x9/82b5d53d715eec07d852dc770712c2b8f4ae7242.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-24T01:43:09.000Z",
+          "fetchedAt": "2026-05-24T04:56:48.709Z"
+        },
+        {
+          "id": "2026-05-23-90bad106",
+          "title": "Guerre en Ukraine : au moins un mort dans des bombardements nocturnes russes sur Kiev. Retrouvez les informations du 17 au 23 mai.",
+          "description": "Au moins 13 personnes ont aussi été blessées, dont sept ont été hospitalisées, a écrit, sur Telegram, Vitali Klitschko, le maire de la capitale ukrainienne visée par des attaques de missiles et de drones.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/23/en-direct-guerre-en-ukraine-le-realisateur-russe-andrei-zviaguintsev-prime-a-cannes-appelle-vladimir-poutine-a-mettre-fin-au-carnage_6690053_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-23T21:52:03.000Z",
+          "fetchedAt": "2026-05-24T04:56:48.687Z"
+        },
+        {
+          "id": "2026-05-23-3e71ec12",
+          "title": "Les sites énergétiques russes sous le feu de l'Ukraine, Kiev cherche à ébranler le Kremlin",
+          "description": "L'Ukraine, ce 23 mai, a ​bombardé une ​usine chimique dans la ​région ‌de Perm en Russie. L'annonce de ce samedi a été faite directement par Volodimir Zelensky, ce qui n'est pas un hasard. L'usine fournissait du matériel pour l'armée russe dans la fabrication de drones et d'explosifs, a encore précisé le président ukrainien. L'armée ukrainienne vise des sites militaires mais aussi énergétiques. Un grand dépôt pétrolier a été touché la nuit dernière. Avec ces frappes, Kiev cherche à déstabiliser l'approvisionnement de l'armée et à ébranler le Kremlin.",
+          "url": "https://www.rfi.fr/fr/europe/20260523-les-sites-%C3%A9nerg%C3%A9tiques-russes-sous-le-feu-de-l-ukraine-kiev-cherche-%C3%A0-%C3%A9branler-le-kremlin",
+          "imageUrl": "https://s.rfi.fr/media/display/159edf90-09d5-11f1-a711-005056a90284/w:1024/p:16x9/AP25323702869680.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-23T12:39:39.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.455Z"
         }
       ]
     },
     {
       "id": "cluster-7",
-      "topic": "En écho à la pétition « Zapper Bolloré », des professionnels du spectacle vivant",
-      "category": "eco",
+      "topic": "Comment la Chine utilise les influenceurs pour redorer son image",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-22-015f1949",
-          "title": "En écho à la pétition « Zapper Bolloré », des professionnels du spectacle vivant s’alarment d’une possible « mainmise idéologique de l’extrême droite sur les espaces d’art et de pensée en France »",
-          "description": "Dans un texte au « Monde », un collectif de près de 400 professionnels du théâtre et du spectacle vivant – comédiens, directeurs de théâtre, metteurs en scène et auteurs – apporte son soutien aux 600 signataires de la tribune anti-Bolloré.",
-          "url": "https://www.lemonde.fr/idees/article/2026/05/22/en-echo-a-la-petition-zapper-bollore-des-professionnels-du-spectacle-vivant-s-alarment-d-une-possible-mainmise-ideologique-de-l-extreme-droite-sur-les-espaces-d-art-et-de-pensee-en-france_6692342_3232.html",
+          "id": "2026-05-24-92fcc154",
+          "title": "Comment la Chine utilise les influenceurs pour redorer son image",
+          "description": "Sur TikTok, Instagram, YouTube… Pékin continue de diffuser son soft power avec une ambitieuse politique de séduction de la jeunesse par les réseaux sociaux. A Chongqing, ville futuriste aux mises en scène technologiques spectaculaires, influenceurs et autres blogueurs sont invités à venir faire le buzz. Et le charme opère.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/24/comment-la-chine-utilise-les-influenceurs-pour-redorer-son-image_6693129_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-22T18:00:06.000Z",
-          "fetchedAt": "2026-05-23T04:32:32.295Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-24T04:00:40.000Z",
+          "fetchedAt": "2026-05-24T04:56:48.687Z"
         },
         {
-          "id": "2026-05-22-7426bb21",
-          "title": "Tribune anti-Bolloré : l’art peut « divertir et avertir », défend Laurent Mauvignier, Prix Goncourt 2025",
-          "description": "En raison des tensions croissantes dans le monde culturel, Laurent Mauvignier alerte sur les risques d’un rétrécissement de la liberté artistique sous la pression de l’extrême droite et des grands groupes médiatiques.",
-          "url": "https://www.lemonde.fr/culture/article/2026/05/22/tribune-anti-bollore-l-art-peut-divertir-et-avertir-defend-laurent-mauvignier-prix-goncourt-2025_6692317_3246.html",
+          "id": "2026-05-23-dd11c88d",
+          "title": "En Chine, une explosion meurtrière rappelle le coût humain du charbon",
+          "description": "Au moins 82 mineurs ont péri dans une explosion, vendredi 22 mai, dans le Shanxi. L’exploitant de la mine est accusé « d’actes illégaux majeurs » par les autorités locales. Malgré la progression des énergies renouvelables, 56 % de l’énergie consommée en Chine provient encore du charbon.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/23/en-chine-une-explosion-meurtriere-rappelle-le-cout-humain-du-charbon_6692778_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-22T15:20:54.000Z",
-          "fetchedAt": "2026-05-23T04:32:32.295Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-23T18:08:48.000Z",
+          "fetchedAt": "2026-05-24T04:56:48.687Z"
         },
         {
-          "id": "2026-05-22-100036c0",
-          "title": "Votre grossesse ou votre maternité a eu un impact sur votre carrière, racontez-nous",
-          "description": "Les salariées enceintes ou de retour de congé maternité sont encore trop souvent victimes de discrimination dans le cadre professionnel. Le projet d’enfant ou la maternité peuvent aussi conduire, de manière plus insidieuse, à une forme d’autocensure des femmes.",
-          "url": "https://www.lemonde.fr/campus/appel-temoignages/2026/05/22/votre-grossesse-ou-votre-maternite-a-eu-un-impact-sur-votre-carriere-racontez-nous_6692308_4401467.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-22T14:45:31.000Z",
-          "fetchedAt": "2026-05-23T04:32:32.295Z"
+          "id": "2026-05-23-cab92069",
+          "title": "L’explosion d’une mine en Chine cause la mort d’au moins 90 travailleurs",
+          "description": "L’accident s’est produit le 22 mai en fin de journée, peu après le déclenchement d’une alerte au monoxyde de carbone dans les galeries du site, à quelque 500 kilomètres de Pékin.",
+          "url": "https://www.courrierinternational.com/article/accident-l-explosion-d-une-mine-en-chine-cause-la-mort-d-au-moins-90-travailleurs_244346",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/23/0/0/3981/2654/1200/630/60/0/51c83aa_ftp-1-on26i6k529an-2026-05-23t063602z-1444527846-rc2uelad8ohy-rtrmadp-3-china-coal-mine-accident.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-23T08:37:55.000Z",
+          "fetchedAt": "2026-05-24T04:56:49.149Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "Si seulement Mixtape n’était pas un jeu vidéo",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-23-3197ff02",
+          "title": "Si seulement Mixtape n’était pas un jeu vidéo",
+          "description": "« Nothing but the hits ». Rien d'autre que des tubes. C'est le slogan avec lequel le studio australien Beethoven & Dinosaur a souhaité nous vendre Mixtape, jeu d'aventure narratif misant essentiellement sur son ambiance (surtout musicale) au détriment du gameplay. Une proposition peu originale, mais qui aurait pu se rappeler au bon souvenir de quiconque déplore l'absence de toute forme d'héritier spirituel à Life Is Strange depuis une décennie. Le truc, c'est que ses trois premières heures ne sont pas incroyables, et c'est un problème quand le jeu dure littéralement trois heures.",
+          "url": "https://www.numerama.com/pop-culture/2257469-mixtape-ne-contient-que-des-tubes-et-cest-bien-ca-le-probleme.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/mixtape-16x9thumb-1920x-q80-clip3847x2164-0x0-1.jpg?resize=1600,900&key=991ccc12&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-23T14:02:00.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.893Z"
         },
         {
-          "id": "2026-05-22-666d87bd",
-          "title": "Carburant : la Commission européenne valide des aides de l’Etat français aux pêcheurs",
-          "description": "Compte tenu de la flambée des pris des carburants liée à la guerre au Moyen-Orient, Bruxelles a jugé cette mesure de soutien provisoire « nécessaire, appropriée et proportionnée ».",
-          "url": "https://www.lemonde.fr/penurie-de-carburant/article/2026/05/22/carburant-la-commission-europeenne-valide-des-aides-de-l-etat-francais-aux-pecheurs_6692280_6145475.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-22T11:42:14.000Z",
-          "fetchedAt": "2026-05-23T04:32:32.295Z"
+          "id": "2026-05-23-f13d4b8f",
+          "title": "Et si une explosion nucléaire avait lieu en orbite ? Le scénario catastrophe étudié par l’armée américaine",
+          "description": "Alors que l'orbite terrestre est chaque jour un peu plus un lieu de pouvoir et de rivalités, l'armée américaine explore la possibilité d'une explosion nucléaire dans l'espace. Un événement militaire qui aurait des conséquences dramatiques sur le long terme.",
+          "url": "https://www.numerama.com/sciences/2257159-et-si-une-explosion-nucleaire-avait-lieu-en-orbite-le-scenario-catastrophe-etudie-par-larmee-americaine.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2023/06/explosion-nucleaire.jpg?resize=1600,900&key=008fbb6d&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-23T13:31:00.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.893Z"
         },
         {
-          "id": "2026-05-22-fa2fcec0",
-          "title": "Défense : la future introduction en Bourse de KNDS, une « rentrée d’argent espérée pour l’Etat français »",
-          "description": "Berlin a dévoilé les contours d’un nouveau tour de table pour le groupe franco-allemand KNDS, fabricant du canon Caesar, en préambule à son introduction en Bourse avant l’été, observe Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/22/defense-la-future-introduction-en-bourse-de-knds-une-rentree-d-argent-esperee-pour-l-etat-francais_6692256_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-22T09:00:16.000Z",
-          "fetchedAt": "2026-05-23T04:32:32.295Z"
+          "id": "2026-05-23-6420d672",
+          "title": "Comment s’y retrouver dans la jungle des tarifs de la recharge rapide pour voiture électrique ?",
+          "description": "Il est facile pour le conducteur d’une voiture électrique de connaître le coût de la recharge à domicile. Cela se complique lorsque la recharge doit s'effectuer sur des bornes rapides publiques, notamment lors des vacances.",
+          "url": "https://www.numerama.com/vroom/1811600-comment-sy-retrouver-dans-la-jungle-des-tarifs-des-reseaux-de-recharge.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/11/plan-ue-recharge-autoroute-2.jpg?resize=1600,900&key=cccdebf5&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-23T12:31:20.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.893Z"
         },
         {
-          "id": "2026-05-22-3ba4f4c3",
-          "title": "Chez Somfy, un « plan social de cols blancs » : « Quand j’étais au lycée, on nous disait que les ingénieurs, c’était l’avenir de la France, je n’en suis plus si sûre »",
-          "description": "Plusieurs centaines de salariés de l’entreprise spécialisée dans l’automatisation de volets et portails ont manifesté, jeudi, à Cluses (Haute-Savoie), contre le plan de suppression d’au moins 350 emplois en négociation jusqu’en juin. Il ne touche pas la production mais les services supports et la recherche et développement.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/22/chez-somfy-un-pse-de-cols-blancs-quand-j-etais-au-lycee-on-nous-disait-que-les-ingenieurs-c-etait-l-avenir-de-la-france-je-n-en-suis-plus-si-sure_6692234_3234.html",
+          "id": "2026-05-23-df5fc203",
+          "title": "Plantation Simulator : le jeu Steam accusé de racisme opère un virage improbable",
+          "description": "Le jeu Plantation Simulator, récemment publié sur Steam, dans lequel vous incarnez un esclavagiste blanc, a essuyé une vague de critiques, notamment de la ministre déléguée chargée de l’Intelligence artificielle et du Numérique, Anne Le Hénanff. Depuis, un patch a corrigé les éléments qui faisaient polémique.",
+          "url": "https://www.numerama.com/pop-culture/2259487-plantation-simulator-le-jeu-steam-accuse-de-racisme-opere-un-virage-a-180-degres.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/plantation-simulator.jpg?resize=1600,900&key=64c52790&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-23T08:15:09.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.893Z"
+        },
+        {
+          "id": "2026-05-23-9379ff5c",
+          "title": "Eléonore Laloux, conseillère municipale d’Arras et seule élue avec une trisomie 21, porte plainte après une vidéo moquant son handicap",
+          "description": "La ministre déléguée chargée de l’autonomie et des personnes handicapées, Camille Galliard-Minier, et le président du conseil régional des Hauts-de-France, Xavier Bertrand, ont apporté vendredi leur soutien à la conseillère municipale d’Arras.",
+          "url": "https://www.lemonde.fr/societe/article/2026/05/23/arras-eleonore-laloux-seule-elue-avec-une-trisomie-21-porte-plainte-apres-une-video-moquant-son-handicap_6692726_3224.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-05-22T05:00:07.000Z",
-          "fetchedAt": "2026-05-23T04:32:32.295Z"
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-23T08:07:56.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.518Z"
+        },
+        {
+          "id": "2026-05-23-58222873",
+          "title": "Après un vol de données, son identité a été usurpée par un entrepreneur véreux",
+          "description": "« Données personnelles, la grande fuite » (9/9). En réclamant ses prestations à France Travail après une rupture conventionnelle, Hamadi a découvert qu’il avait, à son insu, servi de prête-nom dans une société de transport.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/05/23/apres-un-vol-de-donnees-son-identite-a-ete-usurpee-par-un-entrepreneur-vereux_6692666_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-23T04:00:44.000Z",
+          "fetchedAt": "2026-05-24T04:57:01.518Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Fuites de données : pourquoi de plus en plus de Français sont-ils vulnérables ? ",
-      "category": "tech",
+      "topic": "Dans l’Aveyron, l’ancien site de la fonderie SAM va voir deux entreprises s’impl",
+      "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-05-23-16eff99a",
-          "title": "Fuites de données : pourquoi de plus en plus de Français sont-ils vulnérables ? Comprendre en trois minutes",
-          "description": "En 2025, la CNIL a recensé 6 167 fuites de données, dont certaines ont concerné plusieurs millions de Français en même temps.",
-          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/05/23/fuites-de-donnees-pourquoi-de-plus-en-plus-de-francais-sont-ils-vulnerables-comprendre-en-trois-minutes_6692661_6176282.html",
+          "id": "2026-05-24-064f0ec0",
+          "title": "Dans l’Aveyron, l’ancien site de la fonderie SAM va voir deux entreprises s’implanter, avec 375 emplois attendus d’ici 2032",
+          "description": "La présidente de la région Occitanie, Carole Delga, a annoncé l’arrivée de la société Matière qui fabriquera des pylônes électriques, ainsi que celle de la firme britannique Paragon-Id qui produira des puces RFID.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/24/dans-l-aveyron-l-ancien-site-de-la-fonderie-sam-va-voir-deux-entreprises-s-implanter-avec-375-emplois-attendus-d-ici-2032_6693053_3234.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-23T04:00:18.000Z",
-          "fetchedAt": "2026-05-23T04:32:24.033Z"
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-24T03:17:26.000Z",
+          "fetchedAt": "2026-05-24T04:57:15.520Z"
         }
       ]
     }
