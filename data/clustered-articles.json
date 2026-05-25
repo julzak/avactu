@@ -1,224 +1,191 @@
 {
-  "generatedAt": "2026-05-24T05:00:49.169Z",
+  "generatedAt": "2026-05-25T05:18:02.769Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Les Etats-Unis et l’Iran disent avancer sur un accord de paix permettant notamme",
+      "id": "cluster-1",
+      "topic": "RFI lance une rédaction 100% numérique en arménien pour les jeunes et contre la ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-24-bb76ae84",
-          "title": "Les Etats-Unis et l’Iran disent avancer sur un accord de paix permettant notamment la réouverture du détroit d’Ormuz",
-          "description": "Donald Trump a évoqué un compromis « largement négocié » qui prévoirait un assouplissement des sanctions pesant sur Téhéran, mais laisserait pour l’heure le dossier nucléaire de côté.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/24/les-etats-unis-et-l-iran-disent-avancer-sur-un-accord-de-paix-permettant-notamment-la-reouverture-du-detroit-d-ormuz_6693200_3210.html",
+          "id": "2026-05-25-c2dca85e",
+          "title": "RFI lance une rédaction 100% numérique en arménien pour les jeunes et contre la désinformation",
+          "description": "Une rédaction en langue arménienne ouvre ses portes à RFI. Formée de huit journalistes, spécialistes du pays du Caucase, cette équipe doit se concentrer essentiellement sur la production de contenus numériques, à destination de la jeunesse d’Arménie.",
+          "url": "https://www.rfi.fr/fr/europe/20260525-rfi-lance-une-r%C3%A9daction-100-num%C3%A9rique-en-arm%C3%A9nien-pour-les-jeunes-et-contre-la-d%C3%A9sinformation",
+          "imageUrl": "https://s.rfi.fr/media/display/3067967e-55b5-11f1-b16a-005056bf30b7/w:1024/p:16x9/IMG-2871.jpeg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-25T05:03:04.000Z",
+          "fetchedAt": "2026-05-25T05:14:18.400Z"
+        },
+        {
+          "id": "2026-05-25-acc712c4",
+          "title": "Ebola: les coupes budgétaires américaines ont-elles eues un impact sur la propagation de l'épidémie?",
+          "description": "En République démocratique du Congo, plus de 900 personnes sont désormais soupçonnées d'avoir contracté le virus Ebola d'après les dernières chiffres rendus publics hier par l'OMS. L'agence sanitaire de l'Union Africaine affirme que plus de 300 millions de dollars sont nécessaires pour répondre aux besoins liés à cette épidémie. L'une des entités spécialisées dans la réponse humanitaire brille aujourd'hui par son absence, c'est l'agence américaine USAID dissoute par Donald Trump dès le début de son mandat.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260525-ebola-les-coupes-budg%C3%A9taires-am%C3%A9ricaines-ont-elles-eues-un-impact-sur-la-propagation-de-l-%C3%A9pid%C3%A9mie",
+          "imageUrl": "https://s.rfi.fr/media/display/7a08c068-57f0-11f1-92b3-005056a97e36/w:1024/p:16x9/2026-05-21T155845Z-1632712689-RC2ODLAZ8JN9-RTRMADP-3-HEALTH-EBOLA-DRC.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-25T04:58:17.000Z",
+          "fetchedAt": "2026-05-25T05:14:18.400Z"
+        },
+        {
+          "id": "2026-05-25-c9a2e80e",
+          "title": "Au Sénégal, le célèbre lac Rose menacé par un gigantesque projet immobilier",
+          "description": "A 40 kilomètres de Dakar, une « ville verte » se dessine malgré des résistances locales. Le chantier, porté par une société égyptienne, est le plus grand projet privé d’infrastructure en cours au Sénégal.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/05/25/au-senegal-le-celebre-lac-rose-menace-par-un-gigantesque-projet-immobilier_6693593_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-24T04:39:51.000Z",
-          "fetchedAt": "2026-05-24T04:56:48.687Z"
+          "publishedAt": "2026-05-25T04:00:14.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.433Z"
         },
         {
-          "id": "2026-05-24-49232139",
-          "title": "Trump assure qu’un accord avec l’Iran est en voie de “finalisation\"",
-          "description": "Donald Trump a assuré samedi soir qu’un accord pour mettre fin à la guerre entre les États-Unis et l’Iran avait été “largement négocié” et était en voie de “finalisation”. Selon le président américain, l’accord prévoirait notamment la réouverture du détroit d’Ormuz – une affirmation rapidement démentie par Téhéran.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-trump-assure-qu-un-accord-avec-l-iran-est-en-voie-de-finalisation_244349",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/23/3/0/2560/1706/1200/630/60/0/90e5985_ftp-1-pmn4dtood7wf-afp-b3v93wf.jpg",
+          "id": "2026-05-25-f3182d00",
+          "title": "La Chine envoie trois taïkonautes dans l'espace, l'un d'eux restera un an dans la station Tiangong",
+          "description": "Une fusée Longue-Marche 2-F a décollé dimanche soir du désert de Gobi, en Chine. Le vaisseau Shenzhou-23, avec à son bord trois membres d'équipage, a été placé en orbite et s'est amarré à la station spatiale Tiangong lundi. La spécificité de cette mission réside dans l'expérimentation d'un séjour orbital d'une année complète par l'un des trois taïkonautes.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260525-chine-envoie-trois-taikonautes-espace-restera-un-an-station-spatiale-tiangong-ambition-lune-shenzhou23",
+          "imageUrl": "https://s.france24.com/media/display/9577855a-57d2-11f1-bdf1-005056a90284/w:1024/p:16x9/2026-05-23T071312Z-2074102508-RC2TELASNXZC-RTRMADP-3-SPACE-EXPLORATION-CHINA-SHENZHOU.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-25T00:48:08.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.585Z"
+        },
+        {
+          "id": "2026-05-24-9e3f6be4",
+          "title": "Dans les Pyrénées-Orientales, les victoires de l’extrême droite aux municipales menacent la mémoire locale et le récit historique",
+          "description": "Les victoires du Rassemblement national à Rivesaltes et d’un candidat aux convictions pétainistes à Elne, lors des élections des 15 et 22 mars, ont renforcé les attaques contre plusieurs sites mémoriels dans un territoire bouleversé par l’arrivée des républicains espagnols puis des rapatriés d’Algérie.",
+          "url": "https://www.lemonde.fr/politique/article/2026/05/24/dans-les-pyrenees-orientales-les-victoires-de-l-extreme-droite-aux-municipales-menacent-la-memoire-locale-et-le-recit-historique_6693253_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-24T17:00:08.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.433Z"
+        },
+        {
+          "id": "2026-05-24-ecc0b304",
+          "title": "A Cuba, une crise sanitaire inédite, exacerbée par le blocus pétrolier américain : « On manque de médicaments »",
+          "description": "Les épidémies se propagent sur l’île caribéenne en raison de la pénurie de carburant qui perturbe le fonctionnement des hôpitaux et entrave le ramassage des ordures. Les personnes qui souffrent de pathologies chroniques ont, elles aussi, le plus grand mal à suivre un traitement.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/24/a-cuba-une-crise-sanitaire-inedite-exacerbee-par-le-blocus-petrolier-americain-on-manque-de-medicaments_6693248_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-24T15:30:06.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.433Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "La France et les rebelles indépendantistes au Mali, une histoire faite d’allianc",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-25-3962ea38",
+          "title": "La France et les rebelles indépendantistes au Mali, une histoire faite d’alliances et d’intérêts",
+          "description": "La junte au pouvoir à Bamako accuse Paris de soutenir le Front de libération de l’Azawad, qui a lancé une offensive dans le nord du Mali fin avril. Des déclarations qui s’appuient sur les liens historiques entre les autorités françaises et ces indépendantistes, même si leurs relations se sont distendues.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/05/25/la-france-et-les-rebelles-independantistes-au-mali-une-histoire-faite-d-alliances-et-d-interets_6693606_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-25T04:30:13.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.433Z"
+        },
+        {
+          "id": "2026-05-25-3993e717",
+          "title": "Roland-Garros : une hécatombe niveau français, les favoris se positionnent",
+          "description": "Et si c'était la bonne année pour Alexander Zverev ? L'Alllemand court après un premier titre d'un tournoi du Grand Chelem, d'autant qu'Alcaraz est forfait cette année. Mais le favori reste Jannik Sinner. La journée de dimanche, la première du tournoi, a été marquée par l'hécatombe niveau français. Du côté des dames, les favorites se sont imposées, rapporte le correspondant de France 24 à Roland-Garros, Cédric Ferreira.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260525-roland-garros-une-h%C3%A9catombe-niveau-fran%C3%A7ais-les-favoris-se-positionnent",
+          "imageUrl": "https://s.france24.com/media/display/08f9a1cc-57d1-11f1-a7dc-005056a97e36/w:1024/p:16x9/NW142558-O-01-20260525-01.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-25T03:09:17.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.585Z"
+        },
+        {
+          "id": "2026-05-24-d460b440",
+          "title": "Derrière le faste du XVIe arrondissement de Paris, une ambiance de village",
+          "description": "La journaliste du quotidien australien “The Age” s’est rendue avec sa famille dans le XVIe arrondissement de la capitale française, un quartier “cossu et verdoyant” mais souvent jugé “sans intérêt” pour les touristes. Mais “ses grandes avenues et ses restaurants étoilés ne sont pas tout”, affirme-t-elle. Derrière eux se cachent rues tranquilles et musées.",
+          "url": "https://www.courrierinternational.com/article/vu-d-australie-derriere-le-faste-du-xvie-arrondissement-de-paris-une-ambiance-de-village_243442",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/05/0/0/5314/3543/1200/630/60/0/e01b9c4_upload-1-ue1jf3umtfke-010-gtt17a06-285.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-24T04:13:44.000Z",
-          "fetchedAt": "2026-05-24T04:56:49.149Z"
+          "publishedAt": "2026-05-24T14:31:05.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.806Z"
         },
         {
-          "id": "2026-05-24-602da359",
-          "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-          "description": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-          "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg",
+          "id": "2026-05-24-80197a2b",
+          "title": "Ben Gvir banni de France : \"Ce n'est pas une sanction suffisante\"",
+          "description": "\"Humiliations\", \"attouchements\", \"passages à tabac\" dans l'obscurité : plusieurs militants pro-palestiniens français de la \"Flottille pour Gaza\", capturés en Méditerranée par Israël puis expulsés, ont détaillé vendredi 22 mai, à leur retour en France, les \"violences\" qu'ils disent avoir subies de la part des forces israéliennes. Nous en parlons avec notre invitée Claude Léostic, représentante de la Freedom Flotilla Coalition.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260524-ben-gvir-banni-de-france-ce-n-est-pas-une-sanction-suffisante",
+          "imageUrl": "https://s.france24.com/media/display/4f15bd24-576f-11f1-92f1-005056bfb2b6/w:1024/p:16x9/FR-20260524-141425-142501-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-24T13:17:30.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.585Z"
+        },
+        {
+          "id": "2026-05-23-9c6a8d10",
+          "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+          "description": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+          "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/699d/live/c7e53410-569c-11f1-9615-e14e530a4b81.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-05-24T01:18:31.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.799Z"
-        },
-        {
-          "id": "2026-05-23-134b1103",
-          "title": "EN DIRECT, guerre au Moyen-Orient : un projet d’accord avec l’Iran incluant la réouverture du détroit d’Ormuz « a été largement négocié », affirme Donald Trump",
-          "description": "« Les derniers aspects et détails de l’accord sont actuellement en discussion et seront annoncés prochainement », a écrit le président américain sur son Truth Social, à la suite d’échanges téléphoniques avec des dirigeants de pays du Golfe, notamment.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/24/en-direct-guerre-au-moyen-orient-un-projet-d-accord-avec-l-iran-incluant-la-reouverture-du-detroit-d-ormuz-a-ete-largement-negocie-affirme-donald-trump_6691823_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-23T23:38:06.000Z",
-          "fetchedAt": "2026-05-24T04:56:48.687Z"
-        },
-        {
-          "id": "2026-05-23-61d65e3b",
-          "title": "Une fusillade éclate près de la Maison Blanche : le suspect tué, un passant blessé",
-          "description": "Un homme a ouvert le feu, samedi en début de soirée, sur des agents devant la Maison Blanche où se trouvait Donald Trump. Le suspect est mort après avoir été touché par balles par le Secret Service, l’agence de sécurité présidentielle.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/24/des-coups-de-feu-tires-pres-de-la-maison-blanche-a-washington_6692854_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-23T23:33:36.000Z",
-          "fetchedAt": "2026-05-24T04:56:48.687Z"
-        },
-        {
-          "id": "2026-05-23-5d605541",
-          "title": "Donald Trump et l'Iran font état d'une percée dans les négociations sur la fin de la guerre",
-          "description": "Donald ⁠Trump a révélé samedi que les négociateurs américains et iraniens se rapprochaient \"grandement\" de la ⁠finalisation d'un accord visant ​à mettre fin au conflit, tandis que Téhéran a révélé que la République islamique était en \"phase de finalisation\" d'un protocole d'accord avec Washington en vue de cesser les hostilités.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260523-les-%C3%A9tats-unis-et-l-iran-font-%C3%A9tat-d-une-perc%C3%A9e-dans-leurs-n%C3%A9gociations-sur-la-fin-de-la-guerre",
-          "imageUrl": "https://s.france24.com/media/display/d10bdca0-56d9-11f1-84be-005056bfb2b6/w:1024/p:16x9/AP26143383264946.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-23T17:09:15.000Z",
-          "fetchedAt": "2026-05-24T04:56:48.709Z"
+          "publishedAt": "2026-05-23T14:24:48.000Z",
+          "fetchedAt": "2026-05-25T05:14:17.746Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "EN DIRECT, guerre en Ukraine : Kiev à nouveau visée par une « attaque massive » ",
+      "id": "cluster-24",
+      "topic": "En Turquie, Erdogan renonce à fermer une université, sur fond d’assaut du pouvoi",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-24-7a968696",
-          "title": "EN DIRECT, guerre en Ukraine : Kiev à nouveau visée par une « attaque massive » russe dans la nuit de samedi à dimanche",
-          "description": "Une personne a été tuée et au moins treize autres blessées, selon le maire de la capitale Vitali Klitschko. Une école a été touchée dans le quartier de Chevtchenkivsky, et une frappe « à proximité » d’un autre établissement scolaire a entraîné le blocage, par des débris, de l’entrée d’un abri où sont réfugiés des habitants.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/24/en-direct-guerre-en-ukraine-kiev-a-nouveau-visee-par-une-attaque-massive-russe-dans-la-nuit-de-samedi-a-dimanche_6693162_3210.html",
+          "id": "2026-05-25-b318492c",
+          "title": "En Turquie, Erdogan renonce à fermer une université, sur fond d’assaut du pouvoir contre le principal parti d’opposition",
+          "description": "Le président turc avait pris, vendredi, un décret mettant fin à l’université Bilgi à Istanbul, une institution libérale réputée pour l’enseignement des sciences sociales. Dimanche, le CHP, parti du maire d’Istanbul emprisonné, a été la cible d’une descente de la police venue chercher ses dirigeants, destitués par la justice.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/25/en-turquie-erdogan-renonce-a-fermer-une-universite-sur-fond-d-assaut-du-pouvoir-contre-le-principal-parti-d-opposition_6693458_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-24T04:14:57.000Z",
-          "fetchedAt": "2026-05-24T04:56:48.687Z"
+          "publishedAt": "2026-05-25T02:21:09.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.433Z"
         },
         {
-          "id": "2026-05-24-838b803e",
-          "title": "Le temps d'un immense concert, un rappeur biélorusse rassemble les russophones d'Europe à Bucarest",
-          "description": "L'Arène nationale, le plus grand stade de Roumanie, a accueilli 42 000 spectateurs, samedi 23 mai, à l'occasion d'un concert du rappeur biélorusse Max Korzh âgé de 37 ans. Si celui-ci est inconnu des Roumains, des milliers de russophones se sont en revanche pressés dans la capitale roumaine depuis les quatre coins de l’Europe pour l'écouter. Le chanteur refuse de se produire en Russie et dans son propre pays depuis l'invasion de l'Ukraine, en 2022.",
-          "url": "https://www.rfi.fr/fr/europe/20260524-le-temps-d-un-immense-concert-un-rappeur-bi%C3%A9lorusse-rassemble-les-russophones-d-europe-%C3%A0-bucarest",
-          "imageUrl": "https://s.rfi.fr/media/display/2c3f6af6-56f8-11f1-bdc4-005056a97e36/w:1024/p:16x9/ROUMANIE-STADE-BUCAREST-NATIONAL-ARENA.jpg",
+          "id": "2026-05-24-06bbb59d",
+          "title": "Turquie: la police prend d'assaut le siège du CHP, principal parti d'opposition, pour déloger son chef",
+          "description": "En Turquie, la crise prend de l'ampleur au sein du principal parti d'opposition, le CHP (Parti républicain du peuple), quatre jours après une décision de justice qui a révoqué sa direction. Ce dimanche 24 mai, la police est intervenue au siège du parti à Ankara pour déloger Özgür Özel. Ce dernier continue de dénoncer une « opération politique » contre le parti vainqueur des municipales de 2024, et jure de « poursuivre la lutte ».",
+          "url": "https://www.rfi.fr/fr/europe/20260524-turquie-la-police-prend-d-assaut-le-si%C3%A8ge-du-chp-principal-parti-d-opposition-pour-d%C3%A9loger-son-chef",
+          "imageUrl": "https://s.rfi.fr/media/display/73542f22-577e-11f1-9303-005056bfb2b6/w:1024/p:16x9/TURQUIE-CHP-POLITIQUE-OZGUR-OZEL.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-24T02:51:49.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.455Z"
+          "publishedAt": "2026-05-24T14:47:17.000Z",
+          "fetchedAt": "2026-05-25T05:14:18.400Z"
         },
         {
-          "id": "2026-05-24-58972bae",
-          "title": "Ukraine: au moins un mort dans d'intenses bombardements russes sur la capitale, Kiev",
-          "description": "La capitale ukrainienne a été violemment bombardée par l'armée russe dans la nuit du samedi 23 au dimanche 24 mai. Quelques heures auparavant, le président ukrainien Volodymyr Zelensky et l'ambassade des États-Unis à Kiev s'étaient inquiétés de la possibilité d'une attaque russe imminente et de grande ampleur tandis que Vladimir Poutine avait promis une réponse militaire à la frappe de drones ukrainiens sur des bâtiments éducatifs de la région de Lougansk occupée par Moscou, dans la nuit du jeudi 21 au vendredi 22 mai.",
-          "url": "https://www.rfi.fr/fr/europe/20260524-ukraine-attaque-de-missiles-massive-sur-kiev-une-%C3%A9cole-touch%C3%A9e-par-les-bombardements",
-          "imageUrl": "https://s.rfi.fr/media/display/59504a56-571b-11f1-82dc-005056bf30b7/w:1024/p:16x9/2026-05-24T004338Z-1433988545-RC2CFLAQAUJB-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-24T02:51:23.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.455Z"
-        },
-        {
-          "id": "2026-05-24-6ad3b019",
-          "title": "Ukraine : la capitale Kiev touchée par d'intenses bombardements russes",
-          "description": "L'armée ukrainienne a annoncé dans la nuit de samedi à dimanche que la capitale faisait l'objet \"d'une attaque massive de missiles ennemis\". Selon le maire de Kiev, une école a été touchée dans le quartier de Shevchenkivsky. Le premier bilan est d'au moins un mort. Samedi, le président ukrainien Volodymyr Zelensky et l'ambassade des États-Unis à Kiev s'étaient inquiétés de la possibilité d'une frappe russe imminente contre le pays.",
-          "url": "https://www.france24.com/fr/europe/20260524-ukraine-la-capitale-kiev-touch%C3%A9e-par-d-intenses-bombardements-russes",
-          "imageUrl": "https://s.france24.com/media/display/ea52e842-5711-11f1-8c4b-005056bf30b7/w:1024/p:16x9/82b5d53d715eec07d852dc770712c2b8f4ae7242.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-24T01:43:09.000Z",
-          "fetchedAt": "2026-05-24T04:56:48.709Z"
-        },
-        {
-          "id": "2026-05-23-90bad106",
-          "title": "Guerre en Ukraine : au moins un mort dans des bombardements nocturnes russes sur Kiev. Retrouvez les informations du 17 au 23 mai.",
-          "description": "Au moins 13 personnes ont aussi été blessées, dont sept ont été hospitalisées, a écrit, sur Telegram, Vitali Klitschko, le maire de la capitale ukrainienne visée par des attaques de missiles et de drones.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/23/en-direct-guerre-en-ukraine-le-realisateur-russe-andrei-zviaguintsev-prime-a-cannes-appelle-vladimir-poutine-a-mettre-fin-au-carnage_6690053_3210.html",
+          "id": "2026-05-24-6a25eed4",
+          "title": "En Turquie, le siège du principal parti d’opposition pris d’assaut par la police à Ankara après la destitution de sa direction",
+          "description": "Un tribunal d’Ankara avait invalidé, jeudi, au motif d’irrégularités, l’élection fin 2023 du chef du Parti républicain du peuple (CHP, social-démocrate), Özgür Özel, ordonnant son remplacement par son ancien patron, Kemal Kiliçdaroglu, tombé en disgrâce au sein de la formation.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/24/en-turquie-le-siege-du-principal-parti-d-opposition-pris-d-assaut-par-la-police-a-ankara-apres-la-destitution-de-sa-direction_6693239_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-23T21:52:03.000Z",
-          "fetchedAt": "2026-05-24T04:56:48.687Z"
-        },
-        {
-          "id": "2026-05-23-3e71ec12",
-          "title": "Les sites énergétiques russes sous le feu de l'Ukraine, Kiev cherche à ébranler le Kremlin",
-          "description": "L'Ukraine, ce 23 mai, a ​bombardé une ​usine chimique dans la ​région ‌de Perm en Russie. L'annonce de ce samedi a été faite directement par Volodimir Zelensky, ce qui n'est pas un hasard. L'usine fournissait du matériel pour l'armée russe dans la fabrication de drones et d'explosifs, a encore précisé le président ukrainien. L'armée ukrainienne vise des sites militaires mais aussi énergétiques. Un grand dépôt pétrolier a été touché la nuit dernière. Avec ces frappes, Kiev cherche à déstabiliser l'approvisionnement de l'armée et à ébranler le Kremlin.",
-          "url": "https://www.rfi.fr/fr/europe/20260523-les-sites-%C3%A9nerg%C3%A9tiques-russes-sous-le-feu-de-l-ukraine-kiev-cherche-%C3%A0-%C3%A9branler-le-kremlin",
-          "imageUrl": "https://s.rfi.fr/media/display/159edf90-09d5-11f1-a711-005056a90284/w:1024/p:16x9/AP25323702869680.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-23T12:39:39.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.455Z"
+          "publishedAt": "2026-05-24T13:47:49.000Z",
+          "fetchedAt": "2026-05-25T05:14:02.433Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "Comment la Chine utilise les influenceurs pour redorer son image",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-24-92fcc154",
-          "title": "Comment la Chine utilise les influenceurs pour redorer son image",
-          "description": "Sur TikTok, Instagram, YouTube… Pékin continue de diffuser son soft power avec une ambitieuse politique de séduction de la jeunesse par les réseaux sociaux. A Chongqing, ville futuriste aux mises en scène technologiques spectaculaires, influenceurs et autres blogueurs sont invités à venir faire le buzz. Et le charme opère.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/24/comment-la-chine-utilise-les-influenceurs-pour-redorer-son-image_6693129_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-24T04:00:40.000Z",
-          "fetchedAt": "2026-05-24T04:56:48.687Z"
-        },
-        {
-          "id": "2026-05-23-dd11c88d",
-          "title": "En Chine, une explosion meurtrière rappelle le coût humain du charbon",
-          "description": "Au moins 82 mineurs ont péri dans une explosion, vendredi 22 mai, dans le Shanxi. L’exploitant de la mine est accusé « d’actes illégaux majeurs » par les autorités locales. Malgré la progression des énergies renouvelables, 56 % de l’énergie consommée en Chine provient encore du charbon.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/23/en-chine-une-explosion-meurtriere-rappelle-le-cout-humain-du-charbon_6692778_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-23T18:08:48.000Z",
-          "fetchedAt": "2026-05-24T04:56:48.687Z"
-        },
-        {
-          "id": "2026-05-23-cab92069",
-          "title": "L’explosion d’une mine en Chine cause la mort d’au moins 90 travailleurs",
-          "description": "L’accident s’est produit le 22 mai en fin de journée, peu après le déclenchement d’une alerte au monoxyde de carbone dans les galeries du site, à quelque 500 kilomètres de Pékin.",
-          "url": "https://www.courrierinternational.com/article/accident-l-explosion-d-une-mine-en-chine-cause-la-mort-d-au-moins-90-travailleurs_244346",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/23/0/0/3981/2654/1200/630/60/0/51c83aa_ftp-1-on26i6k529an-2026-05-23t063602z-1444527846-rc2uelad8ohy-rtrmadp-3-china-coal-mine-accident.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-23T08:37:55.000Z",
-          "fetchedAt": "2026-05-24T04:56:49.149Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-5",
-      "topic": "Si seulement Mixtape n’était pas un jeu vidéo",
+      "id": "cluster-19",
+      "topic": "Comment s’y retrouver dans la jungle des tarifs de la recharge rapide pour voitu",
       "category": "tech",
       "importance": 10,
       "articles": [
-        {
-          "id": "2026-05-23-3197ff02",
-          "title": "Si seulement Mixtape n’était pas un jeu vidéo",
-          "description": "« Nothing but the hits ». Rien d'autre que des tubes. C'est le slogan avec lequel le studio australien Beethoven & Dinosaur a souhaité nous vendre Mixtape, jeu d'aventure narratif misant essentiellement sur son ambiance (surtout musicale) au détriment du gameplay. Une proposition peu originale, mais qui aurait pu se rappeler au bon souvenir de quiconque déplore l'absence de toute forme d'héritier spirituel à Life Is Strange depuis une décennie. Le truc, c'est que ses trois premières heures ne sont pas incroyables, et c'est un problème quand le jeu dure littéralement trois heures.",
-          "url": "https://www.numerama.com/pop-culture/2257469-mixtape-ne-contient-que-des-tubes-et-cest-bien-ca-le-probleme.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/mixtape-16x9thumb-1920x-q80-clip3847x2164-0x0-1.jpg?resize=1600,900&key=991ccc12&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-23T14:02:00.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.893Z"
-        },
-        {
-          "id": "2026-05-23-f13d4b8f",
-          "title": "Et si une explosion nucléaire avait lieu en orbite ? Le scénario catastrophe étudié par l’armée américaine",
-          "description": "Alors que l'orbite terrestre est chaque jour un peu plus un lieu de pouvoir et de rivalités, l'armée américaine explore la possibilité d'une explosion nucléaire dans l'espace. Un événement militaire qui aurait des conséquences dramatiques sur le long terme.",
-          "url": "https://www.numerama.com/sciences/2257159-et-si-une-explosion-nucleaire-avait-lieu-en-orbite-le-scenario-catastrophe-etudie-par-larmee-americaine.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2023/06/explosion-nucleaire.jpg?resize=1600,900&key=008fbb6d&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-23T13:31:00.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.893Z"
-        },
         {
           "id": "2026-05-23-6420d672",
           "title": "Comment s’y retrouver dans la jungle des tarifs de la recharge rapide pour voiture électrique ?",
@@ -228,7 +195,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-05-23T12:31:20.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.893Z"
+          "fetchedAt": "2026-05-25T05:14:17.781Z"
         },
         {
           "id": "2026-05-23-df5fc203",
@@ -239,7 +206,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-05-23T08:15:09.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.893Z"
+          "fetchedAt": "2026-05-25T05:14:17.781Z"
         },
         {
           "id": "2026-05-23-9379ff5c",
@@ -250,37 +217,26 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-05-23T08:07:56.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.518Z"
-        },
-        {
-          "id": "2026-05-23-58222873",
-          "title": "Après un vol de données, son identité a été usurpée par un entrepreneur véreux",
-          "description": "« Données personnelles, la grande fuite » (9/9). En réclamant ses prestations à France Travail après une rupture conventionnelle, Hamadi a découvert qu’il avait, à son insu, servi de prête-nom dans une société de transport.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/05/23/apres-un-vol-de-donnees-son-identite-a-ete-usurpee-par-un-entrepreneur-vereux_6692666_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-23T04:00:44.000Z",
-          "fetchedAt": "2026-05-24T04:57:01.518Z"
+          "fetchedAt": "2026-05-25T05:14:17.697Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Dans l’Aveyron, l’ancien site de la fonderie SAM va voir deux entreprises s’impl",
+      "id": "cluster-3",
+      "topic": "Oil prices slide on hopes of US-Iran peace deal",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-05-24-064f0ec0",
-          "title": "Dans l’Aveyron, l’ancien site de la fonderie SAM va voir deux entreprises s’implanter, avec 375 emplois attendus d’ici 2032",
-          "description": "La présidente de la région Occitanie, Carole Delga, a annoncé l’arrivée de la société Matière qui fabriquera des pylônes électriques, ainsi que celle de la firme britannique Paragon-Id qui produira des puces RFID.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/24/dans-l-aveyron-l-ancien-site-de-la-fonderie-sam-va-voir-deux-entreprises-s-implanter-avec-375-emplois-attendus-d-ici-2032_6693053_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-05-25-9c060e7d",
+          "title": "Oil prices slide on hopes of US-Iran peace deal",
+          "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+          "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-05-24T03:17:26.000Z",
-          "fetchedAt": "2026-05-24T04:57:15.520Z"
+          "publishedAt": "2026-05-25T03:38:25.000Z",
+          "fetchedAt": "2026-05-25T05:14:26.978Z"
         }
       ]
     }
