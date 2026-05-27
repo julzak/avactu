@@ -1,264 +1,209 @@
 {
-  "generatedAt": "2026-05-26T05:00:21.803Z",
+  "generatedAt": "2026-05-27T05:12:35.974Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Tunisie: l'avocate Sonia Dahmani de nouveau condamnée à une peine de deux ans de",
+      "id": "cluster-3",
+      "topic": "\"Ils venaient de tout l'Empire français\" : des résistants issus des colonies ret",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-26-440bafbd",
-          "title": "Tunisie: l'avocate Sonia Dahmani de nouveau condamnée à une peine de deux ans de prison",
-          "description": "Libérée fin novembre après avoir passé plus de 18 mois en détention, l’avocate tunisienne qui avait été arrêtée en direct sur France 24 en mai 2024 a de nouveau été condamnée lundi à une peine de deux ans de prison pour des déclarations sur la situation pénitentiaire en Tunisie.",
-          "url": "https://www.rfi.fr/fr/afrique/20260526-tunisie-l-avocate-sonia-dahmani-de-nouveau-condamn%C3%A9e-%C3%A0-une-peine-de-deux-ans-de-prison",
-          "imageUrl": "https://s.rfi.fr/media/display/2d210f30-cbfa-11f0-987e-005056bf30b7/w:1024/p:16x9/000-86DQ2GH.jpg",
+          "id": "2026-05-27-acb638dc",
+          "title": "\"Ils venaient de tout l'Empire français\" : des résistants issus des colonies retrouvent un nom",
+          "description": "Des sujets et citoyens issus des colonies vivaient en France métropolitaine pendant la Seconde Guerre mondiale. Plusieurs milliers d'entre eux ont participé à la résistance intérieure contre l'occupant allemand. À l'occasion de la Journée nationale de la Résistance, France 24 met en lumière une nouvelle base de données. Elle recense ces hommes et femmes qui ont lutté pour la Libération et qui ont pendant longtemps été oubliés.",
+          "url": "https://www.france24.com/fr/france/20260527-resistance-colonies-empire-francais-oublies-histoire-seconde-guerre-mondiale-patriotisme",
+          "imageUrl": "https://s.france24.com/media/display/557273ce-55df-11f1-b870-005056bfb2b6/w:1024/p:16x9/main-1-8.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-27T04:59:39.000Z",
+          "fetchedAt": "2026-05-27T05:08:35.620Z"
+        },
+        {
+          "id": "2026-05-26-059feb93",
+          "title": "Municipales: le parquet de Paris enquête sur une éventuelle ingérence étrangère visant des candidats LFI",
+          "description": "Le parquet de Paris a indiqué mardi 26 mai avoir ouvert « d’initiative » une enquête pour « rechercher si la campagne de certains candidats LFI aux élections municipales avait pu être ciblée par une opération dans l’intérêt d’un État tiers ». Le ministère public parisien précise qu’il ouvre ainsi cette enquête « sans avoir été saisi ni par plainte, ni par signalement, ni sur dessaisissement ».",
+          "url": "https://www.rfi.fr/fr/france/20260526-municipales-le-parquet-de-paris-enqu%C3%AAte-sur-une-%C3%A9ventuelle-ing%C3%A9rence-%C3%A9trang%C3%A8re-visant-des-candidats-lfi",
+          "imageUrl": "https://s.rfi.fr/media/display/4aa0ef24-21f6-11f1-9232-005056bf30b7/w:1024/p:16x9/000-A3KZ2PA.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-26T04:50:34.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.480Z"
+          "publishedAt": "2026-05-26T16:59:46.000Z",
+          "fetchedAt": "2026-05-27T05:08:51.527Z"
         },
         {
-          "id": "2026-05-26-e6799e48",
-          "title": "Centrafrique: comment Wagner a ciblé l’humanitaire Joseph Figueira dans une campagne d’instrumentalisation",
-          "description": "Il y a deux ans, le 26 mai 2024, l’humanitaire belgo-portugais Joseph Figueira est enlevé par les mercenaires russes de Wagner dans le sud-est de la Centrafrique. Il passera 22 mois en détention, après une condamnation par la justice locale, jusqu’à sa remise au Portugal début avril 2026. Son cas a été abondamment utilisé par la machine de propagande russe dans le cadre de campagnes physiques et numériques contre les ONG internationales, les États-Unis et les Nations unies, comme l’éclaire la lecture des documents internes de l’officine de communication russe Africa politology.",
-          "url": "https://www.rfi.fr/fr/afrique/20260526-centrafrique-comment-wagner-a-cibl%C3%A9-l-humanitaire-joseph-figueira-dans-une-campagne-d-instrumentalisation",
-          "imageUrl": "https://s.rfi.fr/media/display/6785a80a-5833-11f1-b88d-005056bfb2b6/w:1024/p:16x9/AFP-TV-20251104-CLJ-CAF-TrialFile-82ZZ363-en.jpg",
-          "source": "RFI",
+          "id": "2026-05-26-30728a00",
+          "title": "Paris 'punishingly hot' as Western Europe hit by heatwave",
+          "description": "Hugh Schofield reports from Paris as a heat dome settled over Western Europe bringing temperatures above the average for May.",
+          "url": "https://www.bbc.com/news/videos/cy522zrkr7lo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d16d/live/9cfa9420-591c-11f1-b682-cf91850925ea.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-05-26T03:22:25.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.480Z"
+          "publishedAt": "2026-05-26T16:46:58.000Z",
+          "fetchedAt": "2026-05-27T05:08:51.658Z"
         },
         {
-          "id": "2026-05-26-edcd4712",
-          "title": "Avec la JDC, la France a une façon inhabituelle de recruter ses soldats",
-          "description": "La correspondante en France de la “Frankfurter Allgemeine Zeitung” a assisté à une Journée défense et citoyenneté sur la base militaire de Saint-Germain-en-Laye. Obligatoire pour les 16-25 ans, elle vise à “faire tomber les réserves” des plus jeunes vis-à-vis de l’armée et leur faire découvrir le quotidien des soldats à travers des activités, observe la journaliste allemande.",
-          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-avec-la-jdc-la-france-a-une-facon-inhabituelle-de-recruter-ses-soldats_243527",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/05/0/0/3031/2021/1200/630/60/0/682b07b_upload-1-nqojzl8sv6gz-morales-izquierda-2025-07-09-1411.jpg",
+          "id": "2026-05-26-de85e53e",
+          "title": "Un épisode caniculaire \"inédit\" en France",
+          "description": "Au lendemain d'une journée historiquement chaude, la vague de chaleur qui déferle sur la France se renforce mardi avec un \"épisode caniculaire\" inédit pour un mois de mai dans l'ouest du pays. Selon le gouvernement, sept personnes sont décédées, dont cinq par noyade.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260526-un-%C3%A9pisode-caniculaire-in%C3%A9dit-en-france",
+          "imageUrl": "https://s.france24.com/media/display/87121dce-5915-11f1-885d-005056bf30b7/w:1024/p:16x9/canicule-couverture.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-26T15:20:15.000Z",
+          "fetchedAt": "2026-05-27T05:08:35.620Z"
+        },
+        {
+          "id": "2026-05-26-60434ace",
+          "title": "Agressions sexuelles dans le périscolaire : un an sous bracelet requis contre un animateur à Paris",
+          "description": "Le parquet a requis mardi trois ans de prison, dont un an ferme sous bracelet électronique, avec exécution provisoire, contre un animateur d'une école maternelle parisienne, accusé d'agressions sexuelles sur neuf enfants.",
+          "url": "https://www.france24.com/fr/france/20260526-p%C3%A9riscolaire-%C3%A0-paris-un-an-sous-bracelet-requis-contre-un-animateur-parisien",
+          "imageUrl": "https://s.france24.com/media/display/2cb748e2-5913-11f1-9241-005056bf30b7/w:1024/p:16x9/c3acd99fa973364008f5804d1e79c9c09263c746.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-26T14:57:12.000Z",
+          "fetchedAt": "2026-05-27T05:08:35.620Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-9",
+      "topic": "Téhéran accuse Washington d’avoir enfreint la trêve mais les négociations se pou",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-27-0e685e46",
+          "title": "Téhéran accuse Washington d’avoir enfreint la trêve mais les négociations se poursuivent",
+          "description": "L’Iran a estimé mardi que les États-Unis avaient commis une “violation flagrante” du cessez-le-feu après des frappes américaines nocturnes dans le sud du pays, menaçant Washington d’une riposte. Pour la presse internationale, ces nouvelles tensions ne devraient toutefois pas compromettre les pourparlers en cours entre les deux pays.",
+          "url": "https://www.courrierinternational.com/article/guerre-en-iran-teheran-accuse-washington-d-avoir-enfreint-la-treve-mais-les-negociations-se-poursuivent_244411",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/26/0/0/4999/3333/1200/630/60/0/7a8b55f_ftp-1-mq7o7sg9qgtc-mideast-conflict.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-26T03:00:18.000Z",
-          "fetchedAt": "2026-05-26T04:56:21.227Z"
+          "publishedAt": "2026-05-27T04:08:49.000Z",
+          "fetchedAt": "2026-05-27T05:08:36.213Z"
         },
         {
-          "id": "2026-05-26-93325cb1",
-          "title": "Une véritable transhumance : quand les vieux Australiens migrent vers la chaleur",
-          "description": "Chaque hiver, les retraités de l’État de Victoria migrent vers les cieux plus cléments des rivages de la Gold Coast, dans le nord-est de l’Australie. Un rituel agaçant pour ceux qui sont coincés dans la grisaille et la morosité du Sud, comme le souligne cet auteur australien dans un billet d’humeur à l’humour grinçant.",
-          "url": "https://www.courrierinternational.com/article/societe-une-veritable-transhumance-quand-les-vieux-australiens-migrent-vers-la-chaleur_243379",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/05/43/91/2636/1757/1200/630/60/0/8f73ad9_upload-1-t0l0w2fan28c-sondron-2011-03-31-5063.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-26T03:00:15.000Z",
-          "fetchedAt": "2026-05-26T04:56:21.227Z"
-        },
-        {
-          "id": "2026-05-26-5b851cdd",
-          "title": "Au Royaume-Uni, la multiplication des « minicasinos » favorise l’addiction aux jeux",
-          "description": "Les arcades de jeux d’argent se multiplient dans les centres-villes du Royaume-Uni, très fréquentées par les plus démunis.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/26/au-royaume-uni-la-multiplication-des-minicasinos-favorise-l-addiction-aux-jeux_6693832_3234.html",
+          "id": "2026-05-27-29bcccde",
+          "title": "« L’insuccès de Donald Trump en Iran transforme Cuba en trophée de substitution, un prix de consolation dont on ignore le coût »",
+          "description": "L’impasse stratégique sur laquelle a débouché la démonstration de force américano-israélienne, en dépit des coups dévastateurs portés au régime iranien, devrait ramener prochainement Cuba dans la ligne de mire du locataire de la Maison Blanche, analyse, dans sa chronique, Gilles Paris, éditorialiste au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/05/27/l-insucces-de-donald-trump-en-iran-transforme-cuba-en-trophee-de-substitution-un-prix-de-consolation-dont-on-ignore-le-cout_6694136_3232.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-26T03:00:13.000Z",
-          "fetchedAt": "2026-05-26T04:56:21.203Z"
+          "publishedAt": "2026-05-27T03:00:21.000Z",
+          "fetchedAt": "2026-05-27T05:08:35.828Z"
         },
         {
-          "id": "2026-05-26-2d117844",
-          "title": "Pourquoi tant de jeunes Américains haïssent l’IA",
-          "description": "Ces dernières semaines, des étudiants accueillent par des huées des discours sur la révolution de l’intelligence artificielle. La génération la plus exposée à cette technologie est aussi celle qui la rejette le plus, observe Michelle Goldberg, chroniqueuse progressiste du quotidien américain “The New York Times”.",
-          "url": "https://www.courrierinternational.com/article/opinion-pourquoi-tant-de-jeunes-americains-haissent-l-ia_244174",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/20/0/0/5014/3343/1200/630/60/0/c9242b5_ftp-1-kjvparlhepgz-2026-05-20t050023z-177740854-rc22rhaxu7xh-rtrmadp-3-tech-ai-gen-z.JPG",
+          "id": "2026-05-26-a8c0627f",
+          "title": "Iran-États-Unis : la perspective d’un accord imminent assombrie par les frappes américaines",
+          "description": "La tension est montée d’un cran mardi 26 mai entre l’Iran et les États-Unis, Téhéran mettant en garde contre des représailles après les frappes américaines menées la nuit dernière. Si cette escalade risque de saper les efforts diplomatiques en cours, le secrétaire d’État américain, Marco Rubio, a assuré qu’un “deal” était encore possible.",
+          "url": "https://www.courrierinternational.com/article/conflit-iran-etats-unis-la-perspective-d-un-accord-imminent-assombrie-par-les-frappes-americaines_244399",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/24/0/0/5000/3333/1200/630/60/0/7f3dbcf_ftp-1-9zrknpy8agu0-iran-issues-explainer-1.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-26T03:00:10.000Z",
-          "fetchedAt": "2026-05-26T04:56:21.227Z"
+          "publishedAt": "2026-05-26T16:15:35.000Z",
+          "fetchedAt": "2026-05-27T05:08:36.213Z"
+        },
+        {
+          "id": "2026-05-26-12968ab6",
+          "title": "Trump face à l’Iran : l’art du mauvais “deal” ?",
+          "description": "Pour sortir de l’impasse en Iran et rouvrir le détroit d’Ormuz, le président américain envisage un accord qui a fait bondir les “faucons” de son propre camp. Beaucoup d’observateurs le jugent cependant condamné à entériner une défaite stratégique.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-trump-face-a-l-iran-l-art-du-mauvais-deal_244389",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/23/0/0/5749/3833/1200/630/60/0/6c5c794_ftp-1-e263ejczojye-afp-b3v78g7.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-26T15:54:07.000Z",
+          "fetchedAt": "2026-05-27T05:08:36.213Z"
+        },
+        {
+          "id": "2026-05-26-4270c019",
+          "title": "Frappes américaines : le cessez-le-feu \"violé\" selon l'Iran",
+          "description": "Les Etats-Unis ont annoncé lundi 26 mai avoir frappé des sites de missiles dans le sud de l'Iran, malgré les apparents progrès des négociations pour arriver à un règlement de la guerre au Moyen-Orient. Donald Trump a exigé de pays à majorité musulmane de normaliser leurs relations avec Israël dans le cadre d'un potentiel accord de paix avec l'Iran. Décryptage de Matthieu Mabin, correspondant France 24 et de Bruno Daroux, chroniqueur international France 24.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260526-frappes-am%C3%A9ricaines-le-cessez-le-feu-viol%C3%A9-selon-l-iran",
+          "imageUrl": "https://s.france24.com/media/display/034fb594-5912-11f1-8696-005056bf30b7/w:1024/p:16x9/FR-20260526-160254-161857-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-26T15:05:23.000Z",
+          "fetchedAt": "2026-05-27T05:08:35.620Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-14",
+      "topic": "Derrière la guerre de Vladimir Poutine, le rôle croissant du FSB, l’agence de re",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-05-27-90eab40a",
+          "title": "Derrière la guerre de Vladimir Poutine, le rôle croissant du FSB, l’agence de renseignement russe",
+          "description": "Le service fédéral de sécurité, successeur du KGB, duquel est issu le maître du Kremlin, ne cesse d’accroître son pouvoir sur les choix militaires et sur les décisions politiques. Entre blocages d’Internet, propagande à l’école et poursuites judiciaires, sa toile s’étend sur toute la société russe.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/27/derriere-la-guerre-de-vladimir-poutine-le-role-croissant-du-fsb-l-agence-de-renseignement-russe_6694149_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-27T04:00:27.000Z",
+          "fetchedAt": "2026-05-27T05:08:35.828Z"
+        },
+        {
+          "id": "2026-05-26-b08132bf",
+          "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+          "description": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.",
+          "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cebd/live/892a4c70-595c-11f1-8b8c-6d33e1d5abb6.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-26T23:15:47.000Z",
+          "fetchedAt": "2026-05-27T05:08:51.658Z"
+        },
+        {
+          "id": "2026-05-26-1bfdde3b",
+          "title": "Adoption d’une loi pour saisir les biens des russes émigrés qui s'opposent à la politique de la Russie",
+          "description": "Être exilé et critiquer le pouvoir depuis l'étranger pourrait désormais entraîner la confiscation de ses biens sur le sol russe. La Douma, la chambre basse du Parlement, a adopté définitivement ce mardi 26 mai une loi permettant ces saisies de biens d’émigrés accusés d'avoir commis une « infraction contre les intérêts de la Russie à l'étranger ».",
+          "url": "https://www.rfi.fr/fr/europe/20260526-adoption-d-une-loi-pour-saisir-les-biens-des-russes-%C3%A9migr%C3%A9s-qui-s-opposent-%C3%A0-la-politique-de-la-russie",
+          "imageUrl": "https://s.rfi.fr/media/display/ca4258d2-2d69-11ee-a7a7-005056bf30b7/w:1024/p:16x9/000_32KL9WL.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-26T16:40:53.000Z",
+          "fetchedAt": "2026-05-27T05:08:51.527Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "US launches new strikes on Iran, targeting missile sites and boats",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-26-4ec12778",
-          "title": "US launches new strikes on Iran, targeting missile sites and boats",
-          "description": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators arrive in Qatar for talks to end the war.",
-          "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-26T04:31:31.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.588Z"
-        },
-        {
-          "id": "2026-05-26-ba117b9c",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: les États-Unis annoncent avoir frappé des sites de lancement de missile dans le sud de l'Iran",
-          "description": "Les États-Unis ont annoncé lundi soir avoir frappé des sites de missiles dans le sud de l'Iran, malgré les apparents progrès des négociations pour arriver à un règlement de la guerre au Moyen-Orient. Le chef de la diplomatie américaine a soutenu mardi que le détroit d'Ormuz rouvrirait « d'une manière ou d'une autre », après ces frappes.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260526-en-direct-guerre-au-moyen-orient-les-%C3%A9tats-unis-annoncent-avoir-frapp%C3%A9-des-sites-de-lancement-de-missile-dans-le-sud-de-l-iran",
-          "imageUrl": "https://s.rfi.fr/media/display/2ad2b6de-58b3-11f1-bdfe-005056bfb2b6/w:1024/p:16x9/U-S-Secretary-of-Defense-Hegseth-holds-briefing-on-the-Iran-war-at-the-Pentagon-in-Washington.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-26T04:06:02.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.480Z"
-        },
-        {
-          "id": "2026-05-26-e1486157",
-          "title": "En direct : les États-Unis ont frappé des sites de missiles dans le sud de l'Iran",
-          "description": "",
-          "url": "https://www.france24.com/fr/moyen-orient/20260526-en-direct-moyen-orient-iran-etats-unis-attaque-sites-lancement-missile-trump",
-          "imageUrl": "https://s.france24.com/media/display/42f7d142-5898-11f1-b947-005056a90284/w:1280/p:16x9/AP25354031499772.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-26T00:56:09.000Z",
-          "fetchedAt": "2026-05-26T04:56:21.279Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-18",
-      "topic": "La vague de chaleur se renforce en France, un épisode caniculaire démarre dans l",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-26-f6bb14f7",
-          "title": "La vague de chaleur se renforce en France, un épisode caniculaire démarre dans l'Ouest",
-          "description": "Huit départements de l'ouest de la France sont placés ce mardi en vigilance orange canicule, alors que la vague de chaleur se renforce dans le pays. Cette tendance devrait continuer pendant le reste de la semaine.",
-          "url": "https://www.france24.com/fr/france/20260526-la-vague-de-chaleur-se-renforce-en-france-un-%C3%A9pisode-caniculaire-d%C3%A9marre-dans-l-ouest",
-          "imageUrl": "https://s.france24.com/media/display/a7de94d0-58a5-11f1-90f0-005056a90284/w:1024/p:16x9/22bc741b301d819f2b8d17628cd9a5b7a4a0d776.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-26T01:53:14.000Z",
-          "fetchedAt": "2026-05-26T04:56:21.279Z"
-        },
-        {
-          "id": "2026-05-25-e55eea51",
-          "title": "Disparitions inquiétantes d'enfants en France: un mineur concerné sur deux à moins de 15 ans",
-          "description": "Près de 41 000 disparitions de mineurs ont été signalées en France en 2025. C'est 6% de plus que l'année précédente, d'après le dispositif d'écoute 116 000 Enfants disparus, qui publie son rapport ce lundi 25 mai. Un chiffre est particulièrement préoccupant : les « disparitions inquiétantes » – les mineurs qui courent un danger immédiat – ont doublé chez les moins de 15 ans. Julien Landureau est porte-parole du 116 000 Enfants disparus, le numéro d'urgence gratuit européen. Il s'exprime à RFI.",
-          "url": "https://www.rfi.fr/fr/france/20260525-disparitions-inqui%C3%A9tantes-d-enfants-en-france-un-mineur-concern%C3%A9-sur-deux-%C3%A0-moins-de-15-ans",
-          "imageUrl": "https://s.rfi.fr/media/display/beddd71c-fd35-11ef-8897-005056a90284/w:1024/p:16x9/Ecole-Classe-Salle-Enseignement.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-25T18:20:18.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.480Z"
-        },
-        {
-          "id": "2026-05-25-388bdfc4",
-          "title": "Californie : la menace d’explosion d’une cuve de produit chimique est « éliminée », après l’évacuation d’environ 50 000 personnes",
-          "description": "Depuis vendredi, un réservoir contenant 26 000 litres de méthacrylate de méthyle, un liquide inflammable utilisé pour la fabrication de plastique, menaçait d’exploser dans une localité du comté d’Orange. Les dizaines de milliers d’habitants évacués ont encore l’interdiction de rentrer chez eux.",
-          "url": "https://www.lemonde.fr/planete/article/2026/05/25/californie-la-menace-d-explosion-d-une-cuve-de-produit-chimique-est-eliminee-apres-l-evacuation-d-environ-50-000-personnes_6693685_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-25T17:24:38.000Z",
-          "fetchedAt": "2026-05-26T04:56:21.203Z"
-        },
-        {
-          "id": "2026-05-25-477fad8b",
-          "title": "À San Francisco, les baleines sont devenues un casse-tête pour le trafic maritime",
-          "description": "Alors que de plus en plus de baleines s’aventurent dans la baie de San Francisco en quête de nourriture, les autorités locales s’inquiètent pour la sécurité du trafic maritime. Pour y remédier, des scientifiques ont mis en place un système de détection des cétacés grâce à une intelligence artificielle.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-a-san-francisco-les-baleines-sont-devenues-un-casse-tete-pour-le-trafic-maritime_244261",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/21/3/0/3237/2158/1200/630/60/0/107e624_upload-1-qescu1xlyi1q-063-2166476059.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-25T15:26:01.000Z",
-          "fetchedAt": "2026-05-26T04:56:21.227Z"
-        },
-        {
-          "id": "2026-05-25-dcd0f0f6",
-          "title": "Venezuela: des centaines de détenus prennent le contrôle d'une prison et dénoncent des «tortures»",
-          "description": "Dans l'État de Barinas, fief de l'ancien président Hugo Chavez, dans l'ouest du Venezuela, des centaines de détenus ont pris le contrôle d'une prison, dimanche 24 mai, et mis le feu à des matelas pour dénoncer de mauvais traitements.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260525-venezuela-des-centaines-de-d%C3%A9tenus-prennent-le-contr%C3%B4le-d-une-prison-et-d%C3%A9noncent-des-tortures",
-          "imageUrl": "https://s.rfi.fr/media/display/66accfde-5843-11f1-a9db-005056bf30b7/w:1024/p:16x9/000-B3XB9CQ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-25T15:08:22.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.480Z"
-        },
-        {
-          "id": "2026-05-25-ee6a2850",
-          "title": "« En matière de drones, une dynamique est engagée au niveau français, mais les moyens prévus restent en deçà des besoins »",
-          "description": "La France doit aller au-delà des avancées de la loi de programmation militaire et devenir le pivot d’une filière de production de drones entre l’Europe et l’Ukraine, estime, dans une tribune au « Monde », un collectif d’experts de la défense et de la géopolitique, parmi lesquels le général Vincent Desportes et la cheffe d’entreprise Anne Marleix.",
-          "url": "https://www.lemonde.fr/idees/article/2026/05/25/en-matiere-de-drones-une-dynamique-est-engagee-au-niveau-francais-mais-les-moyens-prevus-restent-en-deca-des-besoins_6693667_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-25T15:00:11.000Z",
-          "fetchedAt": "2026-05-26T04:56:21.203Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-24",
-      "topic": "Pourquoi l’autrice de manga Rumiko Takahashi est l’une des plus lues au monde ?",
+      "topic": "Did the Pope use AI to write about the dangers of AI?",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-05-25-51eb954a",
-          "title": "Pourquoi l’autrice de manga Rumiko Takahashi est l’une des plus lues au monde ?",
-          "description": "L’autrice japonaise de manga a marqué le milieu de la BD avec des succès tels que « Maison Ikkoku » (connu aussi en France sous le nom « Juliette je t’aime ») ou encore « Ranma ½ ».",
-          "url": "https://www.lemonde.fr/culture/video/2026/05/25/pourquoi-l-autrice-de-manga-rumiko-takahashi-est-l-une-des-plus-lues-au-monde_6693617_3246.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-05-27-36305a8d",
+          "title": "Did the Pope use AI to write about the dangers of AI?",
+          "description": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through Pangram, finding that 62 percent of its first cha …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278118480.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-05-25T07:00:03.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.562Z"
-        },
-        {
-          "id": "2026-05-25-abd3b8ca",
-          "title": "« Cette musique m’emporte vers un autre monde, un état de béatitude, de guérison » : les commentaires de clips sur YouTube, véritable journal intime",
-          "description": "La plateforme de streaming offre, sous les vidéos, un espace où la singularité d’une plume, l’affect d’un mélomane, la sensibilité d’un nostalgique peuvent s’exprimer sans faux-semblant. Une pratique à rebours des autres réseaux sociaux, et un visage « doux » du Web",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/05/25/cette-musique-m-emporte-vers-un-autre-monde-un-etat-de-beatitude-de-guerison-les-commentaires-de-clips-sur-youtube-veritable-journal-intime_6693599_4497916.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-25T04:00:35.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.562Z"
-        },
-        {
-          "id": "2026-05-24-36159174",
-          "title": "Notre test d’Elementallis, un jeu qui fait tout pour vous faire croire qu’il est un Zelda de Super Nintendo",
-          "description": "Il y a des jeux qui sentent bon la nostalgie, tout en étant des titres d'aujourd'hui, et d’autres qui ressemblent à de véritables capsules temporelles, comme s’ils avaient toute leur place dans la ludothèque d’une console rétro. Elementallis se classe fièrement dans cette seconde catégorie. Voici notre test.",
-          "url": "https://www.numerama.com/pop-culture/2256199-notre-test-delementallis-un-jeu-qui-fait-tout-pour-vous-faire-croire-quil-est-sorti-sur-super-nintendo.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/elementallis-une.jpg?resize=1600,900&key=66d95f5a&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-24T16:11:00.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.739Z"
-        },
-        {
-          "id": "2026-05-24-2855c93b",
-          "title": "Le prochain jeu de course dans l’univers de Star Wars est en précommande",
-          "description": "[Précommande] Envie d'un jeu de course qui ne fait pas comme les autres ? Star Wars Galactic Racer pourrait bien bousculer les codes du genre, dans un jeu à 100 à l'heure pour les fans de la saga.",
-          "url": "https://www.numerama.com/pop-culture/2259181-le-prochain-jeu-de-course-dans-lunivers-de-star-wars-est-en-precommande.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/star-wars-galactic-racer.jpg?resize=1600,900&key=105ca61d&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-24T15:07:28.000Z",
-          "fetchedAt": "2026-05-26T04:56:30.739Z"
+          "publishedAt": "2026-05-27T00:38:11.000Z",
+          "fetchedAt": "2026-05-27T05:09:01.532Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "« Au bout du compte, on paye toujours quelque chose de notre poche pour travaill",
+      "id": "cluster-5",
+      "topic": "A 30 ans, il n’est pas trop tôt pour épargner pour sa retraite",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-05-26-2df1ef43",
-          "title": "« Au bout du compte, on paye toujours quelque chose de notre poche pour travailler » : les personnels de l’éducation nationale face à la galère des frais de déplacement",
-          "description": "Des dizaines de milliers d’agents contraints à des déplacements pour assurer leur mission au sein des établissements scolaires sont obligés d’avancer les frais et sont confrontés à de multiples difficultés pour en obtenir le remboursement par l’administration.",
-          "url": "https://www.lemonde.fr/societe/article/2026/05/26/au-bout-du-compte-on-paye-toujours-quelque-chose-de-notre-poche-pour-travailler-les-personnels-de-l-education-nationale-face-a-la-galere-des-frais-de-deplacement_6693843_3224.html",
+          "id": "2026-05-27-d0ebce2e",
+          "title": "A 30 ans, il n’est pas trop tôt pour épargner pour sa retraite",
+          "description": "Si cela ne fait pas partie des priorités des trentenaires, préparer ses vieux jours ne doit pas être oublié, même pour les plus modestes.",
+          "url": "https://www.lemonde.fr/argent/article/2026/05/27/a-30-ans-il-n-est-pas-trop-tot-pour-epargner-pour-sa-retraite_6694148_1657007.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-05-26T04:00:38.000Z",
-          "fetchedAt": "2026-05-26T04:56:36.396Z"
+          "publishedAt": "2026-05-27T04:00:22.000Z",
+          "fetchedAt": "2026-05-27T05:09:01.709Z"
         }
       ]
     }
