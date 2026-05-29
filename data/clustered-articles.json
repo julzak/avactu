@@ -1,220 +1,341 @@
 {
-  "generatedAt": "2026-05-28T05:06:59.361Z",
+  "generatedAt": "2026-05-29T05:08:28.343Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-3",
-      "topic": "Nouvelles frappes américaines en Iran, Téhéran réplique en visant une base améri",
+      "topic": "En Roumanie, un immeuble résidentiel touché par un drone russe, deux blessés lég",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-28-a099c625",
-          "title": "Nouvelles frappes américaines en Iran, Téhéran réplique en visant une base américaine",
-          "description": "Les affrontements survenus dans la nuit de mercredi à jeudi sont les plus graves depuis le début du cessez-le-feu le 8 avril. Les bombardements et les combats se poursuivent au Liban, malgré la trêve entrée en vigueur le 17 avril.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/28/nouvelles-frappes-americaines-en-iran-teheran-replique-en-visant-une-base-americaine_6694423_3210.html",
+          "id": "2026-05-29-40e29e60",
+          "title": "En Roumanie, un immeuble résidentiel touché par un drone russe, deux blessés légers",
+          "description": "L’engin s’est écrasé sur le toit d’un bâtiment de Galati, une ville située non loin de la frontière avec l’Ukraine, a annoncé le ministère de la défense roumain. La Roumanie, membre de l’OTAN, a dénoncé une « grave et irresponsable escalade ».",
+          "url": "https://www.lemonde.fr/international/article/2026/05/29/en-roumanie-un-immeuble-residentiel-touche-par-un-drone-russe-deux-blesses-legers_6694690_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-28T04:49:14.000Z",
-          "fetchedAt": "2026-05-28T05:02:58.764Z"
+          "publishedAt": "2026-05-29T04:44:38.000Z",
+          "fetchedAt": "2026-05-29T05:04:27.818Z"
         },
         {
-          "id": "2026-05-28-5c61f81e",
-          "title": "EN DIRECT - Guerre au Moyen-Orient: les États-Unis frappent l'Iran qui réplique en visant une base américaine",
-          "description": "L'armée américaine a mené de nouvelles frappes dans le ⁠sud de l'Iran, ​a dit un responsable américain. Les Gardiens de la Révolution iraniens ont annoncé jeudi 28 mai avoir visé une base américaine, sans préciser laquelle. Ces affrontements sont les plus graves depuis le début du cessez-le-feu. De son côté, le président américain, Donald Trump a démenti mercredi 27 mai des informations iraniennes sur un projet d'accord conférant à Téhéran la gestion du détroit d'Ormuz.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260528-en-direct-guerre-au-moyen-orient-les-%C3%A9tats-unis-frappent-l-iran-qui-r%C3%A9plique-en-visant-une-base-am%C3%A9ricaine",
-          "imageUrl": "https://s.rfi.fr/media/display/34d4a99c-5a4a-11f1-923e-005056a90284/w:1024/p:16x9/063-2278473886.jpg",
+          "id": "2026-05-29-b3f2a43f",
+          "title": "EN DIRECT - Guerre en Ukraine: la Roumanie, frappée par un drone, dénonce «une grave et irresponsable escalade» de la Russie",
+          "description": "Un ⁠drone s'est écrasé ​sur un immeuble résidentiel de la ville de Galati, en ​Roumanie, lors d'une attaque russe contre l'Ukraine voisine, faisant deux blessés légers, ont dit vendredi les autorités roumaines qui ont dénoncé « une grave et irresponsable escalade » de la Russie.",
+          "url": "https://www.rfi.fr/fr/europe/20260529-en-direct-guerre-en-ukraine-la-roumanie-frapp%C3%A9e-par-un-drone-d%C3%A9nonce-une-grave-et-irresponsable-escalade-de-la-russie",
+          "imageUrl": "https://s.rfi.fr/media/display/7fd449b0-5b18-11f1-a44f-005056bfb2b6/w:1024/p:16x9/2026-05-29T040942Z-545499173-RC2SILA7HO8J-RTRMADP-3-UKRAINE-CRISIS-ROMANIA-DRONES.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-28T04:12:31.000Z",
-          "fetchedAt": "2026-05-28T05:03:08.707Z"
+          "publishedAt": "2026-05-29T04:41:13.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.358Z"
         },
         {
-          "id": "2026-05-28-afcd69c9",
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit avoir visé des bases américaines en représailles à des frappes menées plus tôt dans le sud du pays",
-          "description": "L’armée du Koweït a annoncé être en train de repousser « des attaques de missiles et drones ennemis », alors que, selon un responsable américain, les Etats-Unis ont abattu, au cours de la nuit, quatre drones iraniens et mené des frappes sur une base au sol dans le sud de l’Iran, lors d’actions « défensives ».",
-          "url": "https://www.lemonde.fr/international/live/2026/05/28/en-direct-guerre-au-moyen-orient-l-iran-dit-avoir-vise-des-bases-americaines-en-represailles-a-des-frappes-menees-plus-tot-dans-le-sud-du-pays_6694380_3210.html",
+          "id": "2026-05-29-8aafaab8",
+          "title": "La fusée New Glenn de Blue Origin explose spectaculairement sur sa rampe de lancement pendant un essai",
+          "description": "L’explosion au sol à Cap Canaveral, en Floride, n’a fait aucun blessé, a annoncé le propriétaire de l’entreprise spatiale, Jeff Bezos. Plus tôt, la société avait indiqué avoir « constaté une anomalie lors de l’essai de mise à feu » des moteurs de la fusée.",
+          "url": "https://www.lemonde.fr/sciences/article/2026/05/29/la-fusee-new-glenn-de-blue-origin-explose-sur-sa-rampe-de-lancement-pendant-un-essai-a-cap-canaveral_6694680_1650684.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-28T03:45:49.000Z",
-          "fetchedAt": "2026-05-28T05:02:58.764Z"
+          "publishedAt": "2026-05-29T03:51:49.000Z",
+          "fetchedAt": "2026-05-29T05:04:27.818Z"
         },
         {
-          "id": "2026-05-28-85a9659f",
-          "title": "Iran en direct : les Gardiens de la Révolution visent une base américaine en représailles à des frappes",
+          "id": "2026-05-29-d97a063e",
+          "title": "Togo: le PAM alerte sur un risque d'insécurité alimentaire aigüe dans l'extrême nord du pays",
+          "description": "Au Togo, plus de 330 000 personnes pourraient être en insécurité alimentaire aigüe au cours des trois prochains mois s'ils ne reçoivent pas d'aide, selon une projection du PAM, le Programme alimentaire mondial, dans un document publié il y a quelques jours. Ce sont les zones de l'extrême nord du pays qui concentrent le plus de besoins, aggravés par la situation sécuritaire.",
+          "url": "https://www.rfi.fr/fr/afrique/20260529-togo-le-pam-alerte-sur-un-risque-d-ins%C3%A9curit%C3%A9-alimentaire-aig%C3%BCe-dans-l-extr%C3%AAme-nord-du-pays",
+          "imageUrl": "https://s.rfi.fr/media/display/62034f84-201e-11f0-afd8-005056bfb2b6/w:1024/p:16x9/000_43324ZP.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-29T03:47:24.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.358Z"
+        },
+        {
+          "id": "2026-05-29-ff7ad1f8",
+          "title": "Un drone russe s'écrase sur un immeuble en Roumanie, membre de l'Otan, et fait deux blessés légers",
           "description": "",
-          "url": "https://www.france24.com/fr/moyen-orient/20260528-en-direct-moyen-orient-iran-etats-unis-nouvelles-frappes-israel-liban-donald-trump",
-          "imageUrl": "https://s.france24.com/media/display/10976ee0-47f1-11f1-875c-005056bf30b7/w:1280/p:16x9/AP26124411625144.jpg",
+          "url": "https://www.france24.com/fr/europe/20260529-guerre-ukraine-drone-russe-secrase-immeuble-roumanie-otan-blesses",
+          "imageUrl": "https://s.france24.com/media/display/6aa27a2a-5b0f-11f1-9121-005056a90284/w:1280/p:16x9/2026-05-29T012105Z-921844668-RC2PILAFOHZO-RTRMADP-3-UKRAINE-CRISIS-ROMANIA-DRONES.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-28T03:35:53.000Z",
-          "fetchedAt": "2026-05-28T05:02:58.810Z"
+          "publishedAt": "2026-05-29T03:36:09.000Z",
+          "fetchedAt": "2026-05-29T05:04:27.935Z"
         },
         {
-          "id": "2026-05-28-17e1ac87",
-          "title": "Guerre au Moyen-Orient : les Etats-Unis disent avoir mené des frappes « défensives » dans le sud de l’Iran. Retrouvez les informations du 21 au 27 mai.",
-          "description": "Quatre drones d’attaque qui représentaient une « menace autour du détroit d’Ormuz » ont été abattus, a déclaré un responsable américain sous le couvert de l’anonymat. L’armée américaine a aussi frappé « une station de contrôle au sol à Bandar-e Abbas, qui menaçait de lancer un cinquième drone ».",
-          "url": "https://www.lemonde.fr/international/live/2026/05/28/en-direct-guerre-au-moyen-orient-les-medias-iraniens-font-etat-de-trois-fortes-explosions-nocturnes-dans-le-sud-du-pays_6691823_3210.html",
+          "id": "2026-05-29-8e9d2dca",
+          "title": "EN DIRECT, guerre en Ukraine : un drone russe « s’est écrasé » sur un immeuble résidentiel en Roumanie, faisant deux blessés légers, annonce le ministère de la défense roumain",
+          "description": "L’incident s’est produit dans la nuit de jeudi à vendredi dans le sud de la ville de Galati, proche de la frontière avec l’Ukraine. La Roumanie dénonce « une grave et irresponsable escalade » de Moscou. Des incursions de drones dans ce pays membre de l’OTAN ont été détectées à plusieurs reprises depuis le début de l’offensive russe contre Kiev, mais c’est la première fois qu’un de ces engins s’abat sur un immeuble résidentiel.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/29/en-direct-guerre-en-ukraine-un-drone-russe-s-est-ecrase-sur-un-immeuble-residentiel-en-roumanie-faisant-deux-blesses-legers-annonce-le-ministere-de-la-defense-roumain_6693162_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-28T00:45:56.000Z",
-          "fetchedAt": "2026-05-28T05:02:58.764Z"
-        },
-        {
-          "id": "2026-05-27-f087cd13",
-          "title": "Jill Biden a pensé que Joe Biden était victime d’un AVC lors du débat présidentiel calamiteux avec Donald Trump en 2024",
-          "description": "L’ancienne première dame des Etats-Unis a confié dans une interview avoir été « effrayée » en regardant la confrontation télévisée entre le candidat démocrate à la Maison Blanche et le milliardaire républicain. Elle assure n’avoir « jamais vu » son mari « comme ça avant ni depuis ».",
-          "url": "https://www.lemonde.fr/international/article/2026/05/28/jill-biden-a-pense-que-joe-biden-faisait-un-avc-lors-du-debat-presidentiel-calamiteux-face-a-donald-trump-en-2024_6694270_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-27T23:31:08.000Z",
-          "fetchedAt": "2026-05-28T05:02:58.764Z"
+          "publishedAt": "2026-05-29T03:27:31.000Z",
+          "fetchedAt": "2026-05-29T05:04:27.818Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "Stéphane Séjourné redoute « le retour aux nations » si les Européens n’engagent ",
+      "id": "cluster-4",
+      "topic": "EN DIRECT - Moyen-Orient: les États-Unis et l'Iran ont fait «beaucoup de progrès",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-28-2e35485e",
-          "title": "Stéphane Séjourné redoute « le retour aux nations » si les Européens n’engagent pas un « bras de fer » commercial avec la Chine",
-          "description": "Le vice-président exécutif de la Commission s’alarme de la concurrence agressive de Pékin et appelle les Européens à muscler leurs instruments de défense.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/28/stephane-sejourne-prevoit-le-retour-aux-nations-si-les-europeens-n-engagent-pas-un-bras-de-fer-commercial-avec-la-chine_6694419_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-28T04:00:19.000Z",
-          "fetchedAt": "2026-05-28T05:02:58.764Z"
-        },
-        {
-          "id": "2026-05-28-a866735f",
-          "title": "Sénégal: les milieux économiques attendent avec impatience la nomination d'un nouveau gouvernement",
-          "description": "Au Sénégal, la crise politique au sommet de l’État a des répercussions financières. Le limogeage du Premier ministre Ousmane Sonko et l’absence d’un gouvernement ravivent la crainte des banques d’investissement d’un risque accru de défaut de paiement de sa dette extérieure. Un contexte qui met sous pression Bassirou Diomaye Faye alors que les consultations se poursuivent, depuis la nomination d'Ahmadou Ahminou Lo lundi, pour former rapidement un nouveau gouvernement.",
-          "url": "https://www.rfi.fr/fr/afrique/20260528-s%C3%A9n%C3%A9gal-les-milieux-%C3%A9conomiques-attendent-avec-impatience-la-nomination-d-un-nouveau-gouvernement",
-          "imageUrl": "https://s.rfi.fr/media/display/84a11458-587c-11f1-bd31-005056a97e36/w:1024/p:16x9/SENEGAL-RTS-Ahmadou-Al-Aminou-Mohamed-Lo.jpg",
+          "id": "2026-05-29-8d52d837",
+          "title": "EN DIRECT - Moyen-Orient: les États-Unis et l'Iran ont fait «beaucoup de progrès» vers un accord, selon J.D. Vance",
+          "description": "Au Liban, Israël a poursuivi ses frappes meurtrières jeudi 28 mai, alors même que l’armée israélienne a étendu sa « zone de combat » contre le Hezbollah pro-iranien, malgré un cessez-le-feu théoriquement en vigueur depuis le 17 avril. Ce vendredi 29 mai, le volet sécuritaire des négociations entre Israël et le Liban s'ouvre à Washington. Sur le terrain des négociations, un protocole d'entente pour prolonger leur cessez-le-feu et lever les restrictions sur la navigation dans le détroit d'Ormuz semble se dessiner entre États-Unis et Iran, sans que Donald Trump ne l'ait encore validé.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260529-en-direct-moyen-orient-les-%C3%A9tats-unis-et-l-iran-ont-fait-beaucoup-de-progr%C3%A8s-vers-un-accord-selon-j-d-vance",
+          "imageUrl": "https://s.rfi.fr/media/display/9e043d9e-5b15-11f1-800a-005056bf30b7/w:1024/p:16x9/2026-05-28T222331Z-582885978-RC2LILAFI68O-RTRMADP-3-USA-VANCE.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-28T03:57:54.000Z",
-          "fetchedAt": "2026-05-28T05:03:08.707Z"
+          "publishedAt": "2026-05-29T04:33:43.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.358Z"
         },
         {
-          "id": "2026-05-28-57ccfa03",
-          "title": "Burkina Faso: une association étudiante suspendue, certains de ses membres interpellés",
-          "description": "Au Burkina Faso, l'Union générale des étudiants du Burkina (Ugeb), la plus importante association d'étudiants du pays, a été suspendue pour trois mois, et des leaders, dont le nombre n'a pas été communiqué, ont été interpellés et conduits vers une destination inconnue. En cause: une déclaration du 19 mai, dans laquelle l'association dénonçait le manque de résultats dans le pays sur le plan de la lutte contre le terrorisme, malgré l'acquisition d'importants équipements militaires. Des déclarations qui n'ont pas été du goût des autorités, qui n'ont pas tardé à le faire savoir.",
-          "url": "https://www.rfi.fr/fr/afrique/20260528-burkina-faso-une-association-%C3%A9tudiante-suspendue-certains-de-ses-membres-interpell%C3%A9s",
-          "imageUrl": "https://s.rfi.fr/media/display/1bec048c-28e4-11ef-b6d4-005056bfb2b6/w:1024/p:16x9/000_34UG9ZN.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-28T03:14:56.000Z",
-          "fetchedAt": "2026-05-28T05:03:08.707Z"
-        },
-        {
-          "id": "2026-05-28-8ee02648",
-          "title": "Quand Pékin impose la sobriété à ses fonctionnaires, c’est le monde du vin qui trinque",
-          "description": "En interdisant la consommation d’alcool lors des événements officiels, le président Xi Jinping a tari l’un des principaux marchés d’exportation pour les viticulteurs du monde entier. L’Australie et le Bordelais sont les régions productrices les plus durement touchées, selon “The Wall Street Journal”.",
-          "url": "https://www.courrierinternational.com/article/alcool-quand-pekin-impose-la-sobriete-a-ses-fonctionnaires-c-est-le-monde-du-vin-qui-trinque_242272",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/06/317/0/2126/1417/1200/630/60/0/d145b2c_upload-1-1pjfyps3ilmk-1falco-2013-12-12-0956-2-copie.jpg",
+          "id": "2026-05-29-d58b3a2b",
+          "title": "Guerre en Iran : Washington caresse l’espoir d’un accord mais “l’incertitude” demeure",
+          "description": "Les États-Unis ont assuré jeudi s’être mis d’accord avec Téhéran sur un accord-cadre pour mettre fin à la guerre en Iran. Le texte n’attendrait plus que l’approbation de Donald Trump. La presse internationale rappelle cependant que Washington a annoncé à maintes reprises être proche d’un accord, qui ne s’est toujours pas concrétisé.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-guerre-en-iran-washington-caresse-l-espoir-d-un-accord-mais-l-incertitude-demeure_244518",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/28/0/0/7831/5220/1200/630/60/0/3890bd2_ftp-1-1lzurfnpbosw-2026-05-28t222239z-1309172343-rc2lilatvy3l-rtrmadp-3-usa-vance.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-28T03:00:17.000Z",
-          "fetchedAt": "2026-05-28T05:02:59.283Z"
+          "publishedAt": "2026-05-29T04:09:23.000Z",
+          "fetchedAt": "2026-05-29T05:04:28.329Z"
         },
         {
-          "id": "2026-05-27-317b5e2e",
-          "title": "La présence de la ministre Annie Genevard au déjeuner du think tank de Vincent Bolloré fait polémique",
-          "description": "Que faisait la ministre de l’Agriculture à un déjeuner organisé par le think tank créé par Vincent Bolloré, l’Institut de l’Espérance ? Annie Genevard se retrouve au cœur d’une polémique après la révélation de sa participation à cette réunion autour de personnalités conservatrices, proches de la droite radicale et de la sphère médiatique bolloréenne, dans le cadre d’un projet de cercle d’influence politique en vue de l’élection présidentielle de 2027. La polémique enfle.",
-          "url": "https://www.rfi.fr/fr/france/20260527-la-pr%C3%A9sence-de-la-ministre-annie-genevard-au-d%C3%A9jeuner-du-think-tank-de-vincent-bollor%C3%A9-fait-pol%C3%A9mique",
-          "imageUrl": "https://s.rfi.fr/media/display/44fb44ba-5a14-11f1-bd68-005056bfb2b6/w:1024/p:16x9/000-B3FD8RC.jpg",
+          "id": "2026-05-29-7e0018fa",
+          "title": "Aux Etats-Unis, des patients seuls face à leur diagnostic",
+          "description": "Une loi américaine entrée en vigueur en 2021 impose aux hôpitaux et aux laboratoires de communiquer directement aux patients leurs résultats médicaux. Quitte à ce qu’ils affrontent la maladie sans l’accompagnement d’un médecin. Certains d’entre eux font part de leur désarroi sur les réseaux.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/05/29/aux-etats-unis-des-patients-seuls-face-a-leur-diagnostic_6694674_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-29T03:30:05.000Z",
+          "fetchedAt": "2026-05-29T05:04:27.818Z"
+        },
+        {
+          "id": "2026-05-29-f5979e87",
+          "title": "Le Kenya va ouvrir un centre de quarantaine pour les ressortissants américains exposés à Ebola",
+          "description": "Le Kenya a donné son accord pour l’établissement, sur son territoire, d’un centre de quarantaine pour les ressortissants américains exposés au virus ébola. L’information a été confirmée à RFI ce jeudi 28 mai 2026 par une source proche des autorités sanitaires kényanes. La veille, le secrétaire d’État américain Marco Rubio avait promis « qu’aucun cas d’Ebola ne rentrera aux États-Unis ».",
+          "url": "https://www.rfi.fr/fr/afrique/20260529-le-kenya-va-ouvrir-un-centre-de-quarantaine-pour-les-ressortissants-am%C3%A9ricains-expos%C3%A9s-%C3%A0-ebola",
+          "imageUrl": "https://s.rfi.fr/media/display/9347c1fc-8a26-11f0-bd9f-005056bf30b7/w:1024/p:16x9/000-18D4LS.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-27T22:07:46.000Z",
-          "fetchedAt": "2026-05-28T05:03:08.707Z"
+          "publishedAt": "2026-05-29T02:21:53.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.358Z"
         },
         {
-          "id": "2026-05-27-bc91a571",
-          "title": "\"Parti des cafards\" : quand une blague devient un mouvement politique viral",
-          "description": "Le \"Parti populaire des cafards\"... vous connaissez ? Né d'une blague en ligne après les propos polémiques d'un magistrat de la Cour Suprême en Inde relatifs à la jeunesse indienne, ce mouvement a très vite donné naissance à des revendications politiques concrètes jusqu'à inquiéter le gouvernement de Narendra Modi.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260527-parti-des-cafards-quand-une-blague-devient-un-mouvement-politique-viral",
-          "imageUrl": "https://s.france24.com/media/display/174f792c-59f2-11f1-9841-005056bf30b7/w:1024/p:16x9/FRAN260526-2115-Live-CS2115.jpg",
+          "id": "2026-05-29-ea3687a2",
+          "title": "En direct : les États-Unis et l'Iran ont fait \"beaucoup de progrès\" vers un accord, selon J.D. Vance",
+          "description": "Les États-Unis et l'Iran ont fait \"beaucoup de progrès\" vers un accord mais Donald Trump n'est pas encore prêt à l'approuver, a déclaré jeudi le vice-président américain JD Vance. Au Liban, au moins 17 personnes sont mortes dans des frappes israéliennes dans le sud du pays, où Israël a étendu sa \"zone de combat\" contre le Hezbollah pro-iranien, ainsi que près de Beyrouth. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260529-en-direct-moyen-orient-iran-etats-unis-accord-trump-liban",
+          "imageUrl": "https://s.france24.com/media/display/f1516844-362d-11f1-9153-005056a90284/w:1024/p:16x9/2026-04-12T023613Z-1201541175-RC2ENKA9BY8N-RTRMADP-3-IRAN-CRISIS-CEASEFIRE-PAKISTAN.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-27T19:03:52.000Z",
-          "fetchedAt": "2026-05-28T05:02:58.810Z"
+          "publishedAt": "2026-05-29T01:01:45.000Z",
+          "fetchedAt": "2026-05-29T05:04:27.935Z"
+        },
+        {
+          "id": "2026-05-28-6c6b8a8b",
+          "title": "Le Guatemala va mener des opérations conjointes avec les États-Unis contre les narcotrafiquants",
+          "description": "Après l'Équateur, le Guatemala s'est engagé à mener des opérations conjointes avec les États-Unis contre les narcotrafiquants sur son territoire. Information du New York Times. Cette coopération s'inscrit dans la campagne contre les cartels que Washington mène dans la région.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260528-le-guatemala-va-mener-des-op%C3%A9rations-conjointes-avec-les-%C3%A9tats-unis-contre-les-narcotrafiquants",
+          "imageUrl": "https://s.rfi.fr/media/display/f8a80a8c-5ab6-11f1-acf5-005056a90284/w:1024/p:16x9/000-94D94VF.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-28T17:02:30.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.358Z"
         }
       ]
     },
     {
-      "id": "cluster-37",
-      "topic": "La Norvège rejoint la « dissuasion nucléaire avancée » proposée par la France",
+      "id": "cluster-6",
+      "topic": "États-Unis: une fusée Blue Origin explose lors d'un essai sur le site de lanceme",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-27-10ad21e3",
-          "title": "La Norvège rejoint la « dissuasion nucléaire avancée » proposée par la France",
-          "description": "Huit pays avaient été d’emblée associés à la nouvelle doctrine dévoilée en mars par Emmanuel Macron dans un discours à l’île Longue : le Royaume-Uni, l’Allemagne, la Pologne, les Pays-Bas, la Belgique, la Grèce, la Suède et le Danemark.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/28/la-norvege-rejoint-la-dissuasion-nucleaire-avancee-proposee-par-la-france_6694268_3210.html",
+          "id": "2026-05-29-556f5979",
+          "title": "États-Unis: une fusée Blue Origin explose lors d'un essai sur le site de lancement de Cap Canaveral",
+          "description": "La puissante fusée New Glenn de Blue Origin a explosé spectaculairement jeudi lors d'un essai au sol à Cape Canaveral, en Floride, une déconvenue de taille pour l'entreprise spatiale du fondateur d'Amazon Jeff Bezos.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260529-%C3%A9tats-unis-une-fus%C3%A9e-blue-origin-explose-lors-d-un-essai-sur-le-site-de-lancement-de-cap-canaveral",
+          "imageUrl": "https://s.rfi.fr/media/display/5476d7bc-5b16-11f1-8346-005056a97e36/w:1024/p:16x9/NewGlenn.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-29T04:27:53.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.358Z"
+        },
+        {
+          "id": "2026-05-29-701d510b",
+          "title": "Une fusée Blue Origin détruite après avoir explosé sur sa rampe de lancement",
+          "description": "Nouvel échec pour Blue Origin, l'entreprise spatiale de Jeff Bezos : sa fusée New Glenn a explosé jeudi soir lors d'un essai de mise à feu à Cape Canaveral, en Floride. Aucun blessé n'a été signalé.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260529-fusee-blue-origin-new-glenn-detruite-explosion-rampe-de-lancement-jeff-bezos",
+          "imageUrl": "https://s.france24.com/media/display/2547a9c6-5b0c-11f1-bb6e-005056bfb2b6/w:1024/p:16x9/AP26149074421442.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-29T03:16:01.000Z",
+          "fetchedAt": "2026-05-29T05:04:27.935Z"
+        },
+        {
+          "id": "2026-05-29-71995076",
+          "title": "La Suisse pointée du doigt pour avoir renvoyé de force des demandeurs d'asile au Burundi",
+          "description": "Un expert de l'ONU et 40 ONG épinglent la Suisse pour le renvoi forcé de demandeurs d’asile au Burundi. La confédération helvétique est l’un des rares pays d’Europe à appliquer les retours forcés dans les pays qu’elle juge sûrs. Or pour le Burundi, elle se fonde sur une évaluation caduque, alors que le pays pratique la torture, selon les associations de défense des droits de l’Homme. 11 ressortissants du pays aux mille et une collines, dont une famille avec enfants, ont ainsi été renvoyés chez eux le mois dernier.",
+          "url": "https://www.rfi.fr/fr/afrique/20260529-la-suisse-point%C3%A9e-du-doigt-pour-avoir-renvoy%C3%A9-de-force-des-demandeurs-d-asile-au-burundi",
+          "imageUrl": "https://s.rfi.fr/media/display/caa9fe6a-5b0b-11f1-8907-005056bf30b7/w:1024/p:16x9/000-A4EG8KE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-29T03:12:38.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.358Z"
+        },
+        {
+          "id": "2026-05-29-18c06a88",
+          "title": "Comment une “idée folle” a permis une avancée majeure dans le traitement du cancer du pancréas",
+          "description": "L’entreprise Revolution Medicines a indiqué en avril avoir développé un médicament capable d’allonger la durée de vie de patients atteints d’un cancer du pancréas. Ses résultats seront présentés au congrès annuel des oncologues, qui se tient à Chicago du 29 mai au 2 juin. “The New York Times” retrace l’histoire de cette percée majeure.",
+          "url": "https://www.courrierinternational.com/article/sante-comment-une-idee-folle-a-permis-une-avancee-majeure-dans-le-traitement-du-cancer-du-pancreas_244287",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/28/1013/0/3174/2116/1200/630/60/0/dcd013f_upload-1-svkx03gtxyim-pancreatic-cancer-drug-1-5.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-29T03:00:10.000Z",
+          "fetchedAt": "2026-05-29T05:04:28.329Z"
+        },
+        {
+          "id": "2026-05-29-d1a9860d",
+          "title": "Aux Etats-Unis, deux familles afro-américaines portent plainte contre le gouvernement près de soixante ans après la mort de leurs bébés ayant reçu une dose d’un vaccin expérimental",
+          "description": "Les deux nourrissons s’étaient vus administrer à l’hiver 1965-1966, sans le consentement des parents, une version ultra-concentrée d’un essai de vaccin contre le virus respiratoire syncytial, à l’origine de la grande majorité des bronchiolites. Ils étaient morts un an plus tard.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/29/aux-etats-unis-deux-familles-afro-americaines-portent-plainte-contre-le-gouvernement-pres-de-soixante-ans-apres-la-mort-de-leurs-bebes-ayant-recu-une-dose-d-un-vaccin-experimental_6694633_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-27T22:47:25.000Z",
-          "fetchedAt": "2026-05-28T05:02:58.764Z"
+          "publishedAt": "2026-05-29T01:30:33.000Z",
+          "fetchedAt": "2026-05-29T05:04:27.818Z"
         },
         {
-          "id": "2026-05-27-a17b0205",
-          "title": "La France annonce l'entrée de la Norvège dans son projet de \"dissuasion nucléaire avancée\"",
-          "description": "Le président français Emmanuel Macron a annoncé mercredi que la Norvège a rejoint la \"dissuasion nucléaire avancée\" instaurée par la France. À ses côtés, le Premier ministre norvégien Jonas Gahr StøreLa a confirmé qu'Oslo souhaite y participer pour \"contribuer à la sécurité et à la dissuasion européennes contre les menaces militaires\".",
-          "url": "https://www.france24.com/fr/europe/20260527-la-france-annonce-entr%C3%A9e-de-la-norv%C3%A8ge-dans-son-projet-de-dissuasion-nucl%C3%A9aire-avanc%C3%A9e",
-          "imageUrl": "https://s.france24.com/media/display/380124a8-5a07-11f1-a2ef-005056bf30b7/w:1024/p:16x9/2026-05-27T184728Z-1285196072-RC2UHLAGOYCD-RTRMADP-3-FRANCE-NORWAY.jpg",
-          "source": "France 24",
+          "id": "2026-05-29-fdf5a4c7",
+          "title": "Etats-Unis : le Comando Vermelho et le PCC, deux groupes criminels brésiliens classés comme « organisations terroristes »",
+          "description": "Washington interdit ainsi l’accès au territoire américain aux membres de ces cartels et toute transaction financière, sous peine de poursuites ou d’une potentielle intervention militaire.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/29/les-etats-unis-classent-deux-groupes-criminels-bresiliens-le-comando-vermelho-et-le-pcc-comme-organisations-terroristes_6694599_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-27T20:34:59.000Z",
-          "fetchedAt": "2026-05-28T05:02:58.810Z"
+          "publishedAt": "2026-05-29T00:09:44.000Z",
+          "fetchedAt": "2026-05-29T05:04:27.818Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Meta lance des formules payantes d’abonnement pour Instagram, Facebook et WhatsA",
+      "id": "cluster-28",
+      "topic": "Fuites de données : « Le contrat numérique entre l’Etat et le citoyen ne peut pa",
       "category": "tech",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-05-28-386dbde9",
-          "title": "Meta lance des formules payantes d’abonnement pour Instagram, Facebook et WhatsApp",
-          "description": "Il faudra débourser 3,99 dollars (soit 3,43 euros) par mois pour accéder à Instagram Plus et Facebook Plus et 2,99 dollars (soit 2,57 euros) par mois pour WhatsApp Plus, qui proposeront des fonctionnalités supplémentaires.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/05/28/meta-lance-des-formules-payantes-d-abonnement-pour-instagram-facebook-et-whatsapp_6694274_4408996.html",
+          "id": "2026-05-28-23935d9d",
+          "title": "Fuites de données : « Le contrat numérique entre l’Etat et le citoyen ne peut pas être à sens unique »",
+          "description": "Après l’annonce par le premier ministre, le 30 avril, d’un plan pour lutter contre les cyberattaques visant des services de l’Etat, la députée Horizons Marie-Agnès Poussier-Winsback critique, dans une tribune au « Monde », l’absence de disposition protégeant les Français dont les données ont déjà été volées et qui sont pris dans l’engrenage administratif de l’usurpation d’identité.",
+          "url": "https://www.lemonde.fr/idees/article/2026/05/28/fuites-de-donnees-le-contrat-numerique-entre-l-etat-et-le-citoyen-ne-peut-pas-etre-a-sens-unique_6694505_3232.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-05-28T01:24:49.000Z",
-          "fetchedAt": "2026-05-28T05:03:08.688Z"
+          "publishedAt": "2026-05-28T16:00:01.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.231Z"
+        },
+        {
+          "id": "2026-05-28-a40e5c17",
+          "title": "Polymarket : un ingénieur de Google accusé de délit d’initié après avoir gagné 1,2 million de dollars",
+          "description": "L’homme de 36 ans, vivant en Suisse, a été arrêté à New York et inculpé pour « fraudes » et « blanchiment d’argent ». Une enquête du FBI l’accuse d’avoir réalisé des gains spectaculaires sur le site de paris en cryptomonnaies, en profitant de son accès à des documents confidentiels de Google.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/05/28/polymarket-un-ingenieur-de-google-accuse-de-delit-d-initie-apres-avoir-gagne-1-2-million-de-dollars_6694497_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-28T15:29:36.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.231Z"
+        },
+        {
+          "id": "2026-05-28-05f80671",
+          "title": "Un triste « grand Chelem » : Paris franchit un cap climatique alarmant ce jeudi 28 mai 2026",
+          "description": "Paris et sa petite couronne entrent dans l'histoire de la vigilance météorologique pour une raison regrettable, ce jeudi 28 mai 2026. Ce sont les premiers départements à avoir connu une vigilance orange ou rouge canicule aux mois de mai, juin, juillet, août et septembre depuis la création de ce dispositif de Météo-France.",
+          "url": "https://www.numerama.com/sciences/2261979-un-triste-grand-chelem-paris-franchit-un-cap-climatique-alarmant-ce-jeudi-28-mai-2026.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/meteo-france-28-mai-2026.jpg?resize=1600,900&key=98e50282&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-28T15:03:39.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.340Z"
+        },
+        {
+          "id": "2026-05-28-e986f4ac",
+          "title": "L’un des meilleurs jeu vidéo de réflexion est en ce moment à petit prix sur PS5 et Switch",
+          "description": "[Deal du jour] Si les dessins de M.C. Escher pouvaient prendre vie, ce serait dans le style de Monument Valley. Le jeu de réflexion beau et zen est disponible en promotion.",
+          "url": "https://www.numerama.com/pop-culture/2261999-lun-des-meilleurs-jeu-video-de-reflexion-est-en-ce-moment-a-petit-prix-sur-ps5-et-switch.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/monument-valley.jpg?resize=1600,900&key=794fe1a0&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-28T14:29:33.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.340Z"
+        },
+        {
+          "id": "2026-05-28-1467d4d2",
+          "title": "Données de santé : la CNIL inflige une amende de 5 millions d’euros à l’entreprise Iqvia",
+          "description": "Un reportage de « Cash Investigation » diffusé en mai 2021 avait relevé des manquements de cette société partenaire de milliers de pharmacies en France.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/05/28/donnees-de-sante-la-cnil-inflige-une-amende-de-5-millions-d-euros-a-l-entreprise-iqvia_6694483_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-28T14:13:27.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.231Z"
+        },
+        {
+          "id": "2026-05-28-49f5ca5d",
+          "title": "Scary Movie a lancé un site web où les fans peuvent faire faire à Ghostface tout ce qu’ils veulent",
+          "description": "Le retour des frères Wayans s'annonce déjà légendaire. À quelques jours de la sortie du très attendu nouveau Scary Movie, la production vient de lancer un site promotionnel interactif totalement déjanté. Le concept ? Vous tapez un ordre, et Ghostface s’exécute à l’écran. Les internautes s'en donnent déjà à cœur joie et débloquent des vannes cachées très bien senties.",
+          "url": "https://www.numerama.com/pop-culture/2261991-scary-movie-a-lance-un-site-web-ou-les-fans-peuvent-faire-faire-a-ghostface-tout-ce-quils-veulent.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/capture-decran-2026-05-28-a-153734-2.jpg?resize=1600,900&key=5741abcc&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-05-28T13:56:33.000Z",
+          "fetchedAt": "2026-05-29T05:04:41.340Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "Why Fifa is being investigated over World Cup ticket prices",
+      "id": "cluster-7",
+      "topic": "Temu : la Commission européenne met à l’amende le groupe chinois en raison d’une",
       "category": "eco",
-      "importance": 7,
+      "importance": 8,
       "articles": [
         {
-          "id": "2026-05-28-786c2444",
-          "title": "Why Fifa is being investigated over World Cup ticket prices",
-          "description": "New York and New Jersey are looking into the association after fans have reportedly been \"misled\" over ticket sales and seat locations.",
-          "url": "https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7c5a/live/1bc4f3c0-5a28-11f1-89a3-d1f559421220.jpg",
-          "source": "BBC Business",
+          "id": "2026-05-28-39eb5680",
+          "title": "Temu : la Commission européenne met à l’amende le groupe chinois en raison d’une déficience de « l’évaluation des risques » des produits vendus",
+          "description": "Bruxelles reproche au géant du commerce en ligne la vente en Europe de produits qui ne respectent pas les normes de sécurité. Temu devra payer une amende de 200 millions d’euros.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/28/la-commission-europeenne-met-a-l-amende-le-chinois-temu-en-raison-d-une-deficience-de-l-evaluation-des-risques-des-produits-vendus_6694515_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-05-28T00:14:24.000Z",
-          "fetchedAt": "2026-05-28T05:03:20.061Z"
+          "publishedAt": "2026-05-28T16:46:05.000Z",
+          "fetchedAt": "2026-05-29T05:04:52.496Z"
+        },
+        {
+          "id": "2026-05-28-596b49a0",
+          "title": "Aides à domicile : le gouvernement donne son feu vert à la hausse des salaires dans l’associatif et à une aide pérenne pour le carburant",
+          "description": "Alors que les conseils départementaux, cofinanceurs, s’opposaient à l’augmentation des salaires depuis plus d’un an, les ministères concernés se sont désolidarisés et ont donné leur accord jeudi matin lors d’une commission nationale d’agréments.",
+          "url": "https://www.lemonde.fr/societe/article/2026/05/28/aides-a-domicile-le-gouvernement-donne-son-feu-vert-a-la-hausse-des-salaires-dans-l-associatif-et-a-une-aide-perenne-pour-le-carburant_6694491_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-28T14:46:06.000Z",
+          "fetchedAt": "2026-05-29T05:04:52.496Z"
+        },
+        {
+          "id": "2026-05-28-7dd1f774",
+          "title": "Temu : l’UE inflige une amende de 200 millions d’euros au géant chinois du commerce en ligne pour avoir permis la vente de produits illégaux",
+          "description": "Pour prouver cette infraction, la commission européenne s’est notamment appuyée sur des achats réalisés par ses propres équipes, en se faisant passer pour des clients lambda.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/28/l-ue-inflige-une-amende-de-200-millions-d-euros-a-temu-geant-chinois-du-commerce-en-ligne-pour-avoir-permis-la-vente-de-produits-illegaux_6694456_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-28T10:18:53.000Z",
+          "fetchedAt": "2026-05-29T05:04:52.496Z"
         }
       ]
     }
