@@ -1,341 +1,231 @@
 {
-  "generatedAt": "2026-05-29T05:08:28.343Z",
+  "generatedAt": "2026-05-30T04:47:50.621Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-3",
-      "topic": "En Roumanie, un immeuble résidentiel touché par un drone russe, deux blessés lég",
+      "id": "cluster-2",
+      "topic": "EN DIRECT - Moyen-Orient: les États-Unis se disent «tout à fait capables» de rel",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-29-40e29e60",
-          "title": "En Roumanie, un immeuble résidentiel touché par un drone russe, deux blessés légers",
-          "description": "L’engin s’est écrasé sur le toit d’un bâtiment de Galati, une ville située non loin de la frontière avec l’Ukraine, a annoncé le ministère de la défense roumain. La Roumanie, membre de l’OTAN, a dénoncé une « grave et irresponsable escalade ».",
-          "url": "https://www.lemonde.fr/international/article/2026/05/29/en-roumanie-un-immeuble-residentiel-touche-par-un-drone-russe-deux-blesses-legers_6694690_3210.html",
+          "id": "2026-05-30-63111664",
+          "title": "EN DIRECT - Moyen-Orient: les États-Unis se disent «tout à fait capables» de relancer la guerre en Iran",
+          "description": "Malgré des avancées vers une prolongation du cessez-le-feu et la levée des restrictions à la navigation dans le détroit d'Ormuz, le porte-parole du ministère iranien des Affaires étrangères, Esmaeil Baghaei, a démenti toute négociation concernant le nucléaire iranien pour le moment. Sur le front libanais, Israël a annoncé de nouvelles avancées territoriales, alors que des délégations israéliennes et libanaises se sont rencontrées à Washington vendredi 29 mai.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260530-en-direct-moyen-orient-les-%C3%A9tats-unis-se-disent-tout-%C3%A0-fait-capables-de-relancer-la-guerre-en-iran",
+          "imageUrl": "https://s.rfi.fr/media/display/fedc993e-5bda-11f1-a062-005056bf30b7/w:1024/p:16x9/000-B48A7R4.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-30T04:20:01.000Z",
+          "fetchedAt": "2026-05-30T04:43:58.573Z"
+        },
+        {
+          "id": "2026-05-30-c2ecd56c",
+          "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+          "description": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+          "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f155/live/9136a770-5b77-11f1-b93a-99fdf449fe40.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-30T04:19:32.000Z",
+          "fetchedAt": "2026-05-30T04:43:58.946Z"
+        },
+        {
+          "id": "2026-05-30-e5f5d39b",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Washington salue des « discussions constructives » entre militaires israéliens et libanais au Pentagone",
+          "description": "Selon le numéro deux du Pentagone, Elbridge Colby, les échanges qui se sont tenus vendredi « serviront de base au volet politique mené par le département d’Etat la semaine prochaine ». Malgré la trêve censée être en vigueur, Israël a progressé plus en profondeur dans le pays vendredi, tout en poursuivant ses bombardements.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/30/en-direct-guerre-au-moyen-orient-washington-salue-des-discussions-constructives-entre-militaires-israeliens-et-libanais-au-pentagone_6694380_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-29T04:44:38.000Z",
-          "fetchedAt": "2026-05-29T05:04:27.818Z"
+          "publishedAt": "2026-05-30T04:13:18.000Z",
+          "fetchedAt": "2026-05-30T04:43:50.235Z"
         },
         {
-          "id": "2026-05-29-b3f2a43f",
-          "title": "EN DIRECT - Guerre en Ukraine: la Roumanie, frappée par un drone, dénonce «une grave et irresponsable escalade» de la Russie",
-          "description": "Un ⁠drone s'est écrasé ​sur un immeuble résidentiel de la ville de Galati, en ​Roumanie, lors d'une attaque russe contre l'Ukraine voisine, faisant deux blessés légers, ont dit vendredi les autorités roumaines qui ont dénoncé « une grave et irresponsable escalade » de la Russie.",
-          "url": "https://www.rfi.fr/fr/europe/20260529-en-direct-guerre-en-ukraine-la-roumanie-frapp%C3%A9e-par-un-drone-d%C3%A9nonce-une-grave-et-irresponsable-escalade-de-la-russie",
-          "imageUrl": "https://s.rfi.fr/media/display/7fd449b0-5b18-11f1-a44f-005056bfb2b6/w:1024/p:16x9/2026-05-29T040942Z-545499173-RC2SILA7HO8J-RTRMADP-3-UKRAINE-CRISIS-ROMANIA-DRONES.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T04:41:13.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.358Z"
-        },
-        {
-          "id": "2026-05-29-8aafaab8",
-          "title": "La fusée New Glenn de Blue Origin explose spectaculairement sur sa rampe de lancement pendant un essai",
-          "description": "L’explosion au sol à Cap Canaveral, en Floride, n’a fait aucun blessé, a annoncé le propriétaire de l’entreprise spatiale, Jeff Bezos. Plus tôt, la société avait indiqué avoir « constaté une anomalie lors de l’essai de mise à feu » des moteurs de la fusée.",
-          "url": "https://www.lemonde.fr/sciences/article/2026/05/29/la-fusee-new-glenn-de-blue-origin-explose-sur-sa-rampe-de-lancement-pendant-un-essai-a-cap-canaveral_6694680_1650684.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T03:51:49.000Z",
-          "fetchedAt": "2026-05-29T05:04:27.818Z"
-        },
-        {
-          "id": "2026-05-29-d97a063e",
-          "title": "Togo: le PAM alerte sur un risque d'insécurité alimentaire aigüe dans l'extrême nord du pays",
-          "description": "Au Togo, plus de 330 000 personnes pourraient être en insécurité alimentaire aigüe au cours des trois prochains mois s'ils ne reçoivent pas d'aide, selon une projection du PAM, le Programme alimentaire mondial, dans un document publié il y a quelques jours. Ce sont les zones de l'extrême nord du pays qui concentrent le plus de besoins, aggravés par la situation sécuritaire.",
-          "url": "https://www.rfi.fr/fr/afrique/20260529-togo-le-pam-alerte-sur-un-risque-d-ins%C3%A9curit%C3%A9-alimentaire-aig%C3%BCe-dans-l-extr%C3%AAme-nord-du-pays",
-          "imageUrl": "https://s.rfi.fr/media/display/62034f84-201e-11f0-afd8-005056bfb2b6/w:1024/p:16x9/000_43324ZP.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T03:47:24.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.358Z"
-        },
-        {
-          "id": "2026-05-29-ff7ad1f8",
-          "title": "Un drone russe s'écrase sur un immeuble en Roumanie, membre de l'Otan, et fait deux blessés légers",
-          "description": "",
-          "url": "https://www.france24.com/fr/europe/20260529-guerre-ukraine-drone-russe-secrase-immeuble-roumanie-otan-blesses",
-          "imageUrl": "https://s.france24.com/media/display/6aa27a2a-5b0f-11f1-9121-005056a90284/w:1280/p:16x9/2026-05-29T012105Z-921844668-RC2PILAFOHZO-RTRMADP-3-UKRAINE-CRISIS-ROMANIA-DRONES.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T03:36:09.000Z",
-          "fetchedAt": "2026-05-29T05:04:27.935Z"
-        },
-        {
-          "id": "2026-05-29-8e9d2dca",
-          "title": "EN DIRECT, guerre en Ukraine : un drone russe « s’est écrasé » sur un immeuble résidentiel en Roumanie, faisant deux blessés légers, annonce le ministère de la défense roumain",
-          "description": "L’incident s’est produit dans la nuit de jeudi à vendredi dans le sud de la ville de Galati, proche de la frontière avec l’Ukraine. La Roumanie dénonce « une grave et irresponsable escalade » de Moscou. Des incursions de drones dans ce pays membre de l’OTAN ont été détectées à plusieurs reprises depuis le début de l’offensive russe contre Kiev, mais c’est la première fois qu’un de ces engins s’abat sur un immeuble résidentiel.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/29/en-direct-guerre-en-ukraine-un-drone-russe-s-est-ecrase-sur-un-immeuble-residentiel-en-roumanie-faisant-deux-blesses-legers-annonce-le-ministere-de-la-defense-roumain_6693162_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T03:27:31.000Z",
-          "fetchedAt": "2026-05-29T05:04:27.818Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "EN DIRECT - Moyen-Orient: les États-Unis et l'Iran ont fait «beaucoup de progrès",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-05-29-8d52d837",
-          "title": "EN DIRECT - Moyen-Orient: les États-Unis et l'Iran ont fait «beaucoup de progrès» vers un accord, selon J.D. Vance",
-          "description": "Au Liban, Israël a poursuivi ses frappes meurtrières jeudi 28 mai, alors même que l’armée israélienne a étendu sa « zone de combat » contre le Hezbollah pro-iranien, malgré un cessez-le-feu théoriquement en vigueur depuis le 17 avril. Ce vendredi 29 mai, le volet sécuritaire des négociations entre Israël et le Liban s'ouvre à Washington. Sur le terrain des négociations, un protocole d'entente pour prolonger leur cessez-le-feu et lever les restrictions sur la navigation dans le détroit d'Ormuz semble se dessiner entre États-Unis et Iran, sans que Donald Trump ne l'ait encore validé.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260529-en-direct-moyen-orient-les-%C3%A9tats-unis-et-l-iran-ont-fait-beaucoup-de-progr%C3%A8s-vers-un-accord-selon-j-d-vance",
-          "imageUrl": "https://s.rfi.fr/media/display/9e043d9e-5b15-11f1-800a-005056bf30b7/w:1024/p:16x9/2026-05-28T222331Z-582885978-RC2LILAFI68O-RTRMADP-3-USA-VANCE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T04:33:43.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.358Z"
-        },
-        {
-          "id": "2026-05-29-d58b3a2b",
-          "title": "Guerre en Iran : Washington caresse l’espoir d’un accord mais “l’incertitude” demeure",
-          "description": "Les États-Unis ont assuré jeudi s’être mis d’accord avec Téhéran sur un accord-cadre pour mettre fin à la guerre en Iran. Le texte n’attendrait plus que l’approbation de Donald Trump. La presse internationale rappelle cependant que Washington a annoncé à maintes reprises être proche d’un accord, qui ne s’est toujours pas concrétisé.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-guerre-en-iran-washington-caresse-l-espoir-d-un-accord-mais-l-incertitude-demeure_244518",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/28/0/0/7831/5220/1200/630/60/0/3890bd2_ftp-1-1lzurfnpbosw-2026-05-28t222239z-1309172343-rc2lilatvy3l-rtrmadp-3-usa-vance.JPG",
+          "id": "2026-05-30-be74753c",
+          "title": "Guerre en Iran, Ghana, Patrick Bruel et Roland-Garros : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-iran-ghana-patrick-bruel-et-roland-garros-les-informations-de-la-nuit_244560",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/26/0/0/5500/3666/1200/630/60/0/525934d_ftp-1-3co19pks9oth-2026-05-26t080009z-808650682-rc2ugla86ryi-rtrmadp-3-iran-crisis.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-29T04:09:23.000Z",
-          "fetchedAt": "2026-05-29T05:04:28.329Z"
+          "publishedAt": "2026-05-30T03:51:58.000Z",
+          "fetchedAt": "2026-05-30T04:43:50.248Z"
         },
         {
-          "id": "2026-05-29-7e0018fa",
-          "title": "Aux Etats-Unis, des patients seuls face à leur diagnostic",
-          "description": "Une loi américaine entrée en vigueur en 2021 impose aux hôpitaux et aux laboratoires de communiquer directement aux patients leurs résultats médicaux. Quitte à ce qu’ils affrontent la maladie sans l’accompagnement d’un médecin. Certains d’entre eux font part de leur désarroi sur les réseaux.",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/05/29/aux-etats-unis-des-patients-seuls-face-a-leur-diagnostic_6694674_4500055.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T03:30:05.000Z",
-          "fetchedAt": "2026-05-29T05:04:27.818Z"
-        },
-        {
-          "id": "2026-05-29-f5979e87",
-          "title": "Le Kenya va ouvrir un centre de quarantaine pour les ressortissants américains exposés à Ebola",
-          "description": "Le Kenya a donné son accord pour l’établissement, sur son territoire, d’un centre de quarantaine pour les ressortissants américains exposés au virus ébola. L’information a été confirmée à RFI ce jeudi 28 mai 2026 par une source proche des autorités sanitaires kényanes. La veille, le secrétaire d’État américain Marco Rubio avait promis « qu’aucun cas d’Ebola ne rentrera aux États-Unis ».",
-          "url": "https://www.rfi.fr/fr/afrique/20260529-le-kenya-va-ouvrir-un-centre-de-quarantaine-pour-les-ressortissants-am%C3%A9ricains-expos%C3%A9s-%C3%A0-ebola",
-          "imageUrl": "https://s.rfi.fr/media/display/9347c1fc-8a26-11f0-bd9f-005056bf30b7/w:1024/p:16x9/000-18D4LS.jpg",
+          "id": "2026-05-29-b01b4817",
+          "title": "États-Unis: Donald Trump abandonne un projet emblématique, la reprise du Kennedy Center",
+          "description": "Donald Trump a annoncé vendredi 29 mai qu'il allait « travailler avec le Congrès pour lui transférer » le contrôle du Kennedy Center, une célèbre salle de spectacles de Washington, abandonnant de manière abrupte un projet emblématique du style et de la substance du second mandat.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260529-%C3%A9tats-unis-donald-trump-abandonne-un-projet-embl%C3%A9matique-la-reprise-du-kennedy-center",
+          "imageUrl": "https://s.rfi.fr/media/display/a410109a-5bac-11f1-a715-005056bf30b7/w:1024/p:16x9/AP26149774063685.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-29T02:21:53.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.358Z"
+          "publishedAt": "2026-05-29T22:26:50.000Z",
+          "fetchedAt": "2026-05-30T04:43:58.573Z"
         },
         {
-          "id": "2026-05-29-ea3687a2",
-          "title": "En direct : les États-Unis et l'Iran ont fait \"beaucoup de progrès\" vers un accord, selon J.D. Vance",
-          "description": "Les États-Unis et l'Iran ont fait \"beaucoup de progrès\" vers un accord mais Donald Trump n'est pas encore prêt à l'approuver, a déclaré jeudi le vice-président américain JD Vance. Au Liban, au moins 17 personnes sont mortes dans des frappes israéliennes dans le sud du pays, où Israël a étendu sa \"zone de combat\" contre le Hezbollah pro-iranien, ainsi que près de Beyrouth. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260529-en-direct-moyen-orient-iran-etats-unis-accord-trump-liban",
-          "imageUrl": "https://s.france24.com/media/display/f1516844-362d-11f1-9153-005056a90284/w:1024/p:16x9/2026-04-12T023613Z-1201541175-RC2ENKA9BY8N-RTRMADP-3-IRAN-CRISIS-CEASEFIRE-PAKISTAN.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T01:01:45.000Z",
-          "fetchedAt": "2026-05-29T05:04:27.935Z"
-        },
-        {
-          "id": "2026-05-28-6c6b8a8b",
-          "title": "Le Guatemala va mener des opérations conjointes avec les États-Unis contre les narcotrafiquants",
-          "description": "Après l'Équateur, le Guatemala s'est engagé à mener des opérations conjointes avec les États-Unis contre les narcotrafiquants sur son territoire. Information du New York Times. Cette coopération s'inscrit dans la campagne contre les cartels que Washington mène dans la région.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260528-le-guatemala-va-mener-des-op%C3%A9rations-conjointes-avec-les-%C3%A9tats-unis-contre-les-narcotrafiquants",
-          "imageUrl": "https://s.rfi.fr/media/display/f8a80a8c-5ab6-11f1-acf5-005056a90284/w:1024/p:16x9/000-94D94VF.jpg",
+          "id": "2026-05-29-8280e13d",
+          "title": "États-Unis: la Maison Blanche lance aliens.gov pour traquer l'immigration irrégulière",
+          "description": "Un nouveau site web vient d'être lancé par la Maison Blanche aux États-Unis : aliens.gov. Présenté visuellement comme une plateforme sur les phénomènes extraterrestres, son contenu est en réalité entièrement consacré au contrôle de l’immigration irrégulière aux États-Unis.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260529-%C3%A9tats-unis-la-maison-blanche-lance-aliens-gov-pour-traquer-l-immigration-irr%C3%A9guli%C3%A8re",
+          "imageUrl": "https://s.rfi.fr/media/display/55146826-5b9b-11f1-9b48-005056bf30b7/w:1024/p:16x9/Aliens-gov.png",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-28T17:02:30.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.358Z"
+          "publishedAt": "2026-05-29T21:21:28.000Z",
+          "fetchedAt": "2026-05-30T04:43:58.573Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "États-Unis: une fusée Blue Origin explose lors d'un essai sur le site de lanceme",
+      "id": "cluster-8",
+      "topic": "Sithamparappillai Jegatheepan, le boulanger qui fait la meilleure baguette de Pa",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-29-556f5979",
-          "title": "États-Unis: une fusée Blue Origin explose lors d'un essai sur le site de lancement de Cap Canaveral",
-          "description": "La puissante fusée New Glenn de Blue Origin a explosé spectaculairement jeudi lors d'un essai au sol à Cape Canaveral, en Floride, une déconvenue de taille pour l'entreprise spatiale du fondateur d'Amazon Jeff Bezos.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260529-%C3%A9tats-unis-une-fus%C3%A9e-blue-origin-explose-lors-d-un-essai-sur-le-site-de-lancement-de-cap-canaveral",
-          "imageUrl": "https://s.rfi.fr/media/display/5476d7bc-5b16-11f1-8346-005056a97e36/w:1024/p:16x9/NewGlenn.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T04:27:53.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.358Z"
-        },
-        {
-          "id": "2026-05-29-701d510b",
-          "title": "Une fusée Blue Origin détruite après avoir explosé sur sa rampe de lancement",
-          "description": "Nouvel échec pour Blue Origin, l'entreprise spatiale de Jeff Bezos : sa fusée New Glenn a explosé jeudi soir lors d'un essai de mise à feu à Cape Canaveral, en Floride. Aucun blessé n'a été signalé.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260529-fusee-blue-origin-new-glenn-detruite-explosion-rampe-de-lancement-jeff-bezos",
-          "imageUrl": "https://s.france24.com/media/display/2547a9c6-5b0c-11f1-bb6e-005056bfb2b6/w:1024/p:16x9/AP26149074421442.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T03:16:01.000Z",
-          "fetchedAt": "2026-05-29T05:04:27.935Z"
-        },
-        {
-          "id": "2026-05-29-71995076",
-          "title": "La Suisse pointée du doigt pour avoir renvoyé de force des demandeurs d'asile au Burundi",
-          "description": "Un expert de l'ONU et 40 ONG épinglent la Suisse pour le renvoi forcé de demandeurs d’asile au Burundi. La confédération helvétique est l’un des rares pays d’Europe à appliquer les retours forcés dans les pays qu’elle juge sûrs. Or pour le Burundi, elle se fonde sur une évaluation caduque, alors que le pays pratique la torture, selon les associations de défense des droits de l’Homme. 11 ressortissants du pays aux mille et une collines, dont une famille avec enfants, ont ainsi été renvoyés chez eux le mois dernier.",
-          "url": "https://www.rfi.fr/fr/afrique/20260529-la-suisse-point%C3%A9e-du-doigt-pour-avoir-renvoy%C3%A9-de-force-des-demandeurs-d-asile-au-burundi",
-          "imageUrl": "https://s.rfi.fr/media/display/caa9fe6a-5b0b-11f1-8907-005056bf30b7/w:1024/p:16x9/000-A4EG8KE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T03:12:38.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.358Z"
-        },
-        {
-          "id": "2026-05-29-18c06a88",
-          "title": "Comment une “idée folle” a permis une avancée majeure dans le traitement du cancer du pancréas",
-          "description": "L’entreprise Revolution Medicines a indiqué en avril avoir développé un médicament capable d’allonger la durée de vie de patients atteints d’un cancer du pancréas. Ses résultats seront présentés au congrès annuel des oncologues, qui se tient à Chicago du 29 mai au 2 juin. “The New York Times” retrace l’histoire de cette percée majeure.",
-          "url": "https://www.courrierinternational.com/article/sante-comment-une-idee-folle-a-permis-une-avancee-majeure-dans-le-traitement-du-cancer-du-pancreas_244287",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/28/1013/0/3174/2116/1200/630/60/0/dcd013f_upload-1-svkx03gtxyim-pancreatic-cancer-drug-1-5.jpg",
+          "id": "2026-05-30-bbcdce91",
+          "title": "Sithamparappillai Jegatheepan, le boulanger qui fait la meilleure baguette de Paris",
+          "description": "Le nouveau lauréat du prix de la meilleure baguette 2026 livre désormais quotidiennement l’Élysée. Pourtant, il n’aurait jamais cru gagner le prestigieux concours, raconte-t-il dans “Nikkei Asia”, qui retrace son parcours du Sri Lanka en guerre civile aux boulangeries de la capitale française.",
+          "url": "https://www.courrierinternational.com/article/vu-de-tokyo-sithamparappillai-jegatheepan-le-boulanger-qui-fait-la-meilleure-baguette-de-paris_243950",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/26/0/0/4999/3333/1200/630/60/0/fd770c7_upload-1-qdsetg5kiibr-080-hl-bvodant-3096459.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-29T03:00:10.000Z",
-          "fetchedAt": "2026-05-29T05:04:28.329Z"
+          "publishedAt": "2026-05-30T03:00:24.000Z",
+          "fetchedAt": "2026-05-30T04:43:50.248Z"
         },
         {
-          "id": "2026-05-29-d1a9860d",
-          "title": "Aux Etats-Unis, deux familles afro-américaines portent plainte contre le gouvernement près de soixante ans après la mort de leurs bébés ayant reçu une dose d’un vaccin expérimental",
-          "description": "Les deux nourrissons s’étaient vus administrer à l’hiver 1965-1966, sans le consentement des parents, une version ultra-concentrée d’un essai de vaccin contre le virus respiratoire syncytial, à l’origine de la grande majorité des bronchiolites. Ils étaient morts un an plus tard.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/29/aux-etats-unis-deux-familles-afro-americaines-portent-plainte-contre-le-gouvernement-pres-de-soixante-ans-apres-la-mort-de-leurs-bebes-ayant-recu-une-dose-d-un-vaccin-experimental_6694633_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-05-29-ce817a15",
+          "title": "Tour de France 2026: la SNCF transportera les coureurs vers Paris avant la dernière étape",
+          "description": "Les cyclistes du Tour de France voyageront ensemble en train samedi 25 juillet vers Paris, avant la dernière étape qui s'achève aux Champs-Elysées, ont annoncé vendredi 29 mai le PDG de la SNCF Jean Castex et le directeur de l'épreuve sportive Christian Prudhomme. Cette initiative est le principal résultat d'un accord de partenariat de trois ans dévoilé entre la SNCF et la direction des Tour de France masculin et féminin, aux termes duquel la SNCF devient « fournisseur officiel » de la compétition pour les éditions 2026, 2027 et 2028.",
+          "url": "https://www.rfi.fr/fr/sports/20260529-tour-de-france-2026-la-sncf-transportera-les-coureurs-vers-paris-avant-la-derni%C3%A8re-%C3%A9tape",
+          "imageUrl": "https://s.rfi.fr/media/display/83246124-9663-11f0-aa12-005056a97e36/w:1024/p:16x9/000-49NF3XT.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-29T01:30:33.000Z",
-          "fetchedAt": "2026-05-29T05:04:27.818Z"
-        },
-        {
-          "id": "2026-05-29-fdf5a4c7",
-          "title": "Etats-Unis : le Comando Vermelho et le PCC, deux groupes criminels brésiliens classés comme « organisations terroristes »",
-          "description": "Washington interdit ainsi l’accès au territoire américain aux membres de ces cartels et toute transaction financière, sous peine de poursuites ou d’une potentielle intervention militaire.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/29/les-etats-unis-classent-deux-groupes-criminels-bresiliens-le-comando-vermelho-et-le-pcc-comme-organisations-terroristes_6694599_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-29T00:09:44.000Z",
-          "fetchedAt": "2026-05-29T05:04:27.818Z"
+          "publishedAt": "2026-05-29T14:26:53.000Z",
+          "fetchedAt": "2026-05-30T04:43:58.573Z"
         }
       ]
     },
     {
-      "id": "cluster-28",
-      "topic": "Fuites de données : « Le contrat numérique entre l’Etat et le citoyen ne peut pa",
-      "category": "tech",
+      "id": "cluster-13",
+      "topic": "Pete Hegseth, le chef du Pentagone, considère qu’il y a « de quoi légitimement s",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-28-23935d9d",
-          "title": "Fuites de données : « Le contrat numérique entre l’Etat et le citoyen ne peut pas être à sens unique »",
-          "description": "Après l’annonce par le premier ministre, le 30 avril, d’un plan pour lutter contre les cyberattaques visant des services de l’Etat, la députée Horizons Marie-Agnès Poussier-Winsback critique, dans une tribune au « Monde », l’absence de disposition protégeant les Français dont les données ont déjà été volées et qui sont pris dans l’engrenage administratif de l’usurpation d’identité.",
-          "url": "https://www.lemonde.fr/idees/article/2026/05/28/fuites-de-donnees-le-contrat-numerique-entre-l-etat-et-le-citoyen-ne-peut-pas-etre-a-sens-unique_6694505_3232.html",
+          "id": "2026-05-30-cdf2f9ef",
+          "title": "Pete Hegseth, le chef du Pentagone, considère qu’il y a « de quoi légitimement s’alarmer » du renforcement militaire chinois en Asie-Pacifique",
+          "description": "Lors du Dialogue de Shangri-La, à Singapour, sommet sur la sécurité en Asie, le secrétaire à la défense américain a par ailleurs assuré que les Etats-Unis recherchent « un équilibre stable, qui fonctionne à la fois pour les Américains et pour nos alliés ».",
+          "url": "https://www.lemonde.fr/international/article/2026/05/30/pete-hegseth-le-chef-du-pentagone-considere-qu-il-y-a-de-quoi-legitimement-s-alarmer-du-renforcement-militaire-chinois-en-asie-pacifique_6695057_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-28T16:00:01.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.231Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-30T02:45:48.000Z",
+          "fetchedAt": "2026-05-30T04:43:50.235Z"
         },
         {
-          "id": "2026-05-28-a40e5c17",
-          "title": "Polymarket : un ingénieur de Google accusé de délit d’initié après avoir gagné 1,2 million de dollars",
-          "description": "L’homme de 36 ans, vivant en Suisse, a été arrêté à New York et inculpé pour « fraudes » et « blanchiment d’argent ». Une enquête du FBI l’accuse d’avoir réalisé des gains spectaculaires sur le site de paris en cryptomonnaies, en profitant de son accès à des documents confidentiels de Google.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/05/28/polymarket-un-ingenieur-de-google-accuse-de-delit-d-initie-apres-avoir-gagne-1-2-million-de-dollars_6694497_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-28T15:29:36.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.231Z"
-        },
-        {
-          "id": "2026-05-28-05f80671",
-          "title": "Un triste « grand Chelem » : Paris franchit un cap climatique alarmant ce jeudi 28 mai 2026",
-          "description": "Paris et sa petite couronne entrent dans l'histoire de la vigilance météorologique pour une raison regrettable, ce jeudi 28 mai 2026. Ce sont les premiers départements à avoir connu une vigilance orange ou rouge canicule aux mois de mai, juin, juillet, août et septembre depuis la création de ce dispositif de Météo-France.",
-          "url": "https://www.numerama.com/sciences/2261979-un-triste-grand-chelem-paris-franchit-un-cap-climatique-alarmant-ce-jeudi-28-mai-2026.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/meteo-france-28-mai-2026.jpg?resize=1600,900&key=98e50282&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-28T15:03:39.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.340Z"
-        },
-        {
-          "id": "2026-05-28-e986f4ac",
-          "title": "L’un des meilleurs jeu vidéo de réflexion est en ce moment à petit prix sur PS5 et Switch",
-          "description": "[Deal du jour] Si les dessins de M.C. Escher pouvaient prendre vie, ce serait dans le style de Monument Valley. Le jeu de réflexion beau et zen est disponible en promotion.",
-          "url": "https://www.numerama.com/pop-culture/2261999-lun-des-meilleurs-jeu-video-de-reflexion-est-en-ce-moment-a-petit-prix-sur-ps5-et-switch.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/monument-valley.jpg?resize=1600,900&key=794fe1a0&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-28T14:29:33.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.340Z"
-        },
-        {
-          "id": "2026-05-28-1467d4d2",
-          "title": "Données de santé : la CNIL inflige une amende de 5 millions d’euros à l’entreprise Iqvia",
-          "description": "Un reportage de « Cash Investigation » diffusé en mai 2021 avait relevé des manquements de cette société partenaire de milliers de pharmacies en France.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/05/28/donnees-de-sante-la-cnil-inflige-une-amende-de-5-millions-d-euros-a-l-entreprise-iqvia_6694483_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-28T14:13:27.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.231Z"
-        },
-        {
-          "id": "2026-05-28-49f5ca5d",
-          "title": "Scary Movie a lancé un site web où les fans peuvent faire faire à Ghostface tout ce qu’ils veulent",
-          "description": "Le retour des frères Wayans s'annonce déjà légendaire. À quelques jours de la sortie du très attendu nouveau Scary Movie, la production vient de lancer un site promotionnel interactif totalement déjanté. Le concept ? Vous tapez un ordre, et Ghostface s’exécute à l’écran. Les internautes s'en donnent déjà à cœur joie et débloquent des vannes cachées très bien senties.",
-          "url": "https://www.numerama.com/pop-culture/2261991-scary-movie-a-lance-un-site-web-ou-les-fans-peuvent-faire-faire-a-ghostface-tout-ce-quils-veulent.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/capture-decran-2026-05-28-a-153734-2.jpg?resize=1600,900&key=5741abcc&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-28T13:56:33.000Z",
-          "fetchedAt": "2026-05-29T05:04:41.340Z"
+          "id": "2026-05-29-c0c5dbff",
+          "title": "Pékin tente d’endiguer une fuite historique de capitaux",
+          "description": "À la suite d’une fuite massive d’environ 1 000 milliards de dollars de capitaux spéculatifs, les autorités chinoises ont lancé une campagne de répression afin d’endiguer les failles de leur système financier. Des institutions financières à Hong Kong, longtemps bénéficiaires d’un afflux massif de capitaux chinois, seront très certainement affectées.",
+          "url": "https://www.courrierinternational.com/article/finance-pekin-tente-d-endiguer-une-fuite-historique-de-capitaux_244548",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/04/1/0/6000/4000/1200/630/60/0/8f5b0e4_ftp-1-a3yvuyte4yvg-2026-05-04t075414z-1055277116-rc22eja920la-rtrmadp-3-hongkong-listing-three-circle.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-05-29T15:24:08.000Z",
+          "fetchedAt": "2026-05-30T04:43:50.248Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "Temu : la Commission européenne met à l’amende le groupe chinois en raison d’une",
+      "id": "cluster-2",
+      "topic": "La forêt de Fontainebleau menacée par une surfréquentation, entre sites d’escala",
       "category": "eco",
-      "importance": 8,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-05-28-39eb5680",
-          "title": "Temu : la Commission européenne met à l’amende le groupe chinois en raison d’une déficience de « l’évaluation des risques » des produits vendus",
-          "description": "Bruxelles reproche au géant du commerce en ligne la vente en Europe de produits qui ne respectent pas les normes de sécurité. Temu devra payer une amende de 200 millions d’euros.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/28/la-commission-europeenne-met-a-l-amende-le-chinois-temu-en-raison-d-une-deficience-de-l-evaluation-des-risques-des-produits-vendus_6694515_3234.html",
+          "id": "2026-05-30-840f26be",
+          "title": "La forêt de Fontainebleau menacée par une surfréquentation, entre sites d’escalade pris d’assaut et parkings saturés",
+          "description": "Les gestionnaires du massif forestier situé à proximité de la capitale, l’un des sites les plus riches d’Europe en termes de biodiversité, réfléchissent à la manière de faire face à l’afflux croissant de visiteurs.",
+          "url": "https://www.lemonde.fr/planete/article/2026/05/30/la-foret-de-fontainebleau-menacee-par-une-surfrequentation-entre-sites-d-escalade-pris-d-assaut-et-parkings-satures_6695162_3244.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-05-28T16:46:05.000Z",
-          "fetchedAt": "2026-05-29T05:04:52.496Z"
+          "publishedAt": "2026-05-30T04:00:08.000Z",
+          "fetchedAt": "2026-05-30T04:44:06.757Z"
         },
         {
-          "id": "2026-05-28-596b49a0",
-          "title": "Aides à domicile : le gouvernement donne son feu vert à la hausse des salaires dans l’associatif et à une aide pérenne pour le carburant",
-          "description": "Alors que les conseils départementaux, cofinanceurs, s’opposaient à l’augmentation des salaires depuis plus d’un an, les ministères concernés se sont désolidarisés et ont donné leur accord jeudi matin lors d’une commission nationale d’agréments.",
-          "url": "https://www.lemonde.fr/societe/article/2026/05/28/aides-a-domicile-le-gouvernement-donne-son-feu-vert-a-la-hausse-des-salaires-dans-l-associatif-et-a-une-aide-perenne-pour-le-carburant_6694491_3224.html",
+          "id": "2026-05-30-15055816",
+          "title": "« Le départ en vacances est un réflexe conditionné. Moi, je préfère ne pas partir et me consacrer à ce qui me fait vibrer » : pour leurs congés, ils restent à la maison",
+          "description": "Par contrainte ou par choix, quatre Français sur dix ne partent pas en vacances chaque année. Quand ce sédentarisme est voulu, il est l’occasion d’enfin ralentir le rythme. Sans la pression des préparatifs ou du séjour réussi, les vacanciers à domicile peuvent tout simplement se laisser vivre.",
+          "url": "https://www.lemonde.fr/intimites/article/2026/05/30/le-depart-en-vacances-est-un-reflexe-conditionne-moi-je-prefere-ne-pas-partir-et-me-consacrer-a-ce-qui-me-fait-vibrer-pour-leurs-conges-ils-restent-a-la-maison_6695126_6190330.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-05-28T14:46:06.000Z",
-          "fetchedAt": "2026-05-29T05:04:52.496Z"
+          "publishedAt": "2026-05-30T03:30:05.000Z",
+          "fetchedAt": "2026-05-30T04:44:06.757Z"
         },
         {
-          "id": "2026-05-28-7dd1f774",
-          "title": "Temu : l’UE inflige une amende de 200 millions d’euros au géant chinois du commerce en ligne pour avoir permis la vente de produits illégaux",
-          "description": "Pour prouver cette infraction, la commission européenne s’est notamment appuyée sur des achats réalisés par ses propres équipes, en se faisant passer pour des clients lambda.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/28/l-ue-inflige-une-amende-de-200-millions-d-euros-a-temu-geant-chinois-du-commerce-en-ligne-pour-avoir-permis-la-vente-de-produits-illegaux_6694456_3234.html",
+          "id": "2026-05-29-e848bdac",
+          "title": "Audiovisuel public : Catherine Pégard annonce la création d’un baromètre de l’impartialité et l’élaboration de chartes éditoriales par entreprise",
+          "description": "La ministre de la culture va donner suite à au moins deux recommandations formulées par Bruno Lasserre, dont le rapport sur l’impartialité de l’audiovisuel public a été dévoilé le vendredi 29 mai.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/29/audiovisuel-public-catherine-pegard-annonce-la-creation-d-un-barometre-de-l-impartialite-et-l-elaboration-de-chartes-editoriales-par-entreprise_6694803_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-05-28T10:18:53.000Z",
-          "fetchedAt": "2026-05-29T05:04:52.496Z"
+          "publishedAt": "2026-05-29T17:25:54.000Z",
+          "fetchedAt": "2026-05-30T04:44:06.757Z"
+        },
+        {
+          "id": "2026-05-29-03caa3fc",
+          "title": "Une enquête édifiante sur notre dépendance aux engrais et leurs dommages sur les populations",
+          "description": "Dans « Les Ravages de nos engrais », la journaliste Arianna Poletti met en lumière, à hauteur d’hommes et de femmes, l’impact des usages de l’agrochimie.",
+          "url": "https://www.lemonde.fr/idees/article/2026/05/29/une-enquete-edifiante-sur-notre-dependance-aux-engrais-et-leurs-dommages-sur-les-populations_6694795_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-29T17:00:07.000Z",
+          "fetchedAt": "2026-05-30T04:44:06.757Z"
+        },
+        {
+          "id": "2026-05-29-4fabefdf",
+          "title": "Xenia Fedorova, chroniqueuse dans des médias Bolloré, est « une propagandiste patentée » qui « sert la soupe de Vladimir Poutine », accuse Jean-Noël Barrot",
+          "description": "Ancienne patronne de la chaîne russe RT en France, interdite dans l’UE depuis mars 2022 et l’invasion de l’Ukraine par la Russie, Xenia Fedorova défend régulièrement les positions du Kremlin, notamment sur CNews.",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/05/29/xenia-fedorova-est-une-propagandiste-patentee-qui-sert-la-soupe-de-vladimir-poutine-accuse-jean-noel-barrot_6694768_3236.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-29T14:53:43.000Z",
+          "fetchedAt": "2026-05-30T04:44:06.757Z"
+        },
+        {
+          "id": "2026-05-29-d46ce3c9",
+          "title": "TotalEnergies réunit ses actionnaires, entre polémiques sur ses bénéfices et demandes d’une « taxation des superprofits »",
+          "description": "Dopé par la flambée des hydrocarbures, TotalEnergies a dégagé au premier trimestre un bénéfice de 4,96 milliards d’euros (+ 51 % sur un an), relançant le débat sur l’opportunité de taxer les « superprofits ».",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/29/totalenergies-reunit-ses-actionnaires-a-l-heure-de-la-polemique-sur-ses-superprofits_6694738_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-05-29T11:10:52.000Z",
+          "fetchedAt": "2026-05-30T04:44:06.757Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "Pourquoi l’armée opaque des petits robots arpenteurs d’Internet et nourrisseurs ",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-05-30-905b7e0c",
+          "title": "Pourquoi l’armée opaque des petits robots arpenteurs d’Internet et nourrisseurs d’IA héritent des angles morts et des biais du web",
+          "description": "Profondément dépendants d’Internet, qui leur fournit la masse de données nécessaires à leur entraînement, les robots d’intelligence artificielle tels que ChatGPT ne peuvent prétendre à l’exhaustivité : de nombreuses pages leur restent inaccessibles et les informations collectées représentent mal la diversité des cultures humaines.",
+          "url": "https://www.lemonde.fr/idees/article/2026/05/30/pourquoi-l-ia-herite-des-angles-morts-et-des-biais-du-web_6695202_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-05-30T04:30:05.000Z",
+          "fetchedAt": "2026-05-30T04:43:58.654Z"
         }
       ]
     }
