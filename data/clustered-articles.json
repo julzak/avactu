@@ -1,180 +1,136 @@
 {
-  "generatedAt": "2026-05-31T05:16:06.184Z",
+  "generatedAt": "2026-06-01T05:56:41.363Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-3",
-      "topic": "« Trump et Nétanyahou ont érigé leur propre aveuglement au rang d’arme de destru",
+      "id": "cluster-1",
+      "topic": "La France a arraisonné un nouveau pétrolier russe dans l'Atlantique, annonce Emm",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-31-d3a49095",
-          "title": "« Trump et Nétanyahou ont érigé leur propre aveuglement au rang d’arme de destruction massive »",
-          "description": "Que Mahmoud Ahmadinejad ait été envisagé pour diriger de nouveau l’Iran en dit long sur l’effondrement intellectuel de l’alliance israélo-américaine, observe l’historien Jean-Pierre Filiu dans sa chronique.",
-          "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/05/31/trump-et-netanyahou-ont-erige-leur-propre-aveuglement-au-rang-d-arme-de-destruction-massive_6695545_6116995.html",
+          "id": "2026-06-01-fba4ce5b",
+          "title": "La France a arraisonné un nouveau pétrolier russe dans l'Atlantique, annonce Emmanuel Macron",
+          "description": "Emmanuel Macron a annoncé lundi qu'un nouveau pétrolier russe avait été arraisonné par la France la veille. La Marine nationale a reçu \"le soutien de plusieurs partenaires dont le Royaume-Uni\" pour réaliser cette opération, a précisé le président français sur X.",
+          "url": "https://www.france24.com/fr/france/20260601-france-nouveau-p%C3%A9trolier-russe-arraisonn%C3%A9-atlantique-emmanuel-macron",
+          "imageUrl": "https://s.france24.com/media/display/c3abc5fa-5d7a-11f1-b2f1-005056a97e36/w:1024/p:16x9/000-A4CH629.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-01T05:40:53.000Z",
+          "fetchedAt": "2026-06-01T05:52:41.557Z"
+        },
+        {
+          "id": "2026-06-01-087e03b1",
+          "title": "EN DIRECT, guerre en Ukraine : « Un pétrolier sous sanctions internationales en provenance de Russie » a été arraisonné dans l’Atlantique dimanche, dit Emmanuel Macron",
+          "description": "« Cette intervention a été effectuée en Atlantique, en haute mer, avec le soutien de plusieurs partenaires dont le Royaume-Uni, dans le strict respect du droit de la mer », a précisé le chef de l’Etat.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/01/en-direct-guerre-en-ukraine-un-petrolier-sous-sanctions-internationales-en-provenance-de-russie-a-ete-arraisonne-dimanche-annonce-emmanuel-macron_6695365_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-31T05:00:07.000Z",
-          "fetchedAt": "2026-05-31T05:12:05.413Z"
+          "publishedAt": "2026-06-01T05:03:52.000Z",
+          "fetchedAt": "2026-06-01T05:52:40.763Z"
         },
         {
-          "id": "2026-05-31-2e042cec",
-          "title": "Ghana: un nouveau groupe de migrants ouest-africains expulsés des États-Unis est arrivé à Accra",
-          "description": "Après avoir déjà accueilli un groupe de 42 migrants africains expulsés des États-Unis l'an dernier dans le cadre de l'accord migratoire qu'il a conclu avec Washington, le Ghana a récidivé cette semaine : plusieurs personnes originaires d'Afrique de l'Ouest déclarées persona non grata sur le territoire américain y ont atterri jeudi 28 mai. Leur nombre exact reste inconnu à ce stade.",
-          "url": "https://www.rfi.fr/fr/afrique/20260531-ghana-un-nouveau-groupe-de-migrants-ouest-africains-expuls%C3%A9s-des-%C3%A9tats-unis-est-arriv%C3%A9-%C3%A0-accra",
-          "imageUrl": null,
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-31T03:15:49.000Z",
-          "fetchedAt": "2026-05-31T05:12:15.666Z"
-        },
-        {
-          "id": "2026-05-30-cb8abcb6",
-          "title": "L’administration Trump renonce à imposer aux candidats à la « carte verte » de faire leur demande dans leur pays d’origine",
-          "description": "Le 22 mai, les services migratoires annonçaient que les étrangers séjournant temporairement aux Etats-Unis devraient retourner dans leur pays d’origine pour faire une demande de « carte verte ». Selon le ministère de la sécurité intérieure, cela se fera finalement « au cas par cas ».",
-          "url": "https://www.lemonde.fr/international/article/2026/05/30/l-administration-trump-renonce-a-imposer-aux-candidats-a-la-carte-verte-de-faire-leur-demande-dans-leur-pays-d-origine_6695285_3210.html",
+          "id": "2026-05-31-29dc0197",
+          "title": "Seul(e) dans Moscou : comment la résistance russe tente de survivre sous Poutine",
+          "description": "« Face à un pouvoir répressif » (1/3). Depuis l’invasion de l’Ukraine, des « invisibles », journalistes anonymes, avocats ou militants, collectent les informations sur le sort de milliers de prisonniers politiques condamnés à de lourdes peines pour avoir contesté le Kremlin.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/31/seul-e-dans-moscou-comment-la-resistance-russe-tente-de-survivre-sous-poutine_6695602_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-30T18:15:46.000Z",
-          "fetchedAt": "2026-05-31T05:12:05.413Z"
-        },
-        {
-          "id": "2026-05-30-1aac7cd5",
-          "title": "Guerre en Ukraine : Washington promet de poursuivre son soutien à la défense ukrainienne, mais veut « que les Ukrainiens puissent se défendre eux-mêmes ». retrouvez les informations du 24 au 30 mai",
-          "description": "Volodymyr Zelensky a demandé à Donald Trump de fournir à Kiev davantage de missiles pour des systèmes de défense aérienne Patriot, sur fond d’une intensification d’attaques russes.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/30/en-direct-guerre-en-ukraine-washington-promet-de-poursuivre-son-soutien-a-la-defense-ukrainienne-mais-veut-que-les-ukrainiens-puissent-se-defendre-eux-memes_6693162_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-30T18:04:59.000Z",
-          "fetchedAt": "2026-05-31T05:12:05.413Z"
-        },
-        {
-          "id": "2026-05-30-a04d425e",
-          "title": "L'Europe doit s'abstenir de faire «la morale», s'exclame le ministre de la Défense américain, Pete Hegseth",
-          "description": "Depuis Singapour, où il participe à une grande conférence, le ministre américain de la Défense, Pete Hegseth, s'en est de nouveau pris, samedi 30 mai 2026, aux alliés européens de Washington, leur reprochant d'avoir « trop longtemps » ignoré les appels à renforcer leur défense et les appelant à s'abstenir de « faire la morale ».",
-          "url": "https://www.rfi.fr/fr/monde/20260530-l-europe-doit-s-abstenir-de-faire-la-morale-s-exclame-le-ministre-de-la-d%C3%A9fense-am%C3%A9ricain-pete-hegseth",
-          "imageUrl": "https://s.rfi.fr/media/display/1e25b5ec-5b44-11f1-abed-005056a97e36/w:1024/p:16x9/000-B4DB8PQ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-30T08:28:48.000Z",
-          "fetchedAt": "2026-05-31T05:12:15.666Z"
+          "publishedAt": "2026-05-31T17:01:52.000Z",
+          "fetchedAt": "2026-06-01T05:52:40.763Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "EN DIRECT - Moyen-Orient: Israël annonce «étendre à d'autres zones» son opératio",
+      "topic": "Ligue des champions : le PSG de retour à Paris avec le trophée",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-31-19a71e32",
-          "title": "EN DIRECT - Moyen-Orient: Israël annonce «étendre à d'autres zones» son opération terrestre au Liban",
-          "description": "Ce dimanche 31 mai 2026, l'armée israélienne a annoncé que son opération terrestre contre le mouvement pro-iranien Hezbollah « est en train de s'étendre à d'autres zones » après la traversée du fleuve Litani par les militaires, dans le sud du Liban. La traversée du Litani, à une trentaine de kilomètres au nord de la frontière avec Israël, avait été annoncée vendredi par le Premier ministre israélien, qui avait auparavant déclaré qu'une grande partie du sud du Liban était désormais une « zone de combat », en dépit du cessez-le-feu.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260531-en-direct-moyen-orient-isra%C3%ABl-annonce-%C3%A9tendre-%C3%A0-d-autres-zones-son-op%C3%A9ration-terrestre-au-liban",
-          "imageUrl": "https://s.rfi.fr/media/display/7ef4f04a-5c43-11f1-b614-005056a97e36/w:1024/p:16x9/000-B4GY9CQ.jpg",
-          "source": "RFI",
+          "id": "2026-06-01-3d849189",
+          "title": "Ligue des champions : le PSG de retour à Paris avec le trophée",
+          "description": "Le PSG a célébré dimanche à Paris sa victoire en Ligue des champions, du Champ-de-Mars au Parc des Princes en passant par le palais de l'Élysée.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260601-ligue-des-champions-psg-de-retour-paris-troph%C3%A9e",
+          "imageUrl": "https://s.france24.com/media/display/e59c8f5a-5d5c-11f1-8b42-005056a97e36/w:1024/p:16x9/J24-psg-3.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-05-31T04:26:34.000Z",
-          "fetchedAt": "2026-05-31T05:12:15.666Z"
+          "publishedAt": "2026-06-01T05:22:07.000Z",
+          "fetchedAt": "2026-06-01T05:52:41.557Z"
         },
         {
-          "id": "2026-05-31-f37bc32b",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Israël annonce étendre ses opérations au Liban « à d’autres zones »",
-          "description": "L’armée israélienne « a franchi le Litani et étendu ses opérations contre des cibles du Hezbollah au nord du fleuve. L’opération est en train de s’étendre à d’autres zones », a-t-elle écrit sur le réseau social X. Samedi, le premier ministre libanais a dénoncé la « politique de la terre brûlée et de punition collective » menée par l’Etat hébreu.",
-          "url": "https://www.lemonde.fr/international/live/2026/05/31/en-direct-guerre-au-moyen-orient-israel-annonce-etendre-ses-operations-au-liban-a-d-autres-zones_6694380_3210.html",
+          "id": "2026-06-01-7fa0922f",
+          "title": "Les droits des travailleurs sont en recul dans le monde, y compris en France, alerte la Confédération syndicale internationale",
+          "description": "Dans l’Hexagone, le déclin des droits est « caractérisé par une répression des militants syndicaux et des restrictions imposées aux manifestations », constate l’organisation dans son indice annuel.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/01/les-droits-des-travailleurs-sont-en-recul-dans-le-monde-y-compris-en-france-et-aux-etats-unis-s-alarme-la-confederation-syndicale-internationale_6695710_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-31T04:11:31.000Z",
-          "fetchedAt": "2026-05-31T05:12:05.413Z"
+          "publishedAt": "2026-06-01T00:58:42.000Z",
+          "fetchedAt": "2026-06-01T05:52:40.763Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "La réunification de la Moldavie avec la Roumanie, une « voie de secours » pour l",
+      "id": "cluster-10",
+      "topic": "EN DIRECT - Moyen-Orient: les États-Unis frappent des sites iraniens, riposte de",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-05-31-891ebb7f",
-          "title": "La réunification de la Moldavie avec la Roumanie, une « voie de secours » pour les partisans de l’adhésion à l’UE",
-          "description": "De part et d’autre de la frontière, les mouvements unionistes ne sont pas l’apanage d’une extrême droite nationaliste et eurosceptique. De nombreux responsables pro-européens soutiennent cette idée, dans le cas où une adhésion de la Moldavie tarderait à se concrétiser.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/31/la-reunification-de-la-moldavie-avec-la-roumanie-une-voie-de-secours-pour-les-partisans-de-l-adhesion-a-l-ue_6695433_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-31T03:30:05.000Z",
-          "fetchedAt": "2026-05-31T05:12:05.413Z"
-        },
-        {
-          "id": "2026-05-31-a5077bb7",
-          "title": "En Palestine, la communauté chrétienne confrontée aux attaques de colons et à l’exode de ses habitants",
-          "description": "Cernée par les colonies juives, la ville de Taybeh, en Cisjordanie, se vide de ses habitants chrétiens, dont l’accès à leurs terres agricoles, à leurs ressources et parfois à leurs habitations se restreint jour après jour. A Jérusalem, l’agression d’une religieuse témoigne d’une tension croissante.",
-          "url": "https://www.lemonde.fr/international/article/2026/05/31/en-palestine-la-communaute-chretienne-confrontee-aux-attaques-de-colons-et-a-l-exode-de-ses-habitants_6695363_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-31T03:00:12.000Z",
-          "fetchedAt": "2026-05-31T05:12:05.413Z"
-        },
-        {
-          "id": "2026-05-31-6df7c967",
-          "title": "Guinée: les électeurs appelés aux urnes pour des élections législatives et communales",
-          "description": "Cinq mois après la présidentielle de décembre dernier remportée par le général Mamadi Doumbouya qui avait pris le pouvoir par la force en septembre 2021, des élections législatives et communales sont organisées ce dimanche 31 mai en Guinée. Les deux scrutins sont considérés comme ceux qui viennent clore le processus de retour du pays à l'ordre constitutionnel.",
-          "url": "https://www.rfi.fr/fr/afrique/20260531-guin%C3%A9e-les-%C3%A9lecteurs-appel%C3%A9s-aux-urnes-pour-des-%C3%A9lections-l%C3%A9gislatives-et-communales",
-          "imageUrl": null,
+          "id": "2026-06-01-c2b5e994",
+          "title": "EN DIRECT - Moyen-Orient: les États-Unis frappent des sites iraniens, riposte des Gardiens de la Révolution",
+          "description": "Les États-Unis ont annoncé, dimanche 31 mai, avoir mené des frappes pendant le week-end dans le sud de l'Iran, ciblant des systèmes de radar et de contrôle de drones, malgré le cessez-le-feu en vigueur entre les deux pays. Ce lundi 1er juin, les Gardiens de la Révolution disent avoir ciblé une base utilisée par l'armée américaine pour des frappes contre leur territoire.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260601-en-direct-moyen-orient-les-%C3%A9tats-unis-frappent-des-sites-iraniens-riposte-des-gardiens-de-la-r%C3%A9volution",
+          "imageUrl": "https://s.rfi.fr/media/display/433d3992-5d72-11f1-96f8-005056a90284/w:1024/p:16x9/2026-05-30T075752Z-968363709-RC2JJLAKKRZQ-RTRMADP-3-IRAN-CRISIS.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-05-31T02:34:36.000Z",
-          "fetchedAt": "2026-05-31T05:12:15.666Z"
+          "publishedAt": "2026-06-01T04:29:17.000Z",
+          "fetchedAt": "2026-06-01T05:52:55.232Z"
         },
         {
-          "id": "2026-05-30-d9d7b8ab",
-          "title": "Anne Alombert, philosophe : « Léon XIV, à partir de l’IA, se livre à un véritable plaidoyer pour l’action publique »",
-          "description": "La philosophe analyse, dans un entretien au « Monde », « Magnifica humanitas », l’encyclique que le pape vient de publier, où il se focalise particulièrement sur l’enjeu de l’IA, dont Anne Alombert est spécialiste. Selon elle, si ce texte souligne les dangers de cette industrie, il évite la facilité de considérer les technologies numériques comme un mal en soi.",
-          "url": "https://www.lemonde.fr/idees/article/2026/05/30/anne-alombert-philosophe-leon-xiv-a-partir-de-l-ia-se-livre-a-un-veritable-plaidoyer-pour-l-action-publique_6695281_3232.html",
+          "id": "2026-06-01-f40fd7be",
+          "title": "EN DIRECT, guerre au Moyen-Orient : nouveaux tirs de missiles entre les Etats-Unis et l’Iran au cours du week-end",
+          "description": "L’armée américaine a annoncé avoir attaqué des systèmes de radar et contrôle de drones iraniens, « en réponse à des actions agressives, dont la destruction d’un drone MQ-1 ». Les gardiens de la révolution iraniens ont, eux, annoncé avoir ciblé une base utilisée par les Etats-Unis dans la région, sans plus de détails.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/01/en-direct-guerre-au-moyen-orient-le-qatar-appelle-la-communaute-internationale-a-contraindre-israel-a-mettre-fin-a-ses-agressions-repetees-contre-le-liban_6694380_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-05-30T17:00:10.000Z",
-          "fetchedAt": "2026-05-31T05:12:05.413Z"
+          "publishedAt": "2026-06-01T03:28:53.000Z",
+          "fetchedAt": "2026-06-01T05:52:40.763Z"
         },
         {
-          "id": "2026-05-30-0a3b5a8c",
-          "title": "En images | Les hippopotames de Pablo Escobar, une attraction touristique devenue une véritable menace pour les habitants et la biodiversité colombienne",
-          "description": "Achetés dans les années 1980 par le célèbre narcotrafiquant, ces animaux ont proliféré. On compte désormais plus de 200 hippopotames en Colombie. Malgré les difficultés de cohabitation, ces pachydermes sont devenus une manne financière pour le tourisme.",
-          "url": "https://www.lemonde.fr/planete/article/2026/05/30/en-images-les-hippopotames-de-pablo-escobar-une-attraction-touristique-devenue-une-veritable-menace-pour-les-habitants-et-la-biodiversite-colombienne_6695265_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-05-31-5c93f611",
+          "title": "Trump seeking edits to US-Iran deal, US media report",
+          "description": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+          "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d487/live/024e7340-5d3d-11f1-8906-91bbcad8293d.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-05-30T14:00:09.000Z",
-          "fetchedAt": "2026-05-31T05:12:05.413Z"
-        },
-        {
-          "id": "2026-05-30-5e3493c3",
-          "title": "Comment éviter de se ridiculiser dans un pub britannique",
-          "description": "Au premier regard, un pub britannique bondé peut ressembler à un joyeux chaos. En réalité, la culture du pub est régie par un ensemble de règles tacites, mais rigoureuses que méconnaissent souvent les visiteurs étrangers. À leur usage, la presse britannique n’hésite pas à proposer des “guides de survie au pub”.",
-          "url": "https://www.courrierinternational.com/article/societe-comment-eviter-de-se-ridiculiser-dans-un-pub-britannique_242736",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/09/0/0/5938/3959/1200/630/60/0/679cad4_upload-1-yvjcsacbq4us-victor-clime-0l-igr1-3fe-unsplash.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-30T12:16:50.000Z",
-          "fetchedAt": "2026-05-31T05:12:05.511Z"
+          "publishedAt": "2026-05-31T22:54:20.000Z",
+          "fetchedAt": "2026-06-01T05:52:54.650Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "IA : SoftBank va investir 75 milliards d’euros dans des infrastructures en Franc",
+      "id": "cluster-6",
+      "topic": "Le dernier sommet Choose France d’Emmanuel Macron confirme la course au gigantis",
       "category": "tech",
-      "importance": 10,
+      "importance": 8,
       "articles": [
+        {
+          "id": "2026-06-01-b2f55cdf",
+          "title": "Le dernier sommet Choose France d’Emmanuel Macron confirme la course au gigantisme des centres de données pour l’intelligence artificielle",
+          "description": "En plus des 75 milliards d’euros promis par le groupe japonais SoftBank, le plus important de ce type en Europe, le sommet sera marqué par l’annonce de plusieurs autres projets d’infrastructures numériques.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/01/le-dernier-sommet-choose-france-d-emmanuel-macron-confirme-la-course-au-gigantisme-des-centres-de-donnees-pour-l-intelligence-artificielle_6695879_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-06-01T03:45:12.000Z",
+          "fetchedAt": "2026-06-01T05:52:54.613Z"
+        },
         {
           "id": "2026-05-30-9ac19515",
           "title": "IA : SoftBank va investir 75 milliards d’euros dans des infrastructures en France",
@@ -183,49 +139,27 @@
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-05-30T20:53:37.000Z",
-          "fetchedAt": "2026-05-31T05:12:15.637Z"
-        },
-        {
-          "id": "2026-05-29-58c07c06",
-          "title": "G7 numérique : la France se félicite de l’adoption de déclarations sur l’IA, notamment sur la protection de l’enfance",
-          "description": "La réunion des ministres du numérique du G7, vendredi à Paris, a abouti à une déclaration commune sur les enjeux du secteur, comportant des avancées sur la protection des mineurs et une timide reconnaissance de la voracité énergétique de l’intelligence artificielle.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/29/g7-numerique-la-france-se-felicite-de-l-adoption-de-declarations-sur-l-ia-notamment-sur-la-protection-de-l-enfance_6694823_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-05-29T20:31:23.000Z",
-          "fetchedAt": "2026-05-31T05:12:15.637Z"
-        },
-        {
-          "id": "2026-05-29-811b46ef",
-          "title": "Quels sont les métros climatisés à Paris ?",
-          "description": "Dans les transports en commun d'Île-de-France, toutes les lignes ne sont pas « climatisées ». Voici les lignes à privilégier (métros, RER, tramways) si l'on veut voyager au frais à Paris, même en pleine canicule.",
-          "url": "https://www.numerama.com/vroom/1442220-canicule-2026-les-lignes-de-metro-et-rer-climatisees-a-paris.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2023/08/metro-paris-envato.jpg?resize=1600,900&key=2d81b958&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-05-29T09:55:04.000Z",
-          "fetchedAt": "2026-05-31T05:12:15.747Z"
+          "publishedAt": "2026-05-30T20:53:36.000Z",
+          "fetchedAt": "2026-06-01T05:52:54.613Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "A Caen, la montée des eaux oblige à inventer un quartier démontable dans cinquan",
+      "id": "cluster-1",
+      "topic": "Nvidia announces new AI chip for personal computers",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-05-31-e814b621",
-          "title": "A Caen, la montée des eaux oblige à inventer un quartier démontable dans cinquante ans",
-          "description": "Les prévisions de hausse du niveau des océans ont obligé la métropole normande à revoir tout son projet d’aménagement de sa presqu’île. La nouvelle copie, qui anticipe un retrait progressif, privilégie l’hébergement de courte durée à du logement pérenne.",
-          "url": "https://www.lemonde.fr/economie/article/2026/05/31/a-caen-la-montee-des-eaux-oblige-a-inventer-un-quartier-demontable-dans-cinquante-ans_6695503_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-06-01-3b9843c3",
+          "title": "Nvidia announces new AI chip for personal computers",
+          "description": "The technology giant's boss Jensen Huang called the move the \"reinvention of the computer\".",
+          "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fd19/live/7becaec0-5d7d-11f1-9ce5-234247f246fc.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-05-31T04:00:13.000Z",
-          "fetchedAt": "2026-05-31T05:12:23.678Z"
+          "publishedAt": "2026-06-01T05:48:27.000Z",
+          "fetchedAt": "2026-06-01T05:53:04.880Z"
         }
       ]
     }
