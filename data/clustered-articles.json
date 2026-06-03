@@ -1,242 +1,264 @@
 {
-  "generatedAt": "2026-06-02T05:25:34.741Z",
+  "generatedAt": "2026-06-03T05:58:46.410Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "EN DIRECT - Moyen-Orient: l'ONU s'inquiète du non-respect du cessez-le-feu entre",
+      "id": "cluster-1",
+      "topic": "Seven killed in drone attack on bus in Russia-controlled part of Ukraine",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-02-24a2233d",
-          "title": "EN DIRECT - Moyen-Orient: l'ONU s'inquiète du non-respect du cessez-le-feu entre Israël et le Hezbollah",
-          "description": "Israël et le Hezbollah ont poursuivi leurs affrontements, dans la nuit du 1er au 2 juin, malgré l'annonce par Donald Trump de l'accord pour cesser les hostilités avant un nouveau cycle de négociations entre Libanais et Israéliens ce 2 juin à Washington. Face à l'offensive d'Israël au Liban, les Gardiens de la Révolution iraniens avaient menacé de leur côté d'ouvrir de « nouveaux fronts ». Lundi, le secrétaire général de l'ONU a recommandé de maintenir des troupes onusiennes au Liban après le départ fin 2026 de la force de maintien de la paix actuelle.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260602-en-direct-moyen-orient-l-onu-s-inqui%C3%A8te-du-non-respect-du-cessez-le-feu-entre-isra%C3%ABl-et-le-hezbollah",
-          "imageUrl": "https://s.rfi.fr/media/display/f7165e0e-5e39-11f1-9554-005056bfb2b6/w:1024/p:16x9/000-B4NA9GG.jpg",
-          "source": "RFI",
+          "id": "2026-06-03-6cf07ecb",
+          "title": "Seven killed in drone attack on bus in Russia-controlled part of Ukraine",
+          "description": "The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says.",
+          "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/163d/live/5daad590-5f08-11f1-a71c-b5829ec0cc2c.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-06-02T05:09:20.000Z",
-          "fetchedAt": "2026-06-02T05:21:48.620Z"
+          "publishedAt": "2026-06-03T05:42:47.000Z",
+          "fetchedAt": "2026-06-03T05:55:00.062Z"
         },
         {
-          "id": "2026-06-02-3e1de7e4",
-          "title": "EN DIRECT, guerre au Moyen-Orient : les affrontements se poursuivent entre le Hezbollah et Israël malgré les déclarations d’apaisement de Donald Trump",
-          "description": "Le Hezbollah a revendiqué des attaques contre l’armée israélienne dans le sud du Liban, tandis que l’agence officielle libanaise y a signalé des frappes israéliennes sur plusieurs villages. Ces échanges de tirs se produisent alors que le président américain a assuré que le mouvement pro-iranien et l’Etat hébreu allaient cesser les hostilités.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/02/en-direct-guerre-au-moyen-orient-les-affrontements-se-poursuivent-entre-le-hezbollah-et-israel-malgre-les-declarations-d-apaisement-de-donald-trump_6694380_3210.html",
+          "id": "2026-06-03-f2bf9615",
+          "title": "Guerre en Ukraine : la Russie profite du déficit de Patriot pour frapper Kiev et Dnipro avec des missiles hypersoniques",
+          "description": "Lors de son attaque massive du 2 juin, qui a tué 23 personnes, l’armée russe a utilisé des projectiles qui ne peuvent être interceptés que par le système antibalistique américain. Volodymyr Zelensky a demandé, une nouvelle fois, à ses alliés occidentaux de lui fournir davantage d’intercepteurs de ce type.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/03/guerre-en-ukraine-la-russie-profite-du-deficit-de-patriot-pour-frapper-kiev-et-dnipro-avec-des-missiles-hypersoniques_6696539_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-02T04:29:30.000Z",
-          "fetchedAt": "2026-06-02T05:21:34.400Z"
+          "publishedAt": "2026-06-03T04:10:07.000Z",
+          "fetchedAt": "2026-06-03T05:54:45.935Z"
         },
         {
-          "id": "2026-06-02-4488506a",
-          "title": "En Israël, la guerre comme seul horizon politique et stratégique",
-          "description": "Lundi 1ᵉʳ juin soir, Donald Trump a intimé l’ordre aux Israéliens de ne pas attaquer Beyrouth. Comme à Gaza ou pour l’Iran, seul le président américain parvient à limiter l’usage de la force militaire par Israël. Ce qui agace jusqu’au sein de la coalition gouvernementale, fragilisant le premier ministre, Benyamin Nétanyahou.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/02/en-israel-la-guerre-comme-seul-horizon-politique-et-strategique_6696297_3210.html",
+          "id": "2026-06-03-6e1d106c",
+          "title": "EN DIRECT, guerre en Ukraine : une frappe de drone ukrainienne sur un bus reliant Moscou à la Crimée fait sept morts , selon les autorités locales prorusses",
+          "description": "Onze personnes ont également été blessées au cours de cette frappe, ont rapporté les autorités de l’oblast ukrainien de Donetsk, annexé par la Russie, où a eu lieu l’attaque.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/03/en-direct-guerre-en-ukraine-apres-les-dernieres-frappes-russes-qui-ont-fait-au-moins-23-morts-a-kiev-et-dnipro-la-population-appelee-a-la-prudence_6695365_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-02T03:45:05.000Z",
-          "fetchedAt": "2026-06-02T05:21:34.400Z"
+          "publishedAt": "2026-06-03T04:01:43.000Z",
+          "fetchedAt": "2026-06-03T05:54:45.935Z"
         },
         {
-          "id": "2026-06-02-6fe2e1cb",
-          "title": "Ebola: les pays de la Communauté d'Afrique de l'Est se réunissent pour tenter de coordonner leur réponse à l'épidémie",
-          "description": "Les ministres de la Santé des huit pays membres de la Communauté d'Afrique de l'Est (EAC) se réunissent lundi 1er et mardi 2 juin pour tenter d'harmoniser leur réponse à l'épidémie d'Ebola dont l'épicentre se trouve en Ituri, dans l'est de la RDC. Un rendez-vous dont la temporalité interroge puisqu'il intervient plus de deux semaines après la déclaration officielle de la maladie et que l'EAC dit avoir déjà activé plusieurs mécanismes techniques de coordination et de surveillance sanitaire.",
-          "url": "https://www.rfi.fr/fr/afrique/20260602-ebola-les-pays-de-la-communaut%C3%A9-d-afrique-de-l-est-se-r%C3%A9unissent-pour-tenter-de-coordonner-leur-r%C3%A9ponse-%C3%A0-l-%C3%A9pid%C3%A9mie",
-          "imageUrl": "https://s.rfi.fr/media/display/64182fd8-562d-11f1-b963-005056a97e36/w:1024/p:16x9/2026-05-19T154031Z-649418280-RC28CLA6LPEI-RTRMADP-3-HEALTH-EBOLA.jpg",
+          "id": "2026-06-02-2cb8a85c",
+          "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+          "description": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
+          "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8a79/live/ddbe4530-5e8d-11f1-89a3-d1f559421220.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-02T23:33:34.000Z",
+          "fetchedAt": "2026-06-03T05:55:00.062Z"
+        },
+        {
+          "id": "2026-06-02-82f341a3",
+          "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+          "description": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
+          "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a4a9/live/364daf50-5ead-11f1-9877-71c2729415b9.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-02T19:13:21.000Z",
+          "fetchedAt": "2026-06-03T05:55:00.062Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-9",
+      "topic": "EN DIRECT - Moyen-Orient: les États-Unis affirment avoir repoussé des attaques i",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-03-ee8039bc",
+          "title": "EN DIRECT - Moyen-Orient: les États-Unis affirment avoir repoussé des attaques iraniennes dans le Golfe",
+          "description": "L'armée américaine a affirmé, mardi 2 juin, avoir repoussé plusieurs attaques iraniennes, par missiles et drones, contre ses bases et ses alliés dans la région, et répliqué en bombardant au sol une île iranienne. Alors qu'une quatrième session de pourparlers s'est tenue à Washington entre Israël et le Liban.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260603-en-direct-moyen-orient-les-%C3%A9tats-unis-affirment-avoir-repouss%C3%A9-des-attaques-iraniennes-dans-le-golfe",
+          "imageUrl": "https://s.rfi.fr/media/display/8f175910-5f02-11f1-95bb-005056bf30b7/w:1024/p:16x9/000-B4PF4MW.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-02T03:06:36.000Z",
-          "fetchedAt": "2026-06-02T05:21:48.620Z"
+          "publishedAt": "2026-06-03T04:20:07.000Z",
+          "fetchedAt": "2026-06-03T05:55:00.108Z"
         },
         {
-          "id": "2026-06-02-c49bf757",
-          "title": "Mort du fondateur de Mango : une affaire familiale qui stupéfie l’Espagne",
-          "description": "En Espagne, c’est une affaire qui fascine autant qu’elle sidère. Héritier de l’empire Mango, Jonathan Andic est accusé d’avoir provoqué la mort du fondateur de la marque lors d’une randonnée en Catalogne. Au fil de l’enquête émerge le récit d’une relation père-fils abîmée par l’argent et les blessures familiales, comme le raconte le quotidien “ABC”.",
-          "url": "https://www.courrierinternational.com/article/justice-mort-du-fondateur-de-mango-une-affaire-familiale-qui-stupefie-l-espagne_244494",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/19/81/0/4919/3279/1200/630/60/0/b24f8c4_ftp-1-pdtrgh1fn1wc-2026-05-19t182649z-874268472-rc2fcla7ipuv-rtrmadp-3-mango-spain-andic-investigation.JPG",
-          "source": "Courrier International",
+          "id": "2026-06-03-bf3ab721",
+          "title": "Comment le système d’assurance-maladie fonctionne-t-il aux Etats-Unis ? Comprendre en trois minutes",
+          "description": "L’assassinat du PDG de United Healthcare, la principale compagnie d’assurances médicales privée des Etats-Unis, le 4 décembre 2024, a relancé le débat sur les dysfonctionnements de la couverture médicale du pays.",
+          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/06/03/comment-le-systeme-d-assurance-maladie-fonctionne-t-il-aux-etats-unis-comprendre-en-trois-minutes_6696538_6176282.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-02T03:00:19.000Z",
-          "fetchedAt": "2026-06-02T05:21:34.835Z"
+          "publishedAt": "2026-06-03T04:00:23.000Z",
+          "fetchedAt": "2026-06-03T05:54:45.935Z"
         },
         {
-          "id": "2026-06-02-5fb9726c",
-          "title": "En direct : nouveaux affrontements entre Israël et le Hezbollah avant une reprise des négociations",
-          "description": "Israël et le Hezbollah ont poursuivi leurs affrontements dans la nuit de lundi à mardi malgré l'annonce par Donald Trump de l'accord des deux camps pour cesser les hostilités avant un nouveau cycle de négociations entre Libanais et Israéliens mardi à Washington. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260602-en-direct-moyen-orient-liban-hezbollah-attaque-israel-trump",
-          "imageUrl": "https://s.france24.com/media/display/9ba6ee48-5e2b-11f1-8e8c-005056bf30b7/w:1024/p:16x9/AP26152621695524.jpg",
+          "id": "2026-06-03-8187c07b",
+          "title": "L’administration Trump, sous pression des élus républicains, recule sur la création d’un fonds d’indemnisation dont auraient pu bénéficier les émeutiers du Capitole",
+          "description": "A moins de six mois des élections de mi-mandat, de nombreux sénateurs du Parti républicain s’étaient opposés à la mise en place de ce fonds doté d’1,8 milliard de dollars. Le projet était par ailleurs gelé par un juge fédéral.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/03/l-administration-trump-sous-pression-des-elus-republicains-recule-sur-la-creation-d-un-fonds-d-indemnisation-dont-auraient-pu-beneficier-les-emeutiers-du-capitole_6696531_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T03:30:08.000Z",
+          "fetchedAt": "2026-06-03T05:54:45.935Z"
+        },
+        {
+          "id": "2026-06-03-1221ca4e",
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dit avoir abattu des missiles et des drones iraniens visant ses bases et ses alliés dans le Golfe",
+          "description": "Le commandement militaire américain pour le Moyen-Orient a déclaré avoir repoussé plusieurs attaques iraniennes vers Bahreïn et le Koweït, et avoir répliqué en bombardant au sol une île iranienne.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/03/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-abattu-des-missiles-et-des-drones-iraniens-visant-ses-bases-et-ses-allies-dans-le-golfe_6694380_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T03:24:07.000Z",
+          "fetchedAt": "2026-06-03T05:54:45.935Z"
+        },
+        {
+          "id": "2026-06-03-f1f7ee89",
+          "title": "Soucieuse de réduire sa dépendance aux géants américains du numérique, l'UE dévoile un plan de souveraineté technologique",
+          "description": "Consciente que les 27 restent structurellement dépendants de fournisseurs principalement américains pour leurs produits, services et infrastructures numériques, la Commission européenne va présenter, mercredi 3 juin, un plan visant à réduire le recours aux services fournis par les Gafam sur le Vieux Continent et à promouvoir des solutions « made in Europe ».",
+          "url": "https://www.rfi.fr/fr/europe/20260603-soucieuse-de-r%C3%A9duire-sa-d%C3%A9pendance-aux-g%C3%A9ants-am%C3%A9ricains-du-num%C3%A9rique-l-ue-d%C3%A9voile-un-plan-de-souverainet%C3%A9-technologique",
+          "imageUrl": "https://s.rfi.fr/media/display/24d2d9a0-2328-11f1-b28a-005056a90284/w:1024/p:16x9/000-A3RR6WE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T03:06:58.000Z",
+          "fetchedAt": "2026-06-03T05:55:00.108Z"
+        },
+        {
+          "id": "2026-06-03-70fde34b",
+          "title": "En direct : l'armée américaine dit avoir repoussé des attaques de missiles iraniens dans le Golfe",
+          "description": "",
+          "url": "https://www.france24.com/fr/moyen-orient/20260603-en-direct-moyen-orient-iran-attaques-missiles-golfe-etats-unis-trump-liban-israel",
+          "imageUrl": "https://s.france24.com/media/display/ffe10272-5f07-11f1-9fd4-005056bf30b7/w:1280/p:16x9/AP26084275139298.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-02T02:40:36.000Z",
-          "fetchedAt": "2026-06-02T05:21:34.378Z"
+          "publishedAt": "2026-06-03T02:32:04.000Z",
+          "fetchedAt": "2026-06-03T05:54:46.469Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-14",
+      "topic": "Une décision de la justice européenne pourrait faire reculer la transparence fin",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-03-dd2d2599",
+          "title": "Une décision de la justice européenne pourrait faire reculer la transparence financière",
+          "description": "En Lettonie, des actionnaires minoritaires d’une société refusent que leur nom apparaisse au registre du commerce. Remonté jusqu’à la Cour de justice de l’Union européenne, leur recours pourrait entraîner un nouveau recul de la transparence à l’échelle du continent.",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/06/03/une-decision-de-la-justice-europeenne-pourrait-faire-reculer-la-transparence-financiere_6696532_4355770.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T03:30:18.000Z",
+          "fetchedAt": "2026-06-03T05:54:45.935Z"
+        },
+        {
+          "id": "2026-06-03-7a935253",
+          "title": "Au Royaume-Uni, l’extrême droite instrumentalise les errances de la police après le meurtre d’un étudiant par un jeune Sikh",
+          "description": "Nigel Farage, le chef de file du parti Reform UK, a dénoncé un racisme « anti-Blancs » après la diffusion d’une vidéo montrant des policiers menotter un jeune homme agonisant qui venait d’être poignardé par un jeune Sikh. Ce dernier avait faussement prétendu avoir subi une attaque raciste.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/03/au-royaume-uni-l-extreme-droite-instrumentalise-les-errances-de-la-police-apres-le-meurtre-d-un-etudiant-par-un-jeune-sikh_6696528_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T03:00:02.000Z",
+          "fetchedAt": "2026-06-03T05:54:45.935Z"
+        },
+        {
+          "id": "2026-06-03-4e9bd7f1",
+          "title": "A Saint-Gall la catholique, un projet de mosquée agite les esprits",
+          "description": "La communauté albanaise El-Hidaje, bien intégrée, souhaite construire un bâtiment d’environ 1 000 mètres carrés, mais des députés du parti nationaliste et populiste UDC dénoncent « une islamisation rampante menaçant les valeurs suisses ».",
+          "url": "https://www.lemonde.fr/international/article/2026/06/03/a-saint-gall-la-catholique-un-projet-de-mosquee-agite-les-esprits_6696520_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T01:00:01.000Z",
+          "fetchedAt": "2026-06-03T05:54:45.935Z"
+        },
+        {
+          "id": "2026-06-02-35289d5b",
+          "title": "Meurtre d’un étudiant au Royaume-Uni : des manifestants s’en prennent à la police après la diffusion d’une vidéo suscitant l’indignation",
+          "description": "La diffusion d’images montrant la police menotter un étudiant alors qu’il venait d’être poignardé mortellement suscite une vive émotion au Royaume-Uni. Mardi soir, des policiers ont été pris pour cible en marge d’une manifestation, à Southampton, au sud de l’Angleterre.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/03/meurtre-d-un-etudiant-au-royaume-uni-des-manifestants-s-en-prennent-a-la-police-apres-la-diffusion-d-une-video-suscitant-l-indignation_6696452_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-02T22:34:28.000Z",
+          "fetchedAt": "2026-06-03T05:54:45.935Z"
+        },
+        {
+          "id": "2026-06-02-2a069b5b",
+          "title": "Vente de Bolloré Logistics en Afrique: cinq banques visées par une procédure judiciaire",
+          "description": "Nouveau volet dans les procédures judiciaires lancées en 2025 par le collectif Restitution pour l'Afrique (RAF) contre le groupe Bolloré. RAF vient de saisir une nouvelle fois la justice française afin de contraindre cinq banques – Morgan Stanley, Hottinguer, HSBC, Société Générale et Crédit Mutuel – à ouvrir leurs archives et à faire la lumière sur la vente de Bolloré Africa Logistics, entreprise ayant appartenu au milliardaire français Vincent Bolloré.",
+          "url": "https://www.rfi.fr/fr/afrique/20260602-vente-de-bollor%C3%A9-logistics-en-afrique-cinq-banques-vis%C3%A9es-par-une-proc%C3%A9dure-judiciaire",
+          "imageUrl": "https://s.rfi.fr/media/display/084c5d4c-b1f3-11ec-a324-005056bf30b7/w:1024/p:16x9/000_1FJ2D2.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-02T20:32:05.000Z",
+          "fetchedAt": "2026-06-03T05:55:00.108Z"
+        },
+        {
+          "id": "2026-06-02-865e6016",
+          "title": "Présidentielle : ces images ne prouvent pas que le premier meeting de Gabriel Attal a été un “bide”",
+          "description": "Des internautes pro-russes affirment que le premier meeting pour la présidentielle 2027 de l’ancien Premier ministre français Gabriel Attal aurait été un échec : ils partagent comme preuves de prétendues photographies montrant un public clairsemé. Mais ces images ont été générées par intelligence artificielle.",
+          "url": "https://www.france24.com/fr/france/20260602-pr%C3%A9sidentielle-ces-images-ne-prouvent-pas-que-le-premier-meeting-de-gabriel-attal-a-%C3%A9t%C3%A9-un-bide",
+          "imageUrl": "https://s.france24.com/media/display/2ea912ae-5e9d-11f1-b82b-005056a90284/w:1024/p:16x9/image1-137.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-02T16:37:57.000Z",
+          "fetchedAt": "2026-06-03T05:54:46.469Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Massive Russian attack on cities across Ukraine kills at least ten people",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-02-d29640dd",
-          "title": "Massive Russian attack on cities across Ukraine kills at least ten people",
-          "description": "Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have been hit and there are fears people are trapped under rubble.",
-          "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e640/live/ed0966d0-5e35-11f1-9786-1931b5c24ea1.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-02T05:04:16.000Z",
-          "fetchedAt": "2026-06-02T05:21:48.738Z"
-        },
-        {
-          "id": "2026-06-02-650351f2",
-          "title": "Ukraine: «L'ennemi attaque avec des missiles balistiques», quatre morts à Kiev frappée par la Russie",
-          "description": "Ce mardi 2 juin au matin, une importante attaque russe contre l'Ukraine a fait neuf morts, dont quatre dans la capitale Kiev touchée par des missiles balistiques, ont rapporté les autorités ukrainiennes.",
-          "url": "https://www.rfi.fr/fr/europe/20260602-ukraine-l-ennemi-attaque-avec-des-missiles-balistiques-quatre-morts-%C3%A0-kiev-frapp%C3%A9e-par-la-russie",
-          "imageUrl": "https://s.rfi.fr/media/display/36bd48cc-576b-11f1-8054-005056bf30b7/w:1024/p:16x9/AP26144291203476-1.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-02T04:08:22.000Z",
-          "fetchedAt": "2026-06-02T05:21:48.620Z"
-        },
-        {
-          "id": "2026-06-02-68ea6abe",
-          "title": "EN DIRECT, guerre en Ukraine : des attaques nocturnes russes font au moins neuf morts, dont quatre à Kiev",
-          "description": "La capitale ukrainienne a été touchée par des missiles balistiques, selon les autorités locales, qui font également état de plusieurs blessés. En Russie, un civil a été tué, lundi, dans l’oblast de Koursk, dans une attaque de drone ukrainien, selon le gouverneur de l’oblast.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/02/en-direct-guerre-en-ukraine-des-attaques-nocturnes-russes-font-au-moins-huit-morts-dont-trois-a-kiev_6695365_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-02T03:54:00.000Z",
-          "fetchedAt": "2026-06-02T05:21:34.400Z"
-        },
-        {
-          "id": "2026-06-02-a14f9e1b",
-          "title": "En Ukraine, des attaques russes meurtrières visent Kiev, Dnipro et Kharkiv",
-          "description": "Au moins quatre personnes ont été tuées et des dizaines d'autres blessés mardi matin dans une attaque russe contre la capitale ukrainienne Kiev. Cinq autres personnes ont été tuées dans l'est du pays, dans des frappes qui ont particulièrement touché Dnipro et Kharkiv.",
-          "url": "https://www.france24.com/fr/europe/20260602-en-ukraine-des-attaques-russes-meurtri%C3%A8res-visent-kiev-dnipro-et-kharkiv",
-          "imageUrl": "https://s.france24.com/media/display/58d6a470-5e42-11f1-9154-005056bf30b7/w:1024/p:16x9/AP26153138580743.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-02T02:09:12.000Z",
-          "fetchedAt": "2026-06-02T05:21:34.378Z"
-        },
-        {
-          "id": "2026-06-01-62e41647",
-          "title": "Vladimir Poutine menace l’Arménie d’un “scénario ukrainien”",
-          "description": "À quelques jours des législatives arméniennes du 7 juin, Vladimir Poutine et Alexandre Loukachenko ont mis en garde Erevan contre un rapprochement avec l’Union européenne. Les deux dirigeants ont brandi le conflit en Ukraine pour dissuader Erevan de s’éloigner de l’Union économique eurasiatique.",
-          "url": "https://www.courrierinternational.com/article/verbatim-vladimir-poutine-menace-l-armenie-d-un-scenario-ukrainien_244601",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/28/39/0/3958/2638/1200/630/60/0/faa3056_ftp-1-moxutyxk9ixr-2026-05-28t222758z-1250534541-rc2fgkakxu6x-rtrmadp-3-russia-armenia-intelligence.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-01T14:30:01.000Z",
-          "fetchedAt": "2026-06-02T05:21:34.835Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-17",
-      "topic": "En Chine, le nüshu, écriture féminine, est orphelin de l’une de ses dernières hé",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-02-183266f4",
-          "title": "En Chine, le nüshu, écriture féminine, est orphelin de l’une de ses dernières héritières",
-          "description": "Chine. De l’an mil à nos jours – Née en 1939, He Yan-xin était l’une des dernières utilisatrices du nüshu, une écriture inventée et transmise secrètement par les femmes qui vivaient sous le joug du patriarcat. Après sa disparition en octobre 2025, le quotidien japonais “Asahi Shimbun” lui a rendu hommage.",
-          "url": "https://www.courrierinternational.com/article/histoire-en-chine-le-nushu-ecriture-feminine-est-orphelin-de-l-une-de-ses-dernieres-heritieres_243474",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/18/65/0/1297/865/1200/630/60/0/7b84bde_upload-1-g1tyuqq4skrc-w-1855-p54-1855-hidden-letters.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-02T03:00:10.000Z",
-          "fetchedAt": "2026-06-02T05:21:34.835Z"
-        },
-        {
-          "id": "2026-05-31-2d1452b7",
-          "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
-          "description": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
-          "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bef4/live/463f2db0-5d92-11f1-8b8c-6d33e1d5abb6.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-05-31T23:32:04.000Z",
-          "fetchedAt": "2026-06-02T05:21:48.738Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-10",
-      "topic": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competito",
+      "topic": "God of War revient avec une nouvelle aventure centrée sur Laufey, la femme de Kr",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-01-700897d2",
-          "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
-          "description": "It's Microsoft's least-weird attempt at a high-end mobile workstation.",
-          "url": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/surface-laptop-ultra-1152x648.jpeg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-06-01T20:13:09.000Z",
-          "fetchedAt": "2026-06-02T05:22:17.515Z"
-        },
-        {
-          "id": "2026-06-01-543b47a3",
-          "title": "Microsoft dévoile le Surface Laptop Ultra avec une puce Nvidia : le MacBook Pro a un vrai rival",
-          "description": "Microsoft vient d'annoncer la machine la plus ambitieuse de l'histoire de sa gamme Surface : le Surface Laptop Ultra. Un PC portable haut de gamme avec un objectif clair : détrôner le MacBook Pro d'Apple et offrir à Windows une vraie alternative puissante et endurante. Cet ordinateur sera un des premiers avec une puce Nvidia RTX Spark.",
-          "url": "https://www.numerama.com/tech/2263659-microsoft-devoile-le-surface-laptop-ultra-avec-une-puce-nvidia-le-macbook-pro-a-un-vrai-rival.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/surface-laptop-ultra-1.jpg?resize=1600,900&key=2c3fd059&watermark",
+          "id": "2026-06-02-198afa48",
+          "title": "God of War revient avec une nouvelle aventure centrée sur Laufey, la femme de Kratos",
+          "description": "Alors que l’odyssée de Kratos dans la mythologie nordique est arrivée à sa conclusion, le State of Play de ce mardi 2 juin 2026 a dévoilé le spin-off centré sur Laufey, l'épouse de Kratos et mère d'Atreus. Il s'intitule sobrement God of War Laufey.",
+          "url": "https://www.numerama.com/pop-culture/2265799-god-of-war-revient-avec-une-nouvelle-aventure-centree-sur-laufey.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/god-of-war-faye.jpg?resize=1600,900&key=755f17e9&watermark",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-06-01T09:19:28.000Z",
-          "fetchedAt": "2026-06-02T05:21:48.854Z"
+          "publishedAt": "2026-06-02T22:16:45.000Z",
+          "fetchedAt": "2026-06-03T05:55:00.089Z"
+        },
+        {
+          "id": "2026-06-02-61182476",
+          "title": "God of War Laufey is coming to the PS5",
+          "description": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, the game doesn't have a date, but it's coming to the PS5 whenever it does launch.\nThis time, instead of perpetually furious dad Kratos, players will take control of Faye / Laufey, as the title implies. That means that while the tone of the game seems somewhat similar to past God of War titles, the gameplay looks quite different, with much more aerobatic action punctuated by magic instead of Kratos' heavy violence. Also, there's a giant, six-legged …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_5010883.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-06-02T22:16:08.000Z",
+          "fetchedAt": "2026-06-03T05:55:10.344Z"
         }
       ]
     },
     {
-      "id": "cluster-13",
-      "topic": "Après une longue gestation, l’Etat et SNCF Réseau rendent public le contrat qui ",
+      "id": "cluster-3",
+      "topic": "Three quarters of workers not on track for 'moderate' pension income, report sug",
       "category": "eco",
-      "importance": 8,
+      "importance": 6,
       "articles": [
         {
-          "id": "2026-06-01-d7afb64f",
-          "title": "Après une longue gestation, l’Etat et SNCF Réseau rendent public le contrat qui les lie pour financer la régénération du rail",
-          "description": "Le projet de contrat de performance entre l’Etat et SNCF Réseau prévoit de porter à 5 milliards d’euros par an le budget de régénération du réseau ferroviaire, en mobilisant une partie des bénéfices de la SNCF.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/01/apres-une-longue-gestation-l-etat-et-sncf-reseau-rendent-public-le-contrat-qui-les-lie-pour-financer-la-regeneration-du-rail_6696000_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-06-02-ade8d2bb",
+          "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+          "description": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
+          "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8519/live/55388150-5ea4-11f1-9c69-5be5e9be5821.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-06-01T16:17:16.000Z",
-          "fetchedAt": "2026-06-02T05:22:17.641Z"
-        },
-        {
-          "id": "2026-06-01-45bf4a4b",
-          "title": "François Villeroy de Galhau, « aventurier de l’euro », quitte la Banque de France après quatre décennies de construction de la monnaie unique",
-          "description": "Après presque onze années passées à la tête de l’institution monétaire, le gouverneur va prendre la présidence de la fondation Apprentis d’Auteuil.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/01/francois-villeroy-de-galhau-aventurier-de-l-euro-quitte-la-banque-de-france-apres-quatre-decennies-de-construction-de-la-monnaie-unique_6695984_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-01T15:00:07.000Z",
-          "fetchedAt": "2026-06-02T05:22:17.641Z"
-        },
-        {
-          "id": "2026-06-01-b379818a",
-          "title": "L’entreprise de transfert d’argent Wise visée par une enquête pour blanchiment en Belgique",
-          "description": "En milieu de journée, lundi, l’action de l’entreprise britannique avait plongé de presque 15 % à la Bourse de Londres, après la confirmation d’une enquête en cours par la justice belge. Wise « prend extrêmement au sérieux » la lutte contre la criminalité financière, a réagi l’entreprise.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/01/l-entreprise-de-transfert-d-argent-wise-visee-par-une-enquete-pour-blanchiment-en-belgique_6695974_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-01T13:47:49.000Z",
-          "fetchedAt": "2026-06-02T05:22:17.641Z"
+          "publishedAt": "2026-06-02T23:02:23.000Z",
+          "fetchedAt": "2026-06-03T05:55:15.166Z"
         }
       ]
     }
