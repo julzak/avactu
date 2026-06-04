@@ -1,264 +1,253 @@
 {
-  "generatedAt": "2026-06-03T05:58:46.410Z",
+  "generatedAt": "2026-06-04T05:53:38.523Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Seven killed in drone attack on bus in Russia-controlled part of Ukraine",
+      "id": "cluster-2",
+      "topic": "Israël et le Liban conditionnent un cessez-le-feu à l'arrêt des tirs du Hezbolla",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-03-6cf07ecb",
-          "title": "Seven killed in drone attack on bus in Russia-controlled part of Ukraine",
-          "description": "The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says.",
-          "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/163d/live/5daad590-5f08-11f1-a71c-b5829ec0cc2c.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T05:42:47.000Z",
-          "fetchedAt": "2026-06-03T05:55:00.062Z"
-        },
-        {
-          "id": "2026-06-03-f2bf9615",
-          "title": "Guerre en Ukraine : la Russie profite du déficit de Patriot pour frapper Kiev et Dnipro avec des missiles hypersoniques",
-          "description": "Lors de son attaque massive du 2 juin, qui a tué 23 personnes, l’armée russe a utilisé des projectiles qui ne peuvent être interceptés que par le système antibalistique américain. Volodymyr Zelensky a demandé, une nouvelle fois, à ses alliés occidentaux de lui fournir davantage d’intercepteurs de ce type.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/03/guerre-en-ukraine-la-russie-profite-du-deficit-de-patriot-pour-frapper-kiev-et-dnipro-avec-des-missiles-hypersoniques_6696539_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T04:10:07.000Z",
-          "fetchedAt": "2026-06-03T05:54:45.935Z"
-        },
-        {
-          "id": "2026-06-03-6e1d106c",
-          "title": "EN DIRECT, guerre en Ukraine : une frappe de drone ukrainienne sur un bus reliant Moscou à la Crimée fait sept morts , selon les autorités locales prorusses",
-          "description": "Onze personnes ont également été blessées au cours de cette frappe, ont rapporté les autorités de l’oblast ukrainien de Donetsk, annexé par la Russie, où a eu lieu l’attaque.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/03/en-direct-guerre-en-ukraine-apres-les-dernieres-frappes-russes-qui-ont-fait-au-moins-23-morts-a-kiev-et-dnipro-la-population-appelee-a-la-prudence_6695365_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T04:01:43.000Z",
-          "fetchedAt": "2026-06-03T05:54:45.935Z"
-        },
-        {
-          "id": "2026-06-02-2cb8a85c",
-          "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-          "description": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
-          "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8a79/live/ddbe4530-5e8d-11f1-89a3-d1f559421220.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-02T23:33:34.000Z",
-          "fetchedAt": "2026-06-03T05:55:00.062Z"
-        },
-        {
-          "id": "2026-06-02-82f341a3",
-          "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
-          "description": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
-          "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a4a9/live/364daf50-5ead-11f1-9877-71c2729415b9.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-02T19:13:21.000Z",
-          "fetchedAt": "2026-06-03T05:55:00.062Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "EN DIRECT - Moyen-Orient: les États-Unis affirment avoir repoussé des attaques i",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-03-ee8039bc",
-          "title": "EN DIRECT - Moyen-Orient: les États-Unis affirment avoir repoussé des attaques iraniennes dans le Golfe",
-          "description": "L'armée américaine a affirmé, mardi 2 juin, avoir repoussé plusieurs attaques iraniennes, par missiles et drones, contre ses bases et ses alliés dans la région, et répliqué en bombardant au sol une île iranienne. Alors qu'une quatrième session de pourparlers s'est tenue à Washington entre Israël et le Liban.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260603-en-direct-moyen-orient-les-%C3%A9tats-unis-affirment-avoir-repouss%C3%A9-des-attaques-iraniennes-dans-le-golfe",
-          "imageUrl": "https://s.rfi.fr/media/display/8f175910-5f02-11f1-95bb-005056bf30b7/w:1024/p:16x9/000-B4PF4MW.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T04:20:07.000Z",
-          "fetchedAt": "2026-06-03T05:55:00.108Z"
-        },
-        {
-          "id": "2026-06-03-bf3ab721",
-          "title": "Comment le système d’assurance-maladie fonctionne-t-il aux Etats-Unis ? Comprendre en trois minutes",
-          "description": "L’assassinat du PDG de United Healthcare, la principale compagnie d’assurances médicales privée des Etats-Unis, le 4 décembre 2024, a relancé le débat sur les dysfonctionnements de la couverture médicale du pays.",
-          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/06/03/comment-le-systeme-d-assurance-maladie-fonctionne-t-il-aux-etats-unis-comprendre-en-trois-minutes_6696538_6176282.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T04:00:23.000Z",
-          "fetchedAt": "2026-06-03T05:54:45.935Z"
-        },
-        {
-          "id": "2026-06-03-8187c07b",
-          "title": "L’administration Trump, sous pression des élus républicains, recule sur la création d’un fonds d’indemnisation dont auraient pu bénéficier les émeutiers du Capitole",
-          "description": "A moins de six mois des élections de mi-mandat, de nombreux sénateurs du Parti républicain s’étaient opposés à la mise en place de ce fonds doté d’1,8 milliard de dollars. Le projet était par ailleurs gelé par un juge fédéral.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/03/l-administration-trump-sous-pression-des-elus-republicains-recule-sur-la-creation-d-un-fonds-d-indemnisation-dont-auraient-pu-beneficier-les-emeutiers-du-capitole_6696531_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T03:30:08.000Z",
-          "fetchedAt": "2026-06-03T05:54:45.935Z"
-        },
-        {
-          "id": "2026-06-03-1221ca4e",
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dit avoir abattu des missiles et des drones iraniens visant ses bases et ses alliés dans le Golfe",
-          "description": "Le commandement militaire américain pour le Moyen-Orient a déclaré avoir repoussé plusieurs attaques iraniennes vers Bahreïn et le Koweït, et avoir répliqué en bombardant au sol une île iranienne.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/03/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-abattu-des-missiles-et-des-drones-iraniens-visant-ses-bases-et-ses-allies-dans-le-golfe_6694380_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T03:24:07.000Z",
-          "fetchedAt": "2026-06-03T05:54:45.935Z"
-        },
-        {
-          "id": "2026-06-03-f1f7ee89",
-          "title": "Soucieuse de réduire sa dépendance aux géants américains du numérique, l'UE dévoile un plan de souveraineté technologique",
-          "description": "Consciente que les 27 restent structurellement dépendants de fournisseurs principalement américains pour leurs produits, services et infrastructures numériques, la Commission européenne va présenter, mercredi 3 juin, un plan visant à réduire le recours aux services fournis par les Gafam sur le Vieux Continent et à promouvoir des solutions « made in Europe ».",
-          "url": "https://www.rfi.fr/fr/europe/20260603-soucieuse-de-r%C3%A9duire-sa-d%C3%A9pendance-aux-g%C3%A9ants-am%C3%A9ricains-du-num%C3%A9rique-l-ue-d%C3%A9voile-un-plan-de-souverainet%C3%A9-technologique",
-          "imageUrl": "https://s.rfi.fr/media/display/24d2d9a0-2328-11f1-b28a-005056a90284/w:1024/p:16x9/000-A3RR6WE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T03:06:58.000Z",
-          "fetchedAt": "2026-06-03T05:55:00.108Z"
-        },
-        {
-          "id": "2026-06-03-70fde34b",
-          "title": "En direct : l'armée américaine dit avoir repoussé des attaques de missiles iraniens dans le Golfe",
-          "description": "",
-          "url": "https://www.france24.com/fr/moyen-orient/20260603-en-direct-moyen-orient-iran-attaques-missiles-golfe-etats-unis-trump-liban-israel",
-          "imageUrl": "https://s.france24.com/media/display/ffe10272-5f07-11f1-9fd4-005056bf30b7/w:1280/p:16x9/AP26084275139298.jpg",
+          "id": "2026-06-04-21c2a4d4",
+          "title": "Israël et le Liban conditionnent un cessez-le-feu à l'arrêt des tirs du Hezbollah",
+          "description": "Israël et le Liban sont convenus mercredi, à l'issue de deux jours de pourparlers à Washington, de conditionner un cessez-le-feu à un \"arrêt complet\" des tirs du Hezbollah et de créer des \"zones pilotes\" sous contrôle de l'armée libanaise.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260604-isra%C3%ABl-et-le-liban-conditionnent-un-cessez-le-feu-%C3%A0-l-arr%C3%AAt-des-tirs-du-hezbollah-netanyahu-trump-litani-tyr-zones-pilotes",
+          "imageUrl": "https://s.france24.com/media/display/7ce1736a-5fd5-11f1-9bcf-005056bfb2b6/w:1024/p:16x9/AP26153375761605.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-03T02:32:04.000Z",
-          "fetchedAt": "2026-06-03T05:54:46.469Z"
+          "publishedAt": "2026-06-04T05:43:42.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.397Z"
+        },
+        {
+          "id": "2026-06-04-f323164b",
+          "title": "EN DIRECT, Moyen-Orient : Israël et le Liban d’accord pour « la mise en œuvre d’un cessez-le-feu » et la création de « zones pilotes » sous contrôle de l’armée libanaise",
+          "description": "Selon les deux parties, l’accord sera subordonné « à l’arrêt complet des tirs du Hezbollah et à l’évacuation de tous les membres du Hezbollah du secteur du Sud-Litani ». Les deux pays sont également convenus de participer à un nouveau round de pourparlers la semaine du 22 juin, en vue d’un « accord global ».",
+          "url": "https://www.lemonde.fr/international/live/2026/06/04/en-direct-moyen-orient-israel-et-le-liban-d-accord-pour-la-mise-en-uvre-d-un-cessez-le-feu-et-la-creation-de-zones-pilotes-sous-controle-de-l-armee-libanaise_6694380_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-04T05:02:57.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.077Z"
+        },
+        {
+          "id": "2026-06-04-d005bae7",
+          "title": "Israël et le Liban annoncent un accord de cessez-le-feu sous conditions",
+          "description": "A l’issue de deux jours de pourparlers à Washington, les deux pays ont conditionné la mise en œuvre de la trêve à un « arrêt complet » des tirs du Hezbollah ainsi qu’à l’évacuation de ses combattants du secteur situé au sud du fleuve Litani. L’accord prévoit aussi la création de « zones pilotes » sous contrôle de l’armée libanaise.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/04/israel-et-le-liban-annoncent-un-accord-de-cessez-le-feu-sous-conditions_6697016_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-04T04:20:08.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.077Z"
+        },
+        {
+          "id": "2026-06-04-50236f63",
+          "title": "EN DIRECT - Moyen-Orient: Israël et le Liban conditionnent un cessez-le-feu à l'arrêt des tirs du Hezbollah",
+          "description": "Dans une déclaration commune livrée dans la nuit du mercredi 3 au jeudi 4 juin, Israël et le Liban sont convenus mercredi, à l'issue de deux jours de pourparlers à Washington, de conditionner un cessez-le-feu à un « arrêt complet » des tirs du Hezbollah et de créer des « zones pilotes » sous contrôle de l'armée libanaise. Jeudi matin, l'armée israélienne a annoncé une « infiltration d'appareil hostile » dans le nord de son territoire, déclenchant des sirènes.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260604-en-direct-moyen-orient-isra%C3%ABl-et-le-liban-conditionnent-un-cessez-le-feu-%C3%A0-l-arr%C3%AAt-des-tirs-du-hezbollah",
+          "imageUrl": "https://s.rfi.fr/media/display/c1cd7e24-5fcb-11f1-bb38-005056bf30b7/w:1024/p:16x9/2026-06-04T003258Z-7512696-RC2NMLAK5KMZ-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL-CEASEFIRE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-04T04:18:30.000Z",
+          "fetchedAt": "2026-06-04T05:49:52.248Z"
+        },
+        {
+          "id": "2026-06-04-4009bd85",
+          "title": "Israël et le Liban conviennent d’un cessez-le-feu, ravivant les espoirs d’un accord sur l’Iran",
+          "description": "L’État hébreu et le Liban se sont entendus mercredi sur “la mise en œuvre d’un cessez-le-feu” et la création de “zones pilotes” sous contrôle de l’armée libanaise, lors de discussions à Washington. Si cette annonce “peut contribuer à lever un obstacle dans les négociations entre les États-Unis et l’Iran, l’accord dépend de la coopération du Hezbollah”, observe la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-israel-et-le-liban-conviennent-d-un-cessez-le-feu-ravivant-les-espoirs-d-un-accord-sur-l-iran_244770",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/04/0/0/7726/5150/1200/630/60/0/e77489e_ftp-1-zizwmevzbvni-2026-06-04t002450z-1209972061-rc2nmlaj4yqe-rtrmadp-3-iran-crisis-lebanon-israel-ceasefire.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-04T03:59:42.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.592Z"
+        },
+        {
+          "id": "2026-06-04-3f10ab62",
+          "title": "En Iran et dans les pays du Golfe, une guerre de faible intensité s’installe dans la durée, malgré le cessez-le-feu",
+          "description": "Si la trêve a mis fin aux bombardements les plus meurtriers, Téhéran et les Etats-Unis continuent de s’affronter, via des frappes de drones sporadiques.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/04/en-iran-et-dans-les-pays-du-golfe-une-guerre-de-faible-intensite-s-installe-dans-la-duree-malgre-le-cessez-le-feu_6696941_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-04T03:28:15.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.077Z"
         }
       ]
     },
     {
-      "id": "cluster-14",
-      "topic": "Une décision de la justice européenne pourrait faire reculer la transparence fin",
+      "id": "cluster-6",
+      "topic": "Mort d'un étudiant au Royaume-Uni: l'extrême droite accuse la police d'un foncti",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-03-dd2d2599",
-          "title": "Une décision de la justice européenne pourrait faire reculer la transparence financière",
-          "description": "En Lettonie, des actionnaires minoritaires d’une société refusent que leur nom apparaisse au registre du commerce. Remonté jusqu’à la Cour de justice de l’Union européenne, leur recours pourrait entraîner un nouveau recul de la transparence à l’échelle du continent.",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/06/03/une-decision-de-la-justice-europeenne-pourrait-faire-reculer-la-transparence-financiere_6696532_4355770.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T03:30:18.000Z",
-          "fetchedAt": "2026-06-03T05:54:45.935Z"
-        },
-        {
-          "id": "2026-06-03-7a935253",
-          "title": "Au Royaume-Uni, l’extrême droite instrumentalise les errances de la police après le meurtre d’un étudiant par un jeune Sikh",
-          "description": "Nigel Farage, le chef de file du parti Reform UK, a dénoncé un racisme « anti-Blancs » après la diffusion d’une vidéo montrant des policiers menotter un jeune homme agonisant qui venait d’être poignardé par un jeune Sikh. Ce dernier avait faussement prétendu avoir subi une attaque raciste.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/03/au-royaume-uni-l-extreme-droite-instrumentalise-les-errances-de-la-police-apres-le-meurtre-d-un-etudiant-par-un-jeune-sikh_6696528_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T03:00:02.000Z",
-          "fetchedAt": "2026-06-03T05:54:45.935Z"
-        },
-        {
-          "id": "2026-06-03-4e9bd7f1",
-          "title": "A Saint-Gall la catholique, un projet de mosquée agite les esprits",
-          "description": "La communauté albanaise El-Hidaje, bien intégrée, souhaite construire un bâtiment d’environ 1 000 mètres carrés, mais des députés du parti nationaliste et populiste UDC dénoncent « une islamisation rampante menaçant les valeurs suisses ».",
-          "url": "https://www.lemonde.fr/international/article/2026/06/03/a-saint-gall-la-catholique-un-projet-de-mosquee-agite-les-esprits_6696520_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T01:00:01.000Z",
-          "fetchedAt": "2026-06-03T05:54:45.935Z"
-        },
-        {
-          "id": "2026-06-02-35289d5b",
-          "title": "Meurtre d’un étudiant au Royaume-Uni : des manifestants s’en prennent à la police après la diffusion d’une vidéo suscitant l’indignation",
-          "description": "La diffusion d’images montrant la police menotter un étudiant alors qu’il venait d’être poignardé mortellement suscite une vive émotion au Royaume-Uni. Mardi soir, des policiers ont été pris pour cible en marge d’une manifestation, à Southampton, au sud de l’Angleterre.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/03/meurtre-d-un-etudiant-au-royaume-uni-des-manifestants-s-en-prennent-a-la-police-apres-la-diffusion-d-une-video-suscitant-l-indignation_6696452_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-02T22:34:28.000Z",
-          "fetchedAt": "2026-06-03T05:54:45.935Z"
-        },
-        {
-          "id": "2026-06-02-2a069b5b",
-          "title": "Vente de Bolloré Logistics en Afrique: cinq banques visées par une procédure judiciaire",
-          "description": "Nouveau volet dans les procédures judiciaires lancées en 2025 par le collectif Restitution pour l'Afrique (RAF) contre le groupe Bolloré. RAF vient de saisir une nouvelle fois la justice française afin de contraindre cinq banques – Morgan Stanley, Hottinguer, HSBC, Société Générale et Crédit Mutuel – à ouvrir leurs archives et à faire la lumière sur la vente de Bolloré Africa Logistics, entreprise ayant appartenu au milliardaire français Vincent Bolloré.",
-          "url": "https://www.rfi.fr/fr/afrique/20260602-vente-de-bollor%C3%A9-logistics-en-afrique-cinq-banques-vis%C3%A9es-par-une-proc%C3%A9dure-judiciaire",
-          "imageUrl": "https://s.rfi.fr/media/display/084c5d4c-b1f3-11ec-a324-005056bf30b7/w:1024/p:16x9/000_1FJ2D2.jpg",
+          "id": "2026-06-04-44bdeb42",
+          "title": "Mort d'un étudiant au Royaume-Uni: l'extrême droite accuse la police d'un fonctionnement «à deux vitesses»",
+          "description": "Au Royaume-Uni, le Premier ministre Keir Starmer appelle au calme après des violences dans une manifestation mardi 2 juin à Southampton contre la police. Elles sont critiquées pour avoir menotté en décembre un étudiant blanc agonisant, accusé à tort de racisme par son meurtrier, un homme sikh. Alors que Keir Starmer reproche à Nigel Farage d’attiser la violence, le chef de l’extrême droite britannique accuse la police de fonctionner « à deux vitesses », se basant sur des recommandations internes.",
+          "url": "https://www.rfi.fr/fr/europe/20260604-mort-d-un-%C3%A9tudiant-au-royaume-uni-l-extr%C3%AAme-droite-accuse-la-police-d-un-fonctionnement-%C3%A0-deux-vitesses",
+          "imageUrl": "https://s.rfi.fr/media/display/52e62006-5fd5-11f1-a06e-005056bf30b7/w:1024/p:16x9/2026-06-02T201432Z-1121929483-RC2WLLATUELD-RTRMADP-3-BRITAIN-CRIME-STABBING-PROTEST.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-02T20:32:05.000Z",
-          "fetchedAt": "2026-06-03T05:55:00.108Z"
+          "publishedAt": "2026-06-04T05:27:22.000Z",
+          "fetchedAt": "2026-06-04T05:49:52.248Z"
         },
         {
-          "id": "2026-06-02-865e6016",
-          "title": "Présidentielle : ces images ne prouvent pas que le premier meeting de Gabriel Attal a été un “bide”",
-          "description": "Des internautes pro-russes affirment que le premier meeting pour la présidentielle 2027 de l’ancien Premier ministre français Gabriel Attal aurait été un échec : ils partagent comme preuves de prétendues photographies montrant un public clairsemé. Mais ces images ont été générées par intelligence artificielle.",
-          "url": "https://www.france24.com/fr/france/20260602-pr%C3%A9sidentielle-ces-images-ne-prouvent-pas-que-le-premier-meeting-de-gabriel-attal-a-%C3%A9t%C3%A9-un-bide",
-          "imageUrl": "https://s.france24.com/media/display/2ea912ae-5e9d-11f1-b82b-005056a90284/w:1024/p:16x9/image1-137.jpg",
+          "id": "2026-06-03-fd20acea",
+          "title": "Le réalisateur Wim Wenders retire un film où l'actrice Nastassja Kinski apparaissait dénudée à 13 ans",
+          "description": "Wim Wenders, un des plus grands noms du cinéma allemand, était de plus en plus sous pression. L'actrice Nastassja Kinski lui demandait de couper une scène du film Faux mouvement, sorti en 1975, où l'adolescente était à moitié nue. Le manque de réaction de Wenders avait suscité de nombreuses critiques. Le réalisateur a finalement réagi, mercredi 3 juin : il retire provisoirement ce film.",
+          "url": "https://www.rfi.fr/fr/culture/20260603-le-r%C3%A9alisateur-wim-wenders-retire-un-film-o%C3%B9-l-actrice-nastassja-kinski-apparaissait-d%C3%A9nud%C3%A9e-%C3%A0-13-ans",
+          "imageUrl": "https://s.rfi.fr/media/display/80b14f38-5f71-11f1-a01d-005056a97e36/w:1024/p:16x9/CINEMA-WIN-WENDERS-NASTASSJA-KINSKI.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T17:28:57.000Z",
+          "fetchedAt": "2026-06-04T05:49:52.248Z"
+        },
+        {
+          "id": "2026-06-03-6e940553",
+          "title": "Royaume-Uni : l'indignation monte autour de l'arrestation d'un étudiant poignardé à mort",
+          "description": "Indignation au Royaume-Uni : Henry Nowak, un étudiant de 18 ans, mortellement blessé à l’arme blanche, a été menotté alors qu’il agonisait, après que son assaillant a accusé à tort sa victime d’une attaque raciste.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260603-royaume-uni-l-indignation-monte-autour-de-l-arrestation-d-un-%C3%A9tudiant-poignard%C3%A9-%C3%A0-mort",
+          "imageUrl": "https://s.france24.com/media/display/4e619c1e-5f66-11f1-9836-005056bfb2b6/w:1024/p:16x9/FR-Miniature-Henry-Nowak.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-02T16:37:57.000Z",
-          "fetchedAt": "2026-06-03T05:54:46.469Z"
+          "publishedAt": "2026-06-03T16:14:17.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.397Z"
+        },
+        {
+          "id": "2026-06-03-15905c99",
+          "title": "Le meurtre d’un étudiant sous les yeux d’un policier indifférent choque le Royaume-Uni",
+          "description": "Les images de l’arrestation de Henry Nowak, accusé à tort de racisme par l’homme qui venait de le poignarder, ont été rendues public lundi 1ᵉʳ juin, jour de la condamnation de son meurtrier à la prison à vie. L’affaire, exploitée sans attendre par l’extrême droite, interroge la formation des policiers, dans une période de forte crispation identitaire outre-Manche.",
+          "url": "https://www.courrierinternational.com/article/justice-le-meurtre-d-un-etudiant-sous-les-yeux-d-un-policier-indifferent-choque-le-royaume-uni_244717",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/02/122/0/5507/3671/1200/630/60/0/757f8e1_ftp-1-y16dgawt5kww-2026-06-02t170217z-1548331225-rc2tlla3fmjf-rtrmadp-3-britain-crime-stabbing-protest.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T14:38:06.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.592Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "God of War revient avec une nouvelle aventure centrée sur Laufey, la femme de Kr",
+      "id": "cluster-10",
+      "topic": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-04-794192ad",
+          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "description": "Le chef de la diplomatie américaine, Marco Rubio, s’est inquiété du risque « d’escalade », après l’attaque de drones ukrainiens qui ont touché des sites énergétiques et militaires à Saint-Pétersbourg, en Russie.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/04/en-direct-guerre-en-ukraine-les-dernieres-informations-au-4-juin-2026_6695365_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-04T05:03:46.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.077Z"
+        },
+        {
+          "id": "2026-06-04-36635934",
+          "title": "Trois personnes tuées en Crimée annexée, l'Ukraine dit se \"rapprocher\" d'une adhésion à l'UE",
+          "description": "Trois personnes ont péri en Crimée dans une frappe ukrainienne, ont annoncé tôt jeudi les autorités de cette péninsule annexée par la Russie. Les représentants des 27 ont ouvert la voie mercredi à la reprise formelle des négociations d'adhésion à l'Union européenne avec l'Ukraine, bloquées jusqu'à présent par un veto hongrois. \"Nous nous rapprochons d'une adhésion à l'UE\", s'est félicitée la Première ministre ukrainienne.",
+          "url": "https://www.france24.com/fr/europe/20260604-trois-personnes-tu%C3%A9es-en-crim%C3%A9e-annex%C3%A9e-l-ukraine-dit-se-rapprocher-d-une-adh%C3%A9sion-%C3%A0-l-ue",
+          "imageUrl": "https://s.france24.com/media/display/d6e73bce-5fb2-11f1-8244-005056bfb2b6/w:1024/p:16x9/fe46c6af15548a2636efe1d30a87ed6aed305cfd.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-04T01:15:14.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.397Z"
+        },
+        {
+          "id": "2026-06-03-4944eb97",
+          "title": "Entre la Russie et la Corée du Nord, quatre ans de coopération fructueuse sur fond de guerre en Ukraine",
+          "description": "Depuis le début de l’invasion de l’Ukraine, en 2022, la Russie et la Corée du Nord intensifient leurs liens. Les deux voisins collaborent dans le domaine militaire, mais aussi dans divers secteurs de l’économie. Moscou permet à Pyongyang de contourner les sanctions onusiennes qui limitent strictement ses activités.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/03/entre-la-russie-et-la-coree-du-nord-quatre-ans-de-cooperation-fructueuse-sur-fond-de-guerre-en-ukraine_6696657_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T18:00:03.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.077Z"
+        },
+        {
+          "id": "2026-06-03-ef5c30ce",
+          "title": "En Russie, drones ukrainiens et fumées grises accueillent les hôtes de Poutine à son forum de Saint-Pétersbourg",
+          "description": "Le chef du Kremlin reçoit du 3 au 6 juin l’élite politique et d’affaires russes, au milieu de quelques invités étrangers. Peu de temps avant l’ouverture de la rencontre, des frappes ukrainiennes ont visé des sites militaires et énergétiques aux alentours de la ville.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/03/en-russie-drones-ukrainiens-et-fumees-grises-accueillent-les-hotes-de-poutine-a-son-forum-de-saint-petersbourg_6696655_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T17:32:43.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.077Z"
+        },
+        {
+          "id": "2026-06-03-c6302c9e",
+          "title": "Roland-Garros : Kostyuk contre Andreeva, une demi-finale sur fond de guerre en Ukraine",
+          "description": "Après son quart de finale face à sa compatriote Elina Svitolina, Marta Kostyuk est devenue la première Ukrainienne à se qualifier pour une demi-finale de Roland-Garros. Le duel face à la Russe Mirra Andreeva s'annonce brûlant alors que son adversaire prend régulièrement la parole sur l'invasion de son pays.",
+          "url": "https://www.france24.com/fr/sports/20260603-roland-garros-kostyuk-andreeva-demi-finale-guerre-ukraine",
+          "imageUrl": "https://s.france24.com/media/display/34a6303a-5f5e-11f1-b9bb-005056bfb2b6/w:1024/p:16x9/Kostyuk.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-03T15:50:30.000Z",
+          "fetchedAt": "2026-06-04T05:49:38.397Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-16",
+      "topic": "Moteur Navier : les premiers allumages réussissent pour la future fusée français",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-02-198afa48",
-          "title": "God of War revient avec une nouvelle aventure centrée sur Laufey, la femme de Kratos",
-          "description": "Alors que l’odyssée de Kratos dans la mythologie nordique est arrivée à sa conclusion, le State of Play de ce mardi 2 juin 2026 a dévoilé le spin-off centré sur Laufey, l'épouse de Kratos et mère d'Atreus. Il s'intitule sobrement God of War Laufey.",
-          "url": "https://www.numerama.com/pop-culture/2265799-god-of-war-revient-avec-une-nouvelle-aventure-centree-sur-laufey.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/god-of-war-faye.jpg?resize=1600,900&key=755f17e9&watermark",
+          "id": "2026-06-03-bc40fa68",
+          "title": "Moteur Navier : les premiers allumages réussissent pour la future fusée française Zéphyr",
+          "description": "La startup rémoise a validé deux essais à feu statique de son moteur entièrement intégré, alimenté par sa propre turbopompe développée en interne. Un succès important, qui prépare un premier vol de sa fusée Zéphyr en 2027. Mais d'autres tests sont nécessaires.",
+          "url": "https://www.numerama.com/sciences/2266595-moteur-navier-les-premiers-allumages-reussissent-pour-la-future-fusee-francaise-zephyr.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/navier-latitude.jpg?resize=1600,900&key=d911ed93&watermark",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-06-02T22:16:45.000Z",
-          "fetchedAt": "2026-06-03T05:55:00.089Z"
+          "publishedAt": "2026-06-03T17:58:08.000Z",
+          "fetchedAt": "2026-06-04T05:49:52.272Z"
         },
         {
-          "id": "2026-06-02-61182476",
-          "title": "God of War Laufey is coming to the PS5",
-          "description": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, the game doesn't have a date, but it's coming to the PS5 whenever it does launch.\nThis time, instead of perpetually furious dad Kratos, players will take control of Faye / Laufey, as the title implies. That means that while the tone of the game seems somewhat similar to past God of War titles, the gameplay looks quite different, with much more aerobatic action punctuated by magic instead of Kratos' heavy violence. Also, there's a giant, six-legged …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_5010883.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-06-03-cab32fee",
+          "title": "El Niño de retour cet été : alerte météo mondiale, mais à quel impact réel s’attendre en France ?",
+          "description": "L'Organisation météorologique mondiale appelle la planète à « se préparer à El Niño ». Alors que les conditions caractéristiques de ce phénomène se mettent en place, le risque de vivre des événements météorologiques extrêmes cet été sur Terre pourrait augmenter.",
+          "url": "https://www.numerama.com/sciences/2266603-el-nino-de-retour-cet-ete-alerte-meteo-mondiale-mais-a-quel-impact-reel-sattendre-en-france.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/el-nino-2.jpg?resize=1600,900&key=dabfab2b&watermark",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-06-02T22:16:08.000Z",
-          "fetchedAt": "2026-06-03T05:55:10.344Z"
+          "publishedAt": "2026-06-03T14:31:34.000Z",
+          "fetchedAt": "2026-06-04T05:49:52.272Z"
+        },
+        {
+          "id": "2026-06-02-cce78a7f",
+          "title": "Choose France : derrière les milliards de l’IA, l’enjeu crucial de l’énergie",
+          "description": "Ce qui attire les géants mondiaux qui ont annoncé, lundi, lors du neuvième sommet Choose France, 93 milliards d’investissements, dont une grande part pour l’intelligence artificielle, c’est notre électricité, décarbonée et structurellement excédentaire, à l’heure où les data centers dévorent l’énergie.",
+          "url": "https://www.lemonde.fr/idees/article/2026/06/02/choose-france-derriere-les-milliards-de-l-ia-l-enjeu-crucial-de-l-energie_6696372_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-06-02T09:30:00.000Z",
+          "fetchedAt": "2026-06-04T05:49:52.084Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Three quarters of workers not on track for 'moderate' pension income, report sug",
+      "id": "cluster-1",
+      "topic": "'Library of Things' aims to help people save money",
       "category": "eco",
-      "importance": 6,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-06-02-ade8d2bb",
-          "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
-          "description": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
-          "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8519/live/55388150-5ea4-11f1-9c69-5be5e9be5821.jpg",
+          "id": "2026-06-04-0e2930ea",
+          "title": "'Library of Things' aims to help people save money",
+          "description": "Volunteers in Leamington have launched a new type of library where you can borrow household items.",
+          "url": "https://www.bbc.com/news/articles/czj2x3xndr0o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/065d/live/37e5afe0-5e6a-11f1-9e22-3514086b3d4d.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-06-02T23:02:23.000Z",
-          "fetchedAt": "2026-06-03T05:55:15.166Z"
+          "publishedAt": "2026-06-04T05:19:04.000Z",
+          "fetchedAt": "2026-06-04T05:50:06.639Z"
         }
       ]
     }
