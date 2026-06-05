@@ -1,253 +1,286 @@
 {
-  "generatedAt": "2026-06-04T05:53:38.523Z",
+  "generatedAt": "2026-06-05T05:12:48.342Z",
   "clusterCount": 5,
   "clusters": [
     {
+      "id": "cluster-1",
+      "topic": "EN DIRECT, guerre en Ukraine : trois morts dans les frappes russes sur l’Ukraine",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-05-526b2354",
+          "title": "EN DIRECT, guerre en Ukraine : trois morts dans les frappes russes sur l’Ukraine depuis jeudi soir",
+          "description": "Ces bombardements interviennent alors que le président ukrainien, Volodymyr Zelensky, a proposé, dans une lettre, des discussions directes à son homologue russe, Vladimir Poutine. Le Kremlin a répondu qu’une rencontre à Moscou était toujours possible.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/05/en-direct-guerre-en-ukraine-un-mort-dans-une-frappe-russe-sur-kherson_6695365_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-05T04:31:16.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.456Z"
+        },
+        {
+          "id": "2026-06-05-44f6fc64",
+          "title": "Volodymyr Zelensky propose à Vladimir Poutine une rencontre directe pour mettre fin à la guerre en Ukraine",
+          "description": "Dans une lettre adressée directement à son homologue russe, le président ukrainien suggère l’ouverture de négociations directes dans un pays tiers, ainsi qu’un cessez-le-feu complet pendant ces pourparlers. Le Kremlin a répondu qu’une rencontre à Moscou était toujours possible.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/05/volodymyr-zelensky-propose-a-vladimir-poutine-une-rencontre-directe-pour-mettre-fin-a-la-guerre-en-ukraine_6697898_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-05T04:05:00.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.456Z"
+        },
+        {
+          "id": "2026-06-05-f12caa48",
+          "title": "Guerre en Ukraine: Zelensky propose une rencontre en tête-à-tête dans une lettre ouverte à Poutine",
+          "description": "Le président ukrainien Volodymyr Zelensky a proposé une rencontre directe à son homologue russe dans une lettre à Vladimir Poutine publiée jeudi, alors que celui-ci venait de reconnaître que la Russie devait renforcer ses défenses antiaériennes après une série de frappes de drones ukrainiens.",
+          "url": "https://www.rfi.fr/fr/europe/20260605-guerre-en-ukraine-zelensky-propose-une-rencontre-en-t%C3%AAte-%C3%A0-t%C3%AAte-dans-une-lettre-ouverte-%C3%A0-poutine",
+          "imageUrl": "https://s.rfi.fr/media/display/1b599a2a-6091-11f1-bb0d-005056a90284/w:1024/p:16x9/AP26154515353923.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-05T03:49:02.000Z",
+          "fetchedAt": "2026-06-05T05:08:57.859Z"
+        },
+        {
+          "id": "2026-06-05-cdce503b",
+          "title": "Guerre en Ukraine : le jour où la Russie s’est tiré un missile Orechnik sur elle-même",
+          "description": "Le président russe, Vladimir Poutine, a prétendu, jeudi 4 juin, qu’un tir raté de cet armement balistique à portée intermédiaire sur une ville de l’est de l’Ukraine occupée par son armée, le 23 mai, était en réalité « expérimental ».",
+          "url": "https://www.lemonde.fr/international/article/2026/06/05/guerre-en-ukraine-le-jour-ou-la-russie-s-est-tire-un-missile-orechnik-sur-elle-meme_6697855_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-05T03:30:06.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.456Z"
+        },
+        {
+          "id": "2026-06-05-387eb2cd",
+          "title": "Xenia Fedorova, “l’influenceuse de Poutine” devenue “muse” de Bolloré",
+          "description": "Son “lexique du Kremlin” l’a suivie de “Russia Today France” au plateau de “CNews”. Xenia Fedorova, la “protégée” de Vincent Bolloré, est désormais omniprésente dans la presse française, et en particulier à la télévision, écrit le “Tages-Anzeiger”. Elle y distille, sans trop de résistance, sa “propagande antioccidentale et pro-Poutine”, s’inquiète le titre zurichois.",
+          "url": "https://www.courrierinternational.com/article/vu-de-suisse-xenia-fedorova-l-influenceuse-de-poutine-devenue-muse-de-bollore_244695",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/28/0/0/3649/2432/1200/630/60/0/6af1404_ftp-1-oguqg4ksviwj-afp-b4b2768.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-05T03:00:14.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.842Z"
+        },
+        {
+          "id": "2026-06-04-a8822714",
+          "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+          "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+          "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-04T23:32:35.000Z",
+          "fetchedAt": "2026-06-05T05:08:58.178Z"
+        }
+      ]
+    },
+    {
       "id": "cluster-2",
-      "topic": "Israël et le Liban conditionnent un cessez-le-feu à l'arrêt des tirs du Hezbolla",
+      "topic": "EN DIRECT - Moyen-Orient: le Hezbollah rejette la trêve au Liban, les perspectiv",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-04-21c2a4d4",
-          "title": "Israël et le Liban conditionnent un cessez-le-feu à l'arrêt des tirs du Hezbollah",
-          "description": "Israël et le Liban sont convenus mercredi, à l'issue de deux jours de pourparlers à Washington, de conditionner un cessez-le-feu à un \"arrêt complet\" des tirs du Hezbollah et de créer des \"zones pilotes\" sous contrôle de l'armée libanaise.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260604-isra%C3%ABl-et-le-liban-conditionnent-un-cessez-le-feu-%C3%A0-l-arr%C3%AAt-des-tirs-du-hezbollah-netanyahu-trump-litani-tyr-zones-pilotes",
-          "imageUrl": "https://s.france24.com/media/display/7ce1736a-5fd5-11f1-9bcf-005056bfb2b6/w:1024/p:16x9/AP26153375761605.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-04T05:43:42.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.397Z"
-        },
-        {
-          "id": "2026-06-04-f323164b",
-          "title": "EN DIRECT, Moyen-Orient : Israël et le Liban d’accord pour « la mise en œuvre d’un cessez-le-feu » et la création de « zones pilotes » sous contrôle de l’armée libanaise",
-          "description": "Selon les deux parties, l’accord sera subordonné « à l’arrêt complet des tirs du Hezbollah et à l’évacuation de tous les membres du Hezbollah du secteur du Sud-Litani ». Les deux pays sont également convenus de participer à un nouveau round de pourparlers la semaine du 22 juin, en vue d’un « accord global ».",
-          "url": "https://www.lemonde.fr/international/live/2026/06/04/en-direct-moyen-orient-israel-et-le-liban-d-accord-pour-la-mise-en-uvre-d-un-cessez-le-feu-et-la-creation-de-zones-pilotes-sous-controle-de-l-armee-libanaise_6694380_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-04T05:02:57.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.077Z"
-        },
-        {
-          "id": "2026-06-04-d005bae7",
-          "title": "Israël et le Liban annoncent un accord de cessez-le-feu sous conditions",
-          "description": "A l’issue de deux jours de pourparlers à Washington, les deux pays ont conditionné la mise en œuvre de la trêve à un « arrêt complet » des tirs du Hezbollah ainsi qu’à l’évacuation de ses combattants du secteur situé au sud du fleuve Litani. L’accord prévoit aussi la création de « zones pilotes » sous contrôle de l’armée libanaise.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/04/israel-et-le-liban-annoncent-un-accord-de-cessez-le-feu-sous-conditions_6697016_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-04T04:20:08.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.077Z"
-        },
-        {
-          "id": "2026-06-04-50236f63",
-          "title": "EN DIRECT - Moyen-Orient: Israël et le Liban conditionnent un cessez-le-feu à l'arrêt des tirs du Hezbollah",
-          "description": "Dans une déclaration commune livrée dans la nuit du mercredi 3 au jeudi 4 juin, Israël et le Liban sont convenus mercredi, à l'issue de deux jours de pourparlers à Washington, de conditionner un cessez-le-feu à un « arrêt complet » des tirs du Hezbollah et de créer des « zones pilotes » sous contrôle de l'armée libanaise. Jeudi matin, l'armée israélienne a annoncé une « infiltration d'appareil hostile » dans le nord de son territoire, déclenchant des sirènes.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260604-en-direct-moyen-orient-isra%C3%ABl-et-le-liban-conditionnent-un-cessez-le-feu-%C3%A0-l-arr%C3%AAt-des-tirs-du-hezbollah",
-          "imageUrl": "https://s.rfi.fr/media/display/c1cd7e24-5fcb-11f1-bb38-005056bf30b7/w:1024/p:16x9/2026-06-04T003258Z-7512696-RC2NMLAK5KMZ-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL-CEASEFIRE.jpg",
+          "id": "2026-06-05-f085b696",
+          "title": "EN DIRECT - Moyen-Orient: le Hezbollah rejette la trêve au Liban, les perspectives d'un accord en Iran s'assombrissent",
+          "description": "⁠Le Hezbollah a rejeté ⁠jeudi 4 juin le cessez-le-feu annoncé ​par Beyrouth et Israël, conclu sous l'égide des États-Unis, menant à une reprise des affrontements entre le mouvement chiite et l'État hébreu. Cela assombrit également les perspectives de voir Téhéran et ​Washington parvenir à un accord, la République islamique conditionnant tout accord avec les États-Unis à l'arrêt définitif des hostilités au Liban.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260605-en-direct-moyen-orient-le-hezbollah-rejette-la-tr%C3%AAve-au-liban-les-perspectives-d-un-accord-en-iran-s-assombrissent",
+          "imageUrl": "https://s.rfi.fr/media/display/b9817fe0-5ff8-11f1-bf17-005056bf30b7/w:1024/p:16x9/AP26155342364901.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-04T04:18:30.000Z",
-          "fetchedAt": "2026-06-04T05:49:52.248Z"
+          "publishedAt": "2026-06-05T04:26:06.000Z",
+          "fetchedAt": "2026-06-05T05:08:57.859Z"
         },
         {
-          "id": "2026-06-04-4009bd85",
-          "title": "Israël et le Liban conviennent d’un cessez-le-feu, ravivant les espoirs d’un accord sur l’Iran",
-          "description": "L’État hébreu et le Liban se sont entendus mercredi sur “la mise en œuvre d’un cessez-le-feu” et la création de “zones pilotes” sous contrôle de l’armée libanaise, lors de discussions à Washington. Si cette annonce “peut contribuer à lever un obstacle dans les négociations entre les États-Unis et l’Iran, l’accord dépend de la coopération du Hezbollah”, observe la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-israel-et-le-liban-conviennent-d-un-cessez-le-feu-ravivant-les-espoirs-d-un-accord-sur-l-iran_244770",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/04/0/0/7726/5150/1200/630/60/0/e77489e_ftp-1-zizwmevzbvni-2026-06-04t002450z-1209972061-rc2nmlaj4yqe-rtrmadp-3-iran-crisis-lebanon-israel-ceasefire.JPG",
+          "id": "2026-06-04-3647dd08",
+          "title": "En Iran, des festivités chiites pour défier les États-Unis",
+          "description": "L’anniversaire de la mort de l’imam Khomeini, fondateur de la République islamique, a coïncidé cette année avec la fête de Gadir, qui correspond à l’anniversaire de la nomination par le prophète Mahomet de l’imam Ali comme son successeur, selon les musulmans. Une fête célébrée en grande pompe en Irak, en Irak, au Yémen, au Liban mais aussi dans d’autres pays où il y a des communautés chiites.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260604-en-iran-des-festivit%C3%A9s-chiites-pour-d%C3%A9fier-les-%C3%A9tats-unis",
+          "imageUrl": "https://s.rfi.fr/media/display/4776a25e-6048-11f1-a57c-005056a90284/w:1024/p:16x9/000-B4ZD33R.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-04T19:15:57.000Z",
+          "fetchedAt": "2026-06-05T05:08:57.859Z"
+        },
+        {
+          "id": "2026-06-04-e66867a3",
+          "title": "Disparition de Marjane Satrapi, “une des voix fortes de la diaspora iranienne”",
+          "description": "Rendue célèbre grâce à son roman graphique “Persepolis”, l’autrice de bande dessinée et réalisatrice est décédée à l’âge de 56 ans, un peu plus d’un an après la mort de son mari, a annoncé son entourage jeudi 4 juin. L’artiste au caractère bien trempé était l’une des grandes figures en France du combat contre la République islamique d’Iran.",
+          "url": "https://www.courrierinternational.com/article/culture-disparition-de-marjane-satrapi-une-des-voix-fortes-de-la-diaspora-iranienne_244780",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/04/0/0/5472/3648/1200/630/60/0/bdecc98_ftp-1-nvzib11enbsw-afp-b4xz6ke.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-04T03:59:42.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.592Z"
+          "publishedAt": "2026-06-04T15:11:05.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.842Z"
         },
         {
-          "id": "2026-06-04-3f10ab62",
-          "title": "En Iran et dans les pays du Golfe, une guerre de faible intensité s’installe dans la durée, malgré le cessez-le-feu",
-          "description": "Si la trêve a mis fin aux bombardements les plus meurtriers, Téhéran et les Etats-Unis continuent de s’affronter, via des frappes de drones sporadiques.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/04/en-iran-et-dans-les-pays-du-golfe-une-guerre-de-faible-intensite-s-installe-dans-la-duree-malgre-le-cessez-le-feu_6696941_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-06-04-8431ee18",
+          "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+          "description": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
+          "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6465/live/58a61730-600c-11f1-89a3-d1f559421220.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-06-04T03:28:15.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.077Z"
+          "publishedAt": "2026-06-04T14:46:36.000Z",
+          "fetchedAt": "2026-06-05T05:08:58.178Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "Mort d'un étudiant au Royaume-Uni: l'extrême droite accuse la police d'un foncti",
+      "id": "cluster-3",
+      "topic": "États-Unis: la Maison Blanche débloque 700 millions de dollars pour l'industrie ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-04-44bdeb42",
-          "title": "Mort d'un étudiant au Royaume-Uni: l'extrême droite accuse la police d'un fonctionnement «à deux vitesses»",
-          "description": "Au Royaume-Uni, le Premier ministre Keir Starmer appelle au calme après des violences dans une manifestation mardi 2 juin à Southampton contre la police. Elles sont critiquées pour avoir menotté en décembre un étudiant blanc agonisant, accusé à tort de racisme par son meurtrier, un homme sikh. Alors que Keir Starmer reproche à Nigel Farage d’attiser la violence, le chef de l’extrême droite britannique accuse la police de fonctionner « à deux vitesses », se basant sur des recommandations internes.",
-          "url": "https://www.rfi.fr/fr/europe/20260604-mort-d-un-%C3%A9tudiant-au-royaume-uni-l-extr%C3%AAme-droite-accuse-la-police-d-un-fonctionnement-%C3%A0-deux-vitesses",
-          "imageUrl": "https://s.rfi.fr/media/display/52e62006-5fd5-11f1-a06e-005056bf30b7/w:1024/p:16x9/2026-06-02T201432Z-1121929483-RC2WLLATUELD-RTRMADP-3-BRITAIN-CRIME-STABBING-PROTEST.jpg",
+          "id": "2026-06-05-88918c01",
+          "title": "États-Unis: la Maison Blanche débloque 700 millions de dollars pour l'industrie du charbon",
+          "description": "La Maison Blanche de Donald Trump a annoncé une nouvelle vague de financements en faveur des énergies fossiles à hauteur de 700 millions de dollars pour mettre aux normes plus d'une dizaine de centrales à charbon. Un choix essentiel, d'après la présidence américaine, pour garantir la souveraineté énergétique des États-Unis. Les ONG spécialisées parlent quant à elles d'un cadeau aux sphères industrielles qui ont soutenu le camp républicain à hauteur de plusieurs dizaines de millions de dollars lors de la campagne présidentielle américaine.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260605-%C3%A9tats-unis-la-maison-blanche-d%C3%A9bloque-700-millions-de-dollars-pour-l-industrie-du-charbon",
+          "imageUrl": "https://s.rfi.fr/media/display/f6e64396-6095-11f1-81c9-005056a90284/w:1024/p:16x9/AP26155749201674.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-04T05:27:22.000Z",
-          "fetchedAt": "2026-06-04T05:49:52.248Z"
+          "publishedAt": "2026-06-05T04:23:32.000Z",
+          "fetchedAt": "2026-06-05T05:08:57.859Z"
         },
         {
-          "id": "2026-06-03-fd20acea",
-          "title": "Le réalisateur Wim Wenders retire un film où l'actrice Nastassja Kinski apparaissait dénudée à 13 ans",
-          "description": "Wim Wenders, un des plus grands noms du cinéma allemand, était de plus en plus sous pression. L'actrice Nastassja Kinski lui demandait de couper une scène du film Faux mouvement, sorti en 1975, où l'adolescente était à moitié nue. Le manque de réaction de Wenders avait suscité de nombreuses critiques. Le réalisateur a finalement réagi, mercredi 3 juin : il retire provisoirement ce film.",
-          "url": "https://www.rfi.fr/fr/culture/20260603-le-r%C3%A9alisateur-wim-wenders-retire-un-film-o%C3%B9-l-actrice-nastassja-kinski-apparaissait-d%C3%A9nud%C3%A9e-%C3%A0-13-ans",
-          "imageUrl": "https://s.rfi.fr/media/display/80b14f38-5f71-11f1-a01d-005056a97e36/w:1024/p:16x9/CINEMA-WIN-WENDERS-NASTASSJA-KINSKI.jpg",
-          "source": "RFI",
+          "id": "2026-06-05-3430994d",
+          "title": "Coupe du monde 2026 : « Le sport est entré dans une ère où il ne sert plus seulement à divertir ou à rassembler, mais aussi à influencer, peser, rivaliser »",
+          "description": "Dans une tribune au « Monde », le directeur de l’Ecole de guerre économique, Christian Harbulot, et l’entrepreneur Michael Tapiro expliquent la manière dont le sport est devenu un outil géopolitique particulièrement efficace, mis au service de ceux qui le financent.",
+          "url": "https://www.lemonde.fr/idees/article/2026/06/05/coupe-du-monde-2026-le-sport-est-entre-dans-une-ere-ou-il-ne-sert-plus-seulement-a-divertir-ou-a-rassembler-mais-aussi-a-influencer-peser-rivaliser_6697892_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-03T17:28:57.000Z",
-          "fetchedAt": "2026-06-04T05:49:52.248Z"
+          "publishedAt": "2026-06-05T04:00:24.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.456Z"
         },
         {
-          "id": "2026-06-03-6e940553",
-          "title": "Royaume-Uni : l'indignation monte autour de l'arrestation d'un étudiant poignardé à mort",
-          "description": "Indignation au Royaume-Uni : Henry Nowak, un étudiant de 18 ans, mortellement blessé à l’arme blanche, a été menotté alors qu’il agonisait, après que son assaillant a accusé à tort sa victime d’une attaque raciste.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260603-royaume-uni-l-indignation-monte-autour-de-l-arrestation-d-un-%C3%A9tudiant-poignard%C3%A9-%C3%A0-mort",
-          "imageUrl": "https://s.france24.com/media/display/4e619c1e-5f66-11f1-9836-005056bfb2b6/w:1024/p:16x9/FR-Miniature-Henry-Nowak.jpg",
-          "source": "France 24",
+          "id": "2026-06-05-20a454da",
+          "title": "Pour les 250 ans de l’indépendance des Etats-Unis, la fabuleuse histoire du Gratitude Train ressuscitée",
+          "description": "Un vieux wagon amiénois, restauré pour l’occasion, va faire revivre l’épopée du Train de la reconnaissance, qui, chargé de cadeaux, embarqua au Havre, le 14 janvier 1949, pour New York. Le récit d’une chaîne de solidarité autant picarde que transatlantique.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/05/pour-les-250-ans-de-l-independance-des-etats-unis-la-fabuleuse-histoire-du-gratitude-train-ressuscitee_6697820_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-03T16:14:17.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.397Z"
+          "publishedAt": "2026-06-05T03:00:22.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.456Z"
         },
         {
-          "id": "2026-06-03-15905c99",
-          "title": "Le meurtre d’un étudiant sous les yeux d’un policier indifférent choque le Royaume-Uni",
-          "description": "Les images de l’arrestation de Henry Nowak, accusé à tort de racisme par l’homme qui venait de le poignarder, ont été rendues public lundi 1ᵉʳ juin, jour de la condamnation de son meurtrier à la prison à vie. L’affaire, exploitée sans attendre par l’extrême droite, interroge la formation des policiers, dans une période de forte crispation identitaire outre-Manche.",
-          "url": "https://www.courrierinternational.com/article/justice-le-meurtre-d-un-etudiant-sous-les-yeux-d-un-policier-indifferent-choque-le-royaume-uni_244717",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/02/122/0/5507/3671/1200/630/60/0/757f8e1_ftp-1-y16dgawt5kww-2026-06-02t170217z-1548331225-rc2tlla3fmjf-rtrmadp-3-britain-crime-stabbing-protest.JPG",
-          "source": "Courrier International",
+          "id": "2026-06-05-2822a76d",
+          "title": "A Cuba, Washington étrangle Gaesa, le conglomérat économique de l’armée",
+          "description": "L’administration Trump a contraint les entreprises étrangères opérant dans l’île avec la holding cubaine à cesser leurs activités au 5 juin en les menaçant de sanctions. Opaque et tentaculaire, Gaesa a étendu ses activités au tourisme, après avoir mis la main sur l’énergie, les télécommunications, les ports, les mines ou encore les banques.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/05/a-cuba-washington-etrangle-gaesa-le-conglomerat-economique-de-l-armee_6697818_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-03T14:38:06.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.592Z"
+          "publishedAt": "2026-06-05T03:00:17.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.456Z"
+        },
+        {
+          "id": "2026-06-05-41f5d322",
+          "title": "Etats-Unis : nouveau procès pour les deux secouristes condamnés dans la mort d’Elijah McClain",
+          "description": "Une cour d’appel a estimé que les jurés n’avaient pas été correctement aiguillés lors du précédent procès au terme duquel les deux hommes avaient été condamnés pour avoir administré une dose importante de kétamine à un jeune homme noir de 23 ans lors de son interpellation. Il était mort trois jours plus tard d’une crise cardiaque.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/05/etats-unis-nouveau-proces-pour-les-deux-secouristes-condamnes-dans-la-mort-d-elijah-mcclain_6697746_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-05T01:29:11.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.456Z"
+        },
+        {
+          "id": "2026-06-05-026392b3",
+          "title": "Washington accentue la pression sur Cuba en sanctionnant le président Diaz-Canel et la famille Castro",
+          "description": "Le président cubain faisait déjà l’objet de sanctions américaines depuis juillet 2025. Son épouse ainsi que le fils de celle-ci font désormais partie des personnes visées.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/05/washington-accentue-la-pression-sur-cuba-en-sanctionnant-le-president-diaz-canel-et-la-famille-castro_6697713_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-05T00:52:30.000Z",
+          "fetchedAt": "2026-06-05T05:08:47.456Z"
         }
       ]
     },
     {
-      "id": "cluster-10",
-      "topic": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-04-794192ad",
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "description": "Le chef de la diplomatie américaine, Marco Rubio, s’est inquiété du risque « d’escalade », après l’attaque de drones ukrainiens qui ont touché des sites énergétiques et militaires à Saint-Pétersbourg, en Russie.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/04/en-direct-guerre-en-ukraine-les-dernieres-informations-au-4-juin-2026_6695365_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-04T05:03:46.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.077Z"
-        },
-        {
-          "id": "2026-06-04-36635934",
-          "title": "Trois personnes tuées en Crimée annexée, l'Ukraine dit se \"rapprocher\" d'une adhésion à l'UE",
-          "description": "Trois personnes ont péri en Crimée dans une frappe ukrainienne, ont annoncé tôt jeudi les autorités de cette péninsule annexée par la Russie. Les représentants des 27 ont ouvert la voie mercredi à la reprise formelle des négociations d'adhésion à l'Union européenne avec l'Ukraine, bloquées jusqu'à présent par un veto hongrois. \"Nous nous rapprochons d'une adhésion à l'UE\", s'est félicitée la Première ministre ukrainienne.",
-          "url": "https://www.france24.com/fr/europe/20260604-trois-personnes-tu%C3%A9es-en-crim%C3%A9e-annex%C3%A9e-l-ukraine-dit-se-rapprocher-d-une-adh%C3%A9sion-%C3%A0-l-ue",
-          "imageUrl": "https://s.france24.com/media/display/d6e73bce-5fb2-11f1-8244-005056bfb2b6/w:1024/p:16x9/fe46c6af15548a2636efe1d30a87ed6aed305cfd.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-04T01:15:14.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.397Z"
-        },
-        {
-          "id": "2026-06-03-4944eb97",
-          "title": "Entre la Russie et la Corée du Nord, quatre ans de coopération fructueuse sur fond de guerre en Ukraine",
-          "description": "Depuis le début de l’invasion de l’Ukraine, en 2022, la Russie et la Corée du Nord intensifient leurs liens. Les deux voisins collaborent dans le domaine militaire, mais aussi dans divers secteurs de l’économie. Moscou permet à Pyongyang de contourner les sanctions onusiennes qui limitent strictement ses activités.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/03/entre-la-russie-et-la-coree-du-nord-quatre-ans-de-cooperation-fructueuse-sur-fond-de-guerre-en-ukraine_6696657_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T18:00:03.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.077Z"
-        },
-        {
-          "id": "2026-06-03-ef5c30ce",
-          "title": "En Russie, drones ukrainiens et fumées grises accueillent les hôtes de Poutine à son forum de Saint-Pétersbourg",
-          "description": "Le chef du Kremlin reçoit du 3 au 6 juin l’élite politique et d’affaires russes, au milieu de quelques invités étrangers. Peu de temps avant l’ouverture de la rencontre, des frappes ukrainiennes ont visé des sites militaires et énergétiques aux alentours de la ville.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/03/en-russie-drones-ukrainiens-et-fumees-grises-accueillent-les-hotes-de-poutine-a-son-forum-de-saint-petersbourg_6696655_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T17:32:43.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.077Z"
-        },
-        {
-          "id": "2026-06-03-c6302c9e",
-          "title": "Roland-Garros : Kostyuk contre Andreeva, une demi-finale sur fond de guerre en Ukraine",
-          "description": "Après son quart de finale face à sa compatriote Elina Svitolina, Marta Kostyuk est devenue la première Ukrainienne à se qualifier pour une demi-finale de Roland-Garros. Le duel face à la Russe Mirra Andreeva s'annonce brûlant alors que son adversaire prend régulièrement la parole sur l'invasion de son pays.",
-          "url": "https://www.france24.com/fr/sports/20260603-roland-garros-kostyuk-andreeva-demi-finale-guerre-ukraine",
-          "imageUrl": "https://s.france24.com/media/display/34a6303a-5f5e-11f1-b9bb-005056bfb2b6/w:1024/p:16x9/Kostyuk.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-03T15:50:30.000Z",
-          "fetchedAt": "2026-06-04T05:49:38.397Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-16",
-      "topic": "Moteur Navier : les premiers allumages réussissent pour la future fusée français",
+      "id": "cluster-44",
+      "topic": "Nintendo confirme une nouvelle Switch 2 pour l’Europe : voici ce qui change vrai",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-03-bc40fa68",
-          "title": "Moteur Navier : les premiers allumages réussissent pour la future fusée française Zéphyr",
-          "description": "La startup rémoise a validé deux essais à feu statique de son moteur entièrement intégré, alimenté par sa propre turbopompe développée en interne. Un succès important, qui prépare un premier vol de sa fusée Zéphyr en 2027. Mais d'autres tests sont nécessaires.",
-          "url": "https://www.numerama.com/sciences/2266595-moteur-navier-les-premiers-allumages-reussissent-pour-la-future-fusee-francaise-zephyr.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/navier-latitude.jpg?resize=1600,900&key=d911ed93&watermark",
+          "id": "2026-06-04-cd571020",
+          "title": "Nintendo confirme une nouvelle Switch 2 pour l’Europe : voici ce qui change vraiment",
+          "description": "Nintendo confirme la commercialisation de versions modifiées de la Switch 2 dans l'Union européenne, pour se conformer au nouveau règlement sur les batteries, applicable le 18 février 2027. L’Europe ne réclame pas un retour aux batteries amovibles, mais demande que le remplacement soit possible sans outils spéciaux.",
+          "url": "https://www.numerama.com/tech/2267137-nintendo-confirme-une-nouvelle-switch-2-pour-leurope-voici-ce-qui-change-vraiment.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/04/console-01.jpg?resize=1600,900&key=8f98aa9c&watermark",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-06-03T17:58:08.000Z",
-          "fetchedAt": "2026-06-04T05:49:52.272Z"
+          "publishedAt": "2026-06-04T08:49:04.000Z",
+          "fetchedAt": "2026-06-05T05:08:57.984Z"
         },
         {
-          "id": "2026-06-03-cab32fee",
-          "title": "El Niño de retour cet été : alerte météo mondiale, mais à quel impact réel s’attendre en France ?",
-          "description": "L'Organisation météorologique mondiale appelle la planète à « se préparer à El Niño ». Alors que les conditions caractéristiques de ce phénomène se mettent en place, le risque de vivre des événements météorologiques extrêmes cet été sur Terre pourrait augmenter.",
-          "url": "https://www.numerama.com/sciences/2266603-el-nino-de-retour-cet-ete-alerte-meteo-mondiale-mais-a-quel-impact-reel-sattendre-en-france.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/el-nino-2.jpg?resize=1600,900&key=dabfab2b&watermark",
+          "id": "2026-06-04-73055a0f",
+          "title": "Google lance Dreambeans une app qui transforme vos données personnelles en BD illustrée chaque matin",
+          "description": "Le 3 juin 2026, Google Labs a lancé Dreambeans, une application expérimentale qui fouille vos mails, votre agenda et votre historique YouTube pendant que vous dormez pour vous livrer chaque matin une sélection d'histoires illustrées par IA.",
+          "url": "https://www.numerama.com/cyberguerre/2267047-google-lance-dreambeans-une-app-qui-transforme-vos-donnees-personnelles-en-bd-illustree-chaque-matin.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/capture-decran-2026-06-04-a-101957.jpg?resize=1600,900&key=22e1bff7&watermark",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-06-03T14:31:34.000Z",
-          "fetchedAt": "2026-06-04T05:49:52.272Z"
+          "publishedAt": "2026-06-04T08:31:27.000Z",
+          "fetchedAt": "2026-06-05T05:08:57.984Z"
         },
         {
-          "id": "2026-06-02-cce78a7f",
-          "title": "Choose France : derrière les milliards de l’IA, l’enjeu crucial de l’énergie",
-          "description": "Ce qui attire les géants mondiaux qui ont annoncé, lundi, lors du neuvième sommet Choose France, 93 milliards d’investissements, dont une grande part pour l’intelligence artificielle, c’est notre électricité, décarbonée et structurellement excédentaire, à l’heure où les data centers dévorent l’énergie.",
-          "url": "https://www.lemonde.fr/idees/article/2026/06/02/choose-france-derriere-les-milliards-de-l-ia-l-enjeu-crucial-de-l-energie_6696372_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-06-04-96e66682",
+          "title": "Bouygues lance un forfait mobile spécial Coupe du monde (B&You)",
+          "description": "Pour les 15 ans de sa marque sans engagement B&YOU, Bouygues Telecom lance un forfait mobile qui intègre beIN Sports, le diffuseur de l'intégralité de la Coupe du monde 2026. À 21,99 € par mois, l'offre vise les fans de foot, mais est moins généreuse en data que la concurrence.",
+          "url": "https://www.numerama.com/tech/2267057-bouygues-lance-un-forfait-mobile-special-coupe-du-monde-byou.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/capture-decran-2026-03-26-a-121048.jpg?resize=1600,900&key=5e501729&watermark",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-06-02T09:30:00.000Z",
-          "fetchedAt": "2026-06-04T05:49:52.084Z"
+          "publishedAt": "2026-06-04T08:05:03.000Z",
+          "fetchedAt": "2026-06-05T05:08:57.984Z"
+        },
+        {
+          "id": "2026-06-04-c21a832b",
+          "title": "Je m’attendais à un film bancal : Backrooms est en fait la grosse claque horrifique de l’année",
+          "description": "Transposer un mème Internet nébuleux en un long-métrage de cinéma mémorable s'annonçait comme un casse-gueule monumental. Pourtant, avec Backrooms, produit par A24, le jeune prodige de 20 ans Kane Parsons livre un coup de maître visuel. En étirant les cloisons de son univers viral né sur YouTube, il orchestre un cauchemar géométrique et existentiel brillant, sublimé par la photographie de Jeremy Cox et les performances habitées de Chiwetel Ejiofor et Renate Reinsve.",
+          "url": "https://www.numerama.com/pop-culture/2266737-je-mattendais-a-un-film-bancal-backrooms-est-en-fait-la-claque-horrifique-de-lannee.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/capture-decran-2026-06-03-a-165548.jpg?resize=1600,900&key=89012637&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-04T07:30:00.000Z",
+          "fetchedAt": "2026-06-05T05:08:57.984Z"
+        },
+        {
+          "id": "2026-06-03-609f8e4c",
+          "title": "Un data center ne puisant pas plus d’eau qu’un restaurant : l’audacieuse promesse de Microsoft face à la soif de l’IA",
+          "description": "À la conférence Build 2026, Satya Nadella a frappé fort en affirmant que ses futurs data centers IA ne consommeraient pas plus d'eau à l'année qu'un simple restaurant de quartier. Une promesse de circuit fermé qui cherche à rassurer face à la « soif » de l'IA générative.",
+          "url": "https://www.numerama.com/tech/2266343-un-data-center-ne-puisant-pas-plus-deau-quun-restaurant-laudacieuse-promesse-de-microsoft-face-a-la-soif-de-lia.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/data-center.jpg?resize=1600,900&key=81eb533a&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-03T15:07:46.000Z",
+          "fetchedAt": "2026-06-05T05:08:57.984Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "'Library of Things' aims to help people save money",
+      "topic": "La guerre au Moyen-Orient favorise-t-elle l’investissement dans la transition én",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-06-04-0e2930ea",
-          "title": "'Library of Things' aims to help people save money",
-          "description": "Volunteers in Leamington have launched a new type of library where you can borrow household items.",
-          "url": "https://www.bbc.com/news/articles/czj2x3xndr0o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/065d/live/37e5afe0-5e6a-11f1-9e22-3514086b3d4d.jpg",
-          "source": "BBC Business",
+          "id": "2026-06-05-10a4fc20",
+          "title": "La guerre au Moyen-Orient favorise-t-elle l’investissement dans la transition énergétique ?",
+          "description": "Le développement de l’investissement dans la transition énergétique tient désormais à des facteurs structurels, comme le développement de l’intelligence artificielle.",
+          "url": "https://www.lemonde.fr/argent/article/2026/06/05/la-guerre-au-moyen-orient-favorise-t-elle-l-investissement-dans-la-transition-energetique_6697890_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-06-04T05:19:04.000Z",
-          "fetchedAt": "2026-06-04T05:50:06.639Z"
+          "publishedAt": "2026-06-05T04:00:09.000Z",
+          "fetchedAt": "2026-06-05T05:09:04.996Z"
         }
       ]
     }
