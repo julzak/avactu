@@ -1,275 +1,209 @@
 {
-  "generatedAt": "2026-06-07T05:19:16.409Z",
+  "generatedAt": "2026-06-08T05:26:17.921Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-7",
-      "topic": "EN DIRECT - Moyen-Orient: les États-Unis disent avoir abattu deux nouveaux drone",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-07-b11814fd",
-          "title": "EN DIRECT - Moyen-Orient: les États-Unis disent avoir abattu deux nouveaux drones menaçant le détroit d'Ormuz",
-          "description": "L'armée américaine a annoncé samedi 7 juin avoir abattu deux drones d'attaque iraniens qui menaçaient selon elle le trafic maritime dans le détroit d'Ormuz, dans la deuxième salve d'hostilités entre Washington et Téhéran. Malgré un cessez-le-feu en vigueur depuis le 8 avril, aucune solution ne semble en vue pour mettre fin à la guerre au Moyen-Orient, qui entre dimanche dans son 100e jour.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260607-en-direct-moyen-orient-les-%C3%A9tats-unis-disent-avoir-abattu-deux-nouveaux-drones-mena%C3%A7ant-le-d%C3%A9troit-d-ormuz",
-          "imageUrl": "https://s.rfi.fr/media/display/ff5419c4-6228-11f1-810c-005056bf30b7/w:1024/p:16x9/2026-06-03T124626Z-1595002635-RC2IKLAP52IO-RTRMADP-3-IRAN-CRISIS-USA-DEAL.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-07T04:30:15.000Z",
-          "fetchedAt": "2026-06-07T05:15:31.026Z"
-        },
-        {
-          "id": "2026-06-07-a81b718d",
-          "title": "Léon XIV est accueilli en Espagne par une jeunesse catholique minoritaire mais fervente",
-          "description": "Plus de 500 000 personnes ont participé, samedi soir à Madrid, à la veillée de prière organisée au premier soir de la visite papale. Si leur nombre ne progresse pas, les jeunes catholiques espagnols revendiquent leur foi avec une intensité nouvelle.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/07/leon-xiv-est-accueilli-en-espagne-par-une-jeunesse-catholique-minoritaire-mais-fervente_6698661_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-07T04:00:29.000Z",
-          "fetchedAt": "2026-06-07T05:15:16.019Z"
-        },
-        {
-          "id": "2026-06-07-97e82494",
-          "title": "L'acteur Idris Elba anobli, une fierté et un espoir pour la Sierra Leone",
-          "description": "L'acteur britannique a été anobli le 3 juin 2026 par le roi Charles III pour son engagement auprès de la jeunesse. Né dans l'est de Londres d'un père sierra-léonais, la star de The Wire et Luther n'a jamais caché son attachement au pays de ses origines. Il y défend plusieurs projets destinés à développer les industries créatives, dont la création d'une école de cinéma. En Sierra Leone, cette distinction est accueillie avec fierté.",
-          "url": "https://www.rfi.fr/fr/afrique/20260607-l-acteur-idris-elba-anobli-une-fiert%C3%A9-et-un-espoir-pour-la-sierra-leone",
-          "imageUrl": "https://s.rfi.fr/media/display/f3575702-6206-11f1-a696-005056bfb2b6/w:1024/p:16x9/000-B4Q83VC.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-07T03:08:31.000Z",
-          "fetchedAt": "2026-06-07T05:15:31.026Z"
-        },
-        {
-          "id": "2026-06-07-3b182629",
-          "title": "EN DIRECT, Moyen-Orient : l’armée américaine affirme avoir « abattu deux drones d’attaque iraniens »",
-          "description": "Selon le Commandement central américain, ces appareils « menaçaient le trafic maritime international dans le détroit d’Ormuz ».",
-          "url": "https://www.lemonde.fr/international/live/2026/06/07/en-direct-moyen-orient-l-armee-americaine-affirme-avoir-abattu-deux-drones-d-attaque-iraniens_6697888_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-07T02:01:02.000Z",
-          "fetchedAt": "2026-06-07T05:15:16.019Z"
-        },
-        {
-          "id": "2026-06-06-8e3cb66f",
-          "title": "Ethiopie : attaque de drones sur la ville de Sheraro, crainte d'une reprise de la guerre",
-          "description": "Après des mois de tensions entre le gouvernement du Premier ministre Abiy Ahmed et la région du Tigré, dirigée par le TPLF, une attaque de drone a frappé la ville de Sheraro, dans le nord du territoire, près de la frontière avec l'Érythrée. Il y a des craintes d'une reprise du conflit qui pourrait impliquer de nombreux acteurs, alors que la région ne s'est toujours pas remise de la dernière guerre, l'une des plus meurtrières du XXIe siècle.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260606-ethiopie-attaque-de-drones-sur-la-ville-de-sheraro-crainte-d-une-reprise-de-la-guerre",
-          "imageUrl": "https://s.france24.com/media/display/69ead164-61e4-11f1-bfc6-005056a97e36/w:1024/p:16x9/NW155608-O-01-20260606-01.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-06T21:11:02.000Z",
-          "fetchedAt": "2026-06-07T05:15:15.970Z"
-        },
-        {
-          "id": "2026-06-06-dae17d9b",
-          "title": "Jad Tabet : \"ce qu'il se passe au Liban Sud, c'est une table rase, une politique de terre brûlée\"",
-          "description": "Malgré un nouveau cessez-le-feu entre Israël et le Liban, les frappes israéliennes se poursuivent sur le Sud du pays. L'armée israélienne y pratique une politique de la terre brûlée, détruisant des villages entiers. L'inquiétude est maximale aussi pour le patrimoine libanais, dont des dizaines de sites historiques classés à l'UNESCO sont menacés de destruction totale ou partielle. Jad Tabet, conseiller du ministre libanais de la Culture Ghassan Salamé, était l'invité d'Au cœur de l'info.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260606-jad-tabet-ce-qu-il-se-passe-au-liban-sud-c-est-une-table-rase-une-politique-de-terre-br%C3%BBl%C3%A9e",
-          "imageUrl": "https://s.france24.com/media/display/9a057d16-61d7-11f1-918f-005056bf30b7/w:1024/p:16x9/JAD-TABET.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-06T19:45:02.000Z",
-          "fetchedAt": "2026-06-07T05:15:15.970Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "Élections en Arménie: choisir entre l’UE et la Russie, le dilemme des électeurs",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-07-c523e90f",
-          "title": "Élections en Arménie: choisir entre l’UE et la Russie, le dilemme des électeurs",
-          "description": "Ce sont des élections cruciales pour l’avenir de l’Arménie sous la pression de la Russie qui souhaite maintenir le pays dans son orbite. Le Premier ministre sortant veut se rapprocher des États-Unis et de l’Union européenne et ce sera tout l’enjeu de ce scrutin : une victoire de Nikol Pachinian confirmerait cet ancrage occidental de l’Arménie, une défaite la ramènerait dans le giron de la Russie.",
-          "url": "https://www.rfi.fr/fr/europe/20260607-%C3%A9lections-en-arm%C3%A9nie-choisir-entre-l-ue-et-la-russie-le-dilemme-des-%C3%A9lecteurs",
-          "imageUrl": "https://s.rfi.fr/media/display/6c1ddd14-6225-11f1-bcdc-005056a90284/w:1024/p:16x9/000-B4ZC6KV.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-07T04:02:01.000Z",
-          "fetchedAt": "2026-06-07T05:15:31.026Z"
-        },
-        {
-          "id": "2026-06-07-fa19d16d",
-          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine « a laissé passer sa chance de se sortir de cette guerre », affirme le chef de la diplomatie ukrainienne",
-          "description": "Andrii Sybiha évoquait ainsi la lettre ouverte adressée par Volodymyr Zelensky à son homologue russe dans laquelle il lui proposait de le rencontrer pour mener des négociations directes. L’Ukraine a de nouveau été prise pour cibles par des drones et missiles russes dans la nuit de samedi à dimanche. Le bilan n’est pas encore connu.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/07/en-direct-guerre-en-ukraine-vladimir-poutine-a-laisse-passer-sa-chance-de-se-sortir-de-cette-guerre-affirme-le-chef-de-la-diplomatie-ukrainienne_6698620_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-07T03:09:43.000Z",
-          "fetchedAt": "2026-06-07T05:15:16.019Z"
-        },
-        {
-          "id": "2026-06-06-9ac672ea",
-          "title": "Guerre en Ukraine : des attaques de drones russes font trois morts dans l’est du pays ; la Russie dit avoir intercepté 86 engins autour de Saint-Pétersbourg. Retrouvez les informations du 31 mai au 6 juin",
-          "description": "En Ukraine, les oblasts de Zaporijia et de Dnipropetrovsk ont été visés, selon les autorités locales. Par ailleurs, le gouverneur de Saint-Pétersbourg, où se tient un forum économique international, a fait savoir que la ville avait « été la cible d’une attaque de grande ampleur menée par des drones militaires ».",
-          "url": "https://www.lemonde.fr/international/live/2026/06/06/en-direct-guerre-en-ukraine-des-attaques-de-drones-russes-font-trois-morts-dans-l-est-du-pays-la-russie-dit-avoir-intercepte-86-engins-autour-de-saint-petersbourg_6695365_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-06T14:35:46.000Z",
-          "fetchedAt": "2026-06-07T05:15:16.019Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-10",
-      "topic": "« Nous devons relever la tête ! » : en Israël, les peurs et les maigres espoirs ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-07-b332f0c8",
-          "title": "« Nous devons relever la tête ! » : en Israël, les peurs et les maigres espoirs du « camp de la paix »",
-          "description": "Investis dans des associations, quelques milliers de volontaires se mobilisent quotidiennement en faveur d’une coexistence pacifique avec les Palestiniens, l’arrêt de la colonisation et la fin de l’occupation militaire en Cisjordanie. Mais, depuis vingt ans, leur poids politique et sociétal n’a cessé de se réduire.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/07/nous-devons-relever-la-tete-en-israel-les-peurs-et-les-maigres-espoirs-du-camp-de-la-paix_6698623_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-07T03:30:09.000Z",
-          "fetchedAt": "2026-06-07T05:15:16.019Z"
-        },
-        {
-          "id": "2026-06-06-167f1ecd",
-          "title": "Le Liban annonce la mort de plusieurs militaires dans une frappe israélienne",
-          "description": "Elena Volochine est en direct de Beyrouth au Liban.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260606-le-liban-annonce-la-mort-de-plusieurs-militaires-dans-une-frappe-isra%C3%A9lienne",
-          "imageUrl": "https://s.france24.com/media/display/5ba643ba-61a6-11f1-8ebd-005056bfb2b6/w:1024/p:16x9/FR-20260606-140506-140704-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-06T13:10:12.000Z",
-          "fetchedAt": "2026-06-07T05:15:15.970Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-1",
-      "topic": "Critique des Maîtres de l’univers, nouvelle gamme de forfaits chez Orange et tou",
+      "topic": "Roland-Garros : Alexander Zverev s'offre son premier titre du Grand Chelem",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-08-aad00258",
+          "title": "Roland-Garros : Alexander Zverev s'offre son premier titre du Grand Chelem",
+          "description": "Alexander Zverev a remporté la finale de Roland-Garros face à Flavio Cobolli. Il décroche le premier titre du Grand Chelem de sa carrière.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260608-roland-garros-alexander-zverev-s-offre-son-premier-titre-du-grand-chelem",
+          "imageUrl": "https://s.france24.com/media/display/86a863f4-62d2-11f1-a803-005056bf30b7/w:1024/p:16x9/J24-zverev-1-1.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-08T05:12:04.000Z",
+          "fetchedAt": "2026-06-08T05:22:17.359Z"
+        },
+        {
+          "id": "2026-06-07-988d154f",
+          "title": "Roland-Garros : Alexander Zverev décroche enfin son premier titre du Grand Chelem",
+          "description": "",
+          "url": "https://www.france24.com/fr/sports/20260607-roland-garros-alexander-zverev-d%C3%A9croche-enfin-son-premier-titre-du-grand-chelem",
+          "imageUrl": "https://s.france24.com/media/display/389dd6f6-62a7-11f1-bb63-005056a90284/w:1280/p:16x9/abebf70e-df46-408b-b0eb-eb2aeb98103e.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-07T17:45:49.000Z",
+          "fetchedAt": "2026-06-08T05:22:17.359Z"
+        },
+        {
+          "id": "2026-06-07-192c0a56",
+          "title": "Tennis: l’Allemand Alexander Zverev s’offre son premier Grand Chelem à Roland-Garros",
+          "description": "L’Allemand Alexander Zverev s’est imposé ce dimanche 7 juin lors de la finale de Roland-Garros face à Flavio Cobolli. Zverev est venu à bout de l'Italien en cinq sets, 6-1, 4-6, 6-4, 6-7 (5/7), 6-1, après 4h16 de jeu.",
+          "url": "https://www.rfi.fr/fr/sports/20260607-tennis-l-allemand-alexander-zverev-s-offre-son-premier-grand-chelem-%C3%A0-roland-garros",
+          "imageUrl": "https://s.rfi.fr/media/display/280c320a-629e-11f1-bd83-005056a90284/w:1024/p:16x9/superzve.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-07T17:44:27.000Z",
+          "fetchedAt": "2026-06-08T05:22:25.946Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Paris, Londres et Berlin soutiennent la proposition d'un «dialogue direct» entre",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-08-50a56660",
+          "title": "Paris, Londres et Berlin soutiennent la proposition d'un «dialogue direct» entre Russie et Ukraine",
+          "description": "Les dirigeants français, allemand et britannique ont apporté leur soutien dimanche à la proposition de Volodymyr Zelensky d'un « dialogue direct » entre l'Ukraine et la Russie, « avec la participation active des États-Unis et de l'Europe », à l'issue d'une réunion avec le président ukrainien à Londres.",
+          "url": "https://www.rfi.fr/fr/europe/20260608-paris-londres-et-berlin-soutiennent-la-proposition-d-un-dialogue-direct-entre-russie-et-ukraine",
+          "imageUrl": "https://s.rfi.fr/media/display/4f4c522e-62f7-11f1-891f-005056bf30b7/w:1024/p:16x9/AP26158735994916.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-08T05:04:06.000Z",
+          "fetchedAt": "2026-06-08T05:22:25.946Z"
+        },
+        {
+          "id": "2026-06-07-2bd8d362",
+          "title": "EN DIRECT, guerre en Ukraine : la France, l’Allemagne et le Royaume-Uni disent soutenir la proposition de Volodymyr Zelensky d’ouvrir un « dialogue direct » entre Kiev et Moscou",
+          "description": "« La ligne de contact actuelle doit servir de point de départ aux négociations. Les frontières internationales ne doivent pas être modifiées par la force », ont également déclaré Emmanuel Macron, Friedrich Merz et Keir Starmer, dans un communiqué commun avec le président ukrainien. Les dirigeants français, allemand et ukrainien étaient reçus à Londres par le premier ministre britannique.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/08/en-direct-guerre-en-ukraine-la-france-l-allemagne-et-le-royaume-uni-disent-soutenir-la-proposition-de-volodymyr-zelensky-d-ouvrir-un-dialogue-direct-entre-kiev-et-moscou_6698620_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-07T22:54:24.000Z",
+          "fetchedAt": "2026-06-08T05:22:17.297Z"
+        },
+        {
+          "id": "2026-06-07-f70f2b69",
+          "title": "Paris, Londres et Berlin soutiennent la proposition de Zelensky d'un \"dialogue direct\" avec Moscou",
+          "description": "Les dirigeants français, allemand et britannique ont affiché leur soutien dimanche à la proposition du président Volodymyr Zelensky d'un \"dialogue direct\" entre l'Ukraine et la Russie, \"avec la participation active des États-Unis et de l'Europe\", à l'issue d'une réunion commune à Londres.",
+          "url": "https://www.france24.com/fr/europe/20260607-paris-londres-et-berlin-soutiennent-la-proposition-de-zelensky-d-un-dialogue-direct-avec-moscou",
+          "imageUrl": "https://s.france24.com/media/display/c5e7b808-62dc-11f1-a5ee-005056a97e36/w:1024/p:16x9/000-B6B48BJ.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-07T16:11:11.000Z",
+          "fetchedAt": "2026-06-08T05:22:17.359Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "EN DIRECT, Moyen-Orient : Israël à nouveau visé par des missiles iraniens après ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-08-eada9b42",
+          "title": "EN DIRECT, Moyen-Orient : Israël à nouveau visé par des missiles iraniens après que son armée a « frappé des cibles dans l’ouest et le centre de l’Iran »",
+          "description": "L’Etat hébreu a riposté tôt lundi à de premières salves de missiles lancées par la République islamique dimanche. Selon l’ambassadeur israélien aux Etats-Unis, l’armée israélienne a ciblé en Iran des « sites de lancement de missiles » et des « infrastructures non liées au secteur de l’énergie ».",
+          "url": "https://www.lemonde.fr/international/live/2026/06/08/en-direct-moyen-orient-israel-a-nouveau-vise-par-des-missiles-iraniens-apres-que-l-armee-israelienne-a-frappe-des-cibles-dans-l-ouest-et-le-centre-de-l-iran_6697888_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-08T04:29:41.000Z",
+          "fetchedAt": "2026-06-08T05:22:17.297Z"
+        },
+        {
+          "id": "2026-06-08-23a83e36",
+          "title": "EN DIRECT – Moyen-Orient: Israël riposte à des missiles et frappe l'Iran, faisant fi de l’appel à la retenue lancé par Donald Trump",
+          "description": "Alors que le conflit dans le Moyen-Orient est lundi 8 juin à son 101e jour, les tensions et salves d'hostilités entre les parties ne cessent de s'intensifier. Malgré des appels à la retenue de Donald Trump, Israël a mené lundi 8 juin des frappes aériennes contre plusieurs localités en Iran, notamment Téhéran et Ispahan. L'État hébreu ripostait après avoir été la cible de missiles de la République islamique pour la première fois depuis l'instauration de la trêve au Moyen-Orient.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260608-en-direct-%E2%80%93-moyen-orient-isra%C3%ABl-riposte-%C3%A0-des-missiles-et-frappe-l-iran-faisant-fi-de-l-appel-%C3%A0-la-retenue-lanc%C3%A9-par-donald-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/c65f6e7a-62f0-11f1-ac07-005056bfb2b6/w:1024/p:16x9/AP26158789210111.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-08T04:20:42.000Z",
+          "fetchedAt": "2026-06-08T05:22:25.946Z"
+        },
+        {
+          "id": "2026-06-08-76cc2ef4",
+          "title": "Israël riposte aux frappes iraniennes, malgré les appels à la retenue de Donald Trump",
+          "description": "L’armée israélienne a dit, lundi, avoir visé des cibles militaires « dans l’ouest et le centre » de l’Iran. De son côté, Téhéran a lancé une nouvelle salve de missiles sur l’Etat hébreu lundi matin. Celles de dimanche étaient les premières frappes ayant ciblé Israël depuis que la trêve est entrée en vigueur, le 8 avril.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/08/israel-riposte-aux-frappes-iraniennes-malgre-les-appels-a-la-retenue-de-donald-trump_6699429_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-08T04:13:25.000Z",
+          "fetchedAt": "2026-06-08T05:22:17.297Z"
+        },
+        {
+          "id": "2026-06-08-2701bf99",
+          "title": "Israël riposte à une attaque iranienne contre l’avis de Washington",
+          "description": "L’État hébreu a mené lundi, malgré des appels à la retenue de Donald Trump, des frappes aériennes contre l’Iran après avoir été la cible de missiles iraniens pour la première fois depuis l’instauration de la trêve début avril. En défiant le président américain, Israël risque de devoir s’engager, seul, dans une escalade avec l’Iran, observe la presse israélienne.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-israel-riposte-a-une-attaque-iranienne-contre-l-avis-de-washington_244898",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/07/1/0/6867/4578/1200/630/60/0/3d3bada_ftp-1-klpiwgz0u3so-2026-06-07t232748z-1026495162-rc29plaeb86d-rtrmadp-3-iran-crisis-israel.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-08T04:08:33.000Z",
+          "fetchedAt": "2026-06-08T05:22:17.627Z"
+        },
+        {
+          "id": "2026-06-08-335ae288",
+          "title": "Escalade au Moyen-Orient : Israël a répliqué et frappé l'Iran",
+          "description": "De vastes zones du nord et du centre d'Israël ont été visées dimanche soir par des tirs de missiles iraniens, des frappes en représailles aux frappes sur le sud du Liban. L'armée israélienne a riposté quelques heures plus tard, disant viser des \"cibles militaires\" en Iran. Avec ces frappes, Israël passe outre les appels au calme de Donald Trump, qui cherche à faire avancer les négociations.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260608-escalade-au-moyen-orient-isra%C3%ABl-a-r%C3%A9pliqu%C3%A9-et-frapp%C3%A9-l-iran",
+          "imageUrl": "https://s.france24.com/media/display/086019fc-62ef-11f1-bf75-005056bf30b7/w:1024/p:16x9/FR-20260608-053147-053335-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-08T04:06:22.000Z",
+          "fetchedAt": "2026-06-08T05:22:17.359Z"
+        },
+        {
+          "id": "2026-06-08-e3391241",
+          "title": "Israël bombarde l'Iran en riposte à une attaque inédite",
+          "description": "En représailles aux vagues de missiles tirés depuis l'Iran la veille, l'armée israélienne a annoncé, lundi, avoir bombardé \"des cibles militaires appartenant au régime terroriste iranien dans l'ouest et le centre de l'Iran\".",
+          "url": "https://www.france24.com/fr/moyen-orient/20260608-isra%C3%ABl-bombarde-l-iran-en-riposte-%C3%A0-une-attaque-in%C3%A9dite",
+          "imageUrl": "https://s.france24.com/media/display/086019fc-62ef-11f1-bf75-005056bf30b7/w:1024/p:16x9/FR-20260608-053147-053335-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-08T02:53:12.000Z",
+          "fetchedAt": "2026-06-08T05:22:17.359Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Le 6 choses à retenir de la grande présentation de Gears of War: E-Day",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-07-21e81ce6",
-          "title": "Critique des Maîtres de l’univers, nouvelle gamme de forfaits chez Orange et toutes les annonces PS5 – le récap’ de la semaine",
-          "description": "Beaucoup de pop culture cette semaine sur Numerama et pour cause, c'était une suite de conférences des grands du jeu vidéo.",
-          "url": "https://www.numerama.com/pop-culture/2268935-critique-des-maitres-de-lunivers-nouvelle-gamme-de-forfaits-chez-orange-et-toutes-les-annonces-ps5-le-recap-de-la-semaine.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/capture-decran-2026-05-25-a-113733.jpg?resize=1600,900&key=1739e45c&watermark",
+          "id": "2026-06-07-bc1b6e2a",
+          "title": "Le 6 choses à retenir de la grande présentation de Gears of War: E-Day",
+          "description": "Gears of War: E-Day, peut-être le jeu le plus important pour Xbox en 2026, a ouvert et clôturé la conférence estivale de Microsoft. On connaît même sa date de sortie, calée au 6 octobre 2026, sur les consoles Xbox et sur PC.",
+          "url": "https://www.numerama.com/pop-culture/2269917-le-6-choses-a-retenir-de-la-grande-presentation-de-gears-of-war-e-day.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/05-gow-eday-playslikenew-final-7ef1be5a3c94e92a7462-1900x1080-1.jpg?resize=1600,900&key=68fce85b&watermark",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-06-07T04:30:00.000Z",
-          "fetchedAt": "2026-06-07T05:15:31.186Z"
+          "publishedAt": "2026-06-07T20:05:21.000Z",
+          "fetchedAt": "2026-06-08T05:22:26.039Z"
         },
         {
-          "id": "2026-06-06-1fb8fbf8",
-          "title": "Luke Turnock, sociologue : « Les peptides, ces molécules supposément réparatrices, sont le fer de lance d’un vaste mouvement d’autoexpérimentation »",
-          "description": "La « folk pharmacology », conceptualisée par le sociologue britannique, décrit la manière dont des communautés, notamment dans le milieu de la musculation, produisent leurs propres savoirs sur de nouvelles substances en dehors du cadre médical et souvent sans évoquer les risques.",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/06/06/luke-turnock-sociologue-les-peptides-ces-molecules-supposement-reparatrices-sont-le-fer-de-lance-d-un-vaste-mouvement-d-autoexperimentation_6698133_4497916.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-06-07-a41dd86b",
+          "title": "Gears of War: E-Day isn’t coming to the PS5",
+          "description": "Apparently, the \"return of Xbox\" means a retreat from other platforms. At its Xbox Games Showcase today, Microsoft revealed that Gears of War: E-Day - which was previously rumored for a PS5 launch in addition to Xbox and PC - will not be coming to PlayStation. It'll be an Xbox console exclusive and is launching on October 6th.\nThe announcement was preceded by a trailer, which opened with a street-level view of an alien attack, with the extraterrestrial invaders being fought off in an urban landscape, including an electronics store and grocery shop. It looked like familiar Gears gameplay: lots of blood and lots of cover. It also may have bee …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_e09b00d0c3acafe3bf3beb7d5d2e9fb50e43893a.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-06-06T14:05:10.000Z",
-          "fetchedAt": "2026-06-07T05:15:31.105Z"
-        },
-        {
-          "id": "2026-06-06-97a811c7",
-          "title": "Les Maîtres de l’univers : que signifient les scènes post-générique ?",
-          "description": "À l'instar de nombreux blockbusters amenés à connaître des suites, Les Maîtres de l'univers comporte des scènes bonus à la toute fin. Il y en a même trois, qui peuvent conduire à un deuxième film si Amazon donne son feu vert.",
-          "url": "https://www.numerama.com/pop-culture/2268371-les-maitres-de-lunivers-que-signifient-les-scenes-post-generique.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/masters-of-universe-1.jpg?resize=1600,900&key=8bec7311&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-06T13:38:56.000Z",
-          "fetchedAt": "2026-06-07T05:15:31.186Z"
-        },
-        {
-          "id": "2026-06-06-37b8ec98",
-          "title": "Sur YouTube et TikTok, ils ont fait de leur corps un terrain d’autoexpérimentation",
-          "description": "Des peptides non homologués au challenge du régime à 15 000 calories, décryptage d’un phénomène où des cobayes volontaires soumettent leur corps à des expériences extrêmes et publient les résultats en temps réel.",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/06/06/sur-youtube-et-tiktok-ils-ont-fait-de-leur-corps-un-terrain-d-autoexperimentation_6698079_4497916.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-06-06T04:00:23.000Z",
-          "fetchedAt": "2026-06-07T05:15:31.105Z"
-        },
-        {
-          "id": "2026-06-06-57eff738",
-          "title": "Philippe Van Parijs, philosophe : « Pour éviter que l’IA ne crée de l’exclusion, il faut associer revenu universel et formation tout au long de la vie »",
-          "description": "Dans un entretien au « Monde », le chercheur spécialiste de la question du revenu inconditionnel explique pourquoi la révolution de l’intelligence artificielle mène presque mécaniquement au revenu universel.",
-          "url": "https://www.lemonde.fr/idees/article/2026/06/06/philippe-van-parijs-philosophe-pour-eviter-que-l-ia-ne-cree-de-l-exclusion-il-faut-associer-revenu-universel-et-formation-tout-au-long-de-la-vie_6698078_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-06-06T04:00:06.000Z",
-          "fetchedAt": "2026-06-07T05:15:31.105Z"
-        },
-        {
-          "id": "2026-06-05-89235793",
-          "title": "Final Fantasy VII Revelation sera la conclusion monumentale que l’on attend",
-          "description": "Square Enix a profité du Summer Game Fest 2026 pour lever le voile sur la dernière pièce du projet le plus ambitieux du studio : la troisième et dernière partie du remake de Final Fantasy VII. Le chapitre final de la trilogie consacrée au RPG culte de 1997 s'annonce grandiose.",
-          "url": "https://www.numerama.com/pop-culture/2265801-final-fantasy-vii-revelation-sera-la-conclusion-monumentale-que-lon-attend.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/ff7-revelation.jpg?resize=1600,900&key=3befac20&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-05T23:00:43.000Z",
-          "fetchedAt": "2026-06-07T05:15:31.186Z"
+          "publishedAt": "2026-06-07T17:08:56.000Z",
+          "fetchedAt": "2026-06-08T05:22:30.868Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "« Quand c’est calme au travail, j’apporte mes fiches ou un bouquin pour rentabil",
+      "id": "cluster-2",
+      "topic": "You may be saving for retirement without realising it. Here's how to check",
       "category": "eco",
-      "importance": 9,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-06-06-6cdf91c5",
-          "title": "« Quand c’est calme au travail, j’apporte mes fiches ou un bouquin pour rentabiliser le temps » : étudiants salariés, la précarité à l’épreuve des études",
-          "description": "Cumuler études supérieures et emploi salarié est devenu la norme pour un étudiant sur deux, révèle une nouvelle étude de la Dares. Si ce revenu est indispensable pour faire face au coût de la vie, il impose un quotidien sous tension. Au prix de leur santé mentale et physique, nombre d’étudiants se retrouvent pris au piège, sacrifiant parfois leur cursus sur l’autel de la contrainte financière.",
-          "url": "https://www.lemonde.fr/campus/article/2026/06/06/quand-c-est-calme-au-travail-j-apporte-mes-fiches-ou-un-bouquin-pour-rentabiliser-le-temps-etudiants-salaries-la-precarite-a-l-epreuve-des-etudes_6698126_4401467.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-06-07-dccb4bb5",
+          "title": "You may be saving for retirement without realising it. Here's how to check",
+          "description": "One simple check could ensure you are not missing out on free money which could help in later life.",
+          "url": "https://www.bbc.com/news/articles/c1k2kpdzjdzo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f4ff/live/bf695a20-60d1-11f1-b808-9f0a293e0062.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-06-06T12:30:09.000Z",
-          "fetchedAt": "2026-06-07T05:15:40.602Z"
-        },
-        {
-          "id": "2026-06-06-8b92ae8f",
-          "title": "Le revenu universel, une idée utopique et libérale qui revient en force dans la Silicon Valley",
-          "description": "A l’heure où l’intelligence artificielle menace de ravager les emplois, l’idée d’un revenu de base versé à tous sans condition refait surface. Mais les patrons de la tech ont-ils les mêmes motivations que les philosophes et les économistes qui l’ont portée ?",
-          "url": "https://www.lemonde.fr/idees/article/2026/06/06/le-revenu-universel-une-idee-utopique-et-liberale-qui-revient-en-force-dans-la-silicon-valley_6698069_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-06T03:00:06.000Z",
-          "fetchedAt": "2026-06-07T05:15:40.602Z"
-        },
-        {
-          "id": "2026-06-05-6239188d",
-          "title": "Rachat de SFR : les quatre opérateurs se donnent jusqu’à dimanche pour « finaliser » un accord",
-          "description": "Le consortium avait présenté le 17 avril une nouvelle offre valorisant les actifs concernés à 20,35 milliards d’euros en valeur d’entreprise.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/05/rachat-de-sfr-les-quatre-operateurs-se-donnent-jusqu-a-dimanche-pour-finaliser-un-accord_6698030_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-05T20:42:59.000Z",
-          "fetchedAt": "2026-06-07T05:15:40.602Z"
-        },
-        {
-          "id": "2026-06-05-c1933bc1",
-          "title": "Canal+ : un syndicat du groupe dit refuser de faire la « communication » d’Eric Zemmour en vue de 2027",
-          "description": "La diffusion sur une chaîne du groupe de l’adaptation du livre « Le Suicide français » d’Eric Zemmour, probable candidat à l’élection présidentielle, a suscité l’indignation du syndicat autonome + Libres.",
-          "url": "https://www.lemonde.fr/actualite-medias/article/2026/06/05/canal-un-syndicat-du-groupe-dit-refuser-de-faire-la-communication-d-eric-zemmour-en-vue-de-2027_6698026_3236.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-05T19:15:15.000Z",
-          "fetchedAt": "2026-06-07T05:15:40.602Z"
+          "publishedAt": "2026-06-07T23:40:09.000Z",
+          "fetchedAt": "2026-06-08T05:22:32.574Z"
         }
       ]
     }
