@@ -71,7 +71,7 @@ interface Subscriber {
 // Constants
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
 const WEEKLY_STORIES_PATH = join(__dirname, '..', 'public', 'data', 'weekly-stories.json');
-const APP_URL = process.env.APP_URL || 'https://avactu.vercel.app';
+const APP_URL = process.env.APP_URL || 'https://avactu.com';
 
 // Frequency labels for messages
 const FREQUENCY_LABELS: Record<Frequency, string> = {
@@ -387,29 +387,46 @@ async function sendNewsletter(): Promise<void> {
     subject = `Avactu du ${formattedDate} - ${storyCount} actus`;
   }
 
-  // Send emails
+  // Send emails in batches (Resend supports up to 100 per batch call)
   let successCount = 0;
   let errorCount = 0;
+  const BATCH_SIZE = 50;
+  const typedSubscribers = subscribers as Subscriber[];
 
-  for (const subscriber of subscribers as Subscriber[]) {
-    try {
-      await resend.emails.send({
-        from: 'Avactu <briefing@avactu.com>',
-        to: subscriber.email,
-        subject,
-        html: htmlContent,
-        text: textContent,
-      });
+  for (let i = 0; i < typedSubscribers.length; i += BATCH_SIZE) {
+    const batch = typedSubscribers.slice(i, i + BATCH_SIZE);
 
-      successCount++;
-      console.log(`   ✓ ${subscriber.email}`);
-    } catch (err) {
-      errorCount++;
-      console.error(`   ✗ ${subscriber.email}: ${err instanceof Error ? err.message : err}`);
+    // Send batch concurrently with individual rate limiting
+    const results = await Promise.allSettled(
+      batch.map(async (subscriber, idx) => {
+        // Stagger within batch to respect rate limits
+        await new Promise((resolve) => setTimeout(resolve, idx * 200));
+        return resend.emails.send({
+          from: 'Avactu <briefing@avactu.com>',
+          to: subscriber.email,
+          subject,
+          html: htmlContent,
+          text: textContent,
+        });
+      })
+    );
+
+    for (let j = 0; j < results.length; j++) {
+      const result = results[j];
+      const email = batch[j].email;
+      if (result.status === 'fulfilled') {
+        successCount++;
+        console.log(`   ✓ ${email}`);
+      } else {
+        errorCount++;
+        console.error(`   ✗ ${email}: ${result.reason}`);
+      }
     }
 
-    // Rate limiting (Resend free tier: 100/day, 1/second)
-    await new Promise((resolve) => setTimeout(resolve, 1100));
+    // Pause between batches
+    if (i + BATCH_SIZE < typedSubscribers.length) {
+      await new Promise((resolve) => setTimeout(resolve, 2000));
+    }
   }
 
   // Summary
