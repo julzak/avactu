@@ -2,5 +2,5 @@
 // Update here when migrating models — no need to grep the codebase.
 export const MODELS = {
   // Rédaction analytique multi-sources, qualité maximale
-  synthesis: "claude-opus-4-6",
+  synthesis: "claude-opus-4-8",
 } as const;

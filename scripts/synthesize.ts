@@ -189,6 +189,11 @@ STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
 - Paragraphe 3 : POSITION B — Comment l'adversaire/opposant/critique perçoit la situation, ses contre-arguments
 - Paragraphe 4 : ENJEUX — Conséquences économiques, stratégiques, et perspectives futures
 
+OUVERTURE DU PARAGRAPHE ENJEUX (CRITIQUE) :
+- INTERDIT de commencer ce paragraphe par une formule générique : « Les enjeux sont considérables », « Les enjeux sont majeurs », « Les conséquences sont importantes » ou toute variante de ce moule
+- Entre directement dans le concret : ouvre sur l'enjeu le plus saillant (un acteur précis, un chiffre, un mécanisme, une échéance)
+- Varie la construction de cette ouverture d'une story à l'autre
+
 RÈGLES DE FRANÇAIS (TITRE ET BULLETS) — CRITIQUE :
 - Chaque bullet DOIT être une phrase française grammaticalement correcte
 - Chaque bullet DOIT commencer par un article ou déterminant (Le, La, Les, L', Un, Une, Des, De)
@@ -390,6 +395,11 @@ STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
 - Paragraphe 2 : CONTEXTE — Pourquoi c'est important
 - Paragraphe 3 : RÉACTIONS — Comment les acteurs réagissent
 - Paragraphe 4 : ENJEUX — Conséquences et perspectives
+
+OUVERTURE DU PARAGRAPHE ENJEUX (CRITIQUE) :
+- INTERDIT de commencer ce paragraphe par une formule générique : « Les enjeux sont considérables », « Les enjeux sont majeurs », « Les conséquences sont importantes » ou toute variante de ce moule
+- Entre directement dans le concret : ouvre sur l'enjeu le plus saillant (un acteur précis, un chiffre, un mécanisme, une échéance)
+- Varie la construction de cette ouverture d'une story à l'autre
 
 RÈGLES DE FRANÇAIS (CRITIQUE) :
 - Chaque bullet DOIT être une phrase française grammaticalement correcte
