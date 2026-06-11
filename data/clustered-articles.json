@@ -1,220 +1,231 @@
 {
-  "generatedAt": "2026-06-10T05:13:28.009Z",
+  "generatedAt": "2026-06-11T05:23:51.238Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Ebola : la stratégie des Etats-Unis jugée « excessive » et « contraire à l’éthiq",
+      "id": "cluster-3",
+      "topic": "EN DIRECT - Moyen-Orient: à nouveau bombardé par les États-Unis, l'Iran riposte ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-10-a4d6f542",
-          "title": "Ebola : la stratégie des Etats-Unis jugée « excessive » et « contraire à l’éthique » par des experts en santé",
-          "description": "Interdictions de voyager, envoi en Europe d’Américains malades, centre de quarantaine au Kenya… Les mesures drastiques prises par Washington pour empêcher l’arrivée d’un cas dans le pays sont critiquées par de nombreux scientifiques.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/10/ebola-la-strategie-des-etats-unis-jugee-excessive-et-contraire-a-l-ethique-par-des-experts-en-sante_6700407_3244.html",
+          "id": "2026-06-11-729f4895",
+          "title": "EN DIRECT - Moyen-Orient: à nouveau bombardé par les États-Unis, l'Iran riposte contre des bases du Golfe",
+          "description": "Jeudi 11 juin à l'aube, les États-Unis ont mené de nouveaux bombardements contre l'Iran, qui a annoncé des ripostes contre des bases militaires à Bahreïn, en Jordanie et au Koweït, et promis de prendre pour cible tous les navires s'aventurant dans le détroit d'Ormuz. Les frappes ont été déclenchées après que Donald Trump a accusé Téhéran de tergiverser dans les négociations pour arrêter la guerre.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260611-en-direct-moyen-orient-%C3%A0-nouveau-bombard%C3%A9-par-les-%C3%A9tats-unis-l-iran-riposte-contre-des-bases-du-golfe",
+          "imageUrl": "https://s.rfi.fr/media/display/a933c19c-654e-11f1-abf6-005056bf30b7/w:1024/p:16x9/2026-06-10T065118Z-165447736-RC2UQLAWQXYR-RTRMADP-3-IRAN-CRISIS-MISSILE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-11T04:43:30.000Z",
+          "fetchedAt": "2026-06-11T05:19:58.735Z"
+        },
+        {
+          "id": "2026-06-11-4452067f",
+          "title": "L’Iran, à nouveau frappé par les Etats-Unis, promet de refermer le détroit d’Ormuz",
+          "description": "Au lendemain d’une nouvelle vague de bombardements de l’armée américaine contre la République islamique, Téhéran a annoncé, tôt jeudi, la fermeture du point de passage stratégique, ce que Washington a démenti. Les gardiens de la révolution ont dit avoir mené des tirs de riposte au Koweït, à Bahreïn et en Jordanie.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/11/l-iran-a-nouveau-frappe-par-les-etats-unis-promet-de-refermer-le-detroit-d-ormuz_6700675_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-10T05:00:18.000Z",
-          "fetchedAt": "2026-06-10T05:09:27.563Z"
+          "publishedAt": "2026-06-11T04:24:27.000Z",
+          "fetchedAt": "2026-06-11T05:19:50.727Z"
         },
         {
-          "id": "2026-06-10-f86e9050",
-          "title": "Un Européen pour la première fois dans l'équipage de la prochaine mission Artémis",
-          "description": "Quelques semaines après le retour sur Terre de la mission Artemis 2 et de son équipage de quatre astronautes partis vers la Lune, la Nasa a annoncé mardi 9 juin les membres de la prochaine mission, Artemis III.",
-          "url": "https://www.rfi.fr/fr/science/20260610-un-europ%C3%A9en-pour-la-premi%C3%A8re-fois-dans-l-%C3%A9quipage-de-la-prochaine-mission-art%C3%A9mis",
-          "imageUrl": "https://s.rfi.fr/media/display/c268a822-6485-11f1-bb98-005056bfb2b6/w:1024/p:16x9/2026-06-09T212728Z-1730882064-RC2BQLAUNK5E-RTRMADP-3-SPACE-MOON-ARTEMIS.jpg",
-          "source": "RFI",
+          "id": "2026-06-11-74e0a358",
+          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont à nouveau attaqué l’Iran, qui a riposté en tirant des missiles au Koweït, à Bahreïn et en Jordanie",
+          "description": "Les forces américaines disent avoir visé « plusieurs cibles » militaires en Iran dans la nuit. Les gardiens de la révolution iraniens affirment avoir tiré des missiles balistiques, notamment sur un centre de commandement américain en Jordanie et au Koweït, qui a fermé son espace aérien.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/11/en-direct-guerre-au-moyen-orient-les-etats-unis-poursuivent-leurs-frappes-sur-l-iran-les-gardiens-de-la-revolution-disent-avoir-mene-des-tirs-de-riposte-au-koweit-a-bahrein-et-en-jordanie_6697888_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-10T04:39:26.000Z",
-          "fetchedAt": "2026-06-10T05:09:38.946Z"
+          "publishedAt": "2026-06-11T04:21:35.000Z",
+          "fetchedAt": "2026-06-11T05:19:50.727Z"
         },
         {
-          "id": "2026-06-10-3527b519",
-          "title": "EN DIRECT - Moyen-Orient: Téhéran réplique après des frappes américaines sur l'Iran répondant à un hélicoptère abattu",
-          "description": "L'Iran a annoncé, mercredi 10 juin, avoir visé des bases américaines du Golfe en représailles à des frappes de Washington contre des cibles iraniennes le long du détroit d'Ormuz, dans un nouvel embrasement régional après la destruction d'un hélicoptère américain attribuée à Téhéran près du détroit d'Ormuz. L'armée jordanienne dit avoir détruit cinq missiles iraniens qui ciblaient Azraq, où se situe une base américaine.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260610-en-direct-moyen-orient-t%C3%A9h%C3%A9ran-r%C3%A9plique-apr%C3%A8s-des-frappes-am%C3%A9ricaines-sur-l-iran-r%C3%A9pondant-%C3%A0-un-h%C3%A9licopt%C3%A8re-abattu",
-          "imageUrl": "https://s.rfi.fr/media/display/554ef114-63d7-11f1-81bf-005056bf30b7/w:1024/p:16x9/AP26157678844289.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-10T04:30:07.000Z",
-          "fetchedAt": "2026-06-10T05:09:38.946Z"
-        },
-        {
-          "id": "2026-06-10-d67a2d19",
-          "title": "Échange de frappes entre les États-Unis et l’Iran après le crash d’un hélicoptère américain",
-          "description": "Les États-Unis ont mené mardi des frappes de représailles contre l’Iran, qu’ils jugent responsable du crash d’un hélicoptère Apache américain la nuit de lundi à mardi. Téhéran a répliqué par des frappes contre des positions américaines dans le Golfe. Mais pour la presse internationale, ces attaques croisées restent mesurées et illustrent la retenue des deux camps.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-echange-de-frappes-entre-les-etats-unis-et-l-iran-apres-le-crash-d-un-helicoptere-americain_245025",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/07/0/429/4642/3095/1200/630/60/0/aedc489_ftp-1-mr5wpzetdo6z-2026-06-07t142245z-1023787286-rc21mlaigfaa-rtrmadp-3-oil-opec.JPG",
+          "id": "2026-06-11-8eb42a03",
+          "title": "Les États-Unis passent à la “diplomatie coercitive” et bombardent à nouveau l’Iran",
+          "description": "Perdant patience face à des négociations qui s’éternisent, Donald Trump a ordonné une nouvelle série de frappes sur l’Iran pour mettre la pression sur le régime des Mollahs.",
+          "url": "https://www.courrierinternational.com/article/conflit-les-etats-unis-passent-a-la-diplomatie-coercitive-et-bombardent-a-nouveau-l-iran_245094",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/11/0/281/3036/2024/1200/630/60/0/dfa3996_ftp-1-hmzvu3640iv1-2026-06-11t015617z-1533577230-rc2drlapiwo9-rtrmadp-3-iran-crisis-usa-centcom.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-10T04:16:12.000Z",
-          "fetchedAt": "2026-06-10T05:09:27.996Z"
+          "publishedAt": "2026-06-11T03:55:00.000Z",
+          "fetchedAt": "2026-06-11T05:19:51.233Z"
         },
         {
-          "id": "2026-06-10-aa269f06",
-          "title": "Au Pakistan, grèves et manifestations après une nouvelle attaque à l'acide contre une femme médecin",
-          "description": "Une attaque à l'acide contre une femme médecin dans le sud-ouest du Pakistan, au Balouchistan, a déclenché cette semaine des grèves et des manifestations et a provoqué une onde de choc dans le secteur médical, où de nombreuses femmes demandent plus de sécurité au travail.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20260610-au-pakistan-gr%C3%A8ves-et-manifestations-apr%C3%A8s-une-nouvelle-attaque-%C3%A0-l-acide-contre-une-femme-m%C3%A9decin",
-          "imageUrl": "https://s.rfi.fr/media/display/1434dbbc-6481-11f1-ad90-005056a97e36/w:1024/p:16x9/000-B6GN2G6.jpg",
-          "source": "RFI",
+          "id": "2026-06-11-fef0ae50",
+          "title": "En direct : l'Iran, à nouveau bombardé par les États-Unis, promet de refermer le détroit d'Ormuz",
+          "description": "",
+          "url": "https://www.france24.com/fr/moyen-orient/20260611-en-direct-moyen-orient-etats-unis-iran-frappes-detroit-d-ormuz-donald-trump",
+          "imageUrl": "https://s.france24.com/media/display/b0693838-641e-11f1-aeef-005056bf30b7/w:1280/p:16x9/AP26152577330559.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-10T04:02:31.000Z",
-          "fetchedAt": "2026-06-10T05:09:38.946Z"
+          "publishedAt": "2026-06-11T03:09:04.000Z",
+          "fetchedAt": "2026-06-11T05:19:50.932Z"
         },
         {
-          "id": "2026-06-10-085bd273",
-          "title": "Aux Etats-Unis, le retour d’un sexisme décomplexé dans les entreprises",
-          "description": "Les attaques de la Maison Blanche contre la politique de diversité en entreprise ont particulièrement touché les femmes. Embauches, promotions et conditions de travail s’en ressentent.",
-          "url": "https://www.lemonde.fr/emploi/article/2026/06/10/aux-etats-unis-le-retour-d-un-sexisme-decomplexe-dans-les-entreprises_6700397_1698637.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-06-11-1765f797",
+          "title": "Trump, ce président qui s’enrichit avec une impudence inouïe",
+          "description": "Le second mandat de Donald Trump se caractérise avant tout par une monétisation systématique de la présidence, estime le chroniqueur Fareed Zakaria. Le locataire de la Maison-Blanche s’enrichit sans retenue, parce qu’il n’a pas grand-chose à craindre dans une république impuissante à le réfréner.",
+          "url": "https://www.courrierinternational.com/article/opinion-trump-ce-president-qui-s-enrichit-avec-une-impudence-inouie_244507",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/08/80/109/2674/1783/1200/630/60/0/deb5fb9_upload-1-6pczqd6f0sok-ok-ruben-2026-05-22-5598.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-10T04:00:15.000Z",
-          "fetchedAt": "2026-06-10T05:09:27.563Z"
+          "publishedAt": "2026-06-11T03:00:16.000Z",
+          "fetchedAt": "2026-06-11T05:19:51.233Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "EN DIRECT, guerre en Ukraine : le point sur la situation",
+      "id": "cluster-11",
+      "topic": "Une Coupe du monde 2026 aux nombreux défis, entre tensions géopolitiques, enjeux",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-10-a76eec75",
-          "title": "EN DIRECT, guerre en Ukraine : le point sur la situation",
-          "description": "« J’avais un objectif en envoyant cette lettre à Poutine, et je pense avoir obtenu le résultat dont j’avais besoin », a déclaré, mardi, de manière volontairement sibylline le président ukrainien, Volodymyr Zelensky. Le 4 juin, il avait adressé une lettre ouverte à son homologue russe, lui proposant une rencontre en tête-à-tête.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/10/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6698620_3210.html",
+          "id": "2026-06-11-d66bb0ab",
+          "title": "Une Coupe du monde 2026 aux nombreux défis, entre tensions géopolitiques, enjeux sécuritaires et risques sanitaires et climatiques",
+          "description": "Le Mondial coorganisé par le Canada, les Etats-Unis et le Mexique qui s’ouvre jeudi 11 juin sera aussi scruté en dehors des terrains de football, dans un contexte d’incertitudes et de craintes quant à son bon déroulé.",
+          "url": "https://www.lemonde.fr/sport/article/2026/06/11/une-coupe-du-monde-2026-aux-nombreux-defis-entre-tensions-geopolitiques-enjeux-securitaires-et-risques-sanitaires-et-climatiques_6700659_3242.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-10T04:40:24.000Z",
-          "fetchedAt": "2026-06-10T05:09:27.563Z"
+          "publishedAt": "2026-06-11T03:30:10.000Z",
+          "fetchedAt": "2026-06-11T05:19:50.727Z"
         },
         {
-          "id": "2026-06-08-592607f9",
-          "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-          "description": "Kyiv has made it difficult for Moscow to provide military and civilian supplies to the territories it occupies.",
-          "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d15c/live/a02730a0-635c-11f1-8e1d-bbbb1017d210.jpg",
-          "source": "BBC World",
+          "id": "2026-06-11-9ec9eca9",
+          "title": "1970, 1986, 2026 : une histoire du Mexique en trois Coupes du monde de football",
+          "description": "Le Mexique accueille la Coupe du monde de football pour la troisième fois. Depuis l’édition de 1970 remportée par le Brésil de Pelé, le pays a connu une transformation remarquable, observe la revue américaine “Americas Quarterly” dans un récit en trois dates.",
+          "url": "https://www.courrierinternational.com/long-format/societe-1970-1986-2026-une-histoire-du-mexique-en-trois-coupes-du-monde-de-football_243690",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/08/191/0/3234/2156/1200/630/60/0/896cf6e_upload-1-pohznxa2brci-1986-05-31t000000z-956134971-mt1imgosp000ex1eio-rtrmadp-3-imago-images-sports.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-08T23:23:15.000Z",
-          "fetchedAt": "2026-06-10T05:09:38.316Z"
+          "publishedAt": "2026-06-11T03:00:21.000Z",
+          "fetchedAt": "2026-06-11T05:19:51.233Z"
+        },
+        {
+          "id": "2026-06-11-e5a7e4b3",
+          "title": "« Parler avec Poutine ? Pour les Européens, il y aurait une fenêtre d’opportunité à exploiter. Mais comment, qui et pour quoi ? »",
+          "description": "A la veille de trois réunions importantes, le G7 à Evian, le Conseil européen à Bruxelles et le sommet de l’OTAN à Ankara, les Européens se positionnent pour prendre la main dans d’éventuels pourparlers sur l’avenir de l’Ukraine alors que Donald Trump est enlisé au Moyen-Orient, explique, dans sa chronique, Sylvie Kauffmann, chroniqueuse au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/06/11/parler-avec-poutine-pour-les-europeens-il-y-aurait-une-fenetre-d-opportunite-a-exploiter-mais-comment-qui-et-pour-quoi_6700655_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-11T03:00:18.000Z",
+          "fetchedAt": "2026-06-11T05:19:50.727Z"
+        },
+        {
+          "id": "2026-06-11-c178878e",
+          "title": "Mozambique Exposed: au Cabo Delgado, une chape de plomb pèse sur les libertés civiques",
+          "description": "Alors que depuis près de dix ans, la région du Cabo Delgado est soumise à la violence du groupe armé des shebabs et aux exactions de ses soldats, très peu d’informations sortent de cette région septentrionale du Mozambique. Les journalistes et les membres de la société civile subissent violences et intimidations. Troisième épisode de l'enquête « Mozambique Exposed » du consortium coordonné par Forbidden Stories à laquelle RFI a contribué.",
+          "url": "https://www.rfi.fr/fr/afrique/20260611-mozambique-exposed-au-cabo-delgado-une-chape-de-plomb-p%C3%A8se-sur-les-libert%C3%A9s-civiques",
+          "imageUrl": "https://s.rfi.fr/media/display/77b1ea1a-6326-11f1-a0f5-005056bfb2b6/w:1024/p:16x9/Cabo-Delgado-chape-de-plomb-1.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-11T02:58:10.000Z",
+          "fetchedAt": "2026-06-11T05:19:58.735Z"
+        },
+        {
+          "id": "2026-06-11-f452173e",
+          "title": "Guinée: éboulement meurtrier dans une mine artisanale d'orpaillage dans le nord-est du pays",
+          "description": "Selon un bilan toujours provisoire, le glissement de terrain survenu lundi 8 juin a fait au moins 11 morts, ainsi que plusieurs blessés et de nombreux disparus. Ce genre de catastrophe n'est pas rare en Haute-Guinée où des ressortissants ouest-africains prennent des risques considérables pour exploiter au péril de leur vie des mines artisanales abandonnées dans l'espoir de trouver de l'or.",
+          "url": "https://www.rfi.fr/fr/afrique/20260611-guin%C3%A9e-%C3%A9boulement-meurtrier-dans-une-mine-artisanale-d-orpaillage-dans-le-nord-est-du-pays",
+          "imageUrl": "https://s.rfi.fr/media/display/4e3826ba-ad39-11ec-99b7-005056a90284/w:1024/p:16x9/GettyImages-177595929.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-11T02:55:48.000Z",
+          "fetchedAt": "2026-06-11T05:19:58.735Z"
+        },
+        {
+          "id": "2026-06-10-c6577c69",
+          "title": "Mondial-2026 : l'équipe du Sénégal \"humiliée\" par les douanes à leur arrivée aux États-Unis ?",
+          "description": "A la veille de la Coupe du Monde de football 2026, une vidéo montre l'équipe du Sénégal en pleine fouille sur un tarmac. Plusieurs utilisateurs y voient une \"humiliation raciste\" à leur entrée sur le territoire américain. Ces images, véridiques, montrent en réalité un contrôle de routine pour les vols privés. La fédération de football sénégalaise a confirmé que cette procédure, opérée \"sans incident\", avait été organisée pour permettre aux joueurs d'éviter les files d'attente dans l'aérogare.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260610-mondial-2026-l-%C3%A9quipe-du-s%C3%A9n%C3%A9gal-humili%C3%A9e-par-les-douanes-%C3%A0-leur-arriv%C3%A9e-aux-%C3%A9tats-unis",
+          "imageUrl": "https://s.france24.com/media/display/63b8f300-650b-11f1-b46e-005056bf30b7/w:1024/p:16x9/Francais-2026-06-10T20-20-07-290Z.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-10T21:02:42.000Z",
+          "fetchedAt": "2026-06-11T05:19:50.932Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "En Australie, une interdiction des réseaux sociaux difficile à appliquer, mais p",
+      "id": "cluster-16",
+      "topic": "À Barcelone, Léon XIV bénit la plus haute tour de la Sagrada Familia",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-10-6df3ef95",
-          "title": "En Australie, une interdiction des réseaux sociaux difficile à appliquer, mais pas sans effets",
-          "description": "Six mois après son entrée en vigueur, la loi peine encore à être respectée et une enquête a été ouverte contre cinq plateformes, dont Instagram, YouTube et Snapchat. Ce qui n’empêche pas certains enfants, surtout parmi les plus jeunes, de s’en détourner.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/06/10/en-australie-une-interdiction-des-reseaux-sociaux-difficile-a-appliquer-mais-pas-sans-effets_6700405_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-10T04:30:10.000Z",
-          "fetchedAt": "2026-06-10T05:09:27.563Z"
-        },
-        {
-          "id": "2026-06-10-afbe6fd7",
-          "title": "Pourquoi la ville de Bordeaux refuse de recevoir le « petit musée africain » qu’une sage-femme souhaitait lui léguer ?",
-          "description": "Le 1ᵉʳ juin 2026, le conseil municipal de la ville a refusé le legs de biens culturels originaires d’Afrique et issus d’une collection privée.",
-          "url": "https://www.lemonde.fr/videos/video/2026/06/10/pourquoi-la-ville-de-bordeaux-refuse-de-recevoir-le-petit-musee-africain-qu-une-sage-femme-souhaitait-lui-leguer_6700396_1669088.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-10T04:00:12.000Z",
-          "fetchedAt": "2026-06-10T05:09:27.563Z"
-        },
-        {
-          "id": "2026-06-10-33dc8432",
-          "title": "En Californie, vers un duel entre un démocrate et un républicain pour le poste de gouverneur",
-          "description": "Historiquement à gauche, l’Etat verra s’affronter, lors des élections du 3 novembre, le démocrate Xavier Becerra et le républicain Steve Hilton. Selon les responsables des élections, le premier a reçu 27,9 % des voix et le second 25 %, lors des primaires.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/10/en-californie-vers-un-duel-entre-un-democrate-et-un-republicain-pour-le-poste-de-gouverneur_6700390_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-10T03:13:04.000Z",
-          "fetchedAt": "2026-06-10T05:09:27.563Z"
-        },
-        {
-          "id": "2026-06-09-492d04f0",
-          "title": "Sénégal: un maître coranique condamné à 20 ans de prison pour des viols sur 28 élèves",
-          "description": "Condamnation inédite au Sénégal.. Un maître coranique, issu de l'une des plus prestigieuses lignées maraboutiques du pays, a été condamné lundi 8 juin à 20 ans de prison pour des viols et actes pédocriminels infligés à 28 de ses élèves, dans une école coranique de la ville de Touba, à 200 kilomètres de Dakar. Une décision historique dans un pays où le viol n'a été criminalisé qu’en 2020.",
-          "url": "https://www.rfi.fr/fr/afrique/20260609-s%C3%A9n%C3%A9gal-un-ma%C3%AEtre-coranique-condamn%C3%A9-%C3%A0-20-ans-de-prison-pour-des-viols-sur-28-%C3%A9l%C3%A8ves",
-          "imageUrl": "https://s.rfi.fr/media/display/26cd5dda-643b-11f1-bf2a-005056bf30b7/w:1024/p:16x9/000-33U673J.jpg",
+          "id": "2026-06-11-a98ccc93",
+          "title": "À Barcelone, Léon XIV bénit la plus haute tour de la Sagrada Familia",
+          "description": "Le pape a conclu sa visite dans la capitale catalane, mercredi 10 juin, en célébrant une messe dans la basilique inachevée d'Antoni Gaudi. Il en a ensuite béni la plus haute tour au cours d'une cérémonie qui s'est terminée par un spectaculaire son et lumière.",
+          "url": "https://www.rfi.fr/fr/europe/20260611-%C3%A0-barcelone-l%C3%A9on-xiv-b%C3%A9nit-la-plus-haute-tour-de-la-sagrada-familia",
+          "imageUrl": "https://s.rfi.fr/media/display/077a1992-653e-11f1-bfc2-005056bfb2b6/w:1024/p:16x9/2026-06-11T001840Z-2055713489-RC29RLA2RJLB-RTRMADP-3-POPE-SPAIN.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-09T21:47:28.000Z",
-          "fetchedAt": "2026-06-10T05:09:38.946Z"
+          "publishedAt": "2026-06-11T02:55:33.000Z",
+          "fetchedAt": "2026-06-11T05:19:58.735Z"
         },
         {
-          "id": "2026-06-09-4ed6db97",
-          "title": "« La victoire de Nikol Pachinian en Arménie devrait encourager la stabilisation d’un régime démocratique »",
-          "description": "L’essayiste et spécialiste de l’Arménie Michel Marian évoque, dans une tribune au « Monde », les défis qui attendent le premier ministre et son parti, Contrat civil, qui ont remporté les élections législatives du 7 juin, avec près de 50 % des voix.",
-          "url": "https://www.lemonde.fr/idees/article/2026/06/09/la-victoire-de-nikol-pachinian-en-armenie-devrait-encourager-la-stabilisation-d-un-regime-democratique_6700216_3232.html",
+          "id": "2026-06-10-47ca1a14",
+          "title": "A Barcelone, Léon XIV voit dans la basilique de la Sagrada Familia un « phare » pour l’évangélisation",
+          "description": "En visite dans la capitale de la Catalogne, la région d’Espagne la plus sécularisée, le pape a commémoré le centenaire de la mort du concepteur de l’édifice, Antoni Gaudi, surnommé « l’architecte de Dieu ».",
+          "url": "https://www.lemonde.fr/international/article/2026/06/10/a-barcelone-leon-xiv-voit-dans-la-basilique-de-la-sagrada-familia-un-phare-pour-l-evangelisation_6700541_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-09T19:00:12.000Z",
-          "fetchedAt": "2026-06-10T05:09:27.563Z"
+          "publishedAt": "2026-06-10T20:19:56.000Z",
+          "fetchedAt": "2026-06-11T05:19:50.727Z"
         },
         {
-          "id": "2026-06-09-bbf2c2c1",
-          "title": "«Une opportunité qui peut changer une vie»: les Ghetto Kids, jeunes danseurs ougandais, invités par Shakira au Mondial 2026",
-          "description": "Invités par Shakira à participer au spectacle de la mi-temps de la finale de la Coupe du monde 2026, les Ghetto Kids s'apprêtent à vivre le plus grand moment de leur histoire. Derrière cette invitation se cache le parcours hors du commun d'un groupe de jeunes danseurs ougandais issus de milieux défavorisés, qui voient dans cette opportunité une chance de transformer leur avenir.",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20260609-une-opportunit%C3%A9-qui-peut-changer-une-vie-les-ghetto-kids-jeunes-danseurs-ougandais-invit%C3%A9s-par-shakira-au-mondial-2026",
-          "imageUrl": "https://s.rfi.fr/media/display/ab0b54cc-642b-11f1-bafc-005056a97e36/w:1024/p:16x9/OUGANDA-DANSE-GHETTO-KIDS-COUPE-MONDE-FOOTBALL.jpg",
-          "source": "RFI",
+          "id": "2026-06-10-577c747a",
+          "title": "Léon XIV bénit la Sagrada Familia, désormais plus haute église du monde, lors d’une visite historique à Barcelone",
+          "description": "La visite de Léon XIV dans ce chef-d’œuvre moderniste arpenté chaque année par des millions de touristes a lieu un siècle, jour pour jour, après la mort d’Antoni Gaudi, un fervent catholique, fait « vénérable » l’an dernier, étape préalable à sa béatification.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/10/les-chretiens-ne-peuvent-pas-promouvoir-la-guerre-affirme-le-pape-leon-xiv-a-la-sagrada-familia_6700538_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-09T17:56:09.000Z",
-          "fetchedAt": "2026-06-10T05:09:38.946Z"
+          "publishedAt": "2026-06-10T18:55:58.000Z",
+          "fetchedAt": "2026-06-11T05:19:50.727Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "« Ghost in the Shell » - Comment ce récit du courant cyberpunk a-t-il marqué la ",
-      "category": "tech",
-      "importance": 7,
-      "articles": [
-        {
-          "id": "2026-06-10-920a967e",
-          "title": "« Ghost in the Shell » - Comment ce récit du courant cyberpunk a-t-il marqué la science-fiction ?",
-          "description": "Née en 1989, le manga de Masamune Shirow met en scène une femme cyborg agent de police qui traque des cybercriminels. Une œuvre qui ne cesse d’interroger le rapport des humains aux machines.",
-          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/06/10/ghost-in-the-shell-comment-ce-recit-du-courant-cyberpunk-a-t-il-marque-la-science-fiction_6700406_6176282.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-06-10T05:00:14.000Z",
-          "fetchedAt": "2026-06-10T05:09:38.249Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-1",
-      "topic": "Comment Bolloré achève Prisma, le roi de la presse magazine, qui a tardé à prend",
+      "topic": "Parents find lifeline in 50p kids' clothes shop",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-06-10-76d72aaf",
-          "title": "Comment Bolloré achève Prisma, le roi de la presse magazine, qui a tardé à prendre le virage du numérique",
-          "description": "Le plan de sauvegarde de l’emploi qui menace les 650 salariés du groupe Prisma (« Télé Loisirs », « Voici », « Femme actuelle », « Capital », etc.) devrait déboucher sur le départ de 40 % des effectifs. Beaucoup craignent de voir le premier groupe de presse magazine de France disparaître corps et biens.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/10/comment-bollore-acheve-prisma-le-roi-de-la-presse-magazine-qui-a-tarde-a-prendre-le-virage-du-numerique_6700402_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-06-11-c6b30648",
+          "title": "Parents find lifeline in 50p kids' clothes shop",
+          "description": "A second-hand shop selling cheap baby clothes sees rising demand as families cut costs.",
+          "url": "https://www.bbc.com/news/articles/cx2klxdpv51o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/56fd/live/8b276090-64c3-11f1-8546-8f19e4fe30f4.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-06-10T04:05:50.000Z",
-          "fetchedAt": "2026-06-10T05:09:46.632Z"
+          "publishedAt": "2026-06-11T05:07:05.000Z",
+          "fetchedAt": "2026-06-11T05:20:07.513Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Framework delays its first Laptop 13 Pro shipments by a month",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-06-10-766bea84",
+          "title": "Framework delays its first Laptop 13 Pro shipments by a month",
+          "description": "The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's still a chance some shipments could slip to early August. If you're not in the first batch, your Laptop 13 Pro shifts from a July shipment to August, though some could be as late as early September.  \nFramework informed customers who preordered a Laptop 13 Pro of the delay via email, outlining the reasons for the extra wait. The main culprits are the new haptic trackpad and custom display. Mainboard preorders and any orders that didn't include these components are sti …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC00210_71b030.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-06-10T23:12:51.000Z",
+          "fetchedAt": "2026-06-11T05:20:05.039Z"
         }
       ]
     }
