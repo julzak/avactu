@@ -431,3 +431,30 @@ Le logo est un **A stylisé cyan** avec :
 12. **Prompt caching sur l'API Claude** — Le system prompt est statique (~520 tokens) et envoyé 5-6 fois par pipeline. Toujours utiliser `cache_control: { type: 'ephemeral' }` sur le bloc system pour éviter de re-payer les input tokens. Format : `system: [{ type: 'text', text: PROMPT, cache_control: { type: 'ephemeral' } }]`
 13. **Le seuil de similarité entités pour doublons doit rester ≤ 0.5** — À 0.6, deux clusters sur le même sujet avec des entités geo légèrement différentes (ex: {usa} vs {usa, uk}) passent le filtre
 14. **Valider les images extraites : rejeter logos et placeholders** — Les CDN de presse (ex: Courrier International) servent parfois des images génériques (`logoarticle`, images datant de plusieurs années). Toujours valider via `isValidEditorialImage()` (dans `scripts/image-validation.ts`) qui rejette : URLs contenant `logo`, `placeholder`, `default`, `avatar` dans le nom de fichier ; images dont la date dans le chemin CDN est > 3 ans ; extensions `.svg`/`.ico`/`.gif`. Appliquer ce filtre dans `curate.ts` (extraction) ET `synthesize.ts` (sélection)
+
+---
+
+## Supabase migration 2026-04-18 → `jazzy-apps`
+
+### Avant / Après
+
+| Item | Source (à supprimer) | Cible actuelle |
+|---|---|---|
+| Projet Supabase | `avactu` — ref `siiuasvstybjbniisjac` — eu-west-1 | `jazzy-apps` — ref `vpmmobouujkknustjlho` — eu-central-1 |
+| URL | `https://siiuasvstybjbniisjac.supabase.co` | `https://vpmmobouujkknustjlho.supabase.co` |
+| Plan | PRO (shared org) | Free (final après cleanup) |
+
+### Changements
+- **Schema** : policies INSERT dupliquées sur `subscribers` dédupliquées (gardée `Allow public insert`, supprimée `Allow public inserts`)
+- **Data** : 74 `newsletter_editions` + 23 `subscribers` copiés via `pg_dump` (identique au source)
+- **Vercel env vars (production)** remplacées : `SUPABASE_URL`, `SUPABASE_SERVICE_KEY`, `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`
+- **GitHub Actions secrets** (repo `julzak/avactu`) remplacés : `SUPABASE_URL`, `SUPABASE_SERVICE_KEY`
+- **RESEND_API_KEY, OVH_SMS_*, AVA/FELIX/JULIEN_PHONE_NUMBER** : inchangés (pas liés à Supabase)
+
+### Suppression projet source
+**Plan** : supprimer le projet `avactu` source (`siiuasvstybjbniisjac`) **après la prochaine exécution validée du cron `send-newsletter`** (validation filet de sécurité 24h). Suite : Supabase Dashboard → Settings → General → Delete Project.
+
+### Rollback (tant que le source existe)
+- Remettre les env vars Vercel : `VITE_SUPABASE_URL=https://siiuasvstybjbniisjac.supabase.co`, `VITE_SUPABASE_ANON_KEY=<ancienne anon>`, idem pour `SUPABASE_URL` + `SUPABASE_SERVICE_KEY`.
+- Backup ephemeral : `/tmp/avactu_env_backup.txt` (à stash en pwd manager si nécessaire avant reboot).
+- Redeploy Vercel avec les anciennes valeurs.
