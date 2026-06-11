@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 
 export function useActiveStory(storyIds: string[]) {
   const [activeStoryId, setActiveStoryId] = useState<string | null>(
@@ -33,17 +33,24 @@ export function useActiveStory(storyIds: string[]) {
     };
   }, []);
 
-  const observe = (element: HTMLElement | null) => {
+  // Set initial active story when storyIds first populate
+  useEffect(() => {
+    if (storyIds.length > 0 && activeStoryId === null) {
+      setActiveStoryId(storyIds[0]);
+    }
+  }, [storyIds, activeStoryId]);
+
+  const observe = useCallback((element: HTMLElement | null) => {
     if (element && observerRef.current) {
       observerRef.current.observe(element);
     }
-  };
+  }, []);
 
-  const unobserve = (element: HTMLElement | null) => {
+  const unobserve = useCallback((element: HTMLElement | null) => {
     if (element && observerRef.current) {
       observerRef.current.unobserve(element);
     }
-  };
+  }, []);
 
   return { activeStoryId, observe, unobserve };
 }

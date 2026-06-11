@@ -1,4 +1,4 @@
-import { useLayoutEffect, useRef } from 'react';
+import { useLayoutEffect, useRef, memo } from 'react';
 import { BriefCard } from '@/components/BriefCard';
 import type { Story } from '@/types';
 
@@ -9,7 +9,7 @@ interface BriefStackProps {
   initialStoryId?: string | null;
 }
 
-export function BriefStack({ stories, activeStoryId, onObserve, initialStoryId }: BriefStackProps) {
+export const BriefStack = memo(function BriefStack({ stories, activeStoryId, onObserve, initialStoryId }: BriefStackProps) {
   const containerRef = useRef<HTMLDivElement>(null);
 
   useLayoutEffect(() => {
@@ -46,4 +46,4 @@ export function BriefStack({ stories, activeStoryId, onObserve, initialStoryId }
       <div className="h-[30vh]" />
     </div>
   );
-}
+});
