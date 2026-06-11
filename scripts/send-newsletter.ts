@@ -414,12 +414,17 @@ async function sendNewsletter(): Promise<void> {
     for (let j = 0; j < results.length; j++) {
       const result = results[j];
       const email = batch[j].email;
-      if (result.status === 'fulfilled') {
+      // Le SDK Resend ne throw pas : les échecs arrivent en fulfilled avec { error }
+      if (result.status === 'fulfilled' && !result.value.error) {
         successCount++;
         console.log(`   ✓ ${email}`);
       } else {
         errorCount++;
-        console.error(`   ✗ ${email}: ${result.reason}`);
+        const reason =
+          result.status === 'fulfilled'
+            ? `${result.value.error?.name}: ${result.value.error?.message}`
+            : result.reason;
+        console.error(`   ✗ ${email}: ${reason}`);
       }
     }
 
