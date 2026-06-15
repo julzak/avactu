@@ -1,0 +1,45 @@
+name: Watchdog Newsletter
+
+on:
+  schedule:
+    - cron: '15 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  check-and-retry:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if Send Newsletter ran successfully today
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          echo "Checking for successful 'Send Newsletter' runs on $TODAY..."
+
+          SUCCESS=$(gh api repos/${{ github.repository }}/actions/workflows/send-newsletter.yml/runs \
+            --jq "[.workflow_runs[] | select(.created_at >= \"${TODAY}T00:00:00Z\" and .conclusion == \"success\")] | length")
+
+          echo "Successful runs today: $SUCCESS"
+
+          if [ "$SUCCESS" -gt "0" ]; then
+            echo "needs_retry=false" >> $GITHUB_OUTPUT
+            echo "Newsletter already sent successfully today."
+          else
+            echo "needs_retry=true" >> $GITHUB_OUTPUT
+            echo "::warning::No successful Send Newsletter run found today. Will trigger retry."
+          fi
+
+      - name: Trigger Send Newsletter
+        if: steps.check.outputs.needs_retry == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Triggering Send Newsletter workflow..."
+          gh api repos/${{ github.repository }}/actions/workflows/send-newsletter.yml/dispatches \
+            -f ref="main"
+          echo "Send Newsletter workflow triggered."
