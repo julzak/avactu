@@ -1,154 +1,130 @@
 {
-  "date": "2026-06-14T05:29:05.798Z",
+  "date": "2026-06-15T06:18:34.561Z",
   "stories": [
     {
-      "id": "2026-06-14-01",
+      "id": "2026-06-15-01",
       "category": "geopolitique",
-      "title": "Trump annonce un accord avec l'Iran, Téhéran temporise",
-      "imageUrl": "https://s.france24.com/media/display/841fadac-64eb-11f1-801d-005056bfb2b6/w:1024/p:16x9/AP26161553416903.jpg",
+      "title": "Les États-Unis et l'Iran signent un accord de paix",
+      "imageUrl": "https://focus.courrierinternational.com/2026/05/18/0/389/4221/2814/1200/630/60/0/3d80e84_ftp-1-xf1jhf371alj-2026-05-18t063049z-1226467238-rc2dblau1srz-rtrmadp-3-iran-crisis-oman-hormuz.JPG",
       "location": {
         "lat": 26.5667,
         "lng": 56.25,
         "name": "Détroit d'Ormuz"
       },
       "bullets": [
-        "Les États-Unis annoncent un accord de paix avec l'Iran pour dimanche",
-        "Le médiateur pakistanais évoque un accord « plus proche que jamais »",
-        "L'Iran temporise et n'a pas confirmé la date avancée",
-        "La réouverture du détroit d'Ormuz est au cœur des discussions",
-        "Le sort de l'uranium iranien reste un point central des négociations"
+        "Les États-Unis et l'Iran annoncent un accord pour cesser les combats",
+        "Le Premier ministre pakistanais a révélé l'accord dimanche soir",
+        "Donald Trump annonce la réouverture du détroit d'Ormuz",
+        "Emmanuel Macron salue l'accord depuis le sommet du G7",
+        "Les cours du pétrole dégringolent après l'annonce"
       ],
-      "execSummary": "Le 14 juin 2026, Donald Trump a affirmé que les États-Unis signeraient ce dimanche un accord avec l'Iran pour mettre fin à la guerre au Moyen-Orient. Le Premier ministre pakistanais, qui joue les médiateurs, partage cet optimisme. Selon France 24, RFI et Le Monde, cet accord prévoirait notamment la réouverture immédiate du détroit d'Ormuz, voie maritime stratégique par où transite une part majeure du pétrole mondial. Téhéran, en revanche, n'a confirmé aucune date.\n\nCôté américain, Trump se présente comme l'artisan d'un cessez-le-feu décisif. « Une fois l'accord signé, le détroit d'Ormuz sera ouvert à tous », a-t-il déclaré selon Le Monde. Le médiateur pakistanais renforce ce récit en affirmant : « Nous sommes plus proches que jamais d'un accord de paix », cité par Courrier International. Pour Washington, la signature de dimanche marquerait un succès diplomatique majeur.\n\nL'Iran, lui, refroidit l'enthousiasme. Selon Courrier International, la diplomatie iranienne évoque un aboutissement « dans les prochains jours », sans s'engager sur dimanche. Le Monde rapporte même que Téhéran a écarté la possibilité d'une signature dans les vingt-quatre heures. Deux points bloquants demeurent : le contrôle du détroit d'Ormuz et le sort de l'uranium enrichi iranien.\n\nLe détroit d'Ormuz concentre les tensions : environ un cinquième du pétrole mondial y transite, et toute fermeture ferait flamber les prix de l'énergie. Le désaccord sur le calendrier illustre des négociations encore fragiles. Si l'accord se concrétise, il pourrait stabiliser une région en guerre ; à l'inverse, l'écart entre les annonces de Trump et la prudence iranienne laisse planer l'incertitude sur sa réalisation effective.",
+      "execSummary": "Selon RFI et Courrier International, les États-Unis et l'Iran ont finalisé dimanche 14 juin un protocole d'accord destiné à mettre fin à la guerre au Moyen-Orient, Liban inclus. C'est le Premier ministre pakistanais qui a annoncé l'accord dimanche soir, dont la cérémonie de signature est prévue le vendredi 19 juin en Suisse. Le Monde précise que le texte fixe les principes d'une fin des combats, avant une phase de négociations de soixante jours sur les sujets les plus épineux. L'annonce coïncide avec l'ouverture du sommet du G7.\n\nCôté américain, Donald Trump a salué l'accord sur Truth Social, annonçant la réouverture du détroit d'Ormuz et la levée du blocus naval américain dès la signature. Emmanuel Macron a, de son côté, salué l'accord, déclarant que la mission maritime internationale mise en place par la France et le Royaume-Uni était « prête à accompagner » la réouverture du détroit, point de passage stratégique du pétrole mondial.\n\nLes réactions restent toutefois nuancées. France 24 relaie une formule critique de la presse internationale : « Le lion rugissant s'est avéré une souris gémissante », signe que certains observateurs jugent les concessions iraniennes importantes. Le Monde souligne que les dossiers les plus sensibles — le programme nucléaire iranien, les stocks d'uranium enrichi et la levée des sanctions américaines — sont reportés à une seconde phase de soixante jours, laissant l'accord incomplet.\n\nLa réouverture annoncée du détroit d'Ormuz a immédiatement fait chuter les cours du pétrole, ce couloir maritime concentrant une part majeure du transit mondial d'hydrocarbures. Pour les marchés, l'apaisement réduit la prime de risque géopolitique. Reste l'incertitude des négociations nucléaires à venir, qui détermineront si cet accord de cessez-le-feu débouche sur une paix durable ou sur une trêve fragile.",
+      "sources": [
+        "Le Monde - International",
+        "France 24",
+        "Courrier International",
+        "RFI"
+      ],
+      "publishedAt": "2026-06-15T05:25:51.000Z"
+    },
+    {
+      "id": "2026-06-15-02",
+      "category": "geopolitique",
+      "title": "Neuf morts dans des frappes russes à Kiev et Kharkiv",
+      "imageUrl": "https://s.rfi.fr/media/display/f06721a2-6860-11f1-9290-005056a90284/w:1024/p:16x9/AP26166058951303.jpg",
+      "location": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "Kiev, Ukraine"
+      },
+      "bullets": [
+        "Les frappes russes tuent au moins neuf personnes à Kiev et Kharkiv",
+        "Une cathédrale du complexe orthodoxe de la Laure des Grottes en feu",
+        "Les autorités ukrainiennes recensent quatre morts à Kiev, cinq secouristes à Kharkiv",
+        "Une attaque de drones ukrainiens fait trois morts à Toula, en Russie",
+        "Le patrimoine religieux et la population civile au cœur du conflit"
+      ],
+      "execSummary": "Dans la nuit du dimanche 14 au lundi 15 juin 2026, une vague de frappes russes a touché plusieurs villes ukrainiennes, faisant au moins neuf morts selon Le Monde, RFI et la BBC. Quatre personnes sont mortes à Kiev et cinq secouristes ont été tués à Kharkiv, dans le nord-est du pays, rapporte France 24. L'offensive a aussi provoqué l'incendie de la cathédrale de la Dormition, au sein du célèbre complexe orthodoxe de la Laure des Grottes, un site historique majeur de la capitale. Dans le même temps, une attaque de drones ukrainiens contre la région russe de Toula, au sud de Moscou, a fait trois morts et trois blessés, selon la BBC.\n\nMoscou présente ses opérations comme des frappes ciblant des infrastructures militaires ukrainiennes, dans le cadre de la poursuite de son offensive lancée en 2022. Les autorités russes justifient l'intensité de ces attaques par la nécessité d'affaiblir la capacité de résistance de Kiev.\n\nLes autorités ukrainiennes dénoncent au contraire des frappes visant des zones civiles et un patrimoine religieux protégé. Le maire de Kiev a souligné les dégâts causés à la cathédrale de la Dormition, symbole spirituel du pays. Pour Kiev, ces bombardements illustrent une stratégie délibérée contre les populations civiles.\n\nDerrière ces frappes se joue une guerre d'usure qui touche désormais aussi le territoire russe : les drones ukrainiens frappent de plus en plus loin, comme à Toula. La BBC révèle par ailleurs une tendance controversée en Russie, où des familles utilisent l'intelligence artificielle pour « ressusciter » leurs proches tués au front. Sur le plan stratégique, la destruction de sites culturels comme la Laure des Grottes pourrait peser sur les négociations futures et alimenter les accusations de crimes de guerre.",
+      "sources": [
+        "Le Monde - International",
+        "BBC World",
+        "RFI",
+        "France 24"
+      ],
+      "publishedAt": "2026-06-15T04:15:30.000Z"
+    },
+    {
+      "id": "2026-06-15-03",
+      "category": "geopolitique",
+      "title": "Trump au G7 d'Évian, Ukraine et Iran au menu",
+      "imageUrl": "https://s.france24.com/media/display/bda6dd72-66b0-11f1-b0ed-005056bfb2b6/w:1024/p:16x9/2026-06-12T114337Z-216479852-RC2ASLA49R92-RTRMADP-3-G7-SUMMIT-EVIAN.jpg",
+      "location": {
+        "lat": 46.401,
+        "lng": 6.59,
+        "name": "Évian-les-Bains, France"
+      },
+      "bullets": [
+        "Le sommet du G7 s'ouvre lundi à Évian avec Donald Trump attendu",
+        "L'accord États-Unis-Iran et la guerre en Ukraine dominent l'agenda",
+        "Les Européens espèrent une ligne commune avec Trump sur l'Ukraine",
+        "Le sommet n'abordera pas le climat pour ménager le président américain",
+        "Un dîner de clôture à Versailles est prévu pour Donald Trump"
+      ],
+      "execSummary": "Le sommet du G7 s'ouvre lundi 15 juin à Évian-les-Bains, en France, et se poursuit jusqu'au 17 juin. Donald Trump y est particulièrement attendu, au lendemain de l'annonce d'un protocole d'entente américano-iranien. Selon France 24, les puissances du G7 doivent discuter des « conséquences » de cet accord, dont la réouverture du détroit d'Ormuz « dans la durée », d'après les propos d'Emmanuel Macron. La présidence française promet « un sommet des crises et un sommet concret dans ses résultats ». Un dîner de clôture est prévu au château de Versailles en présence du président américain.\n\nCe sommet intervient à un moment charnière de l'actualité internationale, marqué par l'accord conclu entre Washington et Téhéran et par l'intensification de la guerre en Ukraine. D'après Le Monde, les dirigeants européens espèrent profiter de la concrétisation de l'accord iranien pour ramener l'attention de Donald Trump sur le conflit entre Moscou et Kiev, où de nouvelles frappes russes ont fait au moins neuf morts.\n\nPour ne pas déplaire au président américain, le sommet n'abordera pas la lutte contre le réchauffement climatique, rapporte Le Monde. Courrier International, citant le quotidien suisse Le Temps, souligne les tensions entre la France et son voisin helvétique à l'occasion de ce rendez-vous tenu pour la deuxième fois à Évian, voisine de la Confédération. Des manifestations anti-G7 sont également signalées.\n\nLa concertation autour de l'Ukraine constitue l'enjeu central des discussions. Les Européens rêvent d'une ligne commune avec Trump, dont la position reste imprévisible, tandis que les frappes russes se poursuivent. Le format même du sommet, contraint d'écarter le climat, illustre le poids diplomatique du président américain sur l'agenda du G7.",
       "sources": [
         "France 24",
-        "RFI",
-        "Courrier International",
-        "Le Monde - International"
-      ],
-      "publishedAt": "2026-06-14T05:06:55.000Z"
-    },
-    {
-      "id": "2026-06-14-02",
-      "category": "geopolitique",
-      "title": "Versace s'expose au Musée Maillol à Paris",
-      "imageUrl": "https://s.rfi.fr/media/display/e2136f96-664b-11f1-8f59-005056a90284/w:1024/p:16x9/Gianni-Versace-Retrospective-mus%C3%A9e-Maillol-c-Emma-Birski-14.jpg",
-      "location": {
-        "lat": 48.8517,
-        "lng": 2.3243,
-        "name": "Paris, France"
-      },
-      "bullets": [
-        "Le Musée Maillol consacre une exposition à Gianni Versace jusqu'au 6 septembre",
-        "L'événement précède le 30e anniversaire de la disparition du créateur",
-        "Le styliste italien aurait eu 80 ans cette année",
-        "L'exposition met en avant les silhouettes flamboyantes et le goût de l'excès",
-        "Versace incarne le rayonnement mondial du «Made in Italy» dans le luxe"
-      ],
-      "execSummary": "Jusqu'au 6 septembre, le Musée Maillol à Paris retrace le parcours de Gianni Versace, figure majeure de la mode italienne. Selon RFI, l'exposition revient sur la carrière du créateur qui a bouleversé le secteur avec ses silhouettes flamboyantes, son goût pour l'excès et une vision résolument moderne du luxe. L'événement est présenté à l'aube du 30e anniversaire de sa disparition : assassiné en 1997, Versace aurait eu 80 ans cette année.\n\nPour ses admirateurs et les organisateurs, Versace représente l'audace décomplexée. Sa marque a fusionné culture pop, références antiques et glamour assumé, imposant une esthétique reconnaissable entre toutes. L'exposition met en lumière la manière dont il a transformé le luxe en spectacle, brouillant les frontières entre haute couture, musique et célébrité, et faisant du «Made in Italy» une référence mondiale du prestige.\n\nUne autre lecture, plus distanciée, rappelle que cet univers de l'excès interroge aussi les codes du luxe contemporain. Certains observateurs soulignent que célébrer le faste et l'ostentation peut paraître en décalage avec une époque sensible à la sobriété et aux questions de durabilité dans la mode. L'héritage de Versace, entre admiration et débat sur la surconsommation, reste donc discuté.\n\nDerrière l'événement, c'est le poids économique de la mode italienne qui se joue : le secteur du luxe pèse des milliards et la maison Versace, rachetée puis revendue à plusieurs reprises, demeure un actif convoité. Une rétrospective parisienne renforce l'aura d'une marque dans un marché ultra-concurrentiel. Pour un public jeune, l'exposition offre aussi une porte d'entrée vers l'histoire d'un créateur dont l'influence irrigue encore la culture visuelle actuelle.",
-      "sources": [
-        "RFI",
         "Le Monde - International",
         "Courrier International"
       ],
-      "publishedAt": "2026-06-14T05:02:02.000Z"
+      "publishedAt": "2026-06-15T06:10:04.000Z"
     },
     {
-      "id": "2026-06-14-03",
-      "category": "geopolitique",
-      "title": "Trump fête ses 80 ans avec un combat de MMA à la Maison Blanche",
-      "imageUrl": "https://s.france24.com/media/display/841fadac-64eb-11f1-801d-005056bfb2b6/w:1024/p:16x9/AP26161553416903.jpg",
-      "location": {
-        "lat": 38.8977,
-        "lng": -77.0365,
-        "name": "Washington, Maison Blanche"
-      },
-      "bullets": [
-        "Le président américain organise un combat de MMA dans les jardins de la Maison Blanche",
-        "L'événement marque ses 80 ans, en pleine baisse de popularité",
-        "Le Monde évoque une conception de la politique vue comme un show violent",
-        "Courrier International décrit un Washington transformé en chantier à sa gloire",
-        "L'usage des lieux présidentiels à des fins personnelles interroge les institutions"
-      ],
-      "execSummary": "Pour célébrer ses 80 ans ce dimanche, Donald Trump organise un combat d'arts martiaux mixtes (MMA) dans les jardins de la Maison Blanche, en compagnie de son ami de longue date Dana White, patron de l'Ultimate Fighting Championship (UFC). Selon Le Monde, qui a pu visiter les lieux de l'événement, cette soirée de combats consacre une complicité vieille de vingt-cinq ans entre les deux hommes et confirme une conception de la politique pensée comme un spectacle. L'événement intervient alors que le taux de popularité du président américain est particulièrement bas.\n\nCet anniversaire s'inscrit dans un contexte plus large de mise en scène présidentielle. Courrier International rapporte que Washington est devenu un vaste chantier destiné à la fois à fêter les 250 ans du pays et à célébrer la figure de Trump lui-même. La transformation des lieux iconiques de la capitale fédérale et l'usage des jardins de la résidence présidentielle pour un spectacle de combat illustrent une approche inédite des symboles institutionnels américains.\n\nLes réactions divergent selon les sensibilités. Le Monde analyse ce choix comme l'expression d'une vision politique opposant vainqueurs et « losers ». Une chroniqueuse de tendance progressiste citée par Courrier International éprouve de la peine pour ces lieux iconiques abîmés, tout en y voyant une leçon pour les Américains. Les deux sources s'accordent sur la dimension de coup de communication de l'opération.\n\nÀ moins de cinq mois d'échéances électorales et avec une cote de popularité en berne, Trump mise sur la spectacularisation pour mobiliser sa base. Le rapprochement affiché avec le monde du MMA, sport populaire auprès d'un électorat masculin, traduit une stratégie de communication assumée. L'épisode pose la question du détournement des symboles présidentiels et de la frontière entre fonction publique et célébration personnelle.",
-      "sources": [
-        "Le Monde - International",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-06-14T05:13:09.000Z"
-    },
-    {
-      "id": "2026-06-14-04",
-      "category": "geopolitique",
-      "title": "G7 à Evian sous haute sécurité : 16 000 policiers",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "location": {
-        "lat": 46.4006,
-        "lng": 6.5897,
-        "name": "Evian-les-Bains, France"
-      },
-      "bullets": [
-        "Le sommet du G7 se tient à Evian sous un dispositif sécuritaire massif.",
-        "Les autorités françaises déploient 16 000 gendarmes et policiers.",
-        "Le dispositif s'inspire directement de l'expérience des JO de Paris 2024.",
-        "La presse internationale relaie le G7 parmi les actualités majeures.",
-        "Le sommet se déroule sur fond de guerre au Moyen-Orient et en Ukraine."
-      ],
-      "execSummary": "La ville d'Evian-les-Bains, en Haute-Savoie, accueille le sommet du G7, placé sous une « bulle sécuritaire » exceptionnelle. Selon Le Monde, les autorités françaises ont déployé un dispositif de 16 000 gendarmes et policiers pour encadrer cette rencontre internationale réunissant les dirigeants des grandes puissances. Le sommet figure également parmi les actualités majeures relayées par la presse internationale, comme le rapporte Courrier International dans son tour d'horizon nocturne.\n\nCe rendez-vous diplomatique prend une importance particulière dans un contexte international tendu. Il se tient alors que la guerre au Moyen-Orient bat son plein, avec des annonces répétées d'un possible accord entre les États-Unis et l'Iran, et que le conflit en Ukraine se poursuit, notamment autour de la centrale nucléaire de Zaporijia. Le dispositif de sécurité témoigne de la sensibilité de l'événement et des risques perçus par les organisateurs.\n\nLe Monde souligne que le déploiement français s'inspire directement de l'expérience acquise lors des Jeux olympiques de Paris en 2024, qui avait mobilisé un appareil sécuritaire d'ampleur comparable. Les forces de l'ordre s'appuient ainsi sur des protocoles éprouvés pour verrouiller la zone et prévenir tout débordement, qu'il s'agisse de menaces extérieures ou de mouvements de protestation.\n\nLe choix d'Evian, station thermale frontalière de la Suisse, illustre la volonté des autorités de confiner les délégations dans un périmètre maîtrisable. L'ampleur des moyens engagés — 16 000 personnels mobilisés pour une poignée de chefs d'État — interroge sur le coût et la portée de tels sommets à l'heure où les crises s'accumulent. Le résultat des discussions, notamment sur les dossiers iranien et ukrainien, déterminera la portée réelle de cette réunion sécurisée à l'extrême.",
-      "sources": [
-        "Le Monde - International",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-06-14T05:13:09.000Z"
-    },
-    {
-      "id": "2026-06-14-05",
+      "id": "2026-06-15-04",
       "category": "tech",
-      "title": "Washington force Anthropic à couper Fable 5 et Mythos 5",
-      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/design-sans-titre-2026-04-22t101840498.jpg?resize=1600,900&key=02dfaaee&watermark",
+      "title": "Washington bloque le modèle d'IA Mythos d'Anthropic",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "location": {
         "lat": 38.8977,
         "lng": -77.0365,
-        "name": "Washington, États-Unis"
+        "name": "Washington, D.C."
       },
       "bullets": [
-        "Le gouvernement américain a ordonné la désactivation de Fable 5 et Mythos 5.",
-        "Une recherche d'Amazon sur un possible jailbreak a déclenché la directive.",
-        "Anthropic se conforme mais conteste publiquement la légitimité de l'ordre.",
-        "Washington invoque la sécurité nationale sans fournir de preuves écrites.",
-        "L'accès est coupé pour tous les clients, y compris américains."
+        "Les États-Unis ont contraint Anthropic à désactiver ses modèles Mythos 5 et Fable 5.",
+        "Des recherches d'Amazon sur des risques cyber ont déclenché les restrictions à l'export.",
+        "La Maison Blanche craindrait un accès chinois au modèle Mythos.",
+        "L'Europe y voit l'illustration de la domination américaine sur l'IA.",
+        "Le contrôle étatique sur les modèles avancés devient un enjeu de sécurité nationale."
       ],
-      "execSummary": "Le vendredi 12 juin 2026, l'administration Trump a ordonné à la start-up américaine Anthropic de bloquer l'accès à ses deux modèles d'intelligence artificielle les plus puissants, Claude Fable 5 et Mythos 5, pour tous les ressortissants étrangers, à l'intérieur comme à l'extérieur des États-Unis. Selon The Verge, Ars Technica et Le Monde, l'entreprise, jugeant impossible de filtrer ainsi ses utilisateurs, a préféré couper totalement l'accès à ces modèles pour l'ensemble de ses clients, y compris ses propres employés.\n\nLa directive s'appuie sur des préoccupations de « sécurité nationale ». D'après le Wall Street Journal cité par The Verge, elle aurait été déclenchée par une recherche en cybersécurité d'Amazon : à travers une série de requêtes, Amazon affirme avoir obtenu de Fable 5 des informations exploitables dans des cyberattaques. Le PDG Andy Jassy aurait partagé ces conclusions avec la Maison Blanche, qui a alors agi. Le contexte est sensible car Amazon est aussi investisseur d'Anthropic.\n\nAnthropic indique se conformer à l'ordre tout en contestant sa légitimité : selon Le Monde et Numerama, l'entreprise affirme que le gouvernement n'a fourni aucun détail écrit sur la menace, les éléments de preuve ayant été communiqués oralement. Anthropic juge les vulnérabilités « mineures » et disponibles via d'autres modèles. La société avait par ailleurs admis, selon Wired relayé par Numerama, avoir secrètement bridé certaines capacités de Fable 5.\n\nUn précédent s'installe : pour la première fois, Washington impose à un acteur privé de l'IA de désactiver un modèle au nom de la sécurité nationale, sur des preuves verbales contestées. La décision affecte immédiatement tous les utilisateurs et révèle la tension entre le contrôle des exportations technologiques et l'accès mondial aux modèles de pointe. Elle pose la question du pouvoir de l'État américain sur des outils devenus stratégiques, et du rôle des géants comme Amazon dans ces arbitrages.",
+      "execSummary": "La start-up américaine Anthropic a désactivé ses derniers modèles d'intelligence artificielle, Mythos 5 et Fable 5, à la demande de Washington, selon Le Monde et The Verge. Cette décision découle d'une directive de contrôle à l'exportation prise par l'administration Trump à la mi-juin 2026. Le Wall Street Journal, cité par The Verge, indique que la mesure a été déclenchée en partie par une étude de cybersécurité menée par Amazon et par des échanges entre son PDG Andy Jassy et la Maison Blanche.\n\nLe sujet est important car il marque l'irruption directe de l'État dans la diffusion des modèles d'IA les plus avancés. Selon les recherches d'Amazon, une série de requêtes aurait permis d'obtenir de Fable 5 des informations exploitables dans des cyberattaques. À cela s'ajoute, d'après un rapport de Semafor relayé par The Verge, la crainte qu'un groupe lié à la Chine ait pu accéder à Mythos, ce qui constituerait un risque de sécurité nationale, notamment par rétro-ingénierie via la distillation.\n\nLes acteurs réagissent en ordre dispersé. La Maison Blanche n'a pas confirmé le volet chinois, et le conseiller de Trump David Sacks n'a pas mentionné la Chine dans ses prises de parole publiques. Amazon n'avait pas répondu aux sollicitations. En France et en Europe, Le Monde rapporte des inquiétudes : la formule « la guerre de l'IA a commencé » illustre la lecture européenne d'une démonstration de puissance américaine et d'une volonté de contrôle de Washington.\n\nDès maintenant, Anthropic se retrouve privée de la commercialisation de ses modèles auprès des ressortissants étrangers, ce qui complique l'usage international de ses outils. L'épisode pose la question de la souveraineté technologique européenne, alors que le continent dépend largement des modèles américains. Il signale aussi que les capacités cyber des IA deviennent un critère explicite de régulation, susceptible de durcir encore les restrictions à venir.",
       "sources": [
-        "The Verge",
-        "Ars Technica",
         "Le Monde - Pixels",
+        "The Verge",
         "Numerama"
       ],
-      "publishedAt": "2026-06-14T05:00:03.000Z"
+      "publishedAt": "2026-06-15T06:00:09.000Z"
     },
     {
-      "id": "2026-06-14-06",
+      "id": "2026-06-15-05",
       "category": "eco",
-      "title": "La guerre au Moyen-Orient déstabilise l'économie mondiale",
+      "title": "Médicaments antiobésité remboursés en France dès le 15 juin",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
-        "lat": 26.5667,
-        "lng": 56.25,
-        "name": "Détroit d'Ormuz"
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "France"
       },
       "bullets": [
-        "Le conflit entre Iran, Israël et États-Unis bloque le détroit d'Ormuz.",
-        "Les prix des carburants flambent, affectant ménages et économies dépendantes.",
-        "Le Sri Lanka subit rationnement, inflation et chute du tourisme.",
-        "Le Royaume-Uni voit son économie se contracter en avril.",
-        "Le détroit d'Ormuz concentre une part majeure du transit pétrolier mondial."
+        "Les médicaments Wegovy et Mounjaro remboursés en France à partir du 15 juin",
+        "L'Assurance-maladie prend en charge 65 % sous conditions strictes",
+        "Les patients visés : obésité massive ou sévère avec comorbidité",
+        "Les centres spécialisés voient affluer les demandes de consultation",
+        "Le marché mondial oppose Novo Nordisk et Eli Lilly"
       ],
-      "execSummary": "Le conflit armé au Moyen-Orient, opposant les États-Unis, Israël et l'Iran, provoque un choc énergétique mondial. Selon Le Monde, le blocage du détroit d'Ormuz a entraîné une flambée des prix des carburants, ressentie jusque dans les villages ruraux français comme Bourdeaux, dans la Drôme. La BBC rapporte de son côté que l'économie britannique s'est légèrement contractée en avril, l'impact de la guerre avec l'Iran commençant à se faire sentir sur les entreprises.\n\nCe sujet est crucial car le détroit d'Ormuz constitue l'un des principaux points de passage du pétrole et du gaz mondiaux. Toute perturbation y répercute immédiatement les cours des hydrocarbures et alimente l'inflation à l'échelle planétaire. Les économies fortement dépendantes des importations d'énergie sont particulièrement exposées.\n\nLes acteurs réagissent diversement. Le Royaume-Uni, selon la BBC, s'est engagé à éliminer progressivement les importations de diesel et de kérosène russes d'ici la nouvelle année, dans le cadre de ses sanctions contre Moscou. En France, Le Monde décrit la résistance de petits pompistes ruraux qui maintiennent leur station-service malgré des tarifs très élevés. Au Sri Lanka, la population dénonce une situation « plus tenable », entre rationnement du carburant et tourisme en berne.\n\nL'île du Sri Lanka illustre la gravité de la situation : dépendante des hydrocarbures, sa fragile reprise après la crise de 2022 est désormais menacée. La contraction de l'économie britannique en avril signale que même les grandes puissances ne sont pas épargnées. Les semaines à venir dépendront de la durée du blocage d'Ormuz et de la capacité des États à diversifier leurs approvisionnements énergétiques.",
+      "execSummary": "À partir du lundi 15 juin 2026, deux médicaments antiobésité, le Wegovy (Novo Nordisk) et le Mounjaro (Eli Lilly), seront remboursés en France par l'Assurance-maladie. La prise en charge s'élève à 65 % et concerne les patients atteints d'obésité massive sans comorbidité ou d'obésité sévère avec comorbidité. Seuls les médecins spécialisés peuvent établir la première prescription, encadrant ainsi strictement l'accès à ces traitements.\n\nCe remboursement marque une étape importante dans la diffusion géographique de ces traitements, qui font l'objet d'une bataille mondiale entre les groupes pharmaceutiques Novo Nordisk et Eli Lilly. Le marché des médicaments antiobésité est qualifié de « faramineux » par Le Monde, les deux laboratoires se disputant la conquête de territoires successifs. La France rejoint donc les pays où ces produits deviennent accessibles via le système public de santé.\n\nLes centres spécialisés se disent « dans les starting-blocks » pour accueillir des patients : à l'approche du 15 juin, les demandes de consultation dans les services spécialisés se sont multipliées. Les professionnels de santé anticipent une forte affluence, conséquence directe de l'ouverture du remboursement. Les conditions strictes de prescription visent à canaliser cette demande vers les cas médicalement justifiés.\n\nL'encadrement de la première prescription par les seuls médecins spécialisés constitue le mécanisme clé destiné à maîtriser la dépense publique tout en répondant à un besoin médical. Pour Novo Nordisk et Eli Lilly, l'entrée de la France dans le périmètre du remboursement représente un débouché commercial majeur. Reste à observer la capacité des centres spécialisés à absorber l'afflux de patients et l'impact budgétaire pour l'Assurance-maladie.",
       "sources": [
-        "Le Monde - Économie",
-        "BBC Business"
+        "Le Monde - Économie"
       ],
-      "publishedAt": "2026-06-14T04:30:10.000Z"
+      "publishedAt": "2026-06-15T06:02:12.000Z"
     }
   ]
 }

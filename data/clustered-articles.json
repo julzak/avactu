@@ -1,242 +1,209 @@
 {
-  "generatedAt": "2026-06-14T05:27:23.219Z",
+  "generatedAt": "2026-06-15T06:17:17.686Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "En direct : Trump assure qu'un accord sera signé dimanche avec l'Iran",
+      "id": "cluster-6",
+      "topic": "EN DIRECT, guerre au Moyen-Orient : Emmanuel Macron salue l’accord conclu entre ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-14-3f416004",
-          "title": "En direct : Trump assure qu'un accord sera signé dimanche avec l'Iran",
-          "description": "Donald Trump a affirmé que les États-Unis signeraient dimanche un accord avec l'Iran pour mettre fin à la guerre au Moyen-Orient et prévoyant la réouverture immédiate du détroit d'Ormuz, une date non confirmée à ce stade par Téhéran. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260614-en-direct-moyen-orient-trump-assure-accord-sign%C3%A9-dimanche-iran-etats-unis",
-          "imageUrl": "https://s.france24.com/media/display/841fadac-64eb-11f1-801d-005056bfb2b6/w:1024/p:16x9/AP26161553416903.jpg",
+          "id": "2026-06-15-7c566648",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Emmanuel Macron salue l’accord conclu entre les Etats-Unis et l’Iran ; les cours du pétrole dégringolent",
+          "description": "Le président français a déclaré que la mission maritime internationale mise en place par la France et le Royaume-uni était « prête à accompagner » la réouverture du détroit d’Ormuz après l’accord conclu entre les Etats-Unis et l’Iran.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/15/en-direct-guerre-au-moyen-orient-emmanuel-macron-salue-l-accord-conclu-entre-les-etats-unis-et-l-iran-les-cours-du-petrole-degringolent_6701050_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T05:25:51.000Z",
+          "fetchedAt": "2026-06-15T06:13:16.964Z"
+        },
+        {
+          "id": "2026-06-15-b64ff7bd",
+          "title": "Accord entre Washington et Téhéran: \"Le lion rugissant s'est avéré une souris gémissante\"",
+          "description": "A la Une de la presse, ce lundi 15 juin, les premières réactions à l’annonce d’un «accord de paix» entre les Etats-Unis et l’Iran, qui survient au moment où débute le sommet du G7 à Evian, en France.  Les réactions, non loin de là, en Suisse, au «non» au référendum d’hier proposant de plafonner la population à 10 millions d’habitants. Le trophée de l’équipe la plus chic du Mondial de foot. Et la nouvelle sobriété capillaire des joueurs.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260615-accord-entre-washington-et-t%C3%A9h%C3%A9ran-le-lion-rugissant-s-est-av%C3%A9r%C3%A9-une-souris-g%C3%A9missante",
+          "imageUrl": "https://s.france24.com/media/display/fa94155e-6874-11f1-9d21-005056a90284/w:1024/p:16x9/10-TEHRAN-TIMES.png",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-14T05:06:55.000Z",
-          "fetchedAt": "2026-06-14T05:23:22.901Z"
+          "publishedAt": "2026-06-15T04:47:18.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.440Z"
         },
         {
-          "id": "2026-06-14-602e3127",
-          "title": "EN DIRECT - Moyen-Orient: Donald Trump affirme qu'un accord de paix sera signé ce dimanche, l'Iran maintient le doute",
-          "description": "Donald Trump et le médiateur pakistanais ont affirmé samedi que la signature d'un accord pour mettre fin à la guerre au Moyen-Orient était prévue ce dimanche 14 juin. Cette date n'a pas été confirmée à ce stade par Téhéran.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260614-en-direct-moyen-orient-donald-trump-affirme-qu-un-accord-de-paix-sera-sign%C3%A9-dimanche-l-iran-maintient-le-doute",
-          "imageUrl": "https://s.rfi.fr/media/display/89f5c47a-6638-11f1-b108-005056a90284/w:1024/p:16x9/2026-06-11T204917Z-1115407260-RC2WRLA9XY4I-RTRMADP-3-USA-TRUMP.jpg",
+          "id": "2026-06-15-b3765e4e",
+          "title": "Un accord trouvé entre Téhéran et Washington",
+          "description": "L'annonce était attendue : c'est le premier ministre pakistanais qui a fait savoir qu'un accord avait été trouvé, dimanche soir, entre les États-Unis et l'Iran. Sur Truth social, Donald Trump annonce l'ouverture du détroit d'Ormuz, dès la signature de l'accord, vendredi.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260615-un-accord-trouv%C3%A9-entre-t%C3%A9h%C3%A9ran-et-washington",
+          "imageUrl": "https://s.france24.com/media/display/5701e044-6872-11f1-a4bc-005056a90284/w:1024/p:16x9/FR-20260615-060333-060529-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:32:03.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.440Z"
+        },
+        {
+          "id": "2026-06-15-eb5728a9",
+          "title": "Les États-Unis et l’Iran annoncent un accord pour mettre fin à la guerre",
+          "description": "Les États-Unis et l’Iran ont finalisé dimanche un protocole d’accord devant mettre fin à la guerre au Moyen-Orient, Liban inclus. Le texte, qui doit être signé vendredi en Suisse, prévoit notamment la réouverture du détroit d’Ormuz. Les discussions sur le programme nucléaire iranien, les plus épineuses, auront lieu ultérieurement.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-les-etats-unis-et-l-iran-annoncent-un-accord-pour-mettre-fin-a-la-guerre_245198",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/18/0/389/4221/2814/1200/630/60/0/3d80e84_ftp-1-xf1jhf371alj-2026-05-18t063049z-1226467238-rc2dblau1srz-rtrmadp-3-iran-crisis-oman-hormuz.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:18:52.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.470Z"
+        },
+        {
+          "id": "2026-06-15-5dcf9782",
+          "title": "EN DIRECT - Les États-Unis et l'Iran parviennent à un accord pour mettre fin à la guerre au Moyen-Orient",
+          "description": "Le Premier ministre pakistanais a annoncé dimanche 14 juin dans la soirée que les États-Unis et l'Iran sont parvenus à trouver un accord de paix. La cérémonie officielle de signature de cet accord se tiendra le vendredi 19 juin, en Suisse. Dans la foulée, Donald Trump a annoncé la réouverture du détroit d'Ormuz prévue après la signature de l'accord, ainsi que la levée du blocus naval américain.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260615-en-direct-les-%C3%A9tats-unis-et-l-iran-parviennent-%C3%A0-un-accord-pour-mettre-fin-%C3%A0-la-guerre-au-moyen-orient",
+          "imageUrl": "https://s.rfi.fr/media/display/e65d1e92-686e-11f1-9dfd-005056a90284/w:1024/p:16x9/000-B6ZN8ME-1.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-14T04:06:39.000Z",
-          "fetchedAt": "2026-06-14T05:23:39.289Z"
+          "publishedAt": "2026-06-15T04:07:47.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.114Z"
         },
         {
-          "id": "2026-06-14-a2b70463",
-          "title": "Donald Trump assure qu’un accord avec l’Iran va être signé dimanche",
-          "description": "La diplomatie iranienne a préféré évoquer un aboutissement des discussions dans “les prochains jours”, alors que le Premier ministre pakistanais, qui joue les médiateurs, s’est montré optimiste : “Nous sommes plus proches que jamais d’un accord de paix”",
-          "url": "https://www.courrierinternational.com/article/donald-trump-assure-qu-un-accord-avec-l-iran-va-etre-signe-dimanche_245191",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/13/0/0/8256/5504/1200/630/60/0/837efd7_ftp-1-oevmozedaerf-afp-b6yt99e.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-14T03:45:09.000Z",
-          "fetchedAt": "2026-06-14T05:23:23.450Z"
-        },
-        {
-          "id": "2026-06-14-f4c8f637",
-          "title": "Donald Trump a fait de Washington un effarant chantier à sa gloire",
-          "description": "Une balade dans la capitale fédérale, début juin, révèle la pagaille que sèment les initiatives du président pour fêter les 250 ans du pays… et se célébrer lui-même, écrit cette chroniqueuse de tendance progressiste. Si elle éprouve de la peine pour ces lieux iconiques, elle voit aussi dans ces cicatrices une leçon pour les Américains.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-donald-trump-a-fait-de-washington-un-effarant-chantier-a-sa-gloire_244944",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/01/0/0/5562/3708/1200/630/60/0/acbf9bf_ftp-1-6ukpzr8neng7-2026-06-01t161340z-1721241561-rc22llai67bx-rtrmadp-3-usa-250.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-14T03:00:11.000Z",
-          "fetchedAt": "2026-06-14T05:23:23.450Z"
-        },
-        {
-          "id": "2026-06-14-41f79a51",
-          "title": "Donald Trump annonce de nouveau la signature imminente d’un accord avec l’Iran, ce que Téhéran ne confirme pas",
-          "description": "Le président américain et le médiateur pakistanais ont évoqué la finalisation d’un accord pour dimanche. Mais l’Iran temporise alors que la question du contrôle du détroit d’Ormuz et du sort de l’uranium iranien reste au cœur des discussions.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/14/donald-trump-annonce-de-nouveau-la-signature-imminente-d-un-accord-avec-l-iran-ce-que-teheran-ne-confirme-pas_6702226_3210.html",
+          "id": "2026-06-15-2d7eead9",
+          "title": "L’Iran et les Etats-Unis annoncent un accord pour arrêter la guerre au Moyen-Orient, avant une seconde phase de négociations sur les sujets qui fâchent",
+          "description": "Le protocole, qui doit être signé le 19 juin, fixe les principes d’une fin des combats, avant une phase de négociations de soixante jours sur le programme nucléaire iranien, les stocks d’uranium enrichi et la levée des sanctions américaines.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/15/l-iran-et-les-etats-unis-annoncent-un-accord-pour-arreter-la-guerre-au-moyen-orient-avant-une-seconde-phase-de-negociations-sur-les-sujets-qui-fachent_6703134_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-14T03:00:00.000Z",
-          "fetchedAt": "2026-06-14T05:23:22.859Z"
-        },
-        {
-          "id": "2026-06-14-53b4fe48",
-          "title": "EN DIRECT, guerre au Moyen-Orient : la signature d’un accord entre les Etats-Unis et l’Iran attendue dimanche, selon Donald Trump et le médiateur pakistanais",
-          "description": "Une fois l’accord signé, « le détroit d’Ormuz sera ouvert à tous », a ajouté le président américain, peu après que la diplomatie iranienne a écarté la possibilité d’une signature au cours des prochaines vingt-quatre heures.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-la-signature-d-un-accord-entre-les-etats-unis-et-l-iran-attendue-dimanche-selon-donald-trump-et-le-mediateur-pakistanais_6701050_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-14T01:44:59.000Z",
-          "fetchedAt": "2026-06-14T05:23:22.859Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Gianni Versace au Musée Maillol: immersion dans l’univers glamour et audacieux d",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-14-f37fa9a4",
-          "title": "Gianni Versace au Musée Maillol: immersion dans l’univers glamour et audacieux du maître du «Made in Italy»",
-          "description": "Jusqu’au 6 septembre, le Musée Maillol à Paris retrace le parcours de Gianni Versace. Le créateur italien, qui a bouleversé la mode avec ses silhouettes flamboyantes, son goût pour l’excès et sa vision résolument moderne du luxe. L’exposition est présentée à l’aube du 30e anniversaire de sa disparition. Il aurait eu 80 ans cette année.",
-          "url": "https://www.rfi.fr/fr/culture/20260614-gianni-versace-au-mus%C3%A9e-maillol-immersion-dans-l-univers-glamour-et-audacieux-du-ma%C3%AEtre-du-made-in-italy",
-          "imageUrl": "https://s.rfi.fr/media/display/e2136f96-664b-11f1-8f59-005056a90284/w:1024/p:16x9/Gianni-Versace-Retrospective-mus%C3%A9e-Maillol-c-Emma-Birski-14.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-14T05:02:02.000Z",
-          "fetchedAt": "2026-06-14T05:23:39.289Z"
-        },
-        {
-          "id": "2026-06-14-255459ec",
-          "title": "Les amputés de la guerre en Ukraine se relèvent grâce à l’escalade : « L’adrénaline me fait un bien fou »",
-          "description": "Depuis l’invasion russe de février 2022, 120 000 soldats ukrainiens sont revenus du front amputés d’un ou de plusieurs membres. Afin qu’ils puissent se réapproprier leur corps, désormais équipé de prothèses, des associations misent sur le sport, notamment l’escalade, où la confiance en soi est essentielle.",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/06/14/les-amputes-de-la-guerre-en-ukraine-se-relevent-grace-a-l-escalade-l-adrenaline-me-fait-un-bien-fou_6702245_4497916.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-14T04:00:28.000Z",
-          "fetchedAt": "2026-06-14T05:23:22.859Z"
-        },
-        {
-          "id": "2026-06-14-b28246da",
-          "title": "Les Etats-Unis imposent leur tutelle à une partie de l’Amérique latine",
-          "description": "La plupart des pays du continent, même non alignés, se plient aux injonctions de l’administration Trump. Washington n’hésite pas à recourir à des menaces de sanctions ou de retraits de visas pour faire primer ses intérêts, notamment dans la lutte contre le narcotrafic et l’accès aux ressources. Sans s’embarrasser de l’Etat de droit.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/14/les-etats-unis-imposent-leur-tutelle-a-une-partie-de-l-amerique-latine_6702235_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-14T03:30:21.000Z",
-          "fetchedAt": "2026-06-14T05:23:22.859Z"
-        },
-        {
-          "id": "2026-06-14-deec3f0a",
-          "title": "Arracher un cheveu blanc en fait-il repousser deux ?",
-          "description": "Dans sa rubrique “Est-il vrai que… ?”, le quotidien britannique “The Guardian” tente de répondre aux questions que l’on s’est toutes et tous déjà posées. Cette semaine, ce qui aurait pu être une bonne nouvelle pour contrer des calvities naissantes provoque l’effet inverse à celui escompté.",
-          "url": "https://www.courrierinternational.com/article/vrai-ou-faux-arracher-un-cheveu-blanc-en-fait-il-repousser-deux_244103",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/05/58/125/2270/1513/1200/630/60/0/cbe9451_upload-1-nb6q2r121qai-falco-2025-08-28-2060-w.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-14T03:00:19.000Z",
-          "fetchedAt": "2026-06-14T05:23:23.450Z"
-        },
-        {
-          "id": "2026-06-14-e34c3759",
-          "title": "“Un tour d’horizon de tous les départements français ? J’ai pensé que ce serait assez rigolo”",
-          "description": "Pourquoi lister, commenter et noter tous les départements de la France hexagonale ? À l’occasion de la publication de son classement annoté des 96 morceaux du territoire français, le journaliste britannique Anthony Peregrine nous explique ses motivations, sa méthode et, surtout, ses coups de cœur.",
-          "url": "https://www.courrierinternational.com/article/interview-un-tour-d-horizon-de-tous-les-departements-francais-j-ai-pense-que-ce-serait-assez-rigolo_244304",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/07/0/0/5616/3744/1200/630/60/0/c995ac9_upload-1-dlr8xqcnyael-050-only-0491633.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-14T03:00:08.000Z",
-          "fetchedAt": "2026-06-14T05:23:23.450Z"
-        },
-        {
-          "id": "2026-06-13-d5b9cae7",
-          "title": "En Mauritanie, la polémique enfle autour d'un éventuel troisième mandat du président Ghazouani",
-          "description": "En Mauritanie, la perspective d'un dialogue national est aujourd'hui compromise par la polémique sur un éventuel troisième mandat du président Mohamed Ould Ghazouani. Si les appels publics d'élus locaux sont présentés comme des initiatives individuelles, l'opposition y voit une stratégie orchestrée pour tester le terrain. Ce climat de tension menace l'alternance démocratique et paralyse tout espoir de consensus politique.",
-          "url": "https://www.rfi.fr/fr/afrique/20260613-en-mauritanie-la-pol%C3%A9mique-enfle-autour-d-un-%C3%A9ventuel-troisi%C3%A8me-mandat-du-pr%C3%A9sident-ghazouani",
-          "imageUrl": "https://s.rfi.fr/media/display/1ff892bc-37a2-11ef-9ae5-005056bf30b7/w:1024/p:16x9/f66a9f0c-ad91-4312-bbeb-249b81a22feb_cx0_cy2_cw0_w1597_n_r1_st_s.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-13T23:37:33.000Z",
-          "fetchedAt": "2026-06-14T05:23:39.289Z"
+          "publishedAt": "2026-06-15T03:20:29.000Z",
+          "fetchedAt": "2026-06-15T06:13:16.964Z"
         }
       ]
     },
     {
       "id": "cluster-11",
-      "topic": "Finales NBA: les New York Knicks sacrés face aux San Antonio Spurs de Victor Wem",
+      "topic": "Mondial 2026 : la Suède terrasse la Tunisie (5-1)",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-14-43c004fd",
-          "title": "Finales NBA: les New York Knicks sacrés face aux San Antonio Spurs de Victor Wembanyama",
-          "description": "Les New York Knicks ont remporté leur troisième titre NBA, dans la nuit de samedi 13 à dimanche 14 juin, au terme du cinquième match. Ils renversent ainsi les San Antonio Spurs du géant français Victor Wembanyama.",
-          "url": "https://www.rfi.fr/fr/sports/20260614-finale-nba-les-new-york-knicks-sacr%C3%A9s-face-aux-san-antonio-spurs-de-victor-wembanyama",
-          "imageUrl": "https://s.rfi.fr/media/display/3647ed48-67a6-11f1-bcb7-005056bf30b7/w:1024/p:16x9/AP26165140445821.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-14T03:42:44.000Z",
-          "fetchedAt": "2026-06-14T05:23:39.289Z"
-        },
-        {
-          "id": "2026-06-14-59eee90b",
-          "title": "NBA : les New York Knicks champions face aux Spurs de Wembanyama",
-          "description": "",
-          "url": "https://www.france24.com/fr/sports/20260614-nba-les-new-york-knicks-champions-face-aux-spurs-de-wembanyama",
-          "imageUrl": "https://s.france24.com/media/display/f2d281c4-67a8-11f1-a091-005056bfb2b6/w:1280/p:16x9/AP26165141952454.jpg",
+          "id": "2026-06-15-25590ea4",
+          "title": "Mondial 2026 : la Suède terrasse la Tunisie (5-1)",
+          "description": "La Suède démarre le Mondial avec assurance après sa victoire contre la Tunisie (5-1), dimanche soir. Les hommes de Graham Potter occupent seuls la première place de leur poule, à la faveur du nul (2-2) entre les Pays-Bas et le Japon.",
+          "url": "https://www.france24.com/fr/sports/20260615-mondial-2026-football-suede-terrasse-la-tunisie-5-1-poulef-graham-potter",
+          "imageUrl": "https://s.france24.com/media/display/e7a249ba-6870-11f1-87f9-005056a97e36/w:1024/p:16x9/2026-06-15T040832Z-1839902356-UP1EM6F0BI7ZC-RTRMADP-3-SOCCER-WORLDCUP-SWE-TUN.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-14T03:41:25.000Z",
-          "fetchedAt": "2026-06-14T05:23:22.901Z"
+          "publishedAt": "2026-06-15T04:18:16.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.440Z"
+        },
+        {
+          "id": "2026-06-15-51c27530",
+          "title": "Coupe du monde 2026: la Tunisie se saborde et offre la victoire à la Suède",
+          "description": "Pour leur entrée en lice dans ce Mondial 2026, les hommes de Sabri Lamouchi ont sombré face à la Suède (5-1) à Monterrey. Trop fébriles défensivement, les Aigles de Carthage ont offert plusieurs buts à leurs adversaires, qui en ont profité pour prendre seuls la tête du groupe F. Cette défaite complique déjà la course à la qualification pour les Tunisiens, qui doivent encore affronter le Japon et les Pays-Bas.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260615-coupe-du-monde-2026-la-tunisie-se-saborde-et-offre-la-victoire-%C3%A0-la-su%C3%A8de",
+          "imageUrl": "https://s.rfi.fr/media/display/46c6c386-686b-11f1-b3c3-005056a90284/w:1024/p:16x9/AP26166119072533.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:01:45.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.114Z"
         }
       ]
     },
     {
-      "id": "cluster-56",
-      "topic": "L’un des meilleurs jeux du moment est offert avec la MSI Nvidia RTX 5060 Ti en p",
-      "category": "tech",
-      "importance": 8,
+      "id": "cluster-12",
+      "topic": "EN DIRECT, guerre en Ukraine : neufs morts dans des frappes russes à Kiev et Kha",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-06-12-117cb119",
-          "title": "L’un des meilleurs jeux du moment est offert avec la MSI Nvidia RTX 5060 Ti en promotion",
-          "description": "[Deal du jour] Envie de mettre à jour votre configuration pour profiter des derniers jeux sans concession ? Actuellement, la carte graphique MSI Nvidia GeForce RTX 5060 Ti 8G Gaming Trio OC s'affiche à seulement 349 € au lieu de 505 € chez Amazon.",
-          "url": "https://www.numerama.com/tech/2274757-amazon-fait-chuter-le-prix-de-la-msi-nvidia-rtx-5060-ti-et-offre-007-first-light-avec.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/rtx-007.jpg?resize=1600,900&key=112b6f5e&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-12T12:41:41.000Z",
-          "fetchedAt": "2026-06-14T05:23:38.883Z"
+          "id": "2026-06-15-2190eeb4",
+          "title": "EN DIRECT, guerre en Ukraine : neufs morts dans des frappes russes à Kiev et Kharkiv ; la cathédrale de la Dormition en feu dans la capitale",
+          "description": "Au moins neuf personnes ont été tuées dans la nuit de dimanche à lundi dans des frappes russes visant la capitale ukrainienne et la ville de Kharkiv, dans le nord-est du pays. L’offensive russe a aussi provoqué l’incendie de la cathédrale de la Dormition de la laure des Grottes, à Kiev.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/15/en-direct-guerre-en-ukraine-neufs-morts-dans-des-frappes-russes-a-kiev-et-kharkiv-la-cathedrale-de-la-dormition-en-feu-dans-la-capitale_6702230_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:15:30.000Z",
+          "fetchedAt": "2026-06-15T06:13:16.964Z"
         },
         {
-          "id": "2026-06-12-ba7e08b6",
-          "title": "Coup de tonnerre à Hollywood : Warner Bros. lâche Mad Max mais son créateur a une solution",
-          "description": "Le futur de la franchise la plus explosive du septième art ne s'écrira plus chez Warner Bros. Après quarante ans de collaboration, le studio historique jette l'éponge et refuse de produire Mad Max 6. Une décision radicale qui profite déjà à la concurrence : Amazon, Universal et Sony Pictures se livrent actuellement une bataille féroce pour racheter les droits de la saga.",
-          "url": "https://www.numerama.com/pop-culture/2274715-coup-de-tonnerre-a-hollywood-warner-bros-lache-mad-max-mais-son-createur-a-une-solution.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2024/05/capture-decran-2024-05-22-a-142700.jpg?resize=1600,900&key=6fe998a2&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-12T09:50:44.000Z",
-          "fetchedAt": "2026-06-14T05:23:38.883Z"
+          "id": "2026-06-15-2a6d0dc2",
+          "title": "Russian strikes kill nine in Ukraine and damage historic cathedral, officials say",
+          "description": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people and wounded three others.",
+          "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4995/live/ce94fbb0-6862-11f1-9111-5512797ffbb9.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:08:58.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.296Z"
         },
         {
-          "id": "2026-06-12-592d58ba",
-          "title": "Tupac revient dans un jeu vidéo, mais « avec respect »",
-          "description": "Tupac n'a jamais vraiment quitté le cœur de tous les amateurs de rap US des années 90. Le rappeur a même fait quelques apparitions remarquées après sa mort, sur scène lors d'un concert à Coachella en 2012 par exemple. L'artiste revient maintenant dans le prochain jeu des développeurs de Yakuza, et le studio assume complètement cette résurrection.",
-          "url": "https://www.numerama.com/pop-culture/2274457-tupac-et-snoop-dogg-dans-un-jeu-video-cest-de-la-valeur-ajoutee-pour-les-developpeurs-de-yakuza.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/tupac-sth.jpg?resize=1600,900&key=da491f62&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-12T09:14:15.000Z",
-          "fetchedAt": "2026-06-14T05:23:38.883Z"
+          "id": "2026-06-15-6c42e6fa",
+          "title": "Guerre en Ukraine: au moins neuf morts dans une vague de frappes russes, une cathédrale en feu à Kiev",
+          "description": "Une attaque massive russe a fait au moins neuf morts en Ukraine dans la nuit du dimanche 14 au lundi 15 juin 2026. Une cathédrale est également en feu dans la capitale ukrainienne, Kiev. Plusieurs grandes villes d'Ukraine ont été prises pour cible, comme à Kharkiv, où au moins cinq secouristes ont été tués. Quatre personnes sont mortes à Kiev. Dans la nuit, une attaque de drones contre la région russe de Toula a également fait au moins trois morts, selon les autorités locales.",
+          "url": "https://www.rfi.fr/fr/europe/20260615-guerre-en-ukraine-une-attaque-massive-russe-cible-kiev-une-cath%C3%A9drale-orthodoxe-en-feu",
+          "imageUrl": "https://s.rfi.fr/media/display/f06721a2-6860-11f1-9290-005056a90284/w:1024/p:16x9/AP26166058951303.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T02:23:51.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.114Z"
+        },
+        {
+          "id": "2026-06-15-9b68a967",
+          "title": "Une série d'attaques russes frappent l'Ukraine, une église orthodoxe en feu à Kiev",
+          "description": "Plusieurs attaques de missiles russes ont visé lundi des villes ukrainiennes, dont la capitale où quatre morts sont recensés. L'une des cathédrales du célèbre complexe orthodoxe de la Laure des grottes de Kiev est en feu, rapporte le maire de la ville. À Kharkiv, cinq secouristes ont été tués et au moins cinq autres blessés.",
+          "url": "https://www.france24.com/fr/europe/20260615-une-attaque-massive-russe-frappe-kiev-une-%C3%A9glise-orthodoxe-ukrainienne-en-feu",
+          "imageUrl": "https://s.france24.com/media/display/94320b18-686f-11f1-a29e-005056bf30b7/w:1024/p:16x9/000-B73A9WM.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T01:15:14.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.440Z"
+        },
+        {
+          "id": "2026-06-13-fc2d68b4",
+          "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+          "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-13T23:19:52.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.296Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "« On va souvent chercher des paddles jusqu’à 5 kilomètres de la côte » : le boom",
+      "id": "cluster-2",
+      "topic": "Demand at baby bank 'has never been higher'",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-06-14-e76104c0",
-          "title": "« On va souvent chercher des paddles jusqu’à 5 kilomètres de la côte » : le boom des loisirs nautiques multiplie les problèmes de sécurité en bord de mer",
-          "description": "En Méditerranée comme sur la façade atlantique, les centres de secours en mer sont de plus en plus sollicités. En cause : l’essor des activités de plein air, qui a succédé aux confinements de la période Covid-19, sans que tous les nouveaux usagers soient bien au fait des règles de sécurité.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/14/on-va-souvent-chercher-des-paddles-jusqu-a-5-kilometres-de-la-cote-le-boom-des-loisirs-nautiques-multiplie-les-problemes-de-securite-en-bord-de-mer_6702231_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-06-15-2b6cd414",
+          "title": "Demand at baby bank 'has never been higher'",
+          "description": "The founder says rising childcare costs mean many of those they help are in work but struggling.",
+          "url": "https://www.bbc.com/news/articles/c932yz9ldn9o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0409/live/0f8a7be0-63f4-11f1-abe1-f36e5ae3bba8.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-06-14T03:30:11.000Z",
-          "fetchedAt": "2026-06-14T05:23:50.671Z"
+          "publishedAt": "2026-06-15T05:07:10.000Z",
+          "fetchedAt": "2026-06-15T06:13:36.834Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "China may have accessed Mythos",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-06-14-8c98ce05",
+          "title": "China may have accessed Mythos",
+          "description": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-06-14T18:27:55.000Z",
+          "fetchedAt": "2026-06-15T06:13:33.528Z"
         }
       ]
     }
