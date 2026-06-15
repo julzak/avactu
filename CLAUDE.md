@@ -396,7 +396,10 @@ Le logo est un **A stylisé cyan** avec :
 ### Newsletter
 - **Fréquences disponibles** : daily, biweekly (défaut), weekly
 - **Scripts** : `send-newsletter:daily`, `send-newsletter:biweekly`, `send-newsletter:weekly`
-- **Cron** : quotidien à 5h15 UTC, envoi conditionnel selon le jour
+- **Architecture 3 workflows** :
+  - `generate-content.yml` : cron 3h00 UTC → curate + cluster + synthesize + commit + deploy
+  - `send-newsletter.yml` : cron 4h45 UTC → envoi newsletter + SMS (~2 min, arrivée ~7h Paris)
+  - `watchdog-newsletter.yml` : cron 5h15 UTC → vérifie que l'envoi a eu lieu, relance sinon
 - **Inscription** : via `/api/subscribe` → email de confirmation → `/api/confirm?token=xxx`
 - **Flow** : Toute inscription/modification requiert confirmation par email (token UUID, expire 24h)
 

@@ -387,50 +387,37 @@ async function sendNewsletter(): Promise<void> {
     subject = `Avactu du ${formattedDate} - ${storyCount} actus`;
   }
 
-  // Send emails in batches (Resend supports up to 100 per batch call)
+  // Send emails in batch (single API call → single report entry)
+  const emails = (subscribers as Subscriber[]).map((subscriber) => ({
+    from: 'Avactu <briefing@avactu.com>',
+    to: subscriber.email,
+    subject,
+    html: htmlContent,
+    text: textContent,
+  }));
+
+  // Resend batch API supports up to 100 emails per call
+  const BATCH_SIZE = 100;
   let successCount = 0;
   let errorCount = 0;
-  const BATCH_SIZE = 50;
-  const typedSubscribers = subscribers as Subscriber[];
 
-  for (let i = 0; i < typedSubscribers.length; i += BATCH_SIZE) {
-    const batch = typedSubscribers.slice(i, i + BATCH_SIZE);
+  for (let i = 0; i < emails.length; i += BATCH_SIZE) {
+    const batch = emails.slice(i, i + BATCH_SIZE);
+    try {
+      const { data, error: batchError } = await resend.batch.send(batch);
 
-    // Send batch concurrently with individual rate limiting
-    const results = await Promise.allSettled(
-      batch.map(async (subscriber, idx) => {
-        // Stagger within batch to respect rate limits
-        await new Promise((resolve) => setTimeout(resolve, idx * 200));
-        return resend.emails.send({
-          from: 'Avactu <briefing@avactu.com>',
-          to: subscriber.email,
-          subject,
-          html: htmlContent,
-          text: textContent,
-        });
-      })
-    );
-
-    for (let j = 0; j < results.length; j++) {
-      const result = results[j];
-      const email = batch[j].email;
-      // Le SDK Resend ne throw pas : les échecs arrivent en fulfilled avec { error }
-      if (result.status === 'fulfilled' && !result.value.error) {
-        successCount++;
-        console.log(`   ✓ ${email}`);
+      if (batchError) {
+        console.error(`   ✗ Batch ${i / BATCH_SIZE + 1} error:`, batchError.message);
+        errorCount += batch.length;
       } else {
-        errorCount++;
-        const reason =
-          result.status === 'fulfilled'
-            ? `${result.value.error?.name}: ${result.value.error?.message}`
-            : result.reason;
-        console.error(`   ✗ ${email}: ${reason}`);
+        successCount += data?.data?.length ?? batch.length;
+        for (const subscriber of batch) {
+          console.log(`   ✓ ${subscriber.to}`);
+        }
       }
-    }
-
-    // Pause between batches
-    if (i + BATCH_SIZE < typedSubscribers.length) {
-      await new Promise((resolve) => setTimeout(resolve, 2000));
+    } catch (err) {
+      errorCount += batch.length;
+      console.error(`   ✗ Batch ${i / BATCH_SIZE + 1} failed:`, err instanceof Error ? err.message : err);
     }
   }
 
