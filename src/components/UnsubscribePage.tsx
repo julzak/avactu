@@ -1,9 +1,6 @@
 import { useState } from 'react';
 import { AvactuLogo } from '@/components/ui/AvactuLogo';
 
-const SUPABASE_URL = import.meta.env.VITE_SUPABASE_URL;
-const SUPABASE_ANON_KEY = import.meta.env.VITE_SUPABASE_ANON_KEY;
-
 export function UnsubscribePage() {
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
@@ -17,24 +14,22 @@ export function UnsubscribePage() {
     setStatus('loading');
 
     try {
-      const response = await fetch(`${SUPABASE_URL}/rest/v1/subscribers?email=eq.${encodeURIComponent(email)}`, {
-        method: 'DELETE',
-        headers: {
-          'apikey': SUPABASE_ANON_KEY,
-          'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
-        },
+      const response = await fetch('/api/unsubscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: email.toLowerCase().trim() }),
       });
 
       if (response.ok) {
         setStatus('success');
-        setMessage('Tu as bien ete desabonne. A bientot !');
+        setMessage('Tu as bien été désabonné. À bientôt !');
       } else {
         setStatus('error');
-        setMessage('Une erreur est survenue. Reessaie plus tard.');
+        setMessage('Une erreur est survenue. Réessaie plus tard.');
       }
     } catch {
       setStatus('error');
-      setMessage('Une erreur est survenue. Reessaie plus tard.');
+      setMessage('Une erreur est survenue. Réessaie plus tard.');
     }
   };
 
@@ -48,10 +43,10 @@ export function UnsubscribePage() {
 
         {/* Title */}
         <h1 className="font-serif text-2xl font-bold text-slate-50 text-center mb-2">
-          Se desabonner
+          Se désabonner
         </h1>
         <p className="text-slate-500 text-sm text-center mb-8">
-          Entre ton email pour te desabonner de la newsletter.
+          Entre ton email pour te désabonner de la newsletter.
         </p>
 
         {status === 'success' ? (
@@ -61,7 +56,7 @@ export function UnsubscribePage() {
               href="/"
               className="text-indigo-400 hover:text-indigo-300 font-mono text-sm underline"
             >
-              Retour a Avactu
+              Retour à Avactu
             </a>
           </div>
         ) : (
@@ -84,7 +79,7 @@ export function UnsubscribePage() {
               disabled={status === 'loading'}
               className="w-full px-4 py-3 bg-slate-800 hover:bg-slate-700 disabled:opacity-50 rounded-lg text-slate-50 font-mono text-sm uppercase tracking-wider transition-colors"
             >
-              {status === 'loading' ? 'Chargement...' : 'Se desabonner'}
+              {status === 'loading' ? 'Chargement...' : 'Se désabonner'}
             </button>
           </form>
         )}

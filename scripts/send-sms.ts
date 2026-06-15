@@ -47,7 +47,7 @@ const CATEGORY_EMOJI = {
 
 // Constants
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
-const APP_URL = process.env.APP_URL || 'avactu.vercel.app';
+const APP_URL = process.env.APP_URL || 'avactu.com';
 const MAX_TITLE_LENGTH = 40;
 
 // OVH SMS API endpoint

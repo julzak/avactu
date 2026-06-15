@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { Component, type ErrorInfo, type ReactNode } from 'react';
 import { useStories } from '@/hooks/useStories';
 import { useActiveStory } from '@/hooks/useActiveStory';
 import { useOffline } from '@/hooks/useOffline';
@@ -9,6 +9,44 @@ import { PreferencesPage } from '@/components/PreferencesPage';
 import { ConfirmPage } from '@/components/ConfirmPage';
 import { AvactuLogo } from '@/components/ui/AvactuLogo';
 import { WifiOff } from 'lucide-react';
+
+// Error Boundary to catch component crashes
+class ErrorBoundary extends Component<
+  { children: ReactNode },
+  { hasError: boolean; error: Error | null }
+> {
+  constructor(props: { children: ReactNode }) {
+    super(props);
+    this.state = { hasError: false, error: null };
+  }
+
+  static getDerivedStateFromError(error: Error) {
+    return { hasError: true, error };
+  }
+
+  componentDidCatch(error: Error, errorInfo: ErrorInfo) {
+    console.error('ErrorBoundary caught:', error, errorInfo);
+  }
+
+  render() {
+    if (this.state.hasError) {
+      return (
+        <div className="min-h-screen bg-obsidian-950 flex flex-col items-center justify-center gap-4 px-4">
+          <p className="text-red-400/80 font-mono text-sm">
+            Une erreur est survenue.
+          </p>
+          <button
+            onClick={() => window.location.reload()}
+            className="px-4 py-2 bg-slate-800 hover:bg-slate-700 rounded-lg text-slate-50 font-mono text-xs uppercase tracking-wider transition-colors"
+          >
+            Recharger
+          </button>
+        </div>
+      );
+    }
+    return this.props.children;
+  }
+}
 
 function App() {
   // Simple routing
@@ -28,7 +66,7 @@ function App() {
   const { stories, edition, loading, error } = useStories();
   const { activeStoryId, observe } = useActiveStory(stories.map((s) => s.id));
   const isOffline = useOffline();
-  const initialStoryId = useMemo(() => window.location.hash.slice(1) || null, []);
+  const initialStoryId = window.location.hash.slice(1) || null;
 
   if (loading) {
     return (
@@ -47,6 +85,7 @@ function App() {
   }
 
   return (
+    <ErrorBoundary>
     <div className="h-screen bg-obsidian-950 text-slate-50 flex flex-col overflow-hidden">
       {/* Header - Compact Brand Identity */}
       <header className="shrink-0 px-4 py-2 bg-gradient-to-b from-obsidian-900 to-transparent">
@@ -112,6 +151,7 @@ function App() {
         />
       </main>
     </div>
+    </ErrorBoundary>
   );
 }
 

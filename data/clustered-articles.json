@@ -1,242 +1,209 @@
 {
-  "generatedAt": "2026-04-02T06:22:47.628Z",
+  "generatedAt": "2026-06-15T06:17:17.686Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Explosions at Burundi ammunition depot kill 13 civilians - army",
+      "id": "cluster-6",
+      "topic": "EN DIRECT, guerre au Moyen-Orient : Emmanuel Macron salue l’accord conclu entre ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-02-7e83ab70",
-          "title": "Explosions at Burundi ammunition depot kill 13 civilians - army",
-          "description": "Powerful blasts destroyed homes and sparked panic in the city of Bujumbura on Tuesday night.",
-          "url": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/29a9/live/94aacd40-2ddd-11f1-b297-95b0a0a8331e.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-02T06:15:32.000Z",
-          "fetchedAt": "2026-04-02T06:19:01.917Z"
-        },
-        {
-          "id": "2026-04-01-6b5b3c23",
-          "title": "Au Burundi, l’armée annonce la mort de 13 civils dans les explosions survenues dans un dépôt de munitions à Bujumbura",
-          "description": "Plusieurs explosions ont eu lieu après l’incendie survenu mardi dans le principal dépôt de munitions du pays, situé dans le quartier densément peuplé de Musaga, dans le sud de la capitale économique du Burundi.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/04/01/au-burundi-l-armee-annonce-la-mort-de-13-civils-dans-les-explosions-survenues-dans-un-depot-de-munitions-a-bujumbura_6675950_3212.html",
+          "id": "2026-06-15-7c566648",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Emmanuel Macron salue l’accord conclu entre les Etats-Unis et l’Iran ; les cours du pétrole dégringolent",
+          "description": "Le président français a déclaré que la mission maritime internationale mise en place par la France et le Royaume-uni était « prête à accompagner » la réouverture du détroit d’Ormuz après l’accord conclu entre les Etats-Unis et l’Iran.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/15/en-direct-guerre-au-moyen-orient-emmanuel-macron-salue-l-accord-conclu-entre-les-etats-unis-et-l-iran-les-cours-du-petrole-degringolent_6701050_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-01T19:49:36.000Z",
-          "fetchedAt": "2026-04-02T06:18:46.927Z"
+          "publishedAt": "2026-06-15T05:25:51.000Z",
+          "fetchedAt": "2026-06-15T06:13:16.964Z"
+        },
+        {
+          "id": "2026-06-15-b64ff7bd",
+          "title": "Accord entre Washington et Téhéran: \"Le lion rugissant s'est avéré une souris gémissante\"",
+          "description": "A la Une de la presse, ce lundi 15 juin, les premières réactions à l’annonce d’un «accord de paix» entre les Etats-Unis et l’Iran, qui survient au moment où débute le sommet du G7 à Evian, en France.  Les réactions, non loin de là, en Suisse, au «non» au référendum d’hier proposant de plafonner la population à 10 millions d’habitants. Le trophée de l’équipe la plus chic du Mondial de foot. Et la nouvelle sobriété capillaire des joueurs.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260615-accord-entre-washington-et-t%C3%A9h%C3%A9ran-le-lion-rugissant-s-est-av%C3%A9r%C3%A9-une-souris-g%C3%A9missante",
+          "imageUrl": "https://s.france24.com/media/display/fa94155e-6874-11f1-9d21-005056a90284/w:1024/p:16x9/10-TEHRAN-TIMES.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:47:18.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.440Z"
+        },
+        {
+          "id": "2026-06-15-b3765e4e",
+          "title": "Un accord trouvé entre Téhéran et Washington",
+          "description": "L'annonce était attendue : c'est le premier ministre pakistanais qui a fait savoir qu'un accord avait été trouvé, dimanche soir, entre les États-Unis et l'Iran. Sur Truth social, Donald Trump annonce l'ouverture du détroit d'Ormuz, dès la signature de l'accord, vendredi.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260615-un-accord-trouv%C3%A9-entre-t%C3%A9h%C3%A9ran-et-washington",
+          "imageUrl": "https://s.france24.com/media/display/5701e044-6872-11f1-a4bc-005056a90284/w:1024/p:16x9/FR-20260615-060333-060529-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:32:03.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.440Z"
+        },
+        {
+          "id": "2026-06-15-eb5728a9",
+          "title": "Les États-Unis et l’Iran annoncent un accord pour mettre fin à la guerre",
+          "description": "Les États-Unis et l’Iran ont finalisé dimanche un protocole d’accord devant mettre fin à la guerre au Moyen-Orient, Liban inclus. Le texte, qui doit être signé vendredi en Suisse, prévoit notamment la réouverture du détroit d’Ormuz. Les discussions sur le programme nucléaire iranien, les plus épineuses, auront lieu ultérieurement.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-les-etats-unis-et-l-iran-annoncent-un-accord-pour-mettre-fin-a-la-guerre_245198",
+          "imageUrl": "https://focus.courrierinternational.com/2026/05/18/0/389/4221/2814/1200/630/60/0/3d80e84_ftp-1-xf1jhf371alj-2026-05-18t063049z-1226467238-rc2dblau1srz-rtrmadp-3-iran-crisis-oman-hormuz.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:18:52.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.470Z"
+        },
+        {
+          "id": "2026-06-15-5dcf9782",
+          "title": "EN DIRECT - Les États-Unis et l'Iran parviennent à un accord pour mettre fin à la guerre au Moyen-Orient",
+          "description": "Le Premier ministre pakistanais a annoncé dimanche 14 juin dans la soirée que les États-Unis et l'Iran sont parvenus à trouver un accord de paix. La cérémonie officielle de signature de cet accord se tiendra le vendredi 19 juin, en Suisse. Dans la foulée, Donald Trump a annoncé la réouverture du détroit d'Ormuz prévue après la signature de l'accord, ainsi que la levée du blocus naval américain.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260615-en-direct-les-%C3%A9tats-unis-et-l-iran-parviennent-%C3%A0-un-accord-pour-mettre-fin-%C3%A0-la-guerre-au-moyen-orient",
+          "imageUrl": "https://s.rfi.fr/media/display/e65d1e92-686e-11f1-9dfd-005056a90284/w:1024/p:16x9/000-B6ZN8ME-1.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:07:47.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.114Z"
+        },
+        {
+          "id": "2026-06-15-2d7eead9",
+          "title": "L’Iran et les Etats-Unis annoncent un accord pour arrêter la guerre au Moyen-Orient, avant une seconde phase de négociations sur les sujets qui fâchent",
+          "description": "Le protocole, qui doit être signé le 19 juin, fixe les principes d’une fin des combats, avant une phase de négociations de soixante jours sur le programme nucléaire iranien, les stocks d’uranium enrichi et la levée des sanctions américaines.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/15/l-iran-et-les-etats-unis-annoncent-un-accord-pour-arreter-la-guerre-au-moyen-orient-avant-une-seconde-phase-de-negociations-sur-les-sujets-qui-fachent_6703134_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T03:20:29.000Z",
+          "fetchedAt": "2026-06-15T06:13:16.964Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "Guerre au Moyen-Orient: les critiques de Donald Trump poursuivent Emmanuel Macro",
+      "id": "cluster-11",
+      "topic": "Mondial 2026 : la Suède terrasse la Tunisie (5-1)",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-04-02-6f8c57a3",
-          "title": "Guerre au Moyen-Orient: les critiques de Donald Trump poursuivent Emmanuel Macron jusqu'en Asie",
-          "description": "Après deux jours au Japon, Emmanuel Macron arrive ce jeudi en Corée, deuxième étape de sa tournée en Asie qui aura été polluée par les attaques répétées de Donald Trump.",
-          "url": "https://www.rfi.fr/fr/france/20260402-guerre-moyen-orient-critiques-trump-poursuivent-emmanuel-macron-jusqu-en-asie",
-          "imageUrl": "https://s.rfi.fr/media/display/5ea68ca6-2e56-11f1-8aed-005056bfb2b6/w:1024/p:16x9/AP26091309742018.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-02T05:41:01.000Z",
-          "fetchedAt": "2026-04-02T06:19:01.966Z"
-        },
-        {
-          "id": "2026-04-02-db8e8857",
-          "title": "Guerre au Moyen-Orient: \"Entre Paris et Tel Aviv, rien ne va plus\"",
-          "description": "A la Une de la presse, ce jeudi 2 avril, les réactions à la menace de Donald Trump de retirer les Etats-Unis de l’Otan. Rien ne va plus entre Donald Trump et l’Otan, ni entre la France et Israël. Le chiffre de l’ONG Oxfam sur le montant des sommes échappant à l’impôt à travers le monde: 3550 milliards de dollars. Des découvertes scientifiques sur l’urine humaine et le guano des chauves-souris. Et les meilleurs poissons d’avril 2026.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260402-guerre-au-moyen-orient-entre-paris-et-tel-aviv-rien-ne-va-plus",
-          "imageUrl": "https://s.france24.com/media/display/6a1cc100-2e4b-11f1-b2a3-005056a90284/w:1024/p:16x9/1-LE-FIGARO-1.png",
+          "id": "2026-06-15-25590ea4",
+          "title": "Mondial 2026 : la Suède terrasse la Tunisie (5-1)",
+          "description": "La Suède démarre le Mondial avec assurance après sa victoire contre la Tunisie (5-1), dimanche soir. Les hommes de Graham Potter occupent seuls la première place de leur poule, à la faveur du nul (2-2) entre les Pays-Bas et le Japon.",
+          "url": "https://www.france24.com/fr/sports/20260615-mondial-2026-football-suede-terrasse-la-tunisie-5-1-poulef-graham-potter",
+          "imageUrl": "https://s.france24.com/media/display/e7a249ba-6870-11f1-87f9-005056a97e36/w:1024/p:16x9/2026-06-15T040832Z-1839902356-UP1EM6F0BI7ZC-RTRMADP-3-SOCCER-WORLDCUP-SWE-TUN.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-02T05:35:08.000Z",
-          "fetchedAt": "2026-04-02T06:18:47.083Z"
+          "publishedAt": "2026-06-15T04:18:16.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.440Z"
         },
         {
-          "id": "2026-04-01-5e4ad5f7",
-          "title": "Venezuela : Washington lève les sanctions contre la présidente par intérim, Delcy Rodriguez",
-          "description": "Trois mois après l’enlèvement du président Nicolas Maduro, cette décision a été saluée par la dirigeante de facto comme « un pas dans la voie de la normalisation et du renforcement des relations ».",
-          "url": "https://www.lemonde.fr/international/article/2026/04/02/venezuela-washington-leve-les-sanctions-contre-la-presidente-par-interim-delcy-rodriguez_6675955_3210.html",
+          "id": "2026-06-15-51c27530",
+          "title": "Coupe du monde 2026: la Tunisie se saborde et offre la victoire à la Suède",
+          "description": "Pour leur entrée en lice dans ce Mondial 2026, les hommes de Sabri Lamouchi ont sombré face à la Suède (5-1) à Monterrey. Trop fébriles défensivement, les Aigles de Carthage ont offert plusieurs buts à leurs adversaires, qui en ont profité pour prendre seuls la tête du groupe F. Cette défaite complique déjà la course à la qualification pour les Tunisiens, qui doivent encore affronter le Japon et les Pays-Bas.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260615-coupe-du-monde-2026-la-tunisie-se-saborde-et-offre-la-victoire-%C3%A0-la-su%C3%A8de",
+          "imageUrl": "https://s.rfi.fr/media/display/46c6c386-686b-11f1-b3c3-005056a90284/w:1024/p:16x9/AP26166119072533.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:01:45.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.114Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-12",
+      "topic": "EN DIRECT, guerre en Ukraine : neufs morts dans des frappes russes à Kiev et Kha",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-15-2190eeb4",
+          "title": "EN DIRECT, guerre en Ukraine : neufs morts dans des frappes russes à Kiev et Kharkiv ; la cathédrale de la Dormition en feu dans la capitale",
+          "description": "Au moins neuf personnes ont été tuées dans la nuit de dimanche à lundi dans des frappes russes visant la capitale ukrainienne et la ville de Kharkiv, dans le nord-est du pays. L’offensive russe a aussi provoqué l’incendie de la cathédrale de la Dormition de la laure des Grottes, à Kiev.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/15/en-direct-guerre-en-ukraine-neufs-morts-dans-des-frappes-russes-a-kiev-et-kharkiv-la-cathedrale-de-la-dormition-en-feu-dans-la-capitale_6702230_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-04-01T22:42:39.000Z",
-          "fetchedAt": "2026-04-02T06:18:46.927Z"
+          "publishedAt": "2026-06-15T04:15:30.000Z",
+          "fetchedAt": "2026-06-15T06:13:16.964Z"
         },
         {
-          "id": "2026-04-01-b641809d",
-          "title": "Washington lève ses sanctions contre la présidente par intérim du Venezuela Delcy Rodriguez",
-          "description": "Le gouvernement américain a levé mercredi 1er avril 2026 les sanctions qu'il avait imposées à l'encontre de la présidente par intérim du Venezuela, Delcy Rodriguez. C'est une nouvelle étape dans la normalisation des relations entre les deux pays.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260401-washington-l%C3%A8ve-ses-sanctions-contre-la-pr%C3%A9sidente-par-int%C3%A9rim-du-venezuela-delcy-rodriguez",
-          "imageUrl": "https://s.rfi.fr/media/display/e4e4d51e-2e12-11f1-8c20-005056bf30b7/w:1024/p:16x9/2026-04-01T204915Z-2112298504-RC2XXJAJP2NG-RTRMADP-3-USA-VENEZUELA-SANCTIONS.jpg",
+          "id": "2026-06-15-2a6d0dc2",
+          "title": "Russian strikes kill nine in Ukraine and damage historic cathedral, officials say",
+          "description": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people and wounded three others.",
+          "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4995/live/ce94fbb0-6862-11f1-9111-5512797ffbb9.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T04:08:58.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.296Z"
+        },
+        {
+          "id": "2026-06-15-6c42e6fa",
+          "title": "Guerre en Ukraine: au moins neuf morts dans une vague de frappes russes, une cathédrale en feu à Kiev",
+          "description": "Une attaque massive russe a fait au moins neuf morts en Ukraine dans la nuit du dimanche 14 au lundi 15 juin 2026. Une cathédrale est également en feu dans la capitale ukrainienne, Kiev. Plusieurs grandes villes d'Ukraine ont été prises pour cible, comme à Kharkiv, où au moins cinq secouristes ont été tués. Quatre personnes sont mortes à Kiev. Dans la nuit, une attaque de drones contre la région russe de Toula a également fait au moins trois morts, selon les autorités locales.",
+          "url": "https://www.rfi.fr/fr/europe/20260615-guerre-en-ukraine-une-attaque-massive-russe-cible-kiev-une-cath%C3%A9drale-orthodoxe-en-feu",
+          "imageUrl": "https://s.rfi.fr/media/display/f06721a2-6860-11f1-9290-005056a90284/w:1024/p:16x9/AP26166058951303.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-04-01T21:43:37.000Z",
-          "fetchedAt": "2026-04-02T06:19:01.966Z"
+          "publishedAt": "2026-06-15T02:23:51.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.114Z"
         },
         {
-          "id": "2026-04-01-0fb1b739",
-          "title": "Emmanuel Macron se rendra au Vatican les 9 et 10 avril pour rencontrer Léon XIV",
-          "description": "Le chef de l’Etat français, accompagné de son épouse, abordera notamment « les défis soulevés par l’actualité internationale », a souligné l’Elysée.",
-          "url": "https://www.lemonde.fr/international/article/2026/04/01/emmanuel-macron-se-rendra-au-vatican-les-9-et-10-avril-pour-rencontrer-leon-xiv_6675939_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-06-15-9b68a967",
+          "title": "Une série d'attaques russes frappent l'Ukraine, une église orthodoxe en feu à Kiev",
+          "description": "Plusieurs attaques de missiles russes ont visé lundi des villes ukrainiennes, dont la capitale où quatre morts sont recensés. L'une des cathédrales du célèbre complexe orthodoxe de la Laure des grottes de Kiev est en feu, rapporte le maire de la ville. À Kharkiv, cinq secouristes ont été tués et au moins cinq autres blessés.",
+          "url": "https://www.france24.com/fr/europe/20260615-une-attaque-massive-russe-frappe-kiev-une-%C3%A9glise-orthodoxe-ukrainienne-en-feu",
+          "imageUrl": "https://s.france24.com/media/display/94320b18-686f-11f1-a29e-005056bf30b7/w:1024/p:16x9/000-B73A9WM.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-04-01T17:40:12.000Z",
-          "fetchedAt": "2026-04-02T06:18:46.927Z"
+          "publishedAt": "2026-06-15T01:15:14.000Z",
+          "fetchedAt": "2026-06-15T06:13:17.440Z"
         },
         {
-          "id": "2026-04-01-4447a52e",
-          "title": "Guerre au Moyen-Orient: la France déclenche la colère d’Israël mais satisfait les pays du Golfe",
-          "description": "En refusant la traversée de son espace aérien par un avion transportant des bombes américaines à destination d’Israël, la France a suscité la colère des autorités israéliennes. Tel-Aviv a annoncé sa volonté de suspendre ses importations militaires de France. Mais la position française dans la guerre au Moyen-Orient est en revanche appréciée dans les pays du Golfe arabo-persique.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260401-guerre-au-moyen-orient-la-france-d%C3%A9clenche-la-col%C3%A8re-d-isra%C3%ABl-mais-satisfait-les-pays-du-golfe",
-          "imageUrl": "https://s.rfi.fr/media/display/d2863080-164c-11f1-b630-005056a90284/w:1024/p:16x9/000-99LG9WG.jpg",
-          "source": "RFI",
+          "id": "2026-06-13-fc2d68b4",
+          "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+          "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-04-01T16:34:29.000Z",
-          "fetchedAt": "2026-04-02T06:19:01.966Z"
+          "publishedAt": "2026-06-13T23:19:52.000Z",
+          "fetchedAt": "2026-06-15T06:13:28.296Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Demand at baby bank 'has never been higher'",
+      "category": "eco",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-06-15-2b6cd414",
+          "title": "Demand at baby bank 'has never been higher'",
+          "description": "The founder says rising childcare costs mean many of those they help are in work but struggling.",
+          "url": "https://www.bbc.com/news/articles/c932yz9ldn9o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0409/live/0f8a7be0-63f4-11f1-abe1-f36e5ae3bba8.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-06-15T05:07:10.000Z",
+          "fetchedAt": "2026-06-15T06:13:36.834Z"
         }
       ]
     },
     {
       "id": "cluster-6",
-      "topic": "EN DIRECT, guerre en Ukraine : le Kremlin affirme que le retrait de l’armée ukra",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-04-02-a688b652",
-          "title": "EN DIRECT, guerre en Ukraine : le Kremlin affirme que le retrait de l’armée ukrainienne du Donbass « ouvrirait des perspectives » pour la fin des hostilités",
-          "description": "Ces propos ont été tenus par Iouri Ouchakov, conseiller du président Vladimir Poutine. Le ministère de la défense ‌russe a déclaré dans la journée que l’armée russe avait pris le contrôle total de l’oblast de Louhansk, laissant entendre que les forces avaient réussi à s’emparer d’une ​petite bande de territoire qui leur échappait ‌depuis 2022.",
-          "url": "https://www.lemonde.fr/international/live/2026/04/02/en-direct-guerre-en-ukraine-le-kremlin-affirme-que-le-retrait-de-l-armee-ukrainienne-du-donbass-ouvrirait-des-perspectives-pour-la-fin-des-hostilites_6675208_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-02T05:28:26.000Z",
-          "fetchedAt": "2026-04-02T06:18:46.927Z"
-        },
-        {
-          "id": "2026-04-01-901c9593",
-          "title": "Ukraine: les évacuations de trains de passagers de plus en plus fréquentes face aux attaques russes",
-          "description": "Depuis plusieurs mois, la Russie a intensifié ses frappes sur le réseau ferroviaire ukrainien. Ces attaques ne se limitent plus aux infrastructures, elles visent aussi les trains de passagers, en gare ou en mouvement, entraînant des évacuations d'urgence en plein milieu des trajets et des voies pour des centaines de passagers. Outre des retards de plusieurs heures, le danger de mort est réel pour toutes les personnes à bord. Un bénévole allemand évacué en pleine nuit pendant son voyage témoigne.",
-          "url": "https://www.rfi.fr/fr/europe/20260401-ukraine-les-%C3%A9vacuations-de-trains-de-passagers-de-plus-en-plus-fr%C3%A9quentes-face-aux-attaques-russes",
-          "imageUrl": "https://s.rfi.fr/media/display/ec5fab34-17c9-11f1-ba98-005056a90284/w:1024/p:16x9/2026-03-04T092724Z-554764844-RC2LXJAYJNSF-RTRMADP-3-UKRAINE-CRISIS-ATTACK-MYKOLAIV.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-01T23:10:55.000Z",
-          "fetchedAt": "2026-04-02T06:19:01.966Z"
-        },
-        {
-          "id": "2026-04-01-d6f834c9",
-          "title": "En Russie, des soldats de retour du front réclament leur prime de guerre à leurs ex-compagnes",
-          "description": "Après leur retour du front, des participants à la guerre en Ukraine réclament à leurs anciennes compagnes les salaires, primes de combat ou indemnités pour blessures qu’ils leur avaient laissé gérer pendant leur absence. Le média indépendant russe “Verstka” a retrouvé des dizaines de procédures judiciaires qui témoignent de ces nouveaux conflits familiaux nés de la guerre.",
-          "url": "https://www.courrierinternational.com/article/justice-en-russie-des-soldats-de-retour-du-front-reclament-leur-prime-de-guerre-a-leurs-ex_241815_1",
-          "imageUrl": "https://focus.courrierinternational.com/2026/02/15/0/0/4720/3146/1200/630/60/0/5d8c5e0_ftp-1-er96sm6njcni-2026-02-15t172011z-1623582634-rc2emja3ybn7-rtrmadp-3-russia-dailylife.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-04-01T16:34:51.000Z",
-          "fetchedAt": "2026-04-02T06:18:47.532Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "A la Philharmonie de Paris, les musiques de jeux vidéo au cœur d’une exposition",
+      "topic": "China may have accessed Mythos",
       "category": "tech",
-      "importance": 10,
+      "importance": 6,
       "articles": [
         {
-          "id": "2026-04-02-92b42380",
-          "title": "A la Philharmonie de Paris, les musiques de jeux vidéo au cœur d’une exposition",
-          "description": "Avec « Video Games & Music : la musique dont vous êtes le héros » qui ouvre jeudi 2 avril, l’établissement parisien met à l’honneur les liens fertiles entre ces deux moyens d’expression.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/04/02/a-la-philharmonie-de-paris-les-musiques-de-jeux-video-au-c-ur-d-une-exposition_6676074_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-06-14-8c98ce05",
+          "title": "China may have accessed Mythos",
+          "description": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-04-02T04:00:28.000Z",
-          "fetchedAt": "2026-04-02T06:19:01.902Z"
-        },
-        {
-          "id": "2026-04-02-a9440b8a",
-          "title": "« L’IA, un outil pour le travail social ? » : « Ne pas confondre justesse statistique et pertinence sociale »",
-          "description": "Dans son ouvrage, l’assistant de service social Adrien Guionie analyse l’impact de l’intelligence artificielle sur le quotidien professionnel des travailleurs sociaux. Il rappelle l’importance d’adopter une « posture critique » face aux contenus générés par la machine, soulignant que « l’humain doit garder la main sur le sens ».",
-          "url": "https://www.lemonde.fr/emploi/article/2026/04/02/l-ia-un-outil-pour-le-travail-social-ne-pas-confondre-justesse-statistique-et-pertinence-sociale_6676071_1698637.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-04-02T04:00:16.000Z",
-          "fetchedAt": "2026-04-02T06:19:01.902Z"
-        },
-        {
-          "id": "2026-04-01-04ba1e8f",
-          "title": "La Nasa l’a fait : Artémis II s’envole pour un voyage historique vers la Lune",
-          "description": "Ça y est : les 4 astronautes d'Artémis II sont en route vers la Lune. La mission de la Nasa a décollé après minuit, dans la nuit du mercredi 1er au jeudi 2 avril 2026. Une odyssée spatiale de 10 jours commence pour l'équipage.",
-          "url": "https://www.numerama.com/sciences/2224341-la-nasa-la-fait-artemis-ii-senvole-pour-un-voyage-historique-vers-la-lune.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/snapshot5.jpg?resize=1600,900&key=f40a1661&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-01T22:37:39.000Z",
-          "fetchedAt": "2026-04-02T06:19:02.095Z"
-        },
-        {
-          "id": "2026-04-01-e6560230",
-          "title": "Il y a eu un petit pépin avec le système d’autodestruction de la fusée SLS d’Artémis II",
-          "description": "Le compte à rebours pour le décollage d'Artémis II a connu une brève péripétie cette nuit, avec un bug décelé dans le système d'autodestruction de la fusée SLS. L'anomalie a depuis été corrigée. Le décompte se poursuit.",
-          "url": "https://www.numerama.com/sciences/2224427-il-y-a-eu-un-petit-pepin-avec-le-systeme-dautodestruction-de-la-fusee-sls-dartemis-ii.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/artemis-ii.jpg?resize=1600,900&key=a0983813&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-01T21:34:26.000Z",
-          "fetchedAt": "2026-04-02T06:19:02.095Z"
-        },
-        {
-          "id": "2026-04-01-5e6f4db5",
-          "title": "Un satellite Starlink se disloque soudainement en orbite sans que l’on sache vraiment pourquoi",
-          "description": "SpaceX a annoncé la perte d'un satellite Starlink qui évoluait sur une orbite terrestre basse, à environ 560 km d'altitude. L'engin a créé un nuage de débris, qui n'est a priori pas menaçant ni pour l'ISS ni pour Artémis II.",
-          "url": "https://www.numerama.com/sciences/2223387-un-satellite-starlink-se-disloque-soudainement-en-orbite-sans-que-lon-sache-vraiment-pourquoi.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/12/starlink.jpg?resize=1600,900&key=67569979&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-01T11:17:57.000Z",
-          "fetchedAt": "2026-04-02T06:19:02.095Z"
-        },
-        {
-          "id": "2026-04-01-ec92b702",
-          "title": "Voici comment les astronautes d’Artémis II verront la Terre pendant leur voyage vers la Lune",
-          "description": "Si tout se passe comme prévu, la mission habitée Artémis II de la Nasa décollera dans la nuit du 1er au 2 avril 2026. L'équipage de 4 astronautes partira faire le tour de la Lune. À quoi ressemblera la Terre pour eux, durant ce périple ?",
-          "url": "https://www.numerama.com/sciences/2223403-voici-comment-les-astronautes-dartemis-ii-verront-la-terre-pendant-leur-voyage-vers-la-lune.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/artemis-2-fusee-sls-nasa-6.jpg?resize=1600,900&key=c57a3720&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-04-01T11:15:00.000Z",
-          "fetchedAt": "2026-04-02T06:19:02.095Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-1",
-      "topic": "New laws to make it easier to cancel subscriptions",
-      "category": "eco",
-      "importance": 7,
-      "articles": [
-        {
-          "id": "2026-04-02-0a799b62",
-          "title": "New laws to make it easier to cancel subscriptions",
-          "description": "Consumers will be able to cancel unwanted subscriptions 'at the click of a button', the government said.",
-          "url": "https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e6d4/live/ec7705e0-2de5-11f1-ae65-97b179e2f0f5.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-04-02T06:09:55.000Z",
-          "fetchedAt": "2026-04-02T06:19:22.142Z"
+          "publishedAt": "2026-06-14T18:27:55.000Z",
+          "fetchedAt": "2026-06-15T06:13:33.528Z"
         }
       ]
     }

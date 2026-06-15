@@ -9,6 +9,7 @@
  */
 
 import Anthropic from '@anthropic-ai/sdk';
+import { MODELS } from '../config/models.js';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -188,6 +189,11 @@ STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
 - Paragraphe 3 : POSITION B — Comment l'adversaire/opposant/critique perçoit la situation, ses contre-arguments
 - Paragraphe 4 : ENJEUX — Conséquences économiques, stratégiques, et perspectives futures
 
+OUVERTURE DU PARAGRAPHE ENJEUX (CRITIQUE) :
+- INTERDIT de commencer ce paragraphe par une formule générique : « Les enjeux sont considérables », « Les enjeux sont majeurs », « Les conséquences sont importantes » ou toute variante de ce moule
+- Entre directement dans le concret : ouvre sur l'enjeu le plus saillant (un acteur précis, un chiffre, un mécanisme, une échéance)
+- Varie la construction de cette ouverture d'une story à l'autre
+
 RÈGLES DE FRANÇAIS (TITRE ET BULLETS) — CRITIQUE :
 - Chaque bullet DOIT être une phrase française grammaticalement correcte
 - Chaque bullet DOIT commencer par un article ou déterminant (Le, La, Les, L', Un, Une, Des, De)
@@ -259,7 +265,7 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
   try {
     const response = await withRetry(
       () => client.messages.create({
-        model: 'claude-sonnet-4-20250514',
+        model: MODELS.synthesis,
         max_tokens: 2048,
         system: [
           {
@@ -390,6 +396,11 @@ STRUCTURE OBLIGATOIRE DE L'EXEC SUMMARY (4 paragraphes) :
 - Paragraphe 3 : RÉACTIONS — Comment les acteurs réagissent
 - Paragraphe 4 : ENJEUX — Conséquences et perspectives
 
+OUVERTURE DU PARAGRAPHE ENJEUX (CRITIQUE) :
+- INTERDIT de commencer ce paragraphe par une formule générique : « Les enjeux sont considérables », « Les enjeux sont majeurs », « Les conséquences sont importantes » ou toute variante de ce moule
+- Entre directement dans le concret : ouvre sur l'enjeu le plus saillant (un acteur précis, un chiffre, un mécanisme, une échéance)
+- Varie la construction de cette ouverture d'une story à l'autre
+
 RÈGLES DE FRANÇAIS (CRITIQUE) :
 - Chaque bullet DOIT être une phrase française grammaticalement correcte
 - Chaque bullet DOIT commencer par un article ou déterminant (Le, La, Les, L', Un, Une, Des, De)
@@ -481,7 +492,7 @@ ${articlesDetail}`;
   try {
     const response = await withRetry(
       () => client.messages.create({
-        model: 'claude-sonnet-4-20250514',
+        model: MODELS.synthesis,
         max_tokens: 2048,
         system: [
           {
@@ -661,7 +672,7 @@ async function synthesize(): Promise<void> {
       try {
         const response = await withRetry(
           () => client.messages.create({
-            model: 'claude-sonnet-4-20250514',
+            model: MODELS.synthesis,
             max_tokens: 2048,
             system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
             messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.

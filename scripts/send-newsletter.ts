@@ -71,7 +71,7 @@ interface Subscriber {
 // Constants
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
 const WEEKLY_STORIES_PATH = join(__dirname, '..', 'public', 'data', 'weekly-stories.json');
-const APP_URL = process.env.APP_URL || 'https://avactu.vercel.app';
+const APP_URL = process.env.APP_URL || 'https://avactu.com';
 
 // Frequency labels for messages
 const FREQUENCY_LABELS: Record<Frequency, string> = {
