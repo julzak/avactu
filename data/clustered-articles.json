@@ -1,209 +1,220 @@
 {
-  "generatedAt": "2026-06-15T06:17:17.686Z",
+  "generatedAt": "2026-06-16T06:27:02.835Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-6",
-      "topic": "EN DIRECT, guerre au Moyen-Orient : Emmanuel Macron salue l’accord conclu entre ",
+      "id": "cluster-1",
+      "topic": "Trump may release US-Iran deal before Friday, Vance says",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-15-7c566648",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Emmanuel Macron salue l’accord conclu entre les Etats-Unis et l’Iran ; les cours du pétrole dégringolent",
-          "description": "Le président français a déclaré que la mission maritime internationale mise en place par la France et le Royaume-uni était « prête à accompagner » la réouverture du détroit d’Ormuz après l’accord conclu entre les Etats-Unis et l’Iran.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/15/en-direct-guerre-au-moyen-orient-emmanuel-macron-salue-l-accord-conclu-entre-les-etats-unis-et-l-iran-les-cours-du-petrole-degringolent_6701050_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-06-16-0f191ad0",
+          "title": "Trump may release US-Iran deal before Friday, Vance says",
+          "description": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
+          "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c3f0/live/f7f57fb0-6944-11f1-b8da-53bba3cad46c.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T05:25:51.000Z",
-          "fetchedAt": "2026-06-15T06:13:16.964Z"
+          "publishedAt": "2026-06-16T06:16:09.000Z",
+          "fetchedAt": "2026-06-16T06:23:12.289Z"
         },
         {
-          "id": "2026-06-15-b64ff7bd",
-          "title": "Accord entre Washington et Téhéran: \"Le lion rugissant s'est avéré une souris gémissante\"",
-          "description": "A la Une de la presse, ce lundi 15 juin, les premières réactions à l’annonce d’un «accord de paix» entre les Etats-Unis et l’Iran, qui survient au moment où débute le sommet du G7 à Evian, en France.  Les réactions, non loin de là, en Suisse, au «non» au référendum d’hier proposant de plafonner la population à 10 millions d’habitants. Le trophée de l’équipe la plus chic du Mondial de foot. Et la nouvelle sobriété capillaire des joueurs.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260615-accord-entre-washington-et-t%C3%A9h%C3%A9ran-le-lion-rugissant-s-est-av%C3%A9r%C3%A9-une-souris-g%C3%A9missante",
-          "imageUrl": "https://s.france24.com/media/display/fa94155e-6874-11f1-9d21-005056a90284/w:1024/p:16x9/10-TEHRAN-TIMES.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-15T04:47:18.000Z",
-          "fetchedAt": "2026-06-15T06:13:17.440Z"
-        },
-        {
-          "id": "2026-06-15-b3765e4e",
-          "title": "Un accord trouvé entre Téhéran et Washington",
-          "description": "L'annonce était attendue : c'est le premier ministre pakistanais qui a fait savoir qu'un accord avait été trouvé, dimanche soir, entre les États-Unis et l'Iran. Sur Truth social, Donald Trump annonce l'ouverture du détroit d'Ormuz, dès la signature de l'accord, vendredi.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260615-un-accord-trouv%C3%A9-entre-t%C3%A9h%C3%A9ran-et-washington",
-          "imageUrl": "https://s.france24.com/media/display/5701e044-6872-11f1-a4bc-005056a90284/w:1024/p:16x9/FR-20260615-060333-060529-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-15T04:32:03.000Z",
-          "fetchedAt": "2026-06-15T06:13:17.440Z"
-        },
-        {
-          "id": "2026-06-15-eb5728a9",
-          "title": "Les États-Unis et l’Iran annoncent un accord pour mettre fin à la guerre",
-          "description": "Les États-Unis et l’Iran ont finalisé dimanche un protocole d’accord devant mettre fin à la guerre au Moyen-Orient, Liban inclus. Le texte, qui doit être signé vendredi en Suisse, prévoit notamment la réouverture du détroit d’Ormuz. Les discussions sur le programme nucléaire iranien, les plus épineuses, auront lieu ultérieurement.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-les-etats-unis-et-l-iran-annoncent-un-accord-pour-mettre-fin-a-la-guerre_245198",
-          "imageUrl": "https://focus.courrierinternational.com/2026/05/18/0/389/4221/2814/1200/630/60/0/3d80e84_ftp-1-xf1jhf371alj-2026-05-18t063049z-1226467238-rc2dblau1srz-rtrmadp-3-iran-crisis-oman-hormuz.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-15T04:18:52.000Z",
-          "fetchedAt": "2026-06-15T06:13:17.470Z"
-        },
-        {
-          "id": "2026-06-15-5dcf9782",
-          "title": "EN DIRECT - Les États-Unis et l'Iran parviennent à un accord pour mettre fin à la guerre au Moyen-Orient",
-          "description": "Le Premier ministre pakistanais a annoncé dimanche 14 juin dans la soirée que les États-Unis et l'Iran sont parvenus à trouver un accord de paix. La cérémonie officielle de signature de cet accord se tiendra le vendredi 19 juin, en Suisse. Dans la foulée, Donald Trump a annoncé la réouverture du détroit d'Ormuz prévue après la signature de l'accord, ainsi que la levée du blocus naval américain.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260615-en-direct-les-%C3%A9tats-unis-et-l-iran-parviennent-%C3%A0-un-accord-pour-mettre-fin-%C3%A0-la-guerre-au-moyen-orient",
-          "imageUrl": "https://s.rfi.fr/media/display/e65d1e92-686e-11f1-9dfd-005056a90284/w:1024/p:16x9/000-B6ZN8ME-1.jpg",
+          "id": "2026-06-16-7bc83a1c",
+          "title": "EN DIRECT - Protocole d'accord États-Unis/Iran: le détroit d'Ormuz «complètement ouvert» vendredi, affirme Donald Trump",
+          "description": "Le protocole d'accord entre l'Iran et les États-Unis a été signé à distance lundi 15 juin. Mais cette signature sera officialisée lors d'une cérémonie ce vendredi à Genève, en Suisse, à laquelle assistera le vice-président américain J. D. Vance. Le contenu du texte n'est pas encore connu officiellement, mais c'est un point de départ avant des négociations pour parvenir à un accord définitif. Donald Trump a affirmé que le détroit d'Ormuz serait « complètement ouvert » vendredi.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260616-en-direct-protocole-d-accord-%C3%A9tats-unis-iran-le-d%C3%A9troit-d-ormuz-compl%C3%A8tement-ouvert-vendredi-affirme-donald-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/e68adc9e-6939-11f1-958e-005056a97e36/w:1024/p:16x9/AP26166794564415.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T04:07:47.000Z",
-          "fetchedAt": "2026-06-15T06:13:28.114Z"
+          "publishedAt": "2026-06-16T04:30:18.000Z",
+          "fetchedAt": "2026-06-16T06:23:12.305Z"
         },
         {
-          "id": "2026-06-15-2d7eead9",
-          "title": "L’Iran et les Etats-Unis annoncent un accord pour arrêter la guerre au Moyen-Orient, avant une seconde phase de négociations sur les sujets qui fâchent",
-          "description": "Le protocole, qui doit être signé le 19 juin, fixe les principes d’une fin des combats, avant une phase de négociations de soixante jours sur le programme nucléaire iranien, les stocks d’uranium enrichi et la levée des sanctions américaines.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/15/l-iran-et-les-etats-unis-annoncent-un-accord-pour-arreter-la-guerre-au-moyen-orient-avant-une-seconde-phase-de-negociations-sur-les-sujets-qui-fachent_6703134_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-06-16-0e5d8194",
+          "title": "Accord entre les Etats-Unis et l'Iran: \"Trump nous a trahis\"",
+          "description": "A la Une de la presse, ce mardi 16 juin, la suite des réactions, aux Etats-Unis, à l’accord entre Washington et Téhéran pour mettre fin à la guerre en Iran. Un accord accueilli avec inquiétude au Liban et en Iran. Le combat d’une Franco-vietnamienne contre les multinationales responsables de l’épandage d’agent orange pendant la guerre du Vietnam. Le bel exploit du Cap-Vert face à l’Espagne au Mondial. Et la mobilisation en faveur de Christophe Gleizes.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260616-accord-entre-les-etats-unis-et-l-iran-trump-nous-a-trahis",
+          "imageUrl": "https://s.france24.com/media/display/4c67c7ca-693a-11f1-adc7-005056a90284/w:1024/p:16x9/26-LE-FIGARO.png",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T03:20:29.000Z",
-          "fetchedAt": "2026-06-15T06:13:16.964Z"
+          "publishedAt": "2026-06-16T04:20:43.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.282Z"
+        },
+        {
+          "id": "2026-06-16-148461ca",
+          "title": "Le G7 demande à Trump des éclaircissements sur son accord avec l’Iran",
+          "description": "Emmanuel Macron a accueilli lundi ses homologues à Evian pour un sommet du G7 chamboulé par l’annonce dimanche d’un accord entre les États-Unis, Israël et l’Iran. Si les pays du groupe se félicitent des perspectives de paix, des questions demeurent sur la mise en œuvre de l’accord, notamment dans le détroit d’Ormuz et au Liban.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-le-g7-demande-a-trump-des-eclaircissements-sur-son-accord-avec-l-iran_245257",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/15/0/0/6688/4458/1200/630/60/0/a5db3d9_ftp-1-blrapqxdxran-2026-06-15t184231z-1727503168-rc2hulam47fy-rtrmadp-3-g7-summit.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T04:05:20.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.694Z"
+        },
+        {
+          "id": "2026-06-15-4f9e0895",
+          "title": "What did Trump do differently to Obama on Iran?",
+          "description": "The BBC's Gary O'Donoghue looks at the contrasting approaches of the two presidents as Trump touts a new peace deal.",
+          "url": "https://www.bbc.com/news/videos/cn94vqzev5lo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fea9/live/a0dc4ec0-690d-11f1-8e1d-bbbb1017d210.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T23:11:25.000Z",
+          "fetchedAt": "2026-06-16T06:23:12.289Z"
+        },
+        {
+          "id": "2026-06-15-3f7cbefb",
+          "title": "Avec l'accord Iran-Etats-Unis, soudaine détente sur les prix du pétrole",
+          "description": "A peine l'annonce d'un accord de paix a-t-elle eu lieu que les marchés ont respiré un grand coup. Les bourses ont toutes passées la séance dans le vert alors que le pétrole, WTI américain ou Brent de la mer du nord entamaient une chute de 5% environ, les plaçant aux alentours de 80 dollars le baril. Pour les marchés, échaudés par le record de 120 dollars le baril atteint en avril, c'est la détente; les entreprises de l'aéronautique ou de l'automobile ont vu leurs actions s'apprécier franchement. Au-delà des marchés, ce sont des pays entiers qui éprouvent un immense soulagement. Pour les pays du Golfe exportateurs d'hydrocarbures, les pertes d'approvisionnement cumulées dépassaient déjà le milliard de barils à la fin mai, selon l'Agence internationale de l'énergie. L'Irak par exemple tire 90% de ses revenus de son exportations de pétrole brut. Les pays importateurs d'hydrocarbures du Moyen-Orient sont eux aussi rassurés. L'Asie, notamment, qui est la destinataire de 8 millions de baril de pétrole sur les vingt qui franchissent habituellement le détroit d'Ormuz quotidiennement était en difficulté.\n \nMais tout n'est pas encore pour le mieux dans le meilleur des mondes. Téhéran n'a pas renoncé à son idée de taxer les navires qui franchissent le détroit d'Ormuz, faisant fi du droit international. L'Iran a même taxé certains navires de pays qui ne lui sont pas hostiles, autour de 2 millions $ par tanker, pour les laisser franchir la zone. Avec 32 000 navires ayant transité par le détroit d'(Ormuz en 2025, estime la télévision d'Etat iranienne, cela pourrait représenter une manne de 64 milliards $ par an - au moins. Mais ni les Etats-Unis ni les membres du G7 ne veulent en entendre parler. La manoeuvre renchérirait le coût de l'or noir et pourrait inspirer d'autres pays limitrophes de détroits maritimes, estime notamment Emmanuel Macron.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260615-avec-l-accord-iran-etats-unis-soudaine-d%C3%A9tente-sur-les-prix-du-p%C3%A9trole",
+          "imageUrl": "https://s.france24.com/media/display/07244898-68fc-11f1-86b5-005056bf30b7/w:1024/p:16x9/202606159274WD-IRAN-CRISISHORMUZ-ANIMATION-O-2.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T21:18:07.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.282Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "Mondial 2026 : la Suède terrasse la Tunisie (5-1)",
+      "id": "cluster-4",
+      "topic": "EN DIRECT, G7 à Evian : Donald Trump doit rencontrer Volodymyr Zelensky après s’",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-15-25590ea4",
-          "title": "Mondial 2026 : la Suède terrasse la Tunisie (5-1)",
-          "description": "La Suède démarre le Mondial avec assurance après sa victoire contre la Tunisie (5-1), dimanche soir. Les hommes de Graham Potter occupent seuls la première place de leur poule, à la faveur du nul (2-2) entre les Pays-Bas et le Japon.",
-          "url": "https://www.france24.com/fr/sports/20260615-mondial-2026-football-suede-terrasse-la-tunisie-5-1-poulef-graham-potter",
-          "imageUrl": "https://s.france24.com/media/display/e7a249ba-6870-11f1-87f9-005056a97e36/w:1024/p:16x9/2026-06-15T040832Z-1839902356-UP1EM6F0BI7ZC-RTRMADP-3-SOCCER-WORLDCUP-SWE-TUN.jpg",
-          "source": "France 24",
+          "id": "2026-06-16-7da02cb9",
+          "title": "EN DIRECT, G7 à Evian : Donald Trump doit rencontrer Volodymyr Zelensky après s’être entretenu avec Emmanuel Macron lundi",
+          "description": "Les présidents américain et français ont évoqué, au cours de leur entretien, la situation au Proche-Orient et en Ukraine. Donald Trump a notamment affirmé qu’il n’avait pas besoin de « beaucoup d’aide » pour parvenir à la réouverture du détroit d’Ormuz.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/16/en-direct-g7-a-evian-donald-trump-doit-rencontrer-volodymyr-zelensky-apres-s-etre-entretenu-avec-emmanuel-macron-lundi_6703187_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T04:18:16.000Z",
-          "fetchedAt": "2026-06-15T06:13:17.440Z"
+          "publishedAt": "2026-06-16T05:58:01.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.131Z"
         },
         {
-          "id": "2026-06-15-51c27530",
-          "title": "Coupe du monde 2026: la Tunisie se saborde et offre la victoire à la Suède",
-          "description": "Pour leur entrée en lice dans ce Mondial 2026, les hommes de Sabri Lamouchi ont sombré face à la Suède (5-1) à Monterrey. Trop fébriles défensivement, les Aigles de Carthage ont offert plusieurs buts à leurs adversaires, qui en ont profité pour prendre seuls la tête du groupe F. Cette défaite complique déjà la course à la qualification pour les Tunisiens, qui doivent encore affronter le Japon et les Pays-Bas.",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20260615-coupe-du-monde-2026-la-tunisie-se-saborde-et-offre-la-victoire-%C3%A0-la-su%C3%A8de",
-          "imageUrl": "https://s.rfi.fr/media/display/46c6c386-686b-11f1-b3c3-005056a90284/w:1024/p:16x9/AP26166119072533.jpg",
+          "id": "2026-06-16-a690305c",
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky attendu au sommet du G7 ; le Royaume-Uni annonce de nouvelles sanctions contre la Russie",
+          "description": "Le président ukrainien est attendu, mardi matin, au sommet du G7, à Evian, pour participer à une réunion de travail consacrée à la paix et la sécurité pour l’Ukraine et l’Europe. A la veille de cette rencontre, le Royaume-Uni a annoncé qu’il allait imposer de nouvelles sanctions à la Russie.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-attendu-au-sommet-du-g7-londres-annonce-de-nouvelles-sanctions-contre-moscou_6702230_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T03:47:08.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.131Z"
+        },
+        {
+          "id": "2026-06-16-33aacd9d",
+          "title": "Au G7, un coup de projecteur attendu sur l'Ukraine en présence de Volodymyr Zelensky",
+          "description": "Volodymyr Zelensky est attendu mardi au G7 à Evian pour participer à une réunion de travail consacrée à la paix et la sécurité pour l'Ukraine et l'Europe. Il espère à cette occasion pouvoir s'entretenir seul à seul avec le président américain Donald Trump.",
+          "url": "https://www.france24.com/fr/europe/20260616-au-g7-un-coup-de-projecteur-attendu-sur-l-ukraine-en-pr%C3%A9sence-de-volodymyr-zelensky",
+          "imageUrl": "https://s.france24.com/media/display/b2e7ed2c-6926-11f1-845e-005056a97e36/w:1024/p:16x9/ea5a19078611eaded5054e80fbbbdaabaf9129da.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T01:57:17.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.282Z"
+        },
+        {
+          "id": "2026-06-16-f9b6a88a",
+          "title": "Le Venezuela passe un accord avec le groupe américain General Electric pour rénover son réseau électrique",
+          "description": "La majeure partie du pays souffre de coupures d’électricité quotidiennes, qui peuvent durer plusieurs heures. Ce partenariat devrait permettre d’augmenter une production qui a chuté depuis l’arrivée au pouvoir du chavisme.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/16/le-venezuela-passe-un-accord-avec-le-groupe-americain-general-electric-pour-renover-son-reseau-electrique_6703331_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T00:52:43.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.131Z"
+        },
+        {
+          "id": "2026-06-15-b9050574",
+          "title": "Violences sexuelles: manifestations à Paris et devant plusieurs tribunaux pour une «loi intégrale»",
+          "description": "Nouvel appel à rassemblements lundi soir 15 juin, quelques jours après la mort tragique et évitable de Lyhanna. La collégienne de 11 ans aurait été enlevée et tuée par un homme plusieurs fois signalé pour des faits de pédocriminalité. Partout en France, des manifestations se sont tenues devant les tribunaux pour exiger davantage de moyens pour la justice. À Paris, le rendez-vous était donné devant le ministère de la Justice, pour demander que soit votée une « loi intégrale » de lutte contre les violences faites aux femmes et aux enfants.",
+          "url": "https://www.rfi.fr/fr/france/20260615-violences-sexuelles-manifestations-%C3%A0-paris-et-devant-plusieurs-tribunaux-pour-une-loi-int%C3%A9grale",
+          "imageUrl": "https://s.rfi.fr/media/display/2bc6c616-6907-11f1-b5a8-005056bfb2b6/w:1024/p:16x9/000-B77C9BV.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T04:01:45.000Z",
-          "fetchedAt": "2026-06-15T06:13:28.114Z"
+          "publishedAt": "2026-06-15T22:30:07.000Z",
+          "fetchedAt": "2026-06-16T06:23:12.305Z"
+        },
+        {
+          "id": "2026-06-15-951c5e3c",
+          "title": "G7 à Evian : premier échange entre Donald Trump et Emmanuel Macron",
+          "description": "Après avoir atterri à Genève, Donald Trump est arrivé à Evian, de l’autre côté du lac Léman, en hélicoptère. Il a été accueilli à l’hôtel Royal, où se tient le sommet, par le directeur du protocole français, et non pas par Emmanuel Macron comme le prévoyait le programme.",
+          "url": "https://www.lemonde.fr/international/video/2026/06/15/g7-a-evian-premier-echange-entre-donald-trump-et-emmanuel-macron_6703260_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-15T19:35:07.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.131Z"
         }
       ]
     },
     {
       "id": "cluster-12",
-      "topic": "EN DIRECT, guerre en Ukraine : neufs morts dans des frappes russes à Kiev et Kha",
+      "topic": "La percée de l’emploi dans la défense se confirme en France et en Europe",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-15-2190eeb4",
-          "title": "EN DIRECT, guerre en Ukraine : neufs morts dans des frappes russes à Kiev et Kharkiv ; la cathédrale de la Dormition en feu dans la capitale",
-          "description": "Au moins neuf personnes ont été tuées dans la nuit de dimanche à lundi dans des frappes russes visant la capitale ukrainienne et la ville de Kharkiv, dans le nord-est du pays. L’offensive russe a aussi provoqué l’incendie de la cathédrale de la Dormition de la laure des Grottes, à Kiev.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/15/en-direct-guerre-en-ukraine-neufs-morts-dans-des-frappes-russes-a-kiev-et-kharkiv-la-cathedrale-de-la-dormition-en-feu-dans-la-capitale_6702230_3210.html",
+          "id": "2026-06-16-1f97acf3",
+          "title": "La percée de l’emploi dans la défense se confirme en France et en Europe",
+          "description": "Le volume d’offres d’emploi des plus grandes entreprises européennes de défense est en forte hausse, selon une étude du site d’emploi Indeed publiée mardi 16 juin.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/16/la-percee-de-l-emploi-dans-la-defense-se-confirme-en-france-et-en-europe_6703489_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T04:15:30.000Z",
-          "fetchedAt": "2026-06-15T06:13:16.964Z"
+          "publishedAt": "2026-06-16T05:00:10.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.131Z"
         },
         {
-          "id": "2026-06-15-2a6d0dc2",
-          "title": "Russian strikes kill nine in Ukraine and damage historic cathedral, officials say",
-          "description": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people and wounded three others.",
-          "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4995/live/ce94fbb0-6862-11f1-9111-5512797ffbb9.jpg",
-          "source": "BBC World",
+          "id": "2026-06-15-f748d090",
+          "title": "Une zone de glace de la taille de la France manque en Antarctique",
+          "description": "Alors que l’Antarctique connaît des températures supérieures à la moyenne saisonnière de l’ordre de 20 °C, les observations par satellites montrent que la glace de mer qui aurait dû se former en mer de Bellingshausen en ce début d’hiver austral est absente.",
+          "url": "https://www.courrierinternational.com/article/pole-sud-une-zone-de-glace-de-la-taille-de-la-france-manque-en-antarctique_245222",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/15/225/0/5400/3600/1200/630/60/0/c08d6bb_upload-1-wfcdvalk3txr-071-1112-6465.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T04:08:58.000Z",
-          "fetchedAt": "2026-06-15T06:13:28.296Z"
-        },
-        {
-          "id": "2026-06-15-6c42e6fa",
-          "title": "Guerre en Ukraine: au moins neuf morts dans une vague de frappes russes, une cathédrale en feu à Kiev",
-          "description": "Une attaque massive russe a fait au moins neuf morts en Ukraine dans la nuit du dimanche 14 au lundi 15 juin 2026. Une cathédrale est également en feu dans la capitale ukrainienne, Kiev. Plusieurs grandes villes d'Ukraine ont été prises pour cible, comme à Kharkiv, où au moins cinq secouristes ont été tués. Quatre personnes sont mortes à Kiev. Dans la nuit, une attaque de drones contre la région russe de Toula a également fait au moins trois morts, selon les autorités locales.",
-          "url": "https://www.rfi.fr/fr/europe/20260615-guerre-en-ukraine-une-attaque-massive-russe-cible-kiev-une-cath%C3%A9drale-orthodoxe-en-feu",
-          "imageUrl": "https://s.rfi.fr/media/display/f06721a2-6860-11f1-9290-005056a90284/w:1024/p:16x9/AP26166058951303.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-15T02:23:51.000Z",
-          "fetchedAt": "2026-06-15T06:13:28.114Z"
-        },
-        {
-          "id": "2026-06-15-9b68a967",
-          "title": "Une série d'attaques russes frappent l'Ukraine, une église orthodoxe en feu à Kiev",
-          "description": "Plusieurs attaques de missiles russes ont visé lundi des villes ukrainiennes, dont la capitale où quatre morts sont recensés. L'une des cathédrales du célèbre complexe orthodoxe de la Laure des grottes de Kiev est en feu, rapporte le maire de la ville. À Kharkiv, cinq secouristes ont été tués et au moins cinq autres blessés.",
-          "url": "https://www.france24.com/fr/europe/20260615-une-attaque-massive-russe-frappe-kiev-une-%C3%A9glise-orthodoxe-ukrainienne-en-feu",
-          "imageUrl": "https://s.france24.com/media/display/94320b18-686f-11f1-a29e-005056bf30b7/w:1024/p:16x9/000-B73A9WM.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-15T01:15:14.000Z",
-          "fetchedAt": "2026-06-15T06:13:17.440Z"
-        },
-        {
-          "id": "2026-06-13-fc2d68b4",
-          "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-          "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
-          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-13T23:19:52.000Z",
-          "fetchedAt": "2026-06-15T06:13:28.296Z"
+          "publishedAt": "2026-06-15T15:07:47.000Z",
+          "fetchedAt": "2026-06-16T06:23:02.694Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Demand at baby bank 'has never been higher'",
-      "category": "eco",
+      "id": "cluster-1",
+      "topic": "J’ai essayé la nouvelle Renault 4 électrique et son toit ouvrant : elle aurait d",
+      "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-06-15-2b6cd414",
-          "title": "Demand at baby bank 'has never been higher'",
-          "description": "The founder says rising childcare costs mean many of those they help are in work but struggling.",
-          "url": "https://www.bbc.com/news/articles/c932yz9ldn9o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0409/live/0f8a7be0-63f4-11f1-abe1-f36e5ae3bba8.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-06-15T05:07:10.000Z",
-          "fetchedAt": "2026-06-15T06:13:36.834Z"
+          "id": "2026-06-16-6b0f9371",
+          "title": "J’ai essayé la nouvelle Renault 4 électrique et son toit ouvrant : elle aurait dû sortir comme ça",
+          "description": "Présentée dès l'officialisation du modèle standard, la Renault 4 électrique Plein Sud et son grand toit en toile ouvrant était longuement attendue. La voilà enfin au catalogue et Numerama a déjà pu en prendre le volant. Spoiler : on a été plutôt séduit par cette variante.",
+          "url": "https://www.numerama.com/vroom/2273221-jai-essaye-la-nouvelle-renault-4-electrique-et-son-toit-ouvrant-elle-aurait-du-sortir-comme-ca.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/essai-renault-4-e-tech-plein-sud-6.jpg?resize=1600,900&key=d5754868&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-16T04:52:00.000Z",
+          "fetchedAt": "2026-06-16T06:23:12.435Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "China may have accessed Mythos",
-      "category": "tech",
+      "id": "cluster-4",
+      "topic": "What is Helium-3 and could we get it from the moon?",
+      "category": "eco",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-06-14-8c98ce05",
-          "title": "China may have accessed Mythos",
-          "description": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-06-14T18:27:55.000Z",
-          "fetchedAt": "2026-06-15T06:13:33.528Z"
+          "id": "2026-06-16-1d7535da",
+          "title": "What is Helium-3 and could we get it from the moon?",
+          "description": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
+          "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fa72/live/b6a9ba10-688d-11f1-b1db-af71d47507d6.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-06-16T00:11:13.000Z",
+          "fetchedAt": "2026-06-16T06:23:20.323Z"
         }
       ]
     }
