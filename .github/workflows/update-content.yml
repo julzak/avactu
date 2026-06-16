@@ -1,12 +1,18 @@
 name: Update Content & Send Newsletters
 
 on:
-  # Daily at 1h00 UTC. The actual GitHub Actions cron delay is ~1h30 to ~2h30
-  # so the workflow really starts between ~02:30 and ~03:30 UTC.
-  # The send-newsletter steps are gated behind a "wait until 07:00 Paris" step,
-  # so the actual send time is deterministic regardless of cron drift.
+  # Daily at 00:17 UTC. GitHub Actions scheduled crons drift heavily under load
+  # (observed up to ~5h on a top-of-hour cron). We mitigate two ways:
+  #   1. Off-peak minute (:17) instead of :00 to dodge queue contention.
+  #   2. ~4h40 of buffer before the 05:00 UTC target so a drifted start still
+  #      lands before the "Wait until 07:00 Paris" gate kicks in.
+  # The send steps are gated behind that wait, so the send time is pinned to
+  # 07:00 Paris regardless of cron drift (as long as the job starts < 05:00 UTC).
+  # This is the SINGLE workflow that sends the newsletter: generation, the 07:00
+  # gate and the send all live in one job, which guarantees fresh content AND a
+  # fixed send time with no possibility of a duplicate send.
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '17 0 * * *'
   # Manual trigger for testing
   workflow_dispatch:
     inputs:
