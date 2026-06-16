@@ -1,130 +1,34 @@
 {
-  "generatedAt": "2026-06-16T06:27:02.835Z",
+  "generatedAt": "2026-06-16T08:45:32.336Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Trump may release US-Iran deal before Friday, Vance says",
+      "id": "cluster-4",
+      "topic": "En direct. France-Sénégal vu de Dakar : vers un “remake” de 2002 ?",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-16-0f191ad0",
-          "title": "Trump may release US-Iran deal before Friday, Vance says",
-          "description": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
-          "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c3f0/live/f7f57fb0-6944-11f1-b8da-53bba3cad46c.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T06:16:09.000Z",
-          "fetchedAt": "2026-06-16T06:23:12.289Z"
-        },
-        {
-          "id": "2026-06-16-7bc83a1c",
-          "title": "EN DIRECT - Protocole d'accord États-Unis/Iran: le détroit d'Ormuz «complètement ouvert» vendredi, affirme Donald Trump",
-          "description": "Le protocole d'accord entre l'Iran et les États-Unis a été signé à distance lundi 15 juin. Mais cette signature sera officialisée lors d'une cérémonie ce vendredi à Genève, en Suisse, à laquelle assistera le vice-président américain J. D. Vance. Le contenu du texte n'est pas encore connu officiellement, mais c'est un point de départ avant des négociations pour parvenir à un accord définitif. Donald Trump a affirmé que le détroit d'Ormuz serait « complètement ouvert » vendredi.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260616-en-direct-protocole-d-accord-%C3%A9tats-unis-iran-le-d%C3%A9troit-d-ormuz-compl%C3%A8tement-ouvert-vendredi-affirme-donald-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/e68adc9e-6939-11f1-958e-005056a97e36/w:1024/p:16x9/AP26166794564415.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T04:30:18.000Z",
-          "fetchedAt": "2026-06-16T06:23:12.305Z"
-        },
-        {
-          "id": "2026-06-16-0e5d8194",
-          "title": "Accord entre les Etats-Unis et l'Iran: \"Trump nous a trahis\"",
-          "description": "A la Une de la presse, ce mardi 16 juin, la suite des réactions, aux Etats-Unis, à l’accord entre Washington et Téhéran pour mettre fin à la guerre en Iran. Un accord accueilli avec inquiétude au Liban et en Iran. Le combat d’une Franco-vietnamienne contre les multinationales responsables de l’épandage d’agent orange pendant la guerre du Vietnam. Le bel exploit du Cap-Vert face à l’Espagne au Mondial. Et la mobilisation en faveur de Christophe Gleizes.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260616-accord-entre-les-etats-unis-et-l-iran-trump-nous-a-trahis",
-          "imageUrl": "https://s.france24.com/media/display/4c67c7ca-693a-11f1-adc7-005056a90284/w:1024/p:16x9/26-LE-FIGARO.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T04:20:43.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.282Z"
-        },
-        {
-          "id": "2026-06-16-148461ca",
-          "title": "Le G7 demande à Trump des éclaircissements sur son accord avec l’Iran",
-          "description": "Emmanuel Macron a accueilli lundi ses homologues à Evian pour un sommet du G7 chamboulé par l’annonce dimanche d’un accord entre les États-Unis, Israël et l’Iran. Si les pays du groupe se félicitent des perspectives de paix, des questions demeurent sur la mise en œuvre de l’accord, notamment dans le détroit d’Ormuz et au Liban.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-le-g7-demande-a-trump-des-eclaircissements-sur-son-accord-avec-l-iran_245257",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/15/0/0/6688/4458/1200/630/60/0/a5db3d9_ftp-1-blrapqxdxran-2026-06-15t184231z-1727503168-rc2hulam47fy-rtrmadp-3-g7-summit.JPG",
+          "id": "2026-06-16-ee86dedf",
+          "title": "En direct. France-Sénégal vu de Dakar : vers un “remake” de 2002 ?",
+          "description": "Au sixième jour de la compétition, les Bleus entrent en piste ce mardi 16 juin : l’équipe de France affronte le Sénégal à New York à 21 heures (heure de Paris). Et quelques heures plus tard, c’est l’Argentine, tenante du titre, qui débuteront face à l’Algérie à Kansas City. La Coupe du monde 2026 est à suivre dans ce direct jusqu’à la finale du 19 juillet, avec les unes, récits, commentaires et analyses sélectionnés dans la presse internationale.",
+          "url": "https://www.courrierinternational.com/live/en-direct-france-senegal-vu-de-dakar-vers-un-remake-de-2002_244129_3",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/15/0/70/3541/2361/1200/630/60/0/52d95cc_ftp-1-hup0xc3oaewk-2026-06-15t203322z-1656905658-up1em6f1l3kkc-rtrmadp-3-soccer-worldcup-fra-sen-preview.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-16T04:05:20.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.694Z"
+          "publishedAt": "2026-06-16T08:15:04.000Z",
+          "fetchedAt": "2026-06-16T08:41:32.283Z"
         },
         {
-          "id": "2026-06-15-4f9e0895",
-          "title": "What did Trump do differently to Obama on Iran?",
-          "description": "The BBC's Gary O'Donoghue looks at the contrasting approaches of the two presidents as Trump touts a new peace deal.",
-          "url": "https://www.bbc.com/news/videos/cn94vqzev5lo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fea9/live/a0dc4ec0-690d-11f1-8e1d-bbbb1017d210.jpg",
-          "source": "BBC World",
+          "id": "2026-06-16-e6ff29f8",
+          "title": "Coupe du monde 2026: le Sénégal défie la France pour un nouvel exploit",
+          "description": "Pour son entrée en lice à la Coupe du monde 2026, le Sénégal, champion (ou vice-champion) d’Afrique, défie la France, finaliste du dernier Mondial, ce mardi à New York (19h TU). Vingt-quatre ans après l’exploit fondateur de 2002, les Lions rêvent de faire vaciller à nouveau les Bleus, décidés, eux, à lancer leur tournoi par une victoire face à un adversaire qu’ils savent coriace.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260616-coupe-du-monde-2026-le-s%C3%A9n%C3%A9gal-d%C3%A9fie-la-france-pour-un-nouvel-exploit",
+          "imageUrl": "https://s.rfi.fr/media/display/30eae7f0-68e2-11f1-abff-005056a90284/w:1024/p:16x9/AP26003580718858.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T23:11:25.000Z",
-          "fetchedAt": "2026-06-16T06:23:12.289Z"
-        },
-        {
-          "id": "2026-06-15-3f7cbefb",
-          "title": "Avec l'accord Iran-Etats-Unis, soudaine détente sur les prix du pétrole",
-          "description": "A peine l'annonce d'un accord de paix a-t-elle eu lieu que les marchés ont respiré un grand coup. Les bourses ont toutes passées la séance dans le vert alors que le pétrole, WTI américain ou Brent de la mer du nord entamaient une chute de 5% environ, les plaçant aux alentours de 80 dollars le baril. Pour les marchés, échaudés par le record de 120 dollars le baril atteint en avril, c'est la détente; les entreprises de l'aéronautique ou de l'automobile ont vu leurs actions s'apprécier franchement. Au-delà des marchés, ce sont des pays entiers qui éprouvent un immense soulagement. Pour les pays du Golfe exportateurs d'hydrocarbures, les pertes d'approvisionnement cumulées dépassaient déjà le milliard de barils à la fin mai, selon l'Agence internationale de l'énergie. L'Irak par exemple tire 90% de ses revenus de son exportations de pétrole brut. Les pays importateurs d'hydrocarbures du Moyen-Orient sont eux aussi rassurés. L'Asie, notamment, qui est la destinataire de 8 millions de baril de pétrole sur les vingt qui franchissent habituellement le détroit d'Ormuz quotidiennement était en difficulté.\n \nMais tout n'est pas encore pour le mieux dans le meilleur des mondes. Téhéran n'a pas renoncé à son idée de taxer les navires qui franchissent le détroit d'Ormuz, faisant fi du droit international. L'Iran a même taxé certains navires de pays qui ne lui sont pas hostiles, autour de 2 millions $ par tanker, pour les laisser franchir la zone. Avec 32 000 navires ayant transité par le détroit d'(Ormuz en 2025, estime la télévision d'Etat iranienne, cela pourrait représenter une manne de 64 milliards $ par an - au moins. Mais ni les Etats-Unis ni les membres du G7 ne veulent en entendre parler. La manoeuvre renchérirait le coût de l'or noir et pourrait inspirer d'autres pays limitrophes de détroits maritimes, estime notamment Emmanuel Macron.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260615-avec-l-accord-iran-etats-unis-soudaine-d%C3%A9tente-sur-les-prix-du-p%C3%A9trole",
-          "imageUrl": "https://s.france24.com/media/display/07244898-68fc-11f1-86b5-005056bf30b7/w:1024/p:16x9/202606159274WD-IRAN-CRISISHORMUZ-ANIMATION-O-2.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-15T21:18:07.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.282Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "EN DIRECT, G7 à Evian : Donald Trump doit rencontrer Volodymyr Zelensky après s’",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-16-7da02cb9",
-          "title": "EN DIRECT, G7 à Evian : Donald Trump doit rencontrer Volodymyr Zelensky après s’être entretenu avec Emmanuel Macron lundi",
-          "description": "Les présidents américain et français ont évoqué, au cours de leur entretien, la situation au Proche-Orient et en Ukraine. Donald Trump a notamment affirmé qu’il n’avait pas besoin de « beaucoup d’aide » pour parvenir à la réouverture du détroit d’Ormuz.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/16/en-direct-g7-a-evian-donald-trump-doit-rencontrer-volodymyr-zelensky-apres-s-etre-entretenu-avec-emmanuel-macron-lundi_6703187_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T05:58:01.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.131Z"
-        },
-        {
-          "id": "2026-06-16-a690305c",
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky attendu au sommet du G7 ; le Royaume-Uni annonce de nouvelles sanctions contre la Russie",
-          "description": "Le président ukrainien est attendu, mardi matin, au sommet du G7, à Evian, pour participer à une réunion de travail consacrée à la paix et la sécurité pour l’Ukraine et l’Europe. A la veille de cette rencontre, le Royaume-Uni a annoncé qu’il allait imposer de nouvelles sanctions à la Russie.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-attendu-au-sommet-du-g7-londres-annonce-de-nouvelles-sanctions-contre-moscou_6702230_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T03:47:08.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.131Z"
-        },
-        {
-          "id": "2026-06-16-33aacd9d",
-          "title": "Au G7, un coup de projecteur attendu sur l'Ukraine en présence de Volodymyr Zelensky",
-          "description": "Volodymyr Zelensky est attendu mardi au G7 à Evian pour participer à une réunion de travail consacrée à la paix et la sécurité pour l'Ukraine et l'Europe. Il espère à cette occasion pouvoir s'entretenir seul à seul avec le président américain Donald Trump.",
-          "url": "https://www.france24.com/fr/europe/20260616-au-g7-un-coup-de-projecteur-attendu-sur-l-ukraine-en-pr%C3%A9sence-de-volodymyr-zelensky",
-          "imageUrl": "https://s.france24.com/media/display/b2e7ed2c-6926-11f1-845e-005056a97e36/w:1024/p:16x9/ea5a19078611eaded5054e80fbbbdaabaf9129da.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T01:57:17.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.282Z"
-        },
-        {
-          "id": "2026-06-16-f9b6a88a",
-          "title": "Le Venezuela passe un accord avec le groupe américain General Electric pour rénover son réseau électrique",
-          "description": "La majeure partie du pays souffre de coupures d’électricité quotidiennes, qui peuvent durer plusieurs heures. Ce partenariat devrait permettre d’augmenter une production qui a chuté depuis l’arrivée au pouvoir du chavisme.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/16/le-venezuela-passe-un-accord-avec-le-groupe-americain-general-electric-pour-renover-son-reseau-electrique_6703331_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T00:52:43.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.131Z"
+          "publishedAt": "2026-06-16T04:01:16.000Z",
+          "fetchedAt": "2026-06-16T08:41:45.261Z"
         },
         {
           "id": "2026-06-15-b9050574",
@@ -135,37 +39,7 @@
           "source": "RFI",
           "category": "geopolitique",
           "publishedAt": "2026-06-15T22:30:07.000Z",
-          "fetchedAt": "2026-06-16T06:23:12.305Z"
-        },
-        {
-          "id": "2026-06-15-951c5e3c",
-          "title": "G7 à Evian : premier échange entre Donald Trump et Emmanuel Macron",
-          "description": "Après avoir atterri à Genève, Donald Trump est arrivé à Evian, de l’autre côté du lac Léman, en hélicoptère. Il a été accueilli à l’hôtel Royal, où se tient le sommet, par le directeur du protocole français, et non pas par Emmanuel Macron comme le prévoyait le programme.",
-          "url": "https://www.lemonde.fr/international/video/2026/06/15/g7-a-evian-premier-echange-entre-donald-trump-et-emmanuel-macron_6703260_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-15T19:35:07.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.131Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-12",
-      "topic": "La percée de l’emploi dans la défense se confirme en France et en Europe",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-16-1f97acf3",
-          "title": "La percée de l’emploi dans la défense se confirme en France et en Europe",
-          "description": "Le volume d’offres d’emploi des plus grandes entreprises européennes de défense est en forte hausse, selon une étude du site d’emploi Indeed publiée mardi 16 juin.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/16/la-percee-de-l-emploi-dans-la-defense-se-confirme-en-france-et-en-europe_6703489_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T05:00:10.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.131Z"
+          "fetchedAt": "2026-06-16T08:41:45.261Z"
         },
         {
           "id": "2026-06-15-f748d090",
@@ -176,45 +50,105 @@
           "source": "Courrier International",
           "category": "geopolitique",
           "publishedAt": "2026-06-15T15:07:47.000Z",
-          "fetchedAt": "2026-06-16T06:23:02.694Z"
+          "fetchedAt": "2026-06-16T08:41:32.283Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "J’ai essayé la nouvelle Renault 4 électrique et son toit ouvrant : elle aurait d",
+      "id": "cluster-6",
+      "topic": "À Évian, les dirigeants du G7 espèrent remettre la guerre en Ukraine à l'agenda ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-16-eca0c3e1",
+          "title": "À Évian, les dirigeants du G7 espèrent remettre la guerre en Ukraine à l'agenda de Donald Trump",
+          "description": "La situation au Moyen-Orient est au cœur du G7 qui se déroule à Évian-les-bains. Mais ce mardi, ce sera la guerre en Ukraine qui dominera les débats aujourd’hui avec la présence de Volodymyr Zelensky.",
+          "url": "https://www.rfi.fr/fr/monde/20260616-%C3%A0-%C3%A9vian-les-dirigeants-du-g7-esp%C3%A8rent-remettre-la-guerre-en-ukraine-%C3%A0-l-agenda-de-donald-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/63d39dee-6958-11f1-a319-005056bf30b7/w:1024/p:16x9/000-B78Q689.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T08:07:14.000Z",
+          "fetchedAt": "2026-06-16T08:41:45.261Z"
+        },
+        {
+          "id": "2026-06-16-7da02cb9",
+          "title": "EN DIRECT, G7 à Evian : début de la réunion, en présence notamment de Donald Trump, Emmanuel Macron et Volodymyr Zelensky",
+          "description": "Le président ukrainien rencontrera le président américain dans la foulée. La question du Moyen-Orient et de l’accord trouvé entre l’Iran et les Etats-Unis sera au cœur des discussions.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/16/en-direct-g7-a-evian-donald-trump-doit-rencontrer-volodymyr-zelensky-apres-s-etre-entretenu-avec-emmanuel-macron-lundi_6703187_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T05:58:01.000Z",
+          "fetchedAt": "2026-06-16T08:41:31.692Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-10",
+      "topic": "Keir Starmer, le premier ministre britannique, surprend en proposant d’interdire",
+      "category": "geopolitique",
+      "importance": 8,
+      "articles": [
+        {
+          "id": "2026-06-16-2b08e12c",
+          "title": "Keir Starmer, le premier ministre britannique, surprend en proposant d’interdire les réseaux sociaux aux moins de 16 ans",
+          "description": "Si une telle interdiction est adoptée par le Parlement, elle n’entrera pas en vigueur avant le printemps 2027. Les adolescents pourraient continuer à utiliser les messageries WhatsApp et Signal mais pas des sites proposant des livestreams.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/16/le-premier-ministre-britannique-keir-starmer-surprend-en-proposant-d-interdire-les-reseaux-sociaux-aux-moins-de-16-ans_6703505_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T07:45:02.000Z",
+          "fetchedAt": "2026-06-16T08:41:31.692Z"
+        },
+        {
+          "id": "2026-06-16-0c866029",
+          "title": "Au Royaume-Uni, l’ancienne cité minière de Dudley confrontée à la « génération perdue » de ses jeunes ni en études, ni en emploi, ni en formation",
+          "description": "Plus de 1 million de jeunes Britanniques sont inactifs, un chiffre en hausse lié aux défaillances du système d’éducation, à l’augmentation des problèmes médicaux et à la désindustrialisation de certaines régions. A Dudley, dans le centre de l’Angleterre, une personne âgée de 16 à 24 ans sur cinq est dans ce cas.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/16/au-royaume-uni-l-ancienne-cite-miniere-de-dudley-confrontee-a-la-generation-perdue-de-ses-jeunes-ni-en-etudes-ni-en-emploi-ni-en-formation_6703470_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T03:30:13.000Z",
+          "fetchedAt": "2026-06-16T08:41:31.692Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Bateau intrus, fuites, valves… la fusée Spectrum est poursuivie par la malchance",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-06-16-6b0f9371",
-          "title": "J’ai essayé la nouvelle Renault 4 électrique et son toit ouvrant : elle aurait dû sortir comme ça",
-          "description": "Présentée dès l'officialisation du modèle standard, la Renault 4 électrique Plein Sud et son grand toit en toile ouvrant était longuement attendue. La voilà enfin au catalogue et Numerama a déjà pu en prendre le volant. Spoiler : on a été plutôt séduit par cette variante.",
-          "url": "https://www.numerama.com/vroom/2273221-jai-essaye-la-nouvelle-renault-4-electrique-et-son-toit-ouvrant-elle-aurait-du-sortir-comme-ca.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/essai-renault-4-e-tech-plein-sud-6.jpg?resize=1600,900&key=d5754868&watermark",
+          "id": "2026-06-16-ff5cb93c",
+          "title": "Bateau intrus, fuites, valves… la fusée Spectrum est poursuivie par la malchance",
+          "description": "La patience est la vertu principale des passionnés d'espace, mais la start-up allemande Isar Aerospace commence à la mettre à rude épreuve.",
+          "url": "https://www.numerama.com/sciences/2276699-bateau-intrus-fuites-valves-la-fusee-spectrum-est-poursuivie-par-la-malchance.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/03/spectrum-une-1.jpg?resize=1600,900&key=b00488b3&watermark",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-06-16T04:52:00.000Z",
-          "fetchedAt": "2026-06-16T06:23:12.435Z"
+          "publishedAt": "2026-06-16T07:53:22.000Z",
+          "fetchedAt": "2026-06-16T08:41:45.615Z"
         }
       ]
     },
     {
       "id": "cluster-4",
-      "topic": "What is Helium-3 and could we get it from the moon?",
+      "topic": "Y a-t-il des « profiteurs de guerre » en 2026 ?",
       "category": "eco",
-      "importance": 6,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-06-16-1d7535da",
-          "title": "What is Helium-3 and could we get it from the moon?",
-          "description": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
-          "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fa72/live/b6a9ba10-688d-11f1-b1db-af71d47507d6.jpg",
-          "source": "BBC Business",
+          "id": "2026-06-16-5b9f1cb3",
+          "title": "Y a-t-il des « profiteurs de guerre » en 2026 ?",
+          "description": "Quand « conflit » rime avec « profit » : que faire des entreprises qui s’épanouissent en temps de crise ? Dans ce podcast, Marie de Vergès, journaliste au service Economie du « Monde », nous raconte comment les industriels s’adaptent à la guerre et font face aux questions morales que suscitent leurs profits.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/06/16/y-a-t-il-des-profiteurs-de-guerre-en-2026_6703433_5463015.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-06-16T00:11:13.000Z",
-          "fetchedAt": "2026-06-16T06:23:20.323Z"
+          "publishedAt": "2026-06-16T03:00:07.000Z",
+          "fetchedAt": "2026-06-16T08:41:59.108Z"
         }
       ]
     }
