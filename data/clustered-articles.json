@@ -1,154 +1,198 @@
 {
-  "generatedAt": "2026-06-16T08:45:32.336Z",
+  "generatedAt": "2026-06-17T05:23:46.552Z",
   "clusterCount": 5,
   "clusters": [
     {
+      "id": "cluster-1",
+      "topic": "EN DIRECT, guerre en Ukraine : un mort et au moins sept blessés dans des frappes",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-17-a8f22ec7",
+          "title": "EN DIRECT, guerre en Ukraine : un mort et au moins sept blessés dans des frappes nocturnes russes à Zaporijia",
+          "description": "Des dizaines de drones ont été lancés, notamment vers des zones résidentielles de cette ville du sud-est de l’Ukraine. Une partie de l’université a également été touchée.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/17/en-direct-guerre-en-ukraine-un-mort-et-au-moins-sept-blesses-dans-des-frappes-nocturnes-russes-sur-zaporijia_6702230_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-17T04:53:16.000Z",
+          "fetchedAt": "2026-06-17T05:19:45.893Z"
+        },
+        {
+          "id": "2026-06-17-9f4eabc6",
+          "title": "Un navire de guerre russe tire des coups de semonce sur un yacht britannique dans la Manche",
+          "description": "Un navire de guerre russe a tiré mardi 16 juin 2026, dans la Manche, des coups de semonce sur un yacht naviguant sous pavillon britannique qui s'approchait « dangereusement » de lui selon le ministère russe de la Défense, conduisant les autorités britanniques à ouvrir une enquête.",
+          "url": "https://www.rfi.fr/fr/europe/20260617-un-navire-de-guerre-russe-tire-des-coups-de-semonce-sur-un-yacht-britannique-dans-la-manche",
+          "imageUrl": "https://s.rfi.fr/media/display/27debeca-69e6-11f1-a092-005056a97e36/w:1024/p:16x9/AP25208576176551.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-17T00:48:15.000Z",
+          "fetchedAt": "2026-06-17T05:19:55.993Z"
+        },
+        {
+          "id": "2026-06-16-556712ce",
+          "title": "Un navire de guerre russe a tiré des coups de semonce en direction d’un yacht britannique dans la Manche",
+          "description": "Moscou affirme qu’il s’agissait d’une mesure prise en dernier recours, alors que le yacht dérivait vers la frégate militaire. De son côté, le ministère de la défense britannique a dit enquêter sur l’incident.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/17/un-navire-de-guerre-russe-a-tire-des-coups-de-semonce-en-direction-d-un-yacht-britannique-dans-la-manche_6703917_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T22:15:43.000Z",
+          "fetchedAt": "2026-06-17T05:19:45.893Z"
+        }
+      ]
+    },
+    {
       "id": "cluster-4",
-      "topic": "En direct. France-Sénégal vu de Dakar : vers un “remake” de 2002 ?",
+      "topic": "EN DIRECT - Moyen-Orient: des pétroliers iraniens ont franchi la zone du blocus ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-16-ee86dedf",
-          "title": "En direct. France-Sénégal vu de Dakar : vers un “remake” de 2002 ?",
-          "description": "Au sixième jour de la compétition, les Bleus entrent en piste ce mardi 16 juin : l’équipe de France affronte le Sénégal à New York à 21 heures (heure de Paris). Et quelques heures plus tard, c’est l’Argentine, tenante du titre, qui débuteront face à l’Algérie à Kansas City. La Coupe du monde 2026 est à suivre dans ce direct jusqu’à la finale du 19 juillet, avec les unes, récits, commentaires et analyses sélectionnés dans la presse internationale.",
-          "url": "https://www.courrierinternational.com/live/en-direct-france-senegal-vu-de-dakar-vers-un-remake-de-2002_244129_3",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/15/0/70/3541/2361/1200/630/60/0/52d95cc_ftp-1-hup0xc3oaewk-2026-06-15t203322z-1656905658-up1em6f1l3kkc-rtrmadp-3-soccer-worldcup-fra-sen-preview.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T08:15:04.000Z",
-          "fetchedAt": "2026-06-16T08:41:32.283Z"
-        },
-        {
-          "id": "2026-06-16-e6ff29f8",
-          "title": "Coupe du monde 2026: le Sénégal défie la France pour un nouvel exploit",
-          "description": "Pour son entrée en lice à la Coupe du monde 2026, le Sénégal, champion (ou vice-champion) d’Afrique, défie la France, finaliste du dernier Mondial, ce mardi à New York (19h TU). Vingt-quatre ans après l’exploit fondateur de 2002, les Lions rêvent de faire vaciller à nouveau les Bleus, décidés, eux, à lancer leur tournoi par une victoire face à un adversaire qu’ils savent coriace.",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20260616-coupe-du-monde-2026-le-s%C3%A9n%C3%A9gal-d%C3%A9fie-la-france-pour-un-nouvel-exploit",
-          "imageUrl": "https://s.rfi.fr/media/display/30eae7f0-68e2-11f1-abff-005056a90284/w:1024/p:16x9/AP26003580718858.jpg",
+          "id": "2026-06-17-068f14e1",
+          "title": "EN DIRECT - Moyen-Orient: des pétroliers iraniens ont franchi la zone du blocus américain",
+          "description": "L'armée iranienne menace d'une « réponse sévère » après les attaques israéliennes de mardi 16 juin sur le Liban, malgré un protocole d'accord conclu entre l'Iran et les États-Unis. Ce protocole d’accord visant à mettre fin à la guerre lancée par les États-Unis et Israël contre l’Iran a été signé à distance lundi 15 juin, mais cette signature sera officialisée lors d'une cérémonie vendredi en Suisse. Certains ⁠détails du texte ont commencé à être diffusés mardi, mais c'est un point de départ avant des négociations pour parvenir à un accord définitif. Le blocus américain sur les ports iraniens a été levé et des pétroliers iraniens ont d'ores et déjà franchi la zone.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260617-en-direct-moyen-orient-des-p%C3%A9troliers-iraniens-ont-franchi-la-zone-du-blocus-am%C3%A9ricain",
+          "imageUrl": "https://s.rfi.fr/media/display/577725f8-541c-11f1-a6a5-005056bf30b7/w:1024/p:16x9/AP26124419873647-1.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-16T04:01:16.000Z",
-          "fetchedAt": "2026-06-16T08:41:45.261Z"
+          "publishedAt": "2026-06-17T04:21:51.000Z",
+          "fetchedAt": "2026-06-17T05:19:55.993Z"
         },
         {
-          "id": "2026-06-15-b9050574",
-          "title": "Violences sexuelles: manifestations à Paris et devant plusieurs tribunaux pour une «loi intégrale»",
-          "description": "Nouvel appel à rassemblements lundi soir 15 juin, quelques jours après la mort tragique et évitable de Lyhanna. La collégienne de 11 ans aurait été enlevée et tuée par un homme plusieurs fois signalé pour des faits de pédocriminalité. Partout en France, des manifestations se sont tenues devant les tribunaux pour exiger davantage de moyens pour la justice. À Paris, le rendez-vous était donné devant le ministère de la Justice, pour demander que soit votée une « loi intégrale » de lutte contre les violences faites aux femmes et aux enfants.",
-          "url": "https://www.rfi.fr/fr/france/20260615-violences-sexuelles-manifestations-%C3%A0-paris-et-devant-plusieurs-tribunaux-pour-une-loi-int%C3%A9grale",
-          "imageUrl": "https://s.rfi.fr/media/display/2bc6c616-6907-11f1-b5a8-005056bfb2b6/w:1024/p:16x9/000-B77C9BV.jpg",
-          "source": "RFI",
+          "id": "2026-06-17-3f025a2e",
+          "title": "EN DIRECT, guerre au Moyen-Orient : pour la première fois depuis deux mois, des pétroliers iraniens ont franchi la zone du blocus américain",
+          "description": "Trois pétroliers de la National Iranian Tanker Company, chargés au total de 4,8 millions de barils de pétrole brut, ont franchi le périmètre du blocus, selon le site de suivi TankerTrackers. Les Etats-Unis et l’Iran signeront, vendredi en Suisse, leur protocole d’accord pour mettre fin au conflit, avec la réouverture du détroit d’Ormuz en ligne de mire.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/17/en-direct-guerre-au-moyen-orient-pour-la-premiere-fois-depuis-deux-mois-des-petroliers-iraniens-ont-franchi-la-zone-du-blocus-americain_6701050_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T22:30:07.000Z",
-          "fetchedAt": "2026-06-16T08:41:45.261Z"
+          "publishedAt": "2026-06-17T04:08:16.000Z",
+          "fetchedAt": "2026-06-17T05:19:45.893Z"
         },
         {
-          "id": "2026-06-15-f748d090",
-          "title": "Une zone de glace de la taille de la France manque en Antarctique",
-          "description": "Alors que l’Antarctique connaît des températures supérieures à la moyenne saisonnière de l’ordre de 20 °C, les observations par satellites montrent que la glace de mer qui aurait dû se former en mer de Bellingshausen en ce début d’hiver austral est absente.",
-          "url": "https://www.courrierinternational.com/article/pole-sud-une-zone-de-glace-de-la-taille-de-la-france-manque-en-antarctique_245222",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/15/225/0/5400/3600/1200/630/60/0/c08d6bb_upload-1-wfcdvalk3txr-071-1112-6465.jpg",
+          "id": "2026-06-17-f2b3a2c9",
+          "title": "Le président Trump a perdu la guerre en Iran : l’éditorial du “New York Times”",
+          "description": "En se lançant tête baissée dans un nouveau conflit au Moyen-Orient, le président des États-Unis a fait subir à son pays une humiliante défaite, affirme le quotidien de centre gauche. L’accord auquel il a dû se résoudre pour solder la guerre, encore flou, entérine selon toute apparence la victoire stratégique de l’Iran.",
+          "url": "https://www.courrierinternational.com/article/opinion-le-president-trump-a-perdu-la-guerre-en-iran-l-editorial-du-new-york-times_245261",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/16/648/0/5356/3570/1200/630/60/0/9694966_upload-1-nqoxmrzladx2-bertrams-2026-04-07-4985.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-15T15:07:47.000Z",
-          "fetchedAt": "2026-06-16T08:41:32.283Z"
+          "publishedAt": "2026-06-17T03:00:11.000Z",
+          "fetchedAt": "2026-06-17T05:19:46.525Z"
+        },
+        {
+          "id": "2026-06-17-16760e2a",
+          "title": "En direct : deux pétroliers iraniens ont franchi la zone du blocus américain",
+          "description": "Des pétroliers iraniens ont franchi la zone du blocus américain des ports iraniens qui était en place depuis environ deux mois, a indiqué mercredi le suite de suivi maritime TankerTrackers, avant la signature d'un accord entre Téhéran et Washington prévue vendredi. Le président français Emmanuel Macron a déclaré dans une vidéo diffusée sur le réseau social X que cet accord était \"une bonne chose\". Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260617-en-direct-moyen-orient-memorandum-etats-unis-iran-donald-trump-liban",
+          "imageUrl": "https://s.france24.com/media/display/13aed686-69f7-11f1-b0c8-005056a90284/w:1024/p:16x9/AP26108447320171.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-17T02:20:36.000Z",
+          "fetchedAt": "2026-06-17T05:19:46.203Z"
+        },
+        {
+          "id": "2026-06-16-0f58a986",
+          "title": "Accord entre les États-Unis et l'Iran: prudence et scepticisme chez les Libanais",
+          "description": "Après quinze semaines de combats qui ont fait près de 3 800 morts et plus de 11 500 blessés, des civils en majorité, le cessez-le-feu semble tenir au Liban malgré quelques accrochages entre l’armée israélienne et le Hezbollah en certains points du front dans le sud du pays.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260616-accord-entre-les-%C3%A9tats-unis-et-l-iran-prudence-et-scepticisme-chez-les-libanais",
+          "imageUrl": "https://s.rfi.fr/media/display/86325218-69ad-11f1-ad13-005056a97e36/w:1024/p:16x9/AP26167550807544.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T18:07:11.000Z",
+          "fetchedAt": "2026-06-17T05:19:55.993Z"
+        },
+        {
+          "id": "2026-06-16-a5edf36d",
+          "title": "Après l’accord avec l’Iran, Trump doit parer les attaques sur le front intérieur",
+          "description": "Le président des États-Unis est déjà confronté aux critiques des faucons de son propre parti, qui voulaient le voir poursuivre la guerre jusqu’à faire céder Téhéran. Il va aussi devoir “vendre” le protocole d’accord à une population mécontente de l’inflation. C’est loin d’être gagné à l’approche des élections de mi-mandat.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-apres-l-accord-avec-l-iran-trump-doit-parer-les-attaques-sur-le-front-interieur_245264",
+          "imageUrl": "https://focus.courrierinternational.com/2026/01/05/0/0/5881/3920/1200/630/60/0/e49a410_ftp-1-iju74hw1gnp8-2026-01-05t072040z-449712311-rc2ouiarcqwt-rtrmadp-3-usa-trump.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T14:16:03.000Z",
+          "fetchedAt": "2026-06-17T05:19:46.525Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "À Évian, les dirigeants du G7 espèrent remettre la guerre en Ukraine à l'agenda ",
+      "id": "cluster-8",
+      "topic": "Au sommet du G7, Donald Trump, galvanisé par son accord avec l’Iran, signale un ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-16-eca0c3e1",
-          "title": "À Évian, les dirigeants du G7 espèrent remettre la guerre en Ukraine à l'agenda de Donald Trump",
-          "description": "La situation au Moyen-Orient est au cœur du G7 qui se déroule à Évian-les-bains. Mais ce mardi, ce sera la guerre en Ukraine qui dominera les débats aujourd’hui avec la présence de Volodymyr Zelensky.",
-          "url": "https://www.rfi.fr/fr/monde/20260616-%C3%A0-%C3%A9vian-les-dirigeants-du-g7-esp%C3%A8rent-remettre-la-guerre-en-ukraine-%C3%A0-l-agenda-de-donald-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/63d39dee-6958-11f1-a319-005056bf30b7/w:1024/p:16x9/000-B78Q689.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T08:07:14.000Z",
-          "fetchedAt": "2026-06-16T08:41:45.261Z"
-        },
-        {
-          "id": "2026-06-16-7da02cb9",
-          "title": "EN DIRECT, G7 à Evian : début de la réunion, en présence notamment de Donald Trump, Emmanuel Macron et Volodymyr Zelensky",
-          "description": "Le président ukrainien rencontrera le président américain dans la foulée. La question du Moyen-Orient et de l’accord trouvé entre l’Iran et les Etats-Unis sera au cœur des discussions.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/16/en-direct-g7-a-evian-donald-trump-doit-rencontrer-volodymyr-zelensky-apres-s-etre-entretenu-avec-emmanuel-macron-lundi_6703187_3210.html",
+          "id": "2026-06-17-ad659157",
+          "title": "Au sommet du G7, Donald Trump, galvanisé par son accord avec l’Iran, signale un regain d’intérêt pour l’Ukraine",
+          "description": "Les Européens, qui souhaitent un réinvestissement des Etats-Unis dans le conflit entre Moscou et Kiev, ont entretenu l’enthousiasme du président américain sur son « deal » au Moyen-Orient, et ont confirmé leur offre de service dans le détroit d’Ormuz.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/17/au-sommet-du-g7-donald-trump-galvanise-par-son-accord-avec-l-iran-signale-un-regain-d-interet-pour-l-ukraine_6704155_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-16T05:58:01.000Z",
-          "fetchedAt": "2026-06-16T08:41:31.692Z"
+          "publishedAt": "2026-06-17T03:14:07.000Z",
+          "fetchedAt": "2026-06-17T05:19:45.893Z"
+        },
+        {
+          "id": "2026-06-16-59b2aa89",
+          "title": "“Une simple transaction” : l’accord entre les États-Unis et l’Iran signé électroniquement",
+          "description": "Les États-Unis et l’Iran ont annoncé lundi 15 juin avoir validé la veille l’accord pour sortir de la guerre via une signature électronique. Un procédé qui “privilégie la rapidité à la forme et la commodité à la crédibilité” et interroge sur la pérennité de la paix entre les deux pays.",
+          "url": "https://www.courrierinternational.com/article/diplomatie-une-simple-transaction-l-accord-entre-les-etats-unis-et-l-iran-signe-electroniquement_245300",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/16/23/0/3581/2387/1200/630/60/0/470dd9b_ftp-1-4ytqhwg2kdvj-2281883033.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-16T15:33:10.000Z",
+          "fetchedAt": "2026-06-17T05:19:46.525Z"
         }
       ]
     },
     {
-      "id": "cluster-10",
-      "topic": "Keir Starmer, le premier ministre britannique, surprend en proposant d’interdire",
-      "category": "geopolitique",
-      "importance": 8,
+      "id": "cluster-14",
+      "topic": "Android 17 starts hitting Pixel phones and watches today",
+      "category": "tech",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-06-16-2b08e12c",
-          "title": "Keir Starmer, le premier ministre britannique, surprend en proposant d’interdire les réseaux sociaux aux moins de 16 ans",
-          "description": "Si une telle interdiction est adoptée par le Parlement, elle n’entrera pas en vigueur avant le printemps 2027. Les adolescents pourraient continuer à utiliser les messageries WhatsApp et Signal mais pas des sites proposant des livestreams.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/16/le-premier-ministre-britannique-keir-starmer-surprend-en-proposant-d-interdire-les-reseaux-sociaux-aux-moins-de-16-ans_6703505_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T07:45:02.000Z",
-          "fetchedAt": "2026-06-16T08:41:31.692Z"
+          "id": "2026-06-16-c100d39d",
+          "title": "Android 17 starts hitting Pixel phones and watches today",
+          "description": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes.",
+          "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-06-16T18:00:08.000Z",
+          "fetchedAt": "2026-06-17T05:20:02.808Z"
         },
         {
-          "id": "2026-06-16-0c866029",
-          "title": "Au Royaume-Uni, l’ancienne cité minière de Dudley confrontée à la « génération perdue » de ses jeunes ni en études, ni en emploi, ni en formation",
-          "description": "Plus de 1 million de jeunes Britanniques sont inactifs, un chiffre en hausse lié aux défaillances du système d’éducation, à l’augmentation des problèmes médicaux et à la désindustrialisation de certaines régions. A Dudley, dans le centre de l’Angleterre, une personne âgée de 16 à 24 ans sur cinq est dans ce cas.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/16/au-royaume-uni-l-ancienne-cite-miniere-de-dudley-confrontee-a-la-generation-perdue-de-ses-jeunes-ni-en-etudes-ni-en-emploi-ni-en-formation_6703470_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T03:30:13.000Z",
-          "fetchedAt": "2026-06-16T08:41:31.692Z"
+          "id": "2026-06-16-d2a732fa",
+          "title": "Android 17 arrives on Pixel phones today",
+          "description": "Floating Bubble windows are among the biggest changes in the OS update. | Image: Google\t\n\nFollowing its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feature announced alongside the OS at the pre-I/O Android Show is available today, though.\nAndroid 17 itself is arriving on Pixel phones today, and Google says other manufacturers will be issuing the update throughout 2026. The biggest user interface update is the introduction of Bubbles, floating app windows that you can open with a long press - similar floating windows are already found in many Android skins, but are now an official part of 17. Google is …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/android-17.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-06-16T18:00:00.000Z",
+          "fetchedAt": "2026-06-17T05:20:02.773Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Bateau intrus, fuites, valves… la fusée Spectrum est poursuivie par la malchance",
-      "category": "tech",
-      "importance": 7,
-      "articles": [
-        {
-          "id": "2026-06-16-ff5cb93c",
-          "title": "Bateau intrus, fuites, valves… la fusée Spectrum est poursuivie par la malchance",
-          "description": "La patience est la vertu principale des passionnés d'espace, mais la start-up allemande Isar Aerospace commence à la mettre à rude épreuve.",
-          "url": "https://www.numerama.com/sciences/2276699-bateau-intrus-fuites-valves-la-fusee-spectrum-est-poursuivie-par-la-malchance.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/03/spectrum-une-1.jpg?resize=1600,900&key=b00488b3&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-16T07:53:22.000Z",
-          "fetchedAt": "2026-06-16T08:41:45.615Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Y a-t-il des « profiteurs de guerre » en 2026 ?",
+      "topic": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-06-16-5b9f1cb3",
-          "title": "Y a-t-il des « profiteurs de guerre » en 2026 ?",
-          "description": "Quand « conflit » rime avec « profit » : que faire des entreprises qui s’épanouissent en temps de crise ? Dans ce podcast, Marie de Vergès, journaliste au service Economie du « Monde », nous raconte comment les industriels s’adaptent à la guerre et font face aux questions morales que suscitent leurs profits.",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/06/16/y-a-t-il-des-profiteurs-de-guerre-en-2026_6703433_5463015.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-06-17-f6bd030c",
+          "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
+          "description": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
+          "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4d41/live/929b64a0-697a-11f1-8546-8f19e4fe30f4.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-06-16T03:00:07.000Z",
-          "fetchedAt": "2026-06-16T08:41:59.108Z"
+          "publishedAt": "2026-06-17T01:27:26.000Z",
+          "fetchedAt": "2026-06-17T05:20:04.868Z"
         }
       ]
     }
