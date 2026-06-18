@@ -1,198 +1,253 @@
 {
-  "generatedAt": "2026-06-17T05:23:46.552Z",
+  "generatedAt": "2026-06-18T05:12:04.818Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "EN DIRECT, guerre en Ukraine : un mort et au moins sept blessés dans des frappes",
+      "id": "cluster-2",
+      "topic": "Au Royaume-Uni, le sort de Keir Starmer entre les mains des électeurs de Makerfi",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-17-a8f22ec7",
-          "title": "EN DIRECT, guerre en Ukraine : un mort et au moins sept blessés dans des frappes nocturnes russes à Zaporijia",
-          "description": "Des dizaines de drones ont été lancés, notamment vers des zones résidentielles de cette ville du sud-est de l’Ukraine. Une partie de l’université a également été touchée.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/17/en-direct-guerre-en-ukraine-un-mort-et-au-moins-sept-blesses-dans-des-frappes-nocturnes-russes-sur-zaporijia_6702230_3210.html",
+          "id": "2026-06-18-03ff3802",
+          "title": "Au Royaume-Uni, le sort de Keir Starmer entre les mains des électeurs de Makerfield",
+          "description": "Si Andy Burnham, maire du Grand Manchester, remporte l’élection législative partielle le 18 juin, il pourrait chercher à remplacer le premier ministre au 10 Downing Street, au risque de déclencher une bataille interne au Parti travailliste. Plusieurs scénarios sont envisagés.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/18/au-royaume-uni-le-sort-de-keir-starmer-entre-les-mains-des-electeurs-de-makerfield_6704495_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-17T04:53:16.000Z",
-          "fetchedAt": "2026-06-17T05:19:45.893Z"
+          "publishedAt": "2026-06-18T05:00:05.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.232Z"
         },
         {
-          "id": "2026-06-17-9f4eabc6",
-          "title": "Un navire de guerre russe tire des coups de semonce sur un yacht britannique dans la Manche",
-          "description": "Un navire de guerre russe a tiré mardi 16 juin 2026, dans la Manche, des coups de semonce sur un yacht naviguant sous pavillon britannique qui s'approchait « dangereusement » de lui selon le ministère russe de la Défense, conduisant les autorités britanniques à ouvrir une enquête.",
-          "url": "https://www.rfi.fr/fr/europe/20260617-un-navire-de-guerre-russe-tire-des-coups-de-semonce-sur-un-yacht-britannique-dans-la-manche",
-          "imageUrl": "https://s.rfi.fr/media/display/27debeca-69e6-11f1-a092-005056a97e36/w:1024/p:16x9/AP25208576176551.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-17T00:48:15.000Z",
-          "fetchedAt": "2026-06-17T05:19:55.993Z"
-        },
-        {
-          "id": "2026-06-16-556712ce",
-          "title": "Un navire de guerre russe a tiré des coups de semonce en direction d’un yacht britannique dans la Manche",
-          "description": "Moscou affirme qu’il s’agissait d’une mesure prise en dernier recours, alors que le yacht dérivait vers la frégate militaire. De son côté, le ministère de la défense britannique a dit enquêter sur l’incident.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/17/un-navire-de-guerre-russe-a-tire-des-coups-de-semonce-en-direction-d-un-yacht-britannique-dans-la-manche_6703917_3210.html",
+          "id": "2026-06-18-27dc753b",
+          "title": "A Madagascar, portraits d’une jeunesse au cœur battant qui a précipité la chute du président Andry Rajoelina",
+          "description": "En 2025, la « gen Z » malgache s’est levée. C’est elle qui a porté la révolte d’octobre, exprimant une colère lucide face aux injustices et aux promesses non tenues. Six mois après les événements, dans une situation toujours fragile, le photographe Bertrand Vandeloise est parti à leur rencontre. Pour « Le Monde », il raconte.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/06/18/a-madagascar-portraits-d-une-jeunesse-au-c-ur-battant-qui-a-precipite-la-chute-du-president-andry-rajoelina_6704489_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-16T22:15:43.000Z",
-          "fetchedAt": "2026-06-17T05:19:45.893Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "EN DIRECT - Moyen-Orient: des pétroliers iraniens ont franchi la zone du blocus ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-17-068f14e1",
-          "title": "EN DIRECT - Moyen-Orient: des pétroliers iraniens ont franchi la zone du blocus américain",
-          "description": "L'armée iranienne menace d'une « réponse sévère » après les attaques israéliennes de mardi 16 juin sur le Liban, malgré un protocole d'accord conclu entre l'Iran et les États-Unis. Ce protocole d’accord visant à mettre fin à la guerre lancée par les États-Unis et Israël contre l’Iran a été signé à distance lundi 15 juin, mais cette signature sera officialisée lors d'une cérémonie vendredi en Suisse. Certains ⁠détails du texte ont commencé à être diffusés mardi, mais c'est un point de départ avant des négociations pour parvenir à un accord définitif. Le blocus américain sur les ports iraniens a été levé et des pétroliers iraniens ont d'ores et déjà franchi la zone.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260617-en-direct-moyen-orient-des-p%C3%A9troliers-iraniens-ont-franchi-la-zone-du-blocus-am%C3%A9ricain",
-          "imageUrl": "https://s.rfi.fr/media/display/577725f8-541c-11f1-a6a5-005056bf30b7/w:1024/p:16x9/AP26124419873647-1.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-17T04:21:51.000Z",
-          "fetchedAt": "2026-06-17T05:19:55.993Z"
+          "publishedAt": "2026-06-18T04:00:50.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.232Z"
         },
         {
-          "id": "2026-06-17-3f025a2e",
-          "title": "EN DIRECT, guerre au Moyen-Orient : pour la première fois depuis deux mois, des pétroliers iraniens ont franchi la zone du blocus américain",
-          "description": "Trois pétroliers de la National Iranian Tanker Company, chargés au total de 4,8 millions de barils de pétrole brut, ont franchi le périmètre du blocus, selon le site de suivi TankerTrackers. Les Etats-Unis et l’Iran signeront, vendredi en Suisse, leur protocole d’accord pour mettre fin au conflit, avec la réouverture du détroit d’Ormuz en ligne de mire.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/17/en-direct-guerre-au-moyen-orient-pour-la-premiere-fois-depuis-deux-mois-des-petroliers-iraniens-ont-franchi-la-zone-du-blocus-americain_6701050_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-17T04:08:16.000Z",
-          "fetchedAt": "2026-06-17T05:19:45.893Z"
-        },
-        {
-          "id": "2026-06-17-f2b3a2c9",
-          "title": "Le président Trump a perdu la guerre en Iran : l’éditorial du “New York Times”",
-          "description": "En se lançant tête baissée dans un nouveau conflit au Moyen-Orient, le président des États-Unis a fait subir à son pays une humiliante défaite, affirme le quotidien de centre gauche. L’accord auquel il a dû se résoudre pour solder la guerre, encore flou, entérine selon toute apparence la victoire stratégique de l’Iran.",
-          "url": "https://www.courrierinternational.com/article/opinion-le-president-trump-a-perdu-la-guerre-en-iran-l-editorial-du-new-york-times_245261",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/16/648/0/5356/3570/1200/630/60/0/9694966_upload-1-nqoxmrzladx2-bertrams-2026-04-07-4985.jpg",
+          "id": "2026-06-18-6c2855e4",
+          "title": "Fed, Coupe du monde, Royaume-Uni : les informations de la nuit",
+          "description": "",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-fed-coupe-du-monde-royaume-uni-les-informations-de-la-nuit_245384",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/17/0/0/3138/2092/1200/630/60/0/ccfafd1_ftp-1-e7kzmo1aa012-2026-06-17t210321z-214699934-rc2uvla5iwaa-rtrmadp-3-usa-fed-warsh-projection.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-17T03:00:11.000Z",
-          "fetchedAt": "2026-06-17T05:19:46.525Z"
+          "publishedAt": "2026-06-18T04:00:22.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.416Z"
         },
         {
-          "id": "2026-06-17-16760e2a",
-          "title": "En direct : deux pétroliers iraniens ont franchi la zone du blocus américain",
-          "description": "Des pétroliers iraniens ont franchi la zone du blocus américain des ports iraniens qui était en place depuis environ deux mois, a indiqué mercredi le suite de suivi maritime TankerTrackers, avant la signature d'un accord entre Téhéran et Washington prévue vendredi. Le président français Emmanuel Macron a déclaré dans une vidéo diffusée sur le réseau social X que cet accord était \"une bonne chose\". Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260617-en-direct-moyen-orient-memorandum-etats-unis-iran-donald-trump-liban",
-          "imageUrl": "https://s.france24.com/media/display/13aed686-69f7-11f1-b0c8-005056a90284/w:1024/p:16x9/AP26108447320171.jpg",
-          "source": "France 24",
+          "id": "2026-06-18-9922cf24",
+          "title": "La Coupe du monde d’Infantino : un jet privé et des milliers de kilomètres chaque jour",
+          "description": "Gianni Infantino, le tant décrié patron de la Fifa est omniprésent depuis le lancement de la Coupe du monde. Alors que les rencontres, réparties sur trois pays, se disputent à des milliers de kilomètres de distance, Infantino assiste à de nombreux matchs en tribune, et ce grâce à une logistique savamment huilée. Mais “pour le commun des mortels, un tel programme relève de la science-fiction”, souligne le quotidien britannique “The Daily Telegraph”.",
+          "url": "https://www.courrierinternational.com/article/football-la-coupe-du-monde-d-infantino-un-jet-prive-et-des-milliers-de-kilometres-chaque-jour_245294",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/17/0/0/2400/1600/1200/630/60/0/8dc05f5_upload-1-8luyclg2cjly-fifa.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-17T02:20:36.000Z",
-          "fetchedAt": "2026-06-17T05:19:46.203Z"
+          "publishedAt": "2026-06-18T03:00:19.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.416Z"
         },
         {
-          "id": "2026-06-16-0f58a986",
-          "title": "Accord entre les États-Unis et l'Iran: prudence et scepticisme chez les Libanais",
-          "description": "Après quinze semaines de combats qui ont fait près de 3 800 morts et plus de 11 500 blessés, des civils en majorité, le cessez-le-feu semble tenir au Liban malgré quelques accrochages entre l’armée israélienne et le Hezbollah en certains points du front dans le sud du pays.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260616-accord-entre-les-%C3%A9tats-unis-et-l-iran-prudence-et-scepticisme-chez-les-libanais",
-          "imageUrl": "https://s.rfi.fr/media/display/86325218-69ad-11f1-ad13-005056a97e36/w:1024/p:16x9/AP26167550807544.jpg",
+          "id": "2026-06-18-6f3eb7d4",
+          "title": "Royaume-Uni: élection cruciale pour l'avenir du Premier ministre Keir Starmer à Downing Street",
+          "description": "Au Royaume-Uni, trois législatives partielles sont organisées ce jeudi 18 juin 2026, deux en Écosse mais surtout à Makerfield, dans la région de Manchester, en Angleterre. Cela pourrait être une anecdote politique, mais le résultat de ce scrutin pourrait avoir un impact sur la politique nationale.",
+          "url": "https://www.rfi.fr/fr/europe/20260618-royaume-uni-%C3%A9lection-cruciale-pour-l-avenir-du-premier-ministre-keir-starmer-%C3%A0-downing-street",
+          "imageUrl": "https://s.rfi.fr/media/display/dff8edd2-6a90-11f1-90a4-005056bf30b7/w:1024/p:16x9/AP26164405171957.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-16T18:07:11.000Z",
-          "fetchedAt": "2026-06-17T05:19:55.993Z"
+          "publishedAt": "2026-06-18T03:00:07.000Z",
+          "fetchedAt": "2026-06-18T05:08:13.943Z"
         },
         {
-          "id": "2026-06-16-a5edf36d",
-          "title": "Après l’accord avec l’Iran, Trump doit parer les attaques sur le front intérieur",
-          "description": "Le président des États-Unis est déjà confronté aux critiques des faucons de son propre parti, qui voulaient le voir poursuivre la guerre jusqu’à faire céder Téhéran. Il va aussi devoir “vendre” le protocole d’accord à une population mécontente de l’inflation. C’est loin d’être gagné à l’approche des élections de mi-mandat.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-apres-l-accord-avec-l-iran-trump-doit-parer-les-attaques-sur-le-front-interieur_245264",
-          "imageUrl": "https://focus.courrierinternational.com/2026/01/05/0/0/5881/3920/1200/630/60/0/e49a410_ftp-1-iju74hw1gnp8-2026-01-05t072040z-449712311-rc2ouiarcqwt-rtrmadp-3-usa-trump.JPG",
-          "source": "Courrier International",
+          "id": "2026-06-18-ee9bd966",
+          "title": "Ebola en RDC: à Bunia (Ituri), la vie dans la peur de l'épidémie",
+          "description": "À Bunia, capitale de la province de l'iturin dans l'est de la RDC, province la plus touchée par l’épidémie d'Ebola, les gestes barrière, la désinfection des mains pour se protéger contre Ebola commencent à s’installer dans le quotidien des habitants. Notamment depuis que plusieurs personnes sont mortes en plein jour, dans la rue, et que ces images ont fait le tour des réseaux sociaux.",
+          "url": "https://www.rfi.fr/fr/afrique/20260618-ebola-en-rdc-%C3%A0-bunia-ituri-la-vie-dans-la-peur-de-l-%C3%A9pid%C3%A9mie",
+          "imageUrl": "https://s.rfi.fr/media/display/3f8e36ea-6abd-11f1-959f-005056bf30b7/w:1024/p:16x9/20260617-083300.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-16T14:16:03.000Z",
-          "fetchedAt": "2026-06-17T05:19:46.525Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-8",
-      "topic": "Au sommet du G7, Donald Trump, galvanisé par son accord avec l’Iran, signale un ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-17-ad659157",
-          "title": "Au sommet du G7, Donald Trump, galvanisé par son accord avec l’Iran, signale un regain d’intérêt pour l’Ukraine",
-          "description": "Les Européens, qui souhaitent un réinvestissement des Etats-Unis dans le conflit entre Moscou et Kiev, ont entretenu l’enthousiasme du président américain sur son « deal » au Moyen-Orient, et ont confirmé leur offre de service dans le détroit d’Ormuz.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/17/au-sommet-du-g7-donald-trump-galvanise-par-son-accord-avec-l-iran-signale-un-regain-d-interet-pour-l-ukraine_6704155_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-17T03:14:07.000Z",
-          "fetchedAt": "2026-06-17T05:19:45.893Z"
-        },
-        {
-          "id": "2026-06-16-59b2aa89",
-          "title": "“Une simple transaction” : l’accord entre les États-Unis et l’Iran signé électroniquement",
-          "description": "Les États-Unis et l’Iran ont annoncé lundi 15 juin avoir validé la veille l’accord pour sortir de la guerre via une signature électronique. Un procédé qui “privilégie la rapidité à la forme et la commodité à la crédibilité” et interroge sur la pérennité de la paix entre les deux pays.",
-          "url": "https://www.courrierinternational.com/article/diplomatie-une-simple-transaction-l-accord-entre-les-etats-unis-et-l-iran-signe-electroniquement_245300",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/16/23/0/3581/2387/1200/630/60/0/470dd9b_ftp-1-4ytqhwg2kdvj-2281883033.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-16T15:33:10.000Z",
-          "fetchedAt": "2026-06-17T05:19:46.525Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-14",
-      "topic": "Android 17 starts hitting Pixel phones and watches today",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-16-c100d39d",
-          "title": "Android 17 starts hitting Pixel phones and watches today",
-          "description": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes.",
-          "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-06-16T18:00:08.000Z",
-          "fetchedAt": "2026-06-17T05:20:02.808Z"
-        },
-        {
-          "id": "2026-06-16-d2a732fa",
-          "title": "Android 17 arrives on Pixel phones today",
-          "description": "Floating Bubble windows are among the biggest changes in the OS update. | Image: Google\t\n\nFollowing its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feature announced alongside the OS at the pre-I/O Android Show is available today, though.\nAndroid 17 itself is arriving on Pixel phones today, and Google says other manufacturers will be issuing the update throughout 2026. The biggest user interface update is the introduction of Bubbles, floating app windows that you can open with a long press - similar floating windows are already found in many Android skins, but are now an official part of 17. Google is …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/android-17.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-06-16T18:00:00.000Z",
-          "fetchedAt": "2026-06-17T05:20:02.773Z"
+          "publishedAt": "2026-06-18T02:29:05.000Z",
+          "fetchedAt": "2026-06-18T05:08:13.943Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
+      "topic": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky estime que son entretien avec ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-18-ee897ee4",
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky estime que son entretien avec Emmanuel Macron et Donald Trump peut « apporter des changements significatifs »",
+          "description": "Les dirigeants du G7 ont salué l’alignement de Donald Trump au sujet de l’Ukraine, permettant à Emmanuel Macron de revendiquer une rare « unité » transatlantique après des mois de « désaccords ».",
+          "url": "https://www.lemonde.fr/international/live/2026/06/18/en-direct-guerre-en-ukraine-volodymyr-zelensky-estime-que-son-entretien-avec-emmanuel-macron-et-donald-trump-peut-apporter-des-changements-significatifs_6702230_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-18T04:47:08.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.232Z"
+        },
+        {
+          "id": "2026-06-18-fdb431e2",
+          "title": "Guerre en Ukraine : au château de Versailles, Macron poursuit son offensive diplomatique auprès de Trump",
+          "description": "Dans la foulée du G7 d’Evian, le chef de l’Etat français a reçu le milliardaire à dîner avec faste, prolongeant une séquence qui a permis de rapprocher le président américain des positions européennes.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/18/guerre-en-ukraine-au-chateau-de-versailles-macron-poursuit-son-offensive-diplomatique-aupres-de-trump_6704476_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-18T03:30:06.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.232Z"
+        },
+        {
+          "id": "2026-06-17-8fd870f1",
+          "title": "IA, Iran, Ukraine : Emmanuel Macron fait le bilan du G7",
+          "description": "Le président français Emmanuel Macron s'est félicité ce mercredi d'un \"succès\" et d'un \"moment d'unité\" au sommet du G7 qui s'est tenu à Évian-les-Bains, après des mois de \"désaccords\". Regardez sa prise de parole en replay.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260617-ia-iran-ukraine-emmanuel-macron-fait-le-bilan-du-g7",
+          "imageUrl": "https://s.france24.com/media/display/9ec11160-6a62-11f1-970f-005056bfb2b6/w:1024/p:16x9/FR-20260617-163006-172319-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-17T15:42:56.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.312Z"
+        },
+        {
+          "id": "2026-06-17-f2cc3791",
+          "title": "Macron, Trump et un G7 sur mesure : “Peut-être cette flagornerie va-t-elle enfin cesser”",
+          "description": "Réalité géopolitique oblige, tout a été fait au G7 à Évian pour ne pas déplaire au président américain, observe la presse internationale. Jusqu’au dîner de ce soir à Versailles, Emmanuel Macron aura, pour les uns, joué la carte de la diplomatie, quand, pour les autres, il agit en “parent tiraillé entre fermeté et bienveillance face à un adolescent capricieux”.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-macron-trump-et-un-g7-sur-mesure-peut-etre-cette-flagornerie-va-t-elle-enfin-cesser_245318",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/17/0/5/5889/3926/1200/630/60/0/cb95624_ftp-1-0lrc6oib2tt9-2026-06-17t091715z-108182243-rc2kvla11y6f-rtrmadp-3-g7-summit.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-17T14:23:05.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.416Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "« Parfois fantasmée, la Corée du Sud est souvent perçue comme cool dans une Fran",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-18-202793db",
+          "title": "« Parfois fantasmée, la Corée du Sud est souvent perçue comme cool dans une France qui aime se frotter à l’altérité » : la déferlante des étudiants français à Séoul",
+          "description": "De plus en plus de jeunes Français, séduits par le succès mondial de la K-pop, entre autres, apprécient un quotidien sûr et fonctionnel. Mais certains aspects de la vie en société sont plus difficiles à accepter.",
+          "url": "https://www.lemonde.fr/campus/article/2026/06/18/parfois-fantasmee-la-coree-du-sud-est-souvent-percue-comme-cool-dans-une-france-qui-aime-se-frotter-a-l-alterite-la-deferlante-des-etudiants-francais-a-seoul_6704477_4401467.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-18T03:45:04.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.232Z"
+        },
+        {
+          "id": "2026-06-18-d3141b0a",
+          "title": "Scandale du périscolaire : le parquet de Paris fait appel de la relaxe d'un animateur",
+          "description": "Le tribunal correctionnel a relaxé, mardi, Nicolas G, l'animateur extrascolaire d'une école parisienne poursuivi pour agressions sexuelles sur mineurs. Il avait estimé que son comportement était certes \"inapproprié\" mais l'enquête \"n'avait pas démontré qu'il relevait d'un caractère humiliant ou dégradant\". Le parquet de Paris a fait appel de cette décision, mercredi.",
+          "url": "https://www.france24.com/fr/france/20260618-scandale-periscolaire-parquet-paris-fait-appel-relaxe-animateur-justice-agressions-sexuelles",
+          "imageUrl": "https://s.france24.com/media/display/a99733da-6aa8-11f1-968e-005056a90284/w:1024/p:16x9/000-A9V68LT.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-18T00:03:40.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.312Z"
+        },
+        {
+          "id": "2026-06-17-fe6f5f81",
+          "title": "G7 à Evian : Emmanuel Macron salue un « moment d’unité » après des mois de « désaccords »",
+          "description": "« Ce G7 est objectivement un succès, (…), il a été un moment d’unité, de discussion de qualité et de vraie coopération entre les dirigeants qui se retrouvaient ici », a déclaré le chef de l’Etat lors d’une conférence de presse, soulignant qu’il avait « permis de nous coordonner de manière très étroite pour répondre aux crises et de travailler aux grands défis de notre temps ».",
+          "url": "https://www.lemonde.fr/international/video/2026/06/17/g7-a-evian-emmanuel-macron-salue-un-moment-d-unite-apres-des-mois-de-desaccords_6704291_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-17T17:46:18.000Z",
+          "fetchedAt": "2026-06-18T05:08:04.232Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-46",
+      "topic": "L’un des meilleurs films de Ghibli va devenir une série en live action",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-17-76efeabb",
+          "title": "L’un des meilleurs films de Ghibli va devenir une série en live action",
+          "description": "Kiki la petite sorcière va s'aventurer sur le petit écran. Déjà adapté par Hayao Miyazaki en 1989, le roman va avoir droit à une nouvelle adaptation en série télévisée pour le compte de la BBC.",
+          "url": "https://www.numerama.com/pop-culture/2277869-lun-des-meilleurs-films-de-ghibli-va-devenir-une-serie-en-live-action.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/kiki-la-petit-sorciere.avif?resize=1600,900&key=7f34d540&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-17T08:29:17.000Z",
+          "fetchedAt": "2026-06-18T05:08:14.041Z"
+        },
+        {
+          "id": "2026-06-17-029c886d",
+          "title": "Droits voisins : le Sénat renforce le cadre permettant la rémunération de la presse par les plateformes numériques",
+          "description": "Ces droits permettent aux journaux, magazines ou agences de presse de se faire payer lorsque leurs contenus sont utilisés par les géants du numérique qui captent la majorité des recettes publicitaires. Le vote du Sénat, qui succède à celui de l’Assemblée nationale, permet de mieux gérer cette rémunération.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/06/17/droits-voisins-le-senat-renforce-le-cadre-de-remuneration-de-la-presse-par-les-plateformes-numeriques_6704050_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-06-17T01:50:13.000Z",
+          "fetchedAt": "2026-06-18T05:08:13.989Z"
+        },
+        {
+          "id": "2026-06-16-9f0a3c2a",
+          "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+          "description": "\"As for Arianespace, they have definitely stepped up.\"",
+          "url": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-leo-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-06-16T21:14:08.000Z",
+          "fetchedAt": "2026-06-18T05:08:21.384Z"
+        },
+        {
+          "id": "2026-06-16-040cc82f",
+          "title": "« Aux Etats-Unis, les contradictions de l’alliance entre le monde de la tech et le mouvement MAGA ne peuvent plus être étouffées »",
+          "description": "Dans une tribune au « Monde », l’Américain Stephen Holmes, professeur de droit, met au jour la divergence avec l’exemple du marché de l’électricité : les particuliers, soumis à une violente volatilité, deviennent une variable d’ajustement au profit de coûts stables pour les voraces centres de données.",
+          "url": "https://www.lemonde.fr/idees/article/2026/06/16/aux-etats-unis-les-contradictions-de-l-alliance-entre-le-monde-de-la-tech-et-le-mouvement-maga-ne-peuvent-plus-etre-etouffees_6703599_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-06-16T13:30:31.000Z",
+          "fetchedAt": "2026-06-18T05:08:13.989Z"
+        },
+        {
+          "id": "2026-06-16-7d4c974e",
+          "title": "Au Canada, l’IA devient un nouveau champ de bataille entre responsables politiques et populations locales",
+          "description": "Le gouvernement de Mark Carney, soucieux de bâtir une « IA canadienne souveraine », veut accélérer la construction de centres de données et mise sur l’Alberta et ses immenses réserves d’hydrocarbures. Mais ce projet se heurte à de fortes oppositions.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/16/l-ia-nouveau-champ-de-bataille-politique-au-canada_6703555_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-06-16T13:00:04.000Z",
+          "fetchedAt": "2026-06-18T05:08:13.989Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "Les entreprises sommées de s’adapter à la multiplication des vagues de chaleur",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-06-17-f6bd030c",
-          "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
-          "description": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
-          "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4d41/live/929b64a0-697a-11f1-8546-8f19e4fe30f4.jpg",
-          "source": "BBC Business",
+          "id": "2026-06-18-9883fc86",
+          "title": "Les entreprises sommées de s’adapter à la multiplication des vagues de chaleur",
+          "description": "Le code du travail ne prévoit pas de température au-delà de laquelle il conviendrait de suspendre l’activité, mais les employeurs, responsables de la santé de leurs salariés, sont tenus d’évaluer et prévenir les risques.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/18/les-entreprises-sommees-de-s-adapter-a-la-multiplication-des-vagues-de-chaleur_6704492_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-06-17T01:27:26.000Z",
-          "fetchedAt": "2026-06-17T05:20:04.868Z"
+          "publishedAt": "2026-06-18T04:01:08.000Z",
+          "fetchedAt": "2026-06-18T05:08:21.375Z"
         }
       ]
     }
