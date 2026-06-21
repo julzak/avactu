@@ -1,191 +1,224 @@
 {
-  "generatedAt": "2026-06-20T04:47:23.805Z",
+  "generatedAt": "2026-06-21T05:25:30.707Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Yaoundé dénonce l'utilisation du pavillon camerounais après une nouvelle interce",
+      "topic": "Face au taux élevé de suicide chez les jeunes, Séoul mise sur l'intelligence art",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-20-821e350a",
-          "title": "Yaoundé dénonce l'utilisation du pavillon camerounais après une nouvelle interception d'un pétrolier fantôme russe",
-          "description": "Depuis début juin, deux pétroliers appartenant à la flotte fantôme russe et battant pavillon camerounais ont été interceptés, le premier au large de la France, le second dans la Manche. Moscou s'appuie sur ces navires pour financer sa guerre en Ukraine en écoulant clandestinement son pétrole sous embargo.",
-          "url": "https://www.rfi.fr/fr/afrique/20260620-yaound%C3%A9-d%C3%A9nonce-l-utilisation-du-pavillon-camerounais-apr%C3%A8s-une-nouvelle-interception-d-un-p%C3%A9trolier-fant%C3%B4me-russe",
-          "imageUrl": "https://s.rfi.fr/media/display/ffd3c9c0-6c60-11f1-9da3-005056bf30b7/w:1024/p:16x9/2026-06-14T155142Z-752650947-RC2RTLA4VVRY-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-BRITAIN.jpg",
+          "id": "2026-06-21-0c9f763e",
+          "title": "Face au taux élevé de suicide chez les jeunes, Séoul mise sur l'intelligence artificielle",
+          "description": "En Corée du Sud, le suicide est devenu la première cause de mortalité chez les jeunes. Alors que le pays possède le plus haut taux de suicide chez les moins de 30 ans au sein de l’OCDE, le gouvernement a dévoilé un vaste plan national. Au cœur de cette stratégie inédite : le déploiement de l'intelligence artificielle pour détecter les signaux de détresse chez les jeunes.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20260621-face-au-taux-%C3%A9lev%C3%A9-de-suicide-chez-les-jeunes-s%C3%A9oul-mise-sur-l-intelligence-artificielle",
+          "imageUrl": "https://s.rfi.fr/media/display/25692590-699b-11f1-9589-005056bf30b7/w:1024/p:16x9/000-36MF7VB.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-20T04:36:13.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.806Z"
+          "publishedAt": "2026-06-21T05:04:35.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.380Z"
         },
         {
-          "id": "2026-06-19-7821667e",
-          "title": "Un droniste français visé par une tentative d'espionnage au profit de la Russie",
-          "description": "Le parquet de Paris a confirmé vendredi à l'AFP la mise en examen et le placement en détention provisoire début juin d'un homme né en Biélorussie. Ce dernier a été surpris en train de filmer un prototype de drone dans l'usine toulousaine du constructeur Delair, qui fournit les armées française et ukrainienne.",
-          "url": "https://www.france24.com/fr/france/20260619-un-droniste-fran%C3%A7ais-vis%C3%A9-par-une-tentative-d-espionnage-au-profit-de-la-russie",
-          "imageUrl": "https://s.france24.com/media/display/67a7a2f6-6bfd-11f1-b256-005056a90284/w:1024/p:16x9/600eff3a82dc2508ddd08c1e31d76afbc4463551.jpg",
+          "id": "2026-06-21-63a0d0cd",
+          "title": "La défense européenne est-elle devenue, au nom de la souveraineté, un investissement durable ?",
+          "description": "Dans un contexte d’instabilité géopolitique accrue, le financement de sa défense figure parmi les priorités du Vieux Continent, jusqu’à la considérer comme un investissement durable sous l’impulsion de Bruxelles.",
+          "url": "https://www.lemonde.fr/argent/article/2026/06/21/la-defense-europeenne-est-elle-devenue-au-nom-de-la-souverainete-un-investissement-durable_6705448_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-21T04:00:19.000Z",
+          "fetchedAt": "2026-06-21T05:21:30.361Z"
+        },
+        {
+          "id": "2026-06-21-26de0bae",
+          "title": "La fréquentation des saunas est-elle dangereuse pour les spermatozoïdes ?",
+          "description": "Dans sa rubrique “Est-il vrai que… ?”, le quotidien britannique “The Guardian” tente de répondre aux questions que l’on s’est toutes et tous déjà posées. Cette semaine, une croyance répandue sur les réseaux sociaux décryptée.",
+          "url": "https://www.courrierinternational.com/article/vrai-ou-faux-la-frequentation-des-saunas-est-elle-dangereuse-pour-les-spermatozoides_244712",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/17/12/81/1670/1113/1200/630/60/0/62a73ae_upload-1-ogluqpda7gea-rgb-chiara-dattola-sperma.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-21T03:00:14.000Z",
+          "fetchedAt": "2026-06-21T05:21:30.903Z"
+        },
+        {
+          "id": "2026-06-20-12d80051",
+          "title": "Un Mondial et une histoire d’amour : les supporters écossais font leurs adieux à Boston",
+          "description": "Pendant une semaine, Boston a vécu au rythme de la Tartan Army. Les Écossais sont arrivés avec leurs kilts, leurs chants et un optimisme sans faille. Ils repartent en laissant derrière eux des souvenirs inoubliables. Avant de prendre la route pour Miami, leur prochaine destination dans cette Coupe du monde, les supporters écossais disent au revoir à Boston.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260620-un-mondial-et-une-histoire-d-amour-les-supporters-%C3%A9cossais-font-leurs-adieux-%C3%A0-boston",
+          "imageUrl": "https://s.france24.com/media/display/ba986f2c-6ce8-11f1-9352-005056a90284/w:1024/p:16x9/miniFR-1.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-19T16:39:14.000Z",
-          "fetchedAt": "2026-06-20T04:43:23.427Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Les États-Unis arrachent un cessez-le-feu à Israël et au Hezbollah pour tenter d",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-20-8f0d6f0a",
-          "title": "Les États-Unis arrachent un cessez-le-feu à Israël et au Hezbollah pour tenter de sauver l’accord avec l’Iran",
-          "description": "Israël et le Hezbollah libanais ont accepté vendredi l’instauration d’un cessez-le-feu, après que des frappes massives israéliennes au Liban ont poussé l’Iran à se retirer des pourparlers de paix avec les États-Unis. Le Liban se retrouve plus que jamais “au cœur du bras de fer” entre Washington et Téhéran, observe la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-les-etats-unis-arrachent-un-cessez-le-feu-a-israel-et-au-hezbollah-pour-tenter-de-sauver-l-accord-avec-l-iran_245469",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/19/0/57/5386/3591/1200/630/60/0/e680fce_ftp-1-3nu7kiodtral-2026-06-19t140635z-1662913916-rc21xlaym7y0-rtrmadp-3-iran-crisis-israel-lebanon.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-20T04:10:06.000Z",
-          "fetchedAt": "2026-06-20T04:43:24.419Z"
+          "publishedAt": "2026-06-20T20:58:41.000Z",
+          "fetchedAt": "2026-06-21T05:21:30.438Z"
         },
         {
-          "id": "2026-06-20-f3a3f3d0",
-          "title": "EN DIRECT, guerre au Moyen-Orient : fragile cessez-le-feu au Liban après un accord entre Israël et le Hezbollah",
-          "description": "Deux sources sécuritaires libanaises ont déclaré qu’Israël avait mené une dizaine de frappes aériennes au cours de la première heure du cessez-le-feu, commencé vendredi à 16 heures, mais qu’aucune n’avait été signalée après 17 heures.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/20/en-direct-guerre-au-moyen-orient-fragile-cessez-le-feu-au-liban-apres-un-accord-entre-israel-et-le-hezbollah_6705272_3210.html",
+          "id": "2026-06-20-f238e059",
+          "title": "«C'est pour bientôt»: le Bénin et le Niger avancent vers une réouverture de leur frontière",
+          "description": "Le Bénin et le Niger accélèrent le processus de normalisation de leurs relations, tendues depuis l'arrivée de la junte au pouvoir à Niamey en juillet 2023. La visite du nouveau président béninois Romuald Wadagni dans la capitale nigérienne le 2 juin a relancé la dynamique de décrispation. Réunis samedi 20 juin à Cotonou, les comités d'experts conjoints mis en place au lendemain du 2 juin poursuivent les échanges en vue d'une réouverture de la frontière commune et d'un dégel total. La première journée de travaux s'est achevée en fin d'après-midi au ministère des Affaires étrangères.",
+          "url": "https://www.rfi.fr/fr/afrique/20260620-c-est-pour-bient%C3%B4t-le-b%C3%A9nin-et-le-niger-avancent-vers-une-r%C3%A9ouverture-de-leur-fronti%C3%A8re",
+          "imageUrl": "https://s.rfi.fr/media/display/5c6ddc80-6cd3-11f1-ba2b-005056bfb2b6/w:1024/p:16x9/2026-06-02T174426Z-1904744024-RC2TLLAF2KER-RTRMADP-3-BENIN-NIGER-DIPLOMACY.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-20T19:48:02.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.380Z"
+        },
+        {
+          "id": "2026-06-20-16271b92",
+          "title": "En Bolivie, les images des blocages paralysant une partie du pays alors que le président a décrété l’Etat d’exception",
+          "description": "Rodrigo Paz a décrété, samedi, l’état d’exception, qui pourrait permettre la mobilisation de l’armée afin de mettre fin aux barrages routiers.",
+          "url": "https://www.lemonde.fr/international/video/2026/06/20/en-bolivie-les-images-des-blocages-paralysant-une-partie-du-pays-alors-que-le-president-a-decrete-l-etat-d-exception_6705329_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-20T04:07:09.000Z",
-          "fetchedAt": "2026-06-20T04:43:23.395Z"
-        },
-        {
-          "id": "2026-06-20-b26a1f58",
-          "title": "L’Iran est redevenu un symbole mondial de résistance aux États-Unis",
-          "description": "Dans le monde non occidental, la guerre a donné lieu à une vague de solidarité contre l’ingérence américaine, raconte dans les colonnes du “New York Times” cette journaliste d’origine iranienne enseignant à New York. Le conflit a ainsi rendu à un régime discrédité un rôle que l’Iran a déjà tenu au temps de la décolonisation, lorsque son Premier ministre, Mohammed Mossadegh, incarnait la quête d’indépendance nationale.",
-          "url": "https://www.courrierinternational.com/article/opinion-l-iran-est-redevenu-un-symbole-mondial-de-resistance-aux-etats-unis_245371",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/19/0/0/2008/1339/1200/630/60/0/93dbd42_upload-1-zmkuqxg391fe-bojesen-2026-03-09-4496-w.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-20T03:00:23.000Z",
-          "fetchedAt": "2026-06-20T04:43:24.419Z"
-        },
-        {
-          "id": "2026-06-19-9ee63b96",
-          "title": "Les Etats-Unis jugent « superficiel » le vaste plan de réforme économique annoncé par Cuba",
-          "description": "Au lendemain de l’adoption par l’Assemblée nationale cubaine de 176 mesures visant à modifier considérablement le modèle économique de l’île, le département d’Etat américain a dénoncé vendredi un « écran de fumée ».",
-          "url": "https://www.lemonde.fr/international/article/2026/06/20/washington-juge-superficiel-le-vaste-plan-de-reformes-economiques-annonce-par-cuba_6705022_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-19T22:19:11.000Z",
-          "fetchedAt": "2026-06-20T04:43:23.395Z"
-        },
-        {
-          "id": "2026-06-19-6bef25f4",
-          "title": "EN DIRECT, guerre au Moyen-Orient : le président libanais plaide auprès du secrétaire d’Etat américain pour un « cessez-le-feu global ». Retrouvez les informations du 12 au 19 juin.",
-          "description": "Joseph Aoun a souligné vendredi, lors d’un entretien téléphonique avec Marco Rubio, qu’un « cessez-le-feu global » constituait une « base fondamentale » pour avancer dans les négociations directes avec Israël.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/19/en-direct-guerre-au-moyen-orient-le-president-libanais-plaide-aupres-du-secretaire-d-etat-americain-pour-un-cessez-le-feu-global_6701050_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-19T19:22:39.000Z",
-          "fetchedAt": "2026-06-20T04:43:23.395Z"
-        },
-        {
-          "id": "2026-06-19-c5c73349",
-          "title": "Équateur : le président Noboa appelle à l’aide les États-Unis",
-          "description": "Face à l’échec de sa stratégie sécuritaire contre les gangs, le président équatorien, Daniel Noboa, a signé un nouveau décret de “guerre interne” qui lui permet d’accorder l’immunité aux forces étrangères sur son territoire.",
-          "url": "https://www.courrierinternational.com/article/securite-equateur-le-president-noboa-appelle-a-l-aide-les-etats-unis_245456",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/18/0/0/5658/3772/1200/630/60/0/595079b_ftp-1-aeysc7tn0osl-2026-06-18t232108z-2032161729-rc2mwlabby84-rtrmadp-3-ecuador-military.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-19T13:32:07.000Z",
-          "fetchedAt": "2026-06-20T04:43:24.419Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "Au Niger, l'armée enterre ses morts après une semaine marquée par plusieurs atta",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-20-8129638c",
-          "title": "Au Niger, l'armée enterre ses morts après une semaine marquée par plusieurs attaques terroristes",
-          "description": "Deux cérémonies funèbres ont eu lieu vendredi 19 juin après une série d'attaque particulièrement meurtrières au Niger : la première contre l'aéroport de Niamey, et la deuxième dans la région de Tillabéry où une cinquantaine de soldats ont été tués par des jihadistes.",
-          "url": "https://www.rfi.fr/fr/afrique/20260620-au-niger-l-arm%C3%A9e-enterre-ses-morts-apr%C3%A8s-une-semaine-marqu%C3%A9e-par-plusieurs-attaques-terroristes",
-          "imageUrl": "https://s.rfi.fr/media/display/2159fc1a-6c5a-11f1-b030-005056a97e36/w:1024/p:16x9/2026-06-19T041459Z-311690609-RC2RWLA8S6JE-RTRMADP-3-NIGER-SECURITY.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-20T03:44:34.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.806Z"
-        },
-        {
-          "id": "2026-06-20-a9fe4b65",
-          "title": "L'Observatoire du Barreau de Côte d'Ivoire apporte une assistance juridique aux familles délogées de Campement Koumassi",
-          "description": "Afin d'aider les familles dont les logements ont été détruits dans le quartier Campement de Koumassi, à Abidjan, le 3 juin dernier, à demander des réparations, l’Observatoire du Barreau de Côte d’Ivoire pour les droits humains leur propose une assistance juridique depuis ce vendredi 19 juin.",
-          "url": "https://www.rfi.fr/fr/afrique/20260620-l-observatoire-du-barreau-de-c%C3%B4te-d-ivoire-apporte-une-assistance-juridique-aux-familles-d%C3%A9log%C3%A9es-de-campement-koumassi",
-          "imageUrl": "https://s.rfi.fr/media/display/4a6e264e-6c37-11f1-873c-005056bf30b7/w:1024/p:16x9/20260619-160302.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-20T03:04:13.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.806Z"
-        },
-        {
-          "id": "2026-06-20-4264ef9f",
-          "title": "Un manuscrit inédit de Mozart découvert à la Bibliothèque nationale de France",
-          "description": "Un cahier de musique autographe de Mozart, comprenant des exercices et sept pièces pour flûte et harpe, a été découvert dans les collections de la Bibliothèque nationale de France (BnF). Les œuvres ont été composées en 1778, lors du dernier séjour à Paris du génie autrichien, alors âgé de 22 ans.",
-          "url": "https://www.courrierinternational.com/article/musique-un-manuscrit-inedit-de-mozart-decouvert-a-la-bibliotheque-nationale-de-france_245471",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/19/1/0/6848/4565/1200/630/60/0/e853fcd_ftp-1-9a3vmnqnd0ad-afp-b78p2t6.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-20T01:04:09.000Z",
-          "fetchedAt": "2026-06-20T04:43:24.419Z"
-        },
-        {
-          "id": "2026-06-20-889dec57",
-          "title": "Mondial 2026: vainqueur de l'Écosse, le Maroc fait un grand pas vers les 16es de finale",
-          "description": "Après un match nul prometteur contre le Brésil (1-1), les Lions de l’Atlas voulaient confirmer leur solidité et décrocher une première victoire dans ce Mondial devant leurs supporters venus en nombre à Foxborough. Ils se sont imposés face à l'Écosse grâce à un but d'Ismael Saibari (1-0).",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20260620-mondial-2026-le-maroc-s-offre-sa-premi%C3%A8re-victoire-aux-%C3%A9tats-unis-face-%C3%A0-l-%C3%A9cosse",
-          "imageUrl": "https://s.rfi.fr/media/display/4992f762-6c42-11f1-aa36-005056bfb2b6/w:1024/p:16x9/AP26171012086824.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-20T00:01:06.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.806Z"
-        },
-        {
-          "id": "2026-06-19-312541e9",
-          "title": "Esclavage: au sommet d'Accra sur les réparations, les participants affichent un front uni et adoptent une feuille de route",
-          "description": "Réunis du 17 au 19 juin dans la capitale ghanéenne, dirigeants africains, représentants de la diaspora et responsables politiques caribéens ont adopté la déclaration Accra Next Steps destinée à faire avancer les revendications de justice réparatrice liées à l'esclavage et au colonialisme. Mais au-delà du texte, les organisateurs mettent aussi et peut-être surtout en avant le rapprochement inédit entre l'Afrique, les Caraïbes et la diaspora que le sommet a permis.",
-          "url": "https://www.rfi.fr/fr/afrique/20260619-%C3%A0-accra-un-sommet-sur-les-r%C3%A9parations-adopte-sa-feuille-de-route-et-affiche-un-front-communationau",
-          "imageUrl": "https://s.rfi.fr/media/display/877c2bf2-6c29-11f1-ab07-005056bf30b7/w:1024/p:16x9/AP26170726373073.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-19T22:34:38.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.806Z"
-        },
-        {
-          "id": "2026-06-19-b84d40cc",
-          "title": "Conseil européen: les Vingt-Sept toujours divisés sur le budget, un accord espéré d'ici la fin de l'année",
-          "description": "Les dirigeants des 27 États membres de l'Union européenne ont discuté, vendredi 19 juin, du futur budget pluriannuel de l'organisation, qui doit couvrir une période de sept ans. Un budget de près de 2 000 milliards d'euros, au cœur de fortes tensions entre les pays qui souhaitent réduire les dépenses et ceux qui veulent les maintenir, et même les accroître.",
-          "url": "https://www.rfi.fr/fr/europe/20260619-conseil-europ%C3%A9en-les-vingt-sept-toujours-divis%C3%A9s-sur-le-budget-un-accord-esp%C3%A9r%C3%A9-d-ici-la-fin-de-l-ann%C3%A9e",
-          "imageUrl": "https://s.rfi.fr/media/display/ceee650e-6bcf-11f1-b790-005056a90284/w:1024/p:16x9/AP26170348354877.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-19T19:06:40.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.806Z"
+          "publishedAt": "2026-06-20T17:52:12.000Z",
+          "fetchedAt": "2026-06-21T05:21:30.361Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Fanny Rebillard, musicologue : « La musique de jeu vidéo a très tôt fait l’objet",
+      "topic": "« Faire exister un pays impossible à filmer » : la réalisatrice franco-libanaise",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-21-33141cd0",
+          "title": "« Faire exister un pays impossible à filmer » : la réalisatrice franco-libanaise Danielle Arbid importe Beyrouth à Paris dans « Seuls les rebelles »",
+          "description": "Alors que Beyrouth subissait encore les frappes de l’armée israélienne le 14 juin, la cinéaste franco-libanaise préparait la sortie de son dernier film « Seuls les rebelles », en salle le 24 juin, consacré à la ville de son enfance. Empêchée de se déplacer sur place en raison de la guerre, elle a tourné son film à Paris en utilisant des images de la capitale libanaise réalisées par une équipe à distance.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/06/21/faire-exister-un-pays-impossible-a-filmer-la-realisatrice-franco-libanaise-danielle-arbid-importe-beyrouth-a-paris-dans-seuls-les-rebelles_6705489_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-21T05:00:10.000Z",
+          "fetchedAt": "2026-06-21T05:21:30.361Z"
+        },
+        {
+          "id": "2026-06-20-5b36c48e",
+          "title": "France: Claude Guillemot, cofondateur d'Ubisoft, est mort dans un accident d'avion",
+          "description": "Claude Guillemot, l'un des cinq frères ayant créé le géant français du jeu vidéo Ubisoft, est décédé dans l'accident d'un avion de tourisme ayant fait deux morts près de La Baule (Loire-Atlantique), a indiqué samedi 20 juin la société.",
+          "url": "https://www.rfi.fr/fr/france/20260620-france-claude-guillemot-cofondateur-d-ubisoft-est-mort-dans-un-accident-d-avion",
+          "imageUrl": "https://s.rfi.fr/media/display/813219ea-6cac-11f1-847b-005056a97e36/w:1024/p:16x9/AP17307513980251.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-20T13:50:18.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.380Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "« Donald Trump demeure le seul dirigeant du monde à avoir reconnu l’annexion par",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-21-2861d5e5",
+          "title": "« Donald Trump demeure le seul dirigeant du monde à avoir reconnu l’annexion par Israël du Golan syrien »",
+          "description": "L’importance stratégique du plateau syrien du Golan, annexé par Israël depuis 1981, s’est encore accrue depuis le renversement, en 2024, de Bachar Al-Assad.",
+          "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/06/21/donald-trump-demeure-le-seul-dirigeant-du-monde-a-avoir-reconnu-l-annexion-par-israel-du-golan-syrien_6705488_6116995.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-21T05:00:07.000Z",
+          "fetchedAt": "2026-06-21T05:21:30.361Z"
+        },
+        {
+          "id": "2026-06-21-a8c7bb1c",
+          "title": "Israël-États-Unis: des intérêts militaires au-delà des divergences politiques",
+          "description": "Si des tensions sont apparues ces derniers jours entre les deux alliés en raison de la signature d'un protocole d'accord entre les États-Unis et l'Iran pour mettre fin à la guerre au Moyen-Orient, les intérêts militaires qu'ils partagent demeurent importants.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260621-isra%C3%ABl-%C3%A9tats-unis-des-int%C3%A9r%C3%AAts-militaires-au-del%C3%A0-des-divergences-politiques",
+          "imageUrl": "https://s.rfi.fr/media/display/6fefe53e-6cef-11f1-aef8-005056bf30b7/w:1024/p:16x9/AP21298378548027-2.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-21T02:49:32.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.380Z"
+        },
+        {
+          "id": "2026-06-20-40e1be1e",
+          "title": "Donald Trump et Giorgia Meloni continuent de s’invectiver par réseaux sociaux interposés : « Ces attaques constantes et non provoquées sont insensées »",
+          "description": "Le président américain reproche régulièrement à la présidente du conseil italien le fait que les avions de combat américains engagés dans la guerre au Moyen-Orient n’ont pu atterrir sur une base en Sicile.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/20/donald-trump-et-giorgia-meloni-continuent-de-s-invectiver-par-reseaux-sociaux-interposes-ces-attaques-constantes-et-non-provoquees-sont-insensees_6705320_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-20T15:57:48.000Z",
+          "fetchedAt": "2026-06-21T05:21:30.361Z"
+        },
+        {
+          "id": "2026-06-19-f29fe4cd",
+          "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+          "description": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
+          "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/75a7/live/20681b30-6b2d-11f1-b1db-af71d47507d6.png",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-19T05:33:59.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.342Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "Pourquoi l’ego trip de James Gunn risque de mettre en danger l’univers DC au cin",
       "category": "tech",
       "importance": 10,
       "articles": [
+        {
+          "id": "2026-06-20-b944a948",
+          "title": "Pourquoi l’ego trip de James Gunn risque de mettre en danger l’univers DC au cinéma",
+          "description": "Le syndrome de l'égo surdimensionné a encore frappé. Alors que l'univers DC a désespérément besoin de se lancer autour de ses piliers historiques, James Gunn vient de confirmer la mise en chantier d'une série centrée sur… Jimmy Olsen et Gorilla Grodd. Un choix absurde qui illustre l'obstination presque narcissique d’un réalisateur persuadé qu'il possède une formule magique.",
+          "url": "https://www.numerama.com/pop-culture/2279605-pourquoi-lego-trip-de-james-gunn-risque-de-mettre-en-danger-lunivers-dc-au-cinema.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/capture-decran-2026-06-18-a-171914.jpg?resize=1600,900&key=8092e3ae&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-20T18:30:00.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.574Z"
+        },
+        {
+          "id": "2026-06-20-f1d56581",
+          "title": "Capcom recrée un lieu de Kyoto interdit et considéré comme un passage vers les morts dans Onimusha: Way of the Sword",
+          "description": "Les développeurs d’Onimusha: Way of the Sword ont obtenu l’aide de la ville de Kyoto pour intégrer un lieu légendaire au jeu, considéré comme une porte vers le monde des morts et fermé au public.",
+          "url": "https://www.numerama.com/pop-culture/2279419-pour-son-prochain-jeu-capcom-recree-un-lieu-de-kyoto-interdit-et-considere-comme-un-passage-vers-les-morts.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/onimusha-way-of-the-sword.jpg?resize=1600,900&key=ab1c8730&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-20T16:32:00.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.574Z"
+        },
+        {
+          "id": "2026-06-20-c16920a0",
+          "title": "Claude Guillemot, cofondateur d’Ubisoft, est mort dans un crash d’avion à La Baule, selon le géant français des jeux vidéo",
+          "description": "L’homme de 69 ans était à bord d’un petit avion bimoteur qui s’est écrasé dans un champ près de l’aérodrome de La Baule, vendredi, faisant deux morts.",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/06/20/claude-guillemot-cofondateur-d-ubisoft-est-mort-dans-un-crash-d-avion-a-la-baule-selon-le-geant-francais-des-jeux-video_6705306_3382.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-06-20T12:59:19.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.450Z"
+        },
+        {
+          "id": "2026-06-20-df59bd5c",
+          "title": "Emmanuel Macron appelle à un sursaut européen pour ne pas être « consommateurs d’une technologie faite par d’autres »",
+          "description": "Emmanuel Macron a clôturé une semaine très dense pour la tech française par un discours dédié aux 10 ans de VivaTech. Coupure de Claude Fable en Europe, déploiement de l'Assistant IA dans la fonction publique, nouvel investissement français et appel à développer des alternatives aux États-Unis et à la Chine, notamment en s'appuyant sur l'open source… Le président de la République donne un cahier des charges à quelques mois de son départ.",
+          "url": "https://www.numerama.com/tech/2281193-on-sera-des-consommateurs-dune-technologie-faite-par-dautres-emmanuel-macron-appelle-a-un-sursaut-europeen.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/macron-tech.jpg?resize=1600,900&key=ca1cc1c1&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-20T09:41:39.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.574Z"
+        },
+        {
+          "id": "2026-06-20-4bb5c6a7",
+          "title": "GTA 6 ouvre ses précos, le nouveau Spielberg est un chef d’oeuvre et Shrek 5 déçoit – le récap’ pop culture de la semaine",
+          "description": "C'est le rendez-vous incontournable de votre fin de semaine. Entre excitation maximale et déception visuelle, la pop culture a vibré au rythme de grosses annonces ces derniers jours. Alors que Rockstar lâche enfin la date d'ouverture des précommandes pour le très attendu GTA 6, Steven Spielberg met tout le monde d'accord avec son nouveau chef-d'œuvre de science-fiction, Disclosure Day. Pendant ce temps, le relooking graphique de Shrek 5 s'offre une première bande-annonce et s'attire déjà les foudres des fans. On fait le tri dans l'actualité qu'il ne fallait pas manquer.",
+          "url": "https://www.numerama.com/pop-culture/2280771-gta-6-ouvre-ses-precos-le-nouveau-spielberg-est-un-chef-doeuvre-et-shrek-5-decoit-le-recap-pop-culture-de-la-semaine.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2022/09/gta-6-1.jpg?resize=1600,900&key=b1130eb8&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-20T05:02:00.000Z",
+          "fetchedAt": "2026-06-21T05:21:46.574Z"
+        },
         {
           "id": "2026-06-20-946e3a41",
           "title": "Fanny Rebillard, musicologue : « La musique de jeu vidéo a très tôt fait l’objet d’une appropriation collective “par le bas” »",
@@ -195,92 +228,26 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-06-20T03:30:05.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.874Z"
-        },
-        {
-          "id": "2026-06-19-f61e5791",
-          "title": "Le jeu Attack on Titan 3 a un argument de taille pour séduire les fans",
-          "description": "Lors d’un live organisé le 19 juin 2026, MAPPA a annoncé son implication dans Attack on Titan 3 en signant la séquence d’ouverture du jeu. De quoi faire monter encore un peu plus l’attente avant sa présentation prévue le 2 juillet.",
-          "url": "https://www.numerama.com/pop-culture/2280999-le-jeu-attack-on-titan-3-a-un-argument-de-taille-pour-seduire-les-fans.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/1-24.jpg?resize=1600,900&key=0dc229d3&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-19T17:30:00.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.898Z"
-        },
-        {
-          "id": "2026-06-19-742eef41",
-          "title": "Avant le rachat par Disney, George Lucas préparait une série sur la trajectoire de l’Empereur Palpatine",
-          "description": "Alors que la figure maléfique de l'empereur Palpatine a déjà hanté Star Wars à de multiples reprises, de récentes révélations confirment qu'un thriller politique en prise de vues réelles centré sur Dark Sidious avait été imaginé par George Lucas lui-même.",
-          "url": "https://www.numerama.com/pop-culture/2279273-avant-le-rachat-par-disney-george-lucas-preparait-une-serie-sur-la-trajectoire-de-lempereur-palpatine.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2024/03/palpatine-star-wars.jpg?resize=1600,900&key=bcb5e539&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-19T17:15:57.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.898Z"
-        },
-        {
-          "id": "2026-06-19-3c608614",
-          "title": "IA : les élèves de 2de auront une heure d’enseignement par semaine à partir de la rentrée de 2027",
-          "description": "En février 2025, Elisabeth Borne, ministre de l’éducation, avait annoncé que collégiens et lycéens bénéficieraient d’une formation en ligne à l’IA à la rentrée suivante. Mais, de source syndicale, cette formation a été peu mise en œuvre.",
-          "url": "https://www.lemonde.fr/societe/article/2026/06/19/une-heure-hebdomadaire-d-enseignement-a-l-ia-en-2de-des-la-rentree-de-2027-annonce-sebastien-lecornu_6705010_3224.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-06-19T17:03:54.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.874Z"
-        },
-        {
-          "id": "2026-06-19-e8509f94",
-          "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-          "description": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
-          "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/relativity-1152x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-06-19T13:36:53.000Z",
-          "fetchedAt": "2026-06-20T04:43:40.985Z"
-        },
-        {
-          "id": "2026-06-19-dd5a6ef7",
-          "title": "Xiaomi lance une bataille juridique contre un importateur allemand",
-          "description": "Alors que la marque chinoise prévoit son arrivée sur le marché européen en 2027, un importateur allemand pourrait lui couper l’herbe sous le pied avec des volumes qui agacent le constructeur. Xiaomi a décidé de réagir.",
-          "url": "https://www.numerama.com/vroom/2280589-xiaomi-lance-une-bataille-juridique-contre-un-importateur-allemand.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/import-xiaomi-su7ultra-2.jpg?resize=1600,900&key=9e4fc16a&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-19T12:21:00.000Z",
-          "fetchedAt": "2026-06-20T04:43:33.898Z"
+          "fetchedAt": "2026-06-21T05:21:46.450Z"
         }
       ]
     },
     {
-      "id": "cluster-13",
-      "topic": "Maisons du monde annonce une perte nette de 406 millions d’euros en 2025 et la s",
+      "id": "cluster-2",
+      "topic": "Maxi Zoo, leader européen des magasins pour animaux de compagnie, part à la conq",
       "category": "eco",
-      "importance": 9,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-06-19-4e4d1c3a",
-          "title": "Maisons du monde annonce une perte nette de 406 millions d’euros en 2025 et la signature d’un plan de sauvetage avec deux fonds britanniques",
-          "description": "La chaîne de meubles et de décoration avait reporté mi-avril la publication de ses résultats annuels, ce qu’elle justifiait par des discussions en cours pour trouver de nouveaux investisseurs.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/19/maisons-du-monde-annonce-une-perte-nette-de-406-millions-d-euros-en-2025-et-la-signature-d-un-plan-de-sauvetage-avec-deux-fonds-britanniques_6704945_3234.html",
+          "id": "2026-06-21-8fe63d50",
+          "title": "Maxi Zoo, leader européen des magasins pour animaux de compagnie, part à la conquête des centres-villes",
+          "description": "La chaîne d’alimentation et d’accessoires pour animaux, qui appartient au groupe allemand Fressnapf, prévoit d’ouvrir 65 magasins en France en 2026.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/21/maxi-zoo-leader-europeen-des-magasins-pour-animaux-de-compagnie-part-a-la-conquete-des-centres-villes_6705435_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-06-19T10:05:45.000Z",
-          "fetchedAt": "2026-06-20T04:43:40.897Z"
-        },
-        {
-          "id": "2026-06-18-7f44df47",
-          "title": "CrossCountry ranked Britain's worst train operator",
-          "description": "Transport Focus asks it to reduce delays and provide better information during disruption.",
-          "url": "https://www.bbc.com/news/articles/c36y5ezr0k7o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bf21/live/b4873c50-6b0b-11f1-8546-8f19e4fe30f4.png",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-06-18T15:25:26.000Z",
-          "fetchedAt": "2026-06-20T04:43:43.106Z"
+          "publishedAt": "2026-06-21T03:00:05.000Z",
+          "fetchedAt": "2026-06-21T05:21:57.826Z"
         }
       ]
     }
