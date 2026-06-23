@@ -1,352 +1,264 @@
 {
-  "generatedAt": "2026-06-22T05:38:33.827Z",
+  "generatedAt": "2026-06-23T04:36:41.603Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "EN DIRECT, guerre en Ukraine : les quatre aéroports de Moscou brièvement fermés ",
+      "topic": "EN DIRECT - Guerre au Moyen-Orient: l'Iran affirme vouloir garder le contrôle du",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-22-2209fc9b",
-          "title": "EN DIRECT, guerre en Ukraine : les quatre aéroports de Moscou brièvement fermés ; la Russie a dit avoir abattu plusieurs dizaines de drones ukrainiens",
-          "description": "Dans une série de messages sur Telegram, le maire de la capitale russe, Sergueï Sobianine, a dénombré durant la nuit 59 drones abattus par les défenses anti-aériennes, évoquant des essaims volant en direction de la ville.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/22/en-direct-guerre-en-ukraine-les-quatre-aeroports-de-moscou-brievement-fermes-la-russie-a-dit-avoir-abattu-plusieurs-dizaines-de-drones-ukrainiens_6706390_3210.html",
+          "id": "2026-06-23-91e08a58",
+          "title": "EN DIRECT - Guerre au Moyen-Orient: l'Iran affirme vouloir garder le contrôle du détroit Ormuz",
+          "description": "L'Iran a répété mardi 23 juin vouloir garder le contrôle sur le détroit d'Ormuz, malgré l'annonce par Washington d'une levée des sanctions sur le pétrole iranien dans le cadre des pourparlers pour une fin à la guerre au Moyen-Orient. Un premier cycle des pourparlers de paix entre les États-Unis et l'Iran ⁠s'est achevé lundi 22 juin ​en Suisse, après une ouverture tendue marquée par des menaces de part et d'autre. Le vice-président américain J.D. Vance a jugé que « des bases solides pour un accord final » avaient été posées à cette occasion.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260623-en-direct-guerre-au-moyen-orient-l-iran-affirme-vouloir-garder-le-contr%C3%B4le-du-d%C3%A9troit-ormuz",
+          "imageUrl": "https://s.rfi.fr/media/display/610b319c-6eb9-11f1-a98a-005056a97e36/w:1024/p:16x9/2026-06-21T101723Z-1233686530-RC2VXLATYG9S-RTRMADP-3-IRAN-CRISIS.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-23T04:16:28.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.573Z"
+        },
+        {
+          "id": "2026-06-23-45c756f9",
+          "title": "EN DIRECT, guerre au Moyen-Orient : « l’Iran administrera le détroit d’Ormuz » à l’issue du conflit, affirme le négociateur iranien, qui se félicite des « belles réussites » obtenues par son pays dans les négociations",
+          "description": "« Tout le monde doit savoir que l’administration du détroit d’Ormuz ne redeviendra jamais ce qu’elle était avant la guerre », a déclaré Mohammad Bagher Ghalibaf lundi.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/23/en-direct-guerre-au-moyen-orient-l-iran-administrera-le-detroit-d-ormuz-a-l-issue-du-conflit-affirme-le-negociateur-iranien-qui-se-felicite-des-belles-reussites-obtenues-par-son-pays-dans-les-negociations_6705272_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-22T05:29:54.000Z",
-          "fetchedAt": "2026-06-22T05:34:33.403Z"
+          "publishedAt": "2026-06-23T03:44:09.000Z",
+          "fetchedAt": "2026-06-23T04:32:40.868Z"
         },
         {
-          "id": "2026-06-21-5d51a0b8",
-          "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-          "description": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
-          "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5cad/live/dd9b7ea0-6bf9-11f1-8546-8f19e4fe30f4.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-21T23:57:59.000Z",
-          "fetchedAt": "2026-06-22T05:34:48.833Z"
-        },
-        {
-          "id": "2026-06-21-7b135c05",
-          "title": "Guerre en Ukraine : des coupures d’électricité par roulement mises en place en Crimée annexée après des attaques ukrainiennes. Retrouvez les informations du 14 au 21 juin.",
-          "description": "« Nos frappes à longue portée ont visé la logistique militaire des occupants, l’industrie pétrolière et la défense aérienne », a confirmé dimanche le président ukrainien, Volodymyr Zelensky, sur le réseau social X.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/21/en-direct-guerre-en-ukraine-des-coupures-d-electricite-par-roulement-mises-en-place-en-crimee-annexee-apres-des-attaques-ukrainiennes_6702230_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-21T19:35:49.000Z",
-          "fetchedAt": "2026-06-22T05:34:33.403Z"
-        },
-        {
-          "id": "2026-06-21-c276bff6",
-          "title": "Gaël Veyssière: \"la Russie ne montre aucune volonté de dialogue sérieux sur l'Ukraine\"",
-          "description": "Plus de 4 ans après le début la guerre en Ukraine, le conflit se poursuit sans perspective de règlement. La Russie mène même depuis plusieurs semaines des frappes massives sur le pays, parmi les plus dures jamais réalisées. Source de réconfort toutefois pour Kiev: le virage inattendu de Donald Trump en faveur de l'Ukraine au sommet du G7 cette semaine. L'ambassadeur de France en Ukraine, Gaël Veyssière, était l'Invité d'Au Cœur de l'Info, en direct de Kiev.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260621-ga%C3%ABl-veyssi%C3%A8re-la-russie-ne-montre-aucune-volont%C3%A9-de-dialogue-s%C3%A9rieux-sur-l-ukraine",
-          "imageUrl": "https://s.france24.com/media/display/5c51a736-6da5-11f1-8170-005056a97e36/w:1024/p:16x9/vignette-achren-gaelle-veyssiere.jpg",
+          "id": "2026-06-23-a4653e58",
+          "title": "En direct : le négociateur en chef iranien affirme qu'Ormuz sera administré par Téhéran",
+          "description": "Téhéran a répété mardi vouloir garder le contrôle sur le détroit d'Ormuz, malgré l'annonce par Washington d'une levée des sanctions sur le pétrole iranien dans le cadre des pourparlers pour une fin à la guerre au Moyen-Orient. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260623-en-direct-iran-detroit-dormuz-etats-unis-petrole-sanctions-liban-israel",
+          "imageUrl": "https://s.france24.com/media/display/0ebe1486-6eaf-11f1-ae39-005056a90284/w:1024/p:16x9/AP26171816388962.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-21T19:23:10.000Z",
-          "fetchedAt": "2026-06-22T05:34:33.315Z"
+          "publishedAt": "2026-06-23T03:02:41.000Z",
+          "fetchedAt": "2026-06-23T04:32:40.934Z"
         },
         {
-          "id": "2026-06-21-804dc53d",
-          "title": "En Crimée occupée, la vente de carburant suspendue après des frappes ukrainiennes",
-          "description": "La vente de carburant aux particuliers et aux entreprises est interdite depuis dimanche 21 juin au matin dans les stations-service de Crimée. Une mesure prise après des frappes ukrainiennes ayant visé la logistique militaire, l'industrie pétrolière et la défense aérienne russes dans la péninsule annexée par Moscou en 2014.",
-          "url": "https://www.rfi.fr/fr/europe/20260621-en-crim%C3%A9e-occup%C3%A9e-la-vente-de-carburant-suspendue-apr%C3%A8s-des-frappes-ukrainiennes",
-          "imageUrl": "https://s.rfi.fr/media/display/7b2614de-6d79-11f1-bd08-005056bf30b7/w:1024/p:16x9/AP26163433722144.jpg",
+          "id": "2026-06-23-7c300e2b",
+          "title": "Nucléaire iranien: Téhéran tempère les annonces de J.D. Vance sur le retour des inspecteurs de l'AIEA",
+          "description": "L'Iran a accepté de laisser revenir les inspecteurs de l'Agence internationale de l'énergie atomique (AIEA) sur ses sites nucléaires, a affirmé lundi 22 juin le vice-président américain J.D. Vance. Si, de son côté, la République islamique a effectivement confirmé sa volonté de coopérer avec l'agence onusienne, celle-ci minimise toutefois la portée de cette annonce, rappelant notamment que cette coopération reste encadrée par les autorités politiques iraniennes.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260623-nucl%C3%A9aire-iranien-t%C3%A9h%C3%A9ran-temp%C3%A8re-les-annonces-de-j-d-vance-sur-le-retour-des-inspecteurs-de-l-aiea",
+          "imageUrl": "https://s.rfi.fr/media/display/284a8a7e-6e87-11f1-ab5c-005056a97e36/w:1024/p:16x9/2026-06-08T113105Z-1478522535-RC2NPLARHSJ0-RTRMADP-3-IRAN-NUCLEAR-IAEA.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-21T18:56:08.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.089Z"
-        },
-        {
-          "id": "2026-06-21-5ab5e640",
-          "title": "Comment l’Ukraine organise l’étranglement logistique de la Crimée occupée par la Russie",
-          "description": "Grâce à une nouvelle génération de drones, Kiev mène une campagne méthodique contre les infrastructures routières, ferroviaires et énergétiques de la péninsule annexée par Moscou en 2014. La Russie tente dans l’urgence d’adapter ses défenses.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/21/comment-l-ukraine-organise-l-etranglement-logistique-de-la-crimee-occupee-par-la-russie_6706119_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-21T18:19:38.000Z",
-          "fetchedAt": "2026-06-22T05:34:33.403Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Réunion de l'Organisation des États américains au Panama: l'ombre de Donald Trum",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-22-a44b9378",
-          "title": "Réunion de l'Organisation des États américains au Panama: l'ombre de Donald Trump omniprésente",
-          "description": "Les 34 membres actifs de l'Organisation des États américains (OEA) se réunissent pendant trois jours au Panama à partir de ce lundi 22 juin. La sécurité régionale, les migrations ainsi que les situations en Haïti, au Venezuela et à Cuba figurent parmi les principaux sujets à l'ordre du jour. La position des États-Unis est particulièrement attendue, dans un contexte marqué par les prises de position de Donald Trump sur la région.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260622-r%C3%A9union-de-l-organisation-des-%C3%A9tats-am%C3%A9ricains-au-panama-l-ombre-de-donald-trump-omnipr%C3%A9sente",
-          "imageUrl": "https://s.rfi.fr/media/display/716a189a-6dbb-11f1-880b-005056bf30b7/w:1024/p:16x9/2026-06-17T222718Z-25235841-RC2SVLAPA8AR-RTRMADP-3-USA-OAS.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-22T05:13:35.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.089Z"
-        },
-        {
-          "id": "2026-06-22-0563a6d1",
-          "title": "Entre Meloni et Trump, un divorce à l'italienne",
-          "description": "A la Une de la presse, ce lundi 22 juin, le divorce entre Girogia Meloni et Donald Trump. La démission annoncée du Premier ministre britannique Keir Starmer, presque 10 ans jour jour après le référendum sur le Brexit. Etl’entrée, demain, au Panthéon, de l’historien et résistant Marc Bloch et de son épouse, Simonne Vidal.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260622-entre-meloni-et-trump-un-divorce-%C3%A0-l-italienne",
-          "imageUrl": "https://s.france24.com/media/display/bdcafd00-6df5-11f1-925e-005056a90284/w:1024/p:16x9/2-LIBERO.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-22T04:51:24.000Z",
-          "fetchedAt": "2026-06-22T05:34:33.315Z"
-        },
-        {
-          "id": "2026-06-22-1e3fdc8e",
-          "title": "« Le blocage d’Anthropic, pour les Etats-Unis, est une arme de dernier recours, convoquée faute de doctrine »",
-          "description": "L’administration américaine vient d’ordonner au géant de l’IA de couper l’accès de tout étranger à ses modèles de langage les plus avancés. Ce geste, plus qu’un acte de force ou de souveraineté, trahit l’incapacité de Washington à contrôler cette technologie, estime Stéphane Lauer, éditorialiste au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/06/22/le-blocage-d-anthropic-pour-les-etats-unis-est-une-arme-de-dernier-recours-convoquee-faute-de-doctrine_6706423_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-22T04:00:02.000Z",
-          "fetchedAt": "2026-06-22T05:34:33.403Z"
-        },
-        {
-          "id": "2026-06-22-e222b054",
-          "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-          "description": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
-          "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7b28/live/3c9a52b0-6dde-11f1-bc2b-a3cafe1dcf78.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-22T03:31:40.000Z",
-          "fetchedAt": "2026-06-22T05:34:48.833Z"
-        },
-        {
-          "id": "2026-06-22-bec852b5",
-          "title": "«Du poison dans votre café»: un rapport alerte sur l’usage massif de pesticides dans la production mondiale",
-          "description": "Si les résidus retrouvés dans les tasses des consommateurs suscitent des interrogations, les auteurs du document mettent surtout en lumière les conséquences sanitaires et environnementales pour les millions de travailleurs qui cultivent l’une des boissons les plus consommées au monde.",
-          "url": "https://www.rfi.fr/fr/environnement/20260622-du-poison-dans-votre-caf%C3%A9-un-rapport-alerte-sur-l-usage-massif-de-pesticides-dans-la-production-mondiale",
-          "imageUrl": "https://s.rfi.fr/media/display/2441375e-6d4a-11f1-939b-005056a90284/w:1024/p:16x9/AP25199052256483.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-22T03:18:18.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.089Z"
-        },
-        {
-          "id": "2026-06-21-bf951e58",
-          "title": "Pour les Américaines, quitter les États-Unis, “c’est comme respirer de nouveau”",
-          "description": "Jamais autant de femmes ont cherché à émigrer des États-Unis. Les violences, le recul des droits reproductifs et le climat politique sous Trump accélèrent le phénomène, explique “The Guardian”.",
-          "url": "https://www.courrierinternational.com/article/femmes-pour-les-americaines-quitter-les-etats-unis-c-est-comme-respirer-de-nouveau_244971",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/09/0/0/5616/3744/1200/630/60/0/2e36fe0_upload-1-znh7q5c7inpa-pexels-josh-willink-11499-92730.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-21T08:47:09.000Z",
-          "fetchedAt": "2026-06-22T05:34:34.040Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "First round of US-Iran talks ends with 'encouraging progress', mediators say",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-22-496bf7ef",
-          "title": "First round of US-Iran talks ends with 'encouraging progress', mediators say",
-          "description": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
-          "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/068d/live/1ae9c670-6de6-11f1-80ec-79912f81f3b2.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-22T04:45:26.000Z",
-          "fetchedAt": "2026-06-22T05:34:48.833Z"
-        },
-        {
-          "id": "2026-06-22-a70c44db",
-          "title": "“Progrès encourageants” après la première journée de négociations entre les États-Unis et l’Iran",
-          "description": "Les médiateurs pakistanais et qataris ont fait état lundi de “progrès encourageants”, à l’issue de la première session de négociations en Suisse entre les États-Unis et l’Iran, visant à établir une paix durable au Moyen-Orient. Le camp iranien a salué des progrès “majeurs” sur le dossier libanais.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-progres-encourageants-apres-la-premiere-journee-de-negociations-entre-les-etats-unis-et-l-iran_245482",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/21/0/0/6499/4333/1200/630/60/0/6163059_ftp-1-zw48fmfsg03v-2026-06-21t184456z-1437709678-rc2cylatv8z6-rtrmadp-3-iran-crisis.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-22T04:21:56.000Z",
-          "fetchedAt": "2026-06-22T05:34:34.040Z"
-        },
-        {
-          "id": "2026-06-22-c1ecd700",
-          "title": "En direct : ce qu'il faut retenir de la première session de négociations Iran-États-Unis",
-          "description": "",
-          "url": "https://www.france24.com/fr/moyen-orient/20260622-iran-etats-unis-ce-qu-il-faut-retenir-premiere-session-negociations-suisse-liban-ormuz",
-          "imageUrl": "https://s.france24.com/media/display/de4a742e-6dc9-11f1-8add-005056a90284/w:1280/p:16x9/AP26172535320220.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-22T03:07:33.000Z",
-          "fetchedAt": "2026-06-22T05:34:33.315Z"
-        },
-        {
-          "id": "2026-06-21-d26112eb",
-          "title": "Coupe du monde 2026: la Belgique patine à Los Angeles contre un Iran combatif",
-          "description": "La Belgique, sans mordant, a concédé son deuxième match nul du Mondial 2026 face à l'Iran (0-0), qui n'a pas su profiter des 30 dernières minutes à onze contre dix, dimanche 21 juin à Los Angeles. Les Diables rouges piétinent en ce début de Coupe du monde, tandis que l'Iran reste invaincu.",
-          "url": "https://www.rfi.fr/fr/sports/20260621-coupe-du-monde-2026-la-belgique-patine-%C3%A0-los-angeles-contre-un-iran-combatif-0-0",
-          "imageUrl": "https://s.rfi.fr/media/display/261c03d0-6db6-11f1-9d52-005056a90284/w:1024/p:16x9/27d2236e370b593498bdd4ec0add9eb4c39be01f.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-21T21:14:12.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.089Z"
-        },
-        {
-          "id": "2026-06-21-d6c1a7b1",
-          "title": "Accord Iran-États-Unis : les prochains jours incertains, \"rien n'est linéaire\"",
-          "description": "\"La question libanaise est instrumentalisée des deux côtés, par les Iraniens comme par Israël\", analyse notre invité ce vendredi 19 juin, David Rigoulet-Roze, rédacteur en chef de la revue \"Orients Stratégiques\".",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260621-accord-iran-%C3%A9tats-unis-les-prochains-jours-incertains-rien-n-est-lin%C3%A9aire",
-          "imageUrl": "https://s.france24.com/media/display/ee2e3532-6d7a-11f1-90d6-005056bfb2b6/w:1024/p:16x9/FR-20260619-220543-221159-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-21T14:23:34.000Z",
-          "fetchedAt": "2026-06-22T05:34:33.315Z"
-        },
-        {
-          "id": "2026-06-21-06e224a3",
-          "title": "La Suisse, passage privilégié sur le chemin de la paix entre l'Iran et les États-Unis",
-          "description": "La Suisse est sous l'objectif des caméras du monde entier, ce 21 juin, avec la tenue de premières négociations entre l'Iran et les États-Unis. La Confédération helvétique, qui jouit d'une réputation mondiale en matière diplomatique grâce notamment à son expertise en matière de négociations, a encore été choisie pour la rencontre, qui se déroulera dans le complexe hôtelier de Bürgenstock, près de Lucerne.",
-          "url": "https://www.rfi.fr/fr/europe/20260621-la-suisse-passage-privil%C3%A9gi%C3%A9-sur-le-chemin-de-la-paix-entre-l-iran-et-les-%C3%A9tats-unis",
-          "imageUrl": "https://s.rfi.fr/media/display/4bba1a44-21e3-11ef-ac1b-005056a90284/w:1024/p:16x9/000_34RK6WN.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-21T09:33:13.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.089Z"
+          "publishedAt": "2026-06-23T03:02:26.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.573Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "La Suède bloque le Tesla FSD, la BMW i3 déjà disponible en France et une nouvell",
-      "category": "tech",
+      "topic": "Afrique du Sud: les autorités sur le qui-vive à l'approche d'une grande manifest",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-22-ed2df6e9",
-          "title": "La Suède bloque le Tesla FSD, la BMW i3 déjà disponible en France et une nouvelle Dacia Spring : le récap’ Vroom de la semaine",
-          "description": "À la une sur Vroom la semaine passée : le FSD de Tesla dans le viseur de la Suède, BMW lance sa nouveauté par surprise et Dacia publie la première image de sa nouvelle citadine électrique Spring.",
-          "url": "https://www.numerama.com/vroom/2279635-la-suede-bloque-le-tesla-fsd-la-bmw-i3-deja-disponible-en-france-et-une-nouvelle-dacia-spring-le-recap-vroom-de-la-semaine.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/tesla-model-3-premium-3.jpg?resize=1600,900&key=69f57de1&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-22T04:44:00.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.030Z"
+          "id": "2026-06-23-72bfe7c4",
+          "title": "Afrique du Sud: les autorités sur le qui-vive à l'approche d'une grande manifestation contre l'immigration",
+          "description": "En Afrique du Sud, le pays ne sait pas trop à quoi s’attendre à l’approche du 30 juin, date choisie par des organisations anti-immigration illégale pour réclamer le départ des étrangers en situation irrégulière. Les principaux syndicats du pays ont appelé les travailleurs à ne pas prendre part à ce mouvement et à ne pas déserter leur poste. Différents groupes contestataires promettent des manifestations dans le calme, mais les pouvoirs publics se méfient des possibles débordements.",
+          "url": "https://www.rfi.fr/fr/afrique/20260623-afrique-du-sud-les-autorit%C3%A9s-sur-le-qui-vive-%C3%A0-l-approche-d-une-grande-manifestation-contre-l-immigration",
+          "imageUrl": "https://s.rfi.fr/media/display/185d61e0-6eb9-11f1-bb55-005056a90284/w:1024/p:16x9/000-84GX4AM.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-23T04:12:59.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.573Z"
         },
         {
-          "id": "2026-06-21-2f371270",
-          "title": "Avengers: Doomsday : quels sont les 3 univers Marvel qui s’apprêtent à entrer en collision ?",
-          "description": "Trois univers distincts, le retour de visages cultes et un Docteur Fatalis prêt à tout : le casting pharaonique d’Avengers: Doomsday confirme une collision imminente entre trois univers majeurs de Marvel. Petit guide de survie du carrefour dimensionnel dans lequel le public sera plongé dans quelques mois.",
-          "url": "https://www.numerama.com/pop-culture/2276859-avengers-doomsday-quels-sont-les-3-univers-marvel-qui-sappretent-a-entrer-en-collision.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/07/doomsday-avengers.jpg?resize=1600,900&key=27026cad&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-21T15:00:00.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.030Z"
+          "id": "2026-06-23-97b3b167",
+          "title": "Ebola en RDC: la suspension des vols à l'aéroport de Bunia met à mal le secteur aérien local",
+          "description": "Dans le Nord-Est de la RDC, les autorités restent mobilisées contre l’épidémie d’Ebola. Pour limiter la propagation du virus, le gouvernement avait notamment suspendu les vols à l’aéroport de Bunia, dans l’Ituri. Une mesure sanitaire qui ne laisse désormais place qu’aux vols humanitaires et aux missions spéciales. Mais cette fermeture a aussi des conséquences économiques importantes pour les compagnies aériennes et les opérateurs du secteur.",
+          "url": "https://www.rfi.fr/fr/afrique/20260623-ebola-en-rdc-la-suspension-des-vols-%C3%A0-l-a%C3%A9roport-de-bunia-met-%C3%A0-mal-le-secteur-a%C3%A9rien-local",
+          "imageUrl": "https://s.rfi.fr/media/display/291ef0d2-633f-11f1-ac44-005056a97e36/w:1024/p:16x9/IMG-3649-1.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-23T03:55:07.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.573Z"
         },
         {
-          "id": "2026-06-20-b944a948",
-          "title": "Pourquoi l’ego trip de James Gunn risque de mettre en danger l’univers DC au cinéma",
-          "description": "Le syndrome de l'égo surdimensionné a encore frappé. Alors que l'univers DC a désespérément besoin de se lancer autour de ses piliers historiques, James Gunn vient de confirmer la mise en chantier d'une série centrée sur… Jimmy Olsen et Gorilla Grodd. Un choix absurde qui illustre l'obstination presque narcissique d’un réalisateur persuadé qu'il possède une formule magique.",
-          "url": "https://www.numerama.com/pop-culture/2279605-pourquoi-lego-trip-de-james-gunn-risque-de-mettre-en-danger-lunivers-dc-au-cinema.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/capture-decran-2026-06-18-a-171914.jpg?resize=1600,900&key=8092e3ae&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-20T18:30:00.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.030Z"
+          "id": "2026-06-23-55b3c7a8",
+          "title": "Ouagadougou fait part de son «dégoût» à Bruxelles après l'adoption d'une résolution sur le Burkina Faso par l'Europarlement",
+          "description": "L'ambassadeur de l'Union européenne (UE) au Burkina Faso, Philippe Bronchain, a été convoqué par le chef de la diplomatie burkinabè, Jean-Marie Traoré Karamoko, lundi 22 juin. En cause: la récente adoption par le Parlement européen d'une résolution présentée par un eurodéputé français qui dénonce la « répression de l'espace civique et des libertés fondamentales » dans le pays.",
+          "url": "https://www.rfi.fr/fr/afrique/20260623-ouagadougou-fait-part-de-son-d%C3%A9go%C3%BBt-%C3%A0-bruxelles-apr%C3%A8s-l-adoption-d-une-r%C3%A9solution-sur-le-burkina-faso-par-l-europarlementso",
+          "imageUrl": "https://s.rfi.fr/media/display/8e721688-6e8b-11f1-960f-005056a97e36/w:1024/p:16x9/000-38Z3363.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-23T03:04:34.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.573Z"
         },
         {
-          "id": "2026-06-20-f1d56581",
-          "title": "Capcom recrée un lieu de Kyoto interdit et considéré comme un passage vers les morts dans Onimusha: Way of the Sword",
-          "description": "Les développeurs d’Onimusha: Way of the Sword ont obtenu l’aide de la ville de Kyoto pour intégrer un lieu légendaire au jeu, considéré comme une porte vers le monde des morts et fermé au public.",
-          "url": "https://www.numerama.com/pop-culture/2279419-pour-son-prochain-jeu-capcom-recree-un-lieu-de-kyoto-interdit-et-considere-comme-un-passage-vers-les-morts.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/onimusha-way-of-the-sword.jpg?resize=1600,900&key=ab1c8730&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-20T16:32:00.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.030Z"
-        },
-        {
-          "id": "2026-06-20-84533762",
-          "title": "Fête de la musique 2026 : voici la carte des évènements partout en France",
-          "description": "Vous cherchez où aller pour la Fête de la musique 2026 ? Une carte interactive mise en ligne par le ministère de la Culture permet de trouver les concerts prévus près de chez vous, de filtrer les événements et de préparer votre soirée.",
-          "url": "https://www.numerama.com/pop-culture/2279609-fete-de-la-musique-2026-voici-la-carte-des-evenements.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/1-21.jpg?resize=1600,900&key=59c7c9da&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-20T15:02:00.000Z",
-          "fetchedAt": "2026-06-22T05:34:49.030Z"
-        },
-        {
-          "id": "2026-06-20-c16920a0",
-          "title": "Claude Guillemot, cofondateur d’Ubisoft, est mort dans un crash d’avion à La Baule, selon le géant français des jeux vidéo",
-          "description": "L’homme de 69 ans était à bord d’un petit avion bimoteur qui s’est écrasé dans un champ près de l’aérodrome de La Baule, vendredi, faisant deux morts.",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/06/20/claude-guillemot-cofondateur-d-ubisoft-est-mort-dans-un-crash-d-avion-a-la-baule-selon-le-geant-francais-des-jeux-video_6705306_3382.html",
+          "id": "2026-06-22-9c55a88d",
+          "title": "Violences sexuelles : les délais de prescription allongés dans l’Union européenne, mais l’imprescriptibilité écartée",
+          "description": "En cas de viol ou de prostitution de mineurs, les eurodéputés et les Etats membres se sont accordés pour qu’une action en justice reste recevable jusqu’à trente-deux ans après la majorité de la victime.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/23/violences-sexuelles-les-delais-de-prescription-allonges-dans-l-union-europeenne-mais-l-imprescriptibilite-ecartee_6708375_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-06-20T12:59:19.000Z",
-          "fetchedAt": "2026-06-22T05:34:48.982Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-22T23:46:58.000Z",
+          "fetchedAt": "2026-06-23T04:32:40.868Z"
+        },
+        {
+          "id": "2026-06-22-32ada01d",
+          "title": "L'État d'Espagne verse 2,5 millions d'euros à un ressortissant marocain emprisonné 15 ans injustement",
+          "description": "Une erreur judiciaire retentissante qui conduit à une condamnation de l'État espagnol. La Cour suprême l'a condamné à indemniser Ahmed Tommouhi à hauteur de 2,5 millions d'euros. Ce ressortissant marocain a passé 15 ans en prison pour des faits de viols dans les années 1990, avant d'être acquitté en 2006. Ce n'est que 20 ans plus tard que l'État espagnol est condamné pour dommages et intérêts.",
+          "url": "https://www.rfi.fr/fr/afrique/20260622-espagne-l-%C3%A9tat-verse-2-5-millions-d-euros-%C3%A0-un-ressortissant-marocain-emprisonn%C3%A9-15-ans-injustement",
+          "imageUrl": "https://s.rfi.fr/media/display/0f1c870e-1219-11ea-9b63-005056bf7c53/w:1024/p:16x9/3461778381110fcb9e60533df5791590d4e65b4a.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-22T20:14:15.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.573Z"
+        },
+        {
+          "id": "2026-06-22-761de077",
+          "title": "Taïwan lance des exercices militaires pour se préparer à un risque d'invasion chinoise",
+          "description": "Taïwan a donné, lundi 22 juin, le coup d'envoi de cinq jours d'exercices militaires. L'île, que Pékin souhaite récupérer – par la force si nécessaire –, cherche à se préparer à un risque d'invasion à grande échelle, alors que les incursions maritimes et aériennes chinoises autour de son territoire sont devenues quasi quotidiennes.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20260622-ta%C3%AFwan-lance-des-exercices-militaires-pour-se-pr%C3%A9parer-%C3%A0-un-risque-d-invasion-chinoise",
+          "imageUrl": "https://s.rfi.fr/media/display/34f33570-6e44-11f1-adfa-005056a97e36/w:1024/p:16x9/000-B7UF3XP.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-22T17:32:39.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.573Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "Anton Brender, économiste : « La montée des dettes publiques est le reflet d’un ",
-      "category": "eco",
-      "importance": 9,
+      "id": "cluster-3",
+      "topic": "« Le Brexit a ouvert un boulevard à l’extrême droite au Royaume-Uni et dans le m",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-06-21-4654db22",
-          "title": "Anton Brender, économiste : « La montée des dettes publiques est le reflet d’un dérèglement du capitalisme »",
-          "description": "L’augmentation de l’endettement public n’est pas seulement la conséquence d’une insouciance des Etats : c’est aussi le moyen d’éponger un trop-plein mondial d’épargne, analyse, dans un entretien au « Monde », l’auteur de « Géopolitique de la dette ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/06/21/anton-brender-economiste-la-montee-des-dettes-publiques-est-le-reflet-d-un-dereglement-du-capitalisme_6705449_3232.html",
+          "id": "2026-06-23-4551327b",
+          "title": "« Le Brexit a ouvert un boulevard à l’extrême droite au Royaume-Uni et dans le monde »",
+          "description": "Dix ans après la victoire du oui au référendum britannique sur la sortie de l’Union européenne, l’historien Andrew Knapp revient, dans une tribune au « Monde », sur les effets politiques et économiques aussi destructeurs que durables de ce choix, pour le Royaume-Uni comme pour l’Europe.",
+          "url": "https://www.lemonde.fr/idees/article/2026/06/23/le-brexit-a-ouvert-un-boulevard-a-l-extreme-droite-au-royaume-uni-et-dans-le-monde_6708559_3232.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-21T04:00:23.000Z",
-          "fetchedAt": "2026-06-22T05:34:55.362Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-23T04:00:29.000Z",
+          "fetchedAt": "2026-06-23T04:32:40.868Z"
         },
         {
-          "id": "2026-06-21-63a0d0cd",
-          "title": "La défense européenne est-elle devenue, au nom de la souveraineté, un investissement durable ?",
-          "description": "Dans un contexte d’instabilité géopolitique accrue, le financement de sa défense figure parmi les priorités du Vieux Continent, jusqu’à la considérer comme un investissement durable sous l’impulsion de Bruxelles.",
-          "url": "https://www.lemonde.fr/argent/article/2026/06/21/la-defense-europeenne-est-elle-devenue-au-nom-de-la-souverainete-un-investissement-durable_6705448_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-21T04:00:08.000Z",
-          "fetchedAt": "2026-06-22T05:34:55.362Z"
+          "id": "2026-06-22-62acb9c8",
+          "title": "Instabilité historique au Royaume-Uni : 7 Premiers ministres en 10 ans !",
+          "description": "Avec le départ annoncé du travailliste Keir Starmer, l'instabilité politique se poursuit au Royaume-Uni qui s'apprête à connaître son septième Premier ministre en 10 ans. Un record ! Il a commis des erreurs notables, comme celle de nommer Peter Mandelson ambassadeur à Washington. Il avait été limogé neuf mois plus tard après des révélations sur son amitié avec le criminel sexuel Jeffrey Epstein.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260622-instabilit%C3%A9-historique-au-royaume-uni-7-premiers-ministres-en-10-ans",
+          "imageUrl": "https://s.france24.com/media/display/396170c6-6e86-11f1-9322-005056a97e36/w:1024/p:16x9/FRAN260622-2339-Live-CS2339.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-22T22:12:58.000Z",
+          "fetchedAt": "2026-06-23T04:32:40.934Z"
         },
         {
-          "id": "2026-06-21-f12f878b",
-          "title": "Canicule : « Dans les quartiers populaires, nos jeunes étouffent physiquement et psychologiquement »",
-          "description": "La jeunesse des quartiers populaires subit de plein fouet l’injustice climatique. Dans un entretien au « Monde », Inès Seddiki, fondatrice de l’association Ghett’Up, dénonce une précarité énergétique qui s’aggrave face aux chaleurs extrêmes sur fond d’indifférence institutionnelle et de stigmatisation sociale.",
-          "url": "https://www.lemonde.fr/campus/article/2026/06/21/canicule-dans-les-quartiers-populaires-nos-jeunes-etouffent-physiquement-et-psychologiquement_6705400_4401467.html",
+          "id": "2026-06-22-f6c81c46",
+          "title": "Au Royaume-Uni, après la démission de Keir Starmer, Andy Burnham pourrait être nommé dès la mi-juillet",
+          "description": "Moins de deux ans après sa victoire aux législatives de juillet 2024, le premier ministre britannique a annoncé, lundi 22 juin, sa démission, après avoir perdu le contrôle de sa majorité travailliste. Andy Burnham, élu député vendredi 19 juin à Makerfield, s’impose comme le grand favori pour lui succéder.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/22/au-royaume-uni-apres-la-demission-de-keir-starmer-andy-burnham-pourrait-etre-nomme-des-la-mi-juillet_6708095_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-21T02:00:08.000Z",
-          "fetchedAt": "2026-06-22T05:34:55.362Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-22T17:07:27.000Z",
+          "fetchedAt": "2026-06-23T04:32:40.868Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-9",
+      "topic": "SpaceX prépare le vol inaugural de Starfall, un disque volant dédié au fret spat",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-22-931e02d4",
+          "title": "SpaceX prépare le vol inaugural de Starfall, un disque volant dédié au fret spatial",
+          "description": "SpaceX s’apprête à lancer la mystérieuse mission de démonstration « Starfall ». Les documents de la FAA révèlent la nature de ce projet hautement stratégique : un véhicule inédit en forme de disque plat dédié uniquement au fret spatial, conçu pour jeter les bases d'une véritable économie industrielle en orbite.",
+          "url": "https://www.numerama.com/sciences/2281345-spacex-prepare-le-vol-inaugural-de-starfall-un-disque-volant-dedie-au-fret-spatial.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/spacex-starfall.jpg?resize=1600,900&key=a6e6952d&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-22T19:08:31.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.619Z"
         },
         {
-          "id": "2026-06-20-f58fca04",
-          "title": "UniCredit sécurise près de 40 % de Commerzbank, la bataille pour le contrôle de la banque allemande s’intensifie",
-          "description": "A l’issue de la première phase de son offre de rachat, dont les résultats ont été publiés vendredi 19 juin, la banque italienne a sécurisé 39,28 % du capital de sa concurrente de Francfort. Un seuil qui dépasse largement son objectif initial et qui ouvre la voie à une opération bancaire européenne majeure.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/20/unicredit-securise-pres-de-40-de-commerzbank-la-bataille-pour-le-controle-de-la-banque-allemande-s-intensifie_6705304_3234.html",
+          "id": "2026-06-22-f8c7de02",
+          "title": "Menace AryStinger : un botnet inconnu a transformé des milliers de vieux routeurs en outils de surveillance",
+          "description": "Un nouveau malware détecté par les chercheurs de XLab exploite des failles vieilles de plus de dix ans pour constituer discrètement une infrastructure d'attaque mondiale. Ses victimes ne savent généralement pas qu'elles en font partie.",
+          "url": "https://www.numerama.com/cyberguerre/2281387-menace-arystinger-un-botnet-inconnu-a-transforme-des-milliers-de-vieux-routeurs-en-outils-de-surveillance.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/design-sans-titre-2026-06-22t103040821.jpg?resize=1600,900&key=bb5a47cd&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-22T17:30:00.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.619Z"
+        },
+        {
+          "id": "2026-06-22-96811fe2",
+          "title": "Chaud ? Ce ventilateur performant et élégant tombe à un super prix sur Amazon",
+          "description": "[Deal du jour] Si votre ventilateur ne ventile plus correctement ou commence à faire un petit bruit agaçant à chaque rotation, c'est peut-être le moment d'investir dans un modèle plus récent. Ça tombe bien, ce ventilateur Dreo baisse de prix.",
+          "url": "https://www.numerama.com/tech/2282097-chaud-ce-ventilateur-performant-et-elegant-tombe-a-un-super-prix-sur-amazon.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/ventilateur-dreo-polyfan.jpg?resize=1600,900&key=7fada002&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-22T16:11:17.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.619Z"
+        },
+        {
+          "id": "2026-06-22-7d22161a",
+          "title": "Pour le créateur de Resident Evil, si regarder un jeu sur YouTube suffit, alors ce n’est pas un bon jeu",
+          "description": "À l'heure où de plus en plus de streameuses et de streameurs diffusent toujours plus de jeux, une question se pose pour de nombreux joueurs et joueuses, mais aussi pour de nombreux éditeurs : est-il encore nécessaire de jouer soi-même à un jeu lorsqu'il est possible de le suivre intégralement sur Internet ?",
+          "url": "https://www.numerama.com/pop-culture/2281873-pour-le-createur-de-resident-evil-si-regarder-un-jeu-sur-youtube-suffit-alors-ce-nest-pas-un-bon-jeu.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2024/01/ss-12fb940f490e3ec565fd41417156969632260d5a1920x1080.jpg?resize=1600,900&key=1f683fe3&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-22T14:21:00.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.619Z"
+        },
+        {
+          "id": "2026-06-22-a0491794",
+          "title": "Une attaque supply chain expose des données Salesforce de plusieurs entreprises de cybersécurité",
+          "description": "Une attaque contre la plateforme d'intelligence compétitive Klue a permis à un groupe criminel d'exfiltrer des données CRM chez des dizaines d'entreprises, dont plusieurs noms majeurs du secteur de la cybersécurité.",
+          "url": "https://www.numerama.com/cyberguerre/2281657-une-attaque-supply-chain-expose-des-donnees-salesforce-de-plusieurs-entreprises-de-cybersecurite.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/design-sans-titre-2026-06-22t152118967.jpg?resize=1600,900&key=5cb32114&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-22T13:38:12.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.619Z"
+        },
+        {
+          "id": "2026-06-22-bcd7cbba",
+          "title": "Design intérieur, batterie : on en sait un peu plus sur la future petite Smart électrique",
+          "description": "Smart en dévoile un peu plus sur sa prochaine citadine 100 % électrique. Baptisée #2, elle reprendra exactement la même philosophie que son aïeule et proposera un intérieur particulier.",
+          "url": "https://www.numerama.com/vroom/2281611-design-interieur-batterie-on-en-sait-un-peu-plus-sur-la-future-petite-smart-electrique.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/smart-2-concept-1.jpg?resize=1600,900&key=60c8770f&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-22T13:30:00.000Z",
+          "fetchedAt": "2026-06-23T04:32:50.619Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Le groupe Altrad visé par une enquête pour fraude fiscale, ses locaux perquisiti",
+      "category": "eco",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-06-23-d1262d8f",
+          "title": "Le groupe Altrad visé par une enquête pour fraude fiscale, ses locaux perquisitionnés",
+          "description": "Le géant montpelliérain du BTP, qui emploie 65 000 personnes, est soupçonné par la justice d’avoir orchestré un système international de fraude fiscale.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/23/le-groupe-altrad-vise-par-une-enquete-pour-fraude-fiscale-ses-locaux-perquisitionnes_6708553_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-06-20T12:00:19.000Z",
-          "fetchedAt": "2026-06-22T05:34:55.362Z"
+          "publishedAt": "2026-06-23T03:57:29.000Z",
+          "fetchedAt": "2026-06-23T04:32:56.465Z"
         }
       ]
     }
