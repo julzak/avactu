@@ -1,253 +1,231 @@
 {
-  "generatedAt": "2026-06-24T04:44:38.005Z",
+  "generatedAt": "2026-06-25T04:40:57.284Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "Flottille pour Gaza : trois militants italiens libérés après un mois de captivit",
+      "topic": "EN DIRECT - Moyen-Orient: l'Iran accuse l'Otan de «complicité» dans la guerre me",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-24-42804703",
-          "title": "Flottille pour Gaza : trois militants italiens libérés après un mois de captivité en Libye",
-          "description": "Les trois Italiens seront de retour en Italie jeudi, selon le ministre des affaires étrangères italien. Six autres militants doivent être relâchés dans les vingt-quatre heures. La Global Sumud Flotilla a dénoncé une « détention arbitraire ».",
-          "url": "https://www.lemonde.fr/international/article/2026/06/24/flottille-pour-gaza-trois-militants-italiens-liberes-apres-un-mois-de-captivite-en-libye_6710209_3210.html",
+          "id": "2026-06-25-eea983eb",
+          "title": "EN DIRECT - Moyen-Orient: l'Iran accuse l'Otan de «complicité» dans la guerre menée contre lui",
+          "description": "Le porte-parole de la diplomatie iranienne a accusé jeudi 25 juin l'Otan de « complicité » contre l'Iran, après que le secrétaire général de l'Otan a affirmé que « 500 avions américains ont décollé de bases américaines en Italie » pour soutenir l'opération militaire israélo-américaine Epic Fury lancée contre l'Iran le 28 février. Alors que des négociations de paix entre le Liban et Israël sont en cours à Washington, le Hezbollah a accusé Israël de nouvelle violation de la trêve après une frappe meurtrière dans le sud du Liban.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260625-en-direct-moyen-orient-l-iran-accuse-l-otan-de-complicit%C3%A9-dans-la-guerre-men%C3%A9e-contre-lui",
+          "imageUrl": "https://s.rfi.fr/media/display/adefaa24-6d7e-11f1-9935-005056bf30b7/w:1024/p:16x9/2026-06-21T083957Z-1404728962-RC26YLAQGVU1-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-25T04:27:26.000Z",
+          "fetchedAt": "2026-06-25T04:37:05.731Z"
+        },
+        {
+          "id": "2026-06-25-d86588f1",
+          "title": "L’Iran accuse l’OTAN de « complicité » dans la guerre menée par les Etats-Unis et Israël contre la République islamique",
+          "description": "Esmaïl Baghaï, porte-parole de la diplomatie iranienne, réagissait à des propos de Mark Rutte, le secrétaire général de l’Alliance atlantique. En visite à Washington, il a affirmé que des avions américains avaient pu utiliser des bases européennes pendant le conflit.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/25/l-iran-accuse-l-otan-de-complicite-dans-la-guerre-menee-par-les-etats-unis-et-israel-contre-la-republique-islamique_6713367_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-24T04:31:38.000Z",
-          "fetchedAt": "2026-06-24T04:40:37.297Z"
+          "publishedAt": "2026-06-25T04:18:34.000Z",
+          "fetchedAt": "2026-06-25T04:36:56.785Z"
         },
         {
-          "id": "2026-06-23-7597430f",
-          "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-          "description": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
-          "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a51a/live/f1ee76e0-6f06-11f1-8546-8f19e4fe30f4.jpg",
-          "source": "BBC World",
+          "id": "2026-06-25-586c5222",
+          "title": "En direct : la Maison Blanche demande 88 milliards, \"en grande partie\" pour la guerre en Iran",
+          "description": "La Maison Blanche a demandé mercredi au Congrès américain une rallonge budgétaire de près de 88 milliards de dollars, dont \"la plupart\" doivent répondre à \"des besoins urgents\" liés à la guerre en Iran. Donald Trump a remis en question une implication de l'armée américaine dans le bombardement meurtrier de l'école iranienne de Minab, qui a tué plus d'une centaine d'enfants au premier jour de la guerre au Moyen-Orient fin février. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260625-en-direct-moyen-orient-iran-etats-unis-donald-trump-liban-israel-ormuz-golfe",
+          "imageUrl": "https://s.france24.com/media/display/88e9d4a6-702c-11f1-b9f0-005056a90284/w:1024/p:16x9/AP26175760133075.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-06-23T11:10:06.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.685Z"
+          "publishedAt": "2026-06-25T00:27:30.000Z",
+          "fetchedAt": "2026-06-25T04:36:56.737Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "EN DIRECT - Le Congrès américain adopte une résolution symbolique pour demander ",
+      "id": "cluster-3",
+      "topic": "Sénégal: l'OFNAC pose un ultimatum au personnes n'ayant toujours pas déclaré leu",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-24-de7f6349",
-          "title": "EN DIRECT - Le Congrès américain adopte une résolution symbolique pour demander le retrait des forces américaines contre l'Iran",
-          "description": "Le Sénat américain a adopté mardi 23 juin une résolution pour ordonner le retrait des forces américaines dans le conflit face à l'Iran. Il s'agit d'un revers avant tout symbolique pour Donald Trump puisque le texte n'aura pas force de loi. Un premier cycle des pourparlers de paix entre les États-Unis et l'Iran ⁠s'est achevé lundi ​en Suisse. L'Iran a répété de son côté vouloir garder le contrôle sur le détroit d'Ormuz, malgré l'annonce par Washington d'une levée des sanctions sur le pétrole iranien dans le cadre de ces pourparlers pour une fin à la guerre au Moyen-Orient. Le secrétaire d'État américain, Marco Rubio, a de nouveau exclu l'imposition par l'Iran de péages ou redevances sur Ormuz.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260624-en-direct-le-congr%C3%A8s-am%C3%A9ricain-adopte-une-r%C3%A9solution-symbolique-pour-demander-le-retrait-des-forces-am%C3%A9ricaines-contre-l-iran",
-          "imageUrl": "https://s.rfi.fr/media/display/0e46ea10-6020-11ed-98b9-005056bf30b7/w:1024/p:16x9/AP22312512885954.jpg",
+          "id": "2026-06-25-209197dd",
+          "title": "Sénégal: l'OFNAC pose un ultimatum au personnes n'ayant toujours pas déclaré leur patrimoine",
+          "description": "Au Sénégal, l’Office national de lutte contre la fraude et la corruption pose un ultimatum. Toutes les personnes qui ont l’obligation de déclarer leur patrimoine ont jusqu’au 31 juillet pour le faire, sous peine de sanctions, car à ce jour un tiers seulement des personnes concernées s’est acquitté de cette obligation.",
+          "url": "https://www.rfi.fr/fr/afrique/20260625-s%C3%A9n%C3%A9gal-l-ofnac-pose-un-ultimatum-au-personnes-n-ayant-toujours-pas-d%C3%A9clar%C3%A9-leur-patrimoine",
+          "imageUrl": "https://s.rfi.fr/media/display/ec718066-fe49-11ee-81af-005056a90284/w:1024/p:16x9/PHOTO-2024-04-19-09-07-59.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-24T04:28:09.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.601Z"
+          "publishedAt": "2026-06-25T04:07:39.000Z",
+          "fetchedAt": "2026-06-25T04:37:05.731Z"
         },
         {
-          "id": "2026-06-23-b16ed621",
-          "title": "Le Congrès américain ordonne à Donald Trump de retirer les troupes américaines impliquées dans le conflit avec l’Iran",
-          "description": "Le Sénat a adopté, mardi, une résolution déjà approuvée par la Chambre des représentants. Quatre élus républicains se sont joints aux voix démocrates. Même si le texte est symbolique, il s’agit d’un camouflet pour le président américain.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/24/le-congres-americain-ordonne-a-donald-trump-de-retirer-les-troupes-americaines-impliquees-dans-le-conflit-avec-l-iran_6710020_3210.html",
+          "id": "2026-06-25-c19eac78",
+          "title": "En Côte d’Ivoire, les liens secrets du défunt président Henri Konan Bédié avec le groupe français Castel, géant de la bière en Afrique",
+          "description": "L’ex-chef de l’Etat ivoirien, personnage politique central du pays, a détenu, par l’intermédiaire de sociétés offshore, des parts dans la Solibra, leader ivoirien des boissons alcoolisées, et filiale du groupe Castel, ainsi qu’une enquête du « Monde » le documente pour la première fois.",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/06/25/en-cote-d-ivoire-les-liens-secrets-du-defunt-president-henri-konan-bedie-avec-le-groupe-francais-castel-geant-de-la-biere-en-afrique_6713358_4355770.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-23T22:56:15.000Z",
-          "fetchedAt": "2026-06-24T04:40:37.297Z"
+          "publishedAt": "2026-06-25T04:00:46.000Z",
+          "fetchedAt": "2026-06-25T04:36:56.785Z"
         },
         {
-          "id": "2026-06-23-1ab9aa33",
-          "title": "Protocole d'accord: voyages diplomatiques de l'Iran et des États-Unis avant la suite des négociations",
-          "description": "Le président iranien est arrivé ce mardi 23 juin au Pakistan pour une visite d'État. Une visite pour remercier Islamabad, médiateur dans le conflit au Moyen-Orient, mais aussi pour se projeter sur la suite des négociations qui doivent se poursuivre cette semaine en Suisse. De leur côté, les États-Unis ont entamé une tournée diplomatique dans les pays du golfe Persique avec un objectif : rassurer les alliés clés.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260623-protocole-d-accord-voyages-diplomatiques-de-l-iran-et-des-%C3%A9tats-unis-avant-la-suite-des-n%C3%A9gociations",
-          "imageUrl": "https://s.rfi.fr/media/display/6d6a1732-6f3b-11f1-8aa3-005056bf30b7/w:1024/p:16x9/massoud-pezeshkian-shebaz-sharif-marco-rubio.jpg",
-          "source": "RFI",
+          "id": "2026-06-25-4198f2f2",
+          "title": "« Plus que jamais, l’élection du prochain chef de l’Etat français est une affaire européenne »",
+          "description": "L’œil sur les sondages, les partenaires de la France s’inquiètent ouvertement des effets déstabilisateurs pour le Vieux Continent d’une éventuelle victoire du Rassemblement national en 2027, relève Sylvie Kauffmann, chroniqueuse au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/06/25/plus-que-jamais-l-election-du-prochain-chef-de-l-etat-francais-est-une-affaire-europeenne_6713342_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-23T20:44:52.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.601Z"
+          "publishedAt": "2026-06-25T03:00:07.000Z",
+          "fetchedAt": "2026-06-25T04:36:56.785Z"
         },
         {
-          "id": "2026-06-23-55585872",
-          "title": "Les négociations entre les États-Unis et l'Iran vues par le médiateur pakistanais",
-          "description": "Alors que le président iranien Massoud Pezeshkian est en visite ce 23 juin au Pakistan et que le secrétaire d'État américain Marco Rubio entame sa tournée dans le golfe Persique, les négociations entre l'Iran et les États-Unis vont quant à elles se poursuivre en Suisse, avec des réunions hebdomadaires des groupes de travail (nucléaire, sanctions, reconstruction, questions économiques). Le Pakistan et le Qatar sont les deux pays médiateurs entre Washington et Téhéran.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260623-les-n%C3%A9gociations-entre-les-%C3%A9tats-unis-et-l-iran-vues-par-le-m%C3%A9diateur-pakistanais",
-          "imageUrl": "https://s.rfi.fr/media/display/83436cc2-6f25-11f1-a1a4-005056a97e36/w:1024/p:16x9/AP26172583204143.jpg",
+          "id": "2026-06-25-f5a81e36",
+          "title": "Coupe du monde 2026: l’Afrique du Sud arrache une qualification historique et jouera face au Canada en 16es",
+          "description": "Avec un seul point avant la troisième journée, l’Afrique du Sud a réussi l’exploit de décrocher sa qualification en seizièmes de finale en s’imposant face à la Corée du Sud (1-0). Le héros s’appelle Thapelo Maseko et il permet à son pays de franchir le premier tour du Mondial pour la première fois de son histoire. Les hommes d'Hugo Broos croiseront le Canada dimanche 28 juin à 19h (TU).",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260625-coupe-du-monde-2026-l-afrique-du-sud-arrache-une-qualification-historique-et-jouera-face-au-canada-en-16es",
+          "imageUrl": "https://s.rfi.fr/media/display/4cb228ee-7040-11f1-9820-005056bf30b7/w:1024/p:16x9/AP26176090773616.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-23T17:17:38.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.601Z"
+          "publishedAt": "2026-06-25T02:59:13.000Z",
+          "fetchedAt": "2026-06-25T04:37:05.731Z"
+        },
+        {
+          "id": "2026-06-25-e6b296b7",
+          "title": "250 ans des États-Unis : Donald Trump lance les festivités avec un discours politique",
+          "description": "Sans beaucoup s'étendre sur les principes de la déclaration d'indépendance du 4 juillet 1776, le président américain Donald Trump a vanté son bilan et étrillé ses prédécesseurs lors d'un discours donné mercredi soir, au cœur de Washington, pour lancer les festivités des 250 ans des États-Unis.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260625-250-ans-des-%C3%A9tats-unis-donald-trump-lance-les-festivit%C3%A9s-avec-un-discours-politique",
+          "imageUrl": "https://s.france24.com/media/display/0bfe47ac-703f-11f1-9391-005056bfb2b6/w:1024/p:16x9/9df30af696c92a20acfae4f0e103a6b81d8518e8.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-25T02:39:11.000Z",
+          "fetchedAt": "2026-06-25T04:36:56.737Z"
+        },
+        {
+          "id": "2026-06-25-9cd8b980",
+          "title": "État d'urgence au Venezuela après deux puissants séismes qui laissent craindre un lourd bilan",
+          "description": "",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260625-venezuela-caracas-deux-puissants-seismes-degats-victimes-bilan",
+          "imageUrl": "https://s.france24.com/media/display/0f534290-702b-11f1-beb6-005056bf30b7/w:1280/p:16x9/AP26175861332501.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-25T02:25:02.000Z",
+          "fetchedAt": "2026-06-25T04:36:56.737Z"
         }
       ]
     },
     {
-      "id": "cluster-9",
-      "topic": "Coupe du monde 2026: la RDC a fini par craquer contre la Colombie malgré un Lion",
+      "id": "cluster-16",
+      "topic": "Mondial 2026 : l'Afrique du Sud se qualifie et envoie la Corée du Sud en salle d",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-24-9e456ff9",
-          "title": "Coupe du monde 2026: la RDC a fini par craquer contre la Colombie malgré un Lionel Mpasi héroïque",
-          "description": "La RDC a été vaillante, à l'image de son gardien Lionel Mpasi, qui a longtemps tenu bon contre la Colombie dans la nuit de mardi à mercredi. Mais les Léopards ont fini par exploser en fin de match (1-0) sous la pression des Cafeteros devenue trop forte. Ils sont désormais condamnés à la victoire contre l'Ouzbékistan pour espérer voir les 16es de finale. La Colombie, elle, est mathématiquement qualifiée.",
-          "url": "https://www.rfi.fr/fr/sports/20260624-coupe-du-monde-2026-la-rdc-a-fini-par-craquer-contre-la-colombie-malgr%C3%A9-un-lionel-mpasi-h%C3%A9ro%C3%AFque",
-          "imageUrl": "https://s.rfi.fr/media/display/a658c232-6f7c-11f1-966f-005056bf30b7/w:1024/p:16x9/AP26175120764262.jpg",
+          "id": "2026-06-25-c7894b6e",
+          "title": "Mondial 2026 : l'Afrique du Sud se qualifie et envoie la Corée du Sud en salle d'attente",
+          "description": "",
+          "url": "https://www.france24.com/fr/sports/20260625-mondial-2026-afrique-sud-qualifie-la-coree-sud",
+          "imageUrl": "https://s.france24.com/media/display/291485fa-703e-11f1-9163-005056a90284/w:1280/p:16x9/000-B88W3AB.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-25T02:57:07.000Z",
+          "fetchedAt": "2026-06-25T04:36:56.737Z"
+        },
+        {
+          "id": "2026-06-25-a3bb6c50",
+          "title": "Coupe du monde 2026: revivez la qualification historique de l'Afrique du Sud contre la Corée du Sud",
+          "description": "L'Afrique du Sud s'est qualifiée pour les 16es de finale en renversant la Corée du Sud (1-0), le 24 juin à Monterrey. Thapelo Maseko a inscrit l'unique but de la rencontre et décroché la première qualification de l'histoire de l'Afrique du Sud en phase à élimination directe d'une Coupe du monde. Dans l'autre rencontre du groupe A, le Mexique a éliminé la Tchéquie (3-0) et parfaitement conclu sa phase de groupes. Revivez le match en direct commenté sur RFI.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260625-coupe-du-monde-2026-revivez-la-qualification-historique-de-l-afrique-du-sud-contre-la-cor%C3%A9e-du-sud",
+          "imageUrl": "https://s.rfi.fr/media/display/65294be6-7040-11f1-ba9a-005056a97e36/w:1024/p:16x9/Thapelo-Maseko.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-24T04:00:46.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.601Z"
-        },
-        {
-          "id": "2026-06-24-7f1d0d4a",
-          "title": "Canicule : de l’Espagne à l’Allemagne, une zone rouge « d’une extension géographique exceptionnelle »",
-          "description": "Les pays voisins de la France traversent eux aussi une période de chaleur record. Si certains, au Sud, sont plus habitués, le constat global est celui d’une adaptation insuffisante au changement climatique sur un continent pourtant très exposé.",
-          "url": "https://www.lemonde.fr/climat/article/2026/06/24/canicule-de-l-espagne-a-l-allemagne-une-zone-rouge-d-une-extension-geographique-exceptionnelle_6710192_1652612.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-24T03:29:46.000Z",
-          "fetchedAt": "2026-06-24T04:40:37.297Z"
-        },
-        {
-          "id": "2026-06-24-db260bf6",
-          "title": "Après Ormuz, faut-il craindre une guerre des détroits ?",
-          "description": "Le blocage du détroit d’Ormuz, route maritime stratégique, crée un précédent qui remet en question un principe essentiel du commerce mondial : la libre circulation en mer. Explication et analyse dans ce podcast avec Claire Gatinois et Julien Bouissou, journalistes aux services International et Economie du « Monde ».",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/06/24/apres-ormuz-faut-il-craindre-une-guerre-des-detroits_6710126_5463015.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-24T03:00:11.000Z",
-          "fetchedAt": "2026-06-24T04:40:37.297Z"
-        },
-        {
-          "id": "2026-06-24-def7bc0f",
-          "title": "Immigration : la Commission reçoit en catimini une délégation de talibans à Bruxelles",
-          "description": "Alors que l’Union européenne condamne les exactions du régime taliban en Afghanistan, elle a accueilli, mardi 23 juin, une délégation de Kaboul afin de mener des discussions pour permettre aux Etats-membres de reprendre les expulsions vers le pays.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/24/immigration-la-commission-recoit-en-catimini-une-delegation-de-talibans-a-bruxelles_6710125_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-24T03:00:08.000Z",
-          "fetchedAt": "2026-06-24T04:40:37.297Z"
-        },
-        {
-          "id": "2026-06-24-d6bd5096",
-          "title": "Mondial 2026: revivez la prestation XXL de Lionel Mpasi, qui a bien failli sauver la RDC contre la Colombie",
-          "description": "Accrocheurs héroïques du Portugal (1-1) pour leur entrée en lice, les Léopards ont un temps penser obtenir un nouveau match nul contre la Colombie dans la nuit de mardi à mercredi. Mais les Léopards ont fini par craquer sous la pression des Cafeteros, malgré la très grande performance de Lionel Mpasi dans les buts à Guadalajara. Revivez le match.",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20260624-en-direct-coupe-du-monde-2026-suivez-la-rencontre-entre-la-colombie-et-la-rd-congo",
-          "imageUrl": "https://s.rfi.fr/media/display/2b80e710-6f7c-11f1-8f16-005056a97e36/w:1024/p:16x9/AP26175093147183.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-24T01:00:07.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.601Z"
-        },
-        {
-          "id": "2026-06-23-362aed5b",
-          "title": "Germany rail network briefly halted nationwide due to IT malfunction",
-          "description": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
-          "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/972f/live/e72ad600-6f5a-11f1-8546-8f19e4fe30f4.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-23T23:46:01.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.685Z"
+          "publishedAt": "2026-06-25T00:00:10.000Z",
+          "fetchedAt": "2026-06-25T04:37:05.731Z"
         }
       ]
     },
     {
-      "id": "cluster-24",
-      "topic": "Backrooms : 6 romans à lire en 2026 pour retrouver l’ambiance unique du film",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-23-6290e1ca",
-          "title": "Backrooms : 6 romans à lire en 2026 pour retrouver l’ambiance unique du film",
-          "description": "Les liminal spaces, espaces liminaux dans la langue de Molière, existent depuis longtemps dans la littérature. Le phénomène des backrooms, dont le film de Kane Parsons est sorti au cinéma chez nous le 17 juin 2026, n'a rien inventé, ou presque. Retour sur quelques œuvres qui méritent d'être découvertes si les backrooms vous donnent des frissons.",
-          "url": "https://www.numerama.com/pop-culture/2267425-backrooms-6-romans-a-lire-en-2026-pour-retrouver-lambiance-unique-du-film.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/backrooms-a24.jpg?resize=1600,900&key=6bd002e3&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-23T15:55:04.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.644Z"
-        },
-        {
-          "id": "2026-06-23-2b408b62",
-          "title": "iOS 27 bêta 2 apporte une nouveauté attendue depuis longtemps aux messages",
-          "description": "La bêta 2 d'iOS 27 améliore les conversations entre iPhone et Android. Au menu : de vraies réactions et la possibilité de répondre à un message précis, comme avec iMessage. Les bulles vertes rattrapent leur retard.",
-          "url": "https://www.numerama.com/tech/2282681-ios-27-beta-2-apporte-une-nouveaute-attendue-depuis-longtemps-aux-messages.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/05/rcs-france.jpg?resize=1600,900&key=b54e03f4&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-23T11:45:00.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.644Z"
-        },
-        {
-          "id": "2026-06-23-6ef72757",
-          "title": "Sauvetage de Swift : pourquoi le plan de la dernière chance s’élance-t-il depuis un atoll paumé dans le Pacifique ?",
-          "description": "Pour sauver le télescope spatial Swift d'une destruction certaine, une mission de remorquage privée s'apprête à décoller fin juin 2026. Mais au lieu de partir de la mythique base de Cap Canaveral, la fusée s'élancera au-dessus d'un atoll perdu au milieu du Pacifique. Et ce n'est bien sûr pas un hasard.",
-          "url": "https://www.numerama.com/sciences/2282675-sauvetage-de-swift-pourquoi-le-plan-de-la-derniere-chance-selance-t-il-depuis-un-atoll-paume-dans-le-pacifique.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/atoll-marschall.jpg?resize=1600,900&key=cdb185ea&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-23T11:31:00.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.644Z"
-        },
-        {
-          "id": "2026-06-23-104c9645",
-          "title": "Canicule de juin 2026 : une carte interactive permet de suivre heure par heure les records de chaleur",
-          "description": "Les températures en France atteignent des niveaux exceptionnels, durant cette canicule remarquable pour un mois de juin. Pour s'y retrouver dans l'évolution des températures, et des records météo dans l'Hexagone, des bénévoles ont créé un site avec une carte pratique.",
-          "url": "https://www.numerama.com/sciences/2282389-canicule-de-juin-2026-une-carte-interactive-permet-de-suivre-heure-par-heure-les-records-de-chaleur.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/chaleur-france-2.jpg?resize=1600,900&key=cbfa8e30&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-23T11:05:00.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.644Z"
-        },
-        {
-          "id": "2026-06-23-f599e864",
-          "title": "Le réalisateur du prochain Spider-Man s’attaque au monument de pirates Sea of Thieves",
-          "description": "Après les blocs de Minecraft et les terres désolées de Fallout, Xbox s'apprête à lever l'ancre. Le géant du jeu vidéo vient de confirmer officiellement le développement d'un film en prises de vues réelles adapté de son succès coopératif Sea of Thieves.",
-          "url": "https://www.numerama.com/pop-culture/2282383-le-realisateur-du-prochain-spider-man-sattaque-au-monument-de-pirates-sea-of-thieves.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/b8a3172c1fbc6a0e3627ce204c8faeb020ab0cd5f1705872png-2.jpeg?resize=1600,900&key=773f3b28&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-23T10:00:00.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.644Z"
-        },
-        {
-          "id": "2026-06-23-6d97aafe",
-          "title": "L’Union européenne va imposer des « étiquettes » sur les contenus générés par IA",
-          "description": "La Commission européenne veut que tout deepfake et tout texte produit par l’IA soient clairement signalés par un label « AI », « AI Generated » ou « AI Modified ». La présence de l'étiquette sera obligatoire à partir du 2 août 2026… mais les changements pourraient avoir du mal à s'imposer.",
-          "url": "https://www.numerama.com/politique/2282367-lunion-europeenne-va-imposer-des-etiquettes-sur-les-contenus-generes-par-ia.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/ai-labels.jpg?resize=1600,900&key=0f19b18e&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-23T09:02:00.000Z",
-          "fetchedAt": "2026-06-24T04:40:48.644Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "Who could be the UK's next chancellor?",
+      "id": "cluster-4",
+      "topic": "Un étudiant, même majeur, peut poursuivre un parent pour qu’il finance sa scolar",
       "category": "eco",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-06-25-f61e0abc",
+          "title": "Un étudiant, même majeur, peut poursuivre un parent pour qu’il finance sa scolarité",
+          "description": "Une jeune femme bénéficiant déjà d’une pension alimentaire de 150 euros par mois demande que son père lui verse directement 500 euros de plus.",
+          "url": "https://www.lemonde.fr/argent/article/2026/06/25/un-etudiant-meme-majeur-peut-poursuivre-un-parent-pour-qu-il-finance-sa-scolarite_6713350_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-06-25T04:00:15.000Z",
+          "fetchedAt": "2026-06-25T04:37:12.098Z"
+        },
+        {
+          "id": "2026-06-25-a553b251",
+          "title": "CNews : la mise en demeure de la chaîne d’informations par l’Arcom est une « décision politique », juge Maxime Saada, le patron de Canal+",
+          "description": "Le président du directoire du groupe Canal+, dans le giron de Vincent Bolloré comme CNews, dénonce, dans une tribune publiée dans « Le Figaro », une décision visant à « faire taire (…) une chaîne que des millions de Français choisissent librement ». CNews a été épinglée pour son manque de respect du pluralisme à l’antenne.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/25/cnews-la-mise-en-demeure-de-la-chaine-d-informations-par-l-arcom-est-une-decision-politique-juge-maxime-saada-le-patron-de-canal_6713339_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-06-25T02:18:05.000Z",
+          "fetchedAt": "2026-06-25T04:37:12.098Z"
+        },
+        {
+          "id": "2026-06-24-77bfe4ba",
+          "title": "Au centre commercial Westfield Rosny 2, un début de soldes entre quête des bonnes affaires et recherche de fraîcheur",
+          "description": "Les soldes d’été ont démarré, mercredi 24 juin, en pleine canicule. Les commerces de centre-ville pourraient être délaissés au profit des grands centres climatisés, notamment ceux qui sont situés en périphérie.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/24/au-centre-commercial-westfield-rosny-2-un-debut-de-soldes-entre-quete-des-bonnes-affaires-et-recherche-de-fraicheur_6713212_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-06-24T17:00:16.000Z",
+          "fetchedAt": "2026-06-25T04:37:12.098Z"
+        },
+        {
+          "id": "2026-06-24-6a90c82e",
+          "title": "Apposer un drapeau tricolore ou une tour Eiffel sur des produits, un « francolavage » qui entretient la confusion sur leur origine",
+          "description": "Accessoires pour bébé, luminaires, textile… Une étude rendue publique jeudi 25 juin recense 70 produits non alimentaires vendus dans différentes enseignes et circuits spécialisés sur lesquels ont été apposées des mentions suggérant une production française pouvant induire en erreur le consommateur.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/24/drapeaux-tricolores-tour-eiffel-marque-francaise-ce-francolavage-qui-entretient-la-confusion-sur-l-origine-des-produits_6713199_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-06-24T15:55:20.000Z",
+          "fetchedAt": "2026-06-25T04:37:12.098Z"
+        },
+        {
+          "id": "2026-06-24-4bbc96d3",
+          "title": "Pour éviter un « blocage du ciel européen », un sénateur appelle à une hausse des embauches de contrôleurs aériens en France",
+          "description": "Selon un rapport sénatorial dévoilé mercredi 24 juin, la piètre performance en matière de ponctualité du contrôle aérien français a coûté 840 millions d’euros aux compagnies en 2025. Le document préconise notamment de raccourcir les délais de formation et un effort de productivité.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/24/controle-aerien-francais-un-senateur-appelle-a-une-hausse-des-embauches-de-controleurs-aeriens-pour-eviter-un-blocage-du-ciel-europeen_6712068_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-06-24T12:05:53.000Z",
+          "fetchedAt": "2026-06-25T04:37:12.098Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "Précommande GTA 6 : les premières offres sont là, et on le trouve déjà à 60 €",
+      "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-06-24-db7199aa",
-          "title": "Who could be the UK's next chancellor?",
-          "description": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
-          "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72c1/live/b44abe80-6efb-11f1-b1db-af71d47507d6.png",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-06-24T00:43:24.000Z",
-          "fetchedAt": "2026-06-24T04:41:00.830Z"
+          "id": "2026-06-24-a55b725a",
+          "title": "Précommande GTA 6 : les premières offres sont là, et on le trouve déjà à 60 €",
+          "description": "[Précommande] Le coup d’envoi est donné pour GTA 6. Les précommandes sont ouvertes en France, et les premières offres apparaissent déjà chez les revendeurs. Voici où acheter Grand Theft Auto VI au meilleur prix.",
+          "url": "https://www.numerama.com/pop-culture/2239695-gta-6-les-premieres-offres-arrivent-suivez-louverture-des-precommandes-en-direct.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/gta-6-precommande-1.jpg?resize=1600,900&key=351be55b&watermark",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-06-24T23:12:25.000Z",
+          "fetchedAt": "2026-06-25T04:37:05.677Z"
         }
       ]
     }
