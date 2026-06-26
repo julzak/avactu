@@ -1,231 +1,242 @@
 {
-  "generatedAt": "2026-06-25T04:40:57.284Z",
+  "generatedAt": "2026-06-26T04:47:17.701Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "EN DIRECT - Moyen-Orient: l'Iran accuse l'Otan de «complicité» dans la guerre me",
+      "id": "cluster-1",
+      "topic": "EN DIRECT - Le Liban et Israël poursuivent leurs discussions à Washington malgré",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-25-eea983eb",
-          "title": "EN DIRECT - Moyen-Orient: l'Iran accuse l'Otan de «complicité» dans la guerre menée contre lui",
-          "description": "Le porte-parole de la diplomatie iranienne a accusé jeudi 25 juin l'Otan de « complicité » contre l'Iran, après que le secrétaire général de l'Otan a affirmé que « 500 avions américains ont décollé de bases américaines en Italie » pour soutenir l'opération militaire israélo-américaine Epic Fury lancée contre l'Iran le 28 février. Alors que des négociations de paix entre le Liban et Israël sont en cours à Washington, le Hezbollah a accusé Israël de nouvelle violation de la trêve après une frappe meurtrière dans le sud du Liban.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260625-en-direct-moyen-orient-l-iran-accuse-l-otan-de-complicit%C3%A9-dans-la-guerre-men%C3%A9e-contre-lui",
-          "imageUrl": "https://s.rfi.fr/media/display/adefaa24-6d7e-11f1-9935-005056bf30b7/w:1024/p:16x9/2026-06-21T083957Z-1404728962-RC26YLAQGVU1-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg",
+          "id": "2026-06-26-4bb3cddc",
+          "title": "EN DIRECT - Le Liban et Israël poursuivent leurs discussions à Washington malgré des frappes israéliennes",
+          "description": "La cinquième session de pourparlers entre Israël et le Liban sous médiation américaine va se poursuivre vendredi 26 juin à Washington, a annoncé le département d'État américain. Elle était censée se terminer jeudi 25 juin. Cela alors qu’Israël continue ses frappes de drone dans le sud, ayant fait trois morts jeudi, le Hezbollah pro-iranien accusant Israël de « violation flagrante » du cessez-le-feu. Le plan d'évacuation du détroit d'Ormuz a été suspendu jeudi après une attaque contre un navire.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260626-en-direct-le-liban-et-isra%C3%ABl-poursuivent-leurs-discussions-%C3%A0-washington-malgr%C3%A9-des-frappes-isra%C3%A9liennes",
+          "imageUrl": "https://s.rfi.fr/media/display/7916938e-7117-11f1-b134-005056a97e36/w:1024/p:16x9/2026-06-25T212544Z-563404187-RC2X0MACVYV6-RTRMADP-3-IRAN-CRISIS-ISRAEL-LEBANON.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-25T04:27:26.000Z",
-          "fetchedAt": "2026-06-25T04:37:05.731Z"
+          "publishedAt": "2026-06-26T04:30:32.000Z",
+          "fetchedAt": "2026-06-26T04:43:33.503Z"
         },
         {
-          "id": "2026-06-25-d86588f1",
-          "title": "L’Iran accuse l’OTAN de « complicité » dans la guerre menée par les Etats-Unis et Israël contre la République islamique",
-          "description": "Esmaïl Baghaï, porte-parole de la diplomatie iranienne, réagissait à des propos de Mark Rutte, le secrétaire général de l’Alliance atlantique. En visite à Washington, il a affirmé que des avions américains avaient pu utiliser des bases européennes pendant le conflit.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/25/l-iran-accuse-l-otan-de-complicite-dans-la-guerre-menee-par-les-etats-unis-et-israel-contre-la-republique-islamique_6713367_3210.html",
+          "id": "2026-06-26-e31b6592",
+          "title": "La Cour suprême américaine offre deux victoires décisives à Donald Trump sur sa politique migratoire",
+          "description": "La majorité conservatrice a confirmé deux réglementations de l’administration, l’une concernant les demandeurs d’asile refoulés à la frontière avec le Mexique, l’autre les ressortissants de pays en crise accueillis par les États-Unis. Une troisième décision élargie un peu plus les droits des détenteurs d’armes.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-la-cour-supreme-americaine-offre-deux-victoires-decisives-a-donald-trump-sur-sa-politique-migratoire_245723",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/26/0/0/5500/3666/1200/630/60/0/3a5d694_ftp-1-ajqxvgh7qmls-2026-06-26t014046z-395611352-rc271maqsc9g-rtrmadp-3-usa-court-trump-asylum.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-26T03:54:51.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.960Z"
+        },
+        {
+          "id": "2026-06-25-8366392a",
+          "title": "Trois juges ripostent contre les sanctions à leur encontre, espérant voir le décret américain anti-CPI suspendu",
+          "description": "Depuis le décret signé par Donald Trump le 6 février 2025, au lendemain de la visite du premier ministre israélien à la Maison Blanche, 11 magistrats de la Cour pénale internationale ont été sanctionnés. Trois d’entre eux viennent de saisir la justice fédérale américaine.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/25/trois-juges-ripostent-contre-les-sanctions-a-leur-encontre-esperant-voir-le-decret-americain-anti-cpi-suspendu_6715460_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-25T04:18:34.000Z",
-          "fetchedAt": "2026-06-25T04:36:56.785Z"
-        },
-        {
-          "id": "2026-06-25-586c5222",
-          "title": "En direct : la Maison Blanche demande 88 milliards, \"en grande partie\" pour la guerre en Iran",
-          "description": "La Maison Blanche a demandé mercredi au Congrès américain une rallonge budgétaire de près de 88 milliards de dollars, dont \"la plupart\" doivent répondre à \"des besoins urgents\" liés à la guerre en Iran. Donald Trump a remis en question une implication de l'armée américaine dans le bombardement meurtrier de l'école iranienne de Minab, qui a tué plus d'une centaine d'enfants au premier jour de la guerre au Moyen-Orient fin février. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260625-en-direct-moyen-orient-iran-etats-unis-donald-trump-liban-israel-ormuz-golfe",
-          "imageUrl": "https://s.france24.com/media/display/88e9d4a6-702c-11f1-b9f0-005056a90284/w:1024/p:16x9/AP26175760133075.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-25T00:27:30.000Z",
-          "fetchedAt": "2026-06-25T04:36:56.737Z"
+          "publishedAt": "2026-06-25T19:14:22.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.326Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Sénégal: l'OFNAC pose un ultimatum au personnes n'ayant toujours pas déclaré leu",
+      "id": "cluster-7",
+      "topic": "A Vaca Muerta, en Patagonie, l’eldorado du pétrole argentin attire des milliers ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-25-209197dd",
-          "title": "Sénégal: l'OFNAC pose un ultimatum au personnes n'ayant toujours pas déclaré leur patrimoine",
-          "description": "Au Sénégal, l’Office national de lutte contre la fraude et la corruption pose un ultimatum. Toutes les personnes qui ont l’obligation de déclarer leur patrimoine ont jusqu’au 31 juillet pour le faire, sous peine de sanctions, car à ce jour un tiers seulement des personnes concernées s’est acquitté de cette obligation.",
-          "url": "https://www.rfi.fr/fr/afrique/20260625-s%C3%A9n%C3%A9gal-l-ofnac-pose-un-ultimatum-au-personnes-n-ayant-toujours-pas-d%C3%A9clar%C3%A9-leur-patrimoine",
-          "imageUrl": "https://s.rfi.fr/media/display/ec718066-fe49-11ee-81af-005056a90284/w:1024/p:16x9/PHOTO-2024-04-19-09-07-59.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-25T04:07:39.000Z",
-          "fetchedAt": "2026-06-25T04:37:05.731Z"
-        },
-        {
-          "id": "2026-06-25-c19eac78",
-          "title": "En Côte d’Ivoire, les liens secrets du défunt président Henri Konan Bédié avec le groupe français Castel, géant de la bière en Afrique",
-          "description": "L’ex-chef de l’Etat ivoirien, personnage politique central du pays, a détenu, par l’intermédiaire de sociétés offshore, des parts dans la Solibra, leader ivoirien des boissons alcoolisées, et filiale du groupe Castel, ainsi qu’une enquête du « Monde » le documente pour la première fois.",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/06/25/en-cote-d-ivoire-les-liens-secrets-du-defunt-president-henri-konan-bedie-avec-le-groupe-francais-castel-geant-de-la-biere-en-afrique_6713358_4355770.html",
+          "id": "2026-06-26-8771317c",
+          "title": "A Vaca Muerta, en Patagonie, l’eldorado du pétrole argentin attire des milliers de travailleurs rêvant d’une vie meilleure, sans égard pour l’environnement",
+          "description": "Cette vaste formation géologique battue par les vents, en Patagonie argentine, enregistre des niveaux de production de pétrole record. Le pays de Javier Milei mise fortement sur l’exportation d’hydrocarbures pour tirer sa croissance et faire entrer des dollars.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/26/a-vaca-muerta-en-patagonie-l-eldorado-du-petrole-argentin-attire-des-milliers-de-travailleurs-revant-d-une-vie-meilleure-sans-egard-pour-l-environnement_6715753_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-25T04:00:46.000Z",
-          "fetchedAt": "2026-06-25T04:36:56.785Z"
+          "publishedAt": "2026-06-26T04:14:59.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.326Z"
         },
         {
-          "id": "2026-06-25-4198f2f2",
-          "title": "« Plus que jamais, l’élection du prochain chef de l’Etat français est une affaire européenne »",
-          "description": "L’œil sur les sondages, les partenaires de la France s’inquiètent ouvertement des effets déstabilisateurs pour le Vieux Continent d’une éventuelle victoire du Rassemblement national en 2027, relève Sylvie Kauffmann, chroniqueuse au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/06/25/plus-que-jamais-l-election-du-prochain-chef-de-l-etat-francais-est-une-affaire-europeenne_6713342_3232.html",
+          "id": "2026-06-26-cba325ad",
+          "title": "New York gèle les loyers d’environ un million de logements, un succès politique pour le maire Zohran Mamdani",
+          "description": "« C’est une victoire historique pour les locataires de la ville de New York », a réagi le maire démocrate, qui avait fait de cette mesure une promesse de campagne, avant son élection en novembre dernier.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/26/new-york-gele-les-loyers-d-environ-un-million-de-logements-un-succes-politique-pour-le-maire-zohran-mamdani_6715678_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-25T03:00:07.000Z",
-          "fetchedAt": "2026-06-25T04:36:56.785Z"
+          "publishedAt": "2026-06-26T03:37:49.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.326Z"
         },
         {
-          "id": "2026-06-25-f5a81e36",
-          "title": "Coupe du monde 2026: l’Afrique du Sud arrache une qualification historique et jouera face au Canada en 16es",
-          "description": "Avec un seul point avant la troisième journée, l’Afrique du Sud a réussi l’exploit de décrocher sa qualification en seizièmes de finale en s’imposant face à la Corée du Sud (1-0). Le héros s’appelle Thapelo Maseko et il permet à son pays de franchir le premier tour du Mondial pour la première fois de son histoire. Les hommes d'Hugo Broos croiseront le Canada dimanche 28 juin à 19h (TU).",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20260625-coupe-du-monde-2026-l-afrique-du-sud-arrache-une-qualification-historique-et-jouera-face-au-canada-en-16es",
-          "imageUrl": "https://s.rfi.fr/media/display/4cb228ee-7040-11f1-9820-005056bf30b7/w:1024/p:16x9/AP26176090773616.jpg",
-          "source": "RFI",
+          "id": "2026-06-26-b87fb3d9",
+          "title": "« Le Venezuela est un pays sismique, 80 % de la population vit au-dessus des failles les plus actives »",
+          "description": "Alors que le bilan provisoire du double tremblement de terre de mercredi atteint 235 morts, Feliciano De Santis, président de la Société vénézuélienne de géologues, estime, dans un entretien au « Monde », que de fortes répliques sont à craindre.",
+          "url": "https://www.lemonde.fr/planete/article/2026/06/26/le-venezuela-est-un-pays-sismique-80-de-la-population-vit-au-dessus-des-failles-les-plus-actives_6715676_3244.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-25T02:59:13.000Z",
-          "fetchedAt": "2026-06-25T04:37:05.731Z"
+          "publishedAt": "2026-06-26T03:30:15.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.326Z"
         },
         {
-          "id": "2026-06-25-e6b296b7",
-          "title": "250 ans des États-Unis : Donald Trump lance les festivités avec un discours politique",
-          "description": "Sans beaucoup s'étendre sur les principes de la déclaration d'indépendance du 4 juillet 1776, le président américain Donald Trump a vanté son bilan et étrillé ses prédécesseurs lors d'un discours donné mercredi soir, au cœur de Washington, pour lancer les festivités des 250 ans des États-Unis.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260625-250-ans-des-%C3%A9tats-unis-donald-trump-lance-les-festivit%C3%A9s-avec-un-discours-politique",
-          "imageUrl": "https://s.france24.com/media/display/0bfe47ac-703f-11f1-9391-005056bfb2b6/w:1024/p:16x9/9df30af696c92a20acfae4f0e103a6b81d8518e8.jpg",
-          "source": "France 24",
+          "id": "2026-06-26-cb449845",
+          "title": "Séismes au Venezuela : un bilan d’au moins 235 morts loin d’être définitif devant l’ampleur des dégâts",
+          "description": "Les recherches se poursuivent dans les décombres d’immeubles effondrés pour tenter de secourir des personnes prises au piège, au lendemain d’un double séisme extrêmement puissant.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/26/seismes-au-venezuela-un-bilan-d-au-moins-235-morts-loin-d-etre-definitif-devant-l-ampleur-des-degats_6715638_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-25T02:39:11.000Z",
-          "fetchedAt": "2026-06-25T04:36:56.737Z"
+          "publishedAt": "2026-06-26T03:14:13.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.326Z"
         },
         {
-          "id": "2026-06-25-9cd8b980",
-          "title": "État d'urgence au Venezuela après deux puissants séismes qui laissent craindre un lourd bilan",
-          "description": "",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260625-venezuela-caracas-deux-puissants-seismes-degats-victimes-bilan",
-          "imageUrl": "https://s.france24.com/media/display/0f534290-702b-11f1-beb6-005056bf30b7/w:1280/p:16x9/AP26175861332501.jpg",
-          "source": "France 24",
+          "id": "2026-06-26-54b37de6",
+          "title": "Une journée avec l’ex-général Roberto Vannacci, dernière terreur de l’extrême droite italienne",
+          "description": "Les 13 et 14 juin, l’ancien parachutiste organisait l’assemblée constituante de son nouveau parti, Futuro Nazionale (FN). Une formation d’extrême droite déjà créditée de 5 % des intentions de vote, et qui fait trembler le gouvernement italien. Le “Corriere della Sera” était sur place, au cœur d’une ambiance sulfureuse.",
+          "url": "https://www.courrierinternational.com/article/reportage-une-journee-avec-l-ex-general-roberto-vannacci-derniere-terreur-de-l-extreme-droite-italienne_245409",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/14/0/0/3703/2468/1200/630/60/0/83a865d_ftp-1-d9t6ciu9614a-2026-06-14t133632z-871614018-rc2ptlab2zz3-rtrmadp-3-italy-politics-vannacci.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-25T02:25:02.000Z",
-          "fetchedAt": "2026-06-25T04:36:56.737Z"
+          "publishedAt": "2026-06-26T03:00:18.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.960Z"
+        },
+        {
+          "id": "2026-06-26-2308f466",
+          "title": "Earthquake is devastating blow to Venezuela at time of uncertainty  ",
+          "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+          "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca4e/live/476ba1c0-7104-11f1-b1db-af71d47507d6.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-26T02:12:07.000Z",
+          "fetchedAt": "2026-06-26T04:43:32.787Z"
         }
       ]
     },
     {
-      "id": "cluster-16",
-      "topic": "Mondial 2026 : l'Afrique du Sud se qualifie et envoie la Corée du Sud en salle d",
+      "id": "cluster-15",
+      "topic": "Ce que d’autres villes peuvent apprendre du plan canicule de Paris",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-06-25-c7894b6e",
-          "title": "Mondial 2026 : l'Afrique du Sud se qualifie et envoie la Corée du Sud en salle d'attente",
-          "description": "",
-          "url": "https://www.france24.com/fr/sports/20260625-mondial-2026-afrique-sud-qualifie-la-coree-sud",
-          "imageUrl": "https://s.france24.com/media/display/291485fa-703e-11f1-9163-005056a90284/w:1280/p:16x9/000-B88W3AB.jpg",
-          "source": "France 24",
+          "id": "2026-06-26-834f2aba",
+          "title": "Ce que d’autres villes peuvent apprendre du plan canicule de Paris",
+          "description": "La vie dans l’Hexagone sous la chaleur, et à Paris particulièrement, s’avère dure pour de très nombreux Français. Il n’empêche que le pays et sa capitale, marqués par la canicule mortelle de 2003, ont développé certaines bonnes idées, rapporte cette correspondante britannique qui décrit les leçons à retenir selon elle.",
+          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-ce-que-d-autres-villes-peuvent-apprendre-du-plan-canicule-de-paris_245647",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/24/0/0/5269/3512/1200/630/60/0/ddeee39_ftp-1-8csyc7cod62h-2026-06-24t170231z-1819859306-rc2f0may59w9-rtrmadp-3-europe-weather-france-heat.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-25T02:57:07.000Z",
-          "fetchedAt": "2026-06-25T04:36:56.737Z"
+          "publishedAt": "2026-06-26T03:00:28.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.960Z"
         },
         {
-          "id": "2026-06-25-a3bb6c50",
-          "title": "Coupe du monde 2026: revivez la qualification historique de l'Afrique du Sud contre la Corée du Sud",
-          "description": "L'Afrique du Sud s'est qualifiée pour les 16es de finale en renversant la Corée du Sud (1-0), le 24 juin à Monterrey. Thapelo Maseko a inscrit l'unique but de la rencontre et décroché la première qualification de l'histoire de l'Afrique du Sud en phase à élimination directe d'une Coupe du monde. Dans l'autre rencontre du groupe A, le Mexique a éliminé la Tchéquie (3-0) et parfaitement conclu sa phase de groupes. Revivez le match en direct commenté sur RFI.",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20260625-coupe-du-monde-2026-revivez-la-qualification-historique-de-l-afrique-du-sud-contre-la-cor%C3%A9e-du-sud",
-          "imageUrl": "https://s.rfi.fr/media/display/65294be6-7040-11f1-ba9a-005056a97e36/w:1024/p:16x9/Thapelo-Maseko.jpg",
+          "id": "2026-06-26-254b8e3e",
+          "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+          "description": "Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.",
+          "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66e6/live/c1299db0-70a9-11f1-b1db-af71d47507d6.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-26T00:06:45.000Z",
+          "fetchedAt": "2026-06-26T04:43:32.787Z"
+        },
+        {
+          "id": "2026-06-25-177ab33a",
+          "title": "Liban: la France et l'Italie veulent mettre en place une coalition multinationale pour succéder à la Finul",
+          "description": "La France et l'Italie veulent mettre en place une coalition multinationale sous leur direction à la fin du mandat de la force onusienne de la Finul en décembre prochain pour renforcer « la souveraineté au Liban », ont annoncé ce jeudi 25 juin Emmanuel Macron et Giorgia Meloni lors d'un sommet à Antibes.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260625-liban-la-france-et-l-italie-veulent-mettre-en-place-une-coalition-multinationale-pour-succ%C3%A9der-%C3%A0-la-finul",
+          "imageUrl": "https://s.rfi.fr/media/display/ffda3840-70cb-11f1-9700-005056a90284/w:1024/p:16x9/301091dec6854c994b98d26f0048da8d19ae1184.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-06-25T00:00:10.000Z",
-          "fetchedAt": "2026-06-25T04:37:05.731Z"
+          "publishedAt": "2026-06-25T20:25:31.000Z",
+          "fetchedAt": "2026-06-26T04:43:33.503Z"
+        },
+        {
+          "id": "2026-06-25-08291f9f",
+          "title": "Liban : Emmanuel Macron et Giorgia Meloni veulent une coalition multinationale à la fin du mandat de la Finul",
+          "description": "L’Italie et la France « peuvent absolument faire la différence. (…) Il est nécessaire de garantir une présence internationale qui évite un vide sécuritaire extrêmement dangereux », a notamment déclaré la première ministre italienne.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/25/liban-emmanuel-macron-et-giorgia-meloni-veulent-une-coalition-multinationale-a-la-fin-du-mandat-de-la-finul_6715462_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-25T19:24:41.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.326Z"
+        },
+        {
+          "id": "2026-06-25-8b2925d1",
+          "title": "France: TotalEnergies condamné dans un procès climatique inédit",
+          "description": "Le groupe TotalEnergies a été condamné jeudi 25 juin par le tribunal judiciaire de Paris pour non-respect de son devoir de vigilance climatique. Autrement dit, la justice reproche à la major pétrogazière de ne pas en faire assez face à la crise climatique. L'entreprise était poursuivie par un collectif d'ONG et la Ville de Paris, qui se félicite d'une décision majeure, alors que l'Europe suffoque dans une canicule sans précédent aggravée par le changement climatique.",
+          "url": "https://www.rfi.fr/fr/environnement/20260625-france-totalenergies-condamn%C3%A9-dans-un-proc%C3%A8s-climatique-in%C3%A9dit",
+          "imageUrl": "https://s.rfi.fr/media/display/54bfddaa-aaff-11ee-9f6c-005056a90284/w:1024/p:16x9/000_33V46ED.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-25T19:15:45.000Z",
+          "fetchedAt": "2026-06-26T04:43:33.503Z"
+        },
+        {
+          "id": "2026-06-25-5e3d3860",
+          "title": "En juin, Paris est aussi une Fête de la musique des diasporas",
+          "description": "La presse étrangère note avec enthousiasme la présence toujours plus nombreuse de touristes pour la Fête de la musique à Paris. Le reflet d’un événement multiculturel qui célèbre davantage, ces dernières années, les musiques africaines et les diasporas.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-en-juin-paris-est-aussi-une-fete-de-la-musique-des-diasporas_245686",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/25/0/8/9097/6065/1200/630/60/0/938d689_upload-1-6bkoa8cbyz1u-075-chobeaux-notitle260622-npshp.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-06-25T14:41:31.000Z",
+          "fetchedAt": "2026-06-26T04:43:17.960Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-24",
+      "topic": "IA : le test d’un modèle chinois à la direction générale du Trésor interrompu à ",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-06-25-dcc69119",
+          "title": "IA : le test d’un modèle chinois à la direction générale du Trésor interrompu à cause de « réponses orientées » ou « biaisées »",
+          "description": "Baptisé « HéphAIstos » en référence au dieu grec, l’outil comprend un agent conversationnel pour assister les hauts fonctionnaires dans leurs tâches quotidiennes, y compris pour le traitement de données confidentielles ou sensibles. Un nouveau modèle de la start-up française Mistral AI a été installé mercredi.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/06/25/ia-le-test-d-un-modele-chinois-a-la-direction-generale-du-tresor-interrompu-a-cause-de-reponses-orientees-ou-biaisees_6715445_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-06-25T16:51:10.000Z",
+          "fetchedAt": "2026-06-26T04:43:32.958Z"
+        },
+        {
+          "id": "2026-06-24-022b92b8",
+          "title": "IA : « Pékin gère désormais son immense écosystème d’innovation à la manière d’une grande plateforme numérique »",
+          "description": "Face à la course mondiale pour la souveraineté technologique, les Etats-Unis semblent négliger les nouvelles stratégies déployées par la Chine, explique, dans sa chronique, la professeure de droit américaine Angela Huyue Zhang.",
+          "url": "https://www.lemonde.fr/idees/article/2026/06/24/ia-pekin-gere-desormais-son-immense-ecosysteme-d-innovation-a-la-maniere-d-une-grande-plateforme-numerique_6712066_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-06-24T12:00:05.000Z",
+          "fetchedAt": "2026-06-26T04:43:32.958Z"
         }
       ]
     },
     {
       "id": "cluster-4",
-      "topic": "Un étudiant, même majeur, peut poursuivre un parent pour qu’il finance sa scolar",
+      "topic": "Warning over power bank fire risk on flights as summer holidays begin",
       "category": "eco",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-06-25-f61e0abc",
-          "title": "Un étudiant, même majeur, peut poursuivre un parent pour qu’il finance sa scolarité",
-          "description": "Une jeune femme bénéficiant déjà d’une pension alimentaire de 150 euros par mois demande que son père lui verse directement 500 euros de plus.",
-          "url": "https://www.lemonde.fr/argent/article/2026/06/25/un-etudiant-meme-majeur-peut-poursuivre-un-parent-pour-qu-il-finance-sa-scolarite_6713350_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-25T04:00:15.000Z",
-          "fetchedAt": "2026-06-25T04:37:12.098Z"
-        },
-        {
-          "id": "2026-06-25-a553b251",
-          "title": "CNews : la mise en demeure de la chaîne d’informations par l’Arcom est une « décision politique », juge Maxime Saada, le patron de Canal+",
-          "description": "Le président du directoire du groupe Canal+, dans le giron de Vincent Bolloré comme CNews, dénonce, dans une tribune publiée dans « Le Figaro », une décision visant à « faire taire (…) une chaîne que des millions de Français choisissent librement ». CNews a été épinglée pour son manque de respect du pluralisme à l’antenne.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/25/cnews-la-mise-en-demeure-de-la-chaine-d-informations-par-l-arcom-est-une-decision-politique-juge-maxime-saada-le-patron-de-canal_6713339_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-25T02:18:05.000Z",
-          "fetchedAt": "2026-06-25T04:37:12.098Z"
-        },
-        {
-          "id": "2026-06-24-77bfe4ba",
-          "title": "Au centre commercial Westfield Rosny 2, un début de soldes entre quête des bonnes affaires et recherche de fraîcheur",
-          "description": "Les soldes d’été ont démarré, mercredi 24 juin, en pleine canicule. Les commerces de centre-ville pourraient être délaissés au profit des grands centres climatisés, notamment ceux qui sont situés en périphérie.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/24/au-centre-commercial-westfield-rosny-2-un-debut-de-soldes-entre-quete-des-bonnes-affaires-et-recherche-de-fraicheur_6713212_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-24T17:00:16.000Z",
-          "fetchedAt": "2026-06-25T04:37:12.098Z"
-        },
-        {
-          "id": "2026-06-24-6a90c82e",
-          "title": "Apposer un drapeau tricolore ou une tour Eiffel sur des produits, un « francolavage » qui entretient la confusion sur leur origine",
-          "description": "Accessoires pour bébé, luminaires, textile… Une étude rendue publique jeudi 25 juin recense 70 produits non alimentaires vendus dans différentes enseignes et circuits spécialisés sur lesquels ont été apposées des mentions suggérant une production française pouvant induire en erreur le consommateur.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/24/drapeaux-tricolores-tour-eiffel-marque-francaise-ce-francolavage-qui-entretient-la-confusion-sur-l-origine-des-produits_6713199_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-24T15:55:20.000Z",
-          "fetchedAt": "2026-06-25T04:37:12.098Z"
-        },
-        {
-          "id": "2026-06-24-4bbc96d3",
-          "title": "Pour éviter un « blocage du ciel européen », un sénateur appelle à une hausse des embauches de contrôleurs aériens en France",
-          "description": "Selon un rapport sénatorial dévoilé mercredi 24 juin, la piètre performance en matière de ponctualité du contrôle aérien français a coûté 840 millions d’euros aux compagnies en 2025. Le document préconise notamment de raccourcir les délais de formation et un effort de productivité.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/24/controle-aerien-francais-un-senateur-appelle-a-une-hausse-des-embauches-de-controleurs-aeriens-pour-eviter-un-blocage-du-ciel-europeen_6712068_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-06-24T12:05:53.000Z",
-          "fetchedAt": "2026-06-25T04:37:12.098Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-1",
-      "topic": "Précommande GTA 6 : les premières offres sont là, et on le trouve déjà à 60 €",
-      "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-06-24-a55b725a",
-          "title": "Précommande GTA 6 : les premières offres sont là, et on le trouve déjà à 60 €",
-          "description": "[Précommande] Le coup d’envoi est donné pour GTA 6. Les précommandes sont ouvertes en France, et les premières offres apparaissent déjà chez les revendeurs. Voici où acheter Grand Theft Auto VI au meilleur prix.",
-          "url": "https://www.numerama.com/pop-culture/2239695-gta-6-les-premieres-offres-arrivent-suivez-louverture-des-precommandes-en-direct.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/gta-6-precommande-1.jpg?resize=1600,900&key=351be55b&watermark",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-06-24T23:12:25.000Z",
-          "fetchedAt": "2026-06-25T04:37:05.677Z"
+          "id": "2026-06-25-4cda9764",
+          "title": "Warning over power bank fire risk on flights as summer holidays begin",
+          "description": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+          "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1adb/live/414682f0-70ce-11f1-b217-6f3746be3039.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-06-25T23:28:13.000Z",
+          "fetchedAt": "2026-06-26T04:43:49.550Z"
         }
       ]
     }
