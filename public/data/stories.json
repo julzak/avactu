@@ -1,151 +1,126 @@
 {
-  "date": "2026-06-29T05:08:00.304Z",
+  "date": "2026-06-30T04:42:02.867Z",
   "stories": [
     {
-      "id": "2026-06-29-01",
+      "id": "2026-06-30-01",
       "category": "geopolitique",
-      "title": "ChapsVision remplace Palantir à la DGSI française",
-      "imageUrl": "https://focus.courrierinternational.com/2026/06/26/0/0/5839/3892/1200/630/60/0/7ff0000_ftp-1-l7rrvs5o72sv-2026-06-26t094559z-1720242886-rc2k1magsh6l-rtrmadp-3-europe-weather-france-hospital.JPG",
+      "title": "Iran et États-Unis envoient des délégations au Qatar",
+      "imageUrl": "https://s.rfi.fr/media/display/42199acc-24f9-11f0-877a-005056bf30b7/w:1024/p:16x9/000_43HQ9CH.jpg",
       "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
+        "lat": 25.2854,
+        "lng": 51.531,
+        "name": "Doha, Qatar"
+      },
+      "bullets": [
+        "L'Iran et les États-Unis envoient des délégations au Qatar mardi",
+        "Une pause des hostilités précède ces rencontres techniques à Doha",
+        "Téhéran exclut toute négociation directe avec le camp adverse",
+        "Washington dépêche les émissaires Steve Witkoff et Jared Kushner",
+        "Le Qatar s'impose comme médiateur clé au Moyen-Orient"
+      ],
+      "execSummary": "L'Iran a annoncé le 30 juin l'envoi d'une délégation à Doha, au Qatar, pour des rencontres dites techniques, sans négociations directes avec le camp adverse. Selon RFI et France 24, les hostilités entre Téhéran et Washington sont en pause, et les États-Unis dépêchent leurs émissaires Steve Witkoff et Jared Kushner sur place « cette semaine pour participer à des réunions de haut niveau ». Aucune réunion bilatérale formelle n'est toutefois confirmée par les deux médias.\n\nDu côté américain, l'envoi d'émissaires de haut niveau traduit une volonté affichée de maintenir un canal de communication malgré l'absence de pourparlers directs. Washington privilégie une diplomatie indirecte, en s'appuyant sur le Qatar comme intermédiaire, afin de désamorcer les tensions sans formaliser un dialogue officiel avec Téhéran.\n\nL'Iran, de son côté, insiste sur le caractère purement « technique » de sa présence à Doha. Téhéran refuse explicitement toute négociation directe avec le camp adverse, marquant ainsi une distance politique tout en acceptant de participer à des discussions sous médiation qatarie. Les deux sources soulignent cette nuance : présence confirmée, mais pas de réunion bilatérale assumée.\n\nLe Qatar confirme son rôle de médiateur incontournable dans la région, après avoir déjà facilité plusieurs canaux de discussion. La détente, même fragile, concerne des dossiers sensibles comme le détroit d'Ormuz, le Liban et la stabilité énergétique mondiale. L'absence de cadre bilatéral officiel laisse cependant planer l'incertitude sur la portée réelle de ces rencontres et sur leur capacité à transformer une simple pause en désescalade durable.",
+      "sources": [
+        "RFI",
+        "France 24"
+      ],
+      "publishedAt": "2026-06-30T04:04:43.000Z"
+    },
+    {
+      "id": "2026-06-30-02",
+      "category": "geopolitique",
+      "title": "Afrique du Sud : exode forcé d'étrangers sous ultimatum",
+      "imageUrl": "https://s.rfi.fr/media/display/8fa55aec-7421-11f1-8dae-005056bfb2b6/w:1024/p:16x9/2026-06-26T125459Z-224291328-RC231MADV813-RTRMADP-3-SAFRICA-XENOPHOBIA.jpg",
+      "location": {
+        "lat": -26.2041,
+        "lng": 28.0473,
+        "name": "Johannesburg, Afrique du Sud"
+      },
+      "bullets": [
+        "Des militants antimigrants ont sommé les étrangers de quitter le pays avant le 30 juin",
+        "L'ultimatum, fixé hors de tout cadre légal, attise une vague xénophobe",
+        "Le mouvement March and March justifie son action par la pression migratoire",
+        "Le gouvernement n'a pas validé l'ultimatum et craint de nouveaux débordements",
+        "La vague a déjà fait quatre morts et 25 000 déplacés selon les autorités"
+      ],
+      "execSummary": "L'Afrique du Sud traverse une crise xénophobe majeure. Selon Le Monde et RFI, des militants antimigrants du mouvement March and March ont fixé au 30 juin 2026 la date limite pour que les étrangers sans papiers quittent le territoire. Cet ultimatum, établi en dehors de tout cadre légal, a provoqué un exode de masse : France 24 rapporte, citant le National Joint Operational and Intelligence Structure, que plus de 25 000 ressortissants étrangers ont été « rapatriés » pour leur sécurité. RFI précise que la vague a déjà fait quatre morts ces dernières semaines.\n\nLes organisations anti-immigration justifient leur démarche par ce qu'elles présentent comme une pression migratoire insoutenable et une concurrence sur l'emploi et les services publics. Elles affirment agir au nom de citoyens estimant que les étrangers sans papiers occuperaient des ressources destinées aux Sud-Africains, et ont multiplié les rassemblements à travers le pays pour faire respecter leur échéance.\n\nFace à eux, le gouvernement sud-africain rejette toute validation de l'ultimatum, qu'il qualifie d'initiative non officielle et illégale. Les autorités, selon RFI et France 24, craignent de nouveaux débordements et un climat de peur généralisée, et insistent sur le fait que les déplacements visent à protéger les personnes menacées plutôt qu'à appliquer la demande des militants.\n\nQuatre morts, 25 000 déplacés : ces chiffres révèlent une fracture sociale profonde dans un pays où la xénophobie ressurgit régulièrement, souvent sur fond de chômage élevé et de tensions économiques. La capacité des autorités à protéger les communautés étrangères tout en contenant les mobilisations déterminera la stabilité du pays et son image diplomatique sur le continent africain dans les mois à venir.",
+      "sources": [
+        "Le Monde - International",
+        "RFI",
+        "Courrier International",
+        "France 24"
+      ],
+      "publishedAt": "2026-06-30T04:00:33.000Z"
+    },
+    {
+      "id": "2026-06-30-03",
+      "category": "geopolitique",
+      "title": "L'Ukraine vise Moscou, Poutine admet des pénuries",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d81/live/801dc920-73d5-11f1-b1db-af71d47507d6.jpg",
+      "location": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "Moscou, Russie"
+      },
+      "bullets": [
+        "Au moins 46 drones ukrainiens vers Moscou interceptés, selon le maire",
+        "Les frappes ukrainiennes ciblent désormais les infrastructures énergétiques russes",
+        "Le maire Sobianine annonce la destruction par la défense antiaérienne",
+        "Poutine reconnaît des problèmes de carburant mais dément une crise critique",
+        "Les raffineries russes sous pression, marché des hydrocarbures fragilisé"
+      ],
+      "execSummary": "Tôt mardi, le maire de Moscou Sergueï Sobianine a annoncé la destruction d'au moins 46 drones ukrainiens se dirigeant vers la capitale russe, intercepté par la défense antiaérienne. Selon Le Monde, aucun blessé ni dégât n'a été signalé à ce stade. Parallèlement, la BBC rapporte une déclaration rare de Vladimir Poutine reconnaissant que les frappes ukrainiennes provoquent des pénuries de carburant en Russie.\n\nDu côté de Moscou, les autorités cherchent à minimiser l'impact des attaques. Sobianine met en avant l'efficacité du système de défense antiaérienne, présenté comme capable de neutraliser des dizaines d'appareils. Poutine, de son côté, a admis que les attaques ukrainiennes « créaient manifestement des problèmes », tout en assurant que les pénuries n'étaient pas « critiques » et que la situation restait sous contrôle.\n\nPour l'Ukraine, ces opérations de drones longue distance s'inscrivent dans une stratégie visant à frapper les infrastructures énergétiques russes, notamment les raffineries, pour affaiblir l'effort de guerre de Moscou. En portant le conflit jusqu'à la capitale, Kiev cherche à démontrer sa capacité à atteindre le cœur du territoire adverse et à exercer une pression économique directe.\n\nL'aveu de Poutine sur les pénuries de carburant marque un tournant : il confirme que la campagne de drones touche un secteur clé de l'économie russe, fortement dépendante des hydrocarbures. Pour un pays exportateur d'énergie, des perturbations dans le raffinage pourraient se répercuter sur les prix intérieurs et l'approvisionnement militaire. À mesure que le conflit se prolonge, ces frappes ciblées redessinent l'équilibre du rapport de force.",
+      "sources": [
+        "Le Monde - International",
+        "BBC World"
+      ],
+      "publishedAt": "2026-06-30T03:09:05.000Z"
+    },
+    {
+      "id": "2026-06-30-04",
+      "category": "tech",
+      "title": "La Corée du Sud investit 1000 milliards dans l'IA et les puces",
+      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2023/11/macbook3.jpg?resize=1600,900&key=5d47a1f2&watermark",
+      "location": {
+        "lat": 37.5665,
+        "lng": 126.978,
+        "name": "Séoul, Corée du Sud"
+      },
+      "bullets": [
+        "La Corée du Sud lance un plan d'investissement de plus de 1000 milliards d'euros sur dix ans",
+        "Le plan vise les semi-conducteurs avancés, data-centers et robots humanoïdes commerciaux d'ici 2028",
+        "Le Monde souligne le débat sur la redistribution des profits du secteur",
+        "Ars Technica met en avant l'ambition de leadership en « IA physique »",
+        "L'objectif : prendre la tête mondiale dans l'IA matérielle et la mémoire"
+      ],
+      "execSummary": "La Corée du Sud a annoncé fin juin 2026 un plan d'investissement colossal équivalant à plus de 1000 milliards d'euros (environ 1000 milliards de dollars), étalé sur dix ans. Selon Le Monde - Pixels, ce programme prévoit la construction d'usines de semi-conducteurs avancés et de data-centers dédiés à l'intelligence artificielle. Ars Technica précise que Séoul cible un leadership dans « l'IA physique » et vise la commercialisation de robots humanoïdes à l'horizon 2028, en plus d'une montée en puissance de la production de puces mémoire.\n\nCe plan intervient alors que le secteur des semi-conducteurs est devenu stratégique au niveau mondial. La Corée du Sud, qui abrite Samsung et SK Hynix, deux des principaux fabricants de mémoire, cherche à consolider sa position face à une demande explosive liée à l'IA. Le contexte est d'autant plus sensible que ces mêmes fabricants font l'objet d'une action collective aux États-Unis, accusés d'avoir restreint la production de RAM pour maintenir des prix élevés.\n\nLe Monde indique que l'annonce relance le débat sur la manière dont les profits générés par le secteur devraient être redistribués au sein de la société coréenne. Ars Technica met davantage l'accent sur la dimension technologique et industrielle, soulignant l'ambition de rattraper et dépasser les concurrents dans la robotique humanoïde et la mémoire.\n\nÀ l'échéance 2028, la Corée du Sud entend transformer son tissu industriel en pariant sur la convergence entre puces, data-centers et robots. Le pari repose sur la capacité à financer durablement ces infrastructures et à former la main-d'œuvre nécessaire. Reste la question de la concentration des bénéfices entre quelques géants comme Samsung et SK Hynix, déjà critiqués pour leurs pratiques tarifaires, qui pourrait nourrir des tensions sociales et réglementaires.",
+      "sources": [
+        "Le Monde - Pixels",
+        "Ars Technica"
+      ],
+      "publishedAt": "2026-06-29T22:56:41.000Z"
+    },
+    {
+      "id": "2026-06-30-05",
+      "category": "eco",
+      "title": "La France adopte une loi contre l'ultrafast-fashion",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "location": {
+        "lat": 48.8534,
+        "lng": 2.3488,
         "name": "Paris, France"
       },
       "bullets": [
-        "L'entreprise française ChapsVision a remporté un contrat clé avec la DGSI",
-        "Le contrat, signé mi-juin, remplace l'américain Palantir au renseignement intérieur",
-        "La société d'Olivier Dellenbach veut prouver sa capacité à rivaliser",
-        "Des doutes subsistent sur sa puissance face au géant américain",
-        "Un enjeu de souveraineté numérique pour le renseignement français"
+        "Le Parlement français a définitivement adopté la loi anti-fast-fashion le 29 juin.",
+        "Le texte cible Shein et Temu via un système de pénalités progressives.",
+        "La députée Anne-Cécile Violland (Horizons) a porté ce texte pendant deux ans.",
+        "Le contenu a été allégé pour préserver l'industrie textile française.",
+        "L'enjeu : réduire l'impact environnemental de la mode éphémère importée."
       ],
-      "execSummary": "Mi-juin 2026, la société française ChapsVision, dirigée par Olivier Dellenbach, a remporté un contrat-clé avec la Direction générale de la sécurité intérieure (DGSI), les services du renseignement intérieur français. Selon Le Monde, cette entreprise de logiciels jusqu'ici méconnue du grand public est appelée à remplacer l'américain Palantir, spécialiste mondial de l'analyse de données massives, dans le traitement et l'exploitation des données sensibles des services de renseignement.\n\nPour ChapsVision, ce contrat représente une consécration et une vitrine. L'entreprise entend s'appuyer sur ce succès pour démontrer qu'une solution française peut prendre en charge des missions stratégiques jusqu'ici confiées à des acteurs étrangers. Au-delà du contrat lui-même, c'est un argument de souveraineté : héberger et analyser des données du renseignement national sur des outils maîtrisés en France, sans dépendance vis-à-vis d'une technologie américaine.\n\nLes observateurs cités par Le Monde nuancent toutefois cet enthousiasme. Des doutes persistent sur la capacité réelle de ChapsVision à rivaliser avec Palantir, dont la puissance de traitement et l'expérience opérationnelle sont reconnues à l'échelle mondiale. Le défi technique consiste à égaler un standard établi sur des volumes de données considérables et des usages opérationnels exigeants.\n\nCe remplacement illustre la volonté française de réduire sa dépendance technologique dans un domaine aussi sensible que le renseignement. Le succès ou l'échec de ChapsVision pourrait servir de test grandeur nature pour la souveraineté numérique européenne : si l'entreprise tient ses promesses, elle pourrait viser d'autres administrations et clients internationaux ; dans le cas contraire, le recours à des géants américains resterait difficile à éviter.",
+      "execSummary": "Le Parlement français a adopté définitivement, lundi 29 juin, une loi visant à freiner l'essor de l'ultrafast-fashion, à l'issue d'un ultime vote au Sénat. Porté par la députée Anne-Cécile Violland (Horizons), le texte achève son cheminement parlementaire plus de deux ans après son dépôt. Il met en place un système de pénalités ciblant les entreprises les moins vertueuses, tout en cherchant à préserver l'industrie textile française, selon Le Monde.\n\nCette législation répond à la croissance rapide des géants numériques de la mode éphémère, notamment Shein et Temu, dont le modèle repose sur des volumes massifs de vêtements à bas prix. L'objectif affiché est de « réduire l'impact environnemental de l'industrie textile », un secteur particulièrement polluant en raison de la surproduction et de la rotation accélérée des collections.\n\nLe Monde qualifie la législation de « timide », soulignant que son contenu a été modifié à de nombreuses reprises depuis deux ans, notamment pour ménager les acteurs du secteur dans l'Hexagone. Les dispositions ont été ajustées afin que les pénalités visent principalement les plateformes étrangères plutôt que les enseignes françaises, distinction qui suscite des appréciations contrastées sur la portée réelle du texte.\n\nLe mécanisme de malus environnemental devra désormais être appliqué et son efficacité dépendra des seuils retenus et des contrôles effectifs sur les plateformes en ligne. La capacité de la France à encadrer Shein et Temu, dont les flux logistiques échappent largement aux frontières nationales, reste une question ouverte. Le texte pourrait également servir de référence dans le débat européen sur la régulation du commerce textile importé.",
       "sources": [
-        "Le Monde - International",
-        "Courrier International"
+        "Le Monde - Économie"
       ],
-      "publishedAt": "2026-06-29T04:30:05.000Z"
-    },
-    {
-      "id": "2026-06-29-02",
-      "category": "geopolitique",
-      "title": "Les États-Unis et l'Iran suspendent leurs attaques",
-      "imageUrl": "https://s.rfi.fr/media/display/ff5419c4-6228-11f1-810c-005056bf30b7/w:1024/p:16x9/2026-06-03T124626Z-1595002635-RC2IKLAP52IO-RTRMADP-3-IRAN-CRISIS-USA-DEAL.jpg",
-      "location": {
-        "lat": 32.4279,
-        "lng": 53.688,
-        "name": "Iran"
-      },
-      "bullets": [
-        "Les États-Unis et l'Iran annoncent une suspension mutuelle de leurs attaques",
-        "L'annonce survient après quatre jours de frappes croisées au Moyen-Orient",
-        "Un responsable américain évoque une reprise des pourparlers de paix",
-        "Téhéran n'avait pas confirmé l'accord lundi matin selon Courrier International",
-        "Le Hezbollah dénonce une violation du cessez-le-feu au Liban"
-      ],
-      "execSummary": "Dimanche 28 juin 2026, un responsable américain a annoncé que les États-Unis et l'Iran allaient suspendre leurs attaques mutuelles et reprendre des négociations de paix, après quatre jours d'escalade militaire au Moyen-Orient. Selon France 24, l'Iran avait tiré aux premières heures de dimanche des missiles et des drones contre des installations militaires américaines au Koweït et à Bahreïn, peu après que Donald Trump eut averti que Washington pourrait « terminer le travail militairement ». En parallèle, de nouvelles frappes israéliennes au Liban ont fait monter la tension d'un cran.\n\nDu côté de Washington, l'administration américaine présente cette suspension comme une porte ouverte vers une désescalade et une « paix durable », assurant que les deux belligérants ont accepté de reprendre leurs pourparlers. Trump, présent au G7 en France, lie d'ailleurs ce dossier à d'autres fronts diplomatiques, estimant notamment que la Russie « devrait conclure un accord » avec l'Ukraine.\n\nL'Iran adopte une posture plus prudente. Selon Courrier International, Téhéran n'avait toujours pas confirmé ces informations lundi matin, laissant planer un doute sur la réalité de l'accord. France 24 s'interroge même : les deux pays cherchent-ils à gagner du temps ? Au Liban, le chef du Parlement a affirmé que le protocole visant une paix durable ne serait pas adopté, tandis que le Hezbollah dénonçait « une violation flagrante du cessez-le-feu ».\n\nLe détroit d'Ormuz, par lequel transite une part majeure du pétrole mondial, cristallise les craintes économiques : toute escalade y menace l'approvisionnement énergétique global. Selon Le Monde, Vladimir Poutine dit « attendre » que Washington soit moins occupé par l'Iran pour reprendre les négociations sur l'Ukraine, illustrant comment ce dossier reconfigure plusieurs équilibres diplomatiques simultanément.",
-      "sources": [
-        "RFI",
-        "Courrier International",
-        "France 24",
-        "Le Monde - International"
-      ],
-      "publishedAt": "2026-06-29T04:06:44.000Z"
-    },
-    {
-      "id": "2026-06-29-03",
-      "category": "geopolitique",
-      "title": "L'accord Israël-Liban fragilisé par des frappes",
-      "imageUrl": "https://s.rfi.fr/media/display/4e84ff3c-732b-11f1-b552-005056a90284/w:1024/p:16x9/AP26125613478340.jpg",
-      "location": {
-        "lat": 33.8886,
-        "lng": 35.4955,
-        "name": "Beyrouth, Liban"
-      },
-      "bullets": [
-        "Israël mène des frappes au Liban malgré l'accord signé récemment",
-        "Le chef du Parlement libanais rejette un texte qualifié de « diktats »",
-        "Nabih Berri, allié du Hezbollah, refuse l'application en l'état",
-        "Israël reconnaît le génocide arménien, défiant la Turquie",
-        "La stabilité régionale au Moyen-Orient reste menacée par les tensions"
-      ],
-      "execSummary": "L'accord signé entre Israël et le Liban est de nouveau fragilisé, selon Le Monde, par de nouvelles frappes israéliennes sur le territoire libanais et par un rejet du texte au plus haut niveau de l'État. Nabih Berri, président du Parlement libanais et allié du Hezbollah pro-iranien, a annoncé que l'accord « ne sera pas adopté, et ne sera pas mis en œuvre dans sa forme actuelle ». En parallèle, RFI rapporte qu'Israël a officiellement reconnu le génocide arménien, un acte de défiance envers la Turquie.\n\nDu côté israélien, les frappes sont présentées comme une réponse aux menaces sécuritaires persistantes le long de la frontière nord, notamment liées au Hezbollah. La reconnaissance du génocide arménien, approuvée à l'unanimité par le gouvernement selon RFI, marque une rupture avec la position historique d'Israël, qui évitait jusque-là ce terme en raison de sa proximité passée avec Ankara.\n\nÀ l'opposé, Nabih Berri fustige un texte de « diktats », estimant que l'accord est déséquilibré et imposé. Il rejette son application en l'état, ce qui reflète l'opposition d'une partie de la classe politique libanaise, proche du Hezbollah, à ce qu'elle perçoit comme une capitulation face à Israël. La Turquie, de son côté, conteste le terme de « génocide » employé par Israël.\n\nLe blocage parlementaire libanais menace directement la viabilité de l'accord, tandis que la frontière nord reste sous tension militaire. La reconnaissance du génocide arménien illustre une recomposition des alliances régionales, Israël et la Turquie s'éloignant nettement. Ces dynamiques croisées laissent planer l'incertitude sur la trêve et alimentent un climat d'instabilité durable au Moyen-Orient.",
-      "sources": [
-        "Le Monde - International",
-        "RFI"
-      ],
-      "publishedAt": "2026-06-28T23:46:55.000Z"
-    },
-    {
-      "id": "2026-06-29-04",
-      "category": "geopolitique",
-      "title": "Le Pakistan frappe l'Afghanistan, dizaines de morts",
-      "imageUrl": "https://s.france24.com/media/display/e1cc6fb2-7355-11f1-922c-005056bf30b7/w:1024/p:16x9/2026-06-10T114701Z-737578812-RC2VQLAG3FDB-RTRMADP-3-AFGHANISTAN-PAKISTAN.jpg",
-      "location": {
-        "lat": 34,
-        "lng": 70,
-        "name": "Frontière afghano-pakistanaise"
-      },
-      "bullets": [
-        "Le Pakistan a frappé l'est de l'Afghanistan, faisant au moins 25 morts",
-        "Les frappes répondent à une attaque contre les Rangers à Karachi",
-        "Islamabad cible une faction dissidente des talibans pakistanais",
-        "Kaboul dénonce de nombreuses victimes civiles parmi les morts",
-        "L'escalade ravive les tensions frontalières entre les deux voisins"
-      ],
-      "execSummary": "Le Pakistan a mené dans la nuit du 28 au 29 juin 2026 des frappes contre l'est de l'Afghanistan, visant une faction dissidente des talibans pakistanais, selon la BBC, France 24 et Le Monde. Islamabad fait état d'au moins 25 morts, tandis que le gouvernement afghan évoque des dizaines de victimes civiles. L'offensive comprend également des opérations terrestres dans les régions frontalières. Le ministre pakistanais de l'Information a présenté ces frappes comme une réponse à une attaque qualifiée de « lâche », menée samedi soir contre un camp de la force paramilitaire des Rangers à Karachi.\n\nCe regain de tensions s'inscrit dans une dégradation continue des relations entre les deux voisins. Islamabad accuse régulièrement Kaboul d'abriter des combattants responsables d'attaques sur son sol, notamment ceux du Tehrik-e-Taliban Pakistan, alors que le gouvernement taliban afghan rejette ces accusations. Le passage à des frappes meurtrières marque une intensification militaire le long d'une frontière déjà instable.\n\nIslamabad justifie son offensive comme une riposte légitime à des « attaques terroristes récentes contre des innocents », selon la BBC. Le gouvernement afghan, de son côté, met en avant le bilan civil et conteste la version pakistanaise, créant une divergence nette sur la nature et l'ampleur des pertes. Les sources se contredisent sur le bilan : 25 morts selon le Pakistan, des dizaines de victimes civiles selon Kaboul.\n\nLa frontière afghano-pakistanaise, longue et poreuse, demeure le point de friction central. Les frappes pakistanaises sur le territoire d'un État voisin posent la question du respect de la souveraineté afghane et risquent d'entraîner des représailles. La poursuite des opérations terrestres laisse craindre un cycle de violences prolongé, susceptible de déstabiliser davantage une région où les groupes armés circulent librement et où les populations civiles paient un lourd tribut.",
-      "sources": [
-        "BBC World",
-        "France 24",
-        "Le Monde - International"
-      ],
-      "publishedAt": "2026-06-29T04:39:05.000Z"
-    },
-    {
-      "id": "2026-06-29-05",
-      "category": "tech",
-      "title": "La Chine réduit l'écart en IA et supercalcul face aux USA",
-      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/recharge-canicule1.jpg?resize=1600,900&key=50ead2c9&watermark",
-      "location": {
-        "lat": 22.5431,
-        "lng": 114.0579,
-        "name": "Shenzhen, Chine"
-      },
-      "bullets": [
-        "La Chine reprend le titre du supercalculateur le plus rapide avec LineShine",
-        "Z.ai publie GLM-5.2, jugé compétitif en cybersécurité face aux modèles américains",
-        "Le gouvernement américain restreint l'accès chinois aux puces et modèles avancés",
-        "L'administration Trump considère les modèles avancés comme un enjeu de sécurité",
-        "L'écart technologique se réduit malgré les sanctions et limitations matérielles"
-      ],
-      "execSummary": "La Chine a marqué deux avancées technologiques majeures simultanées dans le domaine du calcul intensif et de l'intelligence artificielle. Selon The Verge, le supercalculateur LineShine, installé au National Supercomputing Center de Shenzhen, a détrôné El Capitan en tête du classement TOP500, redonnant à la Chine la première place mondiale pour la première fois depuis 2018. Fait notable, LineShine n'utiliserait aucun GPU, habituellement essentiel aux supercalculateurs modernes. Parallèlement, l'entreprise chinoise Zhipu AI (Z.ai) a publié son modèle ouvert GLM-5.2, que certains chercheurs estiment comparable au modèle Mythos sur des tâches de cybersécurité et de détection de bugs.\n\nCes annonces sont importantes car elles interviennent malgré les restrictions américaines visant à limiter l'accès de la Chine aux composants informatiques de pointe et aux modèles d'IA puissants. Les États-Unis dominent toujours le TOP500, occupant trois des cinq premières places, mais la performance chinoise illustre une réduction significative de l'écart technologique.\n\nThe Verge rapporte que l'administration Trump s'est efforcée de restreindre l'accès chinois à des modèles comme Mythos et Fable d'Anthropic, ainsi qu'au matériel nécessaire pour les entraîner. Le gouvernement américain perçoit ces avancées comme une préoccupation de sécurité. Côté chinois, ces réussites sont présentées comme un message adressé à Washington.\n\nPour Pékin, dépasser les barrières imposées par les sanctions américaines démontre une capacité d'innovation autonome, notamment en s'affranchissant des GPU. La rivalité technologique sino-américaine se joue désormais sur deux fronts convergents — le supercalcul et l'IA — où chaque percée chinoise relance le débat sur l'efficacité des contrôles à l'exportation. Les prochains mois diront si Washington durcit encore ses restrictions ou révise sa stratégie.",
-      "sources": [
-        "The Verge"
-      ],
-      "publishedAt": "2026-06-28T21:42:51.000Z"
-    },
-    {
-      "id": "2026-06-29-06",
-      "category": "eco",
-      "title": "El Niño menace la sécurité alimentaire mondiale",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "location": {
-        "lat": 0,
-        "lng": 20,
-        "name": "Sahel / Afrique"
-      },
-      "bullets": [
-        "Le phénomène El Niño se propage, provoquant des anomalies de températures mondiales",
-        "Les sécheresses menacent le Sahel, l'Afrique australe et l'Asie du Sud",
-        "L'ONU alerte sur un risque accru de famine dans les pays pauvres",
-        "Le coût alimentaire alimente le débat sur le juste prix de la nourriture",
-        "Les cultures pourraient être touchées à des moments cruciaux des récoltes"
-      ],
-      "execSummary": "Le phénomène climatique El Niño est sur le point de se propager à l'échelle planétaire, provoquant des anomalies de températures, selon une alerte de l'ONU relayée par Le Monde le 28 juin 2026. Ce cycle naturel pourrait être à l'origine de périodes de sécheresse dans le Sahel, en Afrique australe ainsi qu'en Asie du Sud et du Sud-Est, à des moments cruciaux pour les cultures agricoles. Les régions les plus pauvres figurent parmi les plus exposées au risque de famine.\n\nCet épisode est d'autant plus préoccupant que ses effets se conjuguent avec le réchauffement climatique global, amplifiant des conséquences décrites comme de plus en plus dévastatrices. La question du coût et de l'accès à l'alimentation se pose avec une acuité renouvelée : la BBC souligne dans une enquête qu'une part croissante d'acteurs estiment que les consommateurs devraient être prêts à payer davantage leur nourriture plutôt que de plafonner les prix, signe d'une tension structurelle sur les chaînes d'approvisionnement.\n\nLes acteurs réagissent à plusieurs niveaux. L'ONU appelle à anticiper les impacts sur les cultures dans les zones vulnérables. Selon la BBC, un débat émerge sur la valeur réelle de l'alimentation et la pertinence des mécanismes de régulation des prix. Les deux sources convergent sur l'idée que la pression sur les ressources agricoles n'est pas conjoncturelle mais appelée à durer.\n\nLes récoltes du Sahel et d'Afrique australe constituent le premier point de bascule : une mauvaise saison pourrait précipiter des millions de personnes vers l'insécurité alimentaire. La combinaison entre aléa climatique et hausse des prix mondiaux des denrées fragilise les économies les plus dépendantes des importations. À moyen terme, le défi consiste à renforcer la résilience agricole et à arbitrer entre plafonnement des prix et soutien direct aux populations exposées.",
-      "sources": [
-        "Le Monde - Économie",
-        "BBC Business"
-      ],
-      "publishedAt": "2026-06-29T04:00:28.000Z"
+      "publishedAt": "2026-06-30T04:09:58.000Z"
     }
   ]
 }
