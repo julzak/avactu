@@ -1,126 +1,155 @@
 {
-  "date": "2026-06-30T04:42:02.867Z",
+  "date": "2026-07-01T05:02:02.856Z",
   "stories": [
     {
-      "id": "2026-06-30-01",
+      "id": "2026-07-01-01",
       "category": "geopolitique",
-      "title": "Iran et États-Unis envoient des délégations au Qatar",
-      "imageUrl": "https://s.rfi.fr/media/display/42199acc-24f9-11f0-877a-005056bf30b7/w:1024/p:16x9/000_43HQ9CH.jpg",
+      "title": "Le Burkina Faso rompt ses relations avec la France",
+      "imageUrl": "https://s.rfi.fr/media/display/20c2b14e-74fb-11f1-ac20-005056a90284/w:1024/p:16x9/IMG-0284.jpeg",
+      "location": {
+        "lat": 12.3714,
+        "lng": -1.5197,
+        "name": "Ouagadougou, Burkina Faso"
+      },
+      "bullets": [
+        "Le capitaine Ibrahim Traoré annonce la rupture des relations diplomatiques avec Paris",
+        "L'annonce a été faite vendredi 26 juin, de façon soudaine",
+        "Le Burkina Faso poursuit son éloignement de l'ancienne puissance coloniale",
+        "L'ambassade et le consulat français doivent rapatrier leurs agents",
+        "Les 2 500 ressortissants français perdent leur soutien consulaire local"
+      ],
+      "execSummary": "Le vendredi 26 juin 2026, le capitaine Ibrahim Traoré, à la tête du Burkina Faso depuis le coup d'État de 2022, a annoncé la rupture des relations diplomatiques bilatérales avec la France. Selon Le Monde, cette décision soudaine oblige l'ambassade et le consulat de Paris à Ouagadougou à rapatrier leurs agents. Concrètement, les quelque 2 500 ressortissants français résidant dans le pays ne pourront plus s'appuyer sur les services consulaires habituels (documents administratifs, protection, urgences).\n\nDu côté des autorités burkinabè, cette rupture s'inscrit dans une logique de souveraineté revendiquée depuis l'arrivée au pouvoir de Traoré. Le régime de transition défend une posture de rejet de l'influence de l'ancienne puissance coloniale, mettant en avant l'indépendance politique et un repositionnement diplomatique, notamment vers de nouveaux partenaires comme la Russie, dans le cadre de l'Alliance des États du Sahel formée avec le Mali et le Niger.\n\nPour la France, présentée par Le Monde comme surprise par la brutalité de l'annonce, cette rupture constitue un nouveau recul de sa présence au Sahel, déjà entamée après les ruptures avec Bamako et Niamey. Paris souligne les conséquences pratiques pour ses ressortissants et met en garde contre l'isolement diplomatique que provoque ce type de décision unilatérale.\n\nCette rupture accélère le retrait français d'une région où la France comptait historiquement une influence militaire, économique et culturelle forte. Elle laisse un vide que d'autres puissances cherchent à combler, et pose la question de la protection des 2 500 Français sur place. Au-delà du Burkina, elle illustre une recomposition géopolitique du Sahel qui redéfinit les alliances africaines pour les années à venir.",
+      "sources": [
+        "Le Monde - International",
+        "RFI",
+        "France 24"
+      ],
+      "publishedAt": "2026-07-01T04:30:06.000Z"
+    },
+    {
+      "id": "2026-07-01-02",
+      "category": "geopolitique",
+      "title": "La fortune de Trump triple grâce aux cryptomonnaies",
+      "imageUrl": "https://s.france24.com/media/display/a4832a7e-73d7-11f1-bfc4-005056a90284/w:1024/p:16x9/AP26177676668662-1.jpg",
+      "location": {
+        "lat": 38.8977,
+        "lng": -77.0365,
+        "name": "Washington, États-Unis"
+      },
+      "bullets": [
+        "Le patrimoine de Donald Trump atteint 6,5 milliards de dollars en 2026",
+        "Les cryptomonnaies ont rapporté 1,2 milliard de dollars en 2025",
+        "La société World Liberty Financial concentre l'essentiel de ces revenus",
+        "Les documents officiels révèlent un quasi-triplement de sa fortune",
+        "Le conflit d'intérêts interroge à l'approche des élections de mi-mandat"
+      ],
+      "execSummary": "Selon des documents officiels relayés par France 24, la fortune personnelle de Donald Trump a presque triplé, atteignant 6,5 milliards de dollars estimés en 2026. Le moteur principal de cette envolée : les cryptomonnaies. En 2025, ses activités dans ce secteur, notamment via la société World Liberty Financial, ont généré environ 1,2 milliard de dollars de revenus. Cette croissance intervient alors que le président américain multiplie les initiatives politiques, dont l'annonce d'une convention républicaine à Dallas les 9 et 10 septembre, rapportée par Le Monde.\n\nDu côté de l'entourage présidentiel, ces gains sont présentés comme le fruit légitime d'investissements dans un secteur en plein essor. Trump a fait de la dérégulation des cryptomonnaies un axe de son agenda économique, se posant en défenseur d'un secteur qu'il juge stratégique pour la compétitivité américaine face à la Chine et aux régulateurs internationaux.\n\nPour les critiques, cette accumulation de richesse pose un problème majeur de conflit d'intérêts : un président en exercice bénéficie directement d'un secteur qu'il a le pouvoir de réglementer. Les observateurs cités par la presse internationale s'interrogent sur la frontière entre décisions publiques et intérêts privés, dans un contexte où l'administration multiplie les mesures économiques favorables.\n\nÀ quelques mois des élections législatives de novembre, décisives pour les deux dernières années de mandat, cette révélation alimente le débat public. La convention de Dallas vise justement à resserrer les rangs républicains. La question de l'éthique financière pourrait devenir un argument de campagne pour l'opposition, tandis que les régulateurs américains restent sous pression pour encadrer un marché crypto encore volatil.",
+      "sources": [
+        "France 24",
+        "Courrier International",
+        "RFI",
+        "Le Monde - International"
+      ],
+      "publishedAt": "2026-07-01T04:01:29.000Z"
+    },
+    {
+      "id": "2026-07-01-03",
+      "category": "geopolitique",
+      "title": "Attaque armée sur Am Dafok, en Centrafrique",
+      "imageUrl": "https://s.rfi.fr/media/display/04e13b52-1ea6-11ee-8164-005056bfb2b6/w:1024/p:16x9/000_VF6WA.jpg",
+      "location": {
+        "lat": 10.4667,
+        "lng": 23.4667,
+        "name": "Am Dafok, Centrafrique"
+      },
+      "bullets": [
+        "Des hommes armés ont pris le contrôle d'Am Dafok, dans le nord-est centrafricain",
+        "L'attaque a eu lieu à l'aube du mardi 30 juin",
+        "La localité est frontalière du Soudan, en guerre depuis 2023",
+        "Selon plusieurs sources, l'assaut aurait été meurtrier",
+        "Un bilan encore incertain, dans une région instable et enclavée"
+      ],
+      "execSummary": "Des hommes armés ont investi la localité d'Am Dafok, située dans la préfecture de la Vakaga, dans le nord-est de la Centrafrique, à l'aube du mardi 30 juin 2026, selon RFI. Ils en ont pris le contrôle pendant une partie de la journée. Cette cité est frontalière du Soudan, pays plongé dans une guerre civile depuis avril 2023. Le bilan de l'attaque reste incertain à ce stade, mais différentes sources évoquent un assaut meurtrier.\n\nLes autorités centrafricaines et les forces de sécurité présentent généralement ce type d'incursion comme le fait de groupes armés opérant depuis les zones frontalières, profitant de l'enclavement et de la faible présence de l'État dans la Vakaga. La proximité immédiate du Soudan en conflit rend cette région particulièrement exposée aux débordements et aux mouvements de combattants.\n\nLes sources disponibles ne détaillent pas de contre-position d'un acteur identifié, l'identité et les motivations exacts des assaillants n'étant pas encore établis. RFI souligne l'incertitude du bilan et la difficulté d'accès à l'information dans cette zone reculée, où les communications et la vérification indépendante restent limitées.\n\nLa Vakaga concentre plusieurs risques : porosité de la frontière soudanaise, circulation d'armes et présence de groupes armés. La guerre au Soudan a déjà provoqué des déplacements massifs de populations vers les pays voisins, dont la Centrafrique. Une déstabilisation de cette région pourrait aggraver une crise humanitaire régionale et fragiliser davantage un État déjà confronté à de multiples foyers d'insécurité depuis des années.",
+      "sources": [
+        "RFI",
+        "France 24",
+        "Le Monde - International",
+        "Courrier International"
+      ],
+      "publishedAt": "2026-07-01T02:54:06.000Z"
+    },
+    {
+      "id": "2026-07-01-04",
+      "category": "geopolitique",
+      "title": "Discussions USA-Iran à Doha sans face-à-face direct",
+      "imageUrl": "https://focus.courrierinternational.com/2026/06/21/0/0/8025/5350/1200/630/60/0/99e2e87_ftp-1-up3jmbmfxdpe-2026-06-21t140511z-223713168-rc2dyla4rosy-rtrmadp-3-iran-crisis-swiss-meeting.JPG",
       "location": {
         "lat": 25.2854,
         "lng": 51.531,
         "name": "Doha, Qatar"
       },
       "bullets": [
-        "L'Iran et les États-Unis envoient des délégations au Qatar mardi",
-        "Une pause des hostilités précède ces rencontres techniques à Doha",
-        "Téhéran exclut toute négociation directe avec le camp adverse",
-        "Washington dépêche les émissaires Steve Witkoff et Jared Kushner",
-        "Le Qatar s'impose comme médiateur clé au Moyen-Orient"
+        "Les émissaires américains Witkoff et Kushner ont entamé des discussions techniques à Doha",
+        "Les échanges de frappes récents ont menacé la trêve entre les deux pays",
+        "L'Iran exclut tout contact direct avec les responsables américains",
+        "Le Qatar confirme qu'aucune rencontre de haut niveau n'est programmée",
+        "L'avenir du détroit d'Ormuz et la méfiance régionale sont en jeu"
       ],
-      "execSummary": "L'Iran a annoncé le 30 juin l'envoi d'une délégation à Doha, au Qatar, pour des rencontres dites techniques, sans négociations directes avec le camp adverse. Selon RFI et France 24, les hostilités entre Téhéran et Washington sont en pause, et les États-Unis dépêchent leurs émissaires Steve Witkoff et Jared Kushner sur place « cette semaine pour participer à des réunions de haut niveau ». Aucune réunion bilatérale formelle n'est toutefois confirmée par les deux médias.\n\nDu côté américain, l'envoi d'émissaires de haut niveau traduit une volonté affichée de maintenir un canal de communication malgré l'absence de pourparlers directs. Washington privilégie une diplomatie indirecte, en s'appuyant sur le Qatar comme intermédiaire, afin de désamorcer les tensions sans formaliser un dialogue officiel avec Téhéran.\n\nL'Iran, de son côté, insiste sur le caractère purement « technique » de sa présence à Doha. Téhéran refuse explicitement toute négociation directe avec le camp adverse, marquant ainsi une distance politique tout en acceptant de participer à des discussions sous médiation qatarie. Les deux sources soulignent cette nuance : présence confirmée, mais pas de réunion bilatérale assumée.\n\nLe Qatar confirme son rôle de médiateur incontournable dans la région, après avoir déjà facilité plusieurs canaux de discussion. La détente, même fragile, concerne des dossiers sensibles comme le détroit d'Ormuz, le Liban et la stabilité énergétique mondiale. L'absence de cadre bilatéral officiel laisse cependant planer l'incertitude sur la portée réelle de ces rencontres et sur leur capacité à transformer une simple pause en désescalade durable.",
+      "execSummary": "Les émissaires américains Steve Witkoff et Jared Kushner ont entamé mardi 30 juin des discussions techniques sur l'Iran au Qatar, sous médiation qatarie, selon Courrier International et la BBC. Une délégation d'experts iraniens, menée par le vice-ministre des Affaires étrangères Kazem Gharibabadi, devait rencontrer les médiateurs qataris mercredi 1er juillet, rapporte France 24. Le porte-parole du ministère qatari des Affaires étrangères a précisé qu'aucune réunion de haut niveau ni contact direct entre Washington et Téhéran n'était programmé.\n\nCes pourparlers interviennent après des échanges de frappes qui ont menacé de faire voler en éclats la trêve provisoire signée entre les deux pays. Le contexte reste tendu : le chef de l'équipe de négociation iranienne a affirmé que Téhéran privilégiait le dialogue avec les États-Unis, tout en se disant prêt pour « la guerre », selon France 24. La question du détroit d'Ormuz, voie stratégique du transport pétrolier mondial, figure au cœur des préoccupations régionales.\n\nL'Iran a exclu tout contact direct avec les responsables américains, signe de la méfiance persistante entre les deux capitales, observe la presse internationale citée par Courrier International. Du côté des monarchies du Golfe, une méfiance croissante s'exprime aussi à l'égard de Washington : selon un analyste de Ha'Aretz cité par Courrier International, certains États du Golfe sont tentés de se rapprocher de l'Iran, voire de négocier directement l'avenir d'Ormuz.\n\nLe refus iranien de tout face-à-face limite d'emblée la portée des discussions de Doha, réduites à un canal indirect via le Qatar. Le maintien d'une trêve fragile dépend désormais de la capacité des médiateurs à contenir les tensions, alors que la crise de confiance touche aussi les alliés régionaux traditionnels des États-Unis, redéfinissant potentiellement les équilibres au Moyen-Orient.",
       "sources": [
-        "RFI",
-        "France 24"
-      ],
-      "publishedAt": "2026-06-30T04:04:43.000Z"
-    },
-    {
-      "id": "2026-06-30-02",
-      "category": "geopolitique",
-      "title": "Afrique du Sud : exode forcé d'étrangers sous ultimatum",
-      "imageUrl": "https://s.rfi.fr/media/display/8fa55aec-7421-11f1-8dae-005056bfb2b6/w:1024/p:16x9/2026-06-26T125459Z-224291328-RC231MADV813-RTRMADP-3-SAFRICA-XENOPHOBIA.jpg",
-      "location": {
-        "lat": -26.2041,
-        "lng": 28.0473,
-        "name": "Johannesburg, Afrique du Sud"
-      },
-      "bullets": [
-        "Des militants antimigrants ont sommé les étrangers de quitter le pays avant le 30 juin",
-        "L'ultimatum, fixé hors de tout cadre légal, attise une vague xénophobe",
-        "Le mouvement March and March justifie son action par la pression migratoire",
-        "Le gouvernement n'a pas validé l'ultimatum et craint de nouveaux débordements",
-        "La vague a déjà fait quatre morts et 25 000 déplacés selon les autorités"
-      ],
-      "execSummary": "L'Afrique du Sud traverse une crise xénophobe majeure. Selon Le Monde et RFI, des militants antimigrants du mouvement March and March ont fixé au 30 juin 2026 la date limite pour que les étrangers sans papiers quittent le territoire. Cet ultimatum, établi en dehors de tout cadre légal, a provoqué un exode de masse : France 24 rapporte, citant le National Joint Operational and Intelligence Structure, que plus de 25 000 ressortissants étrangers ont été « rapatriés » pour leur sécurité. RFI précise que la vague a déjà fait quatre morts ces dernières semaines.\n\nLes organisations anti-immigration justifient leur démarche par ce qu'elles présentent comme une pression migratoire insoutenable et une concurrence sur l'emploi et les services publics. Elles affirment agir au nom de citoyens estimant que les étrangers sans papiers occuperaient des ressources destinées aux Sud-Africains, et ont multiplié les rassemblements à travers le pays pour faire respecter leur échéance.\n\nFace à eux, le gouvernement sud-africain rejette toute validation de l'ultimatum, qu'il qualifie d'initiative non officielle et illégale. Les autorités, selon RFI et France 24, craignent de nouveaux débordements et un climat de peur généralisée, et insistent sur le fait que les déplacements visent à protéger les personnes menacées plutôt qu'à appliquer la demande des militants.\n\nQuatre morts, 25 000 déplacés : ces chiffres révèlent une fracture sociale profonde dans un pays où la xénophobie ressurgit régulièrement, souvent sur fond de chômage élevé et de tensions économiques. La capacité des autorités à protéger les communautés étrangères tout en contenant les mobilisations déterminera la stabilité du pays et son image diplomatique sur le continent africain dans les mois à venir.",
-      "sources": [
-        "Le Monde - International",
-        "RFI",
         "Courrier International",
-        "France 24"
-      ],
-      "publishedAt": "2026-06-30T04:00:33.000Z"
-    },
-    {
-      "id": "2026-06-30-03",
-      "category": "geopolitique",
-      "title": "L'Ukraine vise Moscou, Poutine admet des pénuries",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d81/live/801dc920-73d5-11f1-b1db-af71d47507d6.jpg",
-      "location": {
-        "lat": 55.7558,
-        "lng": 37.6173,
-        "name": "Moscou, Russie"
-      },
-      "bullets": [
-        "Au moins 46 drones ukrainiens vers Moscou interceptés, selon le maire",
-        "Les frappes ukrainiennes ciblent désormais les infrastructures énergétiques russes",
-        "Le maire Sobianine annonce la destruction par la défense antiaérienne",
-        "Poutine reconnaît des problèmes de carburant mais dément une crise critique",
-        "Les raffineries russes sous pression, marché des hydrocarbures fragilisé"
-      ],
-      "execSummary": "Tôt mardi, le maire de Moscou Sergueï Sobianine a annoncé la destruction d'au moins 46 drones ukrainiens se dirigeant vers la capitale russe, intercepté par la défense antiaérienne. Selon Le Monde, aucun blessé ni dégât n'a été signalé à ce stade. Parallèlement, la BBC rapporte une déclaration rare de Vladimir Poutine reconnaissant que les frappes ukrainiennes provoquent des pénuries de carburant en Russie.\n\nDu côté de Moscou, les autorités cherchent à minimiser l'impact des attaques. Sobianine met en avant l'efficacité du système de défense antiaérienne, présenté comme capable de neutraliser des dizaines d'appareils. Poutine, de son côté, a admis que les attaques ukrainiennes « créaient manifestement des problèmes », tout en assurant que les pénuries n'étaient pas « critiques » et que la situation restait sous contrôle.\n\nPour l'Ukraine, ces opérations de drones longue distance s'inscrivent dans une stratégie visant à frapper les infrastructures énergétiques russes, notamment les raffineries, pour affaiblir l'effort de guerre de Moscou. En portant le conflit jusqu'à la capitale, Kiev cherche à démontrer sa capacité à atteindre le cœur du territoire adverse et à exercer une pression économique directe.\n\nL'aveu de Poutine sur les pénuries de carburant marque un tournant : il confirme que la campagne de drones touche un secteur clé de l'économie russe, fortement dépendante des hydrocarbures. Pour un pays exportateur d'énergie, des perturbations dans le raffinage pourraient se répercuter sur les prix intérieurs et l'approvisionnement militaire. À mesure que le conflit se prolonge, ces frappes ciblées redessinent l'équilibre du rapport de force.",
-      "sources": [
-        "Le Monde - International",
+        "France 24",
         "BBC World"
       ],
-      "publishedAt": "2026-06-30T03:09:05.000Z"
+      "publishedAt": "2026-07-01T04:37:42.000Z"
     },
     {
-      "id": "2026-06-30-04",
+      "id": "2026-07-01-05",
       "category": "tech",
-      "title": "La Corée du Sud investit 1000 milliards dans l'IA et les puces",
-      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2023/11/macbook3.jpg?resize=1600,900&key=5d47a1f2&watermark",
+      "title": "La Corée du Sud investit 1000 milliards dans les puces et l'IA",
+      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/cable-cuivre-vs-alu.jpg?resize=1600,900&key=e4d9824c",
       "location": {
         "lat": 37.5665,
         "lng": 126.978,
         "name": "Séoul, Corée du Sud"
       },
       "bullets": [
-        "La Corée du Sud lance un plan d'investissement de plus de 1000 milliards d'euros sur dix ans",
-        "Le plan vise les semi-conducteurs avancés, data-centers et robots humanoïdes commerciaux d'ici 2028",
-        "Le Monde souligne le débat sur la redistribution des profits du secteur",
-        "Ars Technica met en avant l'ambition de leadership en « IA physique »",
-        "L'objectif : prendre la tête mondiale dans l'IA matérielle et la mémoire"
+        "La Corée du Sud annonce plus de 1000 milliards d'euros d'investissements sur dix ans.",
+        "Le plan cible usines de semi-conducteurs, data-centers et robots humanoïdes.",
+        "Samsung et SK Hynix engagent plus de 450 milliards pour quatre usines.",
+        "Le pays vise le leadership en IA physique et robots commerciaux d'ici 2028.",
+        "Le plan relance le débat sur la redistribution des profits générés."
       ],
-      "execSummary": "La Corée du Sud a annoncé fin juin 2026 un plan d'investissement colossal équivalant à plus de 1000 milliards d'euros (environ 1000 milliards de dollars), étalé sur dix ans. Selon Le Monde - Pixels, ce programme prévoit la construction d'usines de semi-conducteurs avancés et de data-centers dédiés à l'intelligence artificielle. Ars Technica précise que Séoul cible un leadership dans « l'IA physique » et vise la commercialisation de robots humanoïdes à l'horizon 2028, en plus d'une montée en puissance de la production de puces mémoire.\n\nCe plan intervient alors que le secteur des semi-conducteurs est devenu stratégique au niveau mondial. La Corée du Sud, qui abrite Samsung et SK Hynix, deux des principaux fabricants de mémoire, cherche à consolider sa position face à une demande explosive liée à l'IA. Le contexte est d'autant plus sensible que ces mêmes fabricants font l'objet d'une action collective aux États-Unis, accusés d'avoir restreint la production de RAM pour maintenir des prix élevés.\n\nLe Monde indique que l'annonce relance le débat sur la manière dont les profits générés par le secteur devraient être redistribués au sein de la société coréenne. Ars Technica met davantage l'accent sur la dimension technologique et industrielle, soulignant l'ambition de rattraper et dépasser les concurrents dans la robotique humanoïde et la mémoire.\n\nÀ l'échéance 2028, la Corée du Sud entend transformer son tissu industriel en pariant sur la convergence entre puces, data-centers et robots. Le pari repose sur la capacité à financer durablement ces infrastructures et à former la main-d'œuvre nécessaire. Reste la question de la concentration des bénéfices entre quelques géants comme Samsung et SK Hynix, déjà critiqués pour leurs pratiques tarifaires, qui pourrait nourrir des tensions sociales et réglementaires.",
+      "execSummary": "Les 29 et 30 juin 2026, la Corée du Sud a dévoilé un plan d'investissement colossal évalué à plus de 1000 milliards d'euros, étalé sur dix ans, selon Le Monde et Ars Technica. Ce programme prévoit la construction d'usines de semi-conducteurs avancés, de data-centers dédiés à l'intelligence artificielle et un développement massif de robots humanoïdes. Dans ce cadre, les deux géants Samsung Electronics et SK Hynix ont annoncé plus de 450 milliards d'euros pour bâtir quatre nouvelles usines de puces mémoire.\n\nCe plan intervient alors que la demande mondiale de puces mémoire explose avec la croissance de l'IA. Le Monde décrit Samsung et SK Hynix comme « les Mbappé et Dembélé des puces mémoire », soulignant leur rôle central dans une industrie stratégique. Ars Technica précise que Séoul vise un leadership dans l'IA physique et la commercialisation de robots humanoïdes dès 2028, positionnant le pays face à la concurrence des États-Unis et de la Chine.\n\nSelon Le Monde, cette annonce relance le débat sur la manière dont les profits générés par le secteur devraient être redistribués. La question sociale accompagne l'ambition industrielle, alors que ces investissements bénéficient d'abord à un petit nombre de champions nationaux. Les deux conglomérats coréens portent une part majeure de l'effort financier.\n\nAvec 450 milliards d'euros engagés par les seuls Samsung et SK Hynix, la Corée du Sud tente de consolider sa domination sur les puces mémoire indispensables aux systèmes d'IA. L'échéance de 2028 fixée pour les robots humanoïdes commerciaux illustre l'ambition d'étendre cette suprématie au-delà des semi-conducteurs. Reste la question du financement et du partage des retombées, dans un secteur où l'infrastructure d'IA devient un enjeu de souveraineté nationale.",
       "sources": [
         "Le Monde - Pixels",
         "Ars Technica"
       ],
-      "publishedAt": "2026-06-29T22:56:41.000Z"
+      "publishedAt": "2026-07-01T04:30:03.000Z"
     },
     {
-      "id": "2026-06-30-05",
+      "id": "2026-07-01-06",
       "category": "eco",
-      "title": "La France adopte une loi contre l'ultrafast-fashion",
+      "title": "Vague de suppressions de postes dans les entreprises",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
-        "lat": 48.8534,
-        "lng": 2.3488,
-        "name": "Paris, France"
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "France / Royaume-Uni"
       },
       "bullets": [
-        "Le Parlement français a définitivement adopté la loi anti-fast-fashion le 29 juin.",
-        "Le texte cible Shein et Temu via un système de pénalités progressives.",
-        "La députée Anne-Cécile Violland (Horizons) a porté ce texte pendant deux ans.",
-        "Le contenu a été allégé pour préserver l'industrie textile française.",
-        "L'enjeu : réduire l'impact environnemental de la mode éphémère importée."
+        "Les plans sociaux déguisés se multiplient dans les entreprises françaises",
+        "Les échos-Le parisien veut supprimer 61 postes de support",
+        "Les librairies Furet du Nord et Decitre suppriment jusqu'à 163 postes",
+        "British American Tobacco supprime 9 000 emplois pour se digitaliser",
+        "L'automatisation et l'IA pèsent sur l'avenir de l'emploi"
       ],
-      "execSummary": "Le Parlement français a adopté définitivement, lundi 29 juin, une loi visant à freiner l'essor de l'ultrafast-fashion, à l'issue d'un ultime vote au Sénat. Porté par la députée Anne-Cécile Violland (Horizons), le texte achève son cheminement parlementaire plus de deux ans après son dépôt. Il met en place un système de pénalités ciblant les entreprises les moins vertueuses, tout en cherchant à préserver l'industrie textile française, selon Le Monde.\n\nCette législation répond à la croissance rapide des géants numériques de la mode éphémère, notamment Shein et Temu, dont le modèle repose sur des volumes massifs de vêtements à bas prix. L'objectif affiché est de « réduire l'impact environnemental de l'industrie textile », un secteur particulièrement polluant en raison de la surproduction et de la rotation accélérée des collections.\n\nLe Monde qualifie la législation de « timide », soulignant que son contenu a été modifié à de nombreuses reprises depuis deux ans, notamment pour ménager les acteurs du secteur dans l'Hexagone. Les dispositions ont été ajustées afin que les pénalités visent principalement les plateformes étrangères plutôt que les enseignes françaises, distinction qui suscite des appréciations contrastées sur la portée réelle du texte.\n\nLe mécanisme de malus environnemental devra désormais être appliqué et son efficacité dépendra des seuils retenus et des contrôles effectifs sur les plateformes en ligne. La capacité de la France à encadrer Shein et Temu, dont les flux logistiques échappent largement aux frontières nationales, reste une question ouverte. Le texte pourrait également servir de référence dans le débat européen sur la régulation du commerce textile importé.",
+      "execSummary": "Plusieurs entreprises, en France comme au Royaume-Uni, ont annoncé fin juin 2026 des vagues de suppressions de postes. En France, Le Monde rapporte que les plans sociaux déguisés se multiplient : incitations à démissionner, licenciements pour insuffisance professionnelle, le plan de sauvegarde de l'emploi n'intervenant qu'en dernier recours. Le groupe Les Echos-Le Parisien veut supprimer 61 postes de fonctions support, tandis que le groupe Nosoli ferme sept librairies Furet du Nord et quatre Decitre, avec jusqu'à 163 postes supprimés. Au Royaume-Uni, la BBC indique que British American Tobacco supprime 9 000 emplois.\n\nCes annonces interviennent dans un contexte de tension sur les finances publiques et de mutation profonde des modèles économiques. Selon Le Monde, certaines sociétés utilisent tous les leviers possibles pour alléger leur masse salariale sans passer par la procédure encadrée du plan de sauvegarde de l'emploi. British American Tobacco justifie ses coupes par une volonté de devenir « plus numérique et centrée sur l'IA », signe d'une transformation technologique des entreprises.\n\nLes directions présentent ces restructurations comme nécessaires à la survie. Nosoli affirme vouloir « restaurer rapidement sa compétitivité » pour assurer la pérennité de ses activités. Chez Les Echos-Le Parisien, la direction précise épargner pour l'heure les rédactions. Les salariés et syndicats, eux, dénoncent des méthodes de contournement des protections légales, selon Le Monde.\n\nLa multiplication des plans déguisés interroge la robustesse des garde-fous du droit du travail français. La contradiction est frappante : British American Tobacco supprime des postes au nom de l'IA, alors que Ford, selon la BBC, a dû réembaucher des ingénieurs humains après l'échec de contrôles qualité automatisés. L'automatisation ne remplace pas toujours l'expertise, et l'emploi reste la variable d'ajustement des entreprises sous pression.",
       "sources": [
-        "Le Monde - Économie"
+        "Le Monde - Économie",
+        "BBC Business"
       ],
-      "publishedAt": "2026-06-30T04:09:58.000Z"
+      "publishedAt": "2026-07-01T04:00:18.000Z"
     }
   ]
 }
