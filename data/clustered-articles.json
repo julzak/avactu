@@ -1,242 +1,308 @@
 {
-  "generatedAt": "2026-07-01T05:00:29.979Z",
+  "generatedAt": "2026-07-02T04:37:09.242Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Burkina Faso : la rupture des relations diplomatiques avec la France, une décisi",
+      "id": "cluster-1",
+      "topic": "Ukraine: plusieurs morts dans une «attaque massive» de missiles et de drones sur",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-01-f136daa6",
-          "title": "Burkina Faso : la rupture des relations diplomatiques avec la France, une décision soudaine aux lourdes conséquences",
-          "description": "Le capitaine Ibrahim Traoré a annoncé, vendredi 26 juin, la rupture des relations bilatérales avec Paris. Les 2 500 ressortissants français résidant dans le pays ne pourront plus compter sur les services de l’ambassade et du consulat, qui doivent rapatrier leurs agents.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/07/01/burkina-faso-la-rupture-des-relations-diplomatiques-avec-la-france-une-decision-soudaine-aux-lourdes-consequences_6717464_3212.html",
+          "id": "2026-07-02-0066f466",
+          "title": "Ukraine: plusieurs morts dans une «attaque massive» de missiles et de drones sur Kiev",
+          "description": "La capitale ukrainienne a été ciblée par des barrages de missiles et de drones russes qui ont provoqué des incendies et fait au moins huit morts jeudi 2 juillet, après un avertissement de Volodymyr Zelensky sur une attaque « de grande envergure ». Le président ukrainien avait indiqué la veille depuis Dublin qu'il rentrait immédiatement à Kiev à la suite d'informations sur une nouvelle attaque de la Russie en préparation.",
+          "url": "https://www.rfi.fr/fr/europe/20260702-ukraine-la-capitale-kiev-vis%C3%A9e-par-une-attaque-massive-de-missiles-et-de-drones",
+          "imageUrl": "https://s.rfi.fr/media/display/def5354a-75ca-11f1-8670-005056a97e36/w:1024/p:16x9/2026-07-02T035716Z-1279189349-RC2D5MAK7B2M-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-02T04:21:00.000Z",
+          "fetchedAt": "2026-07-02T04:33:18.894Z"
+        },
+        {
+          "id": "2026-07-02-5145f2e9",
+          "title": "Maxime Audinet, politiste : « Entre Vincent Bolloré et Xenia Fedorova, il y a une coopération avantageuse, des intérêts mutuels »",
+          "description": "Dans un entretien au « Monde », le chercheur spécialiste de la Russie estime que l’ancienne patronne de RT France sert autant les intérêts du milliardaire breton qu’elle tire profit, pour la Russie, de l’exposition qu’il lui offre dans son empire médiatique.",
+          "url": "https://www.lemonde.fr/idees/article/2026/07/02/maxime-audinet-politiste-entre-vincent-bollore-et-xenia-fedorova-il-y-a-une-cooperation-avantageuse-des-interets-mutuels_6717802_3232.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-01T04:30:06.000Z",
-          "fetchedAt": "2026-07-01T04:56:29.587Z"
+          "publishedAt": "2026-07-02T04:01:08.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.434Z"
         },
         {
-          "id": "2026-07-01-d37b63ec",
-          "title": "Réforme constitutionnelle au Sénégal: la société civile favorable à un référendum dénué de «calculs politiques»",
-          "description": "Actif depuis 15 ans dans le pays, le collectif Y'en a marre a donné son point de vue, mardi 30 juin, sur le projet de réforme constitutionnelle adopté la veille par l'Assemblée nationale et que le président de la République propose de soumettre à référendum. Si celui-ci soutient la démarche du chef de l'État, il appelle de ses voeux une consultation sincère et déplore la poursuite du face-à-face entre Bassirou Diomaye Faye et Ousmane Sonko dans ce dossier.",
-          "url": "https://www.rfi.fr/fr/afrique/20260701-r%C3%A9forme-constitutionnelle-au-s%C3%A9n%C3%A9gal-la-soci%C3%A9t%C3%A9-civile-favorable-%C3%A0-un-r%C3%A9f%C3%A9rendum-d%C3%A9nu%C3%A9-de-calculs-politiques",
-          "imageUrl": "https://s.rfi.fr/media/display/20c2b14e-74fb-11f1-ac20-005056a90284/w:1024/p:16x9/IMG-0284.jpeg",
-          "source": "RFI",
+          "id": "2026-07-02-b040a847",
+          "title": "Guerre en Ukraine : « Le conflit a commencé il y a quatre ans et quatre mois, 1 582 jours. Soit plus longtemps que la première guerre mondiale »",
+          "description": "Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Face à ce conflit qui dure, Sasha trouve une raison d’espérer dans la capacité de l’identité ukrainienne à résister malgré l’adversité. Un courage que souligne aussi Olga, à travers l’exemple de son amie Kateryna, secouriste bénévole sur le front.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/07/02/guerre-en-ukraine-le-conflit-a-commence-il-y-a-quatre-ans-et-quatre-mois-1-582-jours-soit-plus-longtemps-que-la-premiere-guerre-mondiale_6717796_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-01T02:54:44.000Z",
-          "fetchedAt": "2026-07-01T04:56:41.988Z"
+          "publishedAt": "2026-07-02T04:00:35.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.434Z"
         },
         {
-          "id": "2026-07-01-44a7fcea",
-          "title": "Les océans ont enregistré en 2026 un record de chaleur pour un mois de juin",
-          "description": "Les océans mondiaux viennent de connaître leur mois de juin le plus chaud jamais observé, atteignant 20,98°C en moyenne, selon l'observatoire Copernicus Marine. Ils pourraient battre de nouveaux records en 2026, sous l'effet combiné d'El Niño et du réchauffement climatique.",
-          "url": "https://www.france24.com/fr/plan%C3%A8te/20260701-oceans-enregistre-record-chaleur-mois-de-juin-21%C2%B0c-el-nino-rechauffement-climatique-copernicus",
-          "imageUrl": "https://s.france24.com/media/display/21e26e6c-74f5-11f1-a271-005056a97e36/w:1024/p:16x9/2026-06-30T034032Z-27338437-RC204MAOHWH6-RTRMADP-3-CALIFORNIA-SUNSET.jpg",
-          "source": "France 24",
+          "id": "2026-07-02-0893ad4a",
+          "title": "La Russie lance une attaque massive de missiles et de drones sur Kiev",
+          "description": "La capitale ukrainienne a été visée dans la nuit de mercredi à jeudi par une attaque russe de grande envergure qui a fait au moins huit morts, provoqué des incendies et endommagé des immeubles résidentiels. Avec ces frappes, Moscou cherche une nouvelle fois à “compenser sa stagnation militaire par la terreur”, observe la presse ukrainienne.",
+          "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-la-russie-lance-une-attaque-massive-de-missiles-et-de-drones-sur-kiev_245985",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/02/0/0/5977/3984/1200/630/60/0/1134d3a_ftp-1-zsljgghomcmd-afp-b8yv6zq.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-01T02:43:03.000Z",
-          "fetchedAt": "2026-07-01T04:56:29.746Z"
+          "publishedAt": "2026-07-02T03:56:33.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.980Z"
         },
         {
-          "id": "2026-07-01-5764a552",
-          "title": "Un câlin à Didier Deschamps après le premier but face à la Suède, le geste fort des Bleus",
-          "description": "Après avoir marqué un premier but face à la Suède, le capitaine des Bleus, Kylian Mbappé, suivi du reste de l'équipe, a pris dans ses bras le sélectionneur de l'équipe de France, Didier Deschamps, endeuillé par la perte de sa mère. Les joueurs se sont exprimés sur leur geste.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260701-c%C3%A2lin-didier-deschamps-apr%C3%A8s-premier-but-face-su%C3%A8de-geste-fort-des-bleus-france-coupe-du-monde-mondial-2026-football",
-          "imageUrl": "https://s.france24.com/media/display/4cde60da-74f0-11f1-b7be-005056bfb2b6/w:1024/p:16x9/Miniat-3.jpg",
-          "source": "France 24",
+          "id": "2026-07-02-133d87ff",
+          "title": "EN DIRECT, guerre en Ukraine : au moins huit morts dans une série de frappes russes sur Kiev",
+          "description": "Dans la journée de mercredi, Volodymyr Zelensky avait appelé la population ukrainienne à la plus grande prudence, avertissant qu’une nouvelle attaque « de grande envergure » de la Russie était en préparation.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/02/en-direct-guerre-en-ukraine-au-moins-huit-morts-dans-une-serie-de-frappes-russes-sur-kiev_6716525_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-01T02:05:09.000Z",
-          "fetchedAt": "2026-07-01T04:56:29.746Z"
+          "publishedAt": "2026-07-02T03:43:41.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.434Z"
         },
         {
-          "id": "2026-06-30-813a3107",
-          "title": "Coupe du monde 2026: l’équipe de France s’offre un récital face à la Suède et file vers les huitièmes",
-          "description": "Dans une rencontre à sens unique, l’équipe de France a facilement écarté la Suède mardi soir (3-0) pour se qualifier en huitièmes de finale, où l’attend le Paraguay. Grâce à un doublé de Mbappé et un but de Barcola, les Bleus ont marqué les esprits et assumé leur statut de favoris à la victoire finale.",
-          "url": "https://www.rfi.fr/fr/sports/20260630-mondial-2026-l-%C3%A9quipe-de-france-s-offre-un-r%C3%A9cital-face-%C3%A0-la-su%C3%A8de-et-file-vers-les-huiti%C3%A8mes",
-          "imageUrl": "https://s.rfi.fr/media/display/2fe95b3c-74d3-11f1-a91a-005056a97e36/w:1024/p:16x9/AP26181795262332.jpg",
-          "source": "RFI",
+          "id": "2026-07-02-a85a5ede",
+          "title": "La Banque centrale européenne rétropédale et laisse entendre qu’une hausse des taux d’intérêt en juillet est désormais improbable",
+          "description": "Réunis à Sintra, au Portugal, les grands banquiers centraux ont constaté que l’inflation en zone euro avait reculé plus rapidement que prévu, dans la foulée de l’accord entre l’Iran et les Etats-Unis. La hausse des prix s’est élevée à 2,8 % en juin alors qu’elle était de 3,2 % en mai.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/02/la-banque-centrale-europeenne-retropedale-et-laisse-entendre-qu-une-hausse-des-taux-d-interet-en-juillet-est-desormais-improbable_6717748_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-06-30T22:53:15.000Z",
-          "fetchedAt": "2026-07-01T04:56:41.988Z"
-        },
-        {
-          "id": "2026-06-30-96eb3807",
-          "title": "France : l'élection présidentielle 2027 aura lieu les 18 avril et 2 mai",
-          "description": "L'élection présidentielle 2027 aura lieu les 18 avril et 2 mai, selon une source au sein de l'exécutif. Ces dates seront officialisées mercredi en conseil des ministres.",
-          "url": "https://www.france24.com/fr/france/20260630-france-l-%C3%A9lection-pr%C3%A9sidentielle-2027-aura-lieu-les-18-avril-et-2-mai",
-          "imageUrl": "https://s.france24.com/media/display/eb408342-3801-11f1-9a13-005056bfb2b6/w:1024/p:16x9/000-34LD7KC.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-30T20:52:34.000Z",
-          "fetchedAt": "2026-07-01T04:56:29.746Z"
+          "publishedAt": "2026-07-02T03:00:02.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.434Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "Donald Trump a presque triplé sa fortune personnelle qui prospère grâce aux cryp",
+      "id": "cluster-3",
+      "topic": "Algérie: l'ombre d'une abstention record plane sur les élections législatives",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-01-3f33cf2d",
-          "title": "Donald Trump a presque triplé sa fortune personnelle qui prospère grâce aux cryptomonnaies",
-          "description": "Selon des documents officiels, les activités dans les cryptomonnaies du président américain Donald Trump ont engendré des revenus à hauteur de 1,2 milliard de dollars en 2025, via notamment la World Liberty Financial. Ces activités ont fait fructifier son patrimoine personnel, estimé à 6,5 milliards de dollars en 2026.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260701-donald-trump-triple-patrimoine-personnel-prosperant-grace-cryptomonnaies-etats-unis-revenus-wlf",
-          "imageUrl": "https://s.france24.com/media/display/a4832a7e-73d7-11f1-bfc4-005056a90284/w:1024/p:16x9/AP26177676668662-1.jpg",
-          "source": "France 24",
+          "id": "2026-07-02-22b639ec",
+          "title": "Algérie: l'ombre d'une abstention record plane sur les élections législatives",
+          "description": "L'Algérie organise jeudi 2 juillet des élections législatives, les premières depuis la fin du mouvement de contestation du Hirak en 2019 et depuis la réforme de la loi électorale. La campagne est largement axée sur les appels à la participation, alors qu'une abstention record est redoutée.",
+          "url": "https://www.rfi.fr/fr/afrique/20260702-alg%C3%A9rie-l-ombre-d-une-abstention-record-plane-sur-les-%C3%A9lections-l%C3%A9gislatives",
+          "imageUrl": "https://s.rfi.fr/media/display/df24e1b4-7593-11f1-981c-005056a97e36/w:1024/p:16x9/AP25106649315369.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-01T04:01:29.000Z",
-          "fetchedAt": "2026-07-01T04:56:29.746Z"
+          "publishedAt": "2026-07-02T04:14:07.000Z",
+          "fetchedAt": "2026-07-02T04:33:18.894Z"
         },
         {
-          "id": "2026-07-01-43d8c2f5",
-          "title": "“Dindons de la farce” : dans les pays du Golfe, une méfiance croissante à l’égard des États-Unis",
-          "description": "Depuis l’accord provisoire signé entre Washington et Téhéran, les pays du Golfe sont tentés de se rapprocher de l’Iran, voire de négocier directement l’avenir du détroit d’Ormuz. Une démarche encore embryonnaire mais révélatrice, selon ce journaliste de “Ha’Aretz”, d’une crise de confiance avec l’allié américain et d’une volonté d’une nouvelle politique régionale.",
-          "url": "https://www.courrierinternational.com/article/analyse-dindons-de-la-farce-dans-les-pays-du-golfe-une-mefiance-croissante-a-l-egard-des-etats-unis_245749",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/25/0/0/5500/3666/1200/630/60/0/ee7d9c2_ftp-1-xkkpkupmdes3-afp-b8a72mt.jpg",
+          "id": "2026-07-02-806c3907",
+          "title": "L’Algérie élit ses députés dans “un contexte de verrouillage politique persistant”",
+          "description": "Participer ou pas à des élections législatives qui semblent jouées d’avance, c’est le dilemme auquel sont confrontés les partis politiques algériens alors que le pays doit voter le 2 juillet pour renouveler son Assemblée nationale. “Middle East Eye” décrit un paysage politique figé, sept ans après le mouvement populaire du Hirak, qui portait l’espoir d’une démocratisation réelle.",
+          "url": "https://www.courrierinternational.com/article/analyse-l-algerie-elit-ses-deputes-dans-un-contexte-de-verrouillage-politique-persistant_244843",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/17/0/0/2400/1600/1200/630/60/0/5560193_upload-1-czop2zysijdf-web-bleibel-2024-09-07-1840.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-01T03:00:23.000Z",
-          "fetchedAt": "2026-07-01T04:56:30.205Z"
+          "publishedAt": "2026-07-02T03:00:10.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.980Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "Aux Etats-Unis, le Parti démocrate bousculé par l’émergence d’une nouvelle gauch",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-02-8f4b63de",
+          "title": "Aux Etats-Unis, le Parti démocrate bousculé par l’émergence d’une nouvelle gauche radicale",
+          "description": "Une nouvelle génération de candidats, critiques des élites, des injustices sociales et du soutien américain à Israël, s’impose dans les primaires démocrates organisées dans la perspective des élections de mi-mandat, en novembre.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/02/aux-etats-unis-le-parti-democrate-bouscule-par-l-emergence-d-une-nouvelle-gauche-radicale_6717799_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-02T04:00:56.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.434Z"
         },
         {
-          "id": "2026-07-01-dfc83867",
-          "title": "Afrique du Sud, Rassemblement National, Trump, Pakistan, Serena Williams : les informations de la nuit",
+          "id": "2026-07-02-77ff0aa9",
+          "title": "Mark Corcoral, politiste : « Le blocage de certains modèles d’IA par Washington est un nouvel usage du droit à des fins de sécurité nationale »",
+          "description": "La suspension, mi-juin, des derniers modèles d’intelligence artificielle d’Anthropic et d’OpenAI s’inscrit dans une longue tradition américaine d’agressivité juridique vis-à-vis de ses adversaires, selon le chercheur.",
+          "url": "https://www.lemonde.fr/idees/article/2026/07/02/mark-corcoral-politiste-le-blocage-de-certains-modeles-d-ia-par-washington-est-un-nouvel-usage-du-droit-a-des-fins-de-securite-nationale_6717795_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-02T04:00:34.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.434Z"
+        },
+        {
+          "id": "2026-07-02-cd64d0ef",
+          "title": "Pour les 250 ans de l’Amérique, Trump remplace l’histoire par un mythe toxique",
+          "description": "Pilotée par la Maison-Blanche, la célébration en grande pompe du 250e anniversaire des États-Unis est un savant mélange d’égotisme trumpien, de populisme Maga et de nationalisme chrétien, souligne le “Guardian”.",
+          "url": "https://www.courrierinternational.com/article/analyse-pour-les-250-ans-de-l-amerique-trump-remplace-l-histoire-par-un-mythe-toxique_245538",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/25/0/1/4084/2723/1200/630/60/0/d08d635_upload-1-zzxikkmqaezz-1-ares-2024-07-03-1048-copie.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-02T03:00:27.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.980Z"
+        },
+        {
+          "id": "2026-07-02-b1991a85",
+          "title": "Les Etats-Unis ont 250 ans : comment Donald Trump détourne les célébrations",
+          "description": "Le 4 juillet 1776, les colonies britanniques du Nouveau Monde déclaraient leur indépendance. Deux cent cinquante ans plus tard, Donald Trump décide de fêter l’événement à sa manière : par l’autocélébration. Dans ce podcast, Piotr Smolar, correspondant du « Monde » à Washington, nous raconte cet anniversaire, et ce que ce mélange des genres dit du second mandat du président américain.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/07/02/les-etats-unis-ont-250-ans-comment-donald-trump-detourne-les-celebrations_6717751_5463015.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-02T03:00:15.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.434Z"
+        },
+        {
+          "id": "2026-07-02-56895e89",
+          "title": "Les négociations entre l’Iran et les Etats-Unis enkystées autour de l’avenir du détroit d’Ormuz",
+          "description": "Depuis la signature du protocole d’accord entre Washington et Téhéran, à la mi-juin, aucune discussion profonde visant l’avenir du programme nucléaire iranien n’a été amorcée. La République islamique semble vouloir conserver le contrôle sur le passage maritime stratégique en imposant un système de péage en collaboration avec Oman.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/02/les-negociations-entre-l-iran-et-les-etats-unis-enkystees-autour-de-l-avenir-du-detroit-d-ormuz_6717749_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-02T03:00:12.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.434Z"
+        },
+        {
+          "id": "2026-07-02-fc11ccb6",
+          "title": "Négociations au Qatar, attentats en Grèce, États-Unis, Coupe du monde 2026 : les informations de la nuit",
           "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-afrique-du-sud-rassemblement-national-pakistan-serena-williams-les-informations-de-la-nuit_245903",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/30/0/0/4500/3000/1200/630/60/0/41fe3d7_ftp-1-zxzg4ad8c7c6-afp-b8t38fh.jpg",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-negociations-au-qatar-attentats-en-grece-etats-unis-coupe-du-monde-2026-les-informations-de-la-nuit_245952",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/19/0/0/5494/3662/1200/630/60/0/b0bccef_ftp-1-vi0qpcdkngyh-2026-06-19t200126z-801046773-rc28xla3jbo5-rtrmadp-3-usa-trump.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-01T03:00:06.000Z",
-          "fetchedAt": "2026-07-01T04:56:30.205Z"
-        },
-        {
-          "id": "2026-07-01-68e4cd81",
-          "title": "Les États-Unis vont provisoirement lever certains droits de douane sur les engrais phosphatés marocains",
-          "description": "Alors que les agriculteurs américains sont confrontés à d'importants problèmes d'approvisionnement en engrais à cause de la guerre au Moyen Orient, Washington a décidé de lever pour une durée de huit mois certains de ses droits de douane sur les engrais phosphatés marocains. Un choix qui ne doit rien au hasard.",
-          "url": "https://www.rfi.fr/fr/afrique/20260701-les-%C3%A9tats-unis-vont-provisoirement-lever-certains-droits-de-douane-sur-les-engrais-phosphat%C3%A9s-marocains",
-          "imageUrl": "https://s.rfi.fr/media/display/45cfd05e-5ab9-11f1-a811-005056a90284/w:1024/p:16x9/AP111226012248.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-01T02:55:10.000Z",
-          "fetchedAt": "2026-07-01T04:56:41.988Z"
-        },
-        {
-          "id": "2026-07-01-4419c2af",
-          "title": "Donald Trump annonce une convention républicaine dans le Texas avant les élections de mi-mandat",
-          "description": "L’événement inédit, prévu les 9 et 10 septembre à Dallas, vise à resserrer les rangs du Parti républicain avant le scrutin législatif décisif de novembre qui pourrait compliquer les deux dernières années de mandat du président américain.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/01/donald-trump-annonce-une-convention-republicaine-dans-le-texas-avant-les-elections-de-mi-mandat_6717418_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-01T02:50:14.000Z",
-          "fetchedAt": "2026-07-01T04:56:29.587Z"
-        },
-        {
-          "id": "2026-07-01-44a2db15",
-          "title": "Les États-Unis lèvent leurs restrictions sur les modèles d'IA les plus puissants d'Anthropic",
-          "description": "La société Anthropic a annoncé, mardi, que le ministère du Commerce américain \"a levé les contrôles d'exportation sur Claude Fable 5 et Mythos 5\", imposés le 12 juin, sans préciser si cette réintégration concerne les partenaires non-américains. Les États-Unis avaient invoqué un risque pour la sécurité nationale craignant une utilisation de cette IA pour exploiter des failles de cybersécurité.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260701-etats-unis-levent-restrictions-modeles-intelligence-artificielle-puissants-anthropic-commerce-claude-mythos-s%C3%A9curite-nationale",
-          "imageUrl": "https://s.france24.com/media/display/d8503e6e-74ea-11f1-934f-005056bf30b7/w:1024/p:16x9/2026-06-30T235818Z-1842503695-RC2UNLA3OSW3-RTRMADP-3-USA-ANTHROPIC-FABLE.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-01T01:25:27.000Z",
-          "fetchedAt": "2026-07-01T04:56:29.746Z"
+          "publishedAt": "2026-07-02T03:00:02.000Z",
+          "fetchedAt": "2026-07-02T04:33:08.980Z"
         }
       ]
     },
     {
-      "id": "cluster-19",
-      "topic": "Centrafrique: frontalière du Soudan, la localité d'Am Dafok visée par une violen",
-      "category": "geopolitique",
+      "id": "cluster-6",
+      "topic": "NASA chief praises progress Blue Origin is making after launch failure",
+      "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-01-d7ae5dac",
-          "title": "Centrafrique: frontalière du Soudan, la localité d'Am Dafok visée par une violente attaque",
-          "description": "Des hommes armés ont investi la cité située dans la préfecture de la Vakaga, dans le nord-est du pays, à l'aube du mardi 30 juin et en ont pris le contrôle pendant une partie de la journée. Si le bilan de l'attaque reste incertain à ce stade, différentes sources évoquent un assaut meurtrier.",
-          "url": "https://www.rfi.fr/fr/afrique/20260701-centrafrique-frontali%C3%A8re-du-soudan-la-localit%C3%A9-d-am-dafok-vis%C3%A9e-par-une-violente-attaque",
-          "imageUrl": "https://s.rfi.fr/media/display/04e13b52-1ea6-11ee-8164-005056bfb2b6/w:1024/p:16x9/000_VF6WA.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-01T02:54:06.000Z",
-          "fetchedAt": "2026-07-01T04:56:41.988Z"
-        },
-        {
-          "id": "2026-06-30-dc9504da",
-          "title": "Venezuela : le bilan des séismes passe à 1 900 décès, un enfant de trois ans secouru",
-          "description": "Les opérations de sauvetage étaient toujours en cours, mardi, au Venezuela après le double séisme de magnitude 7,2 et 7,5 survenu le 24 juin. Le nouveau bilan des autorités fait état de 1 943 morts et de 6 461 personnes secourues. Un enfant de trois ans a été sorti vivant des décombres par une équipe de secouristes jordaniens.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260630-venezuela-bilan-double-s%C3%A9isme-augmente-1-943-d%C3%A9c%C3%A8s-secours-catastrophe-naturemme-morts-disparus",
-          "imageUrl": "https://s.france24.com/media/display/3760f5ce-74b4-11f1-bfbf-005056bf30b7/w:1024/p:16x9/AP26181461793242.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-30T18:59:05.000Z",
-          "fetchedAt": "2026-07-01T04:56:29.746Z"
-        },
-        {
-          "id": "2026-06-30-f3b593bb",
-          "title": "Séismes au Venezuela : un nouveau bilan de 1 943 morts, plus de 50 000 disparus et un besoin urgent de nourriture et d’abris, selon l’ONU",
-          "description": "Le président de l’Assemblée nationale, Jorge Rodriguez, a fait état, dans un nouveau bilan, de 10 500 blessés et plus de 15 000 sinistrés. Le Programme alimentaire mondial a lancé mardi un appel initial de 50 millions de dollars pour nourrir quelque 500 000 personnes pendant trois mois.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/30/seismes-au-venezuela-un-nouveau-bilan-de-1943-morts-plus-de-50-000-disparues-et-un-manque-cruel-de-nourriture-et-d-abris-selon-l-onu_6717276_3211.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-30T18:26:01.000Z",
-          "fetchedAt": "2026-07-01T04:56:29.587Z"
-        },
-        {
-          "id": "2026-06-30-5b3bcfed",
-          "title": "Une “révolution” : de l’ADN humain découvert sur les parois de grottes préhistoriques",
-          "description": "Une équipe internationale a découvert de l’ADN humain sur les parois de grottes peintes il y a des milliers d’années. Une première qui démontre que du matériel génétique peut subsister sur des surfaces rocheuses bien après la disparition des individus qui ont laissé ces traces. Et ouvre la voie à une autre façon d’étudier les populations aujourd’hui disparues.",
-          "url": "https://www.courrierinternational.com/article/paleontologie-une-revolution-de-l-adn-humain-decouvert-sur-les-parois-de-grottes-prehistoriques_245863",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/30/1/0/8192/5461/1200/630/60/0/3ab2c64_upload-1-ylup8xpqsvd5-000-68hz43v-1.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-06-30T15:39:14.000Z",
-          "fetchedAt": "2026-07-01T04:56:30.205Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its sm",
-      "category": "tech",
-      "importance": 7,
-      "articles": [
-        {
-          "id": "2026-07-01-3c26e72f",
-          "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
-          "description": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscription. \nIn a help article, the company insists that it won't require a subscription to use your glasses, period; it's merely erecting a \"rate limit\" for certain AI features. Even premium subscribers will only get 15 hours of Conversation Focus per month under that \"rate limit,\" it claims.\nProblem is, Meta's rate limit is ridiculous. The Conversatio …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0129.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-07-01-98bf2665",
+          "title": "NASA chief praises progress Blue Origin is making after launch failure",
+          "description": "\"We've got time into 2027 before we're getting nervous.\"",
+          "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/News_NG-ReturnToFlight_2-RocketLift-1152x648.webp",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-07-01T00:51:03.000Z",
-          "fetchedAt": "2026-07-01T04:56:52.696Z"
+          "publishedAt": "2026-07-01T19:57:36.000Z",
+          "fetchedAt": "2026-07-02T04:33:27.324Z"
+        },
+        {
+          "id": "2026-07-01-f280d4ff",
+          "title": "En Suède, Google est condamné à verser 1,3 milliard d’euros à PriceRunner pour abus de position dominante",
+          "description": "Le tribunal donne raison à PriceRunner « dans la mesure où l’abus commis par Google s’est prolongé plus longtemps que ce que Google avait fait valoir, et où cet abus a causé un préjudice à PriceRunner », selon le communiqué de la décision.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/01/en-suede-google-est-condamne-a-verser-1-3-milliard-d-euros-a-pricerunner-pour-abus-de-position-dominante_6717543_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-07-01T13:06:34.000Z",
+          "fetchedAt": "2026-07-02T04:33:18.744Z"
+        },
+        {
+          "id": "2026-07-01-b207c5f5",
+          "title": "Le marché de la voiture électrique explose et Renault signe une performance étonnante derrière Tesla",
+          "description": "Les voitures électriques ont de nouveau réalisé un mois exceptionnel, établissant de nouveaux records pour juin 2026. Tesla s’impose, mais derrière elle, Renault place sans forcer quatre modèles les uns à la suite des autres en tête du classement. Et ce n’est pas tout.",
+          "url": "https://www.numerama.com/vroom/2288977-le-marche-de-la-voiture-electrique-explose-et-renault-signe-une-performance-etonnante-derriere-tesla.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/classement-juin-immatriculations.jpg?resize=1600,900&key=7328a221",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-01T10:03:00.000Z",
+          "fetchedAt": "2026-07-02T04:33:18.826Z"
+        },
+        {
+          "id": "2026-07-01-d85dd0cc",
+          "title": "Le prochain anime du studio de l’Attaque des Titans est une série de SF très prometteuse",
+          "description": "Le studio japonais d’animation Wit a annoncé une nouvelle série prévue pour le printemps 2027. Cet anime de science-fiction, au pitch déjà très prometteur, s’annonce comme une relecture ambitieuse de plusieurs grands thèmes du genre.",
+          "url": "https://www.numerama.com/pop-culture/2288747-le-prochain-anime-du-studio-de-lattaque-des-titans-est-une-serie-de-sf-tres-prometteuse.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/lona.jpg?resize=1600,900&key=2dbf3128",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-01T07:48:18.000Z",
+          "fetchedAt": "2026-07-02T04:33:18.826Z"
+        },
+        {
+          "id": "2026-07-01-fadbb429",
+          "title": "Une tour à 15 274 €, deux GPU AMD et aucun abonnement cloud : on a testé l’IA locale à son maximum [Sponso]",
+          "description": "Cet article a été réalisé en collaboration avec AMD\n\nUne tour à 15 274 € posée sous un bureau, deux cartes graphiques AMD, et l'intégralité d'une chaîne de production logicielle qui tourne sans jamais toucher au cloud. On a voulu savoir ce que permet vraiment une machine d'IA en local.",
+          "url": "https://www.numerama.com/tech/2286207-une-tour-a-15-274-e-deux-gpu-amd-et-aucun-abonnement-cloud-on-a-teste-lia-locale-a-son-maximum.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/amd-workstation-threadripper-09.jpg?resize=1600,900&key=a5037778",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-01T07:01:30.000Z",
+          "fetchedAt": "2026-07-02T04:33:18.826Z"
+        },
+        {
+          "id": "2026-07-01-bc5ce6a7",
+          "title": "Ce que nous enseigne la première attaque (expérimentale) d’un ver informatique mû par l’IA",
+          "description": "Une équipe canadienne a développé un programme utilisant un grand modèle de langage pour orchestrer des attaques et repérer des failles de façon autonome. Si cette démonstration ne surprend pas les spécialistes, elle pourrait permettre d’élaborer des parades.",
+          "url": "https://www.lemonde.fr/sciences/article/2026/07/01/ce-que-nous-enseigne-la-premiere-attaque-experimentale-d-un-ver-informatique-mu-par-l-intelligence-artificielle_6717463_1650684.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-07-01T04:30:00.000Z",
+          "fetchedAt": "2026-07-02T04:33:18.744Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Ce qui change à partir du 1er juillet : congé supplémentaire de naissance, taxe ",
+      "topic": "« Lesbiennes au travail : sortir de l’invisibilité » : une enquête pour mieux sa",
       "category": "eco",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-07-01-899f6c3d",
-          "title": "Ce qui change à partir du 1er juillet : congé supplémentaire de naissance, taxe sur les petits colis, prix du gaz, allocations chômage, location de véhicules électriques, réglementation des cryptoactifs…",
-          "description": "Plusieurs changements s’opèrent qui vont affecter le budget et la vie de certains ménages.",
-          "url": "https://www.lemonde.fr/argent/article/2026/07/01/ce-qui-change-a-partir-1er-juillet-conge-supplementaire-de-naissance-taxe-sur-les-petits-colis-prix-du-gaz-allocations-chomage-location-de-vehicules-electriques-reglementation-des-cryptoactifs_6717458_1657007.html",
+          "id": "2026-07-02-40b73586",
+          "title": "« Lesbiennes au travail : sortir de l’invisibilité » : une enquête pour mieux saisir le vécu des femmes homosexuelles au sein des entreprises",
+          "description": "Palliant un déficit de recherche sur le sujet, l’universitaire Clotilde Coron propose dans son dernier ouvrage une étude rigoureuse du quotidien des salariées lesbiennes, explorant leur « stratégie de dévoilement », les risques de discrimination auxquels elles sont exposées, mais aussi leurs carrières et rémunérations.",
+          "url": "https://www.lemonde.fr/emploi/article/2026/07/02/lesbiennes-au-travail-sortir-de-l-invisibilite-une-enquete-pour-mieux-saisir-le-vecu-des-femmes-homosexuelles-au-sein-des-entreprises_6717791_1698637.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-01T04:00:00.000Z",
-          "fetchedAt": "2026-07-01T04:56:52.701Z"
+          "publishedAt": "2026-07-02T04:00:18.000Z",
+          "fetchedAt": "2026-07-02T04:33:27.298Z"
+        },
+        {
+          "id": "2026-07-01-12cde5d3",
+          "title": "CMA CGM rachète une division de FedEx et scelle un partenariat majeur avec le géant américain",
+          "description": "Le groupe de transport maritime basé à Marseille débourse 1,4 milliard de dollars pour accroître sa présence aux Etats-Unis. Il pourrait devenir un partenaire privilégié de l’entreprise américaine de logistique pour le transport maritime.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/01/cma-cgm-rachete-une-division-de-fedex-et-scelle-un-partenariat-majeur-avec-le-geant-americain_6717580_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-01T16:45:01.000Z",
+          "fetchedAt": "2026-07-02T04:33:27.298Z"
+        },
+        {
+          "id": "2026-07-01-43b6143d",
+          "title": "CNews : QuotaClimat saisit le Conseil d’Etat après le refus de l’Arcom d’agir sur un cas de désinformation climatique",
+          "description": "L’association demande que l’Autorité de régulation de la communication audiovisuelle et numérique sanctionne la chaîne de Vincent Bolloré à propos d’une séquence au cours de laquelle l’essayiste Michel Onfray avait estimé que le réchauffement climatique était en partie dû aux « interactions entre les univers ».",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/01/cnews-quotaclimat-saisit-le-conseil-d-etat-apres-le-refus-de-l-arcom-d-agir-sur-un-cas-de-desinformation-climatique_6717572_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-01T16:00:10.000Z",
+          "fetchedAt": "2026-07-02T04:33:27.298Z"
+        },
+        {
+          "id": "2026-07-01-dd9a8621",
+          "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+          "description": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+          "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b21/live/28f27770-74a9-11f1-9c5b-41132a229f02.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-07-01T01:04:16.000Z",
+          "fetchedAt": "2026-07-02T04:33:30.238Z"
         }
       ]
     }
