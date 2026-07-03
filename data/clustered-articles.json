@@ -1,127 +1,190 @@
 {
-  "generatedAt": "2026-07-02T04:37:09.242Z",
+  "generatedAt": "2026-07-03T04:16:28.648Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Ukraine: plusieurs morts dans une «attaque massive» de missiles et de drones sur",
+      "id": "cluster-2",
+      "topic": "Zelensky promet une riposte après l’attaque russe contre Kiev, “la plus massive”",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-02-0066f466",
-          "title": "Ukraine: plusieurs morts dans une «attaque massive» de missiles et de drones sur Kiev",
-          "description": "La capitale ukrainienne a été ciblée par des barrages de missiles et de drones russes qui ont provoqué des incendies et fait au moins huit morts jeudi 2 juillet, après un avertissement de Volodymyr Zelensky sur une attaque « de grande envergure ». Le président ukrainien avait indiqué la veille depuis Dublin qu'il rentrait immédiatement à Kiev à la suite d'informations sur une nouvelle attaque de la Russie en préparation.",
-          "url": "https://www.rfi.fr/fr/europe/20260702-ukraine-la-capitale-kiev-vis%C3%A9e-par-une-attaque-massive-de-missiles-et-de-drones",
-          "imageUrl": "https://s.rfi.fr/media/display/def5354a-75ca-11f1-8670-005056a97e36/w:1024/p:16x9/2026-07-02T035716Z-1279189349-RC2D5MAK7B2M-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T04:21:00.000Z",
-          "fetchedAt": "2026-07-02T04:33:18.894Z"
-        },
-        {
-          "id": "2026-07-02-5145f2e9",
-          "title": "Maxime Audinet, politiste : « Entre Vincent Bolloré et Xenia Fedorova, il y a une coopération avantageuse, des intérêts mutuels »",
-          "description": "Dans un entretien au « Monde », le chercheur spécialiste de la Russie estime que l’ancienne patronne de RT France sert autant les intérêts du milliardaire breton qu’elle tire profit, pour la Russie, de l’exposition qu’il lui offre dans son empire médiatique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/02/maxime-audinet-politiste-entre-vincent-bollore-et-xenia-fedorova-il-y-a-une-cooperation-avantageuse-des-interets-mutuels_6717802_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T04:01:08.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.434Z"
-        },
-        {
-          "id": "2026-07-02-b040a847",
-          "title": "Guerre en Ukraine : « Le conflit a commencé il y a quatre ans et quatre mois, 1 582 jours. Soit plus longtemps que la première guerre mondiale »",
-          "description": "Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Face à ce conflit qui dure, Sasha trouve une raison d’espérer dans la capacité de l’identité ukrainienne à résister malgré l’adversité. Un courage que souligne aussi Olga, à travers l’exemple de son amie Kateryna, secouriste bénévole sur le front.",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/07/02/guerre-en-ukraine-le-conflit-a-commence-il-y-a-quatre-ans-et-quatre-mois-1-582-jours-soit-plus-longtemps-que-la-premiere-guerre-mondiale_6717796_4500055.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T04:00:35.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.434Z"
-        },
-        {
-          "id": "2026-07-02-0893ad4a",
-          "title": "La Russie lance une attaque massive de missiles et de drones sur Kiev",
-          "description": "La capitale ukrainienne a été visée dans la nuit de mercredi à jeudi par une attaque russe de grande envergure qui a fait au moins huit morts, provoqué des incendies et endommagé des immeubles résidentiels. Avec ces frappes, Moscou cherche une nouvelle fois à “compenser sa stagnation militaire par la terreur”, observe la presse ukrainienne.",
-          "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-la-russie-lance-une-attaque-massive-de-missiles-et-de-drones-sur-kiev_245985",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/02/0/0/5977/3984/1200/630/60/0/1134d3a_ftp-1-zsljgghomcmd-afp-b8yv6zq.jpg",
+          "id": "2026-07-03-b9bc3bb9",
+          "title": "Zelensky promet une riposte après l’attaque russe contre Kiev, “la plus massive” depuis le début de la guerre",
+          "description": "L’attaque russe ayant visé Kiev dans la nuit de mercredi à jeudi, “la plus massive” contre la capitale ukrainienne depuis le début de la guerre, a fait au moins 27 morts et plus de 90 blessés. Volodymyr Zelensky a promis des représailles et exhorté ses alliés à livrer à son pays davantage de moyens de défense antiaérienne.",
+          "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-zelensky-promet-une-riposte-apres-l-attaque-russe-contre-kiev-la-plus-massive-depuis-le-debut-de-la-guerre_246315",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/02/1/0/8192/5461/1200/630/60/0/a6d5e50_ftp-1-5fu6rvo6gx1k-afp-b943863.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-02T03:56:33.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.980Z"
+          "publishedAt": "2026-07-03T04:03:33.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.801Z"
         },
         {
-          "id": "2026-07-02-133d87ff",
-          "title": "EN DIRECT, guerre en Ukraine : au moins huit morts dans une série de frappes russes sur Kiev",
-          "description": "Dans la journée de mercredi, Volodymyr Zelensky avait appelé la population ukrainienne à la plus grande prudence, avertissant qu’une nouvelle attaque « de grande envergure » de la Russie était en préparation.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/02/en-direct-guerre-en-ukraine-au-moins-huit-morts-dans-une-serie-de-frappes-russes-sur-kiev_6716525_3210.html",
+          "id": "2026-07-03-1c79f1dc",
+          "title": "Guerre en Ukraine : comment l’armée russe a perdu l’initiative",
+          "description": "La Russie s’enlise dans la guerre terrestre et accumule un retard technologique, tandis que ses ressources humaines et pétrolières décroissent. L’armée ukrainienne, soutenue par une industrie de défense réactive et innovante, ne parvient pas, pour autant, à basculer dans une posture offensive dans le combat terrestre.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/03/guerre-en-ukraine-comment-l-armee-russe-a-perdu-l-initiative_6718375_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-02T03:43:41.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.434Z"
+          "publishedAt": "2026-07-03T03:00:26.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.228Z"
         },
         {
-          "id": "2026-07-02-a85a5ede",
-          "title": "La Banque centrale européenne rétropédale et laisse entendre qu’une hausse des taux d’intérêt en juillet est désormais improbable",
-          "description": "Réunis à Sintra, au Portugal, les grands banquiers centraux ont constaté que l’inflation en zone euro avait reculé plus rapidement que prévu, dans la foulée de l’accord entre l’Iran et les Etats-Unis. La hausse des prix s’est élevée à 2,8 % en juin alors qu’elle était de 3,2 % en mai.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/02/la-banque-centrale-europeenne-retropedale-et-laisse-entendre-qu-une-hausse-des-taux-d-interet-en-juillet-est-desormais-improbable_6717748_3234.html",
+          "id": "2026-07-02-791a4b85",
+          "title": "EN DIRECT, guerre en Ukraine : Donald Trump veut un accord de paix pour mettre fin aux « tueries insensées », après l’attaque russe qui a fait au moins 27 morts à Kiev",
+          "description": "Volodymyr Zelensky a promis une réplique après la pire attaque russe sur Kiev depuis le début du conflit. Au moins 27 personnes ont été tuées, et plus de 90 blessées, par des missiles et des drones dans la nuit de mercredi à jeudi, selon les autorités ukrainiennes.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/03/en-direct-guerre-en-ukraine-donald-trump-veut-un-accord-de-paix-pour-mettre-fin-aux-tueries-insensees-apres-l-attaque-russe-qui-a-fait-au-moins-27-morts-a-kiev_6716525_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-02T03:00:02.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.434Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Algérie: l'ombre d'une abstention record plane sur les élections législatives",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-02-22b639ec",
-          "title": "Algérie: l'ombre d'une abstention record plane sur les élections législatives",
-          "description": "L'Algérie organise jeudi 2 juillet des élections législatives, les premières depuis la fin du mouvement de contestation du Hirak en 2019 et depuis la réforme de la loi électorale. La campagne est largement axée sur les appels à la participation, alors qu'une abstention record est redoutée.",
-          "url": "https://www.rfi.fr/fr/afrique/20260702-alg%C3%A9rie-l-ombre-d-une-abstention-record-plane-sur-les-%C3%A9lections-l%C3%A9gislatives",
-          "imageUrl": "https://s.rfi.fr/media/display/df24e1b4-7593-11f1-981c-005056a97e36/w:1024/p:16x9/AP25106649315369.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T04:14:07.000Z",
-          "fetchedAt": "2026-07-02T04:33:18.894Z"
+          "publishedAt": "2026-07-02T22:52:36.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.228Z"
         },
         {
-          "id": "2026-07-02-806c3907",
-          "title": "L’Algérie élit ses députés dans “un contexte de verrouillage politique persistant”",
-          "description": "Participer ou pas à des élections législatives qui semblent jouées d’avance, c’est le dilemme auquel sont confrontés les partis politiques algériens alors que le pays doit voter le 2 juillet pour renouveler son Assemblée nationale. “Middle East Eye” décrit un paysage politique figé, sept ans après le mouvement populaire du Hirak, qui portait l’espoir d’une démocratisation réelle.",
-          "url": "https://www.courrierinternational.com/article/analyse-l-algerie-elit-ses-deputes-dans-un-contexte-de-verrouillage-politique-persistant_244843",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/17/0/0/2400/1600/1200/630/60/0/5560193_upload-1-czop2zysijdf-web-bleibel-2024-09-07-1840.jpg",
+          "id": "2026-07-02-5bc9f771",
+          "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+          "description": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6649/live/4f89e160-7630-11f1-ac11-19a4319081d7.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-02T20:18:14.000Z",
+          "fetchedAt": "2026-07-03T04:12:42.589Z"
+        },
+        {
+          "id": "2026-07-02-78cac264",
+          "title": "“Plus sanglante que Stalingrad”, la guerre en Ukraine aurait fait 2 millions de victimes",
+          "description": "Selon une nouvelle estimation du CSIS (Centre d’études internationales et stratégiques), le bilan du conflit en Ukraine, commencé en 2022, atteint désormais les 2 millions de victimes, morts et blessés confondus. La répartition des pertes n’est toutefois pas du tout égale entre Kiev et Moscou.",
+          "url": "https://www.courrierinternational.com/article/rapport-plus-sanglante-que-stalingrad-la-guerre-en-ukraine-aurait-fait-2-millions-de-victimes_246213",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/02/0/6/6036/4024/1200/630/60/0/8745db3_upload-1-5iz1p6kfus62-000-b7el6cx.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-02T03:00:10.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.980Z"
+          "publishedAt": "2026-07-02T15:44:35.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.801Z"
         }
       ]
     },
     {
       "id": "cluster-6",
-      "topic": "Aux Etats-Unis, le Parti démocrate bousculé par l’émergence d’une nouvelle gauch",
+      "topic": "Séismes au Venezuela: un soutien psychologique apporté aux enfants traumatisés",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-02-8f4b63de",
-          "title": "Aux Etats-Unis, le Parti démocrate bousculé par l’émergence d’une nouvelle gauche radicale",
-          "description": "Une nouvelle génération de candidats, critiques des élites, des injustices sociales et du soutien américain à Israël, s’impose dans les primaires démocrates organisées dans la perspective des élections de mi-mandat, en novembre.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/02/aux-etats-unis-le-parti-democrate-bouscule-par-l-emergence-d-une-nouvelle-gauche-radicale_6717799_3210.html",
+          "id": "2026-07-03-ba06482b",
+          "title": "Séismes au Venezuela: un soutien psychologique apporté aux enfants traumatisés",
+          "description": "C'est un stade devenu refuge : à La Guaira, l'ONU gère un camp de déplacés où s’entassent de nombreuses familles avec enfants, après les séismes qui ont secoué le nord du Venezuela le 24 juin dernier. Pour ces familles, impossible de rentrer chez elles. Au-delà de l'aide matérielle, l'une des priorités des organisations humanitaires est désormais d'apporter un soutien psychologique aux enfants.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260703-s%C3%A9ismes-au-venezuela-un-soutien-psychologique-apport%C3%A9-aux-enfants-traumatis%C3%A9s",
+          "imageUrl": "https://s.rfi.fr/media/display/d27f2b54-764c-11f1-af7d-005056bf30b7/w:1024/p:16x9/2026-07-02T190824Z-910024478-RC2T5MA38CZH-RTRMADP-3-VENEZUELA-QUAKE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-03T03:30:31.000Z",
+          "fetchedAt": "2026-07-03T04:12:42.281Z"
+        },
+        {
+          "id": "2026-07-03-e900b40c",
+          "title": "Ebola en RDC: démarrage d'un essai clinique d'un potentiel traitement contre la souche Bundibugyo",
+          "description": "Un essai clinique a démarré, ce jeudi 2 juillet 2026, en République Démocratique du Congo (RDC), afin de tester un potentiel traitement contre la souche Bundibugyo du virus Ebola. Alors que l'épidémie continue de frapper le pays, et a déjà fait plus de 438 morts, l'Organisation mondiale de la Santé (OMS) lance un appel aux patients atteints d'Ebola qui souhaiteraient contribuer aux essais.",
+          "url": "https://www.rfi.fr/fr/afrique/20260703-ebola-en-rdc-d%C3%A9marrage-d-un-essai-clinique-d-un-potentiel-traitement-contre-la-souche-bundibugyo",
+          "imageUrl": "https://s.rfi.fr/media/display/b29ced5c-7661-11f1-9665-005056a90284/w:1024/p:16x9/2026-07-02T204519Z-2059851712-RC2R5MAKUXM2-RTRMADP-3-HEALTH-EBOLA-CONGO-SOUTHAFRICA.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-03T03:02:33.000Z",
+          "fetchedAt": "2026-07-03T04:12:42.281Z"
+        },
+        {
+          "id": "2026-07-03-771c8059",
+          "title": "Ebola a fait plus de 400 morts en RD Congo, l'OMS annonce le lancement d'un essai clinique",
+          "description": "L'épidémie d'Ebola continue de s'étendre en République démocratique du Congo, un cas a été confirmé à Kisangani. Au total, l'INSP a recensé 438 décès et 1 406 cas jusqu'ici. Pour tenter de mettre au point un traitement et d'endiguer l'épidémie, l'Organisation mondiale de la santé a annoncé, jeudi, le début d'un essai clinique.",
+          "url": "https://www.france24.com/fr/afrique/20260703-ebola-400-morts-rd-congo-oms-annonce-lancement-essai-clinique-epidemie-virus-sante-traitement",
+          "imageUrl": "https://s.france24.com/media/display/8e1b00b6-767c-11f1-ada6-005056bf30b7/w:1024/p:16x9/2026-07-02T205051Z-566624377-RC2R5MA44QIL-RTRMADP-3-HEALTH-EBOLA-CONGO-SOUTHAFRICA.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-03T01:17:04.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.187Z"
+        },
+        {
+          "id": "2026-07-03-e202a6a8",
+          "title": "Les Bleus pas favoris du Mondial ? Jules Koundé répond à Lamine Yamal",
+          "description": "Lamine Yamal a estimé qu'aucune sélection n'était au-dessus des autres dans cette Coupe du monde, y compris la France – pourtant considérée par beaucoup comme la grande favorite après les démonstrations des Bleus en phase de groupe et en 16es de finale. Le Tricolore Jules Koundé, qui joue avec lui au FC Barcelone, lui a répondu.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260703-les-bleus-pas-favoris-du-mondial-jules-kound%C3%A9-r%C3%A9pond-%C3%A0-lamine-yamal",
+          "imageUrl": "https://s.france24.com/media/display/9457c282-766f-11f1-8475-005056bf30b7/w:1024/p:16x9/minikounde.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-03T00:02:22.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.187Z"
+        },
+        {
+          "id": "2026-07-02-eff3a771",
+          "title": "Un ex-athlète olympique accusé de dégradations au bassin du Lincoln Memorial à Washington",
+          "description": "David Hearn, qui conteste les faits, a été inculpé pour dégradation de propriété publique. Il encourt une peine pouvant aller jusqu’à dix ans de prison.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/03/un-ex-athlete-olympique-accuse-d-avoir-endommage-le-bassin-du-lincoln-memorial-a-washington_6718270_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-02T04:00:56.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.434Z"
+          "publishedAt": "2026-07-02T23:23:54.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.228Z"
+        },
+        {
+          "id": "2026-07-02-8bd3d773",
+          "title": "Le président Aoun assure que le Liban ne cèdera \"pas un pouce\" du territoire à Israël",
+          "description": "Le président libanais, Joseph Aoun, a défendu jeudi que les négociations que le pays mène avec Israël ne sont pas \"une trahison, mais une guerre diplomatique\", contrairement à ce que dit le Hezbollah. Il a assuré que ces pourparlers doivent \"garantir le retrait israélien de son territoire\" : \"Nous ne céderons pas un seul pouce du territoire libanais.\"",
+          "url": "https://www.france24.com/fr/moyen-orient/20260702-joseph-aoun-president-libana-cedera-pas-un-pouce-territoire-israel-negociations-guerre-hezbollah",
+          "imageUrl": "https://s.france24.com/media/display/9ef2b4ac-6f0f-11f1-bc80-005056a97e36/w:1024/p:16x9/000-A88L7WR.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-02T22:13:11.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.187Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-21",
+      "topic": "Suisse - Algérie en direct : la Nati prend le large face aux Fennecs",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-03-53ee5d32",
+          "title": "Suisse - Algérie en direct : la Nati prend le large face aux Fennecs",
+          "description": "Solide à défaut d'être vraiment séduisante, la Suisse se mesure à l'Algérie d'Ibrahim Maza, vendredi, au BC Place de Vancouver au Canada en 16es de finale de la Coupe du monde 2026. Suivez ce match en live grâce à notre direct commenté.",
+          "url": "https://www.france24.com/fr/sports/20260703-suisse-algerie-direct-live-fennecs-nati-16es-finale-coupe-du-monde",
+          "imageUrl": "https://s.france24.com/media/display/afbf51e0-75d7-11f1-a107-005056bf30b7/w:1024/p:16x9/SUI-ALG-H.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-03T01:42:32.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.187Z"
+        },
+        {
+          "id": "2026-07-03-4c712340",
+          "title": "EN DIRECT, Suisse-Algérie : Dan Ndoye accroît l’avance de la Nati dès la reprise, les Fennecs en manque d’inspiration et de précision",
+          "description": "Troisièmes de leur poule, les Fennecs tenteront de remporter leur premier match à élimination directe dans une Coupe du monde dans la nuit de jeudi à vendredi. Pour cela, ils devront battre les Suisses à Vancouver (Canada).",
+          "url": "https://www.lemonde.fr/sport/live/2026/07/03/en-direct-suisse-algerie-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6718337_3242.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-03T01:00:08.000Z",
+          "fetchedAt": "2026-07-03T04:12:28.228Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-21",
+      "topic": "« Le blocage des IA d’Anthropic et d’OpenAI illustre les dilemmes des Etats-Unis",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-02-9d1bbfd3",
+          "title": "« Le blocage des IA d’Anthropic et d’OpenAI illustre les dilemmes des Etats-Unis vis-à-vis de cette technologie et de la Chine »",
+          "description": "Les capacités de disruption de l’intelligence artificielle contraignent l’administration américaine à une surveillance accrue. Donald Trump, après avoir dérégulé le secteur, a été contraint de faire machine arrière, constate le journaliste Alexandre Piquard dans sa chronique.",
+          "url": "https://www.lemonde.fr/idees/article/2026/07/02/le-blocage-des-ia-d-anthropic-et-d-openai-illustre-les-dilemmes-des-etats-unis-vis-a-vis-de-cette-technologie-et-de-la-chine_6718185_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-07-02T15:00:03.000Z",
+          "fetchedAt": "2026-07-03T04:12:42.355Z"
         },
         {
           "id": "2026-07-02-77ff0aa9",
@@ -129,180 +192,84 @@
           "description": "La suspension, mi-juin, des derniers modèles d’intelligence artificielle d’Anthropic et d’OpenAI s’inscrit dans une longue tradition américaine d’agressivité juridique vis-à-vis de ses adversaires, selon le chercheur.",
           "url": "https://www.lemonde.fr/idees/article/2026/07/02/mark-corcoral-politiste-le-blocage-de-certains-modeles-d-ia-par-washington-est-un-nouvel-usage-du-droit-a-des-fins-de-securite-nationale_6717795_3232.html",
           "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T04:00:34.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.434Z"
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-07-02T04:00:26.000Z",
+          "fetchedAt": "2026-07-03T04:12:42.355Z"
         },
         {
-          "id": "2026-07-02-cd64d0ef",
-          "title": "Pour les 250 ans de l’Amérique, Trump remplace l’histoire par un mythe toxique",
-          "description": "Pilotée par la Maison-Blanche, la célébration en grande pompe du 250e anniversaire des États-Unis est un savant mélange d’égotisme trumpien, de populisme Maga et de nationalisme chrétien, souligne le “Guardian”.",
-          "url": "https://www.courrierinternational.com/article/analyse-pour-les-250-ans-de-l-amerique-trump-remplace-l-histoire-par-un-mythe-toxique_245538",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/25/0/1/4084/2723/1200/630/60/0/d08d635_upload-1-zzxikkmqaezz-1-ares-2024-07-03-1048-copie.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T03:00:27.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.980Z"
-        },
-        {
-          "id": "2026-07-02-b1991a85",
-          "title": "Les Etats-Unis ont 250 ans : comment Donald Trump détourne les célébrations",
-          "description": "Le 4 juillet 1776, les colonies britanniques du Nouveau Monde déclaraient leur indépendance. Deux cent cinquante ans plus tard, Donald Trump décide de fêter l’événement à sa manière : par l’autocélébration. Dans ce podcast, Piotr Smolar, correspondant du « Monde » à Washington, nous raconte cet anniversaire, et ce que ce mélange des genres dit du second mandat du président américain.",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/07/02/les-etats-unis-ont-250-ans-comment-donald-trump-detourne-les-celebrations_6717751_5463015.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T03:00:15.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.434Z"
-        },
-        {
-          "id": "2026-07-02-56895e89",
-          "title": "Les négociations entre l’Iran et les Etats-Unis enkystées autour de l’avenir du détroit d’Ormuz",
-          "description": "Depuis la signature du protocole d’accord entre Washington et Téhéran, à la mi-juin, aucune discussion profonde visant l’avenir du programme nucléaire iranien n’a été amorcée. La République islamique semble vouloir conserver le contrôle sur le passage maritime stratégique en imposant un système de péage en collaboration avec Oman.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/02/les-negociations-entre-l-iran-et-les-etats-unis-enkystees-autour-de-l-avenir-du-detroit-d-ormuz_6717749_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T03:00:12.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.434Z"
-        },
-        {
-          "id": "2026-07-02-fc11ccb6",
-          "title": "Négociations au Qatar, attentats en Grèce, États-Unis, Coupe du monde 2026 : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-negociations-au-qatar-attentats-en-grece-etats-unis-coupe-du-monde-2026-les-informations-de-la-nuit_245952",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/19/0/0/5494/3662/1200/630/60/0/b0bccef_ftp-1-vi0qpcdkngyh-2026-06-19t200126z-801046773-rc28xla3jbo5-rtrmadp-3-usa-trump.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T03:00:02.000Z",
-          "fetchedAt": "2026-07-02T04:33:08.980Z"
+          "id": "2026-07-01-1a736c74",
+          "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+          "description": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+          "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-07-01T21:21:21.000Z",
+          "fetchedAt": "2026-07-03T04:12:51.503Z"
         }
       ]
     },
     {
       "id": "cluster-6",
-      "topic": "NASA chief praises progress Blue Origin is making after launch failure",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-01-98bf2665",
-          "title": "NASA chief praises progress Blue Origin is making after launch failure",
-          "description": "\"We've got time into 2027 before we're getting nervous.\"",
-          "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/News_NG-ReturnToFlight_2-RocketLift-1152x648.webp",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-07-01T19:57:36.000Z",
-          "fetchedAt": "2026-07-02T04:33:27.324Z"
-        },
-        {
-          "id": "2026-07-01-f280d4ff",
-          "title": "En Suède, Google est condamné à verser 1,3 milliard d’euros à PriceRunner pour abus de position dominante",
-          "description": "Le tribunal donne raison à PriceRunner « dans la mesure où l’abus commis par Google s’est prolongé plus longtemps que ce que Google avait fait valoir, et où cet abus a causé un préjudice à PriceRunner », selon le communiqué de la décision.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/01/en-suede-google-est-condamne-a-verser-1-3-milliard-d-euros-a-pricerunner-pour-abus-de-position-dominante_6717543_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-01T13:06:34.000Z",
-          "fetchedAt": "2026-07-02T04:33:18.744Z"
-        },
-        {
-          "id": "2026-07-01-b207c5f5",
-          "title": "Le marché de la voiture électrique explose et Renault signe une performance étonnante derrière Tesla",
-          "description": "Les voitures électriques ont de nouveau réalisé un mois exceptionnel, établissant de nouveaux records pour juin 2026. Tesla s’impose, mais derrière elle, Renault place sans forcer quatre modèles les uns à la suite des autres en tête du classement. Et ce n’est pas tout.",
-          "url": "https://www.numerama.com/vroom/2288977-le-marche-de-la-voiture-electrique-explose-et-renault-signe-une-performance-etonnante-derriere-tesla.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/classement-juin-immatriculations.jpg?resize=1600,900&key=7328a221",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-01T10:03:00.000Z",
-          "fetchedAt": "2026-07-02T04:33:18.826Z"
-        },
-        {
-          "id": "2026-07-01-d85dd0cc",
-          "title": "Le prochain anime du studio de l’Attaque des Titans est une série de SF très prometteuse",
-          "description": "Le studio japonais d’animation Wit a annoncé une nouvelle série prévue pour le printemps 2027. Cet anime de science-fiction, au pitch déjà très prometteur, s’annonce comme une relecture ambitieuse de plusieurs grands thèmes du genre.",
-          "url": "https://www.numerama.com/pop-culture/2288747-le-prochain-anime-du-studio-de-lattaque-des-titans-est-une-serie-de-sf-tres-prometteuse.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/lona.jpg?resize=1600,900&key=2dbf3128",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-01T07:48:18.000Z",
-          "fetchedAt": "2026-07-02T04:33:18.826Z"
-        },
-        {
-          "id": "2026-07-01-fadbb429",
-          "title": "Une tour à 15 274 €, deux GPU AMD et aucun abonnement cloud : on a testé l’IA locale à son maximum [Sponso]",
-          "description": "Cet article a été réalisé en collaboration avec AMD\n\nUne tour à 15 274 € posée sous un bureau, deux cartes graphiques AMD, et l'intégralité d'une chaîne de production logicielle qui tourne sans jamais toucher au cloud. On a voulu savoir ce que permet vraiment une machine d'IA en local.",
-          "url": "https://www.numerama.com/tech/2286207-une-tour-a-15-274-e-deux-gpu-amd-et-aucun-abonnement-cloud-on-a-teste-lia-locale-a-son-maximum.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/amd-workstation-threadripper-09.jpg?resize=1600,900&key=a5037778",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-01T07:01:30.000Z",
-          "fetchedAt": "2026-07-02T04:33:18.826Z"
-        },
-        {
-          "id": "2026-07-01-bc5ce6a7",
-          "title": "Ce que nous enseigne la première attaque (expérimentale) d’un ver informatique mû par l’IA",
-          "description": "Une équipe canadienne a développé un programme utilisant un grand modèle de langage pour orchestrer des attaques et repérer des failles de façon autonome. Si cette démonstration ne surprend pas les spécialistes, elle pourrait permettre d’élaborer des parades.",
-          "url": "https://www.lemonde.fr/sciences/article/2026/07/01/ce-que-nous-enseigne-la-premiere-attaque-experimentale-d-un-ver-informatique-mu-par-l-intelligence-artificielle_6717463_1650684.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-01T04:30:00.000Z",
-          "fetchedAt": "2026-07-02T04:33:18.744Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "« Lesbiennes au travail : sortir de l’invisibilité » : une enquête pour mieux sa",
+      "topic": "Le gouvernement va lancer une troisième édition du « leasing social » pour la lo",
       "category": "eco",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-02-40b73586",
-          "title": "« Lesbiennes au travail : sortir de l’invisibilité » : une enquête pour mieux saisir le vécu des femmes homosexuelles au sein des entreprises",
-          "description": "Palliant un déficit de recherche sur le sujet, l’universitaire Clotilde Coron propose dans son dernier ouvrage une étude rigoureuse du quotidien des salariées lesbiennes, explorant leur « stratégie de dévoilement », les risques de discrimination auxquels elles sont exposées, mais aussi leurs carrières et rémunérations.",
-          "url": "https://www.lemonde.fr/emploi/article/2026/07/02/lesbiennes-au-travail-sortir-de-l-invisibilite-une-enquete-pour-mieux-saisir-le-vecu-des-femmes-homosexuelles-au-sein-des-entreprises_6717791_1698637.html",
+          "id": "2026-07-02-444f3a93",
+          "title": "Le gouvernement va lancer une troisième édition du « leasing social » pour la location de voitures électriques à loyer modéré pour les ménages modestes",
+          "description": "En 2024 et 2025, le gouvernement avait déjà mis en place ce dispositif, à hauteur de 50 000 voitures à chaque fois. Le mécanisme avait compté largement dans la progression des véhicules électriques en France.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/02/le-gouvernement-va-lancer-une-troisieme-edition-du-leasing-social-pour-la-location-de-voitures-electriques-a-loyer-modere-pour-les-menages-modestes_6718228_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-02T04:00:18.000Z",
-          "fetchedAt": "2026-07-02T04:33:27.298Z"
+          "publishedAt": "2026-07-02T18:59:04.000Z",
+          "fetchedAt": "2026-07-03T04:12:51.595Z"
         },
         {
-          "id": "2026-07-01-12cde5d3",
-          "title": "CMA CGM rachète une division de FedEx et scelle un partenariat majeur avec le géant américain",
-          "description": "Le groupe de transport maritime basé à Marseille débourse 1,4 milliard de dollars pour accroître sa présence aux Etats-Unis. Il pourrait devenir un partenaire privilégié de l’entreprise américaine de logistique pour le transport maritime.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/01/cma-cgm-rachete-une-division-de-fedex-et-scelle-un-partenariat-majeur-avec-le-geant-americain_6717580_3234.html",
+          "id": "2026-07-02-9b2e167a",
+          "title": "Mélanie Plouviez, philosophe : « Le riche n’est pas riche seul : il l’est dans un monde social qui reconnaît ce qu’il possède »",
+          "description": "La richesse ne se décrète pas uniquement à l’inventaire des biens possédés et accumulés, observe la philosophe Mélanie Plouviez dans un entretien au « Monde ». Depuis l’Antiquité, elle se réalise également dans une position sociale, des rapports de domination, de dépendance et d’honneur.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/02/melanie-plouviez-philosophe-le-riche-n-est-pas-riche-seul-il-l-est-dans-un-monde-social-qui-reconnait-ce-qu-il-possede_6718200_3224.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-01T16:45:01.000Z",
-          "fetchedAt": "2026-07-02T04:33:27.298Z"
+          "publishedAt": "2026-07-02T16:00:10.000Z",
+          "fetchedAt": "2026-07-03T04:12:51.595Z"
         },
         {
-          "id": "2026-07-01-43b6143d",
-          "title": "CNews : QuotaClimat saisit le Conseil d’Etat après le refus de l’Arcom d’agir sur un cas de désinformation climatique",
-          "description": "L’association demande que l’Autorité de régulation de la communication audiovisuelle et numérique sanctionne la chaîne de Vincent Bolloré à propos d’une séquence au cours de laquelle l’essayiste Michel Onfray avait estimé que le réchauffement climatique était en partie dû aux « interactions entre les univers ».",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/01/cnews-quotaclimat-saisit-le-conseil-d-etat-apres-le-refus-de-l-arcom-d-agir-sur-un-cas-de-desinformation-climatique_6717572_3234.html",
+          "id": "2026-07-02-68cd0845",
+          "title": "En Allemagne, le gouvernement veut introduire une dose de flexisécurité dans son droit du travail, sur un modèle nordique",
+          "description": "Multipliant les projets de réforme, Berlin s’est engagé sur la voie d’un assouplissement des conditions de licenciement associé à des mesures d’aide au reclassement, afin d’alléger le coût de l’échec pour les jeunes entreprises.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/02/en-allemagne-le-gouvernement-veut-introduire-une-dose-de-flexisecurite-dans-son-droit-du-travail-sur-un-modele-nordique_6718046_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-01T16:00:10.000Z",
-          "fetchedAt": "2026-07-02T04:33:27.298Z"
+          "publishedAt": "2026-07-02T14:25:51.000Z",
+          "fetchedAt": "2026-07-03T04:12:51.595Z"
         },
         {
-          "id": "2026-07-01-dd9a8621",
-          "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-          "description": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-          "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b21/live/28f27770-74a9-11f1-9c5b-41132a229f02.jpg",
-          "source": "BBC Business",
+          "id": "2026-07-02-e36fc4ca",
+          "title": "« La désindustrialisation n’est pas seulement une question économique, c’est aussi une question de confiance collective »",
+          "description": "Alors que le président Emmanuel Macron veut bâtir des « cathédrales industrielles », Bernard Streit, ancien chef d’entreprise dans le Doubs, rappelle, dans une tribune au « Monde », qu’il convient de ne pas négliger les villages et le maillage local.",
+          "url": "https://www.lemonde.fr/idees/article/2026/07/02/la-desindustrialisation-n-est-pas-seulement-une-question-economique-c-est-aussi-une-question-de-confiance-collective_6718038_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-01T01:04:16.000Z",
-          "fetchedAt": "2026-07-02T04:33:30.238Z"
+          "publishedAt": "2026-07-02T14:00:08.000Z",
+          "fetchedAt": "2026-07-03T04:12:51.595Z"
+        },
+        {
+          "id": "2026-07-02-60c35265",
+          "title": "Un meilleur partage de la valeur est une nécessité pour relancer la croissance",
+          "description": "Dans « Guerre et paix entre profits et salaires », les économistes Jean-Hervé Lorenzi et Alain Villemeur proposent une liste de réformes chiffrées pour attiser à la fois la demande et la productivité.",
+          "url": "https://www.lemonde.fr/idees/article/2026/07/02/un-meilleur-partage-de-la-valeur-est-une-necessite-pour-relancer-la-croissance_6717853_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-02T13:00:09.000Z",
+          "fetchedAt": "2026-07-03T04:12:51.595Z"
         }
       ]
     }

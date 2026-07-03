@@ -1,127 +1,128 @@
 {
-  "date": "2026-07-02T04:38:24.797Z",
+  "date": "2026-07-03T04:18:00.508Z",
   "stories": [
     {
-      "id": "2026-07-02-01",
+      "id": "2026-07-03-01",
       "category": "geopolitique",
-      "title": "La Russie frappe Kiev : au moins huit morts",
-      "imageUrl": "https://s.rfi.fr/media/display/def5354a-75ca-11f1-8670-005056a97e36/w:1024/p:16x9/2026-07-02T035716Z-1279189349-RC2D5MAK7B2M-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+      "title": "Kiev frappée par l'attaque russe la plus massive",
+      "imageUrl": "https://focus.courrierinternational.com/2026/07/02/1/0/8192/5461/1200/630/60/0/a6d5e50_ftp-1-5fu6rvo6gx1k-afp-b943863.jpg",
       "location": {
         "lat": 50.4501,
         "lng": 30.5234,
         "name": "Kiev, Ukraine"
       },
       "bullets": [
-        "La Russie a lancé une attaque massive de missiles et drones sur Kiev",
-        "Les frappes, dans la nuit de mercredi à jeudi, ont fait au moins huit morts",
-        "Le président Zelensky avait averti d'une attaque de grande envergure",
-        "La presse ukrainienne dénonce une stratégie de la terreur face à la stagnation militaire",
-        "Le conflit dure depuis 1 582 jours, plus longtemps que la Première Guerre mondiale"
+        "La Russie mène l'attaque la plus massive sur Kiev depuis 2022",
+        "Le bombardement de missiles et drones fait au moins 27 morts",
+        "Volodymyr Zelensky promet une riposte et réclame plus de défense antiaérienne",
+        "Donald Trump appelle à un accord de paix pour arrêter les « tueries »",
+        "Le conflit atteindrait 2 millions de victimes selon le CSIS"
       ],
-      "execSummary": "Dans la nuit du mercredi 1er au jeudi 2 juillet 2026, la capitale ukrainienne Kiev a été la cible d'une attaque massive de missiles et de drones russes. Selon RFI, Le Monde et Courrier International, ces frappes ont fait au moins huit morts, provoqué des incendies et endommagé des immeubles résidentiels. La veille, depuis Dublin, le président Volodymyr Zelensky avait annoncé rentrer immédiatement à Kiev après avoir reçu des informations sur une attaque « de grande envergure » en préparation, appelant la population à la plus grande prudence.\n\nDu côté russe, aucune justification officielle n'est reprise dans les sources, mais Moscou présente traditionnellement ce type de bombardements comme des frappes visant des infrastructures militaires ou énergétiques ukrainiennes. Ces attaques s'inscrivent dans une campagne aérienne prolongée menée depuis le début du conflit, il y a plus de quatre ans.\n\nÀ Kiev, la lecture est radicalement différente. Selon Courrier International, qui cite la presse ukrainienne, Moscou chercherait « à compenser sa stagnation militaire par la terreur » en visant délibérément des zones habitées. Le Monde souligne la durée exceptionnelle du conflit — 1 582 jours, soit plus que la Première Guerre mondiale — et rapporte, à travers le témoignage de deux sœurs ukrainiennes, une population qui puise sa résistance dans son identité nationale et l'engagement de bénévoles sur le front.\n\nAvec cette nouvelle salve, la question de la protection des civils et de la défense antiaérienne ukrainienne redevient centrale. Chaque frappe teste la capacité de Kiev à intercepter les projectiles et relance le débat sur les livraisons occidentales de systèmes de défense. À l'échelle européenne, la guerre continue de peser sur la sécurité du continent, alors que les perspectives de négociation restent incertaines et que le conflit s'installe dans la durée.",
+      "execSummary": "Dans la nuit de mercredi à jeudi, la Russie a lancé contre Kiev ce que les autorités ukrainiennes et la BBC qualifient de « plus massive » attaque depuis le début de la guerre en 2022. Selon Le Monde et Courrier International, le tir combiné de missiles et de drones a touché de larges zones de la capitale, faisant au moins 27 morts et plus de 90 blessés. L'événement relance l'attention internationale sur un conflit qui, selon une estimation du CSIS rapportée par Courrier International, aurait déjà fait environ 2 millions de victimes, morts et blessés confondus.\n\nDu côté ukrainien, Volodymyr Zelensky a promis des représailles et exhorté ses alliés à livrer davantage de systèmes de défense antiaérienne. Kiev présente cette frappe comme une escalade délibérée contre des civils et un argument pour renforcer son soutien militaire occidental.\n\nMoscou n'a pas exprimé de regret sur ce bilan et poursuit sa stratégie de frappes en profondeur. Le Monde souligne toutefois que l'armée russe « a perdu l'initiative » sur le terrain : elle s'enliserait dans la guerre terrestre, accumulerait un retard technologique et verrait décliner ses ressources humaines et pétrolières. En parallèle, Donald Trump appelle à un accord de paix pour mettre fin aux « tueries insensées », se posant en médiateur.\n\nLa demande de défense antiaérienne devient le nerf immédiat de la guerre : chaque batterie livrée conditionne la capacité de Kiev à protéger ses civils. Le Monde note que l'Ukraine, portée par une industrie de défense innovante, peine néanmoins à repasser à l'offensive terrestre. Entre pressions diplomatiques américaines et enlisement militaire, la trajectoire du conflit reste indécise, avec un coût humain déjà comparé à Stalingrad.",
       "sources": [
-        "RFI",
+        "Courrier International",
+        "Le Monde - International",
+        "BBC World"
+      ],
+      "publishedAt": "2026-07-03T04:03:33.000Z"
+    },
+    {
+      "id": "2026-07-03-02",
+      "category": "geopolitique",
+      "title": "Funérailles de Khamenei, tué par frappes US-Israël",
+      "imageUrl": "https://s.france24.com/media/display/50e4b9d2-768e-11f1-aedb-005056a90284/w:1024/p:16x9/2026-07-03T031716Z-1607198927-RC236MAXQFQX-RTRMADP-3-IRAN-CRISIS-KHAMENEI.jpg",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "Téhéran, Iran"
+      },
+      "bullets": [
+        "Le corps du guide suprême Khamenei est arrivé à Téhéran pour ses funérailles",
+        "Ali Khamenei a été tué dans des frappes américano-israéliennes",
+        "Les autorités iraniennes attendent 15 à 20 millions de participants à Téhéran",
+        "L'Iran défend son contrôle stratégique du détroit d'Ormuz",
+        "Les négociations Téhéran-Washington reprendront après trois jours d'hommage"
+      ],
+      "execSummary": "Le corps du guide suprême iranien Ali Khamenei, tué lors de frappes américano-israéliennes, est arrivé vendredi 3 juillet 2026 à Téhéran, dans le complexe religieux de la grande Mosalla où se dérouleront ses funérailles, selon France 24 citant un média d'État. Les autorités iraniennes attendent entre 15 et 20 millions de participants rien qu'à Téhéran pour cet hommage de trois jours débutant samedi. À son terme, les négociations entre Téhéran et Washington sont censées reprendre.\n\nLa mort du guide suprême marque un tournant majeur dans la confrontation entre l'Iran, Israël et les États-Unis. Elle intervient après une guerre menée par Donald Trump contre l'Iran, dont l'historien Timothy Snyder analyse dans Le Monde les conséquences sur l'image du président américain, qu'il décrit comme « l'architecte de la renaissance d'un régime iranien brutal ». Le protocole d'accord signé entre Washington et Téhéran encadre désormais une fragile trêve.\n\nSelon Le Monde, la disparition de Khamenei ouvre une période d'incertitude sur la succession et la stabilité du régime. Le président libanais Joseph Aoun, cité par France 24, défend parallèlement des négociations avec Israël qu'il qualifie de « guerre diplomatique » et non de « trahison », alors que le Hezbollah conteste cette approche. Le Courrier International rapporte que Téhéran continue de brandir le contrôle du détroit d'Ormuz comme levier stratégique.\n\nLe maintien du cessez-le-feu constitue l'enjeu le plus immédiat : le New York Times, cité par le Courrier International, souligne que l'Iran est « prêt à tout » pour garder le contrôle d'Ormuz, quitte à mettre en péril l'accord avec Washington. La reprise annoncée des pourparlers après les funérailles déterminera si la région bascule vers une désescalade ou vers une nouvelle phase de tensions.",
+      "sources": [
+        "France 24",
         "Le Monde - International",
         "Courrier International"
       ],
-      "publishedAt": "2026-07-02T04:21:00.000Z"
+      "publishedAt": "2026-07-03T04:03:45.000Z"
     },
     {
-      "id": "2026-07-02-02",
+      "id": "2026-07-03-03",
       "category": "geopolitique",
-      "title": "L'Algérie vote sous la menace d'une abstention record",
-      "imageUrl": "https://s.rfi.fr/media/display/df24e1b4-7593-11f1-981c-005056a97e36/w:1024/p:16x9/AP25106649315369.jpg",
+      "title": "Liban-Israël: négociations tendues sur le retrait",
+      "imageUrl": "https://focus.courrierinternational.com/2026/06/26/0/0/4999/3333/1200/630/60/0/6c13b73_ftp-1-uc1qc03e677o-2282927609.jpg",
       "location": {
-        "lat": 36.7538,
-        "lng": 3.0588,
-        "name": "Alger, Algérie"
+        "lat": 33.8886,
+        "lng": 35.4955,
+        "name": "Beyrouth, Liban"
       },
       "bullets": [
-        "L'Algérie organise ses élections législatives le 2 juillet",
-        "Le scrutin est le premier depuis la fin du Hirak",
-        "Le pouvoir multiplie les appels à la participation citoyenne",
-        "Les partis hésitent à participer face au verrouillage politique",
-        "Une faible participation fragiliserait la légitimité des institutions"
+        "Le Liban négocie avec Israël le retrait de son territoire",
+        "Le président Aoun refuse de céder « un seul pouce » de territoire",
+        "Aoun qualifie les pourparlers de « guerre diplomatique »",
+        "Le Hezbollah dénonce ces négociations comme une trahison",
+        "Le détroit d'Ormuz et l'Iran pèsent sur la stabilité régionale"
       ],
-      "execSummary": "L'Algérie a organisé le jeudi 2 juillet des élections législatives destinées à renouveler son Assemblée nationale. Selon RFI, il s'agit du premier scrutin de ce type depuis la fin du mouvement de contestation du Hirak en 2019 et depuis la réforme de la loi électorale. Courrier International, s'appuyant sur Middle East Eye, souligne que ce vote intervient sept ans après un mouvement populaire qui portait l'espoir d'une démocratisation réelle. Les deux sources convergent sur un point : la crainte d'une abstention record domine le contexte.\n\nDu côté du pouvoir, la campagne a été largement axée sur les appels à la participation, rapporte RFI. Les autorités présentent le scrutin comme une étape institutionnelle importante et cherchent à mobiliser les électeurs pour renforcer la légitimité de la nouvelle Assemblée. La réforme de la loi électorale est mise en avant comme un signal de renouvellement du paysage politique national.\n\nÀ l'inverse, Courrier International décrit un paysage politique figé et évoque un « contexte de verrouillage politique persistant ». Selon cette analyse, les partis politiques sont confrontés à un dilemme : participer à des élections qui sembleraient jouées d'avance, ou s'en abstenir. Les critiques estiment que les promesses de démocratisation portées par le Hirak n'ont pas été concrétisées.\n\nLe niveau de participation constituera le principal indicateur du scrutin : une abstention massive affaiblirait la légitimité de l'Assemblée et raviverait les tensions entre le pouvoir et une partie de la société. Pour l'Algérie, deuxième producteur de gaz d'Afrique et acteur régional majeur, la stabilité politique reste un enjeu central pour ses partenaires internationaux et son avenir économique.",
+      "execSummary": "Le président libanais Joseph Aoun a défendu, jeudi 2 juillet 2026, les négociations que son pays mène avec Israël, affirmant qu'il ne s'agit « pas d'une trahison, mais d'une guerre diplomatique », selon France 24. Il a assuré que ces pourparlers visent à « garantir le retrait israélien » du territoire libanais et martelé : « Nous ne céderons pas un seul pouce du territoire libanais. » Ces déclarations interviennent dans un contexte régional marqué par la reprise annoncée des négociations entre Téhéran et Washington après les funérailles du guide suprême iranien.\n\nCes discussions s'inscrivent dans un Moyen-Orient recomposé par les récentes frappes américano-israéliennes contre l'Iran. La position du Liban est délicate : le pays cherche un retrait israélien de son sol tout en composant avec les tensions internes attisées par le Hezbollah, allié de Téhéran. La stabilité régionale reste suspendue à des dossiers connexes, notamment le contrôle du détroit d'Ormuz, levier stratégique que l'Iran refuse de lâcher, selon une analyse du New York Times reprise par Courrier International.\n\nLe Hezbollah conteste ouvertement la démarche du gouvernement libanais, y voyant une capitulation face à Israël. Joseph Aoun a directement répondu à cette critique en défendant la légitimité des pourparlers. À l'échelle régionale, Courrier International rapporte que Téhéran multiplie attaques et menaces autour d'Ormuz, quitte à fragiliser le cessez-le-feu avec Washington.\n\nLe retrait effectif des forces israéliennes constitue le test décisif de la crédibilité d'Aoun face au Hezbollah. Un échec renforcerait l'argumentaire du mouvement pro-iranien, tandis qu'un succès diplomatique consoliderait l'autorité de l'État libanais. La reprise imminente des négociations Téhéran-Washington, mentionnée par France 24, pourrait redéfinir les rapports de force et déterminer l'issue des discussions libano-israéliennes.",
       "sources": [
-        "RFI",
+        "France 24",
         "Courrier International"
       ],
-      "publishedAt": "2026-07-02T04:14:07.000Z"
+      "publishedAt": "2026-07-03T04:03:45.000Z"
     },
     {
-      "id": "2026-07-02-03",
-      "category": "geopolitique",
-      "title": "Une nouvelle gauche radicale bouscule les démocrates",
-      "imageUrl": "https://focus.courrierinternational.com/2026/06/25/0/1/4084/2723/1200/630/60/0/d08d635_upload-1-zzxikkmqaezz-1-ares-2024-07-03-1048-copie.jpg",
-      "location": {
-        "lat": 40.7128,
-        "lng": -74.006,
-        "name": "New York, États-Unis"
-      },
-      "bullets": [
-        "Une nouvelle génération de candidats s'impose dans les primaires démocrates",
-        "Les élections de mi-mandat de novembre 2026 précipitent cette recomposition",
-        "Les nouveaux candidats critiquent les élites et le soutien à Israël",
-        "Le Parti démocrate établi voit son leadership traditionnel contesté",
-        "Un enjeu majeur pour la reconquête du Congrès face à Trump"
-      ],
-      "execSummary": "À l'approche des élections de mi-mandat de novembre 2026, une nouvelle génération de candidats de gauche s'impose dans les primaires du Parti démocrate américain, rapporte Le Monde. Ces figures montantes, souvent issues d'une base militante, se distinguent par leurs critiques des élites, leur dénonciation des injustices sociales et leur opposition au soutien américain à Israël. Ce mouvement intervient dans un contexte politique tendu, marqué par le second mandat de Donald Trump, dont les célébrations autocentrées du 250e anniversaire des États-Unis sont analysées par Le Monde et Courrier International.\n\nCette nouvelle gauche justifie son émergence par le besoin de rupture avec un establishment démocrate jugé trop centriste et déconnecté des préoccupations populaires. Ses représentants estiment que la stratégie modérée du parti a échoué à mobiliser l'électorat et à contrer efficacement le trumpisme. Ils placent la justice sociale, la lutte contre les inégalités et une politique étrangère plus critique au cœur de leur programme.\n\nDu côté de l'appareil démocrate traditionnel, cette radicalisation inquiète : certains y voient un risque de fracturer le parti et d'aliéner les électeurs modérés indispensables pour reprendre le Congrès. Courrier International, citant le Guardian, souligne par ailleurs que le camp adverse, autour de Trump, cultive un récit nationaliste et populiste qui polarise davantage le débat public américain.\n\nCette recomposition interne dessine l'avenir du Parti démocrate face à un Trump qui détourne, selon Le Monde, les symboles historiques nationaux. Les primaires de 2026 serviront de test grandeur nature : victoire des insurgés ou reprise en main des modérés détermineront la ligne du parti pour la présidentielle de 2028 et sa capacité à mobiliser une base jeune et militante.",
-      "sources": [
-        "Le Monde - International",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-07-02T04:00:56.000Z"
-    },
-    {
-      "id": "2026-07-02-04",
+      "id": "2026-07-03-04",
       "category": "tech",
-      "title": "Sony arrête les disques PlayStation dès janvier 2028",
-      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/1-2.jpg?resize=1600,900&key=ad1fd0ca",
+      "title": "Sony met fin aux jeux PlayStation sur disque dès 2028",
+      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/img-9107.jpg?resize=1600,900&key=fa7f4609",
       "location": {
         "lat": 35.6762,
         "lng": 139.6503,
-        "name": "Tokyo"
+        "name": "Tokyo, Japon"
       },
       "bullets": [
-        "Sony cessera de produire des disques pour les nouveaux jeux dès janvier 2028",
-        "Le constructeur ferme aussi les boutiques numériques PS3 et PS Vita",
-        "Les détaillants et préservationnistes dénoncent une perte pour les joueurs",
-        "Microsoft testerait une fonction disque-vers-numérique pour numériser les collections",
-        "La PS6 ne devrait pas être équipée d'un lecteur de disque"
+        "Le fait principal : Sony arrête la production de jeux PlayStation physiques en janvier 2028",
+        "Le déclencheur : l'usine autrichienne réduit sa production de disques de 90 % d'ici 2028",
+        "La réaction des commerçants : les revendeurs spécialisés redoutent un « pur monopole »",
+        "La riposte des concurrents : Nintendo mise sur les cartouches, Microsoft explore la conversion numérique",
+        "L'enjeu clé : la fin de la propriété des jeux et la revente d'occasion"
       ],
-      "execSummary": "Le 1er juillet 2026, Sony Interactive Entertainment a annoncé, via un communiqué officiel, l'arrêt de la production de disques physiques pour les nouveaux jeux PlayStation à partir de janvier 2028. Le même jour, l'entreprise a confirmé la fermeture progressive des boutiques numériques de la PS3 et de la PS Vita. Selon Numerama et Le Monde – Pixels, Sony devient le premier constructeur majeur de consoles à abandonner définitivement le support physique, ce qui laisse entendre que la future PS6 n'aura pas de lecteur de disque.\n\nCette bascule marque un tournant dans le mouvement de dématérialisation du jeu vidéo. The Verge souligne que la double annonce illustre un problème central du tout-numérique : quand les boutiques ferment, les jeux deviennent inaccessibles. La question de la préservation du patrimoine vidéoludique se pose avec acuité, tout comme celles de la revente, du prêt, de l'occasion et de la rétrocompatibilité, listées par Numerama.\n\nLes réactions sont majoritairement critiques. Cody Spencer, coproriétaire de la chaîne Pink Gorilla Games interrogé par The Verge, estime que « cette décision n'est qu'un négatif pour les joueurs », qui perdent la capacité de vendre, partager et posséder leurs jeux. Ars Technica relaie un sentiment similaire : « Nous ne posséderons rien, c'est vraiment triste. » Les détaillants indépendants et les préservationnistes figurent parmi les plus inquiets.\n\nMicrosoft pourrait suivre le même chemin, selon The Verge, mais teste une fonctionnalité « disque-vers-numérique » permettant de numériser une collection physique existante sur Xbox One et Series X. Numerama précise que le calendrier de Sony repousse aussi la sortie de la PS6, désormais attendue au plus tôt en 2028. Cette transition soulève ainsi bien plus de questions qu'elle n'apporte de réponses aux joueurs attachés au support physique.",
+      "execSummary": "Le 1er juillet 2026, Sony a annoncé qu'à partir de janvier 2028, plus aucun jeu PlayStation ne serait produit sur disque physique, selon Le Monde, Numerama, The Verge et Ars Technica. Le groupe devient ainsi le premier constructeur majeur de consoles à abandonner définitivement le support physique. Selon The Verge, l'usine Sony DADC de Thalgau, en Autriche, produit 600 000 disques par jour, mais ne fabriquera plus que 10 % de ce volume en 2028, entraînant la reconversion de ses 300 employés vers les microlentilles optiques.\n\nCette décision s'inscrit dans un mouvement de dématérialisation accélérée du jeu vidéo, où Sony et Microsoft poussent vers des jeux entièrement liés aux comptes et aux boutiques en ligne. Numerama rappelle que cette bascule soulève de nombreuses questions sur le prix, l'occasion, la rétrocompatibilité, le prêt et la sécurité des jeux. L'annonce laisse aussi entendre que la PlayStation 6 ne sortira pas avant 2028.\n\nLes réactions sont vives. Selon Numerama, le commerçant Thomas Bachellerie dénonce « un pur monopole » qui menace directement les revendeurs spécialisés. Bethesda a réagi avec ironie en annonçant une cartouche physique d'Oblivion sur Switch 2. Ars Technica cite un utilisateur résumant le sentiment général : « We will own nothing, it's truly sad. » Les internautes rappellent qu'en 2013, Sony s'était moqué de Microsoft pour sa Xbox One orientée tout-numérique.\n\nNintendo apparaît en position contrastée : selon Numerama, la firme continue de miser sur les cartouches et les Game-Key Cards, prouvant qu'un marché physique résiste. Microsoft, de son côté, développerait une technologie de conversion de disques au format numérique. Au-delà des boutiques menacées, la fin du disque interroge la propriété réelle des jeux achetés et l'avenir du marché de l'occasion, pilier économique de nombreux joueurs.",
       "sources": [
+        "Le Monde - Pixels",
         "The Verge",
         "Ars Technica",
-        "Numerama",
-        "Le Monde - Pixels"
+        "Numerama"
       ],
-      "publishedAt": "2026-07-01T22:39:43.000Z"
+      "publishedAt": "2026-07-03T04:00:46.000Z"
     },
     {
-      "id": "2026-07-02-05",
+      "id": "2026-07-03-05",
       "category": "eco",
-      "title": "Hausse de 13% du plafond énergétique au Royaume-Uni",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "title": "Trump a gagné plus d'1 milliard grâce aux cryptos en 2025",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/594f/live/8d250090-7572-11f1-9634-57b9e01d300c.jpg",
       "location": {
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "name": "Royaume-Uni"
+        "lat": 38.8977,
+        "lng": -77.0365,
+        "name": "Washington D.C."
       },
       "bullets": [
-        "Le nouveau plafond énergétique de l'Ofgem est entré en vigueur le 1er juillet",
-        "Les factures annuelles types des ménages augmentent de 13% sur un an",
-        "Les régulateurs appellent les ménages à relever leur compteur",
-        "Les experts alertent sur la vulnérabilité des réseaux à la chaleur",
-        "Les prix du carburant baissent en parallèle, offrant un contrepoids"
+        "Le président Trump a déclaré plus d'1,4 milliard de dollars de revenus en 2025",
+        "Les gains issus des cryptomonnaies dépassent l'immobilier et les produits dérivés",
+        "La déclaration financière obligatoire pour 2025 révèle ces montants",
+        "Un porte-parole défend l'ampleur des activités commerciales du président",
+        "Les revenus crypto soulèvent des questions de conflits d'intérêts à la Maison Blanche"
       ],
-      "execSummary": "Le 1er juillet 2026, le nouveau plafond tarifaire de l'énergie fixé par le régulateur britannique Ofgem est entré en vigueur, entraînant une hausse d'environ 13% des factures annuelles types des ménages, selon la BBC. Les autorités et fournisseurs ont lancé un appel aux ménages pour qu'ils relèvent leur compteur afin d'éviter d'être facturés au nouveau tarif sur leur consommation antérieure.\n\nCette hausse intervient dans un contexte économique déjà tendu pour les foyers britanniques. Plusieurs récits illustrent la pression sur les budgets : la BBC rapporte des cas de diplômés contraints de recourir à des banques alimentaires, tandis que la génération Z anticipe une vie sans pension d'État. Le renchérissement de l'énergie s'ajoute à ces difficultés et pèse sur le pouvoir d'achat.\n\nLes réactions varient selon les acteurs. Les organismes de protection des consommateurs et associations insistent sur les relevés de compteur pour limiter la facture. En parallèle, la BBC note un facteur atténuant : les prix du carburant chutent, le diesel connaissant sa plus forte baisse mensuelle en 26 ans, à mesure que s'éloignent les tensions liées au conflit entre les États-Unis, Israël et l'Iran. Ce mouvement inverse illustre la volatilité des marchés énergétiques.\n\nLa vulnérabilité des infrastructures constitue un point de tension supplémentaire : la BBC souligne que les réseaux électriques et les services ferroviaires sont exposés aux fortes chaleurs, ce qui pourrait fragiliser l'approvisionnement en période de canicule. Pour les ménages, le cumul de la hausse du plafond et des aléas climatiques dessine un été à risque, alors que la baisse du carburant n'offre qu'un répit partiel sur le coût global de l'énergie.",
+      "execSummary": "Selon la déclaration financière obligatoire du président américain Donald Trump pour l'année 2025, ce dernier a engrangé plus de 1,4 milliard de dollars (environ 750 millions de livres) de revenus, dont plus d'un milliard provient de ses activités liées aux cryptomonnaies. La BBC détaille que ces gains issus du secteur crypto surpassent largement ceux tirés de l'immobilier ou des produits dérivés à l'effigie de Trump, comme les montres. Les documents officiels montrent que le président a réalisé des milliards de dollars depuis son retour à la Maison Blanche.\n\nCe sujet est important car il met en lumière une transformation des sources de richesse d'un président en exercice, désormais fortement adossées à un secteur qu'il régule directement. La BBC souligne que les revenus tirés de la cryptomonnaie dépassent désormais les activités traditionnelles du groupe Trump, un basculement notable pour un homme d'affaires historiquement identifié à l'immobilier.\n\nUn porte-parole de Trump, cité par la BBC, met en avant l'ampleur des investissements et des activités commerciales du président. Les documents évoquent également des revenus provenant de la vente de Bibles, de produits dérivés et d'autres opérations commerciales, dressant un portrait diversifié mais dominé par le numérique.\n\nLa concentration de ces revenus dans les cryptomonnaies pose une question directe : celle du conflit d'intérêts pour un président susceptible d'influencer la réglementation du secteur. Alors que les projets crypto liés à Trump se multiplient, la transparence de ces gains, révélée par la déclaration obligatoire, alimente le débat sur la frontière entre fonction publique et enrichissement personnel. Les prochaines déclarations et les décisions réglementaires attendues seront scrutées de près.",
       "sources": [
         "BBC Business"
       ],
-      "publishedAt": "2026-07-02T04:00:46.000Z"
+      "publishedAt": "2026-07-03T04:00:07.000Z"
     }
   ]
 }
