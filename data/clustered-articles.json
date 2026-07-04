@@ -1,275 +1,176 @@
 {
-  "generatedAt": "2026-07-03T04:16:28.648Z",
+  "generatedAt": "2026-07-04T04:09:49.528Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "Zelensky promet une riposte après l’attaque russe contre Kiev, “la plus massive”",
+      "topic": "Le RN cultive discrètement ses réseaux diplomatiques, un an avant l’élection pré",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-03-b9bc3bb9",
-          "title": "Zelensky promet une riposte après l’attaque russe contre Kiev, “la plus massive” depuis le début de la guerre",
-          "description": "L’attaque russe ayant visé Kiev dans la nuit de mercredi à jeudi, “la plus massive” contre la capitale ukrainienne depuis le début de la guerre, a fait au moins 27 morts et plus de 90 blessés. Volodymyr Zelensky a promis des représailles et exhorté ses alliés à livrer à son pays davantage de moyens de défense antiaérienne.",
-          "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-zelensky-promet-une-riposte-apres-l-attaque-russe-contre-kiev-la-plus-massive-depuis-le-debut-de-la-guerre_246315",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/02/1/0/8192/5461/1200/630/60/0/a6d5e50_ftp-1-5fu6rvo6gx1k-afp-b943863.jpg",
+          "id": "2026-07-04-9c3b36b4",
+          "title": "Le RN cultive discrètement ses réseaux diplomatiques, un an avant l’élection présidentielle de 2027",
+          "description": "Le parti de Marine Le Pen et de Jordan Bardella tente d’étouffer le procès en incompétence qui lui est fait en politique étrangère. Ils s’appuient sur une poignée de hauts fonctionnaires issus du Quai d’Orsay.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/04/le-rn-cultive-discretement-ses-reseaux-diplomatiques-un-an-avant-l-election-presidentielle-de-2027_6720610_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-04T04:00:38.000Z",
+          "fetchedAt": "2026-07-04T04:05:49.203Z"
+        },
+        {
+          "id": "2026-07-04-e7b26f63",
+          "title": "1998-2026 : le Paraguay a “un compte à régler” avec les Bleus",
+          "description": "La France et le Paraguay s’affrontent samedi 4 juillet en huitième de finale de la Coupe du monde 2026. La dernière fois que la France et le Paraguay se sont rencontrés à ce stade de la compétition, c’était en 1998, et l’Albirroja avait été éliminée par un légendaire mais cruel but en or de Laurent Blanc. La presse paraguayenne espère bien effacer ce souvenir, encore gravé dans la mémoire collective du pays.",
+          "url": "https://www.courrierinternational.com/article/coupe-du-monde-1998-2026-le-paraguay-a-un-compte-a-regler-avec-les-bleus_246249",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/03/60/0/1300/866/1200/630/60/0/7173267_upload-1-szymxmy4zcgb-000-sapa980628620700.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-03T04:03:33.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.801Z"
+          "publishedAt": "2026-07-04T03:00:23.000Z",
+          "fetchedAt": "2026-07-04T04:05:49.583Z"
         },
         {
-          "id": "2026-07-03-1c79f1dc",
-          "title": "Guerre en Ukraine : comment l’armée russe a perdu l’initiative",
-          "description": "La Russie s’enlise dans la guerre terrestre et accumule un retard technologique, tandis que ses ressources humaines et pétrolières décroissent. L’armée ukrainienne, soutenue par une industrie de défense réactive et innovante, ne parvient pas, pour autant, à basculer dans une posture offensive dans le combat terrestre.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/03/guerre-en-ukraine-comment-l-armee-russe-a-perdu-l-initiative_6718375_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-03T03:00:26.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.228Z"
-        },
-        {
-          "id": "2026-07-02-791a4b85",
-          "title": "EN DIRECT, guerre en Ukraine : Donald Trump veut un accord de paix pour mettre fin aux « tueries insensées », après l’attaque russe qui a fait au moins 27 morts à Kiev",
-          "description": "Volodymyr Zelensky a promis une réplique après la pire attaque russe sur Kiev depuis le début du conflit. Au moins 27 personnes ont été tuées, et plus de 90 blessées, par des missiles et des drones dans la nuit de mercredi à jeudi, selon les autorités ukrainiennes.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/03/en-direct-guerre-en-ukraine-donald-trump-veut-un-accord-de-paix-pour-mettre-fin-aux-tueries-insensees-apres-l-attaque-russe-qui-a-fait-au-moins-27-morts-a-kiev_6716525_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T22:52:36.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.228Z"
-        },
-        {
-          "id": "2026-07-02-5bc9f771",
-          "title": "'Most massive' Russian attack on Kyiv kills at least 27",
-          "description": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6649/live/4f89e160-7630-11f1-ac11-19a4319081d7.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-02T20:18:14.000Z",
-          "fetchedAt": "2026-07-03T04:12:42.589Z"
-        },
-        {
-          "id": "2026-07-02-78cac264",
-          "title": "“Plus sanglante que Stalingrad”, la guerre en Ukraine aurait fait 2 millions de victimes",
-          "description": "Selon une nouvelle estimation du CSIS (Centre d’études internationales et stratégiques), le bilan du conflit en Ukraine, commencé en 2022, atteint désormais les 2 millions de victimes, morts et blessés confondus. La répartition des pertes n’est toutefois pas du tout égale entre Kiev et Moscou.",
-          "url": "https://www.courrierinternational.com/article/rapport-plus-sanglante-que-stalingrad-la-guerre-en-ukraine-aurait-fait-2-millions-de-victimes_246213",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/02/0/6/6036/4024/1200/630/60/0/8745db3_upload-1-5iz1p6kfus62-000-b7el6cx.jpg",
+          "id": "2026-07-04-30a4c16f",
+          "title": "Le regain d’intérêt pour les ovnis provoque une crise de foi chez les chrétiens américains",
+          "description": "Alors que le gouvernement Trump a entrepris de déclassifier des documents sur les objets volants non identifiés, la perspective d’une vie extraterrestre intelligente a des implications théologiques aussi troublantes que réelles pour les chrétiens conservateurs américains, souligne le quotidien “The New York Times”.",
+          "url": "https://www.courrierinternational.com/article/religion-le-regain-d-interet-pour-les-ovnis-provoque-une-crise-de-foi-chez-les-chretiens-americains_245116",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/14/0/116/1263/842/1200/630/60/0/a53d6c9_ftp-1-gujyopfxjqjk-space-potato.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-02T15:44:35.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.801Z"
+          "publishedAt": "2026-07-04T03:00:13.000Z",
+          "fetchedAt": "2026-07-04T04:05:49.583Z"
+        },
+        {
+          "id": "2026-07-04-37297f4e",
+          "title": "Tour de France : à 19 ans, Paul Seixas “est déjà un phénomène médiatique”",
+          "description": "Le coureur lyonnais pédalera pour la première fois de sa jeune carrière sur les routes du Tour de France, qui s’élance de Barcelone samedi 4 juillet. Tout un pays espère qu’il sera bel et bien l’héritier de Bernard Hinault, dernier vainqueur français de la Grande Boucle, relève la presse espagnole.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-tour-de-france-a-19-ans-paul-seixas-est-deja-un-phenomene-mediatique_246453",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/02/0/48/5809/3873/1200/630/60/0/d803832_ftp-1-q2btm6qeboma-2026-07-02t173950z-1970864597-up1em721d2cro-rtrmadp-3-cycling-france-teams.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-04T03:00:10.000Z",
+          "fetchedAt": "2026-07-04T04:05:49.583Z"
+        },
+        {
+          "id": "2026-07-04-6b495725",
+          "title": "Funérailles d’Ali Khamenei : des milliers de fidèles affluent à Téhéran pour un dernier hommage au Guide suprême",
+          "description": "Les autorités ont affirmé attendre entre 15 millions et 20 millions de participants rien que dans la capitale iranienne pour l’événement, qui doit se dérouler sur six jours.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/04/funerailles-d-ali-khamenei-des-milliers-de-fideles-affluent-a-teheran-pour-un-dernier-hommage-au-guide-supreme_6720593_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-04T02:48:53.000Z",
+          "fetchedAt": "2026-07-04T04:05:49.203Z"
+        },
+        {
+          "id": "2026-07-03-aa198004",
+          "title": "Séisme au Venezuela : un dernier bilan fait état de 2 645 morts et 12 666 blessés",
+          "description": "Alors que les autorités restent prudentes sur le nombre de disparus, les estimations des Nations unies révèlent l’ampleur dramatique de la catastrophe au Venezuela.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/03/seisme-au-venezuela-un-dernier-bilan-fait-etat-de-2-645-morts-et-12-666-blesses_6720488_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-03T21:00:39.000Z",
+          "fetchedAt": "2026-07-04T04:05:49.203Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "Séismes au Venezuela: un soutien psychologique apporté aux enfants traumatisés",
+      "id": "cluster-10",
+      "topic": "IA : entre les géants américains et chinois, l’Europe tente d’exister",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-03-ba06482b",
-          "title": "Séismes au Venezuela: un soutien psychologique apporté aux enfants traumatisés",
-          "description": "C'est un stade devenu refuge : à La Guaira, l'ONU gère un camp de déplacés où s’entassent de nombreuses familles avec enfants, après les séismes qui ont secoué le nord du Venezuela le 24 juin dernier. Pour ces familles, impossible de rentrer chez elles. Au-delà de l'aide matérielle, l'une des priorités des organisations humanitaires est désormais d'apporter un soutien psychologique aux enfants.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260703-s%C3%A9ismes-au-venezuela-un-soutien-psychologique-apport%C3%A9-aux-enfants-traumatis%C3%A9s",
-          "imageUrl": "https://s.rfi.fr/media/display/d27f2b54-764c-11f1-af7d-005056bf30b7/w:1024/p:16x9/2026-07-02T190824Z-910024478-RC2T5MA38CZH-RTRMADP-3-VENEZUELA-QUAKE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-03T03:30:31.000Z",
-          "fetchedAt": "2026-07-03T04:12:42.281Z"
-        },
-        {
-          "id": "2026-07-03-e900b40c",
-          "title": "Ebola en RDC: démarrage d'un essai clinique d'un potentiel traitement contre la souche Bundibugyo",
-          "description": "Un essai clinique a démarré, ce jeudi 2 juillet 2026, en République Démocratique du Congo (RDC), afin de tester un potentiel traitement contre la souche Bundibugyo du virus Ebola. Alors que l'épidémie continue de frapper le pays, et a déjà fait plus de 438 morts, l'Organisation mondiale de la Santé (OMS) lance un appel aux patients atteints d'Ebola qui souhaiteraient contribuer aux essais.",
-          "url": "https://www.rfi.fr/fr/afrique/20260703-ebola-en-rdc-d%C3%A9marrage-d-un-essai-clinique-d-un-potentiel-traitement-contre-la-souche-bundibugyo",
-          "imageUrl": "https://s.rfi.fr/media/display/b29ced5c-7661-11f1-9665-005056a90284/w:1024/p:16x9/2026-07-02T204519Z-2059851712-RC2R5MAKUXM2-RTRMADP-3-HEALTH-EBOLA-CONGO-SOUTHAFRICA.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-03T03:02:33.000Z",
-          "fetchedAt": "2026-07-03T04:12:42.281Z"
-        },
-        {
-          "id": "2026-07-03-771c8059",
-          "title": "Ebola a fait plus de 400 morts en RD Congo, l'OMS annonce le lancement d'un essai clinique",
-          "description": "L'épidémie d'Ebola continue de s'étendre en République démocratique du Congo, un cas a été confirmé à Kisangani. Au total, l'INSP a recensé 438 décès et 1 406 cas jusqu'ici. Pour tenter de mettre au point un traitement et d'endiguer l'épidémie, l'Organisation mondiale de la santé a annoncé, jeudi, le début d'un essai clinique.",
-          "url": "https://www.france24.com/fr/afrique/20260703-ebola-400-morts-rd-congo-oms-annonce-lancement-essai-clinique-epidemie-virus-sante-traitement",
-          "imageUrl": "https://s.france24.com/media/display/8e1b00b6-767c-11f1-ada6-005056bf30b7/w:1024/p:16x9/2026-07-02T205051Z-566624377-RC2R5MA44QIL-RTRMADP-3-HEALTH-EBOLA-CONGO-SOUTHAFRICA.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-03T01:17:04.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.187Z"
-        },
-        {
-          "id": "2026-07-03-e202a6a8",
-          "title": "Les Bleus pas favoris du Mondial ? Jules Koundé répond à Lamine Yamal",
-          "description": "Lamine Yamal a estimé qu'aucune sélection n'était au-dessus des autres dans cette Coupe du monde, y compris la France – pourtant considérée par beaucoup comme la grande favorite après les démonstrations des Bleus en phase de groupe et en 16es de finale. Le Tricolore Jules Koundé, qui joue avec lui au FC Barcelone, lui a répondu.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260703-les-bleus-pas-favoris-du-mondial-jules-kound%C3%A9-r%C3%A9pond-%C3%A0-lamine-yamal",
-          "imageUrl": "https://s.france24.com/media/display/9457c282-766f-11f1-8475-005056bf30b7/w:1024/p:16x9/minikounde.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-03T00:02:22.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.187Z"
-        },
-        {
-          "id": "2026-07-02-eff3a771",
-          "title": "Un ex-athlète olympique accusé de dégradations au bassin du Lincoln Memorial à Washington",
-          "description": "David Hearn, qui conteste les faits, a été inculpé pour dégradation de propriété publique. Il encourt une peine pouvant aller jusqu’à dix ans de prison.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/03/un-ex-athlete-olympique-accuse-d-avoir-endommage-le-bassin-du-lincoln-memorial-a-washington_6718270_3210.html",
+          "id": "2026-07-04-ed8ca65f",
+          "title": "IA : entre les géants américains et chinois, l’Europe tente d’exister",
+          "description": "Les dépendances du Vieux Continent aux acteurs américains et le décalage des investissements réalisés de part et d’autre de l’Atlantique sont tels que certains experts plaident pour une « stratégie de rattrapage » et des transferts de technologies.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/04/ia-entre-les-geants-americains-et-chinois-l-europe-tente-d-exister_6720598_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-02T23:23:54.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.228Z"
+          "publishedAt": "2026-07-04T03:00:24.000Z",
+          "fetchedAt": "2026-07-04T04:05:49.203Z"
         },
         {
-          "id": "2026-07-02-8bd3d773",
-          "title": "Le président Aoun assure que le Liban ne cèdera \"pas un pouce\" du territoire à Israël",
-          "description": "Le président libanais, Joseph Aoun, a défendu jeudi que les négociations que le pays mène avec Israël ne sont pas \"une trahison, mais une guerre diplomatique\", contrairement à ce que dit le Hezbollah. Il a assuré que ces pourparlers doivent \"garantir le retrait israélien de son territoire\" : \"Nous ne céderons pas un seul pouce du territoire libanais.\"",
-          "url": "https://www.france24.com/fr/moyen-orient/20260702-joseph-aoun-president-libana-cedera-pas-un-pouce-territoire-israel-negociations-guerre-hezbollah",
-          "imageUrl": "https://s.france24.com/media/display/9ef2b4ac-6f0f-11f1-bc80-005056a97e36/w:1024/p:16x9/000-A88L7WR.jpg",
+          "id": "2026-07-03-dc2916a7",
+          "title": "Taxes américaines, déferlante chinoise : la guerre commerciale de retour ?",
+          "description": "Le président américain Donald Trump menace de frapper l'Europe de nouveaux droits de douane de 100 % si elle met en place une taxe sur les services numériques américains. De quoi faire voler en éclats l'accord commercial UE-États-Unis négocié l'été dernier et à peine ratifié. Le Vieux Continent fait face à une autre menace existentielle : celle des produits chinois – soutenus à coups de subventions massives –, qui bousculent son industrie, de l'automobile aux batteries. Comment l'Europe peut-elle répliquer ?",
+          "url": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20260703-taxes-am%C3%A9ricaines-d%C3%A9ferlante-chinoise-la-guerre-commerciale-de-retour",
+          "imageUrl": "https://s.france24.com/media/display/4367fde8-76fa-11f1-8ad7-005056bfb2b6/w:1024/p:16x9/SemaineEco-7.png",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-02T22:13:11.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.187Z"
+          "publishedAt": "2026-07-03T16:42:22.000Z",
+          "fetchedAt": "2026-07-04T04:05:49.147Z"
         }
       ]
     },
     {
-      "id": "cluster-21",
-      "topic": "Suisse - Algérie en direct : la Nati prend le large face aux Fennecs",
+      "id": "cluster-18",
+      "topic": "Le Cap-Vert sort de la Coupe du monde “par la grande porte”",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-03-53ee5d32",
-          "title": "Suisse - Algérie en direct : la Nati prend le large face aux Fennecs",
-          "description": "Solide à défaut d'être vraiment séduisante, la Suisse se mesure à l'Algérie d'Ibrahim Maza, vendredi, au BC Place de Vancouver au Canada en 16es de finale de la Coupe du monde 2026. Suivez ce match en live grâce à notre direct commenté.",
-          "url": "https://www.france24.com/fr/sports/20260703-suisse-algerie-direct-live-fennecs-nati-16es-finale-coupe-du-monde",
-          "imageUrl": "https://s.france24.com/media/display/afbf51e0-75d7-11f1-a107-005056bf30b7/w:1024/p:16x9/SUI-ALG-H.png",
-          "source": "France 24",
+          "id": "2026-07-04-9eafe9f1",
+          "title": "Le Cap-Vert sort de la Coupe du monde “par la grande porte”",
+          "description": "Le Cap-Vert, qui disputait la première Coupe du monde de son histoire, a été éliminé (3-2) par l’Argentine, vendredi en 16es de finale. Mais en tenant tête aux champions du monde en titre jusqu’à la prolongation et en parvenant à égaliser à deux reprises avant de finalement s’incliner, les Capverdiens quittent le tournoi “par la grande porte”.",
+          "url": "https://www.courrierinternational.com/article/football-le-cap-vert-sort-de-la-coupe-du-monde-par-la-grande-porte_246581",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/04/6/0/3249/2166/1200/630/60/0/ce15aca_ftp-1-pan3vyzodkm7-2284555346.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-03T01:42:32.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.187Z"
+          "publishedAt": "2026-07-04T02:17:46.000Z",
+          "fetchedAt": "2026-07-04T04:05:49.583Z"
         },
         {
-          "id": "2026-07-03-4c712340",
-          "title": "EN DIRECT, Suisse-Algérie : Dan Ndoye accroît l’avance de la Nati dès la reprise, les Fennecs en manque d’inspiration et de précision",
-          "description": "Troisièmes de leur poule, les Fennecs tenteront de remporter leur premier match à élimination directe dans une Coupe du monde dans la nuit de jeudi à vendredi. Pour cela, ils devront battre les Suisses à Vancouver (Canada).",
-          "url": "https://www.lemonde.fr/sport/live/2026/07/03/en-direct-suisse-algerie-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6718337_3242.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-07-03-fd3f9302",
+          "title": "Coupe du monde 2026: revivez le match héroïque du Cap-Vert face à l'Argentine",
+          "description": "L'Argentine, tenante en titre, s'est très difficilement qualifiée pour les 8es de finale du Mondial-2026, où elle affrontera l'Égypte, en venant à bout, après prolongation (3-2), d'une équipe du Cap-Vert héroïque et pourtant néophyte dans la compétition, ce vendredi à Miami.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260703-en-direct-coupe-du-monde-2026-le-cap-vert-d%C3%A9fie-l-argentine-de-messi-pour-une-place-en-huiti%C3%A8mes",
+          "imageUrl": "https://s.rfi.fr/media/display/170dbd62-7742-11f1-ba1c-005056bf30b7/w:1024/p:16x9/AP26184842012860.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-03T01:00:08.000Z",
-          "fetchedAt": "2026-07-03T04:12:28.228Z"
+          "publishedAt": "2026-07-03T21:12:03.000Z",
+          "fetchedAt": "2026-07-04T04:06:05.201Z"
         }
       ]
     },
     {
-      "id": "cluster-21",
-      "topic": "« Le blocage des IA d’Anthropic et d’OpenAI illustre les dilemmes des Etats-Unis",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-02-9d1bbfd3",
-          "title": "« Le blocage des IA d’Anthropic et d’OpenAI illustre les dilemmes des Etats-Unis vis-à-vis de cette technologie et de la Chine »",
-          "description": "Les capacités de disruption de l’intelligence artificielle contraignent l’administration américaine à une surveillance accrue. Donald Trump, après avoir dérégulé le secteur, a été contraint de faire machine arrière, constate le journaliste Alexandre Piquard dans sa chronique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/02/le-blocage-des-ia-d-anthropic-et-d-openai-illustre-les-dilemmes-des-etats-unis-vis-a-vis-de-cette-technologie-et-de-la-chine_6718185_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-02T15:00:03.000Z",
-          "fetchedAt": "2026-07-03T04:12:42.355Z"
-        },
-        {
-          "id": "2026-07-02-77ff0aa9",
-          "title": "Mark Corcoral, politiste : « Le blocage de certains modèles d’IA par Washington est un nouvel usage du droit à des fins de sécurité nationale »",
-          "description": "La suspension, mi-juin, des derniers modèles d’intelligence artificielle d’Anthropic et d’OpenAI s’inscrit dans une longue tradition américaine d’agressivité juridique vis-à-vis de ses adversaires, selon le chercheur.",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/02/mark-corcoral-politiste-le-blocage-de-certains-modeles-d-ia-par-washington-est-un-nouvel-usage-du-droit-a-des-fins-de-securite-nationale_6717795_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-02T04:00:26.000Z",
-          "fetchedAt": "2026-07-03T04:12:42.355Z"
-        },
-        {
-          "id": "2026-07-01-1a736c74",
-          "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-          "description": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
-          "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-07-01T21:21:21.000Z",
-          "fetchedAt": "2026-07-03T04:12:51.503Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "Le gouvernement va lancer une troisième édition du « leasing social » pour la lo",
+      "id": "cluster-4",
+      "topic": "Projet de loi d’urgence agricole : le durcissement par le Sénat des articles sur",
       "category": "eco",
-      "importance": 10,
+      "importance": 6,
       "articles": [
         {
-          "id": "2026-07-02-444f3a93",
-          "title": "Le gouvernement va lancer une troisième édition du « leasing social » pour la location de voitures électriques à loyer modéré pour les ménages modestes",
-          "description": "En 2024 et 2025, le gouvernement avait déjà mis en place ce dispositif, à hauteur de 50 000 voitures à chaque fois. Le mécanisme avait compté largement dans la progression des véhicules électriques en France.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/02/le-gouvernement-va-lancer-une-troisieme-edition-du-leasing-social-pour-la-location-de-voitures-electriques-a-loyer-modere-pour-les-menages-modestes_6718228_3234.html",
+          "id": "2026-07-03-0bcc98d5",
+          "title": "Projet de loi d’urgence agricole : le durcissement par le Sénat des articles sur l’eau place le gouvernement dans l’embarras",
+          "description": "Le texte, voté vendredi 3 juillet par les sénateurs, entend réautoriser sous condition l’usage de l’acétamipride et renforcer le poids du secteur agricole dans la gouvernance de l’eau. Les discussions en vue de la commission mixte paritaire, prévue le 16 juillet, s’annoncent difficiles.",
+          "url": "https://www.lemonde.fr/planete/article/2026/07/03/projet-de-loi-d-urgence-agricole-le-durcissement-par-le-senat-des-articles-sur-l-eau-place-le-gouvernement-dans-l-embarras_6720481_3244.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-02T18:59:04.000Z",
-          "fetchedAt": "2026-07-03T04:12:51.595Z"
-        },
+          "publishedAt": "2026-07-03T18:01:46.000Z",
+          "fetchedAt": "2026-07-04T04:06:17.536Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-8",
+      "topic": "This slim camera has a transparent LCD screen for a viewfinder",
+      "category": "tech",
+      "importance": 5,
+      "articles": [
         {
-          "id": "2026-07-02-9b2e167a",
-          "title": "Mélanie Plouviez, philosophe : « Le riche n’est pas riche seul : il l’est dans un monde social qui reconnaît ce qu’il possède »",
-          "description": "La richesse ne se décrète pas uniquement à l’inventaire des biens possédés et accumulés, observe la philosophe Mélanie Plouviez dans un entretien au « Monde ». Depuis l’Antiquité, elle se réalise également dans une position sociale, des rapports de domination, de dépendance et d’honneur.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/02/melanie-plouviez-philosophe-le-riche-n-est-pas-riche-seul-il-l-est-dans-un-monde-social-qui-reconnait-ce-qu-il-possede_6718200_3224.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-02T16:00:10.000Z",
-          "fetchedAt": "2026-07-03T04:12:51.595Z"
-        },
-        {
-          "id": "2026-07-02-68cd0845",
-          "title": "En Allemagne, le gouvernement veut introduire une dose de flexisécurité dans son droit du travail, sur un modèle nordique",
-          "description": "Multipliant les projets de réforme, Berlin s’est engagé sur la voie d’un assouplissement des conditions de licenciement associé à des mesures d’aide au reclassement, afin d’alléger le coût de l’échec pour les jeunes entreprises.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/02/en-allemagne-le-gouvernement-veut-introduire-une-dose-de-flexisecurite-dans-son-droit-du-travail-sur-un-modele-nordique_6718046_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-02T14:25:51.000Z",
-          "fetchedAt": "2026-07-03T04:12:51.595Z"
-        },
-        {
-          "id": "2026-07-02-e36fc4ca",
-          "title": "« La désindustrialisation n’est pas seulement une question économique, c’est aussi une question de confiance collective »",
-          "description": "Alors que le président Emmanuel Macron veut bâtir des « cathédrales industrielles », Bernard Streit, ancien chef d’entreprise dans le Doubs, rappelle, dans une tribune au « Monde », qu’il convient de ne pas négliger les villages et le maillage local.",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/02/la-desindustrialisation-n-est-pas-seulement-une-question-economique-c-est-aussi-une-question-de-confiance-collective_6718038_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-02T14:00:08.000Z",
-          "fetchedAt": "2026-07-03T04:12:51.595Z"
-        },
-        {
-          "id": "2026-07-02-60c35265",
-          "title": "Un meilleur partage de la valeur est une nécessité pour relancer la croissance",
-          "description": "Dans « Guerre et paix entre profits et salaires », les économistes Jean-Hervé Lorenzi et Alain Villemeur proposent une liste de réformes chiffrées pour attiser à la fois la demande et la productivité.",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/02/un-meilleur-partage-de-la-valeur-est-une-necessite-pour-relancer-la-croissance_6717853_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-02T13:00:09.000Z",
-          "fetchedAt": "2026-07-03T04:12:51.595Z"
+          "id": "2026-07-03-1854caed",
+          "title": "This slim camera has a transparent LCD screen for a viewfinder",
+          "description": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company best known for its photography lighting products, is the latest to join the simple camera craze, but its new C100 stands out from the crowd by skipping a color preview screen for a transparent LCD that doubles as an optical viewfinder.\nAlthough the C100 product page on Godox's website is thin on technical details, including its sensor resolution and video capabilities,  …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-07-03T14:51:38.000Z",
+          "fetchedAt": "2026-07-04T04:06:17.122Z"
         }
       ]
     }
