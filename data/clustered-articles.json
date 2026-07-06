@@ -1,224 +1,213 @@
 {
-  "generatedAt": "2026-07-05T04:37:42.842Z",
+  "generatedAt": "2026-07-06T04:48:43.791Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-3",
-      "topic": "États-Unis, Mali, Venezuela et Tour de France : les informations de la nuit",
+      "id": "cluster-1",
+      "topic": "EN DIRECT, guerre en Ukraine : huit morts dans la région de Kiev visée par des m",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-05-12cb98e4",
-          "title": "États-Unis, Mali, Venezuela et Tour de France : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-etats-unis-mali-venezuela-et-tour-de-france-les-informations-de-la-nuit_246744",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/05/0/0/7984/5323/1200/630/60/0/648fab7_ftp-1-ldqyvletlxsf-afp-b9ah7w2.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-05T03:55:10.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.811Z"
-        },
-        {
-          "id": "2026-07-05-f75da510",
-          "title": "EN DIRECT, 4-Juillet et 250 ans des Etats-Unis : Donald Trump fustige les « communistes » lors de son discours de célébration de l’indépendance des Etats-Unis",
-          "description": "Le président américain a assuré que « l’Amérique était de retour », célébrant à l’occasion de l’anniversaire de la déclaration d’indépendance, la Constitution américaine, en mettant l’accent sur le second amendement, qui donne le droit aux Américains de porter des armes. Il a répété son rejet des « communistes », ainsi qu’il qualifie désormais ses opposants.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/05/en-direct-4-juillet-et-250-ans-des-etats-unis-le-national-mall-a-washington-evacue-en-raison-d-un-risque-d-orages-le-discours-de-donald-trump-reporte-sine-die_6720679_3210.html",
+          "id": "2026-07-06-93ecca9f",
+          "title": "EN DIRECT, guerre en Ukraine : huit morts dans la région de Kiev visée par des missiles balistiques russes, Sébastopol, en Crimée, privée d’électricité après des frappes ukrainiennes",
+          "description": "Sept personnes ont été tuées dans la capitale et une dans le district de Boutcha, en périphérie. Les autorités locales ont recensé plusieurs dizaines de blessés. En Crimée, péninsule annexée par Moscou, le gouverneur a annoncé que des infrastructures énergétiques avaient été visées par « une attaque ennemie ».",
+          "url": "https://www.lemonde.fr/international/live/2026/07/06/en-direct-guerre-en-ukraine-huit-morts-dans-la-region-de-kiev-visee-par-des-missiles-balistiques-russes-sebastopol-en-crimee-privee-d-electricite-apres-des-frappes-ukrainiennes_6720832_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-05T00:48:12.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.166Z"
+          "publishedAt": "2026-07-06T04:09:22.000Z",
+          "fetchedAt": "2026-07-06T04:44:43.497Z"
         },
         {
-          "id": "2026-07-04-59fc6df7",
-          "title": "Mondial 2026 : la France maîtrise un Paraguay rugueux et retrouve le Maroc en quarts",
-          "description": "",
-          "url": "https://www.france24.com/fr/sports/20260704-mondial-2026-la-france-ma%C3%AEtrise-un-paraguay-rugueux-et-fonce-en-quarts",
-          "imageUrl": "https://s.france24.com/media/display/e4410a92-77fa-11f1-9b58-005056bfb2b6/w:1280/p:16x9/000-B9AC964.jpg",
+          "id": "2026-07-06-72ffb8c0",
+          "title": "Ukraine en direct : huit morts dans la région de Kiev, visée par des frappes russes",
+          "description": "Des bombardements russes ont fait au moins huit morts lundi dans la région de Kiev, dont sept dans la capitale ukrainienne où des journalistes de l’AFP ont fait état de dizaines d’explosions, à la veille d’un sommet de l’Otan à Ankara. En Crimée anexée, la ville de Sébastopol est privée d’électricité en raison d’une attaque ukrainienne sur les infrastructures énergétiques. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20260706-ukraine-en-direct-huit-morts-dans-la-r%C3%A9gion-de-kiev-vis%C3%A9e-par-des-frappes-russes",
+          "imageUrl": "https://s.france24.com/media/display/baf02ee2-78e6-11f1-96bc-005056bfb2b6/w:1024/p:16x9/AP26187080564257.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-04T23:07:44.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.406Z"
+          "publishedAt": "2026-07-06T03:08:51.000Z",
+          "fetchedAt": "2026-07-06T04:44:43.450Z"
         },
         {
-          "id": "2026-07-04-6c303ad6",
-          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine a parlé par téléphone avec Donald Trump des 250 ans des Etats-Unis",
-          "description": "Le président russe a appelé son homologue américain pour évoquer l’Ukraine et d’autres sujets internationaux, a fait savoir le Kremlin. Plus tôt dans la soirée Kiev a également annoncé que Volodymyr Zelensky s’était entretenu par téléphone avec le locataire de la Maison Blanche.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/04/en-direct-guerre-en-ukraine-vladimir-poutine-a-parle-par-telephone-avec-donald-trump-des-250-ans-des-etats-unis_6716525_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-04T21:47:04.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.166Z"
-        },
-        {
-          "id": "2026-07-04-d6bf2e87",
-          "title": "Tour de France: Vingegaard premier maillot jaune après le succès de Visma dans le chrono",
-          "description": "Le Danois Jonas Vingegaard endosse le premier maillot jaune de la 113e édition du Tour de France après la victoire de sa formation Visma-Lease a bike dans le contre-la-montre par équipes, samedi à Barcelone.",
-          "url": "https://www.rfi.fr/fr/sports/20260704-tour-de-france-vingegaard-premier-maillot-jaune-apr%C3%A8s-le-succ%C3%A8s-de-visma-dans-le-chrono",
-          "imageUrl": "https://s.rfi.fr/media/display/1bcd50da-77d6-11f1-9e01-005056a97e36/w:1024/p:16x9/aa7a73e4e62853378d05358456a42bf8b0c79d25.jpg",
+          "id": "2026-07-06-dd054673",
+          "title": "Sébastopol, en Crimée annexée par la Russie, privée d'électricité après une attaque ukrainienne",
+          "description": "La ville de Sébastopol, dans la péninsule de Crimée annexée par la Russie, est privée d'électricité lundi en raison d'une attaque ukrainienne sur les infrastructures énergétiques, a annoncé le gouverneur local nommé par Moscou, Mikhaïl Razvojaïev.",
+          "url": "https://www.rfi.fr/fr/europe/20260706-s%C3%A9bastopol-en-crim%C3%A9e-annex%C3%A9e-par-la-russie-priv%C3%A9e-d-%C3%A9lectricit%C3%A9-apr%C3%A8s-une-attaque-ukrainienne",
+          "imageUrl": "https://s.rfi.fr/media/display/0dca5d08-707d-11f1-ba35-005056bf30b7/w:1024/p:16x9/2026-06-24T172249Z-570513473-RC290MACK5QT-RTRMADP-3-UKRAINE-CRISIS-ATTACK-CRIMEA.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-04T18:28:10.000Z",
-          "fetchedAt": "2026-07-05T04:33:52.264Z"
+          "publishedAt": "2026-07-06T02:43:04.000Z",
+          "fetchedAt": "2026-07-06T04:44:57.215Z"
         },
         {
-          "id": "2026-07-04-4f429273",
-          "title": "Tour de France : Jonas Vingegaard étrenne le maillot jaune après le contre-la-montre par équipes",
-          "description": "Le Danois Jonas Vingegaard, de la formation ⁠Visma-Lease a bike, a remporté samedi le maillot jaune lors de la première étape du Tour de France. Pour cette 113e édition, la compétition a commencé à Barcelone, en Espagne, par un contre-la-montre par équipes.",
-          "url": "https://www.france24.com/fr/sports/20260704-tour-de-france-jonas-vingegaard-remporte-1%C3%A8re-%C3%A9tape-contre-la-montre-par-%C3%A9quipes-pogacar-seixas-vauquelin",
-          "imageUrl": "https://s.france24.com/media/display/4adb91ce-77cd-11f1-ac0a-005056bfb2b6/w:1024/p:16x9/000-B99U9DY.jpg",
+          "id": "2026-07-05-ea07f66c",
+          "title": "Zelensky assure que les \"combats continuent\" pour la ville ukrainienne de Kostyantynivka",
+          "description": "Le président ukrainien, Volodymyr Zelensky, a affirmé dimanche que les combats étaient toujours en cours à Kostyantynivka, bien que le Kremlin a annoncé plus tôt avoir pris cette ville stratégique dans l'est de l'Ukraine.",
+          "url": "https://www.france24.com/fr/europe/20260705-zelensky-assure-combats-continuent-pour-la-ville-ukrainienne-kostyantynivka-donetsk-russie-poutine-kremlin",
+          "imageUrl": "https://s.france24.com/media/display/571b76c0-78ae-11f1-8c8e-005056a90284/w:1024/p:16x9/000-A2AK9CQ.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-04T17:32:39.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.406Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-5",
-      "topic": "Derrière la rivalité entre Pékin et Washington, l’essor de l’IA chinoise aux Eta",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-05-356d74e8",
-          "title": "Derrière la rivalité entre Pékin et Washington, l’essor de l’IA chinoise aux Etats-Unis",
-          "description": "Avec le lancement de l’intelligence artificielle GLM-5.2 par la start-up Zhipu, la Chine prouve qu’elle peut concurrencer les meilleurs modèles américains au moment où les géants de la Silicon Valley s’opposent sur les prix et les restrictions gouvernementales.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/05/derriere-la-rivalite-entre-pekin-et-washington-l-essor-de-l-ia-chinoise-aux-etats-unis_6720820_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-05T03:30:12.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.166Z"
-        },
-        {
-          "id": "2026-07-04-790f081d",
-          "title": "250 ans des Etats-Unis : Boston, berceau de la révolution américaine",
-          "description": "🇺🇸 Les Américains célèbrent leur indépendance le 4 juillet. Mais saviez-vous que la révolution qui a mené à la création des États-Unis était née à Boston ?\n \nAntoine Besse vous emmène faire un tour dans cette ville révolutionnaire ⤵️\n \n#4juillet #July4th #America250 #Boston",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-250-ans-des-etats-unis-boston-berceau-de-la-r%C3%A9volution-am%C3%A9ricaine",
-          "imageUrl": "https://s.france24.com/media/display/7855c88c-77c2-11f1-9dfe-005056a97e36/w:1024/p:16x9/FR-vignette-Boston-re%CC%81volution.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-04T16:09:53.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.406Z"
-        },
-        {
-          "id": "2026-07-04-6afd873f",
-          "title": "Léon XIV à Lampedusa, une visite riche en symboles et un appel à « protéger les migrants »",
-          "description": "Treize ans après son prédécesseur, le pape s’est rendu, samedi, sur la petite île italienne devenue le symbole du drame des migrants morts en tentant de traverser la Méditerranée. Pour le pontife américain, le choix de venir à Lampedusa le jour où les Etats-Unis de Donald Trump célèbrent les 250 ans de leur indépendance était déjà un message.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/04/leon-xiv-a-lampedusa-une-visite-riche-en-symboles-et-un-appel-a-proteger-les-migrants_6720684_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-04T15:56:22.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.166Z"
-        },
-        {
-          "id": "2026-07-04-982ab2bb",
-          "title": "250 ans des Etats-Unis : des festivités instrumentalisés autour de Trump",
-          "description": "Romuald Sciora, essayiste franco-américain et directeur de l'Observatoire politique des Etats-Unis, est notre invité.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-250-ans-des-etats-unis-des-festivit%C3%A9s-instrumentalis%C3%A9s-autour-de-trump",
-          "imageUrl": "https://s.france24.com/media/display/eeafeef2-77ab-11f1-883a-005056a90284/w:1024/p:16x9/FR-20260704-130403-132444-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-04T15:11:33.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.406Z"
-        },
-        {
-          "id": "2026-07-04-6495123b",
-          "title": "250ᵉ anniversaire de la déclaration d’indépendance des Etats-Unis : « Ce texte a fourni à l’extrême droite américaine une mythologie et une justification morale »",
-          "description": "L’historien Olivier Burtin réfléchit, dans une tribune au « Monde », à la manière dont l’extrême droite américaine s’est approprié la mémoire du 4 juillet 1776 comme moment fondateur de la liberté politique mais aussi comme justification d’une résistance à l’Etat central et d’un droit à faire sécession.",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/04/250-anniversaire-de-la-declaration-d-independance-des-etats-unis-ce-texte-a-fourni-a-l-extreme-droite-americaine-une-mythologie-et-une-justification-morale_6720648_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-04T10:00:06.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.166Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "Funérailles de Khamenei: ces mères venues en famille rendre «un ultime hommage à",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-05-1f739984",
-          "title": "Funérailles de Khamenei: ces mères venues en famille rendre «un ultime hommage à leur guide suprême»",
-          "description": "L'Iran est en deuil. Le pays enterre son guide suprême. Une semaine de commémoration organisée à travers tout le pays en hommage à Ali Khamenei, tué lors des frappes israélo-américaines qui ont déclenché la guerre contre la République islamique, le 28 février dernier. Profitant du cessez-le-feu avec Washington, les funérailles officielles ont débuté hier matin. Pendant trois jours, le cercueil du guide suprême est exposé dans un sanctuaire de Téhéran. Mais les cérémonies dépassent largement ses murs. Elles gagnent toute la capitale.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260705-fun%C3%A9railles-de-khamenei-ces-m%C3%A8res-venues-en-famille-rendre-un-ultime-hommage-%C3%A0-leur-guide-supr%C3%AAme",
-          "imageUrl": "https://s.rfi.fr/media/display/6782014c-77f4-11f1-9d2e-005056bf30b7/w:1024/p:16x9/AP26185620717808.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-05T03:07:16.000Z",
-          "fetchedAt": "2026-07-05T04:33:52.264Z"
-        },
-        {
-          "id": "2026-07-05-9c310a56",
-          "title": "Afrique du Sud: polémique après la rencontre entre Jacob Zuma et l'un des frères Gupta",
-          "description": "L’ancien président Jacob Zuma – empêtré dans de nombreuses affaires de corruption – était dans un temple en Inde fin juin et s’est affiché aux côtés d’un des frères Gupta, connus pour leur rôle d’architectes de la capture d'État sous la présidence Zuma. Si le parti MK, nouveau parti de l’ancien président déchu, le défend et parle d’un déplacement privé autorisé, le gouvernement considère cette visite comme un affront.",
-          "url": "https://www.rfi.fr/fr/afrique/20260705-afrique-du-sud-pol%C3%A9mique-apr%C3%A8s-la-rencontre-entre-jacob-zuma-et-l-un-des-fr%C3%A8res-gupta",
-          "imageUrl": "https://s.rfi.fr/media/display/374f73d2-b081-11f0-a6d8-005056bf30b7/w:1024/p:16x9/00066V342A.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-05T02:43:43.000Z",
-          "fetchedAt": "2026-07-05T04:33:52.264Z"
-        },
-        {
-          "id": "2026-07-04-04d61ef3",
-          "title": "Iran: à Téhéran, les funérailles du guide suprême ravivent les discours anti-américains",
-          "description": "Drapeaux noirs, habits noirs… L’Iran en deuil enterre son guide suprême Ali Khamenei, tué par les frappes israélo-américaines, qui ont déclenché la guerre contre la République islamique le 28 février dernier. Profitant du cessez-le-feu avec Washington, les funérailles officielles du guide débutent ce matin à Téhéran, dans le grand Mosalla, un sanctuaire religieux et politique.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260704-iran-%C3%A0-t%C3%A9h%C3%A9ran-les-fun%C3%A9railles-du-guide-supr%C3%AAme-ravivent-les-discours-anti-am%C3%A9ricains",
-          "imageUrl": "https://s.rfi.fr/media/display/f254bd72-77fa-11f1-893f-005056bf30b7/w:1024/p:16x9/AP26185229274548.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-04T23:10:37.000Z",
-          "fetchedAt": "2026-07-05T04:33:52.264Z"
-        },
-        {
-          "id": "2026-07-04-3e96429f",
-          "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
-          "description": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
-          "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2a2f/live/7e277ba0-77ec-11f1-9510-1546718f668b.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-04T21:46:43.000Z",
-          "fetchedAt": "2026-07-05T04:33:52.305Z"
-        },
-        {
-          "id": "2026-07-04-b4394ffd",
-          "title": "Marine Le Pen et Jordan Bardella réunis pour montrer leur unité, à trois jours d'un jugement décisif",
-          "description": "Marine Le Pen a déclaré samedi être prête à soutenir Jordan Bardella si elle ne peut pas concourir une quatrième fois à l'Élysée. Elle le défendra \"avec une grande énergie, une grande conviction et une grande confiance\", a-t-elle déclaré devant les militants réunis pour un \"banquet champêtre\" à Liévin, dans le Pas-de-Calais.",
-          "url": "https://www.france24.com/fr/france/20260704-marine-le-pen-jordan-bardella-r%C3%A9unis-pour-montrer-leur-unit%C3%A9-%C3%A0-trois-jours-jugement-d%C3%A9cisif-rassemblement-national",
-          "imageUrl": "https://s.france24.com/media/display/581370fc-77e9-11f1-ae2f-005056bfb2b6/w:1024/p:16x9/AP26185708599783.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-04T21:10:11.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.406Z"
-        },
-        {
-          "id": "2026-07-04-61335c62",
-          "title": "Mondial 2026 : un Maroc à deux visages élimine le Canada et retrouve les quarts",
-          "description": "",
-          "url": "https://www.france24.com/fr/sports/20260704-mondial-2026-maroc-vs-canada",
-          "imageUrl": "https://s.france24.com/media/display/ed880024-77e1-11f1-ab8a-005056bf30b7/w:1280/p:16x9/AP26185679628533.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-04T19:05:31.000Z",
-          "fetchedAt": "2026-07-05T04:33:42.406Z"
+          "publishedAt": "2026-07-05T20:50:57.000Z",
+          "fetchedAt": "2026-07-06T04:44:43.450Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Bernard Arnault soumis à un redressement fiscal de 22,5 millions d’euros",
-      "category": "eco",
-      "importance": 9,
+      "topic": "L’Angleterre sort le Mexique, Gustavo Petro, Nigel Farage : les informations de ",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
+        {
+          "id": "2026-07-06-f58364c9",
+          "title": "L’Angleterre sort le Mexique, Gustavo Petro, Nigel Farage : les informations de la nuit",
+          "description": "",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-l-angleterre-sort-le-mexique-gustavo-petro-nigel-farage-les-informations-de-la-nuit_246877",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/06/1/0/7622/5081/1200/630/60/0/7fa3ca8_ftp-1-xdc4c3il3kr8-afp-b9c87b6.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T04:00:10.000Z",
+          "fetchedAt": "2026-07-06T04:44:43.831Z"
+        },
+        {
+          "id": "2026-07-06-7ac8fffd",
+          "title": "Mondial 2026 : l'Angleterre, à dix, résiste à la furia du Mexique et rejoint la Norvège en quarts",
+          "description": "",
+          "url": "https://www.france24.com/fr/sports/20260706-mondial-2026-l-angleterre-r%C3%A9siste-au-mexique-%C3%A0-dix-et-rejoint-la-norv%C3%A8ge-en-quarts",
+          "imageUrl": "https://s.france24.com/media/display/fbab7426-78e8-11f1-b0e7-005056a97e36/w:1280/p:16x9/AP26187113038300.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T03:07:52.000Z",
+          "fetchedAt": "2026-07-06T04:44:43.450Z"
+        },
+        {
+          "id": "2026-07-06-56347c81",
+          "title": "Coupe du monde 2026: au terme d'un match épique, l'Angleterre se qualifie pour les quarts face au Mexique",
+          "description": "Dans un match complètement fou, l'Angleterre s'est imposée 3-2 face au Mexique dans son antre du stade Azteca de Mexico. Réduits à dix pendant 40 minutes et menacés par la réduction du score des Mexicains, les « Three Lions » se sont faits peur et ont dû batailler jusqu'à la dernière seconde pour décrocher leur qualification face à une équipe du Mexique qui pourra nourrir des regrets après son élimination.",
+          "url": "https://www.rfi.fr/fr/sports/20260706-coupe-du-monde-2026-au-terme-d-un-match-%C3%A9pique-l-angleterre-se-qualifie-pour-les-quarts-face-au-mexique",
+          "imageUrl": "https://s.rfi.fr/media/display/130b0e3c-78ea-11f1-b158-005056bfb2b6/w:1024/p:16x9/AP26187061641672.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T03:05:26.000Z",
+          "fetchedAt": "2026-07-06T04:44:57.215Z"
+        },
+        {
+          "id": "2026-07-05-10456563",
+          "title": "Coupe du monde 2026: revivez le match fou entre l'Angleterre et le Mexique et la qualification des Britanniques",
+          "description": "A 10 contre 11 après l'expulsion de Quansah, l'Angleterre a souffert mais tenu face au Mexique pour s'offrir une qualification en quarts de finale grâce à des buts de Bellingham et Kane. Les Anglais affronteront la Norvège en quarts de finale.",
+          "url": "https://www.rfi.fr/fr/sports/20260705-en-direct-coupe-du-monde-2026-duel-au-sommet-entre-le-mexique-et-l-angleterre-en-8es-de-finale",
+          "imageUrl": "https://s.rfi.fr/media/display/1b050310-78e8-11f1-831b-005056bfb2b6/w:1024/p:16x9/AP26187059827261.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-05T23:00:08.000Z",
+          "fetchedAt": "2026-07-06T04:44:57.215Z"
+        },
+        {
+          "id": "2026-07-05-b05cef16",
+          "title": "Mexique - Angleterre : les Three Lions qualifiés au terme d'un match bouillant",
+          "description": "L'Angleterre a éliminé le Mexique en huitièmes de finale de la Coupe du monde 2026, dans l'ambiance bouillante du stade Azteca de Mexico. Réduits à 10, les Three Lions ont su conserver leur avance au score face à une équipe du Mexique qui n'a jamais rien lâché. Les Anglais affronteront la Norvège en quarts de finale. Revivez le match avec le direct commenté de nos confrères de RFI.",
+          "url": "https://www.france24.com/fr/sports/20260705-mondial-2026-mexique-angleterre-direct-live-8e-finale-stade-azteca",
+          "imageUrl": "https://s.france24.com/media/display/82ca9672-78e8-11f1-b329-005056bf30b7/w:1024/p:16x9/Winner-ENG-H.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-05T22:53:30.000Z",
+          "fetchedAt": "2026-07-06T04:44:43.450Z"
+        },
+        {
+          "id": "2026-07-05-a2313739",
+          "title": "Coupe du monde : Julián Quiñones, le plus colombien des joueurs mexicains",
+          "description": "Critiqué à ses débuts pour être un joueur “importé”, l’attaquant né en Colombie Julián Quiñones fait désormais le bonheur de la sélection mexicaine avec trois buts en trois matchs de Coupe du monde. En compagnie de ses coéquipiers d’El Tri, l’athlétique ailier gauche va essayer de renverser l’Angleterre, dans la nuit du 5 au 6 juillet, pour s’octroyer une place pour les quarts de finale.",
+          "url": "https://www.courrierinternational.com/article/football-coupe-du-monde-julian-quinones-le-plus-colombien-des-joueurs-mexicains_246018",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/01/0/0/4444/2963/1200/630/60/0/c98dfe2_ftp-1-zttfbzkj7jnd-afp-b8vb4aj.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-05T16:00:11.000Z",
+          "fetchedAt": "2026-07-06T04:44:43.831Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Les Australiens victimes de leurs bandits manchots",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-06-dcc5f176",
+          "title": "Les Australiens victimes de leurs bandits manchots",
+          "description": "Dans l’Etat de Nouvelle-Galles du Sud, l’omniprésence des machines à sous favorise l’addiction aux jeux d’argent, mais les autorités tardent à réformer un secteur qui rapporte gros.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/06/les-australiens-victimes-de-leurs-bandits-manchots_6721059_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T03:30:10.000Z",
+          "fetchedAt": "2026-07-06T04:44:43.497Z"
+        },
+        {
+          "id": "2026-07-06-b4ee77cd",
+          "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+          "description": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
+          "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eae2/live/1c528710-78cf-11f1-a627-714adb4eed6e.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T01:46:29.000Z",
+          "fetchedAt": "2026-07-06T04:44:57.243Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "« Il y a une incapacité des politiques à penser la question du grand âge sur le ",
+      "category": "eco",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-06-c71f2ebc",
+          "title": "« Il y a une incapacité des politiques à penser la question du grand âge sur le long terme »",
+          "description": "Malgré la multiplication des épisodes de canicule, dont les principales victimes sont les personnes âgées, la France continue de procrastiner sur le sujet du financement de la dépendance, estime, dans sa chronique, Stéphane Lauer, éditorialiste au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/07/06/il-y-a-une-incapacite-des-politiques-a-penser-la-question-du-grand-age-sur-le-long-terme_6721130_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-06T04:00:17.000Z",
+          "fetchedAt": "2026-07-06T04:45:02.699Z"
+        },
+        {
+          "id": "2026-07-06-5f257e69",
+          "title": "Les contrats d’électricité à tarification dynamique, un pari risqué, mais qui peut être très rentable",
+          "description": "Les tarifs dynamiques contraignent les ménages à payer leur électricité selon des prix boursiers fluctuant chaque heure. Ces contrats présentent donc un risque de flambée des factures en cas de nouvelle crise énergétique, mais peuvent en revanche déboucher sur des centaines d’euros d’économies par an.",
+          "url": "https://www.lemonde.fr/argent/article/2026/07/06/les-contrats-d-electricite-a-tarification-dynamique-un-pari-risque-mais-qui-peut-etre-tres-rentable_6721129_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-06T04:00:07.000Z",
+          "fetchedAt": "2026-07-06T04:45:02.699Z"
+        },
+        {
+          "id": "2026-07-05-1af1657d",
+          "title": "La production audiovisuelle, confrontée à une chute des commandes, taille dans ses effectifs : « Nous sommes entrés dans un nouveau monde »",
+          "description": "L’heure étant aux économies dans les chaînes de télévision, privées comme publiques, les carnets de commandes des sociétés de production tardent à se remplir. Le secteur redoute un automne de casse sociale.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/05/la-production-audiovisuelle-confrontee-a-une-chute-des-commandes-taille-dans-ses-effectifs-nous-sommes-entres-dans-un-nouveau-monde_6720888_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-05T14:46:48.000Z",
+          "fetchedAt": "2026-07-06T04:45:02.699Z"
+        },
+        {
+          "id": "2026-07-05-1cdda45c",
+          "title": "Marché du timbre : une rare paire du « Black Penny » à 105 000 euros",
+          "description": "L’actualité des ventes aux enchères nous conduit en Suisse et en Grande-Bretagne, avec quelques bons prix à la clé.",
+          "url": "https://www.lemonde.fr/argent/article/2026/07/05/marche-du-timbre-une-rare-paire-du-black-penny-a-105-000-euros_6720835_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-05T05:00:05.000Z",
+          "fetchedAt": "2026-07-06T04:45:02.699Z"
+        },
         {
           "id": "2026-07-04-ac1d4dd6",
           "title": "Bernard Arnault soumis à un redressement fiscal de 22,5 millions d’euros",
@@ -228,48 +217,26 @@
           "source": "Le Monde - Économie",
           "category": "eco",
           "publishedAt": "2026-07-04T18:24:28.000Z",
-          "fetchedAt": "2026-07-05T04:33:59.059Z"
-        },
-        {
-          "id": "2026-07-03-293bc62a",
-          "title": "Audiovisuel public : les mesures préconisées par Charles Alloncle seraient loin de rapporter le milliard d’euros promis, selon une note",
-          "description": "France Télévisions a demandé à Henri Isaac, docteur en sciences de gestion, de calculer l’impact des mesures préconisées par le député ciottiste en conclusion de la commission d’enquête sur l’audiovisuel public. Le résultat serait catastrophique pour l’écosystème audiovisuel.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/03/audiovisuel-public-les-mesures-preconisees-par-charles-alloncle-seraient-loin-de-rapporter-le-milliard-d-euros-promis-selon-une-note_6720462_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-03T16:13:42.000Z",
-          "fetchedAt": "2026-07-05T04:33:59.059Z"
-        },
-        {
-          "id": "2026-07-03-504fce3a",
-          "title": "Canicule au travail : la CGT veut un changement d’urgence de la loi ; le gouvernement, des accords par métier",
-          "description": "Le ministre du travail, Jean-Pierre Farandou, espère des accords d’entreprise avant les canicules de 2027. « Ce n’est pas possible d’attendre l’automne pour faire ça », a réagi la secrétaire générale de la CGT, Sophie Binet.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/03/canicule-au-travail-la-cgt-veut-un-changement-d-urgence-de-la-loi-le-gouvernement-des-accords-par-metier_6719168_823448.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-03T11:58:48.000Z",
-          "fetchedAt": "2026-07-05T04:33:59.059Z"
+          "fetchedAt": "2026-07-06T04:45:02.699Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "NASA launched an emergency mission to stop the Swift Observatory from crashing t",
+      "id": "cluster-1",
+      "topic": "Some of the nation’s rich are letting AI teach their kids",
       "category": "tech",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-07-04-68719726",
-          "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-          "description": "Engineers from Katalyst Space Technologies testing Link. | Image: NASA/Scott Wiessinger\t\n\nThe Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday with the goal of intercepting Swift, which has no propulsion system, and boosting its orbit back to its original position. Right now, Swift is circling at an altitude of 224 miles, and Link is aiming to raise that by about 150 miles.\nUsing a three-armed spacecraft to lift a satellite 150 miles higher into orbit is challenging enough, but the spee …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Testing-Link-Vibration-tests-2_4000x2600.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-07-05-62797d77",
+          "title": "Some of the nation’s rich are letting AI teach their kids",
+          "description": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\nCompanies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told the Wall Street Journal that he plans to send his …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-07-04T19:06:27.000Z",
-          "fetchedAt": "2026-07-05T04:33:59.049Z"
+          "publishedAt": "2026-07-05T22:30:54.000Z",
+          "fetchedAt": "2026-07-06T04:45:02.581Z"
         }
       ]
     }
