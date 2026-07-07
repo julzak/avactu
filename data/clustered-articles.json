@@ -1,242 +1,220 @@
 {
-  "generatedAt": "2026-07-06T04:48:43.791Z",
+  "generatedAt": "2026-07-07T04:31:15.553Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "EN DIRECT, guerre en Ukraine : huit morts dans la région de Kiev visée par des m",
+      "topic": "Zelensky to press Nato for air defence systems after intense Russian strikes",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-06-93ecca9f",
-          "title": "EN DIRECT, guerre en Ukraine : huit morts dans la région de Kiev visée par des missiles balistiques russes, Sébastopol, en Crimée, privée d’électricité après des frappes ukrainiennes",
-          "description": "Sept personnes ont été tuées dans la capitale et une dans le district de Boutcha, en périphérie. Les autorités locales ont recensé plusieurs dizaines de blessés. En Crimée, péninsule annexée par Moscou, le gouverneur a annoncé que des infrastructures énergétiques avaient été visées par « une attaque ennemie ».",
-          "url": "https://www.lemonde.fr/international/live/2026/07/06/en-direct-guerre-en-ukraine-huit-morts-dans-la-region-de-kiev-visee-par-des-missiles-balistiques-russes-sebastopol-en-crimee-privee-d-electricite-apres-des-frappes-ukrainiennes_6720832_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-06T04:09:22.000Z",
-          "fetchedAt": "2026-07-06T04:44:43.497Z"
-        },
-        {
-          "id": "2026-07-06-72ffb8c0",
-          "title": "Ukraine en direct : huit morts dans la région de Kiev, visée par des frappes russes",
-          "description": "Des bombardements russes ont fait au moins huit morts lundi dans la région de Kiev, dont sept dans la capitale ukrainienne où des journalistes de l’AFP ont fait état de dizaines d’explosions, à la veille d’un sommet de l’Otan à Ankara. En Crimée anexée, la ville de Sébastopol est privée d’électricité en raison d’une attaque ukrainienne sur les infrastructures énergétiques. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20260706-ukraine-en-direct-huit-morts-dans-la-r%C3%A9gion-de-kiev-vis%C3%A9e-par-des-frappes-russes",
-          "imageUrl": "https://s.france24.com/media/display/baf02ee2-78e6-11f1-96bc-005056bfb2b6/w:1024/p:16x9/AP26187080564257.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-06T03:08:51.000Z",
-          "fetchedAt": "2026-07-06T04:44:43.450Z"
-        },
-        {
-          "id": "2026-07-06-dd054673",
-          "title": "Sébastopol, en Crimée annexée par la Russie, privée d'électricité après une attaque ukrainienne",
-          "description": "La ville de Sébastopol, dans la péninsule de Crimée annexée par la Russie, est privée d'électricité lundi en raison d'une attaque ukrainienne sur les infrastructures énergétiques, a annoncé le gouverneur local nommé par Moscou, Mikhaïl Razvojaïev.",
-          "url": "https://www.rfi.fr/fr/europe/20260706-s%C3%A9bastopol-en-crim%C3%A9e-annex%C3%A9e-par-la-russie-priv%C3%A9e-d-%C3%A9lectricit%C3%A9-apr%C3%A8s-une-attaque-ukrainienne",
-          "imageUrl": "https://s.rfi.fr/media/display/0dca5d08-707d-11f1-ba35-005056bf30b7/w:1024/p:16x9/2026-06-24T172249Z-570513473-RC290MACK5QT-RTRMADP-3-UKRAINE-CRISIS-ATTACK-CRIMEA.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-06T02:43:04.000Z",
-          "fetchedAt": "2026-07-06T04:44:57.215Z"
-        },
-        {
-          "id": "2026-07-05-ea07f66c",
-          "title": "Zelensky assure que les \"combats continuent\" pour la ville ukrainienne de Kostyantynivka",
-          "description": "Le président ukrainien, Volodymyr Zelensky, a affirmé dimanche que les combats étaient toujours en cours à Kostyantynivka, bien que le Kremlin a annoncé plus tôt avoir pris cette ville stratégique dans l'est de l'Ukraine.",
-          "url": "https://www.france24.com/fr/europe/20260705-zelensky-assure-combats-continuent-pour-la-ville-ukrainienne-kostyantynivka-donetsk-russie-poutine-kremlin",
-          "imageUrl": "https://s.france24.com/media/display/571b76c0-78ae-11f1-8c8e-005056a90284/w:1024/p:16x9/000-A2AK9CQ.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-05T20:50:57.000Z",
-          "fetchedAt": "2026-07-06T04:44:43.450Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "L’Angleterre sort le Mexique, Gustavo Petro, Nigel Farage : les informations de ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-06-f58364c9",
-          "title": "L’Angleterre sort le Mexique, Gustavo Petro, Nigel Farage : les informations de la nuit",
-          "description": "",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-l-angleterre-sort-le-mexique-gustavo-petro-nigel-farage-les-informations-de-la-nuit_246877",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/06/1/0/7622/5081/1200/630/60/0/7fa3ca8_ftp-1-xdc4c3il3kr8-afp-b9c87b6.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-06T04:00:10.000Z",
-          "fetchedAt": "2026-07-06T04:44:43.831Z"
-        },
-        {
-          "id": "2026-07-06-7ac8fffd",
-          "title": "Mondial 2026 : l'Angleterre, à dix, résiste à la furia du Mexique et rejoint la Norvège en quarts",
-          "description": "",
-          "url": "https://www.france24.com/fr/sports/20260706-mondial-2026-l-angleterre-r%C3%A9siste-au-mexique-%C3%A0-dix-et-rejoint-la-norv%C3%A8ge-en-quarts",
-          "imageUrl": "https://s.france24.com/media/display/fbab7426-78e8-11f1-b0e7-005056a97e36/w:1280/p:16x9/AP26187113038300.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-06T03:07:52.000Z",
-          "fetchedAt": "2026-07-06T04:44:43.450Z"
-        },
-        {
-          "id": "2026-07-06-56347c81",
-          "title": "Coupe du monde 2026: au terme d'un match épique, l'Angleterre se qualifie pour les quarts face au Mexique",
-          "description": "Dans un match complètement fou, l'Angleterre s'est imposée 3-2 face au Mexique dans son antre du stade Azteca de Mexico. Réduits à dix pendant 40 minutes et menacés par la réduction du score des Mexicains, les « Three Lions » se sont faits peur et ont dû batailler jusqu'à la dernière seconde pour décrocher leur qualification face à une équipe du Mexique qui pourra nourrir des regrets après son élimination.",
-          "url": "https://www.rfi.fr/fr/sports/20260706-coupe-du-monde-2026-au-terme-d-un-match-%C3%A9pique-l-angleterre-se-qualifie-pour-les-quarts-face-au-mexique",
-          "imageUrl": "https://s.rfi.fr/media/display/130b0e3c-78ea-11f1-b158-005056bfb2b6/w:1024/p:16x9/AP26187061641672.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-06T03:05:26.000Z",
-          "fetchedAt": "2026-07-06T04:44:57.215Z"
-        },
-        {
-          "id": "2026-07-05-10456563",
-          "title": "Coupe du monde 2026: revivez le match fou entre l'Angleterre et le Mexique et la qualification des Britanniques",
-          "description": "A 10 contre 11 après l'expulsion de Quansah, l'Angleterre a souffert mais tenu face au Mexique pour s'offrir une qualification en quarts de finale grâce à des buts de Bellingham et Kane. Les Anglais affronteront la Norvège en quarts de finale.",
-          "url": "https://www.rfi.fr/fr/sports/20260705-en-direct-coupe-du-monde-2026-duel-au-sommet-entre-le-mexique-et-l-angleterre-en-8es-de-finale",
-          "imageUrl": "https://s.rfi.fr/media/display/1b050310-78e8-11f1-831b-005056bfb2b6/w:1024/p:16x9/AP26187059827261.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-05T23:00:08.000Z",
-          "fetchedAt": "2026-07-06T04:44:57.215Z"
-        },
-        {
-          "id": "2026-07-05-b05cef16",
-          "title": "Mexique - Angleterre : les Three Lions qualifiés au terme d'un match bouillant",
-          "description": "L'Angleterre a éliminé le Mexique en huitièmes de finale de la Coupe du monde 2026, dans l'ambiance bouillante du stade Azteca de Mexico. Réduits à 10, les Three Lions ont su conserver leur avance au score face à une équipe du Mexique qui n'a jamais rien lâché. Les Anglais affronteront la Norvège en quarts de finale. Revivez le match avec le direct commenté de nos confrères de RFI.",
-          "url": "https://www.france24.com/fr/sports/20260705-mondial-2026-mexique-angleterre-direct-live-8e-finale-stade-azteca",
-          "imageUrl": "https://s.france24.com/media/display/82ca9672-78e8-11f1-b329-005056bf30b7/w:1024/p:16x9/Winner-ENG-H.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-05T22:53:30.000Z",
-          "fetchedAt": "2026-07-06T04:44:43.450Z"
-        },
-        {
-          "id": "2026-07-05-a2313739",
-          "title": "Coupe du monde : Julián Quiñones, le plus colombien des joueurs mexicains",
-          "description": "Critiqué à ses débuts pour être un joueur “importé”, l’attaquant né en Colombie Julián Quiñones fait désormais le bonheur de la sélection mexicaine avec trois buts en trois matchs de Coupe du monde. En compagnie de ses coéquipiers d’El Tri, l’athlétique ailier gauche va essayer de renverser l’Angleterre, dans la nuit du 5 au 6 juillet, pour s’octroyer une place pour les quarts de finale.",
-          "url": "https://www.courrierinternational.com/article/football-coupe-du-monde-julian-quinones-le-plus-colombien-des-joueurs-mexicains_246018",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/01/0/0/4444/2963/1200/630/60/0/c98dfe2_ftp-1-zttfbzkj7jnd-afp-b8vb4aj.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-05T16:00:11.000Z",
-          "fetchedAt": "2026-07-06T04:44:43.831Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Les Australiens victimes de leurs bandits manchots",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-06-dcc5f176",
-          "title": "Les Australiens victimes de leurs bandits manchots",
-          "description": "Dans l’Etat de Nouvelle-Galles du Sud, l’omniprésence des machines à sous favorise l’addiction aux jeux d’argent, mais les autorités tardent à réformer un secteur qui rapporte gros.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/06/les-australiens-victimes-de-leurs-bandits-manchots_6721059_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-06T03:30:10.000Z",
-          "fetchedAt": "2026-07-06T04:44:43.497Z"
-        },
-        {
-          "id": "2026-07-06-b4ee77cd",
-          "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
-          "description": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
-          "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eae2/live/1c528710-78cf-11f1-a627-714adb4eed6e.jpg",
+          "id": "2026-07-07-bdff12d0",
+          "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+          "description": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+          "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c1b/live/497d1190-7994-11f1-af9a-8160843a772b.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-07-06T01:46:29.000Z",
-          "fetchedAt": "2026-07-06T04:44:57.243Z"
+          "publishedAt": "2026-07-07T04:18:19.000Z",
+          "fetchedAt": "2026-07-07T04:27:27.183Z"
+        },
+        {
+          "id": "2026-07-07-7c3e305d",
+          "title": "Ukraine en direct : plus de 430 drones ukrainiens lancés vers Moscou, avant le sommet de l'Otan",
+          "description": "L'Ukraine a lancé plus de 430 drones vers Moscou dans la nuit, a annoncé mardi le maire de la capitale. Une personne a par ailleurs été tuée dans la région russe de Belgorod, rapporte le gouverneur régional. Ces attaques interviennent alors que s'ouvre le sommet de l'Otan à Ankara, l’occasion de relancer les efforts diplomatiques pour mettre fin à la guerre en Ukraine. En marge, Donald Trump doit s’entretenir avec Zelensky, avant un échange téléphonique avec Poutine. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20260707-ukraine-en-direct-attaque-ukrainienne-un-mort-dans-region-belgorod-otan-volodymyr-zelensky-poutine-vladimir-ankara-donald-trump-frappes",
+          "imageUrl": "https://s.france24.com/media/display/f9c943d4-6b25-11f1-bff2-005056a90284/w:1024/p:16x9/moscou-raffinerie.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-07T03:29:12.000Z",
+          "fetchedAt": "2026-07-07T04:27:15.090Z"
+        },
+        {
+          "id": "2026-07-06-7ebbf65e",
+          "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+          "description": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c01/live/455b3470-76fb-11f1-a627-714adb4eed6e.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T23:55:53.000Z",
+          "fetchedAt": "2026-07-07T04:27:27.183Z"
+        },
+        {
+          "id": "2026-07-06-05f15b27",
+          "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
+          "description": "The BBC's Sarah Rainsford is at the scene of one of the blasts to hit Ukraine's capital overnight.",
+          "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6ea8/live/011d81c0-7933-11f1-a627-714adb4eed6e.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T13:07:23.000Z",
+          "fetchedAt": "2026-07-07T04:27:27.183Z"
+        },
+        {
+          "id": "2026-07-06-e83fe62d",
+          "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin ",
+          "description": "Eastern Europe correspondent Sarah Rainsford explains why Crimea is a target for Kyiv, and why the peninsula matters to Vladimir Putin.",
+          "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9a10/live/c7cbf380-77c9-11f1-b976-0b9c15b0ccfc.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T06:00:05.000Z",
+          "fetchedAt": "2026-07-07T04:27:27.183Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "« Il y a une incapacité des politiques à penser la question du grand âge sur le ",
-      "category": "eco",
+      "topic": "Trump, la Fifa et le carton rouge de Balogun : qu’en pensent les Américains ?",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-06-c71f2ebc",
-          "title": "« Il y a une incapacité des politiques à penser la question du grand âge sur le long terme »",
-          "description": "Malgré la multiplication des épisodes de canicule, dont les principales victimes sont les personnes âgées, la France continue de procrastiner sur le sujet du financement de la dépendance, estime, dans sa chronique, Stéphane Lauer, éditorialiste au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/06/il-y-a-une-incapacite-des-politiques-a-penser-la-question-du-grand-age-sur-le-long-terme_6721130_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-06T04:00:17.000Z",
-          "fetchedAt": "2026-07-06T04:45:02.699Z"
+          "id": "2026-07-07-5fd3b073",
+          "title": "Trump, la Fifa et le carton rouge de Balogun : qu’en pensent les Américains ?",
+          "description": "Un président peut-il influencer une décision de la Fifa ? C’est ce que revendique Donald Trump, qui affirme être intervenu directement auprès de l'instance du football pour obtenir l'annulation du carton rouge de l’attaquant américain Folarin Balogun. Alors que la polémique enfle, à Boston, ville hôte de la Coupe du monde, nous avons demandé aux Américains ce qu'ils en pensaient.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260707-trump-la-fifa-et-le-carton-rouge-de-balogun-qu-en-pensent-les-am%C3%A9ricains",
+          "imageUrl": "https://s.france24.com/media/display/cfed731e-79b7-11f1-a290-005056bf30b7/w:1024/p:16x9/minibalogun.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-07T04:13:33.000Z",
+          "fetchedAt": "2026-07-07T04:27:15.090Z"
         },
         {
-          "id": "2026-07-06-5f257e69",
-          "title": "Les contrats d’électricité à tarification dynamique, un pari risqué, mais qui peut être très rentable",
-          "description": "Les tarifs dynamiques contraignent les ménages à payer leur électricité selon des prix boursiers fluctuant chaque heure. Ces contrats présentent donc un risque de flambée des factures en cas de nouvelle crise énergétique, mais peuvent en revanche déboucher sur des centaines d’euros d’économies par an.",
-          "url": "https://www.lemonde.fr/argent/article/2026/07/06/les-contrats-d-electricite-a-tarification-dynamique-un-pari-risque-mais-qui-peut-etre-tres-rentable_6721129_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-06T04:00:07.000Z",
-          "fetchedAt": "2026-07-06T04:45:02.699Z"
+          "id": "2026-07-07-cead9649",
+          "title": "Mondial 2026: la Belgique, impériale, punit les États-Unis et rejoint l'Espagne en quart",
+          "description": "Autorisé à jouer malgré un carton rouge en 16es de finale, Folarin Balogun n’a pas pu éviter la chute de Team USA (1-4) face à une Belgique sereine et brillante collectivement. Portés par un doublé de Charles De Ketelaere, les Diables rouges, en totale maîtrise, se qualifient en quart de finale où ils retrouveront l'Espagne.",
+          "url": "https://www.rfi.fr/fr/sports/20260707-mondial-2026-la-belgique-punit-les-%C3%A9tats-unis-et-rejoint-l-espagne-en-quart",
+          "imageUrl": "https://s.rfi.fr/media/display/76275efa-79a6-11f1-93b7-005056a97e36/w:1024/p:16x9/AP26188057722321.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-07T01:59:59.000Z",
+          "fetchedAt": "2026-07-07T04:27:27.058Z"
         },
         {
-          "id": "2026-07-05-1af1657d",
-          "title": "La production audiovisuelle, confrontée à une chute des commandes, taille dans ses effectifs : « Nous sommes entrés dans un nouveau monde »",
-          "description": "L’heure étant aux économies dans les chaînes de télévision, privées comme publiques, les carnets de commandes des sociétés de production tardent à se remplir. Le secteur redoute un automne de casse sociale.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/05/la-production-audiovisuelle-confrontee-a-une-chute-des-commandes-taille-dans-ses-effectifs-nous-sommes-entres-dans-un-nouveau-monde_6720888_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-05T14:46:48.000Z",
-          "fetchedAt": "2026-07-06T04:45:02.699Z"
+          "id": "2026-07-07-b6b6ff50",
+          "title": "Donald Trump n'a pas suffi : les États-Unis humiliés par la Belgique et éliminés de leur Mondial",
+          "description": "",
+          "url": "https://www.france24.com/fr/sports/20260707-donald-trump-etats-unis-%C3%A9limines-coupe-monde-belgique",
+          "imageUrl": "https://s.france24.com/media/display/d09dde70-79a8-11f1-a243-005056a97e36/w:1280/p:16x9/063-2284975418.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-07T01:58:30.000Z",
+          "fetchedAt": "2026-07-07T04:27:15.090Z"
         },
         {
-          "id": "2026-07-05-1cdda45c",
-          "title": "Marché du timbre : une rare paire du « Black Penny » à 105 000 euros",
-          "description": "L’actualité des ventes aux enchères nous conduit en Suisse et en Grande-Bretagne, avec quelques bons prix à la clé.",
-          "url": "https://www.lemonde.fr/argent/article/2026/07/05/marche-du-timbre-une-rare-paire-du-black-penny-a-105-000-euros_6720835_1657007.html",
+          "id": "2026-07-07-f1532aeb",
+          "title": "Cuba, sous blocus pétrolier américain, s’efforce de rétablir son réseau électrique après une nouvelle panne générale",
+          "description": "Lundi, La Havane a dénoncé la volonté des Etats-Unis d’« empêcher » l’Assemblée générale des Nations unies de se prononcer, mardi, sur l’impact du blocus et des autres sanctions imposées par Washington.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/07/cuba-sous-blocus-petrolier-americain-s-efforce-de-retablir-son-reseau-electrique-apres-une-nouvelle-panne-generale_6721252_3211.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-05T05:00:05.000Z",
-          "fetchedAt": "2026-07-06T04:45:02.699Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-07T01:50:53.000Z",
+          "fetchedAt": "2026-07-07T04:27:15.073Z"
         },
         {
-          "id": "2026-07-04-ac1d4dd6",
-          "title": "Bernard Arnault soumis à un redressement fiscal de 22,5 millions d’euros",
-          "description": "Le fond de l’affaire porte sur l’« actionnariat complexe » de LVMH, selon « L’Informé », qui a dévoilé la décision de la justice administrative. « La famille Arnault n’est pas présente directement au capital du groupe de luxe, mais via une cascade de holdings », d’après le média.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/04/bernard-arnault-soumis-a-un-redressement-fiscal-de-22-5-millions-d-euros_6720699_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-04T18:24:28.000Z",
-          "fetchedAt": "2026-07-06T04:45:02.699Z"
+          "id": "2026-07-06-6409473c",
+          "title": "Coupe du monde 2026: revivez la démonstration de la Belgique face aux États-Unis",
+          "description": "Malgré la présence de leur attaquant Folarin Balogun, autorisé à jouer malgré un carton rouge en 16es de finale, les États-Unis se sont inclinés (1-4) devant une Belgique en totale maîtrise. Un doublé de Charles De Ketelaere, un but de Vanaken et un autre de Lukaku ont ainsi envoyé les Belges en quarts, où ils retrouveront leur prochain adversaire, l'Espagne, avec une confiance maximale.",
+          "url": "https://www.rfi.fr/fr/sports/20260706-direct-coupe-du-monde-2026-contre-la-belgique-les-%C3%A9tats-unis-avec-balogun-veulent-prendre-le-quart-suivez-notre-live",
+          "imageUrl": "https://s.rfi.fr/media/display/19c5b54c-7999-11f1-967f-005056a97e36/w:1024/p:16x9/AP26188007727492.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T23:00:09.000Z",
+          "fetchedAt": "2026-07-07T04:27:27.058Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Some of the nation’s rich are letting AI teach their kids",
-      "category": "tech",
-      "importance": 6,
+      "id": "cluster-6",
+      "topic": "Macron en Syrie, Hamas, Microsoft et Venezuela : les informations de la nuit",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-07-05-62797d77",
-          "title": "Some of the nation’s rich are letting AI teach their kids",
-          "description": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\nCompanies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told the Wall Street Journal that he plans to send his …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-07-07-5be1d722",
+          "title": "Macron en Syrie, Hamas, Microsoft et Venezuela : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-macron-en-syrie-hamas-microsoft-et-venezuela-les-informations-de-la-nuit_247173",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/06/0/0/6445/4297/1200/630/60/0/e7fdd21_ftp-1-nxxzmwx2i9fz-afp-b9er62k.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-07T03:55:01.000Z",
+          "fetchedAt": "2026-07-07T04:27:15.570Z"
+        },
+        {
+          "id": "2026-07-06-ac4b95cd",
+          "title": "Emmanuel Macron en Syrie : pourquoi cette visite ?",
+          "description": "C'est une visite inédite pour un chef de l'état de l'Union européenne depuis la chute de Bachar El Assad, qu'a entamé lundi Emmanuel Macron. Le président français est en Syrie. Accompagné d'une délégation de chefs d'entreprise, il est venu assurer le dirigeant syrien Ahmed Al Charaa du soutien de la France en matière de reconstruction économique et faire le pari d'une transition politique réussie.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260706-emmanuel-macron-en-syrie-pourquoi-cette-visite",
+          "imageUrl": "https://s.france24.com/media/display/f1dc41a4-7975-11f1-b942-005056a97e36/w:1024/p:16x9/capture-3054705736a4c0a61965d34-73762206.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T20:37:47.000Z",
+          "fetchedAt": "2026-07-07T04:27:15.090Z"
+        },
+        {
+          "id": "2026-07-06-117e94d5",
+          "title": "France-Syrie : une visite stratégique ?",
+          "description": "Emmanuel Macron est en visite en Syrie, une première pour un chef d'Etat occidental depuis la chute de Bachar al-Assad fin 2024. ce déplacement intervient alors qu'un attentat à la bombe a fait dix morts dans un café de Damas jeudi dernier. Les explications avec Thomas Pierret, chercheur à l’Institut de recherches et d’études sur le monde arabe et musulman (Iremam), spécialiste de la Syrie.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260706-france-syrie-une-visite-strat%C3%A9gique",
+          "imageUrl": "https://s.france24.com/media/display/b8514d5c-796c-11f1-b3b6-005056a90284/w:1024/p:16x9/couv-q-directes-6-juillet.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-06T19:10:21.000Z",
+          "fetchedAt": "2026-07-07T04:27:15.090Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-06-5e57876a",
+          "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+          "description": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
+          "url": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238288864-2560x1440.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-07-05T22:30:54.000Z",
-          "fetchedAt": "2026-07-06T04:45:02.581Z"
+          "publishedAt": "2026-07-06T20:52:42.000Z",
+          "fetchedAt": "2026-07-07T04:27:37.195Z"
+        },
+        {
+          "id": "2026-07-06-9124cf38",
+          "title": "« Deux fois plus que la semaine précédente », les pénuries de carburant poussent les Russes vers les voitures électriques chinoises",
+          "description": "Les pénuries de carburant en Russie poussent certains habitants du pays vers l’achat de voitures électriques et hybrides rechargeables, principalement des modèles chinois.",
+          "url": "https://www.numerama.com/vroom/2291091-les-penuries-de-carburant-poussent-les-russes-vers-les-voitures-electriques-chinoises.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/zeekr-russie.jpg?resize=1600,900&key=02e7b966",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-06T10:34:00.000Z",
+          "fetchedAt": "2026-07-07T04:27:27.274Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Retraite : trois solutions pour gérer sa fin de carrière",
+      "category": "eco",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-07-07-0f6717af",
+          "title": "Retraite : trois solutions pour gérer sa fin de carrière",
+          "description": "Rachat de trimestres, cumul emploi-retraite ou retraite progressive permettent de se préparer sereinement.",
+          "url": "https://www.lemonde.fr/argent/article/2026/07/07/retraite-trois-solutions-pour-gerer-sa-fin-de-carriere_6721407_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-07T04:00:48.000Z",
+          "fetchedAt": "2026-07-07T04:27:37.172Z"
         }
       ]
     }
