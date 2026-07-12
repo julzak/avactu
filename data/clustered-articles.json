@@ -1,220 +1,264 @@
 {
-  "generatedAt": "2026-07-11T03:50:09.963Z",
+  "generatedAt": "2026-07-12T04:06:13.649Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-10",
-      "topic": "Espèces menacées : l’administration Trump s’attaque à une loi emblématique de pr",
+      "id": "cluster-2",
+      "topic": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-11-9f6af260",
-          "title": "Espèces menacées : l’administration Trump s’attaque à une loi emblématique de protection de la nature",
-          "description": "Le ministère de l’intérieur américain, responsable des terres fédérales, restreint l’interprétation d’un texte majeur adopté en 1973. Cette modification pourrait faciliter l’implantation d’activités industrielles néfastes pour l’habitat de certains animaux.",
-          "url": "https://www.lemonde.fr/planete/article/2026/07/11/especes-menacees-l-administration-trump-s-attaque-a-une-loi-emblematique-de-protection-de-la-nature_6722586_3244.html",
+          "id": "2026-07-12-dfa1670e",
+          "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+          "description": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6961/live/7bbcded0-7d7f-11f1-b976-0b9c15b0ccfc.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:50:04.000Z",
+          "fetchedAt": "2026-07-12T04:02:28.034Z"
+        },
+        {
+          "id": "2026-07-12-2b5c09d2",
+          "title": "Téhéran tire sur un navire et ferme le détroit d’Ormuz, Washington riposte par des frappes",
+          "description": "L’Iran a annoncé dimanche la fermeture “jusqu’à nouvel ordre” du passage maritime après avoir visé un bateau qui empruntait une “route non autorisée”, entraînant des représailles de Washington. Pour la presse américaine, la perspective d’une réouverture du détroit “semble désormais plus incertaine que jamais”.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-teheran-tire-sur-un-navire-et-ferme-le-detroit-d-ormuz-washington-riposte-par-des-frappes_248592",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/10/0/429/4642/3095/1200/630/60/0/afc85c9_ftp-1-gsmt12rxl4o7-2026-07-10t130543z-1345548046-rc25amatsfkg-rtrmadp-3-iran-crisis-shipping-un.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:00:12.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.728Z"
+        },
+        {
+          "id": "2026-07-11-2e577439",
+          "title": "Téhéran referme le détroit d’Ormuz après avoir tiré sur un navire, les Etats-Unis bombardent l’Iran, les pays du Golfe pris pour cible",
+          "description": "Les ​gardiens ‌de la révolution ont annoncé, dans la nuit de samedi à dimanche, interdire toute traversée « jusqu’à nouvel ordre », après avoir tiré des coups ​de semonce ‌contre un porte-conteneurs. L’armée américaine a répondu par une nouvelle vague de frappes, suivie de répliques iraniennes.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/12/l-iran-annonce-la-fermeture-du-detroit-d-ormuz-jusqu-a-nouvel-ordre_6722775_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-11T01:44:04.000Z",
-          "fetchedAt": "2026-07-11T03:46:09.239Z"
+          "publishedAt": "2026-07-11T23:29:07.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.355Z"
         },
         {
-          "id": "2026-07-10-f5fcf7b6",
-          "title": "Présidentielle 2027 : IA, fake news et ingérences, une bataille perdue d'avance?",
-          "description": "Alors que la liste des candidats pour la présidentielle de 2027 se précise chaque semaine un peu plus, les coups bas devraient commencer à se multiplier sur la toile tout comme les fake news et les ingérences... Comment y faire face? La bataille est-elle perdu d'avance ? On en parle avec notre invité Nicolas Arpagian, directeur de la stratégie de Jizo AI, spécialiste en cybersécurité et risque numérique.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20260710-pr%C3%A9sidentielle-2027-ia-fake-news-et-ing%C3%A9rences-une-bataille-perdue-d-avance",
-          "imageUrl": "https://s.france24.com/media/display/88d3a030-7ca9-11f1-a7bf-005056a90284/w:1024/p:16x9/Francais-2026-07-10T19-37-04-228Z.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T21:53:30.000Z",
-          "fetchedAt": "2026-07-11T03:46:09.384Z"
-        },
-        {
-          "id": "2026-07-10-c019304e",
-          "title": "TikTok s'attaque aux comptes qui proposent uniquement du contenu généré par l'IA",
-          "description": "Le réseau social chinois TikTok a annoncé qu'il s'attaquerait aux comptes générés par l'intelligence artificielle. Les sujets liés à la politique, à l'actualité, à la santé ou encore les conseils financiers qui peuvent potentiellement conduire aux arnaques seront particulièrement scrutés.",
-          "url": "https://www.rfi.fr/fr/technologies/20260710-tiktok-s-attaque-aux-comptes-qui-proposent-uniquement-du-contenu-g%C3%A9n%C3%A9r%C3%A9-par-l-iaar",
-          "imageUrl": "https://s.rfi.fr/media/display/902d3b0c-5d9b-11f1-b735-005056bf30b7/w:1024/p:16x9/AP26152111930353.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T21:30:33.000Z",
-          "fetchedAt": "2026-07-11T03:46:19.006Z"
-        },
-        {
-          "id": "2026-07-10-a6324762",
-          "title": "États-Unis: Donald Trump décapite une agence électorale à quatre mois des élections de mi-mandat",
-          "description": "Donald Trump a limogé jeudi 9 juillet les deux commissaires démocrates de la Commission d’assistance électorale, tandis que sa dernière membre républicaine a démissionné. Chargée de certifier les systèmes de vote et de distribuer des fonds fédéraux aux États, cette agence indépendante et bipartisane se retrouve désormais sans direction, à quatre mois d’élections de mi-mandat cruciales.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260710-%C3%A9tats-unis-donald-trump-d%C3%A9capite-une-agence-%C3%A9lectorale-%C3%A0-quatre-mois-des-%C3%A9lections-de-mi-mandat",
-          "imageUrl": "https://s.rfi.fr/media/display/7ee25aa0-63e8-11f1-ba74-005056a97e36/w:1024/p:16x9/2026-06-09T044431Z-83302524-RC23QLAUKZEX-RTRMADP-3-USA-TRUMP.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T17:00:00.000Z",
-          "fetchedAt": "2026-07-11T03:46:19.006Z"
-        },
-        {
-          "id": "2026-07-10-ff2e0b5e",
-          "title": "Le gouvernement Trump accentue sa “chasse aux sorcières” contre les antifas",
-          "description": "Le secrétaire d’État américain, Marco Rubio, a invité une soixantaine de ministres étrangers à venir à Washington assister à une réunion sur la résurgence d’une menace terroriste transnationale d’extrême gauche. Une initiative qui a mis mal à l’aise certains alliés de l’Amérique, rapporte “The Washington Post”.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-le-gouvernement-trump-accentue-sa-chasse-aux-sorcieres-contre-les-antifas_248229",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/25/0/0/5500/3666/1200/630/60/0/62afbdb_ftp-1-arvqcqtrq6ch-2026-06-25t130810z-762145168-rc201ma8nm9d-rtrmadp-3-iran-crisis-gulf-usa-summit.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T15:56:11.000Z",
-          "fetchedAt": "2026-07-11T03:46:09.754Z"
-        },
-        {
-          "id": "2026-07-10-43e21d36",
-          "title": "Les Antilles envahies par les sargasses, situation critique dans onze communes martiniquaises",
-          "description": "Aux Antilles, des plages sont transformées en tapis d'algues. En se décomposant, les gaz toxiques libérés par les algues sargasses dépassent le seuil de tolérance, rendant l'air irrespirable. En Martinique, la situation est critique dans onze communes. Un centre d'accueil a ouvert ses portes pour les riverains les plus exposés.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20260710-les-antilles-envahies-par-les-sargasses-situation-critique-dans-onze-communes-martiniquaises",
-          "imageUrl": "https://s.france24.com/media/display/61c8fa86-7c76-11f1-820e-005056bfb2b6/w:1024/p:16x9/capture-10732494406a51139ae5f320-31675870.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T15:45:38.000Z",
-          "fetchedAt": "2026-07-11T03:46:09.384Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-14",
-      "topic": "Coupe du monde : L’Espagne élimine la Belgique et rejoint la France en demi-fina",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-11-a12d7e37",
-          "title": "Coupe du monde : L’Espagne élimine la Belgique et rejoint la France en demi-finale",
-          "description": "L’Espagne affrontera la France en demi-finale de la Coupe du monde de football, le 14 juillet à Dallas, après s’être imposée vendredi (2-1) face à la Belgique. Le “super-héros” Mikel Merino, entré sur le terrain cinq minutes avant la fin, a marqué le but de la victoire.",
-          "url": "https://www.courrierinternational.com/article/football-coupe-du-monde-l-espagne-elimine-la-belgique-et-rejoint-la-france-en-demi-finale_248462",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/10/62/0/2272/1514/1200/630/60/0/cb2858b_ftp-1-shr3zm4frr5a-2026-07-10t211604z-2035131696-up1em7a1mwcsv-rtrmadp-3-soccer-worldcup-esp-bel.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-11T01:00:03.000Z",
-          "fetchedAt": "2026-07-11T03:46:09.754Z"
-        },
-        {
-          "id": "2026-07-11-93d54008",
-          "title": "À Paris, Macron et Ramaphosa partagent une «grande convergence de point de vue» sur la situation internationale",
-          "description": "Le président sud-africain Cyril Ramaphosa en visite officielle en France. Il a été reçu ce vendredi par Emmanuel Macron. L'objectif principal de la visite est de renforcer les relations bilatérales entre les deux pays, concrétisé par la signature d'un nouveau partenariat bilatéral.",
-          "url": "https://www.rfi.fr/fr/afrique/20260711-%C3%A0-paris-macron-et-ramaphosa-partagent-une-grande-convergence-de-point-de-vue-sur-la-situation-internationale",
-          "imageUrl": "https://s.rfi.fr/media/display/edcab984-7cc1-11f1-a1e4-005056a90284/w:1024/p:16x9/000-B9VU77C.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-11T00:49:10.000Z",
-          "fetchedAt": "2026-07-11T03:46:19.006Z"
-        },
-        {
-          "id": "2026-07-10-68e09ca8",
-          "title": "Coupe du monde 2026: l’Espagne s’en sort bien face à la Belgique et défiera la France en demi-finale",
-          "description": "La Belgique, qui a perdu son gardien Thibaut Courtois en cours de match, s’est inclinée (1-2) en fin de rencontre face à l’Espagne sur une erreur de son gardien remplaçant. Cruelle défaite pour les Diables Rouges et heureux succès pour les Espagnols qui retrouveront la France en demi-finale mardi prochain.",
-          "url": "https://www.rfi.fr/fr/sports/20260710-coupe-du-monde-2026-l-espagne-s-en-sort-bien-face-%C3%A0-la-belgique-et-d%C3%A9fiera-la-france-en-demi-finale",
-          "imageUrl": "https://s.rfi.fr/media/display/efead536-7ca4-11f1-8579-005056a90284/w:1024/p:16x9/AP26191763565167.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T21:03:21.000Z",
-          "fetchedAt": "2026-07-11T03:46:19.006Z"
-        },
-        {
-          "id": "2026-07-10-a03e37f4",
-          "title": "Mondial 2026 : l'Espagne rejoint la France en demi-finale malgré la résistance belge",
-          "description": "",
-          "url": "https://www.france24.com/fr/sports/20260710-mondial-2026-l-espagne-rejoint-la-france-en-demi-finale-malgr%C3%A9-la-r%C3%A9sistance-belge",
-          "imageUrl": "https://s.france24.com/media/display/d40dc8c6-7ca1-11f1-b5ef-005056bf30b7/w:1280/p:16x9/2026-07-10T205427Z-1815507446-UP1EM7A1M2PON-RTRMADP-3-SOCCER-WORLDCUP-ESP-BEL.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T20:59:45.000Z",
-          "fetchedAt": "2026-07-11T03:46:09.384Z"
-        },
-        {
-          "id": "2026-07-10-fa5103c1",
-          "title": "Espagne ou Belgique, qui les supporters français préfèrent-ils affronter en demi ?",
-          "description": "Alors que l'équipe de France vient de remporter son quart de finale contre le Maroc, elle devra affronter le gagnant du mtch Espagne-Belgique en demi-finale. On est allé demander aux supporters français qui ils préféraient affronter.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260710-espagne-ou-belgique-qui-les-supporters-fran%C3%A7ais-pr%C3%A9f%C3%A8rent-ils-affronter-en-demi",
-          "imageUrl": "https://s.france24.com/media/display/5ce9c154-7c8e-11f1-bb0e-005056bfb2b6/w:1024/p:16x9/FR-vignette-Espagne-Belgique.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T18:38:29.000Z",
-          "fetchedAt": "2026-07-11T03:46:09.384Z"
-        },
-        {
-          "id": "2026-07-10-1470d101",
-          "title": "Périscolaire à Paris : un ex-animateur condamné pour agressions sexuelles, une première",
-          "description": "La justice a condamné vendredi un ancien animateur à 18 mois de prison avec sursis pour des agressions sexuelles commises sur une enfant dans un centre de loisirs parisien, entre octobre 2023 et juillet 2025. Le tribunal s'est appuyé sur la \"cohérence\" et la \"crédibilité particulière\" de la parole de la victime, aujourd'hui âgée de six ans.",
-          "url": "https://www.france24.com/fr/france/20260710-p%C3%A9riscolaire-paris-ancien-animateur-condamn%C3%A9-agressions-sexuelles-premi%C3%A8re-18-mois-prison-sursis",
-          "imageUrl": "https://s.france24.com/media/display/eff07e9e-7c79-11f1-ad05-005056a97e36/w:1024/p:16x9/000-B42H28A.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T16:42:07.000Z",
-          "fetchedAt": "2026-07-11T03:46:09.384Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-17",
-      "topic": "L’Algérie et le Mali amorcent une détente",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-11-7b8e3182",
-          "title": "L’Algérie et le Mali amorcent une détente",
-          "description": "Les deux pays ont annoncé la réouverture réciproque de leurs espaces aériens et le retour de leurs ambassadeurs. La tension était montée entre les deux voisins depuis l’arrivée de la junte au pouvoir à Bamako à la suite de deux coups d’Etat en 2020 et 2021.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/07/11/l-algerie-et-le-mali-amorcent-une-detente_6722550_3212.html",
+          "id": "2026-07-11-c69ff774",
+          "title": "En Iran, le Guide suprême, Mojtaba Khamenei, menace les Etats-Unis dans un message écrit en promettant de venger la mort de son père",
+          "description": "Ali Khamenei, l’ancien dirigeant de la République islamique d’Iran, a été tué le 28 février dans des frappes américano-israéliennes. Retardées en raison de la guerre, ses funérailles ont eu lieu cette semaine.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/11/en-iran-le-guide-supreme-mojtaba-khamenei-menace-les-etats-unis-dans-un-message-ecrit-en-promettant-de-venger-la-mort-de-son-pere_6722705_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-11T00:20:36.000Z",
-          "fetchedAt": "2026-07-11T03:46:09.239Z"
-        },
-        {
-          "id": "2026-07-10-bcbf57eb",
-          "title": "À la faveur d'un dégel, l'Algérie et le Mali annoncent le retour de leurs ambassadeurs",
-          "description": "Les relations entre le Mali et l’Algérie s'améliorent alors que les deux pays voisins ne se parlaient quasiment plus directement depuis le printemps 2025. En plus de la réouverture de leur espace aérien, les deux pays ont annoncé vendredi 10 juillet le retour mutuel de leurs ambassadeurs à leur poste.",
-          "url": "https://www.rfi.fr/fr/afrique/20260710-l-alg%C3%A9rie-et-le-mali-annoncent-le-retour-%C3%A0-leur-poste-de-leurs-ambassadeurs",
-          "imageUrl": "https://s.rfi.fr/media/display/4213565a-7cad-11f1-9662-005056bfb2b6/w:1024/p:16x9/000-32H398D.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-10T22:27:18.000Z",
-          "fetchedAt": "2026-07-11T03:46:19.006Z"
+          "publishedAt": "2026-07-11T11:57:30.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.355Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Meta turns off the Instagram feature that let users make AI deepfakes of public ",
-      "category": "tech",
-      "importance": 7,
+      "topic": "Coupe du monde 2026: l'Argentine arrache une nouvelle qualification miraculeuse ",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-07-10-6d85e2e3",
-          "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "description": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission.\n\"Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to reference,\" Meta says in an update to a blog post about its new Muse Image AI model. \"Our intent was to provide a useful creative tool and to give pe …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-07-10T23:49:50.000Z",
-          "fetchedAt": "2026-07-11T03:46:22.025Z"
+          "id": "2026-07-12-eaf535e9",
+          "title": "Coupe du monde 2026: l'Argentine arrache une nouvelle qualification miraculeuse contre la Suisse",
+          "description": "L'Argentine s'est qualifiée encore miraculeusement face à la Suisse en arrachant la victoire 3-1 en prolongation face à des Suisses réduits à dix à la 70e minute. L'Albiceleste poursuit sa route en demi-finale au terme d'un nouveau match affreusement poussif. Elle rencontrera l'Angleterre mercredi à Atlanta.",
+          "url": "https://www.rfi.fr/fr/sports/20260712-coupe-du-monde-2026-l-argentine-arrache-une-nouvelle-qualification-miraculeuse-contre-la-suisse",
+          "imageUrl": "https://s.rfi.fr/media/display/427b1b86-7d8f-11f1-b731-005056bfb2b6/w:1024/p:16x9/AP26193044010000.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:47:57.000Z",
+          "fetchedAt": "2026-07-12T04:02:27.901Z"
+        },
+        {
+          "id": "2026-07-12-eb317845",
+          "title": "En Finlande, en Suède et en Norvège, sur la route des bunkers de la guerre froide, dispositif-clé en cas de conflit avec la Russie",
+          "description": "Face à la menace russe, les trois pays nordiques réhabilitent leurs abris antiatomiques des années 1950, civils comme militaires, parfois nichés dans des décors dignes de James Bond. A l’heure de la guerre des drones, cette culture et cette expertise communes suscitent l’intérêt de leurs alliés européens.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/12/en-finlande-en-suede-et-en-norvege-sur-la-route-des-bunkers-de-la-guerre-froide-dispositif-cle-en-cas-de-conflit-avec-la-russie_6722855_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:30:12.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.355Z"
+        },
+        {
+          "id": "2026-07-12-787f348b",
+          "title": "Sous les drones, la Crimée vit une saison touristique sans estivants ni carburant",
+          "description": "L’armée ukrainienne intensifie ses attaques de drones sur la péninsule annexée par la Russie en 2014. Le quotidien de ses habitants est désormais marqué par une pénurie d’essence, des coupures d’électricité, une multiplication des alertes aériennes et des touristes russes qui désertent la Crimée, comme en témoigne ce journaliste du média russe indépendant “The Insider”.",
+          "url": "https://www.courrierinternational.com/long-format/reportage-sous-les-drones-la-crimee-vit-une-saison-touristique-sans-estivants-ni-carburant_247167",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/26/248/0/3912/2608/1200/630/60/0/cd458df_ftp-1-gzlqw97vc5zl-2026-06-26t170036z-1360267297-rc2n1mavgc6f-rtrmadp-3-ukraine-crisis-crimea-emergency.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:00:37.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.728Z"
+        },
+        {
+          "id": "2026-07-12-9d8afdbe",
+          "title": "Le beurre salé, une véritable passion bretonne",
+          "description": "Il est pur, salé, et on le consomme sans retenue : le beurre a une importance capitale en Bretagne, constate cette journaliste allemande qui découvre cet ingrédient omniprésent dans la gastronomie régionale du Nord-Ouest.",
+          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-le-beurre-sale-une-veritable-passion-bretonne_244722",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/24/0/0/8569/5712/1200/630/60/0/27bd96a_upload-1-ubksd4ru6cmi-eec1c8cf-94b1-446b-ae82-1de35facd54a.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:00:35.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.728Z"
+        },
+        {
+          "id": "2026-07-12-9c28ee79",
+          "title": "Aux Etats-Unis, cette gauche qui renoue avec le « socialisme démocratique » et les luttes du début du XXᵉ siècle",
+          "description": "Des figures populaires comme Zohran Mamdani, maire de New York, ou la représentante Alexandria Ocasio-Cortez, qualifiées de « communistes » par Donald Trump et ses alliés, s’inscrivent en réalité dans l’héritage de l’icône socialiste Eugene Debs.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/12/aux-etats-unis-cette-gauche-qui-renoue-avec-le-socialisme-democratique-et-les-luttes-du-debut-du-xx-siecle_6722850_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:00:32.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.355Z"
+        },
+        {
+          "id": "2026-07-12-4a764da2",
+          "title": "En Indonésie, une vague d’apparitions de fantômes et le spectre de la crise",
+          "description": "Ces dernières semaines, de multiples apparitions de fantômes sont rapportées dans plusieurs villes d’Indonésie, semant la panique parmi la population. Un phénomène qui, selon le média indépendant “Omong-Omong”, serait symptomatique des périodes de crise économique en Indonésie. Et pourrait être, comme par le passé, un outil de contrôle social.",
+          "url": "https://www.courrierinternational.com/article/societe-en-indonesie-une-vague-d-apparitions-de-fantomes-et-le-spectre-de-la-crise_245485",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/07/213/295/5826/3884/1200/630/60/0/f29fb83_upload-1-kltbaphklhik-w-1862-00004918.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:00:25.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.728Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-      "category": "eco",
-      "importance": 6,
+      "id": "cluster-5",
+      "topic": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-07-10-f19686a1",
-          "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-          "description": "The shares surged as much as 17% in their Nasdaq trading debut on Friday following the record-breaking foreign listing.",
-          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4475/live/0d1bf040-7c87-11f1-a046-0508c8c5d104.jpg",
-          "source": "BBC Business",
+          "id": "2026-07-12-bd06e423",
+          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "description": "Les autorités ukrainiennes ont revendiqué, samedi, l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov. Pour la troisième fois cette semaine, la ville de Kiev a été la cible de bombardements russes nocturnes, qui ont fait 12 blessés. Ailleurs dans le pays, des frappes russes ont tué cinq personnes à Soumy, dans le nord-est, et deux dans la région d’Odessa.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-dernieres-informations_6722853_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:29:51.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.355Z"
+        },
+        {
+          "id": "2026-07-12-c1a23ca3",
+          "title": "Typhon en Chine, guerre en Ukraine, New York Times, Wimbledon : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-typhon-en-chine-guerre-en-ukraine-new-york-times-wimbledon-les-informations-de-la-nuit_248559",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/11/0/0/4500/3000/1200/630/60/0/47d9284_ftp-1-f22bsxugotz6-2026-07-11t070444z-1389070830-rc2hbmalf1sj-rtrmadp-3-asia-weather-china.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T03:00:11.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.728Z"
+        },
+        {
+          "id": "2026-07-11-9461ae8a",
+          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "description": "Les autorités ukrainiennes ont revendiqué, samedi, l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov. Pour la troisième fois cette semaine, la ville de Kiev a été la cible de bombardements russes nocturnes, qui ont fait 12 blessés. Ailleurs dans le pays, des frappes russes ont tué cinq personnes à Soumy, dans le nord-est, et deux dans la région d’Odessa.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-les-dernieres-informations_6720832_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-11T14:47:08.000Z",
+          "fetchedAt": "2026-07-12T04:02:13.355Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "Rhythm Paradise Groove sur Switch 2 est un rêve fiévreux au rythme endiablé",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-11-e27504db",
+          "title": "Rhythm Paradise Groove sur Switch 2 est un rêve fiévreux au rythme endiablé",
+          "description": "La série de jeux Rhythm Paradise revient pour un cinquième épisode aussi fun que déjanté, où votre sens du rythme devra se confronter à votre capacité à garder votre sérieux face à des mini-jeux franchement ridicules. Notre test.",
+          "url": "https://www.numerama.com/pop-culture/2291959-rhythm-paradise-groove-sur-switch-2-est-un-reve-fievreux-au-rythme-endiable.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/rhythm-paradise-groove-3-1.jpg?resize=1600,900&key=265993b9",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-11T16:14:00.000Z",
+          "fetchedAt": "2026-07-12T04:02:28.014Z"
+        },
+        {
+          "id": "2026-07-11-5ddb8900",
+          "title": "L’un des meilleurs jeux de la décenie est maintenant en précommande sur Switch 2",
+          "description": "[Précommande] Si vous attendiez Elden Ring sur Switch 2 pour pouvoir y jouer dans le confort rassurant de votre lit, le jeu est désormais en précommande en version physique, au format Game Key Card.",
+          "url": "https://www.numerama.com/pop-culture/2294243-lun-des-meilleurs-jeux-de-la-decenie-est-maintenant-en-precommande-sur-switch-2.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/elden-ring-tarnished-edition-2.jpg?resize=1600,900&key=9da90baa",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-11T08:30:00.000Z",
+          "fetchedAt": "2026-07-12T04:02:28.014Z"
+        },
+        {
+          "id": "2026-07-10-9fcbdf78",
+          "title": "« Une vidéo de trente minutes, tu peux en produire 500 clips » : le nouveau business du « clipping », la fabrique artificielle de la viralité sur Internet",
+          "description": "Née dans les franges du Web, la pratique consistant à découper des contenus en petites vidéos pour inonder les réseaux sociaux est devenue une industrie très lucrative. Labels de musique, studios de cinéma et personnalités politiques s’intéressent de près à ce moyen discret et peu coûteux d’exister en ligne.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/10/une-video-de-trente-minutes-tu-peux-en-produire-500-clips-le-nouveau-business-du-clipping-la-fabrique-artificielle-de-la-viralite-sur-internet_6722504_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-07-10T18:00:11.000Z",
+          "fetchedAt": "2026-07-12T04:02:28.050Z"
+        },
+        {
+          "id": "2026-07-10-2e54c8d5",
+          "title": "Une anthologie salutaire retrace quarante ans de manifestes politiques du Web",
+          "description": "Dans « Promesses et utopies. Une anthologie des manifestes du Web », Loup Cellard, chercheur à l’université Paris-Saclay, rassemble de précieuses et inédites archives des utopies de l’Internet – et dessine des pistes pour se réapproprier les outils et les infrastructures du Web.",
+          "url": "https://www.lemonde.fr/idees/article/2026/07/10/une-anthologie-salutaire-retrace-quarante-ans-de-manifestes-politiques-du-web_6722495_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-07-10T17:00:10.000Z",
+          "fetchedAt": "2026-07-12T04:02:28.050Z"
+        },
+        {
+          "id": "2026-07-10-6a1ff57d",
+          "title": "Vous pouvez désormais réserver un drone tueur de moustiques (et c’est français)",
+          "description": "Tornyol, une entreprise française, développe de petits drones autonomes capables de traquer et d’éliminer les moustiques. Encore en développement, le système peut déjà être réservé pour 100 dollars.",
+          "url": "https://www.numerama.com/tech/2294075-vous-pouvez-desormais-reserver-un-drone-tueur-de-moustiques-et-cest-francais.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/1-18.jpg?resize=1600,900&key=17174b45",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-10T15:10:00.000Z",
+          "fetchedAt": "2026-07-12T04:02:28.014Z"
+        },
+        {
+          "id": "2026-07-10-4e5701cb",
+          "title": "La Monnaie de Paris cache une médaille Shenron à 3 500 € dans l’un de ces paquets Dragon Ball",
+          "description": "Ce n’est pas tous les jours que l’on peut s’offrir de nouveaux goodies à l’effigie de l’un des mangas les plus aimés au monde. Bon, des produits dérivés Dragon Ball, il en existe déjà une montagne, mais ceux de la Monnaie de Paris cachent une surprise de taille : une médaille en or pur d’une valeur de 3 500 €.",
+          "url": "https://www.numerama.com/pop-culture/2294177-la-monnaie-de-paris-cache-une-medaille-shenron-a-3-500-e-dans-lun-de-ces-paquets-dragon-ball.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/dbz-monnaie-de-paris.jpg?resize=1600,900&key=f03c8d63",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-10T14:31:58.000Z",
+          "fetchedAt": "2026-07-12T04:02:28.014Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Départs en vacances : plus de 900 kilomètres de bouchons recensés à midi ; la jo",
+      "category": "eco",
+      "importance": 5,
+      "articles": [
+        {
+          "id": "2026-07-11-f7b05f9a",
+          "title": "Départs en vacances : plus de 900 kilomètres de bouchons recensés à midi ; la journée de samedi classée noire, sur fond de canicule",
+          "description": "La circulation est classée noire pour la journée dans l’Ouest, le Nord et le Centre-Est dans le sens des départs. Bison futé appelle les automobilistes à « redoubler de prudence » en raison de la canicule.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/11/departs-en-vacances-plus-de-900-kilometres-de-bouchons-recenses-a-midi-la-journee-de-samedi-classee-noire-sur-fond-de-canicule_6722692_3225.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-10T16:42:35.000Z",
-          "fetchedAt": "2026-07-11T03:46:23.891Z"
+          "publishedAt": "2026-07-11T11:05:24.000Z",
+          "fetchedAt": "2026-07-12T04:02:32.890Z"
         }
       ]
     }
