@@ -1,264 +1,231 @@
 {
-  "generatedAt": "2026-07-12T04:06:13.649Z",
+  "generatedAt": "2026-07-13T04:08:12.862Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "id": "cluster-1",
+      "topic": "La mort de Hamad Ben Khalifa Al Thani, le bâtisseur du Qatar moderne",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-12-dfa1670e",
-          "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-          "description": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
-          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6961/live/7bbcded0-7d7f-11f1-b976-0b9c15b0ccfc.jpg",
+          "id": "2026-07-13-043fb4af",
+          "title": "La mort de Hamad Ben Khalifa Al Thani, le bâtisseur du Qatar moderne",
+          "description": "​Le souverain, qui a régné sur le pays de 1995 à 2013, s’est employé à faire exister l’émirat sur la scène internationale. C’est grâce à lui que le pays s’est doté d’une télévision qui rayonne dans tout le Moyen-Orient, d’une compagnie aérienne tentaculaire et d’une énorme base américaine.",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/07/13/la-mort-de-hamad-ben-khalifa-al-thani-le-batisseur-du-qatar-moderne_6723044_3382.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-13T04:00:52.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.212Z"
+        },
+        {
+          "id": "2026-07-12-84ea2719",
+          "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+          "description": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+          "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d015/live/7ee2a4e0-7df8-11f1-9800-45cddfec00b9.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:50:04.000Z",
-          "fetchedAt": "2026-07-12T04:02:28.034Z"
+          "publishedAt": "2026-07-12T16:35:50.000Z",
+          "fetchedAt": "2026-07-13T04:04:21.632Z"
         },
         {
-          "id": "2026-07-12-2b5c09d2",
-          "title": "Téhéran tire sur un navire et ferme le détroit d’Ormuz, Washington riposte par des frappes",
-          "description": "L’Iran a annoncé dimanche la fermeture “jusqu’à nouvel ordre” du passage maritime après avoir visé un bateau qui empruntait une “route non autorisée”, entraînant des représailles de Washington. Pour la presse américaine, la perspective d’une réouverture du détroit “semble désormais plus incertaine que jamais”.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-teheran-tire-sur-un-navire-et-ferme-le-detroit-d-ormuz-washington-riposte-par-des-frappes_248592",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/10/0/429/4642/3095/1200/630/60/0/afc85c9_ftp-1-gsmt12rxl4o7-2026-07-10t130543z-1345548046-rc25amatsfkg-rtrmadp-3-iran-crisis-shipping-un.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:00:12.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.728Z"
-        },
-        {
-          "id": "2026-07-11-2e577439",
-          "title": "Téhéran referme le détroit d’Ormuz après avoir tiré sur un navire, les Etats-Unis bombardent l’Iran, les pays du Golfe pris pour cible",
-          "description": "Les ​gardiens ‌de la révolution ont annoncé, dans la nuit de samedi à dimanche, interdire toute traversée « jusqu’à nouvel ordre », après avoir tiré des coups ​de semonce ‌contre un porte-conteneurs. L’armée américaine a répondu par une nouvelle vague de frappes, suivie de répliques iraniennes.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/12/l-iran-annonce-la-fermeture-du-detroit-d-ormuz-jusqu-a-nouvel-ordre_6722775_3210.html",
+          "id": "2026-07-12-172b3f52",
+          "title": "Hamad Ben Khalifa Al Thani, ancien émir du Qatar, est mort à l’âge de 74 ans",
+          "description": "L’ancien souverain, qui avait déposé son père, le cheikh Khalifa, lors d’une révolution de palais, en 1995, avait hérité d’un petit émirat marginal aux caisses presque vides, dont il a fait un acteur majeur de l’échiquier régional et international.",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/07/12/hamad-ben-khalifa-al-thani-ancien-emir-du-qatar-est-mort-a-l-age-de-72-ans_6722881_3382.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-11T23:29:07.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.355Z"
-        },
-        {
-          "id": "2026-07-11-c69ff774",
-          "title": "En Iran, le Guide suprême, Mojtaba Khamenei, menace les Etats-Unis dans un message écrit en promettant de venger la mort de son père",
-          "description": "Ali Khamenei, l’ancien dirigeant de la République islamique d’Iran, a été tué le 28 février dans des frappes américano-israéliennes. Retardées en raison de la guerre, ses funérailles ont eu lieu cette semaine.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/11/en-iran-le-guide-supreme-mojtaba-khamenei-menace-les-etats-unis-dans-un-message-ecrit-en-promettant-de-venger-la-mort-de-son-pere_6722705_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-11T11:57:30.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.355Z"
+          "publishedAt": "2026-07-12T07:14:52.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.212Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Coupe du monde 2026: l'Argentine arrache une nouvelle qualification miraculeuse ",
+      "id": "cluster-4",
+      "topic": "Emmanuel Macron et les armées, dix ans de relations entre défiance, espoirs, et ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-12-eaf535e9",
-          "title": "Coupe du monde 2026: l'Argentine arrache une nouvelle qualification miraculeuse contre la Suisse",
-          "description": "L'Argentine s'est qualifiée encore miraculeusement face à la Suisse en arrachant la victoire 3-1 en prolongation face à des Suisses réduits à dix à la 70e minute. L'Albiceleste poursuit sa route en demi-finale au terme d'un nouveau match affreusement poussif. Elle rencontrera l'Angleterre mercredi à Atlanta.",
-          "url": "https://www.rfi.fr/fr/sports/20260712-coupe-du-monde-2026-l-argentine-arrache-une-nouvelle-qualification-miraculeuse-contre-la-suisse",
-          "imageUrl": "https://s.rfi.fr/media/display/427b1b86-7d8f-11f1-b731-005056bfb2b6/w:1024/p:16x9/AP26193044010000.jpg",
+          "id": "2026-07-13-faca7000",
+          "title": "Emmanuel Macron et les armées, dix ans de relations entre défiance, espoirs, et non-dits",
+          "description": "Le chef de l’Etat doit prononcer son dernier discours aux armées, lundi, alors que ses deux mandats auront été marqués par une hausse spectaculaire du budget de la défense et un basculement stratégique majeur face aux nouvelles menaces.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-13T03:38:22.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.212Z"
+        },
+        {
+          "id": "2026-07-13-4b45834a",
+          "title": "Face à la France, le Vanuatu veut récupérer les îles Matthew et Hunter",
+          "description": "Les îles Matthew et Hunter appartiennent à la Nouvelle-Calédonie, elle-même sous souveraineté française. Elles sont au cœur d’un conflit entre la France et le Vanuatu. Malgré leur petite taille, ces confettis dans le Pacifique sud ouvrent droit à une zone économique exclusive d’environ 350 000 kilomètres carrés. Des négociations officielles sont engagées, rapporte le diffuseur public australien “ABC”.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-face-a-la-france-le-vanuatu-veut-recuperer-les-iles-matthew-et-hunter_247306",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/10/0/75/1897/1265/1200/630/60/0/86b5694_upload-1-h8ea2inglkjc-696970793-10167459040018066-7667675332205089808-n-copie.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-13T03:00:20.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.492Z"
+        },
+        {
+          "id": "2026-07-12-ecc5a81b",
+          "title": "Île-de-France : la forêt de Fontainebleau en proie à un incendie d'une \"ampleur exceptionnelle\"",
+          "description": "Quelque 800 hectares avaient été parcourus par les flammes peu après minuit lundi dans l'incendie d'une \"ampleur exceptionnelle\" qui ravage l'ouest de la forêt de Fontainebleau, en région parisienne, rapportent les pompiers. Pour le contenir, deux avions bombardiers ont été envoyés, une première en Île-de-France, et 400 pompiers mobilisés.",
+          "url": "https://www.france24.com/fr/france/20260712-ile-de-france-incendie-ampleur-exceptionnelle-frappe-foret-fontainebleau-seine-et-marne-pompiers-bombardiers",
+          "imageUrl": "https://s.france24.com/media/display/b0ad9940-7e38-11f1-aeb1-005056bf30b7/w:1024/p:16x9/2026-07-12T210636Z-912344806-RC2KCMAI7KHH-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T21:53:18.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.385Z"
+        },
+        {
+          "id": "2026-07-12-3cfd5dc5",
+          "title": "France: la forêt de Fontainebleau face à un incendie d'une «ampleur exceptionnelle»",
+          "description": "Deux avions bombardiers sont mobilisés pour la première fois dans la région de Paris pour faire face à un incendie « très virulent » dimanche 12 juillet dans l'emblématique forêt de Fontainebleau, à une cinquantaine de kilomètres au sud de la capitale française.",
+          "url": "https://www.rfi.fr/fr/france/20260712-france-la-for%C3%AAt-de-fontainebleau-face-%C3%A0-un-incendie-d-une-ampleur-exceptionnelle",
+          "imageUrl": "https://s.rfi.fr/media/display/cc5cee58-7e37-11f1-bfb7-005056bfb2b6/w:1024/p:16x9/2026-07-12T210636Z-912344806-RC2KCMAI7KHH-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:47:57.000Z",
-          "fetchedAt": "2026-07-12T04:02:27.901Z"
+          "publishedAt": "2026-07-12T21:31:13.000Z",
+          "fetchedAt": "2026-07-13T04:04:21.439Z"
         },
         {
-          "id": "2026-07-12-eb317845",
-          "title": "En Finlande, en Suède et en Norvège, sur la route des bunkers de la guerre froide, dispositif-clé en cas de conflit avec la Russie",
-          "description": "Face à la menace russe, les trois pays nordiques réhabilitent leurs abris antiatomiques des années 1950, civils comme militaires, parfois nichés dans des décors dignes de James Bond. A l’heure de la guerre des drones, cette culture et cette expertise communes suscitent l’intérêt de leurs alliés européens.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/12/en-finlande-en-suede-et-en-norvege-sur-la-route-des-bunkers-de-la-guerre-froide-dispositif-cle-en-cas-de-conflit-avec-la-russie_6722855_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-07-12-380b6c00",
+          "title": "Sinner remporte son deuxième Wimbledon, la Française Mladenovic sacrée en double",
+          "description": "",
+          "url": "https://www.france24.com/fr/sports/20260712-sinner-remporte-son-deuxi%C3%A8me-wimbledon-la-fran%C3%A7aise-mladenovic-sacr%C3%A9e-double-grand-chelem-tennis-num%C3%A9ro-un-mondial",
+          "imageUrl": "https://s.france24.com/media/display/2919f956-7e24-11f1-b32a-005056bf30b7/w:1280/p:16x9/AP26193683238494.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:30:12.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.355Z"
+          "publishedAt": "2026-07-12T19:06:14.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.385Z"
         },
         {
-          "id": "2026-07-12-787f348b",
-          "title": "Sous les drones, la Crimée vit une saison touristique sans estivants ni carburant",
-          "description": "L’armée ukrainienne intensifie ses attaques de drones sur la péninsule annexée par la Russie en 2014. Le quotidien de ses habitants est désormais marqué par une pénurie d’essence, des coupures d’électricité, une multiplication des alertes aériennes et des touristes russes qui désertent la Crimée, comme en témoigne ce journaliste du média russe indépendant “The Insider”.",
-          "url": "https://www.courrierinternational.com/long-format/reportage-sous-les-drones-la-crimee-vit-une-saison-touristique-sans-estivants-ni-carburant_247167",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/26/248/0/3912/2608/1200/630/60/0/cd458df_ftp-1-gzlqw97vc5zl-2026-06-26t170036z-1360267297-rc2n1mavgc6f-rtrmadp-3-ukraine-crisis-crimea-emergency.JPG",
-          "source": "Courrier International",
+          "id": "2026-07-12-1fe23c9c",
+          "title": "France: le président Ramaphosa appelle à réhabiliter les Sud-Africains morts pendant la Première Guerre mondiale",
+          "description": "Le président Ramaphosa a participé ce dimanche 12 juillet à la 110ᵉ commémoration de la bataille du bois de Delville, au Mémorial national sud-africain de Longueval. En 1916, lors de la bataille de la Somme, la 1ʳᵉ brigade d'infanterie sud-africaine avait tenu le bois de Delville, dans le nord de la France, face aux forces allemandes, au prix de lourdes pertes. 3 000 soldats sud-africains ont participé au prix de leur vie à ces affrontements, devenus historiques, entre soldats allemands et français épaulés par les forces britanniques et leurs alliés du Commonwealth. Le chef de l’État sud-africain n'a pas caché son émotion.",
+          "url": "https://www.rfi.fr/fr/afrique/20260712-france-le-pr%C3%A9sident-ramaphosa-appelle-%C3%A0-r%C3%A9habiliter-les-sud-africains-morts-pendant-la-premi%C3%A8re-guerre-mondiale",
+          "imageUrl": "https://s.rfi.fr/media/display/06cd75ae-0f8f-11ea-afb1-005056a99247/w:1024/p:16x9/DSC00420_1.JPG",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:00:37.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.728Z"
-        },
-        {
-          "id": "2026-07-12-9d8afdbe",
-          "title": "Le beurre salé, une véritable passion bretonne",
-          "description": "Il est pur, salé, et on le consomme sans retenue : le beurre a une importance capitale en Bretagne, constate cette journaliste allemande qui découvre cet ingrédient omniprésent dans la gastronomie régionale du Nord-Ouest.",
-          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-le-beurre-sale-une-veritable-passion-bretonne_244722",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/24/0/0/8569/5712/1200/630/60/0/27bd96a_upload-1-ubksd4ru6cmi-eec1c8cf-94b1-446b-ae82-1de35facd54a.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:00:35.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.728Z"
-        },
-        {
-          "id": "2026-07-12-9c28ee79",
-          "title": "Aux Etats-Unis, cette gauche qui renoue avec le « socialisme démocratique » et les luttes du début du XXᵉ siècle",
-          "description": "Des figures populaires comme Zohran Mamdani, maire de New York, ou la représentante Alexandria Ocasio-Cortez, qualifiées de « communistes » par Donald Trump et ses alliés, s’inscrivent en réalité dans l’héritage de l’icône socialiste Eugene Debs.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/12/aux-etats-unis-cette-gauche-qui-renoue-avec-le-socialisme-democratique-et-les-luttes-du-debut-du-xx-siecle_6722850_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:00:32.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.355Z"
-        },
-        {
-          "id": "2026-07-12-4a764da2",
-          "title": "En Indonésie, une vague d’apparitions de fantômes et le spectre de la crise",
-          "description": "Ces dernières semaines, de multiples apparitions de fantômes sont rapportées dans plusieurs villes d’Indonésie, semant la panique parmi la population. Un phénomène qui, selon le média indépendant “Omong-Omong”, serait symptomatique des périodes de crise économique en Indonésie. Et pourrait être, comme par le passé, un outil de contrôle social.",
-          "url": "https://www.courrierinternational.com/article/societe-en-indonesie-une-vague-d-apparitions-de-fantomes-et-le-spectre-de-la-crise_245485",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/07/213/295/5826/3884/1200/630/60/0/f29fb83_upload-1-kltbaphklhik-w-1862-00004918.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:00:25.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.728Z"
+          "publishedAt": "2026-07-12T17:29:47.000Z",
+          "fetchedAt": "2026-07-13T04:04:21.439Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "topic": "Incendie en Andalousie : la mort d’une Britannique à l’hôpital porte à 13 le nom",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-12-bd06e423",
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "description": "Les autorités ukrainiennes ont revendiqué, samedi, l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov. Pour la troisième fois cette semaine, la ville de Kiev a été la cible de bombardements russes nocturnes, qui ont fait 12 blessés. Ailleurs dans le pays, des frappes russes ont tué cinq personnes à Soumy, dans le nord-est, et deux dans la région d’Odessa.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-dernieres-informations_6722853_3210.html",
+          "id": "2026-07-13-ad32d86f",
+          "title": "Incendie en Andalousie : la mort d’une Britannique à l’hôpital porte à 13 le nombre de victimes, le feu est désormais stabilisé",
+          "description": "Annoncée dimanche par les autorités, la stabilisation du sinistre a permis le retour progressif de centaines d’habitants évacués, certains ayant pu regagner leur domicile dès la nuit de samedi à dimanche. Le bilan des victimes pourrait encore évoluer.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-la-mort-d-une-britannique-a-l-hopital-porte-a-13-le-nombre-de-victimes-le-feu-est-desormais-stabilise_6723031_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:29:51.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.355Z"
+          "publishedAt": "2026-07-13T03:24:19.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.212Z"
         },
         {
-          "id": "2026-07-12-c1a23ca3",
-          "title": "Typhon en Chine, guerre en Ukraine, New York Times, Wimbledon : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-typhon-en-chine-guerre-en-ukraine-new-york-times-wimbledon-les-informations-de-la-nuit_248559",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/11/0/0/4500/3000/1200/630/60/0/47d9284_ftp-1-f22bsxugotz6-2026-07-11t070444z-1389070830-rc2hbmalf1sj-rtrmadp-3-asia-weather-china.JPG",
+          "id": "2026-07-13-16fb85e1",
+          "title": "Ce que j’ai appris des ultrariches durant un week-end organisé par Jeff Bezos",
+          "description": "LES ULTRARICHES, UN MONDE À PART (1/6) – Auteur et scénariste de renom, Noah Hawley a été invité il y a quelques années par le fondateur d’Amazon à un grand raout. Ce séjour rocambolesque lui a fait toucher du doigt les effets psychologiques de sa fortune démesurée, raconte-t-il dans le magazine “The Atlantic”. Détaché du monde et des conséquences, Jeff Bezos s’est montré incapable d’empathie. Une valeur que certains milliardaires de la tech en sont venus à diaboliser.",
+          "url": "https://www.courrierinternational.com/article/serie-d-ete-ce-que-j-ai-appris-des-ultrariches-durant-un-week-end-organise-par-jeff-bezos_244821",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/08/0/0/3358/2238/1200/630/60/0/9185430_upload-1-tvqiyzzdblku-bezos-hearing-1.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-12T03:00:11.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.728Z"
+          "publishedAt": "2026-07-13T03:00:09.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.492Z"
         },
         {
-          "id": "2026-07-11-9461ae8a",
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "description": "Les autorités ukrainiennes ont revendiqué, samedi, l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov. Pour la troisième fois cette semaine, la ville de Kiev a été la cible de bombardements russes nocturnes, qui ont fait 12 blessés. Ailleurs dans le pays, des frappes russes ont tué cinq personnes à Soumy, dans le nord-est, et deux dans la région d’Odessa.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-les-dernieres-informations_6720832_3210.html",
+          "id": "2026-07-13-7339249e",
+          "title": "Madagascar: forte inquiétude à Antananarivo après une vague de disparitions",
+          "description": "À Madagascar, la vague de disparitions en cours depuis fin juin plonge Antananarivo dans un état de psychose. Le dernier bilan communiqué par la police nationale la semaine passée fait état de 91 enfants toujours recherchés à travers le pays. La plupart des signalements concernent la capitale où les habitants, angoissés, changent leurs habitudes en évitant par exemple de sortir seuls dehors.",
+          "url": "https://www.rfi.fr/fr/afrique/20260713-madagascar-forte-inqui%C3%A9tude-%C3%A0-antananarivo-apr%C3%A8s-une-vague-de-disparitions",
+          "imageUrl": "https://s.rfi.fr/media/display/eb0b100c-3065-11f1-be92-005056bf30b7/w:1024/p:16x9/Vue-g%C3%A9n%C3%A9rale-du-lac-Anosy-%C3%A0-Antananarivo-le-5-octobre-2025.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-13T02:29:42.000Z",
+          "fetchedAt": "2026-07-13T04:04:21.439Z"
+        },
+        {
+          "id": "2026-07-13-112a8091",
+          "title": "Le Royaume-Uni débloque 250 millions de livres pour protéger la communauté juive après une série d’attaques antisémites",
+          "description": "D’une durée de trois ans, le plan prévoit notamment un renforcement de la présence policière autour des synagogues et des écoles juives, en particulier à Londres.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/13/le-royaume-uni-debloque-250-millions-de-livres-pour-proteger-la-communaute-juive-apres-une-serie-d-attaques-antisemites_6722964_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-11T14:47:08.000Z",
-          "fetchedAt": "2026-07-12T04:02:13.355Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "Rhythm Paradise Groove sur Switch 2 est un rêve fiévreux au rythme endiablé",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-11-e27504db",
-          "title": "Rhythm Paradise Groove sur Switch 2 est un rêve fiévreux au rythme endiablé",
-          "description": "La série de jeux Rhythm Paradise revient pour un cinquième épisode aussi fun que déjanté, où votre sens du rythme devra se confronter à votre capacité à garder votre sérieux face à des mini-jeux franchement ridicules. Notre test.",
-          "url": "https://www.numerama.com/pop-culture/2291959-rhythm-paradise-groove-sur-switch-2-est-un-reve-fievreux-au-rythme-endiable.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/rhythm-paradise-groove-3-1.jpg?resize=1600,900&key=265993b9",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-11T16:14:00.000Z",
-          "fetchedAt": "2026-07-12T04:02:28.014Z"
+          "publishedAt": "2026-07-13T01:02:51.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.212Z"
         },
         {
-          "id": "2026-07-11-5ddb8900",
-          "title": "L’un des meilleurs jeux de la décenie est maintenant en précommande sur Switch 2",
-          "description": "[Précommande] Si vous attendiez Elden Ring sur Switch 2 pour pouvoir y jouer dans le confort rassurant de votre lit, le jeu est désormais en précommande en version physique, au format Game Key Card.",
-          "url": "https://www.numerama.com/pop-culture/2294243-lun-des-meilleurs-jeux-de-la-decenie-est-maintenant-en-precommande-sur-switch-2.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/elden-ring-tarnished-edition-2.jpg?resize=1600,900&key=9da90baa",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-11T08:30:00.000Z",
-          "fetchedAt": "2026-07-12T04:02:28.014Z"
-        },
-        {
-          "id": "2026-07-10-9fcbdf78",
-          "title": "« Une vidéo de trente minutes, tu peux en produire 500 clips » : le nouveau business du « clipping », la fabrique artificielle de la viralité sur Internet",
-          "description": "Née dans les franges du Web, la pratique consistant à découper des contenus en petites vidéos pour inonder les réseaux sociaux est devenue une industrie très lucrative. Labels de musique, studios de cinéma et personnalités politiques s’intéressent de près à ce moyen discret et peu coûteux d’exister en ligne.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/10/une-video-de-trente-minutes-tu-peux-en-produire-500-clips-le-nouveau-business-du-clipping-la-fabrique-artificielle-de-la-viralite-sur-internet_6722504_4408996.html",
+          "id": "2026-07-12-641a6e0f",
+          "title": "En Thaïlande, au moins 27 morts dans l’incendie d’un bar de la banlieue de Bangkok",
+          "description": "« La fumée a probablement été la cause principale des décès », a estimé le gouverneur de Bangkok, Chadchart Sittipunt, lors d’un point presse. Les autorités thaïlandaises ont ouvert une enquête pour déterminer les circonstances du drame.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/13/en-thailande-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-bangkok_6722962_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-10T18:00:11.000Z",
-          "fetchedAt": "2026-07-12T04:02:28.050Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T23:59:33.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.212Z"
         },
         {
-          "id": "2026-07-10-2e54c8d5",
-          "title": "Une anthologie salutaire retrace quarante ans de manifestes politiques du Web",
-          "description": "Dans « Promesses et utopies. Une anthologie des manifestes du Web », Loup Cellard, chercheur à l’université Paris-Saclay, rassemble de précieuses et inédites archives des utopies de l’Internet – et dessine des pistes pour se réapproprier les outils et les infrastructures du Web.",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/10/une-anthologie-salutaire-retrace-quarante-ans-de-manifestes-politiques-du-web_6722495_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-10T17:00:10.000Z",
-          "fetchedAt": "2026-07-12T04:02:28.050Z"
-        },
-        {
-          "id": "2026-07-10-6a1ff57d",
-          "title": "Vous pouvez désormais réserver un drone tueur de moustiques (et c’est français)",
-          "description": "Tornyol, une entreprise française, développe de petits drones autonomes capables de traquer et d’éliminer les moustiques. Encore en développement, le système peut déjà être réservé pour 100 dollars.",
-          "url": "https://www.numerama.com/tech/2294075-vous-pouvez-desormais-reserver-un-drone-tueur-de-moustiques-et-cest-francais.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/1-18.jpg?resize=1600,900&key=17174b45",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-10T15:10:00.000Z",
-          "fetchedAt": "2026-07-12T04:02:28.014Z"
-        },
-        {
-          "id": "2026-07-10-4e5701cb",
-          "title": "La Monnaie de Paris cache une médaille Shenron à 3 500 € dans l’un de ces paquets Dragon Ball",
-          "description": "Ce n’est pas tous les jours que l’on peut s’offrir de nouveaux goodies à l’effigie de l’un des mangas les plus aimés au monde. Bon, des produits dérivés Dragon Ball, il en existe déjà une montagne, mais ceux de la Monnaie de Paris cachent une surprise de taille : une médaille en or pur d’une valeur de 3 500 €.",
-          "url": "https://www.numerama.com/pop-culture/2294177-la-monnaie-de-paris-cache-une-medaille-shenron-a-3-500-e-dans-lun-de-ces-paquets-dragon-ball.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/dbz-monnaie-de-paris.jpg?resize=1600,900&key=f03c8d63",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-10T14:31:58.000Z",
-          "fetchedAt": "2026-07-12T04:02:28.014Z"
+          "id": "2026-07-12-38cebcba",
+          "title": "Au moins 27 morts dans l'incendie d'un bar de la banlieue de la capitale thaïlandaise",
+          "description": "Au moins 27 personnes ont trouvé la mort et 63 ont été hospitalisées, dans la nuit de dimanche à lundi, lors d'un incendie qui s’est déclaré dans un bar de la banlieue de Bangkok, en Thaïlande. Il a depuis été maîtrisé. Une enquête a été ouverte pour déterminer les causes du sinistre.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260712-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-la-capitale-tha%C3%AFlandaise",
+          "imageUrl": "https://s.france24.com/media/display/25dcbf4a-7e46-11f1-80d4-005056bfb2b6/w:1024/p:16x9/4d57771930a7c6cac3cf9d0c920b7a16d405de8b.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-12T23:05:18.000Z",
+          "fetchedAt": "2026-07-13T04:04:12.385Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Départs en vacances : plus de 900 kilomètres de bouchons recensés à midi ; la jo",
+      "topic": "Les frais de saisies sur compte prélevés par les banques alourdissent le budget ",
       "category": "eco",
-      "importance": 5,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-07-11-f7b05f9a",
-          "title": "Départs en vacances : plus de 900 kilomètres de bouchons recensés à midi ; la journée de samedi classée noire, sur fond de canicule",
-          "description": "La circulation est classée noire pour la journée dans l’Ouest, le Nord et le Centre-Est dans le sens des départs. Bison futé appelle les automobilistes à « redoubler de prudence » en raison de la canicule.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/11/departs-en-vacances-plus-de-900-kilometres-de-bouchons-recenses-a-midi-la-journee-de-samedi-classee-noire-sur-fond-de-canicule_6722692_3225.html",
+          "id": "2026-07-13-ef34c157",
+          "title": "Les frais de saisies sur compte prélevés par les banques alourdissent le budget des plus modestes",
+          "description": "Les commissions perçues en cas de saisies-attributions et de saisies conservatoires sont librement fixées par les établissements.",
+          "url": "https://www.lemonde.fr/argent/article/2026/07/13/les-frais-de-saisies-sur-compte-preleves-par-les-banques-alourdissent-le-budget-des-plus-modestes_6723035_1657007.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-11T11:05:24.000Z",
-          "fetchedAt": "2026-07-12T04:02:32.890Z"
+          "publishedAt": "2026-07-13T04:00:10.000Z",
+          "fetchedAt": "2026-07-13T04:04:24.012Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-07-12-1dbb10ce",
+          "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+          "description": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. \nThe comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know is and isn't real, before saying \"You don't know if someone is wearing sunglasses or if they're wearing those fucked up fucking… Can I just say, for …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-07-12T20:10:19.000Z",
+          "fetchedAt": "2026-07-13T04:04:24.004Z"
         }
       ]
     }
