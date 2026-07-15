@@ -1,127 +1,152 @@
 {
-  "date": "2026-07-14T03:44:56.735Z",
+  "date": "2026-07-15T03:45:40.025Z",
   "stories": [
     {
-      "id": "2026-07-14-01",
+      "id": "2026-07-15-01",
       "category": "geopolitique",
-      "title": "Frappes US sur l'Iran et blocus du détroit d'Ormuz",
-      "imageUrl": "https://s.rfi.fr/media/display/86016164-7ed2-11f1-9c6e-005056bf30b7/w:1024/p:16x9/2026-07-13T124622Z-79354978-RC2YCMAU4FZE-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
+      "title": "Les câbles sous-marins, nerfs invisibles d'Internet",
+      "imageUrl": "https://focus.courrierinternational.com/2026/06/30/459/0/3000/2000/1200/630/60/0/5833ccf_upload-1-ddtpquyaooaq-web20260715-cables-monde.png",
+      "location": {
+        "lat": 30,
+        "lng": -30,
+        "name": "Océan Atlantique"
+      },
+      "bullets": [
+        "Des câbles sous-marins acheminent la quasi-totalité des données intercontinentales mondiales",
+        "L'explosion du trafic numérique et de l'IA accélère leur déploiement",
+        "Les géants du numérique investissent massivement dans de nouvelles liaisons privées",
+        "Les États s'inquiètent de la vulnérabilité de cette infrastructure critique",
+        "Un enjeu stratégique : la souveraineté et la sécurité des communications mondiales"
+      ],
+      "execSummary": "La quasi-totalité des communications et des données échangées entre les continents transitent par des câbles à fibres optiques posés au fond des océans, rappelle Courrier International dans un grand format cartographique. Cette infrastructure, largement invisible pour le grand public, connaît une expansion sans précédent : des milliers de kilomètres de câbles sont posés chaque année pour absorber la croissance du trafic Internet, notamment liée au streaming, au cloud et désormais à l'intelligence artificielle.\n\nPour les opérateurs et les géants technologiques qui les financent, ces câbles sont un investissement indispensable. Les entreprises comme les acteurs du numérique justifient leur implication par la nécessité de garantir des connexions rapides et fiables entre leurs centres de données répartis sur la planète. Selon les données rassemblées par Courrier International, la maîtrise de ces routes permet aussi de réduire les coûts et de sécuriser l'acheminement de volumes de données en explosion constante.\n\nCôté États et analystes en sécurité, cette même infrastructure est perçue comme un point de fragilité stratégique. Le fait qu'une part croissante des câbles soit détenue ou contrôlée par un petit nombre d'entreprises privées, et que ces installations soient exposées à des sabotages ou des espionnages, nourrit les préoccupations sur la souveraineté numérique et la résilience des communications.\n\nDerrière ces enveloppes de fibre reposent des chaînes financières et diplomatiques bien réelles : une rupture de câble peut isoler numériquement un pays entier, comme cela s'est déjà produit. La concentration des propriétaires, les tensions géopolitiques autour de zones maritimes sensibles et la dépendance mondiale à ce réseau font des câbles sous-marins un terrain de rivalité discret mais décisif pour les prochaines décennies.",
+      "sources": [
+        "Courrier International",
+        "RFI",
+        "France 24",
+        "Le Monde - International"
+      ],
+      "publishedAt": "2026-07-15T03:00:07.000Z"
+    },
+    {
+      "id": "2026-07-15-02",
+      "category": "geopolitique",
+      "title": "La justice sud-africaine ajourne l'extradition de Kemi Seba",
+      "imageUrl": "https://s.rfi.fr/media/display/15bb0bb0-7fd3-11f1-b6f6-005056a97e36/w:1024/p:16x9/AFP-TV-20260511-CLJ-ZAF-TribunalExtradition-B2HB7ZQ-fr.jpg",
+      "location": {
+        "lat": -25.7479,
+        "lng": 28.2293,
+        "name": "Pretoria, Afrique du Sud"
+      },
+      "bullets": [
+        "La justice sud-africaine reporte à nouveau l'examen de l'extradition de Kemi Seba",
+        "La demande du Bénin vient seulement d'être formellement déposée à Cotonou",
+        "L'influenceur anti-occidental reste en prison jusqu'à nouvel ordre",
+        "Le Bénin réclame le transfert du militant panafricaniste",
+        "Une affaire au cœur des tensions politiques ouest-africaines"
+      ],
+      "execSummary": "Le 14 juillet 2026, la justice sud-africaine devait débuter l'examen de la demande d'extradition visant Kemi Seba, militant et influenceur anti-occidental connu pour ses positions panafricanistes. Selon RFI, l'audience a été de nouveau ajournée : la demande formulée par le Bénin venait tout juste d'être formellement déposée à l'ambassade d'Afrique du Sud à Cotonou. En conséquence, Kemi Seba demeure en détention en Afrique du Sud jusqu'à nouvel ordre, la procédure ne pouvant avancer sans un dossier complet.\n\nDu côté des autorités béninoises, la logique est de récupérer l'intéressé pour qu'il réponde devant la justice de son pays d'origine. Le dépôt de la demande d'extradition marque une volonté officielle de poursuivre la procédure, malgré les délais administratifs. Le Bénin a déjà pris des mesures à l'encontre du militant par le passé, notamment concernant sa nationalité, ce qui inscrit cette affaire dans un contentieux plus ancien.\n\nPour ses partisans, Kemi Seba est un porte-voix des causes panafricaines et anti-impérialistes, ciblé pour ses prises de position politiques. Ses soutiens dénoncent une procédure motivée par des considérations politiques plutôt que strictement judiciaires. Le report répété de l'audience nourrit, selon eux, l'incertitude sur le traitement réservé au militant maintenu en prison.\n\nCotonou, Pretoria et les réseaux militants panafricains suivent de près chaque étape : l'affaire cristallise les tensions autour de la liberté d'expression et des relations entre États africains et figures anti-occidentales. Tant que le dossier béninois n'est pas jugé complet, la justice sud-africaine ne tranchera pas, laissant en suspens le sort d'une figure influente auprès de la jeunesse africaine et de la diaspora.",
+      "sources": [
+        "RFI",
+        "Le Monde - International"
+      ],
+      "publishedAt": "2026-07-15T02:58:15.000Z"
+    },
+    {
+      "id": "2026-07-15-03",
+      "category": "geopolitique",
+      "title": "La Russie frappe la rade d'Odessa, trois morts",
+      "imageUrl": "https://focus.courrierinternational.com/2026/07/14/0/0/5760/3840/1200/630/60/0/7427599_upload-1-4fktqomj9z5o-020-1140244789.jpg",
+      "location": {
+        "lat": 46.4825,
+        "lng": 30.7233,
+        "name": "Odessa, Ukraine"
+      },
+      "bullets": [
+        "La Russie frappe trois cargos et des installations près d'Odessa",
+        "Les frappes visent aussi des sites navals et pétroliers de l'oblast",
+        "Moscou revendique des attaques contre des navires marchands",
+        "Trois morts sont recensés dans les équipages des cargos",
+        "Les exportations céréalières ukrainiennes par la mer Noire sont menacées"
+      ],
+      "execSummary": "Le 14 juillet 2026, la Russie a mené des frappes contre la rade d'Odessa, ville portuaire ukrainienne bordée par la mer Noire, selon Le Monde. Moscou a revendiqué des attaques visant trois cargos ainsi que des installations navales et pétrolières de cet oblast. Le bilan fait état de trois morts parmi les équipages des navires marchands touchés.\n\nDu côté russe, ces frappes s'inscrivent dans une stratégie affichée de neutralisation des capacités logistiques et militaires de l'Ukraine. Moscou justifie régulièrement le ciblage des installations portuaires et pétrolières en les présentant comme des infrastructures à usage militaire ou de ravitaillement, participant selon elle à l'effort de guerre ukrainien.\n\nPour Kiev et ses soutiens, ces attaques contre des navires marchands civils et des équipages relèvent d'une escalade visant l'économie ukrainienne et la libre circulation en mer Noire. Courrier International rappelle par ailleurs que l'influence russe en Europe passe aussi par des leviers moins visibles, comme le mont Athos en Grèce, foyer spirituel orthodoxe présenté comme un possible relais d'influence politique russe sur le continent.\n\nLe port d'Odessa demeure un point névralgique pour les exportations céréalières ukrainiennes, dont dépendent de nombreux pays d'Afrique et du Moyen-Orient. Chaque frappe fragilise les corridors maritimes et fait peser un risque sur les prix alimentaires mondiaux. Au-delà du terrain militaire, cet épisode illustre la double dimension du conflit : une confrontation directe en mer Noire et une guerre d'influence plus diffuse au cœur de l'Europe.",
+      "sources": [
+        "Le Monde - International",
+        "Courrier International"
+      ],
+      "publishedAt": "2026-07-14T20:38:29.000Z"
+    },
+    {
+      "id": "2026-07-15-04",
+      "category": "geopolitique",
+      "title": "Guerre Iran-États-Unis : nouvelles frappes, Ormuz fermé",
+      "imageUrl": "https://s.france24.com/media/display/5ac1ece4-75f4-11f1-9f23-005056bfb2b6/w:1024/p:16x9/AP24057561959275.jpg",
+      "location": {
+        "lat": 27.1833,
+        "lng": 56.2667,
+        "name": "Bandar Abbas, Iran"
+      },
+      "bullets": [
+        "Les États-Unis ont frappé l'Iran pour le quatrième soir consécutif",
+        "L'Iran a riposté contre des sites américains au Koweït, Bahreïn et Jordanie",
+        "Les Gardiens de la Révolution maintiennent le détroit d'Ormuz fermé",
+        "Washington fait volte-face sur les péages du détroit d'Ormuz",
+        "Le blocus des ports iraniens menace le trafic pétrolier mondial"
+      ],
+      "execSummary": "Pour le quatrième soir consécutif, les États-Unis ont lancé une nouvelle série de frappes contre l'Iran, ciblant notamment Bandar Abbas, l'île de Qeshm et Ahvaz, tout en rétablissant le blocus des ports iraniens, selon France 24 et Le Monde. En réponse, l'Iran a visé des sites américains dans plusieurs pays du Golfe : une base militaire en Jordanie, des installations à Bahreïn où les sirènes d'alerte aérienne ont retenti, et le Koweït confronté à des « attaques hostiles de drones ». Les Gardiens de la Révolution ont annoncé la poursuite de leurs représailles.\n\nCe conflit, qui dure désormais depuis plus de quatre mois selon la BBC, marque une escalade régionale majeure. La fermeture du détroit d'Ormuz par Téhéran, point de passage crucial du commerce pétrolier mondial, place l'ensemble des pays du Golfe et l'économie internationale en position de vulnérabilité. Les frappes visant Bandar Abbas et les ports iraniens illustrent la volonté américaine d'affaiblir les capacités logistiques de l'Iran.\n\nWashington, par la voix des Gardiens de la Révolution cités, exige la fin des « actes d'agression » américains comme condition à la réouverture du détroit. Côté américain, la BBC rapporte une volte-face abrupte du président Donald Trump concernant les péages sur Ormuz, signe selon la chaîne britannique de difficultés à mettre fin à la guerre. Les États frappés par les représailles iraniennes n'ont pas encore fait connaître de position commune coordonnée.\n\nLe détroit d'Ormuz reste au cœur de la crise : sa fermeture prolongée menace directement l'approvisionnement énergétique mondial et pourrait entraîner une flambée des prix. Le recul de Donald Trump sur les péages, décrit par la BBC comme le dernier rebondissement d'un conflit long de quatre mois, suggère l'absence de sortie de crise à court terme. L'implication de plusieurs pays du Golfe étend le risque d'un embrasement régional plus large.",
+      "sources": [
+        "France 24",
+        "Le Monde - International",
+        "BBC World"
+      ],
+      "publishedAt": "2026-07-15T03:30:11.000Z"
+    },
+    {
+      "id": "2026-07-15-05",
+      "category": "tech",
+      "title": "Meta poursuivie pour des licenciements décidés par IA",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-1152x648-1784056210.jpg",
+      "location": {
+        "lat": 37.4848,
+        "lng": -122.1484,
+        "name": "Menlo Park, Californie"
+      },
+      "bullets": [
+        "Vingt-six anciens salariés de Meta poursuivent l'entreprise sur ses licenciements par IA.",
+        "Les plaignants accusent des outils d'IA d'avoir ciblé des salariés en congé médical.",
+        "La plainte affirme que les employés en congé protégé furent surreprésentés parmi les licenciés.",
+        "Meta nie avoir utilisé l'IA pour licencier des salariés handicapés ou malades.",
+        "Le litige interroge la légalité des décisions RH automatisées et leurs biais."
+      ],
+      "execSummary": "Un groupe de 26 anciens salariés de Meta a déposé plainte contre l'entreprise, l'accusant d'avoir utilisé des outils d'intelligence artificielle pour cibler injustement des travailleurs lors de vagues de licenciements. Selon les documents rapportés par The Verge et Ars Technica en juillet 2026, Meta aurait déterminé les employés à licencier à partir de données de performance collectées par une « constellation » d'outils d'IA internes, sans exclure de ce classement les personnes en congé parental ou médical.\n\nCette affaire s'inscrit dans une inquiétude croissante autour de l'automatisation des décisions de ressources humaines. À mesure que les grands groupes technologiques intègrent l'IA dans leurs processus internes, la question de la responsabilité et des biais algorithmiques devient centrale. Le litige pourrait faire jurisprudence sur la légalité de licenciements où une machine, plutôt qu'un humain, hiérarchise les salariés.\n\nSelon la plainte relayée par The Verge, le résultat aurait été que les employés ayant pris des congés protégés se sont retrouvés « disproportionnellement » sélectionnés pour le licenciement, un système de notation les pénalisant en effet pour avoir exercé leurs droits. De son côté, Ars Technica rapporte que Meta nie catégoriquement avoir utilisé l'IA pour licencier des travailleurs en situation de handicap ou souffrant de problèmes médicaux.\n\nAu cœur du dossier figure la protection des salariés vulnérables : si le tribunal reconnaît que des scores automatisés ont pénalisé des congés légaux, d'autres entreprises pourraient devoir revoir leurs pratiques. L'échéance judiciaire déterminera aussi dans quelle mesure un employeur reste responsable des décisions déléguées à ses algorithmes, alors que l'IA s'immisce toujours plus dans la gestion du personnel.",
+      "sources": [
+        "The Verge",
+        "Ars Technica"
+      ],
+      "publishedAt": "2026-07-14T23:06:05.000Z"
+    },
+    {
+      "id": "2026-07-15-06",
+      "category": "eco",
+      "title": "Trump impose un péage de 20% sur le détroit d'Ormuz",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
         "lat": 26.5667,
         "lng": 56.25,
         "name": "Détroit d'Ormuz"
       },
       "bullets": [
-        "Les États-Unis mènent une troisième nuit consécutive de frappes contre l'Iran",
-        "La tension monte après des attaques iraniennes visant deux tankers",
-        "Donald Trump annonce un blocus des ports et une taxe de 20%",
-        "Les Émirats arabes unis dénoncent une attaque iranienne « éhontée »",
-        "Le détroit d'Ormuz, voie stratégique, concentre les enjeux pétroliers mondiaux"
+        "Les Etats-Unis instaurent une taxe de 20% sur les navires traversant Ormuz",
+        "Le conflit américano-israélien contre l'Iran a déclenché la mesure",
+        "Les Emirats arabes unis condamnent l'attaque iranienne contre des pétroliers",
+        "Le trafic maritime dans le détroit s'est effondré",
+        "La hausse des cours du brut menace l'inflation mondiale"
       ],
-      "execSummary": "Selon la BBC, France 24 et RFI, le Centcom américain a lancé peu après minuit une troisième nuit consécutive de frappes contre l'Iran. En parallèle, Donald Trump a annoncé lundi 13 juillet le rétablissement d'un blocus des ports iraniens, effectif mardi à 20h GMT selon l'armée, ainsi qu'une taxe de 20% imposée aux navires traversant le détroit d'Ormuz. Les Émirats arabes unis ont fait état d'attaques de missiles iraniens contre deux tankers dans ce détroit, causant la mort d'une personne.\n\nDu côté américain, Washington justifie l'intensification de sa campagne militaire et le blocus comme une réponse aux attaques visant le trafic maritime. Trump n'exclut cependant pas une issue diplomatique : il a estimé qu'un accord avec l'Iran restait « possible », maintenant une pression militaire tout en laissant la porte ouverte à la négociation.\n\nDu côté de Téhéran, si les sources rapportent les attaques iraniennes attribuées aux tankers, les Émirats arabes unis dénoncent une action « éhontée ». L'Iran, cible des frappes et visé par le blocus, considère traditionnellement le détroit d'Ormuz comme un levier stratégique dans son bras de fer avec les puissances occidentales.\n\nUn tiers du pétrole transporté par voie maritime dans le monde transite par le détroit d'Ormuz : toute perturbation y fait grimper les prix de l'énergie. La taxe de 20% annoncée par Trump et le blocus des ports iraniens menacent la circulation des tankers et pourraient provoquer une flambée des cours du brut. L'échéance de mardi 20h GMT pose la question d'une escalade régionale, alors que les acteurs du Golfe redoutent une extension du conflit.",
+      "execSummary": "Lundi 13 juillet, Donald Trump a annoncé le rétablissement d'un blocus des ports iraniens et l'instauration d'une taxe de 20 % sur les navires souhaitant traverser le détroit d'Ormuz, selon Le Monde. Cette décision intervient après une troisième nuit consécutive de frappes américaines sur l'Iran, dans le cadre de la guerre opposant les Etats-Unis et Israël à Téhéran, rapporte la BBC. Le trafic de navires dans ce passage stratégique s'est effondré, tandis que les Emirats arabes unis ont dénoncé une attaque « éhontée » de l'Iran contre des pétroliers.\n\nLe détroit d'Ormuz constitue l'un des points de passage les plus critiques pour le commerce mondial d'hydrocarbures. Toute perturbation y provoque une flambée immédiate des cours du brut, avec des répercussions directes sur les prix à la consommation. Le Monde souligne que les tensions autour du détroit ont déjà provoqué un rebond des prix du pétrole, après un répit temporaire en juin.\n\nLes Emirats arabes unis condamnent fermement les agissements iraniens et misent, selon Le Monde, sur les ports du golfe d'Oman comme Foujeyra pour réduire leur dépendance au détroit d'Ormuz. Aux Etats-Unis, l'administration Trump présente ces mesures comme une réponse à la menace iranienne. La BBC rappelle toutefois que les inquiétudes sur une reprise de l'inflation restent vives.\n\nLes 20 % de surtaxe imposés au trafic maritime menacent directement les chaînes d'approvisionnement énergétiques mondiales. Aux Etats-Unis, l'inflation a ralenti à 3,5 % en juin grâce à la baisse des prix du gaz, mais ce répit pourrait être de courte durée si le conflit persiste. Au Royaume-Uni, la BBC note déjà des hausses du fioul domestique, avec des compensations promises aux clients. La stabilité des marchés énergétiques dépend désormais de l'évolution militaire dans la région.",
       "sources": [
-        "BBC World",
-        "France 24",
-        "RFI"
+        "Le Monde - Économie",
+        "BBC Business"
       ],
-      "publishedAt": "2026-07-14T03:35:37.000Z"
-    },
-    {
-      "id": "2026-07-14-02",
-      "category": "geopolitique",
-      "title": "La « coalition des volontaires » défile face à Poutine",
-      "imageUrl": "https://s.france24.com/media/display/55758f4a-7eda-11f1-8e57-005056a90284/w:1024/p:16x9/2026-07-13T163612Z-1269730039-RC24DMAN3E13-RTRMADP-3-UKRAINE-CRISIS-COALITION-FRANCE.jpg",
-      "location": {
-        "lat": 48.8698,
-        "lng": 2.3078,
-        "name": "Paris, France"
-      },
-      "bullets": [
-        "Le défilé du 14-Juillet accueille 500 soldats de pays alliés à Paris",
-        "La coalition des volontaires affiche son soutien à l'Ukraine face à Moscou",
-        "Emmanuel Macron réunit 37 pays et évoque un « réveil stratégique »",
-        "Les médias ukrainiens saluent un succès diplomatique pour Kiev",
-        "Le défilé se veut un « signalement stratégique » adressé à la Russie"
-      ],
-      "execSummary": "Le 14 juillet 2026, cinq cents soldats étrangers — venus d'Allemagne, d'Australie, du Canada, de Roumanie, du Royaume-Uni, de Pologne et d'Ukraine — ont défilé aux côtés des troupes françaises sur les Champs-Élysées. La veille, Emmanuel Macron avait réuni à Paris les représentants de 37 pays de la « coalition des volontaires », en présence du président ukrainien Volodymyr Zelensky, selon France 24. Le Monde décrit cet événement comme un « signalement stratégique » dirigé vers Moscou.\n\nPour la France, ce rassemblement symbolise ce qu'Emmanuel Macron appelle un « réveil stratégique » de l'Europe, à la fois face à la Russie et vis-à-vis des États-Unis. Dans son discours aux armées, le président a affirmé que la France et les Européens étaient prêts à défendre « la liberté et le droit », « au prix du sang s'il le faut », rapporte France 24. La présence militaire alliée sur les Champs-Élysées vise à matérialiser cette unité affichée.\n\nSelon Courrier International, la participation ukrainienne — avec des soldats et des pilotes — est perçue à Kiev comme un véritable succès diplomatique. Les médias ukrainiens estiment que la place accordée à leur délégation est « plus que justifiée » au regard de la guerre en cours. De son côté, la Russie est la cible implicite de cette démonstration, l'événement étant explicitement conçu comme un message adressé à Vladimir Poutine.\n\nDerrière la symbolique du défilé se joue la crédibilité militaire d'une Europe cherchant à s'affirmer de manière plus autonome. La coalition regroupe 37 pays, un chiffre qui traduit une volonté d'élargir le soutien à l'Ukraine au-delà de l'OTAN traditionnelle. Reste à voir si cette unité affichée se traduira par des engagements concrets — envois d'armes, garanties de sécurité — dans les mois à venir.",
-      "sources": [
-        "Le Monde - International",
-        "France 24",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-07-14T03:30:04.000Z"
-    },
-    {
-      "id": "2026-07-14-03",
-      "category": "geopolitique",
-      "title": "La RDC visée par des plaintes à la CPI et en Belgique",
-      "imageUrl": "https://s.rfi.fr/media/display/b92287a8-76c6-11f1-931f-005056bfb2b6/w:1024/p:16x9/AP26174377766393.jpg",
-      "location": {
-        "lat": 52.0705,
-        "lng": 4.3007,
-        "name": "La Haye, Pays-Bas"
-      },
-      "bullets": [
-        "Des avocats de victimes déposent deux plaintes contre la RDC le 10 juillet 2026",
-        "Le motif : crimes contre l'humanité présumés depuis six ans au Katanga",
-        "Les plaignants visent la mainmise du clan présidentiel sur les mines",
-        "Le parquet belge et la CPI de La Haye sont saisis simultanément",
-        "Le contrôle des ressources minières du Katanga au cœur du dossier"
-      ],
-      "execSummary": "Le 10 juillet 2026, les avocats de victimes d'enlèvements et de massacres, ainsi que des organisations de la société civile congolaise, ont déposé deux actions distinctes, selon RFI : une plainte au parquet fédéral belge et une « communication article quinze », équivalent d'une plainte, auprès de la Cour pénale internationale à La Haye. Ce dossier s'inscrit dans une actualité judiciaire internationale chargée, la CPI étant également citée par Courrier International parmi les grands sujets du moment.\n\nDu côté des plaignants, l'argumentaire repose sur l'existence de crimes contre l'humanité qui seraient commis « de manière régulière depuis six ans », d'après RFI. Ces victimes et leurs représentants estiment que les opposants à la mainmise du clan présidentiel sur les ressources minières du Katanga sont visés de façon systématique. Le choix de la double saisine — belge et internationale — vise à maximiser les chances qu'une enquête soit ouverte.\n\nÀ ce stade, les autorités congolaises mises en cause n'ont pas exprimé publiquement de réponse détaillée dans les éléments disponibles. Traditionnellement, les États visés par ce type de procédure contestent la compétence des juridictions étrangères et rejettent les accusations comme relevant d'une instrumentalisation politique. Les deux sources consultées ne fournissent pas encore de position officielle de Kinshasa.\n\nLe Katanga concentre une part majeure des réserves mondiales de cobalt et de cuivre, minerais essentiels aux batteries et à l'électronique. En ciblant le contrôle de ces ressources, la plainte touche un point sensible : le lien entre pouvoir politique et rente minière. Une éventuelle enquête de la CPI ou de la justice belge pourrait exposer des responsables congolais à des poursuites internationales, avec des répercussions diplomatiques et sur les investissements étrangers dans le secteur.",
-      "sources": [
-        "RFI",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-07-14T03:07:26.000Z"
-    },
-    {
-      "id": "2026-07-14-04",
-      "category": "tech",
-      "title": "Cyberespionnage russe Turla : la France sanctionne le FSB",
-      "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/design-sans-titre-2026-07-13t151206809.jpg?resize=1600,900&key=2a42c3cf",
-      "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Paris"
-      },
-      "bullets": [
-        "La France attribue formellement à l'unité russe Turla des piratages depuis plus d'une décennie.",
-        "Le FSB russe est accusé d'avoir visé ministères et un institut de recherche sensible.",
-        "Paris annonce des sanctions et convoque l'ambassadeur de Russie.",
-        "La déclaration est faite conjointement avec l'Union européenne.",
-        "L'espionnage militaire, diplomatique et judiciaire est visé par la campagne."
-      ],
-      "execSummary": "La France a annoncé, lundi 13 juillet 2026, attribuer formellement à la Russie une vaste campagne de cyberespionnage. Dans une déclaration conjointe avec l'Union européenne, Paris impute à l'unité « Turla », rattachée au FSB russe, une série de piratages ayant visé des ministères et un institut de recherche travaillant sur des sujets sensibles depuis plus d'une décennie. Selon Numerama, l'espionnage couvre des domaines militaire, diplomatique et judiciaire. Des sanctions ont été annoncées et l'ambassadeur de Russie à Paris doit être convoqué dans les prochains jours.\n\nCette attribution publique marque un durcissement de la posture française face aux opérations d'espionnage numérique étrangères. Turla est considérée comme l'une des unités d'élite les plus actives dans le cyberespionnage, ciblant des intérêts stratégiques nationaux. Le fait que la France mette nommément en cause le FSB, service de renseignement intérieur russe, illustre une volonté de transparence assumée sur des affaires longtemps traitées dans la discrétion.\n\nLe Monde et Numerama rapportent que la déclaration a été coordonnée avec Bruxelles, signalant une réponse européenne concertée. Le gouvernement français prépare la convocation diplomatique de l'ambassadeur russe. Cette annonce s'inscrit dans un climat de tensions accrues : le gouvernement américain (Ars Technica) alertait au même moment sur des hackers d'État russes ciblant les routeurs domestiques, confirmant une menace persistante.\n\nAu-delà de la dénonciation, la France cherche à établir une doctrine d'attribution publique dissuasive. La convocation de l'ambassadeur et les sanctions envoient un signal politique, mais leur portée concrète face à des opérations menées depuis plus de dix ans reste incertaine. Cette affaire pose la question de la protection des infrastructures gouvernementales et de la coordination européenne en matière de cyberdéfense face à des acteurs étatiques.",
-      "sources": [
-        "Le Monde - Pixels",
-        "Numerama",
-        "Ars Technica"
-      ],
-      "publishedAt": "2026-07-14T03:00:37.000Z"
-    },
-    {
-      "id": "2026-07-14-05",
-      "category": "eco",
-      "title": "La ruée mondiale sur les ports, nouvelle bataille commerciale",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "location": {
-        "lat": 9.0817,
-        "lng": -79.6802,
-        "name": "Canal de Panama"
-      },
-      "bullets": [
-        "Les ports assurent le transit de 80 % des marchandises échangées dans le monde.",
-        "Le Panama prévoit 10 milliards de dollars d'investissements portuaires sur sept ans.",
-        "Donald Trump exige et obtient le retrait des entreprises chinoises du canal.",
-        "La Chine réplique en inspectant les navires sous pavillon panaméen.",
-        "Le contrôle des ports devient vital face au protectionnisme croissant."
-      ],
-      "execSummary": "Le Monde consacre une série en seize volets, « La ruée sur les ports », à la nouvelle bataille des empires commerciaux, publiée le 13 juillet 2026. Les ports assurent le transit de 80 % des marchandises échangées dans le monde et sont devenus des pièces maîtresses des rivalités entre puissances. Le canal de Panama, artère vitale du commerce mondial, en est l'exemple le plus emblématique : ce petit pays de 4,5 millions d'habitants se retrouve « victime collatérale » de la guerre froide économique entre les États-Unis et la Chine. Parallèlement, le Panama ambitionne de devenir un « nouveau Singapour ».\n\nCe sujet est important car le contrôle des infrastructures portuaires, longtemps affaire d'armateurs, est désormais disputé entre géants du transport maritime et grandes puissances. Dans un contexte de montée du protectionnisme et de tensions géopolitiques, ces nœuds logistiques déterminent la circulation des biens et la souveraineté commerciale des nations. Le Panama illustre la manière dont un État tente de préserver sa « neutralité » tout en attirant les investissements.\n\nSelon Le Monde, Donald Trump exige — et obtient — le retrait des entreprises chinoises présentes dans les ports du canal, tandis que la Chine réplique en inspectant les navires arborant pavillon panaméen. Le Panama, lui, s'accroche à la neutralité de son canal. Le pays d'Amérique centrale lance des projets pharaoniques : trois nouveaux ports, un pipeline et un lac de rétention d'ici sept ans, pour 10 milliards de dollars. La compagnie française CMA CGM est sur les rangs pour ces marchés.\n\nAvec 10 milliards de dollars engagés et un calendrier de sept ans, le Panama joue son avenir économique sur ces infrastructures. Pour les armateurs comme CMA CGM, l'accès à ces terminaux est stratégique. La rivalité sino-américaine autour du canal pourrait redessiner les routes commerciales mondiales et fragiliser la neutralité affichée par l'État panaméen.",
-      "sources": [
-        "Le Monde - Économie"
-      ],
-      "publishedAt": "2026-07-14T02:42:51.000Z"
+      "publishedAt": "2026-07-15T03:26:47.000Z"
     }
   ]
 }

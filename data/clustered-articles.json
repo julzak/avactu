@@ -1,135 +1,179 @@
 {
-  "generatedAt": "2026-07-14T03:43:38.538Z",
+  "generatedAt": "2026-07-15T03:43:57.303Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "id": "cluster-7",
+      "topic": "Les câbles sous-marins de télécommunication, invisibles et pourtant stratégiques",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-14-3a3b229d",
-          "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-          "description": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
-          "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg",
-          "source": "BBC World",
+          "id": "2026-07-15-c93c1c67",
+          "title": "Les câbles sous-marins de télécommunication, invisibles et pourtant stratégiques",
+          "description": "La quasi-totalité des communications et des données intercontinentales transitent par des câbles à fibres optiques posés au fond des océans. Une infrastructure en pleine expansion.",
+          "url": "https://www.courrierinternational.com/grand-format/carte-les-cables-sous-marins-de-telecommunication-invisibles-et-pourtant-strategiques_245210",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/30/459/0/3000/2000/1200/630/60/0/5833ccf_upload-1-ddtpquyaooaq-web20260715-cables-monde.png",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-14T03:35:37.000Z",
-          "fetchedAt": "2026-07-14T03:39:51.282Z"
+          "publishedAt": "2026-07-15T03:00:07.000Z",
+          "fetchedAt": "2026-07-15T03:39:57.340Z"
         },
         {
-          "id": "2026-07-13-84d0b461",
-          "title": "En direct : troisième nuit consécutive de frappes contre l'Iran, Trump n'exclut pas un accord",
-          "description": "Nouvelle escalade : le Centcom a commencé \"à lancer une troisième nuit consécutive de frappes contre l'Iran\", peu après minuit. Donald Trump a tout de même estimé qu'un accord avec l'Iran était encore \"possible\". Avant cela, il avait annoncé le rétablissement du blocus des ports iraniens – prévu mardi à 20 h GMT, selon l'armée. Les Émirats arabes unis ont par ailleurs fait état d'attaques de missiles iraniens contre deux tankers dans le détroit d'Ormuz, faisant un mort. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260713-en-direct-troisieme-nuit-consecutive-frappes-contre-iran-donald-trump-accord-etats-unis-blocus-ports-detroit-ormuz-guerre-moyen-orient-pays-golfe",
-          "imageUrl": "https://s.france24.com/media/display/65d5a672-7f11-11f1-b75f-005056a90284/w:1024/p:16x9/2026-07-13T191949Z-263152874-RC20DMAOGMIR-RTRMADP-3-IRAN-CRISIS-USA-CENTCOM-SEA-DRONES.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-13T23:31:44.000Z",
-          "fetchedAt": "2026-07-14T03:39:38.119Z"
-        },
-        {
-          "id": "2026-07-13-e9215f52",
-          "title": "Donald Trump dit rétablir le blocus iranien et instaurer une taxe sur le détroit d'Ormuz",
-          "description": "Donald Trump a annoncé lundi 13 juillet rétablir le blocus des ports iraniens et déclaré vouloir instaurer une taxe pour les navires souhaitant traverser le détroit d'Ormuz, voie maritime stratégique qui cristallise les affrontements avec l'Iran.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260713-donald-trump-dit-r%C3%A9tablir-le-blocus-iranien-et-instaurer-une-taxe-sur-le-d%C3%A9troit-d-ormuz",
-          "imageUrl": "https://s.rfi.fr/media/display/86016164-7ed2-11f1-9c6e-005056bf30b7/w:1024/p:16x9/2026-07-13T124622Z-79354978-RC2YCMAU4FZE-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
+          "id": "2026-07-15-224274d3",
+          "title": "L’Union européenne interdit l’importation et le commerce d’or en provenance du Soudan",
+          "description": "L'interdiction de l'importation et du commerce d'or provenant du Soudan a été annoncée lundi 13 juillet 2026 pour tenter de limiter les sources de financement du conflit soudanais. Un conflit qui oppose depuis plus de trois ans l’armée régulière aux forces paramilitaires. Cette mesure de l'Union européenne interdit également la vente et le transfert de mercure et de cyanure vers le Soudan, des produits utilisés dans l’exploitation de l’or.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260715-l-union-europ%C3%A9enne-interdit-l-importation-et-le-commerce-d-or-en-provenance-du-soudan",
+          "imageUrl": "https://s.rfi.fr/media/display/d4af9ca0-38e0-11f1-9966-005056bfb2b6/w:1024/p:16x9/000-33PQ3PA-1.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-13T15:59:39.000Z",
-          "fetchedAt": "2026-07-14T03:39:51.359Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Défilé du 14-Juillet : la « coalition des volontaires » va afficher son unité et",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
+          "publishedAt": "2026-07-15T02:57:39.000Z",
+          "fetchedAt": "2026-07-15T03:40:09.616Z"
+        },
         {
-          "id": "2026-07-14-7bf13431",
-          "title": "Défilé du 14-Juillet : la « coalition des volontaires » va afficher son unité et sa solidarité avec l’Ukraine face à Poutine",
-          "description": "Cinq cents soldats venus d’Allemagne, d’Australie, du Canada, de Roumanie, du Royaume-Uni, de Pologne ou d’Ukraine vont accompagner les troupes françaises lors d’un défilé conçu comme un « signalement stratégique » vis-à-vis de Moscou.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/14/defile-du-14-juillet-la-coalition-des-volontaires-va-afficher-son-unite-et-sa-solidarite-avec-l-ukraine-face-a-poutine_6723248_3210.html",
+          "id": "2026-07-15-91ea3af6",
+          "title": "Didier Deschamps et les Bleus : une décennie de gloire, quelques regrets et des promesses",
+          "description": "Avec les Bleus, Didier Deschamps aura tout connu. Après 14 ans passés à la tête de la sélection tricolore, le coach français termine sur une cruelle déception, avec une défaite en demi-finale du Mondial 2026 face à l'Espagne, que la petite finale ne compensera pas. Mais il laisse un héritage inestimable avec cette équipe prête à marquer les esprits comme elle l'a fait en Amérique.",
+          "url": "https://www.france24.com/fr/sports/20260715-equipe-france-mondial-bleus-didier-deschamps-fin-gloire-regrets-promesses",
+          "imageUrl": "https://s.france24.com/media/display/d403de4c-7fe4-11f1-888e-005056a97e36/w:1024/p:16x9/000-C27U77C.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T00:50:17.000Z",
+          "fetchedAt": "2026-07-15T03:39:56.950Z"
+        },
+        {
+          "id": "2026-07-15-98bc7c5b",
+          "title": "IA : Google poursuivi aux États-Unis par des maisons d'édition pour violation des droits d'auteur",
+          "description": "Hachette Book Group, Cengage Learning, Elsevier, l'écrivain Scott Turow et sa société d'édition S.C.R.I.B.E. ont déposé une plainte à New York, mardi, contre Google pour violation de droits d'auteur. Ils accusent le groupe d'avoir \"secrètement copié des millions d'oeuvres\" confiées à sa bibliothèque numérique pour entraîner son modèle d'IA, Gemini.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260715-intelligence-artificielle-google-poursuivi-justice-plusieurs-maisons-edition-hachette-gemini-pour-violation-droits-auteur-plainte-entraier",
+          "imageUrl": "https://s.france24.com/media/display/5ac1ece4-75f4-11f1-9f23-005056bfb2b6/w:1024/p:16x9/AP24057561959275.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T00:03:06.000Z",
+          "fetchedAt": "2026-07-15T03:39:56.950Z"
+        },
+        {
+          "id": "2026-07-14-23a6cb50",
+          "title": "Le régulateur américain de l’aviation annonce une « étape majeure » pour l’autorisation des taxis volants",
+          "description": "L’instance a affirmé avoir testé avec succès un véhicule électrique à décollage et à atterrissage vertical. L’essai a consisté à transporter un organe d’animal entre la Virginie et le Maryland.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/15/le-regulateur-americain-de-l-aviation-teste-avec-succes-un-evtol-une-etape-majeure-pour-l-autorisation-des-taxis-volants_6723415_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-14T03:30:04.000Z",
-          "fetchedAt": "2026-07-14T03:39:37.997Z"
+          "publishedAt": "2026-07-14T23:38:58.000Z",
+          "fetchedAt": "2026-07-15T03:39:56.834Z"
         },
         {
-          "id": "2026-07-13-6e49f936",
-          "title": "Réunion de la coalition des volontaires à Paris : unis face à la menace russe ?",
-          "description": "Ce lundi se tient à Paris une réunion de la coalition des volontaires. E. Macron a réuni les représentants de 37 pays, en présence de Volodymyr Zelensky. Cette rencontre vise à marquer un « réveil stratégique » de l'Europe face à la Russie et aux États-Unis, selon le président français, qui a prononcé ce matin son traditionnel discours aux armées. La France et les Européens sont prêts à défendre \"la liberté et le droit\", \"au prix du sang s'il le faut\", a affirmé Emmanuel Macron.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260713-r%C3%A9union-de-la-coalition-des-volontaires-%C3%A0-paris-unis-face-%C3%A0-la-menace-russe",
-          "imageUrl": "https://s.france24.com/media/display/55758f4a-7eda-11f1-8e57-005056a90284/w:1024/p:16x9/2026-07-13T163612Z-1269730039-RC24DMAN3E13-RTRMADP-3-UKRAINE-CRISIS-COALITION-FRANCE.jpg",
-          "source": "France 24",
+          "id": "2026-07-14-a6172773",
+          "title": "Réseaux sociaux : le gouvernement britannique annonce la mise en place d’un couvre-feu pour les adolescents",
+          "description": "Cette nouvelle mesure vient compléter l’interdiction des réseaux aux moins de 16 ans annoncée en juin.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/15/reseaux-sociaux-le-gouvernement-britannique-annonce-la-mise-en-place-d-un-couvre-feu-pour-les-adolescents_6723381_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-13T18:08:37.000Z",
-          "fetchedAt": "2026-07-14T03:39:38.119Z"
-        },
-        {
-          "id": "2026-07-13-43af52fb",
-          "title": "Des militaires ukrainiens pour le défilé du 14 Juillet, un succès diplomatique pour Kiev",
-          "description": "Avec des soldats et des pilotes, l’Ukraine sera présente durant le défilé du 14 Juillet, à Paris. Une participation qui satisfait les médias du pays, qui estiment que la place accordée à leur délégation est plus que justifiée.",
-          "url": "https://www.courrierinternational.com/article/vu-d-ukraine-des-militaires-ukrainiens-pour-le-defile-du-14-juillet-un-succes-diplomatique-pour-kiev_249387",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/13/0/0/3250/2167/1200/630/60/0/60a7957_upload-1-soiprxee3gtj-000-b78q689.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-13T13:51:54.000Z",
-          "fetchedAt": "2026-07-14T03:39:38.192Z"
+          "publishedAt": "2026-07-14T23:04:09.000Z",
+          "fetchedAt": "2026-07-15T03:39:56.834Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "La RDC visée par des plaintes à la Cour pénale internationale et en Belgique",
+      "id": "cluster-10",
+      "topic": "Afrique du Sud: la justice ajourne encore l’examen de l’extradition de Kemi Seba",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-14-ab5e9325",
-          "title": "La RDC visée par des plaintes à la Cour pénale internationale et en Belgique",
-          "description": "Les avocats de victimes d’enlèvements ou de massacres ainsi que d’organisations de la société civile en RDC ont déposé vendredi 10 juillet 2026 d’une part une plainte au parquet fédéral belge, et d’autre part une « communication, article quinze », l’équivalent d’une plainte auprès de la Cour pénale internationale à La Haye. Le motif de la plainte déposée est un crime contre l’humanité commis, selon les plaignants, de manière régulière depuis six ans à l’encontre de ceux qui s’opposent à la mainmise du clan présidentiel sur les ressources minières du Katanga.",
-          "url": "https://www.rfi.fr/fr/afrique/20260714-la-rdc-vis%C3%A9e-par-des-plaintes-%C3%A0-la-cour-p%C3%A9nale-internationale-et-en-belgique",
-          "imageUrl": "https://s.rfi.fr/media/display/b92287a8-76c6-11f1-931f-005056bfb2b6/w:1024/p:16x9/AP26174377766393.jpg",
+          "id": "2026-07-15-424a6b12",
+          "title": "Afrique du Sud: la justice ajourne encore l’examen de l’extradition de Kemi Seba",
+          "description": "En Afrique du Sud, l’affaire Kemi Seba de nouveau reportée. Ce 14 juillet devait voir débuter l’examen de la demande d’extradition du Bénin, or celle-ci vient seulement d’être formellement déposée à l’ambassade d’Afrique du Sud à Cotonou. L’influenceur anti-occidental reste donc en prison jusqu’à nouvel ordre.",
+          "url": "https://www.rfi.fr/fr/afrique/20260715-afrique-du-sud-la-justice-ajourne-encore-l-examen-de-l-extradition-de-kemi-seba",
+          "imageUrl": "https://s.rfi.fr/media/display/15bb0bb0-7fd3-11f1-b6f6-005056a97e36/w:1024/p:16x9/AFP-TV-20260511-CLJ-ZAF-TribunalExtradition-B2HB7ZQ-fr.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-14T03:07:26.000Z",
-          "fetchedAt": "2026-07-14T03:39:51.359Z"
+          "publishedAt": "2026-07-15T02:58:15.000Z",
+          "fetchedAt": "2026-07-15T03:40:09.616Z"
         },
         {
-          "id": "2026-07-14-ee6b924e",
-          "title": "Ukraine, Cour pénale internationale, Mossad : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-ukraine-cour-penale-internationale-mossad-les-informations-de-la-nuit_249617",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/13/0/4/2808/1872/1200/630/60/0/0a26564_ftp-1-jcmull87qseg-afp-c23j66d.jpg",
-          "source": "Courrier International",
+          "id": "2026-07-14-3a4f3266",
+          "title": "Meurtre d’Ann Widdecombe, porte-parole du parti anti-immigration Reform UK : la police évoque une « attaque ciblée »",
+          "description": "Retrouvé jeudi, le corps de l’ex-députée présentait de « graves blessures ». L’enquête a depuis été confiée à la police antiterroriste et un suspect placé en garde à vue.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/14/meurtre-d-ann-widdecombe-porte-parole-du-parti-anti-immigration-reform-uk-la-police-evoque-une-attaque-ciblee_6723331_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-14T03:00:19.000Z",
-          "fetchedAt": "2026-07-14T03:39:38.192Z"
+          "publishedAt": "2026-07-14T16:22:05.000Z",
+          "fetchedAt": "2026-07-15T03:39:56.834Z"
         }
       ]
     },
     {
-      "id": "cluster-38",
-      "topic": "Face au blocage de son alliance à 110 milliards, Paramount prévoit de délocalise",
+      "id": "cluster-34",
+      "topic": "EN DIRECT, guerre en Ukraine : la Russie frappe la rade d’Odessa, trois morts da",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-14-41eef930",
+          "title": "EN DIRECT, guerre en Ukraine : la Russie frappe la rade d’Odessa, trois morts dans les équipages de navires marchands",
+          "description": "Moscou a revendiqué des frappes contre trois cargos situés près de la ville portuaire d’Odessa et contre des installations navales et pétrolières de cet oblast ukrainien bordé par la mer Noire.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-la-russie-frappe-la-rade-d-odessa-trois-morts-dans-les-equipages-de-navires-marchands_6722853_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-14T20:38:29.000Z",
+          "fetchedAt": "2026-07-15T03:39:56.834Z"
+        },
+        {
+          "id": "2026-07-14-32830f2d",
+          "title": "Le mont Athos, cheval de troie de la Russie en Europe ?",
+          "description": "La péninsule monastique, située dans le nord de la Grèce, constitue le foyer spirituel de la religion orthodoxe. Mais la Sainte Montagne s’apparente à un territoire convoité, en proie aux influences politiques et aux fantasmes.",
+          "url": "https://www.courrierinternational.com/article/grece-le-mont-athos-cheval-de-troie-de-la-russie-en-europe_249714",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/14/0/0/5760/3840/1200/630/60/0/7427599_upload-1-4fktqomj9z5o-020-1140244789.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-14T15:31:47.000Z",
+          "fetchedAt": "2026-07-15T03:39:57.340Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-20",
+      "topic": "Comment le créateur de Yellowstone transforme chacune de ses séries en un triomp",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-13-ccbea2f6",
-          "title": "Face au blocage de son alliance à 110 milliards, Paramount prévoit de délocaliser son siège historique hors de Californie",
-          "description": "Excédé par le blocage politique de la Californie qui menace de faire capoter sa fusion à 110 milliards de dollars avec Warner Bros. Discovery, le patron de Paramount, David Ellison, s'apprête à hausser le ton. Ses conseillers le poussent ouvertement à délocaliser le siège social et à couper le robinet des investissements dans l'État : 30 milliards de dollars sont sur la table. Un coup de bluff ?",
-          "url": "https://www.numerama.com/pop-culture/2294721-paramount-menace-de-fuir-hollywood-et-ca-pourrait-faire-trembler-la-californie.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/02/paramount.jpg?resize=1600,900&key=03360fce",
+          "id": "2026-07-14-366af55b",
+          "title": "Comment le créateur de Yellowstone transforme chacune de ses séries en un triomphe historique",
+          "description": "Trois séries sur cinq dans le haut du panier. Le dernier relevé des audiences de Paramount+ ressemble à un constat de décès pour la concurrence : Dutton Ranch en tête, l’increvable Yellowstone sur la troisième marche, et Tulsa King qui ferme la marche du Top 5. Au milieu, seuls South Park et le thriller The Agency parviennent à respirer. Ce monopole absolu n'est plus un simple succès de programmation, c’est une mainmise industrielle.",
+          "url": "https://www.numerama.com/pop-culture/2293373-comment-le-createur-de-yellowstone-transforme-chacune-de-ses-series-en-un-triomphe-historique.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/capture-decran-2026-07-09-a-164307.jpg?resize=1600,900&key=840556dd",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-07-13T12:19:00.000Z",
-          "fetchedAt": "2026-07-14T03:39:51.408Z"
+          "publishedAt": "2026-07-14T15:45:06.000Z",
+          "fetchedAt": "2026-07-15T03:40:09.751Z"
+        },
+        {
+          "id": "2026-07-14-3f28b936",
+          "title": "Deux jeux d’occasion pour moins de 10 € : l’offre d’été de Micromania mérite un détour",
+          "description": "À l’heure où Sony semble rêver d’un avenir sans disques, Micromania permet cet été de repartir avec deux jeux d’occasion pour moins de 10 €.",
+          "url": "https://www.numerama.com/pop-culture/2295035-deux-jeux-doccasion-pour-moins-de-10-loffre-dete-de-micromania-merite-un-detour.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/micromania-occasion.jpg?resize=1600,900&key=8b52bb84",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-14T07:00:00.000Z",
+          "fetchedAt": "2026-07-15T03:40:09.751Z"
+        },
+        {
+          "id": "2026-07-14-c3f69252",
+          "title": "« On se sent un peu les cobayes de ce nouveau monde » : la peur des jeunes de devenir obsolète dans un monde où déferle l’IA",
+          "description": "La phase principale de Parcoursup vient de se terminer. Au moment de choisir leurs études, de nombreux jeunes sont saisis par le syndrome du « FOBO » : à quoi bon se former à un métier qui n’existera peut-être plus une fois leur diplôme décroché ?",
+          "url": "https://www.lemonde.fr/campus/article/2026/07/14/on-se-sent-un-peu-les-cobayes-de-ce-nouveau-monde-la-peur-des-jeunes-de-devenir-obsolete-dans-un-monde-ou-deferle-l-ia_6723252_4401467.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-07-14T04:00:02.000Z",
+          "fetchedAt": "2026-07-15T03:40:09.683Z"
         },
         {
           "id": "2026-07-13-996665ac",
@@ -140,18 +184,7 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-07-13T10:58:32.000Z",
-          "fetchedAt": "2026-07-14T03:39:51.346Z"
-        },
-        {
-          "id": "2026-07-13-2f47e5b6",
-          "title": "Pour aujourd’hui seulement, ce ventilateur de plafond est à un rapport qualité-prix imbattable",
-          "description": "[Deal du jour] Quand les températures grimpent, il n'est pas toujours possible d'installer une climatisation. Un ventilateur de plafond constitue une excellente alternative pour ventiler efficacement une pièce. Ce modèle Hisummer de 106 cm profite actuellement d'une belle réduction.",
-          "url": "https://www.numerama.com/tech/2294773-pour-aujourdhui-seulement-ce-ventilateur-de-plafond-est-a-un-rapport-qualite-prix-imbattable.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/hisummer-ventilo-plafond.png?resize=1600,900&key=141acfcb",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-13T09:39:18.000Z",
-          "fetchedAt": "2026-07-14T03:39:51.408Z"
+          "fetchedAt": "2026-07-15T03:40:09.683Z"
         },
         {
           "id": "2026-07-13-980b2e3f",
@@ -162,26 +195,26 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-07-13T04:00:49.000Z",
-          "fetchedAt": "2026-07-14T03:39:51.346Z"
+          "fetchedAt": "2026-07-15T03:40:09.683Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "US-based Mexican food chain Chipotle opening first outlet in Mexico",
+      "topic": "China economic growth falls sharply, missing target",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-07-14-af9c06cf",
-          "title": "US-based Mexican food chain Chipotle opening first outlet in Mexico",
-          "description": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
-          "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9ab/live/6119a2a0-7f2a-11f1-a2d1-357b5800ed69.jpg",
+          "id": "2026-07-15-37d92202",
+          "title": "China economic growth falls sharply, missing target",
+          "description": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+          "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-07-14T02:42:51.000Z",
-          "fetchedAt": "2026-07-14T03:39:59.463Z"
+          "publishedAt": "2026-07-15T03:26:47.000Z",
+          "fetchedAt": "2026-07-15T03:40:17.623Z"
         }
       ]
     }
