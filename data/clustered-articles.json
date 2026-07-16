@@ -1,220 +1,242 @@
 {
-  "generatedAt": "2026-07-15T03:43:57.303Z",
+  "generatedAt": "2026-07-16T03:46:09.884Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-7",
-      "topic": "Les câbles sous-marins de télécommunication, invisibles et pourtant stratégiques",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-15-c93c1c67",
-          "title": "Les câbles sous-marins de télécommunication, invisibles et pourtant stratégiques",
-          "description": "La quasi-totalité des communications et des données intercontinentales transitent par des câbles à fibres optiques posés au fond des océans. Une infrastructure en pleine expansion.",
-          "url": "https://www.courrierinternational.com/grand-format/carte-les-cables-sous-marins-de-telecommunication-invisibles-et-pourtant-strategiques_245210",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/30/459/0/3000/2000/1200/630/60/0/5833ccf_upload-1-ddtpquyaooaq-web20260715-cables-monde.png",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-15T03:00:07.000Z",
-          "fetchedAt": "2026-07-15T03:39:57.340Z"
-        },
-        {
-          "id": "2026-07-15-224274d3",
-          "title": "L’Union européenne interdit l’importation et le commerce d’or en provenance du Soudan",
-          "description": "L'interdiction de l'importation et du commerce d'or provenant du Soudan a été annoncée lundi 13 juillet 2026 pour tenter de limiter les sources de financement du conflit soudanais. Un conflit qui oppose depuis plus de trois ans l’armée régulière aux forces paramilitaires. Cette mesure de l'Union européenne interdit également la vente et le transfert de mercure et de cyanure vers le Soudan, des produits utilisés dans l’exploitation de l’or.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260715-l-union-europ%C3%A9enne-interdit-l-importation-et-le-commerce-d-or-en-provenance-du-soudan",
-          "imageUrl": "https://s.rfi.fr/media/display/d4af9ca0-38e0-11f1-9966-005056bfb2b6/w:1024/p:16x9/000-33PQ3PA-1.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-15T02:57:39.000Z",
-          "fetchedAt": "2026-07-15T03:40:09.616Z"
-        },
-        {
-          "id": "2026-07-15-91ea3af6",
-          "title": "Didier Deschamps et les Bleus : une décennie de gloire, quelques regrets et des promesses",
-          "description": "Avec les Bleus, Didier Deschamps aura tout connu. Après 14 ans passés à la tête de la sélection tricolore, le coach français termine sur une cruelle déception, avec une défaite en demi-finale du Mondial 2026 face à l'Espagne, que la petite finale ne compensera pas. Mais il laisse un héritage inestimable avec cette équipe prête à marquer les esprits comme elle l'a fait en Amérique.",
-          "url": "https://www.france24.com/fr/sports/20260715-equipe-france-mondial-bleus-didier-deschamps-fin-gloire-regrets-promesses",
-          "imageUrl": "https://s.france24.com/media/display/d403de4c-7fe4-11f1-888e-005056a97e36/w:1024/p:16x9/000-C27U77C.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-15T00:50:17.000Z",
-          "fetchedAt": "2026-07-15T03:39:56.950Z"
-        },
-        {
-          "id": "2026-07-15-98bc7c5b",
-          "title": "IA : Google poursuivi aux États-Unis par des maisons d'édition pour violation des droits d'auteur",
-          "description": "Hachette Book Group, Cengage Learning, Elsevier, l'écrivain Scott Turow et sa société d'édition S.C.R.I.B.E. ont déposé une plainte à New York, mardi, contre Google pour violation de droits d'auteur. Ils accusent le groupe d'avoir \"secrètement copié des millions d'oeuvres\" confiées à sa bibliothèque numérique pour entraîner son modèle d'IA, Gemini.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260715-intelligence-artificielle-google-poursuivi-justice-plusieurs-maisons-edition-hachette-gemini-pour-violation-droits-auteur-plainte-entraier",
-          "imageUrl": "https://s.france24.com/media/display/5ac1ece4-75f4-11f1-9f23-005056bfb2b6/w:1024/p:16x9/AP24057561959275.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-15T00:03:06.000Z",
-          "fetchedAt": "2026-07-15T03:39:56.950Z"
-        },
-        {
-          "id": "2026-07-14-23a6cb50",
-          "title": "Le régulateur américain de l’aviation annonce une « étape majeure » pour l’autorisation des taxis volants",
-          "description": "L’instance a affirmé avoir testé avec succès un véhicule électrique à décollage et à atterrissage vertical. L’essai a consisté à transporter un organe d’animal entre la Virginie et le Maryland.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/15/le-regulateur-americain-de-l-aviation-teste-avec-succes-un-evtol-une-etape-majeure-pour-l-autorisation-des-taxis-volants_6723415_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-14T23:38:58.000Z",
-          "fetchedAt": "2026-07-15T03:39:56.834Z"
-        },
-        {
-          "id": "2026-07-14-a6172773",
-          "title": "Réseaux sociaux : le gouvernement britannique annonce la mise en place d’un couvre-feu pour les adolescents",
-          "description": "Cette nouvelle mesure vient compléter l’interdiction des réseaux aux moins de 16 ans annoncée en juin.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/15/reseaux-sociaux-le-gouvernement-britannique-annonce-la-mise-en-place-d-un-couvre-feu-pour-les-adolescents_6723381_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-14T23:04:09.000Z",
-          "fetchedAt": "2026-07-15T03:39:56.834Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-10",
-      "topic": "Afrique du Sud: la justice ajourne encore l’examen de l’extradition de Kemi Seba",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-15-424a6b12",
-          "title": "Afrique du Sud: la justice ajourne encore l’examen de l’extradition de Kemi Seba",
-          "description": "En Afrique du Sud, l’affaire Kemi Seba de nouveau reportée. Ce 14 juillet devait voir débuter l’examen de la demande d’extradition du Bénin, or celle-ci vient seulement d’être formellement déposée à l’ambassade d’Afrique du Sud à Cotonou. L’influenceur anti-occidental reste donc en prison jusqu’à nouvel ordre.",
-          "url": "https://www.rfi.fr/fr/afrique/20260715-afrique-du-sud-la-justice-ajourne-encore-l-examen-de-l-extradition-de-kemi-seba",
-          "imageUrl": "https://s.rfi.fr/media/display/15bb0bb0-7fd3-11f1-b6f6-005056a97e36/w:1024/p:16x9/AFP-TV-20260511-CLJ-ZAF-TribunalExtradition-B2HB7ZQ-fr.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-15T02:58:15.000Z",
-          "fetchedAt": "2026-07-15T03:40:09.616Z"
-        },
-        {
-          "id": "2026-07-14-3a4f3266",
-          "title": "Meurtre d’Ann Widdecombe, porte-parole du parti anti-immigration Reform UK : la police évoque une « attaque ciblée »",
-          "description": "Retrouvé jeudi, le corps de l’ex-députée présentait de « graves blessures ». L’enquête a depuis été confiée à la police antiterroriste et un suspect placé en garde à vue.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/14/meurtre-d-ann-widdecombe-porte-parole-du-parti-anti-immigration-reform-uk-la-police-evoque-une-attaque-ciblee_6723331_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-14T16:22:05.000Z",
-          "fetchedAt": "2026-07-15T03:39:56.834Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-34",
-      "topic": "EN DIRECT, guerre en Ukraine : la Russie frappe la rade d’Odessa, trois morts da",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-14-41eef930",
-          "title": "EN DIRECT, guerre en Ukraine : la Russie frappe la rade d’Odessa, trois morts dans les équipages de navires marchands",
-          "description": "Moscou a revendiqué des frappes contre trois cargos situés près de la ville portuaire d’Odessa et contre des installations navales et pétrolières de cet oblast ukrainien bordé par la mer Noire.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-la-russie-frappe-la-rade-d-odessa-trois-morts-dans-les-equipages-de-navires-marchands_6722853_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-14T20:38:29.000Z",
-          "fetchedAt": "2026-07-15T03:39:56.834Z"
-        },
-        {
-          "id": "2026-07-14-32830f2d",
-          "title": "Le mont Athos, cheval de troie de la Russie en Europe ?",
-          "description": "La péninsule monastique, située dans le nord de la Grèce, constitue le foyer spirituel de la religion orthodoxe. Mais la Sainte Montagne s’apparente à un territoire convoité, en proie aux influences politiques et aux fantasmes.",
-          "url": "https://www.courrierinternational.com/article/grece-le-mont-athos-cheval-de-troie-de-la-russie-en-europe_249714",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/14/0/0/5760/3840/1200/630/60/0/7427599_upload-1-4fktqomj9z5o-020-1140244789.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-14T15:31:47.000Z",
-          "fetchedAt": "2026-07-15T03:39:57.340Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-20",
-      "topic": "Comment le créateur de Yellowstone transforme chacune de ses séries en un triomp",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-14-366af55b",
-          "title": "Comment le créateur de Yellowstone transforme chacune de ses séries en un triomphe historique",
-          "description": "Trois séries sur cinq dans le haut du panier. Le dernier relevé des audiences de Paramount+ ressemble à un constat de décès pour la concurrence : Dutton Ranch en tête, l’increvable Yellowstone sur la troisième marche, et Tulsa King qui ferme la marche du Top 5. Au milieu, seuls South Park et le thriller The Agency parviennent à respirer. Ce monopole absolu n'est plus un simple succès de programmation, c’est une mainmise industrielle.",
-          "url": "https://www.numerama.com/pop-culture/2293373-comment-le-createur-de-yellowstone-transforme-chacune-de-ses-series-en-un-triomphe-historique.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/capture-decran-2026-07-09-a-164307.jpg?resize=1600,900&key=840556dd",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-14T15:45:06.000Z",
-          "fetchedAt": "2026-07-15T03:40:09.751Z"
-        },
-        {
-          "id": "2026-07-14-3f28b936",
-          "title": "Deux jeux d’occasion pour moins de 10 € : l’offre d’été de Micromania mérite un détour",
-          "description": "À l’heure où Sony semble rêver d’un avenir sans disques, Micromania permet cet été de repartir avec deux jeux d’occasion pour moins de 10 €.",
-          "url": "https://www.numerama.com/pop-culture/2295035-deux-jeux-doccasion-pour-moins-de-10-loffre-dete-de-micromania-merite-un-detour.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/micromania-occasion.jpg?resize=1600,900&key=8b52bb84",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-07-14T07:00:00.000Z",
-          "fetchedAt": "2026-07-15T03:40:09.751Z"
-        },
-        {
-          "id": "2026-07-14-c3f69252",
-          "title": "« On se sent un peu les cobayes de ce nouveau monde » : la peur des jeunes de devenir obsolète dans un monde où déferle l’IA",
-          "description": "La phase principale de Parcoursup vient de se terminer. Au moment de choisir leurs études, de nombreux jeunes sont saisis par le syndrome du « FOBO » : à quoi bon se former à un métier qui n’existera peut-être plus une fois leur diplôme décroché ?",
-          "url": "https://www.lemonde.fr/campus/article/2026/07/14/on-se-sent-un-peu-les-cobayes-de-ce-nouveau-monde-la-peur-des-jeunes-de-devenir-obsolete-dans-un-monde-ou-deferle-l-ia_6723252_4401467.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-14T04:00:02.000Z",
-          "fetchedAt": "2026-07-15T03:40:09.683Z"
-        },
-        {
-          "id": "2026-07-13-996665ac",
-          "title": "Interdiction des réseaux sociaux aux mineurs : l’UE veut instaurer un accès « progressif et gradué »",
-          "description": "Au sein des Vingt-Sept, de nombreux pays, dont la France, l’Espagne, la Grèce, le Danemark, l’Autriche ou la Suède, sont déjà en train de mettre en place des interdictions ou restrictions d’accès aux réseaux pour les mineurs, ou l’envisagent.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/13/interdiction-des-reseaux-sociaux-aux-mineurs-l-ue-veut-instaurer-un-acces-progressif-et-gradue_6723078_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-13T10:58:32.000Z",
-          "fetchedAt": "2026-07-15T03:40:09.683Z"
-        },
-        {
-          "id": "2026-07-13-980b2e3f",
-          "title": "L’énigme Max Valentin, créateur de la Chouette d’or : « C’était un mec extrêmement intelligent, un fou furieux »",
-          "description": "« Les derniers mystères de La Chouette d’or » (2/6). L’auteur des énigmes de la quête s’est bâti un personnage qui fascine aujourd’hui encore les « chouetteurs ». Si la plupart voient en lui un génial maître du jeu, d’autres le considèrent comme un gourou bonimenteur.",
-          "url": "https://www.lemonde.fr/series-d-ete/visuel/2026/07/13/l-enigme-max-valentin-createur-de-la-chouette-d-or-c-etait-un-mec-extremement-intelligent-un-fou-furieux_6723042_3451060.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-13T04:00:49.000Z",
-          "fetchedAt": "2026-07-15T03:40:09.683Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-1",
-      "topic": "China economic growth falls sharply, missing target",
+      "topic": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-16-579fb9a1",
+          "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+          "description": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+          "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-16T03:08:09.000Z",
+          "fetchedAt": "2026-07-16T03:42:19.211Z"
+        },
+        {
+          "id": "2026-07-16-8bf8a03d",
+          "title": "Donald Trump annonce la libération d'une citoyenne américaine bloquée en Iran depuis 2024",
+          "description": "L'Iran \"a autorisé une citoyenne américaine, détenue illégalement à partir de décembre 2024 (...) à quitter le pays\", a annoncé le président Trump sur son réseau social, saluant un \"geste de bonne volonté\" de Téhéran. Selon un avocat, il s'agit de Dena Karari, accusée de \"collaboration avec un État hostile et d'espionnage\".",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260716-donald-trump-annonce-liberation-citoyenne-americaine-bloquee-iran-depuis-2024-dena-karari-etats-unis-espionnage",
+          "imageUrl": "https://s.france24.com/media/display/ef9bace6-7fa5-11f1-b9ae-005056a90284/w:1024/p:16x9/2026-07-14T162608Z-62007202-RC2SDMAUL4TM-RTRMADP-3-USA-TRUMP.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-16T00:54:33.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.507Z"
+        },
+        {
+          "id": "2026-07-16-c5f7e44e",
+          "title": "En direct : nouvelle salve de frappes américaines, le système de défense antiaérienne activé à Téhéran",
+          "description": "Aucun signe d'accalmie entre l'Iran et les États-Unis : les frappes se poursuivent dans la nuit avec une nouvelle salve de bombardements américains. Le système de défense antiaérienne a été activé jeudi à Téhéran et des explosions ont été entendues dans le nord et l'ouest de l'Iran, ont annoncé des médias d'État. Téhéran continue, de son côté, à cibler des installations américaines dans la région. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260716-en-direct-nouvelle-vague-frappes-bombardements-americains-etats-unis-donald-trump-iran-detroit-ormuz-paralyse-liban-israel-petrolier-blocus",
+          "imageUrl": "https://s.france24.com/media/display/c5733eaa-8074-11f1-9898-005056a97e36/w:1024/p:16x9/2026-07-15T140247Z-1957995648-RC2EEMAK633W-RTRMADP-3-IRAN-CRISIS-CHABAHAR.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-16T00:24:41.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.507Z"
+        },
+        {
+          "id": "2026-07-15-5242ce13",
+          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont lancé de nouvelles frappes contre l’Iran ; Téhéran cible des installations américaines en Jordanie",
+          "description": "L’armée iranienne a annoncé, jeudi matin, avoir ciblé des installations militaires américaines en Jordanie, au moyen de drones, selon la télévision d’Etat, après que les Etats-Unis ont mené de nouvelles frappes sur le territoire iranien.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-tire-sur-un-navire-qui-tentait-de-forcer-le-blocus-des-ports-iraniens_6722873_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T22:58:05.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.298Z"
+        },
+        {
+          "id": "2026-07-15-46075409",
+          "title": "Iran - États-Unis : Trump représenté dans un cercueil à Téhéran",
+          "description": "Une banderole représentant Donald Trump dans un cercueil a été installée en plein centre de Téhéran, sur fond d’escalade militaire entre l’Iran et les États-Unis. Alors que Washington a lancé de nouvelles frappes et rétabli son blocus des ports iraniens, Téhéran maintient la fermeture du détroit d’Ormuz.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260715-iran-%C3%A9tats-unis-trump-repr%C3%A9sent%C3%A9-dans-un-cercueil-%C3%A0-t%C3%A9h%C3%A9ran",
+          "imageUrl": "https://s.france24.com/media/display/cc567654-8067-11f1-b716-005056bf30b7/w:1024/p:16x9/MINIA-USA-IRAN.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T16:13:43.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.507Z"
+        },
+        {
+          "id": "2026-07-15-02fc71e1",
+          "title": "“C’est du taxage !” Le racket américain avant l’ouverture d’un pont frontalier financé par le Canada",
+          "description": "Un nouveau pont frontalier reliant les villes de Détroit aux États-Unis et Windsor au Canada sera ouvert à la circulation le 27 juillet. Alors que le Canada a financé l’intégralité des travaux, les bénéfices de l’exploitation de l’infrastructure seront partagés entre les deux pays. En février, Donald Trump avait remis en cause l’ouverture du pont dans un contexte de vives tensions commerciales. La presse canadienne réagit avec véhémence : “Trump a pris la frontière en otage.”",
+          "url": "https://www.courrierinternational.com/article/economie-c-est-du-taxage-le-racket-americain-avant-l-ouverture-d-un-pont-frontalier-finance-par-le-canada_249981",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/11/0/0/7993/5329/1200/630/60/0/2b46262_ftp-1-rfdq5yujvv09-2026-07-11t011655z-983950072-rc2qija16akk-rtrmadp-3-usa-canada-bridge.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T15:45:40.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.745Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-8",
+      "topic": "Bernard Arnault illustre le rapport ambivalent des Français à leurs ultrariches",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-16-edb49a9b",
+          "title": "Bernard Arnault illustre le rapport ambivalent des Français à leurs ultrariches",
+          "description": "Au début de juillet, la cour d’appel administrative de Paris a imposé au milliardaire et à sa femme un redressement fiscal de près de 22,5 millions d’euros. Dans un pays où la richesse “doit toujours être justifiée”, cette situation met en lumière le rapport particulier qu’entretiennent les Français avec leurs ultrariches, constate, en Suisse, la “Neue Zürcher Zeitung”.",
+          "url": "https://www.courrierinternational.com/article/vu-de-suisse-bernard-arnault-illustre-le-rapport-ambivalent-des-francais-a-leurs-ultrariches_247907",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/17/0/0/4347/2898/1200/630/60/0/bee06ab_ftp-1-hqmn0li1tflk-2026-06-17t081253z-1699796567-rc2kvlaa6dad-rtrmadp-3-france-tech-lvmh.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-16T03:00:08.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.745Z"
+        },
+        {
+          "id": "2026-07-16-dea6a817",
+          "title": "France: la polémique sur les Canadairs rattrape Gabriel Attal en pleine campagne présidentielle",
+          "description": "Alors que la forêt de Fontainebleau, près de Paris, est en proie aux flammes, une question brûle les lèvres des responsables politiques : pourquoi la France manque-t-elle de Canadairs ? Ces avions bombardiers d’eau, spécialement conçus pour lutter contre les incendies, sont au cœur d’une bataille politique.",
+          "url": "https://www.rfi.fr/fr/france/20260716-france-la-pol%C3%A9mique-sur-les-canadairs-rattrape-gabriel-attal-en-pleine-campagne-pr%C3%A9sidentielle",
+          "imageUrl": "https://s.rfi.fr/media/display/57d798c6-802b-11f1-8a7f-005056a90284/w:1024/p:16x9/000-B9ZY76C.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-16T02:19:01.000Z",
+          "fetchedAt": "2026-07-16T03:42:19.261Z"
+        },
+        {
+          "id": "2026-07-16-5265e690",
+          "title": "Espagne - Argentine et France - Angleterre : les enjeux du grand final de la Coupe du Monde",
+          "description": "La Coupe du monde a rendu son verdict pour son grand final, après 102 matches disputés. Pour les deux dernières rencontres, l'Espagne affrontera l'Argentine en finale, dimanche, tandis que la France sera opposée samedi à l'Angleterre pour la troisième place de ce Mondial 2026.",
+          "url": "https://www.france24.com/fr/sports/20260716-espagne-argentine-france-angleterre-enjeux-finale-petite-coupe-du-monde",
+          "imageUrl": "https://s.france24.com/media/display/269f9848-80a4-11f1-80e3-005056a90284/w:1024/p:16x9/063-2286286027.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-16T00:10:46.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.507Z"
+        },
+        {
+          "id": "2026-07-15-5883cc6d",
+          "title": "Canicules à répétition: l'économie française frappée de plein fouet",
+          "description": "Le troisième épisode de canicule à frapper le pays depuis la fin mai touche à sa fin. Les températures extrêmes enregistrées ont de nouveau mis à mal la quasi-totalité des secteurs de l’économie. La France paie une adaptation trop lente face au changement climatique.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260715-canicules-%C3%A0-r%C3%A9p%C3%A9tition-l-%C3%A9conomie-fran%C3%A7aise-frapp%C3%A9e-de-plein-fouet",
+          "imageUrl": "https://s.rfi.fr/media/display/8b364284-6d49-11f1-b012-005056a90284/w:1024/p:16x9/2026-06-20T165419Z-776773435-RC2SXLAKUYWN-RTRMADP-3-EUROPE-WEATHER-FRANCE-HEAT.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T17:31:22.000Z",
+          "fetchedAt": "2026-07-16T03:42:19.261Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-19",
+      "topic": "EN DIRECT, guerre en Ukraine : l’AIEA déplore la mort, dans une frappe de drone,",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-15-408020e7",
+          "title": "EN DIRECT, guerre en Ukraine : l’AIEA déplore la mort, dans une frappe de drone, de l’ingénieur en chef de la centrale nucléaire de Zaporijia",
+          "description": "La Russie accuse l’Ukraine d’avoir assassiné Alexandre Iakovlev alors qu’il se trouvait à bord d’un véhicule, dont le conducteur a également perdu la vie. Le directeur de l’Agence internationale de l’énergie atomique, Rafael Grossi, a condamné ce meurtre, sans l’attribuer à quiconque.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-la-demission-du-ministre-de-la-defense-ukrainien-suscite-l-indignation-dans-le-pays_6722853_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T23:34:32.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.298Z"
+        },
+        {
+          "id": "2026-07-15-9a9da5a9",
+          "title": "Zelensky et Ursula von der Leyen sont-ils amants ? Non, c’est une intox !",
+          "description": "De nombreux internautes affirment que Volodymyr Zelensky et Ursula von der Leyen entretiennent une relation passionnelle. Ils se basent sur une interview de l’ancienne porte-parole de la présidence ukrainienne. Il s’agit en fait d’un faux généré par intelligence artificielle.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260715-zelensky-et-ursula-von-der-leyen-sont-ils-amants-non-c-est-une-intox",
+          "imageUrl": "https://s.france24.com/media/display/ec3a4bec-808c-11f1-aab7-005056bf30b7/w:1024/p:16x9/FRAN260715-2220-Live-CS2220.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T20:41:50.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.507Z"
+        },
+        {
+          "id": "2026-07-15-9f67c3d8",
+          "title": "L’Union européenne revoit un statut de protection des Ukrainiens qui fuient le front",
+          "description": "Mercredi 15 juillet, les Etats membres ont prolongé le statut de protection temporaire accordé aux personnes fuyant l’Ukraine jusqu’au 4 mars 2028. Néanmoins, à la demande de Kiev, ils ont décidé d’en exclure les futurs réfugiés n’ayant pas rempli leurs obligations militaires.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/15/l-union-europeenne-revoit-un-statut-de-protection-des-ukrainiens-qui-fuient-le-front_6723594_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T16:30:01.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.298Z"
+        },
+        {
+          "id": "2026-07-15-f3575882",
+          "title": "Mais où est donc Aung San Suu Kyi ? Son fils exige “une preuve de vie”",
+          "description": "Voilà près de quatre ans que la dirigeante birmane, emprisonnée au lendemain d’un coup d’État militaire, n’a été vue. Plus que jamais, son fils s’inquiète. Et “The Economist” se demande même si elle est encore en vie.",
+          "url": "https://www.courrierinternational.com/article/birmanie-mais-ou-est-donc-aung-san-suu-kyi-son-fils-exige-une-preuve-de-vie_249912",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/15/0/0/6000/4000/1200/630/60/0/80df187_upload-1-tuwrdn2cpdzj-020-2274003301.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T15:31:09.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.745Z"
+        },
+        {
+          "id": "2026-07-15-b39d9fc0",
+          "title": "Ukraine : l’UE annonce un partenariat sur les drones",
+          "description": "La présidente de la Commission européenne Ursula von der Leyen a annoncé à Kiev la conclusion d'un partenariat entre l'Union européenne et l'Ukraine afin de renforcer la production commune de drones.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260715-ukraine-l-ue-annonce-un-partenariat-sur-les-drones",
+          "imageUrl": "https://s.france24.com/media/display/6afb6e6c-805f-11f1-964e-005056bf30b7/w:1024/p:16x9/MINIA-UKRAINE-1.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T15:14:02.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.507Z"
+        },
+        {
+          "id": "2026-07-15-7f88ab18",
+          "title": "Au Liberia, le président Boakai malmené après une importante saisie de drogue",
+          "description": "Après la saisie d’une cargaison de plus de 200 kilos de cocaïne, l’opposition libérienne accuse le gouvernement de dissimulation d’informations et appelle à une enquête internationale indépendante. Les autorités sont soupçonnées de corruption, et de tenter de protéger de hauts responsables impliqués dans le trafic de drogue.",
+          "url": "https://www.courrierinternational.com/article/afrique-au-liberia-le-president-boakai-malmene-apres-une-importante-saisie-de-drogue_249882",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/18/0/0/4866/3244/1200/630/60/0/85a5f8e_ftp-1-ikwffoiqnap1-2026-06-18t213833z-537159652-rc2dwlabgfg8-rtrmadp-3-ghana-slavery.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-15T14:32:39.000Z",
+          "fetchedAt": "2026-07-16T03:42:09.745Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-07-15-c60206c3",
+          "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+          "description": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
+          "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rally13-2560x1440-1784152735.jpeg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-07-15T22:36:28.000Z",
+          "fetchedAt": "2026-07-16T03:42:23.437Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-07-15-37d92202",
-          "title": "China economic growth falls sharply, missing target",
-          "description": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-          "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
+          "id": "2026-07-15-d244ac8c",
+          "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
+          "description": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
+          "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa6c/live/202769c0-8057-11f1-a10f-077d9cf2208e.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-07-15T03:26:47.000Z",
-          "fetchedAt": "2026-07-15T03:40:17.623Z"
+          "publishedAt": "2026-07-15T23:00:42.000Z",
+          "fetchedAt": "2026-07-16T03:42:26.125Z"
         }
       ]
     }
