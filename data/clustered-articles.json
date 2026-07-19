@@ -1,286 +1,220 @@
 {
-  "generatedAt": "2026-07-18T03:41:03.697Z",
+  "generatedAt": "2026-07-19T04:03:24.730Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Royaume-Uni, Venezuela et Hong Kong : les informations de la nuit",
+      "topic": "EN DIRECT, guerre en Ukraine : au moins un mort dans des frappes visant Kiev, au",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-18-d0f6a421",
-          "title": "Royaume-Uni, Venezuela et Hong Kong : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-royaume-uni-venezuela-et-hong-kong-les-informations-de-la-nuit_250937",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/17/0/0/6069/4046/1200/630/60/0/a1fad6a_ftp-1-zt1c3gyasonn-2026-07-17t120749z-636833080-rc2ofmaedwar-rtrmadp-3-britain-politics.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-18T03:30:24.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.185Z"
-        },
-        {
-          "id": "2026-07-18-fb0df634",
-          "title": "“L’Odyssée” de Christopher Nolan offre un spectacle mythique",
-          "description": "C’est l’un des films les plus attendus de l’été : la première adaptation d’Homère avec les moyens d’une superproduction. Pour le magazine américain “The Atlantic”, “L’Odyssée” tient ses promesses. Christopher Nolan a trouvé un équilibre entre traitement hollywoodien et ambition artistique, entre l’humain et le mythe. À voir en France sur très grand écran, depuis le 15 juillet.",
-          "url": "https://www.courrierinternational.com/article/cinema-l-odyssee-de-christopher-nolan-offre-un-spectacle-mythique_250353",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/17/0/0/1200/800/1200/630/60/0/1a82a29_upload-1-ofgo6abwp89c-ulysse-matt-damon-odysee-nolan.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-18T03:00:20.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.185Z"
-        },
-        {
-          "id": "2026-07-18-54e93d20",
-          "title": "RDC: Felix Tshisekedi annonce l'organisation d'un dialogue national inclusif",
-          "description": "En République démocratique du Congo, le président Félix Tshisekedi a ouvert la voie à un dialogue national inclusif. L'annonce a été faite vendredi 17 juillet 2026 à l'issue d'une rencontre avec les chefs des confessions religieuses. Une décision réclamée depuis plus d'un an par les Églises, une partie de l'opposition et des organisations de la société civile, alors que le pays reste confronté à la guerre dans l'Est et à une profonde crise politique. Le dialogue doit désormais entrer dans sa phase de préparation. Le président Félix Tshisekedi devra le convoquer par ordonnance, désigner les facilitateurs, fixer leur mandat ainsi que le calendrier et le cadre des travaux.",
-          "url": "https://www.rfi.fr/fr/afrique/20260718-rdc-felix-tshisekedi-annonce-l-organisation-d-un-dialogue-national-inclusif",
-          "imageUrl": "https://s.rfi.fr/media/display/896fce52-f07b-11f0-9e48-005056a97e36/w:1024/p:16x9/000-87682AK.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-18T00:28:54.000Z",
-          "fetchedAt": "2026-07-18T03:37:09.145Z"
-        },
-        {
-          "id": "2026-07-17-919365e2",
-          "title": "Boeing autorisé à délivrer à nouveau les certificats de navigabilité de ses modèles 737 et 787 Dreamliner après un feu vert de la FAA",
-          "description": "Le constructeur aéronautique retrouve ainsi la confiance du régulateur américain pour la certification de ses appareils.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/18/boeing-autorise-a-delivrer-a-nouveau-les-certificats-de-navigabilite-de-ses-modeles-737-et-787-dreamliner-apres-un-feu-vert-de-la-faa_6724241_3234.html",
+          "id": "2026-07-19-01fb8ee3",
+          "title": "EN DIRECT, guerre en Ukraine : au moins un mort dans des frappes visant Kiev, au lendemain d’attaques ukrainiennes meurtrières en Russie",
+          "description": "Depuis juin, la capitale ukrainienne est régulièrement visée par des frappes russes menées à l’aide de missiles balistiques, rapides et plus difficiles à intercepter que les drones ou les missiles de croisière.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-au-moins-un-mort-dans-des-frappes-visant-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-en-russie_6725306_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-17T22:45:53.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.149Z"
+          "publishedAt": "2026-07-19T03:42:31.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.217Z"
         },
         {
-          "id": "2026-07-17-1d7e4b38",
-          "title": "Pologne: le président Nawrocki met son veto au projet de loi sur les unions civiles homosexuelles",
-          "description": "Il était attendu, mais il reste douloureux pour la communauté homosexuelle polonaise : le veto du président conservateur Karol Nawrocki, vendredi 17 juillet, met fin au rêve d'union civile pour les couples de même sexe. Le statut de « personne la plus proche » adopté au Parlement fin mai était pourtant prometteur. Il promettait un certain nombre de droits semblables à ceux du PACS en France. C'est un pas en arrière dans un pays qui reste l'un des plus restrictifs d'Europe sur les droits LGBTQ+.",
-          "url": "https://www.rfi.fr/fr/europe/20260717-pologne-le-pr%C3%A9sident-nawrocki-met-son-veto-au-projet-de-loi-sur-les-unions-civiles-homosexuelles",
-          "imageUrl": "https://s.rfi.fr/media/display/5b6228b4-8204-11f1-8090-005056bfb2b6/w:1024/p:16x9/POLOGNE-KAROL-NAWROCKI.jpg",
+          "id": "2026-07-18-a2a0d491",
+          "title": "Guerre en Ukraine : Volodymyr Zelensky assure aux Ukrainiens qu’il entend leurs revendications, après une nouvelle manifestation à Kiev. Retrouvez les informations du 12 au 18 juillet.",
+          "description": "Dans les grandes villes d’Ukraine, notamment à Kiev, des milliers de personnes se sont rassemblées pour la troisième journée consécutive pour réclamer le départ du chef de l’armée, Oleksandr Syrsky, et le retour de Mykhaïlo Fedorov au ministère de la défense.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-soixante-neuf-affrontements-sur-le-front-depuis-le-debut-de-la-journee-selon-l-etat-major-ukrainien_6722853_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-18T16:06:43.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.217Z"
+        },
+        {
+          "id": "2026-07-18-78b2c5ca",
+          "title": "Russie: une vague d'attaques ukrainiennes de drones fait plusieurs morts, selon les autorités locales",
+          "description": "Une attaque de drones ukrainienne contre deux centres logistiques a fait au moins huit morts en Russie, et l'incendie d'un dépôt de pétrole dans la région de Moscou a entraîné l'évacuation d'une maternité, ont annoncé samedi 18 juillet les autorités locales. Dans la nuit du 17 au 18 juillet, la région de Moscou a été visée par plus de 370 drones ukrainiens, pour la plupart abattus.",
+          "url": "https://www.rfi.fr/fr/europe/20260718-russie-une-vague-d-attaques-ukrainiennes-de-drones-fait-plusieurs-morts-selon-les-autorit%C3%A9s-locales",
+          "imageUrl": "https://s.rfi.fr/media/display/f4c3c4d6-8290-11f1-a9f1-005056a97e36/w:1024/p:16x9/2026-07-18T094243Z-508980871-RC29GMASUKSP-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-ATTACKS.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-17T17:24:37.000Z",
-          "fetchedAt": "2026-07-18T03:37:09.145Z"
-        },
-        {
-          "id": "2026-07-17-8a7a5b44",
-          "title": "Avec “Emotional Junglist”, Nia Archives incarne l’avant-garde de la Gen Z britannique",
-          "description": "Nia Archives est l’une de ces artistes britanniques qui repoussent les frontières. Talent émergent de la scène alternative, selon la presse anglo-saxonne, elle crée des ponts avec la pop plus mainstream, et collabore avec Jorja Smith. Sorti vendredi 17 juillet, son deuxième album “Emotional Junglist” mêle jungle et clins d’œil au son des années 1990.",
-          "url": "https://www.courrierinternational.com/article/musique-avec-emotional-junglist-nia-archives-incarne-l-avant-garde-de-la-gen-z-britannique_250746",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/17/0/5/5736/3824/1200/630/60/0/b1b1784_upload-1-78zfrvgmqi16-020-2245405673.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-17T17:00:05.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.185Z"
+          "publishedAt": "2026-07-18T10:44:44.000Z",
+          "fetchedAt": "2026-07-19T03:59:38.869Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Incendies en France: dans les zones dévastées de Fontainebleau, le travail de fo",
+      "id": "cluster-3",
+      "topic": "EN DIRECT, guerre en Iran : les Etats-Unis bombardent à nouveau l’Iran, après la",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-18-60b8534e",
-          "title": "Incendies en France: dans les zones dévastées de Fontainebleau, le travail de fourmis des pompiers face aux «feux zombies»",
-          "description": "Les deux incendies en forêt de Fontainebleau, qui ont parcouru plus de 2 050 hectares, étaient « fixés » mais pas encore éteints, ce vendredi 17 juillet 2026. Partout dans le massif, les pompiers restent mobilisés pour éteindre les points chauds et les reprises d'incendie. Leur travail : repérer et éteindre ces feux qui couvent sous terre. Un véritable travail de fourmis.",
-          "url": "https://www.rfi.fr/fr/france/20260718-incendies-en-france-dans-les-zones-d%C3%A9vast%C3%A9es-de-fontainebleau-le-travail-de-fourmis-des-pompiers-face-aux-feux-zombies",
-          "imageUrl": "https://s.rfi.fr/media/display/8a8b13e6-820c-11f1-b8ba-005056bf30b7/w:1024/p:16x9/P1430012.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-18T03:30:14.000Z",
-          "fetchedAt": "2026-07-18T03:37:09.145Z"
-        },
-        {
-          "id": "2026-07-17-c32872f6",
-          "title": "Canicule en France: de nombreux hôpitaux attendent toujours les climatiseurs promis par le gouvernement",
-          "description": "Plus de dix départements du sud-est restent maintenus en vigilance orange canicule par Météo-France, vendredi 17 juillet. Si les fortes chaleurs reculent, elles ont durement touché les hôpitaux publics. Trois semaines après les promesses du gouvernement de livrer plusieurs milliers de climatiseurs, de nombreux établissements les attendent toujours. Une attente qui alimente la colère et le sentiment d'impréparation chez les soignants.",
-          "url": "https://www.rfi.fr/fr/france/20260717-canicule-en-france-de-nombreux-h%C3%B4pitaux-attendent-toujours-les-climatiseurs-promis-par-le-gouvernement",
-          "imageUrl": "https://s.rfi.fr/media/display/c2b66980-8204-11f1-ae8c-005056a90284/w:1024/p:16x9/2026-07-09T135320Z-333912527-RC29AMAQ9ONW-RTRMADP-3-EUROPE-WEATHER-FRANCE-HOSPITAL.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-17T20:23:03.000Z",
-          "fetchedAt": "2026-07-18T03:37:09.145Z"
-        },
-        {
-          "id": "2026-07-17-49ebac5a",
-          "title": "Pourquoi la guerre hybride menée par la Russie pousse la France à hausser le ton",
-          "description": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par les services français. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué vendredi 17 juillet par le ministre des affaires étrangères.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html",
+          "id": "2026-07-19-962793aa",
+          "title": "EN DIRECT, guerre en Iran : les Etats-Unis bombardent à nouveau l’Iran, après la mort de deux soldats américains en Jordanie",
+          "description": "« Les forces américaines ont commencé à lancer de nouvelles frappes aériennes contre l’Iran sur ordre du commandant en chef », a écrit sur X, dans la nuit de samedi à dimanche, le commandement militaire américain pour le Moyen-Orient.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-iran-les-etats-unis-bombardent-a-nouveau-l-iran-apres-la-mort-de-deux-soldats-americains-en-jordanie_6725301_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-17T18:03:43.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.149Z"
+          "publishedAt": "2026-07-19T03:29:33.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.217Z"
         },
         {
-          "id": "2026-07-17-b25a37c2",
-          "title": "La France entre dans l’ère de la “généalogie génétique”",
-          "description": "Le 9 juillet, le Parlement français a adopté un projet de loi sur la justice criminelle, ouvrant la voie à l’exploitation des bases de données génétiques dites “récréative”. “The Wall Street Journal” fait le récit d’une affaire criminelle résolue par la police française grâce aux bases de données de sociétés privées à l’étranger. Cette pratique, aux frontières de la légalité à l’époque, inquiète les associations de défense de la vie privée et demeure critiquée par les parlementaires de gauche.",
-          "url": "https://www.courrierinternational.com/article/criminalite-la-france-entre-dans-l-ere-de-la-genealogie-genetique_250455",
-          "imageUrl": null,
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-17T16:15:11.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.185Z"
-        },
-        {
-          "id": "2026-07-17-f72ad75c",
-          "title": "Pourquoi la France vient-elle de bloquer l'accès à Polymarket, la plateforme controversée de paris?",
-          "description": "Les transactions sur Polymarket étaient déjà interdites dans l'Hexagone depuis novembre 2024. Avec ce blocage, il est désormais impossible de se rendre sur le site qui permet de parier sur virtuellement n'importe quelle situation, en dépit de la vraisemblance ou de la morale.",
-          "url": "https://www.rfi.fr/fr/france/20260717-pourquoi-la-france-vient-elle-de-bloquer-l-acc%C3%A8s-%C3%A0-polymarket-la-plateforme-controvers%C3%A9e-de-paris",
-          "imageUrl": "https://s.rfi.fr/media/display/47988e7a-81ed-11f1-a6a4-005056bf30b7/w:1024/p:16x9/AP26188721662047.jpg",
+          "id": "2026-07-19-027af4a9",
+          "title": "L'Irak et les États-Unis signent des accords économiques et amorcent une redéfinition de leurs relations",
+          "description": "Le premier ministre irakien Ali al-Zaïdi a terminé samedi 18 juillet 2026 sa première visite officielle aux États-Unis. Après cinq jours de rencontres officielles dont un tête à tête avec Donald Trump et la tenue d’un sommet d’affaires irako-américain, une cinquantaine d’accords et partenariats ont été signés. Ils pourraient transformer les relations entre les deux pays, jusqu’à présent très concentrées sur les questions militaro-sécuritaires.",
+          "url": "https://www.rfi.fr/fr/monde/20260719-l-irak-et-les-%C3%A9tats-unis-signent-des-accords-%C3%A9conomiques-et-amorcent-une-red%C3%A9finition-de-leurs-relations",
+          "imageUrl": "https://s.rfi.fr/media/display/1642bd7a-831c-11f1-be00-005056bfb2b6/w:1024/p:16x9/AP26195601839284.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-17T15:24:26.000Z",
-          "fetchedAt": "2026-07-18T03:37:09.145Z"
+          "publishedAt": "2026-07-19T03:05:56.000Z",
+          "fetchedAt": "2026-07-19T03:59:38.869Z"
         },
         {
-          "id": "2026-07-17-2ea0c968",
-          "title": "Emmanuel Macron appelle à se « méfier » des sondages prédisant la victoire de Marine Le Pen en 2027",
-          "description": "Le président français s’exprimait au cours d’une conférence de presse conjointe avec le chancelier allemand, Friedrich Merz, qui a, de son côté, promis de « tendre la main » à tout dirigeant qui sera élu en France.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/17/emmanuel-macron-appelle-a-se-mefier-des-sondages-predisant-la-victoire-de-marine-le-pen-en-2027_6724214_823448.html",
+          "id": "2026-07-19-faf7dee8",
+          "title": "Guerre en Iran : Donald Trump est poussé à l’escalade par la mort de deux soldats américains",
+          "description": "La reprise des frappes et autres intimidations entre Américains et Iraniens, depuis le 7 juillet, enterre chaque jour un peu plus le protocole d’accord signé au mois de juin. Le président des Etats-Unis, en recherche d’une stratégie, semble désemparé face à l’enlisement du conflit.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/19/guerre-en-iran-donald-trump-est-pousse-a-l-escalade-par-la-mort-de-deux-soldats-americains_6725299_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-17T15:19:56.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.149Z"
+          "publishedAt": "2026-07-19T03:01:27.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.217Z"
+        },
+        {
+          "id": "2026-07-19-46b5e0e3",
+          "title": "L’influenceur masculiniste Andrew Tate et son frère arrêtés aux Etats-Unis, à la demande du Royaume-Uni qui réclame leur extradition",
+          "description": "Les deux frères sont recherchés au Royaume-Uni pour « viols, complicité d’exploitation sexuelle et infractions liées à des images indécentes d’un enfant », a fait savoir le parquet britannique, dans un communiqué.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/19/l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis-a-la-demande-du-royaume-uni-qui-reclame-leur-extradition_6725297_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-19T02:41:57.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.217Z"
+        },
+        {
+          "id": "2026-07-19-45f944bb",
+          "title": "Guerre au Moyen-Orient: l'Iran vise toujours plus de cibles dans la région, un embrasement redouté",
+          "description": "Deux soldats américains sont morts dans des frappes iraniennes en Jordanie, a annoncé Washington samedi 18 juillet. Ce sont les premiers depuis la reprise des hostilités au début du mois. Un autre soldat est porté disparu. C'est un nouveau tournant dans le conflit entre les États-Unis et l'Iran. Téhéran, qui a également visé des infrastructures civiles au Koweït, notamment une usine de dessalement d'eau, affirme ne plus être lié par le protocole d'accord du 17 juin. L'escalade se poursuit et éloigne le maigre espoir d'un apaisement.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260719-guerre-au-moyen-orient-l-iran-vise-toujours-plus-de-cibles-dans-la-r%C3%A9gion-un-embrasement-redout%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/d0c4b93c-8303-11f1-a857-005056bf30b7/w:1024/p:16x9/KOWEIT-IRAN-MOYEN-ORIENT-GUERRE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-19T00:50:42.000Z",
+          "fetchedAt": "2026-07-19T03:59:38.869Z"
+        },
+        {
+          "id": "2026-07-18-2101f7a0",
+          "title": "Guerre en Iran : l’armée américaine annonce la mort de deux militaires et la disparition d’un troisième en Jordanie. Retrouvez les informations du 12 au 18 juillet.",
+          "description": "Pour Mojtaba Khamenei, « la violation répétée » du protocole d’accord « a une fois de plus démontré à tous que la signature du président américain est sans valeur », a-t-il déclaré dans un message écrit.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-iran-l-armee-americaine-annonce-la-mort-de-deux-militaires-et-la-disparition-d-un-troisieme-en-jordanie-le-guide-supreme-menace-d-infliger-aux-etats-unis-des-lecons-inoubliables_6722873_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-18T21:02:45.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.217Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a frappé des infrastructu",
+      "id": "cluster-5",
+      "topic": "Mais pourquoi les Français aiment-ils donc tant passer leurs vacances en Irlande",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-18-6e82a410",
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a frappé des infrastructures militaires et des dépôts d’armes souterrains en Iran",
-          "description": "L’Iran a fait état de trois morts lors de frappes américaines dans le sud du pays et a répliqué ; l’armée jordanienne affirme avoir intercepté dix missiles ; le Bahreïn et le Koweït ont aussi été ciblés par Téhéran.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-frappe-des-infrastructures-militaires-et-des-depots-d-armes-souterrains-en-iran_6722873_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-07-19-387e5ec4",
+          "title": "Mais pourquoi les Français aiment-ils donc tant passer leurs vacances en Irlande ?",
+          "description": "Propriétaire d’un gîte à Cork, cette chroniqueuse du journal conservateur britannique “The Spectator” s’étonne que tant de Français persistent à visiter son pays pluvieux et “peuplé d’agriculteurs lunatiques”, où ils ne trouveront qu’“une nourriture à peine consommable à un prix extravagant”. Selon elle, ces touristes se sont trompés quelque part, même s’ils refuseront de le reconnaître.",
+          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-mais-pourquoi-les-francais-aiment-ils-donc-tant-passer-leurs-vacances-en-irlande_246563",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/17/0/0/1023/682/1200/630/60/0/4c37c33_upload-1-dlplt8yv5wcz-075-widak-dailycon210425-npbp8.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-18T03:13:38.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.149Z"
+          "publishedAt": "2026-07-19T03:00:22.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.614Z"
         },
         {
-          "id": "2026-07-18-20462fad",
-          "title": "Ebola: plusieurs travailleurs humanitaires américains placés en quarantaine au Kenya",
-          "description": "Plusieurs ressortissants américains ayant été en première ligne de la lutte contre le virus Ebola en RDC sont actuellement à l'isolement dans un centre au Kenya, dans un centre géré par le Centre de contrôle des maladies américain. Une information confirmée à RFI ce vendredi 17 juillet 2026 par un responsable du département d’État américain, qui évoque « une mesure de précaution ». Washington exige de ses ressortissants ayant été en RDC un isolement de 21 jours dans un pays tiers avant de rentrer aux États-Unis. La justice kényane a pourtant suspendu l’ouverture de ce centre d’isolement américain au Kenya.",
-          "url": "https://www.rfi.fr/fr/afrique/20260718-ebola-plusieurs-travailleurs-humanitaires-am%C3%A9ricains-plac%C3%A9s-en-quarantaine-au-kenya",
-          "imageUrl": "https://s.rfi.fr/media/display/64fda380-6b5c-11f1-bf19-005056a90284/w:1024/p:16x9/2026-06-18T205059Z-1276552314-RC2CULAAFCHT-RTRMADP-3-HEALTH-EBOLA-CONGO-DATA.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-18T01:45:03.000Z",
-          "fetchedAt": "2026-07-18T03:37:09.145Z"
-        },
-        {
-          "id": "2026-07-17-bb40dca1",
-          "title": "Les frappes américaines sur l'Iran se poursuivent, les infrastructures civiles prises pour cible",
-          "description": "L'armée américaine a annoncé vendredi mener une nouvelle série de frappes contre l'Iran, après que Téhéran a riposté en visant des pays du Golfe alliés de Washington. De chaque côté, des dégâts ont été constatés sur des infrastructures civiles.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260717-frappes-am%C3%A9ricaines-iran-infrastructures-civiles-prises-pour-cible-kowe%C3%AFt-qatar",
-          "imageUrl": "https://s.france24.com/media/display/58c52ebc-821d-11f1-950f-005056a90284/w:1024/p:16x9/000-C2GD963-1.jpg",
+          "id": "2026-07-18-62ef9075",
+          "title": "Quels enjeux pour la petite finale du Mondial 2026, France-Angleterre ?",
+          "description": "La « petite finale » du Mondial 2026, France-Angleterre, a une saveur particulière : ce sera la dernière de Didier Deschamps en tant que sélectionneur de l'équipe de France. Récit d’Axelle Simon.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260718-quels-enjeux-pour-la-petite-finale-du-mondial-2026-france-angleterre",
+          "imageUrl": "https://s.france24.com/media/display/a3bf493c-82bf-11f1-8226-005056a90284/w:1024/p:16x9/FR-20260718-171258-171434-CS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-17T20:33:09.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.174Z"
+          "publishedAt": "2026-07-18T15:49:07.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.275Z"
         },
         {
-          "id": "2026-07-17-fa8c929e",
-          "title": "Guerre Iran/Etats-Unis, manifestations en Ukraine et bras de fer entre Washington et Pékin",
-          "description": "Les tensions internationales dominent l'actualité avec la reprise des hostilités entre les États-Unis et l'Iran au Moyen-Orient, le soutien renouvelé des Européens à l'Ukraine lors de la réunion de la coalition des volontaires à Paris, et les annonces de Donald Trump lors de son discours à la nation dans lequel il réaffirme avoir remporté l'élection de 2020 et évoque un \"État profond\" qui aurait dissimulé les preuves d'une ingérence chinoise.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260717-guerre-iran-etats-unis-manifestations-en-ukraine-et-bras-de-fer-entre-washington-et-p%C3%A9kin",
-          "imageUrl": "https://s.france24.com/media/display/2003fc70-8209-11f1-a2be-005056a97e36/w:1024/p:16x9/Francais-2026-07-17T17-56-09-924Z.jpg",
+          "id": "2026-07-18-eee93303",
+          "title": "“Bienvenue. Vous êtes les témoins de la fin d’un monde” : l’assourdissant silence politique sur la chaleur en France",
+          "description": "Une forêt emblématique en flammes, des récoltes qui se dessèchent et même des routes qui fondent en Bretagne : la France souffre de la canicule. Les Français avancent dans l’été, le cerveau embrumé, mais les responsables politiques restent silencieux sur un sujet trop vaste pour de beaux discours, observe ce journaliste allemand.",
+          "url": "https://www.courrierinternational.com/long-format/vu-d-allemagne-bienvenue-vous-etes-les-temoins-de-la-fin-d-un-monde-l-assourdissant-silence-politique-sur-la-chaleur-en-france_250360",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/17/0/0/3000/2000/1200/630/60/0/7732fc9_upload-1-hntdzylwgvqm-w-chappatte-2026-05-30-5673.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-18T13:39:31.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.614Z"
+        },
+        {
+          "id": "2026-07-18-2860654d",
+          "title": "Le retour du duo franco-allemand ? Macron et Merz renforcent leur alliance militaire",
+          "description": "L'Allemagne va participer \"avant la fin de l'année\" à un exercice français de dissuasion nucléaire, ont annoncé les dirigeants allemand et français hier soir à l'issue d'un conseil des ministres bilatéral dans l'ouest de l'Allemagne où Emmanuel Macron était reçu. Récit d’Axelle Simon.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260718-le-retour-du-duo-franco-allemand-macron-et-merz-renforcent-leur-alliance-militaire",
+          "imageUrl": "https://s.france24.com/media/display/2b948038-82a3-11f1-9221-005056a90284/w:1024/p:16x9/FR-20260718-120540-120739-CS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-17T18:26:52.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.174Z"
-        },
-        {
-          "id": "2026-07-17-21906854",
-          "title": "Ebola : au Kenya, plusieurs Américains ont été placés en quarantaine ; le gouvernement dit ne pas en avoir été informé",
-          "description": "C’est la première fois que les Etats-Unis confirment la présence d’Américains dans ce centre géré par le Centre de contrôle des maladies américain – un projet pourtant suspendu par la justice kényane.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/07/17/ebola-au-kenya-plusieurs-americains-ont-ete-places-en-quarantaine-le-gouvernement-dit-ne-pas-en-avoir-ete-informe_6724231_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-17T17:48:03.000Z",
-          "fetchedAt": "2026-07-18T03:37:03.149Z"
-        },
-        {
-          "id": "2026-07-17-4ee46635",
-          "title": "«L'Iran n'a pas besoin de vaincre militairement les États-Unis», analyse Thibault Fouillet, directeur du CAPRI",
-          "description": "La violence des échanges de frappes entre États-Unis et Iran est montée d'un cran vendredi 17 juillet, avec des installations civiles iraniennes touchées. Difficile d'imaginer une sortie de conflit sans négociations de paix, mais la marge de manœuvre américaine est réduite par l'Iran, qui conserve une certaine capacité de nuisance. Une analyse de Thibault Fouillet, directeur scientifique du Centre d'analyse et de prévision des risques internationaux.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260717-l-iran-n-a-pas-besoin-de-vaincre-militairement-les-%C3%A9tats-unis-analyse-thibault-fouillet-directeur-du-capri",
-          "imageUrl": "https://s.rfi.fr/media/display/4938a8e4-81ea-11f1-9ff9-005056a97e36/w:1024/p:16x9/AP26048655346213.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-17T15:55:03.000Z",
-          "fetchedAt": "2026-07-18T03:37:09.145Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-11",
-      "topic": "Quand direction et syndicats cherchent un chemin commun face au réchauffement cl",
-      "category": "eco",
-      "importance": 8,
-      "articles": [
-        {
-          "id": "2026-07-17-b92bbf48",
-          "title": "Quand direction et syndicats cherchent un chemin commun face au réchauffement climatique",
-          "description": "Depuis septembre 2025, le parcours « dialogue social et environnemental » de la Convention des entreprises pour le climat réunit des délégations paritaires pour les aider à dessiner des mesures d’adaptation et d’atténuation.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/17/quand-direction-et-syndicats-cherchent-un-chemin-commun-face-au-rechauffement-climatique-comment-faire-pour-que-quand-on-avance-on-embarque-tout-le-monde_6724200_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-17T14:00:07.000Z",
-          "fetchedAt": "2026-07-18T03:37:12.137Z"
-        },
-        {
-          "id": "2026-07-17-ab975226",
-          "title": "Un rapport du Sénat appelle à réformer le financement du Centre national de la musique",
-          "description": "Les deux rapporteuses plaident pour déplafonner les ressources du CNM et mieux cibler la diversité des esthétiques et des petits acteurs.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/17/un-rapport-du-senat-appelle-a-reformer-le-financement-du-centre-national-de-la-musique_6724197_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-17T13:38:31.000Z",
-          "fetchedAt": "2026-07-18T03:37:12.137Z"
-        },
-        {
-          "id": "2026-07-17-67a59196",
-          "title": "L’or, une « valeur refuge » plus incertaine qu’auparavant",
-          "description": "Le métal jaune n’a pas bénéficié de la guerre au Moyen-Orient, bien au contraire : son cours a chuté de plus de 20 % pendant cette période.",
-          "url": "https://www.lemonde.fr/argent/article/2026/07/17/l-or-une-valeur-refuge-plus-incertaine-qu-auparavant_6724125_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-07-17T04:00:11.000Z",
-          "fetchedAt": "2026-07-18T03:37:12.137Z"
+          "publishedAt": "2026-07-18T12:30:34.000Z",
+          "fetchedAt": "2026-07-19T03:59:24.275Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbr",
+      "topic": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
       "category": "tech",
-      "importance": 7,
+      "importance": 6,
       "articles": [
         {
-          "id": "2026-07-17-78af04c8",
-          "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-          "description": "Agriculture - Harvested Iceberg lettuce / Santa Maria, California, USA. (Photo by: Tony Hertz /Design Pics Editorial/Universal Images Group via Getty Images)\t\n\nFood producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell and the food distributor Sysco on Thursday to pull shredded lettuce that had been produced initially as 5-pound bags at a facility in Guanajuato, Mexico, from distribution.\nTaco Bell said on Thursday that \"The affected ingredient from our supplier is being indefinitely removed from our supply chain nationwide and will be replaced within 24 hours  …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2139547139.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-07-18-864e6e00",
+          "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+          "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being relentlessly prolific, or how to excel in multiple fields. Instead, he apparently laced into the company. According to the Financial Times, Eggers told the staff:\n\"The effect of ChatGPT on educators' lives is catastrophic. Whether you intended to do it or not, you've made every teache …\n\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-07-17T22:09:47.000Z",
-          "fetchedAt": "2026-07-18T03:37:12.107Z"
+          "publishedAt": "2026-07-18T20:54:42.000Z",
+          "fetchedAt": "2026-07-19T03:59:44.528Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-14",
+      "topic": "China hits out at British Steel nationalisation",
+      "category": "eco",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-07-17-5ddc6689",
+          "title": "China hits out at British Steel nationalisation",
+          "description": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+          "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1b8/live/e08168e0-81e4-11f1-bee8-53ce494e1abc.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-07-17T16:44:22.000Z",
+          "fetchedAt": "2026-07-19T03:59:48.790Z"
+        },
+        {
+          "id": "2026-07-17-f6b0b1fb",
+          "title": "Why has British Steel been nationalised?",
+          "description": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
+          "url": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd74/live/2edfb1c0-81e2-11f1-bee8-53ce494e1abc.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-07-17T09:57:02.000Z",
+          "fetchedAt": "2026-07-19T03:59:48.790Z"
         }
       ]
     }
