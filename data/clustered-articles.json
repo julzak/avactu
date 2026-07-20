@@ -1,220 +1,286 @@
 {
-  "generatedAt": "2026-07-19T04:03:24.730Z",
+  "generatedAt": "2026-07-20T04:12:06.295Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "EN DIRECT, guerre en Ukraine : au moins un mort dans des frappes visant Kiev, au",
+      "id": "cluster-4",
+      "topic": "EN DIRECT, guerre en Ukraine : la région de Moscou visée par plus de 400 drones,",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-19-01fb8ee3",
-          "title": "EN DIRECT, guerre en Ukraine : au moins un mort dans des frappes visant Kiev, au lendemain d’attaques ukrainiennes meurtrières en Russie",
-          "description": "Depuis juin, la capitale ukrainienne est régulièrement visée par des frappes russes menées à l’aide de missiles balistiques, rapides et plus difficiles à intercepter que les drones ou les missiles de croisière.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-au-moins-un-mort-dans-des-frappes-visant-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-en-russie_6725306_3210.html",
+          "id": "2026-07-20-0de6d082",
+          "title": "EN DIRECT, guerre en Ukraine : la région de Moscou visée par plus de 400 drones, « la plupart » interceptés, selon le maire de la capitale russe",
+          "description": "Ces frappes interviennent alors que la capitale ukrainienne, Kiev, a été touchée, dans la nuit de samedi à dimanche, par l’une des « plus importantes attaques de missiles balistiques » depuis le début de la guerre, selon le président Volodymyr Zelensky.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-la-region-de-moscou-visee-par-plus-de-400-drones-la-plupart-interceptes-selon-le-maire-de-la-capitale-russe_6725306_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-19T03:42:31.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.217Z"
+          "publishedAt": "2026-07-20T03:49:44.000Z",
+          "fetchedAt": "2026-07-20T04:08:05.909Z"
         },
         {
-          "id": "2026-07-18-a2a0d491",
-          "title": "Guerre en Ukraine : Volodymyr Zelensky assure aux Ukrainiens qu’il entend leurs revendications, après une nouvelle manifestation à Kiev. Retrouvez les informations du 12 au 18 juillet.",
-          "description": "Dans les grandes villes d’Ukraine, notamment à Kiev, des milliers de personnes se sont rassemblées pour la troisième journée consécutive pour réclamer le départ du chef de l’armée, Oleksandr Syrsky, et le retour de Mykhaïlo Fedorov au ministère de la défense.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-soixante-neuf-affrontements-sur-le-front-depuis-le-debut-de-la-journee-selon-l-etat-major-ukrainien_6722853_3210.html",
+          "id": "2026-07-19-0b086cb3",
+          "title": "En Russie, le discours antiguerre ne passe toujours pas à deux mois des élections législatives",
+          "description": "Le Kremlin s’acharne à museler les rares candidats à la députation opposés à la guerre en Ukraine, alors que la population et quelques industriels se prennent à imaginer la paix.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/19/en-russie-le-discours-antiguerre-ne-passe-toujours-pas_6725998_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-18T16:06:43.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.217Z"
+          "publishedAt": "2026-07-19T15:00:05.000Z",
+          "fetchedAt": "2026-07-20T04:08:05.909Z"
         },
         {
-          "id": "2026-07-18-78b2c5ca",
-          "title": "Russie: une vague d'attaques ukrainiennes de drones fait plusieurs morts, selon les autorités locales",
-          "description": "Une attaque de drones ukrainienne contre deux centres logistiques a fait au moins huit morts en Russie, et l'incendie d'un dépôt de pétrole dans la région de Moscou a entraîné l'évacuation d'une maternité, ont annoncé samedi 18 juillet les autorités locales. Dans la nuit du 17 au 18 juillet, la région de Moscou a été visée par plus de 370 drones ukrainiens, pour la plupart abattus.",
-          "url": "https://www.rfi.fr/fr/europe/20260718-russie-une-vague-d-attaques-ukrainiennes-de-drones-fait-plusieurs-morts-selon-les-autorit%C3%A9s-locales",
-          "imageUrl": "https://s.rfi.fr/media/display/f4c3c4d6-8290-11f1-a9f1-005056a97e36/w:1024/p:16x9/2026-07-18T094243Z-508980871-RC29GMASUKSP-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-ATTACKS.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-18T10:44:44.000Z",
-          "fetchedAt": "2026-07-19T03:59:38.869Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "EN DIRECT, guerre en Iran : les Etats-Unis bombardent à nouveau l’Iran, après la",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-19-962793aa",
-          "title": "EN DIRECT, guerre en Iran : les Etats-Unis bombardent à nouveau l’Iran, après la mort de deux soldats américains en Jordanie",
-          "description": "« Les forces américaines ont commencé à lancer de nouvelles frappes aériennes contre l’Iran sur ordre du commandant en chef », a écrit sur X, dans la nuit de samedi à dimanche, le commandement militaire américain pour le Moyen-Orient.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-iran-les-etats-unis-bombardent-a-nouveau-l-iran-apres-la-mort-de-deux-soldats-americains-en-jordanie_6725301_3210.html",
+          "id": "2026-07-19-b870ceeb",
+          "title": "En images : les dégâts à Kiev après une frappe massive de missiles balistiques russes",
+          "description": "La Russie a lancé 40 missiles et 120 drones sur Kiev au cours de la nuit du 18 au 19 juillet.",
+          "url": "https://www.lemonde.fr/videos/video/2026/07/19/en-images-les-degats-a-kiev-apres-une-frappe-massive-de-missiles-balistiques-russes_6725960_1669088.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-19T03:29:33.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.217Z"
+          "publishedAt": "2026-07-19T13:46:56.000Z",
+          "fetchedAt": "2026-07-20T04:08:05.909Z"
         },
         {
-          "id": "2026-07-19-027af4a9",
-          "title": "L'Irak et les États-Unis signent des accords économiques et amorcent une redéfinition de leurs relations",
-          "description": "Le premier ministre irakien Ali al-Zaïdi a terminé samedi 18 juillet 2026 sa première visite officielle aux États-Unis. Après cinq jours de rencontres officielles dont un tête à tête avec Donald Trump et la tenue d’un sommet d’affaires irako-américain, une cinquantaine d’accords et partenariats ont été signés. Ils pourraient transformer les relations entre les deux pays, jusqu’à présent très concentrées sur les questions militaro-sécuritaires.",
-          "url": "https://www.rfi.fr/fr/monde/20260719-l-irak-et-les-%C3%A9tats-unis-signent-des-accords-%C3%A9conomiques-et-amorcent-une-red%C3%A9finition-de-leurs-relations",
-          "imageUrl": "https://s.rfi.fr/media/display/1642bd7a-831c-11f1-be00-005056bfb2b6/w:1024/p:16x9/AP26195601839284.jpg",
-          "source": "RFI",
+          "id": "2026-07-19-93b42109",
+          "title": "Manifestations à Kiev malgré de puissantes explosions suite à des attaques russes",
+          "description": "Kiev a été de nouveau bombardée. La Russie décrit des représailles après une attaque de drones contre des centres logistiques près de Moscou. En Ukraine, les explosions ont provoqué des incendies dans un immeuble résidentiel et un centre commercial. Le bilan pour le moment fait état d'un mort, mais il y a de nombreux blessés. En direct de Kiev, notre correspondante Emmanuel Chaze rapporte que les habitants n'ont pas eu le temps de se mettre à l'abri.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260719-manifestations-%C3%A0-kiev-malgr%C3%A9-de-puissantes-explosions-suite-%C3%A0-des-attaques-russes",
+          "imageUrl": "https://s.france24.com/media/display/312d1fec-8374-11f1-b192-005056bfb2b6/w:1024/p:16x9/FR-20260719-130119-130551-CS.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-19T03:05:56.000Z",
-          "fetchedAt": "2026-07-19T03:59:38.869Z"
-        },
-        {
-          "id": "2026-07-19-faf7dee8",
-          "title": "Guerre en Iran : Donald Trump est poussé à l’escalade par la mort de deux soldats américains",
-          "description": "La reprise des frappes et autres intimidations entre Américains et Iraniens, depuis le 7 juillet, enterre chaque jour un peu plus le protocole d’accord signé au mois de juin. Le président des Etats-Unis, en recherche d’une stratégie, semble désemparé face à l’enlisement du conflit.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/19/guerre-en-iran-donald-trump-est-pousse-a-l-escalade-par-la-mort-de-deux-soldats-americains_6725299_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-19T03:01:27.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.217Z"
-        },
-        {
-          "id": "2026-07-19-46b5e0e3",
-          "title": "L’influenceur masculiniste Andrew Tate et son frère arrêtés aux Etats-Unis, à la demande du Royaume-Uni qui réclame leur extradition",
-          "description": "Les deux frères sont recherchés au Royaume-Uni pour « viols, complicité d’exploitation sexuelle et infractions liées à des images indécentes d’un enfant », a fait savoir le parquet britannique, dans un communiqué.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/19/l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis-a-la-demande-du-royaume-uni-qui-reclame-leur-extradition_6725297_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-19T02:41:57.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.217Z"
-        },
-        {
-          "id": "2026-07-19-45f944bb",
-          "title": "Guerre au Moyen-Orient: l'Iran vise toujours plus de cibles dans la région, un embrasement redouté",
-          "description": "Deux soldats américains sont morts dans des frappes iraniennes en Jordanie, a annoncé Washington samedi 18 juillet. Ce sont les premiers depuis la reprise des hostilités au début du mois. Un autre soldat est porté disparu. C'est un nouveau tournant dans le conflit entre les États-Unis et l'Iran. Téhéran, qui a également visé des infrastructures civiles au Koweït, notamment une usine de dessalement d'eau, affirme ne plus être lié par le protocole d'accord du 17 juin. L'escalade se poursuit et éloigne le maigre espoir d'un apaisement.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260719-guerre-au-moyen-orient-l-iran-vise-toujours-plus-de-cibles-dans-la-r%C3%A9gion-un-embrasement-redout%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/d0c4b93c-8303-11f1-a857-005056bf30b7/w:1024/p:16x9/KOWEIT-IRAN-MOYEN-ORIENT-GUERRE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-19T00:50:42.000Z",
-          "fetchedAt": "2026-07-19T03:59:38.869Z"
-        },
-        {
-          "id": "2026-07-18-2101f7a0",
-          "title": "Guerre en Iran : l’armée américaine annonce la mort de deux militaires et la disparition d’un troisième en Jordanie. Retrouvez les informations du 12 au 18 juillet.",
-          "description": "Pour Mojtaba Khamenei, « la violation répétée » du protocole d’accord « a une fois de plus démontré à tous que la signature du président américain est sans valeur », a-t-il déclaré dans un message écrit.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-iran-l-armee-americaine-annonce-la-mort-de-deux-militaires-et-la-disparition-d-un-troisieme-en-jordanie-le-guide-supreme-menace-d-infliger-aux-etats-unis-des-lecons-inoubliables_6722873_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-18T21:02:45.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.217Z"
+          "publishedAt": "2026-07-19T13:19:19.000Z",
+          "fetchedAt": "2026-07-20T04:08:05.927Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "Mais pourquoi les Français aiment-ils donc tant passer leurs vacances en Irlande",
+      "topic": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a bombardé l’Iran pour la",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-19-387e5ec4",
-          "title": "Mais pourquoi les Français aiment-ils donc tant passer leurs vacances en Irlande ?",
-          "description": "Propriétaire d’un gîte à Cork, cette chroniqueuse du journal conservateur britannique “The Spectator” s’étonne que tant de Français persistent à visiter son pays pluvieux et “peuplé d’agriculteurs lunatiques”, où ils ne trouveront qu’“une nourriture à peine consommable à un prix extravagant”. Selon elle, ces touristes se sont trompés quelque part, même s’ils refuseront de le reconnaître.",
-          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-mais-pourquoi-les-francais-aiment-ils-donc-tant-passer-leurs-vacances-en-irlande_246563",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/17/0/0/1023/682/1200/630/60/0/4c37c33_upload-1-dlplt8yv5wcz-075-widak-dailycon210425-npbp8.jpg",
-          "source": "Courrier International",
+          "id": "2026-07-20-673fb1a1",
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a bombardé l’Iran pour la neuvième nuit de suite après la mort de plusieurs de ses soldats",
+          "description": "Les Etats-Unis ont annoncé avoir visé, entre autres, des centres de commandement et à des réseaux de communication iraniens, au cours de ces nouvelles frappes. Les gardiens de la révolution iraniens ont, quant à eux, affirmé avoir arrêté deux pétroliers dans le détroit d’Ormuz et ciblé des avions américains en Jordanie avec des missiles.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-bombarde-l-iran-pour-la-neuvieme-nuit-de-suite-apres-la-mort-de-plusieurs-de-ses-soldats_6725301_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-19T03:00:22.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.614Z"
+          "publishedAt": "2026-07-20T03:39:50.000Z",
+          "fetchedAt": "2026-07-20T04:08:05.909Z"
         },
         {
-          "id": "2026-07-18-62ef9075",
-          "title": "Quels enjeux pour la petite finale du Mondial 2026, France-Angleterre ?",
-          "description": "La « petite finale » du Mondial 2026, France-Angleterre, a une saveur particulière : ce sera la dernière de Didier Deschamps en tant que sélectionneur de l'équipe de France. Récit d’Axelle Simon.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260718-quels-enjeux-pour-la-petite-finale-du-mondial-2026-france-angleterre",
-          "imageUrl": "https://s.france24.com/media/display/a3bf493c-82bf-11f1-8226-005056a90284/w:1024/p:16x9/FR-20260718-171258-171434-CS.jpg",
+          "id": "2026-07-19-c37c60dc",
+          "title": "En direct : 9e nuit de frappes ayant ciblé les \"centres de commandement\" en Iran, un navire en feu à Ormuz",
+          "description": "Un navire est en feu lundi matin dans le détroit d'Ormuz, a annoncé UKMTO. Donald Trump a affirmé que les États-Unis ont frappé \"très durement\" l'Iran pour venger les soldats américains tués ces derniers jours. L'armée américaine a dit avoir visé des réseaux de communication et des centres de commandement. Les Gardiens de la révolution ont riposté en frappant des avions de l'armée américaine en Jordanie et revendiquant l'attaque de deux pétroliers dans le détroit d'Ormuz. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260719-en-direct-9e-nuit-frappes-americaines-iran-attaque-frappes-centre-de-commandement-syrie-liban-etats-unis-gardiens-revolution-pays-golfe-koweit-bahrein-jordanie",
+          "imageUrl": "https://s.france24.com/media/display/306f1930-83cd-11f1-9c22-005056bf30b7/w:1024/p:16x9/000-C2JR9DW.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-18T15:49:07.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.275Z"
+          "publishedAt": "2026-07-19T23:58:24.000Z",
+          "fetchedAt": "2026-07-20T04:08:05.927Z"
         },
         {
-          "id": "2026-07-18-eee93303",
-          "title": "“Bienvenue. Vous êtes les témoins de la fin d’un monde” : l’assourdissant silence politique sur la chaleur en France",
-          "description": "Une forêt emblématique en flammes, des récoltes qui se dessèchent et même des routes qui fondent en Bretagne : la France souffre de la canicule. Les Français avancent dans l’été, le cerveau embrumé, mais les responsables politiques restent silencieux sur un sujet trop vaste pour de beaux discours, observe ce journaliste allemand.",
-          "url": "https://www.courrierinternational.com/long-format/vu-d-allemagne-bienvenue-vous-etes-les-temoins-de-la-fin-d-un-monde-l-assourdissant-silence-politique-sur-la-chaleur-en-france_250360",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/17/0/0/3000/2000/1200/630/60/0/7732fc9_upload-1-hntdzylwgvqm-w-chappatte-2026-05-30-5673.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-18T13:39:31.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.614Z"
-        },
-        {
-          "id": "2026-07-18-2860654d",
-          "title": "Le retour du duo franco-allemand ? Macron et Merz renforcent leur alliance militaire",
-          "description": "L'Allemagne va participer \"avant la fin de l'année\" à un exercice français de dissuasion nucléaire, ont annoncé les dirigeants allemand et français hier soir à l'issue d'un conseil des ministres bilatéral dans l'ouest de l'Allemagne où Emmanuel Macron était reçu. Récit d’Axelle Simon.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260718-le-retour-du-duo-franco-allemand-macron-et-merz-renforcent-leur-alliance-militaire",
-          "imageUrl": "https://s.france24.com/media/display/2b948038-82a3-11f1-9221-005056a90284/w:1024/p:16x9/FR-20260718-120540-120739-CS.jpg",
+          "id": "2026-07-19-56e85e47",
+          "title": "Moyen-Orient : un militaire américain tué en Irak, la Jordanie convoque l'ambassadeur iranien",
+          "description": "Le Commandement américain pour le Moyen-Orient a annoncé dimanche la mort d'un militaire lors de la destruction, la veille, d'un drone iranien en Irak. De son côté, la Jordanie, qui a subi de nombreuses attaques ces derniers jours, a convoqué l'ambassadeur iranien.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260719-moyen-orient-un-militaire-am%C3%A9ricain-tu%C3%A9-en-irak-la-jordanie-convoque-ambassadeur-iranien-centcom-guerre",
+          "imageUrl": "https://s.france24.com/media/display/f0353018-832f-11f1-b53e-005056a97e36/w:1024/p:16x9/2026-07-19T044713Z-452431391-RC2SGMA154OH-RTRMADP-3-IRAN-CRISIS-USA.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-18T12:30:34.000Z",
-          "fetchedAt": "2026-07-19T03:59:24.275Z"
+          "publishedAt": "2026-07-19T20:21:46.000Z",
+          "fetchedAt": "2026-07-20T04:08:05.927Z"
+        },
+        {
+          "id": "2026-07-19-7dbfb5ee",
+          "title": "Moyen-Orient: l'Iran mène une «guerre hybride» face aux États-Unis et leurs intérêts régionaux",
+          "description": "Les frappes iraniennes contre la Jordanie et plusieurs pays du Golfe mettent en lumière la stratégie militaire de Téhéran. Selon la presse américaine, les tirs ont fait plusieurs dizaines de blessés parmi les militaires américains et endommagé plusieurs hélicoptères, relançant les interrogations sur la vulnérabilité des bases américaines dans la région.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260719-moyen-orient-l-iran-m%C3%A8ne-une-guerre-hybride-face-aux-%C3%A9tats-unis-et-leurs-int%C3%A9r%C3%AAts-r%C3%A9gionaux",
+          "imageUrl": "https://s.rfi.fr/media/display/061827ca-838d-11f1-9fe8-005056bfb2b6/w:1024/p:16x9/2026-07-18T111700Z-8222887-RC27GMAZSNQ8-RTRMADP-3-IRAN-CRISIS.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-19T19:11:48.000Z",
+          "fetchedAt": "2026-07-20T04:08:21.116Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "category": "tech",
-      "importance": 6,
+      "id": "cluster-7",
+      "topic": "Sécheresse en France : plusieurs incendies ravagent le Var et la Corse",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-07-18-864e6e00",
-          "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-          "description": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being relentlessly prolific, or how to excel in multiple fields. Instead, he apparently laced into the company. According to the Financial Times, Eggers told the staff:\n\"The effect of ChatGPT on educators' lives is catastrophic. Whether you intended to do it or not, you've made every teache …\n\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-07-20-8e71dd27",
+          "title": "Sécheresse en France : plusieurs incendies ravagent le Var et la Corse",
+          "description": "Plusieurs incendies se sont déclenchés dimanche dans les départements du Var et de la Haute-Corse, placés en vigilance orange à la canicule par Météo-France, mobilisant des centaines de pompiers. Alimenté par la sécheresse, le plus virulent feu dans le Var a parcouru près de 200 hectares, quand l'incendie d'Albertacce sur l'île de beauté a ravagé près de 326 hectares.",
+          "url": "https://www.france24.com/fr/france/20260720-secheresse-feu-foret-pompiers-france-plusieurs-incendies-ravagent-var-corse",
+          "imageUrl": "https://s.france24.com/media/display/11f322e2-83e8-11f1-be50-005056bf30b7/w:1024/p:16x9/2026-07-19T193216Z-1454732593-RC27HMAX9JOQ-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-20T03:10:41.000Z",
+          "fetchedAt": "2026-07-20T04:08:05.927Z"
+        },
+        {
+          "id": "2026-07-20-c841667c",
+          "title": "Gabon: les enjeux de la visite du président Brice Oligui Nguema en France",
+          "description": "Le président gabonais Brice Clotaire Oligui Nguema entame ce lundi 20 juillet 2026 une visite d’État en France, à la tête d'une délégation de plus de 80 membres composée de ministres, d'hommes d’affaires et des journalistes. Il sera reçu ce lundi par son homologue Emmanuel Macron au palais de l’Élysée. La visite est placée sous le signe de l’économie et du rééquilibrage des relations bilatérales.",
+          "url": "https://www.rfi.fr/fr/afrique/20260720-gabon-les-enjeux-de-la-visite-du-pr%C3%A9sident-brice-oligui-nguema-en-france",
+          "imageUrl": "https://s.rfi.fr/media/display/2310c8f4-c935-11f0-9ff9-005056bf30b7/w:1024/p:16x9/000-84YX7RL.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-20T02:17:38.000Z",
+          "fetchedAt": "2026-07-20T04:08:21.116Z"
+        },
+        {
+          "id": "2026-07-19-48f8abf9",
+          "title": "France: le Quai d'Orsay recadre après la polémique sur les visas accordés aux ressortissants algériens",
+          "description": "L'ambassadeur de France en Algérie, Stéphane Romatet, avait provoqué un tollé au sein de la droite et de l'extrême-droite françaises en annonçant une augmentation des visas délivrés aux Algériens, lors d'un entretien avec le média local Tout sur l'Algérie. Depuis, le ministère des Affaires étrangères français a été obligé d'apporter des précisions.",
+          "url": "https://www.rfi.fr/fr/france/20260719-france-le-quai-d-orsay-recadre-apr%C3%A8s-la-pol%C3%A9mique-sur-les-visas-accord%C3%A9s-aux-ressortissants-alg%C3%A9riens",
+          "imageUrl": "https://s.rfi.fr/media/display/c5935826-10cc-11ea-b1d4-005056bf7c53/w:1024/p:16x9/000_par8168121_0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-19T21:00:52.000Z",
+          "fetchedAt": "2026-07-20T04:08:21.116Z"
+        },
+        {
+          "id": "2026-07-19-41c05538",
+          "title": "France: les ossements retrouvés dans le Tarn sont bien ceux de Delphine Jubillar",
+          "description": "Les ossements retrouvés dans le Tarn sur les indications de Cédric Jubillar le 16 juillet sont bien ceux de son épouse, Delphine, qui avait disparu fin 2020, a indiqué dimanche 19 juillet le procureur général de Toulouse.",
+          "url": "https://www.rfi.fr/fr/france/20260719-france-les-ossements-retrouv%C3%A9s-dans-le-tarn-sont-bien-ceux-de-delphine-jubillar",
+          "imageUrl": "https://s.rfi.fr/media/display/e0c2bdf6-9732-11f0-9ef2-005056bfb2b6/w:1024/p:16x9/000-74KV8T3.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-19T17:22:51.000Z",
+          "fetchedAt": "2026-07-20T04:08:21.116Z"
+        },
+        {
+          "id": "2026-07-19-2212e9e0",
+          "title": "🔴 Tour de France : Jonas Vingegaard, deuxième au classement, abandonne après une violente chute",
+          "description": "",
+          "url": "https://www.france24.com/fr/sports/20260719-tour-de-france-danois-jonas-vingegaard-deuxi%C3%A8me-classement-g%C3%A9n%C3%A9ral-abandonne-apr%C3%A8s-chute",
+          "imageUrl": "https://s.france24.com/media/display/d66f08c2-838c-11f1-ae85-005056a97e36/w:1280/p:16x9/AP26200581200742.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-19T15:07:51.000Z",
+          "fetchedAt": "2026-07-20T04:08:05.927Z"
+        },
+        {
+          "id": "2026-07-19-a603fb9c",
+          "title": "En France, le RN mène une “guerre culturelle” à l’échelle municipale",
+          "description": "Au début de juin, le maire de Castres a annoncé déprogrammer la pièce “Passeport” d’Alexis Michalik, qui traite des enjeux de l’immigration. Pour le quotidien berlinois “Tageszeitung”, cette décision politique symbolique illustre la “guerre culturelle” menée par les élus locaux du Rassemblement national.",
+          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-en-france-le-rn-mene-une-guerre-culturelle-a-l-echelle-municipale_246919",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/06/0/0/2400/1600/1200/630/60/0/6035ad9_upload-1-3jaoimzaoceg-vlahovic-2018-11-16-2199-w.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-19T10:21:52.000Z",
+          "fetchedAt": "2026-07-20T04:08:06.454Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-19",
+      "topic": "The grueling, 630-mile road race where the only fuel is sunlight",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-19-d9373929",
+          "title": "The grueling, 630-mile road race where the only fuel is sunlight",
+          "description": "The 2018 Solar Car Challenge was the last time participants took their designs out on the open road. | Image: Lehman Marks / Solar Car Challenge\t\n\nOn July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design and build the cars themselves, using off-the-shelf parts and 3D printed materials. The winner is the team that accumulates the most driven miles. And the only fuel they can use to power their Frankenstein-looking vehicles comes from that mass of incandescent gas that hangs in our sky: the Sun.\nThis year is the 30th anniversary of the annual Solar Car Challenge, a contest that brings together high school students from around the country with the on …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/6day44.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-07-18T20:54:42.000Z",
-          "fetchedAt": "2026-07-19T03:59:44.528Z"
+          "publishedAt": "2026-07-19T11:00:00.000Z",
+          "fetchedAt": "2026-07-20T04:08:25.359Z"
+        },
+        {
+          "id": "2026-07-19-e8782815",
+          "title": "Le saviez-vous ? On respire surtout par une seule narine (et le corps alterne toutes les 2 heures)",
+          "description": "Contrairement aux apparences, nous ne respirons presque jamais des deux narines à la fois : découvrez pourquoi notre corps orchestre ce va-et-vient permanent, pour protéger notre santé et booster notre odorat.",
+          "url": "https://www.numerama.com/sciences/2296961-le-saviez-vous-on-respire-surtout-par-une-seule-narine-et-le-corps-alterne-toutes-les-2-heures.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/respirer-nez.jpg?resize=1600,900&key=3ecf24ac",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-19T08:25:00.000Z",
+          "fetchedAt": "2026-07-20T04:08:21.286Z"
+        },
+        {
+          "id": "2026-07-19-fbedb4fa",
+          "title": "Une rumeur peut-elle tuer un constructeur automobile ?",
+          "description": "Aujourd’hui, un constructeur ne meurt pas seulement à cause d’un mauvais produit. Il peut perdre beaucoup à cause d’une mauvaise rumeur. Une actualité de la semaine a inspiré cet édito de la newsletter Watt Else du 16 juillet 2026.",
+          "url": "https://www.numerama.com/vroom/2297101-une-rumeur-peut-elle-tuer-un-constructeur-automobile.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/02/lucid-gravity-4.jpg?resize=1600,900&key=e84b7482",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-19T06:48:00.000Z",
+          "fetchedAt": "2026-07-20T04:08:21.286Z"
+        },
+        {
+          "id": "2026-07-19-49978058",
+          "title": "Le premier teaser de The Hunt for Gollum est là, Les Sims 4 se met à jour, notre critique de L’Odyssée, le Recap Pop Culture de la semaine",
+          "description": "The Hunt for Gollum, le nouveau film de la saga Le Seigneur des Anneaux, se dévoile très brièvement dans un teaser making-of qui joue clairement la carte de la nostalgie. Nostalgie également du côté des Sims 4 qui, 12 ans après sa sortie, accueille enfin une fonctionnalité réclamée depuis… 12 ans. Enfin, nous avons pu découvrir L'Odyssée et nous vous livrons une critique complète du dernier film de Christopher Nolan.",
+          "url": "https://www.numerama.com/pop-culture/2297075-le-premier-teaser-de-the-hunt-for-gollum-est-la-les-sims-4-se-met-a-jour-notre-critique-de-lodyssee-le-recap-pop-culture-de-la-semaine.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2024/05/9b1fc5df81cadf52164c02bf92678f95-1715356692.jpg?resize=1600,900&key=1bc3c564",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-19T06:30:00.000Z",
+          "fetchedAt": "2026-07-20T04:08:21.286Z"
+        },
+        {
+          "id": "2026-07-18-cfd638ec",
+          "title": "Xpeng frappe fort, une BYD perd son moteur en pleine rue, Tesla gagne moins d’argent : le récap’ Vroom de la semaine",
+          "description": "À la une sur Vroom cette semaine : Xpeng a dévoilé sa L03 à un tarif compétitif, la vidéo d'une BYD traînant son moteur sur la route fait le buzz et Tesla se fait rattraper par Toyota en gagnant beaucoup moins d'argent par voiture :",
+          "url": "https://www.numerama.com/vroom/2297069-xpeng-frappe-fort-une-byd-perd-son-moteur-en-pleine-rue-tesla-gagne-moins-dargent-par-voiture-le-recap-vroom-de-la-semaine.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/xpeng-l03.jpg?resize=1600,900&key=33be41c9",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-18T18:05:00.000Z",
+          "fetchedAt": "2026-07-20T04:08:21.286Z"
+        },
+        {
+          "id": "2026-07-18-642f1101",
+          "title": "Climatiser la France : qui osera porter politiquement un « droit au froid » ?",
+          "description": "Dans le prolongement de notre vidéo sur les idées reçues liées à la climatisation, nous avons poursuivi la réflexion dans la newsletter ToujoursPlus du 16 juillet autour d'un autre thème : le droit au froid doit être un sujet politique, ne serait-ce que pour protéger celles et ceux qui n'ont pas les moyens de se l'offrir. Qui portera ce sujet en France aura sa place dans la grande Histoire des politiques publiques efficaces.",
+          "url": "https://www.numerama.com/sciences/2296887-climatiser-la-france-qui-osera-porter-politiquement-un-droit-au-froid.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/heatwave-over-paris-background-1920x1080-1.jpg?resize=1600,900&key=8c6e2c69",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-07-18T16:03:00.000Z",
+          "fetchedAt": "2026-07-20T04:08:21.286Z"
         }
       ]
     },
     {
-      "id": "cluster-14",
-      "topic": "China hits out at British Steel nationalisation",
+      "id": "cluster-12",
+      "topic": "Chinese firm seeks compensation over British Steel nationalisation",
       "category": "eco",
-      "importance": 6,
+      "importance": 9,
       "articles": [
         {
-          "id": "2026-07-17-5ddc6689",
-          "title": "China hits out at British Steel nationalisation",
-          "description": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-          "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1b8/live/e08168e0-81e4-11f1-bee8-53ce494e1abc.jpg",
+          "id": "2026-07-19-273b4bd4",
+          "title": "Chinese firm seeks compensation over British Steel nationalisation",
+          "description": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
+          "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa42/live/7ad3f5d0-835b-11f1-926f-c90d1bcfbc84.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-07-17T16:44:22.000Z",
-          "fetchedAt": "2026-07-19T03:59:48.790Z"
+          "publishedAt": "2026-07-19T10:59:07.000Z",
+          "fetchedAt": "2026-07-20T04:08:28.162Z"
         },
         {
-          "id": "2026-07-17-f6b0b1fb",
-          "title": "Why has British Steel been nationalised?",
-          "description": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
-          "url": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd74/live/2edfb1c0-81e2-11f1-bee8-53ce494e1abc.jpg",
-          "source": "BBC Business",
+          "id": "2026-07-19-14d594c0",
+          "title": "British Steel nationalisé : le groupe chinois Jingye exige une indemnisation",
+          "description": "Le sidérurgiste chinois Jingye Steel a menacé dimanche le gouvernement britannique d’une action en justice après la nationalisation, par le Royaume-Uni, du groupe British Steel, jusqu’alors détenu par l’entreprise chinoise.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/19/british-steel-nationalise-le-groupe-chinois-jingye-exige-une-indemnisation_6725515_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-17T09:57:02.000Z",
-          "fetchedAt": "2026-07-19T03:59:48.790Z"
+          "publishedAt": "2026-07-19T06:51:11.000Z",
+          "fetchedAt": "2026-07-20T04:08:25.450Z"
         }
       ]
     }
