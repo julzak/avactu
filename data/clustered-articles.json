@@ -1,190 +1,234 @@
 {
-  "generatedAt": "2026-07-23T03:52:43.817Z",
+  "generatedAt": "2026-07-24T03:51:51.694Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Houthis claim attack on oil tankers as US launches more strikes on Iran ",
+      "topic": "Dans le sud de l’Iran, un été chamboulé par le retour de la guerre",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-23-8ddff3cf",
-          "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran ",
-          "description": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
-          "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
-          "source": "BBC World",
+          "id": "2026-07-24-8dcb3704",
+          "title": "Dans le sud de l’Iran, un été chamboulé par le retour de la guerre",
+          "description": "Nuits sans sommeil, coupures d’électricité, pénurie de carburant, axes routiers endommagés : les habitants des zones côtières bombardées par les États-Unis subissent de plein fouet la reprise des affrontements, raconte le site iranien en exil “Radio Farda”.",
+          "url": "https://www.courrierinternational.com/article/temoignages-dans-le-sud-de-l-iran-un-ete-chamboule-par-le-retour-de-la-guerre_251596",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/23/0/0/5040/3360/1200/630/60/0/caeee0b_upload-1-10xsioes4dd5-020-2276222152.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-23T03:48:27.000Z",
-          "fetchedAt": "2026-07-23T03:48:56.607Z"
+          "publishedAt": "2026-07-24T03:00:25.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.864Z"
         },
         {
-          "id": "2026-07-22-f3582303",
-          "title": "Cette vidéo ne montre pas un bombardier B-52 américain abattu par l'Iran",
-          "description": "Une vidéo censée montrer un bombardier américain B-52 détruit par un missile iranien cumule plus de trois millions de vues sur X, relayée notamment par un compte pro-iranien. Mais certains détails visuels trahissent une fabrication artificielle.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260722-cette-vid%C3%A9o-ne-montre-pas-un-bombardier-b-52-am%C3%A9ricain-abattu-par-l-iran",
-          "imageUrl": "https://s.france24.com/media/display/1f1642ce-85be-11f1-944c-005056a90284/w:1024/p:16x9/photo-de-Matthew-Metro-sur-son-profil-Facebook-12-3.png",
+          "id": "2026-07-24-7ff4b1c5",
+          "title": "En Tunisie, l’opposant Rached Ghannouchi, incarcéré, est dans un état « critique », selon ses avocats",
+          "description": "La défense du chef du parti islamo-conservateur Ennahda, âgé de 85 ans, a alerté sur une « grave détérioration » de son état de santé, après avoir appris qu’il avait perdu connaissance en prison.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/07/24/en-tunisie-l-opposant-rached-ghannouchi-incarcere-est-dans-un-etat-critique-selon-ses-avocats_6731374_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-24T01:17:00.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.321Z"
+        },
+        {
+          "id": "2026-07-23-e7cce987",
+          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont visé de nouvelles installations militaires en Iran, pour la treizième nuit de suite",
+          "description": "Le détroit d’Ormuz « reste ouvert au transit malgré les récentes attaques menées par le corps des gardiens de la révolution islamique iranien », affirme l’armée américaine qui dit avoir notamment ciblé des centres de commandement militaires et des sites de stockage de drones.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-au-moyen-orient-les-etats-unis-annoncent-bombarder-l-iran-pour-la-treizieme-nuit-de-suite_6725301_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-23T23:35:03.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.321Z"
+        },
+        {
+          "id": "2026-07-23-54b1429b",
+          "title": "Dans les pays du Golfe persique, omerta généralisée sur les attaques iraniennes",
+          "description": "Depuis le début du conflit entre l’Iran et les États-Unis, plus de 1 000 personnes ont été arrêtées pour avoir tenté de documenter les frappes iraniennes dans les pays du Golfe persique alliés de Washington. Les régimes de ces pays veulent dissuader toute diffusion d’images et maintiennent un discours officiel niant la réalité des frappes.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260723-frappes-iraniennes-golfe-persique-arrestations-images-bahrein-koweit",
+          "imageUrl": "https://s.france24.com/media/display/f64435de-86af-11f1-8aff-005056bfb2b6/w:1024/p:16x9/bahrain-koweit-iran.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-22T16:21:20.000Z",
-          "fetchedAt": "2026-07-23T03:48:43.267Z"
+          "publishedAt": "2026-07-23T16:47:52.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.300Z"
         },
         {
-          "id": "2026-07-22-40ad97a6",
-          "title": "Golfe Persique: «Le seuil qui pousserait à former une coalition contre l'Iran n’est pas encore atteint»",
-          "description": "Les pays arabes du golfe Persique se retrouvent une nouvelle fois en première ligne de la confrontation entre les États-Unis et l’Iran. Des bateaux du Qatar, d’Arabie saoudite et des Émirats arabes unis ont été attaqués dans le détroit d’Ormuz. Des drones et missiles tirés par l’Iran ont visé les territoires des monarchies pétrolières. Bahreïn et le Koweït sont particulièrement ciblés. Mais pour l’heure, le Golfe cherche toujours une issue diplomatique et prône la désescalade. Entretien avec Mahdi Ghuloom, chercheur en géopolitique au sein du groupe de réflexion ORF Middle East à Dubaï.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260722-golfe-le-seuil-qui-pousserait-%C3%A0-former-une-coalition-contre-l-iran-n-est-pas-encore-atteint",
-          "imageUrl": "https://s.rfi.fr/media/display/0024bd0e-8434-11f1-be61-005056bfb2b6/w:1024/p:16x9/000-C2J77CU-1.jpg",
+          "id": "2026-07-23-4926b9c5",
+          "title": "Liban: la cité antique de Tyr inscrite au patrimoine mondial en péril de l'Unesco",
+          "description": "La cité antique de Tyr au Liban doit être protégée. L'Unesco, qui tient actuellement la 48ᵉ session du comité du patrimoine mondial à Busan, en Corée du Sud, a annoncé avoir inscrit la ville sur la liste du patrimoine mondial en péril. Tyr, située au sud du Liban à une vingtaine de kilomètres de la frontière avec Israël, est la cible d'une campagne de frappes israéliennes depuis le début de la guerre avec le Hezbollah pro-iranien, le 2 mars dernier.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260723-liban-la-cit%C3%A9-antique-de-tyr-inscrite-au-patrimoine-mondial-en-p%C3%A9ril-de-l-unesco",
+          "imageUrl": "https://s.rfi.fr/media/display/17e38e64-635c-11f1-a238-005056a90284/w:1024/p:16x9/000-B6C96NR.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-22T15:19:52.000Z",
-          "fetchedAt": "2026-07-23T03:48:56.580Z"
+          "publishedAt": "2026-07-23T16:28:57.000Z",
+          "fetchedAt": "2026-07-24T03:48:07.087Z"
         },
         {
-          "id": "2026-07-22-05514fe8",
-          "title": "EN DIRECT – Moyen-Orient: les États-Unis ont lancé une nouvelle série de frappes contre des cibles militaires iraniennes",
-          "description": "L'armée américaine a annoncé mercredi 22 juillet avoir lancé de nouvelles frappes ⁠en Iran, pour ​une douzième nuit consécutive. Téhéran a mis en garde les États-Unis contre une riposte «puissante» en cas d'attaques sur ses infrastructures civiles. Un pétrolier a également été touché par un projectile non identifié dans la mer Rouge au large de l'Arabie saoudite, selon l'UKMTO.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260722-en-direct-%E2%80%93-moyen-orient-les-%C3%A9tats-unis-bombardent-l-iran-la-d%C3%A9fense-antia%C3%A9rienne-activ%C3%A9e-%C3%A0-t%C3%A9h%C3%A9ran",
-          "imageUrl": "https://s.rfi.fr/media/display/2a8baee4-861f-11f1-9f7b-005056a97e36/w:1024/p:16x9/2026-07-22T031154Z-1469369851-RC2PIMAYTX44-RTRMADP-3-IRAN-CRISIS-USA.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-22T04:17:10.000Z",
-          "fetchedAt": "2026-07-23T03:48:56.580Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "Aux Seychelles, loin de l’image de carte postale, les ravages d’une multi-addict",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-23-52cdf756",
-          "title": "Aux Seychelles, loin de l’image de carte postale, les ravages d’une multi-addiction aux drogues dures",
-          "description": "« L’Afrique sous emprise » (4/6). L’héroïne, mais aussi la méthamphétamine, la cocaïne et le fentanyl se déversent sur cet archipel de 120 000 habitants dans l’océan Indien. Face à la crise, l’Etat tente de réagir mais manque d’informations.",
-          "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/23/aux-seychelles-loin-de-l-image-de-carte-postale-les-ravages-d-une-multi-addiction-aux-drogues-dures_6730240_3451060.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-23T03:00:11.000Z",
-          "fetchedAt": "2026-07-23T03:48:43.372Z"
-        },
-        {
-          "id": "2026-07-22-45f39881",
-          "title": "Le sud de l’Europe frappé par une série d’incendies : un pompier meurt en Italie ; des évacuations dans la région de Madrid",
-          "description": "Selon le premier ministre espagnol, Pedro Sanchez, le pays a vécu depuis le début de l’année « 22 grands incendies », soit « quatre fois plus » qu’en 2025 sur la même période.",
-          "url": "https://www.lemonde.fr/planete/article/2026/07/23/le-sud-de-l-europe-frappe-par-une-serie-d-incendies-un-pompier-meurt-en-italie-des-evacuations-dans-la-region-de-madrid_6730032_3245.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-22T23:51:00.000Z",
-          "fetchedAt": "2026-07-23T03:48:43.372Z"
-        },
-        {
-          "id": "2026-07-22-55a1cf89",
-          "title": "Au Kenya, la fibre de sisal, une culture résiliente et un pari économique",
-          "description": "Dans le sud-est du Kenya, la culture du sisal séduit de plus en plus de petits agriculteurs. Résistante à la sécheresse, cette fibre naturelle offre une alternative économique, malgré des contraintes d’investissement et de temps.",
-          "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20260722-au-kenya-la-fibre-de-sisal-une-culture-r%C3%A9siliente-et-un-pari-%C3%A9conomique",
-          "imageUrl": "https://s.rfi.fr/media/display/6daa3cb4-85e2-11f1-a094-005056bfb2b6/w:1024/p:16x9/000-Par7618671.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-22T22:05:07.000Z",
-          "fetchedAt": "2026-07-23T03:48:56.580Z"
-        },
-        {
-          "id": "2026-07-22-c746f9ca",
-          "title": "À 100 jours des Jeux Olympiques de la Jeunesse, Dakar est prêt... ou presque!",
-          "description": "À 100 jours des prochains Jeux Olympiques de la Jeunesse Dakar 2026, Dakar est prêt même si quelques réglages sont encore à faire. Un reportage de notre correspondant dans la capitale sénégalaise.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260722-%C3%A0-100-jours-des-jeux-olympiques-de-la-jeunesse-dakar-est-pr%C3%AAt-ou-presque",
-          "imageUrl": "https://s.rfi.fr/media/display/fbd2a774-85fb-11f1-8c75-005056bf30b7/w:1024/p:16x9/000-93F67HH.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-22T22:02:03.000Z",
-          "fetchedAt": "2026-07-23T03:48:56.580Z"
-        },
-        {
-          "id": "2026-07-22-1a509370",
-          "title": "Un recours demande à l’Etat d’empêcher toute contribution économique à l’occupation de la Palestine",
-          "description": "Cinq ONG demandent la plus haute juridiction administrative de contraindre la France à empêcher toute activité économique susceptible de soutenir la colonisation de territoires palestiniens par Israël. Une démarche juridique inédite, fondée sur l’avis rendu en 2024 par la Cour internationale de justice.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/23/un-recours-demande-a-l-etat-d-empecher-toute-contribution-economique-a-l-occupation-de-la-palestine_6730075_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-22T22:00:10.000Z",
-          "fetchedAt": "2026-07-23T03:48:43.372Z"
-        },
-        {
-          "id": "2026-07-22-ef012c87",
-          "title": "Épuisement, manque d’effectifs, problèmes matériels... Laurent Nunez répond à la colère des pompiers",
-          "description": "Épuisement, manque d'effectifs, problèmes matériels... Face aux syndicats de pompiers qui dénoncent l'insuffisance de leurs moyens après la mort de trois d'entre eux en deux semaines, le ministre de l'Intérieur a assuré mercredi en Gironde, où deux professionnels ont péri la veille, que la France \"fait face\" aux incendies.",
-          "url": "https://www.france24.com/fr/france/20260722-epuisement-manque-d-effectifs-ministre-laurent-nunez-repond-colere-pompiers-bordeaux-morts",
-          "imageUrl": "https://s.france24.com/media/display/97fc7542-85fe-11f1-ae7e-005056bf30b7/w:1024/p:16x9/000-C2V42EK.jpg",
+          "id": "2026-07-23-ea49db71",
+          "title": "Mauritanie : le paradis menacé d’une communauté de pêcheurs",
+          "description": "En Mauritanie, dans le parc national du Banc d’Arguin situé entre le désert et l'océan Altantique, les Imraguens pratiquent une technique de pêche à pied depuis des siècles. Le savoir-faire traditionnel de ce peuple de pêcheurs est menacé par le réchauffement climatique, la surpêche et la difficulté de transmission aux générations futures.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-mauritanie-le-paradis-menac%C3%A9-d-une-communaut%C3%A9-de-p%C3%AAcheurs",
+          "imageUrl": "https://s.france24.com/media/display/5b299120-86aa-11f1-b64a-005056bf30b7/w:1024/p:16x9/couv-mauritanie.jpeg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-22T19:55:38.000Z",
-          "fetchedAt": "2026-07-23T03:48:43.267Z"
+          "publishedAt": "2026-07-23T15:41:46.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.300Z"
         }
       ]
     },
     {
-      "id": "cluster-15",
-      "topic": "EN DIRECT, guerre en Ukraine : Kiev demande une réunion d’urgence du Conseil de ",
+      "id": "cluster-3",
+      "topic": "“Une blague” : en Australie, six mois après l’interdiction des réseaux sociaux a",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-22-9274172a",
-          "title": "EN DIRECT, guerre en Ukraine : Kiev demande une réunion d’urgence du Conseil de sécurité de l’ONU, accusant la Russie d’entraver ses exportations agricoles",
-          "description": "« La Russie tient en otage la sécurité alimentaire mondiale », déclare Kiev qui dénonce des frappes russes, ces derniers jours, sur des navires cargo utilisant les ports ukrainiens.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-kiev-demande-une-reunion-d-urgence-du-conseil-de-securite-de-l-onu-accusant-la-russie-d-entraver-ses-exportations-agricoles_6725306_3210.html",
+          "id": "2026-07-24-7bd372ba",
+          "title": "“Une blague” : en Australie, six mois après l’interdiction des réseaux sociaux aux ados",
+          "description": "Le Parlement français a voté le 21 juillet une interdiction des réseaux sociaux aux moins de 15 ans. En décembre 2025, l’Australie était le premier pays à prohiber l’usage de dix réseaux sociaux, dont Instagram, TikTok et Snapchat, pour les moins de 16 ans. Mais la loi n’a guère eu d’effets sur ceux qui avaient déjà un compte, constate la correspondante du “New York Times” à Sydney dans cet article publié six mois après l’interdiction. Des parents espèrent cependant qu’elle profitera aux prochaines générations.",
+          "url": "https://www.courrierinternational.com/article/courrier-ados-une-blague-en-australie-six-mois-apres-l-interdiction-des-reseaux-sociaux-aux-ados_245256",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/10/112/0/1890/1260/1200/630/60/0/3198607_upload-1-5xbwnvsmpd1f-p-18-jennings-copie.png",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-24T03:00:18.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.864Z"
+        },
+        {
+          "id": "2026-07-23-14f48694",
+          "title": "Espagne : un mégafeu ravage plus de 30 000 hectares en Castille",
+          "description": "En Espagne, un mégafeu parti le 16 juillet dans la Sierra Norte de Guadalajara, en Castille-La Manche, a déjà calciné environ 30 à 32 000 hectares. Correspondance de Maude Petit-Jové depuis Madrid pour France 24.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-espagne-un-m%C3%A9gafeu-ravage-plus-de-30-000-hectares-en-castille",
+          "imageUrl": "https://s.france24.com/media/display/e4a37f14-86ab-11f1-b856-005056a90284/w:1024/p:16x9/2026-07-23T152306Z-128166085-RC2QJMAVU7IX-RTRMADP-3-EUROPE-WEATHER-SPAIN-WILDFIRE.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-23T15:35:02.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.300Z"
+        },
+        {
+          "id": "2026-07-23-d5337325",
+          "title": "Pourquoi des orques font-elles exploser une proie en morceaux en lui fonçant dessus ?",
+          "description": "À deux occasions, en 2024 et en 2025, une orque a pu être observée en train de percuter un poisson-lune tenu dans sa gueule par une congénère, provoquant l’éclatement du corps de la proie en de nombreux fragments. Un comportement qui ne relève pas de la chasse, puisque le poisson avait déjà été tué auparavant, et qui interroge les scientifiques.",
+          "url": "https://www.courrierinternational.com/article/animaux-pourquoi-des-orques-font-elles-exploser-une-proie-en-morceaux-en-lui-foncant-dessus_252138",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/23/225/0/5400/3600/1200/630/60/0/cc20115_upload-1-rykpqxqcpoxi-071-1112-7417.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-23T14:36:18.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.864Z"
+        },
+        {
+          "id": "2026-07-23-2330d8df",
+          "title": "Mali : l’ONU exige une enquête sur les tortures et les meurtres après une attaque au nord du pays",
+          "description": "Le Haut-Commissariat des Nations unies aux droits de l’homme a exigé jeudi une enquête indépendante après l’exécution de dizaines de militaires maliens qui s’étaient rendus, lors d’une attaque de séparatistes touaregs et de djihadistes, début juillet.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/07/23/mali-l-onu-exige-une-enquete-sur-les-tortures-et-les-meurtres-apres-une-attaque-au-nord-du-pays_6730920_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-22T23:59:15.000Z",
-          "fetchedAt": "2026-07-23T03:48:43.372Z"
+          "publishedAt": "2026-07-23T14:32:44.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.321Z"
         },
         {
-          "id": "2026-07-22-309e7cdc",
-          "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-          "description": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-          "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c64/live/d7b13ca0-85f3-11f1-8ade-a7a676c613b9.jpg",
-          "source": "BBC World",
+          "id": "2026-07-23-d93d3b7e",
+          "title": "Jeux olympiques de la Jeunesse: dernière ligne droite avant Dakar 2026",
+          "description": "Plus que 100 jours avant le coup d’envoi des prochains Jeux olympiques de la Jeunesse (JOJ), prévus à Dakar du 31 octobre au 13 novembre 2026, le premier événement olympique organisé en Afrique, pour 2 700 athlètes âgés de 17 ans maximum. L’organisation entame sa dernière ligne droite, entre chantiers sur les infrastructures (presque) tous terminés et révélations progressives des traditionnels marqueurs des Jeux.",
+          "url": "https://www.rfi.fr/fr/afrique/20260723-jeux-olympiques-de-la-jeunesse-derni%C3%A8re-ligne-droite-avant-dakar-2026",
+          "imageUrl": "https://s.rfi.fr/media/display/83226338-867c-11f1-b3b5-005056a90284/w:1024/p:16x9/000-93F67HE.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-22T23:06:08.000Z",
-          "fetchedAt": "2026-07-23T03:48:56.607Z"
+          "publishedAt": "2026-07-23T10:10:42.000Z",
+          "fetchedAt": "2026-07-24T03:48:07.087Z"
+        },
+        {
+          "id": "2026-07-23-54d36833",
+          "title": "La chaleur extrême, principale cause d'une sécheresse historique en Europe",
+          "description": "Alors que les niveaux des cours d'eau atteignent des niveaux historiquement bas en Europe, un groupe de scientifiques du World Weather Attribution s'est penché sur les causes de cette sécheresse. Leur conclusion est sans appel : plus que le manque de pluie, c'est la chaleur extrême qui assèche les réserves d'eau du continent. Un phénomène largement accéléré par le changement climatique, selon leur étude.",
+          "url": "https://www.rfi.fr/fr/environnement/20260723-la-chaleur-extr%C3%AAme-principale-cause-d-une-s%C3%A9cheresse-historique-en-europe",
+          "imageUrl": "https://s.rfi.fr/media/display/0bfc56e2-866d-11f1-bdd2-005056a97e36/w:1024/p:16x9/000-C22D69F.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-23T09:21:59.000Z",
+          "fetchedAt": "2026-07-24T03:48:07.087Z"
         }
       ]
     },
     {
-      "id": "cluster-26",
-      "topic": "Samsung passe enfin aux batteries silicium-carbone : la Chine avait raison",
+      "id": "cluster-11",
+      "topic": "En Chine, la célébration opportune des Tigres volants américains",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-24-3f2b1aa8",
+          "title": "En Chine, la célébration opportune des Tigres volants américains",
+          "description": "Cet escadron, qui a appuyé l’armée chinoise dans les airs contre les avancées japonaises durant la seconde guerre mondiale, est exploité diplomatiquement par Pékin pour essayer d’influer sur l’attitude de Washington à son égard.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-24T01:00:08.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.321Z"
+        },
+        {
+          "id": "2026-07-23-df9ea6e4",
+          "title": "États-Unis : de nouveaux droits de douane visent une soixantaine de pays",
+          "description": "Alors que des droits de douane temporaires de 10 % arrivent à expiration vendredi, la Maison Blanche a annoncé jeudi pour les remplacer de nouvelles surtaxes de 10 % ou 12,5 %, visant une soixantaine de partenaires commerciaux, accusés de ne pas suffisamment lutter contre le travail forcé.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260723-%C3%A9tats-unis-de-nouveaux-droits-de-douane-visent-plusieurs-partenaires-commerciaux",
+          "imageUrl": "https://s.france24.com/media/display/74c40548-f961-11ef-8500-005056bfb2b6/w:1024/p:16x9/000_36Z79YL.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-23T21:13:56.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.300Z"
+        },
+        {
+          "id": "2026-07-23-7c20a8db",
+          "title": "Les États-Unis vers un budget de défense record de 1150 milliards de dollars en 2027",
+          "description": "Mercredi 22 juillet, la Chambre des représentants, contrôlée par les républicains, a approuvé un texte cadre sur la stratégie de défense des États-Unis pour 2027. Il prévoit un budget record de plus de 1 150 milliards de dollars. Des chiffres vertigineux justifiés par la guerre en Iran et l'augmentation de la solde des militaires par les républicains, mais dénoncés par les démocrates.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260723-les-%C3%A9tats-unis-vers-un-budget-de-d%C3%A9fense-record-de-1150-milliards-de-dollars-en-2027",
+          "imageUrl": "https://s.rfi.fr/media/display/86f7d56e-869b-11f1-ac81-005056a97e36/w:1024/p:16x9/AP26118697068339.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-23T14:37:18.000Z",
+          "fetchedAt": "2026-07-24T03:48:07.087Z"
+        },
+        {
+          "id": "2026-07-23-cf678a67",
+          "title": "L’administration Trump envisage une intervention militaire au Mali, selon le “Washington Post”",
+          "description": "Pour contrer l’avancée du Groupe de soutien à l’islam et aux musulmans (Jnim) au Mali, l’administration Trump étudierait des options militaires. Mais Washington entend surtout se poser en offre sécuritaire alternative à Moscou, dont les paramilitaires de l’Africa Corps ont connu dernièrement des défaites cuisantes face aux djihadistes.",
+          "url": "https://www.courrierinternational.com/article/sahel-l-administration-trump-envisage-une-intervention-militaire-au-mali-selon-le-washington-post_252133",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/04/0/0/4200/2800/1200/630/60/0/83542a4_ftp-1-uwkzu9adppf7-afp-b99j4bn.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-23T13:31:20.000Z",
+          "fetchedAt": "2026-07-24T03:47:51.864Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-23",
+      "topic": "Un éclair frappe une fusée chinoise en plein vol",
       "category": "tech",
-      "importance": 9,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-07-22-5abbf234",
-          "title": "Samsung passe enfin aux batteries silicium-carbone : la Chine avait raison",
-          "description": "Aucune rumeur ne l'avait vu venir : Samsung, avec ses Galaxy Z Fold 8 Ultra, Z Fold 8 et Z Flip 8, utilise pour la toute première fois des batteries avec des anodes en silicium-carbone. Une technologie jusqu'ici réservée aux constructeurs chinois, que Samsung et Apple semblaient fuir, principalement par prudence. Le Coréen estime que le moment est venu d'attaquer cette révolution.",
-          "url": "https://www.numerama.com/tech/2298779-samsung-passe-enfin-aux-batteries-silicium-carbone-la-chine-avait-raison.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/z-fold-open.jpg?resize=1600,900&key=642866ae",
+          "id": "2026-07-23-52fe3d2b",
+          "title": "Un éclair frappe une fusée chinoise en plein vol",
+          "description": "Une fusée chinoise a été heurtée par un éclair lors de son ascension dans l'atmosphère. Selon les médias chinois, cela n'a pas remis en cause le bon déploiement du satellite se trouvant à bord.",
+          "url": "https://www.numerama.com/sciences/2300575-un-eclair-frappe-une-fusee-chinoise-en-plein-vol.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/fusee-eclair.jpg?resize=1600,900&key=1f4b927f",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-07-22T13:00:00.000Z",
-          "fetchedAt": "2026-07-23T03:48:56.771Z"
+          "publishedAt": "2026-07-23T15:55:00.000Z",
+          "fetchedAt": "2026-07-24T03:48:07.097Z"
         },
         {
-          "id": "2026-07-21-10bb1fea",
-          "title": "Le contre-modèle chinois sur l’IA, un défi pour l’Europe",
-          "description": "Lors de la Conférence mondiale de Shanghaï du 17 juillet, le président chinois, Xi Jinping, a présenté une doctrine d’organisation de l’intelligence artificielle susceptible de rebattre les cartes de l’ordre technologique mondial et qui menace de neutraliser l’avantage qu’avaient les Vingt-Sept sur le terrain normatif.",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/21/le-contre-modele-chinois-sur-l-ia-un-defi-pour-l-europe_6728533_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-07-23-363eb81a",
+          "title": "Après Stellantis, Ford s’allie aussi à un constructeur chinois et lui confie une partie de son usine espagnole",
+          "description": "Geely vient de s'offrir 34 % d'une usine Ford en Espagne pour y fabriquer ses SUV « Made in Europe » et un peu plus encore.",
+          "url": "https://www.numerama.com/vroom/2300281-apres-stellantis-ford-sallie-aussi-a-un-constructeur-chinois-et-lui-confie-une-partie-de-son-usine-espagnole.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/partenariat-ford-geely.jpg?resize=1600,900&key=3ba13fa1",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-07-21T09:30:14.000Z",
-          "fetchedAt": "2026-07-23T03:48:57.790Z"
+          "publishedAt": "2026-07-23T13:15:42.000Z",
+          "fetchedAt": "2026-07-24T03:48:07.097Z"
         }
       ]
     },
@@ -202,8 +246,8 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-07-23T01:52:10.000Z",
-          "fetchedAt": "2026-07-23T03:49:06.433Z"
+          "publishedAt": "2026-07-23T23:50:38.000Z",
+          "fetchedAt": "2026-07-24T03:48:15.575Z"
         }
       ]
     }
