@@ -1,253 +1,242 @@
 {
-  "generatedAt": "2026-07-24T03:51:51.694Z",
+  "generatedAt": "2026-07-25T03:46:23.840Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Dans le sud de l’Iran, un été chamboulé par le retour de la guerre",
+      "id": "cluster-7",
+      "topic": "More than 220,000 evacuated in France and Spain due to wildfires",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-24-8dcb3704",
-          "title": "Dans le sud de l’Iran, un été chamboulé par le retour de la guerre",
-          "description": "Nuits sans sommeil, coupures d’électricité, pénurie de carburant, axes routiers endommagés : les habitants des zones côtières bombardées par les États-Unis subissent de plein fouet la reprise des affrontements, raconte le site iranien en exil “Radio Farda”.",
-          "url": "https://www.courrierinternational.com/article/temoignages-dans-le-sud-de-l-iran-un-ete-chamboule-par-le-retour-de-la-guerre_251596",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/23/0/0/5040/3360/1200/630/60/0/caeee0b_upload-1-10xsioes4dd5-020-2276222152.jpg",
-          "source": "Courrier International",
+          "id": "2026-07-25-de720e5f",
+          "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+          "description": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+          "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-07-24T03:00:25.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.864Z"
+          "publishedAt": "2026-07-25T02:29:36.000Z",
+          "fetchedAt": "2026-07-25T03:42:32.141Z"
         },
         {
-          "id": "2026-07-24-7ff4b1c5",
-          "title": "En Tunisie, l’opposant Rached Ghannouchi, incarcéré, est dans un état « critique », selon ses avocats",
-          "description": "La défense du chef du parti islamo-conservateur Ennahda, âgé de 85 ans, a alerté sur une « grave détérioration » de son état de santé, après avoir appris qu’il avait perdu connaissance en prison.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/07/24/en-tunisie-l-opposant-rached-ghannouchi-incarcere-est-dans-un-etat-critique-selon-ses-avocats_6731374_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-24T01:17:00.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.321Z"
-        },
-        {
-          "id": "2026-07-23-e7cce987",
-          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont visé de nouvelles installations militaires en Iran, pour la treizième nuit de suite",
-          "description": "Le détroit d’Ormuz « reste ouvert au transit malgré les récentes attaques menées par le corps des gardiens de la révolution islamique iranien », affirme l’armée américaine qui dit avoir notamment ciblé des centres de commandement militaires et des sites de stockage de drones.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-au-moyen-orient-les-etats-unis-annoncent-bombarder-l-iran-pour-la-treizieme-nuit-de-suite_6725301_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-23T23:35:03.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.321Z"
-        },
-        {
-          "id": "2026-07-23-54b1429b",
-          "title": "Dans les pays du Golfe persique, omerta généralisée sur les attaques iraniennes",
-          "description": "Depuis le début du conflit entre l’Iran et les États-Unis, plus de 1 000 personnes ont été arrêtées pour avoir tenté de documenter les frappes iraniennes dans les pays du Golfe persique alliés de Washington. Les régimes de ces pays veulent dissuader toute diffusion d’images et maintiennent un discours officiel niant la réalité des frappes.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260723-frappes-iraniennes-golfe-persique-arrestations-images-bahrein-koweit",
-          "imageUrl": "https://s.france24.com/media/display/f64435de-86af-11f1-8aff-005056bfb2b6/w:1024/p:16x9/bahrain-koweit-iran.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-23T16:47:52.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.300Z"
-        },
-        {
-          "id": "2026-07-23-4926b9c5",
-          "title": "Liban: la cité antique de Tyr inscrite au patrimoine mondial en péril de l'Unesco",
-          "description": "La cité antique de Tyr au Liban doit être protégée. L'Unesco, qui tient actuellement la 48ᵉ session du comité du patrimoine mondial à Busan, en Corée du Sud, a annoncé avoir inscrit la ville sur la liste du patrimoine mondial en péril. Tyr, située au sud du Liban à une vingtaine de kilomètres de la frontière avec Israël, est la cible d'une campagne de frappes israéliennes depuis le début de la guerre avec le Hezbollah pro-iranien, le 2 mars dernier.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260723-liban-la-cit%C3%A9-antique-de-tyr-inscrite-au-patrimoine-mondial-en-p%C3%A9ril-de-l-unesco",
-          "imageUrl": "https://s.rfi.fr/media/display/17e38e64-635c-11f1-a238-005056a90284/w:1024/p:16x9/000-B6C96NR.jpg",
+          "id": "2026-07-24-8cf2d4ac",
+          "title": "EN DIRECT – Incendies en France: près de Bordeaux, quatre nouvelles communes évacuées face à un feu d’«ampleur inédite»",
+          "description": "En France, l’incendie qui sévit en Gironde a pris « une ampleur inédite » et se dirige vers la métropole bordelaise, a annoncé vendredi 24 juillet 2026 la préfète du département. Dans la nuit, quatre communes supplémentaires ont nécessité une évacuation « à titre préventif », a précisé la préfète. Cette nouvelle mesure concerne au total près de 58 400 habitants.",
+          "url": "https://www.rfi.fr/fr/france/20260724-en-direct-incendies-en-france-un-feu-d-une-ampleur-in%C3%A9dite-qui-se-dirige-vers-bordeaux",
+          "imageUrl": "https://s.rfi.fr/media/display/82cc9ad8-87a9-11f1-9c55-005056bfb2b6/w:1024/p:16x9/2026-07-24T145138Z-1704603891-RC2DKMA5H1LK-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-23T16:28:57.000Z",
-          "fetchedAt": "2026-07-24T03:48:07.087Z"
+          "publishedAt": "2026-07-24T20:41:44.000Z",
+          "fetchedAt": "2026-07-25T03:42:31.963Z"
         },
         {
-          "id": "2026-07-23-ea49db71",
-          "title": "Mauritanie : le paradis menacé d’une communauté de pêcheurs",
-          "description": "En Mauritanie, dans le parc national du Banc d’Arguin situé entre le désert et l'océan Altantique, les Imraguens pratiquent une technique de pêche à pied depuis des siècles. Le savoir-faire traditionnel de ce peuple de pêcheurs est menacé par le réchauffement climatique, la surpêche et la difficulté de transmission aux générations futures.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-mauritanie-le-paradis-menac%C3%A9-d-une-communaut%C3%A9-de-p%C3%AAcheurs",
-          "imageUrl": "https://s.france24.com/media/display/5b299120-86aa-11f1-b64a-005056bf30b7/w:1024/p:16x9/couv-mauritanie.jpeg",
+          "id": "2026-07-24-7cc70570",
+          "title": "Tour de France : Tadej Pogcar dompte l'Alpe d'Huez en battant le record de Pantani",
+          "description": "Sans concurrence, le maillot jaune Tadej Pogacar s'est imposé vendredi au sommet de l'Alpe d'Huez lors de la 19e étape du Tour de France. Au passage, il a battu le vieux record de la montée de Marco Pantani, qui datait de 1995, en plein dans les années noires du dopage à l'EPO.",
+          "url": "https://www.france24.com/fr/sports/20260724-tour-de-france-tadej-pogcar-dompte-l-alpe-d-huez-en-battant-le-record-de-pantani",
+          "imageUrl": "https://s.france24.com/media/display/ee2c8812-8775-11f1-96da-005056bf30b7/w:1024/p:16x9/000-C34F6PK.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-23T15:41:46.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.300Z"
+          "publishedAt": "2026-07-24T15:40:12.000Z",
+          "fetchedAt": "2026-07-25T03:42:23.363Z"
+        },
+        {
+          "id": "2026-07-24-429e5a42",
+          "title": "Watch: Wildfires rage across Spain and France",
+          "description": "Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.",
+          "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f1b5/live/c3089370-873d-11f1-a10e-a5d4f08bc20c.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-24T15:13:46.000Z",
+          "fetchedAt": "2026-07-25T03:42:32.141Z"
+        },
+        {
+          "id": "2026-07-24-4f4256e5",
+          "title": "Canicule en France : vers une nouvelle vague de chaleur ?",
+          "description": "La France pourrait faire face à une quatrième canicule depuis le début de l’été. Après une nouvelle vague de chaleur exceptionnelle, marquée par un indicateur thermique national à 28,1 °C, soit plus de 7 °C au-dessus des normales de saison, les températures devraient de nouveau grimper. Gaël Musquet, météorologue spécialiste de l’anticipation des catastrophes naturelles, analyse la situation.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260724-canicule-en-france-vers-une-nouvelle-vague-de-chaleur",
+          "imageUrl": "https://s.france24.com/media/display/535d7760-876b-11f1-8caa-005056a90284/w:1024/p:16x9/FR-20260724-081654-082745-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-24T14:28:57.000Z",
+          "fetchedAt": "2026-07-25T03:42:23.363Z"
+        },
+        {
+          "id": "2026-07-24-3455ab4f",
+          "title": "Syrie: dans le camp de Roj, deux orphelines abandonnées par l'État français",
+          "description": "Alors que les tensions ne cessent de s'aggraver au Moyen-Orient, 110 enfants français sont toujours détenus dans le Nord-Est de la Syrie dans le camp de Roj depuis la chute de l'organisation État islamique. Parmi eux, deux orphelines livrées à elles-mêmes que l'État français refuse de rapatrier.",
+          "url": "https://www.rfi.fr/fr/france/20260724-syrie-deux-orphelines-d%C3%A9tenues-dans-un-camp-pour-les-familles-de-l-ei-d%C3%A9laiss%C3%A9es-par-l-%C3%A9tat-fran%C3%A7ais",
+          "imageUrl": "https://s.rfi.fr/media/display/f13f57c4-8747-11f1-a99b-005056bfb2b6/w:1024/p:16x9/AP26056721307249.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-24T07:53:41.000Z",
+          "fetchedAt": "2026-07-25T03:42:31.963Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "“Une blague” : en Australie, six mois après l’interdiction des réseaux sociaux a",
+      "id": "cluster-10",
+      "topic": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-24-7bd372ba",
-          "title": "“Une blague” : en Australie, six mois après l’interdiction des réseaux sociaux aux ados",
-          "description": "Le Parlement français a voté le 21 juillet une interdiction des réseaux sociaux aux moins de 15 ans. En décembre 2025, l’Australie était le premier pays à prohiber l’usage de dix réseaux sociaux, dont Instagram, TikTok et Snapchat, pour les moins de 16 ans. Mais la loi n’a guère eu d’effets sur ceux qui avaient déjà un compte, constate la correspondante du “New York Times” à Sydney dans cet article publié six mois après l’interdiction. Des parents espèrent cependant qu’elle profitera aux prochaines générations.",
-          "url": "https://www.courrierinternational.com/article/courrier-ados-une-blague-en-australie-six-mois-apres-l-interdiction-des-reseaux-sociaux-aux-ados_245256",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/10/112/0/1890/1260/1200/630/60/0/3198607_upload-1-5xbwnvsmpd1f-p-18-jennings-copie.png",
-          "source": "Courrier International",
+          "id": "2026-07-25-63572c6c",
+          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+          "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+          "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-07-24T03:00:18.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.864Z"
+          "publishedAt": "2026-07-25T00:06:53.000Z",
+          "fetchedAt": "2026-07-25T03:42:32.141Z"
         },
         {
-          "id": "2026-07-23-14f48694",
-          "title": "Espagne : un mégafeu ravage plus de 30 000 hectares en Castille",
-          "description": "En Espagne, un mégafeu parti le 16 juillet dans la Sierra Norte de Guadalajara, en Castille-La Manche, a déjà calciné environ 30 à 32 000 hectares. Correspondance de Maude Petit-Jové depuis Madrid pour France 24.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-espagne-un-m%C3%A9gafeu-ravage-plus-de-30-000-hectares-en-castille",
-          "imageUrl": "https://s.france24.com/media/display/e4a37f14-86ab-11f1-b856-005056a90284/w:1024/p:16x9/2026-07-23T152306Z-128166085-RC2QJMAVU7IX-RTRMADP-3-EUROPE-WEATHER-SPAIN-WILDFIRE.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-23T15:35:02.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.300Z"
-        },
-        {
-          "id": "2026-07-23-d5337325",
-          "title": "Pourquoi des orques font-elles exploser une proie en morceaux en lui fonçant dessus ?",
-          "description": "À deux occasions, en 2024 et en 2025, une orque a pu être observée en train de percuter un poisson-lune tenu dans sa gueule par une congénère, provoquant l’éclatement du corps de la proie en de nombreux fragments. Un comportement qui ne relève pas de la chasse, puisque le poisson avait déjà été tué auparavant, et qui interroge les scientifiques.",
-          "url": "https://www.courrierinternational.com/article/animaux-pourquoi-des-orques-font-elles-exploser-une-proie-en-morceaux-en-lui-foncant-dessus_252138",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/23/225/0/5400/3600/1200/630/60/0/cc20115_upload-1-rykpqxqcpoxi-071-1112-7417.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-23T14:36:18.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.864Z"
-        },
-        {
-          "id": "2026-07-23-2330d8df",
-          "title": "Mali : l’ONU exige une enquête sur les tortures et les meurtres après une attaque au nord du pays",
-          "description": "Le Haut-Commissariat des Nations unies aux droits de l’homme a exigé jeudi une enquête indépendante après l’exécution de dizaines de militaires maliens qui s’étaient rendus, lors d’une attaque de séparatistes touaregs et de djihadistes, début juillet.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/07/23/mali-l-onu-exige-une-enquete-sur-les-tortures-et-les-meurtres-apres-une-attaque-au-nord-du-pays_6730920_3212.html",
+          "id": "2026-07-24-05fadd1c",
+          "title": "VIDEO Wildberries : le « Amazon russe » en feu après des frappes de drones ukrainiens",
+          "description": "Depuis le 18 juillet 2026, plusieurs entrepôts du Amazon russe ont été touchés par des drones, alors que l’armée ukrainienne continue de diversifier ses cibles pour faire entrer la guerre dans le quotidien des Russes.",
+          "url": "https://www.lemonde.fr/international/video/2026/07/24/wildberries-le-amazon-russe-en-feu-apres-des-frappes-de-drones-ukrainiens_6731525_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-23T14:32:44.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.321Z"
+          "publishedAt": "2026-07-24T15:32:32.000Z",
+          "fetchedAt": "2026-07-25T03:42:23.343Z"
         },
         {
-          "id": "2026-07-23-d93d3b7e",
-          "title": "Jeux olympiques de la Jeunesse: dernière ligne droite avant Dakar 2026",
-          "description": "Plus que 100 jours avant le coup d’envoi des prochains Jeux olympiques de la Jeunesse (JOJ), prévus à Dakar du 31 octobre au 13 novembre 2026, le premier événement olympique organisé en Afrique, pour 2 700 athlètes âgés de 17 ans maximum. L’organisation entame sa dernière ligne droite, entre chantiers sur les infrastructures (presque) tous terminés et révélations progressives des traditionnels marqueurs des Jeux.",
-          "url": "https://www.rfi.fr/fr/afrique/20260723-jeux-olympiques-de-la-jeunesse-derni%C3%A8re-ligne-droite-avant-dakar-2026",
-          "imageUrl": "https://s.rfi.fr/media/display/83226338-867c-11f1-b3b5-005056a90284/w:1024/p:16x9/000-93F67HE.jpg",
+          "id": "2026-07-24-c1ee62af",
+          "title": "Nouvelle attaque de drones ukrainiens contre des entrepôts de Wilberries, l'«Amazon de Russie»",
+          "description": "Une nouvelle attaque de drones ukrainiens a touché vendredi matin des entrepôts du géant russe du commerce en ligne Wildberries, cette fois à Saint-Pétersbourg (nord-ouest), a annoncé le groupe, visé pour la troisième fois en quelques jours. L'Ukraine assure que cet Amazon version russe participe à la chaîne de fabrication de matériel militaire.",
+          "url": "https://www.rfi.fr/fr/europe/20260724-nouvelle-attaque-de-drones-ukrainiens-contre-des-entrep%C3%B4ts-de-wilberries-l-amazon-de-russie",
+          "imageUrl": "https://s.rfi.fr/media/display/cba063be-8738-11f1-9a3b-005056bf30b7/w:1024/p:16x9/000-C2JA2G3-2.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-23T10:10:42.000Z",
-          "fetchedAt": "2026-07-24T03:48:07.087Z"
-        },
-        {
-          "id": "2026-07-23-54d36833",
-          "title": "La chaleur extrême, principale cause d'une sécheresse historique en Europe",
-          "description": "Alors que les niveaux des cours d'eau atteignent des niveaux historiquement bas en Europe, un groupe de scientifiques du World Weather Attribution s'est penché sur les causes de cette sécheresse. Leur conclusion est sans appel : plus que le manque de pluie, c'est la chaleur extrême qui assèche les réserves d'eau du continent. Un phénomène largement accéléré par le changement climatique, selon leur étude.",
-          "url": "https://www.rfi.fr/fr/environnement/20260723-la-chaleur-extr%C3%AAme-principale-cause-d-une-s%C3%A9cheresse-historique-en-europe",
-          "imageUrl": "https://s.rfi.fr/media/display/0bfc56e2-866d-11f1-bdd2-005056a97e36/w:1024/p:16x9/000-C22D69F.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-23T09:21:59.000Z",
-          "fetchedAt": "2026-07-24T03:48:07.087Z"
+          "publishedAt": "2026-07-24T09:03:06.000Z",
+          "fetchedAt": "2026-07-25T03:42:31.963Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "En Chine, la célébration opportune des Tigres volants américains",
+      "id": "cluster-18",
+      "topic": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme négocier avec l’Iran to",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-24-3f2b1aa8",
-          "title": "En Chine, la célébration opportune des Tigres volants américains",
-          "description": "Cet escadron, qui a appuyé l’armée chinoise dans les airs contre les avancées japonaises durant la seconde guerre mondiale, est exploité diplomatiquement par Pékin pour essayer d’influer sur l’attitude de Washington à son égard.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html",
+          "id": "2026-07-24-8e8441ad",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme négocier avec l’Iran tout en se disant prêt à intensifier les frappes",
+          "description": "« On leur parle en ce moment », a déclaré le président américain à propos des dirigeants iraniens. « Je pense qu’ils deviennent de plus en plus sérieux au fil des jours, peut-être pour une raison évidente », a-t-il ajouté, faisant allusion aux bombardements quotidiens que les Etats-Unis mènent sur l’Iran, depuis près de deux semaines.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-donald-trump-affirme-negocier-avec-l-iran-tout-en-se-disant-pret-a-intensifier-les-frappes_6725301_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-24T01:00:08.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.321Z"
+          "publishedAt": "2026-07-24T22:42:42.000Z",
+          "fetchedAt": "2026-07-25T03:42:23.343Z"
         },
         {
-          "id": "2026-07-23-df9ea6e4",
-          "title": "États-Unis : de nouveaux droits de douane visent une soixantaine de pays",
-          "description": "Alors que des droits de douane temporaires de 10 % arrivent à expiration vendredi, la Maison Blanche a annoncé jeudi pour les remplacer de nouvelles surtaxes de 10 % ou 12,5 %, visant une soixantaine de partenaires commerciaux, accusés de ne pas suffisamment lutter contre le travail forcé.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260723-%C3%A9tats-unis-de-nouveaux-droits-de-douane-visent-plusieurs-partenaires-commerciaux",
-          "imageUrl": "https://s.france24.com/media/display/74c40548-f961-11ef-8500-005056bfb2b6/w:1024/p:16x9/000_36Z79YL.jpg",
+          "id": "2026-07-24-3dc2dcf9",
+          "title": "L'Iran revendique des attaques de drones contre le Bahreïn, la Jordanie et le Koweït",
+          "description": "Après de nouvelles frappes américaines sur le territoire iranien, l'Iran a lancé, vendredi, des attaques de drones sur ses voisins du Golfe au Bahreïn, en Jordanie et au Koweït. Dans la soirée, l'Arabie saoudite a lancé des frappes sur la ville de Hodeïda sur la côte ouest du Yémen, contrôlée par les rebelles houthis.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260724-l-iran-revendique-des-attaques-de-drones-contre-le-bahre%C3%AFn-la-jordanie-et-le-kowe%C3%AFt",
+          "imageUrl": "https://s.france24.com/media/display/c795b452-8460-11f1-87e9-005056bf30b7/w:1024/p:16x9/000-C2CW2CQ-1.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-23T21:13:56.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.300Z"
+          "publishedAt": "2026-07-24T20:51:45.000Z",
+          "fetchedAt": "2026-07-25T03:42:23.363Z"
         },
         {
-          "id": "2026-07-23-7c20a8db",
-          "title": "Les États-Unis vers un budget de défense record de 1150 milliards de dollars en 2027",
-          "description": "Mercredi 22 juillet, la Chambre des représentants, contrôlée par les républicains, a approuvé un texte cadre sur la stratégie de défense des États-Unis pour 2027. Il prévoit un budget record de plus de 1 150 milliards de dollars. Des chiffres vertigineux justifiés par la guerre en Iran et l'augmentation de la solde des militaires par les républicains, mais dénoncés par les démocrates.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260723-les-%C3%A9tats-unis-vers-un-budget-de-d%C3%A9fense-record-de-1150-milliards-de-dollars-en-2027",
-          "imageUrl": "https://s.rfi.fr/media/display/86f7d56e-869b-11f1-ac81-005056a97e36/w:1024/p:16x9/AP26118697068339.jpg",
+          "id": "2026-07-24-092db2c8",
+          "title": "Karim Khan, procureur général de la CPI, démis de ses fonctions après des accusations d’agression sexuelle",
+          "description": "Le Britannique était visé par une procédure disciplinaire pour faute grave, liée à des accusations d’une collaboratrice. Cette décision survient au moment où la juridiction fait face à une pression croissante des Etats-Unis et d’Israël contre ses enquêtes sur les crimes commis dans les territoires palestiniens.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/24/karim-khan-procureur-general-de-la-cpi-demis-de-ses-fonctions-apres-des-accusations-d-agression-sexuelle_6731579_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-24T20:51:18.000Z",
+          "fetchedAt": "2026-07-25T03:42:23.343Z"
+        },
+        {
+          "id": "2026-07-24-58c30720",
+          "title": "Trump vows to investigate EU over fining of US tech companies",
+          "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+          "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-24T20:23:58.000Z",
+          "fetchedAt": "2026-07-25T03:42:32.141Z"
+        },
+        {
+          "id": "2026-07-24-67a45e4c",
+          "title": "Trump relance la guerre commerciale avec de nouveaux droits de douane",
+          "description": "Les nouveaux droits de douane que le président Donald Trump souhaite mettre en place sur les produits provenant des principaux partenaires commerciaux des Etats-Unis devraient être annoncés \"très prochainement\", a déclaré jeudi la porte-parole de la Maison Blanche, Karoline Leavitt.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260724-trump-relance-la-guerre-commerciale-avec-de-nouveaux-droits-de-douane",
+          "imageUrl": "https://s.france24.com/media/display/fdd64662-876c-11f1-868d-005056a97e36/w:1024/p:16x9/FR-20260724-150936-151119-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-24T14:40:26.000Z",
+          "fetchedAt": "2026-07-25T03:42:23.363Z"
+        },
+        {
+          "id": "2026-07-24-78354742",
+          "title": "Nouveaux droits de douane de Trump: l'UE s'en sort bien mais retient son souffle",
+          "description": "Six mois après une décision de la Cour suprême jugeant illégaux la plupart des tarifs douaniers imposés par Donald Trump au début de son mandat, le président américain a annoncé jeudi soir 23 juillet une nouvelle salve de taxes sur les produits importés d'une soixantaine de pays. Le point sur les gagnants et les perdants, avec une Union européenne qui figure parmi les bien lotis, sans pour autant être tout à fait tranquille.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260724-nouveaux-droits-de-douane-de-trump-l-ue-s-en-sort-bien-mais-retient-son-souffle",
+          "imageUrl": "https://s.rfi.fr/media/display/20ef1fce-8764-11f1-9996-005056bf30b7/w:1024/p:16x9/000-39QP9LQ.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-23T14:37:18.000Z",
-          "fetchedAt": "2026-07-24T03:48:07.087Z"
-        },
-        {
-          "id": "2026-07-23-cf678a67",
-          "title": "L’administration Trump envisage une intervention militaire au Mali, selon le “Washington Post”",
-          "description": "Pour contrer l’avancée du Groupe de soutien à l’islam et aux musulmans (Jnim) au Mali, l’administration Trump étudierait des options militaires. Mais Washington entend surtout se poser en offre sécuritaire alternative à Moscou, dont les paramilitaires de l’Africa Corps ont connu dernièrement des défaites cuisantes face aux djihadistes.",
-          "url": "https://www.courrierinternational.com/article/sahel-l-administration-trump-envisage-une-intervention-militaire-au-mali-selon-le-washington-post_252133",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/04/0/0/4200/2800/1200/630/60/0/83542a4_ftp-1-uwkzu9adppf7-afp-b99j4bn.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-23T13:31:20.000Z",
-          "fetchedAt": "2026-07-24T03:47:51.864Z"
+          "publishedAt": "2026-07-24T13:51:01.000Z",
+          "fetchedAt": "2026-07-25T03:42:31.963Z"
         }
       ]
     },
     {
-      "id": "cluster-23",
-      "topic": "Un éclair frappe une fusée chinoise en plein vol",
+      "id": "cluster-7",
+      "topic": "Roku raises streaming stick prices by up to 60 percent",
       "category": "tech",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-07-23-52fe3d2b",
-          "title": "Un éclair frappe une fusée chinoise en plein vol",
-          "description": "Une fusée chinoise a été heurtée par un éclair lors de son ascension dans l'atmosphère. Selon les médias chinois, cela n'a pas remis en cause le bon déploiement du satellite se trouvant à bord.",
-          "url": "https://www.numerama.com/sciences/2300575-un-eclair-frappe-une-fusee-chinoise-en-plein-vol.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/fusee-eclair.jpg?resize=1600,900&key=1f4b927f",
-          "source": "Numerama",
+          "id": "2026-07-24-e76c27b3",
+          "title": "Roku raises streaming stick prices by up to 60 percent",
+          "description": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+          "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RSS4K-PDP-feature_lifestyle-4.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-07-23T15:55:00.000Z",
-          "fetchedAt": "2026-07-24T03:48:07.097Z"
+          "publishedAt": "2026-07-24T19:41:06.000Z",
+          "fetchedAt": "2026-07-25T03:42:35.026Z"
         },
         {
-          "id": "2026-07-23-363eb81a",
-          "title": "Après Stellantis, Ford s’allie aussi à un constructeur chinois et lui confie une partie de son usine espagnole",
-          "description": "Geely vient de s'offrir 34 % d'une usine Ford en Espagne pour y fabriquer ses SUV « Made in Europe » et un peu plus encore.",
-          "url": "https://www.numerama.com/vroom/2300281-apres-stellantis-ford-sallie-aussi-a-un-constructeur-chinois-et-lui-confie-une-partie-de-son-usine-espagnole.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/partenariat-ford-geely.jpg?resize=1600,900&key=3ba13fa1",
-          "source": "Numerama",
+          "id": "2026-07-24-1cfa5867",
+          "title": "Roku raises streaming hardware prices by up to $50",
+          "description": "The Roku Ultra. | Image: Roku\t\n\nRoku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by as much as $50. Here's a rundown of the changes:\nStreaming Stick: $29.99 to $39.99\nStreaming Stick Plus: $39.99 to $59.99\nStreaming Stick 4K: $49.99 to $79.99\nRoku Ultra: $99.99 to $149.99\nRoku Streambar SE: $99.99 to $149.99\nRoku is currently holding a sale that puts some devices at their original prices, which you can see on this archived web page. Fox announced plans to acquire  …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Roku-Ultra.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-07-23T13:15:42.000Z",
-          "fetchedAt": "2026-07-24T03:48:07.097Z"
+          "publishedAt": "2026-07-24T18:07:19.000Z",
+          "fetchedAt": "2026-07-25T03:42:34.967Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+      "topic": "Students tell us how to keep graduation outfit costs down",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-07-23-ddde2a20",
-          "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
-          "description": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
-          "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg",
+          "id": "2026-07-24-8ecb1fb5",
+          "title": "Students tell us how to keep graduation outfit costs down",
+          "description": "Four newly graduated students tell us how they kept the cost of their dresses and suits down.",
+          "url": "https://www.bbc.co.uk/news/articles/cn8n9lzj136o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6be/live/5ca111c0-874c-11f1-a7ab-8b30adf0800a.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-07-23T23:50:38.000Z",
-          "fetchedAt": "2026-07-24T03:48:15.575Z"
+          "publishedAt": "2026-07-24T23:33:23.000Z",
+          "fetchedAt": "2026-07-25T03:42:36.892Z"
         }
       ]
     }
