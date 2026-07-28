@@ -52,10 +52,10 @@ export const BriefCard = memo(function BriefCard({ story, isActive, onObserve }:
       ref={cardRef}
       id={story.id}
       data-story-id={story.id}
-      className="h-[70vh] snap-start snap-always flex-shrink-0 px-4 py-2"
+      className="min-h-[70vh] snap-start snap-always flex-shrink-0 px-4 py-2 flex flex-col"
     >
       <div
-        className={`h-full rounded-2xl border backdrop-blur-xl transition-all duration-300 overflow-hidden flex flex-col ${
+        className={`flex-1 rounded-2xl border backdrop-blur-xl transition-all duration-300 overflow-hidden flex flex-col ${
           isActive
             ? 'bg-white/[0.03] border-white/10'
             : 'bg-white/[0.02] border-white/5'
