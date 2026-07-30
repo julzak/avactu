@@ -1,264 +1,242 @@
 {
-  "generatedAt": "2026-07-29T03:48:29.490Z",
+  "generatedAt": "2026-07-30T03:37:41.678Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "France: Zidane «espère» que Christophe Gleizes, incarcéré en Algérie, «puisse re",
+      "topic": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-29-0a376384",
-          "title": "France: Zidane «espère» que Christophe Gleizes, incarcéré en Algérie, «puisse rentrer à la maison»",
-          "description": "Zinédine Zidane, le nouveau sélectionneur de l'équipe de France de football, a pour la première fois apporté publiquement son soutien à Christophe Gleizes, condamné à sept ans de prison pour « apologie du terrorisme » et incarcéré en Algérie depuis plus d'un an. Un nouveau soutien de taille pour les proches du journaliste français.",
-          "url": "https://www.rfi.fr/fr/france/20260729-france-zidane-esp%C3%A8re-que-christophe-gleizes-incarc%C3%A9r%C3%A9-en-alg%C3%A9rie-puisse-rentrer-%C3%A0-la-maison",
-          "imageUrl": "https://s.rfi.fr/media/display/c9cc1caa-8ae8-11f1-beac-005056a90284/w:1024/p:16x9/2026-07-28T093438Z-935741827-UP1EM7S0QLOG2-RTRMADP-3-SOCCER-FRANCE.jpg",
+          "id": "2026-07-30-628dcbcd",
+          "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+          "description": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
+          "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-30T03:33:01.000Z",
+          "fetchedAt": "2026-07-30T03:33:55.236Z"
+        },
+        {
+          "id": "2026-07-30-8d46cd4d",
+          "title": "Procès fédéral aux États-Unis : l'assaillant de Salman Rushdie reconnu coupable de terrorisme",
+          "description": "Hadi Matar, qui avait agressé l'écrivain Salman Rushdie à l'aide d'un couteau en 2022, a été reconnu coupable d'\"acte de terrorisme\" par la justice fédérale américaine, mercredi, pour ses sympathies envers l'Iran et le Hezbollah libanais. Déjà condamné à 25 ans de prison par la justice de l'État de New York pour cette tentative de meurtre, il risque désormais la prison à vie.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260730-etats-unis-assaillant-salman-rushdie-hadi-matar-reconnu-coupable-terrorisme-hezbollah",
+          "imageUrl": "https://s.france24.com/media/display/95f9d91a-8bc1-11f1-a65d-005056a97e36/w:1024/p:16x9/AP26204708764400.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-30T02:56:30.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.214Z"
+        },
+        {
+          "id": "2026-07-30-891f3092",
+          "title": "En direct : l'armée américaine annonce avoir lancé de nouvelles frappes \"puissantes\" en Iran",
+          "description": "L'armée américaine a annoncé avoir lancé de nouvelles frappes en Iran dans la nuit de mercredi à jeudi en réponse à l'attaque iranienne de mardi visant ses forces \"basées au Moyen-Orient\", les premières sur le sol iranien depuis presque une semaine. Des médias font état d'attaques sur l'île de Qeshm et la ville d'Abadan. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260730-en-direct-moyen-orient-iran-etats-unisl-nouvelles-frappes-puissantes-donald-trump-ormuz",
+          "imageUrl": "https://s.france24.com/media/display/ed7b4e84-8af0-11f1-b428-005056a97e36/w:1024/p:16x9/2026-07-26T000727Z-244236030-RC2BLMAN50PU-RTRMADP-3-IRAN-CRISIS-CENTCOM.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-30T01:04:53.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.214Z"
+        },
+        {
+          "id": "2026-07-29-706171e6",
+          "title": "Donald Trump dévoile un plan de rénovation de l’aéroport de Washington pour 22,5 milliards de dollars",
+          "description": "Le ministre des transports a annoncé que le projet serait financé en partie par la compagnie United Airlines, pour qui Dulles, est un hub important.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/30/donald-trump-devoile-un-plan-de-renovation-de-l-aeroport-de-washington-pour-22-5-milliards-de-dollars_6736549_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-29T23:52:37.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.276Z"
+        },
+        {
+          "id": "2026-07-29-e71624cb",
+          "title": "L’assaillant de Salman Rushdie reconnu coupable de terrorisme aux Etats-Unis",
+          "description": "Le ministère américain de la justice a jugé coupable Hadi Matar pour « commission d’un acte de terrorisme », son attaque contre l’écrivain des « Versets sataniques » motivée par la fatwa lancée en 1989 par l’ayatollah Khomeini.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/30/l-assaillant-de-salman-rushdie-reconnu-coupable-de-terrorisme-aux-etats-unis_6736516_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-29T23:48:06.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.276Z"
+        },
+        {
+          "id": "2026-07-29-7596ba2d",
+          "title": "Les États-Unis vont rétablir 600 millions de dollars de financement pour l'Alliance du vaccin",
+          "description": "C'est le dernier revirement en date de l'administration Trump. Les États-Unis vont débloquer 600 millions de dollars de financement destinés à l'Alliance mondiale du vaccin Gavi qui avaient été gelés par Robert F. Kennedy, le ministre de la Santé. Le Congrès américain alloue depuis plus de 20 ans des fonds à cette organisation, chargée de distribuer dans le monde des vaccins à des prix abordables. Cette décision est un désaveu pour Robert F. Kennedy, connu pour son vaccinoscepticisme.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260729-les-%C3%A9tats-unis-vont-r%C3%A9tablir-600-millions-de-dollars-de-financement-pour-l-alliance-du-vaccin",
+          "imageUrl": "https://s.rfi.fr/media/display/4cd005ca-8b71-11f1-a688-005056bf30b7/w:1024/p:16x9/SANTE-ETATS-UNIS-VACCINS.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-29T03:05:09.000Z",
-          "fetchedAt": "2026-07-29T03:44:42.316Z"
-        },
-        {
-          "id": "2026-07-28-bc793b70",
-          "title": "Incendies en France: «Le coût peut représenter plusieurs centaines de millions, voire de milliards d'euros»",
-          "description": "Depuis le début de l'année, plus de 116 000 hectares ont brûlé en France. Les violents incendies qui ont ravagé ces derniers jours 42 000 hectares, rien qu'en Gironde, ont fait exploser le bilan du désastre économique. Les assureurs s'attendent à une facture non négligeable. Outre les maisons, des entreprises et des exploitations agricoles sont parties en fumée. La Chambre de commerce et d'industrie française estime que 60 000 personnes évacuées ne peuvent pas bénéficier du chômage partiel, ni se mettre en télétravail. Le décryptage de Sylvain Bersinger, économiste et fondateur du cabinet Bersingéco.",
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260728-incendies-en-france-le-co%C3%BBt-peut-repr%C3%A9senter-plusieurs-centaines-de-millions-voire-de-milliards-d-euros",
-          "imageUrl": "https://s.rfi.fr/media/display/b2b554d4-8a5f-11f1-937a-005056a90284/w:1024/p:16x9/000-C39N866.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T20:40:47.000Z",
-          "fetchedAt": "2026-07-29T03:44:42.316Z"
-        },
-        {
-          "id": "2026-07-28-b0275303",
-          "title": "Attaque au couteau à Paris : levée de la garde à vue du suspect, conduit en psychiatrie",
-          "description": "La garde à vue de l'homme interpellé lundi après avoir blessé à l'arme blanche trois femmes, dont deux grièvement, dans le 17e arrondissement de Paris, a été levée mardi pour raison psychiatrique. Le suspect était  \"inconnu des services de police et de l'autorité judiciaire\".",
-          "url": "https://www.france24.com/fr/france/20260728-attaque-au-couteau-paris-lev%C3%A9e-garde-vue-du-suspect-conduit-psychiatrie",
-          "imageUrl": "https://s.france24.com/media/display/a7daeada-8ac1-11f1-bade-005056a90284/w:1024/p:16x9/000-C3A96R3.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T20:21:44.000Z",
-          "fetchedAt": "2026-07-29T03:44:29.175Z"
-        },
-        {
-          "id": "2026-07-28-46e7a245",
-          "title": "France: la quatrième vague de chaleur de l'été arrive et inquiète le sud-ouest en proie aux flammes",
-          "description": "Mardi 28 juillet, Météo-France a officiellement placé 16 départements, dont la Gironde et les Landes, en vigilance orange canicule à compter de mercredi. Cette quatrième vague de chaleur en l'espace de deux mois suscite bien des craintes en France : les Français et les Françaises vont encore souffrir de la chaleur, et les incendies qui font rage dans le sud-ouest pourraient être favorisés par ces nouvelles températures très élevées.",
-          "url": "https://www.rfi.fr/fr/france/20260728-france-la-quatri%C3%A8me-vague-de-chaleur-de-l-%C3%A9t%C3%A9-arrive-et-inqui%C3%A8te-le-sud-ouest-en-proie-aux-flammes",
-          "imageUrl": "https://s.rfi.fr/media/display/aff9b3fc-8aa0-11f1-89bf-005056bf30b7/w:1024/p:16x9/FRANCE-CANICULE-CHALEUR-TEMPERATURE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T16:25:31.000Z",
-          "fetchedAt": "2026-07-29T03:44:42.316Z"
-        },
-        {
-          "id": "2026-07-28-d0fff13c",
-          "title": "Incendies en France : à Biscarrosse, les habitants évacués rentrent progressivement chez eux",
-          "description": "Dans les Landes, l'accalmie se confirme. Les feux de Biscarrosse sont désormais fixés et des milliers d'habitants peuvent enfin regagner leur domicile, après plusieurs jours d'évacuation. Les autorités appellent toutefois à la prudence, le risque de reprises de feu n'étant pas totalement écarté.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260728-incendies-en-france-%C3%A0-biscarrosse-les-habitants-%C3%A9vacu%C3%A9s-rentrent-progressivement-chez-eux",
-          "imageUrl": "https://s.france24.com/media/display/eab09afc-8a9a-11f1-990c-005056bfb2b6/w:1024/p:16x9/FR-20260728-170350-170612-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T16:07:14.000Z",
-          "fetchedAt": "2026-07-29T03:44:29.175Z"
-        },
-        {
-          "id": "2026-07-28-f5376d10",
-          "title": "L'Algérie dément avoir demandé un quota de visas à la France",
-          "description": "Le président algérien, Abdelmadjid Tebboune, a affirmé, dans une interview diffusée lundi soir, n'avoir \"jamais\" demandé de quota de visas à la France, après une vive polémique déclenchée par des propos de l'ambassadeur français à ce sujet.",
-          "url": "https://www.france24.com/fr/afrique/20260728-l-alg%C3%A9rie-d%C3%A9ment-avoir-demand%C3%A9-un-quota-de-visas-%C3%A0-la-france",
-          "imageUrl": "https://s.france24.com/media/display/85a21a62-8a97-11f1-8524-005056bf30b7/w:1024/p:16x9/000-C2DC3KZ.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T15:41:52.000Z",
-          "fetchedAt": "2026-07-29T03:44:29.175Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Un feu “Godzilla” qui met la France à l’épreuve",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-29-9db36d4b",
-          "title": "Un feu “Godzilla” qui met la France à l’épreuve",
-          "description": "Pour ce journaliste allemand de la “Süddeutsche Zeitung”, les feux de forêt dans le sud-ouest de la France évoquent le monstrueux reptile des vieux films japonais, qui dévaste tout sur son passage. Malgré l’impuissance évidente de la classe politique, il relève toutefois que la cohésion sociale des Français reste étonnamment intacte.",
-          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-un-feu-godzilla-qui-met-la-france-a-l-epreuve_253231",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/27/0/0/6000/4000/1200/630/60/0/440efc8_ftp-1-dnmql4opjmvx-afp-c3ba4g3.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-29T03:00:30.000Z",
-          "fetchedAt": "2026-07-29T03:44:29.641Z"
-        },
-        {
-          "id": "2026-07-28-92e933d7",
-          "title": "Cinéma: dans «Le triangle d'or», Hélène Rosselet-Ruiz filme deux femmes dans une cage dorée",
-          "description": "Pour gagner sa vie avant de rejoindre l'armée, Laura, une jeune fille de 20 ans, accepte un emploi au service de Souria. Cette dernière est la maîtresse d'un prince saoudien et vit recluse, dans l'attente des visites de son amant. Dans cet univers de luxe démesuré, un lien fragile va se tisser entre les deux jeunes femmes. Voilà pour l'intrigue du film Le triangle d'or qui sort en salles mercredi 29 juillet en France, après avoir été projeté hors compétition au festival de Cannes.",
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20260728-cin%C3%A9ma-dans-le-triangle-d-or-h%C3%A9l%C3%A8ne-rosselet-ruiz-filme-deux-femmes-dans-une-cage-dor%C3%A9e",
-          "imageUrl": "https://s.rfi.fr/media/display/65c0deb4-8a87-11f1-b5bb-005056a90284/w:1024/p:16x9/LE-TRIANGLE-D-OR-PHOTO-1-Les-Films-de-Pierre.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T23:31:47.000Z",
-          "fetchedAt": "2026-07-29T03:44:42.316Z"
-        },
-        {
-          "id": "2026-07-28-fdd399cb",
-          "title": "Le mégafeu en Gironde est \"stabilisé\" mais un nouveau \"pic de chaleur\" arrive",
-          "description": "En Gironde, où les flammes ont déjà ravagé 42 000 hectares, la journée mardi a été marquée par 14 reprises de feu, qui ont forcé l'évacuation préventive de milliers de touristes. L'incendie est \"stabilisé\" et ne \"progresse pas\", a cependant affirmé en fin de journée la préfète du département. La vigilance reste de mise, alors que la Gironde et les Landes s'apprêtent à vivre mercredi un \"fort pic de chaleur\".",
-          "url": "https://www.france24.com/fr/france/20260728-france-incendies-feux-megafeu-gironde-stabilise-pic-chaleur-canicule-pompiers-evacuations-landes",
-          "imageUrl": "https://s.france24.com/media/display/2e54f1fe-8acd-11f1-a5c6-005056a97e36/w:1024/p:16x9/AP26209618284079.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T21:49:30.000Z",
-          "fetchedAt": "2026-07-29T03:44:29.175Z"
-        },
-        {
-          "id": "2026-07-28-7fc68867",
-          "title": "Cameroun: séjour d'une longueur record pour Paul Biya en Suisse",
-          "description": "Au Cameroun, 50 jours que le président Biya a quitté le Cameroun. Parti du Cameroun le 7 juin dernier, le chef de l’état camerounais qui est âgé de 93 ans, dont bientôt 44 au pouvoir, n’a plus été vu en public depuis cette date. Une absence qui alimente les débats au sein de la classe politique et dans les médias camerounais. L’opposition dénonce le fait que le Cameroun soit sur pilotage automatique, tandis que la présidence camerounaise rassure.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260728-cameroun-s%C3%A9jour-d-une-longueur-record-pour-paul-biya-en-suisse",
-          "imageUrl": "https://s.france24.com/media/display/ddc2c4e4-8abf-11f1-b22a-005056bfb2b6/w:1024/p:16x9/FRAN260728-2143-Live-01.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T20:21:33.000Z",
-          "fetchedAt": "2026-07-29T03:44:29.175Z"
-        },
-        {
-          "id": "2026-07-28-213b34bd",
-          "title": "En Espagne, le « pacte d’Etat » de Pedro Sanchez face à l’urgence climatique est rejeté par une droite climatosceptique",
-          "description": "Alors que les incendies monstres qui ravagent le pays sont en passe d’être fixés, le premier ministre socialiste estime qu’il est urgent d’adopter les mesures de prévention élaborées en 2025 avec la société civile et les scientifiques.",
-          "url": "https://www.lemonde.fr/planete/article/2026/07/28/en-espagne-le-pacte-d-etat-de-pedro-sanchez-face-a-l-urgence-climatique-est-rejete-par-la-droite_6735402_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T17:42:43.000Z",
-          "fetchedAt": "2026-07-29T03:44:28.949Z"
-        },
-        {
-          "id": "2026-07-28-5a5e8f8f",
-          "title": "Mort du journaliste sénégalais Idriss Fall, une voix influente de l’Afrique francophone",
-          "description": "Grand reporter puis rédacteur en chef du service francophone de la radio américaine Voice of America, il avait couvert de nombreux conflits en Afrique. Il est mort le 24 juillet, à l’âge de 72 ans.",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/07/28/mort-du-journaliste-senegalais-idriss-fall-une-voix-influente-de-l-afrique-francophone_6735329_3382.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T16:29:47.000Z",
-          "fetchedAt": "2026-07-29T03:44:28.949Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "A Washington, Volodymyr Zelensky soigne sa nouvelle relation avec Donald Trump e",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-29-1a399b91",
-          "title": "A Washington, Volodymyr Zelensky soigne sa nouvelle relation avec Donald Trump et décroche une victoire au Sénat américain",
-          "description": "Alors que le locataire de la Maison Blanche se montre plus prévenant avec son homologue ukrainien, un nouveau paquet de sanctions contre la Russie a passé une étape décisive à la chambre haute du Congrès.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/29/a-washington-volodymyr-zelensky-soigne-sa-nouvelle-relation-avec-donald-trump-et-decroche-une-victoire-au-senat-americain_6735906_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-29T03:00:03.000Z",
-          "fetchedAt": "2026-07-29T03:44:28.949Z"
-        },
-        {
-          "id": "2026-07-29-35e32ef4",
-          "title": "« Musango matusadonaensis », un nouveau dinosaure découvert au Zimbabwe qui arpentait la brousse il y a 210 millions d’années",
-          "description": "La découverte de cette espèce découle de l’examen d’un squelette déterré en 2018, dans le nord du Zimbabwe. Le dinosaure mesurait environ 4,5 m de long et pesait seulement 222 kg. Les chercheurs pensent qu’il était probablement herbivore ou omnivore.",
-          "url": "https://www.lemonde.fr/sciences/article/2026/07/29/musango-matusadonaensis-un-nouveau-dinosaure-decouvert-au-zimbabwe-qui-arpentait-la-brousse-il-y-a-210-millions-d-annees_6735739_1650684.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-29T00:40:36.000Z",
-          "fetchedAt": "2026-07-29T03:44:28.949Z"
-        },
-        {
-          "id": "2026-07-29-cb5aafb2",
-          "title": "Etats-Unis : l’industrie spatiale pourrait bénéficier de règles environnementales allégées",
-          "description": "L’administration Trump souhaite éliminer des exigences fédérales de protection de la nature pour « obtenir plus rapidement et plus facilement les autorisations nécessaires pour lancer des fusées et faire rentrer des engins spatiaux dans l’atmosphère ».",
-          "url": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-l-industrie-spatiale-pourrait-beneficier-de-regles-environnementales-allegees_6735706_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-29T00:03:35.000Z",
-          "fetchedAt": "2026-07-29T03:44:28.949Z"
-        },
-        {
-          "id": "2026-07-28-b5982396",
-          "title": "Etats-Unis : les robots humanoïdes étrangers interdits à l’importation",
-          "description": "Estimant qu’ils présentent « des risques inacceptables pour la sécurité nationale » l’administration Trump a banni les « appareils robotiques avancés » dont la majorité sont produits en Chine.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-les-robots-humanoides-etrangers-interdits-a-l-importation_6735639_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T22:56:46.000Z",
-          "fetchedAt": "2026-07-29T03:44:28.949Z"
-        },
-        {
-          "id": "2026-07-28-decde3f2",
-          "title": "« En trois ans, l’Ukraine a bâti l’un des complexes militaro-industriels les plus innovants au monde »",
-          "description": "Longtemps dépendante d’une aide occidentale indispensable à sa survie face à la Russie, l’Ukraine est aujourd’hui un fournisseur de technologies militaires, en Europe comme au Moyen-Orient, relèvent Arthur de Liedekerke et Hector de Rivoire, deux spécialistes de sécurité internationale, dans une tribune au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/28/en-trois-ans-l-ukraine-a-bati-l-un-des-complexes-militaro-industriels-les-plus-innovants-au-monde_6735330_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T16:30:08.000Z",
-          "fetchedAt": "2026-07-29T03:44:28.949Z"
-        },
-        {
-          "id": "2026-07-28-8b3b1d57",
-          "title": "Stocks de munitions américains : l’inquiétude grandit",
-          "description": "Les stocks de munitions de l'armée américaine sont-ils sous tension ? Alors que le New York Times alerte sur un possible affaiblissement des réserves, notamment en missiles intercepteurs Patriot, le général de corps d'armée Michel Yakovleff, ancien plus haut gradé français au sein de l'OTAN, décrypte la situation.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260728-stocks-de-munitions-am%C3%A9ricains-l-inqui%C3%A9tude-grandit",
-          "imageUrl": "https://s.france24.com/media/display/99389974-8a9d-11f1-a8ac-005056a90284/w:1024/p:16x9/FR-20260728-084434-085006-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-28T16:08:23.000Z",
-          "fetchedAt": "2026-07-29T03:44:29.175Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-1",
-      "topic": "Intelligence artificielle : une pétition pour « temporiser » la sortie des nouve",
-      "category": "tech",
-      "importance": 7,
-      "articles": [
-        {
-          "id": "2026-07-29-d775ccfb",
-          "title": "Intelligence artificielle : une pétition pour « temporiser » la sortie des nouveaux modèles",
-          "description": "Plus de 1 100 cadres de l’intelligence artificielle ont demandé au gouvernement américain qu’il soutienne une initiative pour freiner le développement automatisé des nouveaux modèles alors qu’ils craignent que ces derniers finissent par dépasser nos capacités à les comprendre ou les contrôler.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/29/intelligence-artificielle-une-petition-pour-temporiser-la-sortie-des-nouveaux-modeles_6735805_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-07-29T01:59:25.000Z",
-          "fetchedAt": "2026-07-29T03:44:42.379Z"
+          "publishedAt": "2026-07-29T17:17:31.000Z",
+          "fetchedAt": "2026-07-30T03:33:55.294Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Crèches People & Baby : le Syndicat national des professionnels de la petite enf",
+      "topic": "En Chine, la mort cachée d’une enfant dans un essai clinique soulève de nombreus",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-30-a841089c",
+          "title": "En Chine, la mort cachée d’une enfant dans un essai clinique soulève de nombreuses questions",
+          "description": "La fillette de 6 ans, atteinte d’une maladie non létale, avait été traitée par une thérapie génique expérimentale, révèle une enquête de la revue « Science ».",
+          "url": "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-30T03:30:08.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.276Z"
+        },
+        {
+          "id": "2026-07-30-b0170c44",
+          "title": "«C'est un combat contre un poids lourd»: les pompiers mobilisés face au mégafeu en Gironde",
+          "description": "Sur le terrain, les pompiers poursuivent leur lutte contre le mégafeu qui a ravagé la Gironde. Aux côtés de bénévoles, ils interviennent sur les reprises de feu et s'appuient sur d'importants moyens aériens pour empêcher les flammes de gagner les secteurs encore épargnés.",
+          "url": "https://www.rfi.fr/fr/france/20260730-c-est-un-combat-contre-un-poids-lourd-les-pompiers-mobilis%C3%A9s-face-au-m%C3%A9gafeu-en-gironde",
+          "imageUrl": "https://s.rfi.fr/media/display/bc9916f6-8b9b-11f1-9c3d-005056bf30b7/w:1024/p:16x9/2026-07-29T131801Z-1385216281-RC2PNMASH41C-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-30T03:05:11.000Z",
+          "fetchedAt": "2026-07-30T03:33:55.294Z"
+        },
+        {
+          "id": "2026-07-29-06e34f6c",
+          "title": "Des nomades digitaux en quête d'une meilleure vie en Chine",
+          "description": "À deux heures de Shanghai, les rizières remplacent les gratte-ciel. Dans la province du Zhejiang, le village de Huzhou accueille de nombreux jeunes urbains. Des dizaines de jeunes Chinois qui ont choisi de quitter leur emploi de bureau en ville pour devenir des « nomades digitaux », grâce aux nouvelles technologies pour travailler à la campagne. Une tendance encore marginale mais qui reflète une remise en question grandissante du modèle de réussite traditionnel en Chine.",
+          "url": "https://www.rfi.fr/fr/podcasts/les-s%C3%A9ries-des-m%C3%A9dias-francophones-publics/20260729-des-nomades-digitaux-en-qu%C3%AAte-d-une-meilleure-vie-en-chine",
+          "imageUrl": "https://s.rfi.fr/media/display/67245c1c-8a97-11f1-8be6-005056a97e36/w:1024/p:16x9/Lily-a-quitt%C3%A9-le-monde-de-l-entreprise-pour-ouvrir-un-h%C3%B4tel-pour-cyclistes-et-ne-regrette-pas-son-choix.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-29T22:51:36.000Z",
+          "fetchedAt": "2026-07-30T03:33:55.294Z"
+        },
+        {
+          "id": "2026-07-29-648fb392",
+          "title": "Infantino défend son projet d'investisseurs privés à la Fifa : \"une opportunité, pas une obligation\"",
+          "description": "Face au tollé provoqué par son projet de créer une société commerciale ouverte aux investisseurs privés, le patron de la Fifa s'est défendu mercredi : \"C'est une occasion en or de dynamiser le développement du sport à l'échelle mondiale. Mais encore une fois, il ne s'agit que d'une proposition, et non d'une obligation\", a affirmé Gianni Infantino.",
+          "url": "https://www.france24.com/fr/sports/20260729-fifa-projet-investisseurs-prives-opportunite-pas-obligation-gianni-infantino-scandale",
+          "imageUrl": "https://s.france24.com/media/display/a9149358-8b96-11f1-a660-005056bf30b7/w:1024/p:16x9/2026-07-28T162945Z-1037867588-RC28KJAED3SY-RTRMADP-3-SOCCER-FIFA-STAKE.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-29T21:50:49.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.214Z"
+        },
+        {
+          "id": "2026-07-29-33dd119f",
+          "title": "Le parcours à l’étranger des deux lauréats chinois de la médaille Fields fait débat en Chine",
+          "description": "Quelques jours après l’attribution de la médaille Fields 2026 à quatre mathématiciens, dont deux Chinois, Hong Wang et Yu Deng, les internautes chinois se disputent sur la contribution de leur formation universitaire dans leur réussite, chinoise ou occidentale ?",
+          "url": "https://www.courrierinternational.com/article/sciences-le-parcours-a-l-etranger-des-deux-laureats-chinois-de-la-medaille-fields-fait-debat-en-chine_254137",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/23/0/0/3600/2400/1200/630/60/0/796df58_ftp-1-pj4boquw2sdu-afp-c2zm7g9.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-29T16:46:15.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.870Z"
+        },
+        {
+          "id": "2026-07-29-9ae41960",
+          "title": "«Les pays africains exportateurs de matières premières intéressent Pékin, les autres sont les grands perdants»",
+          "description": "La Chine bat tous ses records économiques avec l'Afrique. Commerce, investissements... Pékin affiche des chiffres historiques et présente cette dynamique comme la preuve d'un partenariat gagnant-gagnant. Qu'est-ce qui se cache derrière ces sommes ? Xavier Aurégan, géographe spécialiste des relations entre la Chine et les pays africains, chercheur associé à l'Institut français de géopolitique et maître de conférences à l'université catholique de Lille, est l'invité d'Afrique Midi.",
+          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20260729-les-pays-africains-exportateurs-de-mati%C3%A8res-premi%C3%A8res-int%C3%A9ressent-p%C3%A9kin-les-autres-sont-les-grands-perdants",
+          "imageUrl": "https://s.rfi.fr/media/display/efa4440c-51b8-11ec-8747-005056bf30b7/w:1024/p:16x9/2021-11-29T145231Z_1442538269_RC2Y3R9YA5RY_RTRMADP_3_AFRICA-CHINA-SUMMIT.JPG",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-29T15:42:43.000Z",
+          "fetchedAt": "2026-07-30T03:33:55.294Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "L’immobilier, cheval de Troie russe sur le sol européen ?",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-07-30-4d88cc85",
+          "title": "L’immobilier, cheval de Troie russe sur le sol européen ?",
+          "description": "La Finlande, la Pologne et les pays baltes ont interdit aux ressortissants russes de conclure des transactions immobilières afin d’éviter que des biens soient utilisés pour des activités de renseignement ou de sabotage. Ce n’est pas encore le cas ailleurs en Europe, s’inquiètent plusieurs experts auprès du quotidien suédois “Dagens Nyheter”.",
+          "url": "https://www.courrierinternational.com/article/vu-de-suede-l-immobilier-cheval-de-troie-russe-sur-le-sol-europeen_245830",
+          "imageUrl": "https://focus.courrierinternational.com/2024/12/30/0/0/5808/3872/1200/630/60/0/aed568d_1735561006973-020-1239027560.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-30T03:00:34.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.870Z"
+        },
+        {
+          "id": "2026-07-30-e29f83bf",
+          "title": "La chroniqueuse pro-Kremlin Xenia Fedorova visée par un arrêté d’expulsion",
+          "description": "La journaliste russe, qui intervient régulièrement sur des chaînes appartenant au milliardaire conservateur Vincent Bolloré, s’est vu remettre mercredi un arrêté ministériel d’expulsion, décision qu’elle va contester. Ces derniers mois, des experts en désinformation avaient alerté sur l’influence de l’ex-patronne de la chaîne russe RT France, à l’approche de la présidentielle de 2027.",
+          "url": "https://www.courrierinternational.com/article/france-la-chroniqueuse-pro-kremlin-xenia-fedorova-visee-par-un-arrete-d-expulsion_254301",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/29/0/0/3204/2136/1200/630/60/0/4831f6b_ftp-1-74v1hshamswg-afp-c3ge9we.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-30T03:00:12.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.870Z"
+        },
+        {
+          "id": "2026-07-29-b278d7ef",
+          "title": "EN DIRECT, guerre en Ukraine : frappes russes sur Kiev",
+          "description": "Les autorités ont déclenché une alerte aux missiles russes dans la capitale ukrainienne, où de puissantes explosions ont été entendues peu après. « Les Russes ont préparé une attaque massive il y a quelques jours, et il y a une forte probabilité que la frappe soit menée cette nuit » avait mis en garde sur X, mercredi soir, le président ukrainien, Volodymyr Zelensky.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-explosions-entendues-a-kiev_6732775_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-29T23:06:18.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.276Z"
+        },
+        {
+          "id": "2026-07-29-a59df769",
+          "title": "Comment la France en est venue à prendre un arrêté d’expulsion contre la propagandiste russe Xenia Fedorova",
+          "description": "L’ex-directrice de Russia Today France est sommée de quitter le territoire français par le ministère de l’intérieur pour « atteinte aux intérêts fondamentaux de l’Etat ». Les dirigeants des groupes Bolloré et Lagardère continuent de la soutenir.",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/07/29/comment-la-france-en-est-venue-a-prendre-un-arrete-d-expulsion-contre-la-propagandiste-russe-xenia-fedorova_6736410_3236.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-29T18:12:52.000Z",
+          "fetchedAt": "2026-07-30T03:33:41.276Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-07-29-95d6f987",
+          "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+          "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.\n\"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon.\"\nNadella's confirmation comes months after a report from Fortune revealed that Microsoft is working on a super app that blends its …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-07-29T22:17:38.000Z",
+          "fetchedAt": "2026-07-30T03:34:00.077Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Privatisation de TAP Air Portugal : Air France KLM et Lufthansa ont déposé leurs",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-07-29-ee39d23a",
-          "title": "Crèches People & Baby : le Syndicat national des professionnels de la petite enfance demande une enquête administrative",
-          "description": "Le SNPPE réclame également, dans une lettre adressée à Sébastien Lecornu, « un moratoire sur toute nouvelle autorisation, reprise d’établissement, délégation de service public ou réservation de berceaux au bénéfice du groupe ».",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/29/creches-people-baby-le-syndicat-national-des-professionnels-de-la-petite-enfance-demande-une-enquete-administrative_6735871_3224.html",
+          "id": "2026-07-30-ebce2eee",
+          "title": "Privatisation de TAP Air Portugal : Air France KLM et Lufthansa ont déposé leurs offres concurrentes",
+          "description": "Le groupe franco-néerlandais et le géant allemand ont présenté à Lisbonne des propositions fermes pour intégrer à leurs réseaux commerciaux respectifs la compagnie nationale portugaise. Décision à l’automne.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/30/privatisation-de-tap-air-portugal-air-france-klm-et-lufthansa-ont-depose-leurs-offres-concurrentes_6736652_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-29T02:53:38.000Z",
-          "fetchedAt": "2026-07-29T03:44:47.037Z"
+          "publishedAt": "2026-07-30T03:30:05.000Z",
+          "fetchedAt": "2026-07-30T03:33:59.923Z"
         }
       ]
     }
