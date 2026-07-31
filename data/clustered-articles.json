@@ -1,242 +1,209 @@
 {
-  "generatedAt": "2026-07-30T03:37:41.678Z",
+  "generatedAt": "2026-07-31T03:58:32.020Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "topic": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-30-628dcbcd",
-          "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-          "description": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
-          "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg",
+          "id": "2026-07-31-49470c82",
+          "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+          "description": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+          "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ad1/live/af28c2f0-8c81-11f1-a7ab-8b30adf0800a.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-07-30T03:33:01.000Z",
-          "fetchedAt": "2026-07-30T03:33:55.236Z"
+          "publishedAt": "2026-07-31T03:24:14.000Z",
+          "fetchedAt": "2026-07-31T03:54:46.481Z"
         },
         {
-          "id": "2026-07-30-8d46cd4d",
-          "title": "Procès fédéral aux États-Unis : l'assaillant de Salman Rushdie reconnu coupable de terrorisme",
-          "description": "Hadi Matar, qui avait agressé l'écrivain Salman Rushdie à l'aide d'un couteau en 2022, a été reconnu coupable d'\"acte de terrorisme\" par la justice fédérale américaine, mercredi, pour ses sympathies envers l'Iran et le Hezbollah libanais. Déjà condamné à 25 ans de prison par la justice de l'État de New York pour cette tentative de meurtre, il risque désormais la prison à vie.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260730-etats-unis-assaillant-salman-rushdie-hadi-matar-reconnu-coupable-terrorisme-hezbollah",
-          "imageUrl": "https://s.france24.com/media/display/95f9d91a-8bc1-11f1-a65d-005056a97e36/w:1024/p:16x9/AP26204708764400.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-30T02:56:30.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.214Z"
-        },
-        {
-          "id": "2026-07-30-891f3092",
-          "title": "En direct : l'armée américaine annonce avoir lancé de nouvelles frappes \"puissantes\" en Iran",
-          "description": "L'armée américaine a annoncé avoir lancé de nouvelles frappes en Iran dans la nuit de mercredi à jeudi en réponse à l'attaque iranienne de mardi visant ses forces \"basées au Moyen-Orient\", les premières sur le sol iranien depuis presque une semaine. Des médias font état d'attaques sur l'île de Qeshm et la ville d'Abadan. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260730-en-direct-moyen-orient-iran-etats-unisl-nouvelles-frappes-puissantes-donald-trump-ormuz",
-          "imageUrl": "https://s.france24.com/media/display/ed7b4e84-8af0-11f1-b428-005056a97e36/w:1024/p:16x9/2026-07-26T000727Z-244236030-RC2BLMAN50PU-RTRMADP-3-IRAN-CRISIS-CENTCOM.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-30T01:04:53.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.214Z"
-        },
-        {
-          "id": "2026-07-29-706171e6",
-          "title": "Donald Trump dévoile un plan de rénovation de l’aéroport de Washington pour 22,5 milliards de dollars",
-          "description": "Le ministre des transports a annoncé que le projet serait financé en partie par la compagnie United Airlines, pour qui Dulles, est un hub important.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/30/donald-trump-devoile-un-plan-de-renovation-de-l-aeroport-de-washington-pour-22-5-milliards-de-dollars_6736549_3210.html",
+          "id": "2026-07-30-3b4394d8",
+          "title": "​Bande de Gaza : Donald Trump annonce un accord sur le désarmement du Hamas",
+          "description": "Ni le Hamas, ni Israël n’ont pour l’heure officiellement confirmé un tel accord. Le président américain affirme que les forces israéliennes se retireront du territoire palestinien « à mesure que le désarmement s’achève ».",
+          "url": "https://www.lemonde.fr/international/article/2026/07/31/bande-de-gaza-donald-trump-annonce-un-accord-sur-le-desarmement-du-hamas_6737076_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-29T23:52:37.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.276Z"
+          "publishedAt": "2026-07-30T23:53:54.000Z",
+          "fetchedAt": "2026-07-31T03:54:31.165Z"
         },
         {
-          "id": "2026-07-29-e71624cb",
-          "title": "L’assaillant de Salman Rushdie reconnu coupable de terrorisme aux Etats-Unis",
-          "description": "Le ministère américain de la justice a jugé coupable Hadi Matar pour « commission d’un acte de terrorisme », son attaque contre l’écrivain des « Versets sataniques » motivée par la fatwa lancée en 1989 par l’ayatollah Khomeini.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/30/l-assaillant-de-salman-rushdie-reconnu-coupable-de-terrorisme-aux-etats-unis_6736516_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-29T23:48:06.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.276Z"
-        },
-        {
-          "id": "2026-07-29-7596ba2d",
-          "title": "Les États-Unis vont rétablir 600 millions de dollars de financement pour l'Alliance du vaccin",
-          "description": "C'est le dernier revirement en date de l'administration Trump. Les États-Unis vont débloquer 600 millions de dollars de financement destinés à l'Alliance mondiale du vaccin Gavi qui avaient été gelés par Robert F. Kennedy, le ministre de la Santé. Le Congrès américain alloue depuis plus de 20 ans des fonds à cette organisation, chargée de distribuer dans le monde des vaccins à des prix abordables. Cette décision est un désaveu pour Robert F. Kennedy, connu pour son vaccinoscepticisme.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260729-les-%C3%A9tats-unis-vont-r%C3%A9tablir-600-millions-de-dollars-de-financement-pour-l-alliance-du-vaccin",
-          "imageUrl": "https://s.rfi.fr/media/display/4cd005ca-8b71-11f1-a688-005056bf30b7/w:1024/p:16x9/SANTE-ETATS-UNIS-VACCINS.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-29T17:17:31.000Z",
-          "fetchedAt": "2026-07-30T03:33:55.294Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "En Chine, la mort cachée d’une enfant dans un essai clinique soulève de nombreus",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-07-30-a841089c",
-          "title": "En Chine, la mort cachée d’une enfant dans un essai clinique soulève de nombreuses questions",
-          "description": "La fillette de 6 ans, atteinte d’une maladie non létale, avait été traitée par une thérapie génique expérimentale, révèle une enquête de la revue « Science ».",
-          "url": "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-30T03:30:08.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.276Z"
-        },
-        {
-          "id": "2026-07-30-b0170c44",
-          "title": "«C'est un combat contre un poids lourd»: les pompiers mobilisés face au mégafeu en Gironde",
-          "description": "Sur le terrain, les pompiers poursuivent leur lutte contre le mégafeu qui a ravagé la Gironde. Aux côtés de bénévoles, ils interviennent sur les reprises de feu et s'appuient sur d'importants moyens aériens pour empêcher les flammes de gagner les secteurs encore épargnés.",
-          "url": "https://www.rfi.fr/fr/france/20260730-c-est-un-combat-contre-un-poids-lourd-les-pompiers-mobilis%C3%A9s-face-au-m%C3%A9gafeu-en-gironde",
-          "imageUrl": "https://s.rfi.fr/media/display/bc9916f6-8b9b-11f1-9c3d-005056bf30b7/w:1024/p:16x9/2026-07-29T131801Z-1385216281-RC2PNMASH41C-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-30T03:05:11.000Z",
-          "fetchedAt": "2026-07-30T03:33:55.294Z"
-        },
-        {
-          "id": "2026-07-29-06e34f6c",
-          "title": "Des nomades digitaux en quête d'une meilleure vie en Chine",
-          "description": "À deux heures de Shanghai, les rizières remplacent les gratte-ciel. Dans la province du Zhejiang, le village de Huzhou accueille de nombreux jeunes urbains. Des dizaines de jeunes Chinois qui ont choisi de quitter leur emploi de bureau en ville pour devenir des « nomades digitaux », grâce aux nouvelles technologies pour travailler à la campagne. Une tendance encore marginale mais qui reflète une remise en question grandissante du modèle de réussite traditionnel en Chine.",
-          "url": "https://www.rfi.fr/fr/podcasts/les-s%C3%A9ries-des-m%C3%A9dias-francophones-publics/20260729-des-nomades-digitaux-en-qu%C3%AAte-d-une-meilleure-vie-en-chine",
-          "imageUrl": "https://s.rfi.fr/media/display/67245c1c-8a97-11f1-8be6-005056a97e36/w:1024/p:16x9/Lily-a-quitt%C3%A9-le-monde-de-l-entreprise-pour-ouvrir-un-h%C3%B4tel-pour-cyclistes-et-ne-regrette-pas-son-choix.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-29T22:51:36.000Z",
-          "fetchedAt": "2026-07-30T03:33:55.294Z"
-        },
-        {
-          "id": "2026-07-29-648fb392",
-          "title": "Infantino défend son projet d'investisseurs privés à la Fifa : \"une opportunité, pas une obligation\"",
-          "description": "Face au tollé provoqué par son projet de créer une société commerciale ouverte aux investisseurs privés, le patron de la Fifa s'est défendu mercredi : \"C'est une occasion en or de dynamiser le développement du sport à l'échelle mondiale. Mais encore une fois, il ne s'agit que d'une proposition, et non d'une obligation\", a affirmé Gianni Infantino.",
-          "url": "https://www.france24.com/fr/sports/20260729-fifa-projet-investisseurs-prives-opportunite-pas-obligation-gianni-infantino-scandale",
-          "imageUrl": "https://s.france24.com/media/display/a9149358-8b96-11f1-a660-005056bf30b7/w:1024/p:16x9/2026-07-28T162945Z-1037867588-RC28KJAED3SY-RTRMADP-3-SOCCER-FIFA-STAKE.jpg",
+          "id": "2026-07-30-8850d353",
+          "title": "En direct : le Hamas consent à un accord sur le désarmement à Gaza",
+          "description": "Le Hamas a consenti vendredi à un accord de désarmement dans la bande de Gaza, en vue d'appliquer la deuxième phase du cessez-le-feu entre le mouvement islamiste palestinien et Israël, un des points clés du plan de paix du président américain Donald Trump. Sur un autre front, les négociations entre Washington et Téhéran sont en cours, a annoncé le Pakistan après de nouvelles frappes américaines. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260730-en-direct-moyen-orient-gaza-iran-accord-desarmement-hamas-israel-donald-trump-ormuz",
+          "imageUrl": "https://s.france24.com/media/display/79eeca30-8c8b-11f1-9d28-005056bf30b7/w:1024/p:16x9/2026-07-30T070430Z-620568711-RC26OMAQZV3Y-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-29T21:50:49.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.214Z"
+          "publishedAt": "2026-07-30T23:30:49.000Z",
+          "fetchedAt": "2026-07-31T03:54:31.874Z"
         },
         {
-          "id": "2026-07-29-33dd119f",
-          "title": "Le parcours à l’étranger des deux lauréats chinois de la médaille Fields fait débat en Chine",
-          "description": "Quelques jours après l’attribution de la médaille Fields 2026 à quatre mathématiciens, dont deux Chinois, Hong Wang et Yu Deng, les internautes chinois se disputent sur la contribution de leur formation universitaire dans leur réussite, chinoise ou occidentale ?",
-          "url": "https://www.courrierinternational.com/article/sciences-le-parcours-a-l-etranger-des-deux-laureats-chinois-de-la-medaille-fields-fait-debat-en-chine_254137",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/23/0/0/3600/2400/1200/630/60/0/796df58_ftp-1-pj4boquw2sdu-afp-c2zm7g9.jpg",
-          "source": "Courrier International",
+          "id": "2026-07-30-613a7f40",
+          "title": "🔴 Donald Trump revendique un accord sur le \"désarmement complet\" du Hamas à Gaza",
+          "description": "",
+          "url": "https://www.france24.com/fr/moyen-orient/20260730-gaza-donald-trump-accord-desarmement-complet-hamas-israel-conseil-de-la-paix",
+          "imageUrl": "https://s.france24.com/media/display/320e92a6-8c6b-11f1-8c90-005056bfb2b6/w:1280/p:16x9/AP26211233126064.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-29T16:46:15.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.870Z"
+          "publishedAt": "2026-07-30T23:12:46.000Z",
+          "fetchedAt": "2026-07-31T03:54:31.874Z"
         },
         {
-          "id": "2026-07-29-9ae41960",
-          "title": "«Les pays africains exportateurs de matières premières intéressent Pékin, les autres sont les grands perdants»",
-          "description": "La Chine bat tous ses records économiques avec l'Afrique. Commerce, investissements... Pékin affiche des chiffres historiques et présente cette dynamique comme la preuve d'un partenariat gagnant-gagnant. Qu'est-ce qui se cache derrière ces sommes ? Xavier Aurégan, géographe spécialiste des relations entre la Chine et les pays africains, chercheur associé à l'Institut français de géopolitique et maître de conférences à l'université catholique de Lille, est l'invité d'Afrique Midi.",
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20260729-les-pays-africains-exportateurs-de-mati%C3%A8res-premi%C3%A8res-int%C3%A9ressent-p%C3%A9kin-les-autres-sont-les-grands-perdants",
-          "imageUrl": "https://s.rfi.fr/media/display/efa4440c-51b8-11ec-8747-005056bf30b7/w:1024/p:16x9/2021-11-29T145231Z_1442538269_RC2Y3R9YA5RY_RTRMADP_3_AFRICA-CHINA-SUMMIT.JPG",
+          "id": "2026-07-30-8caeabcf",
+          "title": "En Argentine, un décret cible les étrangers diffusant des « messages de haine » contre le pays",
+          "description": "Le décret, qui entre en vigueur dans l’attente de son examen parlementaire, souligne qu’en « aucun cas » ne sont concernées par ces nouvelles dispositions « les expressions de désaccord idéologique ou de critique politique, académique ou citoyenne, qui constituent l’exercice légitime » des droits constitutionnels.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/30/en-argentine-un-decret-cible-les-etrangers-diffusant-des-messages-de-haine-contre-le-pays_6737035_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-30T14:57:21.000Z",
+          "fetchedAt": "2026-07-31T03:54:31.165Z"
+        },
+        {
+          "id": "2026-07-30-a358d695",
+          "title": "Moyen-Orient: Donald Trump annonce un accord sur le «désarmement complet» du Hamas à Gaza",
+          "description": "Les États-Unis ont annoncé jeudi 30 juillet avoir mené une « lourde série » de bombardements sur l'Iran en représailles à des attaques contre leurs forces au Moyen-Orient. Les médias iraniens font état d'explosions dans deux provinces du pays. Le Pakistan, médiateur dans le conflit, a affirmé que les belligérants négociaient en vue d'une désescalade. L'Arabie saoudite a annoncé la création d'une coalition maritime afin de sécuriser la navigation en mer Rouge, dans un contexte de tension dans le détroit stratégique de Bab al-Mandeb.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260730-en-direct-guerre-au-moyen-orient-les-%C3%A9tats-unis-reprennent-leurs-bombardements-sur-l-iran",
+          "imageUrl": "https://s.rfi.fr/media/display/93051f74-5996-11f1-85f7-005056bfb2b6/w:1024/p:16x9/000-36YD6QL.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-07-29T15:42:43.000Z",
-          "fetchedAt": "2026-07-30T03:33:55.294Z"
+          "publishedAt": "2026-07-30T04:16:35.000Z",
+          "fetchedAt": "2026-07-31T03:54:46.896Z"
         }
       ]
     },
     {
       "id": "cluster-4",
-      "topic": "L’immobilier, cheval de Troie russe sur le sol européen ?",
+      "topic": "“On leur lave le cerveau” : la Russie envoie des enfants ukrainiens en Corée du ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-07-30-4d88cc85",
-          "title": "L’immobilier, cheval de Troie russe sur le sol européen ?",
-          "description": "La Finlande, la Pologne et les pays baltes ont interdit aux ressortissants russes de conclure des transactions immobilières afin d’éviter que des biens soient utilisés pour des activités de renseignement ou de sabotage. Ce n’est pas encore le cas ailleurs en Europe, s’inquiètent plusieurs experts auprès du quotidien suédois “Dagens Nyheter”.",
-          "url": "https://www.courrierinternational.com/article/vu-de-suede-l-immobilier-cheval-de-troie-russe-sur-le-sol-europeen_245830",
-          "imageUrl": "https://focus.courrierinternational.com/2024/12/30/0/0/5808/3872/1200/630/60/0/aed568d_1735561006973-020-1239027560.jpg",
+          "id": "2026-07-31-c492e09f",
+          "title": "“On leur lave le cerveau” : la Russie envoie des enfants ukrainiens en Corée du Nord",
+          "description": "Dans le cadre de la politique de russification, Moscou envoie des enfants issus de territoires ukrainiens occupés dans une station balnéaire nord-coréenne. Sur place, ils suivent des entraînements militaires et une éducation patriotique, révèle l’enquête du quotidien japonais “Nihon Keizai Shimbun”.",
+          "url": "https://www.courrierinternational.com/article/enquete-on-leur-lave-le-cerveau-la-russie-envoie-des-enfants-ukrainiens-en-coree-du-nord_245604",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/22/0/24/3111/2074/1200/630/60/0/07b233e_upload-1-npmbxpskwno6-cost-2024-04-23-0071-copie-web.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-07-30T03:00:34.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.870Z"
+          "publishedAt": "2026-07-31T03:00:22.000Z",
+          "fetchedAt": "2026-07-31T03:54:31.722Z"
         },
         {
-          "id": "2026-07-30-e29f83bf",
-          "title": "La chroniqueuse pro-Kremlin Xenia Fedorova visée par un arrêté d’expulsion",
-          "description": "La journaliste russe, qui intervient régulièrement sur des chaînes appartenant au milliardaire conservateur Vincent Bolloré, s’est vu remettre mercredi un arrêté ministériel d’expulsion, décision qu’elle va contester. Ces derniers mois, des experts en désinformation avaient alerté sur l’influence de l’ex-patronne de la chaîne russe RT France, à l’approche de la présidentielle de 2027.",
-          "url": "https://www.courrierinternational.com/article/france-la-chroniqueuse-pro-kremlin-xenia-fedorova-visee-par-un-arrete-d-expulsion_254301",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/29/0/0/3204/2136/1200/630/60/0/4831f6b_ftp-1-74v1hshamswg-afp-c3ge9we.jpg",
-          "source": "Courrier International",
+          "id": "2026-07-30-e71ffedb",
+          "title": "Un marché en Ukraine prend feu lors d’une nouvelle attaque russe",
+          "description": "La Russie a pilonné l'Ukraine dans la nuit de mercredi à jeudi, avec ⁠des dizaines de missiles ​et des centaines de drones. À Kiev, un marché a notamment pris feu.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260730-un-march%C3%A9-en-ukraine-prend-feu-lors-d-une-nouvelle-attaque-russe",
+          "imageUrl": "https://s.france24.com/media/display/d73db800-8c1c-11f1-9f35-005056a90284/w:1024/p:16x9/vignette-frappes-ukraine-pologne0.png",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-07-30T03:00:12.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.870Z"
-        },
-        {
-          "id": "2026-07-29-b278d7ef",
-          "title": "EN DIRECT, guerre en Ukraine : frappes russes sur Kiev",
-          "description": "Les autorités ont déclenché une alerte aux missiles russes dans la capitale ukrainienne, où de puissantes explosions ont été entendues peu après. « Les Russes ont préparé une attaque massive il y a quelques jours, et il y a une forte probabilité que la frappe soit menée cette nuit » avait mis en garde sur X, mercredi soir, le président ukrainien, Volodymyr Zelensky.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-explosions-entendues-a-kiev_6732775_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-29T23:06:18.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.276Z"
-        },
-        {
-          "id": "2026-07-29-a59df769",
-          "title": "Comment la France en est venue à prendre un arrêté d’expulsion contre la propagandiste russe Xenia Fedorova",
-          "description": "L’ex-directrice de Russia Today France est sommée de quitter le territoire français par le ministère de l’intérieur pour « atteinte aux intérêts fondamentaux de l’Etat ». Les dirigeants des groupes Bolloré et Lagardère continuent de la soutenir.",
-          "url": "https://www.lemonde.fr/actualite-medias/article/2026/07/29/comment-la-france-en-est-venue-a-prendre-un-arrete-d-expulsion-contre-la-propagandiste-russe-xenia-fedorova_6736410_3236.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-07-29T18:12:52.000Z",
-          "fetchedAt": "2026-07-30T03:33:41.276Z"
+          "publishedAt": "2026-07-30T13:55:58.000Z",
+          "fetchedAt": "2026-07-31T03:54:31.874Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "category": "tech",
-      "importance": 7,
+      "id": "cluster-6",
+      "topic": "ONU : la course à la succession d’Antonio Guterres est lancée",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-07-29-95d6f987",
-          "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-          "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.\n\"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon.\"\nNadella's confirmation comes months after a report from Fortune revealed that Microsoft is working on a super app that blends its …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-07-29T22:17:38.000Z",
-          "fetchedAt": "2026-07-30T03:34:00.077Z"
+          "id": "2026-07-31-7b05b616",
+          "title": "ONU : la course à la succession d’Antonio Guterres est lancée",
+          "description": "Le Conseil de sécurité des Nations unies a lancé jeudi le processus de sélection du futur secrétaire général de l’instance, avec un premier “vote indicatif” à huis clos, qui a placé la Costaricaine Rebeca Grynspan en tête des sept candidats déclarés à ce jour. Ce processus “opaque” pourrait encore durer plusieurs mois, explique la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/election-onu-la-course-a-la-succession-d-antonio-guterres-est-lancee_254862",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/23/0/0/6000/4000/1200/630/60/0/952c63c_ftp-1-7dveo8yk1zea-2026-07-23t220019z-1834325635-rc2xjmacn8pr-rtrmadp-3-un-election.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-31T03:00:08.000Z",
+          "fetchedAt": "2026-07-31T03:54:31.722Z"
+        },
+        {
+          "id": "2026-07-30-9cb3b9ca",
+          "title": "Qui succédera à Antonio Guterres ? Les clés de la sélection du prochain secrétaire général de l’ONU",
+          "description": "Sept personnes sont candidates au poste de plus haut fonctionnaire des Nations unies. Dans un paysage diplomatique fragmenté, le choix pourrait se révéler particulièrement difficile.",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/30/qui-succedera-a-antonio-guterres-les-cles-de-la-selection-du-prochain-secretaire-general-de-l-onu_6737027_4355770.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-07-30T14:30:07.000Z",
+          "fetchedAt": "2026-07-31T03:54:31.165Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Privatisation de TAP Air Portugal : Air France KLM et Lufthansa ont déposé leurs",
+      "id": "cluster-10",
+      "topic": "Chez Sanofi, la nouvelle patronne garde le cap sur l’immunologie et les vaccins,",
       "category": "eco",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-07-30-ebce2eee",
-          "title": "Privatisation de TAP Air Portugal : Air France KLM et Lufthansa ont déposé leurs offres concurrentes",
-          "description": "Le groupe franco-néerlandais et le géant allemand ont présenté à Lisbonne des propositions fermes pour intégrer à leurs réseaux commerciaux respectifs la compagnie nationale portugaise. Décision à l’automne.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/30/privatisation-de-tap-air-portugal-air-france-klm-et-lufthansa-ont-depose-leurs-offres-concurrentes_6736652_3234.html",
+          "id": "2026-07-30-05a09cbd",
+          "title": "Chez Sanofi, la nouvelle patronne garde le cap sur l’immunologie et les vaccins, mais revoit en profondeur la méthode",
+          "description": "Directrice générale du groupe pharmaceutique français depuis moins de trois mois, Belén Garijo veut resserrer la stratégie du laboratoire pharmaceutique français autour de la recherche et du développement.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/30/chez-sanofi-la-nouvelle-patronne-garde-le-cap-sur-l-immunologie-et-les-vaccins-mais-revoit-en-profondeur-la-methode_6737063_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-07-30T03:30:05.000Z",
-          "fetchedAt": "2026-07-30T03:33:59.923Z"
+          "publishedAt": "2026-07-30T17:39:54.000Z",
+          "fetchedAt": "2026-07-31T03:54:55.680Z"
+        },
+        {
+          "id": "2026-07-30-49938da0",
+          "title": "Le secteur du luxe suspendu à un rebond de la consommation en Chine",
+          "description": "LVMH, Kering, Hermès et L’Oréal sont toujours confrontés à l’atonie d’un marché chinois, qui a représenté jusqu’à 20 % des ventes mondiales des articles de luxe.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/30/le-secteur-du-luxe-suspendu-a-un-rebond-de-la-consommation-en-chine_6737034_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-30T14:55:12.000Z",
+          "fetchedAt": "2026-07-31T03:54:55.680Z"
+        },
+        {
+          "id": "2026-07-30-212b0e51",
+          "title": "Les associations engagées dans une course aux financements et aux économies pour pallier la baisse des aides publiques",
+          "description": "Quelque 1,5 million d’organisations non lucratives et leurs soutiens se démènent, tout en appelant à cesser les coupes budgétaires.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/30/les-associations-engagees-dans-une-course-aux-financements-et-aux-economies-pour-pallier-la-baisse-des-aides-publiques_6737015_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-30T12:30:01.000Z",
+          "fetchedAt": "2026-07-31T03:54:55.680Z"
+        },
+        {
+          "id": "2026-07-30-ff84a2e6",
+          "title": "Incendies : derrière la question des moyens aériens, l’intensité des feux, un nombre important de foyers et la maintenance des Canadair",
+          "description": "Depuis le 21 juillet, date du début de l’incendie dans le Var et veille de celui de Gironde, pas plus de huit des douze Canadair n’ont été opérationnels sur la même journée, selon les synthèses de la sécurité civile dont « Le Monde » a pris connaissance.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/30/derriere-le-defaut-des-moyens-aeriens-contre-les-incendies-l-intensite-des-feux-leur-simultaneite-et-une-maintenance-difficile-des-canadair_6736655_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-07-30T03:30:09.000Z",
+          "fetchedAt": "2026-07-31T03:54:55.680Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-07-30-7cb34a51",
+          "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+          "description": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenue to $109.4 billion.\nThe company expects supply chain constraints to worsen in the coming months. During an earnings call, Apple chief financial officer Kevan Parekh said Apple expects \"supply constraints to increase significantly\" in the next quarter, adding the shortage will impact the iPhone, Mac, and iPad. Meanwhile, Apple …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-07-30T20:49:32.000Z",
+          "fetchedAt": "2026-07-31T03:54:55.285Z"
         }
       ]
     }
