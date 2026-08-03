@@ -1,242 +1,187 @@
 {
-  "generatedAt": "2026-08-02T04:01:21.725Z",
+  "generatedAt": "2026-08-03T03:59:52.412Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "À Ceuta, “du chaos au silence” et une barrière flottante installée sur la côte",
+      "id": "cluster-2",
+      "topic": "Trump annonce la reprise des négociations avec l’Iran",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-02-630c6eda",
-          "title": "À Ceuta, “du chaos au silence” et une barrière flottante installée sur la côte",
-          "description": "La presse espagnole constate que l’enclave a retrouvé un quotidien presque normal avec le départ d’une très large partie des milliers de migrants qui avaient nagé jusqu’à ses plages jeudi. L’UE discutera de la situation mardi lors d’une réunion d’urgence.",
-          "url": "https://www.courrierinternational.com/article/vu-d-espagne-a-ceuta-du-chaos-au-silence-et-une-barriere-flottante-installee-sur-la-cote_255456",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/01/1/0/7791/5194/1200/630/60/0/bb8675e_ftp-1-hizcjdhkdvg0-2026-08-01t225541z-515302134-rc2upma8h2gk-rtrmadp-3-migration-europe-spain-ceuta.JPG",
+          "id": "2026-08-03-33c2923a",
+          "title": "Trump annonce la reprise des négociations avec l’Iran",
+          "description": "Vingt-quatre heures après avoir suspendu “la plus grande attaque depuis la Seconde Guerre mondiale” contre l’Iran, Donald Trump a assuré dimanche que les négociations avec Téhéran reprendraient lundi après-midi. La presse internationale ne semble guère convaincue.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-trump-annonce-la-reprise-des-negociations-avec-l-iran_255621",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/02/0/0/6000/4000/1200/630/60/0/2174219_ftp-1-hgozrq0j071a-2288805684.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-02T03:45:10.000Z",
-          "fetchedAt": "2026-08-02T03:57:21.537Z"
+          "publishedAt": "2026-08-03T03:52:40.000Z",
+          "fetchedAt": "2026-08-03T03:59:43.200Z"
         },
         {
-          "id": "2026-08-02-6a79968c",
-          "title": "L’éclipse du 12 août, un casse-tête logistique pour l’Espagne",
-          "description": "Des millions de touristes vont affluer dans des régions rurales et sous-équipées pour observer le Soleil disparaître derrière la Lune. Le spectacle s’annonce merveilleux, mais les réseaux routiers, électriques, téléphoniques et d’approvisionnement en eau risquent d’être sous pression, prévient le site d’information “El Confidencial”.",
-          "url": "https://www.courrierinternational.com/article/astronomie-l-eclipse-du-12-aout-un-casse-tete-logistique-pour-l-espagne_248150",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/16/0/1/2250/1500/1200/630/60/0/185eb75_upload-1-aboti0ygr4ot-w-1864-65-66-danziger-2024-04-05.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-02T03:00:13.000Z",
-          "fetchedAt": "2026-08-02T03:57:21.537Z"
-        },
-        {
-          "id": "2026-08-01-5499f7c7",
-          "title": "Pétrole: vers une nouvelle hausse des quotas de l'Opep+ dans un contexte de guerre au Moyen-Orient",
-          "description": "L'Arabie saoudite, la Russie et cinq autres membres de l'Opep+ se réunissent en ligne dimanche 2 août et devraient augmenter leurs quotas de production de pétrole pour le mois de septembre dans un contexte de guerre au Moyen-Orient.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260801-p%C3%A9trole-vers-une-nouvelle-hausse-des-quotas-de-l-opep-dans-un-contexte-de-guerre-au-moyen-orient",
-          "imageUrl": "https://s.rfi.fr/media/display/b6ac42d4-312f-11f1-aa1e-005056bfb2b6/w:1024/p:16x9/opep-petrole-1775403295-cbc57bcf7eb86dfc57bcf7eb8a3d57v.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-01T23:07:56.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.172Z"
-        },
-        {
-          "id": "2026-08-01-4c09fc42",
-          "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-          "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-          "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe10/live/f5b8a870-8c09-11f1-8665-e382dc49dfdb.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-01T23:03:35.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.146Z"
-        },
-        {
-          "id": "2026-08-01-685bf4bf",
-          "title": "Au Pérou, treize personnes, dont onze étrangers, meurent dans le crash d’un avion touristique près du site des lignes de Nazca",
-          "description": "Selon la radio RPP, sept Italiens, deux Allemands et deux Espagnols se trouvent parmi les victimes. Il n’y a aucun survivant, a confirmé la police qui n’a pas précisé les causes de l’accident survenu lors d’une visite aérienne de ce réputé site archéologique.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/02/au-perou-treize-personnes-dont-onze-etrangers-meurent-dans-le-crash-d-un-avion-touristique-pres-du-site-des-lignes-de-nazca_6737245_3210.html",
+          "id": "2026-08-03-6475ecac",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce des discussions avec l’Iran à partir de lundi",
+          "description": "Après avoir déclaré, la veille, avoir renoncé à de nouvelles frappes sur l’Iran à condition qu’un accord soit rapidement conclu, le président américain a affirmé, dimanche, que des pourparlers avec Téhéran étaient prévus lundi après-midi.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-des-discussions-avec-l-iran-a-partir-de-lundi_6737099_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-01T22:39:23.000Z",
-          "fetchedAt": "2026-08-02T03:57:21.093Z"
+          "publishedAt": "2026-08-03T00:03:32.000Z",
+          "fetchedAt": "2026-08-03T03:59:42.625Z"
         },
         {
-          "id": "2026-08-01-bce0c2fa",
-          "title": "Comment le soulier devient un bijou de résilience par Abdel Louaguef d'Adiviar",
-          "description": "Aujourd’hui, résilience, passion et créativité avec Abdel Louaguef, fondateur de la maison Adiviar, une marque de souliers ornés d'or pur 24 carats, fabriqués artisanalement en Italie et inspirés par l'élégance française. Abdel Louaguef est un créateur de souliers qui rend hommage à la force de sa mère face à la maladie et à toutes les femmes qui ont traversé les mêmes épreuves de vie. Il sait transformer les blessures en souliers bijoux disponibles exclusivement à Paris.",
-          "url": "https://www.rfi.fr/fr/podcasts/100-cr%C3%A9ation/20260801-comment-le-soulier-devient-un-bijou-de-r%C3%A9silience-par-abdel-louaguef-d-adiviar",
-          "imageUrl": "https://s.rfi.fr/media/display/d0a35ca2-8be0-11f1-9e37-005056a90284/w:1024/p:16x9/abdel-adiviar.jpg",
-          "source": "RFI",
+          "id": "2026-08-02-97e28c7f",
+          "title": "En direct : Donald Trump annonce de nouveaux pourparlers avec l'Iran à partir de lundi",
+          "description": "Donald Trump a annoncé, dimanche soir, de nouveaux pourparlers avec l'Iran à partir de lundi. \"Il y a un accord sur Ormuz, et il y aura ensuite un accord sur le nucléaire, on pourrait même dire sur la dénucléarisation de l'Iran\", a assuré le président américain après une suspension des frappes américaines. Plus tôt, Téhéran a assuré être proche d'un accord avec Oman sur le détroit d'Ormuz. Suivez la situation en direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260802-en-direct-donald-trump-annonce-nouveaux-pourparlers-iran-lundi-detroit-ormuz-guerre-moyen-orient-etats-unis-pays-golfe",
+          "imageUrl": "https://s.france24.com/media/display/fba28378-8c6d-11f1-a41a-005056bfb2b6/w:1024/p:16x9/AP26211649336009.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-01T22:10:05.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.172Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
+          "publishedAt": "2026-08-02T22:06:43.000Z",
+          "fetchedAt": "2026-08-03T03:59:42.931Z"
+        },
+        {
+          "id": "2026-08-02-5ce98cd3",
+          "title": "Trump suspend les frappes contre l'Iran sous condition d'un accord rapide",
+          "description": "Donald Trump a annoncé avoir renoncé à de nouvelles frappes massives contre l'Iran à la demande de pays de la région, à condition qu'un accord avec Téhéran soit rapidement conclu, en particulier sur le stratégique détroit d'Ormuz.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260802-trump-suspend-les-frappes-contre-l-iran-sous-condition-d-un-accord-rapide",
+          "imageUrl": "https://s.france24.com/media/display/2e03bb20-8e8a-11f1-8984-005056bfb2b6/w:1024/p:16x9/FR-20260802-170557-170733-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-02T16:11:27.000Z",
+          "fetchedAt": "2026-08-03T03:59:42.931Z"
+        },
+        {
+          "id": "2026-08-02-d318343e",
+          "title": "Guerre au Moyen-Orient : Trump suspend les frappes américaines contre l'Iran",
+          "description": "Donald Trump a annoncé suspendre de nouvelles frappes prévues contre l'Iran à la demande de Téhéran et d'autres pays de la région, à condition qu'un accord pour mettre fin à la guerre au Moyen-Orient soit rapidement conclu. Décryptage avec notre chroniqueuse internationale Mélina Huet.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260802-guerre-au-moyen-orient-trump-suspend-les-frappes-am%C3%A9ricaines-contre-l-iran",
+          "imageUrl": "https://s.france24.com/media/display/2af2bb90-8e6f-11f1-bc52-005056a90284/w:1024/p:16x9/FR-20260802-140106-140740-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-02T12:48:34.000Z",
+          "fetchedAt": "2026-08-03T03:59:42.931Z"
+        },
         {
           "id": "2026-08-02-b1dbe2b7",
-          "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-          "description": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
           "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-08-02T03:05:16.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.146Z"
-        },
-        {
-          "id": "2026-08-01-d10916b1",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump assure retenir des frappes contre l’Iran à la demande de Téhéran et de pays de la région, dans l’attente d’un accord rapide",
-          "description": "Selon le président américain, qui avait menacé, vendredi lors d’un conseil des ministres, de frapper l’Iran « très fort », l’accord doit inclure « l’ouverture immédiate complète et totale du détroit d’Ormuz, ainsi que la fin de la menace nucléaire iranienne ».",
-          "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-des-ambassades-americaines-appellent-leurs-citoyens-a-envisager-de-quitter-la-region_6737099_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-01T22:19:43.000Z",
-          "fetchedAt": "2026-08-02T03:57:21.093Z"
+          "publishedAt": "2026-08-02T11:12:00.000Z",
+          "fetchedAt": "2026-08-03T03:59:47.670Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky réclame des missiles Patriot e",
+      "topic": "Trois feux de forêt dévastateurs ravagent Spokane, dans le nord-ouest américain",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-02-fcf51ba5",
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky réclame des missiles Patriot et de nouvelles sanctions face aux frappes russes",
-          "description": "Le président ukrainien a notamment dénoncé la frappe russe sur Kiev, dans la nuit de vendredi à samedi, qui a fait neuf morts et 33 blessés.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-volodymyr-zelensky-reclame-des-missiles-patriot-et-de-nouvelles-sanctions-face-aux-frappes-russes_6737250_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-02T03:00:22.000Z",
-          "fetchedAt": "2026-08-02T03:57:21.093Z"
-        },
-        {
-          "id": "2026-08-01-249aa977",
-          "title": "Guerre en Ukraine : à Kiev, le bilan de la frappe russe menée dans la nuit de vendredi à samedi s’élève à neuf morts et 33 blessés. Retrouvez nos informations du 26 juillet au 1er août.",
-          "description": "Le président ukrainien, Volodymyr Zelensky, a par ailleurs revendiqué, samedi, des frappes nocturnes contre « les infrastructures de trois raffineries russes au Bachkortostan », précisant qu’elles se situaient à près de 1 600 kilomètres des positions ukrainiennes.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-a-kiev-le-bilan-de-la-frappe-russe-menee-dans-la-nuit-de-vendredi-a-samedi-s-eleve-a-neuf-morts-et-33-blesses_6732775_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-01T22:58:30.000Z",
-          "fetchedAt": "2026-08-02T03:57:21.093Z"
-        },
-        {
-          "id": "2026-08-01-6d73a900",
-          "title": "Guerre en Ukraine : nouvelle attaque russe, \"les services de secours sont encore à l'œuvre\"",
-          "description": "La Russie a tiré en juillet un nombre record de missiles sur l'Ukraine, d'après une analyse par l'AFP des rapports quotidiens de l'armée de l'air ukrainienne, alors que Kiev presse Donald Trump de lui fournir davantage de moyens pour y faire face. Nous en parlons avec notre correspondante Emmanuelle Chaze.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260801-guerre-en-ukraine-nouvelle-attaque-russe-le-services-de-secours-sont-encore-%C3%A0-l-%C5%93uvre",
-          "imageUrl": "https://s.france24.com/media/display/56d5ef9c-8dc1-11f1-9811-005056a97e36/w:1024/p:16x9/FR-20260801-170122-170528-CS.jpg",
+          "id": "2026-08-03-65b2edc0",
+          "title": "Trois feux de forêt dévastateurs ravagent Spokane, dans le nord-ouest américain",
+          "description": "Les flammes de trois incendies, toujours actifs, ont parcouru dimanche Spokane et ses environs, dans l'État américain de Washington. Ils ont détruit plusieurs centaines de bâtiments et entraîné des évacuations massives, sans faire de victime.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260803-trois-feux-de-foret-devastateurs-ravagent-spokane-nord-ouest-americain-etats-unis-evacuation-etat-washington",
+          "imageUrl": "https://s.france24.com/media/display/030a245e-8ee9-11f1-a55f-005056bfb2b6/w:1024/p:16x9/2026-08-02T201620Z-1939349036-RC2KQMAW1T0Q-RTRMADP-3-USA-WILDFIRES-WASHINGTON.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-01T16:17:08.000Z",
-          "fetchedAt": "2026-08-02T03:57:21.112Z"
+          "publishedAt": "2026-08-03T03:28:54.000Z",
+          "fetchedAt": "2026-08-03T03:59:42.931Z"
         },
         {
-          "id": "2026-08-01-b10c1d5f",
-          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-          "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-          "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e537/live/b81c7060-8d8e-11f1-b8ee-9b3c26ad07bb.jpg",
-          "source": "BBC World",
+          "id": "2026-08-03-7f4c5e65",
+          "title": "Quatre femmes accusant Mohammed Al-Fayed de violences sexuelles ont été reconnues par les autorités britanniques victimes de traite d’êtres humains",
+          "description": "Quelque 157 personnes se sont manifestées auprès de la police britannique et accusent l’ancien propriétaire du magasin Harrods de viols, d’agressions sexuelles et d’exploitation à des fins sexuelles. Mort en 2023 alors qu’il était âgé de plus de 90 ans, il n’a jamais été inquiété de son vivant.",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/03/quatre-femmes-accusant-mohammed-al-fayed-de-violences-sexuelles-ont-ete-reconnues-par-les-autorites-britanniques-victimes-de-traite-d-etres-humains_6737322_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-01T13:35:39.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.146Z"
+          "publishedAt": "2026-08-03T01:21:07.000Z",
+          "fetchedAt": "2026-08-03T03:59:42.625Z"
+        },
+        {
+          "id": "2026-08-02-11cab39c",
+          "title": "Les États-Unis sont intervenus pour soutenir le yen, Donald Trump évoque un \"geste d'amitié\"",
+          "description": "Le Financial Times a affirmé dimanche que \"la Réserve fédérale de New York a(vait) pris la décision inhabituelle de procéder à une vente d'euros pour acheter des yens pour le compte du Trésor\" vendredi, en coordination avec le Japon. Une intervention confirmée par le président américain Donald Trump qui évoque un \"geste d'amitié\" envers le Japon et un \"avantage financier\".",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260802-donald-trump-confirme-intervention-americaine-pour-soutenir-monnaie-yen-geste-amitie-japon-etats-unis-reserve-federale",
+          "imageUrl": "https://s.france24.com/media/display/5d4d13a4-8ecb-11f1-a457-005056a90284/w:1024/p:16x9/000-36PF68A.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-02T23:40:54.000Z",
+          "fetchedAt": "2026-08-03T03:59:42.931Z"
         }
       ]
     },
     {
-      "id": "cluster-14",
-      "topic": "Test du Galaxy Z Fold 8 : je crois que Samsung a trouvé le format parfait",
-      "category": "tech",
+      "id": "cluster-10",
+      "topic": "Une frappe de drone fait au moins 35 morts dans le Darfour au Soudan, selon l'ON",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-01-3eb249ba",
-          "title": "Test du Galaxy Z Fold 8 : je crois que Samsung a trouvé le format parfait",
-          "description": "Sept ans après son premier smartphone pliant, Samsung essaye un nouveau format avec le Galaxy Z Fold 8 qui prend la forme d'un passeport. Le bilan est sans appel : je n'ai jamais autant aimé un smartphone pliant. Le Galaxy Z Fold 8 a des défauts (son appareil photo et ses haut-parleurs, notamment), mais ce qu'il propose plié comme déplié n'a aucun équivalent sur le marché… pour l'instant.",
-          "url": "https://www.numerama.com/tech/2303041-test-du-galaxy-z-fold-8-je-crois-que-samsung-a-trouve-le-format-parfait.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/z-fold-8-1.jpg?resize=1600,900&key=c135bd68",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-01T13:29:00.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.163Z"
+          "id": "2026-08-03-260112ba",
+          "title": "Une frappe de drone fait au moins 35 morts dans le Darfour au Soudan, selon l'ONG Emergency Lawyers",
+          "description": "Selon Emergency Lawyers, une frappe a visé le tribunal du village de Garra al-Zawaya, dans l'État du Darfour du Nord, au Soudan, dimanche, où des civils \"étaient réunis\". L'ONG fait état d'un bilan d'au moins 35 personnes tuées. Le gouvernement autoproclamé des FSR a condamné cette attaque, la qualifiant de \"crime horrible\".",
+          "url": "https://www.france24.com/fr/afrique/20260803-frappe-drone-35-morts-darfour-soudan-ong-emergency-lawyers-tribunal-fsr",
+          "imageUrl": "https://s.france24.com/media/display/8fc4ffbc-8edb-11f1-8f3b-005056bf30b7/w:1024/p:16x9/000-B8TT6ZQ.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-03T01:41:50.000Z",
+          "fetchedAt": "2026-08-03T03:59:42.931Z"
         },
         {
-          "id": "2026-08-01-20a6c726",
-          "title": "Voitures électriques : un podium 100 % Renault en juillet",
-          "description": "Le mois de juillet a encore été un très bon mois pour les immatriculations de voitures électriques en France. Renault est le leader incontesté du mois de juillet en classant trois de ses modèles sur le podium.",
-          "url": "https://www.numerama.com/vroom/2305377-voitures-electriques-un-podium-100-renault-en-juillet.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/classement-ve-renault.jpg?resize=1600,900&key=b614c556",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-01T08:30:51.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.163Z"
-        },
-        {
-          "id": "2026-08-01-1b5113ae",
-          "title": "Superchargeurs Tesla gratuits en Gironde, taxes sur les PHEV et un long trajet trop facile en citadine électrique : le récap’ Vroom de la semaine",
-          "description": "À la une sur Vroom cette semaine : Tesla a rendu gratuit cinq Superchargeurs en Gironde et quatre en Espagne en soutien aux victimes d'incendie, Volkswagen veut que l'Europe taxe les hybrides rechargeables chinoises et notre retour d'expérience sur des longs trajets en Nissan Micra.",
-          "url": "https://www.numerama.com/vroom/2305255-superchargeurs-tesla-gratuits-en-gironde-taxes-sur-les-phev-et-un-long-trajet-trop-facile-en-citadine-electrique-le-recap-vroom-de-la-semaine.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2023/08/tesla-charger.jpg?resize=1600,900&key=68ac8d67",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-01T07:58:00.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.163Z"
-        },
-        {
-          "id": "2026-08-01-3629a24f",
-          "title": "« On va arriver très vite au plafond » : le ministre de l’Économie s’emballe un peu sur le bilan du leasing social",
-          "description": "Le ministre de l'Économie s'est réjoui du démarrage de la troisième édition du leasing social, affichant 19 500 dossiers en deux semaines. Il s’agit pourtant d’un démarrage bien plus timide qu’en 2025.",
-          "url": "https://www.numerama.com/vroom/2305353-on-va-arriver-tres-vite-au-plafond-le-ministre-de-leconomie-semballe-un-peu-sur-le-bilan-du-leasing-social.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/11/watt-else-bonus-lescure.jpg?resize=1600,900&key=77a04273",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-01T07:08:58.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.163Z"
-        },
-        {
-          "id": "2026-08-01-a49ef591",
-          "title": "Éclipse solaire totale, Perséides, éclipse de Lune : que voir dans le ciel en août 2026 ?",
-          "description": "Le mois d'août 2026 commence, et il s'annonce déjà inoubliable pour l'astronomie. En plus de l'éclipse de Soleil très attendue en France, des étoiles filantes et une éclipse de Lune nous attendent. Voici le programme complet pour ne pas en perdre une miette !",
-          "url": "https://www.numerama.com/sciences/2304001-eclipse-solaire-totale-perseides-eclipse-de-lune-que-voir-dans-le-ciel-en-aout-2026.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/07/nuages-eclipse-solaire.jpg?resize=1600,900&key=4ae4adef",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-01T05:05:00.000Z",
-          "fetchedAt": "2026-08-02T03:57:34.163Z"
+          "id": "2026-08-02-b145e329",
+          "title": "Soudan : une ONG accuse l’armée d’avoir tué 35 personnes dans une frappe de drone sur un tribunal du Darfour",
+          "description": "Le conflit entre l’armée et les Forces de soutien rapide, qui a éclaté en 2023, a fait des dizaines de milliers de morts, provoqué le déplacement de millions de personnes et déclenché ce que les Nations unies décrivent comme la plus grave crise de la faim au monde.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-02T22:51:57.000Z",
+          "fetchedAt": "2026-08-03T03:59:42.625Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+      "topic": "New Spider-Man film sees second-biggest ever global opening weekend",
       "category": "eco",
-      "importance": 5,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-08-01-3b5abdf7",
-          "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-          "description": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
-          "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f87/live/51e22a90-8d2c-11f1-a7ab-8b30adf0800a.jpg",
+          "id": "2026-08-03-ba2a69ad",
+          "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+          "description": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+          "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d2/live/86e16b80-8ede-11f1-893f-93ecdb580a16.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-01T12:41:17.000Z",
-          "fetchedAt": "2026-08-02T03:57:40.936Z"
+          "publishedAt": "2026-08-03T02:27:30.000Z",
+          "fetchedAt": "2026-08-03T03:59:51.586Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longin",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-08-02-31e3a531",
+          "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+          "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost entirely drum-free, too. There are some rapid-fire mechanical hi-hats on the second track, \"Tetramorph,\" and the back half of track six, \"Gayatri,\" has what sounds like a snare buried deep in the mix. But it isn't until track seven that Nayar delivers an unexpected drum explosion, before immediately retreating to the soothing wash of \"Sleepless,\" …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-08-02T21:53:15.000Z",
+          "fetchedAt": "2026-08-03T03:59:50.487Z"
         }
       ]
     }
