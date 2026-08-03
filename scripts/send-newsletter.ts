@@ -369,6 +369,21 @@ async function sendNewsletter(): Promise<void> {
 
   console.log(`👥 ${subscribers.length} abonnés ${frequency} confirmés\n`);
 
+  // Filter out invalid/test addresses: one bad address makes resend.batch.send()
+  // reject the ENTIRE batch (observed with a @example.com subscriber: 13 recipients lost)
+  const EMAIL_FORMAT = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
+  const TEST_DOMAINS = /@(example\.(com|org|net)|test\.[a-z]+|localhost)$/i;
+  const validSubscribers = (subscribers as Subscriber[]).filter((s) => {
+    const ok = EMAIL_FORMAT.test(s.email) && !TEST_DOMAINS.test(s.email);
+    if (!ok) console.warn(`   ⊘ Adresse invalide exclue: ${s.email} (id=${s.id})`);
+    return ok;
+  });
+
+  if (validSubscribers.length === 0) {
+    console.log(`ℹ️  Aucun abonné ${frequency} avec adresse valide, newsletter non envoyée`);
+    return;
+  }
+
   // Generate email content
   const htmlContent = generateEmailHtml(edition.stories, edition.date);
   const textContent = generateEmailText(edition.stories, edition.date);
@@ -388,7 +403,7 @@ async function sendNewsletter(): Promise<void> {
   }
 
   // Send emails in batch (single API call → single report entry)
-  const emails = (subscribers as Subscriber[]).map((subscriber) => ({
+  const emails = validSubscribers.map((subscriber) => ({
     from: 'Avactu <briefing@avactu.com>',
     to: subscriber.email,
     subject,
@@ -428,7 +443,11 @@ async function sendNewsletter(): Promise<void> {
   console.log(`Fréquence: ${frequency}`);
   console.log(`Emails envoyés: ${successCount}`);
   console.log(`Erreurs: ${errorCount}`);
-  console.log(`\n✅ Newsletter ${frequency} envoyée !`);
+  if (errorCount > 0) {
+    console.log(`\n⚠️  Newsletter ${frequency} : ${errorCount} destinataire(s) en erreur sur ${emails.length}`);
+  } else {
+    console.log(`\n✅ Newsletter ${frequency} envoyée !`);
+  }
 }
 
 // Run

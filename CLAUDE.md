@@ -441,7 +441,7 @@ Le logo est un **A stylisé cyan** avec :
 
 ### Avant / Après
 
-| Item | Source (à supprimer) | Cible actuelle |
+| Item | Source (SUPPRIMÉE ✅) | Cible actuelle |
 |---|---|---|
 | Projet Supabase | `avactu` — ref `siiuasvstybjbniisjac` — eu-west-1 | `jazzy-apps` — ref `vpmmobouujkknustjlho` — eu-central-1 |
 | URL | `https://siiuasvstybjbniisjac.supabase.co` | `https://vpmmobouujkknustjlho.supabase.co` |
@@ -455,9 +455,4 @@ Le logo est un **A stylisé cyan** avec :
 - **RESEND_API_KEY, OVH_SMS_*, AVA/FELIX/JULIEN_PHONE_NUMBER** : inchangés (pas liés à Supabase)
 
 ### Suppression projet source
-**Plan** : supprimer le projet `avactu` source (`siiuasvstybjbniisjac`) **après la prochaine exécution validée du cron `send-newsletter`** (validation filet de sécurité 24h). Suite : Supabase Dashboard → Settings → General → Delete Project.
-
-### Rollback (tant que le source existe)
-- Remettre les env vars Vercel : `VITE_SUPABASE_URL=https://siiuasvstybjbniisjac.supabase.co`, `VITE_SUPABASE_ANON_KEY=<ancienne anon>`, idem pour `SUPABASE_URL` + `SUPABASE_SERVICE_KEY`.
-- Backup ephemeral : `/tmp/avactu_env_backup.txt` (à stash en pwd manager si nécessaire avant reboot).
-- Redeploy Vercel avec les anciennes valeurs.
+**FAIT** : projet source `avactu` (`siiuasvstybjbniisjac`) **supprimé** (vérifié 2026-06-26 : DNS NXDOMAIN). Migration close, rollback vers le source n'est plus possible.

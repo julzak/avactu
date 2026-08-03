@@ -747,7 +747,10 @@ ${articlesDetail}` }],
     if (recentTechTitles.length > 0) {
       console.log(`   📋 ${recentTechTitles.length} titres tech récents chargés pour diversité`);
     }
-    const techStory = await synthesizeFromPool(client, techArticles, 'tech', storyIndex, recentTechTitles);
+    // Include same-run stories: tech/eco pools can pick the same event (seen 2026-08-02,
+    // sujet Claude/Anthropic synthétisé deux fois, une par catégorie)
+    const techForbidden = [...recentTechTitles, ...stories.map((s) => s.title)];
+    const techStory = await synthesizeFromPool(client, techArticles, 'tech', storyIndex, techForbidden);
     if (techStory) {
       stories.push(techStory);
       console.log(`   ✓ "${techStory.title}" → ${techStory.sources.length} sources`);
@@ -764,12 +767,13 @@ ${articlesDetail}` }],
     if (recentEcoTitles.length > 0) {
       console.log(`   📋 ${recentEcoTitles.length} titres éco récents chargés pour diversité`);
     }
-    let ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, recentEcoTitles);
+    const ecoForbidden = [...recentEcoTitles, ...stories.map((s) => s.title)];
+    let ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, ecoForbidden);
     // Retry once if rejected by similarity guard
-    if (!ecoStory && recentEcoTitles.length > 0) {
+    if (!ecoStory && ecoForbidden.length > 0) {
       console.log(`   🔁 Retry synthèse éco avec contrainte renforcée...`);
       await new Promise((resolve) => setTimeout(resolve, 1500));
-      ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, recentEcoTitles);
+      ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, ecoForbidden);
     }
     if (ecoStory) {
       stories.push(ecoStory);
