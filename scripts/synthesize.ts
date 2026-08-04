@@ -266,7 +266,8 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     const response = await withRetry(
       () => client.messages.create({
         model: MODELS.synthesis,
-        max_tokens: 2048,
+        // Opus 5 : thinking actif par defaut, compte dans max_tokens
+        max_tokens: 4096,
         system: [
           {
             type: 'text' as const,
@@ -493,7 +494,8 @@ ${articlesDetail}`;
     const response = await withRetry(
       () => client.messages.create({
         model: MODELS.synthesis,
-        max_tokens: 2048,
+        // Opus 5 : thinking actif par defaut, compte dans max_tokens
+        max_tokens: 4096,
         system: [
           {
             type: 'text' as const,
@@ -673,7 +675,8 @@ async function synthesize(): Promise<void> {
         const response = await withRetry(
           () => client.messages.create({
             model: MODELS.synthesis,
-            max_tokens: 2048,
+            // Opus 5 : thinking actif par defaut, compte dans max_tokens
+            max_tokens: 4096,
             system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
             messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.
 Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.${excludeStr}
