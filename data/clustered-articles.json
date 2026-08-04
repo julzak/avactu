@@ -1,187 +1,253 @@
 {
-  "generatedAt": "2026-08-03T03:59:52.412Z",
+  "generatedAt": "2026-08-04T03:46:29.619Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Trump annonce la reprise des négociations avec l’Iran",
+      "id": "cluster-4",
+      "topic": "Le président sortant de la Colombie, Gustavo Petro, alerte sur un risque de « gu",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-03-33c2923a",
-          "title": "Trump annonce la reprise des négociations avec l’Iran",
-          "description": "Vingt-quatre heures après avoir suspendu “la plus grande attaque depuis la Seconde Guerre mondiale” contre l’Iran, Donald Trump a assuré dimanche que les négociations avec Téhéran reprendraient lundi après-midi. La presse internationale ne semble guère convaincue.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-trump-annonce-la-reprise-des-negociations-avec-l-iran_255621",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/02/0/0/6000/4000/1200/630/60/0/2174219_ftp-1-hgozrq0j071a-2288805684.jpg",
+          "id": "2026-08-04-668ed4fa",
+          "title": "Le président sortant de la Colombie, Gustavo Petro, alerte sur un risque de « guerre civile » après l’élection contestée de son successeur",
+          "description": "Le dirigeant de gauche, menacé d’extradition aux Etats-Unis, craint que son pays ne s’embrase après la prise de pouvoir du nouveau chef d’Etat, d’extrême droite, qu’il accuse de fraude électorale.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/04/le-president-sortant-de-la-colombie-gustavo-petro-alerte-sur-un-risque-de-guerre-civile-apres-l-election-contestee-de-son-successeur_6737910_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-04T03:11:08.000Z",
+          "fetchedAt": "2026-08-04T03:42:28.972Z"
+        },
+        {
+          "id": "2026-08-04-0b00ed34",
+          "title": "Aux États-Unis, un mouvement contre l’abus des médicaments en psychiatrie prend de l’ampleur",
+          "description": "Depuis les années 1980, relate “The New York Times Magazine”, la psychiatrie américaine est dominée par les traitements médicamenteux censés, à l’image du Prozac, offrir une réponse scientifique et presque miraculeuse aux troubles psychiatriques. Une approche remise en cause par un mouvement critique qui monte, ces dernières années, et qui a trouvé en Robert Kennedy Jr., le très controversé ministre de la Santé, un relais inattendu.",
+          "url": "https://www.courrierinternational.com/article/sante-aux-etats-unis-un-mouvement-contre-l-abus-des-medicaments-en-psychiatrie-prend-de-l-ampleur_244823",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/08/38/0/2200/1466/1200/630/60/0/5dc711b_upload-1-kprieal52gcu-esquivel-2021-11-07-4588-w.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-03T03:52:40.000Z",
-          "fetchedAt": "2026-08-03T03:59:43.200Z"
+          "publishedAt": "2026-08-04T03:00:14.000Z",
+          "fetchedAt": "2026-08-04T03:42:29.481Z"
         },
         {
-          "id": "2026-08-03-6475ecac",
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce des discussions avec l’Iran à partir de lundi",
-          "description": "Après avoir déclaré, la veille, avoir renoncé à de nouvelles frappes sur l’Iran à condition qu’un accord soit rapidement conclu, le président américain a affirmé, dimanche, que des pourparlers avec Téhéran étaient prévus lundi après-midi.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-des-discussions-avec-l-iran-a-partir-de-lundi_6737099_3210.html",
+          "id": "2026-08-03-d250df1d",
+          "title": "Congolais de Paris: les jeunes de la diaspora font vivre la rumba congolaise [2/5]",
+          "description": "La rumba congolaise, inscrite au patrimoine culturel immatériel de l’humanité par l’Unesco en 2021, continue de faire vibrer bien au-delà des frontières de la République démocratique du Congo. Dans la diaspora en France et en Belgique, une nouvelle génération d’artistes et de créateurs fait résonner cet héritage musical pour le faire évoluer en y mêlant ses propres influences et son époque. Reportage sur ces jeunes qui font de la rumba un art en mouvement, par Tom Schneider.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260803-congolais-de-paris-les-jeunes-de-la-diaspora-font-vivre-la-rumba-congolaise-2-5",
+          "imageUrl": "https://s.rfi.fr/media/display/ab8c3306-5d7a-11ec-97b7-005056a97e36/w:1024/p:16x9/2021-12-14T185851Z_1811714811_RC2IER9LA5RU_RTRMADP_3_CONGO-RUMBA.JPG",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-03T23:04:20.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.073Z"
+        },
+        {
+          "id": "2026-08-03-aacff453",
+          "title": "Le nord-ouest des Etats-Unis confronté à une saison des feux « exceptionnelle », la ville de Spokane ressemble à une « zone de guerre »",
+          "description": "Aucun des trois incendies qui ont détruit plusieurs quartiers de cette ville de 230 000 habitants, dans l’Etat de Washington, où l’état d’urgence a été déclaré samedi, n’est pour l’instant contenu.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/04/le-nord-ouest-des-etats-unis-confronte-a-une-saison-des-feux-exceptionnelle-la-ville-de-spokane-ressemble-a-une-zone-de-guerre_6737776_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-03T00:03:32.000Z",
-          "fetchedAt": "2026-08-03T03:59:42.625Z"
+          "publishedAt": "2026-08-03T22:48:47.000Z",
+          "fetchedAt": "2026-08-04T03:42:28.972Z"
         },
         {
-          "id": "2026-08-02-97e28c7f",
-          "title": "En direct : Donald Trump annonce de nouveaux pourparlers avec l'Iran à partir de lundi",
-          "description": "Donald Trump a annoncé, dimanche soir, de nouveaux pourparlers avec l'Iran à partir de lundi. \"Il y a un accord sur Ormuz, et il y aura ensuite un accord sur le nucléaire, on pourrait même dire sur la dénucléarisation de l'Iran\", a assuré le président américain après une suspension des frappes américaines. Plus tôt, Téhéran a assuré être proche d'un accord avec Oman sur le détroit d'Ormuz. Suivez la situation en direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260802-en-direct-donald-trump-annonce-nouveaux-pourparlers-iran-lundi-detroit-ormuz-guerre-moyen-orient-etats-unis-pays-golfe",
-          "imageUrl": "https://s.france24.com/media/display/fba28378-8c6d-11f1-a41a-005056bfb2b6/w:1024/p:16x9/AP26211649336009.jpg",
+          "id": "2026-08-03-f4be8b7a",
+          "title": "Tout laisser tomber après un cancer pour se consacrer à la musique",
+          "description": "Les Médias francophones publics offrent une série de reportages qui portent sur des parcours de vie marqués par un changement majeur. Une brisure parfois dramatique, qui peut aussi mener vers un futur lumineux. C’est ce qu’a vécu Amélie : elle est passée de directrice générale d’une entreprise à musicienne. Entre les deux, il y a le cancer du sein. Une épreuve qui l’a convaincue de suivre son instinct… Aujourd'hui, elle fait carrière sous son patronyme : Beyries. Elle a accueilli chez elle la journaliste de Radio-Canada, Marie-Christine Bouillon.",
+          "url": "https://www.rfi.fr/fr/podcasts/les-s%C3%A9ries-des-m%C3%A9dias-francophones-publics/20260803-tout-laisser-tomber-apr%C3%A8s-un-cancer-pour-se-consacrer-%C3%A0-la-musique",
+          "imageUrl": "https://s.rfi.fr/media/display/388187a8-8f89-11f1-988d-005056a90284/w:1024/p:16x9/Premier-album-de-Beyries-Landing.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-03T22:36:42.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.073Z"
+        },
+        {
+          "id": "2026-08-03-19b5ce81",
+          "title": "Le Sénégal et la Gambie accélèrent la délimitation de leur frontière commune après l’incident de Bullock",
+          "description": "La Gambie et le Sénégal ont finalisé, mercredi 29 juillet, un « accord définitif » pour clarifier le tracé de leur frontière commune.",
+          "url": "https://www.rfi.fr/fr/afrique/20260803-le-s%C3%A9n%C3%A9gal-et-la-gambie-acc%C3%A9l%C3%A8rent-la-d%C3%A9limitation-de-leur-fronti%C3%A8re",
+          "imageUrl": "https://s.rfi.fr/media/display/c392d0c4-165d-11ea-8bfb-005056a99247/w:1024/p:16x9/1013359_frontiere_gambie_senegal_0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-03T18:21:11.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.073Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-13",
+      "topic": "EN DIRECT, guerre en Ukraine : une frappe russe visant la ville de Soumy fait un",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-03-6235c473",
+          "title": "EN DIRECT, guerre en Ukraine : une frappe russe visant la ville de Soumy fait un mort et plusieurs blessés",
+          "description": "« Les Russes ont attaqué les infrastructures civiles de la ville avec des bombes aériennes guidées », a rapporté, sur Telegram, le chef de l’administration militaire de l’oblast, Oleh Hryhorov.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_6737250_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-03T22:39:43.000Z",
+          "fetchedAt": "2026-08-04T03:42:28.972Z"
+        },
+        {
+          "id": "2026-08-03-efd617b3",
+          "title": "Traduite en plusieurs langues, une intox visant Léa Salamé et Raphaël Glucksmann manque sa cible ?",
+          "description": "Des internautes de différents pays ont relayé une fausse vidéo du média français Blast : la journaliste Léa Salamé y est accusée de corruption pour le compte de son compagnon Raphaël Glucksmann, candidat possible à la présidentielle française. Il s’agit d’une intox reprenant des modes opératoires de désinformation utilisés par la Russie mais dont la portée a été assez limitée pour le public français.",
+          "url": "https://www.france24.com/fr/france/20260803-traduite-en-plusieurs-langues-une-intox-visant-l%C3%A9a-salam%C3%A9-et-rapha%C3%ABl-glucksmann-manque-sa-cible",
+          "imageUrl": "https://s.france24.com/media/display/9da2d4f0-8f59-11f1-845d-005056bfb2b6/w:1024/p:16x9/ban-salame.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-02T22:06:43.000Z",
-          "fetchedAt": "2026-08-03T03:59:42.931Z"
-        },
+          "publishedAt": "2026-08-03T17:57:50.000Z",
+          "fetchedAt": "2026-08-04T03:42:29.217Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-23",
+      "topic": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que des discussions ont",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
         {
-          "id": "2026-08-02-5ce98cd3",
-          "title": "Trump suspend les frappes contre l'Iran sous condition d'un accord rapide",
-          "description": "Donald Trump a annoncé avoir renoncé à de nouvelles frappes massives contre l'Iran à la demande de pays de la région, à condition qu'un accord avec Téhéran soit rapidement conclu, en particulier sur le stratégique détroit d'Ormuz.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260802-trump-suspend-les-frappes-contre-l-iran-sous-condition-d-un-accord-rapide",
-          "imageUrl": "https://s.france24.com/media/display/2e03bb20-8e8a-11f1-8984-005056bfb2b6/w:1024/p:16x9/FR-20260802-170557-170733-CS.jpg",
-          "source": "France 24",
+          "id": "2026-08-03-456df685",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que des discussions ont lieu « en ce moment même » avec l’Iran",
+          "description": "Lors d’un échange avec la presse dans le bureau Ovale, le président américain a assuré que ces pourparlers se déroulaient « à la demande » de Téhéran. L’Iran avait déclaré, plus tôt dans la journée, ne pas négocier « avec les Etats-Unis en ce moment ».",
+          "url": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-des-discussions-ont-lieu-en-ce-moment-meme-avec-l-iran_6737099_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-02T16:11:27.000Z",
-          "fetchedAt": "2026-08-03T03:59:42.931Z"
+          "publishedAt": "2026-08-03T20:35:06.000Z",
+          "fetchedAt": "2026-08-04T03:42:28.972Z"
         },
         {
-          "id": "2026-08-02-d318343e",
-          "title": "Guerre au Moyen-Orient : Trump suspend les frappes américaines contre l'Iran",
-          "description": "Donald Trump a annoncé suspendre de nouvelles frappes prévues contre l'Iran à la demande de Téhéran et d'autres pays de la région, à condition qu'un accord pour mettre fin à la guerre au Moyen-Orient soit rapidement conclu. Décryptage avec notre chroniqueuse internationale Mélina Huet.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260802-guerre-au-moyen-orient-trump-suspend-les-frappes-am%C3%A9ricaines-contre-l-iran",
-          "imageUrl": "https://s.france24.com/media/display/2af2bb90-8e6f-11f1-bc52-005056a90284/w:1024/p:16x9/FR-20260802-140106-140740-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-02T12:48:34.000Z",
-          "fetchedAt": "2026-08-03T03:59:42.931Z"
-        },
-        {
-          "id": "2026-08-02-b1dbe2b7",
-          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-          "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-          "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg",
+          "id": "2026-08-03-33bd81e4",
+          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+          "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d360/live/bb60c530-8f6b-11f1-9cfc-0bfd2f6018a1.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-08-02T11:12:00.000Z",
-          "fetchedAt": "2026-08-03T03:59:47.670Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-5",
-      "topic": "Trois feux de forêt dévastateurs ravagent Spokane, dans le nord-ouest américain",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-03-65b2edc0",
-          "title": "Trois feux de forêt dévastateurs ravagent Spokane, dans le nord-ouest américain",
-          "description": "Les flammes de trois incendies, toujours actifs, ont parcouru dimanche Spokane et ses environs, dans l'État américain de Washington. Ils ont détruit plusieurs centaines de bâtiments et entraîné des évacuations massives, sans faire de victime.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260803-trois-feux-de-foret-devastateurs-ravagent-spokane-nord-ouest-americain-etats-unis-evacuation-etat-washington",
-          "imageUrl": "https://s.france24.com/media/display/030a245e-8ee9-11f1-a55f-005056bfb2b6/w:1024/p:16x9/2026-08-02T201620Z-1939349036-RC2KQMAW1T0Q-RTRMADP-3-USA-WILDFIRES-WASHINGTON.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-03T03:28:54.000Z",
-          "fetchedAt": "2026-08-03T03:59:42.931Z"
+          "publishedAt": "2026-08-03T19:42:55.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.109Z"
         },
         {
-          "id": "2026-08-03-7f4c5e65",
-          "title": "Quatre femmes accusant Mohammed Al-Fayed de violences sexuelles ont été reconnues par les autorités britanniques victimes de traite d’êtres humains",
-          "description": "Quelque 157 personnes se sont manifestées auprès de la police britannique et accusent l’ancien propriétaire du magasin Harrods de viols, d’agressions sexuelles et d’exploitation à des fins sexuelles. Mort en 2023 alors qu’il était âgé de plus de 90 ans, il n’a jamais été inquiété de son vivant.",
-          "url": "https://www.lemonde.fr/societe/article/2026/08/03/quatre-femmes-accusant-mohammed-al-fayed-de-violences-sexuelles-ont-ete-reconnues-par-les-autorites-britanniques-victimes-de-traite-d-etres-humains_6737322_3224.html",
+          "id": "2026-08-03-e08c4431",
+          "title": "Crise de Ceuta : Giorgia Meloni, bénéficiaire de la solidarité de Bruxelles, en 2023, à Lampedusa, veut isoler l’Espagne",
+          "description": "La présidente d’extrême droite du conseil italien veut se positionner comme une leader en Europe sur le thème migratoire, à l’approche d’une campagne électorale qui s’annonce dominée par les discours identitaires.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/03/giorgia-meloni-beneficiaire-de-la-solidarite-de-bruxelles-en-2023-a-lampedusa-veut-isoler-l-espagne_6737358_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-03T01:21:07.000Z",
-          "fetchedAt": "2026-08-03T03:59:42.625Z"
+          "publishedAt": "2026-08-03T10:00:04.000Z",
+          "fetchedAt": "2026-08-04T03:42:28.972Z"
         },
         {
-          "id": "2026-08-02-11cab39c",
-          "title": "Les États-Unis sont intervenus pour soutenir le yen, Donald Trump évoque un \"geste d'amitié\"",
-          "description": "Le Financial Times a affirmé dimanche que \"la Réserve fédérale de New York a(vait) pris la décision inhabituelle de procéder à une vente d'euros pour acheter des yens pour le compte du Trésor\" vendredi, en coordination avec le Japon. Une intervention confirmée par le président américain Donald Trump qui évoque un \"geste d'amitié\" envers le Japon et un \"avantage financier\".",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260802-donald-trump-confirme-intervention-americaine-pour-soutenir-monnaie-yen-geste-amitie-japon-etats-unis-reserve-federale",
-          "imageUrl": "https://s.france24.com/media/display/5d4d13a4-8ecb-11f1-a457-005056a90284/w:1024/p:16x9/000-36PF68A.jpg",
-          "source": "France 24",
+          "id": "2026-08-03-7f3c799b",
+          "title": "Moyen-Orient: Donald Trump dit que l'Iran a le choix entre un «accord» et une «capitulation totale»",
+          "description": "Après que Téhéran a démenti les informations de Washington à propos de négociations en cours, le président américain Donald Trump a averti lundi 3 août dans un message sur son réseau Truth Social que le détroit d'Ormuz était « totalement contrôlé » par Washington. Il a ajouté que le blocus naval contre l'Iran ne serait levé qu'en cas d'« accord » ou de « capitulation totale ». L'Iran, de son côté, affirme négocier exclusivement avec le sultanat d'Oman pour sécuriser un passage dans le détroit.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260803-direct-moyen-orient-trump-annonce-de-nouveaux-pourparlers-l-iran-dit-%C3%AAtre-proche-d-un-accord-sur-ormuz-avec-oman",
+          "imageUrl": "https://s.rfi.fr/media/display/abe775fa-8f56-11f1-a8b3-005056a90284/w:1024/p:16x9/2026-08-03T121917Z-618437357-RC2XQMAKJ3PY-RTRMADP-3-IRAN-CRISIS.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-02T23:40:54.000Z",
-          "fetchedAt": "2026-08-03T03:59:42.931Z"
+          "publishedAt": "2026-08-03T04:16:53.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.073Z"
         }
       ]
     },
     {
-      "id": "cluster-10",
-      "topic": "Une frappe de drone fait au moins 35 morts dans le Darfour au Soudan, selon l'ON",
-      "category": "geopolitique",
+      "id": "cluster-6",
+      "topic": "Cyberattaque : 300 000 clients d’Intermarché concernés par une fuite de données",
+      "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-03-260112ba",
-          "title": "Une frappe de drone fait au moins 35 morts dans le Darfour au Soudan, selon l'ONG Emergency Lawyers",
-          "description": "Selon Emergency Lawyers, une frappe a visé le tribunal du village de Garra al-Zawaya, dans l'État du Darfour du Nord, au Soudan, dimanche, où des civils \"étaient réunis\". L'ONG fait état d'un bilan d'au moins 35 personnes tuées. Le gouvernement autoproclamé des FSR a condamné cette attaque, la qualifiant de \"crime horrible\".",
-          "url": "https://www.france24.com/fr/afrique/20260803-frappe-drone-35-morts-darfour-soudan-ong-emergency-lawyers-tribunal-fsr",
-          "imageUrl": "https://s.france24.com/media/display/8fc4ffbc-8edb-11f1-8f3b-005056bf30b7/w:1024/p:16x9/000-B8TT6ZQ.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-03T01:41:50.000Z",
-          "fetchedAt": "2026-08-03T03:59:42.931Z"
+          "id": "2026-08-03-81957148",
+          "title": "Cyberattaque : 300 000 clients d’Intermarché concernés par une fuite de données",
+          "description": "Plusieurs informations ont été dérobées, comme les noms ou adresses de clients du drive, mais aucune donnée bancaire ou aucun mot de passe, affirme l’enseigne.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/03/cyberattaque-300-000-clients-d-intermarche-concernes-par-une-fuite-de-donnees_6737677_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-03T20:13:38.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.012Z"
         },
         {
-          "id": "2026-08-02-b145e329",
-          "title": "Soudan : une ONG accuse l’armée d’avoir tué 35 personnes dans une frappe de drone sur un tribunal du Darfour",
-          "description": "Le conflit entre l’armée et les Forces de soutien rapide, qui a éclaté en 2023, a fait des dizaines de milliers de morts, provoqué le déplacement de millions de personnes et déclenché ce que les Nations unies décrivent comme la plus grave crise de la faim au monde.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-02T22:51:57.000Z",
-          "fetchedAt": "2026-08-03T03:59:42.625Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "New Spider-Man film sees second-biggest ever global opening weekend",
-      "category": "eco",
-      "importance": 7,
-      "articles": [
+          "id": "2026-08-03-a188086b",
+          "title": "Les Anneaux de pouvoir saison 3 : le retour confirmé de Tom Bombadil pose un vrai casse-tête scénaristique",
+          "description": "Alors que le casting de la saison 3 des Anneaux de pouvoir est officialisé, le retour de Tom Bombadil pose une difficulté. Si l'interprétation de Rory Kinnear séduit, la puissance démesurée de « l'Aîné » pose un défi aux scénaristes : comment intégrer l'être le plus puissant de la Terre du Milieu sans désamorcer toute la tension dramatique ?",
+          "url": "https://www.numerama.com/pop-culture/2305901-les-anneaux-de-pouvoir-saison-3-le-retour-confirme-de-tom-bombadil-pose-un-vrai-casse-tete-scenaristique.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2024/09/the-lord-of-the-rings-the-rings-of-power-exclusive-clip-tom-bombadil.jpeg?resize=1600,900&key=e2927491",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-03T18:02:00.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.215Z"
+        },
         {
-          "id": "2026-08-03-ba2a69ad",
-          "title": "New Spider-Man film sees second-biggest ever global opening weekend",
-          "description": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
-          "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d2/live/86e16b80-8ede-11f1-893f-93ecdb580a16.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-08-03T02:27:30.000Z",
-          "fetchedAt": "2026-08-03T03:59:51.586Z"
+          "id": "2026-08-03-7f152731",
+          "title": "L’annulation du retour de Blade est un immense gâchis et une grosse erreur",
+          "description": "Sept ans après son annonce retentissante au Comic-Con de San Diego, le reboot de Blade a été officiellement enterré par Marvel Studios. Entre rendez-vous manqués, vaines promesses pour l'univers fantastique et gâchis de talent pur, le projet laisse un goût amer. Anatomie d’un fiasco stratégique.",
+          "url": "https://www.numerama.com/pop-culture/2305937-lannulation-du-retour-de-blade-est-un-immense-gachis-et-une-grosse-erreur.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/capture-decran-2026-08-03-a-172415.jpg?resize=1600,900&key=3c60b004",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-03T16:22:00.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.215Z"
+        },
+        {
+          "id": "2026-08-03-d2e0f5e3",
+          "title": "L’Espagne joue un double jeu avec les investisseurs chinois pour son industrie automobile",
+          "description": "Pendant que ses régions se disputent les usines de batteries et de voitures électriques made in China, Madrid pousse en parallèle Bruxelles à imposer des règles communes pour éviter que l'accueil à bras ouverts ne se transforme en dépendance technologique.",
+          "url": "https://www.numerama.com/vroom/2305863-lespagne-joue-un-double-jeu-avec-les-investisseurs-chinois-pour-son-industrie-automobile.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/esp-vs-chine.jpg?resize=1600,900&key=f644167a",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-03T15:50:00.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.215Z"
+        },
+        {
+          "id": "2026-08-03-49ae9713",
+          "title": "Immense fuite de données chez Intermarché, 2 millions de clients concernés : voici les détails et les bons réflexes à adopter",
+          "description": "L'enseigne a confirmé une intrusion dans ses serveurs et l'exfiltration de données personnelles de son service de retrait. Voici ce que les clients doivent vérifier et les précautions à prendre.",
+          "url": "https://www.numerama.com/cyberguerre/2305933-immense-fuite-de-donnees-chez-intermarche-2-millions-de-clients-concernes-voici-details-et-les-bons-reflexes-a-adopter.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/coldcard-2.jpg?resize=1600,900&key=94a43ef2",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-03T15:11:33.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.215Z"
+        },
+        {
+          "id": "2026-08-03-44c20c8b",
+          "title": "« Aucun risque pour la sécurité » : comment une faille critique dans SQLite s’est révélée être une pure invention de l’IA",
+          "description": "Une notification de sécurité informatique notée 10 sur 10 (le plus haut degré de gravité), reprise par le NIST, la CISA et le centre de cybersécurité néerlandais, décrivait une faille qui n'a jamais existé. Il aura fallu l'obstination du créateur de SQLite pour la faire retirer.",
+          "url": "https://www.numerama.com/cyberguerre/2305767-aucun-risque-pour-la-securite-comment-une-faille-critique-dans-sqlite-sest-revelee-etre-une-pure-invention-de-lia.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/coldcard-1.jpg?resize=1600,900&key=a38cf38a",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-03T14:49:03.000Z",
+          "fetchedAt": "2026-08-04T03:42:38.215Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longin",
-      "category": "tech",
-      "importance": 6,
+      "topic": "Dans les Hauts-de-France, l’euphorie créée par les gigafactories de batteries él",
+      "category": "eco",
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-08-02-31e3a531",
-          "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-          "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost entirely drum-free, too. There are some rapid-fire mechanical hi-hats on the second track, \"Tetramorph,\" and the back half of track six, \"Gayatri,\" has what sounds like a snare buried deep in the mix. But it isn't until track seven that Nayar delivers an unexpected drum explosion, before immediately retreating to the soothing wash of \"Sleepless,\" …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-08-02T21:53:15.000Z",
-          "fetchedAt": "2026-08-03T03:59:50.487Z"
+          "id": "2026-08-04-d1030d4a",
+          "title": "Dans les Hauts-de-France, l’euphorie créée par les gigafactories de batteries électriques laisse place au doute",
+          "description": "Inaugurées en grande pompe, les immenses usines du Nord peinent à monter en cadence. Retards, taux de rebut élevé et coûts de production fragilisent Verkor et ACC, face à des concurrents asiatiques bien plus avancés.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/04/dans-les-hauts-de-france-l-euphorie-creee-par-les-gigafactories-de-batteries-electriques-laisse-place-au-doute_6737877_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-08-04T03:00:14.000Z",
+          "fetchedAt": "2026-08-04T03:42:40.796Z"
         }
       ]
     }
