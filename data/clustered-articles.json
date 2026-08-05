@@ -1,165 +1,220 @@
 {
-  "generatedAt": "2026-08-05T03:42:00.945Z",
+  "generatedAt": "2026-08-05T06:56:11.693Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil pr",
+      "topic": "Ukraine: de nouvelles frappes russes font au moins 15 morts à Kiev et dans ses e",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-05-1053d182",
-          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-          "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-          "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg",
-          "source": "BBC World",
+          "id": "2026-08-05-4f61b111",
+          "title": "Ukraine: de nouvelles frappes russes font au moins 15 morts à Kiev et dans ses environs",
+          "description": "La capitale ukrainienne, Kiev, a été la cible principale d'une attaque de drones et de missiles de la Russie. Le bilan provisoire est lourd, avec 15 morts et plus d'une cinquantaine de blessés. Les frappes ont visé en particulier des entrepôts dans et autour de la capitale.",
+          "url": "https://www.rfi.fr/fr/europe/20260805-ukraine-de-nouvelles-frappes-russes-font-au-moins-15-morts-%C3%A0-kiev-et-dans-ses-environs",
+          "imageUrl": "https://s.rfi.fr/media/display/19b1c14a-9091-11f1-a1f0-005056bf30b7/w:1024/p:16x9/2026-08-05T030200Z-138109928-RC2XRMA25C5B-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T03:37:27.000Z",
-          "fetchedAt": "2026-08-05T03:38:10.027Z"
+          "publishedAt": "2026-08-05T06:39:51.000Z",
+          "fetchedAt": "2026-08-05T06:52:20.559Z"
         },
         {
-          "id": "2026-08-05-f41d566d",
-          "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-          "description": "Aaron Farinacci, 37, was allegedly spotted near the latest blaze and was found to have matches and a lighter.",
-          "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/005f/live/621eea00-9007-11f1-a7ab-8b30adf0800a.jpg",
-          "source": "BBC World",
+          "id": "2026-08-05-8df80398",
+          "title": "Ukraine : une attaque russe fait 15 morts à Kiev et dans sa région",
+          "description": "Des frappes russes nocturnes ont fait un mort à Kiev et quatorze autres dans ses environs, et incendié des entrepôts, ont annoncé les autorités locales mercredi matin. L'armée de l'air affirme qu'elle n'a pas pu abattre un seul missile russe. Les précisions d'Emmanuelle Chaze, correspondante de France 24 en Ukraine.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-ukraine-une-attaque-russe-fait-15-morts-%C3%A0-kiev-et-dans-sa-r%C3%A9gion",
+          "imageUrl": "https://s.france24.com/media/display/5f43e870-908f-11f1-b791-005056bfb2b6/w:1024/p:16x9/FR-20260805-070630-070901-CS.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T00:40:23.000Z",
-          "fetchedAt": "2026-08-05T03:38:10.027Z"
+          "publishedAt": "2026-08-05T06:29:50.000Z",
+          "fetchedAt": "2026-08-05T06:52:11.306Z"
         },
         {
-          "id": "2026-08-04-095b0787",
-          "title": "Vingt-cinq États américains contestent les droits de douane “fantaisistes” de Trump devant la justice",
-          "description": "Entrées en vigueur le 24 juillet pour prendre le relais de celles qui ont été invalidées par la Cour suprême, les nouvelles surtaxes sur les importations décidées par Donald Trump sont déjà contestées devant les tribunaux. La bataille juridique menace d’être longue, explique la presse américaine.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-vingt-cinq-etats-americains-contestent-les-droits-de-douane-fantaisistes-de-trump-devant-la-justice_256292",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/17/0/0/5500/3666/1200/630/60/0/9122f52_ftp-1-n3zo6q28qvfz-2026-07-17t230638z-1470894823-rc2ufmaib0ce-rtrmadp-3-usa-business.JPG",
-          "source": "Courrier International",
+          "id": "2026-08-05-5faa59b4",
+          "title": "Ukraine en direct : au moins 15 morts dans des frappes russes sur la région de Kiev",
+          "description": "Au moins 15 personnes ont été tuées dans des frappes russes sur Kiev et sa région dans la nuit de mardi à mercredi. Il s'agit de l'une des attaques les plus meurtrières contre la capitale ukrainienne cette année, selon les autorités locales. Les bombardements ont déclenché des incendies dans des entrepôts et d'autres sites logistiques. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20260805-en-direct-ukraine-au-moins-15-morts-frappes-russes-r%C3%A9gion-kiev-guerre-russie",
+          "imageUrl": "https://s.france24.com/media/display/4a6fd06c-908f-11f1-b017-005056a90284/w:1024/p:16x9/AP26217189441513.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-04T15:38:24.000Z",
-          "fetchedAt": "2026-08-05T03:38:00.892Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "EN DIRECT, guerre en Ukraine : des bombardements sur Kiev et sa région font au m",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
+          "publishedAt": "2026-08-05T05:34:38.000Z",
+          "fetchedAt": "2026-08-05T06:52:11.306Z"
+        },
+        {
+          "id": "2026-08-05-b3aee12a",
+          "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+          "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+          "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad67/live/89898fe0-9085-11f1-b8ee-9b3c26ad07bb.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T05:08:43.000Z",
+          "fetchedAt": "2026-08-05T06:52:20.523Z"
+        },
         {
           "id": "2026-08-05-f0cc3131",
-          "title": "EN DIRECT, guerre en Ukraine : des bombardements sur Kiev et sa région font au moins deux morts",
-          "description": "Selon les autorités locales, une femme a été tuée et douze personnes blessées dans des frappes aériennes qui ont touché au moins sept lieux de la capitale ukrainienne. Une autre personne a été tuée dans le district de Boutcha, et au moins 21 autres blessées.",
+          "title": "EN DIRECT, guerre en Ukraine : au moins 15 morts dans des bombardements russes sur Kiev et sa région",
+          "description": "Quatorze personnes ont été tuées et 27 autres blessées dans les environs de Kiev, et une femme est morte dans la capitale ukrainienne, lors d’une série de frappes nocturnes. En Russie, l’oblast de Toula a subi une attaque de drones ukrainiens ayant fait au moins un blessé, selon son gouverneur.",
           "url": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-des-bombardements-sur-kiev-et-sa-region-font-au-moins-deux-morts_6737250_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T03:33:16.000Z",
-          "fetchedAt": "2026-08-05T03:38:00.427Z"
-        },
-        {
-          "id": "2026-08-05-1027efba",
-          "title": "Incendies en Gironde: des pompiers ukrainiens prêtent main-forte à leurs homologues français",
-          "description": "Alors que le tourisme reprend progressivement dans les secteurs de Gironde et des Landes, touchés par les incendies de juillet, les pompiers restent mobilisés. En Gironde, 70 pompiers ukrainiens, arrivés dimanche 2 août, prêtent main-forte à leurs homologues français pour éviter tout nouveau départ de feu, alors que le vent ravive encore certains foyers. Ils interviennent notamment aux alentours du Porge, la commune la plus touchée par l'incendie.",
-          "url": "https://www.rfi.fr/fr/france/20260805-incendies-en-gironde-des-pompiers-ukrainiens-pr%C3%AAtent-main-forte-%C3%A0-leurs-homologues-fran%C3%A7ais",
-          "imageUrl": "https://s.rfi.fr/media/display/e305f8ce-904e-11f1-9907-005056a97e36/w:1024/p:16x9/IMG-2027.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T03:00:09.000Z",
-          "fetchedAt": "2026-08-05T03:38:10.284Z"
+          "publishedAt": "2026-08-05T03:33:15.000Z",
+          "fetchedAt": "2026-08-05T06:52:10.988Z"
         },
         {
           "id": "2026-08-05-d02f3b4e",
-          "title": "Ukraine : nouvelle attaque russe meurtrière sur Kiev, des entrepôts touchés",
-          "description": "Deux personnes ont été tuées dans la nuit de mardi à mercredi à Kiev et dans sa région, visées par une attaque de missiles balistiques russe. Des infrastructures résidentielles ont été touchées ainsi que des entrepôts qui ont pris feu.",
+          "title": "Ukraine : nouvelle attaque russe meurtrière dans la région de Kiev, au moins 15 morts",
+          "description": "Au moins 15 personnes ont été tuées dans la nuit de mardi à mercredi à Kiev et dans sa région, visées par une attaque de missiles balistiques russe. Des infrastructures résidentielles ont été touchées et des entrepôts ont pris feu.",
           "url": "https://www.france24.com/fr/europe/20260805-ukraine-kiev-russie-nouvelle-attaque-russe-meurtriere-entrepots",
           "imageUrl": "https://s.france24.com/media/display/65d720da-9067-11f1-b868-005056a97e36/w:1024/p:16x9/000-C3YH89E.jpg",
           "source": "France 24",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T00:54:31.000Z",
-          "fetchedAt": "2026-08-05T03:38:00.589Z"
+          "fetchedAt": "2026-08-05T06:52:11.306Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Gaza: obsèques collectives pour 112 Palestiniens tués dans une frappe israélienn",
+      "id": "cluster-3",
+      "topic": "Afflux migratoire à Ceuta: la crédibilité de l'espace Schengen remise en cause, ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-05-4856c9c6",
-          "title": "Gaza: obsèques collectives pour 112 Palestiniens tués dans une frappe israélienne en 2023",
-          "description": "Des funérailles collectives ont été organisées, ce mardi 4 août à Gaza, pour 112 Palestiniens tués lors d'un bombardement de l'armée israélienne, en novembre 2023. Les corps des victimes, dont beaucoup étaient des femmes et des enfants, ont été récemment retrouvés sous les décombres, près de trois ans après l'attaque.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260805-gaza-obs%C3%A8ques-collectives-pour-112-palestiniens-tu%C3%A9s-dans-une-frappe-isra%C3%A9lienne-en-2023",
-          "imageUrl": "https://s.rfi.fr/media/display/aa9d27a4-9045-11f1-99aa-005056a97e36/w:1024/p:16x9/2026-08-04T111736Z-293602034-RC2LRMATK4ZO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA-FUNERAL.jpg",
+          "id": "2026-08-05-0fd9eb98",
+          "title": "Afflux migratoire à Ceuta: la crédibilité de l'espace Schengen remise en cause, selon le Danemark et la Finlande",
+          "description": "Mardi 4 août, les ministres européens de l'Intérieur se sont réunis pour évoquer la protection des frontières extérieures de l'Union européenne, après la crise à Ceuta. En résumé, l'incident est clos. Une démonstration d'unité qui contraste nettement avec les tensions apparues au plus fort de la crise. Le Danemark s'est dit « très satisfait » de la réponse espagnole à Ceuta. Pourtant, le Danemark et la Finlande estiment notamment que l'épisode remet en cause la crédibilité de l'espace Schengen.",
+          "url": "https://www.rfi.fr/fr/europe/20260805-afflux-migratoire-%C3%A0-ceuta-la-cr%C3%A9dibilit%C3%A9-de-l-espace-schengen-remise-en-cause-selon-le-danemark-et-la-finlande",
+          "imageUrl": "https://s.rfi.fr/media/display/23e048d2-9012-11f1-878b-005056bfb2b6/w:1024/p:16x9/2026-08-04T060208Z-1711876709-RC27RMAUMI0M-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T03:10:11.000Z",
-          "fetchedAt": "2026-08-05T03:38:10.284Z"
+          "publishedAt": "2026-08-05T06:26:49.000Z",
+          "fetchedAt": "2026-08-05T06:52:20.559Z"
         },
         {
-          "id": "2026-08-04-d99d7b92",
-          "title": "A Gaza, des funérailles collectives pour 112 victimes longtemps ensevelies sous les décombres",
-          "description": "Ces personnes avaient péri dans un bombardement israélien de novembre 2023.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/04/a-gaza-des-funerailles-collectives-pour-112-victimes-longtemps-ensevelies-sous-les-decombres_6738850_3210.html",
+          "id": "2026-08-04-8f96e4f9",
+          "title": "Ceuta : l'espace Schengen pas \"compromis\" pendant la crise migratoire assure Madrid",
+          "description": "Malgré l’entrée illégale d’au moins 72 000 migrants à Ceuta, l’espace Schengen n'a pas été \"compromis\", selon le ministre espagnol de l’Intérieur Fernando Grande-Marlaska. La quasi-totalité des migrants, soit près de 70 000 personnes (sur 72 000), ont regagné le Maroc voisin.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260804-ceuta-l-espace-schengen-pas-compromis-pendant-la-crise-migratoire-assure-madrid",
+          "imageUrl": "https://s.france24.com/media/display/86f224da-901d-11f1-ad28-005056bf30b7/w:1024/p:16x9/minia-CEUTA-SHENGEN0.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-04T16:01:52.000Z",
+          "fetchedAt": "2026-08-05T06:52:11.306Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "Dans le nord-ouest des États-Unis et au Canada, la détresse face aux incendies",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-05-68db06a2",
+          "title": "Dans le nord-ouest des États-Unis et au Canada, la détresse face aux incendies",
+          "description": "Le nord-ouest des États-Unis fait face à une sécheresse et une saison des incendies particulièrement intense. Les flammes ont atteint la ville de Spokane, forçant plusieurs dizaines de milliers de personnes à quitter leurs maisons. Beaucoup ont trouvé refuge dans le centre de convention de la ville. D'autres sont allés dans des hôtels. En Colombie-Britannique, plus de 120 feux de forêt font actuellement rage et 8 000 personnes sont sous le coup d'un ordre d'évacuation.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260805-dans-le-nord-ouest-des-%C3%A9tats-unis-et-au-canada-la-d%C3%A9tresse-face-aux-incendies",
+          "imageUrl": "https://s.rfi.fr/media/display/62e1cffa-9095-11f1-8980-005056a97e36/w:1024/p:16x9/000-C3YC2A6.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T06:21:40.000Z",
+          "fetchedAt": "2026-08-05T06:52:20.559Z"
+        },
+        {
+          "id": "2026-08-05-1286b094",
+          "title": "États-Unis : le Michigan vote à un moment charnière pour les démocrates",
+          "description": "Les électeurs démocrates du Michigan ont voté mardi pour désigner leurs candidats aux élections américaines de mi-mandat de novembre, avec l'attention tournée vers une primaire très disputée pour un siège au Sénat, miroir des divisions actuelles de la gauche américaine. Les précisions de Sarah Andersen, correspondante de France 24 aux États-Unis.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-%C3%A9tats-unis-le-michigan-vote-%C3%A0-un-moment-charni%C3%A8re-pour-les-d%C3%A9mocrates",
+          "imageUrl": "https://s.france24.com/media/display/b292f086-9088-11f1-add3-005056bfb2b6/w:1024/p:16x9/NW206803-O-01-20260805-01.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T05:12:58.000Z",
+          "fetchedAt": "2026-08-05T06:52:11.306Z"
+        },
+        {
+          "id": "2026-08-05-df7a0c2f",
+          "title": "La guerre en Somalie, l’autre impasse stratégique de l’administration Trump",
+          "description": "L’armée américaine intervient dans ce pays de la Corne de l’Afrique depuis plus de vingt ans. Avec le retour de Donald Trump à la Maison Blanche, le nombre de frappes a quadruplé par rapport au bilan des quatre années de mandat de Joe Biden.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/05/la-guerre-en-somalie-l-autre-impasse-strategique-de-l-administration-trump_6739356_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-04T18:58:45.000Z",
-          "fetchedAt": "2026-08-05T03:38:00.427Z"
+          "publishedAt": "2026-08-05T04:00:39.000Z",
+          "fetchedAt": "2026-08-05T06:52:10.988Z"
         },
         {
-          "id": "2026-08-04-e8f4dca9",
-          "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-          "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-          "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/566e/live/875b67e0-901a-11f1-a7ab-8b30adf0800a.jpg",
-          "source": "BBC World",
+          "id": "2026-08-05-b47fd3f1",
+          "title": "Crise de Ceuta : « Le Maroc n’a pas besoin d’un nouveau plan de développement, mais d’un nouveau contrat social »",
+          "description": "Fin juillet, près de 50 000 migrants venus du Maroc sont entrés dans l’enclave espagnole. Plutôt qu’une crise migratoire, il faut y voir l’échec du pacte de croissance mis en place par les élites marocaines, analyse l’économiste Jamal Bouoiyour dans une tribune au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/08/05/crise-de-ceuta-le-maroc-n-a-pas-besoin-d-un-nouveau-plan-de-developpement-mais-d-un-nouveau-contrat-social_6739350_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-04T15:07:52.000Z",
-          "fetchedAt": "2026-08-05T03:38:10.027Z"
+          "publishedAt": "2026-08-05T04:00:03.000Z",
+          "fetchedAt": "2026-08-05T06:52:10.988Z"
+        },
+        {
+          "id": "2026-08-05-c2bb155e",
+          "title": "Mains coupées, enfants empalés : en Thaïlande, les terrifiantes statues d’un “jardin de l’enfer”",
+          "description": "JARDINS EXTRAORDINAIRES (3/6) – Situé dans le nord de la Thaïlande, le jardin du temple Wat Mae Kaet Noi est peuplé de statues représentant avec une précision saisissante les tourments de l’enfer, raconte le journaliste britannique Ron Emmons dans “Nikkei Asia”. L’objectif : effrayer les “pécheurs” et les remettre sur ce que les bonzes estiment être le droit chemin… Celui de Bouddha.",
+          "url": "https://www.courrierinternational.com/article/serie-d-ete-mains-coupees-enfants-empales-en-thailande-les-terrifiantes-statues-d-un-jardin-de-l-enfer_245783",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/21/0/10/5479/3653/1200/630/60/0/a378968_upload-1-06zcqqnut8in-1-7036fa4d-3fb5-4949-91c3-4cd0c33b62a0-copie.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T03:00:13.000Z",
+          "fetchedAt": "2026-08-05T06:52:11.379Z"
+        },
+        {
+          "id": "2026-08-05-f14a54a2",
+          "title": "Un homme armé arrêté dans un golf de Donald Trump en Californie, deux jours avant une visite du président sur place",
+          "description": "L’individu de 38 ans au comportement jugé suspect a été interpellé, dimanche 2 août, par les services du shérif du comté de Los Angeles. Un pistolet chargé ainsi que des munitions ont été retrouvés dans son véhicule.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/05/un-homme-arme-arrete-dans-un-golf-de-donald-trump-en-californie-deux-jours-avant-une-visite-du-president-sur-place-mardi_6739114_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T01:16:52.000Z",
+          "fetchedAt": "2026-08-05T06:52:10.988Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Don’t screw this up, Marvel",
+      "topic": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-04-002205d8",
-          "title": "Don’t screw this up, Marvel",
-          "description": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a deal to bring the character into its own films. But as successful as Brand New Day has been, the larger MCU has been stuck in a confounding slump for the past few years. And while this latest Spider-Man movie was truly excellent, it's not necessarily a sign that Marvel has figured out how to get things back on track.\nThough Brand New Da …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/SBND-27223_r.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-08-05-44ac0416",
+          "title": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
+          "description": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first earnings call.\n\"The spectrum that we purchased from EchoStar does have terrestrial components, so we definitely intend to build out the terrestrial component,\" said Shotwell. \"You will have not only the capacity from the satellites themselves, but you will have a buildout of the terrestrial, basically the hardware and systems ne …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-08-04T23:20:56.000Z",
-          "fetchedAt": "2026-08-05T03:38:13.955Z"
+          "publishedAt": "2026-08-05T06:50:19.000Z",
+          "fetchedAt": "2026-08-05T06:52:23.859Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+      "topic": "New clothing saved from waste by sewing charity",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-05-b24585d9",
-          "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-          "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
-          "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg",
+          "id": "2026-08-05-8f3810c8",
+          "title": "New clothing saved from waste by sewing charity",
+          "description": "Unwanted clothes are reworked and donated by Dressability in Swindon instead of going to landfill.",
+          "url": "https://www.bbc.co.uk/news/articles/c151p4en2kqo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0e2/live/4c1626d0-8fec-11f1-a10e-47119dd4425c.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-05T00:02:18.000Z",
-          "fetchedAt": "2026-08-05T03:38:17.429Z"
+          "publishedAt": "2026-08-05T05:45:57.000Z",
+          "fetchedAt": "2026-08-05T06:52:26.231Z"
         }
       ]
     }
