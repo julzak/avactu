@@ -1,126 +1,30 @@
 {
-  "date": "2026-08-04T03:47:48.497Z",
+  "date": "2026-08-05T03:44:55.904Z",
   "stories": [
     {
-      "id": "2026-08-04-01",
+      "id": "2026-08-05-01",
       "category": "geopolitique",
-      "title": "Colombie : Petro alerte sur un risque de guerre civile",
-      "imageUrl": "https://focus.courrierinternational.com/2026/07/08/38/0/2200/1466/1200/630/60/0/5dc711b_upload-1-kprieal52gcu-esquivel-2021-11-07-4588-w.jpg",
+      "title": "Des frappes russes sur Kiev font au moins deux morts",
+      "imageUrl": "https://s.france24.com/media/display/65d720da-9067-11f1-b868-005056a97e36/w:1024/p:16x9/000-C3YH89E.jpg",
       "location": {
-        "lat": 4.711,
-        "lng": -74.0721,
-        "name": "Bogota, Colombie"
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "Kiev, Ukraine"
       },
       "bullets": [
-        "Le président sortant Gustavo Petro dénonce l'élection contestée de son successeur",
-        "L'arrivée au pouvoir d'un chef d'État d'extrême droite déclenche la crise",
-        "Le dirigeant de gauche accuse le nouveau président de fraude électorale",
-        "Le camp adverse conteste les accusations et revendique une victoire légitime",
-        "Une extradition de Petro vers les États-Unis alimente les tensions internes"
+        "Les frappes russes ont touché Kiev et sa région dans la nuit",
+        "Les missiles balistiques ont visé au moins sept lieux de la capitale",
+        "Les autorités locales font état de deux morts et dizaines de blessés",
+        "Le district de Boutcha compte un mort et 21 blessés",
+        "Des entrepôts logistiques incendiés fragilisent les chaînes d'approvisionnement ukrainiennes"
       ],
-      "execSummary": "Le président sortant de la Colombie, Gustavo Petro, a publiquement alerté sur un risque de « guerre civile » après la prise de pouvoir de son successeur, un chef d'État d'extrême droite dont l'élection est contestée. Selon Le Monde, le dirigeant de gauche, lui-même menacé d'extradition vers les États-Unis, craint que son pays ne s'embrase à la suite de ce transfert de pouvoir. La passation intervient dans un climat politique déjà polarisé entre le sortant et l'entrant.\n\nGustavo Petro justifie son alerte en accusant le nouveau président de fraude électorale. De son point de vue, le scrutin qui a porté l'extrême droite au pouvoir serait entaché d'irrégularités, ce qui délégitimerait le vainqueur et menacerait la stabilité démocratique du pays. Il présente son avertissement comme une mise en garde destinée à prévenir un embrasement.\n\nDe l'autre côté, le camp du nouveau président revendique une victoire légitime et rejette les accusations de fraude portées par Petro. Pour ses partisans, les propos du sortant relèvent d'une rhétorique visant à contester un résultat défavorable à la gauche. Les sources disponibles restent centrées sur la position de Petro et détaillent peu les arguments précis du camp adverse.\n\nLa menace d'extradition qui pèse sur Petro vers les États-Unis constitue un point de friction immédiat, qui mêle enjeu judiciaire et bras de fer politique. Un transfert de pouvoir entre une gauche sortante et une extrême droite entrante fragilise les institutions colombiennes et pourrait raviver des tensions armées dans un pays marqué par des décennies de conflit interne. Les prochaines semaines diront si les accusations débouchent sur une contestation durable ou sur un apaisement.",
+      "execSummary": "Dans la nuit du mardi au mercredi 5 août 2026, Kiev et sa région ont été visées par une attaque de missiles balistiques russes. Selon Le Monde, une femme a été tuée et douze personnes blessées dans la capitale, où au moins sept sites ont été touchés ; une autre personne a péri dans le district de Boutcha, avec au moins 21 blessés supplémentaires. France 24 confirme un bilan de deux morts et précise que des infrastructures résidentielles ainsi que des entrepôts, qui ont pris feu, figurent parmi les cibles.\n\nMoscou justifie de longue date ce type d'opérations en affirmant ne viser que des infrastructures militaires ou logistiques liées à l'effort de guerre ukrainien, notamment les entrepôts et les sites de stockage susceptibles d'abriter du matériel occidental. Les frappes de missiles balistiques, difficiles à intercepter, sont présentées comme une réponse aux livraisons d'armements et aux attaques ukrainiennes en profondeur.\n\nDu côté ukrainien, les autorités locales citées par Le Monde et France 24 mettent en avant le caractère résidentiel de plusieurs sites touchés et le bilan civil, alimentant les appels de Kiev à un renforcement de la défense antiaérienne fournie par ses partenaires. Le contexte souligne aussi la profondeur des liens avec l'Europe : RFI rapporte que 70 pompiers ukrainiens, arrivés le 2 août, épaulent leurs homologues français en Gironde après les incendies de juillet, illustrant une coopération devenue réciproque.\n\nLes entrepôts incendiés touchent directement la logistique civile et militaire, un point névralgique alors que l'hiver et les capacités de stockage restent des variables critiques. Chaque salve de missiles balistiques teste l'épuisement des stocks d'intercepteurs ukrainiens, dont la reconstitution dépend des décisions budgétaires européennes et américaines. À moyen terme, la répétition de ces attaques sur la capitale pèse sur les négociations diplomatiques et sur la capacité de l'Ukraine à maintenir une vie économique normale.",
       "sources": [
         "Le Monde - International",
-        "Courrier International",
-        "RFI"
-      ],
-      "publishedAt": "2026-08-04T03:11:08.000Z"
-    },
-    {
-      "id": "2026-08-04-02",
-      "category": "geopolitique",
-      "title": "La Russie frappe Soumy, une intox vise des Français",
-      "imageUrl": "https://s.france24.com/media/display/9da2d4f0-8f59-11f1-845d-005056bfb2b6/w:1024/p:16x9/ban-salame.jpg",
-      "location": {
-        "lat": 50.9077,
-        "lng": 34.7981,
-        "name": "Soumy, Ukraine"
-      },
-      "bullets": [
-        "La Russie a frappé Soumy avec des bombes guidées, tuant une personne",
-        "Les infrastructures civiles ont été visées, selon l'administration militaire locale",
-        "Le chef de l'oblast Oleh Hryhorov dénonce une attaque contre des civils",
-        "Une fausse vidéo visant Léa Salamé reprend des modes de désinformation russes",
-        "La guerre se prolonge sur les fronts militaire et informationnel"
-      ],
-      "execSummary": "Le 4 août 2026, une frappe russe a touché la ville de Soumy, dans le nord-est de l'Ukraine, faisant un mort et plusieurs blessés. Selon Oleh Hryhorov, chef de l'administration militaire de l'oblast cité par Le Monde, « les Russes ont attaqué les infrastructures civiles de la ville avec des bombes aériennes guidées ». En parallèle, France 24 rapporte la diffusion d'une intox internationale visant la journaliste Léa Salamé et son compagnon Raphaël Glucksmann, présumé candidat à la présidentielle française.\n\nDu côté ukrainien, les autorités locales présentent la frappe de Soumy comme une attaque délibérée contre des civils, insistant sur le caractère non militaire des cibles touchées. Kiev inscrit cet épisode dans une série d'offensives russes visant, selon lui, à briser le moral des populations de l'est et du nord du pays, régions proches de la frontière russe.\n\nLa Russie, de son côté, n'a pas commenté publiquement cette frappe spécifique dans les sources disponibles. Sur le volet informationnel, France 24 souligne que la fausse vidéo attribuée au média Blast reprend « des modes opératoires de désinformation utilisés par la Russie », mais que sa portée est restée limitée auprès du public français. Aucune revendication officielle n'a été établie.\n\nLa localisation de Soumy, à quelques kilomètres de la frontière russe, en fait une cible récurrente et un baromètre de l'intensité du conflit. Traduite en plusieurs langues, l'intox visant Salamé et Glucksmann montre que la guerre se joue aussi en ligne, à l'approche d'échéances électorales françaises. Ce double front — bombes et manipulation numérique — dessine les contours d'une confrontation qui déborde largement les lignes de tranchées.",
-      "sources": [
-        "Le Monde - International",
+        "RFI",
         "France 24"
       ],
-      "publishedAt": "2026-08-03T22:39:43.000Z"
-    },
-    {
-      "id": "2026-08-04-03",
-      "category": "geopolitique",
-      "title": "Trump et l'Iran s'opposent sur des négociations",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d360/live/bb60c530-8f6b-11f1-9cfc-0bfd2f6018a1.jpg",
-      "location": {
-        "lat": 26.5667,
-        "lng": 56.25,
-        "name": "Détroit d'Ormuz"
-      },
-      "bullets": [
-        "Le président américain affirme que des discussions ont lieu avec l'Iran",
-        "Le contexte : Téhéran dément et parle de négociations avec Oman uniquement",
-        "Les États-Unis contrôleraient le détroit d'Ormuz selon Donald Trump",
-        "L'Iran déclare ne pas négocier avec Washington actuellement",
-        "L'enjeu : le blocus naval affecte le passage stratégique du pétrole"
-      ],
-      "execSummary": "Le 3 août 2026, Donald Trump a affirmé depuis le bureau Ovale que des pourparlers avaient lieu « en ce moment même » avec l'Iran, précisant qu'ils se déroulaient « à la demande » de Téhéran. Quelques heures plus tôt, l'Iran avait déclaré ne pas négocier « avec les États-Unis en ce moment », affirmant discuter exclusivement avec le sultanat d'Oman. Sur son réseau Truth Social, Trump a ajouté que le détroit d'Ormuz était « totalement contrôlé » par Washington et qu'un blocus naval restait en place, selon RFI.\n\nDu côté américain, Trump présente ces échanges comme une initiative iranienne et fixe des conditions strictes. Selon RFI, il a averti que l'Iran avait le choix entre un « accord » et une « capitulation totale », le blocus naval ne devant être levé que dans ces deux cas de figure. Il défend une position de force adossée au contrôle revendiqué du détroit d'Ormuz.\n\nTéhéran conteste frontalement le récit de Washington. Selon la BBC, l'Iran nie tout dialogue direct avec les États-Unis et affirme négocier uniquement avec Oman pour sécuriser un passage dans le détroit. Ce démenti a provoqué, toujours selon la BBC, une condamnation ferme des dirigeants iraniens par Donald Trump. Le Monde souligne cette contradiction directe entre les deux capitales.\n\nLe détroit d'Ormuz concentre une part majeure du transit mondial de pétrole, ce qui rend tout blocus lourd de conséquences pour les prix de l'énergie et les marchés. La divergence des versions — négociations affirmées par Washington, démenties par Téhéran — entretient l'incertitude. Les prochains jours diront si un cadre de discussion, direct ou via Oman, peut désamorcer l'escalade militaire et économique.",
-      "sources": [
-        "Le Monde - International",
-        "BBC World",
-        "RFI"
-      ],
-      "publishedAt": "2026-08-03T20:35:06.000Z"
-    },
-    {
-      "id": "2026-08-04-04",
-      "category": "tech",
-      "title": "L'UE impose l'étiquetage obligatoire des contenus IA",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "location": {
-        "lat": 50.8503,
-        "lng": 4.3517,
-        "name": "Bruxelles, Union européenne"
-      },
-      "bullets": [
-        "L'UE impose de signaler les contenus générés ou modifiés par IA.",
-        "La disposition de l'AI Act est entrée en vigueur le 2 août.",
-        "Les concepteurs doivent rendre les contenus détectables techniquement.",
-        "La Commission propose des labels standardisés aux entreprises.",
-        "Des amendes menacent les fournisseurs et plateformes non conformes."
-      ],
-      "execSummary": "Une disposition-clé du règlement européen sur l'intelligence artificielle est entrée en vigueur le dimanche 2 août 2026. Selon Le Monde - Pixels et The Verge, les concepteurs et les utilisateurs professionnels de systèmes d'IA doivent désormais indiquer que leurs contenus ont été générés ou altérés par cette technologie. Les nouvelles obligations de transparence distinguent les fournisseurs, qui développent et commercialisent les systèmes, et les déployeurs, qui utilisent ces systèmes ; certaines entreprises comme Meta relèvent des deux catégories.\n\nCette étape marque une avancée concrète de l'AI Act, texte présenté comme pionnier au niveau mondial. L'enjeu est de permettre aux internautes de reconnaître un chatbot ou une image truquée, alors que les deepfakes et les contenus synthétiques se multiplient. The Verge précise que la Commission européenne a créé des labels prêts à l'emploi que les sociétés peuvent utiliser au lieu de concevoir les leurs, afin d'uniformiser la signalisation.\n\nSelon The Verge, les fournisseurs doivent concevoir leurs systèmes de manière à rendre les contenus générés explicitement détectables par des moyens techniques, tandis que les déployeurs doivent informer les utilisateurs de l'interaction avec une IA. Le Monde - Pixels souligne que le non-respect de ces règles expose les acteurs concernés à des amendes. Les deux sources notent que la mise en œuvre repose sur des obligations différenciées selon le rôle de chaque entreprise.\n\nQuestion centrale : la vérifiabilité technique. Le marquage des contenus doit rester détectable pour être crédible, un défi alors que d'autres articles montrent les limites de l'IA, comme une fausse faille SQLite inventée par un modèle ou des designers créant une police anti-scraping. L'application effective des sanctions et l'harmonisation des labels détermineront si l'obligation change réellement les pratiques des grandes plateformes.",
-      "sources": [
-        "Le Monde - Pixels",
-        "The Verge"
-      ],
-      "publishedAt": "2026-08-04T02:30:05.000Z"
-    },
-    {
-      "id": "2026-08-04-05",
-      "category": "eco",
-      "title": "Crise de la filière batteries électriques en France",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-      "location": {
-        "lat": 50.6292,
-        "lng": 3.0573,
-        "name": "Hauts-de-France"
-      },
-      "bullets": [
-        "Les gigafactories de batteries du Nord peinent à monter en cadence",
-        "Les retards et taux de rebut fragilisent Verkor et ACC",
-        "Les concurrents asiatiques restent bien plus avancés technologiquement",
-        "Les équipementiers Valeo et Forvia se diversifient vers la défense",
-        "L'avenir de l'industrie automobile française reste incertain"
-      ],
-      "execSummary": "Selon Le Monde, les immenses gigafactories de batteries électriques inaugurées en grande pompe dans les Hauts-de-France peinent aujourd'hui à monter en cadence. Retards, taux de rebut élevé et coûts de production trop importants fragilisent les producteurs Verkor et ACC, alors que la région du Nord avait été présentée comme le fer de lance de la réindustrialisation française et du virage électrique européen. Le doute succède désormais à l'euphorie initiale.\n\nCe sujet illustre les difficultés structurelles de l'industrie automobile européenne face à une concurrence asiatique bien plus avancée, notamment chinoise et coréenne, qui domine la chaîne de production des batteries. La France avait misé sur ces usines pour créer des emplois et sécuriser sa souveraineté industrielle dans la transition vers les véhicules électriques, un pari aujourd'hui remis en question par les réalités du marché.\n\nFace à la crise du secteur, plusieurs acteurs cherchent des relais de croissance. Le Monde rapporte que les équipementiers français Valeo et Forvia confirment une inflexion vers la défense, cherchant à profiter de la hausse des budgets militaires en participant à la production de drones. Cette diversification traduit l'inquiétude des industriels quant à la viabilité du seul marché automobile électrique à court terme.\n\nEntre montée en cadence défaillante et coûts non maîtrisés, les gigafactories jouent leur survie à moyen terme face aux géants asiatiques déjà rentables. La réorientation de Valeo et Forvia vers l'armement montre qu'une partie de la filière ne mise plus uniquement sur l'électrique. L'enjeu porte sur des milliers d'emplois et la crédibilité de la stratégie industrielle française et européenne.",
-      "sources": [
-        "Le Monde - Économie"
-      ],
-      "publishedAt": "2026-08-04T03:00:14.000Z"
+      "publishedAt": "2026-08-05T03:33:16.000Z"
     }
   ]
 }
