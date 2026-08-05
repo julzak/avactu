@@ -267,7 +267,7 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
       () => client.messages.create({
         model: MODELS.synthesis,
         // Opus 5 : thinking actif par defaut, compte dans max_tokens
-        max_tokens: 4096,
+        max_tokens: 8192,
         system: [
           {
             type: 'text' as const,
@@ -280,9 +280,10 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
       { label: `synthesize cluster "${cluster.topic.slice(0, 30)}"` }
     );
 
-    const content = response.content[0];
-    if (content.type !== 'text') {
-      throw new Error('Unexpected response type');
+    // Opus 5 : la reponse commence par un bloc thinking, le texte vient apres
+    const content = response.content.find((b) => b.type === 'text');
+    if (!content || content.type !== 'text') {
+      throw new Error('No text block in response');
     }
 
     // Clean markdown code fences if present
@@ -495,7 +496,7 @@ ${articlesDetail}`;
       () => client.messages.create({
         model: MODELS.synthesis,
         // Opus 5 : thinking actif par defaut, compte dans max_tokens
-        max_tokens: 4096,
+        max_tokens: 8192,
         system: [
           {
             type: 'text' as const,
@@ -508,9 +509,10 @@ ${articlesDetail}`;
       { label: `synthesize pool ${category}` }
     );
 
-    const content = response.content[0];
-    if (content.type !== 'text') {
-      throw new Error('Unexpected response type');
+    // Opus 5 : la reponse commence par un bloc thinking, le texte vient apres
+    const content = response.content.find((b) => b.type === 'text');
+    if (!content || content.type !== 'text') {
+      throw new Error('No text block in response');
     }
 
     let jsonText = content.text.trim();

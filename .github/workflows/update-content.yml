@@ -21,6 +21,11 @@ on:
         required: false
         default: 'false'
         type: boolean
+      skip_newsletter:
+        description: 'Skip newsletter sending (regenerate content only)'
+        required: false
+        default: 'false'
+        type: boolean
       frequency_override:
         description: 'Override frequency (leave empty for auto)'
         required: false
@@ -92,6 +97,7 @@ jobs:
 
       # 8. Wait until 07:00 Paris before sending — decouples send time from cron drift
       - name: Wait until 07:00 Paris
+        if: ${{ github.event.inputs.skip_newsletter != 'true' }}
         run: |
           TARGET_TS=$(TZ='Europe/Paris' date -d 'today 07:00' +%s)
           NOW_TS=$(date +%s)
@@ -105,7 +111,7 @@ jobs:
 
       # 9. Send newsletter to DAILY subscribers (every day)
       - name: Send newsletter (daily)
-        if: ${{ github.event.inputs.frequency_override == '' || github.event.inputs.frequency_override == 'daily' }}
+        if: ${{ github.event.inputs.skip_newsletter != 'true' && (github.event.inputs.frequency_override == '' || github.event.inputs.frequency_override == 'daily') }}
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
@@ -115,7 +121,7 @@ jobs:
 
       # 10. Send newsletter to BIWEEKLY subscribers (odd days only)
       - name: Send newsletter (biweekly)
-        if: ${{ (github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_odd_day == '1') || github.event.inputs.frequency_override == 'biweekly' }}
+        if: ${{ github.event.inputs.skip_newsletter != 'true' && ((github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_odd_day == '1') || github.event.inputs.frequency_override == 'biweekly') }}
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
@@ -133,7 +139,7 @@ jobs:
 
       # 12. Send newsletter to WEEKLY subscribers (Saturday only)
       - name: Send newsletter (weekly)
-        if: ${{ (github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_saturday == 'true') || github.event.inputs.frequency_override == 'weekly' }}
+        if: ${{ github.event.inputs.skip_newsletter != 'true' && ((github.event.inputs.frequency_override == '' && steps.day_info.outputs.is_saturday == 'true') || github.event.inputs.frequency_override == 'weekly') }}
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
