@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-08-05T06:56:11.693Z",
+  "generatedAt": "2026-08-05T07:04:19.272Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Ukraine: de nouvelles frappes russes font au moins 15 morts à Kiev et dans ses e",
+      "topic": "Russian ballistic missile strike on Kyiv kills at least 17",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
+        {
+          "id": "2026-08-05-b3aee12a",
+          "title": "Russian ballistic missile strike on Kyiv kills at least 17",
+          "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+          "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad67/live/89898fe0-9085-11f1-b8ee-9b3c26ad07bb.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T06:54:29.000Z",
+          "fetchedAt": "2026-08-05T07:00:28.840Z"
+        },
         {
           "id": "2026-08-05-4f61b111",
           "title": "Ukraine: de nouvelles frappes russes font au moins 15 morts à Kiev et dans ses environs",
@@ -17,18 +28,7 @@
           "source": "RFI",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T06:39:51.000Z",
-          "fetchedAt": "2026-08-05T06:52:20.559Z"
-        },
-        {
-          "id": "2026-08-05-8df80398",
-          "title": "Ukraine : une attaque russe fait 15 morts à Kiev et dans sa région",
-          "description": "Des frappes russes nocturnes ont fait un mort à Kiev et quatorze autres dans ses environs, et incendié des entrepôts, ont annoncé les autorités locales mercredi matin. L'armée de l'air affirme qu'elle n'a pas pu abattre un seul missile russe. Les précisions d'Emmanuelle Chaze, correspondante de France 24 en Ukraine.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-ukraine-une-attaque-russe-fait-15-morts-%C3%A0-kiev-et-dans-sa-r%C3%A9gion",
-          "imageUrl": "https://s.france24.com/media/display/5f43e870-908f-11f1-b791-005056bfb2b6/w:1024/p:16x9/FR-20260805-070630-070901-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T06:29:50.000Z",
-          "fetchedAt": "2026-08-05T06:52:11.306Z"
+          "fetchedAt": "2026-08-05T07:00:28.775Z"
         },
         {
           "id": "2026-08-05-5faa59b4",
@@ -39,18 +39,7 @@
           "source": "France 24",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T05:34:38.000Z",
-          "fetchedAt": "2026-08-05T06:52:11.306Z"
-        },
-        {
-          "id": "2026-08-05-b3aee12a",
-          "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
-          "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
-          "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad67/live/89898fe0-9085-11f1-b8ee-9b3c26ad07bb.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T05:08:43.000Z",
-          "fetchedAt": "2026-08-05T06:52:20.523Z"
+          "fetchedAt": "2026-08-05T07:00:19.033Z"
         },
         {
           "id": "2026-08-05-f0cc3131",
@@ -61,7 +50,7 @@
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T03:33:15.000Z",
-          "fetchedAt": "2026-08-05T06:52:10.988Z"
+          "fetchedAt": "2026-08-05T07:00:18.787Z"
         },
         {
           "id": "2026-08-05-d02f3b4e",
@@ -72,12 +61,23 @@
           "source": "France 24",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T00:54:31.000Z",
-          "fetchedAt": "2026-08-05T06:52:11.306Z"
+          "fetchedAt": "2026-08-05T07:00:19.033Z"
+        },
+        {
+          "id": "2026-08-04-b561d6a5",
+          "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+          "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
+          "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8528/live/11898c20-9026-11f1-b2ab-0dd01740f9f6.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-04T17:26:06.000Z",
+          "fetchedAt": "2026-08-05T07:00:28.840Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
+      "id": "cluster-4",
       "topic": "Afflux migratoire à Ceuta: la crédibilité de l'espace Schengen remise en cause, ",
       "category": "geopolitique",
       "importance": 10,
@@ -91,7 +91,7 @@
           "source": "RFI",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T06:26:49.000Z",
-          "fetchedAt": "2026-08-05T06:52:20.559Z"
+          "fetchedAt": "2026-08-05T07:00:28.775Z"
         },
         {
           "id": "2026-08-04-8f96e4f9",
@@ -102,12 +102,12 @@
           "source": "France 24",
           "category": "geopolitique",
           "publishedAt": "2026-08-04T16:01:52.000Z",
-          "fetchedAt": "2026-08-05T06:52:11.306Z"
+          "fetchedAt": "2026-08-05T07:00:19.033Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
+      "id": "cluster-6",
       "topic": "Dans le nord-ouest des États-Unis et au Canada, la détresse face aux incendies",
       "category": "geopolitique",
       "importance": 10,
@@ -121,7 +121,7 @@
           "source": "RFI",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T06:21:40.000Z",
-          "fetchedAt": "2026-08-05T06:52:20.559Z"
+          "fetchedAt": "2026-08-05T07:00:28.775Z"
         },
         {
           "id": "2026-08-05-1286b094",
@@ -132,7 +132,7 @@
           "source": "France 24",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T05:12:58.000Z",
-          "fetchedAt": "2026-08-05T06:52:11.306Z"
+          "fetchedAt": "2026-08-05T07:00:19.033Z"
         },
         {
           "id": "2026-08-05-df7a0c2f",
@@ -143,7 +143,7 @@
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T04:00:39.000Z",
-          "fetchedAt": "2026-08-05T06:52:10.988Z"
+          "fetchedAt": "2026-08-05T07:00:18.787Z"
         },
         {
           "id": "2026-08-05-b47fd3f1",
@@ -154,7 +154,7 @@
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T04:00:03.000Z",
-          "fetchedAt": "2026-08-05T06:52:10.988Z"
+          "fetchedAt": "2026-08-05T07:00:18.787Z"
         },
         {
           "id": "2026-08-05-c2bb155e",
@@ -165,7 +165,7 @@
           "source": "Courrier International",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T03:00:13.000Z",
-          "fetchedAt": "2026-08-05T06:52:11.379Z"
+          "fetchedAt": "2026-08-05T07:00:18.924Z"
         },
         {
           "id": "2026-08-05-f14a54a2",
@@ -176,7 +176,7 @@
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-08-05T01:16:52.000Z",
-          "fetchedAt": "2026-08-05T06:52:10.988Z"
+          "fetchedAt": "2026-08-05T07:00:18.787Z"
         }
       ]
     },
@@ -195,7 +195,7 @@
           "source": "The Verge",
           "category": "tech",
           "publishedAt": "2026-08-05T06:50:19.000Z",
-          "fetchedAt": "2026-08-05T06:52:23.859Z"
+          "fetchedAt": "2026-08-05T07:00:32.203Z"
         }
       ]
     },
@@ -214,7 +214,7 @@
           "source": "BBC Business",
           "category": "eco",
           "publishedAt": "2026-08-05T05:45:57.000Z",
-          "fetchedAt": "2026-08-05T06:52:26.231Z"
+          "fetchedAt": "2026-08-05T07:00:35.432Z"
         }
       ]
     }
