@@ -1,220 +1,176 @@
 {
-  "generatedAt": "2026-08-05T07:04:19.272Z",
+  "generatedAt": "2026-08-06T03:47:37.066Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Russian ballistic missile strike on Kyiv kills at least 17",
+      "topic": "Guerre en Ukraine : privé de bouclier face aux missiles balistiques russes, Kiev",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-05-b3aee12a",
-          "title": "Russian ballistic missile strike on Kyiv kills at least 17",
-          "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
-          "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad67/live/89898fe0-9085-11f1-b8ee-9b3c26ad07bb.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T06:54:29.000Z",
-          "fetchedAt": "2026-08-05T07:00:28.840Z"
-        },
-        {
-          "id": "2026-08-05-4f61b111",
-          "title": "Ukraine: de nouvelles frappes russes font au moins 15 morts à Kiev et dans ses environs",
-          "description": "La capitale ukrainienne, Kiev, a été la cible principale d'une attaque de drones et de missiles de la Russie. Le bilan provisoire est lourd, avec 15 morts et plus d'une cinquantaine de blessés. Les frappes ont visé en particulier des entrepôts dans et autour de la capitale.",
-          "url": "https://www.rfi.fr/fr/europe/20260805-ukraine-de-nouvelles-frappes-russes-font-au-moins-15-morts-%C3%A0-kiev-et-dans-ses-environs",
-          "imageUrl": "https://s.rfi.fr/media/display/19b1c14a-9091-11f1-a1f0-005056bf30b7/w:1024/p:16x9/2026-08-05T030200Z-138109928-RC2XRMA25C5B-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T06:39:51.000Z",
-          "fetchedAt": "2026-08-05T07:00:28.775Z"
-        },
-        {
-          "id": "2026-08-05-5faa59b4",
-          "title": "Ukraine en direct : au moins 15 morts dans des frappes russes sur la région de Kiev",
-          "description": "Au moins 15 personnes ont été tuées dans des frappes russes sur Kiev et sa région dans la nuit de mardi à mercredi. Il s'agit de l'une des attaques les plus meurtrières contre la capitale ukrainienne cette année, selon les autorités locales. Les bombardements ont déclenché des incendies dans des entrepôts et d'autres sites logistiques. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20260805-en-direct-ukraine-au-moins-15-morts-frappes-russes-r%C3%A9gion-kiev-guerre-russie",
-          "imageUrl": "https://s.france24.com/media/display/4a6fd06c-908f-11f1-b017-005056a90284/w:1024/p:16x9/AP26217189441513.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T05:34:38.000Z",
-          "fetchedAt": "2026-08-05T07:00:19.033Z"
-        },
-        {
-          "id": "2026-08-05-f0cc3131",
-          "title": "EN DIRECT, guerre en Ukraine : au moins 15 morts dans des bombardements russes sur Kiev et sa région",
-          "description": "Quatorze personnes ont été tuées et 27 autres blessées dans les environs de Kiev, et une femme est morte dans la capitale ukrainienne, lors d’une série de frappes nocturnes. En Russie, l’oblast de Toula a subi une attaque de drones ukrainiens ayant fait au moins un blessé, selon son gouverneur.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-des-bombardements-sur-kiev-et-sa-region-font-au-moins-deux-morts_6737250_3210.html",
+          "id": "2026-08-06-ca35722c",
+          "title": "Guerre en Ukraine : privé de bouclier face aux missiles balistiques russes, Kiev cherche la parade",
+          "description": "La défense antiaérienne semble avoir épuisé ses stocks de missiles antibalistiques fournis par les Etats-Unis et, dans une moindre mesure, la France et l’Italie. Moscou en profite pour redoubler ses frappes meurtrières, qui se concentrent sur la capitale ukrainienne.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/06/guerre-en-ukraine-prive-de-bouclier-face-aux-missiles-balistiques-russes-kiev-cherche-la-parade_6739636_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T03:33:15.000Z",
-          "fetchedAt": "2026-08-05T07:00:18.787Z"
+          "publishedAt": "2026-08-06T03:38:21.000Z",
+          "fetchedAt": "2026-08-06T03:43:36.719Z"
         },
         {
-          "id": "2026-08-05-d02f3b4e",
-          "title": "Ukraine : nouvelle attaque russe meurtrière dans la région de Kiev, au moins 15 morts",
-          "description": "Au moins 15 personnes ont été tuées dans la nuit de mardi à mercredi à Kiev et dans sa région, visées par une attaque de missiles balistiques russe. Des infrastructures résidentielles ont été touchées et des entrepôts ont pris feu.",
-          "url": "https://www.france24.com/fr/europe/20260805-ukraine-kiev-russie-nouvelle-attaque-russe-meurtriere-entrepots",
-          "imageUrl": "https://s.france24.com/media/display/65d720da-9067-11f1-b868-005056a97e36/w:1024/p:16x9/000-C3YH89E.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T00:54:31.000Z",
-          "fetchedAt": "2026-08-05T07:00:19.033Z"
-        },
-        {
-          "id": "2026-08-04-b561d6a5",
-          "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-          "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-          "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8528/live/11898c20-9026-11f1-b2ab-0dd01740f9f6.jpg",
+          "id": "2026-08-05-3e0e4c54",
+          "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
+          "description": "Kyiv's depleted air defences meant many of the missiles were not intercepted - like the one that hit Anastasiia's home.",
+          "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2a61/live/d355ecc0-90ff-11f1-b8ee-9b3c26ad07bb.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-08-04T17:26:06.000Z",
-          "fetchedAt": "2026-08-05T07:00:28.840Z"
+          "publishedAt": "2026-08-05T19:00:32.000Z",
+          "fetchedAt": "2026-08-06T03:43:51.768Z"
+        },
+        {
+          "id": "2026-08-05-de0a162b",
+          "title": "EN DIRECT, guerre en Ukraine : Londres réaffirme son « soutien indéfectible et sans équivoque » à Kiev",
+          "description": "Le nouveau ministre de la défense britannique, Wes Streeting, a rencontré, mercredi, Volodymyr Zelensky à Kiev, au lendemain d’une attaque aérienne meurtrière sur la capitale ukrainienne.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-plus-de-120-000-foyers-prives-d-electricite-dans-l-oblast-de-dnipropetrovsk-apres-des-attaques-russes_6737250_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T18:53:10.000Z",
+          "fetchedAt": "2026-08-06T03:43:36.719Z"
+        },
+        {
+          "id": "2026-08-05-ea5a51a5",
+          "title": "Ukraine: cibler «des structures civiles russes avec des drones», serait «dangereux pour Kiev vis-à-vis du soutien européen»",
+          "description": "Alors que les frappes se sont intensifiées des deux côtés du front ces dernières semaines, faisant un nombre croissant de victimes civiles, au moins 17 personnes sont mortes dans la nuit de mardi 4 à mercredi 5 août à Kiev et dans sa région après des attaques de drones et missiles russes. Entretien avec Christine Dugoin-Clément, analyste en géopolitique, chercheure pour la chaire risque de l'IAE Paris-Sorbonne et au CREOGN, auteure de Géopolitique de l’ingérence russe : la stratégie du chaos (PUF).",
+          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260805-ukraine-cibler-des-structures-civiles-russes-avec-des-drones-serait-dangereux-pour-kiev-vis-%C3%A0-vis-du-soutien-europ%C3%A9en",
+          "imageUrl": "https://s.rfi.fr/media/display/1aa46f88-90d9-11f1-8b97-005056bfb2b6/w:1024/p:16x9/2026-08-05T084852Z-1181059958-RC28SMAFMDU6-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T14:39:10.000Z",
+          "fetchedAt": "2026-08-06T03:43:51.875Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Afflux migratoire à Ceuta: la crédibilité de l'espace Schengen remise en cause, ",
+      "id": "cluster-10",
+      "topic": "Crash d’une fusée SpaceX sur la Lune, Fifa, Nigeria, DZ Mafia, Bangladesh : les ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-05-0fd9eb98",
-          "title": "Afflux migratoire à Ceuta: la crédibilité de l'espace Schengen remise en cause, selon le Danemark et la Finlande",
-          "description": "Mardi 4 août, les ministres européens de l'Intérieur se sont réunis pour évoquer la protection des frontières extérieures de l'Union européenne, après la crise à Ceuta. En résumé, l'incident est clos. Une démonstration d'unité qui contraste nettement avec les tensions apparues au plus fort de la crise. Le Danemark s'est dit « très satisfait » de la réponse espagnole à Ceuta. Pourtant, le Danemark et la Finlande estiment notamment que l'épisode remet en cause la crédibilité de l'espace Schengen.",
-          "url": "https://www.rfi.fr/fr/europe/20260805-afflux-migratoire-%C3%A0-ceuta-la-cr%C3%A9dibilit%C3%A9-de-l-espace-schengen-remise-en-cause-selon-le-danemark-et-la-finlande",
-          "imageUrl": "https://s.rfi.fr/media/display/23e048d2-9012-11f1-878b-005056bfb2b6/w:1024/p:16x9/2026-08-04T060208Z-1711876709-RC27RMAUMI0M-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T06:26:49.000Z",
-          "fetchedAt": "2026-08-05T07:00:28.775Z"
-        },
-        {
-          "id": "2026-08-04-8f96e4f9",
-          "title": "Ceuta : l'espace Schengen pas \"compromis\" pendant la crise migratoire assure Madrid",
-          "description": "Malgré l’entrée illégale d’au moins 72 000 migrants à Ceuta, l’espace Schengen n'a pas été \"compromis\", selon le ministre espagnol de l’Intérieur Fernando Grande-Marlaska. La quasi-totalité des migrants, soit près de 70 000 personnes (sur 72 000), ont regagné le Maroc voisin.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260804-ceuta-l-espace-schengen-pas-compromis-pendant-la-crise-migratoire-assure-madrid",
-          "imageUrl": "https://s.france24.com/media/display/86f224da-901d-11f1-ad28-005056bf30b7/w:1024/p:16x9/minia-CEUTA-SHENGEN0.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-04T16:01:52.000Z",
-          "fetchedAt": "2026-08-05T07:00:19.033Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "Dans le nord-ouest des États-Unis et au Canada, la détresse face aux incendies",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-05-68db06a2",
-          "title": "Dans le nord-ouest des États-Unis et au Canada, la détresse face aux incendies",
-          "description": "Le nord-ouest des États-Unis fait face à une sécheresse et une saison des incendies particulièrement intense. Les flammes ont atteint la ville de Spokane, forçant plusieurs dizaines de milliers de personnes à quitter leurs maisons. Beaucoup ont trouvé refuge dans le centre de convention de la ville. D'autres sont allés dans des hôtels. En Colombie-Britannique, plus de 120 feux de forêt font actuellement rage et 8 000 personnes sont sous le coup d'un ordre d'évacuation.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260805-dans-le-nord-ouest-des-%C3%A9tats-unis-et-au-canada-la-d%C3%A9tresse-face-aux-incendies",
-          "imageUrl": "https://s.rfi.fr/media/display/62e1cffa-9095-11f1-8980-005056a97e36/w:1024/p:16x9/000-C3YC2A6.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T06:21:40.000Z",
-          "fetchedAt": "2026-08-05T07:00:28.775Z"
-        },
-        {
-          "id": "2026-08-05-1286b094",
-          "title": "États-Unis : le Michigan vote à un moment charnière pour les démocrates",
-          "description": "Les électeurs démocrates du Michigan ont voté mardi pour désigner leurs candidats aux élections américaines de mi-mandat de novembre, avec l'attention tournée vers une primaire très disputée pour un siège au Sénat, miroir des divisions actuelles de la gauche américaine. Les précisions de Sarah Andersen, correspondante de France 24 aux États-Unis.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-%C3%A9tats-unis-le-michigan-vote-%C3%A0-un-moment-charni%C3%A8re-pour-les-d%C3%A9mocrates",
-          "imageUrl": "https://s.france24.com/media/display/b292f086-9088-11f1-add3-005056bfb2b6/w:1024/p:16x9/NW206803-O-01-20260805-01.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T05:12:58.000Z",
-          "fetchedAt": "2026-08-05T07:00:19.033Z"
-        },
-        {
-          "id": "2026-08-05-df7a0c2f",
-          "title": "La guerre en Somalie, l’autre impasse stratégique de l’administration Trump",
-          "description": "L’armée américaine intervient dans ce pays de la Corne de l’Afrique depuis plus de vingt ans. Avec le retour de Donald Trump à la Maison Blanche, le nombre de frappes a quadruplé par rapport au bilan des quatre années de mandat de Joe Biden.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/08/05/la-guerre-en-somalie-l-autre-impasse-strategique-de-l-administration-trump_6739356_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T04:00:39.000Z",
-          "fetchedAt": "2026-08-05T07:00:18.787Z"
-        },
-        {
-          "id": "2026-08-05-b47fd3f1",
-          "title": "Crise de Ceuta : « Le Maroc n’a pas besoin d’un nouveau plan de développement, mais d’un nouveau contrat social »",
-          "description": "Fin juillet, près de 50 000 migrants venus du Maroc sont entrés dans l’enclave espagnole. Plutôt qu’une crise migratoire, il faut y voir l’échec du pacte de croissance mis en place par les élites marocaines, analyse l’économiste Jamal Bouoiyour dans une tribune au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/08/05/crise-de-ceuta-le-maroc-n-a-pas-besoin-d-un-nouveau-plan-de-developpement-mais-d-un-nouveau-contrat-social_6739350_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T04:00:03.000Z",
-          "fetchedAt": "2026-08-05T07:00:18.787Z"
-        },
-        {
-          "id": "2026-08-05-c2bb155e",
-          "title": "Mains coupées, enfants empalés : en Thaïlande, les terrifiantes statues d’un “jardin de l’enfer”",
-          "description": "JARDINS EXTRAORDINAIRES (3/6) – Situé dans le nord de la Thaïlande, le jardin du temple Wat Mae Kaet Noi est peuplé de statues représentant avec une précision saisissante les tourments de l’enfer, raconte le journaliste britannique Ron Emmons dans “Nikkei Asia”. L’objectif : effrayer les “pécheurs” et les remettre sur ce que les bonzes estiment être le droit chemin… Celui de Bouddha.",
-          "url": "https://www.courrierinternational.com/article/serie-d-ete-mains-coupees-enfants-empales-en-thailande-les-terrifiantes-statues-d-un-jardin-de-l-enfer_245783",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/21/0/10/5479/3653/1200/630/60/0/a378968_upload-1-06zcqqnut8in-1-7036fa4d-3fb5-4949-91c3-4cd0c33b62a0-copie.jpg",
+          "id": "2026-08-06-738913e6",
+          "title": "Crash d’une fusée SpaceX sur la Lune, Fifa, Nigeria, DZ Mafia, Bangladesh : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-crash-d-une-fusee-spacex-sur-la-lune-fifa-nigeria-dz-mafia-bangladesh-les-informations-de-la-nuit_256611",
+          "imageUrl": "https://focus.courrierinternational.com/2026/04/07/0/0/1920/1280/1200/630/60/0/d107451_upload-1-lfqh2brpgeux-art002e009281-large.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T03:00:13.000Z",
-          "fetchedAt": "2026-08-05T07:00:18.924Z"
+          "publishedAt": "2026-08-06T03:00:12.000Z",
+          "fetchedAt": "2026-08-06T03:43:37.297Z"
         },
         {
-          "id": "2026-08-05-f14a54a2",
-          "title": "Un homme armé arrêté dans un golf de Donald Trump en Californie, deux jours avant une visite du président sur place",
-          "description": "L’individu de 38 ans au comportement jugé suspect a été interpellé, dimanche 2 août, par les services du shérif du comté de Los Angeles. Un pistolet chargé ainsi que des munitions ont été retrouvés dans son véhicule.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/05/un-homme-arme-arrete-dans-un-golf-de-donald-trump-en-californie-deux-jours-avant-une-visite-du-president-sur-place-mardi_6739114_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-08-05-4a277d2a",
+          "title": "Crash d'un débris de fusée SpaceX sur la Lune : petit impact, grandes ambitions",
+          "description": "L'étage supérieur de la fusée Falcon 9 de SpaceX lancée en janvier 2025 s'est écrasé sur la Lune mercredi. S'il n'y laisse qu'un cratère d'une trentaine de mètres, son analyse devrait nourrir la compréhension de notre satellite et servir les ambitions lunaires, américaines surtout.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260805-crash-d%C3%A9bris-fus%C3%A9e-spacex-lune-petit-impact-grandes-ambitions",
+          "imageUrl": "https://s.france24.com/media/display/e7370230-90b7-11f1-a983-005056bf30b7/w:1024/p:16x9/AP26216753468274.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T01:16:52.000Z",
-          "fetchedAt": "2026-08-05T07:00:18.787Z"
+          "publishedAt": "2026-08-05T18:35:47.000Z",
+          "fetchedAt": "2026-08-06T03:43:36.737Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-30",
+      "topic": "Drone carrying explosives found at German airport, police say",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-05-ce64c258",
+          "title": "Drone carrying explosives found at German airport, police say",
+          "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+          "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/394f/live/f2659590-90da-11f1-9bd2-e326e95c9722.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T20:01:51.000Z",
+          "fetchedAt": "2026-08-06T03:43:51.768Z"
+        },
+        {
+          "id": "2026-08-05-d4e8915b",
+          "title": "RD Congo : un nouveau centre de traitement Ebola à Bunia dans l'épicentre de l'épidémie",
+          "description": "🇨🇩 République démocratique du Congo, un nouveau centre de traitement contre Ebola à Bunia, dans le nord-est du pays. Il s'agit de la plus grande structure dédiée à la lutte contre le virus depuis le mois de mai. À ce jour, plus de 3 800 cas ont été confirmés, dont 1 707 décès.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-rd-congo-un-nouveau-centre-de-traitement-ebola-%C3%A0-bunia-dans-l-%C3%A9picentre-de-l-%C3%A9pid%C3%A9mie",
+          "imageUrl": "https://s.france24.com/media/display/d45d2c4e-90c5-11f1-85b8-005056bf30b7/w:1024/p:16x9/RDC-00-00-00-00-Still002.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-05T15:40:42.000Z",
+          "fetchedAt": "2026-08-06T03:43:36.737Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-12",
+      "topic": "UK petrol prices hit highest level since Iran war began",
+      "category": "eco",
+      "importance": 8,
+      "articles": [
+        {
+          "id": "2026-08-05-9a67852a",
+          "title": "UK petrol prices hit highest level since Iran war began",
+          "description": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-08-05T11:19:44.000Z",
+          "fetchedAt": "2026-08-06T03:44:03.230Z"
+        },
+        {
+          "id": "2026-08-05-1053d182",
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+          "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1518/live/b0431a30-907f-11f1-a7ab-8b30adf0800a.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-08-05T03:44:30.000Z",
+          "fetchedAt": "2026-08-06T03:44:03.230Z"
+        },
+        {
+          "id": "2026-08-04-3ca9b060",
+          "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+          "description": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
+          "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d288/live/6e9f5aa0-8ff6-11f1-b2ab-0dd01740f9f6.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-08-04T10:07:05.000Z",
+          "fetchedAt": "2026-08-06T03:44:03.230Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
+      "topic": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-05-44ac0416",
-          "title": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
-          "description": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first earnings call.\n\"The spectrum that we purchased from EchoStar does have terrestrial components, so we definitely intend to build out the terrestrial component,\" said Shotwell. \"You will have not only the capacity from the satellites themselves, but you will have a buildout of the terrestrial, basically the hardware and systems ne …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-08-06-dd083223",
+          "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+          "description": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said.\nGrokipedia launched in v0.1 in October 2025 with an initial batch of 885,000 articles, and is now on v0.2 (released in November 2025) and has more than 6,000,000 total articles, according to grokipedia.com/live. But that live page also has a section titled \"Recent changes to…\" with a message under it that reads \"No live edits av …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-08-05T06:50:19.000Z",
-          "fetchedAt": "2026-08-05T07:00:32.203Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "New clothing saved from waste by sewing charity",
-      "category": "eco",
-      "importance": 7,
-      "articles": [
-        {
-          "id": "2026-08-05-8f3810c8",
-          "title": "New clothing saved from waste by sewing charity",
-          "description": "Unwanted clothes are reworked and donated by Dressability in Swindon instead of going to landfill.",
-          "url": "https://www.bbc.co.uk/news/articles/c151p4en2kqo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0e2/live/4c1626d0-8fec-11f1-a10e-47119dd4425c.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-08-05T05:45:57.000Z",
-          "fetchedAt": "2026-08-05T07:00:35.432Z"
+          "publishedAt": "2026-08-06T00:25:10.000Z",
+          "fetchedAt": "2026-08-06T03:43:57.586Z"
         }
       ]
     }
