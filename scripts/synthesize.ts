@@ -594,12 +594,14 @@ async function synthesize(): Promise<void> {
   console.log('=============================================');
   console.log(`📅 Date: ${new Date().toLocaleString('fr-FR')}\n`);
 
-  // Check API key
-  if (!process.env.ANTHROPIC_API_KEY) {
-    console.error('❌ Erreur: ANTHROPIC_API_KEY non définie');
+  // Check API credentials (ANTHROPIC_AUTH_TOKEN est utilisé pour les endpoints
+  // Anthropic-compatibles tiers, ex: Moonshot/Kimi via ANTHROPIC_BASE_URL)
+  if (!process.env.ANTHROPIC_API_KEY && !process.env.ANTHROPIC_AUTH_TOKEN) {
+    console.error('❌ Erreur: ni ANTHROPIC_API_KEY ni ANTHROPIC_AUTH_TOKEN définie');
     console.error('   Export la variable: export ANTHROPIC_API_KEY=sk-ant-...');
     process.exit(1);
   }
+  console.log(`🤖 Modèle de synthèse: ${MODELS.synthesis}${process.env.ANTHROPIC_BASE_URL ? ` (via ${process.env.ANTHROPIC_BASE_URL})` : ''}`);
 
   // Load clustered articles
   if (!existsSync(CLUSTERED_PATH)) {
@@ -677,8 +679,9 @@ async function synthesize(): Promise<void> {
         const response = await withRetry(
           () => client.messages.create({
             model: MODELS.synthesis,
-            // Opus 5 : thinking actif par defaut, compte dans max_tokens
-            max_tokens: 4096,
+            // Thinking actif par defaut (Opus 5 comme Kimi K3), compte dans max_tokens.
+            // 4096 tronquait le JSON avec kimi-k3 (teste 2026-08-06) -> aligne sur 8192.
+            max_tokens: 8192,
             system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
             messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.
 Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.${excludeStr}
@@ -688,8 +691,9 @@ ${articlesDetail}` }],
           { label: 'synthesize geopo fallback' }
         );
 
-        const content = response.content[0];
-        if (content.type !== 'text') continue;
+        // Chercher le bloc text (les modèles thinking renvoient un bloc thinking en premier)
+        const content = response.content.find((b) => b.type === 'text');
+        if (!content || content.type !== 'text') continue;
 
         let jsonText = content.text.trim();
         if (jsonText.startsWith('```json')) jsonText = jsonText.slice(7);
