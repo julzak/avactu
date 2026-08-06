@@ -74,10 +74,17 @@ jobs:
         run: npm run cluster
 
       # 6. Run synthesis script (generate multi-source stories)
+      # --- TEST KIMI K3 (Moonshot) ---
+      # La synthèse tourne sur kimi-k3 via l'endpoint Anthropic-compatible de Moonshot.
+      # RÉVERSIBILITÉ : supprimer les 3 lignes ANTHROPIC_BASE_URL / ANTHROPIC_AUTH_TOKEN /
+      # SYNTHESIS_MODEL ci-dessous = retour immédiat à Claude (claude-opus-5).
       - name: Synthesize stories
         id: synthesize
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_BASE_URL: https://api.moonshot.ai/anthropic
+          ANTHROPIC_AUTH_TOKEN: ${{ secrets.MOONSHOT_API_KEY }}
+          SYNTHESIS_MODEL: kimi-k3
         run: npm run synthesize
 
       # 7. Determine day info for conditional sending (use Paris timezone)

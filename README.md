@@ -37,6 +37,16 @@ npm run curate
 export ANTHROPIC_API_KEY=sk-ant-...
 npm run synthesize
 
+# 2bis. Synthèse via un autre modèle (test comparatif Kimi K3 / Moonshot)
+# Le modèle est configurable par env : SYNTHESIS_MODEL (défaut: claude-opus-5).
+# Moonshot expose un endpoint compatible API Anthropic, le SDK lit
+# ANTHROPIC_BASE_URL + ANTHROPIC_AUTH_TOKEN.
+# RÉVERSIBILITÉ : retirer ces 3 variables = retour à Claude.
+ANTHROPIC_BASE_URL=https://api.moonshot.ai/anthropic \
+ANTHROPIC_AUTH_TOKEN=$(cat ~/.config/moonshot/key) \
+SYNTHESIS_MODEL=kimi-k3 \
+npm run synthesize
+
 # 3. Test SMS (dry-run)
 npm run send-sms -- --dry-run
 
@@ -86,6 +96,7 @@ Aller dans Settings > Secrets and variables > Actions :
 | Secret | Description |
 |--------|-------------|
 | `ANTHROPIC_API_KEY` | Clé API Claude |
+| `MOONSHOT_API_KEY` | Clé API Moonshot (test Kimi K3, utilisée comme `ANTHROPIC_AUTH_TOKEN` sur l'étape synthesize) |
 | `TWILIO_ACCOUNT_SID` | Account SID Twilio |
 | `TWILIO_AUTH_TOKEN` | Auth Token Twilio |
 | `TWILIO_PHONE_NUMBER` | Numéro expéditeur (+1...) |
