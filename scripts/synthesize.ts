@@ -194,7 +194,8 @@ OUVERTURE DU PARAGRAPHE ENJEUX (CRITIQUE) :
 - Entre directement dans le concret : ouvre sur l'enjeu le plus saillant (un acteur précis, un chiffre, un mécanisme, une échéance)
 - Varie la construction de cette ouverture d'une story à l'autre
 
-RÈGLES DE FRANÇAIS (TITRE ET BULLETS) — CRITIQUE :
+RÈGLES DE FRANÇAIS (CRITIQUE) :
+- INTERDIT d'utiliser le tiret quadratin ou demi-quadratin (tiret long), dans TOUS les champs (titre, bullets, execSummary) : remplace par deux-points, virgule, point ou parenthèses
 - Chaque bullet DOIT être une phrase française grammaticalement correcte
 - Chaque bullet DOIT commencer par un article ou déterminant (Le, La, Les, L', Un, Une, Des, De)
 - JAMAIS de bullet commençant directement par un nom commun sans article : "Faux médias..." → "De faux médias...", "Objectif :" → "L'objectif :", "Comptes inauthentiques..." → "Des comptes inauthentiques...", "Menace la stabilité" → "Une menace pour la stabilité"
@@ -404,6 +405,7 @@ OUVERTURE DU PARAGRAPHE ENJEUX (CRITIQUE) :
 - Varie la construction de cette ouverture d'une story à l'autre
 
 RÈGLES DE FRANÇAIS (CRITIQUE) :
+- INTERDIT d'utiliser le tiret quadratin ou demi-quadratin (tiret long), dans TOUS les champs (titre, bullets, execSummary) : remplace par deux-points, virgule, point ou parenthèses
 - Chaque bullet DOIT être une phrase française grammaticalement correcte
 - Chaque bullet DOIT commencer par un article ou déterminant (Le, La, Les, L', Un, Une, Des, De)
 - JAMAIS de bullet commençant directement par un nom commun sans article : "Faux médias..." → "De faux médias...", "Objectif :" → "L'objectif :", "Comptes inauthentiques..." → "Des comptes inauthentiques..."
