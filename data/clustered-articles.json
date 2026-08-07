@@ -1,176 +1,286 @@
 {
-  "generatedAt": "2026-08-06T03:47:37.066Z",
+  "generatedAt": "2026-08-07T03:23:17.484Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Guerre en Ukraine : privé de bouclier face aux missiles balistiques russes, Kiev",
+      "topic": "L’exaltation religieuse du président Abelardo de la Espriella, “un signal d’alar",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-06-ca35722c",
-          "title": "Guerre en Ukraine : privé de bouclier face aux missiles balistiques russes, Kiev cherche la parade",
-          "description": "La défense antiaérienne semble avoir épuisé ses stocks de missiles antibalistiques fournis par les Etats-Unis et, dans une moindre mesure, la France et l’Italie. Moscou en profite pour redoubler ses frappes meurtrières, qui se concentrent sur la capitale ukrainienne.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/06/guerre-en-ukraine-prive-de-bouclier-face-aux-missiles-balistiques-russes-kiev-cherche-la-parade_6739636_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-08-07-42b08f95",
+          "title": "L’exaltation religieuse du président Abelardo de la Espriella, “un signal d’alarme” en Colombie",
+          "description": "Chapelet en main, Abelardo de la Espriella a présenté sa “conversion” comme la boussole de son futur mandat. Pour la gauche colombienne, l’étalage de sa foi sert surtout à défendre son programme ultraconservateur. Avant sa prise de fonction prévue le vendredi 7 août, un projet de loi présenté au Parlement vise déjà à interdire totalement l’avortement dans le pays.",
+          "url": "https://www.courrierinternational.com/article/politique-l-exaltation-religieuse-du-president-abelardo-de-la-espriella-un-signal-d-alarme-en-colombie_256713",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/06/1/0/4874/3249/1200/630/60/0/ba0f501_ftp-1-rpdgrjn6u4vd-2026-08-06t110009z-696380653-rc2urma7ovrw-rtrmadp-3-colombia-oil.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-06T03:38:21.000Z",
-          "fetchedAt": "2026-08-06T03:43:36.719Z"
+          "publishedAt": "2026-08-07T03:00:22.000Z",
+          "fetchedAt": "2026-08-07T03:19:17.373Z"
         },
         {
-          "id": "2026-08-05-3e0e4c54",
-          "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-          "description": "Kyiv's depleted air defences meant many of the missiles were not intercepted - like the one that hit Anastasiia's home.",
-          "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2a61/live/d355ecc0-90ff-11f1-b8ee-9b3c26ad07bb.jpg",
-          "source": "BBC World",
+          "id": "2026-08-07-d6fd4dab",
+          "title": "À Helsinki, une ville sous la ville pour nager, jouer… et survivre à une attaque nucléaire",
+          "description": "Dans la capitale finlandaise, quelque 5 500 abris antiatomiques souterrains servent aussi d’aires de jeu, de piscines ou d’églises, tout en restant prêts à protéger la population en cas d’alerte. Un modèle de défense civile, conservé depuis la Seconde Guerre mondiale et devenu une source d’inspiration bien au-delà du pays avec la guerre en Ukraine, raconte “The Times”.",
+          "url": "https://www.courrierinternational.com/article/reportage-a-helsinki-une-ville-sous-la-ville-pour-nager-jouer-et-survivre-a-une-attaque-nucleaire_250836",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/30/0/0/4500/3000/1200/630/60/0/6b254ef_upload-1-zcnwca3ngjxy-000-38n726w.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T19:00:32.000Z",
-          "fetchedAt": "2026-08-06T03:43:51.768Z"
+          "publishedAt": "2026-08-07T03:00:10.000Z",
+          "fetchedAt": "2026-08-07T03:19:17.373Z"
         },
         {
-          "id": "2026-08-05-de0a162b",
-          "title": "EN DIRECT, guerre en Ukraine : Londres réaffirme son « soutien indéfectible et sans équivoque » à Kiev",
-          "description": "Le nouveau ministre de la défense britannique, Wes Streeting, a rencontré, mercredi, Volodymyr Zelensky à Kiev, au lendemain d’une attaque aérienne meurtrière sur la capitale ukrainienne.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-plus-de-120-000-foyers-prives-d-electricite-dans-l-oblast-de-dnipropetrovsk-apres-des-attaques-russes_6737250_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T18:53:10.000Z",
-          "fetchedAt": "2026-08-06T03:43:36.719Z"
-        },
-        {
-          "id": "2026-08-05-ea5a51a5",
-          "title": "Ukraine: cibler «des structures civiles russes avec des drones», serait «dangereux pour Kiev vis-à-vis du soutien européen»",
-          "description": "Alors que les frappes se sont intensifiées des deux côtés du front ces dernières semaines, faisant un nombre croissant de victimes civiles, au moins 17 personnes sont mortes dans la nuit de mardi 4 à mercredi 5 août à Kiev et dans sa région après des attaques de drones et missiles russes. Entretien avec Christine Dugoin-Clément, analyste en géopolitique, chercheure pour la chaire risque de l'IAE Paris-Sorbonne et au CREOGN, auteure de Géopolitique de l’ingérence russe : la stratégie du chaos (PUF).",
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260805-ukraine-cibler-des-structures-civiles-russes-avec-des-drones-serait-dangereux-pour-kiev-vis-%C3%A0-vis-du-soutien-europ%C3%A9en",
-          "imageUrl": "https://s.rfi.fr/media/display/1aa46f88-90d9-11f1-8b97-005056bfb2b6/w:1024/p:16x9/2026-08-05T084852Z-1181059958-RC28SMAFMDU6-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+          "id": "2026-08-07-a490e674",
+          "title": "Nigeria: une interview télévisée du cardinal d'Abuja provoque l'ire du président Bola Tinubu",
+          "description": "L'entretien, dans lequel le cardinal John Onaiyekan révèle la teneur d'une récente rencontre entre le chef de l'État et une délégation de dignitaires catholiques, a été très mal reçu par la présidence qui a vivement dénoncé une telle prise de parole publique. L'affaire suscite désormais aussi d'importants débats parmi les candidats à l'élection présidentielle de janvier prochain.",
+          "url": "https://www.rfi.fr/fr/afrique/20260807-nigeria-une-interview-t%C3%A9l%C3%A9vis%C3%A9e-du-cardinal-d-abuja-provoque-l-ire-du-pr%C3%A9sident-bola-tinubu",
+          "imageUrl": "https://s.rfi.fr/media/display/2d4fec72-91ea-11f1-b4d1-005056bfb2b6/w:1024/p:16x9/AP25118257018679.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T14:39:10.000Z",
-          "fetchedAt": "2026-08-06T03:43:51.875Z"
+          "publishedAt": "2026-08-07T02:57:58.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.365Z"
+        },
+        {
+          "id": "2026-08-07-d8990c5a",
+          "title": "Après les incendies dans le nord-ouest des Etats-Unis, un suspect avoue avoir planifié vingt-cinq départs de feu depuis 2025",
+          "description": "Déjà condamné pour avoir tué son père, l’homme aurait choisi la date de l’incendie en fonction des conditions météo et se serait inspiré d’un célèbre pyromane, selon les premiers éléments de l’enquête.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/07/apres-les-incendies-dans-le-nord-ouest-des-etats-unis-un-suspect-avoue-avoir-planifie-vingt-cinq-departs-de-feu-depuis-2025_6740312_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-07T00:01:19.000Z",
+          "fetchedAt": "2026-08-07T03:19:16.828Z"
+        },
+        {
+          "id": "2026-08-06-1da35d51",
+          "title": "Au Venezuela, le dialogue entre pouvoir et opposition en vue d'une transition a commencé",
+          "description": "Le pouvoir et l'opposition vénézuéliens ont entamé jeudi à Caracas un dialogue supervisé par Washington, sept mois après la capture de Nicolas Maduro par l'armée américaine. Sans Maria Corina Machado, toujours en exil, les discussions doivent porter sur la réponse au séisme du 24 juin et une possible transition démocratique.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260806-venezuela-debut-dialogue-pouvoir-opposition-transition-dinorah-figuera-jorge-rodriguez",
+          "imageUrl": "https://s.france24.com/media/display/1817f34c-91ed-11f1-a357-005056a97e36/w:1024/p:16x9/AP26218734587490-1.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T23:19:20.000Z",
+          "fetchedAt": "2026-08-07T03:19:16.983Z"
+        },
+        {
+          "id": "2026-08-06-ab9ce491",
+          "title": "L'insécurité en Colombie,  entre la peur du narcotrafic et l'espoir d'une reprise en main",
+          "description": "L'avocat d'extrême droite Abelardo de la Espriella prend ses fonctions de président de la Colombie vendredi 7 août 2026. Il a promis une lutte plus ferme contre les groupes armés et les narcotrafiquants. Dans les zones rurales, meurtries par la violence de ces groupes, les habitants attendent beaucoup de l'État. C'est le cas à Betulia, dans la région d'Antioquia, où une école avait dû fermer ses portes il y a quelques semaines pour garantir la sécurité des enfants. Le maire de la ville, lui, a renforcé les mesures pour ramener le calme.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260806-l-ins%C3%A9curit%C3%A9-en-colombie-entre-la-peur-du-narcotrafic-et-l-espoir-d-une-reprise-en-main",
+          "imageUrl": "https://s.rfi.fr/media/display/b84b5770-91aa-11f1-b7f5-005056bfb2b6/w:1024/p:16x9/Betulia-ville-caf%C3%A9i%C3%A8re-du-nord-ouest-de-la-Colombie-longtemps-connue-pour-des-probl%C3%A8mes-de-violence-li%C3%A9s-au-narcotrafic-juillet-2026-Najet-Benrabaa.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T23:07:31.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.365Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "Guerre en Iran: les États-Unis touchés par une pénurie d'armements, selon la pre",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-07-c53a3d99",
+          "title": "Guerre en Iran: les États-Unis touchés par une pénurie d'armements, selon la presse américaine",
+          "description": "Alors que les négociations avec Téhéran concernant la réouverture du détroit d'Ormuz patinent, plusieurs médias américains affirment que l'administration Trump doit composer avec une pénurie d'armements. Si le président américain dénonce une « fake news », certains experts estiment toutefois que la position des États-Unis au Moyen-Orient est actuellement fragilisée.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260807-guerre-en-iran-les-%C3%A9tats-unis-touch%C3%A9s-par-une-p%C3%A9nurie-d-armements-selon-la-presse-am%C3%A9ricaine",
+          "imageUrl": "https://s.rfi.fr/media/display/d6b12fa0-91d7-11f1-b55d-005056bfb2b6/w:1024/p:16x9/000-C2A93JY.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-07T02:56:53.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.365Z"
+        },
+        {
+          "id": "2026-08-07-d50d303e",
+          "title": "États-Unis: Donald Trump signe un décret contre le «tourisme des naissances» pour contester à nouveau le droit du sol",
+          "description": "Un peu plus d'un mois après l'annulation par la Cour suprême de son décret remettant en cause le droit du sol aux États-Unis, le président américain a signé un nouveau texte s'attaquant cette fois à la pratique selon laquelle des étrangères viendraient expressément accoucher dans le pays afin que leur enfant puisse bénéficier de la nationalité américaine. Un phénomène qui reste, selon les experts, très marginal...",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260807-%C3%A9tats-unis-donald-trump-signe-un-d%C3%A9cret-contre-le-tourisme-des-naissances-pour-contester-%C3%A0-nouveau-le-droit-du-sol",
+          "imageUrl": "https://s.rfi.fr/media/display/366f8e2c-920b-11f1-9f00-005056a90284/w:1024/p:16x9/AP26218728223492.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-07T02:55:32.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.365Z"
+        },
+        {
+          "id": "2026-08-06-411b8b4d",
+          "title": "États-Unis: «On voit un basculement de l'opinion publique démocrate sur la question du soutien à Israël»",
+          "description": "Les électeurs démocrates votaient le 5 août pour des primaires dans cinq États, dont le très scruté Michigan, où Abdul El-Sayed, situé très à gauche sur l'échiquier politique, a remporté d'une courte tête l'investiture démocrate pour un siège au Sénat. Une victoire qui confirme la dynamique du mouvement progressiste, après plusieurs succès récents à New York et dans le Colorado. L'aile progressiste des démocrates gagne-t-elle du terrain ? Est-ce que cela peut favoriser la réussite du parti dans les urnes face aux Républicains ? Éléments de réponse avec Jérôme Viala-Godefroy, docteur en civilisation américaine, spécialiste de la rhétorique présidentielle et professeur à Sciences Po, auteur du livre Les mots de Trump (éditions Lefebvre Dalloz).",
+          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260806-%C3%A9tats-unis-on-voit-un-basculement-de-l-opinion-publique-d%C3%A9mocrate-sur-la-question-du-soutien-%C3%A0-isra%C3%ABl",
+          "imageUrl": "https://s.rfi.fr/media/display/649d4d9e-90f2-11f1-8890-005056a97e36/w:1024/p:16x9/AP26217603069671.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T22:17:42.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.365Z"
+        },
+        {
+          "id": "2026-08-06-55ad6070",
+          "title": "États-Unis: des poursuites recommandées contre Anthony Fauci, l'ex-conseiller Covid-19",
+          "description": "Il avait été le chef de la lutte contre l'épidémie de Covid-19 aux États-Unis. Le docteur Anthony Fauci est aujourd'hui la cible d'une commission du Congrès américain. Des sénateurs républicains ont voté, jeudi 6 août, en faveur de poursuites contre l'ancien conseiller médical de la Maison Blanche. Un nouvel épisode dans une affaire qui dure depuis des mois.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260806-%C3%A9tats-unis-des-poursuites-recommand%C3%A9es-contre-anthony-fauci-l-ex-conseiller-covid-19",
+          "imageUrl": "https://s.rfi.fr/media/display/9d8517ec-91cc-11f1-a6d6-005056a97e36/w:1024/p:16x9/ETATS-UNIS-ANTHONY-FAUCI-SANTE-COVID19.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T19:25:59.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.365Z"
+        },
+        {
+          "id": "2026-08-06-ecca8ded",
+          "title": "Détroit d’Ormuz : accord entre Iran et Oman, une éventuelle réouverture pourrait arranger Trump",
+          "description": "Téhéran et Mascate seraient tombés d'accord pour un itinéraire de transit des bateaux dans le détroit d'Ormuz mais Téhéran prévient : la \"déclaration conjointe\" sera finalisée sous réserve que « des parties tierces ne viennent pas entraver le processus ». Comprenez : que Washington ne vienne pas mettre son grain de sel. L'Iran et Oman sont riverains du détroit d'Ormuz, où circule habituellement un cinquième du gaz et pétrole mondial. Depuis le début de la guerre contre l'Iran, Téhéran bloque le passage des navires, entraînant une forte hausse du prix du pétrole. Mais l'augmentation du coût du carburant, y compris aux Etats-Unis, pèse sur le pouvoir d'achat des ménages et sur la popularité de Donald Trump, qui n'a jamais été aussi basse.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260806-d%C3%A9troit-d-ormuz-accord-entre-iran-et-oman-une-%C3%A9ventuelle-r%C3%A9ouverture-pourrait-arranger-trump",
+          "imageUrl": "https://s.france24.com/media/display/79be0376-91bf-11f1-827b-005056bfb2b6/w:1024/p:16x9/202608063595WD-IRAN-CRISISHORMUZ-ANIMATION-O.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T18:05:10.000Z",
+          "fetchedAt": "2026-08-07T03:19:16.983Z"
+        },
+        {
+          "id": "2026-08-06-b8888fc4",
+          "title": "Lula contre Trump, un “duel diplomatique entre géants” à l’approche de la présidentielle",
+          "description": "À deux mois de l’élection présidentielle brésilienne, l’annulation du visa de l’ambassadrice du Brésil à Washington ravive les tensions entre les deux chefs d’État. Pour la presse brésilienne, l’offensive de la Maison-Blanche vise à fragiliser le président sortant au profit de son adversaire d’extrême droite, Flávio Bolsonaro, mais pourrait lui fournir un argument de campagne.",
+          "url": "https://www.courrierinternational.com/article/bresil-lula-contre-trump-un-duel-diplomatique-entre-geants-a-l-approche-de-la-presidentielle_256712",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/06/0/0/8481/5654/1200/630/60/0/de3565d_upload-1-ci0bwb6x1udg-020-2243045053.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T15:55:22.000Z",
+          "fetchedAt": "2026-08-07T03:19:17.373Z"
         }
       ]
     },
     {
       "id": "cluster-10",
-      "topic": "Crash d’une fusée SpaceX sur la Lune, Fifa, Nigeria, DZ Mafia, Bangladesh : les ",
+      "topic": "Trump imposes 15% tariff on key chip material to counter China",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-06-738913e6",
-          "title": "Crash d’une fusée SpaceX sur la Lune, Fifa, Nigeria, DZ Mafia, Bangladesh : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-crash-d-une-fusee-spacex-sur-la-lune-fifa-nigeria-dz-mafia-bangladesh-les-informations-de-la-nuit_256611",
-          "imageUrl": "https://focus.courrierinternational.com/2026/04/07/0/0/1920/1280/1200/630/60/0/d107451_upload-1-lfqh2brpgeux-art002e009281-large.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-06T03:00:12.000Z",
-          "fetchedAt": "2026-08-06T03:43:37.297Z"
-        },
-        {
-          "id": "2026-08-05-4a277d2a",
-          "title": "Crash d'un débris de fusée SpaceX sur la Lune : petit impact, grandes ambitions",
-          "description": "L'étage supérieur de la fusée Falcon 9 de SpaceX lancée en janvier 2025 s'est écrasé sur la Lune mercredi. S'il n'y laisse qu'un cratère d'une trentaine de mètres, son analyse devrait nourrir la compréhension de notre satellite et servir les ambitions lunaires, américaines surtout.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260805-crash-d%C3%A9bris-fus%C3%A9e-spacex-lune-petit-impact-grandes-ambitions",
-          "imageUrl": "https://s.france24.com/media/display/e7370230-90b7-11f1-a983-005056bf30b7/w:1024/p:16x9/AP26216753468274.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-05T18:35:47.000Z",
-          "fetchedAt": "2026-08-06T03:43:36.737Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-30",
-      "topic": "Drone carrying explosives found at German airport, police say",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-05-ce64c258",
-          "title": "Drone carrying explosives found at German airport, police say",
-          "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-          "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/394f/live/f2659590-90da-11f1-9bd2-e326e95c9722.jpg",
+          "id": "2026-08-07-dd6ba3d9",
+          "title": "Trump imposes 15% tariff on key chip material to counter China",
+          "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
+          "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T20:01:51.000Z",
-          "fetchedAt": "2026-08-06T03:43:51.768Z"
+          "publishedAt": "2026-08-07T01:03:35.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.414Z"
         },
         {
-          "id": "2026-08-05-d4e8915b",
-          "title": "RD Congo : un nouveau centre de traitement Ebola à Bunia dans l'épicentre de l'épidémie",
-          "description": "🇨🇩 République démocratique du Congo, un nouveau centre de traitement contre Ebola à Bunia, dans le nord-est du pays. Il s'agit de la plus grande structure dédiée à la lutte contre le virus depuis le mois de mai. À ce jour, plus de 3 800 cas ont été confirmés, dont 1 707 décès.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-rd-congo-un-nouveau-centre-de-traitement-ebola-%C3%A0-bunia-dans-l-%C3%A9picentre-de-l-%C3%A9pid%C3%A9mie",
-          "imageUrl": "https://s.france24.com/media/display/d45d2c4e-90c5-11f1-85b8-005056bf30b7/w:1024/p:16x9/RDC-00-00-00-00-Still002.jpg",
-          "source": "France 24",
+          "id": "2026-08-06-3c42e5af",
+          "title": "Etats-Unis : Donald Trump prend un décret censé empêcher le « tourisme des naissances » et contester le droit du sol",
+          "description": "Le président américain, dont une mesure sur le même thème a déjà été annulée par la Cour suprême, veut mettre un terme à la pratique consistant pour des étrangères à accoucher aux Etats-Unis afin que leur enfant soit américain.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/06/etats-unis-donald-trump-prend-un-decret-cense-empecher-le-tourisme-des-naissances-et-contester-le-droit-du-sol_6740246_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-05T15:40:42.000Z",
-          "fetchedAt": "2026-08-06T03:43:36.737Z"
+          "publishedAt": "2026-08-06T21:37:31.000Z",
+          "fetchedAt": "2026-08-07T03:19:16.828Z"
+        },
+        {
+          "id": "2026-08-06-5df1316c",
+          "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+          "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+          "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T18:53:51.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.414Z"
+        },
+        {
+          "id": "2026-08-06-9385a4d1",
+          "title": "Les Etats-Unis sanctionnent le ministre des forces armées cubain, le général Alvaro Lopez Miera, et un réseau d’approvisionnement en armes",
+          "description": "Ces nouvelles sanctions visent également le chef d’état-major des forces armées cubaines, les responsables des services des relations extérieures et des affaires économiques de l’armée, ainsi que ses attachés militaires en Chine et en Russie.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/06/les-etats-unis-sanctionnent-le-ministre-des-forces-armees-cubain-le-general-alvaro-lopez-miera-et-un-reseau-d-approvisionnement-en-armes_6740046_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T17:58:29.000Z",
+          "fetchedAt": "2026-08-07T03:19:16.828Z"
+        },
+        {
+          "id": "2026-08-06-3c40ea5b",
+          "title": "Une commission du Sénat américain recommande des poursuites contre Anthony Fauci, l’ex-conseiller Covid-19 de la Maison Blanche",
+          "description": "Ce vote constitue un pas supplémentaire dans la tentative du Sénat de poursuivre l’immunologue de 85 ans accusé de mensonges par le président de la commission, le républicain Rand Paul.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/06/une-commission-du-senat-americain-recommande-des-poursuites-contre-anthony-fauci-l-ex-conseiller-covid-19-de-la-maison-blanche_6739958_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T14:53:34.000Z",
+          "fetchedAt": "2026-08-07T03:19:16.828Z"
+        },
+        {
+          "id": "2026-08-06-5f0b23aa",
+          "title": "De l’uranium exporté clandestinement de RDC en Chine, selon une enquête",
+          "description": "Dans une enquête publiée le 30 juillet par l’organisation néerlandaise Lighthouse Reports, une équipe de journalistes et de scientifiques révèle l’importation de quantités “stratégiques” d’uranium par Pékin. Entre 2000 et 2024, jusqu’à 5 000 tonnes auraient quitté la RDC dans des cargaisons d’hydroxyde de cobalt.",
+          "url": "https://www.courrierinternational.com/article/mines-la-chine-exporte-clandestinement-de-l-uranium-depuis-la-rdc-selon-une-enquete_256679",
+          "imageUrl": "https://focus.courrierinternational.com/2023/02/24/0/0/3739/2493/1200/630/60/0/1443fb4_1677235213312-000-32mk4u2.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-06T13:20:02.000Z",
+          "fetchedAt": "2026-08-07T03:19:17.373Z"
         }
       ]
     },
     {
       "id": "cluster-12",
-      "topic": "UK petrol prices hit highest level since Iran war began",
-      "category": "eco",
-      "importance": 8,
+      "topic": "Le parquet de Paris ouvre une enquête sur des soupçons d’ingérence russe visant ",
+      "category": "tech",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-08-05-9a67852a",
-          "title": "UK petrol prices hit highest level since Iran war began",
-          "description": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
-          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-08-05T11:19:44.000Z",
-          "fetchedAt": "2026-08-06T03:44:03.230Z"
+          "id": "2026-08-06-bcecb4a1",
+          "title": "Le parquet de Paris ouvre une enquête sur des soupçons d’ingérence russe visant Raphaël Glucksmann",
+          "description": "Le probable candidat à la présidentielle, critique virulent de Vladimir Poutine, avait dénoncé mardi une opération de « déstabilisation » après la diffusion d’une vidéo « entièrement truquée » impliquant sa compagne Léa Salamé et le journaliste Edwy Plenel.",
+          "url": "https://www.lemonde.fr/politique/article/2026/08/06/le-parquet-de-paris-ouvre-une-enquete-sur-des-soupcons-d-ingerence-russe-visant-raphael-glucksmann_6740080_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-06T18:15:53.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.449Z"
         },
         {
-          "id": "2026-08-05-1053d182",
-          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-          "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-          "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1518/live/b0431a30-907f-11f1-a7ab-8b30adf0800a.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-08-05T03:44:30.000Z",
-          "fetchedAt": "2026-08-06T03:44:03.230Z"
+          "id": "2026-08-06-55ca6e75",
+          "title": "Cyberattaque contre Intermarché : le parquet de Paris ouvre une enquête après la fuite des données de 300 000 clients",
+          "description": "Selon le Groupement Mousquetaires/Intermarché, les pirates ont eu accès à des données telles que noms et prénoms, numéros de téléphone, adresses postales, dates de naissance, numéros de carte de fidélité ou encore certaines informations relatives aux commandes en ligne.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/06/cyberattaque-contre-intermarche-le-parquet-de-paris-ouvre-une-enquete-apres-la-fuite-des-donnees-de-300-000-clients_6739975_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-06T16:27:28.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.449Z"
         },
         {
-          "id": "2026-08-04-3ca9b060",
-          "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-          "description": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
-          "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d288/live/6e9f5aa0-8ff6-11f1-b2ab-0dd01740f9f6.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-08-04T10:07:05.000Z",
-          "fetchedAt": "2026-08-06T03:44:03.230Z"
+          "id": "2026-08-06-c5ddb077",
+          "title": "Les tireurs français de nouveau sous la menace : un poids lourd de l’armurerie touché par une fuite de données",
+          "description": "L'armurier français vient d'informer ses clients d'une cyberattaque ayant exposé les données liées à leurs commandes.",
+          "url": "https://www.numerama.com/cyberguerre/2307613-les-tireurs-francais-a-nouveau-dans-le-viseur-des-cybercriminels-armurerie-lavaux-annonce-une-fuite-de-donnees-spectaculaire.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/10/design-sans-titre-2025-10-24t173934275.jpg?resize=1600,900&key=e5e1ff70",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-06T14:26:35.000Z",
+          "fetchedAt": "2026-08-07T03:19:26.591Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
-      "category": "tech",
+      "topic": "Why airlines are warning over lithium-ion batteries",
+      "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-06-dd083223",
-          "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
-          "description": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said.\nGrokipedia launched in v0.1 in October 2025 with an initial batch of 885,000 articles, and is now on v0.2 (released in November 2025) and has more than 6,000,000 total articles, according to grokipedia.com/live. But that live page also has a section titled \"Recent changes to…\" with a message under it that reads \"No live edits av …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-08-06T00:25:10.000Z",
-          "fetchedAt": "2026-08-06T03:43:57.586Z"
+          "id": "2026-08-06-f3ee92ee",
+          "title": "Why airlines are warning over lithium-ion batteries",
+          "description": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+          "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-08-06T23:04:40.000Z",
+          "fetchedAt": "2026-08-07T03:19:33.130Z"
         }
       ]
     }
