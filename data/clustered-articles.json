@@ -1,97 +1,234 @@
 {
-  "generatedAt": "2026-08-08T02:28:08.914Z",
+  "generatedAt": "2026-08-09T02:35:39.579Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Amazon fait construire au Texas la plus grande centrale à gaz des Etats-Unis pou",
+      "topic": "Dans l’Ouest canadien, plus de 20 000 personnes évacuées face à la progression d",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-08-74f9abea",
-          "title": "Amazon fait construire au Texas la plus grande centrale à gaz des Etats-Unis pour alimenter ses centres de données",
-          "description": "La structure, qui devrait contenir 35 turbines pour une capacité totale de 7,65 gigawatts, pourrait devenir la plus importante source d’émission de gaz à effet de serre du pays. Le géant américain affirme maintenir son objectif de bilan carbone neutre d’ici à 2040.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/08/au-texas-amazon-fait-construire-la-plus-grande-centrale-a-gaz-des-etats-unis-pour-alimenter-ses-centres-de-donnees_6740607_3210.html",
+          "id": "2026-08-09-9a342f35",
+          "title": "Dans l’Ouest canadien, plus de 20 000 personnes évacuées face à la progression d’un vaste feu de forêt",
+          "description": "Signalé pour la première fois vendredi soir dans le sud de la Colombie-Britannique, où l’état d’urgence a été déclaré, le feu de Bald Range demeure « extrêmement actif », ont averti les autorités provinciales samedi.",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/09/canada-plus-de-20-000-personnes-evacuees-en-colombie-britannique-face-a-un-vaste-feu-de-foret_6741747_3244.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-08T01:59:24.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.382Z"
+          "publishedAt": "2026-08-09T01:39:42.000Z",
+          "fetchedAt": "2026-08-09T02:31:39.113Z"
         },
         {
-          "id": "2026-08-07-2704d98f",
-          "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-          "description": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
-          "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac11/live/b7a89160-929b-11f1-b6aa-e1ff997f01b8.jpg",
-          "source": "BBC World",
+          "id": "2026-08-09-e1d312e7",
+          "title": "La FIFA dénonce « un effort concerté et continu » pour affaiblir son président, Gianni Infantino, sous le feu des critiques",
+          "description": "L’Italo-Suisse de 56 ans, candidat à sa succession à la tête de la fédération internationale, en mars prochain, traverse une séquence délicate, critiquée notamment pour son projet d’ouverture aux investisseurs privés, finalement abandonné.",
+          "url": "https://www.lemonde.fr/sport/article/2026/08/09/la-fifa-denonce-un-effort-concerte-et-continu-pour-affaiblir-son-president-gianni-infantino-sous-le-feu-des-critiques_6741714_3242.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-07T22:07:00.000Z",
-          "fetchedAt": "2026-08-08T02:24:17.547Z"
+          "publishedAt": "2026-08-09T00:17:51.000Z",
+          "fetchedAt": "2026-08-09T02:31:39.113Z"
         },
         {
-          "id": "2026-08-07-0f9527eb",
-          "title": "Droit du sol aux États-Unis: «Les décrets de Donald Trump sont d'abord un coup politique»",
-          "description": "Un peu plus d'un mois après avoir vu son décret contre le droit du sol annulé par la Cour suprême, le président états-unien Donald Trump a signé jeudi 6 août deux nouveaux textes contre cette disposition. Le docteur en civilisation américaine Jérôme Viala-Gaudefroy y voit un message adressé à l'électorat républicain.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260807-droit-du-sol-aux-%C3%A9tats-unis-les-d%C3%A9crets-de-donald-trump-sont-d-abord-un-coup-politique",
-          "imageUrl": "https://s.rfi.fr/media/display/da382664-9278-11f1-95e2-005056bf30b7/w:1024/p:16x9/AP26218732320462.jpg",
+          "id": "2026-08-08-2f3bf4c5",
+          "title": "Une violente collision entre deux bus au Niger fait au moins 22 morts dont 17 militaires",
+          "description": "Le drame est survenu au moment où les autorités nigériennes tentent d’enrayer la hausse des accidents de la route, qui ont fait plus de 1 200 morts dans le pays en 2025, selon les chiffres officiels.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/09/une-violente-collision-entre-deux-bus-au-niger-fait-au-moins-22-morts-dont-17-militaires_6741681_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-08T23:43:13.000Z",
+          "fetchedAt": "2026-08-09T02:31:39.113Z"
+        },
+        {
+          "id": "2026-08-08-e81a1a05",
+          "title": "EN DIRECT, guerre en Ukraine : le drone qui s’est écrasé samedi en Bulgarie est d’un type « largement utilisé par les forces armées ukrainiennes »",
+          "description": "Le ministère de la défense bulgare a nuancé ses propos en précisant qu’« à l’heure actuelle, rien ne permet de penser qu’il s’agit d’un incident délibéré ». La diplomatie ukrainienne a assuré que l’Ukraine n’avait pas visé « délibérément » la Bulgarie avec cet engin, et promis une enquête pour éclaircir les circonstances de sa chute.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-le-drone-qui-s-est-ecrase-samedi-en-bulgarie-est-d-un-type-largement-utilise-par-les-forces-armees-ukrainiennes_6737250_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-08T23:24:19.000Z",
+          "fetchedAt": "2026-08-09T02:31:39.113Z"
+        },
+        {
+          "id": "2026-08-08-1a41282c",
+          "title": "Éloge de la lenteur chez des animaux: pourquoi ce handicap est un avantage",
+          "description": "Tortue, escargot ou paresseux… Certaines espèces ne se déplacent que de quelques centimètres à l'heure. Il s'agit d'une adaptation à une nourriture pauvre ou à des conditions extrêmes. Mais ces animaux risquent d'être rattrapés par le climat qui change à toute vitesse.",
+          "url": "https://www.rfi.fr/fr/podcasts/c-est-dans-ta-nature/20260808-%C3%A9loge-de-la-lenteur-chez-des-animaux-pourquoi-ce-handicap-est-un-avantage",
+          "imageUrl": "https://s.rfi.fr/media/display/1cb142dc-9323-11f1-bebb-005056a97e36/w:1024/p:16x9/camejex-sloth-7269590.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-07T16:36:31.000Z",
-          "fetchedAt": "2026-08-08T02:24:17.468Z"
+          "publishedAt": "2026-08-08T22:07:05.000Z",
+          "fetchedAt": "2026-08-09T02:31:47.433Z"
         },
         {
-          "id": "2026-08-07-63d50fbd",
-          "title": "Salle de bal de Donald Trump : une cour d’appel fédérale bloque la construction ; le président américain annonce vouloir solliciter la Cour suprême",
-          "description": "Ce blocage n’a « rien à voir » avec la pertinence du projet lui-même, mais s’explique par le fait que le président américain a lancé les travaux sans obtenir l’autorisation du Congrès.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/07/salle-de-bal-de-donald-trump-une-cour-d-appel-federale-bloque-la-construction_6740525_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-08-08-1d627874",
+          "title": "Inde: la mobilisation de la jeunesse contre les fraudes fragilise le parti du Congrès dans le Jharkhand",
+          "description": "Après le succès du « Parti des cafards » à New Delhi, la mobilisation populaire gagne d’autres régions de l’Inde. Dans l’est du pays, dans l'État du Jharkhand, des jeunes protestent massivement depuis quinze jours contre les fraudes aux concours de recrutement des fonctionnaires. Avec le même contexte social : de la corruption, des fraudes aux examens et le chômage des jeunes, mais la cible politique, elle, est différente. Ici, c’est le gouvernement local, auquel participe le parti du Congrès de Rahul Gandhi, qui est mis en cause.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20260808-inde-la-mobilisation-de-la-jeunesse-contre-les-fraudes-fragilise-le-parti-du-congr%C3%A8s-dans-le-jharkhand",
+          "imageUrl": "https://s.rfi.fr/media/display/5146ca60-9366-11f1-a4e4-005056a90284/w:1024/p:16x9/2026-08-08T125919Z-1767645345-MT1ASNEWS20260808214L-RTRMADP-3-ANI.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-07T16:16:06.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.382Z"
-        },
-        {
-          "id": "2026-08-07-54ea808a",
-          "title": "Salle de bal à la Maison Blanche : Trump fulmine après un nouveau revers en appel",
-          "description": "La construction à la Maison Blanche de la controversée salle de bal voulue par Donald Trump a été bloquée vendredi par une cour d'appel fédérale. La juridiction maintient la suspension des travaux ordonnée en avril par un juge. Dénonçant une décision \"horrible\" et \"politique\", le président américain a annoncé saisir la Cour suprême.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260807-chantier-salle-bal-trump-maison-blanche-bloqu%C3%A9-appel",
-          "imageUrl": "https://s.france24.com/media/display/dae90eaa-9275-11f1-a479-005056bfb2b6/w:1024/p:16x9/AP26217654920197.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-07T16:04:41.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.452Z"
-        },
-        {
-          "id": "2026-08-07-443caad0",
-          "title": "Aux Etats-Unis, 23 000 emplois en moins en juillet, mais un taux de chômage en baisse",
-          "description": "La destruction d’emplois concerne en premier lieu des secteurs tels que l’éducation publique au niveau local, le commerce de proximité et, dans une moindre mesure, les services financiers.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/07/aux-etats-unis-23-000-emplois-en-moins-en-juillet-mais-un-taux-de-chomage-en-baisse_6740506_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-07T14:15:10.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.382Z"
+          "publishedAt": "2026-08-08T21:26:46.000Z",
+          "fetchedAt": "2026-08-09T02:31:47.433Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "La déforestation de l’Amazonie brésilienne poursuit une baisse historique, dans ",
+      "id": "cluster-13",
+      "topic": "L'Espagne commence les contrôles aux frontières pour les voyageurs venant d'Ital",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-07-5f767489",
-          "title": "La déforestation de l’Amazonie brésilienne poursuit une baisse historique, dans la lignée de la promesse de campagne de Lula",
-          "description": "D’août 2025 à juillet 2026, 2 874 km2 ont été déboisés dans la partie brésilienne de la plus grande forêt tropicale du monde, une chute de 37 % par rapport aux douze mois précédents. La déforestation avait connu un pic à 10 278 km2 sur l’année civile 2022, sous Jair Bolsonaro, le prédécesseur de Lula.",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/08/la-deforestation-de-l-amazonie-bresilienne-poursuit-une-baisse-historique-dans-la-lignee-de-la-promesse-de-campagne-de-lula_6740574_3244.html",
+          "id": "2026-08-08-1c3456f1",
+          "title": "L'Espagne commence les contrôles aux frontières pour les voyageurs venant d'Italie",
+          "description": "Les autorités espagnoles ont commencé à effectuer des contrôles temporaires aux frontières, samedi, pour les voyageurs en provenance d'Italie, première journée d'application de cette décision annoncée vendredi, en réponse aux mesures similaires imposées par Rome après l'afflux massif de migrants à Ceuta.",
+          "url": "https://www.france24.com/fr/europe/20260808-l-espagne-commence-les-contr%C3%B4les-aux-fronti%C3%A8res-pour-les-voyageurs-venant-d-italie",
+          "imageUrl": "https://s.france24.com/media/display/16f0298a-934b-11f1-8829-005056bfb2b6/w:1024/p:16x9/2026-08-08T113635Z-2311392-RC2BUMA2SQ7A-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA-ROME.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-08T19:37:12.000Z",
+          "fetchedAt": "2026-08-09T02:31:39.170Z"
+        },
+        {
+          "id": "2026-08-08-aeb5956e",
+          "title": "Crise de Ceuta : en Espagne, début des contrôles aux frontières pour les voyageurs venant d’Italie, en réponse aux mesures similaires prises par Rome",
+          "description": "Les autorités espagnoles effectueront des contrôles sur les liaisons aériennes et maritimes avec l’Italie « de manière aléatoire » jusqu’au 7 septembre, a précisé, samedi, le ministère de l’intérieur.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/08/crise-de-ceuta-en-espagne-debut-des-controles-aux-frontieres-pour-les-voyageurs-venant-d-italie-en-reponse-aux-mesures-similaires-prises-par-rome_6741510_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-07T23:22:45.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.382Z"
+          "publishedAt": "2026-08-08T15:59:22.000Z",
+          "fetchedAt": "2026-08-09T02:31:39.113Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-14",
+      "topic": "Colombie : l’attaque d’un péage imputée aux dissidents des Farc au lendemain de ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-08-26bfcfe8",
+          "title": "Colombie : l’attaque d’un péage imputée aux dissidents des Farc au lendemain de l’investiture du nouveau président",
+          "description": "Des explosifs ont détruit un péage en construction sur la route panaméricaine, près de Cali, selon l’armée. La veille, lors de son investiture, Abelardo de la Espriella a promis de combattre « sans répit le narcoterrorisme et toutes les organisations criminelles ».",
+          "url": "https://www.lemonde.fr/international/article/2026/08/08/colombie-l-attaque-d-un-peage-imputee-aux-dissidents-des-farc-au-lendemain-de-l-investiture-du-nouveau-president_6741582_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-08T19:27:49.000Z",
+          "fetchedAt": "2026-08-09T02:31:39.113Z"
+        },
+        {
+          "id": "2026-08-08-55113d52",
+          "title": "Centrafrique: Bangui sous le choc, un camion-citerne se renverse à Bimbo faisant au moins 20 morts",
+          "description": "En Centrafrique, Bangui est sous le choc après un grave accident de la circulation survenu vendredi soir 7 août à Bimbo, au sud-ouest de la capitale. Un camion-citerne s’est renversé sur la rue des Sœurs, faisant au moins vingt morts et plusieurs dizaines de blessés, selon un bilan provisoire. D’après les premières informations recueillies, le drame serait lié à une défaillance technique du système d’air du camion. Le véhicule aurait alors perdu le contrôle avant de se renverser, fauchant plusieurs personnes et semant la panique dans le quartier.",
+          "url": "https://www.rfi.fr/fr/afrique/20260808-centrafrique-bangui-sous-le-choc-un-camion-citerne-se-renverse-%C3%A0-bimbo-faisant-au-moins-20-morts",
+          "imageUrl": "https://s.rfi.fr/media/display/a0adaffe-9359-11f1-890d-005056bfb2b6/w:1024/p:16x9/WhatsApp-Image-2026-08-08-at-19-54-06-1.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-08T19:12:31.000Z",
+          "fetchedAt": "2026-08-09T02:31:47.433Z"
+        },
+        {
+          "id": "2026-08-08-7a07f98a",
+          "title": "RDC: des acteurs du livre dénoncent l'incinération d'ouvrages lors d'une opération d'assainissement à Kinshasa",
+          "description": "À Kinshasa, une vaste opération d'assainissement est menée depuis la mi-juillet par le Service national, un organe placé sous l'autorité de la présidence. L'objectif affiché est de libérer les emprises publiques occupées illégalement et de nettoyer les espaces publics. Mais l'une de ces opérations a conduit à l'incinération de milliers de livres vendus par des bouquinistes. Écrivains, éditeurs et vendeurs de livres dénoncent un « autodafé » et réclament réparation dans un mémorandum adressé aux autorités.",
+          "url": "https://www.rfi.fr/fr/afrique/20260808-rdc-des-acteurs-du-livre-d%C3%A9noncent-l-incin%C3%A9ration-d-ouvrages-lors-d-une-op%C3%A9ration-d-assainissement-%C3%A0-kinshasa",
+          "imageUrl": "https://s.rfi.fr/media/display/12b2e074-2c08-11f1-9ac7-005056bf30b7/w:1024/p:16x9/000-863T664.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-08T18:26:21.000Z",
+          "fetchedAt": "2026-08-09T02:31:47.433Z"
+        },
+        {
+          "id": "2026-08-08-efed5e9f",
+          "title": "Fusillade en Thaïlande : une enfant de 12 ans meurt des suites de ses blessures, le bilan passe à huit morts",
+          "description": "Un adolescent de 14 ans a tué ses grands-parents à leur domicile, vendredi, avant de perpétrer une fusillade dans son lycée, près de Bangkok. Il a fait sept morts et plus de 30 blessés, avant de se donner la mort.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/08/fusillade-en-thailande-une-enfant-de-12-ans-meurt-des-suites-de-ses-blessures-le-bilan-passe-a-huit-morts_6741516_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-08T17:43:10.000Z",
+          "fetchedAt": "2026-08-09T02:31:39.113Z"
+        },
+        {
+          "id": "2026-08-08-b9c57b40",
+          "title": "Violences sexuelles sur mineurs: dans un courrier Gérald Darmanin pointe les défaillances des enquêtes",
+          "description": "Le ministre de la Justice, Gérald Darmanin, a adressé au ministre de l'Intérieur le 29 juillet un courrier accablant sur le traitement des violences sexuelles sur mineurs en France. Le quotidien Le Monde a pu le consulter et en publie un résumé ce samedi 8 août : il synthétise les remontées d'informations, réclamées à 37 parquets généraux, après le désastre de l'affaire Lyhanna, une collégienne de 11 ans, violée et tuée fin mai. Le principal suspect avait déjà fait l'objet de plusieurs plaintes. Ce rapport montre les graves dysfonctionnements au sein des services d'enquête, constatés par des magistrats.",
+          "url": "https://www.rfi.fr/fr/france/20260808-violences-sexuelles-sur-mineurs-dans-un-courrier-g%C3%A9rald-darmanin-pointe-les-d%C3%A9faillances-des-enqu%C3%AAtes",
+          "imageUrl": "https://s.rfi.fr/media/display/3fa2e6b4-5283-11f1-b65d-005056bfb2b6/w:1024/p:16x9/Le-ministre-fran%C3%A7ais-de-la-Justice-G%C3%A9rald-Darmanin-quitte-l-%C3%89lys%C3%A9e-%C3%A0-Paris-apr%C3%A8s-la-r%C3%A9union-hebdomadaire-du-Conseil-des-ministres-le-6-mai-2026.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-08T17:38:54.000Z",
+          "fetchedAt": "2026-08-09T02:31:47.433Z"
+        },
+        {
+          "id": "2026-08-08-b073aa09",
+          "title": "En Colombie, le président De la Espriella lance “l’ère du Tigre” avec une déclaration de guerre",
+          "description": "À peine investi, le président d’ultra-droite a annoncé la fin de la “paix totale” et assumé une stratégie de confrontation avec les groupes armés et narcotrafiquants. Dans un pays marqué par 60 ans de conflit, ce choix acte une rupture nette avec le mandat de son prédécesseur de gauche, Gustavo Petro.",
+          "url": "https://www.courrierinternational.com/article/politique-en-colombie-le-president-de-la-espriella-lance-l-ere-du-tigre-avec-une-declaration-de-guerre_257106",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/07/110/0/2467/1644/1200/630/60/0/e84722c_ftp-1-jev65g8msknu-2026-08-07t221138z-1641111850-rc2wtma8zhct-rtrmadp-3-colombia-politics.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-08T16:11:54.000Z",
+          "fetchedAt": "2026-08-09T02:31:39.136Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-8",
+      "topic": "GTA 6 sur disque ? Cela n’a « plus aucun sens » juge le patron de Take-Two",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-08-eca8b49d",
+          "title": "GTA 6 sur disque ? Cela n’a « plus aucun sens » juge le patron de Take-Two",
+          "description": "Alors que l’édition physique de GTA 6 ne contiendra qu'un simple code de téléchargement, le PDG de Take-Two assume pleinement ce choix. Pour Strauss Zelnick, le disque est devenu un support obsolète, voué à devenir un simple objet de collection comme le vinyle.",
+          "url": "https://www.numerama.com/pop-culture/2308479-gta-6-sur-disque-cela-na-plus-aucun-sens-juge-le-patron-de-take-two.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/capture-decran-2026-06-30-a-103932.jpg?resize=1600,900&key=739307a3",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-08T13:41:54.000Z",
+          "fetchedAt": "2026-08-09T02:31:47.466Z"
+        },
+        {
+          "id": "2026-08-08-fee9247e",
+          "title": "Is this $450 laptop from an unknown brand too good to be true?",
+          "description": "Cute name, especially if it were a wookiee. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nFinding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still the laptop to beat.\nSo when little-known Chinese brand Chuwi announced a $450 Windows laptop with an aluminum build and a brand-new Intel Wildcat Lake processor, it sounded too good to be true.\nIt is.\nChuwi UniBook\n\n\nScore: 3\n\nProsCons\n\n\nIt's $450\nTons of ports for a small laptop (though none are very  …\n\n\n\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268691_Chuwi_UniBook_laptop_review_ADiBenedetto_0015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-08-08T12:00:00.000Z",
+          "fetchedAt": "2026-08-09T02:31:50.688Z"
+        },
+        {
+          "id": "2026-08-08-a17b3af4",
+          "title": "Un dragon de retour dans House of the Dragon, Tom Bombadil débarque dans Les Anneaux de pouvoir, et Mario dévoile son secret : c’est le récap pop culture de la semaine",
+          "description": "Cette semaine fut placée sous le signe des grands retours héroïques : Feux-du-Soleil n’a pas dit son dernier mot dans la saison 3 de House of the Dragon, tandis que Tom Bombadil vient faire coucou dans la saison 3 des Anneaux de pouvoir — et on parle quand même du personnage le plus puissant de la Terre du Milieu. Entre ces deux come-back, Mario continue de sauter, car c’est ce qu’il sait faire de mieux. C’est le récap pop culture de la semaine, et attention : il y a un peu de divulgâchage dans l’air…",
+          "url": "https://www.numerama.com/pop-culture/2308321-un-dragon-de-retour-dans-house-of-the-dragon-tom-bombadil-debarque-dans-les-anneaux-de-pouvoir-et-mario-devoile-son-secret-cest-le-recap-pop-culture-de-la-semaine.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/04/rhaenyra-house-of-the-dragon.jpg?resize=1600,900&key=c712aeb1",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-08T08:00:00.000Z",
+          "fetchedAt": "2026-08-09T02:31:47.466Z"
+        },
+        {
+          "id": "2026-08-08-1582a05f",
+          "title": "Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
+          "description": "La plainte, déposée vendredi soir, dénonce « des faits d’ingérence étrangère, de manipulation de l’information, de fabrication de contenus truqués, susceptibles de porter atteinte aux intérêts fondamentaux de la nation et à la sincérité du scrutin présidentiel à venir ».",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-08T05:28:42.000Z",
+          "fetchedAt": "2026-08-09T02:31:47.498Z"
         },
         {
           "id": "2026-08-07-ef959a88",
@@ -99,122 +236,29 @@
           "description": "« Les plateformes doivent agir de manière décisive pour préserver l’intégrité de l’espace numérique, en particulier en situation de crise », a déclaré Henna Virkkunen, après des discussions menées entre la Commission européenne et les deux plateformes.",
           "url": "https://www.lemonde.fr/international/article/2026/08/07/crise-de-ceuta-l-union-europeenne-demande-a-meta-et-tiktok-de-renforcer-la-surveillance-et-la-verification-des-faits_6740540_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
+          "source": "Le Monde - Pixels",
+          "category": "tech",
           "publishedAt": "2026-08-07T21:06:50.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.382Z"
-        },
-        {
-          "id": "2026-08-07-1d9273fb",
-          "title": "Maroc : après l’archevêque de Rabat, un prêtre de Casablanca accusé de violences sexuelles",
-          "description": "Alors qu’une femme assure avoir été violée par le prêtre, l’Eglise a classé l’affaire au printemps. L’enquête sur Cristobal Lopez Romero se poursuit, quant à elle, avec la venue à Rabat de deux enquêteurs du Vatican, mardi.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/08/07/maroc-apres-l-archeveque-de-rabat-un-pretre-de-casablanca-accuse-de-violences-sexuelles_6740534_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-07T18:00:07.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.382Z"
-        },
-        {
-          "id": "2026-08-07-56a06996",
-          "title": "Sénégal : la Banque mondiale accorde un prêt de 340 milliards de FCFA",
-          "description": "Le Sénégal obtient un financement de 340 milliards de francs CFA de la Banque mondiale. Un soutien qui marque un tournant après des mois de tensions avec les bailleurs internationaux, sur fond de controverse autour de la dette cachée.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260807-s%C3%A9n%C3%A9gal-la-banque-mondiale-accorde-un-pr%C3%AAt-de-340-milliards-de-fcfa",
-          "imageUrl": "https://s.france24.com/media/display/78bf1b0a-9272-11f1-a9b3-005056a97e36/w:1024/p:16x9/Couv-SENEGAL-Banque-mondiale.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-07T17:17:08.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.452Z"
-        },
-        {
-          "id": "2026-08-07-d1d8da8a",
-          "title": "Côte d'Ivoire: le retour du tambour parleur «Djidji Ayôkwé» prend une dimension politique",
-          "description": "Ce vendredi 7 août 2026 est jour de fête nationale en Côte d'Ivoire. Le pays célèbre aujourd'hui le 66ᵉ anniversaire de son indépendance. À cette occasion, le tambour parleur, le Djidji Ayôkwé, a été présenté aux Ivoiriens. Cet objet, sacré pour les peuples Bidjans, avait été arraché en 1916 par les colons français. Après plusieurs années de négociations, c'est la première pièce culturelle qui a été restituée en début d'année par la France à la Côte d'Ivoire.",
-          "url": "https://www.rfi.fr/fr/afrique/20260807-c%C3%B4te-d-ivoire-le-retour-du-tambour-parleur-djidji-ay%C3%B4kw%C3%A9-prend-une-dimension-politique",
-          "imageUrl": "https://s.rfi.fr/media/display/928199b6-9266-11f1-a14b-005056a97e36/w:1024/p:16x9/cdab514b-8ef7-4043-ba6b-0d9f46fad736.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-07T15:55:19.000Z",
-          "fetchedAt": "2026-08-08T02:24:17.468Z"
-        },
-        {
-          "id": "2026-08-07-134a7412",
-          "title": "Cuba, nid d’espions : une présence renforcée de la CIA pour mieux déstabiliser le régime ?",
-          "description": "La CIA a drastiquement renforcé sa présence à Cuba, selon “The New York Times” et “Politico”. De quoi préparer une opération militaire ou bien tenter de déstabiliser le régime, à moins que ces informations n’aient été dévoilées que pour faire monter la pression sur les cadres castristes.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-cuba-nid-d-espions-une-presence-renforcee-de-la-cia-pour-mieux-destabiliser-le-regime_256858",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/05/0/4/3192/2128/1200/630/60/0/94f69db_ftp-1-ldxgj54brh0y-afp-c3yk4kg.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-07T15:42:55.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.431Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "Au Japon, les populations immigrées dans le viseur de la droite au pouvoir",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-07-4661838b",
-          "title": "Au Japon, les populations immigrées dans le viseur de la droite au pouvoir",
-          "description": "La coalition de droite au pouvoir au Japon durcit sa politique migratoire. La Première ministre nationaliste Sanae Takaichi juge que « les étrangers mettent à vif les nerfs des Japonais ». Le secteur de la restauration est particulièrement touché par ce tour de vis. Par exemple, les critères pour bénéficier d'un visa de gérant d'entreprise sont désormais beaucoup plus contraignants qu'avant. Résultat : on ne compte plus les restaurants tenus par des immigrés qui doivent fermer car leurs exploitants ne sont pas parvenus à obtenir le renouvellement de leur titre de séjour, et sont donc priés de rentrer dans leur pays.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260807-au-japon-les-populations-immigr%C3%A9es-dans-le-viseur-de-la-droite-au-pouvoir",
-          "imageUrl": "https://s.rfi.fr/media/display/720fff58-9273-11f1-83d5-005056bfb2b6/w:1024/p:16x9/Des-manifestants-participent-%C3%A0-une-manifestation-contre-les-politiques-anti-immigr%C3%A9s-%C3%A0-Tokyo-ce-dimanche-16-novembre-2025.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-07T22:03:43.000Z",
-          "fetchedAt": "2026-08-08T02:24:17.468Z"
-        },
-        {
-          "id": "2026-08-07-4c268fdd",
-          "title": "Au Japon, le « harcèlement par les poils de mollets » révélateur des conflits d’apparence entre femmes et hommes",
-          "description": "Les fortes chaleurs estivales ont poussé la métropole de Tokyo à lancer une campagne pour promouvoir un style vestimentaire décontracté au bureau. Mais des Japonaises qui ne supportent pas la vue des poils dénoncent un « harcèlement » visuel.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/07/au-japon-le-harcelement-par-les-poils-de-mollets-revelateur-des-conflits-d-apparence-entre-femmes-et-hommes_6740496_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-07T12:30:59.000Z",
-          "fetchedAt": "2026-08-08T02:24:08.382Z"
+          "fetchedAt": "2026-08-09T02:31:47.498Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "The gaming site sponsored by Walmart lays off its editorial staff",
-      "category": "tech",
+      "topic": "Andy Burnham to embark on cost of living tour through the UK",
+      "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-07-de335e27",
-          "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-          "description": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off.\nRestart is operated by Moonrock, a content marketing agency, though its editorial mission page says it's \"powered\" by Walmart. That page outlines how Walmart is (or was) involved:\nWhen we mention a game, we'll provide purchase links that will take you to Walmart using a partner tracking code. This link provides us with 0% of the sale if you decide to buy the product, but it doe …\n\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-08-07T22:05:08.000Z",
-          "fetchedAt": "2026-08-08T02:24:21.643Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "Jeweller 'priced out' of Christmas market stall this year",
-      "category": "eco",
-      "importance": 6,
-      "articles": [
-        {
-          "id": "2026-08-07-bfbb0716",
-          "title": "Jeweller 'priced out' of Christmas market stall this year",
-          "description": "Alex says a change in operator and rise in costs means this is the first winter she will not be renting a stall.",
-          "url": "https://www.bbc.co.uk/news/articles/c0qv4g4k4zpo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/173a/live/adf40f70-9253-11f1-a7ab-8b30adf0800a.jpg",
+          "id": "2026-08-08-55095edd",
+          "title": "Andy Burnham to embark on cost of living tour through the UK",
+          "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+          "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0be/live/6ec0ba10-937f-11f1-a7ab-8b30adf0800a.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-07T17:34:33.000Z",
-          "fetchedAt": "2026-08-08T02:24:23.765Z"
+          "publishedAt": "2026-08-08T23:10:50.000Z",
+          "fetchedAt": "2026-08-09T02:31:52.801Z"
         }
       ]
     }
