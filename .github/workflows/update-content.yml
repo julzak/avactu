@@ -195,6 +195,7 @@ jobs:
           OVH_SMS_PASSWORD: ${{ secrets.OVH_SMS_PASSWORD }}
           OVH_SMS_SENDER: ${{ secrets.OVH_SMS_SENDER }}
           AVA_PHONE_NUMBER: ${{ secrets.AVA_PHONE_NUMBER }}
-          FELIX_PHONE_NUMBER: ${{ secrets.FELIX_PHONE_NUMBER }}
+          # FELIX_PHONE_NUMBER retiré le 2026-08-07 (demande Julien) : le script
+          # n'envoie qu'aux numéros définis. Ré-ajouter la ligne pour réactiver.
           APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-sms
