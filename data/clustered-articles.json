@@ -1,220 +1,308 @@
 {
-  "generatedAt": "2026-08-10T02:41:17.018Z",
+  "generatedAt": "2026-08-11T02:34:37.303Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-5",
-      "topic": "Violences sexuelles sur mineurs: l'association de la PJ dénonce une «trahison» d",
+      "topic": "Aux Etats-Unis, Donald Trump relance son offensive contre la vaccination",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-09-beb7742c",
-          "title": "Violences sexuelles sur mineurs: l'association de la PJ dénonce une «trahison» de Gérald Darmanin",
-          "description": "L'Association nationale de police judiciaire (ANPJ) dénonce dimanche 9 août « l'hypocrisie » et « la trahison » du garde des Sceaux Gérald Darmanin, « resté place Beauvau plus de quatre ans », après sa note au ministre de l'Intérieur détaillant les nombreuses défaillances dans le traitement des violences sexuelles sur mineurs par les services d'enquête.",
-          "url": "https://www.rfi.fr/fr/france/20260809-un-ex-otage-allemand-kidnapp%C3%A9-au-niger-r%C3%A9cup%C3%A9r%C3%A9-par-les-autorit%C3%A9s-alg%C3%A9riennes",
-          "imageUrl": "https://s.rfi.fr/media/display/563acf36-943c-11f1-8dcc-005056bfb2b6/w:1024/p:16x9/000-C2UK9ZZ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T22:11:51.000Z",
-          "fetchedAt": "2026-08-10T02:37:27.137Z"
-        },
-        {
-          "id": "2026-08-09-50d94a99",
-          "title": "Mali: les jihadistes du Jnim attaquent un camp militaire de l'armée dans le centre du pays",
-          "description": "Les jihadistes du groupe de soutien à l’islam et aux musulmans (Jnim) ont attaqué dimanche 9 août le principal camp militaire de l’armée dans la localité de San, dans le centre du Mali. Au moins 12 militaires ont été tués et du matériel militaire a été emporté.",
-          "url": "https://www.rfi.fr/fr/afrique/20260809-mali-les-jihadistes-du-jnim-attaquent-un-camp-militaire-de-l-arm%C3%A9e-dans-le-centre-du-pays",
-          "imageUrl": "https://s.rfi.fr/media/display/d8b7b69a-afc7-11f0-bcba-005056a90284/w:1024/p:16x9/000-36XX9BT.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T21:07:47.000Z",
-          "fetchedAt": "2026-08-10T02:37:27.137Z"
-        },
-        {
-          "id": "2026-08-09-743fb87f",
-          "title": "Incendies : 370 hectares sont partis en fumée dans la Drôme, un feu se déclare en Lozère",
-          "description": "L'incendie dans le massif du Claps, dans la Drôme, a progressé, dimanche, d'une cinquantaine d'hectares, portant désormais le total à 370 hectares brûlés. Un autre incendie s'est déclaré en Lozère, parcourant 153 hectares en quelques heures et entraînant des évacuations.",
-          "url": "https://www.france24.com/fr/france/20260809-incendie-feu-propagation-drome-370-hectares-partis-en-fumee-pompiers-massif-claps",
-          "imageUrl": "https://s.france24.com/media/display/99788d02-9431-11f1-91c8-005056a90284/w:1024/p:16x9/000-B9QG49E.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T20:38:26.000Z",
-          "fetchedAt": "2026-08-10T02:37:16.446Z"
-        },
-        {
-          "id": "2026-08-09-fd8bb74f",
-          "title": "Pologne: face à une vague de xénophobie, des manifestations de soutien aux réfugiés ukrainiens",
-          "description": "En Pologne, les violences et les agressions à l’encontre des réfugiés ukrainiens se multiplient cet été. Dimanche 9 août, des manifestations ont eu lieu dans une vingtaine de villes un peu partout dans le pays pour permettre aux Polonais de leur témoigner leur soutien. Les participants refusent de rester silencieux face à la vague de xénophobie, alimentée par des querelles historiques et mémorielles ces dernières semaines.",
-          "url": "https://www.rfi.fr/fr/europe/20260809-pologne-face-%C3%A0-une-vague-de-x%C3%A9nophobie-des-manifestations-de-soutien-aux-r%C3%A9fugi%C3%A9s-ukrainiens",
-          "imageUrl": "https://s.rfi.fr/media/display/48f3fd48-942d-11f1-9d6f-005056a90284/w:1024/p:16x9/L-artiste-Bartlomiej-Kielbowicz-distribue-des-pancartes-sur-lequel-il-a-inscrit-un-message-de-soutien-aux-Ukrainiens.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T20:32:54.000Z",
-          "fetchedAt": "2026-08-10T02:37:27.137Z"
-        },
-        {
-          "id": "2026-08-09-ae640b61",
-          "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-          "description": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-          "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T19:57:28.000Z",
-          "fetchedAt": "2026-08-10T02:37:27.295Z"
-        },
-        {
-          "id": "2026-08-09-83da5c96",
-          "title": "🔴 La Néerlandaise Demi Vollering remporte le Tour de France femmes et s'offre un deuxième sacre",
-          "description": "",
-          "url": "http://france24.com/fr/sports/20260809-tour-de-france-neerlandaise-demi-vollering-offre-deuxieme-sacre",
-          "imageUrl": "https://s.france24.com/media/display/69e1d106-9414-11f1-8f6d-005056bf30b7/w:1280/p:16x9/2026-08-09T165959Z-1934074284-UP1EM891B7XSE-RTRMADP-3-CYCLING-FRANCE.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T17:00:11.000Z",
-          "fetchedAt": "2026-08-10T02:37:16.446Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-13",
-      "topic": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-09-5f5f6aa6",
-          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-          "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-          "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T21:25:04.000Z",
-          "fetchedAt": "2026-08-10T02:37:27.295Z"
-        },
-        {
-          "id": "2026-08-09-15b2a63c",
-          "title": "Israël : Benjamin Netanyahu \"rejette\" le plan américain pour Gaza, accepté par le Hamas",
-          "description": "En campagne électorale, le Premier ministre israélien a réaffirmé dimanche son rejet du dernier plan en 15 points de Donald Trump pour Gaza, alors même que l'armée israélienne a, de fait, suspendu ses attaques dans le territoire. Son armée \"n'effectuera aucun retrait tant que le Hamas ne sera pas véritablement désarmé\", a déclaré Benjamin Netanyahu.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260809-premier-ministre-israelien-rejette-plan-americain-pour-gaza-accepte-par-hamas-donald-trump-benjamin-netanyahu",
-          "imageUrl": "https://s.france24.com/media/display/abdd7f34-93e6-11f1-a0c3-005056a90284/w:1024/p:16x9/AP26146678560200.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T19:43:40.000Z",
-          "fetchedAt": "2026-08-10T02:37:16.446Z"
-        },
-        {
-          "id": "2026-08-09-dc63cfaf",
-          "title": "Israël «rejette» le plan américain pour Gaza, accepté par le Hamas",
-          "description": "Israël « rejette » la dernière feuille de route américaine, acceptée par le Hamas et censée lancer la deuxième étape du plan de paix à Gaza, a annoncé dimanche 9 août Benyamin Netanyahu, conditionnant tout retrait de ses troupes à un « véritable » désarmement du Hamas.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260809-isra%C3%ABl-rejette-le-plan-am%C3%A9ricain-pour-gaza-accept%C3%A9-par-le-hamas",
-          "imageUrl": "https://s.rfi.fr/media/display/67de3e44-6ba6-11f1-ab95-005056bf30b7/w:1024/p:16x9/AP26166663676884.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T15:15:03.000Z",
-          "fetchedAt": "2026-08-10T02:37:27.137Z"
-        },
-        {
-          "id": "2026-08-09-08c8d266",
-          "title": "Moyen-Orient : Tel Aviv \"rejette\" le plan américain accepté par le Hamas",
-          "description": "Noga Tarnopolsky, correspondant France 24, décrypte la situation.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260809-moyen-orient-tel-aviv-rejette-le-plan-am%C3%A9ricain-accept%C3%A9-par-le-hamas",
-          "imageUrl": "https://s.france24.com/media/display/dc397328-93fe-11f1-a02b-005056bfb2b6/w:1024/p:16x9/FR-20260809-160646-160903-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-09T14:33:07.000Z",
-          "fetchedAt": "2026-08-10T02:37:16.446Z"
-        },
-        {
-          "id": "2026-08-09-f0fca3db",
-          "title": "Israël « rejette » le plan américain pour Gaza accepté par le Hamas, annonce Benyamin Nétanyahou",
-          "description": "L’Etat hébreu a rejeté le document présenté fin juillet par le Conseil de la paix de Donald Trump. Son armée « n’effectuera aucun retrait [du territoire palestinien] tant que le Hamas ne sera pas véritablement désarmé », a déclaré Benyamin Nétanyahou.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/09/israel-rejette-le-plan-americain-pour-gaza-accepte-par-le-hamas-annonce-benyamin-netanyahou_6742436_3210.html",
+          "id": "2026-08-10-562c9287",
+          "title": "Aux Etats-Unis, Donald Trump relance son offensive contre la vaccination",
+          "description": "Faisant un lien avec l’autisme, le président américain a signé un décret contenant de nouvelles recommandations en matière de vaccins ; il en limite notamment le nombre et demande à espacer leur administration aux enfants.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/11/aux-etats-unis-donald-trump-relance-son-offensive-contre-la-vaccination_6743643_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-09T11:42:22.000Z",
-          "fetchedAt": "2026-08-10T02:37:16.254Z"
+          "publishedAt": "2026-08-10T23:45:09.000Z",
+          "fetchedAt": "2026-08-11T02:30:36.933Z"
         },
         {
-          "id": "2026-08-08-ac38e904",
-          "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-          "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-          "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
-          "source": "BBC World",
+          "id": "2026-08-10-05fcf9a3",
+          "title": "Aux États-Unis, l'offensive de Donald Trump et Robert F. Kennedy Jr contre les vaccins continue",
+          "description": "Le président américain Donald Trump a signé lundi un décret avec de nouvelles recommandations vaccinales pour les enfants. Il appelle en particulier à dissocier les vaccins contre la rougeole, la rubéole et les oreillons, au lieu de les administrer en une injection. La présentation du texte, en présence de son ministre de la Santé connu pour ses positions anti-vaccins, a été émaillée de remarques faisant un lien entre vaccination et autisme.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260810-etats-unis-offensive-donald-trump-robert-f-kennedy-jr-contre-vaccins-continue",
+          "imageUrl": "https://s.france24.com/media/display/c7d372e8-9503-11f1-9df9-005056bfb2b6/w:1024/p:16x9/AP26222701063048.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-08T23:43:44.000Z",
-          "fetchedAt": "2026-08-10T02:37:27.295Z"
+          "publishedAt": "2026-08-10T21:50:42.000Z",
+          "fetchedAt": "2026-08-11T02:30:36.915Z"
+        },
+        {
+          "id": "2026-08-10-dfc7e460",
+          "title": "États-Unis: la primaire démocrate dans le Wisconsin illustre les divisions au sein du parti",
+          "description": "Une nouvelle série de primaires à travers les États-Unis se tient ce mardi 11 août, en vue des élections de mi-mandat qui se tiendront en novembre. Le Connecticut, le Minnesota, le Vermont ou encore le Wisconsin doivent choisir qui défendra les couleurs des démocrates d'un côté, et des républicains de l'autre pour des postes de gouverneur, de sénateur ou d'élu à la Chambre des représentants. Ce mardi les yeux seront notamment tournés vers le Wisconsin, un « swing state », un état pivot. Une candidate de l'aile gauche des démocrates aimerait représenter son parti pour le poste de gouverneur, mais le scrutin illustre une fois de plus la fracture entre les centristes et les progressistes au sein du parti.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260810-%C3%A9tats-unis-la-primaire-d%C3%A9mocrate-dans-le-wisconsin-illustre-les-divisions-au-sein-du-parti",
+          "imageUrl": "https://s.rfi.fr/media/display/7a7ef850-94d6-11f1-9dd9-005056a90284/w:1024/p:16x9/AP26210038389730.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T16:14:29.000Z",
+          "fetchedAt": "2026-08-11T02:30:49.991Z"
+        },
+        {
+          "id": "2026-08-10-5f245050",
+          "title": "A la frontière entre les Etats-Unis et le Canada, le nouveau pont Gordie-Howe pris au piège des tensions commerciales",
+          "description": "Une nouvelle infrastructure routière relie Detroit, dans le Michigan, à Windsor, en Ontario, depuis le 27 juillet. Conçu pour accélérer les échanges transfrontaliers, l’ouvrage est devenu un symbole du climat orageux entre Washington et Ottawa.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/10/a-la-frontiere-entre-les-etats-unis-et-le-canada-le-nouveau-pont-gordie-howe-pris-au-piege-des-tensions-commerciales_6743423_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T16:00:03.000Z",
+          "fetchedAt": "2026-08-11T02:30:36.933Z"
+        },
+        {
+          "id": "2026-08-10-5880b3b9",
+          "title": "Groenland : derrière un projet pétrolier texan, l'appétit renouvelé de Donald Trump",
+          "description": "Le gouvernement du Groenland a lancé la semaine dernière un \"avertissement ferme\" à une compagnie texane proche de Donald Trump qui a fait débarquer du matériel de forage dans une région reculée de l’île arctique afin d’y extraire du pétrole. Une information qui relance les spéculations autour des velléités expansionnistes de Washington.",
+          "url": "https://www.france24.com/fr/europe/20260810-groenland-derri%C3%A8re-projet-p%C3%A9trolier-texan-app%C3%A9tit-renouvel%C3%A9-donald-trump-greenland-energy",
+          "imageUrl": "https://s.france24.com/media/display/264d8f5e-f9d6-11ef-ae7b-005056bf30b7/w:1024/p:16x9/000_36ZC7WJ.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T15:45:14.000Z",
+          "fetchedAt": "2026-08-11T02:30:36.915Z"
         }
       ]
     },
     {
-      "id": "cluster-19",
-      "topic": "Le typhon Dolphin frappe la côte est de la Chine, un million de personnes évacué",
+      "id": "cluster-8",
+      "topic": "EN DIRECT, guerre en Ukraine : nouvelles frappes russes dans la nuit, au moins c",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-09-f1cf2a0e",
-          "title": "Le typhon Dolphin frappe la côte est de la Chine, un million de personnes évacuées",
-          "description": "Le typhon Dolphin a touché terre sur la côte est de la ​Chine dimanche, avec à la clef des pluies torrentielles et des vents violents, tandis que les autorités se préparent de leur côté à faire face à des inondations ​et des glissements ‌de terrain sur une vaste partie de l'est du ⁠pays.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20260809-le-typhon-dolphin-frappe-la-c%C3%B4te-est-de-la-chine-un-million-de-personnes-%C3%A9vacu%C3%A9es",
-          "imageUrl": "https://s.rfi.fr/media/display/8e2c49f6-9414-11f1-98f3-005056a97e36/w:1024/p:16x9/000-C49N2GF.jpg",
-          "source": "RFI",
+          "id": "2026-08-10-2f25df94",
+          "title": "EN DIRECT, guerre en Ukraine : nouvelles frappes russes dans la nuit, au moins cinq morts à Zaporijia",
+          "description": "Kiev et Zaporijia ont été les cibles de nouvelles frappes russes dans la nuit. Cette attaque intervient alors que le président ukrainien, Volodymyr Zelensky, avait affirmé la veille que la Russie se préparait à déployer davantage de soldats nord-coréens sur son territoire et avait reçu de nouveaux missiles balistiques en provenance de Pyongyang.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-nouvelles-frappes-russes-sur-kiev_6741928_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-09T17:26:48.000Z",
-          "fetchedAt": "2026-08-10T02:37:27.137Z"
+          "publishedAt": "2026-08-10T22:32:37.000Z",
+          "fetchedAt": "2026-08-11T02:30:36.933Z"
         },
         {
-          "id": "2026-08-09-1d6110f8",
-          "title": "Incendie en Colombie-Britannique : 22 000 personnes évacuées",
-          "description": "Face à la propagation rapide des flammes, qui ont gagné 100 kilomètres carrés en à peine 24 heures, le gouvernement de cette province de l’ouest du Canada a décrété l’état d’urgence.",
-          "url": "https://www.courrierinternational.com/article/canada-incendie-en-colombie-britannique-22-000-personnes-evacuees_257238",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/08/0/0/3024/2016/1200/630/60/0/68d792f_ftp-1-cprcodlvtrvj-2026-08-08t185336z-1374228565-rc2aumazdyhj-rtrmadp-3-canada-wildfires.JPG",
+          "id": "2026-08-10-b78ed1a9",
+          "title": "Ukraine en direct : cinq morts à Zaporijjia, explosions entendues à Kiev",
+          "description": "Une attaque russe nocturne sur Zaporijjia, dans le sud-est de l'Ukraine, a fait au moins cinq morts et 20 blessés tôt mardi, selon les autorités, tandis qu'à Kiev, des explosions ont retenti après l'émission d'une alerte aux missiles. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20260810-en-direct-ukraine-guerre-explosions-attaque-kiev-missiles-russie",
+          "imageUrl": "https://s.france24.com/media/display/131ef16e-9234-11f1-a905-005056a90284/w:1024/p:16x9/2026-08-05T023914Z-1006963943-RC21SMA0C6YF-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T22:19:54.000Z",
+          "fetchedAt": "2026-08-11T02:30:36.915Z"
+        },
+        {
+          "id": "2026-08-10-2e35903c",
+          "title": "La Cour suprême russe interdit au parti antiguerre Iabloko de participer aux élections",
+          "description": "Iabloko, le seul parti russe qui prône des négociations immédiates pour mettre fin au conflit avec l’Ukraine, ne pourra probablement pas présenter de candidats aux prochaines législatives de septembre. La Cour suprême a notamment reconnu qu’il bénéficiait de financements reçus de l’étranger.",
+          "url": "https://www.rfi.fr/fr/europe/20260810-la-cour-supr%C3%AAme-russe-interdit-au-parti-antiguerre-iabloko-de-participer-aux-%C3%A9lections",
+          "imageUrl": "https://s.rfi.fr/media/display/ac264242-94f8-11f1-9170-005056a97e36/w:1024/p:16x9/AP26222624382203.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T20:19:06.000Z",
+          "fetchedAt": "2026-08-11T02:30:49.991Z"
+        },
+        {
+          "id": "2026-08-10-dae79aca",
+          "title": "Des Péruviens pris au piège dans l’armée russe sur le front ukrainien",
+          "description": "La Russie engage des soldats à l’autre bout du monde. Plus de 400 Péruviens ont été enrôlés dans l’armée russe pour combattre en Ukraine. Un recrutement qui passe par de fausses offres d’emplois alléchantes.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260810-des-p%C3%A9ruviens-pris-au-pi%C3%A8ge-dans-l-arm%C3%A9e-russe-sur-le-front-ukrainien",
+          "imageUrl": "https://s.rfi.fr/media/display/310fe962-94e1-11f1-bcb5-005056bfb2b6/w:1024/p:16x9/000-88WV3ZQ.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T17:37:39.000Z",
+          "fetchedAt": "2026-08-11T02:30:49.991Z"
+        },
+        {
+          "id": "2026-08-10-20706be6",
+          "title": "« Pour gagner la guerre hybride menée par la Russie contre l’Europe, il faut accepter de terroriser le Kremlin comme lui-même cherche à nous terroriser »",
+          "description": "Dans une tribune au « Monde », l’historien Antoine Arjakovsky appelle la coalition des volontaires et l’Union européenne à répondre coup pour coup aux attaques russes, après l’attaque au drone explosif contre l’aéroport de Leipzig-Halle, en Allemagne.",
+          "url": "https://www.lemonde.fr/idees/article/2026/08/10/pour-gagner-la-guerre-hybride-menee-par-la-russie-contre-l-europe-il-faut-accepter-de-terroriser-le-kremlin-comme-lui-meme-cherche-a-nous-terroriser_6743426_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T16:30:05.000Z",
+          "fetchedAt": "2026-08-11T02:30:36.933Z"
+        },
+        {
+          "id": "2026-08-10-b88d67d2",
+          "title": "Frapper le territoire russe pour faire plier Moscou : le pari incertain de l’Ukraine",
+          "description": "En réponse aux bombardements russes, les forces ukrainiennes frappent désormais quotidiennement la Russie. En visant les raffineries de pétrole et les centres logistiques, l’Ukraine entend déstabiliser le pays. Une puissante attaque de drones lancée dans la nuit du 9 au 10 août a coûté la vie à treize personnes dans la république du Tatarstan. La presse russe s’interroge sur l’effet réel de cette stratégie ukrainienne.",
+          "url": "https://www.courrierinternational.com/article/guerre-frapper-le-territoire-russe-pour-faire-plier-moscou-le-pari-incertain-de-l-ukraine_257477",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/09/0/14/5415/3610/1200/630/60/0/ae775ea_ftp-1-d6qeszsf5mrw-2026-08-09t114327z-2132296491-rc2wuma1wjve-rtrmadp-3-ukraine-crisis-russia-belgorod.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-09T10:33:07.000Z",
-          "fetchedAt": "2026-08-10T02:37:16.805Z"
+          "publishedAt": "2026-08-10T15:19:47.000Z",
+          "fetchedAt": "2026-08-11T02:30:37.301Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-18",
+      "topic": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-10-7a9a8979",
+          "title": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK",
+          "description": "Les députés turcs ont adopté lundi 10 août une loi historique ouvrant la voie à la réintégration des combattants du Parti des travailleurs du Kurdistan (PKK), étape majeure du processus de paix visant à mettre fin à plus de quatre décennies de guérilla.",
+          "url": "https://www.rfi.fr/fr/europe/20260810-la-turquie-adopte-une-loi-historique-sur-la-r%C3%A9int%C3%A9gration-des-combattants-du-pkk",
+          "imageUrl": "https://s.rfi.fr/media/display/b75bf94e-94fe-11f1-a9bf-005056a97e36/w:1024/p:16x9/000-C4CP6G3.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T21:29:09.000Z",
+          "fetchedAt": "2026-08-11T02:30:49.991Z"
+        },
+        {
+          "id": "2026-08-10-99ce6093",
+          "title": "La Turquie adopte une loi historique visant à la réintégration des combattants du PKK",
+          "description": "Les députés turcs ont adopté à une très large majorité, lundi, un texte encadrant le retour à la vie civile des combattants du PKK renonçant aux armes. Cette loi historique ne prévoit toutefois pas d'amnistie générale et ne tranche pas le sort d'Abdullah Öcalan, le fondateur et chef historique de la guérilla kurde emprisonné depuis 1999.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260810-turquie-adopte-loi-historique-reint%C3%A9gration-combattants-pkk-abdullah-ocalan",
+          "imageUrl": "https://s.france24.com/media/display/cb2eb242-9501-11f1-a08b-005056a90284/w:1024/p:16x9/000-C4CQ7NR.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T21:26:41.000Z",
+          "fetchedAt": "2026-08-11T02:30:36.915Z"
+        },
+        {
+          "id": "2026-08-10-dc9cbfdf",
+          "title": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK ; le sort d’Abdullah Öcalan reste à régler",
+          "description": "Le fondateur de la guérilla kurde du Parti des travailleurs du Kurdistan, Abdullah Öcalan, 77 ans, condamné à la prison à vie, avait appelé l’an passé les combattants du PKK à déposer les armes.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/10/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-le-sort-d-abdullah-ocalan-reste-a-regler_6743543_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T20:01:23.000Z",
+          "fetchedAt": "2026-08-11T02:30:36.933Z"
+        },
+        {
+          "id": "2026-08-10-d42d95b9",
+          "title": "Ocasio-Cortez évoque la congélation de ses ovocytes et n’exclut pas une campagne présidentielle",
+          "description": "La représentante de gauche Alexandria Ocasio-Cortez a donné dimanche 9 août une importante interview dans laquelle elle n’exclut pas de se présenter à la présidentielle de 2028. Dans une série de vidéos postées la veille, elle avait partagé sa décision de congeler ses ovocytes, allant jusqu’à en détailler la procédure.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-ocasio-cortez-evoque-la-congelation-de-ses-ovocytes-et-n-exclut-pas-une-campagne-presidentielle_257487",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/22/0/0/4000/2666/1200/630/60/0/feb7204_ftp-1-4lkwebrzwqfg-2026-07-22t230538z-1073949601-rc29jmazi44x-rtrmadp-3-usa-defense-congress.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T13:43:52.000Z",
+          "fetchedAt": "2026-08-11T02:30:37.301Z"
+        },
+        {
+          "id": "2026-08-10-7e9743a1",
+          "title": "La tapisserie de Bayeux, mille ans d’histoire et un défi : les nids-de-poule anglais",
+          "description": "Pour arriver jusqu’au British Museum à Londres le vendredi 10 juillet, l’œuvre brodée a dû rouler sur les routes d’Angleterre, parfois en mauvais état. Pour éviter que les vibrations ne la détériorent, des tests et des recherches approfondies ont été menés, rapporte “The Daily Telegraph”.",
+          "url": "https://www.courrierinternational.com/article/culture-la-tapisserie-de-bayeux-mille-ans-d-histoire-et-un-defi-les-nids-de-poule-anglais_257475",
+          "imageUrl": "https://focus.courrierinternational.com/2025/07/09/0/2/2347/1565/1200/630/60/0/8ffbef2_ftp-import-images-1-j825o3jnzogm-2025-07-09t085930z-2005213025-rc29sg8fhbrp-rtrmadp-3-britain-france-bayeux-tapestry.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T13:17:42.000Z",
+          "fetchedAt": "2026-08-11T02:30:37.301Z"
+        },
+        {
+          "id": "2026-08-10-bb85d4ad",
+          "title": "Fifa: le football «n'appartient à aucun individu», plaident UEFA, Concacaf et AFC dans une lettre ouverte",
+          "description": "Le football «n'appartient à aucun individu», écrivent lundi 10 août les confédérations européenne (UEFA), nord-américaine (Concacaf) et asiatique (AFC), désavouant un peu plus le patron de la Fifa Gianni Infantino après le retrait de son projet d'ouverture à des investisseurs privés.",
+          "url": "https://www.rfi.fr/fr/sports/20260810-fifa-le-football-n-appartient-%C3%A0-aucun-individu-plaident-uefa-concacaf-et-afc-dans-une-lettre-ouverte",
+          "imageUrl": "https://s.rfi.fr/media/display/2a116de0-8cd8-11f1-b7ff-005056bf30b7/w:1024/p:16x9/AP-Eduardo-Verdug.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-10T11:10:50.000Z",
+          "fetchedAt": "2026-08-11T02:30:49.991Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-15",
+      "topic": "Le témoignage d’une femme recueilli par « Le Monde » met en cause Guillaume Pley",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-10-21b63966",
+          "title": "Le témoignage d’une femme recueilli par « Le Monde » met en cause Guillaume Pley pour des messages à caractère sexuel lui étant adressés alors qu’elle était mineure",
+          "description": "« Le Monde » a pu consulter des conversations datées de 2011 sur la messagerie Facebook de Guillaume Pley entre celui-ci et une adolescente de 14 ans. Dans les messages sont évoqués la possibilité d’un « plan à trois » et l’éventualité que l’adolescente fasse sa « première fois » avec lui.",
+          "url": "https://www.lemonde.fr/pixels/video/2026/08/10/le-temoignage-d-une-femme-recueilli-par-le-monde-met-en-cause-guillaume-pley-pour-des-messages-a-caractere-sexuel-lui-etant-adresses-alors-qu-elle-etait-mineure_6743435_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-10T17:22:10.000Z",
+          "fetchedAt": "2026-08-11T02:30:50.026Z"
+        },
+        {
+          "id": "2026-08-10-817f6688",
+          "title": "Mark Zuckerberg signe un plaidoyer en faveur de l’IA et annonce un fonds pour les villes accueillant ses centres de données",
+          "description": "Le dirigeant de Meta, possédant Facebook, Instagram et WhatsApp, défend un accès le plus large possible à l’IA et propose que les entreprises développant une IA avancée collaborent avec les pouvoirs publics pour les enjeux de sécurité.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/10/mark-zuckerberg-signe-un-vaste-plaidoyer-en-faveur-de-l-ia-et-annonce-un-fonds-pour-les-villes-accueillant-ses-centres-de-donnees_6743420_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-10T15:41:44.000Z",
+          "fetchedAt": "2026-08-11T02:30:50.026Z"
+        },
+        {
+          "id": "2026-08-10-3118e025",
+          "title": "On a vu Undertone : le film d’horreur A24 que vous n’aviez pas vu venir est une excellente surprise",
+          "description": "Faire peur avec des images, c’est la méthode classique du cinéma d’horreur, qui a déjà fait ses preuves maintes et maintes fois. Mais faire peur avec des sons, seulement des sons, c’est déjà une autre paire de manches. Undertone tente le pari, et c’est une réussite, malgré quelques défauts qui l’empêchent d’être le grand film qu’il aurait pu devenir.",
+          "url": "https://www.numerama.com/pop-culture/2308999-on-a-vu-undertone-le-film-dhorreur-a24-que-vous-naviez-pas-vu-venir-est-une-excellente-surprise.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/undertone-a24.png?resize=1600,900&key=ec3332de",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-10T15:26:48.000Z",
+          "fetchedAt": "2026-08-11T02:30:50.242Z"
+        },
+        {
+          "id": "2026-08-10-a0eb6f5f",
+          "title": "Éclipse solaire du 12 août : peut-on réutiliser ses lunettes de 2026 pour les éclipses de 2027 et 2028 ?",
+          "description": "Ne jetez pas vos lunettes après l’éclipse du 12 août 2026 : elles pourront resservir pour les événements de 2027 et 2028. Voici les précautions à respecter pour les réutiliser sans risque.",
+          "url": "https://www.numerama.com/sciences/2309017-eclipse-solaire-du-12-aout-peut-on-reutiliser-ses-lunettes-de-2026-pour-2027-et-2028.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/lunettes-eclipse.jpg?resize=1600,900&key=d76c46dd",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-10T13:56:47.000Z",
+          "fetchedAt": "2026-08-11T02:30:50.242Z"
+        },
+        {
+          "id": "2026-08-10-8306becf",
+          "title": "Réseaux sociaux : « Nous pouvons concevoir un environnement numérique qui soutienne le bien-être »",
+          "description": "Plutôt que d’interdire ou de limiter l’accès aux plateformes numériques, la psychologue Hedda van ’t Land estime, dans une tribune au « Monde », que les autorités devraient réfléchir à l’environnement numérique comme à un enjeu majeur de santé publique.",
+          "url": "https://www.lemonde.fr/idees/article/2026/08/10/reseaux-sociaux-nous-pouvons-concevoir-un-environnement-numerique-qui-soutienne-le-bien-etre_6743045_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-10T03:45:19.000Z",
+          "fetchedAt": "2026-08-11T02:30:50.026Z"
+        },
+        {
+          "id": "2026-08-09-075b2a4b",
+          "title": "Esports World Cup : à Paris, les champions de jeux vidéo sur mobile très populaires en Asie jouent face à un public clairsemé",
+          "description": "« Honor of Kings », « Mobile Legends » ou encore « Free Fire » n’attirent pas les foules dans les allées du tournoi e-sportif installé porte de Versailles pour l’été. Et ce malgré un intérêt croissant pour ce type de jeux vidéo pensés pour les smartphones et tablettes.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/09/esports-world-cup-a-paris-les-champions-de-jeux-video-sur-mobile-tres-populaires-en-asie-jouent-face-a-un-public-clairseme_6741925_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-09T04:00:13.000Z",
+          "fetchedAt": "2026-08-11T02:30:50.026Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "You could be missing out on £150 off your energy bill - here's how to check",
+      "topic": "Trump Media reports $238m loss as crypto falls",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-09-dba1637c",
-          "title": "You could be missing out on £150 off your energy bill - here's how to check",
-          "description": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
-          "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8926/live/34a4ae50-8cd0-11f1-97f5-93fc85ee9dc4.jpg",
+          "id": "2026-08-11-12569192",
+          "title": "Trump Media reports $238m loss as crypto falls",
+          "description": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+          "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-09T23:47:30.000Z",
-          "fetchedAt": "2026-08-10T02:37:32.750Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-5",
-      "topic": "49ers coach says his Tesla was on Autopilot when he crashed",
-      "category": "tech",
-      "importance": 6,
-      "articles": [
-        {
-          "id": "2026-08-09-7e4104cd",
-          "title": "49ers coach says his Tesla was on Autopilot when he crashed",
-          "description": "Head Coach Kyle Shanahan of the San Francisco 49ers | Image: Michael Zagaris / San Francisco 49ers / Getty Images\t\n\nFour weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about the incident, including the fact that he had his Tesla's Autopilot engaged at the time. Shanahan was not passing the buck, however, saying it was his fault regardless of whether or not Autopilot was engaged. \n\"I've had Autopilot for nine years, so I'm pretty comfortable with it and, you know, who knows what happened when I turned around? Whether it malfunctioned or whether I knocked it off? That's somethi …\n\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275684974.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-08-09T15:56:49.000Z",
-          "fetchedAt": "2026-08-10T02:37:31.347Z"
+          "publishedAt": "2026-08-11T02:21:31.000Z",
+          "fetchedAt": "2026-08-11T02:31:00.728Z"
         }
       ]
     }
