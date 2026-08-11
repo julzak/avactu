@@ -1,0 +1,43 @@
+name: Test SMS (manuel)
+
+# Workflow de test manuel : vérifie que l'envoi SMS OVH fonctionne (crédit, credentials)
+# sans toucher au pipeline de contenu. Par défaut, le SMS part vers JULIEN_PHONE_NUMBER.
+on:
+  workflow_dispatch:
+    inputs:
+      send_to_ava:
+        description: "Envoyer aussi à Ava (sinon Julien uniquement)"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+jobs:
+  test-sms:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      # Le script envoie aux numéros définis dans l'env. Pour le test, le
+      # destinataire "Ava" est remplacé par Julien sauf si send_to_ava=true.
+      - name: Send test SMS
+        env:
+          OVH_SMS_SERVICE: ${{ secrets.OVH_SMS_SERVICE }}
+          OVH_SMS_LOGIN: ${{ secrets.OVH_SMS_LOGIN }}
+          OVH_SMS_PASSWORD: ${{ secrets.OVH_SMS_PASSWORD }}
+          OVH_SMS_SENDER: ${{ secrets.OVH_SMS_SENDER }}
+          AVA_PHONE_NUMBER: ${{ github.event.inputs.send_to_ava == 'true' && secrets.AVA_PHONE_NUMBER || secrets.JULIEN_PHONE_NUMBER }}
+          APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
+        run: npm run send-sms
