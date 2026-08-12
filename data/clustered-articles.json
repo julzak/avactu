@@ -1,308 +1,198 @@
 {
-  "generatedAt": "2026-08-11T02:34:37.303Z",
+  "generatedAt": "2026-08-12T02:51:42.436Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-5",
-      "topic": "Aux Etats-Unis, Donald Trump relance son offensive contre la vaccination",
+      "id": "cluster-2",
+      "topic": "Corée du Nord : nouveau tir de missile balistique avant des manœuvres de Séoul e",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-10-562c9287",
-          "title": "Aux Etats-Unis, Donald Trump relance son offensive contre la vaccination",
-          "description": "Faisant un lien avec l’autisme, le président américain a signé un décret contenant de nouvelles recommandations en matière de vaccins ; il en limite notamment le nombre et demande à espacer leur administration aux enfants.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/11/aux-etats-unis-donald-trump-relance-son-offensive-contre-la-vaccination_6743643_3210.html",
+          "id": "2026-08-12-e9020ed5",
+          "title": "Corée du Nord : nouveau tir de missile balistique avant des manœuvres de Séoul et Washington",
+          "description": "Pyongyang a tiré mercredi un missile balistique vers la mer du Japon, ont annoncé les forces sud-coréennes. Le projectile a parcouru plus de 700 km avant de s'abîmer en mer. Ce deuxième tir en une semaine intervient à quelques jours du lancement d'exercices militaires entre Séoul et Washington, que Pyongyang assimile à des répétitions d'invasion.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260812-coree-du-nord-nouveau-tir-missile-balistique-man%C5%93uvres-seoul-washington",
+          "imageUrl": "https://s.france24.com/media/display/022b9074-95ef-11f1-801d-005056bf30b7/w:1024/p:16x9/AP26224042077065.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T01:59:14.000Z",
+          "fetchedAt": "2026-08-12T02:47:42.126Z"
+        },
+        {
+          "id": "2026-08-11-1f2b8d8d",
+          "title": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul, son deuxième en une semaine",
+          "description": "Cette démonstration de Pyongyang, mercredi 12 août, intervient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-10T23:45:09.000Z",
-          "fetchedAt": "2026-08-11T02:30:36.933Z"
-        },
-        {
-          "id": "2026-08-10-05fcf9a3",
-          "title": "Aux États-Unis, l'offensive de Donald Trump et Robert F. Kennedy Jr contre les vaccins continue",
-          "description": "Le président américain Donald Trump a signé lundi un décret avec de nouvelles recommandations vaccinales pour les enfants. Il appelle en particulier à dissocier les vaccins contre la rougeole, la rubéole et les oreillons, au lieu de les administrer en une injection. La présentation du texte, en présence de son ministre de la Santé connu pour ses positions anti-vaccins, a été émaillée de remarques faisant un lien entre vaccination et autisme.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260810-etats-unis-offensive-donald-trump-robert-f-kennedy-jr-contre-vaccins-continue",
-          "imageUrl": "https://s.france24.com/media/display/c7d372e8-9503-11f1-9df9-005056bfb2b6/w:1024/p:16x9/AP26222701063048.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T21:50:42.000Z",
-          "fetchedAt": "2026-08-11T02:30:36.915Z"
-        },
-        {
-          "id": "2026-08-10-dfc7e460",
-          "title": "États-Unis: la primaire démocrate dans le Wisconsin illustre les divisions au sein du parti",
-          "description": "Une nouvelle série de primaires à travers les États-Unis se tient ce mardi 11 août, en vue des élections de mi-mandat qui se tiendront en novembre. Le Connecticut, le Minnesota, le Vermont ou encore le Wisconsin doivent choisir qui défendra les couleurs des démocrates d'un côté, et des républicains de l'autre pour des postes de gouverneur, de sénateur ou d'élu à la Chambre des représentants. Ce mardi les yeux seront notamment tournés vers le Wisconsin, un « swing state », un état pivot. Une candidate de l'aile gauche des démocrates aimerait représenter son parti pour le poste de gouverneur, mais le scrutin illustre une fois de plus la fracture entre les centristes et les progressistes au sein du parti.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260810-%C3%A9tats-unis-la-primaire-d%C3%A9mocrate-dans-le-wisconsin-illustre-les-divisions-au-sein-du-parti",
-          "imageUrl": "https://s.rfi.fr/media/display/7a7ef850-94d6-11f1-9dd9-005056a90284/w:1024/p:16x9/AP26210038389730.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T16:14:29.000Z",
-          "fetchedAt": "2026-08-11T02:30:49.991Z"
-        },
-        {
-          "id": "2026-08-10-5f245050",
-          "title": "A la frontière entre les Etats-Unis et le Canada, le nouveau pont Gordie-Howe pris au piège des tensions commerciales",
-          "description": "Une nouvelle infrastructure routière relie Detroit, dans le Michigan, à Windsor, en Ontario, depuis le 27 juillet. Conçu pour accélérer les échanges transfrontaliers, l’ouvrage est devenu un symbole du climat orageux entre Washington et Ottawa.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/10/a-la-frontiere-entre-les-etats-unis-et-le-canada-le-nouveau-pont-gordie-howe-pris-au-piege-des-tensions-commerciales_6743423_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T16:00:03.000Z",
-          "fetchedAt": "2026-08-11T02:30:36.933Z"
-        },
-        {
-          "id": "2026-08-10-5880b3b9",
-          "title": "Groenland : derrière un projet pétrolier texan, l'appétit renouvelé de Donald Trump",
-          "description": "Le gouvernement du Groenland a lancé la semaine dernière un \"avertissement ferme\" à une compagnie texane proche de Donald Trump qui a fait débarquer du matériel de forage dans une région reculée de l’île arctique afin d’y extraire du pétrole. Une information qui relance les spéculations autour des velléités expansionnistes de Washington.",
-          "url": "https://www.france24.com/fr/europe/20260810-groenland-derri%C3%A8re-projet-p%C3%A9trolier-texan-app%C3%A9tit-renouvel%C3%A9-donald-trump-greenland-energy",
-          "imageUrl": "https://s.france24.com/media/display/264d8f5e-f9d6-11ef-ae7b-005056bf30b7/w:1024/p:16x9/000_36ZC7WJ.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T15:45:14.000Z",
-          "fetchedAt": "2026-08-11T02:30:36.915Z"
+          "publishedAt": "2026-08-11T23:37:09.000Z",
+          "fetchedAt": "2026-08-12T02:47:42.103Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "EN DIRECT, guerre en Ukraine : nouvelles frappes russes dans la nuit, au moins c",
+      "id": "cluster-3",
+      "topic": "EN DIRECT, guerre en Ukraine : Moscou se prépare à une mobilisation massive d’ic",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-10-2f25df94",
-          "title": "EN DIRECT, guerre en Ukraine : nouvelles frappes russes dans la nuit, au moins cinq morts à Zaporijia",
-          "description": "Kiev et Zaporijia ont été les cibles de nouvelles frappes russes dans la nuit. Cette attaque intervient alors que le président ukrainien, Volodymyr Zelensky, avait affirmé la veille que la Russie se préparait à déployer davantage de soldats nord-coréens sur son territoire et avait reçu de nouveaux missiles balistiques en provenance de Pyongyang.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-nouvelles-frappes-russes-sur-kiev_6741928_3210.html",
+          "id": "2026-08-12-b322b8bd",
+          "title": "EN DIRECT, guerre en Ukraine : Moscou se prépare à une mobilisation massive d’ici la fin de l’année, affirme Volodymyr Zelensky",
+          "description": "Selon le président ukrainien, qui cite des documents internes russes transmis par ses services de renseignement, « plusieurs centaines de milliers de Russes » seront mobilisés « pour l’automne, juste après une simulation d’élections parlementaires ». M. Zelensky a ajouté que son pays se préparait à rendre la mise en œuvre de ces plans aussi difficile que possible.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-moscou-se-prepare-a-une-mobilisation-massive-d-ici-la-fin-de-l-annee-affirme-volodymyr-zelensky_6741928_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-10T22:32:37.000Z",
-          "fetchedAt": "2026-08-11T02:30:36.933Z"
+          "publishedAt": "2026-08-12T00:28:38.000Z",
+          "fetchedAt": "2026-08-12T02:47:42.103Z"
         },
         {
-          "id": "2026-08-10-b78ed1a9",
-          "title": "Ukraine en direct : cinq morts à Zaporijjia, explosions entendues à Kiev",
-          "description": "Une attaque russe nocturne sur Zaporijjia, dans le sud-est de l'Ukraine, a fait au moins cinq morts et 20 blessés tôt mardi, selon les autorités, tandis qu'à Kiev, des explosions ont retenti après l'émission d'une alerte aux missiles. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20260810-en-direct-ukraine-guerre-explosions-attaque-kiev-missiles-russie",
-          "imageUrl": "https://s.france24.com/media/display/131ef16e-9234-11f1-a905-005056a90284/w:1024/p:16x9/2026-08-05T023914Z-1006963943-RC21SMA0C6YF-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T22:19:54.000Z",
-          "fetchedAt": "2026-08-11T02:30:36.915Z"
-        },
-        {
-          "id": "2026-08-10-2e35903c",
-          "title": "La Cour suprême russe interdit au parti antiguerre Iabloko de participer aux élections",
-          "description": "Iabloko, le seul parti russe qui prône des négociations immédiates pour mettre fin au conflit avec l’Ukraine, ne pourra probablement pas présenter de candidats aux prochaines législatives de septembre. La Cour suprême a notamment reconnu qu’il bénéficiait de financements reçus de l’étranger.",
-          "url": "https://www.rfi.fr/fr/europe/20260810-la-cour-supr%C3%AAme-russe-interdit-au-parti-antiguerre-iabloko-de-participer-aux-%C3%A9lections",
-          "imageUrl": "https://s.rfi.fr/media/display/ac264242-94f8-11f1-9170-005056a97e36/w:1024/p:16x9/AP26222624382203.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T20:19:06.000Z",
-          "fetchedAt": "2026-08-11T02:30:49.991Z"
-        },
-        {
-          "id": "2026-08-10-dae79aca",
-          "title": "Des Péruviens pris au piège dans l’armée russe sur le front ukrainien",
-          "description": "La Russie engage des soldats à l’autre bout du monde. Plus de 400 Péruviens ont été enrôlés dans l’armée russe pour combattre en Ukraine. Un recrutement qui passe par de fausses offres d’emplois alléchantes.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260810-des-p%C3%A9ruviens-pris-au-pi%C3%A8ge-dans-l-arm%C3%A9e-russe-sur-le-front-ukrainien",
-          "imageUrl": "https://s.rfi.fr/media/display/310fe962-94e1-11f1-bcb5-005056bfb2b6/w:1024/p:16x9/000-88WV3ZQ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T17:37:39.000Z",
-          "fetchedAt": "2026-08-11T02:30:49.991Z"
-        },
-        {
-          "id": "2026-08-10-20706be6",
-          "title": "« Pour gagner la guerre hybride menée par la Russie contre l’Europe, il faut accepter de terroriser le Kremlin comme lui-même cherche à nous terroriser »",
-          "description": "Dans une tribune au « Monde », l’historien Antoine Arjakovsky appelle la coalition des volontaires et l’Union européenne à répondre coup pour coup aux attaques russes, après l’attaque au drone explosif contre l’aéroport de Leipzig-Halle, en Allemagne.",
-          "url": "https://www.lemonde.fr/idees/article/2026/08/10/pour-gagner-la-guerre-hybride-menee-par-la-russie-contre-l-europe-il-faut-accepter-de-terroriser-le-kremlin-comme-lui-meme-cherche-a-nous-terroriser_6743426_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T16:30:05.000Z",
-          "fetchedAt": "2026-08-11T02:30:36.933Z"
-        },
-        {
-          "id": "2026-08-10-b88d67d2",
-          "title": "Frapper le territoire russe pour faire plier Moscou : le pari incertain de l’Ukraine",
-          "description": "En réponse aux bombardements russes, les forces ukrainiennes frappent désormais quotidiennement la Russie. En visant les raffineries de pétrole et les centres logistiques, l’Ukraine entend déstabiliser le pays. Une puissante attaque de drones lancée dans la nuit du 9 au 10 août a coûté la vie à treize personnes dans la république du Tatarstan. La presse russe s’interroge sur l’effet réel de cette stratégie ukrainienne.",
-          "url": "https://www.courrierinternational.com/article/guerre-frapper-le-territoire-russe-pour-faire-plier-moscou-le-pari-incertain-de-l-ukraine_257477",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/09/0/14/5415/3610/1200/630/60/0/ae775ea_ftp-1-d6qeszsf5mrw-2026-08-09t114327z-2132296491-rc2wuma1wjve-rtrmadp-3-ukraine-crisis-russia-belgorod.JPG",
+          "id": "2026-08-11-20475eb4",
+          "title": "L’unique parti russe opposé à la guerre en Ukraine écarté des élections législatives",
+          "description": "La Cour suprême de Russie a annoncé, lundi 10 août, le retrait de Iabloko de la liste des partis autorisés à participer aux élections législatives de septembre. Née dans les années 1990, cette formation appartenant au champ politique autorisé se distingue par son opposition à la guerre menée contre l’Ukraine. Largement commentée dans les journaux russes, sa mise à l’index augurerait, selon certains, son interdiction pure et simple.",
+          "url": "https://www.courrierinternational.com/article/politique-l-unique-parti-russe-oppose-a-la-guerre-en-ukraine-ecarte-des-elections-legislatives_257931",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/10/0/0/8256/5504/1200/630/60/0/f374f6a_ftp-1-671b53bv77pj-afp-c4c73xh.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-10T15:19:47.000Z",
-          "fetchedAt": "2026-08-11T02:30:37.301Z"
+          "publishedAt": "2026-08-11T16:04:21.000Z",
+          "fetchedAt": "2026-08-12T02:47:42.732Z"
+        },
+        {
+          "id": "2026-08-11-c5fde33d",
+          "title": "Ukraine : Zelensky accuse Moscou d’utiliser des missiles nord-coréens",
+          "description": "De nouvelles frappes russes ont fait au moins 12 morts et plusieurs dizaines de blessés dans la nuit de lundi à mardi en Ukraine, selon les autorités ukrainiennes. Six personnes ont été tuées à Zaporijjia, où 19 autres ont été blessées, tandis que des attaques ont provoqué des incendies à Kyiv. Récit de Julien Dubois.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260811-ukraine-zelensky-accuse-moscou-d-utiliser-des-missiles-nord-cor%C3%A9ens",
+          "imageUrl": "https://s.france24.com/media/display/060e1836-9597-11f1-bca2-005056bf30b7/w:1024/p:16x9/FR-20260811-170312-170500-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-11T15:56:36.000Z",
+          "fetchedAt": "2026-08-12T02:47:42.126Z"
         }
       ]
     },
     {
-      "id": "cluster-18",
-      "topic": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK",
+      "id": "cluster-4",
+      "topic": "Trump's dramatic plane swap hints at personal stakes of Iran war",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-10-7a9a8979",
-          "title": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK",
-          "description": "Les députés turcs ont adopté lundi 10 août une loi historique ouvrant la voie à la réintégration des combattants du Parti des travailleurs du Kurdistan (PKK), étape majeure du processus de paix visant à mettre fin à plus de quatre décennies de guérilla.",
-          "url": "https://www.rfi.fr/fr/europe/20260810-la-turquie-adopte-une-loi-historique-sur-la-r%C3%A9int%C3%A9gration-des-combattants-du-pkk",
-          "imageUrl": "https://s.rfi.fr/media/display/b75bf94e-94fe-11f1-a9bf-005056a97e36/w:1024/p:16x9/000-C4CP6G3.jpg",
-          "source": "RFI",
+          "id": "2026-08-12-c0b3ca3b",
+          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+          "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-08-10T21:29:09.000Z",
-          "fetchedAt": "2026-08-11T02:30:49.991Z"
+          "publishedAt": "2026-08-12T00:14:42.000Z",
+          "fetchedAt": "2026-08-12T02:47:57.420Z"
         },
         {
-          "id": "2026-08-10-99ce6093",
-          "title": "La Turquie adopte une loi historique visant à la réintégration des combattants du PKK",
-          "description": "Les députés turcs ont adopté à une très large majorité, lundi, un texte encadrant le retour à la vie civile des combattants du PKK renonçant aux armes. Cette loi historique ne prévoit toutefois pas d'amnistie générale et ne tranche pas le sort d'Abdullah Öcalan, le fondateur et chef historique de la guérilla kurde emprisonné depuis 1999.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260810-turquie-adopte-loi-historique-reint%C3%A9gration-combattants-pkk-abdullah-ocalan",
-          "imageUrl": "https://s.france24.com/media/display/cb2eb242-9501-11f1-a08b-005056a90284/w:1024/p:16x9/000-C4CQ7NR.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T21:26:41.000Z",
-          "fetchedAt": "2026-08-11T02:30:36.915Z"
-        },
-        {
-          "id": "2026-08-10-dc9cbfdf",
-          "title": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK ; le sort d’Abdullah Öcalan reste à régler",
-          "description": "Le fondateur de la guérilla kurde du Parti des travailleurs du Kurdistan, Abdullah Öcalan, 77 ans, condamné à la prison à vie, avait appelé l’an passé les combattants du PKK à déposer les armes.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/10/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-le-sort-d-abdullah-ocalan-reste-a-regler_6743543_3210.html",
+          "id": "2026-08-11-81968956",
+          "title": "L’armée américaine dit avoir tiré sur un navire qui violait son blocus des ports iraniens",
+          "description": "C’est la troisième fois que l’armée américaine utilise la force pour faire respecter son blocus des ports iraniens. Depuis sa remise en place, le 14 juillet, les forces américaines affirment avoir redirigé 55 navires qui tentaient de passer.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/11/l-armee-americaine-dit-avoir-tire-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens_6744297_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-10T20:01:23.000Z",
-          "fetchedAt": "2026-08-11T02:30:36.933Z"
-        },
-        {
-          "id": "2026-08-10-d42d95b9",
-          "title": "Ocasio-Cortez évoque la congélation de ses ovocytes et n’exclut pas une campagne présidentielle",
-          "description": "La représentante de gauche Alexandria Ocasio-Cortez a donné dimanche 9 août une importante interview dans laquelle elle n’exclut pas de se présenter à la présidentielle de 2028. Dans une série de vidéos postées la veille, elle avait partagé sa décision de congeler ses ovocytes, allant jusqu’à en détailler la procédure.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-ocasio-cortez-evoque-la-congelation-de-ses-ovocytes-et-n-exclut-pas-une-campagne-presidentielle_257487",
-          "imageUrl": "https://focus.courrierinternational.com/2026/07/22/0/0/4000/2666/1200/630/60/0/feb7204_ftp-1-4lkwebrzwqfg-2026-07-22t230538z-1073949601-rc29jmazi44x-rtrmadp-3-usa-defense-congress.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T13:43:52.000Z",
-          "fetchedAt": "2026-08-11T02:30:37.301Z"
-        },
-        {
-          "id": "2026-08-10-7e9743a1",
-          "title": "La tapisserie de Bayeux, mille ans d’histoire et un défi : les nids-de-poule anglais",
-          "description": "Pour arriver jusqu’au British Museum à Londres le vendredi 10 juillet, l’œuvre brodée a dû rouler sur les routes d’Angleterre, parfois en mauvais état. Pour éviter que les vibrations ne la détériorent, des tests et des recherches approfondies ont été menés, rapporte “The Daily Telegraph”.",
-          "url": "https://www.courrierinternational.com/article/culture-la-tapisserie-de-bayeux-mille-ans-d-histoire-et-un-defi-les-nids-de-poule-anglais_257475",
-          "imageUrl": "https://focus.courrierinternational.com/2025/07/09/0/2/2347/1565/1200/630/60/0/8ffbef2_ftp-import-images-1-j825o3jnzogm-2025-07-09t085930z-2005213025-rc29sg8fhbrp-rtrmadp-3-britain-france-bayeux-tapestry.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T13:17:42.000Z",
-          "fetchedAt": "2026-08-11T02:30:37.301Z"
-        },
-        {
-          "id": "2026-08-10-bb85d4ad",
-          "title": "Fifa: le football «n'appartient à aucun individu», plaident UEFA, Concacaf et AFC dans une lettre ouverte",
-          "description": "Le football «n'appartient à aucun individu», écrivent lundi 10 août les confédérations européenne (UEFA), nord-américaine (Concacaf) et asiatique (AFC), désavouant un peu plus le patron de la Fifa Gianni Infantino après le retrait de son projet d'ouverture à des investisseurs privés.",
-          "url": "https://www.rfi.fr/fr/sports/20260810-fifa-le-football-n-appartient-%C3%A0-aucun-individu-plaident-uefa-concacaf-et-afc-dans-une-lettre-ouverte",
-          "imageUrl": "https://s.rfi.fr/media/display/2a116de0-8cd8-11f1-b7ff-005056bf30b7/w:1024/p:16x9/AP-Eduardo-Verdug.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-10T11:10:50.000Z",
-          "fetchedAt": "2026-08-11T02:30:49.991Z"
+          "publishedAt": "2026-08-11T19:38:57.000Z",
+          "fetchedAt": "2026-08-12T02:47:42.103Z"
         }
       ]
     },
     {
-      "id": "cluster-15",
-      "topic": "Le témoignage d’une femme recueilli par « Le Monde » met en cause Guillaume Pley",
+      "id": "cluster-6",
+      "topic": "Russian drones found near vital European offshore gas site, get blown up",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-10-21b63966",
-          "title": "Le témoignage d’une femme recueilli par « Le Monde » met en cause Guillaume Pley pour des messages à caractère sexuel lui étant adressés alors qu’elle était mineure",
-          "description": "« Le Monde » a pu consulter des conversations datées de 2011 sur la messagerie Facebook de Guillaume Pley entre celui-ci et une adolescente de 14 ans. Dans les messages sont évoqués la possibilité d’un « plan à trois » et l’éventualité que l’adolescente fasse sa « première fois » avec lui.",
-          "url": "https://www.lemonde.fr/pixels/video/2026/08/10/le-temoignage-d-une-femme-recueilli-par-le-monde-met-en-cause-guillaume-pley-pour-des-messages-a-caractere-sexuel-lui-etant-adresses-alors-qu-elle-etait-mineure_6743435_4408996.html",
+          "id": "2026-08-11-9d13cc35",
+          "title": "Russian drones found near vital European offshore gas site, get blown up",
+          "description": "This follows many drone incursions into Romania and a failed attack in Germany.",
+          "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM.png",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-08-11T21:20:11.000Z",
+          "fetchedAt": "2026-08-12T02:48:01.375Z"
+        },
+        {
+          "id": "2026-08-11-90c29202",
+          "title": "Meta face à un procès civil à haut risque financier",
+          "description": "Le groupe propriétaire de Facebook et d’Instagram, accusé de favoriser l’addiction aux réseaux sociaux, comparaît en Californie à partir de mercredi. Poursuivie par quatre Etats américains, la firme de Mark Zuckerberg risque une lourde sanction financière.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/11/meta-face-a-un-proces-a-hauts-risques-financiers_6744194_4408996.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-08-10T17:22:10.000Z",
-          "fetchedAt": "2026-08-11T02:30:50.026Z"
+          "publishedAt": "2026-08-11T18:08:56.000Z",
+          "fetchedAt": "2026-08-12T02:47:57.602Z"
         },
         {
-          "id": "2026-08-10-817f6688",
-          "title": "Mark Zuckerberg signe un plaidoyer en faveur de l’IA et annonce un fonds pour les villes accueillant ses centres de données",
-          "description": "Le dirigeant de Meta, possédant Facebook, Instagram et WhatsApp, défend un accès le plus large possible à l’IA et propose que les entreprises développant une IA avancée collaborent avec les pouvoirs publics pour les enjeux de sécurité.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/10/mark-zuckerberg-signe-un-vaste-plaidoyer-en-faveur-de-l-ia-et-annonce-un-fonds-pour-les-villes-accueillant-ses-centres-de-donnees_6743420_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-10T15:41:44.000Z",
-          "fetchedAt": "2026-08-11T02:30:50.026Z"
-        },
-        {
-          "id": "2026-08-10-3118e025",
-          "title": "On a vu Undertone : le film d’horreur A24 que vous n’aviez pas vu venir est une excellente surprise",
-          "description": "Faire peur avec des images, c’est la méthode classique du cinéma d’horreur, qui a déjà fait ses preuves maintes et maintes fois. Mais faire peur avec des sons, seulement des sons, c’est déjà une autre paire de manches. Undertone tente le pari, et c’est une réussite, malgré quelques défauts qui l’empêchent d’être le grand film qu’il aurait pu devenir.",
-          "url": "https://www.numerama.com/pop-culture/2308999-on-a-vu-undertone-le-film-dhorreur-a24-que-vous-naviez-pas-vu-venir-est-une-excellente-surprise.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/undertone-a24.png?resize=1600,900&key=ec3332de",
+          "id": "2026-08-11-88ac8d2d",
+          "title": "J’ai joué à Star Wars Zero Company : c’est l’un des meilleurs jeux Star Wars",
+          "description": "Marre des grands discours sur la Force et les duels au sabre rutilant ? Star Wars Zero Company prend le pari du cambouis, du sang d'extraterrestre et de la boue des tranchées. En confiant les clés de la tactique au tour par tour au studio Bit Reactor, Electronic Arts ne livre pas un simple clone habillé de lasers de couleur, mais une relecture brutale, tendue et nerveuse de la formule XCOM. Après plusieurs heures à suer à la moindre décision d'engagement, une certitude s'impose : la surprise tactique de l'année est bien là.",
+          "url": "https://www.numerama.com/pop-culture/2309071-jai-joue-a-star-wars-zero-company-cest-lun-des-meilleurs-jeux-star-wars.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/04/capture-decran-2025-04-15-a-100311.jpg?resize=1600,900&key=3954d096",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-08-10T15:26:48.000Z",
-          "fetchedAt": "2026-08-11T02:30:50.242Z"
+          "publishedAt": "2026-08-11T14:05:00.000Z",
+          "fetchedAt": "2026-08-12T02:47:57.652Z"
         },
         {
-          "id": "2026-08-10-a0eb6f5f",
-          "title": "Éclipse solaire du 12 août : peut-on réutiliser ses lunettes de 2026 pour les éclipses de 2027 et 2028 ?",
-          "description": "Ne jetez pas vos lunettes après l’éclipse du 12 août 2026 : elles pourront resservir pour les événements de 2027 et 2028. Voici les précautions à respecter pour les réutiliser sans risque.",
-          "url": "https://www.numerama.com/sciences/2309017-eclipse-solaire-du-12-aout-peut-on-reutiliser-ses-lunettes-de-2026-pour-2027-et-2028.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/lunettes-eclipse.jpg?resize=1600,900&key=d76c46dd",
+          "id": "2026-08-11-2e3aaa57",
+          "title": "N26 lance enfin Wero : un an après Revolut, la banque mobile rattrape son retard",
+          "description": "N26 annonce le 11 août 2026 l'arrivée de Wero dans son application, en France et en Allemagne. La banque mobile allemande était la dernière grande absente du portefeuille européen porté par l'EPI, un an après son rival Revolut.",
+          "url": "https://www.numerama.com/tech/2309707-n26-lance-enfin-wero-un-an-apres-revolut-la-banque-mobile-rattrape-son-retard.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/wero-n26.png?resize=1600,900&key=bd40298e",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-08-10T13:56:47.000Z",
-          "fetchedAt": "2026-08-11T02:30:50.242Z"
+          "publishedAt": "2026-08-11T13:25:00.000Z",
+          "fetchedAt": "2026-08-12T02:47:57.652Z"
         },
         {
-          "id": "2026-08-10-8306becf",
-          "title": "Réseaux sociaux : « Nous pouvons concevoir un environnement numérique qui soutienne le bien-être »",
-          "description": "Plutôt que d’interdire ou de limiter l’accès aux plateformes numériques, la psychologue Hedda van ’t Land estime, dans une tribune au « Monde », que les autorités devraient réfléchir à l’environnement numérique comme à un enjeu majeur de santé publique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/08/10/reseaux-sociaux-nous-pouvons-concevoir-un-environnement-numerique-qui-soutienne-le-bien-etre_6743045_3232.html",
+          "id": "2026-08-11-32daee2f",
+          "title": "Pourquoi l’IA provoque un nouveau séisme dans les médias, fragilisés par vingt ans de mutations numériques",
+          "description": "Le déferlement de l’intelligence artificielle, qui pille les contenus journalistiques, favorise les deepfakes et bouleverse la façon de s’informer, met à l’épreuve ce secteur où les plans sociaux se multiplient.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/11/pourquoi-l-ia-provoque-un-nouveau-seisme-dans-les-medias-fragilises-par-vingt-ans-de-mutations-numeriques_6743753_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-08-10T03:45:19.000Z",
-          "fetchedAt": "2026-08-11T02:30:50.026Z"
+          "publishedAt": "2026-08-11T04:00:22.000Z",
+          "fetchedAt": "2026-08-12T02:47:57.602Z"
         },
         {
-          "id": "2026-08-09-075b2a4b",
-          "title": "Esports World Cup : à Paris, les champions de jeux vidéo sur mobile très populaires en Asie jouent face à un public clairsemé",
-          "description": "« Honor of Kings », « Mobile Legends » ou encore « Free Fire » n’attirent pas les foules dans les allées du tournoi e-sportif installé porte de Versailles pour l’été. Et ce malgré un intérêt croissant pour ce type de jeux vidéo pensés pour les smartphones et tablettes.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/09/esports-world-cup-a-paris-les-champions-de-jeux-video-sur-mobile-tres-populaires-en-asie-jouent-face-a-un-public-clairseme_6741925_4408996.html",
+          "id": "2026-08-11-7542a000",
+          "title": "Meta sanctionnée pour destruction de preuves dans une affaire de publicités frauduleuses",
+          "description": "Un juge fédéral californien a estimé que la société a bien détruit ou laissé s’effacer des données essentielles dans une affaire l’opposant au milliardaire australien, Andrew Forrest, qui accuse la maison mère de Facebook d’avoir laissé prospérer de faux contenus numériques utilisant son image.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/11/meta-sanctionne-pour-destruction-de-preuves-dans-une-affaire-de-publicites-frauduleuses_6743711_4408996.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-08-09T04:00:13.000Z",
-          "fetchedAt": "2026-08-11T02:30:50.026Z"
+          "publishedAt": "2026-08-11T03:25:01.000Z",
+          "fetchedAt": "2026-08-12T02:47:57.602Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Trump Media reports $238m loss as crypto falls",
+      "topic": "Tokenomics: Why making AI pay is tricky",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-11-12569192",
-          "title": "Trump Media reports $238m loss as crypto falls",
-          "description": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
-          "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg",
+          "id": "2026-08-11-7d0a0d5e",
+          "title": "Tokenomics: Why making AI pay is tricky",
+          "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+          "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-11T02:21:31.000Z",
-          "fetchedAt": "2026-08-11T02:31:00.728Z"
+          "publishedAt": "2026-08-11T23:03:52.000Z",
+          "fetchedAt": "2026-08-12T02:48:06.126Z"
         }
       ]
     }
