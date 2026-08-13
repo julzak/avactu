@@ -1,198 +1,231 @@
 {
-  "generatedAt": "2026-08-12T02:51:42.436Z",
+  "generatedAt": "2026-08-13T03:06:04.257Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Corée du Nord : nouveau tir de missile balistique avant des manœuvres de Séoul e",
+      "id": "cluster-1",
+      "topic": "Dialogue au Venezuela : pouvoir et opposition esquissent un accord sur une réfor",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-12-e9020ed5",
-          "title": "Corée du Nord : nouveau tir de missile balistique avant des manœuvres de Séoul et Washington",
-          "description": "Pyongyang a tiré mercredi un missile balistique vers la mer du Japon, ont annoncé les forces sud-coréennes. Le projectile a parcouru plus de 700 km avant de s'abîmer en mer. Ce deuxième tir en une semaine intervient à quelques jours du lancement d'exercices militaires entre Séoul et Washington, que Pyongyang assimile à des répétitions d'invasion.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20260812-coree-du-nord-nouveau-tir-missile-balistique-man%C5%93uvres-seoul-washington",
-          "imageUrl": "https://s.france24.com/media/display/022b9074-95ef-11f1-801d-005056bf30b7/w:1024/p:16x9/AP26224042077065.jpg",
+          "id": "2026-08-13-4047f784",
+          "title": "Dialogue au Venezuela : pouvoir et opposition esquissent un accord sur une réforme de la justice",
+          "description": "Le pouvoir et l'opposition vénézuélienne ont conclu mercredi leur premier cycle de dialogue, s'accordant sur un processus de réforme judiciaire et la récupération d'actifs gelés au Royaume-Uni. Même si les États-Unis ne sont pas à la table des négociations, ils sont très présents dans les discussions et ont été sollicités à plusieurs reprises comme \"médiateurs\" lors de points d'achoppement.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260813-dialogue-venezuela-pouvoir-opposition-accord-reforme-justice-dinorah-figuera-jorge-rodriguez",
+          "imageUrl": "https://s.france24.com/media/display/99537dd4-96be-11f1-9f8a-005056bfb2b6/w:1024/p:16x9/2026-08-13T013607Z-245192221-RC2BXMAV5KHG-RTRMADP-3-VENEZUELA-POLITICS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-12T01:59:14.000Z",
-          "fetchedAt": "2026-08-12T02:47:42.126Z"
+          "publishedAt": "2026-08-13T02:37:56.000Z",
+          "fetchedAt": "2026-08-13T03:02:03.634Z"
         },
         {
-          "id": "2026-08-11-1f2b8d8d",
-          "title": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul, son deuxième en une semaine",
-          "description": "Cette démonstration de Pyongyang, mercredi 12 août, intervient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-08-12-7d0c71f8",
+          "title": "Irlande: la tendance des injections de botox chez les jeunes femmes",
+          "description": "Votre Botox ne vient pas de Beverly Hills en Californie, mais d’une petite ville battue par les vents, à l’ouest de l’Irlande. C’est à Westport qu’en 1977 le géant américain Allergan s’installe, pour produire la célèbre toxine qui lisse les rides. Dans cette usine, chaque étape est minutieusement contrôlée, selon des normes strictes. Mais un contraste saisissant émerge ailleurs dans le pays. En Irlande, sur les réseaux sociaux, les annonces d’injections se multiplient, proposées parfois par des personnes non qualifiées…",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260812-irlande-la-tendance-des-injections-de-botox-chez-les-jeunes-femmes",
+          "imageUrl": "https://s.rfi.fr/media/display/cbf975d4-9689-11f1-9796-005056a90284/w:1024/p:16x9/AP26124705072335.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-11T23:37:09.000Z",
-          "fetchedAt": "2026-08-12T02:47:42.103Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "EN DIRECT, guerre en Ukraine : Moscou se prépare à une mobilisation massive d’ic",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-12-b322b8bd",
-          "title": "EN DIRECT, guerre en Ukraine : Moscou se prépare à une mobilisation massive d’ici la fin de l’année, affirme Volodymyr Zelensky",
-          "description": "Selon le président ukrainien, qui cite des documents internes russes transmis par ses services de renseignement, « plusieurs centaines de milliers de Russes » seront mobilisés « pour l’automne, juste après une simulation d’élections parlementaires ». M. Zelensky a ajouté que son pays se préparait à rendre la mise en œuvre de ces plans aussi difficile que possible.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-moscou-se-prepare-a-une-mobilisation-massive-d-ici-la-fin-de-l-annee-affirme-volodymyr-zelensky_6741928_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-12T00:28:38.000Z",
-          "fetchedAt": "2026-08-12T02:47:42.103Z"
+          "publishedAt": "2026-08-12T22:14:31.000Z",
+          "fetchedAt": "2026-08-13T03:02:13.543Z"
         },
         {
-          "id": "2026-08-11-20475eb4",
-          "title": "L’unique parti russe opposé à la guerre en Ukraine écarté des élections législatives",
-          "description": "La Cour suprême de Russie a annoncé, lundi 10 août, le retrait de Iabloko de la liste des partis autorisés à participer aux élections législatives de septembre. Née dans les années 1990, cette formation appartenant au champ politique autorisé se distingue par son opposition à la guerre menée contre l’Ukraine. Largement commentée dans les journaux russes, sa mise à l’index augurerait, selon certains, son interdiction pure et simple.",
-          "url": "https://www.courrierinternational.com/article/politique-l-unique-parti-russe-oppose-a-la-guerre-en-ukraine-ecarte-des-elections-legislatives_257931",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/10/0/0/8256/5504/1200/630/60/0/f374f6a_ftp-1-671b53bv77pj-afp-c4c73xh.jpg",
+          "id": "2026-08-12-3ef026fc",
+          "title": "Les actrices des luttes anticoloniales: Andrée Blouin, influente conseillère et mobilisatrice de réseaux féminins [4/10]",
+          "description": "La suite de notre série sur les actrices oubliées de la décolonisation. Nous nous penchons aujourd'hui sur le parcours d'Andrée Blouin, enfant métisse née en Centrafrique, qui a fait ses premiers pas en politique en Guinée et est devenue une influente conseillère de Patrice Lumumba au moment de l'indépendance du Congo. Le récit de Laurent Correau.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260812-les-actrices-des-luttes-anticoloniales-andr%C3%A9e-blouin-influente-conseill%C3%A8re-et-mobilisatrice-de-r%C3%A9seaux-f%C3%A9minins-4-10",
+          "imageUrl": "https://s.rfi.fr/media/display/7471096a-969a-11f1-9105-005056bfb2b6/w:1024/p:16x9/andr%C3%A9e-blouin.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T22:13:20.000Z",
+          "fetchedAt": "2026-08-13T03:02:13.543Z"
+        },
+        {
+          "id": "2026-08-12-b7e68f29",
+          "title": "Portraits des diasporas africaines: Christian-Brice Ondo, un éditeur gabonais dans la cour des grands [4/5]",
+          "description": "Chirurgienne, patineuse, éditeur, pâtissier, leurs parcours singuliers racontent la France d’aujourd’hui, riche de ses talents et de ses diversités. Né(e)s ici ou venus d’ailleurs, ces femmes et ces hommes inspirent par leur engagement et leur réussite. Leurs portraits sont autant de modèles pour les générations futures. Dans ce quatrième épisode, le Gabonais Christian-Brice Ondo nous raconte comment à 51 ans il mène une carrière d'éditeur. Depuis 2021, il dirige sa propre maison d'édition, Obangame. À taille humaine. Sa particularité : éditer ses « coups de cœur » et surtout donner de la visibilité aux auteurs afro-descendants.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20260812-portraits-des-diasporas-africaines-christian-brice-ondo-un-%C3%A9diteur-gabonais-dans-la-cour-des-grands-4-5",
+          "imageUrl": "https://s.rfi.fr/media/display/19883a0e-9678-11f1-8e75-005056bfb2b6/w:1024/p:16x9/24a824fe-ec9b-477b-9727-0dc0a15bbea5.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T22:12:13.000Z",
+          "fetchedAt": "2026-08-13T03:02:13.543Z"
+        },
+        {
+          "id": "2026-08-12-839b8f77",
+          "title": "Éclipse solaire totale: des millions de personnes émerveillées devant un phénomène astronomique rare",
+          "description": "Des millions d'Européens ont contemplé ce mardi 12 août le ciel avec émerveillement lors d'une rare éclipse solaire totale qui a plongé une partie de l'Espagne dans une étrange obscurité en plein jour. L'ombre projetée par la Lune recouvrant le Soleil est apparue dans les régions reculées de l'Arctique russe vers 17h00 TU et a poursuivi sa course en arc de cercle à travers le Groenland et l'Islande. C'est en Espagne que le plus grand nombre de personnes ont observé l'éclipse totale, qui a traversé le pays en diagonale, de la côte atlantique nord jusqu'à la mer Méditerranée, où elle s'est achevée vers 18h30 TU.",
+          "url": "https://www.rfi.fr/fr/science/20260812-d%C3%A9but-de-l-%C3%A9clipse-solaire-aux-confins-de-l-arctique-russe",
+          "imageUrl": "https://s.rfi.fr/media/display/6a2cb854-967d-11f1-9a00-005056bf30b7/w:1024/p:16x9/000-C4HN6NN.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T17:30:09.000Z",
+          "fetchedAt": "2026-08-13T03:02:13.543Z"
+        },
+        {
+          "id": "2026-08-12-f0198036",
+          "title": "Nigel Farage vers une victoire dans une drôle d’élection que “personne ne trouve marrante”",
+          "description": "Dans une ambiance étrange, le leader de la droite populiste britannique devrait redevenir le député de Clacton-on-Sea jeudi 13 août, un mois après sa démission. Aucun grand parti n’a souhaité participer au scrutin “peuple contre élite” appelé de ses vœux. À la place, Farage affronte un nombre record de 33 candidats, pour beaucoup parodiques.",
+          "url": "https://www.courrierinternational.com/article/royaume-uni-nigel-farage-vers-une-victoire-dans-une-drole-d-election-que-personne-ne-trouve-marrante_258200",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/06/0/0/5500/3666/1200/630/60/0/d327b0f_ftp-1-dhnwgrwxbvhy-2026-08-06t172103z-1183343334-rc23tmasdxdr-rtrmadp-3-britain-politics-clacton.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-11T16:04:21.000Z",
-          "fetchedAt": "2026-08-12T02:47:42.732Z"
-        },
-        {
-          "id": "2026-08-11-c5fde33d",
-          "title": "Ukraine : Zelensky accuse Moscou d’utiliser des missiles nord-coréens",
-          "description": "De nouvelles frappes russes ont fait au moins 12 morts et plusieurs dizaines de blessés dans la nuit de lundi à mardi en Ukraine, selon les autorités ukrainiennes. Six personnes ont été tuées à Zaporijjia, où 19 autres ont été blessées, tandis que des attaques ont provoqué des incendies à Kyiv. Récit de Julien Dubois.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260811-ukraine-zelensky-accuse-moscou-d-utiliser-des-missiles-nord-cor%C3%A9ens",
-          "imageUrl": "https://s.france24.com/media/display/060e1836-9597-11f1-bca2-005056bf30b7/w:1024/p:16x9/FR-20260811-170312-170500-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-11T15:56:36.000Z",
-          "fetchedAt": "2026-08-12T02:47:42.126Z"
+          "publishedAt": "2026-08-12T15:16:31.000Z",
+          "fetchedAt": "2026-08-13T03:02:04.046Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "id": "cluster-2",
+      "topic": "L’administration Trump annule un rapport de référence sur l’Arctique, une nouvel",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-12-c0b3ca3b",
-          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-          "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-          "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-12T00:14:42.000Z",
-          "fetchedAt": "2026-08-12T02:47:57.420Z"
-        },
-        {
-          "id": "2026-08-11-81968956",
-          "title": "L’armée américaine dit avoir tiré sur un navire qui violait son blocus des ports iraniens",
-          "description": "C’est la troisième fois que l’armée américaine utilise la force pour faire respecter son blocus des ports iraniens. Depuis sa remise en place, le 14 juillet, les forces américaines affirment avoir redirigé 55 navires qui tentaient de passer.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/11/l-armee-americaine-dit-avoir-tire-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens_6744297_3210.html",
+          "id": "2026-08-13-c087131d",
+          "title": "L’administration Trump annule un rapport de référence sur l’Arctique, une nouvelle atteinte à la science du climat aux Etats-Unis",
+          "description": "Publié chaque année depuis 2006, ce document est très estimé par la communauté scientifique, qui subit l’offensive climatosceptique du gouvernement américain.",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/13/l-administration-trump-annule-un-rapport-de-reference-sur-l-arctique-une-nouvelle-atteinte-a-la-science-du-climat-aux-etats-unis_6745334_3244.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-11T19:38:57.000Z",
-          "fetchedAt": "2026-08-12T02:47:42.103Z"
+          "publishedAt": "2026-08-13T02:00:17.000Z",
+          "fetchedAt": "2026-08-13T03:02:03.548Z"
+        },
+        {
+          "id": "2026-08-12-41f3cd00",
+          "title": "La Colombie autorise des opérations antidrogue conjointes avec les Etats-Unis",
+          "description": "Elu sur la promesse d’éradiquer les groupes impliqués dans le narcotrafic, le nouveau président colombien, Abelardo de la Espriella, est un allié de son homologue américain, Donald Trump. Cet accord, annoncé mercredi 12 août, permet à Washington d’accélérer sa lutte contre le trafic de drogue en Amérique latine.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/13/la-colombie-autorise-des-operations-antidrogue-conjointes-avec-les-etats-unis_6745169_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T22:41:37.000Z",
+          "fetchedAt": "2026-08-13T03:02:03.548Z"
+        },
+        {
+          "id": "2026-08-12-d0fa745d",
+          "title": "Karoline Leavitt, porte-parole de la Maison Blanche et trumpiste convaincue, va quitter son poste",
+          "description": "Karoline Leavitt, porte-parole de la Maison Blanche, quittera ses fonctions à la fin du mois pour consacrer davantage de temps à son rôle de maman. La plus jeune \"Press Secretary\" de l'histoire américaine, âgée de 28 ans, restera active politiquement en tant que \"conseillère externe\" du président.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260812-karoline-leavitt-porte-parole-maison-blanche-trumpiste-convaincue-demission-quitte-poste-maman",
+          "imageUrl": "https://s.france24.com/media/display/15393d00-9695-11f1-b064-005056bfb2b6/w:1024/p:16x9/AP26206119141832.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T21:32:33.000Z",
+          "fetchedAt": "2026-08-13T03:02:03.634Z"
+        },
+        {
+          "id": "2026-08-12-486b02ab",
+          "title": "En Libye, le retour diplomatique des Américains, après quinze ans d’effacement",
+          "description": "Le conseiller spécial de Donald Trump pour les affaires arabes et africaines, Massad Boulos, cherche un accord entre les familles Haftar et Dbeibah, qui se partagent le pays.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/12/en-libye-le-retour-diplomatique-des-americains-apres-quinze-ans-d-effacement_6745089_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T17:00:02.000Z",
+          "fetchedAt": "2026-08-13T03:02:03.548Z"
+        },
+        {
+          "id": "2026-08-12-e388f77f",
+          "title": "Rwanda : Nyakabingo, mine de tungstène stratégique pour la défense américaine.",
+          "description": "🇷🇼 Au Rwanda, la mine de Nyakabingo est devenue en quelques mois l’un des principaux fournisseurs de tungstène des États-Unis. Ce métal stratégique, indispensable à l’industrie de défense, pourrait prendre une importance croissante alors que Washington prévoit de bannir les approvisionnements chinois destinés à ses usages militaires.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260812-rwanda-nyakabingo-mine-de-tungst%C3%A8ne-strat%C3%A9gique-pour-la-d%C3%A9fense-am%C3%A9ricaine",
+          "imageUrl": "https://s.france24.com/media/display/55735ae8-965b-11f1-aa05-005056a97e36/w:1024/p:16x9/RWANDA-00-00-00-10-Still002.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T15:59:47.000Z",
+          "fetchedAt": "2026-08-13T03:02:03.634Z"
+        },
+        {
+          "id": "2026-08-12-9cf3f331",
+          "title": "Pologne : les données de la moitié de la population exposées par une cyberattaque",
+          "description": "Les premiers éléments privilégient la piste de cybercriminels agissant dans un but financier, a estimé le ministre de la numérisation, qui a exclu le paiement de toute rançon et promis de poursuivre « sans relâche » les auteurs.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/12/pologne-les-donnees-de-la-moitie-de-la-population-exposees-par-une-cyberattaque_6745073_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T14:51:11.000Z",
+          "fetchedAt": "2026-08-13T03:02:03.548Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "Russian drones found near vital European offshore gas site, get blown up",
+      "id": "cluster-9",
+      "topic": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-12-d06603e0",
+          "title": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
+          "description": "Les conditions météorologiques compliquent les opérations pour contenir une fuite de pétrole provoquée par l’échouement, en juin, d’un navire soupçonné de faire partie de la « flotte fantôme » russe.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T23:45:58.000Z",
+          "fetchedAt": "2026-08-13T03:02:03.548Z"
+        },
+        {
+          "id": "2026-08-12-e8ba5da7",
+          "title": "Pétrolier échoué au large d'Oman : la marée noire a atteint les côtes",
+          "description": "Les fuites d'un pétrolier échoué au large d'Oman, soupçonné d'appartenir à la \"flotte fantôme\" russe, ont atteint les côtes omanaises, menaçant jusqu'à 40 kilomètres de rives. La mousson complique les opérations pour contenir cette marée noire qui menace une réserve naturelle protégée.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260812-petrolier-echoue-large-oman-maree-noire-atteint-cotes-environnement-pollution",
+          "imageUrl": "https://s.france24.com/media/display/bf00afc8-9698-11f1-b878-005056bfb2b6/w:1024/p:16x9/AP26220444134178.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-12T21:57:56.000Z",
+          "fetchedAt": "2026-08-13T03:02:03.634Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "Twitch content has trained Amazon AI for years, but users can opt out now",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-11-9d13cc35",
-          "title": "Russian drones found near vital European offshore gas site, get blown up",
-          "description": "This follows many drone incursions into Romania and a failed attack in Germany.",
-          "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM.png",
+          "id": "2026-08-12-54035baf",
+          "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+          "description": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+          "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
           "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-08-11T21:20:11.000Z",
-          "fetchedAt": "2026-08-12T02:48:01.375Z"
+          "publishedAt": "2026-08-12T21:00:30.000Z",
+          "fetchedAt": "2026-08-13T03:02:16.578Z"
         },
         {
-          "id": "2026-08-11-90c29202",
-          "title": "Meta face à un procès civil à haut risque financier",
-          "description": "Le groupe propriétaire de Facebook et d’Instagram, accusé de favoriser l’addiction aux réseaux sociaux, comparaît en Californie à partir de mercredi. Poursuivie par quatre Etats américains, la firme de Mark Zuckerberg risque une lourde sanction financière.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/11/meta-face-a-un-proces-a-hauts-risques-financiers_6744194_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-08-12-da3ea3db",
+          "title": "Twitch streamers can now opt out from training Amazon’s AI",
+          "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page.\nOther \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch  …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-08-11T18:08:56.000Z",
-          "fetchedAt": "2026-08-12T02:47:57.602Z"
-        },
-        {
-          "id": "2026-08-11-88ac8d2d",
-          "title": "J’ai joué à Star Wars Zero Company : c’est l’un des meilleurs jeux Star Wars",
-          "description": "Marre des grands discours sur la Force et les duels au sabre rutilant ? Star Wars Zero Company prend le pari du cambouis, du sang d'extraterrestre et de la boue des tranchées. En confiant les clés de la tactique au tour par tour au studio Bit Reactor, Electronic Arts ne livre pas un simple clone habillé de lasers de couleur, mais une relecture brutale, tendue et nerveuse de la formule XCOM. Après plusieurs heures à suer à la moindre décision d'engagement, une certitude s'impose : la surprise tactique de l'année est bien là.",
-          "url": "https://www.numerama.com/pop-culture/2309071-jai-joue-a-star-wars-zero-company-cest-lun-des-meilleurs-jeux-star-wars.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/04/capture-decran-2025-04-15-a-100311.jpg?resize=1600,900&key=3954d096",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-11T14:05:00.000Z",
-          "fetchedAt": "2026-08-12T02:47:57.652Z"
-        },
-        {
-          "id": "2026-08-11-2e3aaa57",
-          "title": "N26 lance enfin Wero : un an après Revolut, la banque mobile rattrape son retard",
-          "description": "N26 annonce le 11 août 2026 l'arrivée de Wero dans son application, en France et en Allemagne. La banque mobile allemande était la dernière grande absente du portefeuille européen porté par l'EPI, un an après son rival Revolut.",
-          "url": "https://www.numerama.com/tech/2309707-n26-lance-enfin-wero-un-an-apres-revolut-la-banque-mobile-rattrape-son-retard.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/wero-n26.png?resize=1600,900&key=bd40298e",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-11T13:25:00.000Z",
-          "fetchedAt": "2026-08-12T02:47:57.652Z"
-        },
-        {
-          "id": "2026-08-11-32daee2f",
-          "title": "Pourquoi l’IA provoque un nouveau séisme dans les médias, fragilisés par vingt ans de mutations numériques",
-          "description": "Le déferlement de l’intelligence artificielle, qui pille les contenus journalistiques, favorise les deepfakes et bouleverse la façon de s’informer, met à l’épreuve ce secteur où les plans sociaux se multiplient.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/11/pourquoi-l-ia-provoque-un-nouveau-seisme-dans-les-medias-fragilises-par-vingt-ans-de-mutations-numeriques_6743753_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-11T04:00:22.000Z",
-          "fetchedAt": "2026-08-12T02:47:57.602Z"
-        },
-        {
-          "id": "2026-08-11-7542a000",
-          "title": "Meta sanctionnée pour destruction de preuves dans une affaire de publicités frauduleuses",
-          "description": "Un juge fédéral californien a estimé que la société a bien détruit ou laissé s’effacer des données essentielles dans une affaire l’opposant au milliardaire australien, Andrew Forrest, qui accuse la maison mère de Facebook d’avoir laissé prospérer de faux contenus numériques utilisant son image.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/11/meta-sanctionne-pour-destruction-de-preuves-dans-une-affaire-de-publicites-frauduleuses_6743711_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-11T03:25:01.000Z",
-          "fetchedAt": "2026-08-12T02:47:57.602Z"
+          "publishedAt": "2026-08-12T17:29:10.000Z",
+          "fetchedAt": "2026-08-13T03:02:16.525Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Tokenomics: Why making AI pay is tricky",
+      "topic": "Twitch faces backlash over Amazon training AI on its users' livestreams",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-11-7d0a0d5e",
-          "title": "Tokenomics: Why making AI pay is tricky",
-          "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-          "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
+          "id": "2026-08-13-75e610b5",
+          "title": "Twitch faces backlash over Amazon training AI on its users' livestreams",
+          "description": "Twitch's executives said users can opt out of AI training, which has become a common industry practice.",
+          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-11T23:03:52.000Z",
-          "fetchedAt": "2026-08-12T02:48:06.126Z"
+          "publishedAt": "2026-08-13T02:46:04.000Z",
+          "fetchedAt": "2026-08-13T03:02:18.720Z"
         }
       ]
     }
