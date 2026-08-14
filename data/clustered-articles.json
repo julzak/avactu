@@ -1,141 +1,278 @@
 {
-  "generatedAt": "2026-08-13T03:06:04.257Z",
+  "generatedAt": "2026-08-14T03:05:07.564Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Dialogue au Venezuela : pouvoir et opposition esquissent un accord sur une réfor",
+      "id": "cluster-3",
+      "topic": "Aux Etats-Unis, trois condamnés à mort exécutés dans la même journée dans trois ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-13-4047f784",
-          "title": "Dialogue au Venezuela : pouvoir et opposition esquissent un accord sur une réforme de la justice",
-          "description": "Le pouvoir et l'opposition vénézuélienne ont conclu mercredi leur premier cycle de dialogue, s'accordant sur un processus de réforme judiciaire et la récupération d'actifs gelés au Royaume-Uni. Même si les États-Unis ne sont pas à la table des négociations, ils sont très présents dans les discussions et ont été sollicités à plusieurs reprises comme \"médiateurs\" lors de points d'achoppement.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260813-dialogue-venezuela-pouvoir-opposition-accord-reforme-justice-dinorah-figuera-jorge-rodriguez",
-          "imageUrl": "https://s.france24.com/media/display/99537dd4-96be-11f1-9f8a-005056bfb2b6/w:1024/p:16x9/2026-08-13T013607Z-245192221-RC2BXMAV5KHG-RTRMADP-3-VENEZUELA-POLITICS.jpg",
+          "id": "2026-08-14-62310087",
+          "title": "Aux Etats-Unis, trois condamnés à mort exécutés dans la même journée dans trois Etats différents",
+          "description": "Le fait que ces trois injections létales aient eu lieu le même jour est une coïncidence mais cela reflète le rythme soutenu des exécutions aux États-Unis où, depuis le début de l’année, 22 condamnés à mort ont subi la peine capitale.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/14/aux-etats-unis-trois-condamnes-a-mort-executes-dans-la-meme-journee-dans-trois-etats-differents_6745972_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-14T02:10:02.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.189Z"
+        },
+        {
+          "id": "2026-08-14-ce225cea",
+          "title": "Manifestations anti-Israël: un juge rejette la plainte de Trump contre Harvard",
+          "description": "Le président des États-Unis, Donald Trump, avait porté plainte contre Harvard, accusant la prestigieuse université américaine de cautionner des agissements antisémites survenus pendant des manifestations propalestiniennes.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260814-manifestations-anti-isra%C3%ABl-un-juge-rejette-la-plainte-de-trump-contre-harvard",
+          "imageUrl": "https://s.rfi.fr/media/display/30253b0c-374e-11f0-9298-005056bfb2b6/w:1024/p:16x9/Harvard.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-14T00:13:56.000Z",
+          "fetchedAt": "2026-08-14T03:01:19.920Z"
+        },
+        {
+          "id": "2026-08-13-6c3f6987",
+          "title": "États-Unis : Donald Trump impose des droits de douane jusqu'à 100 % sur les drones importés",
+          "description": "Afin d'\"encourager la production\" aux États-Unis et de \"réduire la dépendance\" à des fournisseurs étrangers, le président américain Donald Trump a annoncé jeudi des droits de douane allant jusqu'à 100% sur les importations de drones et de composants de drones. Dans son viseur : la Chine, qui domine ce marché.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260813-etats-unis-donald-trump-impose-droits-de-douane-100-drones-importes-chine",
+          "imageUrl": "https://s.france24.com/media/display/4093622a-9765-11f1-aa7d-005056a90284/w:1024/p:16x9/AP26224040227323.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T02:37:56.000Z",
-          "fetchedAt": "2026-08-13T03:02:03.634Z"
+          "publishedAt": "2026-08-13T22:26:45.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.471Z"
         },
         {
-          "id": "2026-08-12-7d0c71f8",
-          "title": "Irlande: la tendance des injections de botox chez les jeunes femmes",
-          "description": "Votre Botox ne vient pas de Beverly Hills en Californie, mais d’une petite ville battue par les vents, à l’ouest de l’Irlande. C’est à Westport qu’en 1977 le géant américain Allergan s’installe, pour produire la célèbre toxine qui lisse les rides. Dans cette usine, chaque étape est minutieusement contrôlée, selon des normes strictes. Mais un contraste saisissant émerge ailleurs dans le pays. En Irlande, sur les réseaux sociaux, les annonces d’injections se multiplient, proposées parfois par des personnes non qualifiées…",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260812-irlande-la-tendance-des-injections-de-botox-chez-les-jeunes-femmes",
-          "imageUrl": "https://s.rfi.fr/media/display/cbf975d4-9689-11f1-9796-005056a90284/w:1024/p:16x9/AP26124705072335.jpg",
-          "source": "RFI",
+          "id": "2026-08-13-dd1ea7f1",
+          "title": "Harvard : un juge rejette la plainte de l’administration Trump concernant des manifestations anti-Israël",
+          "description": "Le juge de Boston, Richard Stearns, a estimé que le gouvernement n’était pas parvenu à prouver que Harvard avait violé une disposition de la loi sur les droits civiques qui interdit la discrimination fondée sur la race, la nationalité et d’autres critères.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/13/harvard-un-juge-rejette-la-plainte-de-l-administration-trump-concernant-des-manifestations-anti-israel_6745838_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-12T22:14:31.000Z",
-          "fetchedAt": "2026-08-13T03:02:13.543Z"
+          "publishedAt": "2026-08-13T19:12:58.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.189Z"
         },
         {
-          "id": "2026-08-12-3ef026fc",
-          "title": "Les actrices des luttes anticoloniales: Andrée Blouin, influente conseillère et mobilisatrice de réseaux féminins [4/10]",
-          "description": "La suite de notre série sur les actrices oubliées de la décolonisation. Nous nous penchons aujourd'hui sur le parcours d'Andrée Blouin, enfant métisse née en Centrafrique, qui a fait ses premiers pas en politique en Guinée et est devenue une influente conseillère de Patrice Lumumba au moment de l'indépendance du Congo. Le récit de Laurent Correau.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260812-les-actrices-des-luttes-anticoloniales-andr%C3%A9e-blouin-influente-conseill%C3%A8re-et-mobilisatrice-de-r%C3%A9seaux-f%C3%A9minins-4-10",
-          "imageUrl": "https://s.rfi.fr/media/display/7471096a-969a-11f1-9105-005056bfb2b6/w:1024/p:16x9/andr%C3%A9e-blouin.png",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-12T22:13:20.000Z",
-          "fetchedAt": "2026-08-13T03:02:13.543Z"
-        },
-        {
-          "id": "2026-08-12-b7e68f29",
-          "title": "Portraits des diasporas africaines: Christian-Brice Ondo, un éditeur gabonais dans la cour des grands [4/5]",
-          "description": "Chirurgienne, patineuse, éditeur, pâtissier, leurs parcours singuliers racontent la France d’aujourd’hui, riche de ses talents et de ses diversités. Né(e)s ici ou venus d’ailleurs, ces femmes et ces hommes inspirent par leur engagement et leur réussite. Leurs portraits sont autant de modèles pour les générations futures. Dans ce quatrième épisode, le Gabonais Christian-Brice Ondo nous raconte comment à 51 ans il mène une carrière d'éditeur. Depuis 2021, il dirige sa propre maison d'édition, Obangame. À taille humaine. Sa particularité : éditer ses « coups de cœur » et surtout donner de la visibilité aux auteurs afro-descendants.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20260812-portraits-des-diasporas-africaines-christian-brice-ondo-un-%C3%A9diteur-gabonais-dans-la-cour-des-grands-4-5",
-          "imageUrl": "https://s.rfi.fr/media/display/19883a0e-9678-11f1-8e75-005056bfb2b6/w:1024/p:16x9/24a824fe-ec9b-477b-9727-0dc0a15bbea5.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-12T22:12:13.000Z",
-          "fetchedAt": "2026-08-13T03:02:13.543Z"
-        },
-        {
-          "id": "2026-08-12-839b8f77",
-          "title": "Éclipse solaire totale: des millions de personnes émerveillées devant un phénomène astronomique rare",
-          "description": "Des millions d'Européens ont contemplé ce mardi 12 août le ciel avec émerveillement lors d'une rare éclipse solaire totale qui a plongé une partie de l'Espagne dans une étrange obscurité en plein jour. L'ombre projetée par la Lune recouvrant le Soleil est apparue dans les régions reculées de l'Arctique russe vers 17h00 TU et a poursuivi sa course en arc de cercle à travers le Groenland et l'Islande. C'est en Espagne que le plus grand nombre de personnes ont observé l'éclipse totale, qui a traversé le pays en diagonale, de la côte atlantique nord jusqu'à la mer Méditerranée, où elle s'est achevée vers 18h30 TU.",
-          "url": "https://www.rfi.fr/fr/science/20260812-d%C3%A9but-de-l-%C3%A9clipse-solaire-aux-confins-de-l-arctique-russe",
-          "imageUrl": "https://s.rfi.fr/media/display/6a2cb854-967d-11f1-9a00-005056bf30b7/w:1024/p:16x9/000-C4HN6NN.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-12T17:30:09.000Z",
-          "fetchedAt": "2026-08-13T03:02:13.543Z"
-        },
-        {
-          "id": "2026-08-12-f0198036",
-          "title": "Nigel Farage vers une victoire dans une drôle d’élection que “personne ne trouve marrante”",
-          "description": "Dans une ambiance étrange, le leader de la droite populiste britannique devrait redevenir le député de Clacton-on-Sea jeudi 13 août, un mois après sa démission. Aucun grand parti n’a souhaité participer au scrutin “peuple contre élite” appelé de ses vœux. À la place, Farage affronte un nombre record de 33 candidats, pour beaucoup parodiques.",
-          "url": "https://www.courrierinternational.com/article/royaume-uni-nigel-farage-vers-une-victoire-dans-une-drole-d-election-que-personne-ne-trouve-marrante_258200",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/06/0/0/5500/3666/1200/630/60/0/d327b0f_ftp-1-dhnwgrwxbvhy-2026-08-06t172103z-1183343334-rc23tmasdxdr-rtrmadp-3-britain-politics-clacton.JPG",
+          "id": "2026-08-13-57359f1a",
+          "title": "Les États-Unis remboursent les droits de douane plus vite que prévu",
+          "description": "Près de 129 milliards de dollars de taxes douanières, jugées illégales par la Cour suprême en février, ont déjà été remboursés aux entreprises par l’administration ou sont en passe de l’être. Le “Wall Street Journal” souligne la “rapidité remarquable” de la procédure.",
+          "url": "https://www.courrierinternational.com/article/guerre-commerciale-les-etats-unis-remboursent-les-droits-de-douane-plus-vite-que-prevu_258756",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/03/34/0/3296/2197/1200/630/60/0/022bef9_ftp-1-oxereaspsqcr-2026-08-03t090745z-1735703203-rc2j3ma6895f-rtrmadp-3-india-tax-apple.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-12T15:16:31.000Z",
-          "fetchedAt": "2026-08-13T03:02:04.046Z"
+          "publishedAt": "2026-08-13T15:12:24.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.643Z"
+        },
+        {
+          "id": "2026-08-13-bc6026db",
+          "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+          "description": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
+          "url": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e29/live/ae2701f0-9717-11f1-a7ab-8b30adf0800a.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-13T13:20:55.000Z",
+          "fetchedAt": "2026-08-14T03:01:19.967Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "L’administration Trump annule un rapport de référence sur l’Arctique, une nouvel",
+      "id": "cluster-11",
+      "topic": "EN DIRECT, guerre en Ukraine : une frappe russe fait un mort et une quinzaine de",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-13-c087131d",
-          "title": "L’administration Trump annule un rapport de référence sur l’Arctique, une nouvelle atteinte à la science du climat aux Etats-Unis",
-          "description": "Publié chaque année depuis 2006, ce document est très estimé par la communauté scientifique, qui subit l’offensive climatosceptique du gouvernement américain.",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/13/l-administration-trump-annule-un-rapport-de-reference-sur-l-arctique-une-nouvelle-atteinte-a-la-science-du-climat-aux-etats-unis_6745334_3244.html",
+          "id": "2026-08-13-e6455db0",
+          "title": "EN DIRECT, guerre en Ukraine : une frappe russe fait un mort et une quinzaine de blessés à Kramatorsk, dans le Donbass",
+          "description": "Le chef de l’administration militaire de l’oblast de Donetsk, Vadym Filachkine, a appelé les habitants locaux à « évacuer vers des régions d’Ukraine plus sûres » Par ailleurs, une femme de 25 ans et un enfant de 5 ans ont été blessés à la suite d’une frappe russe dans l’oblast de Zaporijia.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-une-frappe-russe-fait-deux-blesses-dans-la-region-de-zaporijia-selon-l-administration-militaire-locale_6741928_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T02:00:17.000Z",
-          "fetchedAt": "2026-08-13T03:02:03.548Z"
+          "publishedAt": "2026-08-13T21:48:35.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.189Z"
         },
         {
-          "id": "2026-08-12-41f3cd00",
-          "title": "La Colombie autorise des opérations antidrogue conjointes avec les Etats-Unis",
-          "description": "Elu sur la promesse d’éradiquer les groupes impliqués dans le narcotrafic, le nouveau président colombien, Abelardo de la Espriella, est un allié de son homologue américain, Donald Trump. Cet accord, annoncé mercredi 12 août, permet à Washington d’accélérer sa lutte contre le trafic de drogue en Amérique latine.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/13/la-colombie-autorise-des-operations-antidrogue-conjointes-avec-les-etats-unis_6745169_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-08-13-d429409f",
+          "title": "Céréales ukrainiennes: les attaques russes perturbent les exportations et inquiètent les marchés mondiaux",
+          "description": "Le port ukrainien d’Izmaïl, sur le Danube, a été frappé par la Russie dans la nuit du mercredi 12 au jeudi 13 août. Cette nouvelle attaque intervient alors que les infrastructures céréalières ukrainiennes sont régulièrement ciblées et que l’Ukraine riposte en visant notamment le port russe de Novorossiïsk, en mer Noire. Conséquence : les deux grands fournisseurs mondiaux de blé et de maïs voient leurs capacités d’exportation fragilisées, faisant craindre des tensions sur les prix et l’approvisionnement, notamment en Afrique et au Moyen-Orient.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260813-c%C3%A9r%C3%A9ales-ukrainiennes-les-attaques-russes-perturbent-les-exportations-et-inqui%C3%A8tent-les-march%C3%A9s-mondiaux",
+          "imageUrl": "https://s.rfi.fr/media/display/97ec0192-9721-11f1-a6c5-005056a90284/w:1024/p:16x9/2026-08-13T060335Z-1861426322-RC2MTMABFALC-RTRMADP-3-UKRAINE-CRISIS-AGRICULTURE.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-12T22:41:37.000Z",
-          "fetchedAt": "2026-08-13T03:02:03.548Z"
+          "publishedAt": "2026-08-13T16:08:02.000Z",
+          "fetchedAt": "2026-08-14T03:01:19.920Z"
         },
         {
-          "id": "2026-08-12-d0fa745d",
-          "title": "Karoline Leavitt, porte-parole de la Maison Blanche et trumpiste convaincue, va quitter son poste",
-          "description": "Karoline Leavitt, porte-parole de la Maison Blanche, quittera ses fonctions à la fin du mois pour consacrer davantage de temps à son rôle de maman. La plus jeune \"Press Secretary\" de l'histoire américaine, âgée de 28 ans, restera active politiquement en tant que \"conseillère externe\" du président.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260812-karoline-leavitt-porte-parole-maison-blanche-trumpiste-convaincue-demission-quitte-poste-maman",
-          "imageUrl": "https://s.france24.com/media/display/15393d00-9695-11f1-b064-005056bfb2b6/w:1024/p:16x9/AP26206119141832.jpg",
+          "id": "2026-08-13-dd6404d2",
+          "title": "Pologne : arrestation d'un ressortissant russe chargé d'\"exécuter\" un Américano-Ukrainien à Varsovie",
+          "description": "Un ressortissant russe qui aurait reçu \"l'ordre\" de Moscou d'\"exécuter\" un citoyen américano-ukrainien à Varsovie a été interpellé, a annoncé jeudi le Premier ministre polonais, Donald Tusk. L'assassinat a été empêché de justesse.",
+          "url": "https://www.france24.com/fr/europe/20260813-pologne-arrestation-ressortissant-russe-charg%C3%A9-ex%C3%A9cuter-am%C3%A9ricano-ukrainien-varsovie",
+          "imageUrl": "https://s.france24.com/media/display/7ece479e-9724-11f1-9d26-005056a90284/w:1024/p:16x9/000-B97V4G3.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-12T21:32:33.000Z",
-          "fetchedAt": "2026-08-13T03:02:03.634Z"
+          "publishedAt": "2026-08-13T15:09:05.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.471Z"
         },
         {
-          "id": "2026-08-12-486b02ab",
-          "title": "En Libye, le retour diplomatique des Américains, après quinze ans d’effacement",
-          "description": "Le conseiller spécial de Donald Trump pour les affaires arabes et africaines, Massad Boulos, cherche un accord entre les familles Haftar et Dbeibah, qui se partagent le pays.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/08/12/en-libye-le-retour-diplomatique-des-americains-apres-quinze-ans-d-effacement_6745089_3212.html",
+          "id": "2026-08-13-b898fef7",
+          "title": "En mer Noire, le port russe de Novorossiisk subit une attaque “massive” de Kiev",
+          "description": "Les forces ukrainiennes ont lancé dans la nuit du 11 au 12 août une vague de missiles et de drones sur ce port stratégique, qui aurait notamment infligé des dégâts à quatre vaisseaux russes et à des infrastructures céréalières.",
+          "url": "https://www.courrierinternational.com/article/vu-d-ukraine-en-mer-noire-le-port-russe-de-novorossiisk-subit-une-attaque-massive-de-kiev_258888",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/12/0/400/4320/2880/1200/630/60/0/8c1368a_ftp-1-b7dxtymu0sqo-2026-08-12t105629z-1787001111-rc2ywmatsi3r-rtrmadp-3-ukraine-crisis-attack-novorossiysk.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-13T13:28:58.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.643Z"
+        },
+        {
+          "id": "2026-08-13-c2f7c48f",
+          "title": "Guerre en Ukraine : deux cheminots tués dans une frappe russe contre un train de passagers",
+          "description": "Un conducteur de train et son assistant ont été tués dans une attaque de drone russe contre un train de passagers dans la région d'Odessa, dans le sud de l'Ukraine, a annoncé jeudi le directeur des chemins de fer nationaux ukrainiens.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260813-guerre-en-ukraine-deux-cheminots-tu%C3%A9s-dans-une-frappe-russe-contre-un-train-de-passagers",
+          "imageUrl": "https://s.france24.com/media/display/1e07359c-971a-11f1-9162-005056bf30b7/w:1024/p:16x9/FR-20260813-140106-140427-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-13T13:27:43.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.471Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-13",
+      "topic": "Stimulée par son secteur de la défense, la Pologne enregistre une croissance rec",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-13-48f8638d",
+          "title": "Stimulée par son secteur de la défense, la Pologne enregistre une croissance record dans l'UE",
+          "description": "Le pays, qui vient d'enregistrer une croissance de son PIB de 3,8% sur un an, doit notamment cette performance aux investissements du programme d'armement européen SAFE dont il est l'un des principaux bénéficiaires.",
+          "url": "https://www.rfi.fr/fr/europe/20260813-stimul%C3%A9e-par-son-secteur-de-la-d%C3%A9fense-la-pologne-enregistre-une-croissance-record-dans-l-ue",
+          "imageUrl": "https://s.rfi.fr/media/display/abd48faa-dc35-11f0-838c-005056a97e36/w:1024/p:16x9/2025-12-18T074658Z-595616455-RC2VIIAK947Q-RTRMADP-3-UKRAINE-CRISIS-EU-SUMMIT.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-13T21:20:28.000Z",
+          "fetchedAt": "2026-08-14T03:01:19.920Z"
+        },
+        {
+          "id": "2026-08-13-d897762f",
+          "title": "Un \"acteur malveillant\" a piraté le fisc fin juin, près de 680 000 personnes seraient concernées",
+          "description": "Le système d'information du fisc a été piraté fin juin, a annoncé jeudi le ministère français de l'Économie et des Finances. Selon French Breaches, un site spécialisé dans les cyberattaques, près de 680 000 personnes seraient concernées.",
+          "url": "https://www.france24.com/fr/france/20260813-acteur-malveillant-pirat%C3%A9-fisc-fin-juin-pr%C3%A8s-de-680-000-personnes-seraient-concern%C3%A9es",
+          "imageUrl": "https://s.france24.com/media/display/e437f1be-9749-11f1-a34a-005056a97e36/w:1024/p:16x9/2026-08-11T170845Z-1402842411-RC2EWMAVMB22-RTRMADP-3-FRANCE-ECONOMY.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-13T19:58:36.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.471Z"
+        },
+        {
+          "id": "2026-08-13-d015a570",
+          "title": "Canicules et sécheresse records: un été catastrophique en France et en Europe",
+          "description": "La vague de chaleur actuelle en France dure depuis 17 jours. Elle a dépassé en longueur celle de 2003. Cet été brûlant a aussi entraîné une sécheresse record en Europe. Au point que les fleuves européens sont à leur plus bas niveau. La Roumanie a dû mettre à l'arrêt son unique centrale nucléaire que le Danube ne pouvait plus refroidir. Le débit du Rhin perturbe le transport fluvial de marchandises. Et une commune de l'est de la France a dû être ravitaillée en eau par camion-citerne.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260813-canicules-et-s%C3%A9cheresse-records-un-%C3%A9t%C3%A9-catastrophique-en-france-et-en-europe",
+          "imageUrl": "https://s.france24.com/media/display/26873c90-9741-11f1-a930-005056bf30b7/w:1024/p:16x9/capture-5065409246a7e06b5898127-26465863.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-13T18:07:24.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.471Z"
+        },
+        {
+          "id": "2026-08-13-4edb4b63",
+          "title": "Grèce : un nouvel incendie près de Thessalonique, des touristes évacués",
+          "description": "Le feu, qui a commencé jeudi après-midi, se situe dans une zone boisée située à environ 90 kilomètres au sud de Thessalonique, deuxième ville de Grèce.",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-12T17:00:02.000Z",
-          "fetchedAt": "2026-08-13T03:02:03.548Z"
+          "publishedAt": "2026-08-13T17:48:46.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.189Z"
         },
         {
-          "id": "2026-08-12-e388f77f",
-          "title": "Rwanda : Nyakabingo, mine de tungstène stratégique pour la défense américaine.",
-          "description": "🇷🇼 Au Rwanda, la mine de Nyakabingo est devenue en quelques mois l’un des principaux fournisseurs de tungstène des États-Unis. Ce métal stratégique, indispensable à l’industrie de défense, pourrait prendre une importance croissante alors que Washington prévoit de bannir les approvisionnements chinois destinés à ses usages militaires.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260812-rwanda-nyakabingo-mine-de-tungst%C3%A8ne-strat%C3%A9gique-pour-la-d%C3%A9fense-am%C3%A9ricaine",
-          "imageUrl": "https://s.france24.com/media/display/55735ae8-965b-11f1-aa05-005056a97e36/w:1024/p:16x9/RWANDA-00-00-00-10-Still002.jpg",
-          "source": "France 24",
+          "id": "2026-08-13-8bed5804",
+          "title": "Blockbusters et canicule: les cinémas français enregistrent une fréquentation record cet été",
+          "description": "Depuis le début du mois de juillet, les cinémas français enregistrent, en moyenne, 640 000 entrées par jour. Une hausse conséquente par rapport à l'été 2025 grâce à un faisceau de circonstances favorables.",
+          "url": "https://www.rfi.fr/fr/culture/20260813-blockbusters-et-canicule-les-cin%C3%A9mas-fran%C3%A7ais-enregistrent-une-fr%C3%A9quentation-record-cet-%C3%A9t%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/b3d35226-7f92-11f1-89ca-005056bfb2b6/w:1024/p:16x9/L-Odyssee.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-12T15:59:47.000Z",
-          "fetchedAt": "2026-08-13T03:02:03.634Z"
+          "publishedAt": "2026-08-13T16:48:12.000Z",
+          "fetchedAt": "2026-08-14T03:01:19.920Z"
+        },
+        {
+          "id": "2026-08-13-f251e035",
+          "title": "Le Sénégal et la Gambie redéfinissent leurs frontières communes, héritées de la colonisation",
+          "description": "Le 29 juillet, un accord définitif a été finalisé pour clarifier le tracé des 749 kilomètres de frontière terrestre entre les deux pays, a annoncé le Secrétariat permanent sénégalo-gambien. Cette frontière avait été dessinée « sur une carte à main levée dans un huis clos parisien », le 10 août 1889.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/13/le-senegal-et-la-gambie-redefinissent-leurs-frontieres-communes-heritees-de-la-colonisation_6745811_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-13T15:00:05.000Z",
+          "fetchedAt": "2026-08-14T03:01:07.189Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-17",
+      "topic": "La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-13-107b9cfe",
+          "title": "La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque",
+          "description": "Bercy confirme une partie des affirmations du pirate, à savoir qu’il avait été repéré, en juin, par les services du ministère de l’économie. Mais ce dernier n’avait alors pas communiqué et n’avait surtout, semble-t-il, pas détecté la fuite de données.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-13T17:35:58.000Z",
+          "fetchedAt": "2026-08-14T03:01:19.973Z"
+        },
+        {
+          "id": "2026-08-13-1eb912d2",
+          "title": "Pendant que nous regardions le ciel, les satellites ont filmé l’ombre de la Lune glisser sur la Terre",
+          "description": "Depuis la Terre, l’éclipse solaire du 12 août 2026 a offert un spectacle grandiose. Mais vu de l’espace, le phénomène était tout aussi vertigineux. Les satellites météorologiques ont filmé l’immense ombre de la Lune balayant la surface de la Terre à toute vitesse.",
+          "url": "https://www.numerama.com/sciences/2311207-pendant-que-nous-regardions-le-ciel-les-satellites-ont-filme-lombre-de-la-lune-glisser-sur-la-terre.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/ombre-eclipse.jpg?resize=1600,900&key=8693329a",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-13T15:35:36.000Z",
+          "fetchedAt": "2026-08-14T03:01:20.135Z"
+        },
+        {
+          "id": "2026-08-13-b1bdc744",
+          "title": "J’ai joué à Fire Emblem: Fortune’s Weaves sur Switch 2, et ce sera sans doute l’un de mes jeux de l’année",
+          "description": "À moins que tout s’écroule comme un château de cartes à mesure que j’avancerai dans l’histoire, je peux d’ores et déjà dire que Fire Emblem: Fortune’s Weave risque de figurer dans mon top 2026. Avec ce nouvel épisode, Nintendo pousse la recette Fire Emblem dans ses derniers retranchements avec un jeu choral, dense, complexe et fascinant.",
+          "url": "https://www.numerama.com/pop-culture/2310935-jai-joue-a-fire-emblem-fortunes-weaves-sur-switch-2-et-ce-sera-sans-doute-lun-de-mes-jeux-de-lannee.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/fire-emblem-fortunes-weave-1.png?resize=1600,900&key=d7926879",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-13T13:08:14.000Z",
+          "fetchedAt": "2026-08-14T03:01:20.135Z"
+        },
+        {
+          "id": "2026-08-12-134e325b",
+          "title": "Crise de Ceuta : l’UE annonce un « outil de communication » pour renforcer la lutte contre la désinformation sur Meta et TikTok",
+          "description": "Consécutivement aux événements du 30 et 31 juillet, encouragés par la diffusion d’informations erronées, les autorités européennes disent avoir obtenu des deux géants des réseaux sociaux qu’ils renforcent leur dispositif de vérification des informations.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/12/crise-de-ceuta-l-ue-annonce-un-outil-de-communication-pour-renforcer-la-lutte-contre-la-desinformation-sur-meta-et-tiktok_6745080_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-12T15:37:04.000Z",
+          "fetchedAt": "2026-08-14T03:01:19.973Z"
+        },
+        {
+          "id": "2026-08-12-2c06fa3c",
+          "title": "Les lendemains difficiles du fact-checking après un âge d’or lors de la crise due au Covid-19",
+          "description": "« Dix ans de post-vérité » (3/5). Le journalisme de vérification, qui a connu un essor sous Donald Trump et atteint son sommet pendant la pandémie, fait désormais face à une triple crise de financement, de confiance et de sens.",
+          "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/12/les-lendemains-difficiles-du-fact-checking-apres-un-age-d-or-lors-de-la-crise-due-au-covid-19_6745075_3451060.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-12T15:00:04.000Z",
+          "fetchedAt": "2026-08-14T03:01:19.973Z"
         },
         {
           "id": "2026-08-12-9cf3f331",
@@ -143,89 +280,29 @@
           "description": "Les premiers éléments privilégient la piste de cybercriminels agissant dans un but financier, a estimé le ministre de la numérisation, qui a exclu le paiement de toute rançon et promis de poursuivre « sans relâche » les auteurs.",
           "url": "https://www.lemonde.fr/pixels/article/2026/08/12/pologne-les-donnees-de-la-moitie-de-la-population-exposees-par-une-cyberattaque_6745073_4408996.html",
           "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
+          "source": "Le Monde - Pixels",
+          "category": "tech",
           "publishedAt": "2026-08-12T14:51:11.000Z",
-          "fetchedAt": "2026-08-13T03:02:03.548Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-12-d06603e0",
-          "title": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
-          "description": "Les conditions météorologiques compliquent les opérations pour contenir une fuite de pétrole provoquée par l’échouement, en juin, d’un navire soupçonné de faire partie de la « flotte fantôme » russe.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-12T23:45:58.000Z",
-          "fetchedAt": "2026-08-13T03:02:03.548Z"
-        },
-        {
-          "id": "2026-08-12-e8ba5da7",
-          "title": "Pétrolier échoué au large d'Oman : la marée noire a atteint les côtes",
-          "description": "Les fuites d'un pétrolier échoué au large d'Oman, soupçonné d'appartenir à la \"flotte fantôme\" russe, ont atteint les côtes omanaises, menaçant jusqu'à 40 kilomètres de rives. La mousson complique les opérations pour contenir cette marée noire qui menace une réserve naturelle protégée.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260812-petrolier-echoue-large-oman-maree-noire-atteint-cotes-environnement-pollution",
-          "imageUrl": "https://s.france24.com/media/display/bf00afc8-9698-11f1-b878-005056bfb2b6/w:1024/p:16x9/AP26220444134178.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-12T21:57:56.000Z",
-          "fetchedAt": "2026-08-13T03:02:03.634Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-12-54035baf",
-          "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-          "description": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-          "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-08-12T21:00:30.000Z",
-          "fetchedAt": "2026-08-13T03:02:16.578Z"
-        },
-        {
-          "id": "2026-08-12-da3ea3db",
-          "title": "Twitch streamers can now opt out from training Amazon’s AI",
-          "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page.\nOther \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch  …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-08-12T17:29:10.000Z",
-          "fetchedAt": "2026-08-13T03:02:16.525Z"
+          "fetchedAt": "2026-08-14T03:01:19.973Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Twitch faces backlash over Amazon training AI on its users' livestreams",
+      "topic": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-13-75e610b5",
-          "title": "Twitch faces backlash over Amazon training AI on its users' livestreams",
-          "description": "Twitch's executives said users can opt out of AI training, which has become a common industry practice.",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg",
+          "id": "2026-08-13-0665e2f4",
+          "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+          "description": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+          "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dae0/live/7d93c650-9568-11f1-8b14-5d44448d174a.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-13T02:46:04.000Z",
-          "fetchedAt": "2026-08-13T03:02:18.720Z"
+          "publishedAt": "2026-08-13T23:03:07.000Z",
+          "fetchedAt": "2026-08-14T03:01:26.586Z"
         }
       ]
     }
