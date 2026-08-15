@@ -1,308 +1,220 @@
 {
-  "generatedAt": "2026-08-14T03:05:07.564Z",
+  "generatedAt": "2026-08-15T01:56:32.526Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-3",
-      "topic": "Aux Etats-Unis, trois condamnés à mort exécutés dans la même journée dans trois ",
+      "id": "cluster-1",
+      "topic": "Au Tchad, neuf opposants, dont Succès Masra, libérés après avoir été graciés par",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-14-62310087",
-          "title": "Aux Etats-Unis, trois condamnés à mort exécutés dans la même journée dans trois Etats différents",
-          "description": "Le fait que ces trois injections létales aient eu lieu le même jour est une coïncidence mais cela reflète le rythme soutenu des exécutions aux États-Unis où, depuis le début de l’année, 22 condamnés à mort ont subi la peine capitale.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/14/aux-etats-unis-trois-condamnes-a-mort-executes-dans-la-meme-journee-dans-trois-etats-differents_6745972_3210.html",
+          "id": "2026-08-15-f5573d6a",
+          "title": "Au Tchad, neuf opposants, dont Succès Masra, libérés après avoir été graciés par le président Mahamat Idriss Déby",
+          "description": "Ancien premier ministre et chef du principal parti d’opposition, Succès Masra purgeait depuis plus d’un an une peine de vingt ans de prison ferme. Les huit autres dirigeants de partis étaient condamnés car accusés de fomenter une insurrection.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/15/au-tchad-neuf-opposants-dont-succes-masra-liberes-apres-avoir-ete-gracies-par-le-president-mahamat-idriss-deby_6746242_3213.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-14T02:10:02.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.189Z"
+          "publishedAt": "2026-08-15T01:12:19.000Z",
+          "fetchedAt": "2026-08-15T01:52:31.832Z"
         },
         {
-          "id": "2026-08-14-ce225cea",
-          "title": "Manifestations anti-Israël: un juge rejette la plainte de Trump contre Harvard",
-          "description": "Le président des États-Unis, Donald Trump, avait porté plainte contre Harvard, accusant la prestigieuse université américaine de cautionner des agissements antisémites survenus pendant des manifestations propalestiniennes.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260814-manifestations-anti-isra%C3%ABl-un-juge-rejette-la-plainte-de-trump-contre-harvard",
-          "imageUrl": "https://s.rfi.fr/media/display/30253b0c-374e-11f0-9298-005056bfb2b6/w:1024/p:16x9/Harvard.jpg",
+          "id": "2026-08-14-fa4d88e1",
+          "title": "Tchad: l'ex-Premier ministre et opposant Succès Masra gracié par le président Déby et libéré",
+          "description": "Succès Masra, ancien Premier ministre et chef du principal parti d'opposition au Tchad a été gracié par le président Mahamat Idriss Déby vendredi 14 août par décret alors qu'il purgeait depuis plus d'un an une peine de 20 ans de prison ferme. Huit autres dirigeants de partis ont également été grâciés. Cette grâce présidentielle entraîne une « remise totale des peines privatives de libertés aux condamnés », indique le décret publié sur la page Facebook de la présidence tchadienne. Succès Masra a été libéré et s'est rendu au siège de son parti « les Transformateurs », en liesse à son arrivée. Il s'est dit prêt à reprendre ses activités.",
+          "url": "https://www.rfi.fr/fr/afrique/20260814-tchad-l-ex-premier-ministre-et-opposant-succ%C3%A8s-masra-gr%C3%A2ci%C3%A9-par-le-pr%C3%A9sident-d%C3%A9by",
+          "imageUrl": "https://s.rfi.fr/media/display/698ad97a-d6b2-11f0-b590-005056a97e36/w:1024/p:16x9/Succ%C3%A8s-Masra-1.png",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-14T00:13:56.000Z",
-          "fetchedAt": "2026-08-14T03:01:19.920Z"
-        },
+          "publishedAt": "2026-08-14T08:59:44.000Z",
+          "fetchedAt": "2026-08-15T01:52:41.510Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "États-Unis: Donald Trump exige le retour à l'ancien système de catapulte sur les",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
         {
-          "id": "2026-08-13-6c3f6987",
-          "title": "États-Unis : Donald Trump impose des droits de douane jusqu'à 100 % sur les drones importés",
-          "description": "Afin d'\"encourager la production\" aux États-Unis et de \"réduire la dépendance\" à des fournisseurs étrangers, le président américain Donald Trump a annoncé jeudi des droits de douane allant jusqu'à 100% sur les importations de drones et de composants de drones. Dans son viseur : la Chine, qui domine ce marché.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260813-etats-unis-donald-trump-impose-droits-de-douane-100-drones-importes-chine",
-          "imageUrl": "https://s.france24.com/media/display/4093622a-9765-11f1-aa7d-005056a90284/w:1024/p:16x9/AP26224040227323.jpg",
-          "source": "France 24",
+          "id": "2026-08-15-c4a689ba",
+          "title": "États-Unis: Donald Trump exige le retour à l'ancien système de catapulte sur les porte-avions américains",
+          "description": "Donald Trump veut des catapultes à vapeur sur les porte-avions américains. Un retour en arrière qui devrait coûter des milliards de dollars à la marine, mais que le président des États-Unis défend depuis des années.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260815-%C3%A9tats-unis-donald-trump-exige-le-retour-%C3%A0-l-ancien-syst%C3%A8me-de-catapulte-sur-les-porte-avions-am%C3%A9ricains",
+          "imageUrl": "https://s.rfi.fr/media/display/991a0d0a-9840-11f1-80b9-005056bfb2b6/w:1024/p:16x9/AP25301295568633.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T22:26:45.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.471Z"
+          "publishedAt": "2026-08-15T00:31:38.000Z",
+          "fetchedAt": "2026-08-15T01:52:41.510Z"
         },
         {
-          "id": "2026-08-13-dd1ea7f1",
-          "title": "Harvard : un juge rejette la plainte de l’administration Trump concernant des manifestations anti-Israël",
-          "description": "Le juge de Boston, Richard Stearns, a estimé que le gouvernement n’était pas parvenu à prouver que Harvard avait violé une disposition de la loi sur les droits civiques qui interdit la discrimination fondée sur la race, la nationalité et d’autres critères.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/13/harvard-un-juge-rejette-la-plainte-de-l-administration-trump-concernant-des-manifestations-anti-israel_6745838_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-08-14-30940299",
+          "title": "Meurtre d'un patron d'assurance aux États-Unis: Luigi Mangione plaide coupable",
+          "description": "Accusé d’avoir assassiné le patron du plus gros groupe américain d’assurance santé en 2024, Luigi Mangione avait jusqu’alors plaidé non-coupable. Mais ce vendredi 14 août, il a reconnu lui avoir « tiré » dessus.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260814-meurtre-d-un-patron-d-assurance-am%C3%A9ricain-luigi-mangione-plaide-coupablei",
+          "imageUrl": "https://s.rfi.fr/media/display/6fd7711a-9833-11f1-9699-005056a97e36/w:1024/p:16x9/AP26223537855881.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T19:12:58.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.189Z"
+          "publishedAt": "2026-08-14T23:13:58.000Z",
+          "fetchedAt": "2026-08-15T01:52:41.510Z"
         },
         {
-          "id": "2026-08-13-57359f1a",
-          "title": "Les États-Unis remboursent les droits de douane plus vite que prévu",
-          "description": "Près de 129 milliards de dollars de taxes douanières, jugées illégales par la Cour suprême en février, ont déjà été remboursés aux entreprises par l’administration ou sont en passe de l’être. Le “Wall Street Journal” souligne la “rapidité remarquable” de la procédure.",
-          "url": "https://www.courrierinternational.com/article/guerre-commerciale-les-etats-unis-remboursent-les-droits-de-douane-plus-vite-que-prevu_258756",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/03/34/0/3296/2197/1200/630/60/0/022bef9_ftp-1-oxereaspsqcr-2026-08-03t090745z-1735703203-rc2j3ma6895f-rtrmadp-3-india-tax-apple.JPG",
+          "id": "2026-08-14-11648009",
+          "title": "En Libye, deux attaques font vaciller le plan de réunification porté par Washington",
+          "description": "L’envoyé spécial de Donald Trump dans la région, Massad Boulos, fait depuis plusieurs mois la navette entre les deux camps qui se partagent le pays, les clans Haftar et Dbeibah. Mais en deux jours, l’assassinat d’un fidèle du commandant Haftar et l’attaque d’une raffinerie de pétrole ont compromis la sérénité des négociations.",
+          "url": "https://www.courrierinternational.com/article/politique-en-libye-deux-attaques-font-vaciller-le-plan-de-reunification-porte-par-washington_259384",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/11/0/0/4000/2666/1200/630/60/0/55d8c26_ftp-1-h8ajfolyvxrz-afp-c4ec9bb.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T15:12:24.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.643Z"
+          "publishedAt": "2026-08-14T15:40:20.000Z",
+          "fetchedAt": "2026-08-15T01:52:32.181Z"
         },
         {
-          "id": "2026-08-13-bc6026db",
-          "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
-          "description": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
-          "url": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e29/live/ae2701f0-9717-11f1-a7ab-8b30adf0800a.jpg",
+          "id": "2026-08-14-ef24fbe9",
+          "title": "Un missionnaire américain enlevé au Niger libéré après plus de neuf mois de captivité",
+          "description": "Au Niger, le pilote missionnaire américain Kevin Rideout a été libéré après plus de neuf mois de captivité. Il avait été enlevé en octobre 2025 à Niamey, où il travaillait pour l’organisation évangélique SIM International. Sa libération intervient alors que la situation sécuritaire reste très tendue dans le pays.",
+          "url": "https://www.rfi.fr/fr/afrique/20260814-un-missionnaire-am%C3%A9ricain-enlev%C3%A9-au-niger-lib%C3%A9r%C3%A9-apr%C3%A8s-plus-de-neuf-mois-de-captivit%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/1d68e9c8-7951-11f1-a2d8-005056a90284/w:1024/p:16x9/vignette-niamey.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-14T11:49:03.000Z",
+          "fetchedAt": "2026-08-15T01:52:41.510Z"
+        },
+        {
+          "id": "2026-08-14-9a5c9d2c",
+          "title": "US says dozens of countries helped China dodge Trump's tariffs",
+          "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+          "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T13:20:55.000Z",
-          "fetchedAt": "2026-08-14T03:01:19.967Z"
+          "publishedAt": "2026-08-14T08:39:46.000Z",
+          "fetchedAt": "2026-08-15T01:52:41.323Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "EN DIRECT, guerre en Ukraine : une frappe russe fait un mort et une quinzaine de",
+      "id": "cluster-5",
+      "topic": "Mozambique: nouvelle saisie d'une importante quantité de fentanyl à l'aéroport d",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-13-e6455db0",
-          "title": "EN DIRECT, guerre en Ukraine : une frappe russe fait un mort et une quinzaine de blessés à Kramatorsk, dans le Donbass",
-          "description": "Le chef de l’administration militaire de l’oblast de Donetsk, Vadym Filachkine, a appelé les habitants locaux à « évacuer vers des régions d’Ukraine plus sûres » Par ailleurs, une femme de 25 ans et un enfant de 5 ans ont été blessés à la suite d’une frappe russe dans l’oblast de Zaporijia.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-une-frappe-russe-fait-deux-blesses-dans-la-region-de-zaporijia-selon-l-administration-militaire-locale_6741928_3210.html",
+          "id": "2026-08-14-04226bea",
+          "title": "Mozambique: nouvelle saisie d'une importante quantité de fentanyl à l'aéroport de Maputo",
+          "description": "Les autorités mozambicaines ont découvert 1,4 tonne de fentanyl dissimulé entre des flacons de cosmétiques en provenance du Brésil, jeudi 13 août. Cette saisie a eu lieu à l'aéroport de Maputo, tout comme celle, au mois de juillet, d'une autre cargaison de la même substance, posant de ce fait la question du rôle du pays dans les nouvelles routes du trafic des drogues de synthèse.",
+          "url": "https://www.rfi.fr/fr/afrique/20260814-mozambique-nouvelle-saisie-d-une-importante-quantit%C3%A9-de-fentanyl-%C3%A0-l-a%C3%A9roport-de-maputo",
+          "imageUrl": "https://s.rfi.fr/media/display/35d620f8-0df0-11ea-b728-005056a9aa4d/w:1024/p:16x9/Aeroporto_Maputo.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-14T22:38:46.000Z",
+          "fetchedAt": "2026-08-15T01:52:41.510Z"
+        },
+        {
+          "id": "2026-08-14-8566c361",
+          "title": "Au Soudan, une attaque des paramilitaires des FSR fait au moins 14 morts parmi les civils au Kordofan du Nord",
+          "description": "Des dizaines d’autres personnes ont été blessées lors de cet assaut mené par les rebelles à Umm Arda, à environ 200 kilomètres au sud de la capitale, Khartoum. Plusieurs villes soudanaises sont le théâtre d’attaques de plus en plus intenses menées par les FSR.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/15/au-soudan-une-attaque-des-paramilitaires-des-fsr-fait-au-moins-quatorze-morts-parmi-les-civils-au-kordofan-du-nord_6746295_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T21:48:35.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.189Z"
+          "publishedAt": "2026-08-14T22:37:07.000Z",
+          "fetchedAt": "2026-08-15T01:52:31.832Z"
         },
         {
-          "id": "2026-08-13-d429409f",
-          "title": "Céréales ukrainiennes: les attaques russes perturbent les exportations et inquiètent les marchés mondiaux",
-          "description": "Le port ukrainien d’Izmaïl, sur le Danube, a été frappé par la Russie dans la nuit du mercredi 12 au jeudi 13 août. Cette nouvelle attaque intervient alors que les infrastructures céréalières ukrainiennes sont régulièrement ciblées et que l’Ukraine riposte en visant notamment le port russe de Novorossiïsk, en mer Noire. Conséquence : les deux grands fournisseurs mondiaux de blé et de maïs voient leurs capacités d’exportation fragilisées, faisant craindre des tensions sur les prix et l’approvisionnement, notamment en Afrique et au Moyen-Orient.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260813-c%C3%A9r%C3%A9ales-ukrainiennes-les-attaques-russes-perturbent-les-exportations-et-inqui%C3%A8tent-les-march%C3%A9s-mondiaux",
-          "imageUrl": "https://s.rfi.fr/media/display/97ec0192-9721-11f1-a6c5-005056a90284/w:1024/p:16x9/2026-08-13T060335Z-1861426322-RC2MTMABFALC-RTRMADP-3-UKRAINE-CRISIS-AGRICULTURE.jpg",
-          "source": "RFI",
+          "id": "2026-08-14-d38ef467",
+          "title": "Royaume-Uni : face à des incendies inédits et une sécheresse historique, le premier ministre appelle à « faire face au changement climatique »",
+          "description": "A Stourbridge, 19 maisons ont été complètement détruites et 18 endommagées dans l’incendie. Des habitants ont été évacués et 54 personnes traitées pour inhalation de fumée, dont 16 ont été hospitalisées.",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/14/royaume-uni-face-a-des-incendies-inedits-et-une-secheresse-historique-le-premier-ministre-appelle-a-faire-face-au-changement-climatique_6746293_3244.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T16:08:02.000Z",
-          "fetchedAt": "2026-08-14T03:01:19.920Z"
+          "publishedAt": "2026-08-14T19:59:07.000Z",
+          "fetchedAt": "2026-08-15T01:52:31.832Z"
         },
         {
-          "id": "2026-08-13-dd6404d2",
-          "title": "Pologne : arrestation d'un ressortissant russe chargé d'\"exécuter\" un Américano-Ukrainien à Varsovie",
-          "description": "Un ressortissant russe qui aurait reçu \"l'ordre\" de Moscou d'\"exécuter\" un citoyen américano-ukrainien à Varsovie a été interpellé, a annoncé jeudi le Premier ministre polonais, Donald Tusk. L'assassinat a été empêché de justesse.",
-          "url": "https://www.france24.com/fr/europe/20260813-pologne-arrestation-ressortissant-russe-charg%C3%A9-ex%C3%A9cuter-am%C3%A9ricano-ukrainien-varsovie",
-          "imageUrl": "https://s.france24.com/media/display/7ece479e-9724-11f1-9d26-005056a90284/w:1024/p:16x9/000-B97V4G3.jpg",
+          "id": "2026-08-14-4eaab8a2",
+          "title": "Le jeune cycliste Finlay Tarling trouve la mort dans un accident au Tour du Portugal",
+          "description": "Le cycliste britannique Finlay Tarling, 19 ans, est mort vendredi dans accident survenu pendant la huitième étape du Tour du Portugal, a annoncé l'organisation de la course. L'évènement sportif a été suspendu \"en signe de respect et de deuil\".",
+          "url": "https://www.france24.com/fr/sports/20260814-le-jeune-cycliste-finlay-tarling-trouve-la-mort-dans-un-accident-au-tour-du-portugal",
+          "imageUrl": "https://s.france24.com/media/display/79eb2dcc-9806-11f1-81ef-005056a90284/w:1024/p:16x9/AP24267348865759.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T15:09:05.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.471Z"
+          "publishedAt": "2026-08-14T17:47:55.000Z",
+          "fetchedAt": "2026-08-15T01:52:31.931Z"
         },
         {
-          "id": "2026-08-13-b898fef7",
-          "title": "En mer Noire, le port russe de Novorossiisk subit une attaque “massive” de Kiev",
-          "description": "Les forces ukrainiennes ont lancé dans la nuit du 11 au 12 août une vague de missiles et de drones sur ce port stratégique, qui aurait notamment infligé des dégâts à quatre vaisseaux russes et à des infrastructures céréalières.",
-          "url": "https://www.courrierinternational.com/article/vu-d-ukraine-en-mer-noire-le-port-russe-de-novorossiisk-subit-une-attaque-massive-de-kiev_258888",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/12/0/400/4320/2880/1200/630/60/0/8c1368a_ftp-1-b7dxtymu0sqo-2026-08-12t105629z-1787001111-rc2ywmatsi3r-rtrmadp-3-ukraine-crisis-attack-novorossiysk.JPG",
-          "source": "Courrier International",
+          "id": "2026-08-14-4233fe14",
+          "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+          "description": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+          "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3016/live/a7f45110-97fe-11f1-bc94-d3a8a062b873.png",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T13:28:58.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.643Z"
+          "publishedAt": "2026-08-14T17:00:46.000Z",
+          "fetchedAt": "2026-08-15T01:52:41.323Z"
         },
         {
-          "id": "2026-08-13-c2f7c48f",
-          "title": "Guerre en Ukraine : deux cheminots tués dans une frappe russe contre un train de passagers",
-          "description": "Un conducteur de train et son assistant ont été tués dans une attaque de drone russe contre un train de passagers dans la région d'Odessa, dans le sud de l'Ukraine, a annoncé jeudi le directeur des chemins de fer nationaux ukrainiens.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260813-guerre-en-ukraine-deux-cheminots-tu%C3%A9s-dans-une-frappe-russe-contre-un-train-de-passagers",
-          "imageUrl": "https://s.france24.com/media/display/1e07359c-971a-11f1-9162-005056bf30b7/w:1024/p:16x9/FR-20260813-140106-140427-CS.jpg",
-          "source": "France 24",
+          "id": "2026-08-14-9ccfb44f",
+          "title": "« On est en train de perdre notre jeunesse » : dans le nord du Maroc, l’ombre des noyés de Ceuta",
+          "description": "A Tétouan, les familles se désespèrent après la mort de nombreux hommes qui ont tenté le passage à la nage jusqu’à l’enclave espagnole, fin juillet. Au total, plus de 140 d’entre eux auraient perdu la vie, selon une ONG marocaine. Malgré ces drames, beaucoup rêvent encore de gagner clandestinement l’Europe.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/14/on-est-en-train-de-perdre-notre-jeunesse-dans-le-nord-du-maroc-l-ombre-des-noyes-de-ceuta_6746281_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-13T13:27:43.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.471Z"
+          "publishedAt": "2026-08-14T16:00:04.000Z",
+          "fetchedAt": "2026-08-15T01:52:31.832Z"
         }
       ]
     },
     {
-      "id": "cluster-13",
-      "topic": "Stimulée par son secteur de la défense, la Pologne enregistre une croissance rec",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-13-48f8638d",
-          "title": "Stimulée par son secteur de la défense, la Pologne enregistre une croissance record dans l'UE",
-          "description": "Le pays, qui vient d'enregistrer une croissance de son PIB de 3,8% sur un an, doit notamment cette performance aux investissements du programme d'armement européen SAFE dont il est l'un des principaux bénéficiaires.",
-          "url": "https://www.rfi.fr/fr/europe/20260813-stimul%C3%A9e-par-son-secteur-de-la-d%C3%A9fense-la-pologne-enregistre-une-croissance-record-dans-l-ue",
-          "imageUrl": "https://s.rfi.fr/media/display/abd48faa-dc35-11f0-838c-005056a97e36/w:1024/p:16x9/2025-12-18T074658Z-595616455-RC2VIIAK947Q-RTRMADP-3-UKRAINE-CRISIS-EU-SUMMIT.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-13T21:20:28.000Z",
-          "fetchedAt": "2026-08-14T03:01:19.920Z"
-        },
-        {
-          "id": "2026-08-13-d897762f",
-          "title": "Un \"acteur malveillant\" a piraté le fisc fin juin, près de 680 000 personnes seraient concernées",
-          "description": "Le système d'information du fisc a été piraté fin juin, a annoncé jeudi le ministère français de l'Économie et des Finances. Selon French Breaches, un site spécialisé dans les cyberattaques, près de 680 000 personnes seraient concernées.",
-          "url": "https://www.france24.com/fr/france/20260813-acteur-malveillant-pirat%C3%A9-fisc-fin-juin-pr%C3%A8s-de-680-000-personnes-seraient-concern%C3%A9es",
-          "imageUrl": "https://s.france24.com/media/display/e437f1be-9749-11f1-a34a-005056a97e36/w:1024/p:16x9/2026-08-11T170845Z-1402842411-RC2EWMAVMB22-RTRMADP-3-FRANCE-ECONOMY.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-13T19:58:36.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.471Z"
-        },
-        {
-          "id": "2026-08-13-d015a570",
-          "title": "Canicules et sécheresse records: un été catastrophique en France et en Europe",
-          "description": "La vague de chaleur actuelle en France dure depuis 17 jours. Elle a dépassé en longueur celle de 2003. Cet été brûlant a aussi entraîné une sécheresse record en Europe. Au point que les fleuves européens sont à leur plus bas niveau. La Roumanie a dû mettre à l'arrêt son unique centrale nucléaire que le Danube ne pouvait plus refroidir. Le débit du Rhin perturbe le transport fluvial de marchandises. Et une commune de l'est de la France a dû être ravitaillée en eau par camion-citerne.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260813-canicules-et-s%C3%A9cheresse-records-un-%C3%A9t%C3%A9-catastrophique-en-france-et-en-europe",
-          "imageUrl": "https://s.france24.com/media/display/26873c90-9741-11f1-a930-005056bf30b7/w:1024/p:16x9/capture-5065409246a7e06b5898127-26465863.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-13T18:07:24.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.471Z"
-        },
-        {
-          "id": "2026-08-13-4edb4b63",
-          "title": "Grèce : un nouvel incendie près de Thessalonique, des touristes évacués",
-          "description": "Le feu, qui a commencé jeudi après-midi, se situe dans une zone boisée située à environ 90 kilomètres au sud de Thessalonique, deuxième ville de Grèce.",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-13T17:48:46.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.189Z"
-        },
-        {
-          "id": "2026-08-13-8bed5804",
-          "title": "Blockbusters et canicule: les cinémas français enregistrent une fréquentation record cet été",
-          "description": "Depuis le début du mois de juillet, les cinémas français enregistrent, en moyenne, 640 000 entrées par jour. Une hausse conséquente par rapport à l'été 2025 grâce à un faisceau de circonstances favorables.",
-          "url": "https://www.rfi.fr/fr/culture/20260813-blockbusters-et-canicule-les-cin%C3%A9mas-fran%C3%A7ais-enregistrent-une-fr%C3%A9quentation-record-cet-%C3%A9t%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/b3d35226-7f92-11f1-89ca-005056bfb2b6/w:1024/p:16x9/L-Odyssee.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-13T16:48:12.000Z",
-          "fetchedAt": "2026-08-14T03:01:19.920Z"
-        },
-        {
-          "id": "2026-08-13-f251e035",
-          "title": "Le Sénégal et la Gambie redéfinissent leurs frontières communes, héritées de la colonisation",
-          "description": "Le 29 juillet, un accord définitif a été finalisé pour clarifier le tracé des 749 kilomètres de frontière terrestre entre les deux pays, a annoncé le Secrétariat permanent sénégalo-gambien. Cette frontière avait été dessinée « sur une carte à main levée dans un huis clos parisien », le 10 août 1889.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/08/13/le-senegal-et-la-gambie-redefinissent-leurs-frontieres-communes-heritees-de-la-colonisation_6745811_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-13T15:00:05.000Z",
-          "fetchedAt": "2026-08-14T03:01:07.189Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-17",
-      "topic": "La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque",
+      "id": "cluster-22",
+      "topic": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-08-13-107b9cfe",
-          "title": "La plateforme des impôts, Impots.gouv.fr, victime d’une cyberattaque",
-          "description": "Bercy confirme une partie des affirmations du pirate, à savoir qu’il avait été repéré, en juin, par les services du ministère de l’économie. Mais ce dernier n’avait alors pas communiqué et n’avait surtout, semble-t-il, pas détecté la fuite de données.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/13/la-plateforme-des-impots-victime-d-une-cyberattaque_6745830_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-08-14-0778f93b",
+          "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-08-13T17:35:58.000Z",
-          "fetchedAt": "2026-08-14T03:01:19.973Z"
+          "publishedAt": "2026-08-14T14:27:14.000Z",
+          "fetchedAt": "2026-08-15T01:52:45.087Z"
         },
         {
-          "id": "2026-08-13-1eb912d2",
-          "title": "Pendant que nous regardions le ciel, les satellites ont filmé l’ombre de la Lune glisser sur la Terre",
-          "description": "Depuis la Terre, l’éclipse solaire du 12 août 2026 a offert un spectacle grandiose. Mais vu de l’espace, le phénomène était tout aussi vertigineux. Les satellites météorologiques ont filmé l’immense ombre de la Lune balayant la surface de la Terre à toute vitesse.",
-          "url": "https://www.numerama.com/sciences/2311207-pendant-que-nous-regardions-le-ciel-les-satellites-ont-filme-lombre-de-la-lune-glisser-sur-la-terre.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/ombre-eclipse.jpg?resize=1600,900&key=8693329a",
-          "source": "Numerama",
+          "id": "2026-08-14-9e1cabc1",
+          "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+          "description": "Samsung didn't have to change much this year because its hardware is just that good.",
+          "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-4-1152x648.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-08-13T15:35:36.000Z",
-          "fetchedAt": "2026-08-14T03:01:20.135Z"
-        },
-        {
-          "id": "2026-08-13-b1bdc744",
-          "title": "J’ai joué à Fire Emblem: Fortune’s Weaves sur Switch 2, et ce sera sans doute l’un de mes jeux de l’année",
-          "description": "À moins que tout s’écroule comme un château de cartes à mesure que j’avancerai dans l’histoire, je peux d’ores et déjà dire que Fire Emblem: Fortune’s Weave risque de figurer dans mon top 2026. Avec ce nouvel épisode, Nintendo pousse la recette Fire Emblem dans ses derniers retranchements avec un jeu choral, dense, complexe et fascinant.",
-          "url": "https://www.numerama.com/pop-culture/2310935-jai-joue-a-fire-emblem-fortunes-weaves-sur-switch-2-et-ce-sera-sans-doute-lun-de-mes-jeux-de-lannee.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/fire-emblem-fortunes-weave-1.png?resize=1600,900&key=d7926879",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-13T13:08:14.000Z",
-          "fetchedAt": "2026-08-14T03:01:20.135Z"
-        },
-        {
-          "id": "2026-08-12-134e325b",
-          "title": "Crise de Ceuta : l’UE annonce un « outil de communication » pour renforcer la lutte contre la désinformation sur Meta et TikTok",
-          "description": "Consécutivement aux événements du 30 et 31 juillet, encouragés par la diffusion d’informations erronées, les autorités européennes disent avoir obtenu des deux géants des réseaux sociaux qu’ils renforcent leur dispositif de vérification des informations.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/12/crise-de-ceuta-l-ue-annonce-un-outil-de-communication-pour-renforcer-la-lutte-contre-la-desinformation-sur-meta-et-tiktok_6745080_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-12T15:37:04.000Z",
-          "fetchedAt": "2026-08-14T03:01:19.973Z"
-        },
-        {
-          "id": "2026-08-12-2c06fa3c",
-          "title": "Les lendemains difficiles du fact-checking après un âge d’or lors de la crise due au Covid-19",
-          "description": "« Dix ans de post-vérité » (3/5). Le journalisme de vérification, qui a connu un essor sous Donald Trump et atteint son sommet pendant la pandémie, fait désormais face à une triple crise de financement, de confiance et de sens.",
-          "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/12/les-lendemains-difficiles-du-fact-checking-apres-un-age-d-or-lors-de-la-crise-due-au-covid-19_6745075_3451060.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-12T15:00:04.000Z",
-          "fetchedAt": "2026-08-14T03:01:19.973Z"
-        },
-        {
-          "id": "2026-08-12-9cf3f331",
-          "title": "Pologne : les données de la moitié de la population exposées par une cyberattaque",
-          "description": "Les premiers éléments privilégient la piste de cybercriminels agissant dans un but financier, a estimé le ministre de la numérisation, qui a exclu le paiement de toute rançon et promis de poursuivre « sans relâche » les auteurs.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/12/pologne-les-donnees-de-la-moitie-de-la-population-exposees-par-une-cyberattaque_6745073_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-12T14:51:11.000Z",
-          "fetchedAt": "2026-08-14T03:01:19.973Z"
+          "publishedAt": "2026-08-14T11:00:05.000Z",
+          "fetchedAt": "2026-08-15T01:52:45.087Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+      "topic": "Protein or pickled garlic? What's new in ice cream",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-13-0665e2f4",
-          "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
-          "description": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
-          "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dae0/live/7d93c650-9568-11f1-8b14-5d44448d174a.jpg",
+          "id": "2026-08-14-4f0a1ec0",
+          "title": "Protein or pickled garlic? What's new in ice cream",
+          "description": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+          "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c67/live/6a1b9720-7c35-11f1-b976-0b9c15b0ccfc.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-13T23:03:07.000Z",
-          "fetchedAt": "2026-08-14T03:01:26.586Z"
+          "publishedAt": "2026-08-14T21:20:19.000Z",
+          "fetchedAt": "2026-08-15T01:52:46.924Z"
         }
       ]
     }
