@@ -1,275 +1,176 @@
 {
-  "generatedAt": "2026-08-16T02:03:27.797Z",
+  "generatedAt": "2026-08-17T02:01:15.504Z",
   "clusterCount": 5,
   "clusters": [
     {
+      "id": "cluster-3",
+      "topic": "Ceuta: un Camerounais arrivé dans l'enclave espagnole témoigne sur ses condition",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-17-05f67073",
+          "title": "Ceuta: un Camerounais arrivé dans l'enclave espagnole témoigne sur ses conditions de vie",
+          "description": "Yéménites, Soudanais, Tchadiens, Égyptiens, Sénégalais, Algériens, et surtout Marocains : des milliers d’exilés survivent dans l’enclave espagnole de Ceuta, au nord du Maroc, sans solution de logement, dans des conditions difficiles, dans l’espoir d’obtenir l’asile politique ou une régularisation. François Hume-Ferkatadji a rencontré un ressortissant camerounais arrivé depuis le Maroc lors du franchissement collectif de la frontière fin juillet. Il décrit les conditions de vie dans l’enclave.",
+          "url": "https://www.rfi.fr/fr/afrique/20260817-ceuta-un-camerounais-arriv%C3%A9-dans-l-enclave-espagnole-t%C3%A9moigne-sur-ses-conditions-de-vie",
+          "imageUrl": "https://s.rfi.fr/media/display/df7c8a3c-9941-11f1-ae1f-005056a90284/w:1024/p:16x9/AP26215741040658.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-17T00:33:43.000Z",
+          "fetchedAt": "2026-08-17T01:57:25.574Z"
+        },
+        {
+          "id": "2026-08-16-066f2f22",
+          "title": "Appels à une enquête sur le « harcèlement » de Jason Arday, ancien professeur de Cambridge, retrouvé mort vendredi",
+          "description": "Le groupe militant « Good Law Project » soutenait le plus jeune professeur noir de Cambridge depuis qu’il avait démissionné, début août, de l’université et de son poste de membre du Jesus College, après que ces deux institutions ont ouvert des enquêtes sur des allégations de plagiat.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/16/appels-a-une-enquete-sur-le-harcelement-de-jason-arday-ancien-professeur-de-cambridge-retrouve-mort-vendredi_6747788_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-16T19:47:11.000Z",
+          "fetchedAt": "2026-08-17T01:57:14.929Z"
+        },
+        {
+          "id": "2026-08-16-b5c4fc03",
+          "title": "France: face aux dégâts provoqués par la sécheresse, Sébastien Lecornu adresse une lettre ouverte aux agriculteurs",
+          "description": "Le Premier ministre français, Sébastien Lecornu, s'est adressé aux agriculteurs dans une lettre ouverte publiée dans la presse quotidienne régionale samedi 15 août. Réaffirmant son soutien au monde agricole, celui-ci y prend notamment la défense de la loi d'urgence agricole validée en fin de semaine par le Conseil constitutionnel dans sa quasi-totalité, malgré de nombreuses controverses écologiques. Il y promet aussi aides financières ciblées, allègement de charges et indemnisations aux exploitations les plus affectées par les canicules à répétition et la sécheresse.",
+          "url": "https://www.rfi.fr/fr/france/20260816-france-face-aux-d%C3%A9g%C3%A2ts-provoqu%C3%A9s-par-la-s%C3%A9cheresse-s%C3%A9bastien-lecornu-adresse-une-lettre-ouverte-aux-agriculteurs",
+          "imageUrl": "https://s.rfi.fr/media/display/818da87c-7f9f-11f1-9f0b-005056a90284/w:1024/p:16x9/000-C24D83Y.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-16T16:33:01.000Z",
+          "fetchedAt": "2026-08-17T01:57:25.574Z"
+        },
+        {
+          "id": "2026-08-16-e128a148",
+          "title": "Sénégal : les régates de pirogues, une tradition vieille de deux siècles à Saint-Louis",
+          "description": "À Saint-Louis, au Sénégal, les traditionnelles régates de pirogues perpétuent une tradition vieille de près de deux siècles. Dans le quartier de pêcheurs de Guet Ndar, cette course de 3,5 km rassemble chaque année rameurs et habitants autour d'un événement culturel et sportif majeur. Mais malgré son succès populaire et les revenus qu'elle génère, les participants ne sont pas rémunérés et réclament davantage de reconnaissance pour cette discipline.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9n%C3%A9gal-les-r%C3%A9gates-de-pirogues-une-tradition-vieille-de-deux-si%C3%A8cles-%C3%A0-saint-louis",
+          "imageUrl": "https://s.france24.com/media/display/f6c361a8-9986-11f1-84a7-005056bfb2b6/w:1024/p:16x9/FR-20260816-171312-171511-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-16T16:03:10.000Z",
+          "fetchedAt": "2026-08-17T01:57:15.047Z"
+        },
+        {
+          "id": "2026-08-16-ac3e4f34",
+          "title": "Kenya : un mal mystérieux décime les éléphants",
+          "description": "Au Kenya, un mystérieux mal décime les éléphants dans une région touristique du sud du pays. Au moins 20 pachydermes sont morts depuis juin. Les autorités évoquent des traces de cyanure, une piste qui laisse sceptiques agriculteurs et scientifiques.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260816-kenya-un-mal-myst%C3%A9rieux-d%C3%A9cime-les-%C3%A9l%C3%A9phants",
+          "imageUrl": "https://s.france24.com/media/display/cb26b40c-9989-11f1-a670-005056a97e36/w:1024/p:16x9/FR-20260815-215427-215557-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-16T15:55:54.000Z",
+          "fetchedAt": "2026-08-17T01:57:15.047Z"
+        },
+        {
+          "id": "2026-08-16-e241b23e",
+          "title": "En Indonésie, les attaques de singes révèlent un déséquilibre écologique",
+          "description": "À Tembilahan, à Sumatra, une vingtaine d’habitants ont été attaqués par des singes sauvages en quelques semaines. Un épisode qui, pour la presse locale, révèle les tensions croissantes entre la population et la faune sauvage, sur fond de perturbations croissantes des habitats naturels.",
+          "url": "https://www.courrierinternational.com/article/animaux-en-indonesie-les-attaques-de-singes-revelent-un-desequilibre-ecologique_258009",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/07/0/0/6000/4000/1200/630/60/0/9c63e38_ftp-1-t7woqj7vzvdf-afp-c4732k4.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-16T15:26:07.000Z",
+          "fetchedAt": "2026-08-17T01:57:15.436Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-16-3199606a",
+          "title": "Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du Sud pour préserver ses liens avec le dirigeant nord-coréen, Kim Jong-un",
+          "description": "Selon le président américain, ces exercices, qui ont commencé lundi, sont « coûteux » et « envoient un signal totalement inapproprié et hostile » envers Pyongyang. Séoul a annoncé que ces manœuvres avec les Etats-Unis ont commencé « comme prévu ».",
+          "url": "https://www.lemonde.fr/international/article/2026/08/17/donald-trump-demande-a-reduire-les-exercices-militaires-menes-avec-la-coree-du-sud-pour-preserver-ses-liens-avec-le-dirigeant-nord-coreen-kim-jong-un_6747888_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-16T23:14:58.000Z",
+          "fetchedAt": "2026-08-17T01:57:14.929Z"
+        },
+        {
+          "id": "2026-08-16-1c0d0202",
+          "title": "Donald Trump va réduire \"considérablement\" les exercices militaires conjoints avec la Corée du Sud",
+          "description": "Le président américain a déclaré, dimanche via son réseau Truth Social, avoir demandé de réduire de manière significative les exercices militaires conjoints avec la Corée du Sud devant débuter lundi. Des exercices \"coûteux\" qui \"envoient un signal totalement inapproprié et hostile\" envers Pyongyang, selon Donald Trump.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260816-donald-trump-va-reduire-considerablement-exercices-militaires-avec-coree-du-sud-etats-unis-coree-nord-kim-jong-un",
+          "imageUrl": "https://s.france24.com/media/display/45b74abc-99c4-11f1-a872-005056bfb2b6/w:1024/p:16x9/000-72JR2KF.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-16T22:54:38.000Z",
+          "fetchedAt": "2026-08-17T01:57:15.047Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-8",
+      "topic": "Présidentielle au Brésil: Lula et son principal adversaire, Flavio Bolsonaro, la",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-16-6154685f",
+          "title": "Présidentielle au Brésil: Lula et son principal adversaire, Flavio Bolsonaro, lancent leur campagne",
+          "description": "La campagne pour la présidentielle d'octobre est officiellement ouverte au Brésil. Les deux principaux candidats, le président sortant Lula et son adversaire de droite, le fils de l'ancien chef de l'État Jair Bolsonaro, ont lancé leur campagne ce dimanche 16 août.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260816-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-son-principal-adversaire-flavio-bolsonaro-lancent-leur-campagne",
+          "imageUrl": "https://s.rfi.fr/media/display/0f504062-948f-11f1-9c3c-005056a90284/w:1024/p:16x9/Sans-titre-10-ao%C3%BBt-2026-%C3%A0-09-38-50.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-16T22:43:01.000Z",
+          "fetchedAt": "2026-08-17T01:57:25.574Z"
+        },
+        {
+          "id": "2026-08-16-ba2efa67",
+          "title": "Présidentielle au Brésil : Lula et Flávio Bolsonaro au coude-à-coude",
+          "description": "L’élection présidentielle brésilienne d’octobre s’annonce comme un nouveau duel entre les camps de Lula et de Bolsonaro. Le président sortant Luiz Inácio Lula da Silva brigue un quatrième mandat, tandis que Flávio Bolsonaro prend le relais de son père Jair Bolsonaro, actuellement emprisonné. Au coude-à-coude dans les sondages, les deux favoris défendent des visions très différentes du pays, sur fond de tensions avec Washington et de rapprochement de la droite brésilienne avec Donald Trump.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260816-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-fl%C3%A1vio-bolsonaro-au-coude-%C3%A0-coude",
+          "imageUrl": "https://s.france24.com/media/display/15425cee-9976-11f1-84a7-005056a90284/w:1024/p:16x9/FR-20260816-150346-150529-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-16T13:44:00.000Z",
+          "fetchedAt": "2026-08-17T01:57:15.047Z"
+        }
+      ]
+    },
+    {
       "id": "cluster-1",
-      "topic": "EN DIRECT, guerre en Ukraine : le maire de Kiev annonce une attaque de missiles ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-16-29aa3926",
-          "title": "EN DIRECT, guerre en Ukraine : le maire de Kiev annonce une attaque de missiles alors que retentissent des explosions dans la capitale",
-          "description": "« Restez aux abris ! », a lancé aux habitants Vitali Klitschko, sur Telegram, peu avant 3 heures locales (2 heures à Paris). L’administration militaire de la capitale a fait état d’un incendie dans un bâtiment non résidentiel dans le quartier Obolonsky.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-le-maire-de-kiev-annonce-une-attaque-de-missiles-alors-que-retentissent-des-explosions-dans-la-capitale_6746952_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-16T00:47:40.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.329Z"
-        },
-        {
-          "id": "2026-08-15-3baced74",
-          "title": "Ceuta: pas d'arrivée massive aux abords de l'enclave, un important dispositif sécuritaire déployé",
-          "description": "Alors que des appels à un nouveau franchissement, ce week-end, des frontières entre le Maroc et les enclaves espagnoles de Ceuta et de Melilla ont circulé sur les réseaux sociaux, ces derniers ne semblent pas avoir, cette fois, trouvé d'écho. Si les commanditaires de ces messages partagés des dizaines de milliers de fois en ligne n'ont toujours pas été clairement identifiés, le Maroc a mis en place un énorme dispositif de sécurité pour éviter toute migration clandestine.",
-          "url": "https://www.rfi.fr/fr/afrique/20260815-ceuta-maroc-dispositifs-s%C3%A9curitaires-renforc%C3%A9s-pour-d%C3%A9courager-les-candidats-%C3%A0-l-immigration-ill%C3%A9gale",
-          "imageUrl": "https://s.rfi.fr/media/display/b0b55d2c-98b1-11f1-8c6c-005056bf30b7/w:1024/p:16x9/AP26227275469791.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T14:02:00.000Z",
-          "fetchedAt": "2026-08-16T01:59:37.473Z"
-        },
-        {
-          "id": "2026-08-15-b7d75eb0",
-          "title": "Incendie en Belgique : le feu dans un parc naturel dans l’est du pays a déjà parcouru 2 700 hectares",
-          "description": "Ce feu s’est déclaré en milieu de journée vendredi, dans les Hautes Fagnes, une grande zone boisée prisée des randonneurs et proche de l’Allemagne, et s’est rapidement propagé durant la nuit.",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/15/incendie-en-belgique-le-feu-dans-un-parc-naturel-a-l-est-du-pays-a-deja-parcouru-1-650-hectares_6746673_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T13:39:04.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.329Z"
-        },
-        {
-          "id": "2026-08-15-3914aa54",
-          "title": "Le triangle des Bermudes : un mystère pas si mystérieux que ça",
-          "description": "Disparitions mystérieuses, navires découverts abandonnés... Le triangle des Bermudes est considéré par certains comme la zone la plus dangereuse du monde. Mais mérite-t-elle vraiment cette réputation ?",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260815-triangle-des-bermudes-myst%C3%A8re-pas-si-myst%C3%A9rieux-mythe-l%C3%A9gende-culture-prime",
-          "imageUrl": "https://s.france24.com/media/display/31f6613c-74d2-11f1-967f-005056a97e36/w:1024/p:16x9/Miniature-Triangle-Bermudes-Web.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T12:45:19.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.347Z"
-        },
-        {
-          "id": "2026-08-15-82496671",
-          "title": "Un séisme fait au moins 40 morts en Indonésie, “tout le monde s’est mis à paniquer”",
-          "description": "L’île de Florès, dans le sud-est de l’Indonésie, a été secouée par un tremblement de terre, samedi 15 août, tôt le matin. Le bilan, encore provisoire, est de 40 morts. Les témoignages recueillis par la presse internationale font état d’importants dégâts matériels.",
-          "url": "https://www.courrierinternational.com/article/catastrophe-naturelle-un-seisme-fait-au-moins-40-morts-en-indonesie-tout-le-monde-s-est-mis-a-paniquer_259746",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/15/0/0/3280/2186/1200/630/60/0/b52c0ec_ftp-1-wsbipv1tinkd-2026-08-15t093053z-2143231222-rc2xyma900th-rtrmadp-3-indonesia-quake.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T12:33:47.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.578Z"
-        },
-        {
-          "id": "2026-08-15-0daaea00",
-          "title": "Les hommages se multiplient après la mort de Jason Arday, qui fut le plus jeune professeur noir de Cambridge, avant d’être accusé de plagiat",
-          "description": "Plusieurs proches et collègues dénoncent aujourd’hui « un harcèlement » que le professeur de sociologie de l’éducation subissait depuis sa nomination il y a trois ans au sein de la prestigieuse université anglaise.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/15/les-hommages-se-multiplient-apres-la-mort-de-jason-arday-qui-fut-le-plus-jeune-professeur-noir-de-cambridge-avant-d-etre-accuse-de-plagiat_6746667_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T11:45:15.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.329Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-11",
-      "topic": "France: une centaine de vols EasyJet annulés en raison d'une grève des personnel",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-15-3be458fe",
-          "title": "France: une centaine de vols EasyJet annulés en raison d'une grève des personnels de cabine",
-          "description": "Samedi 15 et dimanche 16 août, hôtesses et stewards français de la compagnie aérienne EasyJet sont en grève pour réclamer une amélioration de leurs conditions de travail. Massivement suivi, le mouvement social a conduit à l'annulation d'une centaine de vols.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260815-france-une-centaine-de-vols-easyjet-annul%C3%A9s-en-raison-d-une-gr%C3%A8ve-des-personnels-de-cabine",
-          "imageUrl": "https://s.rfi.fr/media/display/3629ad80-7ad7-11f1-bc4b-005056bfb2b6/w:1024/p:16x9/2026-07-05T191558Z-811129955-RC2V7MA71WEH-RTRMADP-3-EASYJET-M-A-CASTLELAKE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T21:13:58.000Z",
-          "fetchedAt": "2026-08-16T01:59:37.473Z"
-        },
-        {
-          "id": "2026-08-15-9d61d52a",
-          "title": "En France, il faut à tout prix sauver les piscines municipales en zones rurales",
-          "description": "Le quotidien britannique “The Guardian” s’est rendu dans deux villages du Maine-et-Loire où les habitants se mobilisent pour sauver leurs piscines municipales. Le budget des communes ne permet plus d’assurer les dépenses d’entretien de ces infrastructures vieillissantes. Elles constituent pourtant des refuges indispensables face à la canicule et des lieux d’apprentissages pour la natation.",
-          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-en-france-il-faut-a-tout-prix-sauver-les-piscines-municipales-en-zones-rurales_259779",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/15/0/0/4999/3333/1200/630/60/0/2387636_upload-1-6w2p6k5hbwma-080-hl-nguyonnet-3189576.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T16:03:10.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.578Z"
-        },
-        {
-          "id": "2026-08-15-54544898",
-          "title": "Après le piratage du fisc, le parquet de Paris ouvre une enquête",
-          "description": "Le parquet de Paris a annoncé samedi avoir ouvert une enquête après la cyberattaque ayant permis fin juin à des pirates de voler les données personnelles de près de 700 000 usagers de l'administration fiscale. Pour les particuliers, ces données concernent notamment les noms et prénoms, le quotient familial, le revenu fiscal de référence et le taux de prélèvement à la source.",
-          "url": "https://www.france24.com/fr/france/20260815-apr%C3%A8s-piratage-fisc-parquet-paris-ouvre-enqu%C3%AAte",
-          "imageUrl": "https://s.france24.com/media/display/cf2959a6-98bc-11f1-b720-005056a97e36/w:1024/p:16x9/000-C4MT4G3.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T15:51:00.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.347Z"
-        },
-        {
-          "id": "2026-08-15-08bba1cc",
-          "title": "Les vignes gagnent du terrain en Ethiopie grâce à un partenariat avec la France",
-          "description": "L’Ethiopie pourrait bientôt devenir un nouveau géant du vin africain. Un partenariat entre viticulteurs locaux et experts français a permis l’importation de cépages bordelais. Les Ethiopiens consomment de plus en plus de bouteilles de ce vin local et les exportations sont en constante augmentation.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260815-les-vignes-gagnent-du-terrain-en-ethiopie-gr%C3%A2ce-%C3%A0-un-partenariat-avec-la-france",
-          "imageUrl": "https://s.france24.com/media/display/f9c11ade-9888-11f1-be2b-005056bf30b7/w:1024/p:16x9/FR-20260814-215528-215725-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T09:14:48.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.347Z"
-        },
-        {
-          "id": "2026-08-14-b90370ec",
-          "title": "France's top court blocks social media ban for under-15s",
-          "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-          "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f52/live/af679960-97f5-11f1-9577-b1309b6ea3af.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-14T16:35:06.000Z",
-          "fetchedAt": "2026-08-16T01:59:37.767Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-12",
-      "topic": "Son contrôle judiciaire assoupli, Patrick Bruel est autorisé à quitter le territ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-15-6bd214bb",
-          "title": "Son contrôle judiciaire assoupli, Patrick Bruel est autorisé à quitter le territoire français",
-          "description": "Le contrôle judiciaire de Patrick Bruel, mis en examen pour viol et agression sexuelle, a été assoupli, l'autorisant à quitter le territoire français, a déclaré samedi le parquet de Nanterre. Ce dernier a indiqué avoir fait appel de cette décision.",
-          "url": "https://www.france24.com/fr/france/20260815-son-contr%C3%B4le-judiciaire-assoupli-patrick-bruel-autoris%C3%A9-%C3%A0-quitter-le-territoire-fran%C3%A7ais",
-          "imageUrl": "https://s.france24.com/media/display/92c00e36-63df-11f1-9aef-005056a90284/w:1024/p:16x9/000-79632BL.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T21:13:20.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.347Z"
-        },
-        {
-          "id": "2026-08-15-75407e4d",
-          "title": "Incendies en France: le feu dans les Landes a brûlé 1580 hectares, mais les conditions s'améliorent",
-          "description": "Le feu de forêt dans les Landes, dans le sud-ouest de la France, s'est à nouveau propagé ce samedi 15 août à l'aube et a désormais brûlé 1580 hectares. Mais les conditions météorologiques s'annoncent plus favorables avec des températures moins caniculaires et de possibles pluies en soirée.",
-          "url": "https://www.rfi.fr/fr/france/20260815-incendies-en-france-le-feu-dans-les-landes-a-br%C3%BBl%C3%A9-1580-hectares-mais-les-conditions-s-am%C3%A9liorent",
-          "imageUrl": "https://s.rfi.fr/media/display/afc885d4-9892-11f1-9450-005056bf30b7/w:1024/p:16x9/2026-08-14T154357Z-1569004671-RC2FYMAMS3PS-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T11:20:54.000Z",
-          "fetchedAt": "2026-08-16T01:59:37.473Z"
-        },
-        {
-          "id": "2026-08-15-04549fa7",
-          "title": "Quand les descendants français de républicains espagnols s'emparent de leur histoire (4/4)",
-          "description": "Il y a 90 ans, la guerre d'Espagne (4/4). Quatre-vingt-dix ans après le début de ce conflit, l'intérêt pour son histoire est croissant, notamment en France, où vivent des descendants de républicains espagnols. Ils sont de plus en plus nombreux à se lancer dans des recherches pour retracer le parcours, souvent tragique, de leurs ancêtres.",
-          "url": "https://www.france24.com/fr/europe/20260815-descendants-republicains-espagnols-guerre-espagne-archives-histoire-enquete",
-          "imageUrl": "https://s.france24.com/media/display/5ea89dba-8c0d-11f1-adc9-005056a90284/w:1024/p:16x9/ms7ggrhd.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-15T09:45:50.000Z",
-          "fetchedAt": "2026-08-16T01:59:27.347Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-13",
-      "topic": "En 1989, deux chercheurs ont cru révolutionner l’énergie mondiale en bâclant une",
+      "topic": "OpenAI reportedly disbanded its preparedness team",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-08-15-f44f13ee",
-          "title": "En 1989, deux chercheurs ont cru révolutionner l’énergie mondiale en bâclant une expérience",
-          "description": "La fusion est la réaction qui a lieu à l’intérieur du Soleil et qui fournit une quantité d’énergie immense. Pour amorcer cette réaction, il faut atteindre des températures extrêmement élevées : 100 millions de degrés Celsius, ce qui est très complexe sur Terre. Imaginez l’enthousiasme général lorsque deux équipes de recherche ont annoncé avoir observé une fusion à température ambiante : la promesse d’une énergie illimitée et propre. Un peu trop beau pour être vrai !",
-          "url": "https://www.numerama.com/sciences/2311889-en-1989-deux-chercheurs-ont-cru-revolutionner-lenergie-mondiale-en-baclant-une-experience.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/fusion-froide.jpg?resize=1600,900&key=a6ec104e",
-          "source": "Numerama",
+          "id": "2026-08-16-d1b7ed52",
+          "title": "OpenAI reportedly disbanded its preparedness team",
+          "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads towards what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AG …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-08-15T14:01:00.000Z",
-          "fetchedAt": "2026-08-16T01:59:37.816Z"
-        },
-        {
-          "id": "2026-08-15-d7cfa658",
-          "title": "Une « étoile trou noir ». Quel est ce mystérieux objet découvert par le télescope James Webb ?",
-          "description": "Un astre jusqu'ici purement théorique vient d'être observé concrètement pour la première fois. Connu sous le nom de quasi-étoile, il s'agirait d'un élément clé pour comprendre certains phénomènes mystérieux qui se sont déroulés peu après le Big Bang.",
-          "url": "https://www.numerama.com/sciences/2311583-une-etoile-trou-noir-quel-est-ce-mysterieux-objet-decouvert-par-le-telescope-james-webb.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/xraydot-illus-unlabeled.jpg?resize=1600,900&key=57175d6c",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-15T12:31:00.000Z",
-          "fetchedAt": "2026-08-16T01:59:37.816Z"
-        },
-        {
-          "id": "2026-08-15-089484b2",
-          "title": "Après l’éclipse d’août 2026, le set Lego Terre et Lune en promo permet d’en expliquer le fonctionnement",
-          "description": "[Deal du jour] Vous avez suivi l’éclipse du 12 août 2026 en famille avec intérêt, et vos enfants vous inondent de questions depuis ? Ce set permet de recréer les mouvements de notre planète bleue et de la Lune en orbite, qui passe devant le Soleil, et de comprendre un peu mieux le fonctionnement de tout ce beau monde.",
-          "url": "https://www.numerama.com/pop-culture/2311975-ce-lego-en-promotion-permet-de-mieux-comprendre-comment-fonctionne-une-eclipse-apres-leclipse-daout-2026-le-set-lego-terre-et-lune-en-promo-permet-den-expliquer-le-fonctionnement.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/04/la-planete-terre-et-la-lune-en-orbite.jpg?resize=1600,900&key=174c7eba",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-15T08:00:00.000Z",
-          "fetchedAt": "2026-08-16T01:59:37.816Z"
-        },
-        {
-          "id": "2026-08-15-6e0644a0",
-          "title": "Star Wars : le premier trailer d’Ahsoka saison 2 promet une guerre totale",
-          "description": "Les fans l'attendaient avec impatience : Lucasfilm vient de sortir la toute première bande-annonce de la saison 2 d'Ahsoka. Ces nouvelles images promettent une suite de haute volée, marquée par le retour du Grand Amiral Thrawn et de vieilles connaissances.",
-          "url": "https://www.numerama.com/pop-culture/2312215-star-wars-le-premier-trailer-dahsoka-saison-2-promet-une-guerre-totale.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/ahsoka-saison-2.jpg?resize=1600,900&key=8e0f4a87",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-15T06:31:56.000Z",
-          "fetchedAt": "2026-08-16T01:59:37.816Z"
-        },
-        {
-          "id": "2026-08-15-06a574a9",
-          "title": "« Je cherchais une manière de réduire ma consommation de vidéos porno » : le succès grandissant des services d’IA érotiques",
-          "description": "Porté par les progrès de l’intelligence artificielle génératrice de textes et d’images, le « jeu de rôle intime » avec des chatbots a connu un fort essor. Avec des pratiques très variées, mais aussi plutôt genrées.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/15/je-cherchais-une-maniere-de-reduire-ma-consommation-de-videos-porno-le-succes-grandissant-des-services-d-ia-erotiques_6746503_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-15T04:00:18.000Z",
-          "fetchedAt": "2026-08-16T01:59:37.550Z"
-        },
-        {
-          "id": "2026-08-14-8348f69b",
-          "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
-          "description": "It turns out that the economics of rocket reuse are pretty, pretty good.",
-          "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-1152x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-08-14T16:29:21.000Z",
-          "fetchedAt": "2026-08-16T01:59:41.208Z"
+          "publishedAt": "2026-08-16T21:32:56.000Z",
+          "fetchedAt": "2026-08-17T01:57:29.698Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "I survived two years as prime minister in a hit new game - then my cabinet deser",
+      "id": "cluster-2",
+      "topic": "How switching your bank account could earn you up to £220",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-15-141fbfd7",
-          "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-          "description": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-          "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+          "id": "2026-08-16-337dbe9d",
+          "title": "How switching your bank account could earn you up to £220",
+          "description": "New research suggests staying put is costing British savers billions in missed interest every year.",
+          "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a01/live/cc8b5e60-9628-11f1-adec-3f90c109009f.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-15T23:45:44.000Z",
-          "fetchedAt": "2026-08-16T01:59:44.365Z"
+          "publishedAt": "2026-08-16T23:14:47.000Z",
+          "fetchedAt": "2026-08-17T01:57:31.502Z"
         }
       ]
     }
