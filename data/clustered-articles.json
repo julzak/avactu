@@ -1,242 +1,253 @@
 {
-  "generatedAt": "2026-08-18T01:57:13.772Z",
+  "generatedAt": "2026-08-19T01:59:25.567Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Russia warns UK over supplying drones to Ukraine",
+      "id": "cluster-3",
+      "topic": "Deux réalisateurs français arrêtés et détenus au Togo depuis le 27 juillet, selo",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-18-a35f373c",
-          "title": "Russia warns UK over supplying drones to Ukraine",
-          "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-          "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T01:16:41.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.851Z"
-        },
-        {
-          "id": "2026-08-17-94f48d44",
-          "title": "EN DIRECT, guerre en Ukraine : les autorités ukrainiennes font état d’attaques russes nocturnes, notamment dans le sud du pays",
-          "description": "Au moins deux personnes ont été tuées à la suite d’une frappe russe sur la ville de Zaporijia, dans le sud de l’Ukraine, a annoncé le chef de l’administration militaire de l’oblast de Zaporijia, Ivan Fedorov.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-les-autorites-ukrainiennes-font-etat-d-attaques-russes-nocturnes-notamment-dans-le-sud-du-pays_6746952_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-17T20:00:17.000Z",
-          "fetchedAt": "2026-08-18T01:53:13.303Z"
-        },
-        {
-          "id": "2026-08-17-c579283d",
-          "title": "Russia and Ukraine trade more deadly strikes",
-          "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-          "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff99/live/3f3c3600-9a39-11f1-a86b-519b4d19bbee.png",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-17T13:16:50.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.851Z"
-        },
-        {
-          "id": "2026-08-16-206727c7",
-          "title": "BBC visits smouldering Kyiv market after Russian strikes",
-          "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-          "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-16T12:18:09.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.851Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "BBC breaks down Trump's latest shift on North and South Korea",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-17-934199fc",
-          "title": "BBC breaks down Trump's latest shift on North and South Korea",
-          "description": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
-          "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-17T23:42:38.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.851Z"
-        },
-        {
-          "id": "2026-08-17-5517ec00",
-          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-          "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-          "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-17T18:39:39.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.851Z"
-        },
-        {
-          "id": "2026-08-17-2977da46",
-          "title": "Corée du Sud : Trump réduit la participation américaine aux exercices militaires",
-          "description": "Donald Trump annonce une forte réduction de la participation américaine aux exercices militaires avec la Corée du Sud, invoquant leur coût et sa \"très bonne relation\" avec Kim Jong-un.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260817-cor%C3%A9e-du-sud-trump-r%C3%A9duit-la-participation-am%C3%A9ricaine-aux-exercices-militaires",
-          "imageUrl": "https://s.france24.com/media/display/14c6bccc-9a27-11f1-ad36-005056a97e36/w:1024/p:16x9/MINIA-TRUMP-COREE.jpg",
+          "id": "2026-08-19-03bc8671",
+          "title": "Deux réalisateurs français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d'Orsay",
+          "description": "Arrêtés le 27 juillet au Togo, deux ressortissants français \"font actuellement l'objet d'une information judiciaire conduite par un juge d'instruction\", a indiqué mardi le ministère français des Affaires étrangères à l'AFP. Selon des médias locaux, il s'agit de deux journalistes réalisateurs.",
+          "url": "https://www.france24.com/fr/afrique/20260819-deux-realisateurs-fran%C3%A7ais-arretes-detenus-togo-quai-orsay-medias-affaires-etrangeres-rsf",
+          "imageUrl": "https://s.france24.com/media/display/da9bf7ba-0c66-11ef-b20f-005056a90284/w:1024/p:16x9/Quai_d%E2%80%99Orsay_%40_Ministry_of_Foreign_Affairs_%40_Paris_%2829732094026%29.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-17T10:35:27.000Z",
-          "fetchedAt": "2026-08-18T01:53:14.085Z"
+          "publishedAt": "2026-08-19T00:19:46.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.984Z"
+        },
+        {
+          "id": "2026-08-18-a311c514",
+          "title": "La France va expulser deux diplomates iraniens «dans les tout prochains jours» après l’arrestation de diplomates français",
+          "description": "Paris va expulser deux diplomates iraniens en poste en France, en représailles à la décision de l’Iran de décréter persona non grata deux diplomates de l’ambassade de France à Téhéran, a annoncé, mardi 18 août 2026 au soir, le ministre des Affaires étrangères français, Jean-Noël Barrot. Ces derniers avaient été brièvement arrêtés le 19 juillet lors d’une rencontre avec deux graphistes iraniens, Aria Kasaei et Elahe « Elly » Naghilou, eux aussi arrêtés et toujours détenus en Iran.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260818-la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours-apr%C3%A8s-l-arrestation-de-diplomates-fran%C3%A7ais",
+          "imageUrl": "https://s.rfi.fr/media/display/e9ed24ac-844e-11f1-a8b2-005056bf30b7/w:1024/p:16x9/AP26195268040359.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T23:47:39.000Z",
+          "fetchedAt": "2026-08-19T01:55:35.723Z"
+        },
+        {
+          "id": "2026-08-18-f356aad1",
+          "title": "Deux Français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d’Orsay",
+          "description": "Il s’agit de deux « réalisateurs » travaillant « pour une société de production française », selon le ministère des affaires étrangères français, dont la production devait être diffusée sur France Télévisions, d’après des médias locaux.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/18/deux-francais-arretes-et-detenus-au-togo-depuis-le-27-juillet-selon-le-quai-d-orsay_6749091_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T21:28:31.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.837Z"
+        },
+        {
+          "id": "2026-08-18-0044df5d",
+          "title": "Piratage massif des données fiscales: la France, «cible facile» des hackeurs ZeroBytes",
+          "description": "En France, le gouvernement a présenté ce mardi ses excuses pour les piratages subis depuis la fin du mois de juin par les services du fisc – la direction générale des finances publiques. Car les données personnelles de quelque 700 000 particuliers et entreprises ont été volées.",
+          "url": "https://www.rfi.fr/fr/france/20260818-piratage-massif-des-donn%C3%A9es-fiscales-la-france-cible-facile-des-hackeurs-zerobytes",
+          "imageUrl": "https://s.rfi.fr/media/display/43439ecc-9b3e-11f1-ad54-005056a97e36/w:1024/p:16x9/000-C4UZ6KZ.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T20:12:40.000Z",
+          "fetchedAt": "2026-08-19T01:55:35.723Z"
+        },
+        {
+          "id": "2026-08-18-e13badef",
+          "title": "Paris va expulser deux diplomates iraniens en représailles à la décision de Téhéran",
+          "description": "Le ministre français des Affaires étrangères a annoncé, mardi soir, que Paris va expulser deux diplomates iraniens en poste en France. Il s'agit d'une mesure de représailles à la décision de l'Iran de décréter persona non grata deux diplomates de l'ambassade de France à Téhéran.",
+          "url": "https://www.france24.com/fr/france/20260818-paris-va-expulser-deux-diplomates-iraniens-en-repr%C3%A9sailles-%C3%A0-la-d%C3%A9cision-de-t%C3%A9h%C3%A9ran",
+          "imageUrl": "https://s.france24.com/media/display/8e12e38a-9b35-11f1-9d6e-005056a97e36/w:1024/p:16x9/000-C2UL234.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T19:38:39.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.984Z"
+        },
+        {
+          "id": "2026-08-18-5eb08fbb",
+          "title": "La France va expulser deux diplomates iraniens « dans les tout prochains jours »",
+          "description": "Il s’agit d’une mesure en représailles à la décision iranienne de ne pas autoriser le retour en Iran de deux diplomates français qui avaient été brièvement arrêtés à Téhéran en juillet avant de quitter le pays.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/18/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_6749089_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T19:05:32.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.837Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "Au Texas, Donald Trump suspend un projet de sécurisation de la frontière avec le",
+      "id": "cluster-6",
+      "topic": "Dialogue rompu entre les États-Unis et l'Iran, les Émirats suspendent le commerc",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-17-66a11cbf",
-          "title": "Au Texas, Donald Trump suspend un projet de sécurisation de la frontière avec le Mexique dans le parc national Big Bend",
-          "description": "Très critiqué par les habitants et des élus locaux, le plan prévoyait d’installer des barrières, des dispositifs d’éclairage et des technologies de détection au sein de cet espace protégé.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/18/au-texas-donald-trump-suspend-un-projet-de-securisation-de-la-frontiere-avec-le-mexique_6748517_3210.html",
+          "id": "2026-08-18-d9f33080",
+          "title": "Dialogue rompu entre les États-Unis et l'Iran, les Émirats suspendent le commerce avec Téhéran",
+          "description": "Le président américain Donald Trump a écrit mardi qu'\"aucune discussion n'a lieu en ce moment ni n'est programmée avec l'Iran\". De son côté, Téhéran maintient son verrou sur le détroit d'Ormuz, des positions qui illustrent l'impasse dans laquelle se trouve le conflit. Les Émirats arabes unis ont accusé l'Iran d'avoir tiré deux missiles balistiques, puis annoncé suspendre tous \"les échanges commerciaux\" et \"transactions financières\" avec la République islamique.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260818-dialogue-rompu-entre-etats-unis-iran-emirats-arabes-unis-suspendent-commerce-avec-teheran-donald-trump-negociations-detroit-ormuz-missiles-qatar-oman",
+          "imageUrl": "https://s.france24.com/media/display/11881b42-9a71-11f1-b8e8-005056a97e36/w:1024/p:16x9/FOTO-PORTADA-EEUU-TRUMP-AMENAZA-OMAN.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T22:44:47.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.984Z"
+        },
+        {
+          "id": "2026-08-18-5e364acb",
+          "title": "Les Etats-Unis sanctionnent la juriste Tomoko Akane, présidente de la CPI",
+          "description": "Washington a lancé, le mois dernier, une offensive diplomatique majeure contre la CPI, l’accusant de « menacer » les Américains et appelant ses partenaires à s’en retirer.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/18/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-tomoko-akane_6749085_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-17T22:35:29.000Z",
-          "fetchedAt": "2026-08-18T01:53:13.303Z"
+          "publishedAt": "2026-08-18T17:47:19.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.837Z"
         },
         {
-          "id": "2026-08-17-340acf14",
-          "title": "Privé de visa américain, le fils de l’ex-président mexicain AMLO dénonce une décision “hitlérienne”",
-          "description": "Après plusieurs autres responsables politiques mexicains, Andrés Manuel López Beltrán affirme que son visa a été révoqué par les États-Unis. Fils de l’ancien président Andrés Manuel López Obrador (AMLO), il est lui-même une figure du parti de gauche Morena, celui de l’actuelle présidente Claudia Sheinbaum, qui s’insurge de son côté contre “une ingérence politique”.",
-          "url": "https://www.courrierinternational.com/article/tensions-prive-de-visa-americain-le-fils-de-l-ex-president-mexicain-amlo-denonce-une-decision-hitlerienne_260472",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/14/0/0/4270/2846/1200/630/60/0/efbe599_ftp-1-faj5gnn7c9kw-2026-08-14t152220z-1232345355-rc23jga6g64a-rtrmadp-3-mexico-usa-politics.JPG",
+          "id": "2026-08-18-61614868",
+          "title": "Les Emirats arabes unis annoncent suspendre commerce et transactions financières avec l’Iran « à la lumière des escalades régionales »",
+          "description": "Les autorités émiraties avaient, plus tôt mardi, accusé la République islamique d’avoir tiré deux missiles vers leur territoire.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/18/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_6749083_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T17:19:32.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.837Z"
+        },
+        {
+          "id": "2026-08-18-b5e0e749",
+          "title": "Après l’expiration de l’accord avec les États-Unis, l’Iran adopte une posture “pleinement offensive”",
+          "description": "Estimant que le protocole d’accord est devenu “caduc” en raison des “violations” de Washington, au terme du délai de soixante jours fixé pour un accord définitif, Téhéran a prévenu que ses actions dans le détroit d’Ormuz et sa région allaient prendre “une forme offensive”. Une erreur pour la presse réformiste, favorable à une reprise des négociations.",
+          "url": "https://www.courrierinternational.com/article/vu-de-teheran-apres-l-expiration-de-l-accord-avec-les-etats-unis-l-iran-adopte-une-posture-pleinement-offensive_260840",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/18/0/278/6012/4008/1200/630/60/0/b31ccbf_upload-1-28gir282fd4z-000-c4cf963.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-17T16:02:16.000Z",
-          "fetchedAt": "2026-08-18T01:53:13.944Z"
-        },
-        {
-          "id": "2026-08-17-9c9ed09a",
-          "title": "Affaire E. Jean Carroll : la Cour suprême rejette un ultime recours de Donald Trump contre une indemnisation pour agression sexuelle",
-          "description": "Dans cette affaire, l’ancienne journaliste et chroniqueuse accuse le président américain de l’avoir agressée dans une cabine d’essayage à New York, en 1996.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/17/affaire-e-jean-carroll-la-cour-supreme-rejette-un-ultime-recours-de-donald-trump-contre-une-indemnisation-pour-agression-sexuelle_6748398_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-17T15:34:16.000Z",
-          "fetchedAt": "2026-08-18T01:53:13.303Z"
-        },
-        {
-          "id": "2026-08-17-27050ea4",
-          "title": "États-Unis: l’hécatombe des Amérindiennes sort progressivement du silence médiatique",
-          "description": "Aux États-Unis, des milliers de femmes amérindiennes disparaissent ou sont assassinées dans une quasi-indifférence. Longtemps cantonné aux marges, ce drame commence à émerger dans l’espace médiatique, sans que le nombre de disparitions ne baisse ni que la colère des communautés ne retombe.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260817-%C3%A9tats-unis-l-h%C3%A9catombe-des-am%C3%A9rindiennes-sort-progressivement-du-silence-m%C3%A9diatique",
-          "imageUrl": "https://s.rfi.fr/media/display/b36045f0-8786-11f1-b72a-005056a90284/w:1024/p:16x9/AP23127005557834.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-17T05:04:41.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.845Z"
+          "publishedAt": "2026-08-18T15:38:16.000Z",
+          "fetchedAt": "2026-08-19T01:55:25.236Z"
         }
       ]
     },
     {
-      "id": "cluster-12",
-      "topic": "Piratage du fisc : le gouvernement empêtré dans une cyberattaque dénoncée par l’",
+      "id": "cluster-29",
+      "topic": "\"Nous n’avons aucune envie de rentrer\" : à Ceuta, l'avenir en suspens des mineur",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-18-f8b4a54f",
+          "title": "\"Nous n’avons aucune envie de rentrer\" : à Ceuta, l'avenir en suspens des mineurs marocains",
+          "description": "France 24 a suivi pendant une nuit des migrants mineurs encore présents à Ceuta. Entre la peur, le froid et l’attente, de jeunes Marocains en quête d'une vie meilleure ont confié les détails poignants d'une histoire qui les a amenés à s'échouer dans l'enclave espagnole.",
+          "url": "https://www.france24.com/fr/afrique/20260818-maroc-espagne-ue-ceuta-avenir-en-suspens-des-mineurs-marocains",
+          "imageUrl": "https://s.france24.com/media/display/7049f0a8-9ad8-11f1-8f98-005056bfb2b6/w:1024/p:16x9/%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%85.jpeg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T18:51:50.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.984Z"
+        },
+        {
+          "id": "2026-08-18-618477f6",
+          "title": "« Vous n’imaginez pas comme les Afghanes se battent et inventent des stratégies pour survivre » : une radio féminine et des écoles clandestines comme lueurs d’espoir",
+          "description": "« Paroles d’Afghanes » (3/6). « Faite par des femmes pour les femmes », Radio Begum est pour nombre d’Afghanes leur unique lien avec l’extérieur. Parallèlement, les initiatives foisonnent pour assouvir la soif d’apprendre des jeunes filles privées de cours par le régime taliban.",
+          "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/vous-n-imaginez-pas-comme-les-afghanes-se-battent-et-inventent-des-strategies-pour-survivre-une-radio-feminine-et-des-ecoles-clandestines-comme-lueurs-d-espoir_6749086_3451060.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T18:00:07.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.837Z"
+        },
+        {
+          "id": "2026-08-18-4daf43a9",
+          "title": "En Chine, l’hommage de Xi Jinping à l’ancien dirigeant Jiang Zemin, l’artisan de la reprise en main de la jeunesse après le massacre de Tiananmen",
+          "description": "Le dirigeant s’est saisi du centenaire de la naissance de l’ancien chef du Parti communiste pour saluer sa fermeté après la répression du mouvement étudiant de juin 1989 et se remémorer l’âge d’or de l’économie chinoise.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/18/en-chine-l-hommage-de-xi-jinping-a-l-ancien-dirigeant-jiang-zemin-l-artisan-de-la-reprise-en-main-de-la-jeunesse-apres-le-massacre-de-tiananmen_6749084_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T17:30:00.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.837Z"
+        },
+        {
+          "id": "2026-08-18-199d42d5",
+          "title": "La France emprunte au plus haut depuis 2008 sur fond de guerre au Moyen-Orient",
+          "description": "La France emprunte désormais à 4,10% sur les marchés obligataires à 10 ans, proche du niveau record de novembre 2008, en plein crise des subprimes, où le taux était de 4,20%. C’est le reflet d’une crainte de crise inflationniste globale et durable liée à la guerre au Moyen-Orient et à la hausse consécutive des prix du pétrole. Ce taux est également le reflet de la confiance des créanciers dans le pays auquel ils prêtent.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260818-la-france-emprunte-au-plus-haut-depuis-2008-sur-fond-de-guerre-au-moyen-orient",
+          "imageUrl": "https://s.france24.com/media/display/e6f3b3d6-9b25-11f1-9ff0-005056bf30b7/w:1024/p:16x9/XX-NW-OOV-ECO-GUERRE-MO-ORMUZ-PETROLE-ILLUSTR-MANENT-Laure.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T17:04:01.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.984Z"
+        },
+        {
+          "id": "2026-08-18-600be7b1",
+          "title": "« Si j’ai mis ma fille dans une bouée et que je l’ai poussée dans l’eau, c’est pour son avenir » : l’horizon bouché de cette jeunesse du Maroc qui veut rejoindre Ceuta",
+          "description": "La jeunesse marocaine, de plus en plus diplômée et connectée, se heurte à la précarité, aux salaires faibles et à un coût de la vie qui interdit l’autonomie. Les jeunes rencontrés par « Le Monde » dans le nord du royaume racontent une même impasse, qui les a poussés à tenter, fin juillet, de gagner l’enclave espagnole à la nage.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/18/au-maroc-l-horizon-bouche-des-jeunes-qui-revent-de-rejoindre-ceuta-j-ai-l-impression-de-faire-du-surplace-pendant-que-ma-fille-grandit_6749071_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T15:30:02.000Z",
+          "fetchedAt": "2026-08-19T01:55:24.837Z"
+        },
+        {
+          "id": "2026-08-18-cee7776d",
+          "title": "Arctique : la Chine inaugure une “route de la soie polaire” vers l’Europe",
+          "description": "Le porte-conteneurs “Dubai Tower” a inauguré, le 15 août, la liaison régulière de 5 000 kilomètres entre la Chine et l’Europe via l’Arctique. Alors que des menaces planent sur la navigation dans le golfe Arabo-Persique et en mer Rouge, de plus en plus d’armateurs sont intéressés par cette route maritime du Nord-Est.",
+          "url": "https://www.courrierinternational.com/grand-format/carte-arctique-la-chine-inaugure-une-route-de-la-soie-polaire-vers-l-europe_260837",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/18/100/0/3000/2000/1200/630/60/0/513d5db_upload-1-uuaen1y07phx-web20260818-chine-route-arctique.png",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-18T15:21:13.000Z",
+          "fetchedAt": "2026-08-19T01:55:25.236Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-15",
+      "topic": "Peacock raises prices by 18 percent after becoming profitable",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-17-1e5d46ab",
-          "title": "Piratage du fisc : le gouvernement empêtré dans une cyberattaque dénoncée par l’opposition comme « la plus grave de l’histoire de notre pays »",
-          "description": "Le premier ministre, Sébastien Lecornu, a présidé, lundi, une cellule interministérielle de crise pour faire le point sur le piratage informatique d’ampleur qui a touché l’administration fiscale. Une commission d’enquête pourrait voir le jour au Sénat.",
-          "url": "https://www.lemonde.fr/politique/article/2026/08/17/fisc-le-gouvernement-empetre-dans-la-cyberattaque-la-plus-grave-de-l-histoire-de-notre-pays_6748415_823448.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-17T18:01:55.000Z",
-          "fetchedAt": "2026-08-18T01:53:27.359Z"
-        },
-        {
-          "id": "2026-08-17-1f2d644b",
-          "title": "Et s’il n’y avait pas un mais deux Dr Doom dans Avengers: Doomsday ? La folle théorie de certains fans",
-          "description": "Certains fans du MCU pensent que Marvel est en train de tromper tout le monde avec le retour de Robert Downey Jr. dans Avengers: Doomsday. Selon eux, ils seraient deux à incarner Dr Doom.",
-          "url": "https://www.numerama.com/pop-culture/2312677-et-sil-ny-avait-pas-un-mais-deux-dr-doom-dans-avengers-doomsday-la-folle-theorie-de-certains-fans.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/capture-decran-2026-08-17-a-150022.png?resize=1600,900&key=619adff1",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-17T17:30:00.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.981Z"
-        },
-        {
-          "id": "2026-08-17-31dd2035",
-          "title": "« Réparer au lieu de remplacer » : CATL installe un centre de réparation de batteries en Norvège",
-          "description": "Le géant chinois CATL déploie son réseau de réparation « Ning Service » à Oslo avec son partenaire YES-EU. L’objectif est clair : diviser par dix le coût de remise en état d'un pack batterie et en finir avec les mises à la casse abusives.",
-          "url": "https://www.numerama.com/vroom/2312821-reparer-au-lieu-de-remplacer-catl-installe-un-centre-de-reparation-de-batteries-en-norvege.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/catl-ning-service.jpg?resize=1600,900&key=274be7ed",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-17T15:13:31.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.981Z"
-        },
-        {
-          "id": "2026-08-17-f22b75d1",
-          "title": "Sur Pinterest, le bloqueur de pubs le plus simple serait… un gros mot",
-          "description": "Une astuce insolite permet de faire disparaître les publications sponsorisées des résultats de Pinterest : ajouter un gros mot à sa recherche. Nous avons testé cette méthode, qui semble exploiter les mécanismes chargés de protéger l’image des annonceurs.",
-          "url": "https://www.numerama.com/tech/2312681-sur-pinterest-le-bloqueur-de-pubs-le-plus-simple-serait-un-gros-mot.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/1-21.png?resize=1600,900&key=c8e48d8f",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-17T14:31:00.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.981Z"
-        },
-        {
-          "id": "2026-08-17-dcbf2c58",
-          "title": "GitHub subit une panne généralisée : Pull Requests, Issues, Actions et API en erreur",
-          "description": "Un incident affecte plusieurs services critiques de GitHub ce lundi 17 août. La plateforme évoque un taux d'erreur d'environ 20% sur de nombreuses fonctionnalités.",
-          "url": "https://www.numerama.com/tech/2312767-github-subit-une-panne-generalisee-pull-requests-issues-actions-et-api-en-erreur.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/design-sans-titre-2026-03-27t174225793.jpg?resize=1600,900&key=d06b3bfd",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-08-17T13:56:17.000Z",
-          "fetchedAt": "2026-08-18T01:53:26.981Z"
-        },
-        {
-          "id": "2026-08-17-e7c00d94",
-          "title": "Satellite operators are in panic mode due to a worsening launch crisis",
-          "description": "What happens if the Falcon rockets stop flying?",
-          "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
+          "id": "2026-08-18-2eae1a65",
+          "title": "Peacock raises prices by 18 percent after becoming profitable",
+          "description": "Peacock's quarterly profitability isn't guaranteed.",
+          "url": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1238249061-1024x648.jpg",
           "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-08-17T11:00:26.000Z",
-          "fetchedAt": "2026-08-18T01:53:31.575Z"
+          "publishedAt": "2026-08-18T16:42:30.000Z",
+          "fetchedAt": "2026-08-19T01:55:39.148Z"
+        },
+        {
+          "id": "2026-08-18-704d724e",
+          "title": "Peacock is raising prices by up to $3",
+          "description": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99 to $12.99 / month, while the ad-free Premium Plus plan is getting the biggest hike, jumping from $16.99 to $19.99 / month.\nThe price change goes into effect on August 18th for new or returning subscribers, and affects the streamer's annual plans as well. Existing subscribers will see the price change on their next billing date on or after September 17th. Peacock has steadily hiked its prices over the past fe …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002656/acastro_STK105_peacock_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-08-18T14:11:39.000Z",
+          "fetchedAt": "2026-08-19T01:55:39.153Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Disabled people in England to get 24-hour free bus travel ",
+      "id": "cluster-2",
+      "topic": "The critical tech staying safe by going underground",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-18-ca571a5a",
-          "title": "Disabled people in England to get 24-hour free bus travel ",
-          "description": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
-          "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3bf/live/f373b690-9a64-11f1-b792-a710e56a11dc.jpg",
+          "id": "2026-08-18-e429a1ab",
+          "title": "The critical tech staying safe by going underground",
+          "description": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+          "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cffe/live/831c08d0-7b87-11f1-bee8-53ce494e1abc.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-18T00:32:51.000Z",
-          "fetchedAt": "2026-08-18T01:53:34.126Z"
+          "publishedAt": "2026-08-18T23:25:21.000Z",
+          "fetchedAt": "2026-08-19T01:55:42.766Z"
         }
       ]
     }
