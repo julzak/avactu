@@ -1,253 +1,319 @@
 {
-  "generatedAt": "2026-08-19T01:59:25.567Z",
+  "generatedAt": "2026-08-20T01:58:09.199Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-3",
-      "topic": "Deux réalisateurs français arrêtés et détenus au Togo depuis le 27 juillet, selo",
+      "id": "cluster-1",
+      "topic": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-19-03bc8671",
-          "title": "Deux réalisateurs français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d'Orsay",
-          "description": "Arrêtés le 27 juillet au Togo, deux ressortissants français \"font actuellement l'objet d'une information judiciaire conduite par un juge d'instruction\", a indiqué mardi le ministère français des Affaires étrangères à l'AFP. Selon des médias locaux, il s'agit de deux journalistes réalisateurs.",
-          "url": "https://www.france24.com/fr/afrique/20260819-deux-realisateurs-fran%C3%A7ais-arretes-detenus-togo-quai-orsay-medias-affaires-etrangeres-rsf",
-          "imageUrl": "https://s.france24.com/media/display/da9bf7ba-0c66-11ef-b20f-005056a90284/w:1024/p:16x9/Quai_d%E2%80%99Orsay_%40_Ministry_of_Foreign_Affairs_%40_Paris_%2829732094026%29.jpg",
-          "source": "France 24",
+          "id": "2026-08-20-366bbf98",
+          "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+          "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-08-19T00:19:46.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.984Z"
+          "publishedAt": "2026-08-20T01:02:51.000Z",
+          "fetchedAt": "2026-08-20T01:54:18.122Z"
         },
         {
-          "id": "2026-08-18-a311c514",
-          "title": "La France va expulser deux diplomates iraniens «dans les tout prochains jours» après l’arrestation de diplomates français",
-          "description": "Paris va expulser deux diplomates iraniens en poste en France, en représailles à la décision de l’Iran de décréter persona non grata deux diplomates de l’ambassade de France à Téhéran, a annoncé, mardi 18 août 2026 au soir, le ministre des Affaires étrangères français, Jean-Noël Barrot. Ces derniers avaient été brièvement arrêtés le 19 juillet lors d’une rencontre avec deux graphistes iraniens, Aria Kasaei et Elahe « Elly » Naghilou, eux aussi arrêtés et toujours détenus en Iran.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260818-la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours-apr%C3%A8s-l-arrestation-de-diplomates-fran%C3%A7ais",
-          "imageUrl": "https://s.rfi.fr/media/display/e9ed24ac-844e-11f1-a8b2-005056bf30b7/w:1024/p:16x9/AP26195268040359.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T23:47:39.000Z",
-          "fetchedAt": "2026-08-19T01:55:35.723Z"
-        },
-        {
-          "id": "2026-08-18-f356aad1",
-          "title": "Deux Français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d’Orsay",
-          "description": "Il s’agit de deux « réalisateurs » travaillant « pour une société de production française », selon le ministère des affaires étrangères français, dont la production devait être diffusée sur France Télévisions, d’après des médias locaux.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/08/18/deux-francais-arretes-et-detenus-au-togo-depuis-le-27-juillet-selon-le-quai-d-orsay_6749091_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T21:28:31.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.837Z"
-        },
-        {
-          "id": "2026-08-18-0044df5d",
-          "title": "Piratage massif des données fiscales: la France, «cible facile» des hackeurs ZeroBytes",
-          "description": "En France, le gouvernement a présenté ce mardi ses excuses pour les piratages subis depuis la fin du mois de juin par les services du fisc – la direction générale des finances publiques. Car les données personnelles de quelque 700 000 particuliers et entreprises ont été volées.",
-          "url": "https://www.rfi.fr/fr/france/20260818-piratage-massif-des-donn%C3%A9es-fiscales-la-france-cible-facile-des-hackeurs-zerobytes",
-          "imageUrl": "https://s.rfi.fr/media/display/43439ecc-9b3e-11f1-ad54-005056a97e36/w:1024/p:16x9/000-C4UZ6KZ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T20:12:40.000Z",
-          "fetchedAt": "2026-08-19T01:55:35.723Z"
-        },
-        {
-          "id": "2026-08-18-e13badef",
-          "title": "Paris va expulser deux diplomates iraniens en représailles à la décision de Téhéran",
-          "description": "Le ministre français des Affaires étrangères a annoncé, mardi soir, que Paris va expulser deux diplomates iraniens en poste en France. Il s'agit d'une mesure de représailles à la décision de l'Iran de décréter persona non grata deux diplomates de l'ambassade de France à Téhéran.",
-          "url": "https://www.france24.com/fr/france/20260818-paris-va-expulser-deux-diplomates-iraniens-en-repr%C3%A9sailles-%C3%A0-la-d%C3%A9cision-de-t%C3%A9h%C3%A9ran",
-          "imageUrl": "https://s.france24.com/media/display/8e12e38a-9b35-11f1-9d6e-005056a97e36/w:1024/p:16x9/000-C2UL234.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T19:38:39.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.984Z"
-        },
-        {
-          "id": "2026-08-18-5eb08fbb",
-          "title": "La France va expulser deux diplomates iraniens « dans les tout prochains jours »",
-          "description": "Il s’agit d’une mesure en représailles à la décision iranienne de ne pas autoriser le retour en Iran de deux diplomates français qui avaient été brièvement arrêtés à Téhéran en juillet avant de quitter le pays.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/18/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_6749089_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T19:05:32.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.837Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "Dialogue rompu entre les États-Unis et l'Iran, les Émirats suspendent le commerc",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-18-d9f33080",
-          "title": "Dialogue rompu entre les États-Unis et l'Iran, les Émirats suspendent le commerce avec Téhéran",
-          "description": "Le président américain Donald Trump a écrit mardi qu'\"aucune discussion n'a lieu en ce moment ni n'est programmée avec l'Iran\". De son côté, Téhéran maintient son verrou sur le détroit d'Ormuz, des positions qui illustrent l'impasse dans laquelle se trouve le conflit. Les Émirats arabes unis ont accusé l'Iran d'avoir tiré deux missiles balistiques, puis annoncé suspendre tous \"les échanges commerciaux\" et \"transactions financières\" avec la République islamique.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260818-dialogue-rompu-entre-etats-unis-iran-emirats-arabes-unis-suspendent-commerce-avec-teheran-donald-trump-negociations-detroit-ormuz-missiles-qatar-oman",
+          "id": "2026-08-19-ef078a67",
+          "title": "En direct : Trump menace de \"terribles\" répercussions économiques \"tout pays\" qui aiderait l'Iran",
+          "description": "Washington intensifie la pression sur Téhéran. Le président américain a menacé mercredi de \"terribles\" mesures économiques \"tout pays\" qui aiderait l'Iran dans son effort de guerre. Plus tôt, l'Iran a fait de même, mettant en garde les pays du Golfe contre toute assistance à l'armée américaine. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260819-en-direct-donald-trump-menace-terribles-repercussions-economiques-tout-pays-qui-aiderait-iran-etats-unis-golfe-detroit-ormuz-gaza-israel-liban",
           "imageUrl": "https://s.france24.com/media/display/11881b42-9a71-11f1-b8e8-005056a97e36/w:1024/p:16x9/FOTO-PORTADA-EEUU-TRUMP-AMENAZA-OMAN.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-18T22:44:47.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.984Z"
+          "publishedAt": "2026-08-19T23:31:03.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.673Z"
         },
         {
-          "id": "2026-08-18-5e364acb",
-          "title": "Les Etats-Unis sanctionnent la juriste Tomoko Akane, présidente de la CPI",
-          "description": "Washington a lancé, le mois dernier, une offensive diplomatique majeure contre la CPI, l’accusant de « menacer » les Américains et appelant ses partenaires à s’en retirer.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/18/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-tomoko-akane_6749085_3210.html",
+          "id": "2026-08-19-0817483e",
+          "title": "À la COP 17 contre la désertification, les États-Unis et la Russie bloquent les négociations",
+          "description": "Mercredi 18 août était le quatrième jour de la 17e réunion de la conférence des parties de la Convention des Nations Unies sur la lutte contre la désertification, plus connue sous le nom de COP 17. À Oulan-Bator en Mongolie, les objectifs de lutte contre la dégradation des terres et les sécheresses ont connu un coup d'arrêt, alors que des tensions diplomatiques freinent les débats.",
+          "url": "https://www.rfi.fr/fr/environnement/20260819-%C3%A0-la-cop-17-contre-la-d%C3%A9sertification-les-%C3%A9tats-unis-et-la-russie-bloquent-les-n%C3%A9gociations",
+          "imageUrl": "https://s.rfi.fr/media/display/23188324-9c10-11f1-a1a0-005056a97e36/w:1024/p:16x9/000-C62B8HT.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-19T22:24:19.000Z",
+          "fetchedAt": "2026-08-20T01:54:17.980Z"
+        },
+        {
+          "id": "2026-08-19-5362f265",
+          "title": "Les Etats-Unis poursuivent leur travail de sape en sanctionnant deux magistrats de la CPI",
+          "description": "Les sanctions américaines visent le cœur de l’enquête de la CPI sur la situation en Palestine et, plus largement, toute enquête visant des ressortissants d’Etats qui n’ont pas adhéré à la Cour pénale internationale, au premier chef Américains et Israéliens.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/19/les-etats-unis-poursuivent-leur-travail-de-sape-en-sanctionnant-deux-magistrats-de-la-cpi_6749892_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-18T17:47:19.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.837Z"
+          "publishedAt": "2026-08-19T16:00:08.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.591Z"
         },
         {
-          "id": "2026-08-18-61614868",
-          "title": "Les Emirats arabes unis annoncent suspendre commerce et transactions financières avec l’Iran « à la lumière des escalades régionales »",
-          "description": "Les autorités émiraties avaient, plus tôt mardi, accusé la République islamique d’avoir tiré deux missiles vers leur territoire.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/18/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_6749083_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T17:19:32.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.837Z"
-        },
-        {
-          "id": "2026-08-18-b5e0e749",
-          "title": "Après l’expiration de l’accord avec les États-Unis, l’Iran adopte une posture “pleinement offensive”",
-          "description": "Estimant que le protocole d’accord est devenu “caduc” en raison des “violations” de Washington, au terme du délai de soixante jours fixé pour un accord définitif, Téhéran a prévenu que ses actions dans le détroit d’Ormuz et sa région allaient prendre “une forme offensive”. Une erreur pour la presse réformiste, favorable à une reprise des négociations.",
-          "url": "https://www.courrierinternational.com/article/vu-de-teheran-apres-l-expiration-de-l-accord-avec-les-etats-unis-l-iran-adopte-une-posture-pleinement-offensive_260840",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/18/0/278/6012/4008/1200/630/60/0/b31ccbf_upload-1-28gir282fd4z-000-c4cf963.jpg",
+          "id": "2026-08-19-327fec32",
+          "title": "Guerre commerciale entre les États-Unis et le Canada : Trump calme le jeu avec Carney",
+          "description": "Le président américain, Donald Trump, a annoncé dans la soirée du mardi 18 août qu’il suspendait pour les trois prochains jours l’entrée en vigueur de nouveaux droits de douane de 50 % sur de nouveaux produits canadiens. Les deux pays auraient conclu in extremis un accord commercial provisoire, rapporte ‘‘The Globe and Mail’’. Mais rien n’est finalisé, avertit le premier ministre canadien, Mark Carney.",
+          "url": "https://www.courrierinternational.com/une/une-du-jour-guerre-commerciale-entre-les-etats-unis-et-le-canada-trump-calme-le-jeu-avec-carney_261000",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/19/272/0/508/338/1200/630/60/0/0491234_upload-1-vt1ih3z5xtbn-unnamed.png",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-18T15:38:16.000Z",
-          "fetchedAt": "2026-08-19T01:55:25.236Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-29",
-      "topic": "\"Nous n’avons aucune envie de rentrer\" : à Ceuta, l'avenir en suspens des mineur",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-18-f8b4a54f",
-          "title": "\"Nous n’avons aucune envie de rentrer\" : à Ceuta, l'avenir en suspens des mineurs marocains",
-          "description": "France 24 a suivi pendant une nuit des migrants mineurs encore présents à Ceuta. Entre la peur, le froid et l’attente, de jeunes Marocains en quête d'une vie meilleure ont confié les détails poignants d'une histoire qui les a amenés à s'échouer dans l'enclave espagnole.",
-          "url": "https://www.france24.com/fr/afrique/20260818-maroc-espagne-ue-ceuta-avenir-en-suspens-des-mineurs-marocains",
-          "imageUrl": "https://s.france24.com/media/display/7049f0a8-9ad8-11f1-8f98-005056bfb2b6/w:1024/p:16x9/%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%85.jpeg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T18:51:50.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.984Z"
+          "publishedAt": "2026-08-19T14:10:04.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.974Z"
         },
         {
-          "id": "2026-08-18-618477f6",
-          "title": "« Vous n’imaginez pas comme les Afghanes se battent et inventent des stratégies pour survivre » : une radio féminine et des écoles clandestines comme lueurs d’espoir",
-          "description": "« Paroles d’Afghanes » (3/6). « Faite par des femmes pour les femmes », Radio Begum est pour nombre d’Afghanes leur unique lien avec l’extérieur. Parallèlement, les initiatives foisonnent pour assouvir la soif d’apprendre des jeunes filles privées de cours par le régime taliban.",
-          "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/vous-n-imaginez-pas-comme-les-afghanes-se-battent-et-inventent-des-strategies-pour-survivre-une-radio-feminine-et-des-ecoles-clandestines-comme-lueurs-d-espoir_6749086_3451060.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-08-19-bda62df3",
+          "title": "Donald Trump suspend pour trois jours l’entrée en vigueur de droits de douane après une entente avec le Canada",
+          "description": "Rebondissement de dernière minute dans la guerre commerciale entre Washington et Ottawa. Donald Trump a repoussé mardi 18 août de trois jours les droits de douane de 50 % qui devaient frapper dès mercredi matin plusieurs centaines de produits canadiens, une annonce faite à moins de deux heures de l’ultimatum fixé pour arracher de nouvelles concessions au Canada. Un répit de dernière minute que Donald Trump justifie par l’annonce d’un accord.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260819-donald-trump-suspend-pour-trois-jours-l-entr%C3%A9e-en-vigueur-de-droits-de-douane-apr%C3%A8s-un-accord-avec-le-canada",
+          "imageUrl": "https://s.rfi.fr/media/display/a0c02784-9b4b-11f1-b858-005056a97e36/w:1024/p:16x9/2026-08-07T151753Z-487940382-RC247HA8LWC2-RTRMADP-3-USA-TRUMP-TARIFFS-CANADA.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-18T18:00:07.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.837Z"
-        },
-        {
-          "id": "2026-08-18-4daf43a9",
-          "title": "En Chine, l’hommage de Xi Jinping à l’ancien dirigeant Jiang Zemin, l’artisan de la reprise en main de la jeunesse après le massacre de Tiananmen",
-          "description": "Le dirigeant s’est saisi du centenaire de la naissance de l’ancien chef du Parti communiste pour saluer sa fermeté après la répression du mouvement étudiant de juin 1989 et se remémorer l’âge d’or de l’économie chinoise.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/18/en-chine-l-hommage-de-xi-jinping-a-l-ancien-dirigeant-jiang-zemin-l-artisan-de-la-reprise-en-main-de-la-jeunesse-apres-le-massacre-de-tiananmen_6749084_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T17:30:00.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.837Z"
-        },
-        {
-          "id": "2026-08-18-199d42d5",
-          "title": "La France emprunte au plus haut depuis 2008 sur fond de guerre au Moyen-Orient",
-          "description": "La France emprunte désormais à 4,10% sur les marchés obligataires à 10 ans, proche du niveau record de novembre 2008, en plein crise des subprimes, où le taux était de 4,20%. C’est le reflet d’une crainte de crise inflationniste globale et durable liée à la guerre au Moyen-Orient et à la hausse consécutive des prix du pétrole. Ce taux est également le reflet de la confiance des créanciers dans le pays auquel ils prêtent.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260818-la-france-emprunte-au-plus-haut-depuis-2008-sur-fond-de-guerre-au-moyen-orient",
-          "imageUrl": "https://s.france24.com/media/display/e6f3b3d6-9b25-11f1-9ff0-005056bf30b7/w:1024/p:16x9/XX-NW-OOV-ECO-GUERRE-MO-ORMUZ-PETROLE-ILLUSTR-MANENT-Laure.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T17:04:01.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.984Z"
-        },
-        {
-          "id": "2026-08-18-600be7b1",
-          "title": "« Si j’ai mis ma fille dans une bouée et que je l’ai poussée dans l’eau, c’est pour son avenir » : l’horizon bouché de cette jeunesse du Maroc qui veut rejoindre Ceuta",
-          "description": "La jeunesse marocaine, de plus en plus diplômée et connectée, se heurte à la précarité, aux salaires faibles et à un coût de la vie qui interdit l’autonomie. Les jeunes rencontrés par « Le Monde » dans le nord du royaume racontent une même impasse, qui les a poussés à tenter, fin juillet, de gagner l’enclave espagnole à la nage.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/08/18/au-maroc-l-horizon-bouche-des-jeunes-qui-revent-de-rejoindre-ceuta-j-ai-l-impression-de-faire-du-surplace-pendant-que-ma-fille-grandit_6749071_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T15:30:02.000Z",
-          "fetchedAt": "2026-08-19T01:55:24.837Z"
-        },
-        {
-          "id": "2026-08-18-cee7776d",
-          "title": "Arctique : la Chine inaugure une “route de la soie polaire” vers l’Europe",
-          "description": "Le porte-conteneurs “Dubai Tower” a inauguré, le 15 août, la liaison régulière de 5 000 kilomètres entre la Chine et l’Europe via l’Arctique. Alors que des menaces planent sur la navigation dans le golfe Arabo-Persique et en mer Rouge, de plus en plus d’armateurs sont intéressés par cette route maritime du Nord-Est.",
-          "url": "https://www.courrierinternational.com/grand-format/carte-arctique-la-chine-inaugure-une-route-de-la-soie-polaire-vers-l-europe_260837",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/18/100/0/3000/2000/1200/630/60/0/513d5db_upload-1-uuaen1y07phx-web20260818-chine-route-arctique.png",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-18T15:21:13.000Z",
-          "fetchedAt": "2026-08-19T01:55:25.236Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-15",
-      "topic": "Peacock raises prices by 18 percent after becoming profitable",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-18-2eae1a65",
-          "title": "Peacock raises prices by 18 percent after becoming profitable",
-          "description": "Peacock's quarterly profitability isn't guaranteed.",
-          "url": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1238249061-1024x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-08-18T16:42:30.000Z",
-          "fetchedAt": "2026-08-19T01:55:39.148Z"
-        },
-        {
-          "id": "2026-08-18-704d724e",
-          "title": "Peacock is raising prices by up to $3",
-          "description": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99 to $12.99 / month, while the ad-free Premium Plus plan is getting the biggest hike, jumping from $16.99 to $19.99 / month.\nThe price change goes into effect on August 18th for new or returning subscribers, and affects the streamer's annual plans as well. Existing subscribers will see the price change on their next billing date on or after September 17th. Peacock has steadily hiked its prices over the past fe …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002656/acastro_STK105_peacock_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-08-18T14:11:39.000Z",
-          "fetchedAt": "2026-08-19T01:55:39.153Z"
+          "publishedAt": "2026-08-19T09:49:09.000Z",
+          "fetchedAt": "2026-08-20T01:54:17.980Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "The critical tech staying safe by going underground",
-      "category": "eco",
-      "importance": 7,
+      "topic": "L’Australie « outrée » par la décision d’Israël de clore une enquête sur la mort",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-08-18-e429a1ab",
-          "title": "The critical tech staying safe by going underground",
-          "description": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
-          "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cffe/live/831c08d0-7b87-11f1-bee8-53ce494e1abc.jpg",
-          "source": "BBC Business",
+          "id": "2026-08-20-97eeb258",
+          "title": "L’Australie « outrée » par la décision d’Israël de clore une enquête sur la mort de sept humanitaires à Gaza",
+          "description": "L’Australienne Zomi Frankcom figurait parmi les sept employés de l’ONG World Central Kitchen tués dans une frappe israélienne contre leur convoi à Gaza, en avril 2024.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/20/l-australie-outree-par-la-decision-d-israel-de-clore-une-enquete-sur-la-mort-de-sept-humanitaires-a-gaza_6750303_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-20T00:58:56.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.591Z"
+        },
+        {
+          "id": "2026-08-20-257ef6a3",
+          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+          "description": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-20T00:48:57.000Z",
+          "fetchedAt": "2026-08-20T01:54:18.122Z"
+        },
+        {
+          "id": "2026-08-19-23866303",
+          "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+          "description": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
+          "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8852/live/a02cc490-9bf4-11f1-b109-879e35c24276.png",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-19T17:46:01.000Z",
+          "fetchedAt": "2026-08-20T01:54:18.122Z"
+        },
+        {
+          "id": "2026-08-19-b3541f9b",
+          "title": "Gaza : l'armée israélienne enquête sur la mort de la fillette Hind Rajab et de secouristes",
+          "description": "L'armée israélienne a annoncé, mercredi, ⁠l'ouverture d'enquêtes ​internes sur le meurtre de la Palestinienne Hind Rajab à Gaza en janvier 2024 ​ainsi que sur la mort de 15 secouristes et travailleurs humanitaires en mars 2025.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260819-gaza-arm%C3%A9e-isra%C3%A9lienne-va-enqu%C3%AAter-sur-la-mort-de-la-fillette-hind-rajab-et-de-secouristes",
+          "imageUrl": "https://s.france24.com/media/display/583c2e3c-9bc2-11f1-9d5d-005056bfb2b6/w:1024/p:16x9/000-73B64HM-1.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-19T15:29:40.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.673Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Le prince Harry et Meghan vont revenir vivre au Royaume-Uni, selon la presse bri",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-20-376d2b95",
+          "title": "Le prince Harry et Meghan vont revenir vivre au Royaume-Uni, selon la presse britannique",
+          "description": "Six ans après leur rupture hautement médiatisée avec la famille royale, le couple « prévoit de quitter les Etats-Unis d’ici la fin du mois pour s’installer dans une résidence privée, non royale, qui se trouverait en dehors de Londres », a écrit le « Telegraph », mercredi.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/20/le-prince-harry-et-meghan-vont-revenir-vivre-au-royaume-uni-selon-la-presse-britannique_6750270_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-20T00:30:08.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.591Z"
+        },
+        {
+          "id": "2026-08-19-dde04379",
+          "title": "Le chef du renseignement équatorien, proche du président Noboa, meurt dans un accident d’hélicoptère au Kenya",
+          "description": "Michele Sensi-Contugi, 44 ans, ainsi que cinq ressortissants américains, dont son épouse, fait partie des sept victimes de ce crash survenu lors d’une excursion touristique.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/20/le-chef-du-renseignement-equatorien-proche-du-president-noboa-meurt-dans-un-accident-d-helicoptere-au-kenya_6750170_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-19T23:14:55.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.591Z"
+        },
+        {
+          "id": "2026-08-19-e9594e9c",
+          "title": "L'industrie musicale africaine: Mdundo, une plateforme africaine pour mieux rémunérer les artistes [4/10]",
+          "description": "Comment permettre à la fois aux fans de musique sur le continent africain d’accéder facilement à leurs titres préférés et aux artistes africains de mettre en avant leur musique et d’en tirer des revenus ? C’est le pari que s’est lancé Mdundo. La plateforme kényane permet de streamer mais aussi de télécharger de la musique directement sur son téléphone. Un point clé pour pallier les coûts des données mobiles sur le continent. Née en 2012 au Kenya, Mdundo compte aujourd’hui plusieurs millions d’utilisateurs et est aussi présente au Nigeria, en Tanzanie, en Afrique du Sud ou encore au Ghana.",
+          "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20260819-l-industrie-musicale-africaine-mdundo-une-plateforme-africaine-pour-mieux-r%C3%A9mun%C3%A9rer-les-artistes-4-10",
+          "imageUrl": "https://s.rfi.fr/media/display/24033668-9bec-11f1-9026-005056bfb2b6/w:1024/p:16x9/mdundo.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-19T22:06:04.000Z",
+          "fetchedAt": "2026-08-20T01:54:17.980Z"
+        },
+        {
+          "id": "2026-08-19-ef5d031b",
+          "title": "Centrafrique : au moins 100 morts après l'effondrement d'une mine d'or dans l'ouest du pays",
+          "description": "L'effondrement d'une mine d'or artisanale de l'ouest de la Centrafrique a provoqué, mardi, la mort d'au moins 100 personnes. Ce drame illustre la dangerosité d'un secteur minier en majorité informel et qui échappe à tout contrôle étatique.",
+          "url": "https://www.france24.com/fr/afrique/20260819-centrafrique-au-moins-100-morts-apr%C3%A8s-l-effondrement-d-une-mine-d-or-dans-l-ouest-du-pays",
+          "imageUrl": "https://s.france24.com/media/display/176a61f8-9c03-11f1-850f-005056a90284/w:1024/p:16x9/000-13X6XE.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-19T19:28:56.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.673Z"
+        },
+        {
+          "id": "2026-08-19-e1dd0366",
+          "title": "Sénégal : Patrick Vieira, \"un choix stratégique\" selon la FSF",
+          "description": "🇸🇳 Patrick Vieira est le nouveau sélectionneur du Sénégal. Né à Dakar, l’ancien capitaine des Bleus succède à Pape Thiaw et s’apprête à diriger une sélection pour la première fois. La FSF présente cette nomination comme un \"choix stratégique\".",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260819-s%C3%A9n%C3%A9gal-patrick-vieira-un-choix-strat%C3%A9gique-selon-la-fsf",
+          "imageUrl": "https://s.france24.com/media/display/64ac2e10-9bf9-11f1-ba4b-005056bfb2b6/w:1024/p:16x9/Couv-SENEGAL-Patrick-Vieira.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-19T18:22:07.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.673Z"
+        },
+        {
+          "id": "2026-08-19-b1342bad",
+          "title": "Incendie à Madrid : un nouveau feu s’est déclaré à l’ouest de la capitale espagnole et a été stabilisé",
+          "description": "Les autorités espagnoles ont engagé neuf avions bombardiers d’eau. Les ordres de confinement, qui concernaient quelque 3 500 habitants d’une commune près de la capitale, ont été levés.",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/19/en-espagne-un-nouvel-incendie-s-est-declare-a-l-ouest-de-madrid_6750003_3244.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-19T18:14:43.000Z",
+          "fetchedAt": "2026-08-20T01:54:08.591Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-15",
+      "topic": "Au fait, que devient le reboot de Wonder Woman par James Gunn ?",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-19-9476ec08",
+          "title": "Au fait, que devient le reboot de Wonder Woman par James Gunn ?",
+          "description": "Pendant que James Gunn valide des séries annexes sur Jimmy Olsen ou Gorilla Grodd, la plus grande icône de DC reste au placard. Quatorze mois après la dernière annonce, le reboot de Wonder Woman fait du surplace. Enlisée entre déclarations de façade et projets dérivés gelés, l'héroïne est la dernière roue du carrosse d'un studio en pleine crise de priorités.",
+          "url": "https://www.numerama.com/pop-culture/2314277-au-fait-que-devient-le-reboot-de-wonder-woman-par-james-gunn.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/capture-decran-2026-08-19-a-165701-1.jpg?resize=1600,900&key=3637a8f7",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-19T17:00:00.000Z",
+          "fetchedAt": "2026-08-20T01:54:18.033Z"
+        },
+        {
+          "id": "2026-08-19-1419c5be",
+          "title": "Ahsoka : l’étrange sabre laser du trailer est-il tiré d’un vieux concours de fans de 1995 ?",
+          "description": "Un étrange sabre laser à double lame séparée a intrigué les fans dans la dernière bande-annonce d’Ahsoka. Une arme inédite ? Pas vraiment : des internautes viennent de retrouver un design quasi identique dans un vieux magazine Star Wars de 1995, imaginé par un fan lors d’un concours de dessin.",
+          "url": "https://www.numerama.com/pop-culture/2314163-ahsoka-letrange-sabre-laser-du-trailer-est-il-tire-dun-vieux-concours-de-fans-de-1995.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/1995-ahsoka.jpg?resize=1600,900&key=f8a383f2",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "fetchedAt": "2026-08-20T01:54:18.033Z"
+        },
+        {
+          "id": "2026-08-19-7f21de76",
+          "title": "Ligue 1+ : une infime partie des matchs sera proposée en 4K UHD pour la saison 2026/2027",
+          "description": "La plateforme Ligue 1+ s'apprête à lancer le coup d'envoi de sa deuxième saison. Deux nouveautés cette année : 100 % des matchs chaque week-end, et quelques affiches en 4K UHD.",
+          "url": "https://www.numerama.com/pop-culture/2314137-ligue-1-une-infime-partie-des-matchs-sera-proposee-en-4k-uhd-pour-la-saison-2026-2027.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/hp30ixywqaaemnl.jpeg?resize=1600,900&key=735f4fb6",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-19T13:10:31.000Z",
+          "fetchedAt": "2026-08-20T01:54:18.033Z"
+        },
+        {
+          "id": "2026-08-19-3301fb2b",
+          "title": "« Il est aussi faux de faire des réseaux sociaux la cause unique du mal-être adolescent que de nier leur capacité à l’amplifier »",
+          "description": "Notre responsabilité d’adulte n’est pas d’abandonner nos adolescents dans les espaces numériques, ni de les en tenir à l’écart, car la santé mentale de notre jeunesse mérite mieux qu’un affrontement entre technophiles et technophobes, analyse le pédopsychiatre Pierre Fourneret, dans une tribune au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/08/19/il-est-aussi-faux-de-faire-des-reseaux-sociaux-la-cause-unique-du-mal-etre-adolescent-que-de-nier-leur-capacite-a-l-amplifier_6749869_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-19T12:49:14.000Z",
+          "fetchedAt": "2026-08-20T01:54:18.044Z"
+        },
+        {
+          "id": "2026-08-19-9ffd54b8",
+          "title": "L’AMF met en garde contre BitKelTrade, une plateforme de trading frauduleuse usurpant l’identité de médias",
+          "description": "« Ces sites n’ont qu’un seul but : inciter le lecteur à cliquer sur le lien permettant de rejoindre la plateforme frauduleuse et à remplir un formulaire de contact pour pouvoir être recontacté », insiste l’Autorité des marchés financiers, recommandant aux épargnants de ne pas donner suite et de ne pas transmettre leurs coordonnées.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/19/l-amf-met-en-garde-contre-bitkeltrade-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias_6749856_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-19T10:59:11.000Z",
+          "fetchedAt": "2026-08-20T01:54:18.044Z"
+        },
+        {
+          "id": "2026-08-19-2b637159",
+          "title": "SK Hynix, géant sud-coréen des puces mémoire, annonce des rachats d’actions pour une valeur de 24,9 milliards d’euros",
+          "description": "A la fin juillet, le président de SK group a acheté pour près de 3 millions d’euros d’actions de l’entreprise, un geste perçu comme une tentative d’afficher sa confiance dans l’entreprise alors que les valeurs du secteur des semi-conducteurs chutaient.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/19/sk-hynix-geant-sud-coreen-des-puces-memoire-annonce-des-rachats-d-actions-pour-une-valeur-de-24-9-milliards-d-euros_6749855_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-08-19T10:51:51.000Z",
+          "fetchedAt": "2026-08-20T01:54:18.044Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-9",
+      "topic": "« Quand j’ouvre la porte, ma cheffe et deux collègues hurlent de rire » : le pot",
+      "category": "eco",
+      "importance": 9,
+      "articles": [
+        {
+          "id": "2026-08-19-25451490",
+          "title": "« Quand j’ouvre la porte, ma cheffe et deux collègues hurlent de rire » : le pot de départ canular de Louise, encadrante de bénévoles dans une association",
+          "description": "« Bon vent ! » (15/18). Un drôle de coup de fil, un journaliste de « Cash Investigation » qui veut l’interroger : le jour de son départ de la structure associative où elle travaille depuis quatre ans, Louise, 32 ans, va vivre des montagnes russes émotionnelles.",
+          "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/19/quand-j-ouvre-la-porte-ma-cheffe-et-deux-collegues-hurlent-de-rire-le-pot-de-depart-canular-de-louise-encadrante-de-benevoles-dans-une-association_6749889_3451060.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-08-18T23:25:21.000Z",
-          "fetchedAt": "2026-08-19T01:55:42.766Z"
+          "publishedAt": "2026-08-19T15:50:39.000Z",
+          "fetchedAt": "2026-08-20T01:54:20.766Z"
+        },
+        {
+          "id": "2026-08-18-1bce0056",
+          "title": "Les PME françaises s’adaptent mal au dérèglement climatique, qu’elles ne considèrent pas encore comme une priorité stratégique",
+          "description": "Pour les dirigeants, cette question passe au second plan derrière des sujets comme la hausse des prix de l’énergie ou des matières premières, les difficultés de recrutement ou la cybersécurité.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/18/les-pme-francaises-mal-adaptees-au-rechauffement-climatique-qu-elles-ne-considerent-pas-encore-comme-une-priorite-strategique_6749079_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-08-18T17:00:04.000Z",
+          "fetchedAt": "2026-08-20T01:54:20.766Z"
+        },
+        {
+          "id": "2026-08-18-0e201af7",
+          "title": "Colonies de vacances : les associations organisatrices de séjours demandent « une politique publique nationale ambitieuse » pour répondre à la crise",
+          "description": "Les acteurs du secteur déplorent la disparition du dispositif « Colos apprenantes », qui avait été lancé après la pandémie de Covid-19.",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/18/colonies-de-vacances-en-crise-les-associations-organisatrices-de-sejours-demandent-une-politique-publique-nationale-ambitieuse_6748802_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-08-18T07:00:06.000Z",
+          "fetchedAt": "2026-08-20T01:54:20.766Z"
         }
       ]
     }
