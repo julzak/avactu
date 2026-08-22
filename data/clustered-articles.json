@@ -1,202 +1,213 @@
 {
-  "generatedAt": "2026-08-21T02:04:17.884Z",
+  "generatedAt": "2026-08-22T01:57:18.914Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Ira",
+      "id": "cluster-2",
+      "topic": "L’indépendance d’un journal militaire américain menacée après le licenciement de",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-21-19c0b286",
-          "title": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Iran",
-          "description": "Après près de six mois de guerre et faute de percée diplomatique, l'administration Trump veut mobiliser ses alliés et la Chine dans une campagne de pression économique maximale contre Téhéran, quitte à menacer de lourdes conséquences les pays qui continueraient à commercer avec l'Iran.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260821-les-%C3%A9tats-unis-somment-leurs-alli%C3%A9s-et-la-chine-de-couper-leurs-liens-avec-l-iran",
-          "imageUrl": "https://s.france24.com/media/display/4093622a-9765-11f1-aa7d-005056a90284/w:1024/p:16x9/AP26224040227323.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-21T01:53:55.000Z",
-          "fetchedAt": "2026-08-21T02:00:17.497Z"
-        },
-        {
-          "id": "2026-08-20-50f09437",
-          "title": "La dette des Etats-Unis dépasse le seuil des 40 000 milliards $",
-          "description": "La dette américaine progresse à une vitesse fulgurante, avec même deux ans d'avance sur les prévisions du bureau du Congrès. L'une des raisons, c'est le poids des taux d'intérêts qui augmentent, reflet des craintes des marchés d'une inflation durable, à cause de la guerre au Moyen-Orient et de la hausse des prix de l'énergie. Le déficit progresse à 6% ou 7%, au lieu des 3% promis par Donald Trump. A cela il faut ajouter une dette privée colossale, liée aux investissements massifs dans l'IA.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260820-la-dette-des-etats-unis-d%C3%A9passe-le-seuil-des-40-000-milliards",
-          "imageUrl": "https://s.france24.com/media/display/3a57aa66-9cc8-11f1-a5de-005056a97e36/w:1024/p:16x9/XX-NW-OOV-ECO-DATA-CENTERS-USA-ILLUSTR-MANENT-Laure-transfer.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-20T19:00:34.000Z",
-          "fetchedAt": "2026-08-21T02:00:17.497Z"
-        },
-        {
-          "id": "2026-08-20-70de4056",
-          "title": "Les Etats-Unis dénoncent la détention « arbitraire » d’un citoyen américain en Chine",
-          "description": "A un mois de la visite de Xi Jinping à Washington, deux citoyens américains sont maintenant officiellement détenus en Chine : Min Zin et Youlin Chen.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/20/les-etats-unis-denoncent-la-detention-arbitraire-d-un-deuxieme-citoyen-americain-en-chine_6751047_3210.html",
+          "id": "2026-08-22-f0e0af2c",
+          "title": "L’indépendance d’un journal militaire américain menacée après le licenciement de deux responsables éditoriaux par le Pentagone",
+          "description": "Le rédacteur en chef et le directeur de la publication, ainsi qu’une journaliste de « Stars and Stripes » ont été limogés, notamment pour « insubordination ». Ce média est financé en partie par le ministère de la défense mais est réputé pour son indépendance éditoriale.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/22/l-independance-d-un-journal-militaire-americain-menacee-apres-le-licenciement-de-deux-responsables-editoriaux-par-le-pentagone_6752453_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-20T14:17:15.000Z",
-          "fetchedAt": "2026-08-21T02:00:17.561Z"
+          "publishedAt": "2026-08-22T01:34:25.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.187Z"
         },
         {
-          "id": "2026-08-20-876a663b",
-          "title": "États-Unis : la dette publique franchit le seuil historique des 40 000 milliards",
-          "description": "La dette publique américaine a dépassé pour la première fois les 40 000 milliards de dollars, selon les données du Trésor américain. Un niveau record, expliqué par Marc Paupe.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260820-%C3%A9tats-unis-la-dette-publique-franchit-le-seuil-historique-des-40-000-milliards",
-          "imageUrl": "https://s.france24.com/media/display/8c9fca96-9c9c-11f1-bf63-005056bf30b7/w:1024/p:16x9/FR-20260820-150925-151104-CS.jpg",
-          "source": "France 24",
+          "id": "2026-08-21-426ca719",
+          "title": "Iran : le président Massoud Pezeshkian veut mettre fin à la guerre avec les Etats-Unis, jugeant Téhéran « en position de force »",
+          "description": "Téhéran continue de verrouiller le détroit d’Ormuz, voie maritime stratégique pour le commerce d’hydrocarbures, et Washington maintient son blocus naval contre l’Iran.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/21/iran-le-president-massoud-pezeshkian-veut-mettre-fin-a-la-guerre-avec-les-etats-unis-jugeant-teheran-en-position-de-force_6752285_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-20T14:01:05.000Z",
-          "fetchedAt": "2026-08-21T02:00:17.497Z"
+          "publishedAt": "2026-08-21T18:31:53.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.187Z"
         },
         {
-          "id": "2026-08-20-396c76a0",
-          "title": "Les Émirats arabes unis rejoignent la “guerre économique totale” contre l’Iran",
-          "description": "Après des semaines de politique d’apaisement vis-à-vis de Téhéran, Abou Dhabi a annoncé la rupture de ses relations commerciales et financières avec l’Iran. Une décision qui, si elle devait vraiment être appliquée, pourrait faire “plus de mal à l’Iran que les sanctions américaines”.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-les-emirats-arabes-unis-rejoignent-la-guerre-economique-totale-contre-l-iran_261430",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/20/0/0/6240/4160/1200/630/60/0/42f3350_upload-1-ristu3lomlsa-034-7202855.jpg",
+          "id": "2026-08-21-5a8dd3a4",
+          "title": "Guerre au Moyen-Orient: «Les forces américaines sont à flux tendu dans un conflit qui s’enlise»",
+          "description": "Le porte-avions USS George Washington est arrivé dans la zone d’opérations des États-Unis au Moyen-Orient. Il vient remplacer l’USS Abraham Lincoln, qui est en mer depuis neuf mois. Les conditions de vie des marins à bord étaient devenues l’objet de vives critiques aux États-Unis. Les familles dénonçaient des sanitaires bouchés, des rationnements alimentaires. Certaines évoquaient une hausse des tentatives de suicide. L’administration Trump a démenti ces récits. Mais l’USS Abraham Lincoln a révélé les difficultés des États-Unis à tenir leur engagement dans la durée.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260821-guerre-au-moyen-orient-les-forces-am%C3%A9ricaines-sont-%C3%A0-flux-tendu-dans-un-conflit-qui-s-enlise",
+          "imageUrl": "https://s.rfi.fr/media/display/519bf86e-9d89-11f1-a050-005056a90284/w:1024/p:16x9/AP26062058349409.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-21T18:07:18.000Z",
+          "fetchedAt": "2026-08-22T01:53:32.188Z"
+        },
+        {
+          "id": "2026-08-21-f1ac27e2",
+          "title": "Aux États-Unis, le boom de l’IA est en train de creuser les inégalités",
+          "description": "Pendant que l’inflation réduit le pouvoir d’achat de nombreux ménages, l’engouement pour l’intelligence artificielle est en train d’enrichir encore davantage les couches les plus aisées de la population, relève la presse américaine.",
+          "url": "https://www.courrierinternational.com/article/tech-aux-etats-unis-le-boom-de-l-ia-est-en-train-de-creuser-les-inegalites_262156",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/21/44/0/2400/1600/1200/630/60/0/b0a2376_upload-1-8jj1fz0xr2fw-310484-w.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-20T13:37:05.000Z",
-          "fetchedAt": "2026-08-21T02:00:18.063Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-11",
-      "topic": "En Israël, des cours de langue arabe pour se rapprocher des Palestiniens",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-20-a1233f67",
-          "title": "En Israël, des cours de langue arabe pour se rapprocher des Palestiniens",
-          "description": "Alors que le Proche-Orient vit au rythme des guerres et que la paix n’a probablement jamais paru aussi lointaine, pourquoi apprendre la langue de l’autre ? À Tel Aviv, des Israéliens se sont inscrits à des cours de langue arabe, une pratique controversée dans la société israélienne alors que l'occupation en Cisjordanie se poursuit et que les massacres à Gaza continuent.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260820-en-isra%C3%ABl-des-cours-de-langue-arabe-pour-se-rapprocher-des-palestiniens",
-          "imageUrl": "https://s.rfi.fr/media/display/a531c346-9cd0-11f1-8b97-005056bfb2b6/w:1024/p:16x9/Apprendre-l-arabe-%C3%A0-Tel-Aviv.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-20T22:02:04.000Z",
-          "fetchedAt": "2026-08-21T02:00:31.714Z"
+          "publishedAt": "2026-08-21T16:00:55.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.943Z"
         },
         {
-          "id": "2026-08-20-a4124e87",
-          "title": "Hind Rajab : la famille de la fillette, tuée à Gaza en 2024, dit ne pas faire confiance à la justice israélienne, après que l’armée a reconnu avoir ouvert le feu",
-          "description": "« Nous réclamons que justice soit faite non seulement pour Hind, mais aussi pour les enfants de Gaza, dont les droits sont bafoués, qui sont privés de leur droit à la vie », a plaidé la grand-mère de la fillette.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/20/hind-rajab-la-famille-de-la-fillette-tuee-a-gaza-en-2024-dit-ne-pas-faire-confiance-a-la-justice-israelienne-apres-que-l-armee-a-reconnu-avoir-ouvert-le-feu_6751329_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-20T20:06:38.000Z",
-          "fetchedAt": "2026-08-21T02:00:17.561Z"
-        },
-        {
-          "id": "2026-08-20-9599699b",
-          "title": "Cisjordanie occupée : quatre pays européens exhortent Israël à stopper les colonies",
-          "description": "La France, l'Italie, le Royaume-Uni et l'Allemagne ont appelé, jeudi, Israël à \"mettre fin à l'expansion des colonies en Cisjordanie\" occupée. Ils ont aussi exhorté l'État hébreu de \"retirer immédiatement\" les appels d'offres lancés cette semaine sur la construction de plus de 1 200 logements pour le vaste projet E1, une zone de 12 km² à l'est de Jérusalem.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260820-cisjordanie-occup%C3%A9e-quatre-pays-europ%C3%A9ens-exhortent-isra%C3%ABl-%C3%A0-stopper-les-colonies",
-          "imageUrl": "https://s.france24.com/media/display/58afad16-9cc7-11f1-80a7-005056bfb2b6/w:1024/p:16x9/000-C4QW7NK.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-20T18:59:00.000Z",
-          "fetchedAt": "2026-08-21T02:00:17.497Z"
-        },
-        {
-          "id": "2026-08-20-cd6b3bf6",
-          "title": "Israël: les ONG restent sceptiques face aux enquêtes militaires sur des meurtres survenus à Gaza",
-          "description": "L’armée israélienne a annoncé le 19 août qu’elle allait enquêter et entamer des poursuites pénales après les meurtres de la petite Hind Rajab et sa famille en 2024 et l'assassinat de 15 soignants palestiniens en mars 2025. Les deux évènements avaient suscité l’indignation de la communauté internationale. L’armée a en revanche déclaré qu’elle ne lancerait pas d’enquêtes criminelles sur trois autres attaques très médiatisées au cours desquelles les forces israéliennes ont tué des travailleurs humanitaires de World Central Kitchen et de Médecins Sans Frontières (MSF).",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260820-isra%C3%ABl-les-ong-restent-sceptiques-face-aux-enqu%C3%AAtes-militaires-sur-des-meurtres-survenus-%C3%A0-gaza",
-          "imageUrl": "https://s.rfi.fr/media/display/f059af6c-7ed3-11f0-9b2c-005056bfb2b6/w:1024/p:16x9/AP25211533007875.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-20T15:14:41.000Z",
-          "fetchedAt": "2026-08-21T02:00:31.714Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-18",
-      "topic": "EN DIRECT, guerre en Ukraine : deux personnes tuées dans de nouvelles frappes ru",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-20-7f013898",
-          "title": "EN DIRECT, guerre en Ukraine : deux personnes tuées dans de nouvelles frappes russes sur Kiev, après celles de la nuit qui ont fait au moins 15 morts",
-          "description": "Une nouvelle attaque russe dans la capitale ukrainienne a fait deux morts et trois blessés jeudi soir, a annoncé le maire de Kiev, Vitali Klitschko. En Crimée annexée, les autorités locales installées par la Russie ont affirmé qu’une attaque ukrainienne a fait deux morts et quatre blessés.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-deux-personnes-tuees-dans-de-nouvelles-frappes-russes-sur-kiev-apres-celles-de-la-nuit-qui-ont-fait-au-moins-15-morts_6746952_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-20T20:40:29.000Z",
-          "fetchedAt": "2026-08-21T02:00:17.561Z"
-        },
-        {
-          "id": "2026-08-20-45875f72",
-          "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-          "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-          "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-20T17:14:55.000Z",
-          "fetchedAt": "2026-08-21T02:00:31.678Z"
-        },
-        {
-          "id": "2026-08-20-269beda3",
-          "title": "En Volhynie, dans l’ouest de l’Ukraine, la difficile réconciliation des mémoires polonaise et ukrainienne autour des charniers de la seconde guerre mondiale",
-          "description": "Dans les anciens villages de Wola Ostrowiecka et d’Ostrowki, dans l’ouest de l’Ukraine, archéologues et historiens exhument des corps de civils polonais massacrés par des nationalistes ukrainiens en 1943. Plus de quatre-vingts ans après, ce douloureux passé continue de peser sur les relations diplomatiques entre Kiev et Varsovie.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/20/en-volhynie-dans-l-ouest-de-l-ukraine-la-difficile-reconciliation-des-memoires-polonaise-et-ukrainienne-autour-des-charniers-de-la-seconde-guerre-mondiale_6751129_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-20T17:00:03.000Z",
-          "fetchedAt": "2026-08-21T02:00:17.561Z"
-        },
-        {
-          "id": "2026-08-20-2bf6f21c",
-          "title": "Au moins 16 morts en Ukraine après une nuit sous les missiles russes, Zelensky dénonce une «escalade»",
-          "description": "Une nouvelle nuit de bombardements russes a fait au moins 16 morts à Kiev et dans sa région, ont affirmé jeudi les autorités ukrainiennes. Le président Volodymyr Zelensky accusant Moscou d'« investir » dans des missiles balistiques pour pousser à l'escalade.",
-          "url": "https://www.rfi.fr/fr/europe/20260820-au-moins-16-morts-en-ukraine-apr%C3%A8s-une-nuit-sous-les-missiles-russes-zelensky-d%C3%A9nonce-une-escalade",
-          "imageUrl": "https://s.rfi.fr/media/display/db3d7b8c-9ca4-11f1-8e2f-005056bf30b7/w:1024/p:16x9/AP26232254550775.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-20T15:04:31.000Z",
-          "fetchedAt": "2026-08-21T02:00:31.714Z"
-        },
-        {
-          "id": "2026-08-20-9f2690af",
-          "title": "Frappes russes sur Kiev : au moins quinze morts et une défense aérienne sous pression",
-          "description": "Dans la nuit du mercredi 19 au jeudi 20 août, des bombardements russes sur la capitale ukrainienne et ses environs ont causé la mort d’au moins quinze personnes et fait au moins 33 blessés. Une attaque qui met en évidence les failles de la défense antiaérienne ukrainienne, à l’heure où Kiev réclame aux États-Unis des systèmes de défense pour intercepter les missiles.",
-          "url": "https://www.courrierinternational.com/article/guerre-frappes-russes-sur-kiev-au-moins-quinze-morts-et-une-defense-aerienne-sous-pression_261528",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/20/91/0/3775/2516/1200/630/60/0/8350b39_ftp-1-wjrqhpwge8t6-2026-08-20t045900z-1973954966-rc2y1na76wfw-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+          "id": "2026-08-21-c554dbb5",
+          "title": "En Belgique, 17 ans de prison pour un homme qui a tabassé son voisin qu’il accusait d’actes pédocriminels",
+          "description": "La justice vient de reconnaître Grégory Lenoci coupable de tentative d’assassinat. L’an dernier, ce Belge de 49 ans avait passé à tabac son voisin Marc P., qu’il accusait d’avoir abusé de son beau-fils. L’affaire a été très suivie en Belgique, où Lenoci est perçu par certains comme s’étant substitué à une justice défaillante.",
+          "url": "https://www.courrierinternational.com/article/justice-en-belgique-17-ans-de-prison-pour-un-homme-qui-a-tabasse-son-voisin-qu-il-accusait-d-actes-pedocriminels_262010",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/21/0/0/4000/2666/1200/630/60/0/f470c3f_upload-1-gavo142zpmsd-043-183817099.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-20T12:58:42.000Z",
-          "fetchedAt": "2026-08-21T02:00:18.063Z"
+          "publishedAt": "2026-08-21T14:00:05.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.943Z"
         },
         {
-          "id": "2026-08-20-663e3f64",
-          "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-          "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-          "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg",
-          "source": "BBC World",
+          "id": "2026-08-21-143659c1",
+          "title": "Le Congrès de Washington secoué par une série de scandales sexuels",
+          "description": "Agressions sexuelles, harcèlement, abus de pouvoir… Une série d’accusations visant des élus américains, tant démocrates que républicains, provoque des démissions et des suspensions de campagnes électorales à l’approche des élections de mi-mandat, relèvent les médias outre-Atlantique.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-le-congres-de-washington-secoue-par-une-serie-de-scandales-sexuels_261993",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/07/0/0/6499/4333/1200/630/60/0/baeb7a8_ftp-1-pis3czlufr6n-2026-08-07t234121z-1237993751-rc2ztmayxj3e-rtrmadp-3-usa-congress.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-20T05:01:24.000Z",
-          "fetchedAt": "2026-08-21T02:00:31.678Z"
+          "publishedAt": "2026-08-21T13:09:02.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.943Z"
         }
       ]
     },
     {
-      "id": "cluster-31",
-      "topic": "Piratage du site des impôts : « La crédibilité de l’Etat français est mise à mal",
+      "id": "cluster-3",
+      "topic": "Ukraine : au moins seize morts dans une frappe russe sur un centre commercial, l",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-22-7f4df0da",
+          "title": "Ukraine : au moins seize morts dans une frappe russe sur un centre commercial, l’UE dénonce une « terreur planifiée »",
+          "description": "Quatre personnes, dont trois mineurs, ont également été tuées, vendredi, dans une autre attaque, et des missiles balistiques ont fait un mort à Kiev dans la nuit de vendredi à samedi.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/22/ukraine-au-moins-seize-morts-dans-une-frappe-russe-sur-un-centre-commercial-l-ue-denonce-une-terreur-planifiee_6752420_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-22T00:55:32.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.187Z"
+        },
+        {
+          "id": "2026-08-21-ab7004b6",
+          "title": "EN DIRECT, guerre en Ukraine : un mort à Kiev dans une nouvelle attaque russe nocturne",
+          "description": "Quarante-huit heures après une frappe nocturne massive contre la capitale ukrainienne et sa région, qui a fait 16 morts, une alerte aux missiles balistiques a de nouveau été déclenchée à Kiev. Par ailleurs, un drone russe a tué, durant la nuit, un homme à Zaporija, dans le sud de l’Ukraine.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-a-kryvy-rih-une-frappe-russe-visant-un-centre-commercial-fait-au-moins-quinze-morts-dont-des-enfants_6746952_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-21T22:15:04.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.187Z"
+        },
+        {
+          "id": "2026-08-21-7375dcd5",
+          "title": "En Ukraine, un centre commercial visé par des frappes russes meurtrières",
+          "description": "Une dizaine de personnes ont été tuées dans des ​frappes russes, dont une attaque de drones visant un centre commercial, qui a également blessé une centaine de personnes dans la ville ​ukrainienne de ‌Kryvyï Rig, ont annoncé, vendredi, ⁠les autorités locales. Le président ukrainien, Volodymyr Zelensky, dénonce des \"actes terroristes\".",
+          "url": "https://www.france24.com/fr/europe/20260821-en-ukraine-des-frappes-russes-font-au-moins-18-morts-et-plus-de-120-bless%C3%A9s",
+          "imageUrl": "https://s.france24.com/media/display/8b15b172-9d87-11f1-abb9-005056bfb2b6/w:1024/p:16x9/000-C69769G.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-21T17:49:15.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.280Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-10",
+      "topic": "These bookshops let Chinese readers question their country - now the doors are c",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-21-15d4ac7e",
+          "title": "These bookshops let Chinese readers question their country - now the doors are closing",
+          "description": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
+          "url": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975a/live/cdbc9370-9c5f-11f1-aed2-8d6da8d75094.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-21T22:26:25.000Z",
+          "fetchedAt": "2026-08-22T01:53:32.076Z"
+        },
+        {
+          "id": "2026-08-21-a4a5d8f3",
+          "title": "Percuté par un vélo, le maire de Côme interdit les deux-roues dans le centre-ville",
+          "description": "Début août, le maire de la commune de Côme, Alessandro Rapinese, a interdit la circulation à vélo dans certaines rues du centre-ville. Problème, cette décision aurait été prise à la suite d’un accident arrivé à l’édile, qui s’était fait percuter par un vélo électrique.",
+          "url": "https://www.courrierinternational.com/article/mobilite-percute-par-un-velo-le-maire-de-come-interdit-les-deux-roues-dans-le-centre-ville_262157",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/21/0/0/8847/5898/1200/630/60/0/3d412cc_upload-1-8xkwffd818zd-075-dellatorre-notitle260406-nprtl-2.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-21T17:26:44.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.943Z"
+        },
+        {
+          "id": "2026-08-21-dc8e42b3",
+          "title": "Ceuta: démantèlement d'un réseau de passeurs soupçonné de faire payer jusqu'à 9000 euros par traversée",
+          "description": "La police espagnole vient de démanteler un réseau de passeurs entre l’enclave espagnole de Ceuta, au nord du Maroc, et la péninsule. Au moins cinq personnes ont été arrêtées ces derniers jours, à Ceuta et dans la ville andalouse de La Línea de la Concepción, soupçonnées d’avoir fait payer jusqu’à 9 000 euros pour la traversée du détroit de Gibraltar. Les migrants font partie des 72 000 personnes entrées illégalement le 31 juillet dans l’enclave depuis le Maroc.",
+          "url": "https://www.rfi.fr/fr/europe/20260821-ceuta-d%C3%A9mant%C3%A8lement-d-un-r%C3%A9seau-de-passeurs-soup%C3%A7onn%C3%A9-de-faire-payer-jusqu-%C3%A0-9000-euros-par-travers%C3%A9e",
+          "imageUrl": "https://s.rfi.fr/media/display/ce4b4642-9d81-11f1-9073-005056a90284/w:1024/p:16x9/AP26233420336750.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-21T17:15:28.000Z",
+          "fetchedAt": "2026-08-22T01:53:32.188Z"
+        },
+        {
+          "id": "2026-08-21-88e216b6",
+          "title": "Les ventes décevantes de Boualem Sansal malgré un battage médiatique hors norme",
+          "description": "Paru le 2 juin, « La Légende », publiée chez Grasset, a été vendue à 48 000 exemplaires. Hachette Livre avait accordé un à-valoir exceptionnel de 1 million d’euros à l’auteur.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/21/les-ventes-decevantes-de-boualem-sansal-malgre-un-battage-mediatique-hors-norme_6752265_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-21T15:00:19.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.187Z"
+        },
+        {
+          "id": "2026-08-21-ad6f3ffc",
+          "title": "Au Canada, les armes à feu ont acquis “un parfum de normalité”",
+          "description": "Plusieurs journaux s’inquiètent de l’engouement des Canadiens pour les armes à feu, qui semble aller de pair avec une augmentation des violences. En cela, ils semblent se rapprocher de plus en plus de leurs voisins du sud.",
+          "url": "https://www.courrierinternational.com/article/societe-au-canada-les-armes-a-feu-ont-acquis-un-parfum-de-normalite_262122",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/04/92/0/2200/1466/1200/630/60/0/fcf341a_ftp-1-qna8n9qv9fyw-2026-08-04t211519z-728388576-rc29ifa3frdh-rtrmadp-3-canada-militia.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-21T14:45:05.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.943Z"
+        },
+        {
+          "id": "2026-08-21-db6c96b4",
+          "title": "En Suède, une attaque à l’épée dans un lycée fait un mort et trois blessés, l’auteur présumé interpellé",
+          "description": "Plusieurs écoles de Fagersta ont été confinées après l’attaque, tandis que l’assaillant présumé a été blessé par la police lors de son interpellation.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/21/en-suede-une-attaque-a-l-epee-dans-un-lycee-fait-plusieurs-blesses-l-auteur-presume-interpelle_6752220_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-21T14:09:10.000Z",
+          "fetchedAt": "2026-08-22T01:53:18.187Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-27",
+      "topic": "YouTube Premium augmente ses prix en Europe : la France est-elle concernée ?",
       "category": "tech",
       "importance": 9,
       "articles": [
+        {
+          "id": "2026-08-21-97625a04",
+          "title": "YouTube Premium augmente ses prix en Europe : la France est-elle concernée ?",
+          "description": "Le 20 août 2026, plusieurs abonnés européens à YouTube Premium ont commencé à recevoir des notifications annonçant une hausse de prix. Si la France n’est pas encore officiellement concernée, elle pourrait à son tour être touchée par cette nouvelle vague d’augmentations.",
+          "url": "https://www.numerama.com/tech/2315863-youtube-premium-augmente-ses-prix-en-europe-la-france-est-elle-concernee.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/1-33.png?resize=1600,900&key=e671aff7",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-21T13:44:38.000Z",
+          "fetchedAt": "2026-08-22T01:53:32.213Z"
+        },
         {
           "id": "2026-08-20-483afa34",
           "title": "Piratage du site des impôts : « La crédibilité de l’Etat français est mise à mal quand il échoue à protéger l’une de ses forteresses les plus régaliennes »",
@@ -206,59 +217,26 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-08-20T06:30:01.000Z",
-          "fetchedAt": "2026-08-21T02:00:31.823Z"
-        },
-        {
-          "id": "2026-08-19-3301fb2b",
-          "title": "« Il est aussi faux de faire des réseaux sociaux la cause unique du mal-être adolescent que de nier leur capacité à l’amplifier »",
-          "description": "Notre responsabilité d’adulte n’est pas d’abandonner nos adolescents dans les espaces numériques, ni de les en tenir à l’écart, car la santé mentale de notre jeunesse mérite mieux qu’un affrontement entre technophiles et technophobes, analyse le pédopsychiatre Pierre Fourneret, dans une tribune au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/08/19/il-est-aussi-faux-de-faire-des-reseaux-sociaux-la-cause-unique-du-mal-etre-adolescent-que-de-nier-leur-capacite-a-l-amplifier_6749869_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-19T12:49:14.000Z",
-          "fetchedAt": "2026-08-21T02:00:31.823Z"
-        },
-        {
-          "id": "2026-08-19-9ffd54b8",
-          "title": "L’AMF met en garde contre BitKelTrade, une plateforme de trading frauduleuse usurpant l’identité de médias",
-          "description": "« Ces sites n’ont qu’un seul but : inciter le lecteur à cliquer sur le lien permettant de rejoindre la plateforme frauduleuse et à remplir un formulaire de contact pour pouvoir être recontacté », insiste l’Autorité des marchés financiers, recommandant aux épargnants de ne pas donner suite et de ne pas transmettre leurs coordonnées.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/19/l-amf-met-en-garde-contre-bitkeltrade-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias_6749856_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-19T10:59:11.000Z",
-          "fetchedAt": "2026-08-21T02:00:31.823Z"
-        },
-        {
-          "id": "2026-08-19-2b637159",
-          "title": "SK Hynix, géant sud-coréen des puces mémoire, annonce des rachats d’actions pour une valeur de 24,9 milliards d’euros",
-          "description": "A la fin juillet, le président de SK group a acheté pour près de 3 millions d’euros d’actions de l’entreprise, un geste perçu comme une tentative d’afficher sa confiance dans l’entreprise alors que les valeurs du secteur des semi-conducteurs chutaient.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/19/sk-hynix-geant-sud-coreen-des-puces-memoire-annonce-des-rachats-d-actions-pour-une-valeur-de-24-9-milliards-d-euros_6749855_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-19T10:51:51.000Z",
-          "fetchedAt": "2026-08-21T02:00:31.823Z"
+          "fetchedAt": "2026-08-22T01:53:32.119Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Why the US economy is ringing alarm bells",
+      "topic": "Watch: How does the US national debt affect consumers around the world?",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-20-b0cdae57",
-          "title": "Why the US economy is ringing alarm bells",
-          "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-          "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
+          "id": "2026-08-21-c1e30ad3",
+          "title": "Watch: How does the US national debt affect consumers around the world?",
+          "description": "The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
+          "url": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae29/live/a71ff590-9d9a-11f1-b109-879e35c24276.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-20T23:15:15.000Z",
-          "fetchedAt": "2026-08-21T02:00:39.806Z"
+          "publishedAt": "2026-08-21T20:28:12.000Z",
+          "fetchedAt": "2026-08-22T01:53:39.204Z"
         }
       ]
     }
