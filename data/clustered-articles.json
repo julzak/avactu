@@ -1,190 +1,201 @@
 {
-  "generatedAt": "2026-08-23T02:05:55.067Z",
+  "generatedAt": "2026-08-24T02:04:01.625Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerr",
+      "id": "cluster-1",
+      "topic": "En direct : réunion des soutiens de l'Ukraine, sur fond d'intensification des fr",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-22-be4dfa1b",
-          "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
-          "description": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/23/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3211.html",
+          "id": "2026-08-24-e35aaaa6",
+          "title": "En direct : réunion des soutiens de l'Ukraine, sur fond d'intensification des frappes",
+          "description": "L'Ukraine accueille lundi une réunion de ses principaux soutiens européens, à qui elle réclame des équipements de défense antiaérienne qui lui font cruellement défaut et une pression accrue sur Moscou, à un moment où les attaques russes n'ont jamais fait autant de victimes civiles. Une attaque de drones ukrainiens a tué deux enfants dans le sud de la Russie au cours de la nuit de dimanche à lundi, a indiqué le gouverneur régional. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20260824-en-direct-ukraine-russie-reunion-soutiens-coalition-volontaires-zelensky-frappes",
+          "imageUrl": "https://s.france24.com/media/display/00505a16-9f57-11f1-a4f1-005056bf30b7/w:1024/p:16x9/AP26235592155543.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-24T00:59:56.000Z",
+          "fetchedAt": "2026-08-24T02:00:01.227Z"
+        },
+        {
+          "id": "2026-08-23-50c2368f",
+          "title": "EN DIRECT, guerre en Ukraine : les principaux soutiens européens de Kiev se réunissent lundi, sur fond d’intensification des frappes",
+          "description": "Cette rencontre des Etats membres de la « coalition des volontaires », organisée le jour du 35e anniversaire de la proclamation de l’indépendance de l’Ukraine, sera coprésidée par le Royaume-Uni, la France et l’Allemagne. Le président du Conseil européen, Antonio Costa, y est attendu.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-mykhailo-fedorov-demande-a-volodymyr-zelensky-de-s-expliquer-sur-la-corruption-dans-son-entourage_6753793_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-22T23:05:52.000Z",
-          "fetchedAt": "2026-08-23T02:01:54.459Z"
+          "publishedAt": "2026-08-23T21:42:47.000Z",
+          "fetchedAt": "2026-08-24T02:00:01.265Z"
         },
         {
-          "id": "2026-08-22-f9bf1467",
-          "title": "Téhéran menace de représailles tout pays soutenant les sanctions économiques américaines",
-          "description": "Le secrétaire américain au Trésor, Scott Bessent, a affirmé la volonté des États-Unis de faire « s’effondrer le régime » iranien par de nouvelles sanctions. Il doit préciser lundi les modalités de cette pression accrue.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/22/teheran-menace-de-represailles-tout-pays-soutenant-les-sanctions-economiques-americaines_6753646_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-08-23-79f193ee",
+          "title": "Des élections seraient \"un tsunami\" qui \"fracturerait l'Ukraine\", dit Zelensky",
+          "description": "Le président ukrainien Volodymyr Zelensky a estimé que des élections en temps de guerre seraient un danger pour le pays, après l'appel controversé de son ex-ministre de la Défense à ouvrir la voie à la tenue d'un scrutin. Notre correspondante Emmanuelle Chaze nous en dit plus.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260823-des-%C3%A9lections-seraient-un-tsunami-qui-fracturerait-l-ukraine-dit-zelensky",
+          "imageUrl": "https://s.france24.com/media/display/abcb23dc-9ee7-11f1-bed6-005056a90284/w:1024/p:16x9/FR-20260823-130547-130751-CS.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-22T20:51:07.000Z",
-          "fetchedAt": "2026-08-23T02:01:54.459Z"
+          "publishedAt": "2026-08-23T12:58:58.000Z",
+          "fetchedAt": "2026-08-24T02:00:01.227Z"
         },
         {
-          "id": "2026-08-22-cf1e8053",
-          "title": "La grande peur des tiques aux États-Unis doit-elle faire renoncer aux sorties dans la nature ?",
-          "description": "Ce petit insecte vecteur de maladies colonise toujours plus le territoire et l’imaginaire des Américains, au point que certains redoutent de mettre le nez dehors. Cette chroniqueuse du “Financial Times”, qui a grandi dans le Midwest, n’est pourtant pas prête à y renoncer.",
-          "url": "https://www.courrierinternational.com/article/sante-la-grande-peur-des-tiques-aux-etats-unis-doit-elle-faire-renoncer-aux-sorties-dans-la-nature_253608",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/12/0/0/3178/2119/1200/630/60/0/c8cdbd3_upload-1-lcjlc0mj4o0l-080-hl-vteppe-3167824.jpg",
+          "id": "2026-08-23-db2b53f3",
+          "title": "Des élections en Ukraine? «Un tsunami» qui «fracturerait» le pays, dit Zelensky",
+          "description": "Lors d'une rencontre avec des journalistes, le président ukrainien Volodymyr Zelensky a estimé que des élections en temps de guerre seraient un danger pour le pays, après l'appel controversé de Mykhailo Fedorov, son ex-ministre de la Défense, à ouvrir la voie à la tenue d'un scrutin.",
+          "url": "https://www.rfi.fr/fr/europe/20260823-des-%C3%A9lections-en-ukraine-un-tsunami-qui-fracturerait-le-pays-dit-zelensky",
+          "imageUrl": "https://s.rfi.fr/media/display/bba07266-16df-11f1-a656-005056a90284/w:1024/p:16x9/000-34WE9C2.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-23T11:36:53.000Z",
+          "fetchedAt": "2026-08-24T02:00:17.819Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Tennis: à Cincinnati, Arthur Fils signe la première victoire française dans un M",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-23-96ea95b6",
+          "title": "Tennis: à Cincinnati, Arthur Fils signe la première victoire française dans un Masters 1000 depuis 2014",
+          "description": "À tout juste une semaine du coup d'envoi de l'US Open, le droitier de 22 ans a battu en finale du tournoi l'Américain Frances Tiafoe en trois sets, dimanche 23 août, décrochant ainsi le plus beau titre de sa jeune carrière.",
+          "url": "https://www.rfi.fr/fr/sports/20260823-tennis-%C3%A0-cincinnati-arthur-fils-signe-la-premi%C3%A8re-victoire-fran%C3%A7aise-dans-un-masters-1000-depuis-2014",
+          "imageUrl": "https://s.rfi.fr/media/display/a931df58-9f4b-11f1-90cc-005056bfb2b6/w:1024/p:16x9/063-2291742987.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-23T23:41:26.000Z",
+          "fetchedAt": "2026-08-24T02:00:17.819Z"
+        },
+        {
+          "id": "2026-08-23-e7f91cc9",
+          "title": "Tennis : le Français Arthur Fils remporte le Masters 1000 de Cincinnati",
+          "description": "Arthur Fils a remporté dimanche le Masters 1000 de Cincinnati après sa victoire sur l'Américain Frances Tiafoe 6-3, 1-6, 6-0. Le Français de 22 ans s'est ainsi offert le plus beau titre de sa carrière et fait un bond au classement général de la 21e place à la 11e, un signal fort à une semaine du début de l'US Open.",
+          "url": "https://www.france24.com/fr/sports/20260823-tennis-le-fran%C3%A7ais-arthur-fils-remporte-le-masters-1000-de-cincinnati",
+          "imageUrl": "https://s.france24.com/media/display/383959e8-9f41-11f1-8d9d-005056a90284/w:1024/p:16x9/Part-GTY-2291734058-1-1-0.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-23T22:23:10.000Z",
+          "fetchedAt": "2026-08-24T02:00:01.227Z"
+        },
+        {
+          "id": "2026-08-23-19320e2d",
+          "title": "Badminton: la France couronne sa génération dorée avec un double sacre aux Mondiaux",
+          "description": "Les Championnats du monde de badminton se sont conclus par un double sacre tricolore historique, ce dimanche 23 août à New Delhi. La France a décroché ses tout premiers titres mondiaux avec les victoires du duo Delphine Delrue-Thom Gicquel en double mixte suivi de celle d'Alex Lanier en simple dans la foulée.",
+          "url": "https://www.rfi.fr/fr/sports/20260823-badminton-la-france-couronne-sa-g%C3%A9n%C3%A9ration-dor%C3%A9e-avec-un-double-sacre-aux-mondiaux",
+          "imageUrl": "https://s.rfi.fr/media/display/6c758d38-9f07-11f1-96b9-005056bf30b7/w:1024/p:16x9/000-C6BD2FE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-23T15:30:46.000Z",
+          "fetchedAt": "2026-08-24T02:00:17.819Z"
+        },
+        {
+          "id": "2026-08-23-bfa82285",
+          "title": "Canicule : un été qui \"va laisser des traces dans la société française\"",
+          "description": "Si des températures plus supportables sont de retour, il n'est pas question d'oublier l'été que la France a vécu, le plus chaud jamais enregistré. \"Il y a eu des morts de la chaleur, de noyade, ça a eu un impact sur le moral de la population, on a eu des détresses psychologiques, des personnes ont dû évacuer leur domicile... tout ça va laisser des traces dans la société française\", rappelle notre invité Gaël Musquet, météorologue spécialiste de la prévention des risque majeurs",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260823-canicule-un-%C3%A9t%C3%A9-qui-va-laisser-des-traces-dans-la-soci%C3%A9t%C3%A9-fran%C3%A7aise",
+          "imageUrl": "https://s.france24.com/media/display/ebb40b5c-9ee8-11f1-8060-005056bf30b7/w:1024/p:16x9/FR-20260823-130929-132358-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-23T14:20:41.000Z",
+          "fetchedAt": "2026-08-24T02:00:01.227Z"
+        },
+        {
+          "id": "2026-08-23-d70dad79",
+          "title": "En Croatie, le Danube en souffrance met au jour une “route des mammouths”",
+          "description": "À Mohovo, petit village croate proche de la frontière serbe, les restes de pachydermes préhistoriques découverts depuis quinze ans ont redonné vie au tissu local et rapproché les habitants. Ces dernières semaines, la sécheresse historique a fait ressurgir d’autres ossements plus en aval. De quoi alimenter les fantasmes et les projets touristiques.",
+          "url": "https://www.courrierinternational.com/article/reportage-en-croatie-le-danube-en-souffrance-met-au-jour-une-route-des-mammouths_259284",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/19/0/113/5665/3777/1200/630/60/0/3e805ee_upload-1-pgruvxztlwiz-000-c49z79l.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-22T13:50:08.000Z",
-          "fetchedAt": "2026-08-23T02:01:55.121Z"
-        },
-        {
-          "id": "2026-08-22-61c5101f",
-          "title": "EN DIRECT - L’Iran considère comme «ennemi» tout pays participant à la «guerre économique» de Washington",
-          "description": "L'Iran a accordé des autorisations spéciales à certains pétroliers irakiens pour qu'ils puissent franchir le détroit stratégique d'Ormuz depuis le début de la guerre au Moyen-Orient, a rapporté le 22 août l'agence de presse officielle Irna. L'Iran a pris le contrôle de ce détroit après l'attaque israélo-américaine de fin février, qui a déclenché la guerre. Si Washington menace Téhéran de nouvelles sanctions, le président iranien estime « qu'il est temps de mettre fin à la guerre, l'Iran étant en position de force ». La Chine estime aussi pouvoir ignoer les menaces américaines et pôursuivre son sotutien à Téhéran.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260822-en-direct-le-trafic-dans-le-d%C3%A9troit-d-ormuz-toujours-au-centre-du-bras-de-fer-irano-am%C3%A9ricain",
-          "imageUrl": "https://s.rfi.fr/media/display/6d74aaf8-9e66-11f1-9bec-005056a90284/w:1024/p:16x9/AP26210556184391.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-22T12:58:24.000Z",
-          "fetchedAt": "2026-08-23T02:02:08.852Z"
-        },
-        {
-          "id": "2026-08-22-74d7e802",
-          "title": "Moyen-Orient en direct : l'Iran fustige les pays participant à la \"guerre économique\" américaine",
-          "description": "\"Tout pays participant à la mise en place de restrictions économiques\" à l'encontre de l'Iran est \"considéré comme un ennemi\", a déclaré samedi le secrétaire du Conseil suprême de sécurité nationale iranien, Mohsen Rezaï. Retrouvez le fil de la journée du 22 août.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260822-guerre-moyen-orient-en-direct-iran-autorise-navires-irakiens-dans-d%C3%A9troit-ormuz",
-          "imageUrl": "https://s.france24.com/media/display/40e60864-9e67-11f1-a9b4-005056bfb2b6/w:1024/p:16x9/AP26229596804920.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-22T09:58:08.000Z",
-          "fetchedAt": "2026-08-23T02:01:54.635Z"
-        },
-        {
-          "id": "2026-08-22-7d1da5fe",
-          "title": "L’échec des discussions commerciales entre les Etats-Unis et le Canada met à l’épreuve la stratégie de fermeté d’Ottawa",
-          "description": "De nouveaux droits de douane américains de 50 % entrent en vigueur, samedi 22 août, sur une série de produits canadiens, après l’interruption des tractations entre les deux pays, vendredi. Ottawa promet une riposte de même ampleur.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/22/l-echec-des-discussions-commerciales-entre-etats-unis-et-canada-met-a-l-epreuve-la-strategie-de-fermete-d-ottawa_6753060_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-22T08:48:20.000Z",
-          "fetchedAt": "2026-08-23T02:01:54.459Z"
+          "publishedAt": "2026-08-23T13:01:15.000Z",
+          "fetchedAt": "2026-08-24T02:00:02.007Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Syria says Israeli strike near Damascus violation of international law",
+      "id": "cluster-11",
+      "topic": "Guinée : au moins 30 morts et 22 blessés dans l'éboulement d'une décharge",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-22-1ae39cbb",
-          "title": "Syria says Israeli strike near Damascus violation of international law",
-          "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-          "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-22T21:42:42.000Z",
-          "fetchedAt": "2026-08-23T02:02:09.067Z"
-        },
-        {
-          "id": "2026-08-22-2450f04a",
-          "title": "Passe d'armes entre Israël et la Turquie après des frappes en Syrie",
-          "description": "Recep Tayyip Erdogan et Benjamin Netanyahu ont échangé des invectives vendredi 21 août, après que la Turquie a émis un mandat d'arrêt international contre le Premier ministre israélien et quelques jours après des frappes en Syrie imputées à Israël. Nous en parlons avec notre correspondante Jenna Le Bras.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260822-passe-d-armes-entre-isra%C3%ABl-et-la-turquie-apr%C3%A8s-des-frappes-en-syrie",
-          "imageUrl": "https://s.france24.com/media/display/4f2b47ba-9e06-11f1-88d9-005056a97e36/w:1024/p:16x9/FR-20260822-100441-100606-CS.jpg",
+          "id": "2026-08-23-0b49fd13",
+          "title": "Guinée : au moins 30 morts et 22 blessés dans l'éboulement d'une décharge",
+          "description": "En Guinée, un éboulement d’ordures fait plusieurs morts et de nombreux blessés à Conakry. Le drame s’est produit dans la nuit de samedi à dimanche, après de fortes pluies. Selon plusieurs témoignages, des dizaines personnes ont été ensevelies sous les déchets.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260823-guin%C3%A9e-au-moins-30-morts-et-22-bless%C3%A9s-dans-l-%C3%A9boulement-d-une-d%C3%A9charge",
+          "imageUrl": "https://s.france24.com/media/display/180acbc4-9f2e-11f1-a8df-005056bfb2b6/w:1024/p:16x9/FRAN260823-2142-Live-01.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-22T09:04:34.000Z",
-          "fetchedAt": "2026-08-23T02:01:54.635Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "EN DIRECT, guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup p",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
+          "publishedAt": "2026-08-23T20:13:47.000Z",
+          "fetchedAt": "2026-08-24T02:00:01.227Z"
+        },
         {
-          "id": "2026-08-22-71ef965f",
-          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles »",
-          "description": "Le président russe a directement lié, samedi, l’augmentation de la puissance et du nombre des frappes russes aux attaques ukrainiennes contre des infrastructures économiques et logistiques en Russie.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-promet-des-attaques-beaucoup-plus-destructrices-contre-kiev-evoquant-des-mesures-de-represailles_6746952_3210.html",
+          "id": "2026-08-23-e604135d",
+          "title": "Guinée : 30 morts dans l’éboulement d’une décharge à Conakry après de fortes pluies",
+          "description": "Le gouvernement avait annoncé ces derniers jours des opérations d’expulsion et de sécurisation des emprises autour de la décharge à cause des risques d’éboulement.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/08/23/guinee-30-morts-dans-l-eboulement-d-une-decharge-a-conakry-apres-de-fortes-pluies_6754473_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-22T21:17:51.000Z",
-          "fetchedAt": "2026-08-23T02:01:54.459Z"
-        },
-        {
-          "id": "2026-08-22-fe6d7c00",
-          "title": "Russie: à un mois des législatives, Vladimir Poutine reste inflexible sur la guerre en Ukraine",
-          "description": "Alors que la Russie est sous le feu des drones ukrainiens, Vladimir Poutine s’est adressé samedi 22 août au congrès de son parti, Russie unie, à un mois des élections législatives de septembre. Le président russe a reconnu certaines difficultés, sans toutefois donner le moindre signe d’un possible apaisement dans la guerre contre l’Ukraine.",
-          "url": "https://www.rfi.fr/fr/europe/20260822-russie-%C3%A0-un-mois-des-l%C3%A9gislatives-vladimir-poutine-reste-inflexible-sur-la-guerre-en-ukraine",
-          "imageUrl": "https://s.rfi.fr/media/display/4814b66e-9e4c-11f1-b35e-005056bf30b7/w:1024/p:16x9/2026-08-22T154830Z-1467919007-RC2P3NAOFP5T-RTRMADP-3-RUSSIA-ELECTION-PUTIN.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-22T18:58:35.000Z",
-          "fetchedAt": "2026-08-23T02:02:08.852Z"
-        },
-        {
-          "id": "2026-08-22-2a6c23f6",
-          "title": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
-          "description": "Les secours ukrainiens fouillent samedi les décombres d'un important centre commercial du centre de l'Ukraine à la recherche de victimes, à la suite de frappes russes aux drones en plein jour qui ont fait au moins 16 morts et 130 blessés.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260822-ukraine-frappes-russes-meurtri%C3%A8res-sur-un-centre-commercial-en-plein-jour-1",
-          "imageUrl": "https://s.france24.com/media/display/8b2a1452-9e34-11f1-a300-005056a97e36/w:1024/p:16x9/FR-20260822-150325-150514-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-22T15:30:07.000Z",
-          "fetchedAt": "2026-08-23T02:01:54.635Z"
-        },
-        {
-          "id": "2026-08-22-d8cfd88b",
-          "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-          "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-          "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-22T13:13:16.000Z",
-          "fetchedAt": "2026-08-23T02:02:09.067Z"
+          "publishedAt": "2026-08-23T17:45:29.000Z",
+          "fetchedAt": "2026-08-24T02:00:01.265Z"
         }
       ]
     },
     {
-      "id": "cluster-14",
-      "topic": "Numerama+ vous offre un an de VPN Surfshark One, mais seulement aux 700 premiers",
+      "id": "cluster-2",
+      "topic": "Les impôts piégés par un compte volé, un agent IA pirate des tickets Jira et des",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-22-f34620e0",
-          "title": "Numerama+ vous offre un an de VPN Surfshark One, mais seulement aux 700 premiers",
-          "description": "Aujourd’hui, le deal du jour vient directement de la maison. La rentrée approche avec son cortège de nouveaux abonnements, et Numerama+ vous permet de faire d’une pierre deux coups en vous offrant Surfshark One pendant un an.",
-          "url": "https://www.numerama.com/cyberguerre/2314871-numerama-vous-offre-un-an-de-vpn-surfshark-one-mais-seulement-aux-700-premiers.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/surfshark-one-x-numerama.jpg?resize=1600,900&key=b070d73e",
+          "id": "2026-08-23-d3413865",
+          "title": "Les impôts piégés par un compte volé, un agent IA pirate des tickets Jira et des versions obscures de Qwen disent oui à tout : on vous raconte la semaine Cyberguerre",
+          "description": "Trois actualités à retenir cette semaine dans le cyberespace : une fuite de données qui touche près de 700 000 Français, un agent IA qui a exploité une faille par lui-même jusqu'à s'infiltrer dans les outils internes de Snowflake, et des versions « uncensored » de Qwen qui répondent à tout, sans aucun garde-fou.",
+          "url": "https://www.numerama.com/cyberguerre/2316139-les-impots-pieges-par-un-compte-vole-un-agent-ia-pirate-des-tickets-jira-et-des-versions-obscures-de-qwen-disent-oui-a-tout-on-vous-raconte-la-semaine-cyberguerre.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/design-sans-titre-2026-08-21t174839872.png?resize=1600,900&key=90149b5d",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-08-22T11:00:00.000Z",
-          "fetchedAt": "2026-08-23T02:02:08.947Z"
+          "publishedAt": "2026-08-23T17:32:00.000Z",
+          "fetchedAt": "2026-08-24T02:00:18.010Z"
         },
         {
-          "id": "2026-08-22-36e715c7",
-          "title": "Lancé à 1 799 €, le premier robot aspirateur avec un bras articulé chute à 719 €",
-          "description": "[Deal du jour] Le Roborock Saros Z70, premier robot aspirateur grand public équipé d'un bras articulé pour ramasser vos chaussettes, est désormais bien plus accessible.",
-          "url": "https://www.numerama.com/tech/2315867-lance-a-1-799-e-le-premier-robot-aspirateur-avec-un-bras-articule-chute-a-719-e.html",
-          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/12/robot-aspirateur-laveur-roborock-saros-z70-bras.jpg?resize=1600,900&key=9ef16893",
+          "id": "2026-08-23-661b4dd3",
+          "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+          "description": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+          "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-08-23T14:30:16.000Z",
+          "fetchedAt": "2026-08-24T02:00:22.466Z"
+        },
+        {
+          "id": "2026-08-23-ad2f11b3",
+          "title": "Le jour où une mission martienne s’est écrasée à cause du système métrique",
+          "description": "Voir une mission spatiale échouer n'est pas forcément rare, mais lorsque cela est dû à de petites erreurs largement évitables, c'est un petit peu plus énervant. C'est le cas de Mars Climate Orbiter. Un projet de la Nasa raté suite à une confusion dans les unités de mesure utilisées.",
+          "url": "https://www.numerama.com/sciences/2311639-le-jour-ou-une-mission-martienne-sest-ecrasee-a-cause-du-systeme-metrique.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/mars-climate-orbiter.jpg?resize=1600,900&key=8ea6f805",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-08-22T06:03:00.000Z",
-          "fetchedAt": "2026-08-23T02:02:08.947Z"
+          "publishedAt": "2026-08-23T12:31:00.000Z",
+          "fetchedAt": "2026-08-24T02:00:18.010Z"
+        },
+        {
+          "id": "2026-08-23-207b94dd",
+          "title": "Tout le mystère de la physique quantique est résumé dans cette unique expérience",
+          "description": "Quelle est l’expérience qui permet aux novices d’appréhender les mystères de la mécanique quantique et qui continue de faire vibrer les physiciens ? Partons à la découverte de l’expérience de la « double fente » !",
+          "url": "https://www.numerama.com/sciences/2314847-tout-le-mystere-de-la-physique-quantique-est-resume-dans-cette-unique-experience.html",
+          "imageUrl": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/08/physique-quantique-fente.jpg?resize=1600,900&key=eecf91ca",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-08-23T11:01:00.000Z",
+          "fetchedAt": "2026-08-24T02:00:18.010Z"
         },
         {
           "id": "2026-08-22-74a55cbc",
@@ -195,59 +206,26 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-08-22T05:30:01.000Z",
-          "fetchedAt": "2026-08-23T02:02:08.869Z"
-        },
-        {
-          "id": "2026-08-21-63a50383",
-          "title": "Derrière le succès des consoles « rétro », un marché illégal de jeux anciens",
-          "description": "Souvent produits en Chine et peu onéreux, ces émulateurs permettent de jouer à des milliers de titres produits pour des consoles datées, comme la GameBoy ou la PS1. Si leur existence même n’est pas illégale, ils entretiennent tout de même un marché noir de fichiers violant le droit d’auteur.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/21/derriere-le-succes-des-consoles-retro-un-marche-illegal-de-jeux-anciens_6752283_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-21T18:00:06.000Z",
-          "fetchedAt": "2026-08-23T02:02:08.869Z"
-        },
-        {
-          "id": "2026-08-21-09a2c62f",
-          "title": "Une enquête ouverte pour cyberharcèlement et menace de mort à l’encontre de Gisèle Journo, agente d’influenceurs",
-          "description": "Depuis son apparition dans les « vlogs d’août » de Lena Situations, la fondatrice et directrice de l’agence d’influenceurs Gisèle Paris est attaquée pour une série de republication de contenus soutenant l’armée israélienne sur ses réseaux sociaux personnels.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/21/gisele-journo-une-enquete-ouverte-pour-cyberharcelement-et-menace-de-mort-ciblant-l-agente-d-influenceurs_6751946_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-21T10:07:26.000Z",
-          "fetchedAt": "2026-08-23T02:02:08.869Z"
-        },
-        {
-          "id": "2026-08-21-462c5124",
-          "title": "« L’interdiction d’accès des mineurs aux réseaux sociaux relève d’une mesure de protection d’urgence de la santé comme de la liberté de nos enfants »",
-          "description": "Les données scientifiques et les observations de terrain établissent les effets néfastes sur les mineurs des plateformes numériques, rappellent, dans une tribune au « Monde », Amine Benyamina et Servane Mouton, coprésidents de la commission d’experts enfants et écrans, chargée d’évaluer l’impact de l’exposition des jeunes aux écrans.",
-          "url": "https://www.lemonde.fr/idees/article/2026/08/21/l-interdiction-d-acces-des-mineurs-aux-reseaux-sociaux-releve-d-une-mesure-de-protection-d-urgence-de-la-sante-comme-de-la-liberte-de-nos-enfants_6751569_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-21T04:00:07.000Z",
-          "fetchedAt": "2026-08-23T02:02:08.869Z"
+          "fetchedAt": "2026-08-24T02:00:17.857Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Struggling households need more help with bills, energy industry says",
+      "id": "cluster-7",
+      "topic": "CrossCountry cancels 'almost all' UK services after power cut",
       "category": "eco",
-      "importance": 7,
+      "importance": 6,
       "articles": [
         {
-          "id": "2026-08-22-429beb87",
-          "title": "Struggling households need more help with bills, energy industry says",
-          "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
-          "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg",
+          "id": "2026-08-23-06cf65f1",
+          "title": "CrossCountry cancels 'almost all' UK services after power cut",
+          "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+          "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8766/live/9b0d2440-9ef2-11f1-aed4-af6fe65bfcd6.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-22T23:00:03.000Z",
-          "fetchedAt": "2026-08-23T02:02:15.616Z"
+          "publishedAt": "2026-08-23T14:05:16.000Z",
+          "fetchedAt": "2026-08-24T02:00:26.697Z"
         }
       ]
     }
