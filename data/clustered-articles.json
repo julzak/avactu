@@ -1,231 +1,209 @@
 {
-  "generatedAt": "2026-08-27T10:00:58.326Z",
+  "generatedAt": "2026-08-28T11:34:09.252Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-7",
-      "topic": "Immigration : le piège de l’extrême droite se referme sur les Européens",
+      "id": "cluster-2",
+      "topic": "Guerre au Soudan: fin de l’état d’urgence dans la capitale",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-27-cb0eea0c",
-          "title": "Immigration : le piège de l’extrême droite se referme sur les Européens",
-          "description": "A chaque victoire que l’extrême droite remporte, elle entend très logiquement aller plus loin sur son terrain et s’affiche de plus en plus ouvertement xénophobe, comme le montrent les campagnes électorales qui se déroulent actuellement dans plusieurs pays européens.",
-          "url": "https://www.lemonde.fr/idees/article/2026/08/27/immigration-le-piege-de-l-extreme-droite-se-referme-sur-les-europeens_6758344_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-27T09:30:01.000Z",
-          "fetchedAt": "2026-08-27T09:56:57.929Z"
-        },
-        {
-          "id": "2026-08-27-38276f24",
-          "title": "Crue dévastatrice au Népal et au Tibet: les secours à la recherche de plus de 1300 disparus",
-          "description": "Les secours multiplient les efforts ce jeudi matin pour retrouver plus de 1 300 disparus, dont des centaines de touristes étrangers, après la crue dévastatrice qui a fait mercredi au moins 273 morts à la frontière entre le Népal et le Tibet, un territoire chinois.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20260827-crue-d%C3%A9vastatrice-au-n%C3%A9pal-et-au-tibet-les-secours-%C3%A0-la-recherche-de-plus-d-un-millier-de-disparus",
-          "imageUrl": "https://s.rfi.fr/media/display/fdb8b8d2-a183-11f1-9fd9-005056bfb2b6/w:1024/p:16x9/AP26238503594631.jpg",
+          "id": "2026-08-28-f83172f9",
+          "title": "Guerre au Soudan: fin de l’état d’urgence dans la capitale",
+          "description": "La fin de l’état d’urgence dans la capitale d’un Soudan ravagé par plus de trois années de guerre a été annoncée le 27 août par un communiqué du Comité de sécurité de l’État de Khartoum. Cela faisait plus de deux ans que Khartoum vivait sous ce régime d’exception.",
+          "url": "https://www.rfi.fr/fr/afrique/20260828-guerre-au-soudan-fin-de-l-%C3%A9tat-d-urgence-dans-la-capitale",
+          "imageUrl": "https://s.rfi.fr/media/display/ec553fe4-a2cc-11f1-af08-005056bfb2b6/w:1024/p:16x9/AP26147365544668.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-27T04:08:00.000Z",
-          "fetchedAt": "2026-08-27T09:57:02.134Z"
+          "publishedAt": "2026-08-28T11:22:50.000Z",
+          "fetchedAt": "2026-08-28T11:30:12.746Z"
         },
         {
-          "id": "2026-08-27-d118e278",
-          "title": "A Mayotte, Sébastien Lecornu annonce des renforts humains et technologiques contre l’immigration clandestine",
-          "description": "Le premier ministre, en visite sur l’archipel, souhaite aussi conditionner l’aide au développement fournie aux Comores et à six pays africains à leur coopération avec la France dans la lutte migratoire.",
-          "url": "https://www.lemonde.fr/politique/article/2026/08/27/a-mayotte-sebastien-lecornu-annonce-des-renforts-humains-et-technologiques-contre-l-immigration-clandestine_6757797_823448.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-27T03:00:06.000Z",
-          "fetchedAt": "2026-08-27T09:56:57.929Z"
-        },
-        {
-          "id": "2026-08-27-87aa4493",
-          "title": "Maroc: les données de 70 000 agents de la police et du renseignement publiées après une nouvelle cyberattaque",
-          "description": "Revendiquée par le groupe de hackers Jabaroot qui se présente comme un soutien d'Alger, la fuite, jugée au moins en partie authentique par d'ex-membres du renseignement du royaume, est un « cadeau » fait à l'Europe après la crise migratoire de Ceuta à la fin du mois de juillet, affirment les pirates. Ces derniers accusent des responsables sécuritaires marocains d’avoir facilité le passage vers l'enclave de milliers de migrants, ce qui n'a pas été prouvé jusqu'à présent.",
-          "url": "https://www.rfi.fr/fr/afrique/20260827-maroc-les-donn%C3%A9es-de-70-000-agents-de-la-police-et-du-renseignement-publi%C3%A9es-apr%C3%A8s-une-nouvelle-cyberattaque",
-          "imageUrl": "https://s.rfi.fr/media/display/c3effb1a-15da-11ea-aca3-005056bf7c53/w:1024/p:16x9/COMPUTER.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-27T02:48:48.000Z",
-          "fetchedAt": "2026-08-27T09:57:02.134Z"
-        },
-        {
-          "id": "2026-08-26-cd153b9e",
-          "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
-          "description": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
-          "url": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b8a/live/6fa651a0-a181-11f1-8acb-47b47191a479.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-26T23:08:43.000Z",
-          "fetchedAt": "2026-08-27T09:57:03.061Z"
-        },
-        {
-          "id": "2026-08-26-d694e8f6",
-          "title": "La France veut conditionner l'aide au développement pour sept pays africains à la lutte contre l'immigration à Mayotte",
-          "description": "En déplacement pour deux jours à Mayotte, Sébastien Lecornu a annoncé, mercredi 26 août, que la France entendait conditionner le versement de son aide publique au développement à une meilleure coopération dans la lutte contre l’immigration clandestine sur l'archipel. Sept pays africains sont concernés par ce système de « bonus-malus », décrit par le Premier ministre.",
-          "url": "https://www.rfi.fr/fr/france/20260826-la-france-veut-conditionner-l-aide-au-d%C3%A9veloppement-pour-sept-pays-africains-%C3%A0-la-lutte-contre-l-immigration-%C3%A0-mayotte",
-          "imageUrl": "https://s.rfi.fr/media/display/b1bbce0e-a171-11f1-aa43-005056a90284/w:1024/p:16x9/000-C6KE2G3.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-26T19:04:13.000Z",
-          "fetchedAt": "2026-08-27T09:57:02.134Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-8",
-      "topic": "États-Unis: les expulsions de Mexicains vers des pays tiers, entre illégalité et",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-27-67e21418",
-          "title": "États-Unis: les expulsions de Mexicains vers des pays tiers, entre illégalité et pression sur Mexico",
-          "description": "Les États-Unis ont expulsé près de 2 300 Mexicains vers le Guatemala en 2026, des dizaines d’autres ont été envoyés au Honduras. L’administration américaine normalise ces expulsions vers des « pays tiers ». Une manière de faire pression sur le Mexique, selon des organisations civiles. De son côté, le président guatémaltèque parle « d’escales de transit », pour ces personnes. De quoi s'agit-il vraiment ?",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260827-%C3%A9tats-unis-les-expulsions-de-mexicains-vers-des-pays-tiers-entre-ill%C3%A9galit%C3%A9-et-pression-sur-mexico",
-          "imageUrl": "https://s.rfi.fr/media/display/5fa6429e-a1f7-11f1-b647-005056bfb2b6/w:1024/p:16x9/AP26073045221789.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-27T09:29:38.000Z",
-          "fetchedAt": "2026-08-27T09:57:02.134Z"
-        },
-        {
-          "id": "2026-08-27-cc73f02f",
-          "title": "Les États-Unis suspendent temporairement les entretiens pour les visas d'immigration",
-          "description": "Tous les entretiens consulaires pour les visas d'immigration aux États-Unis sont suspendus à travers le monde, a annoncé mercredi le département d'État américain. Il justifie cette pause par la nécessité de former son personnel sur le risque que les demandeurs deviennent \"une charge pour l'État\".",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260827-etats-unis-pause-entretiens-visas-immigration-consulat-rendez-vous",
-          "imageUrl": "https://s.france24.com/media/display/1879df3e-a166-11f1-b2da-005056bfb2b6/w:1024/p:16x9/AP26159716848955.jpg",
+          "id": "2026-08-28-7ecaa2aa",
+          "title": "Diplomatie au Sahel, El Niño au Soudan, Ebola en RD Congo : l'hebdo Afrique",
+          "description": "",
+          "url": "https://www.france24.com/fr/afrique/20260828-diplomatie-sahel-el-nino-soudan-ebola-rd-congo-hebdo-afrique",
+          "imageUrl": "https://s.france24.com/media/display/3f15a29c-9dfe-11f1-868d-005056a97e36/w:1024/p:16x9/023ec0eb550de87ed3d320b3b704fbefc0d06a16.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-27T03:08:33.000Z",
-          "fetchedAt": "2026-08-27T09:56:57.986Z"
+          "publishedAt": "2026-08-28T09:02:04.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.466Z"
         },
         {
-          "id": "2026-08-26-47c548bf",
-          "title": "Les États-Unis approuvent le Rasonque, un traitement prometteur contre le cancer du pancréas",
-          "description": "Les États-Unis ont approuvé mercredi le médicament Rasonque, considéré par les experts comme l'avancée la plus significative jamais connue dans la lutte contre le cancer du pancréas. Ce traitement en comprimés permettra d'allonger la durée de vie des malades.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260826-etats-unis-traitement-prometteur-cancer-pancreas-approuve-rasonque-revolution-medicines-sante",
-          "imageUrl": "https://s.france24.com/media/display/664edb68-a19a-11f1-b828-005056a90284/w:1024/p:16x9/AP26238705740891.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-26T22:11:22.000Z",
-          "fetchedAt": "2026-08-27T09:56:57.986Z"
-        },
-        {
-          "id": "2026-08-26-5d3b324e",
-          "title": "Cancer du pancréas : les Etats-Unis approuvent un traitement qui a doublé la durée de survie des patients",
-          "description": "Lors de l’essai clinique, la moitié des patients l’ayant pris avaient survécu plus de treize mois, soit une durée deux fois plus longue que pour le groupe sous chimiothérapie.",
-          "url": "https://www.lemonde.fr/sciences/article/2026/08/26/cancer-du-pancreas-les-etats-unis-approuvent-un-traitement-qui-a-double-la-duree-de-survie-des-patients_6757431_1650684.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-26T18:30:30.000Z",
-          "fetchedAt": "2026-08-27T09:56:57.929Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-16",
-      "topic": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-08-27-c8f2f4ef",
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "description": "L’armée de l’air ukrainienne a affirmé jeudi avoir « abattu ou neutralisé » 233 cibles aériennes russes au cours d’une attaque menée pendant la nuit, à partir de 18 heures mercredi.  Les principales zones visées étaient les régions d’Odessa, de Kiev, de Dnipropetrovsk, de Poltava et de Zaporijia.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/27/en-direct-guerre-en-ukraine-les-dernieres-informations-au-27-aout-2026_6753793_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-27T08:37:36.000Z",
-          "fetchedAt": "2026-08-27T09:56:57.929Z"
-        },
-        {
-          "id": "2026-08-27-6571411f",
-          "title": "Les prix du diesel, doublement affectés par les guerres au Moyen-Orient et en Ukraine, continuent de grimper",
-          "description": "Le blocage du détroit d’Ormuz et la décision de la Russie, début juillet, d’interrompre toutes ses livraisons de diesel à l’étranger perturbent le marché mondial du gazole.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/27/les-prix-du-diesel-doublement-affectes-par-le-conflit-au-moyen-orient-et-la-guerre-en-ukraine-continuent-de-grimper_6758111_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-27T06:30:08.000Z",
-          "fetchedAt": "2026-08-27T09:56:57.929Z"
-        },
-        {
-          "id": "2026-08-27-f9c3d2d1",
-          "title": "La révolte de Fedorov, symptôme du malaise politique ukrainien",
-          "description": "En réclamant une élection en pleine guerre, l’ancien ministre de la Défense ukrainien a brisé un tabou. Mais, même si les Ukrainiens rejettent largement l’idée d’un scrutin dans l’immédiat, les griefs se multiplient contre le président Zelensky, affirme ce chroniqueur de “The Sunday Telegraph” de Londres.",
-          "url": "https://www.courrierinternational.com/article/analyse-la-revolte-de-fedorov-symptome-du-malaise-politique-ukrainien_262826",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/25/128/81/1919/1279/1200/630/60/0/da869d0_upload-1-x2uakrxj2l99-p-20-bertrams-w.jpg",
+          "id": "2026-08-28-b01afae5",
+          "title": "Au moins 469 morts au Népal et au Tibet, affrontements à Ceuta, lac Ontario, Soudan du Sud : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-inondations-au-nepal-et-au-tibet-affrontements-a-ceuta-lac-ontario-soudan-du-sud-les-informations-de-la-nuit_264399",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/28/1/0/8192/5461/1200/630/60/0/a69eb62_ftp-1-eal9fgfmylny-2026-08-28t035110z-509344693-rc2e7naxlvnc-rtrmadp-3-nepal-floods.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-27T03:00:25.000Z",
-          "fetchedAt": "2026-08-27T09:56:57.759Z"
+          "publishedAt": "2026-08-28T04:15:41.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.586Z"
         }
       ]
     },
     {
-      "id": "cluster-46",
-      "topic": "Vous avez délaissé les plateformes de streaming au profit d’un iPod, d’un balade",
-      "category": "tech",
-      "importance": 8,
+      "id": "cluster-3",
+      "topic": "Tapisserie de Bayeux : Emmanuel Macron sera à Londres mercredi pour inaugurer l’",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-08-26-7489407c",
-          "title": "Vous avez délaissé les plateformes de streaming au profit d’un iPod, d’un baladeur MP3 ou d’un lecteur CD ? Racontez-nous",
-          "description": "Vous avez récemment acheté, réparé ou ressorti de vos tiroirs un baladeur audio ? Pourquoi avoir fait ce choix malgré la profusion de musique disponible en ligne, directement depuis votre smartphone ou votre ordinateur ? Qu’est-ce que cela a changé dans votre rapport à la musique ? Racontez-nous.",
-          "url": "https://www.lemonde.fr/pixels/appel-temoignages/2026/08/26/vous-avez-delaisse-les-plateformes-de-streaming-au-profit-d-un-ipod-d-un-baladeur-mp3-ou-d-un-lecteur-cd-racontez-nous_6757361_4408996.html",
+          "id": "2026-08-28-900a2bf7",
+          "title": "Tapisserie de Bayeux : Emmanuel Macron sera à Londres mercredi pour inaugurer l’exposition au British Museum",
+          "description": "L’œuvre est parvenue le 10 juillet au célèbre musée londonien pour un prêt d’un an décidé en juillet 2025. Elle y sera exposée de septembre au 11 juillet 2027.",
+          "url": "https://www.lemonde.fr/culture/article/2026/08/28/tapisserie-de-bayeux-emmanuel-macron-sera-a-londres-mercredi-pour-inaugurer-l-exposition-au-british-museum_6758996_3246.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-26T10:07:12.000Z",
-          "fetchedAt": "2026-08-27T09:57:01.955Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T11:20:48.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.432Z"
         },
         {
-          "id": "2026-08-26-b26e732a",
-          "title": "Paul Klotz, essayiste : « La solitude est devenue une ressource délibérément recherchée et exploitée par les acteurs du numérique »",
-          "description": "Alors que le procès de Meta, accusé d’avoir délibérément rendu les adolescents addictifs à Facebook et à Instagram, bat son plein aux Etats-Unis, l’expert associé à la Fondation Jean Jaurès explique, dans un entretien au « Monde », qu’il existe un « capitalisme de la solitude » entretenu par les plateformes numériques, qui en tirent profit.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/26/paul-klotz-essayiste-la-solitude-est-devenue-une-ressource-deliberement-recherchee-et-exploitee-par-les-acteurs-du-numerique_6756943_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-08-26T04:40:09.000Z",
-          "fetchedAt": "2026-08-27T09:57:01.955Z"
+          "id": "2026-08-28-a11c7b7a",
+          "title": "La France échappe de justesse à la récession au deuxième trimestre, selon l'Insee",
+          "description": "En pleine préparation du budget 2027, l'Institut national de la statistique et des études économiques vient de revoir à la baisse, vendredi 28 août, les résultats de la croissance française au deuxième trimestre de cette année. On ne parle plus de croissance à 0,2 %, mais d'une croissance nulle désormais. L'Insee a également revu légèrement à la baisse la croissance au 1er trimestre. Tous les voyants sont au rouge et la France échappe de peu à la récession.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260828-la-france-%C3%A9chappe-de-justesse-%C3%A0-la-r%C3%A9cession-au-deuxi%C3%A8me-trimestre-selon-l-insee",
+          "imageUrl": "https://s.rfi.fr/media/display/f9d04ffe-339b-11ee-b350-005056a90321/w:1024/p:16x9/000_1HI2JO.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T10:15:31.000Z",
+          "fetchedAt": "2026-08-28T11:30:12.746Z"
         },
         {
-          "id": "2026-08-25-bdf0f78c",
-          "title": "TikTok sanctionné d’une amende de 25 millions d’euros au Brésil pour des manquements envers les mineurs",
-          "description": "L’Agence nationale de protection des données du Brésil a ordonné à ByteDance Brasil, filiale brésilienne de la plateforme créée en Chine, de « supprimer les données collectées de façon irrégulière ».",
-          "url": "https://www.lemonde.fr/pixels/article/2026/08/25/tiktok-sanctionne-d-une-amende-de-25-millions-d-euros-au-bresil-pour-des-manquements-envers-les-mineurs_6756585_4408996.html",
+          "id": "2026-08-28-15f160a3",
+          "title": "Mort de Harald V : Emmanuel Macron salue un roi qui « a œuvré au renforcement des liens unissant la Norvège et la France » ; Charles III rend hommage à son « cher cousin »",
+          "description": "Monté sur le trône en 1991, Harald V a incarné une Norvège ouverte et tolérante. Il est mort, vendredi matin, à l’âge de 89 ans.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/28/mort-de-harald-v-emmanuel-macron-salue-un-roi-qui-a-uvre-au-renforcement-des-liens-unissant-la-norvege-et-la-france-charles-iii-rend-hommage-a-son-cher-cousin_6758973_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T08:49:34.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.432Z"
+        },
+        {
+          "id": "2026-08-28-cd7a8eff",
+          "title": "La folie du Madison, Samuel Beckett à Saint-Lô et Van Gogh : petites histoires de France",
+          "description": "Un auteur irlandais dans une ville normande en ruines, la “fascination secrète” des Français pour la culture populaire américaine ou encore une forteresse qui défendait la Catalogne contre le royaume de France avant d’y être incorporée. Voici une petite sélection des histoires surprenantes de France racontées cette semaine par la presse étrangère.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-la-folie-du-madison-samuel-beckett-a-saint-lo-et-van-gogh-petites-histoires-de-france_264202",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/27/0/198/6690/4460/1200/630/60/0/688ccf9_upload-1-m04c3qhfsz8r-043-mc-lc20-france-mc-1629.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T03:00:22.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.586Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Deux lutteurs égyptiens se font la malle, l’un après l’autre",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-08-28-3fdddd22",
+          "title": "Deux lutteurs égyptiens se font la malle, l’un après l’autre",
+          "description": "Deux sportifs de haut niveau qui “disparaissent” lors de compétitions en Europe, et cela en moins d’une semaine, cela fait beaucoup. D’autant que la lutte, dans laquelle l’Égypte excelle, est coutumière du phénomène, avec une flopée de jeunes talents qui se sont éclipsés ces dernières années lors d’un séjour à l’étranger.",
+          "url": "https://www.courrierinternational.com/article/sport-deux-lutteurs-egyptiens-se-font-la-malle-l-un-apres-l-autre_264630",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/28/0/0/3802/2535/1200/630/60/0/53dc864_upload-1-rlzpbtx34i8m-089-mei-saudi-arabia-kc-isgwcir2-20251118-0021.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T11:18:08.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.586Z"
+        },
+        {
+          "id": "2026-08-28-d5ce6472",
+          "title": "Crue au Népal : opérations de sauvetage dans un tunnel",
+          "description": "Au Népal, les secours tentent toujours de sauver plus d’une centaine d’ouvriers piégés dans un tunnel. Ils se trouvent sur le chantier d’un barrage hydroélectrique, dans le district de Rasuwa. L’armée a déjà évacué 350 personnes de la zone. Selon le dernier bilan, les inondations au Népal et au Tibet ont fait plus de 538 morts. Environ 1 400 personnes sont toujours portées disparues.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260828-crue-au-n%C3%A9pal-op%C3%A9rations-de-sauvetage-dans-un-tunnel",
+          "imageUrl": "https://s.france24.com/media/display/1b82f4c8-a2cd-11f1-9612-005056a90284/w:1024/p:16x9/FR-NEPAL-00-00-06-11-Still003.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T10:54:30.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.466Z"
+        },
+        {
+          "id": "2026-08-28-9fc58e99",
+          "title": "Après le meurtre “par inadvertance” de 85 civils par l’armée nigériane, une longue quête de justice",
+          "description": "En décembre 2023, deux drones militaires avaient bombardé par erreur une fête religieuse, confondue avec un rassemblement de terroristes. Une enquête du média nigérian “HumAngle” révèle une conjonction d’erreurs humaines et de défaillance des systèmes semi-automatisés des drones, que l’armée n’a toujours pas pleinement reconnue.",
+          "url": "https://www.courrierinternational.com/article/droits-humains-apres-le-meurtre-par-inadvertance-de-85-civils-par-l-armee-nigeriane-une-longue-quete-de-justice_262188",
+          "imageUrl": "https://focus.courrierinternational.com/2026/08/26/0/0/3600/2400/1200/630/60/0/88ce193_upload-1-znbami0fxyxl-075-jaiyeola-notitle230426-npwvn.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T10:50:56.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.586Z"
+        },
+        {
+          "id": "2026-08-28-b7be8e3e",
+          "title": "Traverser le canal de Suez, un défi technique qui se paye en centaines de milliers de dollars",
+          "description": "« Suez, canal historique » (5/6). L’axe reliant la Méditerranée à la mer Rouge est une artère essentielle du commerce mondial. Les navires qui l’empruntent – plus de 25 000 durant l’année 2022-2023, un record ! – doivent respecter une réglementation stricte et s’acquitter de droits de passage qui peuvent avoisiner 1 million de dollars.",
+          "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/28/traverser-le-canal-de-suez-un-defi-technique-qui-se-paye-en-centaines-de-milliers-de-dollars_6757908_3451061.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T10:11:44.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.432Z"
+        },
+        {
+          "id": "2026-08-28-e3a1219d",
+          "title": "Ce que j’ai appris des ultrariches durant un week-end organisé par Jeff Bezos",
+          "description": "LES ULTRARICHES, UN MONDE À PART (1/6) – Auteur et scénariste de renom, Noah Hawley a été invité il y a quelques années par le fondateur d’Amazon à un grand raout. Ce séjour rocambolesque lui a fait toucher du doigt les effets psychologiques de sa fortune démesurée, raconte-t-il dans le magazine “The Atlantic”. Détaché du monde et des conséquences, Jeff Bezos s’est montré incapable d’empathie. Une valeur que certains milliardaires de la tech en sont venus à diaboliser.",
+          "url": "https://www.courrierinternational.com/article/serie-d-ete-ce-que-j-ai-appris-des-ultrariches-durant-un-week-end-organise-par-jeff-bezos_244821_1",
+          "imageUrl": "https://focus.courrierinternational.com/2026/07/08/0/0/3358/2238/1200/630/60/0/9185430_upload-1-tvqiyzzdblku-bezos-hearing-1.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T10:11:32.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.586Z"
+        },
+        {
+          "id": "2026-08-28-b8f2aa70",
+          "title": "Football : l'UEFA prépare une plainte contre Infantino",
+          "description": "Nouveaux rebondissements dans l'affrontement UEFA-Fifa : l'instance du football européen prépare une plainte contre Gianni Infantino. Dans le même temps, elle suspend sa menace de boycott des compétitions de la FIFA pour la saison à venir. Récit de Nicolas Chamontin.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260828-football-l-uefa-pr%C3%A9pare-une-plainte-contre-infantino",
+          "imageUrl": "https://s.france24.com/media/display/de37af2c-a2be-11f1-911a-005056bfb2b6/w:1024/p:16x9/FR-20260828-091101-091237-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-28T10:05:33.000Z",
+          "fetchedAt": "2026-08-28T11:30:08.466Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "Starship : les ingénieurs de SpaceX prélèvent des tuiles du Ship 40 en pleine me",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-08-28-f084d152",
+          "title": "Starship : les ingénieurs de SpaceX prélèvent des tuiles du Ship 40 en pleine mer",
+          "description": "SpaceX diffuse de nouvelles images du Ship 40, la fusée géante repêchée dans l’océan Indien. Pour la première fois, on y voit ses ingénieurs prélever des morceaux du bouclier thermique en pleine mer.",
+          "url": "https://www.numerama.com/sciences/2320355-starship-les-ingenieurs-de-spacex-prelevent-des-tuiles-du-ship-40-en-pleine-mer.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/08/hqvjilpwsaea-hz.jpg?resize=1600,900&key=a3dbc05d",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-08-25T13:20:00.000Z",
-          "fetchedAt": "2026-08-27T09:57:01.955Z"
+          "publishedAt": "2026-08-28T09:01:00.000Z",
+          "fetchedAt": "2026-08-28T11:30:12.831Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Plug-in solar panels are coming to a shop near you - here's what to know",
+      "topic": "'Cowboy builders' targeted in new government clampdown",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-27-95b1bc57",
-          "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
-          "description": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
-          "url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bb3/live/fda8dc80-a086-11f1-bfeb-dfb02ea642ef.jpg",
+          "id": "2026-08-28-d2b36ece",
+          "title": "'Cowboy builders' targeted in new government clampdown",
+          "description": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e64/live/5cd9a9c0-a22e-11f1-bd54-531a21306a62.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-27T09:41:14.000Z",
-          "fetchedAt": "2026-08-27T09:57:06.981Z"
+          "publishedAt": "2026-08-28T10:49:38.000Z",
+          "fetchedAt": "2026-08-28T11:30:17.861Z"
         }
       ]
     }
