@@ -1,220 +1,198 @@
 {
-  "generatedAt": "2026-08-31T05:48:31.355Z",
+  "generatedAt": "2026-09-01T05:21:23.174Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "EN DIRECT, guerre en Ukraine : suivez nos dernières informations",
+      "id": "cluster-5",
+      "topic": "EN DIRECT, guerre en Ukraine : des frappes meurtrières sur Kiev et sa région ; l",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-31-cc15d319",
-          "title": "EN DIRECT, guerre en Ukraine : suivez nos dernières informations",
-          "description": "La défense aérienne ukrainienne est parvenue à abattre ou à neutraliser 96 drones dans la nuit de dimanche à lundi, selon l’armée.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-suivez-nos-dernieres-informations_6760568_3210.html",
+          "id": "2026-09-01-4f2f8526",
+          "title": "EN DIRECT, guerre en Ukraine : des frappes meurtrières sur Kiev et sa région ; l’Ukraine vise un port russe",
+          "description": "Au moins 11 personnes sont mortes lors d’attaques sur Kiev et sa région, dont sept dans une frappe de missiles contre un dépôt ferroviaire de la capitale ukrainienne. Par ailleurs, un incendie s’est déclaré dans l’important port russe d’Oust-Louga, visé par une attaque de drones ukrainienne.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/01/en-direct-guerre-en-ukraine-des-frappes-meurtrieres-sur-kiev-et-sa-region-l-ukraine-vise-un-port-russe_6760568_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-31T05:34:01.000Z",
-          "fetchedAt": "2026-08-31T05:44:30.908Z"
+          "publishedAt": "2026-09-01T04:44:31.000Z",
+          "fetchedAt": "2026-09-01T05:17:22.544Z"
         },
         {
-          "id": "2026-08-31-7fc48c00",
-          "title": "La mer Caspienne, point de jonction entre les guerres ukrainienne et iranienne ?",
-          "description": "La guerre en Iran et la guerre en Ukraine sont en train de faire jonction et de s’imbriquer, notamment autour de la mer Caspienne. “Daraj” revient sur l’attaque, survenue en juin dernier sur cette mer, d’un cargo iranien par l’Ukraine, estimant qu’il ne s’agit pas là d’un incident isolé, mais de l’illustration d’un chevauchement des chaînes d’approvisionnement et d’une opposition des alliances respectives des deux pays.",
-          "url": "https://www.courrierinternational.com/article/analyse-la-mer-caspienne-point-de-jonction-entre-les-guerres-ukrainienne-et-iranienne_260951",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/24/154/0/2500/1666/1200/630/60/0/375e83b_upload-1-moe79agbqjgc-web20260824-caspienne-ukraine-iran.png",
-          "source": "Courrier International",
+          "id": "2026-09-01-85d2ebf8",
+          "title": "En direct : une attaque russe \"massive\" fait quatre morts à Kiev et dans sa région",
+          "description": "Une attaque \"massive\" de missiles et de drones a tué au moins quatre personnes à Kiev et dans sa région, ont fait savoir mardi matin les autorités ukrainiennes. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20260901-en-direct-ukraine-russie-attaque-russe-massive-morts-kiev",
+          "imageUrl": "https://s.france24.com/media/display/b3254e58-a5ab-11f1-a88b-005056bfb2b6/w:1024/p:16x9/AP26242478432296.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-31T03:00:24.000Z",
-          "fetchedAt": "2026-08-31T05:44:31.048Z"
+          "publishedAt": "2026-09-01T02:24:03.000Z",
+          "fetchedAt": "2026-09-01T05:17:22.656Z"
+        },
+        {
+          "id": "2026-08-31-e78c230b",
+          "title": "Ceuta: Pedro Sanchez fustige les fausses informations de la Russie, d'Israël et une «internationale d'ultradroite»",
+          "description": "Le Premier ministre espagnol Pedro Sanchez a écarté lundi 31 août toute implication du Maroc dans la crise migratoire de Ceuta, mais mis en cause la Russie, Israël et une « internationale d'ultradroite » dans la diffusion de fausses informations après l'afflux de migrants dans le petit territoire espagnol.",
+          "url": "https://www.rfi.fr/fr/europe/20260831-ceuta-pedro-sanchez-fustige-les-fausses-informations-de-la-russie-d-isra%C3%ABl-et-une-internationale-d-ultradroite",
+          "imageUrl": "https://s.rfi.fr/media/display/dcdbbca6-6fdb-11f1-a037-005056a97e36/w:1024/p:16x9/2026-06-24T073844Z-693762234-RC270MAOIIT9-RTRMADP-3-SPAIN-CORRUPTION.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-08-31T15:10:47.000Z",
+          "fetchedAt": "2026-09-01T05:17:26.803Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont mené de nouveaux  bombard",
+      "id": "cluster-8",
+      "topic": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctiq",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-31-bc145f35",
-          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont mené de nouveaux  bombardements en Iran ; Téhéran vise des cibles militaires américaines en Jordanie",
-          "description": "Alors que les hostilités avaient perdu en intensité ces dernières semaines, les Etats-Unis ont visé, dimanche, « deux lanceurs iraniens sur l’île de Larak », selon Tim Hawkins, porte-parole du commandement militaire américain pour le Moyen-Orient. Ces frappes ont fait « des morts et des blessés », ont affirmé les gardiens de la révolution iraniens.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-mene-de-nouveaux-bombardements-en-iran-teheran-vise-des-cibles-militaires-americaines-en-jordanie_6761630_3210.html",
+          "id": "2026-09-01-48654210",
+          "title": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctique",
+          "description": "Un porte-conteneurs chinois a inauguré la première ligne maritime régulière Asie-Europe passant par le cercle polaire. Cette nouvelle route permet de réduire les temps de parcours mais n’est pas sans risques, environnementaux comme géopolitiques.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/01/la-fonte-acceleree-des-glaces-ouvre-une-nouvelle-route-commerciale-dans-l-arctique_6763100_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-31T05:14:59.000Z",
-          "fetchedAt": "2026-08-31T05:44:30.908Z"
+          "publishedAt": "2026-09-01T04:00:10.000Z",
+          "fetchedAt": "2026-09-01T05:17:22.544Z"
         },
         {
-          "id": "2026-08-31-6405535f",
-          "title": "Les États-Unis frappent l’Iran pour la première fois depuis un mois",
-          "description": "L’attaque, en réponse à une tentative iranienne de miner le détroit d’Ormuz, a provoqué des représailles de Téhéran sur des bases américaines en Jordanie, qui n’ont fait aucun dégât selon Washington.",
-          "url": "https://www.courrierinternational.com/article/conflit-les-etats-unis-frappent-l-iran-pour-la-premiere-fois-depuis-un-mois_265191",
-          "imageUrl": "https://focus.courrierinternational.com/2026/08/28/0/0/5499/3666/1200/630/60/0/513766b_ftp-1-gqtpjf0eq79s-2026-08-28t125014z-684630615-rc2j7navxxo3-rtrmadp-3-iran-crisis-hormuz.JPG",
+          "id": "2026-09-01-e2ed0550",
+          "title": "Crue soudaine dans le parc du Grand Canyon : deux morts et une personne encore portée disparue",
+          "description": "Les autorités ont annoncé, lundi soir, que 82 personnes avaient été secourues, tout en avertissant que de nouvelles intempéries pourraient perturber les recherches et provoquer de nouvelles crues éclair.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/01/crue-soudaine-dans-le-parc-du-grand-canyon-deux-morts-et-une-personne-encore-portee-disparue_6761762_3211.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-01T03:57:29.000Z",
+          "fetchedAt": "2026-09-01T05:17:22.544Z"
+        },
+        {
+          "id": "2026-09-01-59f07228",
+          "title": "Un coupable dans le meurtre de Tupac Shakur : “La fin d’un mystère long de plusieurs décennies”",
+          "description": "Abattu dans une rue de Las Vegas en septembre 1996, le rappeur était alors au sommet de sa popularité. L’affaire fascine depuis 30 ans. Un jury de Las Vegas a reconnu coupable de son meurtre Duane Davis, un ancien chef de gang, même s’il n’était pas accusé d’avoir tiré sur la star.",
+          "url": "https://www.courrierinternational.com/article/justice-un-coupable-dans-le-meurtre-de-tupac-shakur-la-fin-d-un-mystere-long-de-plusieurs-decennies_265422",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/01/0/0/4500/3000/1200/630/60/0/d825e5c_ftp-1-8acj7knr4aca-2026-09-01t013853z-312794746-rc20anakmau3-rtrmadp-3-people-tupac-murder-court.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-31T03:40:03.000Z",
-          "fetchedAt": "2026-08-31T05:44:31.048Z"
+          "publishedAt": "2026-09-01T03:45:08.000Z",
+          "fetchedAt": "2026-09-01T05:17:22.683Z"
         },
         {
-          "id": "2026-08-31-7c02390a",
-          "title": "Les négociations entre les États-Unis et l'Iran au point mort",
-          "description": "\"Les discussions sont au point mort entre Téhéran et Washington, malgré les tentatives de médiation - et notamment d''Oman - mais sur le fond aucun accord n'a été trouvé\", rappelle le correspondant de France 24 à Washington, Matthieu Mabin. \"Donald Trump ne semble plus presser de négocier (....) Washington privilégie la pression économique.\"",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260831-les-n%C3%A9gociations-entre-les-%C3%A9tats-unis-et-l-iran-au-point-mort",
-          "imageUrl": "https://s.france24.com/media/display/ae285f66-a4c6-11f1-a62a-005056a90284/w:1024/p:16x9/NW219575-O-01-20260830-01.jpg",
-          "source": "France 24",
+          "id": "2026-09-01-5c5802fe",
+          "title": "La Suède, dans la crainte d’une guerre, planifie les funérailles d’une partie de sa population",
+          "description": "Dans le cadre de la reconstruction de la défense du royaume scandinave, l’armée et de nombreuses organisations civiles se préparent, à travers des entraînements grandeur nature, à prendre en charge les corps de 5 % des victimes d’un potentiel conflit.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/01/la-suede-dans-la-crainte-d-une-guerre-planifie-les-funerailles-d-une-partie-de-sa-population_6763088_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-31T01:50:35.000Z",
-          "fetchedAt": "2026-08-31T05:44:31.058Z"
+          "publishedAt": "2026-09-01T03:00:14.000Z",
+          "fetchedAt": "2026-09-01T05:17:22.544Z"
         },
         {
-          "id": "2026-08-30-cdbe817b",
-          "title": "En direct : l'Iran riposte aux frappes américaines en attaquant des cibles en Jordanie et aux Émirats",
-          "description": "Les États-Unis ont mené dimanche des frappes sur l'île iranienne de Larak, les premières depuis un mois. Les Gardiens de la révolution, qui avaient promis des représailles, disent avoir attaqué des cibles militaires américaines en Jordanie ainsi qu'aux Émirats arabes unis. Suivez les événements en direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260830-en-direct-frappes-americaines-iran-cibles-militaires-etats-unis-attaques-jordanie-moyen-orient-guerre-detroit-ormuz",
-          "imageUrl": "https://s.france24.com/media/display/2efba750-9ab4-11f1-aec5-005056a97e36/w:1024/p:16x9/2026-08-17T134411Z-954506705-RC2C0NAR1D57-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-30T23:26:14.000Z",
-          "fetchedAt": "2026-08-31T05:44:31.058Z"
-        },
-        {
-          "id": "2026-08-30-b8223a85",
-          "title": "Une crue soudaine frappe le Grand Canyon aux États-Unis, plus de 15 personnes recherchées",
-          "description": "Une crue soudaine a frappé samedi le Bright Angel Canyon et le secteur du Phantom Ranch au Grand Canyon, dans l'Arizona. Le Service des parcs nationaux américains \"demande au public de fournir des informations concernant une quinzaine de personnes qui pourraient être portées disparues ou dont on est sans nouvelles\".",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260830-crue-soudaine-frappe-grand-canyon-etats-unis-plus-20-personnes-recherchees-parc-national-arizona",
-          "imageUrl": "https://s.france24.com/media/display/b4ac9a16-a4bf-11f1-bc9a-005056bf30b7/w:1024/p:16x9/AP26242727343846.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-30T22:55:09.000Z",
-          "fetchedAt": "2026-08-31T05:44:31.058Z"
-        },
-        {
-          "id": "2026-08-30-08ba4bdc",
-          "title": "EN DIRECT - Nouvelles frappes américaines sur l'Iran, les Gardiens de la Révolution appellent à «une punition» en représailles",
-          "description": "Les États-Unis ont mené dimanche 30 août des frappes sur l'île iranienne de Larak, située dans le stratégique détroit d'Ormuz, a annoncé le Commandement militaire américain pour le Moyen-Orient, les premières en un mois. En représailles, les Gardiens de la Révolution affirment avoir attaqué lundi avec des missiles balistiques et des drones des cibles militaires américaines sur deux bases en Jordanie. De son côté, l’armée jordanienne dit avoir intercepté huit missiles ayant pénétré dans son espace aérien. Suivez notre direct.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260830-en-direct-nouvelles-frappes-am%C3%A9ricaines-sur-l-iran-les-gardiens-de-la-r%C3%A9volution-appellent-%C3%A0-une-punition-en-repr%C3%A9sailles",
-          "imageUrl": "https://s.rfi.fr/media/display/ebc4b152-a4b8-11f1-be3d-005056bf30b7/w:1024/p:16x9/000-1VW9LG-1.jpg",
+          "id": "2026-09-01-9fab65cc",
+          "title": "RDC: une rentrée scolaire à l’épreuve d’Ebola, de la grève et de la guerre",
+          "description": "Des millions d’élèves congolais sont appelés à reprendre le chemin de l’école ce mardi 1er septembre. Le gouvernement maintient la rentrée sur l’ensemble du territoire, mais les conditions seront très différentes selon les régions. Six provinces sont touchées par Ebola, le Syndicat des enseignants du Congo (Syeco) appelle les enseignants à ne pas reprendre les cours et, dans les territoires contrôlés par l’AFC/M23, les autorités du mouvement préparent elles aussi la rentrée alors que Kinshasa continue de rémunérer les enseignants du primaire et du secondaire.",
+          "url": "https://www.rfi.fr/fr/afrique/20260901-rdc-une-rentr%C3%A9e-scolaire-%C3%A0-l-%C3%A9preuve-d-ebola-de-la-gr%C3%A8ve-et-de-la-guerre",
+          "imageUrl": "https://s.rfi.fr/media/display/2713f0d6-a583-11f1-baaa-005056bf30b7/w:1024/p:16x9/000-72QU4M8.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-30T22:01:24.000Z",
-          "fetchedAt": "2026-08-31T05:44:36.243Z"
+          "publishedAt": "2026-09-01T02:40:07.000Z",
+          "fetchedAt": "2026-09-01T05:17:26.803Z"
+        },
+        {
+          "id": "2026-09-01-f09e9fdb",
+          "title": "New York : une femme tuée à Times Square lors d’une attaque au couteau, l’assaillante abattue par la police",
+          "description": "Selon les autorités qui excluent la piste terroriste, l’assaillante, qui a aussi blessé un homme, était connue pour des troubles psychiatriques. La police lui a tiré dessus alors qu’elle refusait de lâcher ses armes et s’approchait des agents.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/01/new-york-une-femme-tuee-a-times-square-lors-d-une-attaque-au-couteau-l-assaillante-abattue-par-la-police_6763054_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-01T01:48:45.000Z",
+          "fetchedAt": "2026-09-01T05:17:22.544Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "Mexique: les familles des disparus prennent une nouvelle fois la rue pour réclam",
+      "id": "cluster-34",
+      "topic": "Mort d'Édouard Balladur: la classe politique française rend hommage à l'ancien P",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-31-8a908bc6",
-          "title": "Mexique: les familles des disparus prennent une nouvelle fois la rue pour réclamer de l'aide",
-          "description": "Dimanche, au Mexique, à l'occasion de la Journée internationale pour les personnes disparues une importante mobilisation a eu lieu à Mexico. Plusieurs milliers de personnes étaient mobilisées, et la colère citoyenne gronde face une crise qui ne faiblit pas. Plus de 130 000 personnes sont officiellement portées disparues au Mexique, c’est la plus grave crise au monde pour un pays en état de paix. Mexico, qui renforce pourtant sa politique sécuritaire ne parvient pas à endiguer le phénomène. Et il manque à son devoir car les proches et les parents de victimes sont souvent seuls à mener l'enquête et les recherches sur le terrain.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260831-mexique-les-familles-des-disparus-prennent-une-nouvelle-fois-la-rue-pour-r%C3%A9clamer-de-l-aide",
-          "imageUrl": "https://s.rfi.fr/media/display/aab853b0-a4f6-11f1-b77c-005056bfb2b6/w:1024/p:16x9/AP26242850008145.jpg",
+          "id": "2026-08-31-028d476e",
+          "title": "Mort d'Édouard Balladur: la classe politique française rend hommage à l'ancien Premier ministre",
+          "description": "« Un serviteur exigeant » pour la France, « un grand homme d'État », « une référence » : les réactions se multiplient depuis l'annonce de la mort de l'ancien Premier ministre Édouard Balladur ce 31 août.",
+          "url": "https://www.rfi.fr/fr/france/20260831-mort-d-%C3%A9douard-balladur-la-classe-politique-fran%C3%A7aise-rend-hommage-%C3%A0-l-ancien-premier-ministre",
+          "imageUrl": "https://s.rfi.fr/media/display/b1ced6f2-a581-11f1-a372-005056bf30b7/w:1024/p:16x9/000-C6XR8GA.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-31T04:48:51.000Z",
-          "fetchedAt": "2026-08-31T05:44:36.243Z"
+          "publishedAt": "2026-08-31T21:34:25.000Z",
+          "fetchedAt": "2026-09-01T05:17:26.803Z"
         },
         {
-          "id": "2026-08-31-c806a07c",
-          "title": "Au moins un mort et une quinzaine de personnes recherchées après une crue soudaine dans le parc du Grand Canyon, en Arizona",
-          "description": "Dimanche, au lendemain du passage d’un torrent d’eau boueuse, les autorités du parc poursuivaient les opérations d’évacuation et de recherche dans un secteur prisé des randonneurs, où plusieurs infrastructures ont été détruites.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/31/une-quinzaine-de-personnes-recherchees-apres-une-crue-eclair-dans-le-parc-du-grand-canyon-en-arizona_6761762_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-31T01:49:46.000Z",
-          "fetchedAt": "2026-08-31T05:44:30.908Z"
-        },
-        {
-          "id": "2026-08-30-b7b90acf",
-          "title": "Rentrée scolaire: enseigner le changement climatique, un défi pour les professeurs [1/5]",
-          "description": "Lundi 31 août, c'est la rentrée des enseignantes et enseignants, avant de retrouver leurs élèves le lendemain. Et après un été caniculaire, comment enseigner le changement climatique sans inquiéter sa classe ? Comment démêler les fausses informations et dessiner un futur durable et désirable pour les plus jeunes ? Pour relever ces défis, les professeurs retournent sur les bancs de l'école… pour être formés !",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20260830-rentr%C3%A9e-scolaire-enseigner-le-changement-climatique-un-d%C3%A9fi-pour-les-professeurs-1-5",
-          "imageUrl": "https://s.rfi.fr/media/display/5222ab38-a492-11f1-b21d-005056a90284/w:1024/p:16x9/000-B7KM6G3.jpg",
+          "id": "2026-08-31-7d6b16e2",
+          "title": "France: l'ancien Premier ministre Édouard Balladur est mort",
+          "description": "L’ex-Premier ministre français (1993-1995) s’est éteint ce 31 août 2026 à l’âge de 97 ans. Sa carrière a débuté en 1964, lorsqu'il devient le collaborateur de Georges Pompidou, alors chef du gouvernement. Elle s'achève à la fin des années 2000, lorsqu'il se retire peu à peu de la vie politique. Ce que laisse Édouard Balladur, c'est d'abord le souvenir d'un chef de gouvernement.",
+          "url": "https://www.rfi.fr/fr/france/20260831-france-l-ancien-premier-ministre-%C3%A9douard-balladur-est-mort",
+          "imageUrl": "https://s.rfi.fr/media/display/9db343f8-a56b-11f1-9741-005056a90284/w:1024/p:16x9/000-A94L6CV.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-30T22:03:04.000Z",
-          "fetchedAt": "2026-08-31T05:44:36.243Z"
+          "publishedAt": "2026-08-31T18:47:55.000Z",
+          "fetchedAt": "2026-09-01T05:17:26.803Z"
         },
         {
-          "id": "2026-08-30-bf1a07b9",
-          "title": "A Bruxelles, le non islandais aux négociations d’adhésion à l’UE est perçu comme un « revers »",
-          "description": "Les dirigeants européens sont restés discrets après le rejet, par référendum, de la reprise des négociations. Un vote salué par l’extrême droite eurosceptique.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/30/a-bruxelles-le-non-islandais-aux-negociations-d-adhesion-a-l-ue-est-percu-comme-un-revers_6761561_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-30T18:49:25.000Z",
-          "fetchedAt": "2026-08-31T05:44:30.908Z"
-        },
-        {
-          "id": "2026-08-30-266a1259",
-          "title": "Venezuela : Delcy Rodriguez défend l'accord pétrolier avec les Etats Unis",
-          "description": "La présidente par intérim Delcy Rodriguez a défendu samedi l'accord \"historique\" signé entre Washington et Caracas, assurant face aux doutes que le Venezuela conserverait sa souveraineté sur les champs pétroliers amenés à être exploités par les Etats-Unis.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260830-venezuela-delcy-rodriguez-d%C3%A9fend-l-accord-p%C3%A9trolier-avec-les-etats-unis",
-          "imageUrl": "https://s.france24.com/media/display/a5697f4e-a486-11f1-a9f1-005056a97e36/w:1024/p:16x9/FR-20260830-171227-171406-CS.jpg",
+          "id": "2026-08-31-c7531dc9",
+          "title": "🔴 L'ancien Premier ministre Édouard Balladur est mort à l'âge de 97 ans",
+          "description": "",
+          "url": "https://www.france24.com/fr/france/20260831-france-ancien-premier-ministre-edouard-balladur-est-decede-a-97-ans",
+          "imageUrl": "https://s.france24.com/media/display/9d353db6-e42d-11e9-9f39-005056bff430/w:1280/p:16x9/balladur-.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-30T15:31:51.000Z",
-          "fetchedAt": "2026-08-31T05:44:31.058Z"
-        },
-        {
-          "id": "2026-08-30-fe8ebcf0",
-          "title": "Les Islandais rejettent une reprise des négociations d'adhésion à l'UE",
-          "description": "Les Islandais ont rejeté ce weekend par référendum une reprise des négociations d'adhésion à l'Union européenne, un coup dur pour Bruxelles qui aurait vu d'un bon oeil une candidature de la riche île de l'Atlantique Nord.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260830-les-islandais-rejettent-une-reprise-des-n%C3%A9gociations-d-adh%C3%A9sion-%C3%A0-l-ue",
-          "imageUrl": "https://s.france24.com/media/display/766c0676-a486-11f1-a023-005056a97e36/w:1024/p:16x9/FR-20260830-171014-171204-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-30T15:26:17.000Z",
-          "fetchedAt": "2026-08-31T05:44:31.058Z"
+          "publishedAt": "2026-08-31T18:46:30.000Z",
+          "fetchedAt": "2026-09-01T05:17:22.656Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Réforme des arrêts maladie et des ruptures conventionnelles, moral en berne… Un ",
+      "topic": "B&B boss fears 'uneven playing field' over tourist tax",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-08-31-10150121",
-          "title": "Réforme des arrêts maladie et des ruptures conventionnelles, moral en berne… Un retour au travail sous le signe du « résentéisme » ?",
-          "description": "L’entrée en vigueur, à partir du 1ᵉʳ septembre, de la limitation des arrêts de travail à trente et un jours et de la baisse de l’indemnisation chômage pour les salariés ayant signé une rupture conventionnelle incitent ces derniers à rester dans leur emploi.",
-          "url": "https://www.lemonde.fr/emploi/article/2026/08/31/reforme-des-arrets-maladie-et-des-ruptures-conventionnelles-moral-en-berne-un-retour-au-travail-sous-le-signe-du-resenteisme_6761904_1698637.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-09-01-1bd2bef6",
+          "title": "B&B boss fears 'uneven playing field' over tourist tax",
+          "description": "The introduction of a tourism levy in North Yorkshire is currently under consideration.",
+          "url": "https://www.bbc.co.uk/news/articles/c5ymkm404jxo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14dd/live/926f9620-a153-11f1-92f3-2381193e5eb4.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-08-31T04:00:30.000Z",
-          "fetchedAt": "2026-08-31T05:44:40.309Z"
+          "publishedAt": "2026-09-01T05:06:51.000Z",
+          "fetchedAt": "2026-09-01T05:17:31.924Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "topic": "The Bentley Supersports: A stripped-out engineer's indulgence",
       "category": "tech",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-08-30-a7d7c48c",
-          "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-          "description": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
-          "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
+          "id": "2026-08-31-a06ae542",
+          "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+          "description": "It's the lightest Bentley in 85 years.",
+          "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+          "imageUrl": null,
           "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-08-30T21:40:56.000Z",
-          "fetchedAt": "2026-08-31T05:44:40.218Z"
+          "publishedAt": "2026-08-31T23:01:16.000Z",
+          "fetchedAt": "2026-09-01T05:17:29.803Z"
         }
       ]
     }
