@@ -1,198 +1,264 @@
 {
-  "generatedAt": "2026-09-01T05:21:23.174Z",
+  "generatedAt": "2026-09-02T04:46:42.459Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-5",
-      "topic": "EN DIRECT, guerre en Ukraine : des frappes meurtrières sur Kiev et sa région ; l",
+      "id": "cluster-1",
+      "topic": "Une idée « interdite par les traités européens » : le président de la Bundesbank",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-01-4f2f8526",
-          "title": "EN DIRECT, guerre en Ukraine : des frappes meurtrières sur Kiev et sa région ; l’Ukraine vise un port russe",
-          "description": "Au moins 11 personnes sont mortes lors d’attaques sur Kiev et sa région, dont sept dans une frappe de missiles contre un dépôt ferroviaire de la capitale ukrainienne. Par ailleurs, un incendie s’est déclaré dans l’important port russe d’Oust-Louga, visé par une attaque de drones ukrainienne.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/01/en-direct-guerre-en-ukraine-des-frappes-meurtrieres-sur-kiev-et-sa-region-l-ukraine-vise-un-port-russe_6760568_3210.html",
+          "id": "2026-09-02-31c755e8",
+          "title": "Une idée « interdite par les traités européens » : le président de la Bundesbank s’oppose à l’annulation de la dette proposée par Jean-Luc Mélenchon",
+          "description": "Joachim Nagel critique fermement la proposition du candidat « insoumis » à la présidentielle d’annuler les 18 % de dette de la France possédée par la Banque centrale européenne.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/02/une-idee-interdite-par-les-traites-europeens-le-president-de-la-bundesbank-s-oppose-a-l-annulation-de-la-dette-proposee-par-jean-luc-melenchon_6763942_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-01T04:44:31.000Z",
-          "fetchedAt": "2026-09-01T05:17:22.544Z"
+          "publishedAt": "2026-09-02T04:35:10.000Z",
+          "fetchedAt": "2026-09-02T04:42:41.998Z"
         },
         {
-          "id": "2026-09-01-85d2ebf8",
-          "title": "En direct : une attaque russe \"massive\" fait quatre morts à Kiev et dans sa région",
-          "description": "Une attaque \"massive\" de missiles et de drones a tué au moins quatre personnes à Kiev et dans sa région, ont fait savoir mardi matin les autorités ukrainiennes. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20260901-en-direct-ukraine-russie-attaque-russe-massive-morts-kiev",
-          "imageUrl": "https://s.france24.com/media/display/b3254e58-a5ab-11f1-a88b-005056bfb2b6/w:1024/p:16x9/AP26242478432296.jpg",
-          "source": "France 24",
+          "id": "2026-09-02-f676a702",
+          "title": "« En Allemagne, un Land gouverné par l’AfD en ferait un laboratoire pour les projets du parti le plus radical des droites européennes »",
+          "description": "Outre-Rhin, le parti d’extrême droite Alternative pour l’Allemagne fait la course en tête en vue des élections des 6 et 20 septembre dans trois Länder. Son arrivée au pouvoir dans l’une de ces régions pourrait faire basculer le pays dans une crise sécuritaire et économique majeure, note, dans une tribune au « Monde », l’historienne Hélène Miard-Delacroix.",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/02/en-allemagne-un-land-gouverne-par-l-afd-en-ferait-un-laboratoire-pour-les-projets-du-parti-le-plus-radical-des-droites-europeennes_6763872_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-01T02:24:03.000Z",
-          "fetchedAt": "2026-09-01T05:17:22.656Z"
+          "publishedAt": "2026-09-02T04:00:38.000Z",
+          "fetchedAt": "2026-09-02T04:42:41.998Z"
         },
         {
-          "id": "2026-08-31-e78c230b",
-          "title": "Ceuta: Pedro Sanchez fustige les fausses informations de la Russie, d'Israël et une «internationale d'ultradroite»",
-          "description": "Le Premier ministre espagnol Pedro Sanchez a écarté lundi 31 août toute implication du Maroc dans la crise migratoire de Ceuta, mais mis en cause la Russie, Israël et une « internationale d'ultradroite » dans la diffusion de fausses informations après l'afflux de migrants dans le petit territoire espagnol.",
-          "url": "https://www.rfi.fr/fr/europe/20260831-ceuta-pedro-sanchez-fustige-les-fausses-informations-de-la-russie-d-isra%C3%ABl-et-une-internationale-d-ultradroite",
-          "imageUrl": "https://s.rfi.fr/media/display/dcdbbca6-6fdb-11f1-a037-005056a97e36/w:1024/p:16x9/2026-06-24T073844Z-693762234-RC270MAOIIT9-RTRMADP-3-SPAIN-CORRUPTION.jpg",
+          "id": "2026-09-02-2c196767",
+          "title": "Réchauffement climatique: le seuil de 1,5°C sera dépassé, mais faire machine arrière reste possible, selon l'ONU",
+          "description": "Le monde s'apprête à dépasser le seuil de 1,5°C de réchauffement climatique, qui causera des catastrophes climatiques encore plus graves et plus fréquentes qu'aujourd’hui. Mais il sera encore possible de limiter ce dépassement et même de faire redescendre les températures, affirme un nouveau rapport du Programme des Nations unies pour l'environnement, publié ce mercredi 2 septembre.",
+          "url": "https://www.rfi.fr/fr/environnement/20260902-r%C3%A9chauffement-climatique-le-seuil-de-1-5%C2%B0c-sera-d%C3%A9pass%C3%A9-mais-faire-machine-arri%C3%A8re-reste-possible-selon-l-onu",
+          "imageUrl": "https://s.rfi.fr/media/display/00d1a576-a655-11f1-b4f7-005056a90284/w:1024/p:16x9/2026-08-12T191022Z-1349016383-RC24XMAL955J-RTRMADP-3-USA-ENVIRONMENT-LAKE-MEAD.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-08-31T15:10:47.000Z",
-          "fetchedAt": "2026-09-01T05:17:26.803Z"
+          "publishedAt": "2026-09-02T04:00:33.000Z",
+          "fetchedAt": "2026-09-02T04:42:46.833Z"
+        },
+        {
+          "id": "2026-09-02-4bb7430e",
+          "title": "Aux Etats-Unis, J. D. Vance livre une plaidoirie sinueuse devant une organisation de juifs républicains",
+          "description": "Invité par la Republican Jewish Coalition à Las Vegas, lundi 31 août, le vice-président américain a tenté d’expliquer sa ligne sur la relation avec Israël et la montée de l’antisémitisme, tout en préservant ses intérêts de favori de la future primaire de son parti.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/02/aux-etats-unis-j-d-vance-livre-une-plaidoirie-sinueuse-devant-une-organisation-de-juifs-republicains_6763867_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-02T04:00:14.000Z",
+          "fetchedAt": "2026-09-02T04:42:41.998Z"
+        },
+        {
+          "id": "2026-09-02-382c9261",
+          "title": "Assassinat de Charlie Kirk : un juge américain statue que le suspect, Tyler Robinson, sera jugé",
+          "description": "L’homme de 23 ans, qui risque la peine de mort, a plaidé non coupable des charges qui pèsent contre lui.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/02/assassinat-de-charlie-kirk-un-juge-americain-statue-que-le-suspect-tyler-robinson-sera-juge_6763729_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-02T02:02:04.000Z",
+          "fetchedAt": "2026-09-02T04:42:41.998Z"
+        },
+        {
+          "id": "2026-09-02-63951f04",
+          "title": "Au Québec, la cause indépendantiste séduit la jeunesse",
+          "description": "Plus de trente ans après le dernier référendum sur l’indépendance du Québec, une partie de la nouvelle génération rêve de faire de la province canadienne un pays souverain. Propulsé par une viralité sur les réseaux sociaux, le mouvement fait entendre sa voix à l’approche des élections provinciales.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/02/au-quebec-la-cause-independantiste-seduit-la-jeunesse_6763728_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-02T02:00:00.000Z",
+          "fetchedAt": "2026-09-02T04:42:41.998Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctiq",
+      "id": "cluster-4",
+      "topic": "Après l’attaque de Leipzig, l’Allemagne durcit le ton face à la Russie",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-01-48654210",
-          "title": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctique",
-          "description": "Un porte-conteneurs chinois a inauguré la première ligne maritime régulière Asie-Europe passant par le cercle polaire. Cette nouvelle route permet de réduire les temps de parcours mais n’est pas sans risques, environnementaux comme géopolitiques.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/01/la-fonte-acceleree-des-glaces-ouvre-une-nouvelle-route-commerciale-dans-l-arctique_6763100_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-01T04:00:10.000Z",
-          "fetchedAt": "2026-09-01T05:17:22.544Z"
-        },
-        {
-          "id": "2026-09-01-e2ed0550",
-          "title": "Crue soudaine dans le parc du Grand Canyon : deux morts et une personne encore portée disparue",
-          "description": "Les autorités ont annoncé, lundi soir, que 82 personnes avaient été secourues, tout en avertissant que de nouvelles intempéries pourraient perturber les recherches et provoquer de nouvelles crues éclair.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/01/crue-soudaine-dans-le-parc-du-grand-canyon-deux-morts-et-une-personne-encore-portee-disparue_6761762_3211.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-01T03:57:29.000Z",
-          "fetchedAt": "2026-09-01T05:17:22.544Z"
-        },
-        {
-          "id": "2026-09-01-59f07228",
-          "title": "Un coupable dans le meurtre de Tupac Shakur : “La fin d’un mystère long de plusieurs décennies”",
-          "description": "Abattu dans une rue de Las Vegas en septembre 1996, le rappeur était alors au sommet de sa popularité. L’affaire fascine depuis 30 ans. Un jury de Las Vegas a reconnu coupable de son meurtre Duane Davis, un ancien chef de gang, même s’il n’était pas accusé d’avoir tiré sur la star.",
-          "url": "https://www.courrierinternational.com/article/justice-un-coupable-dans-le-meurtre-de-tupac-shakur-la-fin-d-un-mystere-long-de-plusieurs-decennies_265422",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/01/0/0/4500/3000/1200/630/60/0/d825e5c_ftp-1-8acj7knr4aca-2026-09-01t013853z-312794746-rc20anakmau3-rtrmadp-3-people-tupac-murder-court.JPG",
+          "id": "2026-09-02-dcb3e82f",
+          "title": "Après l’attaque de Leipzig, l’Allemagne durcit le ton face à la Russie",
+          "description": "Berlin a annoncé mardi des mesures de rétorsion contre Moscou, après l’avoir accusé d’avoir envoyé un drone chargé d’explosifs début août dans cet aéroport clé pour le soutien à l’Ukraine. Saluant cette prise de position, la presse allemande y voit un changement de cap stratégique face à la menace russe.",
+          "url": "https://www.courrierinternational.com/article/europe-apres-l-attaque-de-leipzig-l-allemagne-durcit-le-ton-face-a-la-russie_265917",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/01/0/0/6619/4413/1200/630/60/0/cfe4eab_ftp-1-ns5riizl2tsf-afp-c72a24g.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-01T03:45:08.000Z",
-          "fetchedAt": "2026-09-01T05:17:22.683Z"
+          "publishedAt": "2026-09-02T04:18:04.000Z",
+          "fetchedAt": "2026-09-02T04:42:42.017Z"
         },
         {
-          "id": "2026-09-01-5c5802fe",
-          "title": "La Suède, dans la crainte d’une guerre, planifie les funérailles d’une partie de sa population",
-          "description": "Dans le cadre de la reconstruction de la défense du royaume scandinave, l’armée et de nombreuses organisations civiles se préparent, à travers des entraînements grandeur nature, à prendre en charge les corps de 5 % des victimes d’un potentiel conflit.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/01/la-suede-dans-la-crainte-d-une-guerre-planifie-les-funerailles-d-une-partie-de-sa-population_6763088_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-09-02-18013a1e",
+          "title": "Germany says Russia behind Leipzig airport drone attack",
+          "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+          "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-09-01T03:00:14.000Z",
-          "fetchedAt": "2026-09-01T05:17:22.544Z"
+          "publishedAt": "2026-09-02T01:59:54.000Z",
+          "fetchedAt": "2026-09-02T04:42:46.970Z"
         },
         {
-          "id": "2026-09-01-9fab65cc",
-          "title": "RDC: une rentrée scolaire à l’épreuve d’Ebola, de la grève et de la guerre",
-          "description": "Des millions d’élèves congolais sont appelés à reprendre le chemin de l’école ce mardi 1er septembre. Le gouvernement maintient la rentrée sur l’ensemble du territoire, mais les conditions seront très différentes selon les régions. Six provinces sont touchées par Ebola, le Syndicat des enseignants du Congo (Syeco) appelle les enseignants à ne pas reprendre les cours et, dans les territoires contrôlés par l’AFC/M23, les autorités du mouvement préparent elles aussi la rentrée alors que Kinshasa continue de rémunérer les enseignants du primaire et du secondaire.",
-          "url": "https://www.rfi.fr/fr/afrique/20260901-rdc-une-rentr%C3%A9e-scolaire-%C3%A0-l-%C3%A9preuve-d-ebola-de-la-gr%C3%A8ve-et-de-la-guerre",
-          "imageUrl": "https://s.rfi.fr/media/display/2713f0d6-a583-11f1-baaa-005056bf30b7/w:1024/p:16x9/000-72QU4M8.jpg",
+          "id": "2026-09-01-334fce2e",
+          "title": "Incursions de drones, sabotages, cyberattaques, espionnages : Moscou pousse-t-il l'Europe à bout ?",
+          "description": "Au lendemain d’une nouvelle attaque massive sur Kiev et sa région qui a fait 12 morts, Volodymyr Zelensky a appellé ses partenaires à lui fournir davantage de capacités de défense balistiques. La tension est encore montée d’un cran entre les Européens et la Russie, alors que le gouvernement allemand a accusé les services secrets russes d'être responsables de la tentative d'attentat au drone explosif contre l'aéroport de Leipzig début août. Le Secrétaire général de l'OTAN Mark Rutte s'est également exprimé, affirmant que l'alliance \"défendra ses membres contre toute menace russe\". Moscou pousse-t-il l'Europe à bout ? Comment l'Europe se prépare-t-elle ?",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260901-incursions-de-drones-sabotages-cyberattaques-espionnages-moscou-pousse-t-il-l-europe-%C3%A0-bout",
+          "imageUrl": "https://s.france24.com/media/display/2639b142-a62c-11f1-ae3e-005056bfb2b6/w:1024/p:16x9/LE-DEBAT-4.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-01T18:10:42.000Z",
+          "fetchedAt": "2026-09-02T04:42:42.080Z"
+        },
+        {
+          "id": "2026-09-01-78ccf031",
+          "title": "Drone explosif à Leipzig : Berlin accuse la Russie et annonce des représailles",
+          "description": "L’Allemagne a accusé officiellement la Russie d’être responsable d’une “tentative d’attentat” à l’aéroport de Leipzig, prenant diverses mesures de représailles.",
+          "url": "https://www.courrierinternational.com/article/allemagne-drone-explosif-a-leipzig-berlin-accuse-la-russie-et-annonce-des-represailles_265851",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/01/0/0/8256/5504/1200/630/60/0/3095466_ftp-1-5jkfw3mqu6c4-afp-c72a24m.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-01T18:03:56.000Z",
+          "fetchedAt": "2026-09-02T04:42:42.017Z"
+        },
+        {
+          "id": "2026-09-01-ddf873cd",
+          "title": "Berlin accuse Moscou d'être derrière l'attaque au drone explosif à Leipzig",
+          "description": "L'Allemagne a annoncé mardi des mesures de rétorsion contre la Russie, après l'avoir officiellement accusée d'avoir envoyé un drone chargé d'explosifs début août à l'aéroport de Leipzig, une plateforme militaire clé pour l'armée allemande et pour l'Otan.",
+          "url": "https://www.france24.com/fr/europe/20260901-allemagne-accuse-la-russie-guerre-hybride-drone-explosif-aeroport-leipzig-ukraine",
+          "imageUrl": "https://s.france24.com/media/display/79b2ea30-a61a-11f1-b028-005056a90284/w:1024/p:16x9/2026-08-08T101129Z-1947811119-RC2CSMA5SMYP-RTRMADP-3-GERMANY-SECURITY-DRONES.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-01T17:31:18.000Z",
+          "fetchedAt": "2026-09-02T04:42:42.080Z"
+        },
+        {
+          "id": "2026-09-01-204321c9",
+          "title": "Selon l'Allemagne, la Russie est «responsable» de l'attaque au drone explosif à l'aéroport de Leipzig",
+          "description": "L'Allemagne rend la Russie « responsable » de « l'attaque hybride » menée avec un drone chargé d'explosifs début août à l'aéroport de Leipzig, une plateforme clé pour l'armée allemande, l'Otan et le soutien logistique à l'Ukraine, a affirmé mardi 1er septembre le ministre allemand de l'Intérieur.",
+          "url": "https://www.rfi.fr/fr/europe/20260901-selon-l-allemagne-la-russie-est-responsable-de-l-attaque-au-drone-explosif-%C3%A0-l-a%C3%A9roport-de-leipzig",
+          "imageUrl": "https://s.rfi.fr/media/display/c8f64b20-a622-11f1-a30f-005056a97e36/w:1024/p:16x9/ALLEMAGNE-DRONE-RUSSIE-AEROPORT-LEIPZIG.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-01T02:40:07.000Z",
-          "fetchedAt": "2026-09-01T05:17:26.803Z"
-        },
-        {
-          "id": "2026-09-01-f09e9fdb",
-          "title": "New York : une femme tuée à Times Square lors d’une attaque au couteau, l’assaillante abattue par la police",
-          "description": "Selon les autorités qui excluent la piste terroriste, l’assaillante, qui a aussi blessé un homme, était connue pour des troubles psychiatriques. La police lui a tiré dessus alors qu’elle refusait de lâcher ses armes et s’approchait des agents.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/01/new-york-une-femme-tuee-a-times-square-lors-d-une-attaque-au-couteau-l-assaillante-abattue-par-la-police_6763054_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-01T01:48:45.000Z",
-          "fetchedAt": "2026-09-01T05:17:22.544Z"
+          "publishedAt": "2026-09-01T16:33:13.000Z",
+          "fetchedAt": "2026-09-02T04:42:46.833Z"
         }
       ]
     },
     {
-      "id": "cluster-34",
-      "topic": "Mort d'Édouard Balladur: la classe politique française rend hommage à l'ancien P",
+      "id": "cluster-10",
+      "topic": "Le président chinois Xi Jinping commence un marathon diplomatique, des régimes h",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-08-31-028d476e",
-          "title": "Mort d'Édouard Balladur: la classe politique française rend hommage à l'ancien Premier ministre",
-          "description": "« Un serviteur exigeant » pour la France, « un grand homme d'État », « une référence » : les réactions se multiplient depuis l'annonce de la mort de l'ancien Premier ministre Édouard Balladur ce 31 août.",
-          "url": "https://www.rfi.fr/fr/france/20260831-mort-d-%C3%A9douard-balladur-la-classe-politique-fran%C3%A7aise-rend-hommage-%C3%A0-l-ancien-premier-ministre",
-          "imageUrl": "https://s.rfi.fr/media/display/b1ced6f2-a581-11f1-a372-005056bf30b7/w:1024/p:16x9/000-C6XR8GA.jpg",
-          "source": "RFI",
+          "id": "2026-09-02-d7904ab9",
+          "title": "Le président chinois Xi Jinping commence un marathon diplomatique, des régimes hostiles à l’Occident jusqu’à la Maison Blanche",
+          "description": "Au sommet de l’Organisation de coopération de Shanghaï, qui s’est tenu lundi et mardi au Kirghizistan, Xi Jinping a réaffirmé son opposition à l’impérialisme américain quelques semaines avant sa rencontre avec Donald Trump, à Washington.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/02/le-president-chinois-xi-jinping-commence-un-marathon-diplomatique-des-regimes-hostiles-a-l-occident-jusqu-a-la-maison-blanche_6763829_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-08-31T21:34:25.000Z",
-          "fetchedAt": "2026-09-01T05:17:26.803Z"
+          "publishedAt": "2026-09-02T03:30:02.000Z",
+          "fetchedAt": "2026-09-02T04:42:41.998Z"
         },
         {
-          "id": "2026-08-31-7d6b16e2",
-          "title": "France: l'ancien Premier ministre Édouard Balladur est mort",
-          "description": "L’ex-Premier ministre français (1993-1995) s’est éteint ce 31 août 2026 à l’âge de 97 ans. Sa carrière a débuté en 1964, lorsqu'il devient le collaborateur de Georges Pompidou, alors chef du gouvernement. Elle s'achève à la fin des années 2000, lorsqu'il se retire peu à peu de la vie politique. Ce que laisse Édouard Balladur, c'est d'abord le souvenir d'un chef de gouvernement.",
-          "url": "https://www.rfi.fr/fr/france/20260831-france-l-ancien-premier-ministre-%C3%A9douard-balladur-est-mort",
-          "imageUrl": "https://s.rfi.fr/media/display/9db343f8-a56b-11f1-9741-005056a90284/w:1024/p:16x9/000-A94L6CV.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-08-31T18:47:55.000Z",
-          "fetchedAt": "2026-09-01T05:17:26.803Z"
-        },
-        {
-          "id": "2026-08-31-c7531dc9",
-          "title": "🔴 L'ancien Premier ministre Édouard Balladur est mort à l'âge de 97 ans",
-          "description": "",
-          "url": "https://www.france24.com/fr/france/20260831-france-ancien-premier-ministre-edouard-balladur-est-decede-a-97-ans",
-          "imageUrl": "https://s.france24.com/media/display/9d353db6-e42d-11e9-9f39-005056bff430/w:1280/p:16x9/balladur-.jpg",
+          "id": "2026-09-01-d4d994eb",
+          "title": "En direct : l'Iran attaque des bases des États-Unis après de nouvelles frappes américaines",
+          "description": "Jordanie, Irak, Bahreïn... L'Iran a attaqué mercredi des bases militaires des États-Unis dans le Golfe après la conclusion d'une salve de frappes américaines contre lui, la deuxième en quelques jours. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260901-en-direct-nouvelles-frappes-americaines-contre-iran-represailles-jordanie-etats-unis-israel-missiles-moyen-orient-detroit-ormuz-pays-golfe",
+          "imageUrl": "https://s.france24.com/media/display/44d55ec8-a652-11f1-8684-005056bf30b7/w:1024/p:16x9/000-C6VY4ZR.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-08-31T18:46:30.000Z",
-          "fetchedAt": "2026-09-01T05:17:22.656Z"
+          "publishedAt": "2026-09-01T22:13:22.000Z",
+          "fetchedAt": "2026-09-02T04:42:42.080Z"
+        },
+        {
+          "id": "2026-09-01-b88366d3",
+          "title": "Au Venezuela, l’Assemblée nationale approuve l’accord pétrolier avec les Etats-Unis",
+          "description": "L’accord permet aux Etats-Unis d’exploiter 17 gisements pétroliers vénézuéliens dont le potentiel est évalué à 65 milliards de barils. Le Venezuela évalue à 209 milliards de dollars la création de richesse sur vingt-cinq ans.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/01/au-venezuela-l-assemblee-nationale-approuve-l-accord-petrolier-avec-les-etats-unis_6763530_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-01T20:35:50.000Z",
+          "fetchedAt": "2026-09-02T04:42:41.998Z"
+        },
+        {
+          "id": "2026-09-01-d873b5ad",
+          "title": "L'Iran attaque des bases des États-Unis après de nouvelles frappes américaines",
+          "description": "L'Iran a attaqué mercredi 2 septembre des bases militaires américaines dans le Golfe, après une nouvelle salve de frappes des États-Unis contre son territoire, la deuxième en quelques jours.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260901-les-%C3%A9tats-unis-lancent-de-nouvelles-frappes-contre-l-iran-t%C3%A9h%C3%A9ran-promet-un-ch%C3%A2timent-s%C3%A9v%C3%A8re",
+          "imageUrl": "https://s.rfi.fr/media/display/e862beec-a633-11f1-99ae-005056bfb2b6/w:1024/p:16x9/2026-08-31T085336Z-115528668-RC2J9NAP5OBK-RTRMADP-3-IRAN-CRISIS-STRIKE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-01T19:01:33.000Z",
+          "fetchedAt": "2026-09-02T04:42:46.833Z"
+        },
+        {
+          "id": "2026-09-01-b94098a7",
+          "title": "Crue dans l'Himalaya: «L'information, en Chine, fait l'objet d'un contrôle absolu»",
+          "description": "Des cérémonies se tiennent ce 1er septembre dans la région chinoise du Tibet à la mémoire des victimes des terribles inondations du 26 août et dont le bilan humain ne cesse de grandir. L'ampleur de la catastrophe est d'autant plus difficile à estimer que l'information circule très difficilement du côté tibétain. Beaucoup doutent des chiffres avancés par les autorités, qui évoquent 16 morts. Ils sont près d'un millier de l'autre côté de la frontière au Népal, où les secouristes commencent difficilement à avancer vers les zones les plus sinistrées. Pendant ce temps, la polémique grandit sur la coopération entre le Népal et la Chine, qui restreignent fortement la circulation de l'information sur la catastrophe. Entretien avec Emmanuel Véron, géographe et enseignant chercheur au centre HEC de géopolitique, co-auteur de La Chine face au monde : une puissance résistible (éditions Capit Muscas).",
+          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260901-crue-dans-l-himalaya-l-information-en-chine-fait-l-objet-d-un-contr%C3%B4le-absolu",
+          "imageUrl": "https://s.rfi.fr/media/display/7ddbfa76-a54c-11f1-8a26-005056bf30b7/w:1024/p:16x9/AP26243319682695.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-01T15:49:57.000Z",
+          "fetchedAt": "2026-09-02T04:42:46.833Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "B&B boss fears 'uneven playing field' over tourist tax",
+      "id": "cluster-6",
+      "topic": "Apple Maps follows Google in renaming Lake Ontario",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-01-367c267d",
+          "title": "Apple Maps follows Google in renaming Lake Ontario",
+          "description": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada.\nThe Canadian version of Apple Maps still shows \"Lake Ontario\" when panning over the area, while international versions of the app show both names, according to Bloomberg. Google updated its map shortly after the name change went live in the US Geographic Names Information System (GNIS), but Apple waited a bit longer.\nBoth Apple and Google changed the name of the Gulf of Me …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-maps-lake-america.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-09-01T21:22:56.000Z",
+          "fetchedAt": "2026-09-02T04:42:50.287Z"
+        },
+        {
+          "id": "2026-08-31-302b3984",
+          "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+          "description": "Google rolled out the Lake America change on Saturday, while the official US government maps are still waiting.",
+          "url": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-Maps-Lake-America.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-08-31T15:33:32.000Z",
+          "fetchedAt": "2026-09-02T04:42:50.317Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-01-1bd2bef6",
-          "title": "B&B boss fears 'uneven playing field' over tourist tax",
-          "description": "The introduction of a tourism levy in North Yorkshire is currently under consideration.",
-          "url": "https://www.bbc.co.uk/news/articles/c5ymkm404jxo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14dd/live/926f9620-a153-11f1-92f3-2381193e5eb4.jpg",
+          "id": "2026-09-02-a9332f97",
+          "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+          "description": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+          "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-01T05:06:51.000Z",
-          "fetchedAt": "2026-09-01T05:17:31.924Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-1",
-      "topic": "The Bentley Supersports: A stripped-out engineer's indulgence",
-      "category": "tech",
-      "importance": 6,
-      "articles": [
-        {
-          "id": "2026-08-31-a06ae542",
-          "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-          "description": "It's the lightest Bentley in 85 years.",
-          "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
-          "imageUrl": null,
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-08-31T23:01:16.000Z",
-          "fetchedAt": "2026-09-01T05:17:29.803Z"
+          "publishedAt": "2026-09-02T01:27:34.000Z",
+          "fetchedAt": "2026-09-02T04:42:53.591Z"
         }
       ]
     }
