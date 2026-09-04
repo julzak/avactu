@@ -1,231 +1,176 @@
 {
-  "generatedAt": "2026-09-03T04:43:16.866Z",
+  "generatedAt": "2026-09-04T04:49:30.032Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Chirinne Ardakani, avocate : « Vanter le courage des Iraniennes pour s’en prendr",
+      "id": "cluster-6",
+      "topic": "OpenAI lance ChatGPT Astra, son modèle d’IA le plus avancé et le plus “controver",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-03-3602c3c4",
-          "title": "Chirinne Ardakani, avocate : « Vanter le courage des Iraniennes pour s’en prendre aux femmes portant le voile en France est une rhétorique désormais bien rodée »",
-          "description": "Dans une tribune au « Monde », l’avocate souligne la malhonnêteté intellectuelle de l’extrême droite lorsqu’elle invoque les luttes féministes, et notamment le mouvement Femme, vie, liberté, pour défendre l’interdiction du voile dans l’espace public.",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/03/chirinne-ardakani-avocate-vanter-le-courage-des-iraniennes-pour-s-en-prendre-aux-femmes-portant-le-voile-en-france-est-une-rhetorique-desormais-bien-rodee_6764890_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-03T04:30:13.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.519Z"
-        },
-        {
-          "id": "2026-09-03-4510ae28",
-          "title": "L’« entente amicale » franco-britannique confortée par le prêt de la tapisserie de Bayeux à Londres et par une première rencontre Macron-Burnham",
-          "description": "Le roi Charles III, le président Emmanuel Macron et le premier ministre Andy Burnham ont admiré, mercredi, en avant-première, l’œuvre millénaire désormais exposée au British Museum, profitant de l’occasion pour réaffirmer les liens particuliers entre les deux pays, à la veille de la réunion des deux dirigeants politiques.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/03/l-entente-amicale-franco-britannique-confortee-par-le-pret-de-la-tapisserie-de-bayeux-a-londres-et-par-une-premiere-rencontre-macron-burnham_6764807_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-03T03:00:23.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.519Z"
-        },
-        {
-          "id": "2026-09-03-dda7fe9d",
-          "title": "À Londres, la tapisserie de Bayeux tisse des liens entre la France et le Royaume-Uni",
-          "description": "Charles III et Emmanuel Macron ont visité ensemble ce mercredi 2 septembre l'exposition de la tapisserie de Bayeux au British Museum de Londres, à quelques jours de l'ouverture au public. Et ils ont saisi l'occasion de l'inauguration de ce prêt exceptionnel de la France au Royaume-Uni pour afficher leur volonté de voir perdurer le lien si particulier entre les deux nations.",
-          "url": "https://www.rfi.fr/fr/europe/20260903-%C3%A0-londres-la-tapisserie-de-bayeux-tisse-des-liens-entre-la-france-et-le-royaume-uni",
-          "imageUrl": "https://s.rfi.fr/media/display/bc27719e-a735-11f1-a38b-005056bfb2b6/w:1024/p:16x9/AP26245650159188.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-03T02:55:05.000Z",
-          "fetchedAt": "2026-09-03T04:39:22.100Z"
-        },
-        {
-          "id": "2026-09-03-ef2cfb8d",
-          "title": "Moyen-Orient en direct : le Koweït visé par une attaque iranienne de missiles et drones",
-          "description": "Le Koweït est visé jeudi matin par une attaque de l'Iran menée à l'aide de missiles et drones, après plusieurs échanges de frappes ces derniers jours entre les États-Unis et la République islamique. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260903-moyen-orient-en-direct-iran-etats-unis-golfe-ormuz-koweit-missiles-drones-trump",
-          "imageUrl": "https://s.france24.com/media/display/55e9005a-80d4-11f1-9d2b-005056a97e36/w:1024/p:16x9/000-C28P2ZQ.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-03T02:44:14.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.703Z"
-        },
-        {
-          "id": "2026-09-02-df0ef3fb",
-          "title": "Tapisserie de Bayeux à Londres : Emmanuel Macron souhaite « un lien aussi étroit que les fils » de la broderie entre le Royaume-Uni et la France",
-          "description": "Le chef de l’Etat avait personnellement décidé du prêt pour un an de la tapisserie au Royaume-Uni lors de sa visite d’Etat en juillet 2025, afin de « revivifier la relation culturelle » et de marquer « la confiance » actuelle entre les deux pays.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/02/tapisserie-de-bayeux-a-londres-emmanuel-macron-souhaite-un-lien-aussi-etroit-que-les-fils-de-la-broderie-entre-le-royaume-uni-et-la-france_6764533_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-02T18:51:57.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.519Z"
-        },
-        {
-          "id": "2026-09-02-67f4dec7",
-          "title": "Les États-Unis accusés d'avoir bombardé un mariage en Iran : ce que montrent les images",
-          "description": "Dans la nuit du 1er au 2 septembre, des missiles et des drones kamikazes américains ont frappé un petit village du sud de l’Iran. Selon des témoins et le Croissant-Rouge, une cérémonie de mariage a été touchée. Des images montrent un bâtiment impacté à plus de 130 mètres d’une tour de communication, cible qui était probablement visée. Cinq personnes, dont un enfant, sont mortes.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260902-frappe-americaine-mariage-iran-images",
-          "imageUrl": "https://s.france24.com/media/display/1586076a-a6e5-11f1-9f77-005056bfb2b6/w:1024/p:16x9/Screenshot-2026-09-02-at-5-42-07-PM.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-02T16:39:32.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.703Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "A Kiev, une rentrée des classes perturbée par des alertes aériennes presque ince",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-03-d33ed4cb",
-          "title": "A Kiev, une rentrée des classes perturbée par des alertes aériennes presque incessantes",
-          "description": "Depuis fin août, les sirènes retentissent dans la capitale ukrainienne à un rythme inédit depuis le début de l’invasion à grande échelle du pays, en février 2022. Cette nouvelle réalité perturbe la vie quotidienne des 3,7 millions d’habitants de la ville.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/03/a-kiev-une-rentree-des-classes-perturbee-par-des-alertes-aeriennes-presque-incessantes_6764848_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-03T03:34:57.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.519Z"
-        },
-        {
-          "id": "2026-09-03-4265346a",
-          "title": "“Le capitalisme ne marche plus” : pourquoi les jeunes démocrates se tournent vers le socialisme",
-          "description": "Dans le sillage du maire de New York, Zohran Mamdani, des candidats socialistes démocrates ont remporté des primaires un peu partout dans le pays en vue des élections de mi-mandat de novembre prochain. Une tendance de fond au sein du Parti démocrate, qui voit sa base se tourner de manière croissante vers des candidats plus progressistes, souligne le “Financial Times”.",
-          "url": "https://www.courrierinternational.com/article/analyse-le-capitalisme-ne-marche-plus-pourquoi-les-jeunes-democrates-se-tournent-vers-le-socialisme_261806",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/01/0/0/3390/2260/1200/630/60/0/8dd3bc1_upload-1-uckhxqctqwgn-the-american-socialists-opening-page.jpg",
+          "id": "2026-09-04-f294812f",
+          "title": "OpenAI lance ChatGPT Astra, son modèle d’IA le plus avancé et le plus “controversé”",
+          "description": "OpenAI a dévoilé jeudi GPT-6 Astra, son modèle d’intelligence artificielle (IA) le plus avancé à ce jour, capable de contrôler – et de pirater – de façon autonome des systèmes informatiques. Pour ses concepteurs, Astra constitue un premier pas vers l’IA générale (IAG), censée accomplir la plupart des tâches aussi bien, voire mieux, que les humains.",
+          "url": "https://www.courrierinternational.com/article/intelligence-artificielle-openai-lance-chatgpt-astra-son-modele-d-ia-le-plus-avance-et-le-plus-controverse_267237",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/03/0/0/3499/2333/1200/630/60/0/ed224d2_ftp-1-mtevcroov3dq-2026-09-03t171416z-1469135381-rc2qrlanb0gv-rtrmadp-3-tech-ai-openai.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-03T03:00:20.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.746Z"
+          "publishedAt": "2026-09-04T03:55:26.000Z",
+          "fetchedAt": "2026-09-04T04:45:29.579Z"
         },
         {
-          "id": "2026-09-02-9e90d9bf",
-          "title": "Tanzanie: les Masaï, les guerriers de la faune sauvage",
-          "description": "Dans le nord de la Tanzanie, des guerriers Masaï ont troqué leurs lances pour des smartphones. Grâce à l'association African People and Wildlife, de nouvelles générations de villageois sont entraînées à anticiper les risques de conflit entre faune sauvage et humains et à mieux les gérer en cas d’incident. Résultat : les populations mieux informées vivent désormais en harmonie avec leurs voisins sauvages à quatre pattes.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260902-tanzanie-les-masa%C3%AF-les-guerriers-de-la-faune-sauvage",
-          "imageUrl": "https://s.rfi.fr/media/display/94cef296-a6fb-11f1-af88-005056bfb2b6/w:1024/p:16x9/Loother-un-Masaai-qui-mesure-une-empreinte-de-hy%C3%A8nes-pr%C3%A8s-du-village-de-Mswakini.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-02T22:38:04.000Z",
-          "fetchedAt": "2026-09-03T04:39:22.100Z"
-        },
-        {
-          "id": "2026-09-02-d8ad8098",
-          "title": "Après les dires de Kiev, l'agence de l'ONU pour l'aviation civile appelle à \"protéger\" les appareils",
-          "description": "Le président ukrainien Volodymyr Zelensky a averti que le ciel russe devenait \"extrêmement dangereux\" en raison des drones ukrainiens. Un \"risque\" en hausse pour l'agence de l'Organisation de l'aviation civile internationale qui \"réitère ses appels (...) à protéger les appareils civils\", mercredi.",
-          "url": "https://www.france24.com/fr/europe/20260902-europe-20260903-dires-kiev-agence-onu-appelle-proteger-appareils-ukraine-oaci-aviation-civile-russie-guerre-drones",
-          "imageUrl": "https://s.france24.com/media/display/dffd978c-9368-11f1-8114-005056bfb2b6/w:1024/p:16x9/000-C49H2KH.jpg",
+          "id": "2026-09-04-8121c32d",
+          "title": "OpenAI lance GPT-6 Astra, son premier modèle capable de pirater seul des systèmes protégés",
+          "description": "Classé au plus haut niveau de risque en cybersécurité par OpenAI lui-même, le modèle d'intelligence artificielle GPT-6 Astra, lancé jeudi, est capable de pirater seul des systèmes informatiques très protégés. Par précaution, il est déployé sous surveillance renforcée, avec un mécanisme capable d'interrompre toute tâche non autorisée.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260904-intelligence-artificielle-ia-openai-lance-gpt-6-astra-modele-capable-pirater-seul-systemes-proteges",
+          "imageUrl": "https://s.france24.com/media/display/b94eb338-6b17-11f1-a331-005056a90284/w:1024/p:16x9/063-2277319832.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-02T22:24:09.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.703Z"
-        },
-        {
-          "id": "2026-09-02-ceaa14f6",
-          "title": "A Malte, le magnat Yorgen Fenech, accusé d’avoir orchestré le meurtre de la journaliste Daphne Caruana Galizia, acquitté par un tribunal",
-          "description": "L’homme d’affaires était accusé d’avoir commandité l’attentat à la voiture piégée qui a coûté la vie à la journaliste âgée de 53 ans, un événement qui avait bouleversé cette nation insulaire et suscité une vague de condamnations à l’échelle mondiale.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/02/a-malte-le-magnat-yorgen-fenech-accuse-d-avoir-orchestre-le-meurtre-de-la-journaliste-daphne-caruana-galizia-acquitte-par-un-tribunal_6764536_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-02T19:33:14.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.519Z"
-        },
-        {
-          "id": "2026-09-02-63a84d45",
-          "title": "A La Réunion, la construction d’un câble sous-marin « souverain » reliant l’Afrique du Sud à Singapour vise à renforcer le développement économique de l’île",
-          "description": "L’installation débutera en 2027, pour une mise en service en 2028, afin de sécuriser les connexions numériques du département français.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/02/a-la-reunion-la-construction-d-un-cable-sous-marin-souverain-reliant-l-afrique-du-sud-a-singapour-vise-a-renforcer-le-developpement-economique-de-l-ile_6764489_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-02T17:30:10.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.519Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "Au Liechtenstein, le Parlement soutient une initiative pour légaliser l'avorteme",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-03-5d75521b",
-          "title": "Au Liechtenstein, le Parlement soutient une initiative pour légaliser l'avortement",
-          "description": "Les élus du Liechtenstein ont approuvé mercredi une initiative citoyenne légalisant l'avortement durant les trois premiers mois de grossesse. Le prince héréditaire Alois, qui détient un droit de veto, s'y est d'ores et déjà dit opposé. L'avortement est interdit dans la principauté hors cas exceptionnels, sous peine de prison, et un référendum sur le sujet avait échoué en 2011.",
-          "url": "https://www.france24.com/fr/europe/20260903-liechtenstein-parlement-soutient-initiative-legaliser-avortement-ivg",
-          "imageUrl": "https://s.france24.com/media/display/847c92ea-f426-11ec-9c76-005056bf30b7/w:1024/p:16x9/2022-06-25T005932Z_616156479_RC2NYU9BMSFO_RTRMADP_3_USA-ABORTION.JPG",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-03T03:05:29.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.703Z"
-        },
-        {
-          "id": "2026-09-03-2bf183dd",
-          "title": "Le Parlement du Liechtenstein approuve une initiative citoyenne visant à légaliser l’avortement",
-          "description": "Les élus du Landtag ont voté à une courte majorité, mercredi, en faveur de cette démarche qui a recueilli un nombre important de signatures. Le régent de la principauté, le prince Aloïs, opposé à l’initiative, dispose d’un droit de véto.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/03/le-parlement-du-liechtenstein-approuve-une-initiative-citoyenne-visant-a-legaliser-l-avortement_6764705_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-03T01:51:34.000Z",
-          "fetchedAt": "2026-09-03T04:39:16.519Z"
+          "publishedAt": "2026-09-04T02:13:43.000Z",
+          "fetchedAt": "2026-09-04T04:45:29.568Z"
         }
       ]
     },
     {
       "id": "cluster-7",
-      "topic": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "category": "tech",
+      "topic": "Macron au Royaume-Uni, Brésil et Trump : les informations de la nuit",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-02-0e6a8f5a",
-          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-          "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher effort levels.\" Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. \nGemini 3.8 Flash's launch was followed by some early  …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-09-02T20:11:40.000Z",
-          "fetchedAt": "2026-09-03T04:39:25.834Z"
+          "id": "2026-09-04-935759dd",
+          "title": "Macron au Royaume-Uni, Brésil et Trump : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-macron-au-royaume-uni-bresil-et-trump-les-informations-de-la-nuit_267238",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/03/0/0/3000/2000/1200/630/60/0/805649c_ftp-1-pyukjy5xrpxy-afp-c79m4vl.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T03:55:01.000Z",
+          "fetchedAt": "2026-09-04T04:45:29.579Z"
         },
         {
-          "id": "2026-09-02-3c7768e7",
-          "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-          "description": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-          "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-09-02T18:13:54.000Z",
-          "fetchedAt": "2026-09-03T04:39:25.822Z"
+          "id": "2026-09-03-63999851",
+          "title": "Royaume-Uni : premier entretien Burnham-Macron pour \"renforcer\" les relations",
+          "description": "Le nouveau Premier ministre britannique Andy Burnham et le président français Emmanuel Macron ont affiché aujourd'hui à Londres leur volonté de \"renforcer\" les relations entre le Royaume-Uni et la France mais aussi l'Union européenne, au lendemain d'une première rencontre autour de la tapisserie de Bayeux.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260903-royaume-uni-premier-entretien-burnham-macron-pour-renforcer-les-relations",
+          "imageUrl": "https://s.france24.com/media/display/505be956-a7a6-11f1-acdb-005056a90284/w:1024/p:16x9/FR-20260903-160755-160923-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-03T15:16:26.000Z",
+          "fetchedAt": "2026-09-04T04:45:29.568Z"
         }
       ]
     },
     {
-      "id": "cluster-12",
-      "topic": "How Victoria Beckham turned her fashion firm around and made it profitable",
+      "id": "cluster-13",
+      "topic": "Guerres, sécheresses et feux : le blé, une céréale indispensable cernée de toute",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-04-13fb087a",
+          "title": "Guerres, sécheresses et feux : le blé, une céréale indispensable cernée de toute part",
+          "description": "Les chaleurs extrêmes, les barrages de missiles et les blocus maritimes affectent les récoltes autant que les exportations. Résultat : les prix augmentent et la sécurité alimentaire mondiale vacille, en particulier dans les pays pauvres. Comment sortir de cet engrenage ?",
+          "url": "https://www.courrierinternational.com/long-format/decryptage-guerres-secheresses-et-feux-le-ble-une-cereale-indispensable-cernee-de-toute-part_264847",
+          "imageUrl": "https://focus.courrierinternational.com/2026/06/26/168/0/4032/2688/1200/630/60/0/f6d234a_ftp-1-gakce00vxy3q-2026-06-26t062613z-1776371651-rc2x0ma7vd4e-rtrmadp-3-europe-weather-germany.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T03:00:14.000Z",
+          "fetchedAt": "2026-09-04T04:45:29.579Z"
+        },
+        {
+          "id": "2026-09-04-0f921c57",
+          "title": "Prix Ig-Nobel 2026: dix récompenses pour une science aussi sérieuse qu’amusante",
+          "description": "Avec la remise des prix Nobel, c’est l’autre rendez-vous incontournable de la communauté scientifique internationale. Les prix Ig-Nobel récompensent chaque année la science improbable, celle qui fait d’abord rire, mais aussi un peu réfléchir. 35 ans après la première édition, la cérémonie 2026 s’est tenue jeudi 3 septembre au soir à Zurich, en Suisse.",
+          "url": "https://www.rfi.fr/fr/europe/20260904-prix-ig-nobel-2026-dix-r%C3%A9compenses-pour-une-science-aussi-s%C3%A9rieuse-qu-amusante",
+          "imageUrl": "https://s.rfi.fr/media/display/47ba65b6-a7e7-11f1-8bf9-005056bfb2b6/w:1024/p:16x9/AP26246678681003.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T03:00:09.000Z",
+          "fetchedAt": "2026-09-04T04:45:33.943Z"
+        },
+        {
+          "id": "2026-09-04-3c1fa527",
+          "title": "Singapour, un rêve qui ne tient pas ses promesses pour les travailleurs migrants",
+          "description": "Majoritairement originaires d’Inde ou du Bangladesh, ils s’endettent lourdement pour venir dans l’espoir de faire vivre leur famille, avant de déchanter face aux salaires et aux conditions de travail très éloignés de ce qui leur avait été promis.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/04/singapour-un-reve-qui-ne-tient-pas-ses-promesses-pour-les-travailleurs-migrants_6765421_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T02:00:12.000Z",
+          "fetchedAt": "2026-09-04T04:45:29.415Z"
+        },
+        {
+          "id": "2026-09-04-77f521c6",
+          "title": "La Maison Blanche publie un jeu vidéo dont le but est d’expulser des immigrés",
+          "description": "Calqué visuellement sur le modèle de « Snake », le jeu a pour objectif de rassembler un maximum de personnages ayant traversé la frontière afin de les expulser. Un autre jeu publié sur le site officiel de la Maison Blanche consiste à construire un mur de séparation avec le Mexique, à la manière de « Tetris ».",
+          "url": "https://www.lemonde.fr/international/article/2026/09/04/la-maison-blanche-publie-un-jeu-video-dont-le-but-est-d-expulser-des-immigres_6765354_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T00:58:09.000Z",
+          "fetchedAt": "2026-09-04T04:45:29.415Z"
+        },
+        {
+          "id": "2026-09-03-4dba196f",
+          "title": "La FIFA dénonce une « campagne de dénigrement » menée par l’UEFA à son égard",
+          "description": "Dans le sillage du projet économique avorté de la FIFA, l’instance européenne prépare une action en justice contre le patron du football mondial, Gianni Infantino, pour « gestion déloyale ».",
+          "url": "https://www.lemonde.fr/football/article/2026/09/04/la-fifa-denonce-une-campagne-de-denigrement-menee-par-l-uefa-a-son-egard_6765287_1616938.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-03T23:01:45.000Z",
+          "fetchedAt": "2026-09-04T04:45:29.415Z"
+        },
+        {
+          "id": "2026-09-03-cc0922ff",
+          "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
+          "description": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods.",
+          "url": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fef2/live/b9b6bc80-a7c6-11f1-b109-879e35c24276.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-03T19:56:34.000Z",
+          "fetchedAt": "2026-09-04T04:45:33.795Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "'I lost my savings after a job interview scam'",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-02-b8a03dab",
-          "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-          "description": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
-          "url": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_bbc/1200/cpsprodpb/7a24/live/c8818d00-a6de-11f1-b109-879e35c24276.jpg",
+          "id": "2026-09-03-14e89cd5",
+          "title": "'I lost my savings after a job interview scam'",
+          "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+          "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-02T23:24:06.000Z",
-          "fetchedAt": "2026-09-03T04:39:28.909Z"
+          "publishedAt": "2026-09-03T23:41:49.000Z",
+          "fetchedAt": "2026-09-04T04:45:40.830Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "Xbox imposes harsh new time limits for Game Pass game streaming",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-09-03-a12a7f0a",
+          "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+          "description": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+          "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-09-03T21:10:59.000Z",
+          "fetchedAt": "2026-09-04T04:45:38.652Z"
         }
       ]
     }
