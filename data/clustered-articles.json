@@ -1,176 +1,187 @@
 {
-  "generatedAt": "2026-09-04T04:49:30.032Z",
+  "generatedAt": "2026-09-05T04:40:59.477Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-6",
-      "topic": "OpenAI lance ChatGPT Astra, son modèle d’IA le plus avancé et le plus “controver",
+      "id": "cluster-1",
+      "topic": "La justice argentine ordonne la restitution “historique” d’un tableau volé par l",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-04-f294812f",
-          "title": "OpenAI lance ChatGPT Astra, son modèle d’IA le plus avancé et le plus “controversé”",
-          "description": "OpenAI a dévoilé jeudi GPT-6 Astra, son modèle d’intelligence artificielle (IA) le plus avancé à ce jour, capable de contrôler – et de pirater – de façon autonome des systèmes informatiques. Pour ses concepteurs, Astra constitue un premier pas vers l’IA générale (IAG), censée accomplir la plupart des tâches aussi bien, voire mieux, que les humains.",
-          "url": "https://www.courrierinternational.com/article/intelligence-artificielle-openai-lance-chatgpt-astra-son-modele-d-ia-le-plus-avance-et-le-plus-controverse_267237",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/03/0/0/3499/2333/1200/630/60/0/ed224d2_ftp-1-mtevcroov3dq-2026-09-03t171416z-1469135381-rc2qrlanb0gv-rtrmadp-3-tech-ai-openai.JPG",
+          "id": "2026-09-05-0dccca7d",
+          "title": "La justice argentine ordonne la restitution “historique” d’un tableau volé par les nazis",
+          "description": "L’œuvre, Portrait d’une dame, appartenait à un galeriste juif pillé pendant la deuxième guerre mondiale. Elle est réapparue l’an dernier dans une maison de Mar del Plata. La maison de descendants de Friedrich Gustav Kadgien, “le magicien de la finance nazie”.",
+          "url": "https://www.courrierinternational.com/article/art-la-justice-argentine-ordonne-la-restitution-historique-d-un-tableau-vole-par-les-nazis_267963",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/04/0/0/5200/3467/1200/630/60/0/bdada08_ftp-1-fqkx2usr3ojg-afp-c7d6863.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-04T03:55:26.000Z",
-          "fetchedAt": "2026-09-04T04:45:29.579Z"
+          "publishedAt": "2026-09-05T04:33:32.000Z",
+          "fetchedAt": "2026-09-05T04:36:59.001Z"
         },
         {
-          "id": "2026-09-04-8121c32d",
-          "title": "OpenAI lance GPT-6 Astra, son premier modèle capable de pirater seul des systèmes protégés",
-          "description": "Classé au plus haut niveau de risque en cybersécurité par OpenAI lui-même, le modèle d'intelligence artificielle GPT-6 Astra, lancé jeudi, est capable de pirater seul des systèmes informatiques très protégés. Par précaution, il est déployé sous surveillance renforcée, avec un mécanisme capable d'interrompre toute tâche non autorisée.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260904-intelligence-artificielle-ia-openai-lance-gpt-6-astra-modele-capable-pirater-seul-systemes-proteges",
-          "imageUrl": "https://s.france24.com/media/display/b94eb338-6b17-11f1-a331-005056a90284/w:1024/p:16x9/063-2277319832.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-04T02:13:43.000Z",
-          "fetchedAt": "2026-09-04T04:45:29.568Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "Macron au Royaume-Uni, Brésil et Trump : les informations de la nuit",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-04-935759dd",
-          "title": "Macron au Royaume-Uni, Brésil et Trump : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-macron-au-royaume-uni-bresil-et-trump-les-informations-de-la-nuit_267238",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/03/0/0/3000/2000/1200/630/60/0/805649c_ftp-1-pyukjy5xrpxy-afp-c79m4vl.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-04T03:55:01.000Z",
-          "fetchedAt": "2026-09-04T04:45:29.579Z"
-        },
-        {
-          "id": "2026-09-03-63999851",
-          "title": "Royaume-Uni : premier entretien Burnham-Macron pour \"renforcer\" les relations",
-          "description": "Le nouveau Premier ministre britannique Andy Burnham et le président français Emmanuel Macron ont affiché aujourd'hui à Londres leur volonté de \"renforcer\" les relations entre le Royaume-Uni et la France mais aussi l'Union européenne, au lendemain d'une première rencontre autour de la tapisserie de Bayeux.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260903-royaume-uni-premier-entretien-burnham-macron-pour-renforcer-les-relations",
-          "imageUrl": "https://s.france24.com/media/display/505be956-a7a6-11f1-acdb-005056a90284/w:1024/p:16x9/FR-20260903-160755-160923-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-03T15:16:26.000Z",
-          "fetchedAt": "2026-09-04T04:45:29.568Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-13",
-      "topic": "Guerres, sécheresses et feux : le blé, une céréale indispensable cernée de toute",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-04-13fb087a",
-          "title": "Guerres, sécheresses et feux : le blé, une céréale indispensable cernée de toute part",
-          "description": "Les chaleurs extrêmes, les barrages de missiles et les blocus maritimes affectent les récoltes autant que les exportations. Résultat : les prix augmentent et la sécurité alimentaire mondiale vacille, en particulier dans les pays pauvres. Comment sortir de cet engrenage ?",
-          "url": "https://www.courrierinternational.com/long-format/decryptage-guerres-secheresses-et-feux-le-ble-une-cereale-indispensable-cernee-de-toute-part_264847",
-          "imageUrl": "https://focus.courrierinternational.com/2026/06/26/168/0/4032/2688/1200/630/60/0/f6d234a_ftp-1-gakce00vxy3q-2026-06-26t062613z-1776371651-rc2x0ma7vd4e-rtrmadp-3-europe-weather-germany.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-04T03:00:14.000Z",
-          "fetchedAt": "2026-09-04T04:45:29.579Z"
-        },
-        {
-          "id": "2026-09-04-0f921c57",
-          "title": "Prix Ig-Nobel 2026: dix récompenses pour une science aussi sérieuse qu’amusante",
-          "description": "Avec la remise des prix Nobel, c’est l’autre rendez-vous incontournable de la communauté scientifique internationale. Les prix Ig-Nobel récompensent chaque année la science improbable, celle qui fait d’abord rire, mais aussi un peu réfléchir. 35 ans après la première édition, la cérémonie 2026 s’est tenue jeudi 3 septembre au soir à Zurich, en Suisse.",
-          "url": "https://www.rfi.fr/fr/europe/20260904-prix-ig-nobel-2026-dix-r%C3%A9compenses-pour-une-science-aussi-s%C3%A9rieuse-qu-amusante",
-          "imageUrl": "https://s.rfi.fr/media/display/47ba65b6-a7e7-11f1-8bf9-005056bfb2b6/w:1024/p:16x9/AP26246678681003.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-04T03:00:09.000Z",
-          "fetchedAt": "2026-09-04T04:45:33.943Z"
-        },
-        {
-          "id": "2026-09-04-3c1fa527",
-          "title": "Singapour, un rêve qui ne tient pas ses promesses pour les travailleurs migrants",
-          "description": "Majoritairement originaires d’Inde ou du Bangladesh, ils s’endettent lourdement pour venir dans l’espoir de faire vivre leur famille, avant de déchanter face aux salaires et aux conditions de travail très éloignés de ce qui leur avait été promis.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/04/singapour-un-reve-qui-ne-tient-pas-ses-promesses-pour-les-travailleurs-migrants_6765421_3210.html",
+          "id": "2026-09-05-ef20b480",
+          "title": "Jenny Andersson, historienne : « On assiste à un remodelage de l’image de la Suède, qui s’inscrit maintenant dans un axe clairement néoconservateur »",
+          "description": "A l’approche des élections législatives suédoises, prévues le 13 septembre, cette spécialiste de la social-démocratie analyse, dans un entretien au « Monde », les évolutions sociétales qui ont marqué la Suède depuis les années 1990.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/05/jenny-andersson-historienne-on-assiste-a-un-remodelage-de-l-image-de-la-suede-qui-s-inscrit-maintenant-dans-un-axe-clairement-neoconservateur_6766136_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-04T02:00:12.000Z",
-          "fetchedAt": "2026-09-04T04:45:29.415Z"
+          "publishedAt": "2026-09-05T04:00:16.000Z",
+          "fetchedAt": "2026-09-05T04:36:58.936Z"
         },
         {
-          "id": "2026-09-04-77f521c6",
-          "title": "La Maison Blanche publie un jeu vidéo dont le but est d’expulser des immigrés",
-          "description": "Calqué visuellement sur le modèle de « Snake », le jeu a pour objectif de rassembler un maximum de personnages ayant traversé la frontière afin de les expulser. Un autre jeu publié sur le site officiel de la Maison Blanche consiste à construire un mur de séparation avec le Mexique, à la manière de « Tetris ».",
-          "url": "https://www.lemonde.fr/international/article/2026/09/04/la-maison-blanche-publie-un-jeu-video-dont-le-but-est-d-expulser-des-immigres_6765354_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-04T00:58:09.000Z",
-          "fetchedAt": "2026-09-04T04:45:29.415Z"
-        },
-        {
-          "id": "2026-09-03-4dba196f",
-          "title": "La FIFA dénonce une « campagne de dénigrement » menée par l’UEFA à son égard",
-          "description": "Dans le sillage du projet économique avorté de la FIFA, l’instance européenne prépare une action en justice contre le patron du football mondial, Gianni Infantino, pour « gestion déloyale ».",
-          "url": "https://www.lemonde.fr/football/article/2026/09/04/la-fifa-denonce-une-campagne-de-denigrement-menee-par-l-uefa-a-son-egard_6765287_1616938.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-03T23:01:45.000Z",
-          "fetchedAt": "2026-09-04T04:45:29.415Z"
-        },
-        {
-          "id": "2026-09-03-cc0922ff",
-          "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
-          "description": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods.",
-          "url": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fef2/live/b9b6bc80-a7c6-11f1-b109-879e35c24276.jpg",
+          "id": "2026-09-05-3e9e18fb",
+          "title": "UN votes to adopt new world map to reflect Africa's true size",
+          "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
+          "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-09-03T19:56:34.000Z",
-          "fetchedAt": "2026-09-04T04:45:33.795Z"
+          "publishedAt": "2026-09-05T00:53:11.000Z",
+          "fetchedAt": "2026-09-05T04:37:03.444Z"
+        },
+        {
+          "id": "2026-09-04-39a582d0",
+          "title": "États-Unis: la justice annule le procès d'un triple infanticide au cœur d'un vif débat dans le pays",
+          "description": "Des millions de téléspectateurs ont suivi les débats en direct à la télévision. Des milliers d'autres ont disséqué les arguments de l'accusation et de la défense sur internet ou suivi les rebondissements de la procédure dans la presse. Le procès pour triple infanticide de Lindsay Clancy, qui a passionné les États-Unis, s'est achevé vendredi 4 septembre par une annulation. Faute de consensus au sein du jury, le tribunal n'a pu répondre à cette question-clé : Lindsay Clancy était-elle responsable de ses actes lorsqu'elle étranglé ses trois enfants ?",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260904-%C3%A9tats-unis-la-justice-annule-le-proc%C3%A8s-d-un-triple-infanticide-au-c%C5%93ur-d-un-vif-d%C3%A9bat-dans-le-pays",
+          "imageUrl": "https://s.rfi.fr/media/display/9a93c554-a8ad-11f1-8921-005056a97e36/w:1024/p:16x9/ETATS-UNIS-JUSTICE-LINDSAY-CLANCY.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T22:16:17.000Z",
+          "fetchedAt": "2026-09-05T04:37:03.625Z"
+        },
+        {
+          "id": "2026-09-04-1d852faa",
+          "title": "Benoît Hamon: \"la popularité du RN est liée à un effondrement de la politique\"",
+          "description": "Rentrée politique chargée en France, à 7 mois de la présidentielle. Une campagne marquée pour l'heure par une forte fragmentation à gauche et une popularité inébranlée du Rassemblement national . Parmi les thèmes que le RN tente d'imposer dans le débat, celui de l'immigration. Benoît Hamon, président de l'ONG Singa, ancien ministre et ex-candidat socialiste à la présidentielle, publie \"Accueillir toute la richesse du monde, en finir avec les mensonges sur l'immigration\" (éditions First)",
+          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260904-beno%C3%AEt-hamon-la-popularit%C3%A9-du-rn-est-li%C3%A9e-%C3%A0-un-effondrement-de-la-politique",
+          "imageUrl": "https://s.france24.com/media/display/75c3a710-a896-11f1-bdc1-005056a97e36/w:1024/p:16x9/Francais-2026-09-04T18-12-47-271Z.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T20:09:30.000Z",
+          "fetchedAt": "2026-09-05T04:36:58.990Z"
+        },
+        {
+          "id": "2026-09-04-06664819",
+          "title": "L'Afrique, l'Amérique latine et l'Asie du Sud agrandies dans la cartographie promue par l'ONU",
+          "description": "L'Assemble générale de l'ONU a adopté vendredi une résolution pour encourager les organisations internationales et les États à utiliser des représentations cartographiques mondiales plus conformes à la réalité, en abandonnant la projection dite \"de Mercator\" datant du XVIe siècle. Cette représentation agrandit notamment l'Afrique et rétrécit les États-Unis, seul pays à avoir voté contre le texte.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260904-cartographie-afrique-am%C3%A9rique-latine-asie-sud-agrandies-onu-assembl%C3%A9e-g%C3%A9n%C3%A9rale",
+          "imageUrl": "https://s.france24.com/media/display/b8def100-a88a-11f1-98da-005056a97e36/w:1024/p:16x9/equal-earth.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T19:50:51.000Z",
+          "fetchedAt": "2026-09-05T04:36:58.990Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "'I lost my savings after a job interview scam'",
+      "id": "cluster-3",
+      "topic": "Liban: l'armée israélienne annonce le «contrôle opérationnel» de la colline de A",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-05-9c719285",
+          "title": "Liban: l'armée israélienne annonce le «contrôle opérationnel» de la colline de Ali Taher",
+          "description": "L'armée israélienne a annoncé jeudi septembre la prise de « contrôle opérationnel » de la colline stratégique de Ali Taher après des mois de pilonnage et de tentatives d’avancées terrestres. Le Premier ministre israélien, Benyamin Netanyahu, a présenté cette prise de « succès stratégique ». Le Hezbollah n’a pas confirmé l’opération mais un de ses députés a évoqué une « incertitude », et a minimisé l’importance du site. Malgré la chute de Ali Taher, Israël a poursuivi ses frappes au sud-Liban, où deux personnes ont été tuées vendredi.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260905-liban-l-arm%C3%A9e-isra%C3%A9lienne-annonce-le-contr%C3%B4le-op%C3%A9rationnel-de-la-colline-de-ali-taher",
+          "imageUrl": "https://s.rfi.fr/media/display/1188b272-a8e1-11f1-80d9-005056a97e36/w:1024/p:16x9/AP26246607047593.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-05T04:23:28.000Z",
+          "fetchedAt": "2026-09-05T04:37:03.625Z"
+        },
+        {
+          "id": "2026-09-04-8dc55aab",
+          "title": "Israël affirme parachever son contrôle sur le sud du Liban après la prise de la colline d’Ali-Taher",
+          "description": "Le Hezbollah, le mouvement chiite libanais, minimise la prise, jeudi par les forces israéliennes, de la hauteur d’Ali-Taher et dénonce une manœuvre électorale du premier ministre de l’Etat hébreu, Benyamin Nétanyahou.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/04/liban-israel-annonce-avoir-pris-une-colline-strategique-au-hezbollah-et-parachever-son-controle-sur-la-zone_6765838_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T16:35:56.000Z",
+          "fetchedAt": "2026-09-05T04:36:58.936Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-9",
+      "topic": "«Nous avons déjà gagné»: en Saxe-Anhalt, l'AfD n'envisage que la victoire aux él",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-05-1e3284c5",
+          "title": "«Nous avons déjà gagné»: en Saxe-Anhalt, l'AfD n'envisage que la victoire aux élections régionales allemandes",
+          "description": "Un scrutin crucial va se tenir en Allemagne ce dimanche 6 septembre. L'AfD (Alternative pour l'Allemagne), le parti d'extrême droite, crédité de 41 % dans les sondages, pourrait remporter sa première région, la Saxe-Anhalt, située en ex-Allemagne de l'Est. Vendredi 4 septembre, le leader de l'AfD dans cette région, Ulrich Siegmund, est intervenu lors d'une fête des familles à Magdebourg.",
+          "url": "https://www.rfi.fr/fr/europe/20260905-nous-avons-d%C3%A9j%C3%A0-gagn%C3%A9-en-saxe-anhalt-l-afd-n-envisage-que-la-victoire-aux-%C3%A9lections-r%C3%A9gionales-allemandes",
+          "imageUrl": "https://s.rfi.fr/media/display/196bad14-a89b-11f1-a37d-005056bfb2b6/w:1024/p:16x9/ALLEMAGNE-ULRICH-SIEGMUND-AFD-EXTREME-DROITE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-05T03:05:09.000Z",
+          "fetchedAt": "2026-09-05T04:37:03.625Z"
+        },
+        {
+          "id": "2026-09-05-2f518ad4",
+          "title": "En Allemagne, la mémoire de la présence soviétique au cœur des élections en Saxe-Anhalt : « Je ne considère pas les Russes comme des ennemis »",
+          "description": "A trois jours d’un scrutin où le parti nationaliste populiste Alternative für Deutschland pourrait l’emporter dans ce Land de l’ex-Allemagne de l’Est, la ville de Stendal, où étaient stationnés 10 000 soldats de l’Armée rouge pendant la guerre froide, illustre le rapport singulier de l’ex-RDA à la Russie.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-la-memoire-de-la-presence-sovietique-au-c-ur-des-elections-en-saxe-anhalt-je-ne-considere-pas-les-russes-comme-des-ennemis_6766062_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-05T03:00:10.000Z",
+          "fetchedAt": "2026-09-05T04:36:58.936Z"
+        },
+        {
+          "id": "2026-09-04-97c2b0e1",
+          "title": "En Allemagne, un militant du climat soupçonné après les actes de sabotage sur des postes électriques",
+          "description": "La police allemande est à la recherche d'un militant du climat, principal suspect dans l'affaire des actes de sabotage qui ont ciblé plusieurs installations du réseau électrique de l'ouest de l'Allemagne depuis le début de la semaine. Dans les lettres de revendication retrouvées à son domicile, le suspect invoque comme motif \"la lutte contre les combustibles fossiles\".",
+          "url": "https://www.france24.com/fr/europe/20260904-allemagne-militant-climat-soup%C3%A7onn%C3%A9-actes-sabotage-postes-%C3%A9lectriques",
+          "imageUrl": "https://s.france24.com/media/display/4e429a5c-a87d-11f1-9a14-005056bfb2b6/w:1024/p:16x9/000-C7473G4.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-04T16:39:52.000Z",
+          "fetchedAt": "2026-09-05T04:36:58.990Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "Orange peine à freiner la multiplication des vols de câbles sur son réseau cuivr",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-03-14e89cd5",
-          "title": "'I lost my savings after a job interview scam'",
-          "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-          "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg",
-          "source": "BBC Business",
+          "id": "2026-09-05-b31730e1",
+          "title": "Orange peine à freiner la multiplication des vols de câbles sur son réseau cuivre",
+          "description": "La flambée du cours du métal rouge suscite l’intérêt des petits trafiquants qui, pour les dérober, sectionnent des tronçons de câbles du réseau historique, provoquant des coupures de téléphone et d’Internet.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/05/orange-peine-a-freiner-la-multiplication-des-vols-de-cables-sur-son-reseau-cuivre_6766138_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-09-03T23:41:49.000Z",
-          "fetchedAt": "2026-09-04T04:45:40.830Z"
+          "publishedAt": "2026-09-05T04:00:41.000Z",
+          "fetchedAt": "2026-09-05T04:37:06.304Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "Xbox imposes harsh new time limits for Game Pass game streaming",
+      "id": "cluster-3",
+      "topic": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "category": "tech",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-09-03-a12a7f0a",
-          "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-          "description": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
-          "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-1152x648.jpg",
+          "id": "2026-09-04-742cf6e9",
+          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+          "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+          "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
           "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-09-03T21:10:59.000Z",
-          "fetchedAt": "2026-09-04T04:45:38.652Z"
+          "publishedAt": "2026-09-04T22:17:36.000Z",
+          "fetchedAt": "2026-09-05T04:37:06.263Z"
         }
       ]
     }
