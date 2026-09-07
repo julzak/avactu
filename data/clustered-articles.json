@@ -1,158 +1,246 @@
 {
-  "generatedAt": "2026-09-06T04:51:15.843Z",
+  "generatedAt": "2026-09-07T04:54:54.645Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "À Moscou, les émissaires de Trump ont discuté «de plans substantiels» pour l'Ukr",
+      "id": "cluster-2",
+      "topic": "Victoire de l’AfD en Saxe-Anhalt : « Ulrich Siegmund nous a redonné un sentiment",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-06-f0ce5fe2",
-          "title": "À Moscou, les émissaires de Trump ont discuté «de plans substantiels» pour l'Ukraine avec Poutine",
-          "description": "Vladimir Poutine a rencontré samedi les émissaires américains Steve Witkoff et Jared Kushner, porteurs selon Donald Trump d'une proposition destinée à mettre fin au conflit en Ukraine.",
-          "url": "https://www.rfi.fr/fr/europe/20260906-%C3%A0-moscou-%C3%A9missaires-de-trump-ont-discut%C3%A9-de-plans-substantiels-pour-l-ukraine-avec-poutine",
-          "imageUrl": "https://s.rfi.fr/media/display/5e32609a-a9aa-11f1-a140-005056bf30b7/w:1024/p:16x9/AP26248674486145.jpg",
+          "id": "2026-09-07-b3c447a1",
+          "title": "Victoire de l’AfD en Saxe-Anhalt : « Ulrich Siegmund nous a redonné un sentiment de cohésion, c’est ce qui nous manque en Allemagne »",
+          "description": "Les sympathisants, réunis à Magdebourg pour soutenir le candidat victorieux, espéraient que le parti d’extrême droite obtienne la majorité absolue aux élections régionales de Saxe-Anhalt. Avec près de 44 % des voix remportées, l’AfD atteint néanmoins un score historique.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/07/victoire-de-l-afd-en-saxe-anhalt-ulrich-siegmund-nous-a-redonne-un-sentiment-de-cohesion-c-est-ce-qui-nous-manque-en-allemagne_6767776_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-07T04:44:15.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.145Z"
+        },
+        {
+          "id": "2026-09-07-0e04dda2",
+          "title": "Allemagne: Ulrich Siegmund, l'homme derrière la victoire de l'extrême droite en Saxe-Anhalt",
+          "description": "Il dit « marquer l'histoire ». Ulrich Siegmund, 35 ans, est donné le net vainqueur des élections du Land de Saxe-Anhalt, et pourrait permettre à l'extrême droite allemande de s'emparer de sa première région depuis 1945.",
+          "url": "https://www.rfi.fr/fr/europe/20260907-allemagne-ulrich-siegmund-l-homme-derri%C3%A8re-la-victoire-afd-extr%C3%AAme-droite-en-saxe-anhalt",
+          "imageUrl": "https://s.rfi.fr/media/display/a8713078-aa72-11f1-8d78-005056bf30b7/w:1024/p:16x9/AP26249342617188.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-06T04:33:21.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.765Z"
+          "publishedAt": "2026-09-07T04:25:01.000Z",
+          "fetchedAt": "2026-09-07T04:51:03.073Z"
         },
         {
-          "id": "2026-09-06-25b5ae0b",
-          "title": "EN DIRECT, guerre en Ukraine : après avoir rencontré hier Vladimir Poutine à Moscou, Steve Witkoff et Jared Kushner seront à Kiev dimanche",
-          "description": "La Maison Blanche a affirmé samedi que les émissaires du président Donald Trump avaient discuté de « plans substantiels » pour l’Ukraine avec Vladimir Poutine.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-apres-avoir-rencontre-hier-vladimir-poutine-a-moscou-steve-witkoff-et-jared-kushner-seront-a-kiev-dimanche_6766818_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-06T04:00:12.000Z",
-          "fetchedAt": "2026-09-06T04:47:15.243Z"
-        },
-        {
-          "id": "2026-09-06-d49d8b81",
-          "title": "Discussion “extrêmement franche” entre Poutine et les émissaires de Trump sur la guerre en Ukraine",
-          "description": "Les émissaires de Donald Trump, Steve Witkoff et Jared Kushner, se sont entretenus samedi avec Vladimir Poutine à Moscou, pour tenter de trouver une issue à la guerre en Ukraine. La partie russe a salué une rencontre “extrêmement franche”, alors que les deux Américains sont attendus dimanche à Kiev. Les belligérants ont accepté d’observer une trêve de trois jours pendant les discussions.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-discussion-extremement-franche-entre-poutine-et-les-emissaires-de-trump-sur-la-guerre-en-ukraine_268064",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/05/159/0/3342/2228/1200/630/60/0/353bd0b_ftp-1-8ftwntk453ay-2026-09-05t194829z-2009750295-rc26dna93fyo-rtrmadp-3-ukraine-crisis-russia-usa.JPG",
+          "id": "2026-09-07-bf57eae5",
+          "title": "L’extrême droite allemande réalise une percée « historique » en Saxe-Anhalt",
+          "description": "L’AfD a obtenu un score de près de 44 % dans ce Land de l’ex-Allemagne de l’Est, devançant largement les conservateurs de la CDU (17,2 %). N’ayant pas obtenu la majorité absolue, le parti n’est toutefois pas assuré de pouvoir gouverner. Mais pour la presse européenne, ce scrutin marque un « tournant décisif » et place désormais l’extrême droite allemande aux portes du pouvoir.",
+          "url": "https://www.courrierinternational.com/article/politique-l-extreme-droite-allemande-realise-une-percee-historique-en-saxe-anhalt_268260",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/06/23/0/4889/3259/1200/630/60/0/cb79744_ftp-1-ujcvl27leqbb-afp-c7hk6pt.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-06T03:44:44.000Z",
-          "fetchedAt": "2026-09-06T04:47:15.165Z"
+          "publishedAt": "2026-09-07T04:13:33.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.118Z"
         },
         {
-          "id": "2026-09-06-c5926466",
-          "title": "Vladimir Poutine rappelle ses exigences aux deux émissaires de Donald Trump venus au Kremlin avec des « idées » pour la paix",
-          "description": "Avant leur première visite à Kiev prévue ce dimanche, les envoyés du président américain Steve Witkoff et Jared Kushner étaient de nouveau à Moscou samedi. Aucune percée dans les négociations de paix n’a été annoncée après leur rencontre de trois heures avec le président russe.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/06/vladimir-poutine-rappelle-ses-exigences-aux-deux-emissaires-de-donald-trump-venus-au-kremlin-avec-des-idees-pour-la-paix_6766768_3210.html",
+          "id": "2026-09-07-e7354262",
+          "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+          "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+          "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3b/live/72883ac0-aa67-11f1-b26f-b3549bd39fba.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-07T04:07:23.000Z",
+          "fetchedAt": "2026-09-07T04:51:02.725Z"
+        },
+        {
+          "id": "2026-09-07-0ff4602d",
+          "title": "« La paupérisation des étudiants ne détruit pas seulement le quotidien des jeunes, elle hypothèque l’avenir de notre pays »",
+          "description": "Une trentaine de vice-présidents et d’élus de centres régionaux des œuvres universitaires et scolaires (Crous) appellent, dans une tribune au « Monde », à une réforme structurelle pour que l’ensemble de la population étudiante puisse étudier sans subir de pression financière, indépendamment de ses études ou de sa situation familiale.",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/07/la-pauperisation-des-etudiants-ne-detruit-pas-seulement-le-quotidien-des-jeunes-elle-hypotheque-l-avenir-de-notre-pays_6767768_3232.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-06T03:00:07.000Z",
-          "fetchedAt": "2026-09-06T04:47:15.243Z"
+          "publishedAt": "2026-09-07T04:00:13.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.145Z"
         },
         {
-          "id": "2026-09-06-e51208de",
-          "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-          "description": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
-          "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg",
-          "source": "BBC World",
+          "id": "2026-09-07-22427ec5",
+          "title": "En Allemagne, l’extrême droite réalise une performance historique lors d’élections régionales en Saxe-Anhalt",
+          "description": "Le parti Alternative für Deutschland (AfD), fondé en 2013, a enregistré, dimanche, le meilleur résultat de son histoire dans ce Land de l’ancienne Allemagne de l’Est, tandis que le parti du chancelier Friedrich Merz s’effondre. Il n’est toutefois pas certain que l’AfD soit en position de gouverner.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/07/en-allemagne-l-extreme-droite-realise-une-performance-historique-lors-d-elections-regionales-en-saxe-anhalt_6767759_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-06T02:24:16.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.739Z"
-        },
-        {
-          "id": "2026-09-05-c6464e01",
-          "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
-          "description": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
-          "url": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5fec/live/5ccc6200-a87e-11f1-824a-0fc4c5d895ae.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-05T23:54:07.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.739Z"
+          "publishedAt": "2026-09-07T03:29:04.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.145Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Moyen-Orient, Allemagne et Royaume-Uni : les informations de la nuit",
+      "topic": "Guerre en Ukraine : des propositions américaines « plus efficaces », selon la pr",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-06-88283655",
-          "title": "Moyen-Orient, Allemagne et Royaume-Uni : les informations de la nuit",
+          "id": "2026-09-07-60d34d79",
+          "title": "Guerre en Ukraine : des propositions américaines « plus efficaces », selon la présidence ukrainienne",
+          "description": "Les émissaires américains Steve Witkoff et Jared Kushner étaient à Kiev dimanche. Les négociations bloquent sur la question territoriale, Moscou exigeant que l’armée ukrainienne se retire entièrement de la région orientale de Donetsk, ce que Kiev refuse.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/07/guerre-en-ukraine-des-propositions-americaines-plus-efficaces-selon-la-presidence-ukrainienne_6767772_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-07T04:27:55.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.145Z"
+        },
+        {
+          "id": "2026-09-07-3404ea88",
+          "title": "Accident à l’aéroport de Miami, guerre en Ukraine, Yémen, Cisjordanie : les informations de la nuit",
           "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-moyen-orient-allemagne-et-royaume-uni-les-informations-de-la-nuit_268062",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/05/1/0/4000/2666/1200/630/60/0/a4054a1_ftp-1-rttxfwpxqiir-afp-c7fh6nq.jpg",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-accident-a-l-aeroport-de-miami-guerre-en-ukraine-yemen-cisjordanie-les-informations-de-la-nuit_268227",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/06/0/0/3900/2600/1200/630/60/0/38c0619_ftp-1-6mfnjhxjf0ox-afp-c7hk7md.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-06T03:44:58.000Z",
-          "fetchedAt": "2026-09-06T04:47:15.165Z"
+          "publishedAt": "2026-09-07T03:00:09.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.118Z"
         },
         {
-          "id": "2026-09-05-41a3b0bc",
-          "title": "Élections régionales en Allemagne: en Saxe-Anhalt, un grand rassemblement pour dire «non» à l'AfD",
-          "description": "En Allemagne, un grand rassemblement de la société civile est organisé ce 5 septembre 2026 à Magdebourg, capitale de la Saxe-Anhalt, en ex-Allemagne de l’Est. C’est là que l’AfD, parti d’extrême droite, pourrait remporter demain une élection régionale. Ce serait une première depuis la Seconde Guerre mondiale. Ils étaient des milliers à manifester pour la démocratie.",
-          "url": "https://www.rfi.fr/fr/europe/20260905-%C3%A9lections-r%C3%A9gionales-en-allemagne-en-saxe-anhalt-un-grand-rassemblement-pour-dire-non-%C3%A0-l-afd",
-          "imageUrl": "https://s.rfi.fr/media/display/6d46a8c8-a961-11f1-8e87-005056bf30b7/w:1024/p:16x9/AP26248460413115.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-05T19:57:06.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.765Z"
-        },
-        {
-          "id": "2026-09-05-a8f09987",
-          "title": "Allemagne : 6 000 personnes manifestent pour la démocratie avant un scrutin favorable à l'AfD",
-          "description": "Près de 6 000 personnes ont manifesté samedi à Magdebourg, dans la région de Saxe-Anhalt, en Allemagne. Le rassemblement était organisé dans le cadre d'un festival pour \"la démocratie\" à la veille d'un scrutin régional qui pourrait être remporté par l'extrême droite.",
-          "url": "https://www.france24.com/fr/europe/20260905-allemagne-6-000-personnes-manifestent-pour-d%C3%A9mocratie-avant-scrutin-favorable-afd-extr%C3%AAme-droite-%C3%A9lections-r%C3%A9gionales",
-          "imageUrl": "https://s.france24.com/media/display/78877076-a95e-11f1-b70d-005056bfb2b6/w:1024/p:16x9/2026-09-05T115745Z-1998209952-RC2ZCNARF1MP-RTRMADP-3-GERMANY-ELECTION-SAXONY-ANHALT-PROTEST.jpg",
+          "id": "2026-09-06-15bd81f6",
+          "title": "Pourparlers à Kiev : des propositions américaines \"plus efficaces\", pour la présidence ukrainienne",
+          "description": "Les émissaires américains Steve Witkoff et Jared Kushner ont rencontré dimanche à Kiev le président ukrainien Volodymyr Zelensky, dans le cadre d'une nouvelle tentative des États-Unis de mettre fin à quatre ans et demi de guerre. Ils ont présenté de nouvelles propositions \"plus efficaces\", rapporte la présidence ukrainienne.",
+          "url": "https://www.france24.com/fr/europe/20260906-pourparlers-kiev-ukraine-russie-propositions-americaines-plus-efficaces-zelensky-volodymyr-jared-kushner-steve-witkoff-etats-unis-guerre",
+          "imageUrl": "https://s.france24.com/media/display/b48393d2-aa46-11f1-93e0-005056a97e36/w:1024/p:16x9/000-C7H37XW.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-05T19:41:53.000Z",
-          "fetchedAt": "2026-09-06T04:47:15.495Z"
+          "publishedAt": "2026-09-06T23:13:29.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.541Z"
+        },
+        {
+          "id": "2026-09-06-e51208de",
+          "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+          "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+          "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0b8/live/737c2df0-aa36-11f1-aed2-8d6da8d75094.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-06T20:41:58.000Z",
+          "fetchedAt": "2026-09-07T04:51:02.725Z"
+        },
+        {
+          "id": "2026-09-06-876aa2bd",
+          "title": "Guerre en Ukraine: les émissaires américains appellent Kiev et Moscou au compromis",
+          "description": "Les premières discussions à Kiev avec le président ukrainien Volodymyr Zelensky ont été « très significatives », a déclaré dimanche 6 septembre Steve Witkoff, l'un des deux émissaires américains, porteurs selon Donald Trump d'une proposition destinée à mettre fin au conflit avec la Russie.",
+          "url": "https://www.rfi.fr/fr/europe/20260906-guerre-en-ukraine-les-%C3%A9missaires-am%C3%A9ricains-appellent-kiev-et-moscou-au-compromis",
+          "imageUrl": "https://s.rfi.fr/media/display/4a73ffcc-aa14-11f1-a383-005056bf30b7/w:1024/p:16x9/2026-09-06T161603Z-101622345-RC2RDNA8KIPV-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-06T17:11:39.000Z",
+          "fetchedAt": "2026-09-07T04:51:03.073Z"
+        },
+        {
+          "id": "2026-09-06-bbe761b8",
+          "title": "EN DIRECT, guerre en Ukraine : les premières discussions avec Volodymyr Zelensky ont été « très significatives », a déclaré Steve Witkoff, en visite à Kiev avec Jared Kushner",
+          "description": "Une session de pourparlers impliquant les deux envoyés américains, la délégation ukrainienne et des responsables européens pour la sécurité nationale se tient dimanche soir dans la capitale ukrainienne.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-le-president-ukrainien-volodymyr-zelensky-rencontre-les-emissaires-americains-jared-kushner-et-steve-witkoff-a-kiev_6766818_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-06T14:30:05.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.145Z"
         }
       ]
     },
     {
-      "id": "cluster-12",
-      "topic": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "id": "cluster-4",
+      "topic": "Deux fils de l’ex-président du Yémen jugés en France dans une affaire de «biens ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-06-6bf5510e",
-          "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-          "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-          "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/645e/live/47458b70-a994-11f1-b109-879e35c24276.jpg",
-          "source": "BBC World",
+          "id": "2026-09-07-7d82bedd",
+          "title": "Deux fils de l’ex-président du Yémen jugés en France dans une affaire de «biens mal acquis» présumés",
+          "description": "Le procès d’Ahmed et Khaled Saleh, fils de l’ancien président du Yémen Ali Abdallah Saleh, s’ouvre ce lundi 7 septembre devant le tribunal correctionnel de Paris. Poursuivis pour blanchiment de détournement de fonds publics et de corruption en bande organisée, ils sont accusés d'avoir acquis des biens immobiliers de luxe à Paris pour un montant total de 16 millions d’euros, issus de la captation massive d’argent public dans leur pays. Ce qu’ils contestent.",
+          "url": "https://www.rfi.fr/fr/france/20260907-deux-fils-pr%C3%A9sident-y%C3%A9men-jug%C3%A9s-en-france-dans-une-affaire-de-biens-mal-acquis-pr%C3%A9sum%C3%A9s",
+          "imageUrl": "https://s.rfi.fr/media/display/f1b72bf2-4551-11f0-837e-005056bfb2b6/w:1024/p:16x9/france-palais-justice-interieur.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-06T01:54:29.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.739Z"
+          "publishedAt": "2026-09-07T04:16:08.000Z",
+          "fetchedAt": "2026-09-07T04:51:03.073Z"
         },
         {
-          "id": "2026-09-05-21bba120",
-          "title": "“C’était ça ou mourir”, de Thélyson Orélien, un roman québécois qui “ouvre les yeux et le cœur”",
-          "description": "Paru le 19 août chez Grasset, le premier roman de Thélyson Orélien, écrivain québécois d’origine haïtienne, est l’un des événements de cette rentrée littéraire française. Mais avant de conquérir l’Europe francophone, “C’était ça ou mourir” a séduit la critique québécoise, emportée par ce récit “doux et poignant” de l’exil d’un professeur d’histoire de Port-au-Prince chassé de son pays par la violence des gangs.",
-          "url": "https://www.courrierinternational.com/article/en-librairie-c-etait-ca-ou-mourir-de-thelyson-orelien-un-roman-quebecois-qui-ouvre-les-yeux-et-le-c-ur_263416",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/01/1/0/4000/2666/1200/630/60/0/72741fa_upload-1-rmj6mhjmdqic-canada-author-3.jpg",
+          "id": "2026-09-07-11f82593",
+          "title": "Ino Casablanca, l’“inarrêtable” rappeur français qui chante la réalité sociale",
+          "description": "L’ascension sur la scène rap de cet artiste de 25 ans “semble impossible à freiner”, constate la journaliste du magazine suisse “Republik”, qui a assisté à l’un de ses concerts à Bruxelles. Avec ses chansons aux textes réfléchis, aux sonorités euphorisantes et dans lesquelles il franchit les “frontières linguistiques”, Ino Casablanca est le “symbole d’une génération qui s’est politisée sans perdre le goût de la fête”.",
+          "url": "https://www.courrierinternational.com/article/vu-de-suisse-ino-casablanca-l-inarretable-rappeur-francais-qui-chante-la-realite-sociale_261804",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/03/0/0/7129/4752/1200/630/60/0/8e3ee83_upload-1-cdm1wymkl3m0-000-87mv8kf.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-05T14:07:36.000Z",
-          "fetchedAt": "2026-09-06T04:47:15.165Z"
+          "publishedAt": "2026-09-07T03:00:27.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.118Z"
+        },
+        {
+          "id": "2026-09-06-7d087e0d",
+          "title": "France: pour sa dernière édition, l'événement caritatif ZEvent récolte la somme record de 30 millions d'euros",
+          "description": "Pour sa dixième et dernière édition, le marathon caritatif de streameurs ZEvent a récolté plus de 30 millions d'euros de dons. Organisé du 4 au 6 septembre, à Montpellier, l'événement a réuni plus de 80 streameurs sur place et 200 autres à distance. Une édition qui a donc permis de lever une somme record de dons au profit de 22 associations.",
+          "url": "https://www.rfi.fr/fr/france/20260906-france-pour-sa-derni%C3%A8re-%C3%A9dition-l-%C3%A9v%C3%A9nement-caritatif-zevent-r%C3%A9colte-la-somme-record-de-30-millions-d-euros",
+          "imageUrl": "https://s.rfi.fr/media/display/ae4a4a9c-aa4b-11f1-8443-005056bf30b7/w:1024/p:16x9/Screenshot-2026-09-07-013357.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-06T23:37:12.000Z",
+          "fetchedAt": "2026-09-07T04:51:03.073Z"
+        },
+        {
+          "id": "2026-09-06-980e832e",
+          "title": "Le soufre, un marché toujours restreint après six mois de guerre au Moyen-Orient",
+          "description": "C'est un marché qui n'arrive pas à se relever : celui du soufre. Avant la guerre au Moyen-Orient, la région représentait plus de 40% du soufre et des produits sulfurés exportés dans le monde. Depuis le mois de mars, les exportations du Golfe se sont effondrées.",
+          "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20260906-le-soufre-un-march%C3%A9-toujours-restreint-apr%C3%A8s-six-mois-de-guerre-au-moyen-orient",
+          "imageUrl": "https://s.rfi.fr/media/display/01b9ed10-a9fa-11f1-a930-005056a90284/w:1024/p:16x9/AP4124455624802782.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-06T22:03:04.000Z",
+          "fetchedAt": "2026-09-07T04:51:03.073Z"
+        },
+        {
+          "id": "2026-09-06-2eb78d6f",
+          "title": "Agriculture et canicule: après un été noir, les aviculteurs cherchent la parade [1/3]",
+          "description": "C’est une hécatombe silencieuse : des millions d’animaux sont morts en France en raison des canicules à répétition cet été. Les volailles, particulièrement sensibles à la chaleur, ont payé un lourd tribut : 2 % du cheptel national a été touché, notamment en Bretagne. Après cet été meurtrier, les aviculteurs réfléchissent déjà à des solutions d’adaptation pour l’année prochaine.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20260906-agriculture-et-canicule-apr%C3%A8s-un-%C3%A9t%C3%A9-noir-les-aviculteurs-cherchent-la-parade-1-3",
+          "imageUrl": "https://s.rfi.fr/media/display/c7622b1a-a9fd-11f1-901f-005056bfb2b6/w:1024/p:16x9/DSC-0411.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-06T22:01:31.000Z",
+          "fetchedAt": "2026-09-07T04:51:03.073Z"
+        },
+        {
+          "id": "2026-09-06-1d8437a4",
+          "title": "Avant sa venue à Paris, le président sud-coréen, Lee Jae-myung, plaide pour une coopération internationale « fondée sur des valeurs communes »",
+          "description": "Le président sud-coréen, Lee Jae-myung, est en visite en France du dimanche 6 au mardi 8 septembre. Dans un entretien accordé au « Monde », le dirigeant progressiste revient sur le renforcement des liens politiques, économiques et culturels avec la France. Il évoque aussi la diplomatie et sa gestion de la crise politique qui a secoué son pays.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/06/avant-sa-venue-a-paris-le-president-sud-coreen-lee-jae-myung-plaide-pour-une-cooperation-internationale-fondee-sur-des-valeurs-communes_6767624_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-06T21:00:02.000Z",
+          "fetchedAt": "2026-09-07T04:50:54.145Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "Netflix abandonne sa série Donjons & Dragons pour un projet gothique sur le vamp",
+      "id": "cluster-10",
+      "topic": "Intelligence artificielle : « Une rupture pourrait intervenir si les modèles dev",
       "category": "tech",
       "importance": 10,
       "articles": [
+        {
+          "id": "2026-09-06-c8f5cf63",
+          "title": "Intelligence artificielle : « Une rupture pourrait intervenir si les modèles devenaient eux-mêmes capables d’accélérer leur propre progression »",
+          "description": "Entre les Etats-Unis et la Chine, qui va gagner la course à l’IA ? Georges Nahon, ancien directeur général d’Orange Labs, explique, dans une tribune au « Monde », que les modèles de langage, leur financement, leur développement ainsi que leur finalité, notamment pour les enjeux de défense, sont en évolution permanente.",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/06/intelligence-artificielle-une-rupture-pourrait-intervenir-si-les-modeles-devenaient-eux-memes-capables-d-accelerer-leur-propre-progression_6767376_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-06T15:00:11.000Z",
+          "fetchedAt": "2026-09-07T04:51:02.575Z"
+        },
         {
           "id": "2026-09-05-c8f87dda",
           "title": "Netflix abandonne sa série Donjons & Dragons pour un projet gothique sur le vampire Strahd",
@@ -162,7 +250,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-09-05T15:00:00.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.970Z"
+          "fetchedAt": "2026-09-07T04:51:02.787Z"
         },
         {
           "id": "2026-09-05-9102dc3b",
@@ -173,29 +261,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-09-05T13:31:00.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.970Z"
-        },
-        {
-          "id": "2026-09-05-c51098aa",
-          "title": "« En clair, je disparais d’Internet » : une décision lui fait perdre le nom de domaine sur lequel il a bâti toute sa vie numérique",
-          "description": "Dans un témoignage partagé sur son blog, un ancien développeur de Google raconte comment le nom de domaine qu'il pensait détenir pour le reste de sa vie lui a échappé, et comment il pourrait finir entre de mauvaises mains.",
-          "url": "https://www.numerama.com/cyberguerre/2325259-en-clair-je-disparais-dinternet-une-decision-lui-fait-perdre-le-nom-de-domaine-sur-lequel-il-a-construit-toute-sa-vie-numerique.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/chevauchement-papier-produit-10.png?resize=1600,900&key=99180ccb",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-09-05T12:00:00.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.970Z"
-        },
-        {
-          "id": "2026-09-05-34f50b4a",
-          "title": "Wonder Woman lave son linge sale, The Witcher 3 se montre généreux et Dragon Ball Super a droit à un joli lifting : c’est le récap pop culture de la semaine",
-          "description": "La semaine de la rentrée a été riche en actus du côté de la pop culture. Un moment propice pour Gal Gadot, l’actrice qui incarne Wonder Woman au cinéma, pour faire quelques révélations sur le pourquoi du comment Wonder Woman 3 ne verra, a priori, jamais le jour. De son côté, grand prince, CD Projekt Red propose The Witcher 3 Remastered gratuitement à celles et ceux qui possèdent l’original. Enfin, Dragon Ball Super sera plus beau, plus fluide, bref, plus mieux. Et ça, c’est super.",
-          "url": "https://www.numerama.com/pop-culture/2325789-wonder-woman-lave-son-linge-sale-the-witcher-3-se-montre-genereux-et-dragon-ball-super-a-droit-a-un-joli-lifting-cest-le-recap-pop-culture-de-la-semaine.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2020/06/405773-jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg?resize=1600,900&key=f255f464",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-09-05T08:45:00.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.970Z"
+          "fetchedAt": "2026-09-07T04:51:02.787Z"
         },
         {
           "id": "2026-09-05-65fe7d2f",
@@ -206,37 +272,26 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-09-05T06:25:06.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.814Z"
-        },
-        {
-          "id": "2026-09-04-45985259",
-          "title": "Piratage du site des impôts : l’ombre de « ChatNoir », un jeune homme de 18 ans plusieurs fois mis en examen",
-          "description": "Un suspect a été mis en examen le 20 août et placé en détention provisoire dans l’enquête sur les attaques informatiques ayant visé la direction générale des finances publiques. Il est déjà poursuivi dans plusieurs affaires retentissantes de piratage et de vol de données.",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/04/piratage-du-site-des-impots-l-ombre-de-chatnoir-pirate-juvenile-multi-mis-en-examen_6765819_3224.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-04T15:29:41.000Z",
-          "fetchedAt": "2026-09-06T04:47:20.814Z"
+          "fetchedAt": "2026-09-07T04:51:02.575Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Live music to raise cash for Christmas dinners",
+      "id": "cluster-2",
+      "topic": "Impôt sur le revenu : l’art d’ajuster son taux de prélèvement à la source",
       "category": "eco",
-      "importance": 5,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-09-05-64b82256",
-          "title": "Live music to raise cash for Christmas dinners",
-          "description": "Proceeds from the event help fund Christmas for families struggling financially in the South East.",
-          "url": "https://www.bbc.co.uk/news/articles/crl6dw4pzexo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba95/live/c9e13100-a873-11f1-824a-0fc4c5d895ae.jpg",
-          "source": "BBC Business",
+          "id": "2026-09-07-b2f04749",
+          "title": "Impôt sur le revenu : l’art d’ajuster son taux de prélèvement à la source",
+          "description": "Le contribuable peut modifier lui-même ce taux sur le site Internet des impôts, afin de l’adapter à l’évolution de ses revenus ou de sa situation personnelle.",
+          "url": "https://www.lemonde.fr/argent/article/2026/09/07/impot-sur-le-revenu-l-art-d-ajuster-son-taux-de-prelevement-a-la-source_6767767_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-09-05T06:03:29.000Z",
-          "fetchedAt": "2026-09-06T04:47:28.295Z"
+          "publishedAt": "2026-09-07T04:00:11.000Z",
+          "fetchedAt": "2026-09-07T04:51:11.964Z"
         }
       ]
     }
