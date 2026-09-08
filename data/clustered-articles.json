@@ -1,297 +1,209 @@
 {
-  "generatedAt": "2026-09-07T04:54:54.645Z",
+  "generatedAt": "2026-09-08T04:50:33.166Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Victoire de l’AfD en Saxe-Anhalt : « Ulrich Siegmund nous a redonné un sentiment",
+      "id": "cluster-1",
+      "topic": "Brésil: une campagne pour la présidentielle d'octobre très polarisée",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-07-b3c447a1",
-          "title": "Victoire de l’AfD en Saxe-Anhalt : « Ulrich Siegmund nous a redonné un sentiment de cohésion, c’est ce qui nous manque en Allemagne »",
-          "description": "Les sympathisants, réunis à Magdebourg pour soutenir le candidat victorieux, espéraient que le parti d’extrême droite obtienne la majorité absolue aux élections régionales de Saxe-Anhalt. Avec près de 44 % des voix remportées, l’AfD atteint néanmoins un score historique.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/07/victoire-de-l-afd-en-saxe-anhalt-ulrich-siegmund-nous-a-redonne-un-sentiment-de-cohesion-c-est-ce-qui-nous-manque-en-allemagne_6767776_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T04:44:15.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.145Z"
-        },
-        {
-          "id": "2026-09-07-0e04dda2",
-          "title": "Allemagne: Ulrich Siegmund, l'homme derrière la victoire de l'extrême droite en Saxe-Anhalt",
-          "description": "Il dit « marquer l'histoire ». Ulrich Siegmund, 35 ans, est donné le net vainqueur des élections du Land de Saxe-Anhalt, et pourrait permettre à l'extrême droite allemande de s'emparer de sa première région depuis 1945.",
-          "url": "https://www.rfi.fr/fr/europe/20260907-allemagne-ulrich-siegmund-l-homme-derri%C3%A8re-la-victoire-afd-extr%C3%AAme-droite-en-saxe-anhalt",
-          "imageUrl": "https://s.rfi.fr/media/display/a8713078-aa72-11f1-8d78-005056bf30b7/w:1024/p:16x9/AP26249342617188.jpg",
+          "id": "2026-09-08-046f21b1",
+          "title": "Brésil: une campagne pour la présidentielle d'octobre très polarisée",
+          "description": "Le Brésil commémorait son indépendance, en 1822, lundi 7 septembre. Les deux principaux candidats à la présidentielle, Lula da Silva et Flávio Bolsonaro se sont affrontés à 1000 kilomètres de distance à moins d’un mois du 1er tour, alors que le président sortant et son principal opposant sont au coude à coude dans les sondages.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260908-br%C3%A9sil-campagne-pr%C3%A9sidentielle-d-octobre-tr%C3%A8s-polaris%C3%A9e-lula-flavio-bolsonaro-ingerence-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/903d20f8-99f0-11f1-b0e7-005056a97e36/w:1024/p:16x9/000-C4RD2TA.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-07T04:25:01.000Z",
-          "fetchedAt": "2026-09-07T04:51:03.073Z"
+          "publishedAt": "2026-09-08T04:35:05.000Z",
+          "fetchedAt": "2026-09-08T04:46:36.644Z"
         },
         {
-          "id": "2026-09-07-bf57eae5",
-          "title": "L’extrême droite allemande réalise une percée « historique » en Saxe-Anhalt",
-          "description": "L’AfD a obtenu un score de près de 44 % dans ce Land de l’ex-Allemagne de l’Est, devançant largement les conservateurs de la CDU (17,2 %). N’ayant pas obtenu la majorité absolue, le parti n’est toutefois pas assuré de pouvoir gouverner. Mais pour la presse européenne, ce scrutin marque un « tournant décisif » et place désormais l’extrême droite allemande aux portes du pouvoir.",
-          "url": "https://www.courrierinternational.com/article/politique-l-extreme-droite-allemande-realise-une-percee-historique-en-saxe-anhalt_268260",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/06/23/0/4889/3259/1200/630/60/0/cb79744_ftp-1-ujcvl27leqbb-afp-c7hk6pt.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T04:13:33.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.118Z"
-        },
-        {
-          "id": "2026-09-07-e7354262",
-          "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-          "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-          "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3b/live/72883ac0-aa67-11f1-b26f-b3549bd39fba.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T04:07:23.000Z",
-          "fetchedAt": "2026-09-07T04:51:02.725Z"
-        },
-        {
-          "id": "2026-09-07-0ff4602d",
-          "title": "« La paupérisation des étudiants ne détruit pas seulement le quotidien des jeunes, elle hypothèque l’avenir de notre pays »",
-          "description": "Une trentaine de vice-présidents et d’élus de centres régionaux des œuvres universitaires et scolaires (Crous) appellent, dans une tribune au « Monde », à une réforme structurelle pour que l’ensemble de la population étudiante puisse étudier sans subir de pression financière, indépendamment de ses études ou de sa situation familiale.",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/07/la-pauperisation-des-etudiants-ne-detruit-pas-seulement-le-quotidien-des-jeunes-elle-hypotheque-l-avenir-de-notre-pays_6767768_3232.html",
+          "id": "2026-09-08-a2d5a786",
+          "title": "Rosalia, Bad Bunny et Shakira convertissent les Brésiliens à la musique hispanophone",
+          "description": "Largement dominé par les artistes locaux et réputé impénétrable, le marché musical du Brésil commence à s’ouvrir aux artistes en langue espagnole, longtemps négligés en raison notamment de la barrière linguistique.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/08/rosalia-bad-bunny-et-shakira-convertissent-les-bresiliens-a-la-musique-hispanophone_6768064_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-07T04:00:13.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.145Z"
-        },
-        {
-          "id": "2026-09-07-22427ec5",
-          "title": "En Allemagne, l’extrême droite réalise une performance historique lors d’élections régionales en Saxe-Anhalt",
-          "description": "Le parti Alternative für Deutschland (AfD), fondé en 2013, a enregistré, dimanche, le meilleur résultat de son histoire dans ce Land de l’ancienne Allemagne de l’Est, tandis que le parti du chancelier Friedrich Merz s’effondre. Il n’est toutefois pas certain que l’AfD soit en position de gouverner.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/07/en-allemagne-l-extreme-droite-realise-une-performance-historique-lors-d-elections-regionales-en-saxe-anhalt_6767759_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T03:29:04.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.145Z"
+          "publishedAt": "2026-09-08T03:30:06.000Z",
+          "fetchedAt": "2026-09-08T04:46:32.549Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Guerre en Ukraine : des propositions américaines « plus efficaces », selon la pr",
+      "id": "cluster-2",
+      "topic": "Conflit commercial avec les Etats-Unis : les mesures du Canada contre des produi",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-07-60d34d79",
-          "title": "Guerre en Ukraine : des propositions américaines « plus efficaces », selon la présidence ukrainienne",
-          "description": "Les émissaires américains Steve Witkoff et Jared Kushner étaient à Kiev dimanche. Les négociations bloquent sur la question territoriale, Moscou exigeant que l’armée ukrainienne se retire entièrement de la région orientale de Donetsk, ce que Kiev refuse.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/07/guerre-en-ukraine-des-propositions-americaines-plus-efficaces-selon-la-presidence-ukrainienne_6767772_3210.html",
+          "id": "2026-09-08-2628d8f7",
+          "title": "Conflit commercial avec les Etats-Unis : les mesures du Canada contre des produits américains entrent en vigueur mardi",
+          "description": "Le conflit commercial entre les deux voisins a atteint un niveau sans précédent depuis la rupture le 21 août par le premier ministre canadien, Mark Carney, des négociations avec la Maison Blanche.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/08/conflit-commercial-avec-les-etats-unis-les-mesures-du-canada-contre-des-produits-americains-entrent-en-vigueur-mardi_6768107_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-07T04:27:55.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.145Z"
+          "publishedAt": "2026-09-08T04:27:27.000Z",
+          "fetchedAt": "2026-09-08T04:46:32.549Z"
         },
         {
-          "id": "2026-09-07-3404ea88",
-          "title": "Accident à l’aéroport de Miami, guerre en Ukraine, Yémen, Cisjordanie : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-accident-a-l-aeroport-de-miami-guerre-en-ukraine-yemen-cisjordanie-les-informations-de-la-nuit_268227",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/06/0/0/3900/2600/1200/630/60/0/38c0619_ftp-1-6mfnjhxjf0ox-afp-c7hk7md.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T03:00:09.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.118Z"
-        },
-        {
-          "id": "2026-09-06-15bd81f6",
-          "title": "Pourparlers à Kiev : des propositions américaines \"plus efficaces\", pour la présidence ukrainienne",
-          "description": "Les émissaires américains Steve Witkoff et Jared Kushner ont rencontré dimanche à Kiev le président ukrainien Volodymyr Zelensky, dans le cadre d'une nouvelle tentative des États-Unis de mettre fin à quatre ans et demi de guerre. Ils ont présenté de nouvelles propositions \"plus efficaces\", rapporte la présidence ukrainienne.",
-          "url": "https://www.france24.com/fr/europe/20260906-pourparlers-kiev-ukraine-russie-propositions-americaines-plus-efficaces-zelensky-volodymyr-jared-kushner-steve-witkoff-etats-unis-guerre",
-          "imageUrl": "https://s.france24.com/media/display/b48393d2-aa46-11f1-93e0-005056a97e36/w:1024/p:16x9/000-C7H37XW.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-06T23:13:29.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.541Z"
-        },
-        {
-          "id": "2026-09-06-e51208de",
-          "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-          "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-          "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0b8/live/737c2df0-aa36-11f1-aed2-8d6da8d75094.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-06T20:41:58.000Z",
-          "fetchedAt": "2026-09-07T04:51:02.725Z"
-        },
-        {
-          "id": "2026-09-06-876aa2bd",
-          "title": "Guerre en Ukraine: les émissaires américains appellent Kiev et Moscou au compromis",
-          "description": "Les premières discussions à Kiev avec le président ukrainien Volodymyr Zelensky ont été « très significatives », a déclaré dimanche 6 septembre Steve Witkoff, l'un des deux émissaires américains, porteurs selon Donald Trump d'une proposition destinée à mettre fin au conflit avec la Russie.",
-          "url": "https://www.rfi.fr/fr/europe/20260906-guerre-en-ukraine-les-%C3%A9missaires-am%C3%A9ricains-appellent-kiev-et-moscou-au-compromis",
-          "imageUrl": "https://s.rfi.fr/media/display/4a73ffcc-aa14-11f1-a383-005056bf30b7/w:1024/p:16x9/2026-09-06T161603Z-101622345-RC2RDNA8KIPV-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS.jpg",
+          "id": "2026-09-07-6aa5fbec",
+          "title": "Le secrétaire d'État américain Marco Rubio entame une tournée en Amérique latine",
+          "description": "Le secrétaire d’État américain débute mardi 7 septembre une tournée en Amérique latine qui le conduira en Colombie, en Équateur et au Pérou. Marco Rubio devrait y rencontrer les dirigeants conservateurs, pour certains investis il y a quelques semaines à peine, qui partagent de nombreuses positions de Donald Trump. L’objectif : renforcer les alliances existantes dans l’économie ou la lutte contre le narcotrafic.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260907-le-secr%C3%A9taire-d-%C3%A9tat-am%C3%A9ricain-marco-rubio-entame-une-tourn%C3%A9e-en-am%C3%A9rique-latine",
+          "imageUrl": "https://s.rfi.fr/media/display/99805778-ab04-11f1-a8d9-005056a97e36/w:1024/p:16x9/AP26246488319167.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-06T17:11:39.000Z",
-          "fetchedAt": "2026-09-07T04:51:03.073Z"
+          "publishedAt": "2026-09-07T22:39:55.000Z",
+          "fetchedAt": "2026-09-08T04:46:36.644Z"
         },
         {
-          "id": "2026-09-06-bbe761b8",
-          "title": "EN DIRECT, guerre en Ukraine : les premières discussions avec Volodymyr Zelensky ont été « très significatives », a déclaré Steve Witkoff, en visite à Kiev avec Jared Kushner",
-          "description": "Une session de pourparlers impliquant les deux envoyés américains, la délégation ukrainienne et des responsables européens pour la sécurité nationale se tient dimanche soir dans la capitale ukrainienne.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-le-president-ukrainien-volodymyr-zelensky-rencontre-les-emissaires-americains-jared-kushner-et-steve-witkoff-a-kiev_6766818_3210.html",
+          "id": "2026-09-07-0489620a",
+          "title": "Donald Trump menace de s'en prendre aux ventes de l'avionneur canadien Bombardier aux États-Unis",
+          "description": "Donald Trump a menacé lundi 7 septembre de s'en prendre aux ventes de l'avionneur canadien Bombardier, à quelques heures de l'entrée en vigueur de surtaxes canadiennes touchant une série de produits américains, en plein conflit commercial entre les deux voisins.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260907-donald-trump-menace-de-s-en-prendre-aux-ventes-de-l-avionneur-canadien-bombardier-aux-%C3%A9tats-unis",
+          "imageUrl": "https://s.rfi.fr/media/display/429b2242-aaed-11f1-85f9-005056a90284/w:1024/p:16x9/AP26247675989559.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-07T20:22:17.000Z",
+          "fetchedAt": "2026-09-08T04:46:36.644Z"
+        },
+        {
+          "id": "2026-09-07-3c3259e4",
+          "title": "Pétrole : au Venezuela, l’équation impossible de Washington",
+          "description": "Les modalités de l’accord pétrolier conclu entre Washington et Caracas restent floues. La mainmise des Etats-Unis sur les réserves vénézuéliennes ne permettra pas de compenser dans l’immédiat les barils perdus au Moyen-Orient.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/07/petrole-au-venezuela-l-equation-impossible-de-washington_6767983_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-06T14:30:05.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.145Z"
+          "publishedAt": "2026-09-07T17:11:59.000Z",
+          "fetchedAt": "2026-09-08T04:46:32.549Z"
+        },
+        {
+          "id": "2026-09-07-3eef7811",
+          "title": "Un \"vent de panique\" : avec la victoire de l'AfD en Saxe-Anhalt, les étrangers redoutent un tournant",
+          "description": "À l'approche des élections régionales en Saxe-Anhalt, remportées dimanche par l'AfD, de nombreux étrangers installés en Allemagne redoutaient déjà les conséquences d'une victoire de l'extrême droite. Amara Makhoul, rédactrice en chef d'InfoMigrants, revient lundi sur les mesures promises par le parti et les inquiétudes qu'elles suscitent.",
+          "url": "https://www.france24.com/fr/europe/20260907-vent-panique-victoire-afd-saxe-anhalt-%C3%A9trangers-redoutent-tournant-extr%C3%AAme-droite",
+          "imageUrl": "https://s.france24.com/media/display/a011c218-aac1-11f1-bd96-005056a90284/w:1024/p:16x9/AP26249584589925.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-07T16:16:58.000Z",
+          "fetchedAt": "2026-09-08T04:46:32.613Z"
+        },
+        {
+          "id": "2026-09-07-dbb04794",
+          "title": "Gloria Steinem : les Américaines peuvent lui dire merci !",
+          "description": "Disparue le 2 septembre, la journaliste et militante féministe a transformé le quotidien des Américaines – même si celles-ci ne le savent pas toujours, écrit la journaliste Robin Abcarian dans le “Los Angeles Times”. Un héritage aujourd’hui en péril.",
+          "url": "https://www.courrierinternational.com/article/hommage-gloria-steinem-les-americaines-peuvent-lui-dire-merci_267535",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/03/1/0/4710/3140/1200/630/60/0/c7ed951_ftp-1-emxbbsgjt8dm-2026-09-03t102208z-1868969198-rc24fu95mu5c-rtrmadp-3-people-gloria-steinem.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-07T15:14:33.000Z",
+          "fetchedAt": "2026-09-08T04:46:32.673Z"
         }
       ]
     },
     {
       "id": "cluster-4",
-      "topic": "Deux fils de l’ex-président du Yémen jugés en France dans une affaire de «biens ",
+      "topic": "EN DIRECT, guerre en Ukraine : la Russie reprend ses frappes sur Kiev faisant au",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-07-7d82bedd",
-          "title": "Deux fils de l’ex-président du Yémen jugés en France dans une affaire de «biens mal acquis» présumés",
-          "description": "Le procès d’Ahmed et Khaled Saleh, fils de l’ancien président du Yémen Ali Abdallah Saleh, s’ouvre ce lundi 7 septembre devant le tribunal correctionnel de Paris. Poursuivis pour blanchiment de détournement de fonds publics et de corruption en bande organisée, ils sont accusés d'avoir acquis des biens immobiliers de luxe à Paris pour un montant total de 16 millions d’euros, issus de la captation massive d’argent public dans leur pays. Ce qu’ils contestent.",
-          "url": "https://www.rfi.fr/fr/france/20260907-deux-fils-pr%C3%A9sident-y%C3%A9men-jug%C3%A9s-en-france-dans-une-affaire-de-biens-mal-acquis-pr%C3%A9sum%C3%A9s",
-          "imageUrl": "https://s.rfi.fr/media/display/f1b72bf2-4551-11f0-837e-005056bfb2b6/w:1024/p:16x9/france-palais-justice-interieur.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T04:16:08.000Z",
-          "fetchedAt": "2026-09-07T04:51:03.073Z"
-        },
-        {
-          "id": "2026-09-07-11f82593",
-          "title": "Ino Casablanca, l’“inarrêtable” rappeur français qui chante la réalité sociale",
-          "description": "L’ascension sur la scène rap de cet artiste de 25 ans “semble impossible à freiner”, constate la journaliste du magazine suisse “Republik”, qui a assisté à l’un de ses concerts à Bruxelles. Avec ses chansons aux textes réfléchis, aux sonorités euphorisantes et dans lesquelles il franchit les “frontières linguistiques”, Ino Casablanca est le “symbole d’une génération qui s’est politisée sans perdre le goût de la fête”.",
-          "url": "https://www.courrierinternational.com/article/vu-de-suisse-ino-casablanca-l-inarretable-rappeur-francais-qui-chante-la-realite-sociale_261804",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/03/0/0/7129/4752/1200/630/60/0/8e3ee83_upload-1-cdm1wymkl3m0-000-87mv8kf.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T03:00:27.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.118Z"
-        },
-        {
-          "id": "2026-09-06-7d087e0d",
-          "title": "France: pour sa dernière édition, l'événement caritatif ZEvent récolte la somme record de 30 millions d'euros",
-          "description": "Pour sa dixième et dernière édition, le marathon caritatif de streameurs ZEvent a récolté plus de 30 millions d'euros de dons. Organisé du 4 au 6 septembre, à Montpellier, l'événement a réuni plus de 80 streameurs sur place et 200 autres à distance. Une édition qui a donc permis de lever une somme record de dons au profit de 22 associations.",
-          "url": "https://www.rfi.fr/fr/france/20260906-france-pour-sa-derni%C3%A8re-%C3%A9dition-l-%C3%A9v%C3%A9nement-caritatif-zevent-r%C3%A9colte-la-somme-record-de-30-millions-d-euros",
-          "imageUrl": "https://s.rfi.fr/media/display/ae4a4a9c-aa4b-11f1-8443-005056bf30b7/w:1024/p:16x9/Screenshot-2026-09-07-013357.png",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-06T23:37:12.000Z",
-          "fetchedAt": "2026-09-07T04:51:03.073Z"
-        },
-        {
-          "id": "2026-09-06-980e832e",
-          "title": "Le soufre, un marché toujours restreint après six mois de guerre au Moyen-Orient",
-          "description": "C'est un marché qui n'arrive pas à se relever : celui du soufre. Avant la guerre au Moyen-Orient, la région représentait plus de 40% du soufre et des produits sulfurés exportés dans le monde. Depuis le mois de mars, les exportations du Golfe se sont effondrées.",
-          "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20260906-le-soufre-un-march%C3%A9-toujours-restreint-apr%C3%A8s-six-mois-de-guerre-au-moyen-orient",
-          "imageUrl": "https://s.rfi.fr/media/display/01b9ed10-a9fa-11f1-a930-005056a90284/w:1024/p:16x9/AP4124455624802782.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-06T22:03:04.000Z",
-          "fetchedAt": "2026-09-07T04:51:03.073Z"
-        },
-        {
-          "id": "2026-09-06-2eb78d6f",
-          "title": "Agriculture et canicule: après un été noir, les aviculteurs cherchent la parade [1/3]",
-          "description": "C’est une hécatombe silencieuse : des millions d’animaux sont morts en France en raison des canicules à répétition cet été. Les volailles, particulièrement sensibles à la chaleur, ont payé un lourd tribut : 2 % du cheptel national a été touché, notamment en Bretagne. Après cet été meurtrier, les aviculteurs réfléchissent déjà à des solutions d’adaptation pour l’année prochaine.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20260906-agriculture-et-canicule-apr%C3%A8s-un-%C3%A9t%C3%A9-noir-les-aviculteurs-cherchent-la-parade-1-3",
-          "imageUrl": "https://s.rfi.fr/media/display/c7622b1a-a9fd-11f1-901f-005056bfb2b6/w:1024/p:16x9/DSC-0411.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-06T22:01:31.000Z",
-          "fetchedAt": "2026-09-07T04:51:03.073Z"
-        },
-        {
-          "id": "2026-09-06-1d8437a4",
-          "title": "Avant sa venue à Paris, le président sud-coréen, Lee Jae-myung, plaide pour une coopération internationale « fondée sur des valeurs communes »",
-          "description": "Le président sud-coréen, Lee Jae-myung, est en visite en France du dimanche 6 au mardi 8 septembre. Dans un entretien accordé au « Monde », le dirigeant progressiste revient sur le renforcement des liens politiques, économiques et culturels avec la France. Il évoque aussi la diplomatie et sa gestion de la crise politique qui a secoué son pays.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/06/avant-sa-venue-a-paris-le-president-sud-coreen-lee-jae-myung-plaide-pour-une-cooperation-internationale-fondee-sur-des-valeurs-communes_6767624_3210.html",
+          "id": "2026-09-08-123d4b09",
+          "title": "EN DIRECT, guerre en Ukraine : la Russie reprend ses frappes sur Kiev faisant au moins deux morts et sept blessés",
+          "description": "De fortes explosions ont été entendues tôt mardi dans la capitale ukrainienne et l’administration militaire a fait état d’une attaque de missiles. Sur le volet des pourparlers visant à mettre fin au conflit, Volodymyr Zelensky a évoqué la possibilité d’une nouvelle session de négociations trilatérales.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/08/en-direct-guerre-en-ukraine-la-russie-reprend-ses-frappes-sur-kiev-faisant-au-moins-deux-morts-et-sept-blesses_6766818_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-06T21:00:02.000Z",
-          "fetchedAt": "2026-09-07T04:50:54.145Z"
+          "publishedAt": "2026-09-08T03:57:06.000Z",
+          "fetchedAt": "2026-09-08T04:46:32.549Z"
+        },
+        {
+          "id": "2026-09-08-423f0f7c",
+          "title": "“Il faut que je puisse me défendre moi-même” : en Pologne, la grande peur des Ukrainiennes",
+          "description": "À Varsovie, les réfugiées sont de plus en plus nombreuses à s’inscrire à des cours de boxe ou de krav maga alors que la montée de l’hostilité envers les ressortissants ukrainiens dans le pays débouche sur des agressions de plus en plus nombreuses, explique “Gazeta Wyborcza”.",
+          "url": "https://www.courrierinternational.com/article/temoignages-il-faut-que-je-puisse-me-defendre-moi-meme-en-pologne-la-grande-peur-des-ukrainiennes_264498",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/04/0/0/2400/1600/1200/630/60/0/8ebba72_upload-1-kwwms4qlpgfu-falco-2016-01-05-9055-w.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-08T03:00:21.000Z",
+          "fetchedAt": "2026-09-08T04:46:32.673Z"
+        },
+        {
+          "id": "2026-09-08-bc28aef2",
+          "title": "En direct : la Russie reprend ses frappes sur Kiev après trois jours de trêve",
+          "description": "De fortes explosions ont été entendues tôt mardi à Kiev, ont constaté des journalistes de l'AFP, alors qu'a expiré dans la nuit une suspension de trois jours des frappes russes sur la capitale ukrainienne. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20260908-en-direct-ukraine-russie-reprend-frappes-kiev-apres-trois-jours-treve",
+          "imageUrl": "https://s.france24.com/media/display/555fbd70-ab24-11f1-8c72-005056a90284/w:1024/p:16x9/AP26249445127234.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-08T01:27:32.000Z",
+          "fetchedAt": "2026-09-08T04:46:32.613Z"
+        },
+        {
+          "id": "2026-09-07-933acbe6",
+          "title": "Russie-Ukraine : le Kremlin dit \"ne pas exclure\" une reprise des négociations",
+          "description": "Après des semaines d'absence totale d'échange entre la Russie, l'Ukraine et les Etats-Unis, dus à la guerre en Iran, les discussions ont repris, d'abord à Moscou, puis à Kiev. Le président ukrainien a indiqué, ce lundi 7 septembre, préparer la suite des négociations après la visite des envoyés de Donald Trump pour tenter de relancer le processus diplomatique visant à mettre fin à l'invasion russe de l'Ukraine.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-russie-ukraine-le-kremlin-dit-ne-pas-exclure-une-reprise-des-n%C3%A9gociations",
+          "imageUrl": "https://s.france24.com/media/display/b48393d2-aa46-11f1-93e0-005056a97e36/w:1024/p:16x9/000-C7H37XW.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-07T15:24:00.000Z",
+          "fetchedAt": "2026-09-08T04:46:32.613Z"
+        },
+        {
+          "id": "2026-09-07-dc09acde",
+          "title": "Guerre en Ukraine: Kiev prépare la suite des négociations après la visite des émissaires américains",
+          "description": "Le président ukrainien a indiqué lundi 7 septembre préparer la suite des négociations après la visite des envoyés de Donald Trump à Moscou et Kiev pour tenter de relancer le processus diplomatique visant à mettre fin à l'invasion russe de l'Ukraine. Il n'a cependant pas semblé optimiste sur une potentielle fin de la guerre.",
+          "url": "https://www.rfi.fr/fr/europe/20260907-guerre-en-ukraine-kiev-pr%C3%A9pare-la-suite-des-n%C3%A9gociations-apr%C3%A8s-la-visite-des-%C3%A9missaires-am%C3%A9ricains",
+          "imageUrl": "https://s.rfi.fr/media/display/d9f5eb36-aac0-11f1-b22b-005056bfb2b6/w:1024/p:16x9/AP26249603404624.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-07T13:58:40.000Z",
+          "fetchedAt": "2026-09-08T04:46:36.644Z"
         }
       ]
     },
     {
-      "id": "cluster-10",
-      "topic": "Intelligence artificielle : « Une rupture pourrait intervenir si les modèles dev",
+      "id": "cluster-1",
+      "topic": "Pourquoi les employeurs ne doivent pas attendre pour identifier et réguler les s",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-09-06-c8f5cf63",
-          "title": "Intelligence artificielle : « Une rupture pourrait intervenir si les modèles devenaient eux-mêmes capables d’accélérer leur propre progression »",
-          "description": "Entre les Etats-Unis et la Chine, qui va gagner la course à l’IA ? Georges Nahon, ancien directeur général d’Orange Labs, explique, dans une tribune au « Monde », que les modèles de langage, leur financement, leur développement ainsi que leur finalité, notamment pour les enjeux de défense, sont en évolution permanente.",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/06/intelligence-artificielle-une-rupture-pourrait-intervenir-si-les-modeles-devenaient-eux-memes-capables-d-accelerer-leur-propre-progression_6767376_3232.html",
+          "id": "2026-09-08-9ec88d65",
+          "title": "Pourquoi les employeurs ne doivent pas attendre pour identifier et réguler les systèmes d’IA « à haut risque »",
+          "description": "Les services des ressources humaines doivent, d’ici à la fin 2027, recenser et clarifier les systèmes d’intelligence artificielle utilisés par leurs services, et informer les salariés, conseille le juriste Jean-Emmanuel Ray, qui revient dans sa chronique sur la partie concernant le travail de l’« AI Act ».",
+          "url": "https://www.lemonde.fr/emploi/article/2026/09/08/pourquoi-les-employeurs-ne-doivent-pas-attendre-pour-identifier-et-reguler-les-systemes-d-ia-a-haut-risque_6768102_1698637.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-09-06T15:00:11.000Z",
-          "fetchedAt": "2026-09-07T04:51:02.575Z"
-        },
-        {
-          "id": "2026-09-05-c8f87dda",
-          "title": "Netflix abandonne sa série Donjons & Dragons pour un projet gothique sur le vampire Strahd",
-          "description": "Netflix abandonne son projet de série Donjons & Dragons dans les Royaumes oubliés et le remplace aussitôt par Ravenloft, centrée sur les origines d'un seigneur vampire. Une valse de projets qui en dit long sur la difficulté d'adapter le jeu de rôle à l'écran.",
-          "url": "https://www.numerama.com/pop-culture/2325687-netflix-abandonne-sa-serie-donjons-dragons-pour-un-projet-gothique-sur-le-vampire-strahd.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/ravenloft.jpg?resize=1600,900&key=c3191eb0",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-09-05T15:00:00.000Z",
-          "fetchedAt": "2026-09-07T04:51:02.787Z"
-        },
-        {
-          "id": "2026-09-05-9102dc3b",
-          "title": "C’est la plus grande carte des champs magnétiques cosmiques jamais réalisée, grâce à un radiotélescope australien",
-          "description": "Une carte des champs magnétiques cosmiques a été réalisée avec un télescope radio australien, le plus puissant du monde.",
-          "url": "https://www.numerama.com/sciences/2323279-cest-la-plus-grande-carte-des-champs-magnetiques-cosmiques-jamais-realisee-grace-a-un-radiotelescope-australien.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/cosmos-une-carte.jpg?resize=1600,900&key=d8f98ea3",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-09-05T13:31:00.000Z",
-          "fetchedAt": "2026-09-07T04:51:02.787Z"
-        },
-        {
-          "id": "2026-09-05-65fe7d2f",
-          "title": "OpenAI : des agents IA ont détourné un site Internet plusieurs mois avant le piratage d’Hugging Face, selon des chercheurs",
-          "description": "Ces agents avaient l’autorisation de se rendre sur Internet, mais uniquement à des fins de consultation, pas pour poster du contenu ou en modifier. OpenAI dit « étudier » le rapport, diffusé par un collectif indépendant.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/05/openai-des-agents-ia-ont-detourne-un-site-internet-plusieurs-mois-avant-le-piratage-d-hugging-face-selon-des-chercheurs_6766242_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-05T06:25:06.000Z",
-          "fetchedAt": "2026-09-07T04:51:02.575Z"
+          "publishedAt": "2026-09-08T04:00:09.000Z",
+          "fetchedAt": "2026-09-08T04:46:36.592Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Impôt sur le revenu : l’art d’ajuster son taux de prélèvement à la source",
+      "id": "cluster-3",
+      "topic": "'I performed on stage to get my first job' - the firms turning recruitment into ",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-07-b2f04749",
-          "title": "Impôt sur le revenu : l’art d’ajuster son taux de prélèvement à la source",
-          "description": "Le contribuable peut modifier lui-même ce taux sur le site Internet des impôts, afin de l’adapter à l’évolution de ses revenus ou de sa situation personnelle.",
-          "url": "https://www.lemonde.fr/argent/article/2026/09/07/impot-sur-le-revenu-l-art-d-ajuster-son-taux-de-prelevement-a-la-source_6767767_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-09-07-f6f1d24b",
+          "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+          "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+          "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-07T04:00:11.000Z",
-          "fetchedAt": "2026-09-07T04:51:11.964Z"
+          "publishedAt": "2026-09-07T23:06:14.000Z",
+          "fetchedAt": "2026-09-08T04:46:41.760Z"
         }
       ]
     }
