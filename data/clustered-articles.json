@@ -1,209 +1,231 @@
 {
-  "generatedAt": "2026-09-08T04:50:33.166Z",
+  "generatedAt": "2026-09-09T04:53:52.612Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Brésil: une campagne pour la présidentielle d'octobre très polarisée",
+      "topic": "EN DIRECT - Moyen-Orient: Téhéran dit avoir attaqué deux navires américains et h",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-08-046f21b1",
-          "title": "Brésil: une campagne pour la présidentielle d'octobre très polarisée",
-          "description": "Le Brésil commémorait son indépendance, en 1822, lundi 7 septembre. Les deux principaux candidats à la présidentielle, Lula da Silva et Flávio Bolsonaro se sont affrontés à 1000 kilomètres de distance à moins d’un mois du 1er tour, alors que le président sortant et son principal opposant sont au coude à coude dans les sondages.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260908-br%C3%A9sil-campagne-pr%C3%A9sidentielle-d-octobre-tr%C3%A8s-polaris%C3%A9e-lula-flavio-bolsonaro-ingerence-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/903d20f8-99f0-11f1-b0e7-005056a97e36/w:1024/p:16x9/000-C4RD2TA.jpg",
+          "id": "2026-09-09-45ed5649",
+          "title": "EN DIRECT - Moyen-Orient: Téhéran dit avoir attaqué deux navires américains et huit pétroliers",
+          "description": "Les Gardiens de la Révolution, armée idéologique de l'Iran, ont dit mercredi avoir attaqué une base militaire des Etats-Unis en Jordanie ainsi qu'une vingtaine de bateaux dans le Golfe, en réponse à des frappes américaines contre des pétroliers iraniens.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260909-en-direct-moyen-orient-t%C3%A9h%C3%A9ran-dit-avoir-attaqu%C3%A9-deux-navires-am%C3%A9ricains-et-huit-p%C3%A9troliers",
+          "imageUrl": "https://s.rfi.fr/media/display/22101e7c-ac07-11f1-a368-005056a97e36/w:1024/p:16x9/000-C7F89G6.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-08T04:35:05.000Z",
-          "fetchedAt": "2026-09-08T04:46:36.644Z"
+          "publishedAt": "2026-09-09T04:36:21.000Z",
+          "fetchedAt": "2026-09-09T04:49:56.220Z"
         },
         {
-          "id": "2026-09-08-a2d5a786",
-          "title": "Rosalia, Bad Bunny et Shakira convertissent les Brésiliens à la musique hispanophone",
-          "description": "Largement dominé par les artistes locaux et réputé impénétrable, le marché musical du Brésil commence à s’ouvrir aux artistes en langue espagnole, longtemps négligés en raison notamment de la barrière linguistique.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/08/rosalia-bad-bunny-et-shakira-convertissent-les-bresiliens-a-la-musique-hispanophone_6768064_3210.html",
+          "id": "2026-09-09-9a84c3aa",
+          "title": "Droits de douane: après la riposte d'Ottawa, Donald Trump interdit l'importation de plusieurs produits canadiens",
+          "description": "Les États-Unis ont annoncé mardi 8 septembre une interdiction d'importation de plusieurs produits canadiens comme les boissons alcoolisées ou le lactosérum, quelques heures seulement après l'entrée en vigueur de la riposte douanière du Canada visant une série de produits américains. Une surtaxe de 50% s'appliquera également sur une nouvelle série de produits canadiens, selon des décrets présidentiels.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260909-droits-de-douane-apr%C3%A8s-la-riposte-d-ottawa-donald-trump-interdit-l-importation-de-plusieurs-produits-canadiens",
+          "imageUrl": "https://s.rfi.fr/media/display/7c55d4ee-abf8-11f1-8d81-005056bf30b7/w:1024/p:16x9/AP26251544568233.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T02:46:55.000Z",
+          "fetchedAt": "2026-09-09T04:49:56.220Z"
+        },
+        {
+          "id": "2026-09-09-fc21d1e2",
+          "title": "La Jordanie ciblée par Téhéran après des frappes américaines contre des pétroliers iraniens dans la région du Golfe",
+          "description": "« Toute attaque contre des pétroliers iraniens entraînera des frappes des forces armées de la République islamique d’Iran contre les bases américaines dans la région », a prévenu le chef d’état-major des forces armées iraniennes, le général Ali Abdollahi Aliabadi, cité par la télévision d’Etat.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/09/teheran-cible-la-jordanie-apres-des-frappes-americaines-contre-des-petroliers-iraniens-dans-la-region-du-golfe_6768518_3211.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-08T03:30:06.000Z",
-          "fetchedAt": "2026-09-08T04:46:32.549Z"
+          "publishedAt": "2026-09-09T00:10:35.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.083Z"
+        },
+        {
+          "id": "2026-09-08-e331cc9e",
+          "title": "« South Park » rebaptisé « South America » : la série satirique raille les changements de noms voulus par Donald Trump",
+          "description": "Les créateurs de la série se moquent aussi des géants Apple et Google, qui ont adopté, sur leurs cartes américaines, les nouvelles appellations attribuées par le président à plusieurs lieux, comme le lac Ontario.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-08T22:48:04.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.083Z"
+        },
+        {
+          "id": "2026-09-08-506c291c",
+          "title": "En direct : Téhéran frappe en Jordanie et dans le Golfe après des attaques sur des pétroliers iraniens",
+          "description": "Les Gardiens de la Révolution ont dit mercredi avoir attaqué une base militaire des États-Unis en Jordanie, ainsi qu'une vingtaine de bateaux dans le Golfe, en représailles à des frappes américaines qui ont détruit cinq navires pétroliers dans la région du Golfe. Un peu plus tôt, ils avaient également annoncé qu'ils allaient viser des tankers au Koweït et à Bahreïn, enjoignant les équipages à \"quitter leurs navires immédiatement\", selon l'agence officielle Irna. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260908-en-direct-etats-unis-detruit-cinq-petroliers-navires-iraniens-gardiens-revolution-menacent-koweit-bahrein-pays-golfe-detroit-ormuz",
+          "imageUrl": "https://s.france24.com/media/display/ba6a5e8a-abd5-11f1-b2e8-005056a97e36/w:1024/p:16x9/000-C7FA8KE.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-08T22:41:29.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.150Z"
+        },
+        {
+          "id": "2026-09-08-5566704b",
+          "title": "Droits de douane américains : la riposte du Canada entre en vigueur",
+          "description": "Les nouveaux droits de douane canadiens sont entrés en vigueur : environ 20 milliards de dollars d'importations en provenance des États-Unis sont désormais surtaxés. Il s'agit d'une riposte aux mesures décidées fin août par les États-Unis.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260908-droits-de-douane-am%C3%A9ricains-la-riposte-du-canada-entre-en-vigueur",
+          "imageUrl": "https://s.france24.com/media/display/bc364778-abbd-11f1-898b-005056bf30b7/w:1024/p:16x9/Francais-2026-09-08T18-19-11-671Z.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-08T19:57:02.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.150Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Conflit commercial avec les Etats-Unis : les mesures du Canada contre des produi",
+      "topic": "Mario Draghi, le « sphinx » qui continue d’imposer la feuille de route de l’Unio",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-08-2628d8f7",
-          "title": "Conflit commercial avec les Etats-Unis : les mesures du Canada contre des produits américains entrent en vigueur mardi",
-          "description": "Le conflit commercial entre les deux voisins a atteint un niveau sans précédent depuis la rupture le 21 août par le premier ministre canadien, Mark Carney, des négociations avec la Maison Blanche.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/08/conflit-commercial-avec-les-etats-unis-les-mesures-du-canada-contre-des-produits-americains-entrent-en-vigueur-mardi_6768107_3210.html",
+          "id": "2026-09-09-078b69cb",
+          "title": "Mario Draghi, le « sphinx » qui continue d’imposer la feuille de route de l’Union européenne",
+          "description": "A 79 ans, l’ancien président de la Banque centrale européenne, qui n’a pourtant plus aucun mandat, reste au cœur de la politique de l’UE. Insaisissable, volontiers secret, il sait jouer de sa capacité à parler à la fois aux dirigeants politiques, aux patrons et aux marchés financiers.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/09/mario-draghi-le-sphinx-qui-continue-d-imposer-la-feuille-de-route-de-l-union-europeenne_6768834_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-08T04:27:27.000Z",
-          "fetchedAt": "2026-09-08T04:46:32.549Z"
+          "publishedAt": "2026-09-09T04:30:06.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.083Z"
         },
         {
-          "id": "2026-09-07-6aa5fbec",
-          "title": "Le secrétaire d'État américain Marco Rubio entame une tournée en Amérique latine",
-          "description": "Le secrétaire d’État américain débute mardi 7 septembre une tournée en Amérique latine qui le conduira en Colombie, en Équateur et au Pérou. Marco Rubio devrait y rencontrer les dirigeants conservateurs, pour certains investis il y a quelques semaines à peine, qui partagent de nombreuses positions de Donald Trump. L’objectif : renforcer les alliances existantes dans l’économie ou la lutte contre le narcotrafic.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260907-le-secr%C3%A9taire-d-%C3%A9tat-am%C3%A9ricain-marco-rubio-entame-une-tourn%C3%A9e-en-am%C3%A9rique-latine",
-          "imageUrl": "https://s.rfi.fr/media/display/99805778-ab04-11f1-a8d9-005056a97e36/w:1024/p:16x9/AP26246488319167.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T22:39:55.000Z",
-          "fetchedAt": "2026-09-08T04:46:36.644Z"
-        },
-        {
-          "id": "2026-09-07-0489620a",
-          "title": "Donald Trump menace de s'en prendre aux ventes de l'avionneur canadien Bombardier aux États-Unis",
-          "description": "Donald Trump a menacé lundi 7 septembre de s'en prendre aux ventes de l'avionneur canadien Bombardier, à quelques heures de l'entrée en vigueur de surtaxes canadiennes touchant une série de produits américains, en plein conflit commercial entre les deux voisins.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260907-donald-trump-menace-de-s-en-prendre-aux-ventes-de-l-avionneur-canadien-bombardier-aux-%C3%A9tats-unis",
-          "imageUrl": "https://s.rfi.fr/media/display/429b2242-aaed-11f1-85f9-005056a90284/w:1024/p:16x9/AP26247675989559.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T20:22:17.000Z",
-          "fetchedAt": "2026-09-08T04:46:36.644Z"
-        },
-        {
-          "id": "2026-09-07-3c3259e4",
-          "title": "Pétrole : au Venezuela, l’équation impossible de Washington",
-          "description": "Les modalités de l’accord pétrolier conclu entre Washington et Caracas restent floues. La mainmise des Etats-Unis sur les réserves vénézuéliennes ne permettra pas de compenser dans l’immédiat les barils perdus au Moyen-Orient.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/07/petrole-au-venezuela-l-equation-impossible-de-washington_6767983_3234.html",
+          "id": "2026-09-09-fae64c2f",
+          "title": "En Israël, les révélations sur l’alerte reçue par Benyamin Nétanyahou avant le 7-Octobre provoquent un séisme politique",
+          "description": "Un livre à paraître assure que le premier ministre israélien aurait été informé « que le chef du Hamas à Gaza, Yahya Sinouar, planifiait une opération majeure contre Israël » par le président des Emirats arabes unis dix jours avant l’attaque.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/09/en-israel-les-revelations-sur-l-alerte-recue-par-benyamin-netanyahou-avant-le-7-octobre-provoquent-un-seisme-politique_6768832_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-07T17:11:59.000Z",
-          "fetchedAt": "2026-09-08T04:46:32.549Z"
+          "publishedAt": "2026-09-09T04:15:10.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.083Z"
         },
         {
-          "id": "2026-09-07-3eef7811",
-          "title": "Un \"vent de panique\" : avec la victoire de l'AfD en Saxe-Anhalt, les étrangers redoutent un tournant",
-          "description": "À l'approche des élections régionales en Saxe-Anhalt, remportées dimanche par l'AfD, de nombreux étrangers installés en Allemagne redoutaient déjà les conséquences d'une victoire de l'extrême droite. Amara Makhoul, rédactrice en chef d'InfoMigrants, revient lundi sur les mesures promises par le parti et les inquiétudes qu'elles suscitent.",
-          "url": "https://www.france24.com/fr/europe/20260907-vent-panique-victoire-afd-saxe-anhalt-%C3%A9trangers-redoutent-tournant-extr%C3%AAme-droite",
-          "imageUrl": "https://s.france24.com/media/display/a011c218-aac1-11f1-bd96-005056a90284/w:1024/p:16x9/AP26249584589925.jpg",
-          "source": "France 24",
+          "id": "2026-09-09-7dbfdf04",
+          "title": "Commémoration du 11-Septembre : « L’événement le plus photographié de l’histoire n’a paradoxalement donné lieu qu’à une poignée d’images »",
+          "description": "Il y a vingt-cinq ans, après les attaques du World Trade Center, on a vu les mêmes photos partout : un effet de la concentration des médias alors à l’œuvre aux Etats-Unis, explique l’historien de la photographie Clément Chéroux, dans un entretien au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/09/commemoration-du-11-septembre-l-evenement-le-plus-photographie-de-l-histoire-n-a-paradoxalement-donne-lieu-qu-a-une-poignee-d-images_6768827_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-07T16:16:58.000Z",
-          "fetchedAt": "2026-09-08T04:46:32.613Z"
+          "publishedAt": "2026-09-09T04:00:15.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.083Z"
         },
         {
-          "id": "2026-09-07-dbb04794",
-          "title": "Gloria Steinem : les Américaines peuvent lui dire merci !",
-          "description": "Disparue le 2 septembre, la journaliste et militante féministe a transformé le quotidien des Américaines – même si celles-ci ne le savent pas toujours, écrit la journaliste Robin Abcarian dans le “Los Angeles Times”. Un héritage aujourd’hui en péril.",
-          "url": "https://www.courrierinternational.com/article/hommage-gloria-steinem-les-americaines-peuvent-lui-dire-merci_267535",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/03/1/0/4710/3140/1200/630/60/0/c7ed951_ftp-1-emxbbsgjt8dm-2026-09-03t102208z-1868969198-rc24fu95mu5c-rtrmadp-3-people-gloria-steinem.JPG",
+          "id": "2026-09-09-41849b37",
+          "title": "Mao, l’héritage encombrant du fondateur de la Chine communiste",
+          "description": "Cinquante ans après la mort de Mao Zedong, comment la Chine gère-t-elle l’héritage ambivalent de cet ancien dirigeant ? Réponse dans ce podcast avec Harold Thibault, correspondant du « Monde » en Chine.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/09/09/mao-l-heritage-encombrant-du-fondateur-de-la-chine-communiste_6768822_5463015.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T03:30:17.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.083Z"
+        },
+        {
+          "id": "2026-09-09-3c6004ac",
+          "title": "Sous les bombes, Kiev est devenue une “ligne de front” comme le Donbass",
+          "description": "Depuis le mois de juillet, et particulièrement ces dernières semaines, la capitale ukrainienne est bombardée sans relâche par la Russie, qui a changé de stratégie en frappant à toute heure, et plus seulement la nuit. Ce qui commence à entamer lentement la résilience des habitants de Kiev, raconte le quotidien italien “La Stampa”.",
+          "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-sous-les-bombes-kiev-est-devenue-une-ligne-de-front-comme-le-donbass_268326",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/08/0/0/4929/3286/1200/630/60/0/33ee950_upload-1-yhflkrbfnclk-068-aa-08092026-2942654.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-07T15:14:33.000Z",
-          "fetchedAt": "2026-09-08T04:46:32.673Z"
+          "publishedAt": "2026-09-09T03:00:15.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.127Z"
+        },
+        {
+          "id": "2026-09-09-b18c8341",
+          "title": "Paris accueille un sommet sur l'espace pour renforcer le rôle de l'Europe dans le domaine",
+          "description": "Un sommet international sur le spatial à Paris s'ouvre ce mercredi 9 septembre au Grand Palais. Voulu par Emmanuel Macron et dans la même veine que celui sur l’intelligence artificielle, l'objectif de cette manifestation est de rassembler en France l'ensemble des acteurs qui travaillent sur l'espace en mélangeant acteurs institutionnels, gouvernements et acteurs économiques. Le domaine spatial est un thème en proie à de grandes mutations ces dernières années et à la multiplication des acteurs.",
+          "url": "https://www.rfi.fr/fr/france/20260909-paris-accueille-un-sommet-sur-l-espace-pour-renforcer-le-r%C3%B4le-de-l-europe-dans-le-domaine",
+          "imageUrl": "https://s.rfi.fr/media/display/5d1fa270-835b-11ef-9829-005056a97e36/w:1024/p:16x9/20241005_191947.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T03:00:06.000Z",
+          "fetchedAt": "2026-09-09T04:49:56.220Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "EN DIRECT, guerre en Ukraine : la Russie reprend ses frappes sur Kiev faisant au",
+      "id": "cluster-8",
+      "topic": "Hongkong : mort de Tung Chee-hwa, premier chef de l’exécutif après la rétrocessi",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-08-123d4b09",
-          "title": "EN DIRECT, guerre en Ukraine : la Russie reprend ses frappes sur Kiev faisant au moins deux morts et sept blessés",
-          "description": "De fortes explosions ont été entendues tôt mardi dans la capitale ukrainienne et l’administration militaire a fait état d’une attaque de missiles. Sur le volet des pourparlers visant à mettre fin au conflit, Volodymyr Zelensky a évoqué la possibilité d’une nouvelle session de négociations trilatérales.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/08/en-direct-guerre-en-ukraine-la-russie-reprend-ses-frappes-sur-kiev-faisant-au-moins-deux-morts-et-sept-blesses_6766818_3210.html",
+          "id": "2026-09-09-c521684f",
+          "title": "Hongkong : mort de Tung Chee-hwa, premier chef de l’exécutif après la rétrocession du territoire à la Chine",
+          "description": "L’ancien magnat du transport maritime désigné par Pékin pour prendre la tête de la ville après la rétrocession de la colonie britannique à la Chine est mort à l’âge de 89 ans.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/09/hong-kong-deces-de-tung-chee-hwa-premier-chef-de-l-executif-apres-la-retrocession-du-territoire-a-la-chine_6768824_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-08T03:57:06.000Z",
-          "fetchedAt": "2026-09-08T04:46:32.549Z"
+          "publishedAt": "2026-09-09T03:40:34.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.083Z"
         },
         {
-          "id": "2026-09-08-423f0f7c",
-          "title": "“Il faut que je puisse me défendre moi-même” : en Pologne, la grande peur des Ukrainiennes",
-          "description": "À Varsovie, les réfugiées sont de plus en plus nombreuses à s’inscrire à des cours de boxe ou de krav maga alors que la montée de l’hostilité envers les ressortissants ukrainiens dans le pays débouche sur des agressions de plus en plus nombreuses, explique “Gazeta Wyborcza”.",
-          "url": "https://www.courrierinternational.com/article/temoignages-il-faut-que-je-puisse-me-defendre-moi-meme-en-pologne-la-grande-peur-des-ukrainiennes_264498",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/04/0/0/2400/1600/1200/630/60/0/8ebba72_upload-1-kwwms4qlpgfu-falco-2016-01-05-9055-w.jpg",
+          "id": "2026-09-09-5225414c",
+          "title": "Cinquante ans après sa mort, Mao Zedong est l’un de ces tabous dont la Chine a le secret",
+          "description": "À une exception près, la presse chinoise était extrêmement discrète à l’approche de ce 9 septembre, jour anniversaire de la disparition de Mao Zedong en 1976, il y a cinquante ans. Une prudence à l’image de la perception qu’ont les Chinois de cette figure, fondatrice du régime actuel, mais dont l’autoritarisme trouve un héritier direct en  Jinping.",
+          "url": "https://www.courrierinternational.com/article/commemoration-cinquante-ans-apres-sa-mort-mao-zedong-est-l-un-de-ces-tabous-dont-la-chine-a-le-secret_268987",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/08/0/0/6192/4128/1200/630/60/0/c6e2200_ftp-1-1c6ojw58tigu-afp-c7ne2nq.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-08T03:00:21.000Z",
-          "fetchedAt": "2026-09-08T04:46:32.673Z"
+          "publishedAt": "2026-09-09T03:00:27.000Z",
+          "fetchedAt": "2026-09-09T04:49:52.127Z"
         },
         {
-          "id": "2026-09-08-bc28aef2",
-          "title": "En direct : la Russie reprend ses frappes sur Kiev après trois jours de trêve",
-          "description": "De fortes explosions ont été entendues tôt mardi à Kiev, ont constaté des journalistes de l'AFP, alors qu'a expiré dans la nuit une suspension de trois jours des frappes russes sur la capitale ukrainienne. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20260908-en-direct-ukraine-russie-reprend-frappes-kiev-apres-trois-jours-treve",
-          "imageUrl": "https://s.france24.com/media/display/555fbd70-ab24-11f1-8c72-005056a90284/w:1024/p:16x9/AP26249445127234.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-08T01:27:32.000Z",
-          "fetchedAt": "2026-09-08T04:46:32.613Z"
-        },
-        {
-          "id": "2026-09-07-933acbe6",
-          "title": "Russie-Ukraine : le Kremlin dit \"ne pas exclure\" une reprise des négociations",
-          "description": "Après des semaines d'absence totale d'échange entre la Russie, l'Ukraine et les Etats-Unis, dus à la guerre en Iran, les discussions ont repris, d'abord à Moscou, puis à Kiev. Le président ukrainien a indiqué, ce lundi 7 septembre, préparer la suite des négociations après la visite des envoyés de Donald Trump pour tenter de relancer le processus diplomatique visant à mettre fin à l'invasion russe de l'Ukraine.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-russie-ukraine-le-kremlin-dit-ne-pas-exclure-une-reprise-des-n%C3%A9gociations",
-          "imageUrl": "https://s.france24.com/media/display/b48393d2-aa46-11f1-93e0-005056a97e36/w:1024/p:16x9/000-C7H37XW.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-07T15:24:00.000Z",
-          "fetchedAt": "2026-09-08T04:46:32.613Z"
-        },
-        {
-          "id": "2026-09-07-dc09acde",
-          "title": "Guerre en Ukraine: Kiev prépare la suite des négociations après la visite des émissaires américains",
-          "description": "Le président ukrainien a indiqué lundi 7 septembre préparer la suite des négociations après la visite des envoyés de Donald Trump à Moscou et Kiev pour tenter de relancer le processus diplomatique visant à mettre fin à l'invasion russe de l'Ukraine. Il n'a cependant pas semblé optimiste sur une potentielle fin de la guerre.",
-          "url": "https://www.rfi.fr/fr/europe/20260907-guerre-en-ukraine-kiev-pr%C3%A9pare-la-suite-des-n%C3%A9gociations-apr%C3%A8s-la-visite-des-%C3%A9missaires-am%C3%A9ricains",
-          "imageUrl": "https://s.rfi.fr/media/display/d9f5eb36-aac0-11f1-b22b-005056bfb2b6/w:1024/p:16x9/AP26249603404624.jpg",
+          "id": "2026-09-08-43015232",
+          "title": "Tung Chee-hwa, premier dirigeant de Hong Kong après sa restitution à la Chine, est mort à 89 ans",
+          "description": "Le premier dirigeant de Hong Kong après la restitution de cette colonie britannique à la Chine en 1997, Tung Chee-hwa, est mort à l'âge de 89 ans, a annoncé son bureau mercredi.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20260908-tung-chee-hwa-premier-dirigeant-de-hong-kong-apr%C3%A8s-sa-restitution-%C3%A0-la-chine-est-mort-%C3%A0-89-ans",
+          "imageUrl": "https://s.rfi.fr/media/display/dfc60a68-abb1-11f1-b327-005056a90284/w:1024/p:16x9/AP26251635388251.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-07T13:58:40.000Z",
-          "fetchedAt": "2026-09-08T04:46:36.644Z"
+          "publishedAt": "2026-09-08T19:06:40.000Z",
+          "fetchedAt": "2026-09-09T04:49:56.220Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Pourquoi les employeurs ne doivent pas attendre pour identifier et réguler les s",
+      "id": "cluster-2",
+      "topic": "Sur Facebook, le lucratif business des contenus réactionnaires générés par IA",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-08-9ec88d65",
-          "title": "Pourquoi les employeurs ne doivent pas attendre pour identifier et réguler les systèmes d’IA « à haut risque »",
-          "description": "Les services des ressources humaines doivent, d’ici à la fin 2027, recenser et clarifier les systèmes d’intelligence artificielle utilisés par leurs services, et informer les salariés, conseille le juriste Jean-Emmanuel Ray, qui revient dans sa chronique sur la partie concernant le travail de l’« AI Act ».",
-          "url": "https://www.lemonde.fr/emploi/article/2026/09/08/pourquoi-les-employeurs-ne-doivent-pas-attendre-pour-identifier-et-reguler-les-systemes-d-ia-a-haut-risque_6768102_1698637.html",
+          "id": "2026-09-09-d346e241",
+          "title": "Sur Facebook, le lucratif business des contenus réactionnaires générés par IA",
+          "description": "Des centaines de pages comportant des contenus d’extrême droite sont publiées à destination du public français, au Sri Lanka, en Algérie ou au Venezuela, et obtiennent des audiences massives dans un but lucratif.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/09/09/sur-facebook-le-lucratif-business-des-contenus-reactionnaires-generes-par-ia_6768826_4408996.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-09-08T04:00:09.000Z",
-          "fetchedAt": "2026-09-08T04:46:36.592Z"
+          "publishedAt": "2026-09-09T04:00:02.000Z",
+          "fetchedAt": "2026-09-09T04:49:56.169Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "'I performed on stage to get my first job' - the firms turning recruitment into ",
+      "topic": "Singaporean man pleads guilty in US to massive crypto heist",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-07-f6f1d24b",
-          "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
-          "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-          "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg",
+          "id": "2026-09-09-cfdae9ee",
+          "title": "Singaporean man pleads guilty in US to massive crypto heist",
+          "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
+          "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c7a/live/c2fc9470-abfb-11f1-8c98-1196ec471ea3.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-07T23:06:14.000Z",
-          "fetchedAt": "2026-09-08T04:46:41.760Z"
+          "publishedAt": "2026-09-09T03:40:48.000Z",
+          "fetchedAt": "2026-09-09T04:50:01.422Z"
         }
       ]
     }
