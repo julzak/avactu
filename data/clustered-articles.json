@@ -1,231 +1,198 @@
 {
-  "generatedAt": "2026-09-09T04:53:52.612Z",
+  "generatedAt": "2026-09-10T04:55:06.962Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "EN DIRECT - Moyen-Orient: Téhéran dit avoir attaqué deux navires américains et h",
+      "id": "cluster-5",
+      "topic": "Donald Trump promet 5 000 dollars à tous les adultes américains si les républica",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
+          "id": "2026-09-10-fc6480f1",
+          "title": "Donald Trump promet 5 000 dollars à tous les adultes américains si les républicains remportent les midterms",
+          "description": "À Dallas, au Texas, mercredi, le président américain s’est exprimé en point d’orgue de la première journée d’une convention républicaine organisée pour mobiliser son camp avant les élections de mi-mandat. Il s’est s engagé à verser un “dividende” de 5 000 dollars par citoyen adulte américain si son parti garde le contrôle du Congrès en novembre.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-donald-trump-promet-5-000-dollars-a-tous-les-adultes-americains-si-les-republicains-remportent-les-midterms_269515",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/10/1/0/5000/3333/1200/630/60/0/b49e8c9_ftp-1-aa0klvtjmzrj-2026-09-10t011556z-1190141509-rc21gnadukp3-rtrmadp-3-usa-election-republicans.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-10T04:00:47.000Z",
+          "fetchedAt": "2026-09-10T04:51:06.382Z"
+        },
+        {
+          "id": "2026-09-09-8bc1e8c5",
+          "title": "Midterms 2026 : à la convention de Dallas, Donald Trump promet un gros chèque aux Américains",
+          "description": "Lors d'une convention inédite à Dallas avant des élections de mi-mandat, le président républicain Donald Trump a promis mercredi un \"dividende\" de 5 000 dollars par Américain en cas de victoire de son parti en novembre, et ce alors que les sondages annoncent une possible bascule démocrate au Congrès.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260909-midterms-2026-%C3%A0-la-convention-de-dallas-donald-trump-promet-un-gros-ch%C3%A8que-aux-am%C3%A9ricains",
+          "imageUrl": "https://s.france24.com/media/display/a5dd998a-acc7-11f1-b6c0-005056a90284/w:1024/p:16x9/AP26253063907545.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T18:11:15.000Z",
+          "fetchedAt": "2026-09-10T04:51:06.581Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "Royaume-Uni : dans un contexte de baisse de l’immigration, l’extrême droite main",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-10-ae8f7fae",
+          "title": "Royaume-Uni : dans un contexte de baisse de l’immigration, l’extrême droite maintient la pression sur les « small boats »",
+          "description": "Alors que les indicateurs de l’immigration légale et illégale sont en baisse, des mouvements d’ultra-droite, soutenus par les partis nationalistes britanniques, mettent en scène des protestations contre les traversées irrégulières de la Manche, qui représentent à peine 5 % de l’ensemble des migrants.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/10/royaume-uni-dans-un-contexte-de-baisse-de-l-immigration-l-extreme-droite-maintient-la-pression-sur-les-small-boats_6769343_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-10T04:00:30.000Z",
+          "fetchedAt": "2026-09-10T04:51:06.345Z"
+        },
+        {
+          "id": "2026-09-09-30b12dc1",
+          "title": "Cameroun : Maurice Kamto démissionne de la présidence de son parti",
+          "description": "🇨🇲 Au Cameroun, Maurice Kamto quitte la présidence de son parti, le MRC. L’opposant a annoncé sa démission mardi, sur fond de fronde interne. Un départ simultané à celui de son son premier vice-président Mamadu Mota, qui fragilise encore le parti à l’approche des échéances électorales de 2027.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260909-cameroun-maurice-kamto-d%C3%A9mission-de-la-pr%C3%A9sidence-de-son-parti",
+          "imageUrl": "https://s.france24.com/media/display/46c09cc4-ac6b-11f1-9f7f-005056a90284/w:1024/p:16x9/Couv-CAMEROUN-Maurice-Kamto.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T17:32:12.000Z",
+          "fetchedAt": "2026-09-10T04:51:06.581Z"
+        },
+        {
+          "id": "2026-09-09-e172964f",
+          "title": "Le RN exclut un policier membre de son service d’ordre après des propos racistes et complotistes",
+          "description": "Après la diffusion d'une vidéo dans laquelle un policier municipal de Carcassonne tient des propos racistes, misogynes et complotistes, le Rassemblement national a annoncé mercredi l'exclusion immédiate de l'agent qui était encarté dans le parti d'extrême droite.",
+          "url": "https://www.france24.com/fr/france/20260909-rn-exclut-policier-membre-service-ordre-apr%C3%A8s-propos-racistes-complotistes",
+          "imageUrl": "https://s.france24.com/media/display/bfc781e0-ac5d-11f1-b96b-005056bf30b7/w:1024/p:16x9/000-96J76G4-1.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T15:42:14.000Z",
+          "fetchedAt": "2026-09-10T04:51:06.581Z"
+        },
+        {
+          "id": "2026-09-09-8792a503",
+          "title": "Royaume-Uni: une panne géante provoque le chaos dans les aéroports, la piste de la cyberattaque écartée",
+          "description": "Au moins 1 900 vols ont été retardés ou annulés depuis le 8 septembre, au départ et à destination de 15 aéroports, dont Londres, Birmingham, Manchester ou Édimbourg, ainsi que Dublin, en raison d’un problème technique au sein du système national de contrôle du trafic aérien. Le patron de l’organisme a été convoqué mercredi 9 septembre. L'organisme chargé du contrôle aérien exclut l'hypothèse d'une cyberattaque.",
+          "url": "https://www.rfi.fr/fr/europe/20260909-royaume-uni-une-panne-g%C3%A9ante-provoque-le-chaos-dans-les-a%C3%A9roports-la-piste-de-la-cyberattaque-%C3%A9cart%C3%A9e",
+          "imageUrl": "https://s.rfi.fr/media/display/c2a3e126-ac4c-11f1-86ee-005056a90284/w:1024/p:16x9/AP26251744276105.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T13:33:05.000Z",
+          "fetchedAt": "2026-09-10T04:51:09.758Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-13",
+      "topic": "Basket féminin : comment les Bleues sont devenues les “vraies rivales” des Améri",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-10-3ed0a559",
+          "title": "Basket féminin : comment les Bleues sont devenues les “vraies rivales” des Américaines",
+          "description": "Ce jeudi 10 septembre à Berlin, l’équipe de France affronte la Chine en quart de finale de la Coupe du monde de basket féminin. Et avec huit joueuses évoluant en WNBA, dont les stars Marine Johannès, Gabby Williams et Dominique Malonga, les Bleues ont de vraies chances d’aller loin dans le tournoi et de réussir l’impossible : battre les Américaines.",
+          "url": "https://www.courrierinternational.com/article/vu-des-etats-unis-basket-feminin-comment-les-bleues-sont-devenues-les-vraies-rivales-des-americaines_269250",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/04/0/0/5958/3972/1200/630/60/0/3f1b5f4_ftp-1-lnln53itiaxw-afp-c7e692p.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-10T03:00:25.000Z",
+          "fetchedAt": "2026-09-10T04:51:06.382Z"
+        },
+        {
+          "id": "2026-09-09-a1912638",
+          "title": "Les Etats-Unis désignent le gang équatorien Los Tiguerones comme « organisation terroriste »",
+          "description": "L’Equateur, allié des Etats-Unis et autrefois l’un des pays plus sûrs d’Amérique latine, est confronté à la hausse vertigineuse de la criminalité liée au narcotrafic.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/09/les-etats-unis-designent-le-gang-equatorien-los-tiguerones-comme-organisation-terroriste_6768964_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T20:18:05.000Z",
+          "fetchedAt": "2026-09-10T04:51:06.345Z"
+        },
+        {
+          "id": "2026-09-09-7fe7d9a9",
+          "title": "États-Unis: Donald Trump offre 45 000 dollars en liquide en cadeau à trois assistantes et suscite la polémique",
+          "description": "Peu avant son discours lors de la convention républicaine, une polémique entache Donald Trump. Selon des révélations du Washington Post du mardi 8 septembre, le président américain a distribué d’importantes sommes comme cadeaux de fin d’année à ses collaboratrices : son omniprésente assistante Natalie Harp a reçu 45 000 dollars en espèces, en plus de son salaire d’employée fédérale, notamment. Une pratique inédite jugée illégale par certains.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260909-%C3%A9tats-unis-donald-trump-offre-45-000-dollars-en-liquide-en-cadeau-%C3%A0-trois-assistantes-et-suscite-la-pol%C3%A9mique",
+          "imageUrl": "https://s.rfi.fr/media/display/34949726-ac75-11f1-84ad-005056bf30b7/w:1024/p:16x9/AP26239710776689.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T18:37:51.000Z",
+          "fetchedAt": "2026-09-10T04:51:09.758Z"
+        },
+        {
+          "id": "2026-09-09-7edad23a",
+          "title": "En Équateur, le secrétaire d'État américain Marco Rubio s'en prend aux cartels de la drogue",
+          "description": "Après la Colombie mardi, le chef de la diplomatie américaine Marco Rubio était en Équateur mercredi, où il a mis l'accent sur la lutte contre les cartels de la drogue. Il a annoncé que le gang équatorien Los Tiguerones serait désormais désigné comme \"organisation terroriste\". Sa tournée en Amérique latine vise à consolider les alliances avec les dirigeants conservateurs de la région.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260909-en-%C3%A9quateur-le-secr%C3%A9taire-d-%C3%A9tat-am%C3%A9ricain-marco-rubio-s-en-prend-aux-cartels-de-la-drogue",
+          "imageUrl": "https://s.france24.com/media/display/32fa7e82-ac7d-11f1-9a34-005056a90284/w:1024/p:16x9/a5421e17ec119b14a3a7062ebc329cd991951715.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T18:35:17.000Z",
+          "fetchedAt": "2026-09-10T04:51:06.581Z"
+        },
+        {
+          "id": "2026-09-09-7b3ba483",
+          "title": "Sommet de l'Espace: l'Europe peut-elle rester dans la course spatiale face à l'Américain SpaceX?",
+          "description": "Les 9 et 10 septembre, le premier sommet international de l'espace réunit à Paris chercheurs, dirigeants politiques et chefs d'entreprises de 120 pays, hormis la Russie, l'Iran et la Corée du Nord. Son premier jour est plus particulièrement consacré aux contrats. L'enjeu est important pour l'Europe qui cherche à rester dans la course à l'espace, devenue une véritable industrie.",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260909-sommet-de-l-espace-l-europe-peut-elle-rester-dans-la-course-spatiale-face-%C3%A0-l-am%C3%A9ricain-spacex",
+          "imageUrl": "https://s.rfi.fr/media/display/e6f58116-a610-11f1-9ea7-005056a90284/w:1024/p:16x9/2026-08-04T144237Z-1178375095-RC2HKMAH7BQ0-RTRMADP-3-SPACEX-RESULTS.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T15:55:15.000Z",
+          "fetchedAt": "2026-09-10T04:51:09.758Z"
+        },
+        {
           "id": "2026-09-09-45ed5649",
-          "title": "EN DIRECT - Moyen-Orient: Téhéran dit avoir attaqué deux navires américains et huit pétroliers",
-          "description": "Les Gardiens de la Révolution, armée idéologique de l'Iran, ont dit mercredi avoir attaqué une base militaire des Etats-Unis en Jordanie ainsi qu'une vingtaine de bateaux dans le Golfe, en réponse à des frappes américaines contre des pétroliers iraniens.",
+          "title": "Donald Trump prédit que la guerre avec l'Iran s'arrêtera «immédiatement» après les midterms",
+          "description": "Le président américain Donald Trump a prédit mercredi 9 septembre que la guerre avec l'Iran « s'arrêterait immédiatement après les élections » législatives de début novembre aux États-Unis. De leur côté, les Gardiens de la Révolution ont indiqué  avoir attaqué une base militaire des États-Unis en Jordanie ainsi qu'une vingtaine de bateaux dans le Golfe, en réponse à des frappes américaines contre des pétroliers iraniens.",
           "url": "https://www.rfi.fr/fr/moyen-orient/20260909-en-direct-moyen-orient-t%C3%A9h%C3%A9ran-dit-avoir-attaqu%C3%A9-deux-navires-am%C3%A9ricains-et-huit-p%C3%A9troliers",
-          "imageUrl": "https://s.rfi.fr/media/display/22101e7c-ac07-11f1-a368-005056a97e36/w:1024/p:16x9/000-C7F89G6.jpg",
+          "imageUrl": "https://s.rfi.fr/media/display/c964b800-ac83-11f1-8a21-005056bf30b7/w:1024/p:16x9/AP26252677129777.jpg",
           "source": "RFI",
           "category": "geopolitique",
           "publishedAt": "2026-09-09T04:36:21.000Z",
-          "fetchedAt": "2026-09-09T04:49:56.220Z"
-        },
-        {
-          "id": "2026-09-09-9a84c3aa",
-          "title": "Droits de douane: après la riposte d'Ottawa, Donald Trump interdit l'importation de plusieurs produits canadiens",
-          "description": "Les États-Unis ont annoncé mardi 8 septembre une interdiction d'importation de plusieurs produits canadiens comme les boissons alcoolisées ou le lactosérum, quelques heures seulement après l'entrée en vigueur de la riposte douanière du Canada visant une série de produits américains. Une surtaxe de 50% s'appliquera également sur une nouvelle série de produits canadiens, selon des décrets présidentiels.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260909-droits-de-douane-apr%C3%A8s-la-riposte-d-ottawa-donald-trump-interdit-l-importation-de-plusieurs-produits-canadiens",
-          "imageUrl": "https://s.rfi.fr/media/display/7c55d4ee-abf8-11f1-8d81-005056bf30b7/w:1024/p:16x9/AP26251544568233.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T02:46:55.000Z",
-          "fetchedAt": "2026-09-09T04:49:56.220Z"
-        },
-        {
-          "id": "2026-09-09-fc21d1e2",
-          "title": "La Jordanie ciblée par Téhéran après des frappes américaines contre des pétroliers iraniens dans la région du Golfe",
-          "description": "« Toute attaque contre des pétroliers iraniens entraînera des frappes des forces armées de la République islamique d’Iran contre les bases américaines dans la région », a prévenu le chef d’état-major des forces armées iraniennes, le général Ali Abdollahi Aliabadi, cité par la télévision d’Etat.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/09/teheran-cible-la-jordanie-apres-des-frappes-americaines-contre-des-petroliers-iraniens-dans-la-region-du-golfe_6768518_3211.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T00:10:35.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.083Z"
-        },
-        {
-          "id": "2026-09-08-e331cc9e",
-          "title": "« South Park » rebaptisé « South America » : la série satirique raille les changements de noms voulus par Donald Trump",
-          "description": "Les créateurs de la série se moquent aussi des géants Apple et Google, qui ont adopté, sur leurs cartes américaines, les nouvelles appellations attribuées par le président à plusieurs lieux, comme le lac Ontario.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-08T22:48:04.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.083Z"
-        },
-        {
-          "id": "2026-09-08-506c291c",
-          "title": "En direct : Téhéran frappe en Jordanie et dans le Golfe après des attaques sur des pétroliers iraniens",
-          "description": "Les Gardiens de la Révolution ont dit mercredi avoir attaqué une base militaire des États-Unis en Jordanie, ainsi qu'une vingtaine de bateaux dans le Golfe, en représailles à des frappes américaines qui ont détruit cinq navires pétroliers dans la région du Golfe. Un peu plus tôt, ils avaient également annoncé qu'ils allaient viser des tankers au Koweït et à Bahreïn, enjoignant les équipages à \"quitter leurs navires immédiatement\", selon l'agence officielle Irna. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260908-en-direct-etats-unis-detruit-cinq-petroliers-navires-iraniens-gardiens-revolution-menacent-koweit-bahrein-pays-golfe-detroit-ormuz",
-          "imageUrl": "https://s.france24.com/media/display/ba6a5e8a-abd5-11f1-b2e8-005056a97e36/w:1024/p:16x9/000-C7FA8KE.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-08T22:41:29.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.150Z"
-        },
-        {
-          "id": "2026-09-08-5566704b",
-          "title": "Droits de douane américains : la riposte du Canada entre en vigueur",
-          "description": "Les nouveaux droits de douane canadiens sont entrés en vigueur : environ 20 milliards de dollars d'importations en provenance des États-Unis sont désormais surtaxés. Il s'agit d'une riposte aux mesures décidées fin août par les États-Unis.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260908-droits-de-douane-am%C3%A9ricains-la-riposte-du-canada-entre-en-vigueur",
-          "imageUrl": "https://s.france24.com/media/display/bc364778-abbd-11f1-898b-005056bf30b7/w:1024/p:16x9/Francais-2026-09-08T18-19-11-671Z.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-08T19:57:02.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.150Z"
+          "fetchedAt": "2026-09-10T04:51:09.758Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Mario Draghi, le « sphinx » qui continue d’imposer la feuille de route de l’Unio",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-09-078b69cb",
-          "title": "Mario Draghi, le « sphinx » qui continue d’imposer la feuille de route de l’Union européenne",
-          "description": "A 79 ans, l’ancien président de la Banque centrale européenne, qui n’a pourtant plus aucun mandat, reste au cœur de la politique de l’UE. Insaisissable, volontiers secret, il sait jouer de sa capacité à parler à la fois aux dirigeants politiques, aux patrons et aux marchés financiers.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/09/mario-draghi-le-sphinx-qui-continue-d-imposer-la-feuille-de-route-de-l-union-europeenne_6768834_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T04:30:06.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.083Z"
-        },
-        {
-          "id": "2026-09-09-fae64c2f",
-          "title": "En Israël, les révélations sur l’alerte reçue par Benyamin Nétanyahou avant le 7-Octobre provoquent un séisme politique",
-          "description": "Un livre à paraître assure que le premier ministre israélien aurait été informé « que le chef du Hamas à Gaza, Yahya Sinouar, planifiait une opération majeure contre Israël » par le président des Emirats arabes unis dix jours avant l’attaque.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/09/en-israel-les-revelations-sur-l-alerte-recue-par-benyamin-netanyahou-avant-le-7-octobre-provoquent-un-seisme-politique_6768832_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T04:15:10.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.083Z"
-        },
-        {
-          "id": "2026-09-09-7dbfdf04",
-          "title": "Commémoration du 11-Septembre : « L’événement le plus photographié de l’histoire n’a paradoxalement donné lieu qu’à une poignée d’images »",
-          "description": "Il y a vingt-cinq ans, après les attaques du World Trade Center, on a vu les mêmes photos partout : un effet de la concentration des médias alors à l’œuvre aux Etats-Unis, explique l’historien de la photographie Clément Chéroux, dans un entretien au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/09/commemoration-du-11-septembre-l-evenement-le-plus-photographie-de-l-histoire-n-a-paradoxalement-donne-lieu-qu-a-une-poignee-d-images_6768827_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T04:00:15.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.083Z"
-        },
-        {
-          "id": "2026-09-09-41849b37",
-          "title": "Mao, l’héritage encombrant du fondateur de la Chine communiste",
-          "description": "Cinquante ans après la mort de Mao Zedong, comment la Chine gère-t-elle l’héritage ambivalent de cet ancien dirigeant ? Réponse dans ce podcast avec Harold Thibault, correspondant du « Monde » en Chine.",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/09/09/mao-l-heritage-encombrant-du-fondateur-de-la-chine-communiste_6768822_5463015.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T03:30:17.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.083Z"
-        },
-        {
-          "id": "2026-09-09-3c6004ac",
-          "title": "Sous les bombes, Kiev est devenue une “ligne de front” comme le Donbass",
-          "description": "Depuis le mois de juillet, et particulièrement ces dernières semaines, la capitale ukrainienne est bombardée sans relâche par la Russie, qui a changé de stratégie en frappant à toute heure, et plus seulement la nuit. Ce qui commence à entamer lentement la résilience des habitants de Kiev, raconte le quotidien italien “La Stampa”.",
-          "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-sous-les-bombes-kiev-est-devenue-une-ligne-de-front-comme-le-donbass_268326",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/08/0/0/4929/3286/1200/630/60/0/33ee950_upload-1-yhflkrbfnclk-068-aa-08092026-2942654.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T03:00:15.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.127Z"
-        },
-        {
-          "id": "2026-09-09-b18c8341",
-          "title": "Paris accueille un sommet sur l'espace pour renforcer le rôle de l'Europe dans le domaine",
-          "description": "Un sommet international sur le spatial à Paris s'ouvre ce mercredi 9 septembre au Grand Palais. Voulu par Emmanuel Macron et dans la même veine que celui sur l’intelligence artificielle, l'objectif de cette manifestation est de rassembler en France l'ensemble des acteurs qui travaillent sur l'espace en mélangeant acteurs institutionnels, gouvernements et acteurs économiques. Le domaine spatial est un thème en proie à de grandes mutations ces dernières années et à la multiplication des acteurs.",
-          "url": "https://www.rfi.fr/fr/france/20260909-paris-accueille-un-sommet-sur-l-espace-pour-renforcer-le-r%C3%B4le-de-l-europe-dans-le-domaine",
-          "imageUrl": "https://s.rfi.fr/media/display/5d1fa270-835b-11ef-9829-005056a97e36/w:1024/p:16x9/20241005_191947.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T03:00:06.000Z",
-          "fetchedAt": "2026-09-09T04:49:56.220Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-8",
-      "topic": "Hongkong : mort de Tung Chee-hwa, premier chef de l’exécutif après la rétrocessi",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-09-c521684f",
-          "title": "Hongkong : mort de Tung Chee-hwa, premier chef de l’exécutif après la rétrocession du territoire à la Chine",
-          "description": "L’ancien magnat du transport maritime désigné par Pékin pour prendre la tête de la ville après la rétrocession de la colonie britannique à la Chine est mort à l’âge de 89 ans.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/09/hong-kong-deces-de-tung-chee-hwa-premier-chef-de-l-executif-apres-la-retrocession-du-territoire-a-la-chine_6768824_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T03:40:34.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.083Z"
-        },
-        {
-          "id": "2026-09-09-5225414c",
-          "title": "Cinquante ans après sa mort, Mao Zedong est l’un de ces tabous dont la Chine a le secret",
-          "description": "À une exception près, la presse chinoise était extrêmement discrète à l’approche de ce 9 septembre, jour anniversaire de la disparition de Mao Zedong en 1976, il y a cinquante ans. Une prudence à l’image de la perception qu’ont les Chinois de cette figure, fondatrice du régime actuel, mais dont l’autoritarisme trouve un héritier direct en  Jinping.",
-          "url": "https://www.courrierinternational.com/article/commemoration-cinquante-ans-apres-sa-mort-mao-zedong-est-l-un-de-ces-tabous-dont-la-chine-a-le-secret_268987",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/08/0/0/6192/4128/1200/630/60/0/c6e2200_ftp-1-1c6ojw58tigu-afp-c7ne2nq.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T03:00:27.000Z",
-          "fetchedAt": "2026-09-09T04:49:52.127Z"
-        },
-        {
-          "id": "2026-09-08-43015232",
-          "title": "Tung Chee-hwa, premier dirigeant de Hong Kong après sa restitution à la Chine, est mort à 89 ans",
-          "description": "Le premier dirigeant de Hong Kong après la restitution de cette colonie britannique à la Chine en 1997, Tung Chee-hwa, est mort à l'âge de 89 ans, a annoncé son bureau mercredi.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20260908-tung-chee-hwa-premier-dirigeant-de-hong-kong-apr%C3%A8s-sa-restitution-%C3%A0-la-chine-est-mort-%C3%A0-89-ans",
-          "imageUrl": "https://s.rfi.fr/media/display/dfc60a68-abb1-11f1-b327-005056a90284/w:1024/p:16x9/AP26251635388251.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-08T19:06:40.000Z",
-          "fetchedAt": "2026-09-09T04:49:56.220Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "Sur Facebook, le lucratif business des contenus réactionnaires générés par IA",
+      "topic": "There aren’t AirPods with cameras yet and I hope it stays that way",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-09-d346e241",
-          "title": "Sur Facebook, le lucratif business des contenus réactionnaires générés par IA",
-          "description": "Des centaines de pages comportant des contenus d’extrême droite sont publiées à destination du public français, au Sri Lanka, en Algérie ou au Venezuela, et obtiennent des audiences massives dans un but lucratif.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/09/sur-facebook-le-lucratif-business-des-contenus-reactionnaires-generes-par-ia_6768826_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-09-09-a77658ea",
+          "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+          "description": "New AirPods Pro with cameras were thankfully not announced at the September Apple event. | Photo by Amelia Holowaty Krales / The Verge\t\n\nSeptember Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to the Watch Series 12 and Watch Ultra 4. But missing were the AirPods Pro with cameras that have been rumored throughout the year and, according to Mark Gurman at Bloomberg, are delayed until 2027. I'm happy about that and I hope we never get them.\nI have too many concerns about a company - any company - putting cameras a …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-09-09T04:00:02.000Z",
-          "fetchedAt": "2026-09-09T04:49:56.169Z"
+          "publishedAt": "2026-09-09T23:00:04.000Z",
+          "fetchedAt": "2026-09-10T04:51:12.793Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Singaporean man pleads guilty in US to massive crypto heist",
+      "topic": "« L’Ubérisation » : pour les travailleurs, la fiction de l’indépendance",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-09-cfdae9ee",
-          "title": "Singaporean man pleads guilty in US to massive crypto heist",
-          "description": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-          "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c7a/live/c2fc9470-abfb-11f1-8c98-1196ec471ea3.jpg",
-          "source": "BBC Business",
+          "id": "2026-09-10-9436febb",
+          "title": "« L’Ubérisation » : pour les travailleurs, la fiction de l’indépendance",
+          "description": "Dans son ouvrage de synthèse consacré à l’ubérisation, Patrick Cingolani souligne le « déni » des plateformes numériques concernant le lien de subordination qui caractérise, à ses yeux, leur relation avec les travailleurs.",
+          "url": "https://www.lemonde.fr/vie-au-travail/article/2026/09/10/l-uberisation-pour-les-travailleurs-la-fiction-de-l-independance_6769340_6768900.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-09-09T03:40:48.000Z",
-          "fetchedAt": "2026-09-09T04:50:01.422Z"
+          "publishedAt": "2026-09-10T04:00:13.000Z",
+          "fetchedAt": "2026-09-10T04:51:12.710Z"
         }
       ]
     }
