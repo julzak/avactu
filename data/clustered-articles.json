@@ -1,198 +1,143 @@
 {
-  "generatedAt": "2026-09-10T04:55:06.962Z",
+  "generatedAt": "2026-09-11T04:52:17.290Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-5",
-      "topic": "Donald Trump promet 5 000 dollars à tous les adultes américains si les républica",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-10-fc6480f1",
-          "title": "Donald Trump promet 5 000 dollars à tous les adultes américains si les républicains remportent les midterms",
-          "description": "À Dallas, au Texas, mercredi, le président américain s’est exprimé en point d’orgue de la première journée d’une convention républicaine organisée pour mobiliser son camp avant les élections de mi-mandat. Il s’est s engagé à verser un “dividende” de 5 000 dollars par citoyen adulte américain si son parti garde le contrôle du Congrès en novembre.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-donald-trump-promet-5-000-dollars-a-tous-les-adultes-americains-si-les-republicains-remportent-les-midterms_269515",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/10/1/0/5000/3333/1200/630/60/0/b49e8c9_ftp-1-aa0klvtjmzrj-2026-09-10t011556z-1190141509-rc21gnadukp3-rtrmadp-3-usa-election-republicans.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-10T04:00:47.000Z",
-          "fetchedAt": "2026-09-10T04:51:06.382Z"
-        },
-        {
-          "id": "2026-09-09-8bc1e8c5",
-          "title": "Midterms 2026 : à la convention de Dallas, Donald Trump promet un gros chèque aux Américains",
-          "description": "Lors d'une convention inédite à Dallas avant des élections de mi-mandat, le président républicain Donald Trump a promis mercredi un \"dividende\" de 5 000 dollars par Américain en cas de victoire de son parti en novembre, et ce alors que les sondages annoncent une possible bascule démocrate au Congrès.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260909-midterms-2026-%C3%A0-la-convention-de-dallas-donald-trump-promet-un-gros-ch%C3%A8que-aux-am%C3%A9ricains",
-          "imageUrl": "https://s.france24.com/media/display/a5dd998a-acc7-11f1-b6c0-005056a90284/w:1024/p:16x9/AP26253063907545.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T18:11:15.000Z",
-          "fetchedAt": "2026-09-10T04:51:06.581Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "Royaume-Uni : dans un contexte de baisse de l’immigration, l’extrême droite main",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-10-ae8f7fae",
-          "title": "Royaume-Uni : dans un contexte de baisse de l’immigration, l’extrême droite maintient la pression sur les « small boats »",
-          "description": "Alors que les indicateurs de l’immigration légale et illégale sont en baisse, des mouvements d’ultra-droite, soutenus par les partis nationalistes britanniques, mettent en scène des protestations contre les traversées irrégulières de la Manche, qui représentent à peine 5 % de l’ensemble des migrants.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/10/royaume-uni-dans-un-contexte-de-baisse-de-l-immigration-l-extreme-droite-maintient-la-pression-sur-les-small-boats_6769343_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-10T04:00:30.000Z",
-          "fetchedAt": "2026-09-10T04:51:06.345Z"
-        },
-        {
-          "id": "2026-09-09-30b12dc1",
-          "title": "Cameroun : Maurice Kamto démissionne de la présidence de son parti",
-          "description": "🇨🇲 Au Cameroun, Maurice Kamto quitte la présidence de son parti, le MRC. L’opposant a annoncé sa démission mardi, sur fond de fronde interne. Un départ simultané à celui de son son premier vice-président Mamadu Mota, qui fragilise encore le parti à l’approche des échéances électorales de 2027.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260909-cameroun-maurice-kamto-d%C3%A9mission-de-la-pr%C3%A9sidence-de-son-parti",
-          "imageUrl": "https://s.france24.com/media/display/46c09cc4-ac6b-11f1-9f7f-005056a90284/w:1024/p:16x9/Couv-CAMEROUN-Maurice-Kamto.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T17:32:12.000Z",
-          "fetchedAt": "2026-09-10T04:51:06.581Z"
-        },
-        {
-          "id": "2026-09-09-e172964f",
-          "title": "Le RN exclut un policier membre de son service d’ordre après des propos racistes et complotistes",
-          "description": "Après la diffusion d'une vidéo dans laquelle un policier municipal de Carcassonne tient des propos racistes, misogynes et complotistes, le Rassemblement national a annoncé mercredi l'exclusion immédiate de l'agent qui était encarté dans le parti d'extrême droite.",
-          "url": "https://www.france24.com/fr/france/20260909-rn-exclut-policier-membre-service-ordre-apr%C3%A8s-propos-racistes-complotistes",
-          "imageUrl": "https://s.france24.com/media/display/bfc781e0-ac5d-11f1-b96b-005056bf30b7/w:1024/p:16x9/000-96J76G4-1.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T15:42:14.000Z",
-          "fetchedAt": "2026-09-10T04:51:06.581Z"
-        },
-        {
-          "id": "2026-09-09-8792a503",
-          "title": "Royaume-Uni: une panne géante provoque le chaos dans les aéroports, la piste de la cyberattaque écartée",
-          "description": "Au moins 1 900 vols ont été retardés ou annulés depuis le 8 septembre, au départ et à destination de 15 aéroports, dont Londres, Birmingham, Manchester ou Édimbourg, ainsi que Dublin, en raison d’un problème technique au sein du système national de contrôle du trafic aérien. Le patron de l’organisme a été convoqué mercredi 9 septembre. L'organisme chargé du contrôle aérien exclut l'hypothèse d'une cyberattaque.",
-          "url": "https://www.rfi.fr/fr/europe/20260909-royaume-uni-une-panne-g%C3%A9ante-provoque-le-chaos-dans-les-a%C3%A9roports-la-piste-de-la-cyberattaque-%C3%A9cart%C3%A9e",
-          "imageUrl": "https://s.rfi.fr/media/display/c2a3e126-ac4c-11f1-86ee-005056a90284/w:1024/p:16x9/AP26251744276105.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T13:33:05.000Z",
-          "fetchedAt": "2026-09-10T04:51:09.758Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-13",
-      "topic": "Basket féminin : comment les Bleues sont devenues les “vraies rivales” des Améri",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-10-3ed0a559",
-          "title": "Basket féminin : comment les Bleues sont devenues les “vraies rivales” des Américaines",
-          "description": "Ce jeudi 10 septembre à Berlin, l’équipe de France affronte la Chine en quart de finale de la Coupe du monde de basket féminin. Et avec huit joueuses évoluant en WNBA, dont les stars Marine Johannès, Gabby Williams et Dominique Malonga, les Bleues ont de vraies chances d’aller loin dans le tournoi et de réussir l’impossible : battre les Américaines.",
-          "url": "https://www.courrierinternational.com/article/vu-des-etats-unis-basket-feminin-comment-les-bleues-sont-devenues-les-vraies-rivales-des-americaines_269250",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/04/0/0/5958/3972/1200/630/60/0/3f1b5f4_ftp-1-lnln53itiaxw-afp-c7e692p.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-10T03:00:25.000Z",
-          "fetchedAt": "2026-09-10T04:51:06.382Z"
-        },
-        {
-          "id": "2026-09-09-a1912638",
-          "title": "Les Etats-Unis désignent le gang équatorien Los Tiguerones comme « organisation terroriste »",
-          "description": "L’Equateur, allié des Etats-Unis et autrefois l’un des pays plus sûrs d’Amérique latine, est confronté à la hausse vertigineuse de la criminalité liée au narcotrafic.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/09/les-etats-unis-designent-le-gang-equatorien-los-tiguerones-comme-organisation-terroriste_6768964_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T20:18:05.000Z",
-          "fetchedAt": "2026-09-10T04:51:06.345Z"
-        },
-        {
-          "id": "2026-09-09-7fe7d9a9",
-          "title": "États-Unis: Donald Trump offre 45 000 dollars en liquide en cadeau à trois assistantes et suscite la polémique",
-          "description": "Peu avant son discours lors de la convention républicaine, une polémique entache Donald Trump. Selon des révélations du Washington Post du mardi 8 septembre, le président américain a distribué d’importantes sommes comme cadeaux de fin d’année à ses collaboratrices : son omniprésente assistante Natalie Harp a reçu 45 000 dollars en espèces, en plus de son salaire d’employée fédérale, notamment. Une pratique inédite jugée illégale par certains.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260909-%C3%A9tats-unis-donald-trump-offre-45-000-dollars-en-liquide-en-cadeau-%C3%A0-trois-assistantes-et-suscite-la-pol%C3%A9mique",
-          "imageUrl": "https://s.rfi.fr/media/display/34949726-ac75-11f1-84ad-005056bf30b7/w:1024/p:16x9/AP26239710776689.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T18:37:51.000Z",
-          "fetchedAt": "2026-09-10T04:51:09.758Z"
-        },
-        {
-          "id": "2026-09-09-7edad23a",
-          "title": "En Équateur, le secrétaire d'État américain Marco Rubio s'en prend aux cartels de la drogue",
-          "description": "Après la Colombie mardi, le chef de la diplomatie américaine Marco Rubio était en Équateur mercredi, où il a mis l'accent sur la lutte contre les cartels de la drogue. Il a annoncé que le gang équatorien Los Tiguerones serait désormais désigné comme \"organisation terroriste\". Sa tournée en Amérique latine vise à consolider les alliances avec les dirigeants conservateurs de la région.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260909-en-%C3%A9quateur-le-secr%C3%A9taire-d-%C3%A9tat-am%C3%A9ricain-marco-rubio-s-en-prend-aux-cartels-de-la-drogue",
-          "imageUrl": "https://s.france24.com/media/display/32fa7e82-ac7d-11f1-9a34-005056a90284/w:1024/p:16x9/a5421e17ec119b14a3a7062ebc329cd991951715.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T18:35:17.000Z",
-          "fetchedAt": "2026-09-10T04:51:06.581Z"
-        },
-        {
-          "id": "2026-09-09-7b3ba483",
-          "title": "Sommet de l'Espace: l'Europe peut-elle rester dans la course spatiale face à l'Américain SpaceX?",
-          "description": "Les 9 et 10 septembre, le premier sommet international de l'espace réunit à Paris chercheurs, dirigeants politiques et chefs d'entreprises de 120 pays, hormis la Russie, l'Iran et la Corée du Nord. Son premier jour est plus particulièrement consacré aux contrats. L'enjeu est important pour l'Europe qui cherche à rester dans la course à l'espace, devenue une véritable industrie.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260909-sommet-de-l-espace-l-europe-peut-elle-rester-dans-la-course-spatiale-face-%C3%A0-l-am%C3%A9ricain-spacex",
-          "imageUrl": "https://s.rfi.fr/media/display/e6f58116-a610-11f1-9ea7-005056a90284/w:1024/p:16x9/2026-08-04T144237Z-1178375095-RC2HKMAH7BQ0-RTRMADP-3-SPACEX-RESULTS.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T15:55:15.000Z",
-          "fetchedAt": "2026-09-10T04:51:09.758Z"
-        },
-        {
-          "id": "2026-09-09-45ed5649",
-          "title": "Donald Trump prédit que la guerre avec l'Iran s'arrêtera «immédiatement» après les midterms",
-          "description": "Le président américain Donald Trump a prédit mercredi 9 septembre que la guerre avec l'Iran « s'arrêterait immédiatement après les élections » législatives de début novembre aux États-Unis. De leur côté, les Gardiens de la Révolution ont indiqué  avoir attaqué une base militaire des États-Unis en Jordanie ainsi qu'une vingtaine de bateaux dans le Golfe, en réponse à des frappes américaines contre des pétroliers iraniens.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260909-en-direct-moyen-orient-t%C3%A9h%C3%A9ran-dit-avoir-attaqu%C3%A9-deux-navires-am%C3%A9ricains-et-huit-p%C3%A9troliers",
-          "imageUrl": "https://s.rfi.fr/media/display/c964b800-ac83-11f1-8a21-005056bf30b7/w:1024/p:16x9/AP26252677129777.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-09T04:36:21.000Z",
-          "fetchedAt": "2026-09-10T04:51:09.758Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-2",
-      "topic": "There aren’t AirPods with cameras yet and I hope it stays that way",
-      "category": "tech",
-      "importance": 7,
+      "topic": "En conclusion de la convention républicaine, J. D. Vance passe sous silence la g",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-09-09-a77658ea",
-          "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
-          "description": "New AirPods Pro with cameras were thankfully not announced at the September Apple event. | Photo by Amelia Holowaty Krales / The Verge\t\n\nSeptember Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to the Watch Series 12 and Watch Ultra 4. But missing were the AirPods Pro with cameras that have been rumored throughout the year and, according to Mark Gurman at Bloomberg, are delayed until 2027. I'm happy about that and I hope we never get them.\nI have too many concerns about a company - any company - putting cameras a …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-09-09T23:00:04.000Z",
-          "fetchedAt": "2026-09-10T04:51:12.793Z"
+          "id": "2026-09-11-2a96b2cb",
+          "title": "En conclusion de la convention républicaine, J. D. Vance passe sous silence la guerre en Iran et se pose en premier adversaire des démocrates",
+          "description": "Qualifiant les démocrates de « parti de la haine », le vice-président a délivré à Dallas un discours destiné à capter l’héritage trumpien en vue de la présidentielle de 2028. Sans réussir tout à fait à s’émanciper de l’ombre de Donald Trump.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/11/en-conclusion-de-la-convention-republicaine-j-d-vance-passe-sous-silence-la-guerre-en-iran-et-se-pose-en-premier-adversaire-des-democrates_6770330_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-11T04:24:02.000Z",
+          "fetchedAt": "2026-09-11T04:48:16.936Z"
+        },
+        {
+          "id": "2026-09-11-68deaf69",
+          "title": "Anthropic déjoue des opérations de surveillance menées à l'aide de son IA en Chine et en Iran",
+          "description": "Dans un rapport publié jeudi, l'Américain Anthropic relate avoir bloqué des opérations de surveillance utilisant son IA Claude pour viser des dissidents tibétains, hongkongais et iraniens, menées par des acteurs liés à la Chine et l'Iran.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260911-ia-anthropic-claude-dejoue-operations-surveillance-chine-iran-mali-moonshot-deepseek",
+          "imageUrl": "https://s.france24.com/media/display/5f125972-8c89-11f1-91dd-005056a97e36/w:1024/p:16x9/2026-07-30T232533Z-1680869369-RC2UNLA4ZYRG-RTRMADP-3-ANTHROPIC-CYBERSECURITY.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-11T02:59:35.000Z",
+          "fetchedAt": "2026-09-11T04:48:16.831Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Guerre en Ukraine, mini-séisme déclenché par Israël au Liban, Hong Kong, tension",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-11-2d95ba26",
+          "title": "Guerre en Ukraine, mini-séisme déclenché par Israël au Liban, Hong Kong, tensions Algérie-Émirats, câbles sous-marins : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-ukraine-mini-seisme-declenche-par-israel-au-liban-tensions-algerie-emirats-cables-sous-marins-les-informations-de-la-nuit_269712",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/10/0/2/2496/1664/1200/630/60/0/ec6e824_ftp-1-vdqofzni54gx-afp-c7wy763.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-11T04:08:41.000Z",
+          "fetchedAt": "2026-09-11T04:48:17.163Z"
+        },
+        {
+          "id": "2026-09-10-e9200c89",
+          "title": "Liban : Israël dynamite des tunnels du Hezbollah et provoque un mini-séisme",
+          "description": "L'armée israélienne a affirmé jeudi avoir détruit des infrastructures souterraines du Hezbollah de la crête d'Ali Taher, dans le sud du Liban. L'explosion a été si puissante que l'agence américaine de sismologie USGS a relevé une secousse de magnitude 4,1, ressentie par les habitants.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260910-liban-isra%C3%ABl-dynamite-des-tunnels-du-hezbollah-et-provoque-un-mini-s%C3%A9isme",
+          "imageUrl": "https://s.france24.com/media/display/0f23b9f4-ad60-11f1-ae6c-005056a97e36/w:1024/p:16x9/1d0f06324c054e231ce6828ba3ee1c102daaf993.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-10T21:39:11.000Z",
+          "fetchedAt": "2026-09-11T04:48:16.831Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-32",
+      "topic": "🔴 En direct : l'explosion de tunnels du Hezbollah par Israël au Liban entraîne ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-10-2314ba89",
+          "title": "🔴 En direct : l'explosion de tunnels du Hezbollah par Israël au Liban entraîne une secousse de magnitude 4,1",
+          "description": "",
+          "url": "https://www.france24.com/fr/moyen-orient/20260910-en-direct-moyen-orient-iran-petrole-au-dessus-100-dollars-frappes-detroit-ormuz-donald-trump",
+          "imageUrl": "https://s.france24.com/media/display/328bf300-ad30-11f1-af88-005056a90284/w:1280/p:16x9/000-C37P2FX.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-10T20:07:58.000Z",
+          "fetchedAt": "2026-09-11T04:48:16.831Z"
+        },
+        {
+          "id": "2026-09-10-e970c7ff",
+          "title": "7-Octobre: après les révélations de «Haaretz», le parti de Benyamin Netanyahu accuse un Palestinien d'ingérence",
+          "description": "Le 8 septembre, le quotidien Haaretz a affirmé dans une enquête que le président des Émirats arabes unis aurait averti Benyamin Netanyahu quelques jours avant le 7 octobre 2023 que le Hamas préparait une attaque. Le Premier ministre israélien n’aurait rien fait de cette information, selon Haaretz. Le Premier ministre dément catégoriquement. Après le séisme politique suscité par les révélations, le parti du Premier ministre accuse un Palestinien d'être derrière la polémique.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260910-7-octobre-apr%C3%A8s-les-r%C3%A9v%C3%A9lations-de-haaretz-le-parti-de-benyamin-netanyahu-accuse-un-palestinien-d-ing%C3%A9rence",
+          "imageUrl": "https://s.rfi.fr/media/display/cbc2a5d8-ad1b-11f1-8f6a-005056bfb2b6/w:1024/p:16x9/2026-09-08T164847Z-1659140614-RC24FNA9LJ05-RTRMADP-3-ISRAEL-POLITICS-NETANYAHU.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-10T13:31:45.000Z",
+          "fetchedAt": "2026-09-11T04:48:22.484Z"
+        },
+        {
+          "id": "2026-09-09-08bcb73b",
+          "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
+          "description": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
+          "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1315/live/45d63330-ace5-11f1-b1d1-571ed4d7ff2c.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-09T22:17:22.000Z",
+          "fetchedAt": "2026-09-11T04:48:22.221Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "« L’Ubérisation » : pour les travailleurs, la fiction de l’indépendance",
+      "topic": "Anthropic dit avoir bloqué des utilisations malveillantes de son IA, comme des r",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-09-11-879dd46a",
+          "title": "Anthropic dit avoir bloqué des utilisations malveillantes de son IA, comme des recherches pour créer des armes biologiques",
+          "description": "L’entreprise américaine a précisé avoir renforcé les mesures de sécurité de ses derniers modèles d’intelligence artificielle afin de limiter les recherches biologiques susceptibles d’être utilisées pour fabriquer des armes.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/09/11/anthropic-dit-avoir-bloque-des-utilisations-malveillantes-de-son-ia-comme-des-recherches-pouvant-faciliter-l-utilisation-d-armes-biologiques_6770214_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-11T01:43:28.000Z",
+          "fetchedAt": "2026-09-11T04:48:22.348Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "La résidence de Céline Dion à Paris fait chanter l’économie : « Quand on est fan",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-10-9436febb",
-          "title": "« L’Ubérisation » : pour les travailleurs, la fiction de l’indépendance",
-          "description": "Dans son ouvrage de synthèse consacré à l’ubérisation, Patrick Cingolani souligne le « déni » des plateformes numériques concernant le lien de subordination qui caractérise, à ses yeux, leur relation avec les travailleurs.",
-          "url": "https://www.lemonde.fr/vie-au-travail/article/2026/09/10/l-uberisation-pour-les-travailleurs-la-fiction-de-l-independance_6769340_6768900.html",
+          "id": "2026-09-11-23d1ada3",
+          "title": "La résidence de Céline Dion à Paris fait chanter l’économie : « Quand on est fan, on ne compte pas »",
+          "description": "Après six ans d’absence, la star québécoise entame samedi une série de 26 concerts dans la capitale. Hôteliers, restaurateurs et commerçants espèrent profiter de l’afflux de près de 800 000 fans, français et étrangers. Une manne estimée entre 500 millions et un milliard d’euros, qui n’est pas sans coût pour le climat.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/11/la-residence-de-celine-dion-a-paris-fait-chanter-l-economie-quand-on-est-fan-on-ne-compte-pas_6770316_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-09-10T04:00:13.000Z",
-          "fetchedAt": "2026-09-10T04:51:12.710Z"
+          "publishedAt": "2026-09-11T03:45:03.000Z",
+          "fetchedAt": "2026-09-11T04:48:26.409Z"
         }
       ]
     }
