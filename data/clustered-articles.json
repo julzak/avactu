@@ -1,143 +1,198 @@
 {
-  "generatedAt": "2026-09-11T04:52:17.290Z",
+  "generatedAt": "2026-09-13T04:59:36.527Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "En conclusion de la convention républicaine, J. D. Vance passe sous silence la g",
+      "topic": "Au festival de Venise, “la défaite du cinéma italien” et le Lion d’or pour Woman",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-11-2a96b2cb",
-          "title": "En conclusion de la convention républicaine, J. D. Vance passe sous silence la guerre en Iran et se pose en premier adversaire des démocrates",
-          "description": "Qualifiant les démocrates de « parti de la haine », le vice-président a délivré à Dallas un discours destiné à capter l’héritage trumpien en vue de la présidentielle de 2028. Sans réussir tout à fait à s’émanciper de l’ombre de Donald Trump.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/11/en-conclusion-de-la-convention-republicaine-j-d-vance-passe-sous-silence-la-guerre-en-iran-et-se-pose-en-premier-adversaire-des-democrates_6770330_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-11T04:24:02.000Z",
-          "fetchedAt": "2026-09-11T04:48:16.936Z"
-        },
-        {
-          "id": "2026-09-11-68deaf69",
-          "title": "Anthropic déjoue des opérations de surveillance menées à l'aide de son IA en Chine et en Iran",
-          "description": "Dans un rapport publié jeudi, l'Américain Anthropic relate avoir bloqué des opérations de surveillance utilisant son IA Claude pour viser des dissidents tibétains, hongkongais et iraniens, menées par des acteurs liés à la Chine et l'Iran.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260911-ia-anthropic-claude-dejoue-operations-surveillance-chine-iran-mali-moonshot-deepseek",
-          "imageUrl": "https://s.france24.com/media/display/5f125972-8c89-11f1-91dd-005056a97e36/w:1024/p:16x9/2026-07-30T232533Z-1680869369-RC2UNLA4ZYRG-RTRMADP-3-ANTHROPIC-CYBERSECURITY.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-11T02:59:35.000Z",
-          "fetchedAt": "2026-09-11T04:48:16.831Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Guerre en Ukraine, mini-séisme déclenché par Israël au Liban, Hong Kong, tension",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-11-2d95ba26",
-          "title": "Guerre en Ukraine, mini-séisme déclenché par Israël au Liban, Hong Kong, tensions Algérie-Émirats, câbles sous-marins : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-ukraine-mini-seisme-declenche-par-israel-au-liban-tensions-algerie-emirats-cables-sous-marins-les-informations-de-la-nuit_269712",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/10/0/2/2496/1664/1200/630/60/0/ec6e824_ftp-1-vdqofzni54gx-afp-c7wy763.jpg",
+          "id": "2026-09-13-e2a99414",
+          "title": "Au festival de Venise, “la défaite du cinéma italien” et le Lion d’or pour Woman Unknown",
+          "description": "Le film danois de May el-Toukhy, seule femme réalisatrice en compétition, remporte le prix le plus prestigieux de cette 83e édition. NAZA, un documentaire controversé sur Israël, est également récompensé. Aucun film italien ne figure au palmarès cette année.",
+          "url": "https://www.courrierinternational.com/article/cinema-au-festival-de-venise-la-defaite-du-cinema-italien-et-le-lion-d-or-pour-woman-unknown_270207",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/12/0/0/2917/1945/1200/630/60/0/4a45531_ftp-1-kenupbogftp0-2026-09-12t212538z-1062279645-rc2vhnab6ypq-rtrmadp-3-filmfestival-venice-closing-red-carpet.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-11T04:08:41.000Z",
-          "fetchedAt": "2026-09-11T04:48:17.163Z"
+          "publishedAt": "2026-09-13T03:55:01.000Z",
+          "fetchedAt": "2026-09-13T04:55:36.133Z"
         },
         {
-          "id": "2026-09-10-e9200c89",
-          "title": "Liban : Israël dynamite des tunnels du Hezbollah et provoque un mini-séisme",
-          "description": "L'armée israélienne a affirmé jeudi avoir détruit des infrastructures souterraines du Hezbollah de la crête d'Ali Taher, dans le sud du Liban. L'explosion a été si puissante que l'agence américaine de sismologie USGS a relevé une secousse de magnitude 4,1, ressentie par les habitants.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260910-liban-isra%C3%ABl-dynamite-des-tunnels-du-hezbollah-et-provoque-un-mini-s%C3%A9isme",
-          "imageUrl": "https://s.france24.com/media/display/0f23b9f4-ad60-11f1-ae6c-005056a97e36/w:1024/p:16x9/1d0f06324c054e231ce6828ba3ee1c102daaf993.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-10T21:39:11.000Z",
-          "fetchedAt": "2026-09-11T04:48:16.831Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-32",
-      "topic": "🔴 En direct : l'explosion de tunnels du Hezbollah par Israël au Liban entraîne ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-10-2314ba89",
-          "title": "🔴 En direct : l'explosion de tunnels du Hezbollah par Israël au Liban entraîne une secousse de magnitude 4,1",
-          "description": "",
-          "url": "https://www.france24.com/fr/moyen-orient/20260910-en-direct-moyen-orient-iran-petrole-au-dessus-100-dollars-frappes-detroit-ormuz-donald-trump",
-          "imageUrl": "https://s.france24.com/media/display/328bf300-ad30-11f1-af88-005056a90284/w:1280/p:16x9/000-C37P2FX.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-10T20:07:58.000Z",
-          "fetchedAt": "2026-09-11T04:48:16.831Z"
-        },
-        {
-          "id": "2026-09-10-e970c7ff",
-          "title": "7-Octobre: après les révélations de «Haaretz», le parti de Benyamin Netanyahu accuse un Palestinien d'ingérence",
-          "description": "Le 8 septembre, le quotidien Haaretz a affirmé dans une enquête que le président des Émirats arabes unis aurait averti Benyamin Netanyahu quelques jours avant le 7 octobre 2023 que le Hamas préparait une attaque. Le Premier ministre israélien n’aurait rien fait de cette information, selon Haaretz. Le Premier ministre dément catégoriquement. Après le séisme politique suscité par les révélations, le parti du Premier ministre accuse un Palestinien d'être derrière la polémique.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20260910-7-octobre-apr%C3%A8s-les-r%C3%A9v%C3%A9lations-de-haaretz-le-parti-de-benyamin-netanyahu-accuse-un-palestinien-d-ing%C3%A9rence",
-          "imageUrl": "https://s.rfi.fr/media/display/cbc2a5d8-ad1b-11f1-8f6a-005056bfb2b6/w:1024/p:16x9/2026-09-08T164847Z-1659140614-RC24FNA9LJ05-RTRMADP-3-ISRAEL-POLITICS-NETANYAHU.jpg",
+          "id": "2026-09-12-53f12954",
+          "title": "Mostra de Venise: «Woman Unknown», récit de femmes «invisibles» et «privées de voix», doublement récompensé",
+          "description": "Le faible nombre de réalisatrices en compétition à la Mostra de Venise avait provoqué un tollé: le jury présidé par Maggie Gyllenhaal a décidé samedi 12 septembre de récompenser l'une d'entre elles, May el-Toukhy, pour Woman Unknown sur le destin d'une femme au Danemark dans l'immédiat après-guerre.",
+          "url": "https://www.rfi.fr/fr/culture/20260912-mostra-de-venise-woman-unknown-r%C3%A9cit-de-femmes-invisibles-et-priv%C3%A9es-de-voix-doublement-r%C3%A9compens%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/3af23d58-aef5-11f1-804f-005056a97e36/w:1024/p:16x9/2026-09-12T211729Z-1886740480-RC2VHNARIRQA-RTRMADP-3-FILMFESTIVAL-VENICE-CLOSING-RED-CARPET.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-10T13:31:45.000Z",
-          "fetchedAt": "2026-09-11T04:48:22.484Z"
+          "publishedAt": "2026-09-12T22:41:26.000Z",
+          "fetchedAt": "2026-09-13T04:55:42.515Z"
         },
         {
-          "id": "2026-09-09-08bcb73b",
-          "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
-          "description": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
-          "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1315/live/45d63330-ace5-11f1-b1d1-571ed4d7ff2c.jpg",
+          "id": "2026-09-12-6b0c0920",
+          "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+          "description": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
+          "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-09-09T22:17:22.000Z",
-          "fetchedAt": "2026-09-11T04:48:22.221Z"
+          "publishedAt": "2026-09-12T02:29:49.000Z",
+          "fetchedAt": "2026-09-13T04:55:42.329Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Anthropic dit avoir bloqué des utilisations malveillantes de son IA, comme des r",
-      "category": "tech",
-      "importance": 7,
+      "topic": "Le « plaidoyer vibrant » du PDG d’Anthropic pour ralentir les progrès de l’intel",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-09-11-879dd46a",
-          "title": "Anthropic dit avoir bloqué des utilisations malveillantes de son IA, comme des recherches pour créer des armes biologiques",
-          "description": "L’entreprise américaine a précisé avoir renforcé les mesures de sécurité de ses derniers modèles d’intelligence artificielle afin de limiter les recherches biologiques susceptibles d’être utilisées pour fabriquer des armes.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/11/anthropic-dit-avoir-bloque-des-utilisations-malveillantes-de-son-ia-comme-des-recherches-pouvant-faciliter-l-utilisation-d-armes-biologiques_6770214_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-11T01:43:28.000Z",
-          "fetchedAt": "2026-09-11T04:48:22.348Z"
+          "id": "2026-09-13-e21961db",
+          "title": "Le « plaidoyer vibrant » du PDG d’Anthropic pour ralentir les progrès de l’intelligence artificielle",
+          "description": "Dario Amodei a publié samedi un long essai dans lequel il invite les entreprises du secteur à contenir les avancées de l’IA. Il s’inquiète des cyberattaques récentes et des progrès plus rapides que prévu de certains modèles. Ses rivaux Sam Altman d’OpenAI et Elon Musk se disent prêts à le suivre.",
+          "url": "https://www.courrierinternational.com/article/vu-des-etats-unis-le-plaidoyer-vibrant-du-pdg-d-anthropic-pour-ralentir-les-progres-de-l-intelligence-artificielle_270174",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/12/0/2/5388/3592/1200/630/60/0/95b8d33_ftp-1-4dbwplu6feo3-afp-c84n2wz.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-13T03:55:01.000Z",
+          "fetchedAt": "2026-09-13T04:55:36.133Z"
+        },
+        {
+          "id": "2026-09-12-e2172cc8",
+          "title": "Le patron d'Anthropic appelle à ralentir le développement de l'intelligence artificielle",
+          "description": "Le patron d'Anthropic, Dario Amodei, a appelé samedi à ralentir la vitesse de développement de l'intelligence artificielle (IA), un message auquel se sont rapidement rallié Elon Musk et Sam Altman (OpenAI).",
+          "url": "https://www.rfi.fr/fr/monde/20260912-le-patron-d-anthropic-veut-ralentir-sur-l-ia-musk-et-altman-le-soutiennent",
+          "imageUrl": "https://s.rfi.fr/media/display/e82912b0-1523-11f1-9179-005056bfb2b6/w:1024/p:16x9/2026-02-19T075350Z-964903979-RC2UOJAO2BED-RTRMADP-3-INDIA-AI.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-12T22:10:15.000Z",
+          "fetchedAt": "2026-09-13T04:55:42.515Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "La résidence de Céline Dion à Paris fait chanter l’économie : « Quand on est fan",
+      "id": "cluster-4",
+      "topic": "Le sommet des BRICS acte une nouvelle étape dans le dégel prudent des relations ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-13-f8a7c319",
+          "title": "Le sommet des BRICS acte une nouvelle étape dans le dégel prudent des relations entre l’Inde et la Chine",
+          "description": "Le président chinois Xi Jinping est en visite à New Delhi samedi et dimanche, pour la première fois depuis sept ans, alors que les rapports entre les deux pays souffrent d’un conflit frontalier et de déséquilibres commerciaux.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/13/le-sommet-des-brics-acte-une-nouvelle-etape-dans-le-degel-prudent-des-relations-entre-l-inde-et-la-chine_6772186_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-13T03:45:12.000Z",
+          "fetchedAt": "2026-09-13T04:55:36.098Z"
+        },
+        {
+          "id": "2026-09-12-d524b723",
+          "title": "En Inde, une coentreprise de fabrication de téléphones illustre le dégel avec la Chine",
+          "description": "La présence simultanée de Xi Jinping et Narendra Modi en Inde, à l’occasion du sommet des Brics, illustre le réchauffement des relations entre les deux pays les plus peuplés du monde. L’étau se desserre doucement entre les deux économies, avec l’autorisation de nouveaux investissements chinois sur le territoire indien, notamment dans un secteur clé : la fabrication de téléphones portables. Si la Chine reste de loin le plus grand fabricant mondial, l’Inde progresse rapidement. Une alliance, où une « joint venture » entre deux géants du secteur, a été annoncée en juillet. L’entreprise chinoise Vivo et l’indienne Dixon ont ainsi scellé leur collaboration, comme en témoigne la visite de l’une de leurs usines en banlieue de New Delhi.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260912-en-inde-une-coentreprise-de-fabrication-de-t%C3%A9l%C3%A9phones-illustre-le-d%C3%A9gel-avec-la-chine",
+          "imageUrl": "https://s.rfi.fr/media/display/79852b6e-aeed-11f1-82c7-005056a90284/w:1024/p:16x9/De-la-fum%C3%A9e-s-%C3%A9chappe-des-chemin%C3%A9es-d-usines-dans-une-zone-industrielle-d-Ahmedabad-en-Inde-le-20-ao%C3%BBt-2026.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-12T22:05:09.000Z",
+          "fetchedAt": "2026-09-13T04:55:42.515Z"
+        },
+        {
+          "id": "2026-09-12-f1e936a6",
+          "title": "Sommet des Brics+: le «multi-alignement» de l'Inde au défi de son rapprochement avec la Chine",
+          "description": "Avec le sommet des Brics+ qui s'ouvre ce 12 septembre, New Delhi s’est transformée en vitrine politique sous haute sécurité. Les dirigeants russe, chinois et iranien sont en effet parmi la quinzaine de chefs d’État et de gouvernement présents. Au programme d’un sommet avant tout économique : les débats sur l’émancipation du dollar pour les transactions internationales, le rapprochement sino-indien et le grand écart entre les membres du bloc sur la crise au Moyen-Orient.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20260912-sommet-des-brics-le-multi-alignement-de-l-inde-au-d%C3%A9fi-de-son-rapprochement-avec-la-chine",
+          "imageUrl": "https://s.rfi.fr/media/display/454b4bbe-adfb-11f1-b404-005056bfb2b6/w:1024/p:16x9/2026-09-11T142648Z-80287782-RC2ZGNA1LEQI-RTRMADP-3-BRICS-SUMMIT.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-12T04:17:14.000Z",
+          "fetchedAt": "2026-09-13T04:55:42.515Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-29",
+      "topic": "La mise en garde de 25 médailles Fields : « Les objectifs des entreprises d’IA e",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-11-f9362320",
+          "title": "La mise en garde de 25 médailles Fields : « Les objectifs des entreprises d’IA et ceux de la communauté mathématique divergent profondément »",
+          "description": "En dépit des prouesses mathématiques réalisées par l’intelligence artificielle, un collectif rassemblant 25 lauréats de la médaille Fields s’inquiète, dans une tribune au « Monde », du tort causé par ces technologies à leur discipline.",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/11/la-mise-en-garde-de-25-medailles-fields-les-objectifs-des-entreprises-d-ia-et-ceux-de-la-communaute-mathematique-divergent-profondement_6770630_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-11T18:00:01.000Z",
+          "fetchedAt": "2026-09-13T04:55:42.468Z"
+        },
+        {
+          "id": "2026-09-11-32587c49",
+          "title": "Anthropic révèle que plusieurs organisations d’extrême droite françaises, dont un parti politique, ont été piratées à l’aide de son IA, Claude",
+          "description": "Des informations concernant les adhérents d’un parti, non identifié, figurent parmi les données dérobées par un hackeur français, dévoile le rapport de sécurité publié jeudi par l’entreprise américaine d’intelligence artificielle. Un « institut de formation politique » et plusieurs médias, dont le magazine « Frontières », ont également été visés.",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/11/anthropic-revele-que-plusieurs-organisations-d-extreme-droite-francaises-dont-un-parti-politique-ont-ete-piratees-a-l-aide-de-son-ia-claude_6770595_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-11T14:08:33.000Z",
+          "fetchedAt": "2026-09-13T04:55:42.468Z"
+        },
+        {
+          "id": "2026-09-11-46a33ad2",
+          "title": "Réseaux sociaux : le gouverneur de Californie, Gavin Newsom, signe un ensemble de lois pour protéger les moins de 16 ans des addictions",
+          "description": "Ces nouvelles lois visent « les fonctionnalités mêmes », selon l’élu démocrate, en empêchant les plateformes de proposer aux enfants des services jugés trop addictifs, tels que le défilement infini, les recommandations algorithmiques et la lecture automatique.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/11/reseaux-sociaux-en-californie-le-gouverneur-gavin-newsom-signe-un-ensemble-de-lois-pour-proteger-les-moins-de-16-ans-des-addictions_6770574_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-11T12:03:25.000Z",
+          "fetchedAt": "2026-09-13T04:55:42.468Z"
+        },
+        {
+          "id": "2026-09-11-794483a0",
+          "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
+          "description": "\"We felt like now is the time to pour gas on that fire.\"",
+          "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-09-11T11:00:30.000Z",
+          "fetchedAt": "2026-09-13T04:55:46.774Z"
+        },
+        {
+          "id": "2026-09-11-42e52f45",
+          "title": "IA : le débat sur l’« IApocalypse » prend de l’ampleur après la démission d’un chercheur d’Anthropic et des incidents de sécurité",
+          "description": "Alors qu’une série de piratages ont aiguisé les craintes, la démission, mercredi, de Jacob Coxon, un Britannique de 27 ans, évoquant une technologie qui « pourrait tous nous tuer d’ici à la fin de la décennie », relance le débat sur une possible menace existentielle.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/09/11/ia-apres-la-demission-de-jacob-coxon-et-plusieurs-incidents-de-securite-le-debat-sur-l-iapocalypse-prend-une-ampleur-inedite_6770505_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-11T08:00:02.000Z",
+          "fetchedAt": "2026-09-13T04:55:42.468Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "A Paris, New York ou Tokyo, le grand recul de la voiture au profit du métro, de ",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-11-23d1ada3",
-          "title": "La résidence de Céline Dion à Paris fait chanter l’économie : « Quand on est fan, on ne compte pas »",
-          "description": "Après six ans d’absence, la star québécoise entame samedi une série de 26 concerts dans la capitale. Hôteliers, restaurateurs et commerçants espèrent profiter de l’afflux de près de 800 000 fans, français et étrangers. Une manne estimée entre 500 millions et un milliard d’euros, qui n’est pas sans coût pour le climat.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/11/la-residence-de-celine-dion-a-paris-fait-chanter-l-economie-quand-on-est-fan-on-ne-compte-pas_6770316_3234.html",
+          "id": "2026-09-13-eefd73f9",
+          "title": "A Paris, New York ou Tokyo, le grand recul de la voiture au profit du métro, de la marche et du vélo",
+          "description": "Dans une étude présentée le 9 septembre, l’Atelier parisien d’urbanisme analyse les déplacements des habitants de sept grandes métropoles durant les vingt dernières années. La profonde transformation de l’espace public révèle de nouveaux usages.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/13/a-paris-new-york-ou-tokyo-le-grand-recul-de-la-voiture-au-profit-du-metro-de-la-marche-et-du-velo_6772197_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-09-11T03:45:03.000Z",
-          "fetchedAt": "2026-09-11T04:48:26.409Z"
+          "publishedAt": "2026-09-13T04:30:14.000Z",
+          "fetchedAt": "2026-09-13T04:55:46.689Z"
         }
       ]
     }
