@@ -1,209 +1,198 @@
 {
-  "generatedAt": "2026-09-14T05:07:56.732Z",
+  "generatedAt": "2026-09-15T05:04:22.374Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Dans un roman inventif, l’ukraino-canadienne Maria Reva restitue l’irruption de ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-14-9106a9be",
-          "title": "Dans un roman inventif, l’ukraino-canadienne Maria Reva restitue l’irruption de la guerre dans le quotidien de ses personnages",
-          "description": "L’écrivaine canadienne d’origine ukrainienne écrivait une comédie sociale sur l’Ukraine, travail interrompu par l’invasion à grande échelle de son pays d’origine, en 2022. Elle l’a reprit, après réflexion, en intégrant l’événement à son roman. Une réussite.",
-          "url": "https://www.lemonde.fr/livres/article/2026/09/14/dans-un-roman-inventif-l-ukraino-canadienne-maria-reva-restitue-l-irruption-de-la-guerre-dans-le-quotidien-de-ses-personnages_6773365_3260.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-14T05:00:10.000Z",
-          "fetchedAt": "2026-09-14T05:03:56.167Z"
-        },
-        {
-          "id": "2026-09-14-1ccaa931",
-          "title": "En Méditerranée centrale, une chasse à l’homme en haute mer sponsorisée par l’UE",
-          "description": "« Le Monde » a embarqué au mois de juillet à bord de l’« Ocean Viking », le navire de sauvetage affrété par SOS Méditerranée. L’ONG française dénonce l’intensification de la violence en Méditerranée centrale à l’encontre des migrants et des humanitaires de la part d’acteurs libyens soutenus et financés par l’Union européenne.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/09/14/en-mediterranee-centrale-une-chasse-a-l-homme-en-haute-mer-sponsorisee-par-l-ue_6773351_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-14T03:50:11.000Z",
-          "fetchedAt": "2026-09-14T05:03:56.167Z"
-        },
-        {
-          "id": "2026-09-13-46ccf2e3",
-          "title": "Première étape vers un dialogue national en RDC",
-          "description": "Félix Tshisekedi signe une ordonnance portant organisation et fonctionnement du comité chargé de préparer le dialogue national. L’ordonnance, lue à la télévision nationale, marque une première étape vers ce dialogue, réclamé par l’opposition depuis plusieurs mois.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260913-premi%C3%A8re-%C3%A9tape-vers-un-dialogue-national-en-rdc",
-          "imageUrl": "https://s.france24.com/media/display/ee9e5988-afb6-11f1-b46c-005056bf30b7/w:1024/p:16x9/DN196846-A-01-20260909-01.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-13T22:03:36.000Z",
-          "fetchedAt": "2026-09-14T05:03:56.356Z"
-        },
-        {
-          "id": "2026-09-13-9698eba8",
-          "title": "Dans L'Essentiel politique : les candidats en campagne, les gilets jaunes et Natacha Polony",
-          "description": "Alors que la plupart des candidats déclarés à la présidentielle étaient sur le terrain ce week-end, gros plan sur une femme qui prépare son entrée dans l'arène : l'essayiste Natacha Polony. Elle dit vouloir \"chambouler\" la politique. Le regard de Stéphane Vernay, éditorialiste et rédacteur en chef délégué du journal Ouest France.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260913-dans-l-essentiel-politique-les-candidats-en-campagne-les-gilets-jaunes-et-natacha-polony",
-          "imageUrl": "https://s.france24.com/media/display/704527ce-afbb-11f1-a65f-005056a97e36/w:1024/p:16x9/FR-20260913-213008-214133-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-13T21:45:38.000Z",
-          "fetchedAt": "2026-09-14T05:03:56.356Z"
-        },
-        {
-          "id": "2026-09-13-6e6573f8",
-          "title": "Questions mount over what an AI 'slowdown' would look like",
-          "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-13T18:20:22.000Z",
-          "fetchedAt": "2026-09-14T05:04:00.941Z"
-        },
-        {
-          "id": "2026-09-13-185aaf6e",
-          "title": "La tapisserie de Bayeux, “une version médiévale de la manosphère”",
-          "description": "L’exposition de la tapisserie de Bayeux a ouvert jeudi 10 septembre au British Museum de Londres. Or, d’après la “BBC”, cette œuvre d’art qui représente la conquête de l’Angleterre par les Normands “décrit une version médiévale de ces réseaux virilistes qui sévissent sur Internet : une idéologie et un univers centré sur l’hypermasculinité et le vécu des hommes”.",
-          "url": "https://www.courrierinternational.com/stories/arts-la-tapisserie-de-bayeux-une-version-medievale-de-la-manosphere_269690",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/11/329/0/1181/787/1200/630/60/0/d033e96_upload-1-yq6deyx2aka2-054-183113-copie.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-13T14:00:08.000Z",
-          "fetchedAt": "2026-09-14T05:03:56.481Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-2",
-      "topic": "Japon: à Okinawa, le gouverneur Denny Tamaki opposé aux bases américaines nettem",
+      "topic": "RDC: les habitants de Bukavu inhument dans l’émotion les jeunes victimes de l’in",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-14-2a7f44b0",
-          "title": "Japon: à Okinawa, le gouverneur Denny Tamaki opposé aux bases américaines nettement battu aux élections",
-          "description": "Genta Koja, un candidat favorable au maintien dans l'île japonaise d'Okinawa d'une base militaire américaine a été élu, ce dimanche 13 septembre 2026, gouverneur du département. Il a largement battu le dirigeant sortant qui militait pour le départ pur et simple de cette installation qui fait polémique au Japon.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20260914-japon-%C3%A0-okinawa-le-gouverneur-denny-tamaki-oppos%C3%A9-aux-bases-am%C3%A9ricaines-nettement-battu-aux-%C3%A9lections",
-          "imageUrl": "https://s.rfi.fr/media/display/2d28a74e-c4f9-11ea-aacf-005056bff430/w:1024/p:16x9/2020-07-13T073800Z_1763220508_RC27SH9C2KKZ_RTRMADP_3_HEALTH-CORONAVIRUS-JAPAN-OKINAWA.JPG",
+          "id": "2026-09-15-b7e0831f",
+          "title": "RDC: les habitants de Bukavu inhument dans l’émotion les jeunes victimes de l’incendie de leurs écoles",
+          "description": "En République démocratique du Congo, les 27 victimes de l'incendie de la semaine dernière à Bukavu ont été inhumées lundi 14 septembre au cimetière de Ruzizi, dont la plupart sont des enfants. Deux complexes scolaires et 500 maisons avaient été ravagés. Une cérémonie funéraire a été organisée dans une école, en présence d'autorités de l'AFC/M23, dont son coordonateur Corneille Naanga, et des familles des victimes. L'émotion était très forte.",
+          "url": "https://www.rfi.fr/fr/afrique/20260915-rdc-les-habitants-de-bukavu-inhument-dans-l-%C3%A9motion-les-jeunes-victimes-de-l-incendie-de-leurs-%C3%A9coles",
+          "imageUrl": "https://s.rfi.fr/media/display/6e418f78-b0bd-11f1-bec1-005056bf30b7/w:1024/p:16x9/AP26257506531979.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-14T04:52:37.000Z",
-          "fetchedAt": "2026-09-14T05:04:00.889Z"
+          "publishedAt": "2026-09-15T04:28:35.000Z",
+          "fetchedAt": "2026-09-15T05:00:29.769Z"
         },
         {
-          "id": "2026-09-13-b3b4d21f",
-          "title": "Mondial de basket : les Bleues s'inclinent en finale face aux invincibles Américaines",
-          "description": "Les basketteuses françaises se sont lourdement inclinées 97 à 79 dimanche soir en finale de la Coupe du monde à Berlin contre les États-Unis, invaincues depuis 20 ans en compétition majeure (Jeux olympiques et Mondial) et désormais quintuples championnes du monde en titre.",
-          "url": "https://www.france24.com/fr/sports/20260913-mondial-de-basket-les-bleues-s-inclinent-en-finale-face-aux-invincibles-am%C3%A9ricaines",
-          "imageUrl": "https://s.france24.com/media/display/8cfdc4ea-afaf-11f1-8ce6-005056bfb2b6/w:1024/p:16x9/61f80d9235b18155526318ecdb44c9e28cdd1680.jpg",
-          "source": "France 24",
+          "id": "2026-09-15-28ff52cc",
+          "title": "Au Royaume-Uni, les millions perçus par le parti de Nigel Farage enflamment le débat sur le financement des formations politiques",
+          "description": "Les sommes très importantes reçues ces derniers jours par Reform UK ont provoqué un séisme dans le pays. Une loi visant à mieux encadrer de tels dons est en gestation.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/15/au-royaume-uni-les-millions-percus-par-le-parti-de-nigel-farage-enflamment-le-debat-sur-le-financement-des-formations-politiques_6774334_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-13T20:13:15.000Z",
-          "fetchedAt": "2026-09-14T05:03:56.356Z"
+          "publishedAt": "2026-09-15T04:25:04.000Z",
+          "fetchedAt": "2026-09-15T05:00:21.940Z"
         },
         {
-          "id": "2026-09-13-a95a27ea",
-          "title": "Trump fustige les \"forces négatives\" qui veulent freiner le développement de l'IA",
-          "description": "Donald Trump a dénoncé dimanche les \"forces négatives\" qui veulent ralentir le développement de l'intelligence artificielle. Cette déclaration intervient alors que les appels à davantage de prudence et de régulation se multiplient, y compris de la part de figures du secteur comme le patron d'Anthropic, Dario Amodei.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260913-ia-trump-fustige-les-forces-n%C3%A9gatives-qui-veulent-freiner-son-d%C3%A9veloppement",
-          "imageUrl": "https://s.france24.com/media/display/8b812582-af80-11f1-89c8-005056a97e36/w:1024/p:16x9/2026-09-13T130451Z-943753214-RC2DINAGWTJK-RTRMADP-3-USA-TRUMP-IRELAND.jpg",
+          "id": "2026-09-15-8e91cb9b",
+          "title": "En direct : le Pentagone reconnait une \"pénurie\" de munitions avec la guerre en Iran",
+          "description": "Le ministère américain de la Défense a reconnu, dans un rapport publié lundi, une \"pénurie\" de munitions liée à la guerre en Iran, un constat que l'administration Trump avait pourtant largement refusé de confirmer ces derniers mois. Une série d'attaques menées par les Houthis du Yémen à l'aide de missiles balistiques et de drones a blessé 13 civils lundi dans le sud de l'Arabie saoudite, a annoncé mardi la coalition militaire dirigée par Riyad contre les rebelles pro-iraniens. Notre direct.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260915-en-direct-moyen-orient-iran-etats-unis-yemen-houthis-pentagone-penurie-munitions-trump",
+          "imageUrl": "https://s.france24.com/media/display/489a8b60-a9e0-11f0-8337-005056bf30b7/w:1024/p:16x9/2025-10-15T143904Z-1991395580-RC27VS9TRRZX-RTRMADP-3-USA-PENTAGON-PRESS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-13T09:41:11.000Z",
-          "fetchedAt": "2026-09-14T05:03:56.356Z"
+          "publishedAt": "2026-09-15T03:09:22.000Z",
+          "fetchedAt": "2026-09-15T05:00:21.928Z"
+        },
+        {
+          "id": "2026-09-15-c187e9ed",
+          "title": "Mali: à Bamako, le Premier ministre algérien plaide pour un renforcement des relations entre les deux pays",
+          "description": "Dans la foulée de la visite du Premier ministre malien Abdoulaye Maïga à Alger le 24 août dernier, son homologue algérien Sifi Ghrieb s'est rendu à Bamako, lundi 14 septembre. Un déplacement dont l'objectif était d'entériner le réchauffement des relations entre les deux capitales après plusieurs mois de tensions.",
+          "url": "https://www.rfi.fr/fr/afrique/20260915-mali-%C3%A0-bamako-le-premier-ministre-alg%C3%A9rien-plaide-pour-un-renforcement-des-relations-entre-les-deux-pays",
+          "imageUrl": "https://s.rfi.fr/media/display/1b0c3248-b092-11f1-b5bf-005056a97e36/w:1024/p:16x9/AP26257549762089.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-15T03:01:21.000Z",
+          "fetchedAt": "2026-09-15T05:00:29.769Z"
+        },
+        {
+          "id": "2026-09-15-1c70d06b",
+          "title": "États-Unis: l'administration Trump supprime les limites d'émissions polluantes imposées aux centrales électriques",
+          "description": "Mise en place par Joe Biden il y a deux ans, la mesure abrogée lundi 14 septembre avait pour but de contraindre les centrales thermiques à charbon et au gaz naturel à se préparer à capturer 90% des gaz à effet de serre qu’elles rejetaient dans l’atmosphère. L'initiative représente un nouveau coup dur porté aux réglementations visant à lutter contre le réchauffement climatique aux États-Unis.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260915-%C3%A9tats-unis-l-administration-trump-supprime-les-limites-d-%C3%A9missions-polluantes-impos%C3%A9es-aux-centrales-%C3%A9lectriques",
+          "imageUrl": "https://s.rfi.fr/media/display/4c387d7e-b09a-11f1-b567-005056bf30b7/w:1024/p:16x9/AP26257540442676.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-15T03:01:05.000Z",
+          "fetchedAt": "2026-09-15T05:00:29.769Z"
+        },
+        {
+          "id": "2026-09-15-e8f34617",
+          "title": "JOJ-2026: la flamme olympique s'élance à Dakar pour un long périple à travers le Sénégal",
+          "description": "Le coup d'envoi de la tournée de la flamme des Jeux olympiques de la Jeunesse (JOJ) à travers le Sénégal a été donné lundi 14 septembre avec une première étape dans la capitale. D'ici au début de la compétition, le 31 octobre, celle-ci va effectuer un périple long de 3600 kilomètres qui va la conduire aux quatre coins du pays.",
+          "url": "https://www.rfi.fr/fr/afrique/20260915-joj-2026-la-flamme-olympique-s-%C3%A9lance-%C3%A0-dakar-pour-un-long-p%C3%A9riple-%C3%A0-travers-le-s%C3%A9n%C3%A9gal",
+          "imageUrl": "https://s.rfi.fr/media/display/e6316cfc-b0a8-11f1-bb9b-005056a90284/w:1024/p:16x9/IMG-3835.jpeg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-15T03:00:24.000Z",
+          "fetchedAt": "2026-09-15T05:00:29.769Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "EN DIRECT, guerre en Ukraine : le point sur la situation",
+      "id": "cluster-4",
+      "topic": "Emmy Awards, midterms, CO2, Macklemore et Royaume-Uni : les informations de la n",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-14-e9863430",
-          "title": "EN DIRECT, guerre en Ukraine : le point sur la situation",
-          "description": "Selon l’armée ukrainienne, 310 drones ont été abattus sur les 323 utilisés par la Russie, dimanche. Le premier ministre polonais, Donald Tusk, a convoqué une réunion spéciale après qu’une locomotive d’un train de voyageurs a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/14/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6772184_3210.html",
+          "id": "2026-09-15-2356cac6",
+          "title": "Emmy Awards, midterms, CO2, Macklemore et Royaume-Uni : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-emmy-awards-midterms-co2-macklemore-et-royaume-uni-les-informations-de-la-nuit_270999",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/15/0/0/6000/4000/1200/630/60/0/dfedbad_ftp-1-cofdm2gwpkiy-2026-09-15t030137z-587650970-hp1em9f08eoli-rtrmadp-3-awards-emmys.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-15T03:57:11.000Z",
+          "fetchedAt": "2026-09-15T05:00:21.888Z"
+        },
+        {
+          "id": "2026-09-14-df63858d",
+          "title": "Au Royaume-Uni, le gouvernement se prépare à nationaliser Speciality Steel, la troisième aciérie du pays",
+          "description": "Londres a renoncé à un rachat privé, solution jugée insuffisamment stable, et entend garder toutes les options ouvertes pour l’avenir de l’entreprise au plus de 1 300 salariés.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/14/au-royaume-uni-le-gouvernement-se-prepare-a-nationaliser-speciality-steel-la-troisieme-acierie-du-pays_6773881_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-14T04:51:01.000Z",
-          "fetchedAt": "2026-09-14T05:03:56.167Z"
-        },
-        {
-          "id": "2026-09-14-ccc9e3e9",
-          "title": "Guerre en Ukraine : émoi international après une frappe de drone russe sur un train reliant Kiev à Varsovie",
-          "description": "L’Ukraine dénonce une « attaque systémique » contre son réseau ferroviaire, tandis que la Pologne, membre de l’OTAN, craint une « escalade » de la part de Moscou. Un autre train, avec à son bord des personnalités européennes et américaines, venait de quitter la gare visée dimanche.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/14/guerre-en-ukraine-emoi-international-apres-une-frappe-de-drone-russe-sur-un-train-reliant-kiev-a-varsovie_6773350_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-14T03:48:26.000Z",
-          "fetchedAt": "2026-09-14T05:03:56.167Z"
-        },
-        {
-          "id": "2026-09-14-07caa1f4",
-          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-          "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-          "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-14T03:38:13.000Z",
-          "fetchedAt": "2026-09-14T05:04:00.941Z"
+          "publishedAt": "2026-09-14T19:04:10.000Z",
+          "fetchedAt": "2026-09-15T05:00:21.940Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "Chère Union Européenne, je voudrais profiter à 100 % d’un produit que je paye 10",
-      "category": "tech",
-      "importance": 9,
+      "id": "cluster-5",
+      "topic": "“Canular” pour Donald Trump, “alarmisme” pour la Chine : le débat sur les risque",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-09-13-31b7f33c",
-          "title": "Chère Union Européenne, je voudrais profiter à 100 % d’un produit que je paye 100 % de son prix : comment peut-on avancer ? Cordialement",
-          "description": "Le soir du keynote Apple, pendant que John Ternus (bye Tim, c’était chouette) dépliait le premier iPhone pliant de l'histoire d'Apple sur la scène du Steve Jobs Theater, j'ai regardé mon iPhone 17 Pro fixement et je me suis posé des questions. Cet article est extrait de la newsletter ToujoursPlus : abonnez-vous ici gratuitement pour la recevoir tous les week-ends.",
-          "url": "https://www.numerama.com/tech/2331549-chere-union-europeenne-je-voudrais-profiter-a-100-dun-produit-que-je-paye-100-de-son-prix-comment-peut-on-avancer-cordialement.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/iphone-duo-close.png?resize=1600,900&key=ed742dfa",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-09-13T15:47:58.000Z",
-          "fetchedAt": "2026-09-14T05:04:01.053Z"
+          "id": "2026-09-15-eec58fa2",
+          "title": "“Canular” pour Donald Trump, “alarmisme” pour la Chine : le débat sur les risques de l’IA se poursuit",
+          "description": "Après l’alerte lancée par le PDG d’Anthropic ce week-end, le président américain a à nouveau minimisé les inquiétudes sur les risques de l’intelligence artificielle tandis que Pékin dénonce une exagération à l’avantage des groupes américains. Les marchés financiers, eux, ont mal accueilli le débat du moment.",
+          "url": "https://www.courrierinternational.com/article/tech-canular-pour-donald-trump-alarmisme-pour-la-chine-le-debat-sur-les-risques-de-l-ia-se-poursuit_270966",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/14/23/0/4000/2666/1200/630/60/0/09e779c_ftp-1-r4gxkuzw6hsg-2026-09-14t220138z-466468460-rc2wr0ayhsv2-rtrmadp-3-usa-stocks-ai.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-15T03:55:05.000Z",
+          "fetchedAt": "2026-09-15T05:00:21.888Z"
         },
         {
-          "id": "2026-09-13-9836742a",
-          "title": "« Ces vidéos finissent par te faire adhérer à certaines idées sur le supposé rôle de la femme » : ces jeunes consommatrices attirées par les contenus des « tradwives »",
-          "description": "Sur les réseaux, les épouses (au foyer) traditionnelles réunissent une communauté majoritairement féminine. Alors que les jeunes femmes françaises sont de plus en plus féministes, le phénomène suscite des interrogations : qui sont ces « tradwatcheuses », et pourquoi le font-elles ?",
-          "url": "https://www.lemonde.fr/campus/article/2026/09/13/ces-videos-finissent-par-te-faire-adherer-a-certaines-idees-sur-le-suppose-role-de-la-femme-ces-jeunes-consommatrices-attirees-par-les-contenus-des-tradwives_6772231_4401467.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-13T05:00:09.000Z",
-          "fetchedAt": "2026-09-14T05:04:00.918Z"
+          "id": "2026-09-14-96f95644",
+          "title": "Invité par Washington, le Venezuela va participer au G20 consacré à l'énergie",
+          "description": "Caracas participe cette semaine à la réunion des ministres de l'Énergie du G20 à Houston, sur l'invitation des États-Unis, alors que Donald Trump cherche à revigorer l'exploitation des immenses réserves pétrolières du Venezuela.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260914-invit%C3%A9-par-washington-le-venezuela-va-participer-au-g20-consacr%C3%A9-%C3%A0-l-%C3%A9nergie",
+          "imageUrl": "https://s.france24.com/media/display/47d96d1c-b098-11f1-9021-005056a97e36/w:1024/p:16x9/ea7607de8aa30c2ff2134ead7b6e53246246fe8f.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-14T23:59:12.000Z",
+          "fetchedAt": "2026-09-15T05:00:21.928Z"
+        },
+        {
+          "id": "2026-09-14-c9bed46a",
+          "title": "L'yttrium, l’arme économique de la Chine contre les États-Unis",
+          "description": "C'est un métal peu connu, assimilé à la famille des terres rares. L'yttrium sert autant à l'industrie de l'aérospatiale, qu'à celle des semi-conducteurs et pourrait être à l'ordre du jour de la prochaine visite de Xi Jinping à Washington.",
+          "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20260914-l-yttrium-l-arme-%C3%A9conomique-de-la-chine-contre-les-%C3%A9tats-unis",
+          "imageUrl": "https://s.rfi.fr/media/display/d4fe6698-b061-11f1-8ff0-005056a90284/w:1024/p:16x9/Yttrium-sublimed-dendritic-and-1cm3-cube.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-14T22:05:09.000Z",
+          "fetchedAt": "2026-09-15T05:00:29.769Z"
+        },
+        {
+          "id": "2026-09-14-ddaa3b00",
+          "title": "Pour Pékin, les appels à “ralentir” sur l’IA visent à “maintenir l’hégémonie” américaine",
+          "description": "L’appel lancé par Dario Amodei, le PDG d’Anthropic, en faveur d’un ralentissement du développement de l’intelligence artificielle est plutôt mal reçu en Chine. On y voit surtout un plaidoyer pour entraver les entreprises chinoises et leurs modèles open source afin d’asseoir la domination américaine sur ce secteur éminemment stratégique.",
+          "url": "https://www.courrierinternational.com/article/vu-de-chine-pour-pekin-les-appels-a-ralentir-sur-l-ia-visent-a-maintenir-l-hegemonie-americaine_270879",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/14/0/0/4200/2800/1200/630/60/0/ac593cb_upload-1-kyq8eey85wql-035-2611799226674446353.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-14T16:49:11.000Z",
+          "fetchedAt": "2026-09-15T05:00:21.888Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Food redistribution warehouse opens in east London",
+      "id": "cluster-6",
+      "topic": "I got paid $5,000 to move to a place I'd never heard of",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-14-3d64e446",
-          "title": "Food redistribution warehouse opens in east London",
-          "description": "The Big Heart Food Hub in Barking aims to deliver 10 tonnes of food to charities each week.",
-          "url": "https://www.bbc.co.uk/news/articles/c87vywld028o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef39/live/fe214220-adbe-11f1-bc1f-3f186ca4140c.jpg",
+          "id": "2026-09-14-263a20fb",
+          "title": "I got paid $5,000 to move to a place I'd never heard of",
+          "description": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+          "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-14T04:56:54.000Z",
-          "fetchedAt": "2026-09-14T05:04:07.475Z"
+          "publishedAt": "2026-09-14T23:08:28.000Z",
+          "fetchedAt": "2026-09-15T05:00:38.042Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Apple Home’s new security camera features cost as much as $60 a month",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-09-14-b33734e7",
+          "title": "Apple Home’s new security camera features cost as much as $60 a month",
+          "description": "New Apple Intelligence features for HomeKit cameras start at $10 a month and go up to $60. | Image: The Verge\t\n\nWith the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it.\nApple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible security cameras saw, along with the clip. It also adds a new video search feature and the ability to stitch footage from multiple cameras into one clip, making it easier to keep an eye on what's happening around your home without scrolling through footage.\nBut to get these features, you'll need to pay $9.99 a month for the 2TB iCloud Plus plan (or $ …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-09-14T22:28:52.000Z",
+          "fetchedAt": "2026-09-15T05:00:33.686Z"
         }
       ]
     }
