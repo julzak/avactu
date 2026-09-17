@@ -1,242 +1,297 @@
 {
-  "generatedAt": "2026-09-16T05:00:14.509Z",
+  "generatedAt": "2026-09-17T05:02:44.612Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Elmedin Konakovic, ministre des affaires étrangères de Bosnie-Herzégovine : « La",
+      "id": "cluster-1",
+      "topic": "L'ex-président du Kosovo Hashim Thaçi condamné pour crimes de guerre par un trib",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-16-3be96c37",
-          "title": "Elmedin Konakovic, ministre des affaires étrangères de Bosnie-Herzégovine : « La glorification de Ratko Mladic en Serbie constitue un signal politique préoccupant pour la paix et la sécurité de l’Europe du Sud-Est »",
-          "description": "En organisant des funérailles nationales pour un criminel de guerre condamné, la Serbie a élevé celui-ci au rang de héros national, alors même qu’elle est candidate à l’entrée dans l’Union européenne. Cela devrait pousser tous les dirigeants du continent à réagir fermement, estime M. Konakovic, dans une tribune au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/16/elmedin-konakovic-ministre-des-affaires-etrangeres-de-bosnie-herzegovine-la-glorification-de-ratko-mladic-en-serbie-constitue-un-signal-politique-preoccupant-pour-la-paix-et-la-securite-de-l-europe-du-sud-est_6774922_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-16T04:30:03.000Z",
-          "fetchedAt": "2026-09-16T04:56:13.980Z"
-        },
-        {
-          "id": "2026-09-16-9a5e24db",
-          "title": "« Une fille excisée aura moins de pulsions sexuelles et sera une épouse fidèle » : du Mali à la Gambie, les partisans de l’excision en campagne",
-          "description": "Une campagne numérique appelant à « protéger » l’excision au Mali est devenue virale à la mi-août. La preuve pour de nombreux observateurs que le combat mené sur le continent pour faire interdire les mutilations génitales féminines, qui tuent chaque année des dizaines de milliers de filles et de femmes, est loin d’être gagné.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/16/une-fille-excisee-aura-moins-de-pulsions-sexuelles-et-sera-une-epouse-fidele-du-mali-a-la-gambie-les-partisans-de-l-excision-en-campagne_6774851_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-16T04:00:12.000Z",
-          "fetchedAt": "2026-09-16T04:56:13.980Z"
-        },
-        {
-          "id": "2026-09-16-80bca279",
-          "title": "“L’Invitation”, d’Olivia Wilde, “l’une des meilleures comédies dramatiques de l’année”",
-          "description": "Angela et Joe sont un couple au bout du rouleau. Ils reçoivent leurs voisins Piña et Hawk, vus par elle avec jalousie et par lui avec agacement. “L’Invitation”, en salle ce 16 septembre, est la comédie en huis clos qui en découle. Pour le “Los Angeles Times”, Olivia Wilde mène parfaitement son troisième film, des deux côtés de la caméra.",
-          "url": "https://www.courrierinternational.com/article/en-salle-l-invitation-d-olivia-wilde-l-une-des-meilleures-comedies-dramatiques-de-l-annee_269449",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/14/0/378/3240/2160/1200/630/60/0/187f7e5_upload-1-5y7tsqa7pcd2-invite-keyset-still-5.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-16T03:00:26.000Z",
-          "fetchedAt": "2026-09-16T04:56:14.134Z"
-        },
-        {
-          "id": "2026-09-16-a11fbd7f",
-          "title": "« En Iran, il y a énormément de jeunes qui avancent. Ils aiment la vie et ils se battent pour elle » : les souffles persans de la photographe iranienne Newsha Tavakolian",
-          "description": "Peu après la mort de Mahsa Amini et le mouvement Femme, vie, liberté, en 2022, la photographe iranienne Newsha Tavakolian a exhumé de ses archives ses clichés « ratés », pris au cours des trente dernières années, pour raconter une jeunesse iranienne vouée à osciller entre espoirs et désillusions. Un travail qui a donné naissance à l’ouvrage « And They Laughed at Me ».",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/16/en-iran-il-y-a-enormement-de-jeunes-qui-avancent-ils-aiment-la-vie-et-ils-se-battent-pour-elle-les-souffles-persans-de-la-photographe-iranienne-newsha-tavakolian_6774745_4500055.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-16T03:00:09.000Z",
-          "fetchedAt": "2026-09-16T04:56:13.980Z"
-        },
-        {
-          "id": "2026-09-16-54ac7c18",
-          "title": "Etats-Unis : face aux risques incontrôlés de l’IA, la figure de la gauche Bernie Sanders et l’imprécateur MAGA Steve Bannon affichent leur convergence",
-          "description": "Le sénateur du Vermont et l’animateur national-populiste ont alerté, mardi, lors d’une conférence à Washington, sur la nécessité de ralentir et d’encadrer les progrès des intelligences artificielles, sans s’entendre sur les moyens pour y parvenir.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/16/etats-unis-face-aux-risques-incontroles-de-l-ia-la-figure-de-la-gauche-bernie-sanders-et-l-imprecateur-maga-steve-bannon-affichent-leur-convergence_6774747_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-16T03:00:05.000Z",
-          "fetchedAt": "2026-09-16T04:56:13.980Z"
-        },
-        {
-          "id": "2026-09-16-6e522841",
-          "title": "En direct : la coalition menée par Riyad accuse les Houthis d'avoir lancé un drone sur La Mecque",
-          "description": "La coalition militaire menée par l’Arabie saoudite a affirmé mercredi avoir détruit un drone lancé par les Houthis du Yémen vers La Mecque, ce que les rebelles pro-iraniens ont démenti. Plusieurs explosions ont été entendues dans l'île de Qeshm, près du détroit d'Ormuz, a rapporté l'agence de presse officielle iranienne Irna. Suivez notre direct.",
-          "url": "http://www.france24.com/fr/moyen-orient/20260916-en-direct-moyen-orient-iran-arabie-saoudite-yemen-coalition-houthis-drone-la-mecque",
-          "imageUrl": "https://s.france24.com/media/display/37477474-78de-11ea-985c-005056bf87d6/w:1024/p:16x9/arabie%20pelerinage.jpg",
+          "id": "2026-09-17-858538ea",
+          "title": "L'ex-président du Kosovo Hashim Thaçi condamné pour crimes de guerre par un tribunal spécial",
+          "description": "En colère, des manifestants jettent des pierres sur le siège de la mission de l'UE chargée de juger les crimes ​de guerre ‌commis lors de l'insurrection de 1998-1999 au Kosovo. Ils réagissent à la condamnation de leur ancien président, Hashim Thaçi. Considéré comme un héros national, il a été condamné à 25 ans de prison pour meurtre, torture et détention illégale, mercredi. Le procès est controversé au Kosovo, Thaçi peut encore faire appel.",
+          "url": "http://www.france24.com/fr/vid%C3%A9o/20260917-l-ex-pr%C3%A9sident-du-kosovo-hashim-tha%C3%A7i-condamn%C3%A9-pour-crimes-de-guerre-par-un-tribunal-sp%C3%A9cial",
+          "imageUrl": "https://s.france24.com/media/display/17195c6a-b24f-11f1-807c-991cccd3bb73/w:1024/p:16x9/FR-20260917-053634-053822-CS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-16T01:37:24.000Z",
-          "fetchedAt": "2026-09-16T04:56:14.105Z"
+          "publishedAt": "2026-09-17T04:22:18.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.400Z"
+        },
+        {
+          "id": "2026-09-17-dc445f56",
+          "title": "La Bolivie et le Paraguay s’accordent sur le tracé de leur frontière commune après quatre-vingt-huit ans de négociations",
+          "description": "L’accord officialisé mercredi à La Paz est intervenu à l’issue d’une réunion durant trois jours de la Commission mixte de démarcation des limites boliviano-paraguayennes, qui a permis de délimiter le dernier tronçon de frontière en suspens.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/17/la-bolivie-et-le-paraguay-s-accordent-sur-le-trace-de-leur-frontiere-commune-apres-quatre-vingt-huit-ans-de-negociations_6775832_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-17T02:58:40.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.284Z"
+        },
+        {
+          "id": "2026-09-16-f4f94253",
+          "title": "Le Canada, bientôt dans l'Union européenne ?",
+          "description": "Jamais un dirigeant non européen n’avait été invité au Parlement de Strasbourg pour assister au traditionnel discours sur l’état de l’Union européenne. Pourtant, ce mercredi, Mark Carney a eu ce privilège. Le Premier ministre canadien a pu s’installer dans l’hémicycle strasbourgeois. En coulisses, une nouvelle relation se prépare dont on connaîtra les contours précis lors du prochain sommet bilatéral Canada-UE, qui se tiendra les 29 et 30 octobre prochain.",
+          "url": "http://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260916-le-canada-bient%C3%B4t-dans-l-union-europ%C3%A9enne",
+          "imageUrl": "https://s.france24.com/media/display/b8e0b168-b21a-11f1-a6c2-4daf57bffe27/w:1024/p:16x9/FRAN260916-2339-Live-CS2339.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-16T22:11:32.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.400Z"
+        },
+        {
+          "id": "2026-09-16-ac15a4b2",
+          "title": "L’UE veut une interdiction des réseaux sociaux avant 13 ans pour protéger les enfants",
+          "description": "C’est un projet soutenu en Europe notamment par Emmanuel Macron et qui reçoit désormais le soutien de la Commission européenne : interdire l’accès aux réseaux sociaux aux moins de 13 ans pour les protéger des impacts négatifs de ces plateformes sur l’éducation et la santé mentale. Ursula von der Leyen en a fait l’annonce ce mercredi à l’occasion de son discours sur l’État de l’Union.",
+          "url": "http://www.rfi.fr/fr/europe/20260916-l-ue-veut-une-interdiction-des-r%C3%A9seaux-sociaux-avant-13-ans-pour-prot%C3%A9ger-les-enfants",
+          "imageUrl": "https://s.rfi.fr/media/display/132ca7c8-b1ce-11f1-90ca-53b7617a3a51/w:1024/p:16x9/Ursula-Von-der-2026-09-16T090323Z-1284386259-RC29KNAX6GIN-RTRMADP-3-EU-STATEOFUNION.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-16T22:01:02.000Z",
+          "fetchedAt": "2026-09-17T04:58:49.384Z"
+        },
+        {
+          "id": "2026-09-16-dff239dd",
+          "title": "L'Arabie saoudite accuse les Houthis d'avoir mené une attaque de drone visant La Mecque",
+          "description": "L'Arabie Saoudite a accusé mercredi les Houthis d'avoir mené une attaque de drone contre la ville sainte de La Mecque, interceptée par sa défense aérienne. Les combattants pro-iraniens ont démenti avoir mené une telle attaque, accusant Ryad de nouvelles frappes au Yémen.",
+          "url": "http://www.france24.com/fr/moyen-orient/20260916-arabie-saoudite-accuse-les-houthis-d-avoir-men%C3%A9-une-attaque-de-drone-visant-la-mecque",
+          "imageUrl": "https://s.france24.com/media/display/824ac65c-b206-11f1-83d2-757719c1152f/w:1024/p:16x9/000-C8H2794.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-16T20:40:14.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.400Z"
+        },
+        {
+          "id": "2026-09-16-6880eab7",
+          "title": "Hashim Thaçi, l’ex-président du Kosovo, héros de l’indépendance chez beaucoup dans son pays, condamné à vingt-cinq ans de prison par un tribunal international",
+          "description": "Le tribunal spécial de La Haye a reconnu l’ex-chef de l’Armée de libération du Kosovo coupable de détentions arbitraires, tortures et meurtres commis pendant la guerre de 1998-1999.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/16/hashim-thaci-l-ex-president-du-kosovo-heros-de-l-independance-chez-beaucoup-dans-son-pays-condamne-a-vingt-cinq-ans-de-prison-par-un-tribunal-international_6775466_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-16T20:17:58.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.284Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "EN DIRECT, guerre en Ukraine : au moins 12 blessés, dont deux enfants, dans des ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-17-d660c325",
+          "title": "EN DIRECT, guerre en Ukraine : au moins 12 blessés, dont deux enfants, dans des attaques nocturnes sur Kiev",
+          "description": "Plusieurs quartiers de la capitale ukrainienne ont été visés durant la nuit. A Odessa, un immeuble d’habitation de 19 étages a par ailleurs été endommagé.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/17/en-direct-guerre-en-ukraine-au-moins-12-blesses-dont-deux-enfants-dans-des-attaques-nocturnes-sur-kiev_6772184_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-17T04:10:08.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.284Z"
+        },
+        {
+          "id": "2026-09-17-bb02c604",
+          "title": "Guerre en Ukraine, effondrement d’une mine au Soudan, crue au Népal : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-ukraine-effondrement-d-une-mine-au-soudan-crue-au-nepal-les-informations-de-la-nuit_271824",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/17/0/0/8256/5504/1200/630/60/0/14f3f79_ftp-1-jbkzjl9mkmqo-2295080698.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-17T03:00:09.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.426Z"
+        },
+        {
+          "id": "2026-09-17-c20c637f",
+          "title": "En direct : une vague de frappes russes fair 13 blessés à Kiev et Odessa",
+          "description": "De fortes explosions ont retenti à Kiev lors d'une alerte aux missiles déclenchée par les autorités, rapporte un journaliste de l'AFP. Les frappes russes ont fait au moins 13 blessés dans la capitale et à Odessa. De leur côté, les députés américains ont approuvé, mercredi, de nouvelles sanctions contre la Russie et ses alliés, un texte soutenu par Donald Trump qui prévoit de s'en prendre à la flotte fantôme de Moscou. Suivez notre direct.",
+          "url": "http://www.france24.com/fr/europe/20260917-en-direct-congres-americain-adopte-nouveau-paquet-sanctions-contre-russie-ukraine-explosions-kiev-zelensky-poutine-etats-unis",
+          "imageUrl": "https://s.france24.com/media/display/82360d78-b249-11f1-bf92-757719c1152f/w:1024/p:16x9/2026-09-16T202200Z-474779486-RC2WKMAFZ6HN-RTRMADP-3-UKRAINE-CRISIS-POWER-DTEK.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-17T01:25:54.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.400Z"
+        },
+        {
+          "id": "2026-09-16-87ad4b03",
+          "title": "Ukraine: à Otchakov, vivre sous la pression russe, à quelques kilomètres du front",
+          "description": "Dans de nombreux endroits du pays, le conflit est gelé depuis cinq ans. Comme à Otchakov, petite ville portuaire du sud de l'Ukraine qui vit depuis 5 ans à une poignée de kilomètres seulement des troupes russes.",
+          "url": "http://www.rfi.fr/fr/europe/20260916-ukraine-%C3%A0-otchakov-vivre-sous-la-pression-russe-%C3%A0-quelques-kilom%C3%A8tres-du-front",
+          "imageUrl": "https://s.rfi.fr/media/display/724bb990-b207-11f1-ad77-e5727ccb1647/w:1024/p:16x9/0b36a182-87e9-4276-a780-6f2cd043f47b.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-16T21:07:02.000Z",
+          "fetchedAt": "2026-09-17T04:58:49.384Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Afrique du Sud: Washington annonce des restrictions de visa, évoquant des «discr",
+      "topic": "Le nouveau patron de la Fed tient tête à Trump en relevant les taux directeurs",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-16-5af8021d",
-          "title": "Afrique du Sud: Washington annonce des restrictions de visa, évoquant des «discriminations raciales»",
-          "description": "L'administration du président Donald Trump a annoncé mardi 16 septembre la mise en place de restrictions de visa à l'encontre de Sud-Africains responsables, selon Washington, de mettre en place des « discriminations raciales », notamment contre les Afrikaners blancs. Le gouvernement Trump accuse depuis des mois, sans fondement, les autorités sud-africaines de « persécutions » contre les Afrikaners, descendants des colons européens.",
-          "url": "http://www.rfi.fr/fr/am%C3%A9riques/20260916-afrique-du-sud-washington-annonce-des-restrictions-de-visa-%C3%A9voquant-des-discriminations-raciales",
-          "imageUrl": "https://s.rfi.fr/media/display/b88db27c-b023-11f1-92aa-005056bf30b7/w:1024/p:16x9/2026-09-13T190603Z-1975930096-RC2IINA8YDL1-RTRMADP-3-USA-TRUMP-IRELAND.jpg",
-          "source": "RFI",
+          "id": "2026-09-17-2de310db",
+          "title": "Le nouveau patron de la Fed tient tête à Trump en relevant les taux directeurs",
+          "description": "La Réserve fédérale a voté mercredi en faveur d’une hausse de ses taux d’intérêt pour calmer l’inflation, une mesure à l’opposé de ce qu’attendait le président républicain en nommant Kevin Warsh à sa tête. Pour la presse américaine, la décision de la Fed témoigne de sa détermination à lutter contre la hausse persistante des prix.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-le-nouveau-patron-de-la-fed-tient-tete-a-trump-en-relevant-les-taux-directeurs_271890",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/16/0/0/5295/3530/1200/630/60/0/19b4fea_ftp-1-3ldmhqzjfyrc-2026-09-16t192610z-1212038521-rc2jkna3uu5r-rtrmadp-3-usa-fed.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-16T04:28:59.000Z",
-          "fetchedAt": "2026-09-16T04:56:20.119Z"
+          "publishedAt": "2026-09-17T04:04:28.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.426Z"
         },
         {
-          "id": "2026-09-16-91e82502",
-          "title": "Washington se prépare à livrer des dizaines de milliers de bombes à Israël, selon plusieurs médias américains",
-          "description": "D’après le « Washington Post » et le « New York Times », l’administration Trump s’apprête à approuver la vente d’au moins 40 000 munitions à l’Etat hébreu, pour un total de 2,8 milliards de dollars. La livraison doit inclure 20 000 MK-84, des ogives d’une tonne parmi les plus puissantes de l’arsenal américain.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/16/washington-se-prepare-a-livrer-des-dizaines-de-milliers-de-bombes-a-israel-selon-plusieurs-medias-americains_6774613_3210.html",
+          "id": "2026-09-16-c956fe8c",
+          "title": "Malgré les sanctions, Israël continue d’avancer son projet de colonisation près de Jérusalem",
+          "description": "En pleine campagne électorale et faisant fi des condamnations internationales, le gouvernement de Benyamin Nétanyahou relance le projet E1 qui, par sa localisation et sa taille, couperait en deux le territoire palestinien et contribuerait à rendre impossible toute solution à deux Etats.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/16/malgre-les-sanctions-israel-continue-d-avancer-son-projet-de-colonisation-pres-de-jerusalem_6775465_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-16T00:29:06.000Z",
-          "fetchedAt": "2026-09-16T04:56:13.980Z"
+          "publishedAt": "2026-09-16T19:31:15.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.284Z"
         },
         {
-          "id": "2026-09-15-29a855e4",
-          "title": "Les États-Unis annoncent avoir déployé des armes spatiales, au risque d’une escalade",
-          "description": "Le Pentagone dit vouloir défendre les États-Unis contre les capacités dont pourraient disposer la Chine et la Russie. Celles-ci ont réagi officiellement en rejetant la militarisation de l’espace.",
-          "url": "https://www.courrierinternational.com/article/defense-les-etats-unis-annoncent-avoir-deploye-des-armes-spatiales-au-risque-d-une-escalade_271233",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/15/0/0/2626/1750/1200/630/60/0/51890af_upload-1-wmlzzlm3kjl7-000-b4bk963.jpg",
+          "id": "2026-09-16-9ba9269d",
+          "title": "La Fed va à l’encontre de Donald Trump et augmente ses taux directeurs pour lutter contre l’inflation aux Etats-Unis",
+          "description": "La Réserve fédérale américaine a fait le choix, mercredi 16 septembre, de relever ses taux directeurs d’un quart de point, entre 3,75 % et 4 %, afin d’enrayer la hausse des prix. Le président des Etats-Unis a réagi en réclamant que les taux soient à « 1 %, ou moins ».",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/16/la-fed-va-a-l-encontre-de-donald-trump-et-augmente-ses-taux-directeurs-pour-lutter-contre-l-inflation-aux-etats-unis_6775456_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-16T18:15:14.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.284Z"
+        },
+        {
+          "id": "2026-09-16-60013c76",
+          "title": "Les centrales électriques américaines ne sont plus tenues de réguler leurs émissions",
+          "description": "Au G20 des ministres de l'Énergie, les États-Unis ont annoncé l'abrogation des limites d'émissions des centrales électriques. Une dérégulation pour tenter d'alimenter les centres de données, très énergivores. L'administration Trump justifie cette décision par une promesse de gain financier pour l'économie américaine. Pourtant, cela pourrait bien être un mauvais calcul à la fois pour la santé des Américains et l'Économie du pays.",
+          "url": "http://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260916-les-centrales-%C3%A9lectriques-am%C3%A9ricaines-ne-sont-plus-tenues-de-r%C3%A9guler-leurs-%C3%A9missions",
+          "imageUrl": "https://s.france24.com/media/display/cd9797ec-b1f3-11f1-813c-3df65e1cd14d/w:1024/p:16x9/capture-2246882866aaad15a968d92-71691601.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-16T17:37:45.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.400Z"
+        },
+        {
+          "id": "2026-09-16-d5fe779d",
+          "title": "Accusations de “discrimination raciale” contre l’Afrique du Sud : Washington prend de nouvelles sanctions",
+          "description": "Les États-Unis ont annoncé, mardi 15 septembre, des restrictions de visa contre les Sud-Africains qui se seraient rendus “responsables ou complices” d’une “discrimination raciale”, notamment envers les Afrikaners. Ce type d’accusations a déjà provoqué de fortes tensions entre les deux pays.",
+          "url": "https://www.courrierinternational.com/article/politique-accusations-de-discrimination-raciale-contre-l-afrique-du-sud-washington-prend-de-nouvelles-sanctions_271706",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/16/0/0/4627/3084/1200/630/60/0/76a1dfa_upload-1-943f7vvdp5fs-063-2216300143.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-15T15:35:41.000Z",
-          "fetchedAt": "2026-09-16T04:56:14.134Z"
+          "publishedAt": "2026-09-16T14:56:43.000Z",
+          "fetchedAt": "2026-09-17T04:58:44.426Z"
+        },
+        {
+          "id": "2026-09-16-8ce4f2c0",
+          "title": "Carney's new love-in with EU has everything to do with Trump",
+          "description": "The Canadian PM is in Strasbourg this week seeking a \"unique alliance\" - and there is one clear catalyst.",
+          "url": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45cc/live/43719d00-b1cc-11f1-8493-1910d79d53eb.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-16T11:08:01.000Z",
+          "fetchedAt": "2026-09-17T04:58:49.464Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "En Israël, dans un bastion électoral de Benyamin Nétanyahou, les espoirs prudent",
-      "category": "geopolitique",
+      "id": "cluster-9",
+      "topic": "La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophis",
+      "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-16-32e829fc",
-          "title": "En Israël, dans un bastion électoral de Benyamin Nétanyahou, les espoirs prudents de l’opposition",
-          "description": "A l’approche des législatives du 27 octobre, les Israéliens se positionnent largement en fonction de leur appréciation de l’attaque terroriste du 7 octobre 2023, entre soutiens indéfectibles du premier ministre et électeurs critiques de la gestion de ce drame par le gouvernement.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/16/en-israel-dans-un-bastion-electoral-de-benyamin-netanyahou-les-espoirs-prudents-de-l-opposition_6774783_3210.html",
+          "id": "2026-09-16-d3b92a80",
+          "title": "La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophistiquée », des données clients compromises",
+          "description": "Des pirates ont usurpé l’identité d’une agence gouvernementale pour obtenir des données sensibles de clients. Une enquête a été ouverte en Italie et le régulateur britannique de la protection des données examine des informations après un « signalement ».",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/16/la-banque-en-ligne-britannique-revolut-se-dit-victime-d-une-escroquerie-sophistiquee-des-donnees-clients-compromises_6775534_3234.html",
           "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-16T03:30:10.000Z",
-          "fetchedAt": "2026-09-16T04:56:13.980Z"
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-16T21:50:33.000Z",
+          "fetchedAt": "2026-09-17T04:58:49.352Z"
         },
         {
-          "id": "2026-09-15-40fb7db5",
-          "title": "7-Octobre: des familles de victimes réunies à Tel-Aviv soulignent la responsabilité de Netanyahu",
-          "description": "Plusieurs familles israéliennes endeuillées par le 7-Octobre ont lancé un appel, ce 15 septembre à Tel-Aviv, en brandissant un document intitulé « les dossiers du 7-Octobre ». À quelques semaines des élections législatives, elles affirment publiquement qu'elles tiennent Benyamin Netanyahu pour responsable des failles sécuritaires lors du massacre du Hamas. Elles appellent à tout faire pour éviter la réélection de l'actuel Premier ministre. Les questions autour du 7-Octobre sont au cœur de la campagne électorale en Israël. Le fils de Natalia Casarotti est mort il y a 3 ans. Frédérique Misslin a rencontré une femme en colère.",
-          "url": "http://www.rfi.fr/fr/moyen-orient/20260915-7-octobre-des-familles-de-victimes-r%C3%A9unies-%C3%A0-tel-aviv-soulignent-la-responsabilit%C3%A9-de-netanyahu",
-          "imageUrl": "https://s.rfi.fr/media/display/78a5877e-40e4-11f1-9872-005056bfb2b6/w:1024/p:16x9/ISRAEL-BENYAMIN-NETANYAHU-MANIFESTATION.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-15T22:11:29.000Z",
-          "fetchedAt": "2026-09-16T04:56:20.119Z"
+          "id": "2026-09-16-01c08861",
+          "title": "Avec « La Team », l’émission phare de feue Game One est de retour à l’antenne avec une équipe inchangée",
+          "description": "Neuf mois après la fermeture de la chaîne de télévision dédiée aux jeux vidéo, l’équipe de son émission phare reprend du service. La première de « La Team » a été diffusée mercredi sur France TV Slash, le canal numérique de France Télévisions.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/09/16/avec-la-team-l-emission-phare-de-feue-game-one-est-de-retour-a-l-antenne-avec-une-equipe-inchangee_6775452_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-16T18:00:13.000Z",
+          "fetchedAt": "2026-09-17T04:58:49.352Z"
+        },
+        {
+          "id": "2026-09-16-136915f7",
+          "title": "Resident Evil : on tient le meilleur film de la saga et l’un des plus jouissifs de l’année",
+          "description": "Se rendre au cinéma le jour J pour voir une énième adaptation de Resident Evil tenait du degré zéro de l'espoir. Pourtant, ce reboot signé Zach Cregger (Barbarian) provoque un énorme choc. La salle est ressortie secouée, hilare et terrifiée face au blockbuster d'horreur le plus jouissif et sanglant de ces dernières années.",
+          "url": "https://www.numerama.com/pop-culture/2334275-resident-evil-on-tient-le-meilleur-film-de-la-saga-et-lun-des-plus-jouissifs-de-lannee.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/capture-decran-2026-09-16-a-173002-2.jpg?resize=1600,900&key=81aa9fe9",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-16T16:02:34.000Z",
+          "fetchedAt": "2026-09-17T04:58:49.389Z"
+        },
+        {
+          "id": "2026-09-16-ba66daa3",
+          "title": "Les « gilets jaunes » de retour le 17 octobre : itinéraire d’une rumeur née sur TikTok",
+          "description": "Des appels prétendument « officiels » à relancer le mouvement né en novembre 2018 sont apparus ces derniers jours sur les réseaux sociaux. Ils semblent en réalité relayer une vidéo devenue virale par hasard.",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/16/les-gilets-jaunes-de-retour-le-17-octobre-itineraire-d-une-rumeur-nee-sur-tiktok_6775349_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-16T14:32:49.000Z",
+          "fetchedAt": "2026-09-17T04:58:49.352Z"
+        },
+        {
+          "id": "2026-09-16-494db81b",
+          "title": "On a testé… « Fire Emblem : Fortune’s Weave », le jeu le plus abouti de la série",
+          "description": "Trois ans après la déception de « Fire Emblem Engage », la série de jeux de rôle tactique renoue avec tout ce qui a fait son succès, quelques nouveautés bienvenues en prime.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/09/16/on-a-teste-fire-emblem-fortune-s-weave-le-jeu-le-plus-abouti-de-la-serie_6775211_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-16T12:00:15.000Z",
+          "fetchedAt": "2026-09-17T04:58:49.352Z"
+        },
+        {
+          "id": "2026-09-16-9b0f0989",
+          "title": "Notre test du monumental Fire Emblem: Fortune’s Weaves, le grand jeu de la Switch 2",
+          "description": "On l’espérait et on croisait les doigts très fort pour que Fire Emblem: Fortune’s Weave soit un très grand cru dans la saga. Pour marquer son arrivée sur Switch 2, la licence s’offre un épisode luxueux, plein à craquer, et à la hauteur de l’aura de la saga.",
+          "url": "https://www.numerama.com/pop-culture/2332601-notre-test-du-monumental-fire-emblem-fortunes-weaves-le-grand-jeu-de-la-switch-2.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/fire-emblem-fortunes-weaves.png?resize=1600,900&key=e591ab6f",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-16T12:00:00.000Z",
+          "fetchedAt": "2026-09-17T04:58:49.389Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Les premiers pas de la « période de reconversion », un nouveau dispositif de for",
+      "topic": "Vous aussi vous avez le « seum professionnel » ?",
       "category": "eco",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-16-94d1515c",
-          "title": "Les premiers pas de la « période de reconversion », un nouveau dispositif de formation doté de peu de moyens",
-          "description": "Ouvert à tous les salariés du privé, le dispositif a pour objectif de simplifier la mobilité des salariés, en se formant à un autre emploi dans leur entreprise ou une autre. Peu de projets ont pourtant été lancés pour le moment, et uniquement dans des entreprises qui y trouvent leur intérêt.",
-          "url": "https://www.lemonde.fr/vie-au-travail/article/2026/09/16/les-premiers-pas-de-la-periode-de-reconversion-un-nouveau-dispositif-de-formation-dote-de-peu-de-moyens_6774889_6768900.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-16T04:00:37.000Z",
-          "fetchedAt": "2026-09-16T04:56:23.849Z"
-        },
-        {
-          "id": "2026-09-16-3171974c",
-          "title": "Forfait touristique : quand un tapis roulant de l’aéroport de Paris - Charles-de-Gaulle provoque une chute",
-          "description": "Une agence est condamnée à indemniser les préjudices de sa cliente, dont le voyage a « commencé à l’enregistrement des bagages ».",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/16/forfait-touristique-quand-un-tapis-roulant-de-l-aeroport-de-paris-charles-de-gaulle-provoque-une-chute_6774886_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-16T04:00:25.000Z",
-          "fetchedAt": "2026-09-16T04:56:23.849Z"
-        },
-        {
-          "id": "2026-09-15-7b1b515f",
-          "title": "Fibre Excellence : un nouveau délai de trois mois accordé à l’usine de Saint-Gaudens, la bataille continue autour de la mise en sécurité de l’usine de Tarascon",
-          "description": "Pour permettre à un groupe de repreneurs d’affiner son offre, le tribunal de commerce de Toulouse a accordé un nouveau sursis de trois mois avant la liquidation judiciaire du plus gros fabricant français de pâte à papier, reportant ainsi l’échéance au 15 décembre.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/15/fibre-excellence-un-nouveau-delai-de-trois-mois-accorde-a-l-usine-de-saint-gaudens-la-bataille-continue-autour-de-la-mise-en-securite-de-l-usine-de-tarascon_6774444_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-15T15:49:46.000Z",
-          "fetchedAt": "2026-09-16T04:56:23.849Z"
-        },
-        {
-          "id": "2026-09-15-47a113ce",
-          "title": "A la tour Eiffel, le directeur dans la tourmente après la mise à l’écart du personnel féminin pour une délégation hindoue",
-          "description": "L’éviction des agentes durant la visite de membres du BAPS, un courant religieux hindou ultraconservateur, le 5 septembre, a déclenché une grève et deux enquêtes. L’affaire révèle le malaise régnant au sein de la société qui exploite la « dame de fer » : direction contestée, tensions sociales et contrôle politique défaillant.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/15/a-la-tour-eiffel-le-directeur-dans-la-tourmente-apres-la-mise-a-l-ecart-du-personnel-feminin-pour-une-delegation-hindoue_6774442_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-15T15:30:03.000Z",
-          "fetchedAt": "2026-09-16T04:56:23.849Z"
-        },
-        {
-          "id": "2026-09-15-93207cb4",
-          "title": "En Chine, la fronde de jeunes recrues fait plier un géant de l’industrie automobile",
-          "description": "Pour avoir tenté de licencier 107 jeunes diplômés fraîchement recrutés, le fabricant de phares automobiles Xingyu multiplie les déboires. Son introduction à la Bourse de Hongkong est menacée.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/15/en-chine-la-fronde-de-jeunes-recrues-fait-plier-un-geant-de-l-industrie-automobile_6774415_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-15T12:00:06.000Z",
-          "fetchedAt": "2026-09-16T04:56:23.849Z"
-        },
-        {
-          "id": "2026-09-15-9dbe2b96",
-          "title": "En Belgique, une affaire d’espionnage au profit de la Chine dans une société de semi-conducteurs",
-          "description": "Le parquet fédéral belge a révélé avoir arrêté, en mai, un ancien cadre Belgo-Chinois soupçonné de divulgation de secrets industriels à la Chine. Cette affaire pourrait être en lien avec le phénomène des « sociétés miroirs », bien connu des services de sécurité belges.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/15/en-belgique-une-affaire-d-espionnage-au-profit-de-la-chine-dans-une-societe-de-semi-conducteurs_6774410_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-15T10:30:03.000Z",
-          "fetchedAt": "2026-09-16T04:56:23.849Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-1",
-      "topic": "Renault et Geely accélèrent sur les véhicules électriques au Brésil en renforçan",
-      "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-16-99ed7a79",
-          "title": "Renault et Geely accélèrent sur les véhicules électriques au Brésil en renforçant leur alliance",
-          "description": "La joint-venture Renault Geely do Brasil vient d'officialiser un investissement supplémentaire de 319 millions d’euros pour produire des véhicules 100 % électriques basés sur la plateforme chinoise GEA. Numerama était sur place.",
-          "url": "https://www.numerama.com/vroom/2333649-renault-et-geely-accelerent-sur-les-vehicules-electriques-au-bresil-en-renforcant-leur-alliance.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/rgdb-event.jpg?resize=1600,900&key=d406f61f",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-09-16T03:56:04.000Z",
-          "fetchedAt": "2026-09-16T04:56:20.047Z"
+          "id": "2026-09-17-9e146aae",
+          "title": "Vous aussi vous avez le « seum professionnel » ?",
+          "description": "« Work in progress ». Une bonne partie des vacanciers ont repris le chemin du travail le pas lourd. Mais est-ce leur faute s’ils sont démotivés ? La cause est plutôt à chercher du côté du néomanagement par le chiffre, estime dans sa chronique Nicolas Santolaria, journaliste au « Monde ».",
+          "url": "https://www.lemonde.fr/m-perso/article/2026/09/17/vous-aussi-vous-avez-le-seum-professionnel_6775971_4497916.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-09-17T04:00:26.000Z",
+          "fetchedAt": "2026-09-17T04:58:52.941Z"
         }
       ]
     }
