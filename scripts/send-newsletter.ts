@@ -345,7 +345,15 @@ async function sendNewsletter(): Promise<void> {
     }
     edition = JSON.parse(readFileSync(STORIES_PATH, 'utf-8'));
     console.log(`📰 ${edition.stories.length} stories chargées\n`);
+  }
 
+  // Garde-fou : ne jamais envoyer (ni archiver) une édition vide
+  if (!edition.stories || edition.stories.length === 0) {
+    console.error('❌ Erreur: édition vide, newsletter non envoyée');
+    process.exit(1);
+  }
+
+  if (frequency !== 'weekly') {
     // Save edition to database for weekly aggregation (only for non-weekly)
     await saveEdition(supabase, edition);
   }
