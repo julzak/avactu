@@ -804,6 +804,14 @@ ${articlesDetail}` }],
   // Strip internal _clusterCategory before output
   const cleanStories = stories.map(({ _clusterCategory, ...rest }) => rest);
 
+  // Garde-fou : ne jamais écraser stories.json avec une édition vide (incident 2026-09-18,
+  // compte Moonshot suspendu → 429 sur toutes les synthèses → site et newsletter vides).
+  // L'exit 1 stoppe le job avant l'envoi de la newsletter et le commit.
+  if (cleanStories.length === 0) {
+    console.error('\n❌ Erreur: 0 story générée, stories.json conservé tel quel');
+    process.exit(1);
+  }
+
   // Create edition
   const edition: Edition = {
     date: new Date().toISOString(),
