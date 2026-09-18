@@ -1,53 +1,160 @@
 {
-  "generatedAt": "2026-09-18T04:55:05.828Z",
+  "generatedAt": "2026-09-18T06:13:50.071Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-4",
-      "topic": "En Ukraine, les habitants des territoires occupés votent sous la menace aux élec",
+      "id": "cluster-1",
+      "topic": "Coup d'envoi des législatives en Russie sur fond de guerre avec l'Ukraine",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
+          "id": "2026-09-18-2c5ea4f1",
+          "title": "Coup d'envoi des législatives en Russie sur fond de guerre avec l'Ukraine",
+          "description": "Les bureaux de vote ont ouvert vendredi en Russie pour trois jours de législatives, les premières depuis le début de la guerre à grande échelle en Ukraine en 2022. En l'absence de véritable opposition, le parti de Vladimir Poutine devrait remporter ce scrutin, également organisé dans les territoires ukrainiens occupés et annexés par Moscou.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260918-russie-les-l%C3%A9gislatives-s-ouvrent-en-pleine-guerre-en-ukraine",
+          "imageUrl": "https://s.france24.com/media/display/d5909d0e-b2f7-11f1-9d96-7922de457103/w:1024/p:16x9/AP26260552487595.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-18T06:02:34.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.737Z"
+        },
+        {
+          "id": "2026-09-18-876834e2",
+          "title": "Coup d'envoi des législatives en Russie sur fond de guerre avec l'Ukraine",
+          "description": "Les bureaux de vote ont ouvert vendredi en Russie pour trois jours de législatives, les premières depuis le début de la guerre à grande échelle en Ukraine en 2022. En l'absence de véritable opposition, le parti de Vladimir Poutine devrait remporter ce scrutin, également organisé dans les territoires ukrainiens occupés et annexés par Moscou.",
+          "url": "https://www.france24.com/fr/europe/20260918-russie-coup-envoi-trois-jours-l%C3%A9gislatives-fond-guerre-ukraine",
+          "imageUrl": "https://s.france24.com/media/display/d5909d0e-b2f7-11f1-9d96-7922de457103/w:1024/p:16x9/AP26260552487595.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-18T05:51:45.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.737Z"
+        },
+        {
+          "id": "2026-09-18-4d04515a",
+          "title": "EN DIRECT, guerre en Ukraine : des dizaines de drones ukrainiens abattus au-dessus de Moscou et sa région",
+          "description": "La défense antiaérienne a détruit 35 drones ukrainiens volant vers la capitale russe dans la nuit de vendredi, a rapporté son maire, Sergueï Sobianine. Quarante drones ont par ailleurs été abattus dans la région de Toula, au sud de Moscou, selon le gouverneur local.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-des-dizaines-de-drones-ukrainiens-visant-moscou-et-sa-region-ont-ete-abattus_6772184_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-18T04:59:07.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.623Z"
+        },
+        {
+          "id": "2026-09-18-a201319c",
+          "title": "«Il s’agit simplement de survivre»: en Ukraine, des familles quittent Kiev pour protéger leurs enfants",
+          "description": "En Ukraine, la Russie poursuit désormais ses raids aériens de jour comme de nuit. Plus rapides et plus difficiles à intercepter, les drones à réaction rendent le quotidien infernal, notamment à Kiev. À bout, certaines familles se préparent à quitter la capitale à l’approche de l’hiver.",
+          "url": "https://www.rfi.fr/fr/europe/20260918-il-s-agit-simplement-de-survivre-en-ukraine-des-familles-quittent-kiev-pour-prot%C3%A9ger-leurs-enfants",
+          "imageUrl": "https://s.rfi.fr/media/display/2c945678-b31a-11f1-8bae-7922de457103/w:1024/p:16x9/2026-09-17T091231Z-1158652709-RC2WKNA60HBV-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-18T04:50:49.000Z",
+          "fetchedAt": "2026-09-18T06:09:55.208Z"
+        },
+        {
           "id": "2026-09-18-b44fea02",
           "title": "En Ukraine, les habitants des territoires occupés votent sous la menace aux élections législatives russes",
-          "description": "Les régions annexées en 2022 font figure de vitrine du « monde russe ». Les habitants qui refusent de voter sont considérés comme suspects et susceptibles d’être sanctionnés.",
+          "description": "Les régions annexées en 2022 font figure de vitrine du « monde russe ». Les habitants qui refusent de voter sont considérés comme suspects et susceptibles d’être sanctionnés.",
           "url": "https://www.lemonde.fr/international/article/2026/09/18/en-ukraine-les-habitants-des-territoires-occupes-votent-sous-la-menace-aux-elections-legislatives-russes_6776706_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-18T04:30:12.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.251Z"
-        },
-        {
-          "id": "2026-09-18-b4cef2bc",
-          "title": "En direct : début des législatives en Russie, en pleine guerre en Ukraine",
-          "description": "Les bureaux de vote ont ouvert vendredi matin dans l'Extrême-Orient russe, donnant le coup d'envoi d'élections législatives organisées sur trois jours et que devrait remporter le parti de Vladimir Poutine, en pleine guerre en Ukraine. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20260918-en-direct-russie-ukraine-legislatives-vladimir-poutine-zelensky-guerre",
-          "imageUrl": "https://s.france24.com/media/display/d5909d0e-b2f7-11f1-9d96-7922de457103/w:1024/p:16x9/AP26260552487595.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-18T00:29:06.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.353Z"
+          "publishedAt": "2026-09-18T04:30:04.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.623Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "En Israël, l’opposition à Benyamin Nétanyahou fragilisée par ses divisions : « N",
+      "id": "cluster-2",
+      "topic": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
+          "id": "2026-09-18-349c2d98",
+          "title": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie",
+          "description": "Les députés américains ont approuvé de nouvelles sanctions contre la Russie et ses alliés pour leur rôle dans la guerre contre l'Ukraine, un texte soutenu par Donald Trump dont Kiev a salué l'adoption jeudi. Il donne surtout au président américain le pouvoir d'imposer des droits de douane pouvant atteindre jusqu'à 100 % sur les cinq principaux pays importateurs de gaz et de pétrole russes, dont la Chine et l'Inde.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260918-le-congr%C3%A8s-am%C3%A9ricain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie",
+          "imageUrl": "https://s.france24.com/media/display/03e0597e-b325-11f1-9276-61f6f55d211c/w:1024/p:16x9/FR-20260918-073426-073622-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-18T06:00:33.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.737Z"
+        },
+        {
+          "id": "2026-09-18-cd3c191c",
+          "title": "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient",
+          "description": "Ce contrat à 24,3 milliards de dollars doit encore être approuvé par le Congrès, mais des observateurs redoutent que la Chine puisse acquérir cette technologie grâce à ses partenariats avec Ryiad.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/18/washington-pret-a-vendre-48-avions-furtifs-f-35-a-l-arabie-saoudite-en-plein-conflit-au-moyen-orient_6776659_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-18T03:21:53.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.623Z"
+        },
+        {
+          "id": "2026-09-17-a2db34fb",
+          "title": "Création d'une base américaine en Pologne : Donald Trump fait état de \"progrès majeurs\"",
+          "description": "Le président américain Donald Trump a déclaré jeudi que \"des progrès majeurs ont été réalisés en vue de la mise en place d'une base de l'armée de Terre américaine en Pologne\", où 10 000 soldats américains sont actuellement stationnés. En Lituanie, le ministre des Affaires étrangères a déclaré qu'il s'attendait à des annonces imminentes de la part de Washington sur la présence américaine sur son sol.",
+          "url": "https://www.france24.com/fr/europe/20260917-pologne-etats-unis-base-americaine-donald-trump-progres-majeurs-lituanie",
+          "imageUrl": "https://s.france24.com/media/display/7ea0a772-b2e4-11f1-84ba-430f3874e448/w:1024/p:16x9/AP25246594174103.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-17T22:14:13.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.737Z"
+        },
+        {
+          "id": "2026-09-17-6ad1c643",
+          "title": "Le Congrès américain adopte de nouvelles sanctions contre la Russie, New Delhi défie les menaces tarifaires",
+          "description": "Les États-Unis ont adopté la nuit du 16 au 17 septembre 2026 de nouvelles sanctions contre la Russie. Après les sénateurs au mois d'août, ce sont les députés qui ont voté le texte qui contient notamment des sanctions renforcées contre la flotte fantôme russe. Satisfaction du président ukrainien ce matin qui salue cette adoption « symbolique » au moment où Kiev a de nouveau été visé par des frappes russes.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260917-le-congr%C3%A8s-am%C3%A9ricain-adopte-de-nouvelles-sanctions-contre-la-russie-new-delhi-d%C3%A9fie-les-menaces-tarifaires",
+          "imageUrl": "https://s.rfi.fr/media/display/4e0026da-194a-11f1-b4aa-005056a90284/w:1024/p:16x9/AP24071424357820.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-17T19:47:28.000Z",
+          "fetchedAt": "2026-09-18T06:09:55.208Z"
+        },
+        {
+          "id": "2026-09-17-173cc573",
+          "title": "Vénézuela : un magnat du pétrole relaie la parole américaine",
+          "description": "La famille du controversé homme d'affaires vénézuélien Alejandro Betancourt a annoncé, mercredi 16 septembre, conserver une participation majoritaire dans Nabep. Il s'agit de l'entreprise choisie pour gérer l'accord pétrolier inédit qui voit les Etats-Unis prendre contrôle de 20 % des gigantesques réserves pétrolières vénézuéliennes. Les précisions de Matthieu Mabin, correspondant France 24 à Washington.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-v%C3%A9n%C3%A9zuela-un-magnat-du-p%C3%A9trole-relaie-la-parole-am%C3%A9ricaine",
+          "imageUrl": "https://s.france24.com/media/display/8689d854-b2ae-11f1-954f-5570cf9529c5/w:1024/p:16x9/FR-20260917-161249-161907-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-17T16:00:22.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.737Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "À Bamako, les quartiers périphériques “dans un état de privation d’eau chronique",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-18-79b8b21f",
+          "title": "À Bamako, les quartiers périphériques “dans un état de privation d’eau chronique”",
+          "description": "En reportage dans divers quartiers de la capitale malienne, le site “Cenozo” observe une iniquité saisissante en matière de distribution d’eau potable, alors que seuls 15 % des ménages disposent d’eau courante à domicile.",
+          "url": "https://www.courrierinternational.com/article/societe-a-bamako-les-quartiers-peripheriques-dans-un-etat-de-privation-d-eau-chronique_272060",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/17/0/0/2835/1890/1200/630/60/0/6da77e5_upload-1-upayjbw4jc05-mali-courrier-international-eau.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-18T06:00:10.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.762Z"
+        },
+        {
           "id": "2026-09-18-0b9e599e",
           "title": "En Israël, l’opposition à Benyamin Nétanyahou fragilisée par ses divisions : « Nous ne devons pas nous attaquer les uns les autres »",
-          "description": "Yaïr Golan, leader des Démocrates (gauche), domine, dans les sondages, la course au sein de l’opposition. Quarante jours avant le scrutin législatif du 27 octobre, le général à la retraite dénonce des manœuvres de deux de ses alliés contre sa candidature au poste de premier ministre.",
+          "description": "Yaïr Golan, général à la retraite et leader des Démocrates (gauche), dénonce, avant le scrutin législatif du 27 octobre, les dissensions au sein de l’opposition. La candidature de Gadi Eisenkot, donné favori dans les sondages, au poste de premier ministre fait l’objet de manœuvres de la part de ses alliés, Naftali Bennett et Avigdor Lieberman.",
           "url": "https://www.lemonde.fr/international/article/2026/09/18/en-israel-l-opposition-a-benyamin-netanyahou-fragilisee-par-ses-divisions-nous-ne-devons-pas-nous-attaquer-les-uns-les-autres_6776666_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-18T04:00:12.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.251Z"
+          "publishedAt": "2026-09-18T04:00:08.000Z",
+          "fetchedAt": "2026-09-18T06:09:49.623Z"
         },
         {
           "id": "2026-09-18-958060ff",
@@ -58,18 +165,18 @@
           "source": "Courrier International",
           "category": "geopolitique",
           "publishedAt": "2026-09-18T03:00:22.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.303Z"
+          "fetchedAt": "2026-09-18T06:09:49.762Z"
         },
         {
           "id": "2026-09-18-c9885897",
           "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe, selon une étude",
-          "description": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans seize pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant.",
+          "description": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans 16 pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant.",
           "url": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-09-18T00:00:17.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.251Z"
+          "fetchedAt": "2026-09-18T06:09:49.623Z"
         },
         {
           "id": "2026-09-17-75d36071",
@@ -80,7 +187,7 @@
           "source": "RFI",
           "category": "geopolitique",
           "publishedAt": "2026-09-17T22:04:40.000Z",
-          "fetchedAt": "2026-09-18T04:51:11.828Z"
+          "fetchedAt": "2026-09-18T06:09:55.208Z"
         },
         {
           "id": "2026-09-17-49c33e3a",
@@ -91,75 +198,12 @@
           "source": "Le Monde - International",
           "category": "geopolitique",
           "publishedAt": "2026-09-17T20:05:14.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.251Z"
-        },
-        {
-          "id": "2026-09-17-a76a74d5",
-          "title": "Afrique du Sud : une série de féminicides suscite l’émoi à Johannesburg",
-          "description": "Neuf femmes ont été retrouvées mortes en deux mois dans la même zone de l’Est de Johannesburg. Les victimes étaient âgées de 20 à 30 ans. La police tente désormais de déterminer si ces meurtres sont liés.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-afrique-du-sud-une-s%C3%A9rie-de-f%C3%A9minicides-suscite-l-%C3%A9moi-%C3%A0-johannesburg",
-          "imageUrl": "https://s.france24.com/media/display/9543b2f8-b2c1-11f1-abf8-61f6f55d211c/w:1024/p:16x9/Couv-AFSUD-FEMINICIDE.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-17T18:23:32.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.353Z"
+          "fetchedAt": "2026-09-18T06:09:49.623Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "Aux Etats-Unis, un ancien chef de prison syrien du régime de Bachar Al-Assad con",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-18-907eb1ac",
-          "title": "Aux Etats-Unis, un ancien chef de prison syrien du régime de Bachar Al-Assad condamné à soixante ans de prison pour torture",
-          "description": "Arrivé aux Etats-Unis en 2020, Samir Othman Al-Sheikh y a été arrêté et inculpé en juillet 2024 après avoir demandé la nationalité américaine. Il a été reconnu coupable d’avoir « commis des atrocités en matière de droits humains » dans la prison d’Adra qu’il dirigeait.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/18/aux-etats-unis-un-ancien-chef-de-prison-syrien-du-regime-de-bachar-al-assad-condamne-a-soixante-ans-de-prison-pour-torture_6776656_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-18T03:14:54.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.251Z"
-        },
-        {
-          "id": "2026-09-17-490bb8aa",
-          "title": "Les Etats-Unis accordent des visas à l’Iran pour se rendre à l’Assemblée générale de l’ONU",
-          "description": "Cette décision, attendue malgré les circonstances, contraste avec le refus des Etats-Unis d’accorder un visa au président de l’Autorité palestinienne, Mahmoud Abbas, qui a dénoncé, jeudi, une « mesure injustifiée ».",
-          "url": "https://www.lemonde.fr/international/article/2026/09/17/les-etats-unis-accordent-des-visas-a-l-iran-pour-se-rendre-a-l-assemblee-generale-de-l-onu_6776481_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-17T20:48:45.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.251Z"
-        },
-        {
-          "id": "2026-09-17-0e11d090",
-          "title": "Mahmoud Abbas à nouveau empêché de se rendre aux États-Unis pour l’Assemblée générale de l’ONU",
-          "description": "Comme l’année dernière, Washington a refusé de délivrer un visa au président palestinien pour non-respect des engagements vis-à-vis de l’administration américaine, l’empêchant ainsi d’assister à la session annuelle de l’Assemblée générale des Nations unies à New York. L’Autorité palestinienne dénonce une “mesure injustifiée”.",
-          "url": "https://www.courrierinternational.com/article/diplomatie-mahmoud-abbas-a-nouveau-empeche-de-se-rendre-aux-etats-unis-pour-l-assemblee-generale-de-l-onu_272035",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/17/0/0/5616/3744/1200/630/60/0/012f876_ftp-1-jvrwhr9dnavr-2026-09-17t020109z-774629319-rc28xgao6irj-rtrmadp-3-israel-palestinians-usa-un.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-17T12:25:05.000Z",
-          "fetchedAt": "2026-09-18T04:51:05.303Z"
-        },
-        {
-          "id": "2026-09-16-2eacf955",
-          "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
-          "description": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president.",
-          "url": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7248/live/32d63800-b200-11f1-a4a7-291ff3d1006b.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-16T19:12:48.000Z",
-          "fetchedAt": "2026-09-18T04:51:12.045Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-12",
+      "id": "cluster-13",
       "topic": "Stéphane Mallat, mathématicien : « Des démonstrations faites par IA n’ont que pe",
       "category": "tech",
       "importance": 10,
@@ -173,7 +217,7 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-09-17T18:00:09.000Z",
-          "fetchedAt": "2026-09-18T04:51:11.898Z"
+          "fetchedAt": "2026-09-18T06:09:55.164Z"
         },
         {
           "id": "2026-09-17-7b19ddee",
@@ -184,7 +228,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-09-17T13:12:47.000Z",
-          "fetchedAt": "2026-09-18T04:51:12.014Z"
+          "fetchedAt": "2026-09-18T06:09:55.145Z"
         },
         {
           "id": "2026-09-17-1956f566",
@@ -195,7 +239,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-09-17T12:44:14.000Z",
-          "fetchedAt": "2026-09-18T04:51:12.014Z"
+          "fetchedAt": "2026-09-18T06:09:55.145Z"
         },
         {
           "id": "2026-09-17-5bd1be0a",
@@ -206,7 +250,7 @@
           "source": "Numerama",
           "category": "tech",
           "publishedAt": "2026-09-17T12:27:17.000Z",
-          "fetchedAt": "2026-09-18T04:51:12.014Z"
+          "fetchedAt": "2026-09-18T06:09:55.145Z"
         },
         {
           "id": "2026-09-17-7880fdf3",
@@ -217,7 +261,7 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-09-17T10:38:59.000Z",
-          "fetchedAt": "2026-09-18T04:51:11.898Z"
+          "fetchedAt": "2026-09-18T06:09:55.164Z"
         },
         {
           "id": "2026-09-16-d3b92a80",
@@ -228,26 +272,26 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-09-16T21:50:33.000Z",
-          "fetchedAt": "2026-09-18T04:51:11.898Z"
+          "fetchedAt": "2026-09-18T06:09:55.164Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Climat : Pourquoi le kérosène des avions n’est-il pas taxé ?",
+      "id": "cluster-1",
+      "topic": "'I would tip up to 30% at a restaurant'",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-18-9627c547",
-          "title": "Climat : Pourquoi le kérosène des avions n’est-il pas taxé ?",
-          "description": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
-          "url": "https://www.lemonde.fr/planete/article/2026/09/18/climat-pourquoi-le-kerosene-des-avions-n-est-il-pas-taxe_6776705_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-09-18-7252f444",
+          "title": "'I would tip up to 30% at a restaurant'",
+          "description": "New Yorkers and Londoners share what they usually tip in a restaurant - and whether tipping culture has gotten out of hand.",
+          "url": "https://www.bbc.co.uk/news/videos/ckgjqzl755j0o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e31/live/1846ba50-b28c-11f1-b1d1-571ed4d7ff2c.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-18T04:30:08.000Z",
-          "fetchedAt": "2026-09-18T04:51:16.375Z"
+          "publishedAt": "2026-09-18T05:13:49.000Z",
+          "fetchedAt": "2026-09-18T06:10:02.617Z"
         }
       ]
     }

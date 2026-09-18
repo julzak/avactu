@@ -1,17 +1,149 @@
 {
-  "generatedAt": "2026-09-18T04:51:22.262Z",
-  "articleCount": 230,
+  "generatedAt": "2026-09-18T06:10:03.844Z",
+  "articleCount": 228,
   "articles": [
     {
+      "id": "2026-09-18-86c44eb3",
+      "title": "Le prochain GTA Online en 2027 ? C’est ce qu’annonce le patron de Twitch",
+      "description": "Dan Clancy, CEO de Twitch, a laissé entendre que le mode en ligne de GTA 6 pourrait arriver en 2027. Il s'attend à une explosion d'audience sur la plateforme de streaming.",
+      "url": "https://www.numerama.com/pop-culture/2335221-le-prochain-gta-online-en-2027-cest-ce-quannonce-le-patron-de-twitch.html",
+      "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2024/08/capture-decran-2024-08-01-a-120047.jpg?resize=1600,900&key=492d247b",
+      "source": "Numerama",
+      "category": "tech",
+      "publishedAt": "2026-09-18T06:06:31.000Z",
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
+    },
+    {
+      "id": "2026-09-18-2c5ea4f1",
+      "title": "Coup d'envoi des législatives en Russie sur fond de guerre avec l'Ukraine",
+      "description": "Les bureaux de vote ont ouvert vendredi en Russie pour trois jours de législatives, les premières depuis le début de la guerre à grande échelle en Ukraine en 2022. En l'absence de véritable opposition, le parti de Vladimir Poutine devrait remporter ce scrutin, également organisé dans les territoires ukrainiens occupés et annexés par Moscou.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260918-russie-les-l%C3%A9gislatives-s-ouvrent-en-pleine-guerre-en-ukraine",
+      "imageUrl": "https://s.france24.com/media/display/d5909d0e-b2f7-11f1-9d96-7922de457103/w:1024/p:16x9/AP26260552487595.jpg",
+      "source": "France 24",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T06:02:34.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
+    },
+    {
+      "id": "2026-09-18-349c2d98",
+      "title": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie",
+      "description": "Les députés américains ont approuvé de nouvelles sanctions contre la Russie et ses alliés pour leur rôle dans la guerre contre l'Ukraine, un texte soutenu par Donald Trump dont Kiev a salué l'adoption jeudi. Il donne surtout au président américain le pouvoir d'imposer des droits de douane pouvant atteindre jusqu'à 100 % sur les cinq principaux pays importateurs de gaz et de pétrole russes, dont la Chine et l'Inde.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260918-le-congr%C3%A8s-am%C3%A9ricain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie",
+      "imageUrl": "https://s.france24.com/media/display/03e0597e-b325-11f1-9276-61f6f55d211c/w:1024/p:16x9/FR-20260918-073426-073622-CS.jpg",
+      "source": "France 24",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T06:00:33.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
+    },
+    {
+      "id": "2026-09-18-79b8b21f",
+      "title": "À Bamako, les quartiers périphériques “dans un état de privation d’eau chronique”",
+      "description": "En reportage dans divers quartiers de la capitale malienne, le site “Cenozo” observe une iniquité saisissante en matière de distribution d’eau potable, alors que seuls 15 % des ménages disposent d’eau courante à domicile.",
+      "url": "https://www.courrierinternational.com/article/societe-a-bamako-les-quartiers-peripheriques-dans-un-etat-de-privation-d-eau-chronique_272060",
+      "imageUrl": "https://focus.courrierinternational.com/2026/09/17/0/0/2835/1890/1200/630/60/0/6da77e5_upload-1-upayjbw4jc05-mali-courrier-international-eau.jpg",
+      "source": "Courrier International",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T06:00:10.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
+    },
+    {
+      "id": "2026-09-18-876834e2",
+      "title": "Coup d'envoi des législatives en Russie sur fond de guerre avec l'Ukraine",
+      "description": "Les bureaux de vote ont ouvert vendredi en Russie pour trois jours de législatives, les premières depuis le début de la guerre à grande échelle en Ukraine en 2022. En l'absence de véritable opposition, le parti de Vladimir Poutine devrait remporter ce scrutin, également organisé dans les territoires ukrainiens occupés et annexés par Moscou.",
+      "url": "https://www.france24.com/fr/europe/20260918-russie-coup-envoi-trois-jours-l%C3%A9gislatives-fond-guerre-ukraine",
+      "imageUrl": "https://s.france24.com/media/display/d5909d0e-b2f7-11f1-9d96-7922de457103/w:1024/p:16x9/AP26260552487595.jpg",
+      "source": "France 24",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T05:51:45.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
+    },
+    {
+      "id": "2026-09-18-6a5eccf9",
+      "title": "Congrès des écrivains et artistes noirs à la Sorbonne: «70 ans plus tard, c'est un combat qui a porté ses fruits»",
+      "description": "Il y a 70 ans, quelque 50 écrivains et artistes noirs se réunissaient en septembre 1956 à la Sorbonne, à Paris, pour proclamer la renaissance de la culture africaine. Aujourd'hui, ce combat est-il gagné ou est-ce qu'il reste des citadelles à prendre ? Florence Alexis est l'une des deux commissaires de l'exposition qui accompagne le colloque organisé ce vendredi à la Sorbonne. Elle connaît d'autant mieux les enjeux du congrès de 1956 que son père, le grand écrivain haïtien Jacques Stephen Alexis, y a participé. Elle répond aux questions de Christophe Boisbouvier.",
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20260918-congr%C3%A8s-des-%C3%A9crivains-et-artistes-noirs-%C3%A0-la-sorbonne-70-ans-plus-tard-c-est-un-combat-qui-a-port%C3%A9-ses-fruits",
+      "imageUrl": "https://s.rfi.fr/media/display/46cf5e04-b318-11f1-b05b-61f6f55d211c/w:1024/p:16x9/000-XQ1UB.jpg",
+      "source": "RFI",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T05:39:07.000Z",
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
+    },
+    {
+      "id": "2026-09-18-e11e7c12",
+      "title": "France: un policier «adhérant à une idéologie d'ultradroite» écroué pour préparation d'acte de terrorisme",
+      "description": "Un homme a été mis en examen puis écroué fin août à Paris, soupçonné notamment d'avoir préparé un acte de terrorisme ou encore d'avoir fabriqué des armes, a indiqué jeudi 17 septembre une source judiciaire à l'AFP, confirmant une information de TF1/LCI.",
+      "url": "https://www.rfi.fr/fr/france/20260918-france-un-policier-adh%C3%A9rant-%C3%A0-une-id%C3%A9ologie-d-ultradroite-%C3%A9crou%C3%A9-pour-pr%C3%A9paration-d-acte-de-terrorisme",
+      "imageUrl": "https://s.rfi.fr/media/display/68c46318-6054-11f1-b652-005056bfb2b6/w:1024/p:16x9/000-B4YF2CQ.jpg",
+      "source": "RFI",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T05:33:01.000Z",
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
+    },
+    {
+      "id": "2026-09-18-7252f444",
+      "title": "'I would tip up to 30% at a restaurant'",
+      "description": "New Yorkers and Londoners share what they usually tip in a restaurant - and whether tipping culture has gotten out of hand.",
+      "url": "https://www.bbc.co.uk/news/videos/ckgjqzl755j0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e31/live/1846ba50-b28c-11f1-b1d1-571ed4d7ff2c.jpg",
+      "source": "BBC Business",
+      "category": "eco",
+      "publishedAt": "2026-09-18T05:13:49.000Z",
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
+    },
+    {
+      "id": "2026-09-18-59b3d802",
+      "title": "Councils to share £5m in 'emergency food aid' as living costs rise",
+      "description": "The money from the Welsh government will amount to around £200,000 to every council.",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx5gvyle49o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6425/live/38286340-b2e2-11f1-99a0-c787492c049d.jpg",
+      "source": "BBC Business",
+      "category": "eco",
+      "publishedAt": "2026-09-18T05:02:56.000Z",
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
+    },
+    {
+      "id": "2026-09-18-99e1b0e0",
+      "title": "Avec « C’était ça ou mourir », Thélyson Orélien livre le puissant roman d’un migrant haïtien en quête d’espoir",
+      "description": "Le premier roman de l’auteur canadien, l’un des livres phénomènes de cette rentrée littéraire, parcourt les chemins de l’exil, des Caraïbes au Canada en passant par l’Amérique du Sud.",
+      "url": "https://www.lemonde.fr/livres/article/2026/09/18/avec-c-etait-ca-ou-mourir-thelyson-orelien-livre-le-puissant-roman-d-un-migrant-haitien-en-quete-d-espoir_6776744_3260.html",
+      "imageUrl": null,
+      "source": "Le Monde - International",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T05:00:10.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
+    },
+    {
+      "id": "2026-09-18-4d04515a",
+      "title": "EN DIRECT, guerre en Ukraine : des dizaines de drones ukrainiens abattus au-dessus de Moscou et sa région",
+      "description": "La défense antiaérienne a détruit 35 drones ukrainiens volant vers la capitale russe dans la nuit de vendredi, a rapporté son maire, Sergueï Sobianine. Quarante drones ont par ailleurs été abattus dans la région de Toula, au sud de Moscou, selon le gouverneur local.",
+      "url": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-des-dizaines-de-drones-ukrainiens-visant-moscou-et-sa-region-ont-ete-abattus_6772184_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde - International",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T04:59:07.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
+    },
+    {
+      "id": "2026-09-18-a201319c",
+      "title": "«Il s’agit simplement de survivre»: en Ukraine, des familles quittent Kiev pour protéger leurs enfants",
+      "description": "En Ukraine, la Russie poursuit désormais ses raids aériens de jour comme de nuit. Plus rapides et plus difficiles à intercepter, les drones à réaction rendent le quotidien infernal, notamment à Kiev. À bout, certaines familles se préparent à quitter la capitale à l’approche de l’hiver.",
+      "url": "https://www.rfi.fr/fr/europe/20260918-il-s-agit-simplement-de-survivre-en-ukraine-des-familles-quittent-kiev-pour-prot%C3%A9ger-leurs-enfants",
+      "imageUrl": "https://s.rfi.fr/media/display/2c945678-b31a-11f1-8bae-7922de457103/w:1024/p:16x9/2026-09-17T091231Z-1158652709-RC2WKNA60HBV-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+      "source": "RFI",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T04:50:49.000Z",
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
+    },
+    {
       "id": "2026-09-18-04e6d373",
-      "title": "L’Australie veut placer en rétention les touristes dont le visa a expiré",
+      "title": "L’Australie veut placer en rétention administrative les touristes dont le visa a expiré",
       "description": "Le gouvernement a également annoncé des restrictions concernant les visas étudiants et vacances-travail, déclarant vouloir montrer qu’il « maîtrise » l’immigration.",
       "url": "https://www.lemonde.fr/international/article/2026/09/18/l-australie-veut-placer-en-retention-les-touristes-dont-le-visa-a-expire_6776743_3210.html",
       "imageUrl": null,
       "source": "Le Monde - International",
       "category": "geopolitique",
-      "publishedAt": "2026-09-18T04:45:45.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "publishedAt": "2026-09-18T04:45:42.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-18-d0b4144d",
@@ -22,7 +154,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-18T04:41:21.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-18-7301b8b8",
@@ -33,18 +165,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T04:36:30.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
-    },
-    {
-      "id": "2026-09-18-c4813f54",
-      "title": "Pourquoi la menace existentielle de l’IA sur l’humanité reste théorique, malgré des inquiétudes légitimes",
-      "description": "Le débat fait rage entre les scientifiques alertant sur un risque d’extinction de l’humanité provoquée par l’intelligence artificielle et ceux qui estiment que ces inquiétudes sont infondées. Mais de quoi parle-t-on précisément ?",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/18/pourquoi-la-menace-existentielle-de-l-ia-sur-l-humanite-reste-theorique-malgre-des-inquietudes-legitimes_6776740_4408996.html",
-      "imageUrl": null,
-      "source": "Le Monde - Pixels",
-      "category": "tech",
-      "publishedAt": "2026-09-18T04:30:22.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-18-09ba1b64",
@@ -55,29 +176,40 @@
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T04:30:16.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
+    },
+    {
+      "id": "2026-09-18-c4813f54",
+      "title": "Pourquoi la menace existentielle de l’IA sur l’humanité reste théorique, malgré des inquiétudes légitimes",
+      "description": "Le débat fait rage entre les scientifiques alertant sur un risque d’extinction de l’humanité provoquée par l’intelligence artificielle et ceux qui estiment que ces inquiétudes sont infondées. Mais de quoi parle-t-on précisément ?",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/18/pourquoi-la-menace-existentielle-de-l-ia-sur-l-humanite-reste-theorique-malgre-des-inquietudes-legitimes_6776740_4408996.html",
+      "imageUrl": null,
+      "source": "Le Monde - Pixels",
+      "category": "tech",
+      "publishedAt": "2026-09-18T04:30:15.000Z",
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-18-b44fea02",
       "title": "En Ukraine, les habitants des territoires occupés votent sous la menace aux élections législatives russes",
-      "description": "Les régions annexées en 2022 font figure de vitrine du « monde russe ». Les habitants qui refusent de voter sont considérés comme suspects et susceptibles d’être sanctionnés.",
+      "description": "Les régions annexées en 2022 font figure de vitrine du « monde russe ». Les habitants qui refusent de voter sont considérés comme suspects et susceptibles d’être sanctionnés.",
       "url": "https://www.lemonde.fr/international/article/2026/09/18/en-ukraine-les-habitants-des-territoires-occupes-votent-sous-la-menace-aux-elections-legislatives-russes_6776706_3210.html",
       "imageUrl": null,
       "source": "Le Monde - International",
       "category": "geopolitique",
-      "publishedAt": "2026-09-18T04:30:12.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "publishedAt": "2026-09-18T04:30:04.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-18-9627c547",
-      "title": "Climat : Pourquoi le kérosène des avions n’est-il pas taxé ?",
+      "title": "Pourquoi le kérosène des avions n’est-il pas taxé en France ?",
       "description": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
       "url": "https://www.lemonde.fr/planete/article/2026/09/18/climat-pourquoi-le-kerosene-des-avions-n-est-il-pas-taxe_6776705_3244.html",
       "imageUrl": null,
       "source": "Le Monde - Économie",
       "category": "eco",
-      "publishedAt": "2026-09-18T04:30:08.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "publishedAt": "2026-09-18T04:30:04.000Z",
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-18-b87b3af9",
@@ -88,18 +220,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T04:25:03.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
-    },
-    {
-      "id": "2026-09-18-eb47e0f3",
-      "title": "Delphine Ernotte Cunci, présidente de France Télévisions : « Je tire la sonnette d’alarme sur la sauvegarde de notre modèle culturel »",
-      "description": "Dans un entretien au « Monde », la patronne du groupe audiovisuel public dévoile une baisse de la dotation de l’Etat de 47 millions d’euros en 2027 et assure que le budget de l’entreprise sera amputé de 90 millions en raison du recul de la publicité et de l’absence de nouvelles cessions immobilières. Une menace à ses yeux pour le financement de la création culturelle française.",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/18/delphine-ernotte-cunci-presidente-de-france-televisions-je-tire-la-sonnette-d-alarme-sur-la-sauvegarde-de-notre-modele-culturel_6776670_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde - Économie",
-      "category": "eco",
-      "publishedAt": "2026-09-18T04:00:32.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-18-6846e268",
@@ -110,29 +231,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-18T04:00:28.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
-    },
-    {
-      "id": "2026-09-18-6151bc29",
-      "title": "A Huailai, la cité fantôme d’Evergrande raconte la crise de l’immobilier chinois",
-      "description": "A 130 kilomètres de Pékin, l’ancienne cité modèle du promoteur déchu Evergrande devait accueillir des dizaines de milliers d’habitants. Malgré ses façades inachevées et ses équipements abandonnés, le site s’est transformé en refuge bon marché pour retraités et divorcés.",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/18/a-huailai-la-cite-fantome-d-evergrande-raconte-la-crise-de-l-immobilier-chinois_6776667_3234.html",
-      "imageUrl": null,
-      "source": "Le Monde - International",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-18T04:00:14.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
-    },
-    {
-      "id": "2026-09-18-0b9e599e",
-      "title": "En Israël, l’opposition à Benyamin Nétanyahou fragilisée par ses divisions : « Nous ne devons pas nous attaquer les uns les autres »",
-      "description": "Yaïr Golan, leader des Démocrates (gauche), domine, dans les sondages, la course au sein de l’opposition. Quarante jours avant le scrutin législatif du 27 octobre, le général à la retraite dénonce des manœuvres de deux de ses alliés contre sa candidature au poste de premier ministre.",
-      "url": "https://www.lemonde.fr/international/article/2026/09/18/en-israel-l-opposition-a-benyamin-netanyahou-fragilisee-par-ses-divisions-nous-ne-devons-pas-nous-attaquer-les-uns-les-autres_6776666_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde - International",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-18T04:00:12.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-18-f1301ce4",
@@ -143,7 +242,40 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T04:00:10.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
+    },
+    {
+      "id": "2026-09-18-0b9e599e",
+      "title": "En Israël, l’opposition à Benyamin Nétanyahou fragilisée par ses divisions : « Nous ne devons pas nous attaquer les uns les autres »",
+      "description": "Yaïr Golan, général à la retraite et leader des Démocrates (gauche), dénonce, avant le scrutin législatif du 27 octobre, les dissensions au sein de l’opposition. La candidature de Gadi Eisenkot, donné favori dans les sondages, au poste de premier ministre fait l’objet de manœuvres de la part de ses alliés, Naftali Bennett et Avigdor Lieberman.",
+      "url": "https://www.lemonde.fr/international/article/2026/09/18/en-israel-l-opposition-a-benyamin-netanyahou-fragilisee-par-ses-divisions-nous-ne-devons-pas-nous-attaquer-les-uns-les-autres_6776666_3210.html",
+      "imageUrl": null,
+      "source": "Le Monde - International",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T04:00:08.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
+    },
+    {
+      "id": "2026-09-18-6151bc29",
+      "title": "A Huailai, la cité fantôme d’Evergrande raconte la crise de l’immobilier chinois",
+      "description": "A 130 kilomètres de Pékin, l’ancienne cité modèle du promoteur déchu Evergrande devait accueillir des dizaines de milliers d’habitants. Malgré ses façades inachevées et ses équipements abandonnés, le site s’est transformé en refuge bon marché pour retraités et divorcés.",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/18/a-huailai-la-cite-fantome-d-evergrande-raconte-la-crise-de-l-immobilier-chinois_6776667_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde - International",
+      "category": "geopolitique",
+      "publishedAt": "2026-09-18T04:00:08.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
+    },
+    {
+      "id": "2026-09-18-eb47e0f3",
+      "title": "Delphine Ernotte Cunci, présidente de France Télévisions : « Je tire la sonnette d’alarme sur la sauvegarde de notre modèle culturel »",
+      "description": "Dans un entretien au « Monde », la patronne du groupe audiovisuel public dévoile une baisse de la dotation de l’Etat de 47 millions d’euros en 2027 et assure que le budget de l’entreprise sera amputé de 90 millions en raison du recul de la publicité et de l’absence de nouvelles cessions immobilières. Une menace à ses yeux pour le financement de la création culturelle française.",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/18/delphine-ernotte-cunci-presidente-de-france-televisions-je-tire-la-sonnette-d-alarme-sur-la-sauvegarde-de-notre-modele-culturel_6776670_3234.html",
+      "imageUrl": null,
+      "source": "Le Monde - Économie",
+      "category": "eco",
+      "publishedAt": "2026-09-18T04:00:08.000Z",
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-18-5df6515c",
@@ -154,7 +286,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T04:00:07.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-18-b34c9cf3",
@@ -165,18 +297,18 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T03:27:12.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-18-cd3c191c",
-      "title": "Washington prêt à vendre 48 avions furtifs F-35 à l’Arabie saoudite, en plein conflit au Moyen-Orient",
+      "title": "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient",
       "description": "Ce contrat à 24,3 milliards de dollars doit encore être approuvé par le Congrès, mais des observateurs redoutent que la Chine puisse acquérir cette technologie grâce à ses partenariats avec Ryiad.",
       "url": "https://www.lemonde.fr/international/article/2026/09/18/washington-pret-a-vendre-48-avions-furtifs-f-35-a-l-arabie-saoudite-en-plein-conflit-au-moyen-orient_6776659_3210.html",
       "imageUrl": null,
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T03:21:53.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-18-907eb1ac",
@@ -187,7 +319,7 @@
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T03:14:54.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-18-f16a8f10",
@@ -198,7 +330,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T03:00:26.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-18-99d68c92",
@@ -209,7 +341,7 @@
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T03:00:23.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-18-958060ff",
@@ -220,7 +352,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T03:00:22.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-18-58009ee7",
@@ -231,7 +363,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T03:00:20.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-18-04c4ab6c",
@@ -242,18 +374,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T03:00:17.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
-    },
-    {
-      "id": "2026-09-18-20bc1fb7",
-      "title": "Budget 2027 : une nouvelle « année blanche » en vue pour les salaires dans la fonction publique",
-      "description": "Le premier ministre, Sébastien Lecornu, a annoncé, jeudi, que le point d’indice des fonctionnaires « sera gelé » en 2027. Une décision vivement critiquée par les syndicats qui appellent à une vaste mobilisation le 29 septembre.",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/18/budget-2027-une-nouvelle-annee-blanche-en-vue-pour-les-salaires-dans-la-fonction-publique_6776652_823448.html",
-      "imageUrl": null,
-      "source": "Le Monde - Économie",
-      "category": "eco",
-      "publishedAt": "2026-09-18T03:00:05.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-18-647cebcd",
@@ -264,7 +385,18 @@
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T03:00:04.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
+    },
+    {
+      "id": "2026-09-18-20bc1fb7",
+      "title": "Budget 2027 : une nouvelle « année blanche » en vue pour les salaires dans la fonction publique",
+      "description": "Le premier ministre, Sébastien Lecornu, a annoncé, jeudi, que le point d’indice des fonctionnaires « sera gelé » en 2027. Une décision vivement critiquée par les syndicats qui appellent à une vaste mobilisation le 29 septembre.",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/18/budget-2027-une-nouvelle-annee-blanche-en-vue-pour-les-salaires-dans-la-fonction-publique_6776652_823448.html",
+      "imageUrl": null,
+      "source": "Le Monde - Économie",
+      "category": "eco",
+      "publishedAt": "2026-09-18T03:00:01.000Z",
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-18-df3d64fa",
@@ -275,7 +407,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-18T02:56:35.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-18-671dbf4e",
@@ -286,7 +418,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T02:01:43.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-18-bd935a3b",
@@ -297,7 +429,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-18T02:00:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-18-54268948",
@@ -308,7 +440,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T01:38:41.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-18-7ddeefee",
@@ -319,18 +451,18 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T01:23:10.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-18-37072baf",
-      "title": "Des affrontements interethniques font 26 morts dans la région d’Abyei que se disputent les deux Soudans",
+      "title": "Des affrontements interethniques font 26 morts dans la région d’Abyei, que se disputent les deux Soudans",
       "description": "Des assassinats au sein de deux ethnies ont « exacerbé les tensions entre les deux communautés », a affirmé la mission de maintien de la paix de l’ONU pour ce territoire.",
       "url": "https://www.lemonde.fr/afrique/article/2026/09/18/des-affrontements-interethniques-font-26-morts-dans-la-region-d-abyei-que-se-disputent-les-deux-soudan_6776585_3212.html",
       "imageUrl": null,
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T01:14:52.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-18-44c0d851",
@@ -341,7 +473,7 @@
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T01:00:11.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-18-e4c38857",
@@ -352,7 +484,7 @@
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T00:34:57.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-18-60803596",
@@ -363,29 +495,29 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T00:33:10.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-18-b4cef2bc",
-      "title": "En direct : début des législatives en Russie, en pleine guerre en Ukraine",
-      "description": "Les bureaux de vote ont ouvert vendredi matin dans l'Extrême-Orient russe, donnant le coup d'envoi d'élections législatives organisées sur trois jours et que devrait remporter le parti de Vladimir Poutine, en pleine guerre en Ukraine. Suivez notre direct.",
+      "title": "En direct : des dizaines de drones visent Moscou au premier jour des législatives russes",
+      "description": "La défense anti-aérienne russe a abattu des dizaines de drones ukrainiens volant vers Moscou dans la nuit vendredi, premier jour des élections législatives et locales en Russie, a indiqué le maire de la ville, Sergueï Sobianine. Le scrutin est organisé sur trois jours et devrait être remporté par le parti de Vladimir Poutine, en pleine guerre en Ukraine. Suivez notre direct.",
       "url": "https://www.france24.com/fr/europe/20260918-en-direct-russie-ukraine-legislatives-vladimir-poutine-zelensky-guerre",
-      "imageUrl": "https://s.france24.com/media/display/d5909d0e-b2f7-11f1-9d96-7922de457103/w:1024/p:16x9/AP26260552487595.jpg",
+      "imageUrl": "https://s.france24.com/media/display/55917092-b31f-11f1-b1f6-7922de457103/w:1024/p:16x9/2026-09-16T121610Z-522200717-RC27WLA5MPW7-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-REFINERY.jpg",
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T00:29:06.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-18-c9885897",
       "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe, selon une étude",
-      "description": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans seize pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant.",
+      "description": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans 16 pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant.",
       "url": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html",
       "imageUrl": null,
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-18T00:00:17.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-17-185a33e4",
@@ -396,18 +528,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T23:29:17.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
-    },
-    {
-      "id": "2026-09-17-82cbc282",
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky et Ursula von der Leyen ont discuté pour tenter de trouver une solution au financement de la défense ukrainienne",
-      "description": "Le président ukrainien et la présidente de la Commission européenne ont notamment évoqué l’utilisation des fonds restant disponibles dans le cadre du programme européen SAFE pour financer de nouveaux projets de défense communs entre l’Ukraine et l’UE.",
-      "url": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-volodymyr-zelensky-et-ursula-von-der-leyen-ont-discute-pour-tenter-de-trouver-une-solution-au-financement-de-la-defense-ukrainienne_6772184_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde - International",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-17T23:12:22.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-2f14d072",
@@ -418,7 +539,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T23:01:03.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-e0e7267c",
@@ -429,7 +550,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T23:00:53.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-ca691b64",
@@ -440,7 +561,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T23:00:47.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-0a8fafca",
@@ -451,7 +572,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T22:31:28.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-4fd9b32c",
@@ -462,7 +583,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T22:28:43.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-a2db34fb",
@@ -473,7 +594,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T22:14:13.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-5f759f12",
@@ -484,7 +605,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T22:12:58.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-d41211d4",
@@ -495,7 +616,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T22:12:55.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-783f5601",
@@ -506,7 +627,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T22:07:40.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-42122f9f",
@@ -517,7 +638,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T22:07:01.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-99676cdd",
@@ -528,7 +649,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T22:06:41.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-e71fb2c8",
@@ -539,7 +660,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T22:05:41.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-75d36071",
@@ -550,7 +671,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T22:04:40.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-57fd69c8",
@@ -561,7 +682,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T22:03:41.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-ef6234a0",
@@ -572,29 +693,18 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T21:59:21.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
-    },
-    {
-      "id": "2026-09-17-59b3d802",
-      "title": "Councils to share £5m in 'emergency food aid' as living costs rise",
-      "description": "The money from the Welsh government will amount to around £200,000 to every council.",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx5gvyle49o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6425/live/38286340-b2e2-11f1-99a0-c787492c049d.jpg",
-      "source": "BBC Business",
-      "category": "eco",
-      "publishedAt": "2026-09-17T21:55:12.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-55083542",
-      "title": "Extrême droite : Éric Zemmour confirme sa candidature à la présidentielle française",
-      "description": "Éric Zemmour, président du parti d'extrême droite Reconquête, a confirmé jeudi sur BFMTV qu'il serait bien candidat à la présidentielle française. Il avait fini quatrième du premier tour de l'élection de 2022 avec 7,07 % des voix.",
+      "title": "Présidentielle : Éric Zemmour confirme sa candidature et liste les catégories d'étrangers à expulser",
+      "description": "Éric Zemmour, président du parti d'extrême droite Reconquête!, a confirmé jeudi sur BFMTV qu'il serait bien candidat à la présidentielle française de 2027. Il avait fini quatrième du premier tour de l'élection de 2022, avec 7,07 % des voix.",
       "url": "https://www.france24.com/fr/france/20260917-france-extreme-droite-eric-zemmour-confirme-candidature-pr%C3%A9sidentielle-immigration",
       "imageUrl": "https://s.france24.com/media/display/df5ad9b4-b2e1-11f1-9386-8bce42b8e305/w:1024/p:16x9/AP25018618037790.jpg",
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T21:52:31.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-cb7290f2",
@@ -605,7 +715,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T21:51:11.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-a54c20fd",
@@ -616,7 +726,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T21:45:17.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-bdc19c33",
@@ -627,7 +737,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T21:41:19.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-3890739e",
@@ -638,7 +748,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T20:53:45.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-490bb8aa",
@@ -649,7 +759,7 @@
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T20:48:45.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-17-9ba37bd5",
@@ -660,7 +770,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T20:34:30.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-4987e3a5",
@@ -671,7 +781,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T20:24:34.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-b56bbdc0",
@@ -682,7 +792,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T20:10:41.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-0b773c7c",
@@ -693,7 +803,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T20:08:30.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-49c33e3a",
@@ -704,7 +814,7 @@
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T20:05:14.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-17-e437ecce",
@@ -714,8 +824,8 @@
       "imageUrl": null,
       "source": "Le Monde - International",
       "category": "geopolitique",
-      "publishedAt": "2026-09-17T20:00:03.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "publishedAt": "2026-09-17T20:00:01.000Z",
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-17-6ad1c643",
@@ -726,7 +836,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T19:47:28.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-8092c802",
@@ -737,7 +847,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-17T19:28:24.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-17-e5fe6823",
@@ -748,7 +858,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T19:25:12.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-aa080a2c",
@@ -759,7 +869,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T19:11:06.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-6c1f687e",
@@ -770,7 +880,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T19:07:28.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-0a3be15b",
@@ -781,7 +891,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-17T18:58:05.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-17-be4de14f",
@@ -792,7 +902,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T18:56:07.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-92a70d9e",
@@ -802,8 +912,8 @@
       "imageUrl": null,
       "source": "Le Monde - Économie",
       "category": "eco",
-      "publishedAt": "2026-09-17T18:52:45.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "publishedAt": "2026-09-17T18:52:44.000Z",
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-0974e8ed",
@@ -814,7 +924,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T18:43:34.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-feedfa9e",
@@ -825,7 +935,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T18:42:49.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-1ff6d7f6",
@@ -836,7 +946,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T18:33:13.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-a76a74d5",
@@ -847,18 +957,18 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T18:23:32.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-3d76a75a",
-      "title": "Yémen : l’UE exprime sa « totale solidarité » avec l’Arabie saoudite et appelle les houthistes à cesser « toute action militaire » ; 63 morts après une nouvelle journée d’affrontements",
-      "description": "Jeudi, de nouveaux échanges de tirs ont eu lieu entre les forces gouvernementales yéménites, les combattants houthistes et l’armée saoudienne.",
+      "title": "Yémen : l’UE exprime sa « totale solidarité » avec l’Arabie saoudite et appelle les houthistes à cesser « toute action militaire »",
+      "description": "Jeudi, de nouveaux échanges de tirs ont eu lieu entre les forces gouvernementales yéménites, les combattants houthistes et l’armée saoudienne, faisant au moins 63 morts, selon des bilans communiqués par des sources militaires des deux camps.",
       "url": "https://www.lemonde.fr/international/article/2026/09/17/l-ue-exprime-sa-totale-solidarite-avec-l-arabie-saoudite-et-appelle-les-houthistes-a-cesser-leurs-frappes-apres-une-nouvelle-journee-d-affrontements-meurtriers_6776473_3210.html",
       "imageUrl": null,
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T18:01:32.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-17-8d7f8285",
@@ -869,7 +979,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-17T18:00:09.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-17-d92b283f",
@@ -880,7 +990,7 @@
       "source": "Le Monde - International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T18:00:08.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:49.623Z"
     },
     {
       "id": "2026-09-17-259073b3",
@@ -891,7 +1001,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T17:53:56.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-09691176",
@@ -902,7 +1012,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T17:53:01.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-93201fc7",
@@ -913,7 +1023,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T17:43:50.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-de5baba9",
@@ -924,7 +1034,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T17:42:04.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-ab2d564f",
@@ -935,18 +1045,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T17:30:30.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
-    },
-    {
-      "id": "2026-09-17-21e9ca32",
-      "title": "En Ukraine, David Arakhamia, l’homme qui a su se rendre indispensable aux côtés de Volodymyr Zelensky",
-      "description": "A la tête du groupe parlementaire Serviteur du peuple, ce proche du président ukrainien s’est imposé à la fois en garant d’une majorité fragilisée et comme négociateur-clé face aux Américains et aux Russes.",
-      "url": "https://www.lemonde.fr/international/article/2026/09/17/en-ukraine-david-arakhamia-l-homme-qui-a-su-se-rendre-indispensable-aux-cotes-de-volodymyr-zelensky_6776468_3210.html",
-      "imageUrl": null,
-      "source": "Le Monde - International",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-17T17:30:11.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.251Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-52fb2fa6",
@@ -957,7 +1056,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T17:23:53.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-7b76d1e0",
@@ -968,7 +1067,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-17T17:14:07.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-17-7361db0b",
@@ -979,7 +1078,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T17:13:08.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-a9e04e99",
@@ -990,7 +1089,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T17:08:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-4d7ddecc",
@@ -1001,7 +1100,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T17:00:01.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-d228f4f9",
@@ -1012,7 +1111,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T16:59:43.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-8936d0ec",
@@ -1023,7 +1122,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T16:48:58.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-633c8d32",
@@ -1034,7 +1133,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T16:41:54.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-64c4c844",
@@ -1045,7 +1144,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T16:29:52.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-56c2b947",
@@ -1056,7 +1155,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T16:27:30.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-5e976dae",
@@ -1067,7 +1166,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T16:18:35.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-d361d8dd",
@@ -1078,7 +1177,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T16:18:34.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-0eeae3da",
@@ -1089,7 +1188,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T16:15:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-173cc573",
@@ -1100,7 +1199,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T16:00:22.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-aa80dbf7",
@@ -1111,7 +1210,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T16:00:10.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-e6d103dd",
@@ -1122,7 +1221,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T16:00:06.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-fd80f85f",
@@ -1133,7 +1232,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-17T16:00:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-17-bc82d48f",
@@ -1144,7 +1243,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T15:55:23.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-b1bb7ea4",
@@ -1155,18 +1254,7 @@
       "source": "France 24",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T15:55:10.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
-    },
-    {
-      "id": "2026-09-17-96bd1078",
-      "title": "Opération Vivaldi : première saison d'une série de contre-offensives ukrainiennes ?",
-      "description": "Kiev a révélé, mardi, avoir entamé une nouvelle opération militaire baptisée Vivaldi dans le Donbass. Qualifiée de contre-offensive, elle a déjà permis de “liberer” 85 km² autour du verrou stratégique de Lyman. Mais l’Ukraine est-elle vraiment capable de lancer une vaste contre-attaque ?",
-      "url": "https://www.france24.com/fr/europe/20260917-op%C3%A9ration-vivaldi-contre-offensive-donbass-russie-ukraine-biletsky-lyman",
-      "imageUrl": "https://s.france24.com/media/display/a07e7726-b2ac-11f1-8a89-7922de457103/w:1024/p:16x9/opvivaldi.png",
-      "source": "France 24",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-17T15:49:54.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:49.737Z"
     },
     {
       "id": "2026-09-17-257bec05",
@@ -1177,7 +1265,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T15:48:36.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-3b5c9083",
@@ -1188,7 +1276,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T15:38:04.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-b21f3e20",
@@ -1199,7 +1287,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T15:35:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-9a2a890b",
@@ -1210,29 +1298,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T15:28:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
-    },
-    {
-      "id": "2026-09-17-278cc3e3",
-      "title": "\"Si tu penses bien\", le premier drame de Géraldine Nakache",
-      "description": "On la connaît pour ses comédies, notamment \"Tout ce qui brille\", qu’elle avait tourné avec son amie Leïla Bekhti. Avec \"Si tu penses bien\", Géraldine Nakache change complètement de registre et signe son premier drame.",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260917-si-tu-penses-bien-le-premier-drame-de-g%C3%A9raldine-nakache",
-      "imageUrl": "https://s.france24.com/media/display/130c1460-b28a-11f1-8a22-d7a11ace016d/w:1024/p:16x9/capture-5815970526aabcd77a05af2-09745707.jpg",
-      "source": "France 24",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-17T15:26:04.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
-    },
-    {
-      "id": "2026-09-17-049cc92f",
-      "title": "Sanctions contre la CPI : \"C’est difficile, mais cela ne nous empêchera pas de faire notre travail\"",
-      "description": "Depuis la révocation de son procureur, Mame Mandiaye Niang assure l'intérim à la tête de la Cour pénale internationale. Alors que l'institution crée en 2002 traverse une crise inédite, le haut magistrat sénégalais a défendu sur France 24 le bilan de la CPI, notamment le mandat d'arrêt délivré contre le Premier ministre israélien, Benjamin Netanyahu, et qui valent à la Cour des sanctions de la part des États-Unis.",
-      "url": "https://www.france24.com/fr/europe/20260917-sanctions-contre-cpi-difficile-mais-cela-ne-nous-emp%C3%AAchera-pas-faire-notre-travail-trump-%C3%A9tats-unis-isra%C3%ABl-gaza",
-      "imageUrl": "https://s.france24.com/media/display/b37e7978-b2a4-11f1-bb37-6db10b20ba37/w:1024/p:16x9/000-333Y28F.jpg",
-      "source": "France 24",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-17T15:25:33.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.353Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-85141ecf",
@@ -1243,7 +1309,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T15:23:50.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-4b5c142b",
@@ -1254,7 +1320,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T15:17:54.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-8eaefc2e",
@@ -1265,7 +1331,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T15:13:58.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-ef1c9f5b",
@@ -1276,7 +1342,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T15:05:13.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-fffb80ca",
@@ -1287,7 +1353,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T15:00:06.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-fdaf5711",
@@ -1298,7 +1364,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T15:00:02.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-0fdb97f6",
@@ -1309,7 +1375,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-17T15:00:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-17-b482a8b1",
@@ -1320,7 +1386,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-17T15:00:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-17-f29ca897",
@@ -1331,7 +1397,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T14:59:08.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-c01a3c77",
@@ -1342,7 +1408,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T14:40:35.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-3c03c647",
@@ -1353,7 +1419,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T14:37:37.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-988b6851",
@@ -1364,7 +1430,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T14:33:20.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-0e164a25",
@@ -1375,7 +1441,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T14:28:28.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-facfff6d",
@@ -1386,7 +1452,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T14:20:27.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-1b448ee0",
@@ -1397,7 +1463,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-17T14:13:15.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-17-6a6fe9ec",
@@ -1408,7 +1474,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T14:12:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-27368212",
@@ -1419,7 +1485,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T14:05:38.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-c9d936c7",
@@ -1430,7 +1496,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T14:02:09.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-203dc7de",
@@ -1441,7 +1507,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-17T14:00:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-17-361d4ca3",
@@ -1452,7 +1518,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-17T14:00:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-17-0706f0f1",
@@ -1463,7 +1529,7 @@
       "source": "The Verge",
       "category": "tech",
       "publishedAt": "2026-09-17T14:00:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.387Z"
+      "fetchedAt": "2026-09-18T06:09:59.045Z"
     },
     {
       "id": "2026-09-17-5a7d35a2",
@@ -1474,7 +1540,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T13:57:14.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-38150eac",
@@ -1485,7 +1551,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T13:48:32.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-8ebee3b2",
@@ -1496,7 +1562,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T13:47:36.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-d9addbb4",
@@ -1507,7 +1573,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T13:44:07.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-973128e7",
@@ -1518,7 +1584,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T13:43:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-f2713a7f",
@@ -1529,7 +1595,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T13:39:09.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-adeac453",
@@ -1540,7 +1606,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T13:31:42.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-4d4e5c34",
@@ -1551,7 +1617,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T13:21:26.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-7b19ddee",
@@ -1562,7 +1628,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T13:12:47.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-afcfe2d4",
@@ -1573,7 +1639,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T13:10:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-88224abd",
@@ -1584,7 +1650,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T13:05:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-71e53ab0",
@@ -1595,7 +1661,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T13:02:40.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-beb6e2bb",
@@ -1606,7 +1672,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T13:00:30.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-f4d77bc9",
@@ -1617,7 +1683,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T13:00:09.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-5b0339a4",
@@ -1628,7 +1694,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T12:57:03.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-44e82390",
@@ -1639,7 +1705,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T12:45:04.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-1956f566",
@@ -1650,7 +1716,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T12:44:14.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-8b4d2c29",
@@ -1661,7 +1727,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T12:41:05.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-f26dddc3",
@@ -1672,7 +1738,7 @@
       "source": "Courrier International",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T12:33:47.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:49.762Z"
     },
     {
       "id": "2026-09-17-a07e7676",
@@ -1683,7 +1749,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T12:27:18.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-5bd1be0a",
@@ -1694,7 +1760,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T12:27:17.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-f39a2b62",
@@ -1705,18 +1771,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T12:25:44.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
-    },
-    {
-      "id": "2026-09-17-0e11d090",
-      "title": "Mahmoud Abbas à nouveau empêché de se rendre aux États-Unis pour l’Assemblée générale de l’ONU",
-      "description": "Comme l’année dernière, Washington a refusé de délivrer un visa au président palestinien pour non-respect des engagements vis-à-vis de l’administration américaine, l’empêchant ainsi d’assister à la session annuelle de l’Assemblée générale des Nations unies à New York. L’Autorité palestinienne dénonce une “mesure injustifiée”.",
-      "url": "https://www.courrierinternational.com/article/diplomatie-mahmoud-abbas-a-nouveau-empeche-de-se-rendre-aux-etats-unis-pour-l-assemblee-generale-de-l-onu_272035",
-      "imageUrl": "https://focus.courrierinternational.com/2026/09/17/0/0/5616/3744/1200/630/60/0/012f876_ftp-1-jvrwhr9dnavr-2026-09-17t020109z-774629319-rc28xgao6irj-rtrmadp-3-israel-palestinians-usa-un.JPG",
-      "source": "Courrier International",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-17T12:25:05.000Z",
-      "fetchedAt": "2026-09-18T04:51:05.303Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-a0983c09",
@@ -1727,18 +1782,7 @@
       "source": "Numerama",
       "category": "tech",
       "publishedAt": "2026-09-17T12:20:11.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
-    },
-    {
-      "id": "2026-09-17-0f13eb3f",
-      "title": "Le réalisateur de Backrooms s’affiche chez Valve : que se prépare-t-il ?",
-      "description": "Il aura suffi d'une simple story sur Instagram depuis les locaux de Valve pour enflammer toute la communauté geek. Kane Parsons, le réalisateur de 21 ans qui a pulvérisé le box-office mondial avec Backrooms, s'affiche une nouvelle fois dans les locaux du célèbre studio.",
-      "url": "https://www.numerama.com/pop-culture/2334587-film-portal-le-realisateur-de-backrooms-est-chez-valve-que-se-passe-t-il.html",
-      "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/06/capture-decran-2026-06-03-a-115152.jpg?resize=1600,900&key=5c97c16d",
-      "source": "Numerama",
-      "category": "tech",
-      "publishedAt": "2026-09-17T12:10:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.014Z"
+      "fetchedAt": "2026-09-18T06:09:55.145Z"
     },
     {
       "id": "2026-09-17-233dde6a",
@@ -1749,7 +1793,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T12:00:07.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-e4d30dd8",
@@ -1760,29 +1804,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T11:59:02.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
-    },
-    {
-      "id": "2026-09-17-51746a01",
-      "title": "Suède: le centre gauche remporte de justesse les élections législatives, annonce l'autorité électorale",
-      "description": "En Suède, le centre gauche emmené par la sociale-démocrate Magdalena Andersson a remporté jeudi 17 septembre les élections législatives ultra-serrées qui se sont déroulées dimanche, indique l'autorité électorale. Après l'annonce, le Premier ministre conservateur sortant Ulf Kristersson a annoncé sa démission.",
-      "url": "https://www.rfi.fr/fr/europe/20260917-su%C3%A8de-la-gauche-remporte-de-justesse-les-%C3%A9lections-l%C3%A9gislatives",
-      "imageUrl": "https://s.rfi.fr/media/display/5261136c-b28b-11f1-978a-991cccd3bb73/w:1024/p:16x9/000-C88B4G3.jpg",
-      "source": "RFI",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-17T11:46:14.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
-    },
-    {
-      "id": "2026-09-17-811dc839",
-      "title": "France: Emmanuel Macron convie les chefs de parti à une réunion sur les conflits mondiaux et leurs «conséquences»",
-      "description": "Le président français Emmanuel Macron a convié les chefs des partis représentés au Parlement français, ou leurs candidats à la présidentielle, pour une réunion vendredi sur la « dégradation rapide » de la situation internationale et ses « conséquences en France sur la sécurité et l'énergie », a annoncé jeudi 17 septembre l'Élysée. Cela alors que le conflit au Moyen-Orient fait monter les prix en Europe et la grogne sociale.",
-      "url": "https://www.rfi.fr/fr/france/20260917-france-emmanuel-macron-convie-les-chefs-de-parti-%C3%A0-une-r%C3%A9union-sur-les-conflits-mondiaux-et-leurs-cons%C3%A9quences",
-      "imageUrl": "https://s.rfi.fr/media/display/745d82fc-b286-11f1-a17a-d7a11ace016d/w:1024/p:16x9/2026-09-17T082424Z-123081595-RC2WKNAYFHIJ-RTRMADP-3-LEBANON-CRISIS-FRANCE.jpg",
-      "source": "RFI",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-17T11:33:44.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-76736158",
@@ -1793,7 +1815,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T11:05:29.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-d50a7b4a",
@@ -1804,7 +1826,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T11:00:41.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-7880fdf3",
@@ -1815,7 +1837,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-17T10:38:59.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-17-f406ca81",
@@ -1826,18 +1848,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T10:37:43.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
-    },
-    {
-      "id": "2026-09-17-802a4d13",
-      "title": "Shop closures among concerns in ancient capital",
-      "description": "Declining trade, parking and the cost of living are among concerns in Arbory, Castletown and Malew.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8m7588mxko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb45/live/f382a1c0-b26d-11f1-b67f-2b40fa83cfed.jpg",
-      "source": "BBC Business",
-      "category": "eco",
-      "publishedAt": "2026-09-17T10:13:41.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-5c23d3da",
@@ -1848,7 +1859,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T10:00:14.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-c609c0b5",
@@ -1859,7 +1870,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-17T09:43:46.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-17-0ceeb74b",
@@ -1870,7 +1881,7 @@
       "source": "RFI",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T09:12:17.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.208Z"
     },
     {
       "id": "2026-09-17-7110b62e",
@@ -1881,7 +1892,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T08:43:50.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-916ddb2e",
@@ -1892,7 +1903,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T08:39:30.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-2156dcb4",
@@ -1903,7 +1914,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T08:30:07.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-230a6431",
@@ -1914,7 +1925,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T08:25:48.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-4a87dc1c",
@@ -1925,18 +1936,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T08:22:12.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
-    },
-    {
-      "id": "2026-09-17-52ced963",
-      "title": "Rapprochement Canada-UE: Donald Trump menace d'imposer «des droits de douane» en réponse à «un acte hostile»",
-      "description": "Le président américain Donald Trump a menacé mercredi 16 septembre de « cesser tout commerce » avec l'Union européenne (UE) en réaction à son projet de faire du Canada le premier pays « membre associé » de l'union. En pleine brouille commerciale avec Ottawa, Donald Trump a jugé que la proposition faite par la présidente de la Commission européenne en présence du Premier ministre canadien Mark Carney serait « un acte hostile ».",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260917-rapprochement-canada-ue-donald-trump-menace-de-sanctionner-un-acte-hostile-via-des-droits-de-douane",
-      "imageUrl": "https://s.rfi.fr/media/display/d4e22ace-b26d-11f1-b1d3-0dbbad64a63b/w:1024/p:16x9/000-C6DW264.jpg",
-      "source": "RFI",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-17T08:01:17.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.828Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-1a87033e",
@@ -1947,7 +1947,7 @@
       "source": "Le Monde - Économie",
       "category": "eco",
       "publishedAt": "2026-09-17T07:00:03.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.375Z"
+      "fetchedAt": "2026-09-18T06:09:59.066Z"
     },
     {
       "id": "2026-09-17-ddf4a9df",
@@ -1958,7 +1958,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T06:46:31.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-add5c3d5",
@@ -1969,7 +1969,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T05:33:29.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-bd7e5124",
@@ -1980,7 +1980,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T05:05:09.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-e544f878",
@@ -1991,7 +1991,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T05:00:36.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-29f491d4",
@@ -2002,7 +2002,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T05:00:18.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-6a4c11bc",
@@ -2013,7 +2013,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-17T04:30:16.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-17-241f6255",
@@ -2024,7 +2024,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-17T04:30:05.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-17-0cc1df34",
@@ -2035,7 +2035,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T03:09:21.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-9505f66c",
@@ -2046,7 +2046,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-17T03:00:12.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-17-002d3f9f",
@@ -2057,7 +2057,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T02:00:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-e6ea1e44",
@@ -2068,7 +2068,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-17T01:02:42.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-17-612035ab",
@@ -2079,7 +2079,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-17T00:40:17.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-17-3ff77f19",
@@ -2090,7 +2090,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T00:38:50.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-17-8147c5d9",
@@ -2101,7 +2101,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-17T00:32:05.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-16-69d77377",
@@ -2112,7 +2112,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T23:41:57.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-14bb7b51",
@@ -2123,7 +2123,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-16T23:18:47.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-16-b1630a5e",
@@ -2134,7 +2134,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-16T22:26:10.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-16-aa47b99b",
@@ -2145,7 +2145,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T22:13:36.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-d7c63e80",
@@ -2156,7 +2156,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-16T22:02:46.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-16-d3b92a80",
@@ -2167,7 +2167,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T21:50:33.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-bbc80aff",
@@ -2178,7 +2178,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-16T21:42:09.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-16-3b1fd995",
@@ -2189,7 +2189,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T21:24:24.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-550c9597",
@@ -2200,7 +2200,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-16T21:08:14.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-16-1c3ad527",
@@ -2211,7 +2211,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-16T20:44:41.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-16-2e9000f3",
@@ -2222,7 +2222,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-16T20:23:16.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-16-2fe3dd51",
@@ -2233,7 +2233,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T19:59:57.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-ae986dff",
@@ -2244,7 +2244,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-16T19:36:44.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-16-2eacf955",
@@ -2255,7 +2255,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T19:12:48.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-5e544e9d",
@@ -2266,7 +2266,7 @@
       "source": "Ars Technica",
       "category": "tech",
       "publishedAt": "2026-09-16T19:08:34.000Z",
-      "fetchedAt": "2026-09-18T04:51:16.409Z"
+      "fetchedAt": "2026-09-18T06:09:59.423Z"
     },
     {
       "id": "2026-09-16-8708e9ae",
@@ -2277,7 +2277,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T18:36:16.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-01c08861",
@@ -2288,7 +2288,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T18:00:09.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-e18f2463",
@@ -2299,7 +2299,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T18:00:04.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-f23469f8",
@@ -2310,7 +2310,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T17:16:47.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-dacb79e8",
@@ -2321,7 +2321,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T15:48:50.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-e8280ca1",
@@ -2332,7 +2332,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T15:30:07.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-ed5bce63",
@@ -2343,7 +2343,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-16T14:52:38.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-16-1f2a8bd4",
@@ -2354,7 +2354,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T14:50:26.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-ba66daa3",
@@ -2365,7 +2365,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T14:32:49.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-b047babc",
@@ -2376,7 +2376,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-16T14:30:51.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-16-4fa61430",
@@ -2387,7 +2387,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-16T14:21:37.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-16-2fb47628",
@@ -2398,18 +2398,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T13:00:00.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
-    },
-    {
-      "id": "2026-09-16-e4db9241",
-      "title": "What's driving UK 'shoplifting crisis'?",
-      "description": "The number of shoplifting offences recorded in England and Wales in 2025-26 is still above pre-pandemic levels.",
-      "url": "https://www.bbc.co.uk/news/videos/c639m43070vpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea01/live/f328a280-b1cb-11f1-bc1f-3f186ca4140c.jpg",
-      "source": "BBC Business",
-      "category": "eco",
-      "publishedAt": "2026-09-16T12:32:57.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-494db81b",
@@ -2420,7 +2409,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T12:00:15.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-51a377c5",
@@ -2431,7 +2420,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T12:00:12.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-8ce4f2c0",
@@ -2442,7 +2431,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T11:08:01.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-4686332c",
@@ -2453,7 +2442,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T10:02:05.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-db9ceaae",
@@ -2464,7 +2453,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T10:00:10.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-af799051",
@@ -2475,7 +2464,7 @@
       "source": "Le Monde - Pixels",
       "category": "tech",
       "publishedAt": "2026-09-16T08:56:32.000Z",
-      "fetchedAt": "2026-09-18T04:51:11.898Z"
+      "fetchedAt": "2026-09-18T06:09:55.164Z"
     },
     {
       "id": "2026-09-16-c566913a",
@@ -2486,7 +2475,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T08:41:44.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-84185596",
@@ -2497,7 +2486,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-16T08:36:37.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     },
     {
       "id": "2026-09-16-4fad8986",
@@ -2508,7 +2497,7 @@
       "source": "BBC World",
       "category": "geopolitique",
       "publishedAt": "2026-09-16T08:36:17.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:09:55.200Z"
     },
     {
       "id": "2026-09-16-5848d3f0",
@@ -2519,18 +2508,7 @@
       "source": "BBC Business",
       "category": "eco",
       "publishedAt": "2026-09-16T06:59:41.000Z",
-      "fetchedAt": "2026-09-18T04:51:20.655Z"
-    },
-    {
-      "id": "2026-09-16-bc547fe5",
-      "title": "Runaway horse captured by police on motorbikes",
-      "description": "The unharmed horse escaped from its owner before the start of a parade in New Mexico",
-      "url": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39d9/live/eff3dbf0-b18c-11f1-87e9-b3bd4eb00d4c.jpg",
-      "source": "BBC World",
-      "category": "geopolitique",
-      "publishedAt": "2026-09-16T05:57:23.000Z",
-      "fetchedAt": "2026-09-18T04:51:12.045Z"
+      "fetchedAt": "2026-09-18T06:10:02.617Z"
     }
   ]
 }
