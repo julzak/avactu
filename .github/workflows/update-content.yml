@@ -85,6 +85,8 @@ jobs:
           ANTHROPIC_BASE_URL: https://api.moonshot.ai/anthropic
           ANTHROPIC_AUTH_TOKEN: ${{ secrets.MOONSHOT_API_KEY }}
           SYNTHESIS_MODEL: kimi-k3
+          # Alerte email admin si bascule sur le modèle Claude de secours
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: npm run synthesize
 
       # 7. Determine day info for conditional sending (use Paris timezone)
