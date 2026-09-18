@@ -8,8 +8,8 @@
  *   - data/clustered-articles.json généré par npm run cluster
  */
 
-import Anthropic from '@anthropic-ai/sdk';
 import { MODELS } from '../config/models.js';
+import { createSynthesisClientFromEnv, notifyFallback, type SynthesisClient } from './synthesis-client.js';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -124,34 +124,6 @@ function titleSimilarity(title1: string, title2: string): number {
   return intersection / Math.max(words1.size, words2.size);
 }
 
-/**
- * Retry wrapper for Claude API calls with exponential backoff
- */
-async function withRetry<T>(
-  fn: () => Promise<T>,
-  { maxRetries = 2, baseDelay = 2000, label = 'API call' } = {}
-): Promise<T> {
-  for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    try {
-      return await fn();
-    } catch (error: unknown) {
-      const isRateLimit = error instanceof Error && (
-        error.message.includes('rate_limit') ||
-        error.message.includes('429') ||
-        error.message.includes('overloaded')
-      );
-      if (attempt < maxRetries && (isRateLimit || (error instanceof Error && error.message.includes('timeout')))) {
-        const delay = baseDelay * Math.pow(2, attempt);
-        console.warn(`   ⚠ ${label} attempt ${attempt + 1} failed, retrying in ${delay}ms...`);
-        await new Promise(r => setTimeout(r, delay));
-        continue;
-      }
-      throw error;
-    }
-  }
-  throw new Error(`${label} failed after ${maxRetries + 1} attempts`);
-}
-
 // System prompt pour synthèse multi-sources
 const SYSTEM_PROMPT = `Tu es un analyste senior. Tu reçois plusieurs articles de presse sur un même sujet provenant de sources différentes.
 
@@ -238,7 +210,7 @@ IMPORTANT : Réponds UNIQUEMENT avec le JSON, sans texte avant ou après.`;
  * Synthesize a story from a cluster of articles
  */
 async function synthesizeStory(
-  client: Anthropic,
+  client: SynthesisClient,
   cluster: ArticleCluster,
   storyIndex: number
 ): Promise<Story | null> {
@@ -264,9 +236,8 @@ ${articlesDetail}
 Génère la story au format JSON demandé. Assure-toi de croiser les perspectives des différentes sources.`;
 
   try {
-    const response = await withRetry(
-      () => client.messages.create({
-        model: MODELS.synthesis,
+    const response = await client.create(
+      {
         // Opus 5 : thinking actif par defaut, compte dans max_tokens
         max_tokens: 8192,
         system: [
@@ -277,8 +248,8 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
           },
         ],
         messages: [{ role: 'user', content: userPrompt }],
-      }),
-      { label: `synthesize cluster "${cluster.topic.slice(0, 30)}"` }
+      },
+      `synthesize cluster "${cluster.topic.slice(0, 30)}"`
     );
 
     // Opus 5 : la reponse commence par un bloc thinking, le texte vient apres
@@ -443,7 +414,7 @@ IMPORTANT : Réponds UNIQUEMENT avec le JSON.`;
  * Claude picks the best topic covered by multiple sources.
  */
 async function synthesizeFromPool(
-  client: Anthropic,
+  client: SynthesisClient,
   articles: RawArticle[],
   category: 'tech' | 'eco',
   storyIndex: number,
@@ -494,9 +465,8 @@ Identifie le sujet le plus important qui N'A PAS été couvert récemment et syn
 ${articlesDetail}`;
 
   try {
-    const response = await withRetry(
-      () => client.messages.create({
-        model: MODELS.synthesis,
+    const response = await client.create(
+      {
         // Opus 5 : thinking actif par defaut, compte dans max_tokens
         max_tokens: 8192,
         system: [
@@ -507,8 +477,8 @@ ${articlesDetail}`;
           },
         ],
         messages: [{ role: 'user', content: userPrompt }],
-      }),
-      { label: `synthesize pool ${category}` }
+      },
+      `synthesize pool ${category}`
     );
 
     // Opus 5 : la reponse commence par un bloc thinking, le texte vient apres
@@ -621,7 +591,7 @@ async function synthesize(): Promise<void> {
   const rawArticles: RawArticle[] = rawData.articles;
 
   // Initialize Anthropic client
-  const client = new Anthropic();
+  const client = createSynthesisClientFromEnv();
 
   // Synthesize stories
   const stories: Story[] = [];
@@ -678,9 +648,8 @@ async function synthesize(): Promise<void> {
       const sources = [...new Set(recentGeopo.map((a: RawArticle) => a.source))];
 
       try {
-        const response = await withRetry(
-          () => client.messages.create({
-            model: MODELS.synthesis,
+        const response = await client.create(
+          {
             // Thinking actif par defaut (Opus 5 comme Kimi K3), compte dans max_tokens.
             // 4096 tronquait le JSON avec kimi-k3 (teste 2026-08-06) -> aligne sur 8192.
             max_tokens: 8192,
@@ -689,8 +658,8 @@ async function synthesize(): Promise<void> {
 Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.${excludeStr}
 
 ${articlesDetail}` }],
-          }),
-          { label: 'synthesize geopo fallback' }
+          },
+          'synthesize geopo fallback'
         );
 
         // Chercher le bloc text (les modèles thinking renvoient un bloc thinking en premier)
@@ -803,6 +772,13 @@ ${articlesDetail}` }],
 
   // Strip internal _clusterCategory before output
   const cleanStories = stories.map(({ _clusterCategory, ...rest }) => rest);
+
+  // Alerte admin si le fournisseur primaire a lâché (avant le garde-fou : l'alerte
+  // doit partir même si le modèle de secours n'a rien produit)
+  const fallbackReason = client.fallbackReason();
+  if (fallbackReason) {
+    await notifyFallback(fallbackReason, cleanStories.length);
+  }
 
   // Garde-fou : ne jamais écraser stories.json avec une édition vide (incident 2026-09-18,
   // compte Moonshot suspendu → 429 sur toutes les synthèses → site et newsletter vides).
