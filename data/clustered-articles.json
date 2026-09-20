@@ -1,264 +1,198 @@
 {
-  "generatedAt": "2026-09-19T04:47:38.770Z",
+  "generatedAt": "2026-09-20T05:03:39.574Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "« Pas touche au Kennedy Center » : des milliers de personnes réunies autour de l",
+      "id": "cluster-3",
+      "topic": "En Asie, l’imprévisibilité de Donald Trump pousse ses alliés à repenser leur séc",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-19-6658a45b",
-          "title": "« Pas touche au Kennedy Center » : des milliers de personnes réunies autour de l’institution culturelle menacée de disparition par l’administration Trump",
-          "description": "La prestigieuse salle de spectacles, qui a besoin de travaux d’envergure, est fermée depuis mercredi, de manière « temporaire » selon ses responsables. Certains redoutent sa démolition par Donald Trump qui continue de réclamer d’y faire figurer son nom.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/19/pas-touche-au-kennedy-center-des-milliers-de-personnes-reunies-autour-de-l-institution-culturelle-menacee-de-disparition-par-l-administration-trump_6777227_3210.html",
+          "id": "2026-09-20-4cfec052",
+          "title": "En Asie, l’imprévisibilité de Donald Trump pousse ses alliés à repenser leur sécurité",
+          "description": "La politique ambiguë du président américain dans la région a ravivé les doutes sur la fiabilité des Etats-Unis en cas de conflit avec la Chine. Face aux ambitions régionales de Pékin, partenaires et alliés historiques de Washington resserrent leurs liens et musclent leurs capacités de défense.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/20/en-asie-l-imprevisibilite-de-donald-trump-pousse-ses-allies-a-repenser-leur-securite_6778054_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-19T04:39:53.000Z",
-          "fetchedAt": "2026-09-19T04:43:38.160Z"
+          "publishedAt": "2026-09-20T04:00:20.000Z",
+          "fetchedAt": "2026-09-20T04:59:38.937Z"
         },
         {
-          "id": "2026-09-19-29694d1c",
-          "title": "Trump annonce un accord sur la sécurité du Groenland, loin de son projet d’annexion",
-          "description": "Le président républicain a déclaré vendredi avoir obtenu du Danemark et du Groenland un “contrôle permanent” de la sécurité de ce territoire arctique stratégique. Cette annonce dissipe les inquiétudes danoises, groenlandaises et européennes quant à la volonté des États-Unis d’annexer officiellement l’île, observe la presse américaine.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-trump-annonce-un-accord-sur-la-securite-du-groenland-loin-de-son-projet-d-annexion_272451",
+          "id": "2026-09-20-ccb05f72",
+          "title": "Emmanuel Macron réaffirme la souveraineté de Saint-Pierre-et-Miquelon face aux convoitises de Trump",
+          "description": "Le président français, qui est arrivé sur l’archipel de l’Atlantique Nord samedi, doit recevoir le premier ministre canadien, Mark Carney. Ce déplacement renforce la volonté du Canada de prendre ses distances avec les Etats-Unis.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html",
           "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-20T03:30:21.000Z",
+          "fetchedAt": "2026-09-20T04:59:38.937Z"
+        },
+        {
+          "id": "2026-09-20-dd8e93f1",
+          "title": "États-Unis: à l'approche des midterms, plusieurs figures républicaines tournent le dos à Donald Trump",
+          "description": "D'une représentante du sud de la Floride qui critique la politique migratoire du président à un ancien stratège de George W. Bush qui appelle à voter pour un démocrate au Texas, plusieurs personnalités du Parti républicain prennent leur distances avec Donald Trump à l'approche des élections de mi mandat. En cause notamment : les dérives de l'ICE et des propos outranciers désormais ouvertement assumés par une frange grandissante de la formation.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260920-%C3%A9tats-unis-%C3%A0-l-approche-des-midterms-plusieurs-figures-r%C3%A9publicaines-tournent-le-dos-%C3%A0-donald-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/a93c20b0-b49c-11f1-b8c6-0730212ba17f/w:1024/p:16x9/AP49980772751.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-20T03:09:58.000Z",
+          "fetchedAt": "2026-09-20T04:59:43.589Z"
+        },
+        {
+          "id": "2026-09-19-78ebda69",
+          "title": "Saint-Pierre-et-Miquelon est bien « français », martèle sur place Emmanuel Macron, en réponse aux visées expansionnistes de Donald Trump",
+          "description": "Dès son arrivée sur place, le président a réaffirmé la souveraineté française sur l’unique territoire d’outre-mer situé dans l’Atlantique Nord, où il doit recevoir, dimanche, le premier ministre canadien, Mark Carney.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/20/saint-pierre-et-miquelon-est-bien-francais-martele-sur-place-emmanuel-macron-en-reponse-aux-visees-expansionnistes-de-donald-trump_6777911_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-19T23:43:51.000Z",
+          "fetchedAt": "2026-09-20T04:59:38.937Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "En Allemagne, deux élections régionales décisives pour l’avenir de Friedrich Mer",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-20-e8462c94",
+          "title": "En Allemagne, deux élections régionales décisives pour l’avenir de Friedrich Merz",
+          "description": "Il y a deux semaines, la victoire écrasante de l’extrême droite en Saxe-Anhalt secouait le pays. Le parti du chancelier Merz subissait une défaite cuisante. Ce dimanche, deux autres régions, le Mecklembourg et Berlin, votent. De mauvais résultats pour la CDU pourraient accélérer le calendrier politique alors que Friedrich Merz est sur la sellette.",
+          "url": "https://www.rfi.fr/fr/europe/20260920-en-allemagne-deux-%C3%A9lections-r%C3%A9gionales-d%C3%A9cisives-pour-l-avenir-de-friedrich-merz",
+          "imageUrl": "https://s.rfi.fr/media/display/2d3d4d50-b43c-11f1-904f-ed3d9e22a40f/w:1024/p:16x9/000-C8LU6HK.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-20T03:59:48.000Z",
+          "fetchedAt": "2026-09-20T04:59:43.589Z"
+        },
+        {
+          "id": "2026-09-20-9050ba76",
+          "title": "Hartmut Rosa et le retour de l’extrême droite allemande : “À l’Est, on a le sentiment que l’Ouest ressemble à la RDA honnie”",
+          "description": "Comment expliquer la popularité de l’extrême droite dans l’est de l’Allemagne ? Stigmatisation, contrôle étatique, politique de l’émotion et pensée unique… Dans un entretien fleuve avec le quotidien de gauche “Süddeutsche Zeitung”, le célèbre sociologue Hartmut Rosa réagit à la victoire de l’AfD en Saxe-Anhalt, analyse les évolutions politiques du laboratoire qu’est la République fédérale et en tire des conséquences pour toute l’Europe.",
+          "url": "https://www.courrierinternational.com/long-format/idees-hartmut-rosa-et-le-retour-de-l-extreme-droite-allemande-a-l-est-on-a-le-sentiment-que-l-ouest-ressemble-a-la-rda-honnie_269699",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/18/1/0/3996/2664/1200/630/60/0/f34952e_upload-1-x9ndemrfs7ss-1election-germany-copie.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-19T04:07:24.000Z",
-          "fetchedAt": "2026-09-19T04:43:38.436Z"
+          "publishedAt": "2026-09-20T03:00:30.000Z",
+          "fetchedAt": "2026-09-20T04:59:39.148Z"
         },
         {
-          "id": "2026-09-19-7b0d5d3c",
-          "title": "Etats-Unis : la déferlante IA déstabilise l’administration Trump avant la visite de Xi Jinping",
-          "description": "La chaîne CNN a révélé, vendredi, qu’une erreur d’une intelligence artificielle a failli provoquer l’assaut d’un navire chinois soupçonné de transporter du matériel nucléaire près d’Ormuz. Le président américain, lui, craint que l’éclatement de la bulle IA conduise à une récession, selon le « New York Times ».",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/19/etats-unis-la-deferlante-ia-destabilise-l-administration-trump-avant-la-visite-de-xi-jinping_6777224_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-19T04:04:12.000Z",
-          "fetchedAt": "2026-09-19T04:43:38.160Z"
-        },
-        {
-          "id": "2026-09-18-1949553f",
-          "title": "🔴 Donald Trump annonce avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland",
-          "description": "",
-          "url": "https://www.france24.com/fr/europe/20260918-donald-trump-groenland-danemark-etats-unis-accord-controle-permanent-securite",
-          "imageUrl": "https://s.france24.com/media/display/f4b96792-b3ab-11f1-a6fd-6f779f079bc8/w:1280/p:16x9/AP26261748094867.jpg",
+          "id": "2026-09-19-b2da3613",
+          "title": "Allemagne : Merz joue son avenir aux élections régionales de dimanche",
+          "description": "Le chancelier allemand Friedrich Merz survivra-t-il aux scrutins régionaux de dimanche ? Le débat est ouvert après le récent échec électoral de son parti conservateur en Saxe-Anhalt où l'extrême droite a obtenu une écrasante victoire.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-allemagne-merz-joue-son-avenir-aux-%C3%A9lections-r%C3%A9gionales-de-dimanche",
+          "imageUrl": "https://s.france24.com/media/display/e8050460-b406-11f1-be3d-9f514b90f153/w:1024/p:16x9/FR-20260919-101025-101247-CS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-18T22:00:11.000Z",
-          "fetchedAt": "2026-09-19T04:43:38.248Z"
-        },
-        {
-          "id": "2026-09-18-dd8c9c9f",
-          "title": "Groenland: Donald Trump annonce un accord pour renforcer la présence militaire américaine",
-          "description": "Le Groenland, immense île arctique et isolée, se retrouve une nouvelle fois au centre des préoccupations géostratégiques mondiales. Le président américain Donald Trump a annoncé, vendredi 18 septembre, la conclusion d’un accord avec le Danemark et le Groenland qui doit permettre aux États-Unis de renforcer leur présence militaire sur l’île. Il affirme que Washington a obtenu un « contrôle permanent » sur la sécurité du territoire et que l’accord empêchera tout « adversaire » des États-Unis d’y établir une présence militaire ou d'y réaliser des investissements sensibles.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260918-groenland-donald-trump-annonce-un-accord-pour-renforcer-la-pr%C3%A9sence-militaire-am%C3%A9ricaine",
-          "imageUrl": "https://s.rfi.fr/media/display/1fdba28c-9417-11f1-a06f-005056bfb2b6/w:1024/p:16x9/AP26189288227043.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-18T21:39:29.000Z",
-          "fetchedAt": "2026-09-19T04:43:42.932Z"
-        },
-        {
-          "id": "2026-09-18-8064e645",
-          "title": "États-Unis: Donald Trump veut empêcher CNN et d'autres médias de venir à la Maison Blanche",
-          "description": "Le ⁠président américain Donald Trump ​a annoncé vendredi 18 septembre interdire l'accès à la Maison Blanche aux ​chaînes télévisées d'information en continu CNN et MSNOW, ainsi qu'au média en ligne Politico, dénonçant leur couverture ​journalistique ‌dans un message publié sur ⁠les réseaux sociaux.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260918-%C3%A9tats-unis-donald-trump-veut-emp%C3%AAcher-cnn-et-d-autres-m%C3%A9dias-de-venir-%C3%A0-la-maison-blanche",
-          "imageUrl": "https://s.rfi.fr/media/display/9d0cff7a-b3a3-11f1-ba58-9f514b90f153/w:1024/p:16x9/AP26261748094867.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-18T21:38:08.000Z",
-          "fetchedAt": "2026-09-19T04:43:42.932Z"
+          "publishedAt": "2026-09-19T10:01:48.000Z",
+          "fetchedAt": "2026-09-20T04:59:39.208Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated att",
+      "id": "cluster-18",
+      "topic": "EN DIRECT, guerre en Ukraine : des centaines de drones visent Moscou et sa régio",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-19-c62df2e8",
-          "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-          "description": "Residents later received the all-clear after explosions were reported in the capital.",
-          "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa8/live/4cd60bc0-b3d8-11f1-87bc-d37d040ffc9c.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-19T04:20:47.000Z",
-          "fetchedAt": "2026-09-19T04:43:42.806Z"
-        },
-        {
-          "id": "2026-09-19-0f619814",
-          "title": "Arabie saoudite : des explosions entendues à Riyad après une alerte aérienne",
-          "description": "Ces fortes détonations ont retenti tôt, samedi. Le royaume subit ces derniers jours la pression des combattants houthistes du Yémen, mais c’est la première fois que la capitale saoudienne est concernée par une alerte.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/19/arabie-saoudite-des-explosions-entendues-a-riyad-apres-une-alerte-aerienne_6777045_3210.html",
+          "id": "2026-09-20-93f3ba4b",
+          "title": "EN DIRECT, guerre en Ukraine : des centaines de drones visent Moscou et sa région, faisant au moins deux morts",
+          "description": "Une importante raffinerie a également été endommagée lors de cette attaque massive sur la capitale russe. Par ailleurs, un drone russe a touché une maison, près de Kiev, tuant une femme de 39 ans, et deux enfants de 2 ans et 3 ans.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/20/en-direct-guerre-en-ukraine-trois-morts-dont-deux-enfants-de-2-ans-et-3-ans-dans-une-frappe-russe-pres-de-kiev_6777944_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-19T01:30:20.000Z",
-          "fetchedAt": "2026-09-19T04:43:38.160Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-5",
-      "topic": "«C’est une catastrophe», la santé publique au cœur des préoccupations pour les l",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-19-deca16ea",
-          "title": "«C’est une catastrophe», la santé publique au cœur des préoccupations pour les législatives au Maroc",
-          "description": "Au Maroc, la santé publique s’est imposée comme l’un des sujets majeurs de la campagne pour les élections législatives du 23 septembre. Il y a tout juste un an, la mort de huit femmes après des césariennes à l’hôpital régional d’Agadir avait mis en lumière les défaillances du système de santé et contribué au déclenchement du mouvement de contestation GenZ 212. Malgré les réformes engagées, l’accès aux soins reste une préoccupation majeure pour de nombreux Marocains.",
-          "url": "https://www.rfi.fr/fr/afrique/20260919-c-est-une-catastrophe-la-sant%C3%A9-publique-au-c%C5%93ur-des-pr%C3%A9occupations-pour-les-l%C3%A9gislatives-au-maroc",
-          "imageUrl": "https://s.rfi.fr/media/display/2a223e68-d2dc-11ed-a73b-005056a90284/w:1024/p:16x9/AP21029562985706.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-19T04:14:23.000Z",
-          "fetchedAt": "2026-09-19T04:43:42.932Z"
+          "publishedAt": "2026-09-20T02:30:56.000Z",
+          "fetchedAt": "2026-09-20T04:59:38.937Z"
         },
         {
-          "id": "2026-09-19-35df87b7",
-          "title": "Au Cameroun, les partis politiques en ordre de bataille pour d'hypothétiques élections début 2027",
-          "description": "Réunions « stratégiques » au sommet, définition des mécanismes internes de choix des militants candidats aux investitures, formation des cadres, début de tractations en vue de sceller des alliances... Depuis des mois, la scène politique camerounaise se trouve en situation de « veillée d'armes pré-électorale ». Et ce, alors même que l'organisation effective des législatives et municipales prévues début 2027, n'est pas acquise, en raison d'une éventuelle nouvelle prorogation des mandats des députés et conseillers municipaux élus en 2020.",
-          "url": "https://www.rfi.fr/fr/afrique/20260919-au-cameroun-les-partis-politiques-en-ordre-de-bataille-pour-d-hypoth%C3%A9tiques-%C3%A9lections-d%C3%A9but-2027",
-          "imageUrl": "https://s.rfi.fr/media/display/9d246266-b1d5-11f1-b26a-3ff9dda05487/w:1024/p:16x9/000-67X322F.jpg",
+          "id": "2026-09-19-ad24ce7e",
+          "title": "«Jetés à la cave en cas d’abstention»: dans les territoires ukrainiens occupés, les élections russes riment avec coercition",
+          "description": "Dernier jour de vote ce dimanche 20 septembre pour les élections législatives russes, les premières organisées depuis le début de l’invasion à grande échelle de l’Ukraine. Pour la première fois, le scrutin se tient également dans quatre régions ukrainiennes partiellement occupées et illégalement annexées par Moscou en 2022 : Donetsk, Louhansk, Zaporijjia et Kherson. Neuf circonscriptions y ont été créées afin d’envoyer à la Douma autant de députés censés représenter ces territoires. Un scrutin organisé dans un climat de menaces et de coercition.",
+          "url": "https://www.rfi.fr/fr/europe/20260919-jet%C3%A9s-%C3%A0-la-cave-en-cas-d-abstention-dans-les-territoires-ukrainiens-occup%C3%A9s-les-%C3%A9lections-russes-riment-avec-coercition",
+          "imageUrl": "https://s.rfi.fr/media/display/ea21f524-b46e-11f1-ba92-ed3d9e22a40f/w:1024/p:16x9/2026-09-18T154103Z-46617057-RC2KLNATYPNL-RTRMADP-3-RUSSIA-ELECTION-CRIMEA.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-19T04:08:13.000Z",
-          "fetchedAt": "2026-09-19T04:43:42.932Z"
+          "publishedAt": "2026-09-19T21:48:09.000Z",
+          "fetchedAt": "2026-09-20T04:59:43.589Z"
         },
         {
-          "id": "2026-09-19-5b0b7663",
-          "title": "Les viols par soumission chimique, un fléau mondial dont la société “ne veut rien savoir”",
-          "description": "Plusieurs affaires judiciaires récentes montrent que les viols sous soumission chimique n’ont rien d’exceptionnel, analyse “Falter”. Souvent commis par des proches des victimes, ces crimes demeurent pourtant largement impunis. Le magazine autrichien s’est demandé pourquoi.",
-          "url": "https://www.courrierinternational.com/article/societe-les-viols-par-soumission-chimique-un-fleau-mondial-dont-la-societe-ne-veut-rien-savoir_256700",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/18/68/0/3307/2204/1200/630/60/0/1489694_upload-1-ajmtzowwr3hg-1falco-2026-07-20-6299-copie.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-19T03:00:33.000Z",
-          "fetchedAt": "2026-09-19T04:43:38.436Z"
-        },
-        {
-          "id": "2026-09-18-44ed41d1",
-          "title": "Ukraine: l'ONU alerte sur l'emploi des violences sexuelles comme arme de guerre",
-          "description": "La violence sexuelle, arme de guerre parmi d'autres en Ukraine. L'ONU alerte sur son emploi généralisé par les forces russes dans les territoires qu'elles occupent. Des « actes odieux », dit le Haut-Commissaire des Nations unies aux droits de l'Homme, et assimilés à de la torture.",
-          "url": "https://www.rfi.fr/fr/europe/20260918-ukraine-l-onu-alerte-sur-l-emploi-des-violences-sexuelles-comme-arme-de-guerre",
-          "imageUrl": "https://s.rfi.fr/media/display/ec5628ba-dfe4-11f0-9eaa-005056bf30b7/w:1024/p:16x9/AP25351567398088.jpg",
+          "id": "2026-09-19-2dc10b70",
+          "title": "Ukraine: des drones russes visent un centre commercial à Dnipro et blessent plusieurs civils",
+          "description": "Alors que les élections se poursuivent tout le weekend en Russie, mais aussi dans les zones ukrainiennes occupées par les forces russes, la guerre se poursuit, sans interruption. La journée a encore été marquée par des frappes de drones constantes qui très souvent touchent les civils, comme à Dnipro, à l’est du pays, où un centre commercial a été touché samedi 19 septembre en fin de journée.",
+          "url": "https://www.rfi.fr/fr/europe/20260919-ukraine-des-drones-russes-visent-un-centre-commercial-%C3%A0-dnipro-et-blessent-plusieurs-civils",
+          "imageUrl": "https://s.rfi.fr/media/display/a3b80d2c-b46d-11f1-becc-5b4fdf021577/w:1024/p:16x9/WhatsApp-Image-2026-09-19-at-22-06-18.jpeg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-18T22:12:36.000Z",
-          "fetchedAt": "2026-09-19T04:43:42.932Z"
+          "publishedAt": "2026-09-19T21:22:11.000Z",
+          "fetchedAt": "2026-09-20T04:59:43.589Z"
         },
         {
-          "id": "2026-09-18-e9ff8bab",
-          "title": "La Californie pousse pour encadrer les risques de l’intelligence artificielle dans un nouveau décret",
-          "description": "Le gouverneur démocrate de Californie Gavin Newsom a signé vendredi 18 septembre 2026 un décret qui vise à pousser les acteurs de l'intelligence artificielle (IA) à prendre des mesures de sécurité supplémentaires pour gérer les risques de l'IA.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260918-la-californie-pousse-pour-encadrer-les-risques-de-l-intelligence-artificielle-dans-un-nouveau-d%C3%A9cret",
-          "imageUrl": "https://s.rfi.fr/media/display/53323cee-b3ad-11f1-9720-9ff5c3f464d4/w:1024/p:16x9/AP26258002923254.jpg",
-          "source": "RFI",
+          "id": "2026-09-19-4ac06e0b",
+          "title": "Guerre en Ukraine : quatre civils tués dans une frappe russe dans l’oblast de Soumy. Retrouvez les informations du 13 au 19 septembre.",
+          "description": "Une voiture a été prise pour cible, samedi, par un drone russe, a annoncé Oleh Hryhorov, chef de l’administration militaire régionale. Par ailleurs, on centre commercial de Dnipro a été en grande partie détruit par un incendie qui s’est déclaré à la suite des tirs de l’armée russe, faisant quatre blessés.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-quatre-civils-tues-dans-une-frappe-russe-dans-l-oblast-de-soumy_6772184_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-18T22:08:19.000Z",
-          "fetchedAt": "2026-09-19T04:43:42.932Z"
+          "publishedAt": "2026-09-19T21:21:59.000Z",
+          "fetchedAt": "2026-09-20T04:59:38.937Z"
         },
         {
-          "id": "2026-09-18-f3414353",
-          "title": "Le train est une force diplomatique, selon Claude Leblanc, spécialiste du ferroviaire",
-          "description": "L'avenir de l'Afrique passera par le train pour le spécialiste du ferroviaire, Claude Leblanc, qui sillonne le monde à la rencontre des transporteurs. Son nouveau livre, La Géopolitique du train, nous apprend que derrière la Chine, d'autres pays comme l'Inde ou la Turquie s'investissent dans la construction de chemins de fer en Afrique. Édité aux éditions Presses universitaires de France, l'ouvrage nous montre qu'une voie ferrée est un transport qui favorise la cohésion d'un pays.",
-          "url": "https://www.rfi.fr/fr/podcasts/chronique-transports/20260918-le-train-est-une-force-diplomatique-selon-claude-leblanc-sp%C3%A9cialiste-du-ferroviaire",
-          "imageUrl": "https://s.rfi.fr/media/display/92960a2c-b3a4-11f1-8e38-6f779f079bc8/w:1024/p:16x9/000-1LH33P.jpg",
-          "source": "RFI",
+          "id": "2026-09-18-d07f08e5",
+          "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+          "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+          "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29a1/live/446ff8b0-a1fe-11f1-a97e-999c5aae08bf.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-09-18T22:02:04.000Z",
-          "fetchedAt": "2026-09-19T04:43:42.932Z"
+          "publishedAt": "2026-09-18T23:03:38.000Z",
+          "fetchedAt": "2026-09-20T04:59:43.806Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Les transports en commun peinent à atteindre l’accessibilité universelle : « Deu",
-      "category": "eco",
-      "importance": 10,
+      "topic": "IA : « le spectre du Terminator est paradoxalement moins effrayant que les autre",
+      "category": "tech",
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-09-19-ef62ee71",
-          "title": "Les transports en commun peinent à atteindre l’accessibilité universelle : « Deux accidents mortels en six mois, ça fait beaucoup »",
-          "description": "Après deux morts, en décembre 2025 à Paris, et en juin 2026 à Lyon, un collectif de jeunes malvoyants manifeste samedi 19 septembre à Paris pour déplorer le manque d’aménagements adaptés, qui crée des situations dangereuses et limite leur autonomie.",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/19/les-transports-en-commun-peinent-a-atteindre-l-accessibilite-universelle-deux-accidents-mortels-en-six-mois-ca-fait-beaucoup_6777216_3224.html",
+          "id": "2026-09-20-1b86dd53",
+          "title": "IA : « le spectre du Terminator est paradoxalement moins effrayant que les autres monstres qui nous guettent »",
+          "description": "Convoquer l’imaginaire de la science-fiction au profit de prédictions apocalyptiques nous détourne des véritables dangers et défis posés par l’intelligence artificielle, estime dans sa chronique Damien Leloup, journaliste au service Pixels du « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/20/ia-le-spectre-du-terminator-est-paradoxalement-moins-effrayant-que-les-autres-monstres-qui-nous-guettent_6778048_3232.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-19T04:00:22.000Z",
-          "fetchedAt": "2026-09-19T04:43:45.875Z"
-        },
-        {
-          "id": "2026-09-18-a83afc94",
-          "title": "« Notre santé est mise à l’épreuve » : à Nîmes, des femmes de chambre d’un cinq-étoiles en grève réclament de meilleures conditions de travail",
-          "description": "Pour la deuxième fois en quelques semaines, les femmes de chambre de l’hôtel Maison Albar-L’Impérator, un prestigieux hôtel cinq étoiles de Nîmes, étaient en grève vendredi 18 septembre.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/18/notre-sante-est-mise-a-l-epreuve-a-nimes-des-femmes-de-chambre-d-un-cinq-etoiles-en-greve-reclament-de-meilleures-conditions-de-travail_6776813_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-18T15:01:04.000Z",
-          "fetchedAt": "2026-09-19T04:43:45.875Z"
-        },
-        {
-          "id": "2026-09-18-75611391",
-          "title": "Les taux d’intérêt élevés, marqueurs d’une nouvelle ère économique mondiale appelée à durer",
-          "description": "Sur les marchés, les taux d’intérêt à travers le monde sont au plus haut, à des niveaux jamais observés depuis deux décennies. Une nouvelle donne alors que les Etats se sont lourdement endettés dans l’intervalle.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/18/les-taux-d-interet-eleves-marqueurs-d-une-nouvelle-ere-economique-mondiale-appelee-a-durer_6776787_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-18T12:30:07.000Z",
-          "fetchedAt": "2026-09-19T04:43:45.875Z"
-        },
-        {
-          "id": "2026-09-18-8fdc4609",
-          "title": "L’Allemagne veut une taxe européenne sur les superprofits des groupes pétroliers pour compenser la hausse des prix de l’énergie",
-          "description": "Pour faire face à la flambée des prix de l’énergie, plusieurs Etats européens veulent taxer les profits record des pétroliers pour soutenir ménages et entreprises.",
-          "url": "https://www.lemonde.fr/planete/article/2026/09/18/face-a-la-crise-energetique-l-allemagne-plaide-pour-une-taxe-europeenne-sur-les-superprofits-petroliers_6776775_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-18T10:36:45.000Z",
-          "fetchedAt": "2026-09-19T04:43:45.875Z"
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-20T03:30:24.000Z",
+          "fetchedAt": "2026-09-20T04:59:43.608Z"
         }
       ]
     },
     {
-      "id": "cluster-13",
-      "topic": "Security researchers used Claude to help them hack into OpenAI",
-      "category": "tech",
-      "importance": 9,
+      "id": "cluster-3",
+      "topic": "Le raffinage, grand gagnant de la flambée des prix à la pompe",
+      "category": "eco",
+      "importance": 5,
       "articles": [
         {
-          "id": "2026-09-18-88391dbe",
-          "title": "Security researchers used Claude to help them hack into OpenAI",
-          "description": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The Wall Street Journal's sources. \nThey stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the third-party service that hosts OpenAI's community f …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-09-18T15:30:16.000Z",
-          "fetchedAt": "2026-09-19T04:43:45.986Z"
-        },
-        {
-          "id": "2026-09-18-0d07d819",
-          "title": "Researchers used Claude to hack OpenAI",
-          "description": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-          "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+          "id": "2026-09-19-6ca654b5",
+          "title": "Le raffinage, grand gagnant de la flambée des prix à la pompe",
+          "description": "Le prix du baril de brent n’explique pas à lui seul l’envolée des carburants. Depuis février, l’écart entre le pétrole brut et les produits raffinés s’est considérablement creusé, sur fond de pénuries et de capacités de production contraintes.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/19/le-raffinage-grand-gagnant-de-la-flambee-des-prix-a-la-pompe_6777830_3234.html",
           "imageUrl": null,
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-09-18T13:30:12.000Z",
-          "fetchedAt": "2026-09-19T04:43:46.081Z"
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-09-19T16:00:16.000Z",
+          "fetchedAt": "2026-09-20T04:59:46.806Z"
         }
       ]
     }
