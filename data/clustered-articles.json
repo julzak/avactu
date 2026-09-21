@@ -1,198 +1,231 @@
 {
-  "generatedAt": "2026-09-20T05:03:39.574Z",
+  "generatedAt": "2026-09-21T05:08:47.251Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-3",
-      "topic": "En Asie, l’imprévisibilité de Donald Trump pousse ses alliés à repenser leur séc",
+      "id": "cluster-1",
+      "topic": "Sans passeports ni repères : au Cameroun, les naufragées de la politique migrato",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-20-4cfec052",
-          "title": "En Asie, l’imprévisibilité de Donald Trump pousse ses alliés à repenser leur sécurité",
-          "description": "La politique ambiguë du président américain dans la région a ravivé les doutes sur la fiabilité des Etats-Unis en cas de conflit avec la Chine. Face aux ambitions régionales de Pékin, partenaires et alliés historiques de Washington resserrent leurs liens et musclent leurs capacités de défense.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/20/en-asie-l-imprevisibilite-de-donald-trump-pousse-ses-allies-a-repenser-leur-securite_6778054_3210.html",
+          "id": "2026-09-21-199694a2",
+          "title": "Sans passeports ni repères : au Cameroun, les naufragées de la politique migratoire de Trump",
+          "description": "Persécutées dans leur pays d'origine, elles espéraient débuter une nouvelle vie aux États-Unis. Elles ont été expulsées au Cameroun, où elles n'ont aucune attache. France 24 a enquêté avec Forbidden Stories sur la situation de plusieurs migrantes africaines accueillies dans un centre de Yaoundé, après leur expulsion par l'administration Trump, en vertu d'un accord secret négocié entre les dirigeants des deux pays.",
+          "url": "https://www.france24.com/fr/afrique/20260921-sans-passeports-ni-rep%C3%A8res-au-cameroun-les-naufrag%C3%A9es-de-la-politique-migratoire-de-trump",
           "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-20T04:00:20.000Z",
-          "fetchedAt": "2026-09-20T04:59:38.937Z"
-        },
-        {
-          "id": "2026-09-20-ccb05f72",
-          "title": "Emmanuel Macron réaffirme la souveraineté de Saint-Pierre-et-Miquelon face aux convoitises de Trump",
-          "description": "Le président français, qui est arrivé sur l’archipel de l’Atlantique Nord samedi, doit recevoir le premier ministre canadien, Mark Carney. Ce déplacement renforce la volonté du Canada de prendre ses distances avec les Etats-Unis.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-20T03:30:21.000Z",
-          "fetchedAt": "2026-09-20T04:59:38.937Z"
-        },
-        {
-          "id": "2026-09-20-dd8e93f1",
-          "title": "États-Unis: à l'approche des midterms, plusieurs figures républicaines tournent le dos à Donald Trump",
-          "description": "D'une représentante du sud de la Floride qui critique la politique migratoire du président à un ancien stratège de George W. Bush qui appelle à voter pour un démocrate au Texas, plusieurs personnalités du Parti républicain prennent leur distances avec Donald Trump à l'approche des élections de mi mandat. En cause notamment : les dérives de l'ICE et des propos outranciers désormais ouvertement assumés par une frange grandissante de la formation.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260920-%C3%A9tats-unis-%C3%A0-l-approche-des-midterms-plusieurs-figures-r%C3%A9publicaines-tournent-le-dos-%C3%A0-donald-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/a93c20b0-b49c-11f1-b8c6-0730212ba17f/w:1024/p:16x9/AP49980772751.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-20T03:09:58.000Z",
-          "fetchedAt": "2026-09-20T04:59:43.589Z"
-        },
-        {
-          "id": "2026-09-19-78ebda69",
-          "title": "Saint-Pierre-et-Miquelon est bien « français », martèle sur place Emmanuel Macron, en réponse aux visées expansionnistes de Donald Trump",
-          "description": "Dès son arrivée sur place, le président a réaffirmé la souveraineté française sur l’unique territoire d’outre-mer situé dans l’Atlantique Nord, où il doit recevoir, dimanche, le premier ministre canadien, Mark Carney.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/20/saint-pierre-et-miquelon-est-bien-francais-martele-sur-place-emmanuel-macron-en-reponse-aux-visees-expansionnistes-de-donald-trump_6777911_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-19T23:43:51.000Z",
-          "fetchedAt": "2026-09-20T04:59:38.937Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "En Allemagne, deux élections régionales décisives pour l’avenir de Friedrich Mer",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-20-e8462c94",
-          "title": "En Allemagne, deux élections régionales décisives pour l’avenir de Friedrich Merz",
-          "description": "Il y a deux semaines, la victoire écrasante de l’extrême droite en Saxe-Anhalt secouait le pays. Le parti du chancelier Merz subissait une défaite cuisante. Ce dimanche, deux autres régions, le Mecklembourg et Berlin, votent. De mauvais résultats pour la CDU pourraient accélérer le calendrier politique alors que Friedrich Merz est sur la sellette.",
-          "url": "https://www.rfi.fr/fr/europe/20260920-en-allemagne-deux-%C3%A9lections-r%C3%A9gionales-d%C3%A9cisives-pour-l-avenir-de-friedrich-merz",
-          "imageUrl": "https://s.rfi.fr/media/display/2d3d4d50-b43c-11f1-904f-ed3d9e22a40f/w:1024/p:16x9/000-C8LU6HK.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-20T03:59:48.000Z",
-          "fetchedAt": "2026-09-20T04:59:43.589Z"
-        },
-        {
-          "id": "2026-09-20-9050ba76",
-          "title": "Hartmut Rosa et le retour de l’extrême droite allemande : “À l’Est, on a le sentiment que l’Ouest ressemble à la RDA honnie”",
-          "description": "Comment expliquer la popularité de l’extrême droite dans l’est de l’Allemagne ? Stigmatisation, contrôle étatique, politique de l’émotion et pensée unique… Dans un entretien fleuve avec le quotidien de gauche “Süddeutsche Zeitung”, le célèbre sociologue Hartmut Rosa réagit à la victoire de l’AfD en Saxe-Anhalt, analyse les évolutions politiques du laboratoire qu’est la République fédérale et en tire des conséquences pour toute l’Europe.",
-          "url": "https://www.courrierinternational.com/long-format/idees-hartmut-rosa-et-le-retour-de-l-extreme-droite-allemande-a-l-est-on-a-le-sentiment-que-l-ouest-ressemble-a-la-rda-honnie_269699",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/18/1/0/3996/2664/1200/630/60/0/f34952e_upload-1-x9ndemrfs7ss-1election-germany-copie.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-20T03:00:30.000Z",
-          "fetchedAt": "2026-09-20T04:59:39.148Z"
-        },
-        {
-          "id": "2026-09-19-b2da3613",
-          "title": "Allemagne : Merz joue son avenir aux élections régionales de dimanche",
-          "description": "Le chancelier allemand Friedrich Merz survivra-t-il aux scrutins régionaux de dimanche ? Le débat est ouvert après le récent échec électoral de son parti conservateur en Saxe-Anhalt où l'extrême droite a obtenu une écrasante victoire.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-allemagne-merz-joue-son-avenir-aux-%C3%A9lections-r%C3%A9gionales-de-dimanche",
-          "imageUrl": "https://s.france24.com/media/display/e8050460-b406-11f1-be3d-9f514b90f153/w:1024/p:16x9/FR-20260919-101025-101247-CS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-19T10:01:48.000Z",
-          "fetchedAt": "2026-09-20T04:59:39.208Z"
+          "publishedAt": "2026-09-21T05:00:06.000Z",
+          "fetchedAt": "2026-09-21T05:04:47.027Z"
+        },
+        {
+          "id": "2026-09-21-1370a0f5",
+          "title": "Deportation Project : enquête sur les expulsions de masse vers l'Afrique de l'administration Trump",
+          "description": "Au sein d'un consortium de 26 médias coordonné par Forbidden Stories, France 24 a enquêté pendant plusieurs mois sur les accords secrets conclus entre l'administration Trump et plusieurs pays africains, désignés comme pays \"tiers\", prêts à accueillir des personnes expulsées par l'ICE.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260921-expulsions-vers-afrique-enqu%C3%AAte-internationale-politique-migratoire-trump-%C3%A9tats-unis",
+          "imageUrl": "https://s.france24.com/media/display/13797200-b2b0-11f1-ac5d-7922de457103/w:1024/p:16x9/Poster-FR.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-21T05:00:06.000Z",
+          "fetchedAt": "2026-09-21T05:04:47.027Z"
+        },
+        {
+          "id": "2026-09-21-c1fdec24",
+          "title": "Migrants expulsés vers l'Afrique: plongée dans la mécanique de l’administration Trump",
+          "description": "Depuis le retour de Donald Trump, plus de 25 000 personnes ont été expulsées des États-Unis vers des pays tiers avec lesquels elles n’ont souvent aucun lien, parfois sur un autre continent que le leur. Parmi elles, des centaines ont été envoyées en Afrique. Au moins 12 pays africains accueillent aujourd’hui ces expulsés : des Vietnamiens en Eswatini, des Colombiens en RDC, des Guinéens au Ghana. Pendant six mois, RFI a enquêté, au sein d’un consortium de 24 médias internationaux coordonné par Forbidden Stories, pour comprendre comment fonctionne ce système, en mesurer l’ampleur et documenter le parcours de ces personnes expulsées. Une fois sur le continent africain, certaines sont emprisonnées sans décision de justice, d’autres bloquées sans véritable statut ni perspective. Et, dans plusieurs cas documentés par notre enquête, le pays tiers n’est qu’une étape vers un renvoi dans le pays d’origine, que les États-Unis ne pouvaient pas effectuer.",
+          "url": "https://www.rfi.fr/fr/afrique/20260921-migrants-expuls%C3%A9s-vers-l-afrique-plong%C3%A9e-dans-la-m%C3%A9canique-de-l-administration-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/6c93c098-b33c-11f1-804f-2538446acac2/w:1024/p:16x9/1-1-16.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-21T04:59:36.000Z",
+          "fetchedAt": "2026-09-21T05:04:51.018Z"
+        },
+        {
+          "id": "2026-09-21-4b7dbb32",
+          "title": "Ceuta: des milliers de migrants livrés à eux-mêmes et un renforcement des mesures de sécurité",
+          "description": "Presque deux mois après la migration massive de plus de 70 000 personnes depuis le Maroc vers Ceuta, les 30 et 31 juillet, des appels à traverser la frontière continuent d’être diffusés sur les réseaux. Certains incitent à passer à l’acte le jour des législatives, ce mercredi 23 septembre. Dans l’enclave espagnole, la situation humanitaire reste catastrophique. Des milliers de personnes sont livrées à elles-mêmes, sans aucune prise en charge.",
+          "url": "https://www.rfi.fr/fr/afrique/20260921-ceuta-des-milliers-de-migrants-livr%C3%A9s-%C3%A0-eux-m%C3%AAmes-et-un-renforcement-des-mesures-de-s%C3%A9curit%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/d5ed5e4a-b572-11f1-9aff-5b4fdf021577/w:1024/p:16x9/2026-09-20T183015Z-497126533-RC23NNAER49E-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-21T04:48:26.000Z",
+          "fetchedAt": "2026-09-21T05:04:51.018Z"
+        },
+        {
+          "id": "2026-09-21-72108777",
+          "title": "États-Unis: un poste militaire et de l'armement dans l'arc de triomphe de Trump à Washington?",
+          "description": "Un arc de triomphe à Washington devenu essentiel pour la sécurité nationale. En tout cas, c’est ce qu’affirme Donald Trump : le président américain est déjà à pied d’œuvre pour construire un monument de 76 mètres de hauteur dans la capitale américaine qui serait similaire à l’arc de Triomphe à Paris. Mais ce dimanche, Donald Trump a annoncé que ce bâtiment servirait aussi de complexe militaire pour les intérêts de la sécurité nationale.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260921-%C3%A9tats-unis-un-poste-militaire-et-de-l-armement-dans-l-arc-de-triomphe-de-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/ea77d750-b572-11f1-9466-9ff5c3f464d4/w:1024/p:16x9/000-B9443WY.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-21T04:42:19.000Z",
+          "fetchedAt": "2026-09-21T05:04:51.018Z"
+        },
+        {
+          "id": "2026-09-21-c16389cd",
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce avoir convenu avec Donald Trump d’une rencontre à New York",
+          "description": "Le président ukrainien a eu un entretien téléphonique avec son homologue américain, alors qu’en Russie, le parti présidentiel est, sans surprise, donné vainqueur des élections législatives, marquées notamment par des attaques de drones ukrainiennes.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/21/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-avoir-convenu-avec-donald-trump-d-une-rencontre-a-new-york_6777944_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-21T04:41:34.000Z",
+          "fetchedAt": "2026-09-21T05:04:46.648Z"
         }
       ]
     },
     {
-      "id": "cluster-18",
-      "topic": "EN DIRECT, guerre en Ukraine : des centaines de drones visent Moscou et sa régio",
+      "id": "cluster-4",
+      "topic": "Haïti : cinq ans après l’assassinat de Jovenel Moïse, dix-huit suspects extradés",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-20-93f3ba4b",
-          "title": "EN DIRECT, guerre en Ukraine : des centaines de drones visent Moscou et sa région, faisant au moins deux morts",
-          "description": "Une importante raffinerie a également été endommagée lors de cette attaque massive sur la capitale russe. Par ailleurs, un drone russe a touché une maison, près de Kiev, tuant une femme de 39 ans, et deux enfants de 2 ans et 3 ans.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/20/en-direct-guerre-en-ukraine-trois-morts-dont-deux-enfants-de-2-ans-et-3-ans-dans-une-frappe-russe-pres-de-kiev_6777944_3210.html",
+          "id": "2026-09-21-f3bc371b",
+          "title": "Haïti : cinq ans après l’assassinat de Jovenel Moïse, dix-huit suspects extradés vers les Etats-Unis",
+          "description": "L’ancien président avait été tué par un commando armé à son domicile de Port-au-Prince, en juillet 2021. Sa mort avait encore aggravé le chaos dans le pays le plus pauvre des Amériques, qui n’a pas connu d’élection depuis 2016 et n’a plus de président depuis cet assassinat.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/21/haiti-cinq-ans-apres-l-assassinat-de-jovenel-moise-dix-huit-suspects-extrades-vers-les-etats-unis_6778696_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-20T02:30:56.000Z",
-          "fetchedAt": "2026-09-20T04:59:38.937Z"
+          "publishedAt": "2026-09-21T04:18:32.000Z",
+          "fetchedAt": "2026-09-21T05:04:46.648Z"
         },
         {
-          "id": "2026-09-19-ad24ce7e",
-          "title": "«Jetés à la cave en cas d’abstention»: dans les territoires ukrainiens occupés, les élections russes riment avec coercition",
-          "description": "Dernier jour de vote ce dimanche 20 septembre pour les élections législatives russes, les premières organisées depuis le début de l’invasion à grande échelle de l’Ukraine. Pour la première fois, le scrutin se tient également dans quatre régions ukrainiennes partiellement occupées et illégalement annexées par Moscou en 2022 : Donetsk, Louhansk, Zaporijjia et Kherson. Neuf circonscriptions y ont été créées afin d’envoyer à la Douma autant de députés censés représenter ces territoires. Un scrutin organisé dans un climat de menaces et de coercition.",
-          "url": "https://www.rfi.fr/fr/europe/20260919-jet%C3%A9s-%C3%A0-la-cave-en-cas-d-abstention-dans-les-territoires-ukrainiens-occup%C3%A9s-les-%C3%A9lections-russes-riment-avec-coercition",
-          "imageUrl": "https://s.rfi.fr/media/display/ea21f524-b46e-11f1-ba92-ed3d9e22a40f/w:1024/p:16x9/2026-09-18T154103Z-46617057-RC2KLNATYPNL-RTRMADP-3-RUSSIA-ELECTION-CRIMEA.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-19T21:48:09.000Z",
-          "fetchedAt": "2026-09-20T04:59:43.589Z"
-        },
-        {
-          "id": "2026-09-19-2dc10b70",
-          "title": "Ukraine: des drones russes visent un centre commercial à Dnipro et blessent plusieurs civils",
-          "description": "Alors que les élections se poursuivent tout le weekend en Russie, mais aussi dans les zones ukrainiennes occupées par les forces russes, la guerre se poursuit, sans interruption. La journée a encore été marquée par des frappes de drones constantes qui très souvent touchent les civils, comme à Dnipro, à l’est du pays, où un centre commercial a été touché samedi 19 septembre en fin de journée.",
-          "url": "https://www.rfi.fr/fr/europe/20260919-ukraine-des-drones-russes-visent-un-centre-commercial-%C3%A0-dnipro-et-blessent-plusieurs-civils",
-          "imageUrl": "https://s.rfi.fr/media/display/a3b80d2c-b46d-11f1-becc-5b4fdf021577/w:1024/p:16x9/WhatsApp-Image-2026-09-19-at-22-06-18.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-19T21:22:11.000Z",
-          "fetchedAt": "2026-09-20T04:59:43.589Z"
-        },
-        {
-          "id": "2026-09-19-4ac06e0b",
-          "title": "Guerre en Ukraine : quatre civils tués dans une frappe russe dans l’oblast de Soumy. Retrouvez les informations du 13 au 19 septembre.",
-          "description": "Une voiture a été prise pour cible, samedi, par un drone russe, a annoncé Oleh Hryhorov, chef de l’administration militaire régionale. Par ailleurs, on centre commercial de Dnipro a été en grande partie détruit par un incendie qui s’est déclaré à la suite des tirs de l’armée russe, faisant quatre blessés.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-quatre-civils-tues-dans-une-frappe-russe-dans-l-oblast-de-soumy_6772184_3210.html",
+          "id": "2026-09-21-ba6bbb31",
+          "title": "Au Texas, un homme grièvement blessé par balle par un agent de l’ICE, la police de l’immigration américaine",
+          "description": "L’homme blessé, identifié par son avocate comme un ressortissant vénézuélien de 28 ans, a été hospitalisé dans un état grave mais stable.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/21/au-texas-un-homme-grievement-blesse-par-balle-par-un-agent-de-l-ice-la-police-de-l-immigration-americaine_6778652_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-19T21:21:59.000Z",
-          "fetchedAt": "2026-09-20T04:59:38.937Z"
+          "publishedAt": "2026-09-21T03:23:40.000Z",
+          "fetchedAt": "2026-09-21T05:04:46.648Z"
         },
         {
-          "id": "2026-09-18-d07f08e5",
-          "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-          "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
-          "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29a1/live/446ff8b0-a1fe-11f1-a97e-999c5aae08bf.jpg",
-          "source": "BBC World",
+          "id": "2026-09-20-1b149f6c",
+          "title": "États-Unis: Donald Trump et sa famille investissent massivement dans l’IA, que le président refuse de réguler",
+          "description": "Alors que Donald Trump continue à refuser de réguler l’intelligence artificielle, malgré les demandes en ce sens des leaders du secteur, le Washington Post pointe d’éventuels conflits d’intérêt de la part du président américain. Dans un article publié dimanche 20 septembre, le quotidien américain indique que les Trump ont investi massivement dans les secteurs liés à l’essor de l’IA, en s’appuyant sur leurs déclarations financières et des annonces d’entreprises.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260920-%C3%A9tats-unis-donald-trump-et-sa-famille-investissent-massivement-dans-l-ia-que-le-pr%C3%A9sident-refuse-de-r%C3%A9guler",
+          "imageUrl": "https://s.rfi.fr/media/display/a289c1b4-b532-11f1-8ad2-6f779f079bc8/w:1024/p:16x9/AP26182450973621.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-18T23:03:38.000Z",
-          "fetchedAt": "2026-09-20T04:59:43.806Z"
+          "publishedAt": "2026-09-20T20:35:12.000Z",
+          "fetchedAt": "2026-09-21T05:04:51.018Z"
+        },
+        {
+          "id": "2026-09-20-02becda1",
+          "title": "Les Etats-Unis craignent une « escalade » au Moyen-Orient après une attaque des houthistes sur Riyad",
+          "description": "De fortes explosions ont retenti dans la capitale saoudienne à deux reprises samedi. La coalition militaire a notamment accusé les houthistes d’avoir lancé un missile balistique sur Riyad.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/20/les-etats-unis-craignent-une-escalade-au-moyen-orient-apres-une-attaque-des-houthistes-sur-riyad_6778449_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-20T20:05:37.000Z",
+          "fetchedAt": "2026-09-21T05:04:46.648Z"
+        },
+        {
+          "id": "2026-09-20-5e19466b",
+          "title": "Moyen-Orient : Washington craint \"une escalade rapide\" après une attaque sur Ryad",
+          "description": "Les États-Unis ont averti samedi 19 septembre redouter une \"escalade rapide\" des hostilités au Moyen-Orient face aux attaques des Houthis du Yémen contre l'Arabie saoudite, dont la capitale a été visée pour la première fois depuis des mois par ces combattants pro-iraniens. Nous en parlons avec notre invité David Rigoulet-Roze, rédacteur en chef de la revue \"Orients Stratégiques\".",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-moyen-orient-washington-craint-une-escalade-rapide-apr%C3%A8s-une-attaque-sur-ryad",
+          "imageUrl": "https://s.france24.com/media/display/12ee682c-b4f9-11f1-a61f-ed3d9e22a40f/w:1024/p:16x9/FR-20260920-130847-131942-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-20T14:30:00.000Z",
+          "fetchedAt": "2026-09-21T05:04:47.027Z"
+        },
+        {
+          "id": "2026-09-20-4177ed20",
+          "title": "L’accord sur le Groenland soulage le Danemark mais ouvre grand la porte aux États-Unis",
+          "description": "Dans l’attente de détails sur le contenu de l’accord sur le Groenland annoncé vendredi 18 septembre par le président américain Donald Trump, la presse danoise oscille entre soulagement, prudence et craintes. Si les États-Unis ont en principe renoncé à l’annexion du territoire autonome danois, certains sur place s’inquiètent pour leur avenir.",
+          "url": "https://www.courrierinternational.com/article/vu-de-copenhague-l-accord-sur-le-groenland-soulage-le-danemark-mais-ouvre-grand-la-porte-aux-etats-unis_272682",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/19/0/0/5088/3392/1200/630/60/0/6175d5c_ftp-1-ajttweobqpcj-2026-09-19t202658z-1543228238-rc2bmna0gz03-rtrmadp-3-usa-trump-greenland.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-20T11:12:18.000Z",
+          "fetchedAt": "2026-09-21T05:04:46.961Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "En Allemagne, Merz s’accroche au pouvoir malgré un nouveau “désastre” électoral ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-21-a8e3ff66",
+          "title": "En Allemagne, Merz s’accroche au pouvoir malgré un nouveau “désastre” électoral pour son parti",
+          "description": "Le chancelier allemand Friedrich Merz a écarté toute démission dimanche, en dépit des résultats désastreux de son parti et des scores excellents de l’extrême droite aux élections régionales au Mecklembourg-Poméranie occidentale et à Berlin.",
+          "url": "https://www.courrierinternational.com/article/politique-en-allemagne-merz-s-accroche-au-pouvoir-malgre-un-nouveau-desastre-electoral-pour-son-parti_272847",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/20/0/264/3597/2398/1200/630/60/0/0cfe59f_ftp-1-y9buqw01k712-2026-09-20t163821z-615877825-rc24nnatgyle-rtrmadp-3-germany-election-berlin-merz.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-21T03:49:56.000Z",
+          "fetchedAt": "2026-09-21T05:04:46.961Z"
+        },
+        {
+          "id": "2026-09-20-5cbae63c",
+          "title": "Élections en Allemagne : la survie de Friedrich Merz ne tient plus qu’à un fil",
+          "description": "Les élections régionales allemandes en Mecklembourg-Poméranie-Occidentale et à Berlin ont toutes deux marqué la défaite d'un même parti : la CDU de Friedrich Merz. Après le récent choc provoqué par la large victoire de l’extrême droite en Saxe-Anhalt, déjà analysé comme un échec de la politique du chancelier, Friedrich Merz peut-il survivre à ces deux nouveaux revers ?",
+          "url": "https://www.france24.com/fr/europe/20260920-elections-allemagne-friedrich-merz-cdu-mercklembourg-berlin-afd-deroute",
+          "imageUrl": "https://s.france24.com/media/display/d7b1d318-b528-11f1-8ca9-6f779f079bc8/w:1024/p:16x9/mecklembourg-merz.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-20T19:39:22.000Z",
+          "fetchedAt": "2026-09-21T05:04:47.027Z"
+        },
+        {
+          "id": "2026-09-20-ee2c5596",
+          "title": "Élections en Allemagne : Merz \"est dans une situation inconfortable\"",
+          "description": "Près de quatre millions d'électeurs allemands sont appelés aux urnes dimanche pour deux scrutins régionaux où les avancées du parti d'extrême droite AfD et de la gauche radicale pourraient provoquer de nouvelles secousses à Berlin et affecter le chancelier Friedrich Merz, déjà très fragilisé. Nous en parlons avec notre journaliste chroniqueur Antoine Mariotti.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-%C3%A9lections-en-allemagne-merz-est-dans-une-situation-inconfortable",
+          "imageUrl": "https://s.france24.com/media/display/e28a7c46-b509-11f1-8cb9-5b4fdf021577/w:1024/p:16x9/FR-20260920-160520-160951-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-20T16:26:33.000Z",
+          "fetchedAt": "2026-09-21T05:04:47.027Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "IA : « le spectre du Terminator est paradoxalement moins effrayant que les autre",
-      "category": "tech",
+      "topic": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells ",
+      "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-20-1b86dd53",
-          "title": "IA : « le spectre du Terminator est paradoxalement moins effrayant que les autres monstres qui nous guettent »",
-          "description": "Convoquer l’imaginaire de la science-fiction au profit de prédictions apocalyptiques nous détourne des véritables dangers et défis posés par l’intelligence artificielle, estime dans sa chronique Damien Leloup, journaliste au service Pixels du « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/20/ia-le-spectre-du-terminator-est-paradoxalement-moins-effrayant-que-les-autres-monstres-qui-nous-guettent_6778048_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-20T03:30:24.000Z",
-          "fetchedAt": "2026-09-20T04:59:43.608Z"
+          "id": "2026-09-21-56646a55",
+          "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+          "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+          "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c51b/live/83c73640-b509-11f1-91cc-c5691e33b858.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-09-21T04:00:38.000Z",
+          "fetchedAt": "2026-09-21T05:04:55.159Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Le raffinage, grand gagnant de la flambée des prix à la pompe",
-      "category": "eco",
-      "importance": 5,
+      "id": "cluster-1",
+      "topic": "No Dogs in Space is back to feed your need for obsessive music history",
+      "category": "tech",
+      "importance": 6,
       "articles": [
         {
-          "id": "2026-09-19-6ca654b5",
-          "title": "Le raffinage, grand gagnant de la flambée des prix à la pompe",
-          "description": "Le prix du baril de brent n’explique pas à lui seul l’envolée des carburants. Depuis février, l’écart entre le pétrole brut et les produits raffinés s’est considérablement creusé, sur fond de pénuries et de capacités de production contraintes.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/19/le-raffinage-grand-gagnant-de-la-flambee-des-prix-a-la-pompe_6777830_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-19T16:00:16.000Z",
-          "fetchedAt": "2026-09-20T04:59:46.806Z"
+          "id": "2026-09-20-2cebdf95",
+          "title": "No Dogs in Space is back to feed your need for obsessive music history",
+          "description": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0. The first episode premiered this week, part one of a series on the New York Dolls, a band near and dear to my heart as a native Staten Islander, home of frontman David Johansen.\nFor the new season, Hidalgo and Parks decided it was time to get back to basics. Part of that was that they felt punk rock was where their passion and expertise were strongest. …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/810731213_18454823458185562_8102974567602315903_n.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-09-20T20:51:57.000Z",
+          "fetchedAt": "2026-09-21T05:04:54.061Z"
         }
       ]
     }
