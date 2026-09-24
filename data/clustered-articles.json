@@ -1,209 +1,242 @@
 {
-  "generatedAt": "2026-09-23T04:55:24.894Z",
+  "generatedAt": "2026-09-24T05:04:13.563Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "EN DIRECT, guerre en Ukraine : le chef de la diplomatie américaine, Marco Rubio,",
+      "topic": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new w",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-23-58cf67dd",
-          "title": "EN DIRECT, guerre en Ukraine : le chef de la diplomatie américaine, Marco Rubio, va rencontrer son homologue russe, Sergueï Lavrov, mercredi à New York",
-          "description": "Cet échange aura lieu le même jour que la prise de parole du président ukrainien, Volodymyr Zelensky, à la tribune des Nations unies. Ce dernier a dit avoir eu, mardi, « une rencontre positive et productive » avec Donald Trump.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-guerre-en-ukraine-le-chef-de-la-diplomatie-americaine-marco-rubio-va-rencontrer-son-homologue-russe-serguei-lavrov-mercredi-a-new-york_6777944_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-23T04:39:18.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.211Z"
-        },
-        {
-          "id": "2026-09-22-8466122c",
-          "title": "Ukraine: face à l’intensification des attaques russes, l’évacuation de civils à Kharkiv est de plus en plus risquée",
-          "description": "Même si de loin, le front en Ukraine semble gelé, aucun camp n’ayant fait de percée significative depuis des mois, en réalité, il reste mouvant. À l'échelle locale, cela signifie que des villes et des villages, jusque-là épargnés, menacent tout à coup de se transformer en champ de bataille. Cette situation oblige des habitants à évacuer dans des conditions très risquées.",
-          "url": "https://www.rfi.fr/fr/europe/20260922-ukraine-face-%C3%A0-l-intensification-des-attaques-russes-l-%C3%A9vacuation-de-civils-%C3%A0-kharkiv-est-de-plus-en-plus-risqu%C3%A9e",
-          "imageUrl": "https://s.rfi.fr/media/display/c778f72a-b6c1-11f1-b205-4d220c210a04/w:1024/p:16x9/IMG-4263-JPG.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-22T21:51:51.000Z",
-          "fetchedAt": "2026-09-23T04:51:28.627Z"
-        },
-        {
-          "id": "2026-09-22-b3986b24",
-          "title": "Kiev et Washington veulent que la guerre s'arrête \"avant l'hiver\", assure Volodymyr Zelensky",
-          "description": "Évoquant \"une rencontre productive avec Donald Trump\" en marge de l'Assemblée générale de l'ONU à New York, le président ukrainien a déclaré que leurs deux pays voulaient que la guerre avec la Russie prenne fin \"avant l'hiver\". Ils ont discuté de \"potentielles étapes de désescalade susceptibles d'ouvrir la voie à la diplomatie\", mais aussi \"d'un moratoire énergétique\", précise Volodymyr Zelensky.",
-          "url": "https://www.france24.com/fr/europe/20260922-kiev-washington-veulent-que-guerre-russie-arrete-avant-hiver-volodymyr-zelensky-ukraine-etats-unis-ag-onu-donald-trump-negociations-moratoire-energetique-patriots",
-          "imageUrl": "https://s.france24.com/media/display/8fc1ad66-b6cd-11f1-9bea-557acd7c815c/w:1024/p:16x9/2026-09-22T185321Z-294428292-RC2IONAPQIAG-RTRMADP-3-UN-ASSEMBLY-ZELENSKIY-TRUMP.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-22T21:39:49.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.322Z"
-        },
-        {
-          "id": "2026-09-22-70f11dbf",
-          "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-          "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-          "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg",
+          "id": "2026-09-24-416d6e7e",
+          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+          "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+          "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-09-22T19:06:06.000Z",
-          "fetchedAt": "2026-09-23T04:51:28.570Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "En Cisjordanie, après le meurtre d’un colon, le spectre de la peine de mort pour",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
+          "publishedAt": "2026-09-24T04:37:47.000Z",
+          "fetchedAt": "2026-09-24T05:00:19.560Z"
+        },
         {
-          "id": "2026-09-23-24bc7a80",
-          "title": "En Cisjordanie, après le meurtre d’un colon, le spectre de la peine de mort pour l’assaillant palestinien",
-          "description": "En pleine campagne électorale, la droite israélienne s’est saisie de l’émotion provoquée par la mort, dimanche, d’un colon, pour faire appliquer une loi contestée instaurant la peine capitale pour des meurtres « terroristes » commis par des Palestiniens.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/23/en-cisjordanie-apres-le-meurtre-d-un-colon-le-spectre-de-la-peine-de-mort-pour-l-assaillant-palestinien_6780579_3210.html",
+          "id": "2026-09-24-63f252bd",
+          "title": "EN DIRECT, guerre en Ukraine : au moins deux personnes tuées dans une série de frappes nocturnes sur Kiev",
+          "description": "Quelques heures après les déclarations du chef de la diplomatie russe, Sergueï Lavrov, qui a dit que Moscou ne fera « pas de trêve » dans sa guerre en Ukraine, plusieurs explosions puissantes ont retenti, aux premières heures de jeudi, dans la capitale ukrainienne.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-au-moins-deux-personnes-tuees-dans-une-serie-de-frappes-nocturnes-sur-kiev_6777944_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-23T04:00:26.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.211Z"
+          "publishedAt": "2026-09-24T04:13:16.000Z",
+          "fetchedAt": "2026-09-24T05:00:13.131Z"
         },
         {
-          "id": "2026-09-23-2b6afa88",
-          "title": "Une querelle ravivée entre Charles Spencer et Charles III, le frère et l’ex-époux de feu Lady Di",
-          "description": "Vingt-neuf ans après la mort de la princesse Diana, son frère publie un livre dans lequel il accuse Charles III de s’être montré « d’une jovialité insouciante » dans les jours ayant suivi l’accident survenu à Paris. « La douleur d’un deuil fraternel peut obscurcir la raison », a répliqué Buckingham Palace.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/23/une-querelle-ravivee-entre-charles-spencer-et-charles-iii-le-frere-et-l-ex-epoux-de-feu-lady-di_6780575_3210.html",
+          "id": "2026-09-24-aee724a9",
+          "title": "Aux Etats-Unis, la vigueur de l’économie et le pétrole cher provoquent une nouvelle poussée des taux",
+          "description": "Le rendement des bons du Trésor américain à dix ans a atteint 5,1 %, au plus haut depuis juillet 2007. L’inflation, la croissance et le prix toujours élevé du pétrole confortent le scénario d’une poursuite de la remontée des taux directeurs de la Réserve fédérale.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/24/aux-etats-unis-la-vigueur-de-l-economie-et-le-petrole-cher-provoquent-une-nouvelle-poussee-des-taux_6781331_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-23T04:00:21.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.211Z"
+          "publishedAt": "2026-09-24T03:30:09.000Z",
+          "fetchedAt": "2026-09-24T05:00:13.131Z"
         },
         {
-          "id": "2026-09-23-b6b23eb6",
-          "title": "Au Maroc, des législatives sous le signe du “désenchantement de la jeunesse”",
-          "description": "Les Marocains sont appelés aux urnes, mercredi 23 septembre, pour élire leurs 395 députés à la Chambre des représentants. Dans un contexte économique et social fragile, le malaise des jeunes pourrait se traduire par une forte abstention.",
-          "url": "https://www.courrierinternational.com/article/politique-au-maroc-des-legislatives-sous-le-signe-du-desenchantement-de-la-jeunesse_273310",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/16/0/0/6000/4000/1200/630/60/0/e64f345_ftp-1-nyneqphazi41-afp-c8h68ub.jpg",
+          "id": "2026-09-24-3cf4f515",
+          "title": "Le pape Léon XIV en France, un accueil de rock star par la “fille aînée de l’Église”",
+          "description": "À l’occasion de la visite du pape en France, du 25 au 28 septembre (il se rendra notamment à Paris, à Lourdes et à Metz), l’hebdomadaire britannique “The Spectator” fait le point sur la religion toujours majoritaire dans l’Hexagone. Selon ce journal conservateur, bien que déchristianisée et en crise de foi, “la France redécouvre son âme catholique”.",
+          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-le-pape-leon-xiv-en-france-un-accueil-de-rock-star-par-la-fille-ainee-de-l-eglise_271428",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/22/57/0/2358/1572/1200/630/60/0/2456147_upload-1-0u8glzn29hhh-pismestrovic-2025-05-13-0769-w.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-23T03:00:27.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.385Z"
+          "publishedAt": "2026-09-24T03:00:28.000Z",
+          "fetchedAt": "2026-09-24T05:00:13.444Z"
         },
         {
-          "id": "2026-09-23-85d48ac2",
-          "title": "“Les Éléphants dans la brume”, un envoûtant thriller queer venu du Népal",
-          "description": "Récompensé au dernier Festival de Cannes, “Les Éléphants dans la brume”, du Népalais Abinash Bikram Shah, sort ce 23 septembre en France. Centré autour d’une communauté de femmes transgenres au Népal, les Kinnar, le film a beaucoup plu à la presse indienne et népalaise.",
-          "url": "https://www.courrierinternational.com/article/en-salle-les-elephants-dans-la-brume-un-envoutant-thriller-queer-venu-du-nepal_272953",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/21/0/180/3240/2160/1200/630/60/0/65df899_upload-1-i1hguoqahjv6-002-the-ceremony-underground-talkies-nepal-les-valseurs-dgs.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-23T03:00:11.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.385Z"
-        },
-        {
-          "id": "2026-09-23-7a9da2bc",
-          "title": "Le Rwanda et la Belgique rétablissent leurs relations diplomatiques, après une rupture liée au conflit en RDC",
-          "description": "Kigali avait mis fin, en mars 2025, à ses relations diplomatiques avec Bruxelles, l’accusant d’avoir pris parti pour Kinshasa dans le conflit en République démocratique du Congo.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/09/23/le-rwanda-et-la-belgique-retablissent-leurs-relations-diplomatiques-apres-une-rupture-liee-au-conflit-en-rdc_6780466_3212.html",
+          "id": "2026-09-24-975a6b84",
+          "title": "Yémen : la prise du détroit de Bab Al-Mandab, un tournant dans la guerre",
+          "description": "Comment la prise par le mouvement armé houthiste du détroit de Bab Al-Mandab, à l’extrémité sud de la mer Rouge, renforce-t-elle l’Iran face aux Etats-Unis ? Explications en podcast avec Fanny Arlandis, journaliste au service International du « Monde ».",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/09/24/yemen-la-prise-du-detroit-de-bab-al-mandab-un-tournant-dans-la-guerre_6781326_5463015.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-23T01:59:37.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.211Z"
+          "publishedAt": "2026-09-24T03:00:24.000Z",
+          "fetchedAt": "2026-09-24T05:00:13.131Z"
         },
         {
-          "id": "2026-09-23-b81aa9e5",
-          "title": "A Bruxelles, une végétalisation ratée au carrefour des pouvoirs européens",
-          "description": "Un auvent de verdure devait voir le jour au dessus du rond-point Robert-Schuman, autour duquel sont distribuées les institutions, mais le projet n’a pas abouti. Un symbole qui fait désordre alors que le Commission veut jouer un rôle majeur dans l’adaptation des vingt-sept Etats membres au changement climatique.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/23/a-bruxelles-pas-d-ombre-mais-une-poele-a-frire-au-carrefour-des-pouvoirs-europeens_6780400_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-23T01:00:09.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.211Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-10",
-      "topic": "Au Maroc, des élections législatives marquées par la fracture sociale",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-23-50c83cf9",
-          "title": "Au Maroc, des élections législatives marquées par la fracture sociale",
-          "description": "Au pouvoir depuis 2021, les trois partis de la majorité s’entredéchirent, alors que les Marocains sont appelés aux urnes, mercredi 23 septembre.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/09/23/au-maroc-des-elections-legislatives-marquees-par-la-fracture-sociale_6780534_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-23T03:00:09.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.211Z"
-        },
-        {
-          "id": "2026-09-22-387aeb92",
-          "title": "Maroc : la jeunesse désabusée avant les élections législatives",
-          "description": "🇲🇦 À la veille des législatives au Maroc, la jeunesse reste largement éloignée des urnes et des partis politiques, malgré le signal d’alarme lancé il y a un an par le mouvement Gen Z212, qui réclamait davantage de justice sociale, d’emploi et un accès équitable aux services publics. Reportage sur le terrain ⬇️",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-maroc-la-jeunesse-d%C3%A9sabus%C3%A9e-avant-les-%C3%A9lections-l%C3%A9gislatives",
-          "imageUrl": "https://s.france24.com/media/display/c34eca88-b691-11f1-8372-d5a6f2570fbe/w:1024/p:16x9/Maroc-00-00-02-19-Still004.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-22T14:51:41.000Z",
-          "fetchedAt": "2026-09-23T04:51:24.322Z"
-        },
-        {
-          "id": "2026-09-22-0b983477",
-          "title": "Gronde sociale, défiance, vote de la jeunesse: les grands enjeux des élections législatives au Maroc",
-          "description": "Vingt-sept partis politiques vont se disputer les 395 sièges qui garnissent le Parlement marocain, mercredi 23 septembre. Lors des dernières élections, en 2021, une coalition composée du Rassemblement national des indépendants (RNI), du Parti authenticité et modernité (PAM) et de l’Istiqlal, parti royaliste, avait formé une majorité et porté Aziz Akhannouch au poste de Premier ministre. Cinq ans plus tard, le contexte social et économique a fragilisé les partis politiques qui ont tenté de renouer la confiance avec les Marocains en abordant leurs préoccupations.",
-          "url": "https://www.rfi.fr/fr/afrique/20260922-gronde-sociale-d%C3%A9fiance-vote-de-la-jeunesse-les-grands-enjeux-des-%C3%A9lections-l%C3%A9gislatives-au-maroc",
-          "imageUrl": "https://s.rfi.fr/media/display/8515f8b8-f250-11ec-8b75-005056bf30b7/w:1024/p:16x9/000_323L2ZW.jpg",
+          "id": "2026-09-23-f53e2663",
+          "title": "Des fouilles archéologiques à Paris dévoilent un rempart révélant les origines gauloises de la capitale",
+          "description": "La découverte émeut les archéologues et les passionnés d'histoire : des fouilles menées cet été en plein cœur de Paris ont permis de mettre au jour un pan de mur qui indique pour la première fois le lieu exact de l'occupation gauloise de la ville au Ier siècle av. J.-C. Ce pan de Lutèce est localisé près de l’Hôtel Dieu.",
+          "url": "https://www.rfi.fr/fr/france/20260923-des-fouilles-arch%C3%A9ologiques-%C3%A0-paris-d%C3%A9voilent-un-rempart-r%C3%A9v%C3%A9lant-les-origines-gauloises-de-la-capitale",
+          "imageUrl": "https://s.rfi.fr/media/display/0d39db78-b7a6-11f1-be40-833f01c30b8b/w:1024/p:16x9/000-C94W2CQ.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-22T06:03:58.000Z",
-          "fetchedAt": "2026-09-23T04:51:28.627Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Quand la multiplication des statuts dans les entreprises, de l’intérimaire au CD",
-      "category": "eco",
-      "importance": 7,
-      "articles": [
-        {
-          "id": "2026-09-23-4ad0afa0",
-          "title": "Quand la multiplication des statuts dans les entreprises, de l’intérimaire au CDI, fracture les collectifs de travail",
-          "description": "Tous les secteurs sont concernés par la fragmentation des formes d’emploi, qui complexifie les relations professionnelles.",
-          "url": "https://www.lemonde.fr/vie-au-travail/article/2026/09/23/quand-la-multiplication-des-statuts-dans-les-entreprises-de-l-interimaire-au-cdi-fracture-les-collectifs-de-travail_6780574_6768900.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-09-23T04:00:07.000Z",
-          "fetchedAt": "2026-09-23T04:51:31.514Z"
+          "publishedAt": "2026-09-23T23:27:28.000Z",
+          "fetchedAt": "2026-09-24T05:00:19.709Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Paramount will need to release way more movies to make this merger work",
-      "category": "tech",
-      "importance": 6,
+      "topic": "À l'ONU, Zelensky pointe Poutine du doigt alors que l'Europe commence à anticipe",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-09-22-d61a616b",
-          "title": "Paramount will need to release way more movies to make this merger work",
-          "description": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in the US, Paramount says that it will release a minimum of 30 movies annually after it absorbs WBD. On paper, these goals make it sound like Paramount is trying to ensure that the entertainment industry won't be harmed by its WBD acquisition. But when you look at the studios' recent output, it seems very much like Paramount CEO Dav …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB385_PARAMOUNT_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-09-24-ed5ae2d9",
+          "title": "À l'ONU, Zelensky pointe Poutine du doigt alors que l'Europe commence à anticiper une attaque russe",
+          "description": "Volodymyr Zelensky s'est exprimé à la tribune de l'ONU mercredi, en s'attaquant à Vladimir Poutine, sa guerre et le besoin de poursuivre, encore et toujours, les sanctions contre la Russie. Un discours qui vient résonner avec l'idée, qui prend de l'épaisseur en Europe, qu'une attaque directe de la Russie contre de nouveaux pays de l'Otan serait probable.",
+          "url": "https://www.rfi.fr/fr/europe/20260924-%C3%A0-l-onu-zelensky-pointe-poutine-du-doigt-alors-que-l-europe-commence-%C3%A0-anticiper-une-attaque-russe",
+          "imageUrl": "https://s.rfi.fr/media/display/52f00c8c-b7ce-11f1-b7e6-55848da96185/w:1024/p:16x9/AP26266647940636.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-24T04:30:25.000Z",
+          "fetchedAt": "2026-09-24T05:00:19.709Z"
+        },
+        {
+          "id": "2026-09-24-98bf3763",
+          "title": "À l’ONU, Zelensky avertit le monde que “la menace russe” ne s’arrêtera pas aux frontières de l’Ukraine",
+          "description": "Le président ukrainien a évoqué mercredi les menaces qui pèsent sur la Moldavie, la Pologne et les États baltes, ainsi que sur l’indépendance des États du Caucase du Sud et d’Asie centrale. Le chef de la diplomatie russe Sergueï Lavrov a, lui, catégoriquement exclu, lors d’une réunion du Conseil de sécurité, toute “trêve”.",
+          "url": "https://www.courrierinternational.com/article/conflit-a-l-onu-zelensky-avertit-le-monde-que-la-menace-russe-ne-s-arretera-pas-a-l-ukraine_273771",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/23/0/0/3219/2146/1200/630/60/0/cd9d09f_ftp-1-jg9bqf0jfz5e-afp-c97b98l.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-24T04:10:44.000Z",
+          "fetchedAt": "2026-09-24T05:00:13.444Z"
+        },
+        {
+          "id": "2026-09-24-cd6b3928",
+          "title": "A l’ONU, Volodymyr Zelensky défend ses frappes contre la Russie pour « ne pas mourir »",
+          "description": "A la tribune des Nations unies, mercredi, le président ukrainien a exclu, à l’instar de Moscou, tout moratoire sur les attaques contre les infrastructures énergétiques. Conscient que « l’hiver pourrait être ​très rude », le dirigeant a toutefois appelé à des mesures de désescalade.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/24/a-l-assemblee-generale-de-l-onu-volodymyr-zelensky-defend-ses-frappes-visant-la-russie-pour-ne-pas-mourir_6781330_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-24T03:20:07.000Z",
+          "fetchedAt": "2026-09-24T05:00:13.131Z"
+        },
+        {
+          "id": "2026-09-24-d14a9055",
+          "title": "Guerre en Ukraine : des missiles russes font plusieurs morts à Kiev",
+          "description": "La capitale ukrainienne Kiev a été la cible de missiles russes jeudi. Le président Volodymyr Zelensky déplore la mort d'au moins deux personnes et précise que des \"infrastructures civiles, des immeubles d'habitation, une maternité, des installations énergétiques et des infrastructures logistiques\" ont été touchés.",
+          "url": "https://www.france24.com/fr/europe/20260924-guerre-en-ukraine-des-missiles-russes-font-plusieurs-morts-%C3%A0-kiev",
+          "imageUrl": "https://s.france24.com/media/display/4b5bb5ac-b76a-11f1-90c9-55848da96185/w:1024/p:16x9/e3677ec1479427ddf50e3ae204c8242e58385bc6.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-24T00:51:37.000Z",
+          "fetchedAt": "2026-09-24T05:00:13.328Z"
+        },
+        {
+          "id": "2026-09-23-8435a29c",
+          "title": "Ukraine: les combats s’intensifient autour d’Izioum, les habitants redoutent un retour de l'occupation russe",
+          "description": "« Il est le patient zéro, celui à partir duquel cette idée de guerre ne cesse de se propager ». À la tribune de l’ONU, mercredi 23 septembre, Volodymyr Zelensky a dénoncé la « folie » meurtrière de Vladimir Poutine, exhorté ses alliés à maintenir les sanctions contre Moscou et promis à la Russie un hiver douloureux. Dans l’est de l’Ukraine, les combats s’intensifient autour d’Izioum, dans la région de Kharkiv. Ses habitants craignent de revivre les heures noires de 2022, lorsque la ville avait été occupée par l’armée russe, puis libérée au prix de violents affrontements.",
+          "url": "https://www.rfi.fr/fr/europe/20260923-ukraine-les-combats-s-intensifient-autour-d-izioum-les-habitants-redoutent-un-retour-de-l-occupation-russe",
+          "imageUrl": "https://s.rfi.fr/media/display/42f55694-b79b-11f1-9688-833f01c30b8b/w:1024/p:16x9/La-route-qui-m%C3%A8ne-%C3%A0-Izioum-est-prot%C3%A9g%C3%A9e-par-un-filet-anti-drones.jpeg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-23T22:46:19.000Z",
+          "fetchedAt": "2026-09-24T05:00:19.709Z"
+        },
+        {
+          "id": "2026-09-23-4446dedf",
+          "title": "Guerre en Ukraine : à l'ONU, Zelensky dénonce \"la folie\" de Poutine",
+          "description": "Le président ukrainien, Volodymyr Zelensky, a pris la parole à la tribune de l'Assemblée générale de l'ONU, mercredi, pour appeler à la fin de la guerre en Ukraine. Dénonçant la \"folie\" meurtrière du président russe, Vladimir Poutine, il a appelé ses alliés à maintenir les sanctions contre Moscou.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260923-guerre-en-ukraine-%C3%A0-l-onu-zelensky-d%C3%A9nonce-la-folie-de-poutine",
+          "imageUrl": "https://s.france24.com/media/display/0a98f242-b782-11f1-acc3-513157f91e8c/w:1024/p:16x9/AP26266647906867.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-23T19:22:05.000Z",
+          "fetchedAt": "2026-09-24T05:00:13.328Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "Violences politiques de 2021-2024 au Sénégal: la justice a procédé à trois premi",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-24-2067a33a",
+          "title": "Violences politiques de 2021-2024 au Sénégal: la justice a procédé à trois premières inculpations",
+          "description": "Deux ans après la plainte pour « séquestration et enlèvement illégal » déposée par le jeune militant du Pastef Pape Abdoulaye Touré, un agent de sécurité du campus de l’Université Cheikh-Anta-Diop de Dakar a été placé en détention préventive et deux autres membres de l'équipe de l'ex-ministre de la Jeunesse Pape Malick Ndour ont été placés sous contrôle judiciaire, mardi 22 septembre.",
+          "url": "https://www.rfi.fr/fr/afrique/20260924-violences-politiques-de-2021-2024-au-s%C3%A9n%C3%A9gal-la-justice-a-proc%C3%A9d%C3%A9-%C3%A0-trois-premi%C3%A8res-inculpations",
+          "imageUrl": "https://s.rfi.fr/media/display/8b954b1e-0dd6-11ea-9e39-005056a9aa4d/w:1024/p:16x9/palais_de_justice_1_0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-24T03:04:06.000Z",
+          "fetchedAt": "2026-09-24T05:00:19.709Z"
+        },
+        {
+          "id": "2026-09-24-431d2bbb",
+          "title": "En Turquie, des drones de la police surveillent les consommateurs d’alcool",
+          "description": "Des engins sans pilote interviennent de nuit en ordonnant de ne pas boire de boissons alcoolisées dans l’espace public, alors qu’aucune loi ne l’interdit. Une nouvelle marque du tournant conservateur et autoritaire du pays.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/24/en-turquie-des-drones-de-la-police-surveillent-les-consommateurs-d-alcool_6781289_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-24T02:00:03.000Z",
+          "fetchedAt": "2026-09-24T05:00:13.131Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Meta lance des Ray-Ban sans caméra et sort enfin ses lunettes avec écran en Fran",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-24-632f9221",
+          "title": "Meta lance des Ray-Ban sans caméra et sort enfin ses lunettes avec écran en France",
+          "description": "À l'occasion de sa conférence Meta Connect, le groupe de Mark Zuckerberg multiplie les annonces autour des lunettes connectées. En plus de la troisième génération de Ray-Ban Meta, il lance les Ray-Ban Meta Audio sans caméra, de nouvelles Meta Glasses et va commercialiser les Meta Ray-Ban Display, ses lunettes avec écran, en France et dans de nouveaux pays.",
+          "url": "https://www.numerama.com/tech/2338991-meta-lance-des-ray-ban-sans-camera-et-sort-enfin-ses-lunettes-avec-ecran-en-france.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/meta-audio.jpg?resize=1600,900&key=651acf8b",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-09-22T22:26:07.000Z",
-          "fetchedAt": "2026-09-23T04:51:32.017Z"
+          "publishedAt": "2026-09-24T04:00:00.000Z",
+          "fetchedAt": "2026-09-24T05:00:19.633Z"
+        },
+        {
+          "id": "2026-09-23-ee6c696b",
+          "title": "Teddy Riner visé par des messages racistes en ligne, le parquet de Paris ouvre une enquête",
+          "description": "Le quintuple champion olympique a été pris à partie sur les médias proches de l’extrême droite ou sur les réseaux sociaux pour avoir exprimé lors de l’émission « Stade 2 » son « angoisse » de « la montée de l’extrême droite ».",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/23/teddy-riner-vise-par-des-messages-racistes-le-parquet-de-paris-ouvre-une-enquete_6780956_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-23T18:02:14.000Z",
+          "fetchedAt": "2026-09-24T05:00:19.776Z"
+        },
+        {
+          "id": "2026-09-22-9562f69d",
+          "title": "Lunettes connectées : plusieurs enquêtes ouvertes à Paris après des plaintes de femmes filmées dans la rue",
+          "description": "L’association e-Enfance avait alerté le 8 septembre sur le phénomène croissant des vidéos humiliantes réalisées avec des lunettes munies de caméra et diffusées en ligne.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/09/22/lunettes-connectees-le-parquet-de-paris-ouvre-plusieurs-enquetes-apres-des-plaintes-de-femmes-filmees-sans-leur-consentement_6780288_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-22T18:18:21.000Z",
+          "fetchedAt": "2026-09-24T05:00:19.776Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "How the oil capital of the US welcomed a solar power boom",
+      "category": "eco",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-09-23-ad11e6cf",
+          "title": "How the oil capital of the US welcomed a solar power boom",
+          "description": "Texas is now the country's biggest producer of solar-farmed electricity.",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f97/live/4aae6ad0-b68b-11f1-b1d1-571ed4d7ff2c.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-09-23T23:12:22.000Z",
+          "fetchedAt": "2026-09-24T05:00:28.467Z"
         }
       ]
     }
