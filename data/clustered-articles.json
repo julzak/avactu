@@ -1,242 +1,187 @@
 {
-  "generatedAt": "2026-09-24T05:04:13.563Z",
+  "generatedAt": "2026-09-25T05:08:24.266Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new w",
+      "id": "cluster-3",
+      "topic": "«Il ne nous représente pas»: à New York, des juifs manifestent contre la venue d",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-24-416d6e7e",
-          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-          "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-          "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
+          "id": "2026-09-25-c110cab2",
+          "title": "«Il ne nous représente pas»: à New York, des juifs manifestent contre la venue de Netanyahu à l'ONU",
+          "description": "À l'appel de Jewish Voice for Peace, une manifestation a été organisée jeudi à New York pour protester contre la venue de Benyamin Netanyahu à l'ONU. Un millier de personnes ont défilé et plusieurs centaines ont été dispersées dans un sit-in qui a abouti à plusieurs arrestations, dont celle de l'actrice Susan Sarandon.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260925-il-ne-nous-repr%C3%A9sente-pas-%C3%A0-new-york-des-juifs-manifestent-contre-la-venue-de-netanyahu-%C3%A0-l-onu",
+          "imageUrl": "https://s.rfi.fr/media/display/0c91ea74-b898-11f1-bc11-852b23529bb9/w:1024/p:16x9/AP26267799120809.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-25T04:43:56.000Z",
+          "fetchedAt": "2026-09-25T05:04:29.867Z"
+        },
+        {
+          "id": "2026-09-25-6791aa2a",
+          "title": "Législatives au Maroc: arrivé en tête, le PAM va être en charge de constituer une coalition",
+          "description": "Au Maroc, après les élections législatives et l’annonce des résultats provisoires, la prochaine étape cruciale se dessine déjà : la formation d’une majorité. Les consultations débuteront après la nomination du chef du gouvernement par le roi, mais déjà les partis commencent à se positionner. C’est le PAM, arrivé en tête du scrutin, qui sera chargé de constituer une coalition. Avec 97 sièges sur 395, il devra être soutenu par au moins deux des formations les plus plébiscitées par les électeurs : le RNI, l’Istiqlal et le PJD.",
+          "url": "https://www.rfi.fr/fr/afrique/20260925-l%C3%A9gislatives-au-maroc-arriv%C3%A9-en-t%C3%AAte-le-pam-va-%C3%AAtre-en-charge-de-constituer-une-coalition",
+          "imageUrl": "https://s.rfi.fr/media/display/eb1a632c-b896-11f1-8fa2-555a0aff87a4/w:1024/p:16x9/000-C9AH2T3.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-25T04:11:13.000Z",
+          "fetchedAt": "2026-09-25T05:04:29.867Z"
+        },
+        {
+          "id": "2026-09-25-8fcefcf2",
+          "title": "A l’ONU, la réplique de Benyamin Nétanyahou aux accusations contre Israël : « Honte à vous d’inverser la victime et l’agresseur ! »",
+          "description": "S’en prenant à Emmanuel Macron, le premier ministre israélien, en pleine campagne électorale dans son pays, a vivement rejeté, jeudi, à New York, les critiques contre la politique de son gouvernement et minimisé la violence des colons en Cisjordanie.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/25/a-l-onu-la-replique-de-benyamin-netanyahou-aux-accusations-contre-israel-honte-a-vous-d-inverser-la-victime-et-l-agresseur_6781789_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-25T03:08:12.000Z",
+          "fetchedAt": "2026-09-25T05:04:23.677Z"
+        },
+        {
+          "id": "2026-09-25-00581a64",
+          "title": "Au Yémen, le risque d’un nouvel engrenage aux retombées planétaires",
+          "description": "La victoire éclair des houthistes et le contrôle du détroit de Bab El-Mandeb auront indéniablement des conséquences sur le Yémen et sur la guerre contre l’Iran. La situation pourrait même engendrer un nouveau conflit d’une ampleur inédite au Moyen-Orient, s’inquiète “Arab Digest”. Entre-temps, c’est l’économie mondiale qui trinque, avec l’effondrement des exportations de brut saoudien.",
+          "url": "https://www.courrierinternational.com/article/analyse-au-yemen-le-risque-d-un-nouvel-engrenage-aux-retombees-planetaires_272969",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/22/0/0/2400/1600/1200/630/60/0/6aa9a95_upload-1-bem3a6vdukwp-khamal-sharaf-w.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-25T03:00:12.000Z",
+          "fetchedAt": "2026-09-25T05:04:23.923Z"
+        },
+        {
+          "id": "2026-09-25-0e34f3bd",
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+          "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-09-24T04:37:47.000Z",
-          "fetchedAt": "2026-09-24T05:00:19.560Z"
+          "publishedAt": "2026-09-25T00:44:04.000Z",
+          "fetchedAt": "2026-09-25T05:04:29.842Z"
         },
         {
-          "id": "2026-09-24-63f252bd",
-          "title": "EN DIRECT, guerre en Ukraine : au moins deux personnes tuées dans une série de frappes nocturnes sur Kiev",
-          "description": "Quelques heures après les déclarations du chef de la diplomatie russe, Sergueï Lavrov, qui a dit que Moscou ne fera « pas de trêve » dans sa guerre en Ukraine, plusieurs explosions puissantes ont retenti, aux premières heures de jeudi, dans la capitale ukrainienne.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-au-moins-deux-personnes-tuees-dans-une-serie-de-frappes-nocturnes-sur-kiev_6777944_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-24T04:13:16.000Z",
-          "fetchedAt": "2026-09-24T05:00:13.131Z"
-        },
-        {
-          "id": "2026-09-24-aee724a9",
-          "title": "Aux Etats-Unis, la vigueur de l’économie et le pétrole cher provoquent une nouvelle poussée des taux",
-          "description": "Le rendement des bons du Trésor américain à dix ans a atteint 5,1 %, au plus haut depuis juillet 2007. L’inflation, la croissance et le prix toujours élevé du pétrole confortent le scénario d’une poursuite de la remontée des taux directeurs de la Réserve fédérale.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/24/aux-etats-unis-la-vigueur-de-l-economie-et-le-petrole-cher-provoquent-une-nouvelle-poussee-des-taux_6781331_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-24T03:30:09.000Z",
-          "fetchedAt": "2026-09-24T05:00:13.131Z"
-        },
-        {
-          "id": "2026-09-24-3cf4f515",
-          "title": "Le pape Léon XIV en France, un accueil de rock star par la “fille aînée de l’Église”",
-          "description": "À l’occasion de la visite du pape en France, du 25 au 28 septembre (il se rendra notamment à Paris, à Lourdes et à Metz), l’hebdomadaire britannique “The Spectator” fait le point sur la religion toujours majoritaire dans l’Hexagone. Selon ce journal conservateur, bien que déchristianisée et en crise de foi, “la France redécouvre son âme catholique”.",
-          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-le-pape-leon-xiv-en-france-un-accueil-de-rock-star-par-la-fille-ainee-de-l-eglise_271428",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/22/57/0/2358/1572/1200/630/60/0/2456147_upload-1-0u8glzn29hhh-pismestrovic-2025-05-13-0769-w.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-24T03:00:28.000Z",
-          "fetchedAt": "2026-09-24T05:00:13.444Z"
-        },
-        {
-          "id": "2026-09-24-975a6b84",
-          "title": "Yémen : la prise du détroit de Bab Al-Mandab, un tournant dans la guerre",
-          "description": "Comment la prise par le mouvement armé houthiste du détroit de Bab Al-Mandab, à l’extrémité sud de la mer Rouge, renforce-t-elle l’Iran face aux Etats-Unis ? Explications en podcast avec Fanny Arlandis, journaliste au service International du « Monde ».",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/09/24/yemen-la-prise-du-detroit-de-bab-al-mandab-un-tournant-dans-la-guerre_6781326_5463015.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-24T03:00:24.000Z",
-          "fetchedAt": "2026-09-24T05:00:13.131Z"
-        },
-        {
-          "id": "2026-09-23-f53e2663",
-          "title": "Des fouilles archéologiques à Paris dévoilent un rempart révélant les origines gauloises de la capitale",
-          "description": "La découverte émeut les archéologues et les passionnés d'histoire : des fouilles menées cet été en plein cœur de Paris ont permis de mettre au jour un pan de mur qui indique pour la première fois le lieu exact de l'occupation gauloise de la ville au Ier siècle av. J.-C. Ce pan de Lutèce est localisé près de l’Hôtel Dieu.",
-          "url": "https://www.rfi.fr/fr/france/20260923-des-fouilles-arch%C3%A9ologiques-%C3%A0-paris-d%C3%A9voilent-un-rempart-r%C3%A9v%C3%A9lant-les-origines-gauloises-de-la-capitale",
-          "imageUrl": "https://s.rfi.fr/media/display/0d39db78-b7a6-11f1-be40-833f01c30b8b/w:1024/p:16x9/000-C94W2CQ.jpg",
+          "id": "2026-09-24-2aa3f34b",
+          "title": "Une jeunesse malgache en plein doute, un an après le soulèvement contre le régime d’Andry Rajoelina",
+          "description": "Il y a un an, la jeunesse malgache descendait dans la rue pour protester contre les coupures d’eau et d’électricité, la corruption galopante et les restrictions à la liberté d’expression. Cette mobilisation historique avait conduit trois semaines plus tard à la chute d’Andry Rajoelina et à la prise de pouvoir des militaires du Capsat. Un an après, la Gen Z entrevoit-elle de meilleures perspectives pour son avenir ? Son quotidien s’est-il amélioré ? Se sent-elle écoutée par les autorités de transition ? Témoignage de jeunes Malgaches à Antananarivo.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260924-une-jeunesse-malgache-en-plein-doute-un-an-apr%C3%A8s-le-soul%C3%A8vement-contre-le-r%C3%A9gime-d-andry-rajoelina",
+          "imageUrl": "https://s.rfi.fr/media/display/35847e1a-b857-11f1-a5ec-11fa9f8a3b4f/w:1024/p:16x9/IMG-3892-1.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-23T23:27:28.000Z",
-          "fetchedAt": "2026-09-24T05:00:19.709Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "À l'ONU, Zelensky pointe Poutine du doigt alors que l'Europe commence à anticipe",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-24-ed5ae2d9",
-          "title": "À l'ONU, Zelensky pointe Poutine du doigt alors que l'Europe commence à anticiper une attaque russe",
-          "description": "Volodymyr Zelensky s'est exprimé à la tribune de l'ONU mercredi, en s'attaquant à Vladimir Poutine, sa guerre et le besoin de poursuivre, encore et toujours, les sanctions contre la Russie. Un discours qui vient résonner avec l'idée, qui prend de l'épaisseur en Europe, qu'une attaque directe de la Russie contre de nouveaux pays de l'Otan serait probable.",
-          "url": "https://www.rfi.fr/fr/europe/20260924-%C3%A0-l-onu-zelensky-pointe-poutine-du-doigt-alors-que-l-europe-commence-%C3%A0-anticiper-une-attaque-russe",
-          "imageUrl": "https://s.rfi.fr/media/display/52f00c8c-b7ce-11f1-b7e6-55848da96185/w:1024/p:16x9/AP26266647940636.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-24T04:30:25.000Z",
-          "fetchedAt": "2026-09-24T05:00:19.709Z"
-        },
-        {
-          "id": "2026-09-24-98bf3763",
-          "title": "À l’ONU, Zelensky avertit le monde que “la menace russe” ne s’arrêtera pas aux frontières de l’Ukraine",
-          "description": "Le président ukrainien a évoqué mercredi les menaces qui pèsent sur la Moldavie, la Pologne et les États baltes, ainsi que sur l’indépendance des États du Caucase du Sud et d’Asie centrale. Le chef de la diplomatie russe Sergueï Lavrov a, lui, catégoriquement exclu, lors d’une réunion du Conseil de sécurité, toute “trêve”.",
-          "url": "https://www.courrierinternational.com/article/conflit-a-l-onu-zelensky-avertit-le-monde-que-la-menace-russe-ne-s-arretera-pas-a-l-ukraine_273771",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/23/0/0/3219/2146/1200/630/60/0/cd9d09f_ftp-1-jg9bqf0jfz5e-afp-c97b98l.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-24T04:10:44.000Z",
-          "fetchedAt": "2026-09-24T05:00:13.444Z"
-        },
-        {
-          "id": "2026-09-24-cd6b3928",
-          "title": "A l’ONU, Volodymyr Zelensky défend ses frappes contre la Russie pour « ne pas mourir »",
-          "description": "A la tribune des Nations unies, mercredi, le président ukrainien a exclu, à l’instar de Moscou, tout moratoire sur les attaques contre les infrastructures énergétiques. Conscient que « l’hiver pourrait être ​très rude », le dirigeant a toutefois appelé à des mesures de désescalade.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/24/a-l-assemblee-generale-de-l-onu-volodymyr-zelensky-defend-ses-frappes-visant-la-russie-pour-ne-pas-mourir_6781330_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-24T03:20:07.000Z",
-          "fetchedAt": "2026-09-24T05:00:13.131Z"
-        },
-        {
-          "id": "2026-09-24-d14a9055",
-          "title": "Guerre en Ukraine : des missiles russes font plusieurs morts à Kiev",
-          "description": "La capitale ukrainienne Kiev a été la cible de missiles russes jeudi. Le président Volodymyr Zelensky déplore la mort d'au moins deux personnes et précise que des \"infrastructures civiles, des immeubles d'habitation, une maternité, des installations énergétiques et des infrastructures logistiques\" ont été touchés.",
-          "url": "https://www.france24.com/fr/europe/20260924-guerre-en-ukraine-des-missiles-russes-font-plusieurs-morts-%C3%A0-kiev",
-          "imageUrl": "https://s.france24.com/media/display/4b5bb5ac-b76a-11f1-90c9-55848da96185/w:1024/p:16x9/e3677ec1479427ddf50e3ae204c8242e58385bc6.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-24T00:51:37.000Z",
-          "fetchedAt": "2026-09-24T05:00:13.328Z"
-        },
-        {
-          "id": "2026-09-23-8435a29c",
-          "title": "Ukraine: les combats s’intensifient autour d’Izioum, les habitants redoutent un retour de l'occupation russe",
-          "description": "« Il est le patient zéro, celui à partir duquel cette idée de guerre ne cesse de se propager ». À la tribune de l’ONU, mercredi 23 septembre, Volodymyr Zelensky a dénoncé la « folie » meurtrière de Vladimir Poutine, exhorté ses alliés à maintenir les sanctions contre Moscou et promis à la Russie un hiver douloureux. Dans l’est de l’Ukraine, les combats s’intensifient autour d’Izioum, dans la région de Kharkiv. Ses habitants craignent de revivre les heures noires de 2022, lorsque la ville avait été occupée par l’armée russe, puis libérée au prix de violents affrontements.",
-          "url": "https://www.rfi.fr/fr/europe/20260923-ukraine-les-combats-s-intensifient-autour-d-izioum-les-habitants-redoutent-un-retour-de-l-occupation-russe",
-          "imageUrl": "https://s.rfi.fr/media/display/42f55694-b79b-11f1-9688-833f01c30b8b/w:1024/p:16x9/La-route-qui-m%C3%A8ne-%C3%A0-Izioum-est-prot%C3%A9g%C3%A9e-par-un-filet-anti-drones.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-23T22:46:19.000Z",
-          "fetchedAt": "2026-09-24T05:00:19.709Z"
-        },
-        {
-          "id": "2026-09-23-4446dedf",
-          "title": "Guerre en Ukraine : à l'ONU, Zelensky dénonce \"la folie\" de Poutine",
-          "description": "Le président ukrainien, Volodymyr Zelensky, a pris la parole à la tribune de l'Assemblée générale de l'ONU, mercredi, pour appeler à la fin de la guerre en Ukraine. Dénonçant la \"folie\" meurtrière du président russe, Vladimir Poutine, il a appelé ses alliés à maintenir les sanctions contre Moscou.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260923-guerre-en-ukraine-%C3%A0-l-onu-zelensky-d%C3%A9nonce-la-folie-de-poutine",
-          "imageUrl": "https://s.france24.com/media/display/0a98f242-b782-11f1-acc3-513157f91e8c/w:1024/p:16x9/AP26266647906867.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-23T19:22:05.000Z",
-          "fetchedAt": "2026-09-24T05:00:13.328Z"
+          "publishedAt": "2026-09-24T22:06:27.000Z",
+          "fetchedAt": "2026-09-25T05:04:29.867Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "Violences politiques de 2021-2024 au Sénégal: la justice a procédé à trois premi",
+      "topic": "Visite de Xi à Washington : derrière le faste et les sourires, “peu d’avancées”",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-24-2067a33a",
-          "title": "Violences politiques de 2021-2024 au Sénégal: la justice a procédé à trois premières inculpations",
-          "description": "Deux ans après la plainte pour « séquestration et enlèvement illégal » déposée par le jeune militant du Pastef Pape Abdoulaye Touré, un agent de sécurité du campus de l’Université Cheikh-Anta-Diop de Dakar a été placé en détention préventive et deux autres membres de l'équipe de l'ex-ministre de la Jeunesse Pape Malick Ndour ont été placés sous contrôle judiciaire, mardi 22 septembre.",
-          "url": "https://www.rfi.fr/fr/afrique/20260924-violences-politiques-de-2021-2024-au-s%C3%A9n%C3%A9gal-la-justice-a-proc%C3%A9d%C3%A9-%C3%A0-trois-premi%C3%A8res-inculpations",
-          "imageUrl": "https://s.rfi.fr/media/display/8b954b1e-0dd6-11ea-9e39-005056a9aa4d/w:1024/p:16x9/palais_de_justice_1_0.jpg",
-          "source": "RFI",
+          "id": "2026-09-25-837ad564",
+          "title": "Visite de Xi à Washington : derrière le faste et les sourires, “peu d’avancées”",
+          "description": "Au deuxième jour du déplacement du président chinois aux États-Unis, Pékin et Washington ont surtout tenté de projeter l’image d’une entente cordiale entre les deux pays. Xi s’est néanmoins montré, par moments, plus direct que Trump, n’hésitant pas à exhorter son homologue à s’opposer explicitement à l’indépendance de Taïwan, observe la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-visite-de-xi-a-washington-derriere-le-faste-et-les-sourires-peu-d-avancees_274035",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/25/1/0/5856/3904/1200/630/60/0/d3569cf_ftp-1-c1lyoqwknxxg-2026-09-25t000518z-2090127779-rc20qna4xa87-rtrmadp-3-usa-china.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-24T03:04:06.000Z",
-          "fetchedAt": "2026-09-24T05:00:19.709Z"
+          "publishedAt": "2026-09-25T04:09:54.000Z",
+          "fetchedAt": "2026-09-25T05:04:23.923Z"
         },
         {
-          "id": "2026-09-24-431d2bbb",
-          "title": "En Turquie, des drones de la police surveillent les consommateurs d’alcool",
-          "description": "Des engins sans pilote interviennent de nuit en ordonnant de ne pas boire de boissons alcoolisées dans l’espace public, alors qu’aucune loi ne l’interdit. Une nouvelle marque du tournant conservateur et autoritaire du pays.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/24/en-turquie-des-drones-de-la-police-surveillent-les-consommateurs-d-alcool_6781289_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-09-25-7b5027ae",
+          "title": "À Washington, Xi Jinping prône la «coexistence pacifique» avec les États-Unis",
+          "description": "Xi Jinping, reçu avec des égards très appuyés par Donald Trump, a profité de son passage à la Maison Blanche pour plaider la coexistence pacifique entre les deux superpuissances rivales, tout en réaffirmant ses lignes rouges sur Taïwan. L’intelligence artificielle s’est également invitée dans les échanges entre les deux dirigeants.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260925-%C3%A0-washington-xi-jinping-pr%C3%B4ne-la-coexistence-pacifique-avec-les-%C3%A9tats-unis",
+          "imageUrl": "https://s.rfi.fr/media/display/1d696a14-b88b-11f1-865c-852b23529bb9/w:1024/p:16x9/063-2296995028.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-24T02:00:03.000Z",
-          "fetchedAt": "2026-09-24T05:00:13.131Z"
+          "publishedAt": "2026-09-25T02:48:30.000Z",
+          "fetchedAt": "2026-09-25T05:04:29.867Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Meta lance des Ray-Ban sans caméra et sort enfin ses lunettes avec écran en Fran",
+      "id": "cluster-7",
+      "topic": "Visite du pape en France : tout ce qu’il faut savoir sur le séjour de Léon XIV",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-25-44f1ffcb",
+          "title": "Visite du pape en France : tout ce qu’il faut savoir sur le séjour de Léon XIV",
+          "description": "Rencontres de haut niveau, messes en plein air, déambulations : à la fois religieux et diplomatique, l’événement de quatre jours est très attendu par les fidèles.",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/25/visite-du-pape-en-france-tout-ce-qu-il-faut-savoir-sur-le-sejour-de-leon-xiv_6781935_4355770.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-25T04:00:13.000Z",
+          "fetchedAt": "2026-09-25T05:04:23.677Z"
+        },
+        {
+          "id": "2026-09-25-714e1a4a",
+          "title": "En direct : le pape Léon XIV s'envole pour une première visite en France très attendue",
+          "description": "Attendu par des fidèles enthousiastes, le pape Léon XIV s'envole vendredi pour Paris, première étape d'une visite de quatre jours en France durant laquelle il abordera de multiples thèmes, dont l'intelligence artificielle, la question migratoire ou la lutte contre les violences sexuelles. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/france/20260925-en-direct-pape-leon-xiv-visite-france-ia-immigration-macron-eglise-catholique",
+          "imageUrl": "https://s.france24.com/media/display/1db82c6a-b865-11f1-8afe-91cf9f3cd539/w:1024/p:16x9/AP26266308128654.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-25T01:28:07.000Z",
+          "fetchedAt": "2026-09-25T05:04:23.717Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-15",
+      "topic": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-24-632f9221",
-          "title": "Meta lance des Ray-Ban sans caméra et sort enfin ses lunettes avec écran en France",
-          "description": "À l'occasion de sa conférence Meta Connect, le groupe de Mark Zuckerberg multiplie les annonces autour des lunettes connectées. En plus de la troisième génération de Ray-Ban Meta, il lance les Ray-Ban Meta Audio sans caméra, de nouvelles Meta Glasses et va commercialiser les Meta Ray-Ban Display, ses lunettes avec écran, en France et dans de nouveaux pays.",
-          "url": "https://www.numerama.com/tech/2338991-meta-lance-des-ray-ban-sans-camera-et-sort-enfin-ses-lunettes-avec-ecran-en-france.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/meta-audio.jpg?resize=1600,900&key=651acf8b",
+          "id": "2026-09-24-35611f4b",
+          "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+          "description": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
+          "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-ground-robot-2560x1440.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-09-24T18:39:47.000Z",
+          "fetchedAt": "2026-09-25T05:04:33.984Z"
+        },
+        {
+          "id": "2026-09-24-fd8394eb",
+          "title": "Une station au sol de Starlink servant de relais à l’Ukraine incendiée en Pologne, la piste d’un sabotage russe évoquée",
+          "description": "Un incendie a endommagé ce mercredi 23 septembre au soir la station au sol de Starlink à Wola Krobowska. Cette installation relaie Internet par satellite vers l'Europe centrale et l'Ukraine. La piste d’un incendie volontaire se renforce, tandis que le vice-Premier ministre polonais évoque déjà le mode opératoire des services russes.",
+          "url": "https://www.numerama.com/tech/2339413-une-station-au-sol-de-starlink-servant-de-relais-a-lukraine-incendiee-en-pologne-la-piste-dun-sabotage-russe-evoquee.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/starlink-pologne.jpg?resize=1600,900&key=18415d9c",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-09-24T04:00:00.000Z",
-          "fetchedAt": "2026-09-24T05:00:19.633Z"
-        },
-        {
-          "id": "2026-09-23-ee6c696b",
-          "title": "Teddy Riner visé par des messages racistes en ligne, le parquet de Paris ouvre une enquête",
-          "description": "Le quintuple champion olympique a été pris à partie sur les médias proches de l’extrême droite ou sur les réseaux sociaux pour avoir exprimé lors de l’émission « Stade 2 » son « angoisse » de « la montée de l’extrême droite ».",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/23/teddy-riner-vise-par-des-messages-racistes-le-parquet-de-paris-ouvre-une-enquete_6780956_823448.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-23T18:02:14.000Z",
-          "fetchedAt": "2026-09-24T05:00:19.776Z"
-        },
-        {
-          "id": "2026-09-22-9562f69d",
-          "title": "Lunettes connectées : plusieurs enquêtes ouvertes à Paris après des plaintes de femmes filmées dans la rue",
-          "description": "L’association e-Enfance avait alerté le 8 septembre sur le phénomène croissant des vidéos humiliantes réalisées avec des lunettes munies de caméra et diffusées en ligne.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/22/lunettes-connectees-le-parquet-de-paris-ouvre-plusieurs-enquetes-apres-des-plaintes-de-femmes-filmees-sans-leur-consentement_6780288_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-22T18:18:21.000Z",
-          "fetchedAt": "2026-09-24T05:00:19.776Z"
+          "publishedAt": "2026-09-24T10:20:06.000Z",
+          "fetchedAt": "2026-09-25T05:04:29.986Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "How the oil capital of the US welcomed a solar power boom",
+      "id": "cluster-3",
+      "topic": "X-planes: Are they needed in the new era of drones?",
       "category": "eco",
-      "importance": 7,
+      "importance": 6,
       "articles": [
         {
-          "id": "2026-09-23-ad11e6cf",
-          "title": "How the oil capital of the US welcomed a solar power boom",
-          "description": "Texas is now the country's biggest producer of solar-farmed electricity.",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f97/live/4aae6ad0-b68b-11f1-b1d1-571ed4d7ff2c.jpg",
+          "id": "2026-09-24-c90d5a4d",
+          "title": "X-planes: Are they needed in the new era of drones?",
+          "description": "Where do America's X-plane projects fit in an era of cheap drones?",
+          "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-23T23:12:22.000Z",
-          "fetchedAt": "2026-09-24T05:00:28.467Z"
+          "publishedAt": "2026-09-24T23:03:53.000Z",
+          "fetchedAt": "2026-09-25T05:04:36.929Z"
         }
       ]
     }
