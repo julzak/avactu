@@ -1,5 +1,6 @@
 /**
- * Régression : bascule du fournisseur de synthèse vers Claude (incident 2026-09-18).
+ * Régression : bascule du fournisseur de synthèse vers Claude (incident 2026-09-18)
+ * et repli par requête sur refus du filtre de contenu (édition sans tech, 2026-09-27).
  * Deux serveurs HTTP locaux simulent le primaire (Moonshot) et le secours (Anthropic).
  *
  * Usage: ./node_modules/.bin/tsx scripts/test-synthesis-fallback.ts
@@ -9,7 +10,7 @@ import { createServer, type Server } from 'http';
 import type { AddressInfo } from 'net';
 import Anthropic from '@anthropic-ai/sdk';
 import { MODELS } from '../config/models.js';
-import { createSynthesisClient, isAccountError } from './synthesis-client.js';
+import { createSynthesisClient, isAccountError, isContentFilterError } from './synthesis-client.js';
 
 // Corps exact renvoyé par Moonshot le 2026-09-18 (logs du run 35308505120)
 const SUSPENDED = {
@@ -19,6 +20,15 @@ const SUSPENDED = {
 const RATE_LIMITED = {
   status: 429,
   body: { type: 'error', error: { type: 'rate_limit_error', message: 'Rate limit reached' } },
+};
+// Corps exact renvoyé par Moonshot le 2026-09-27 sur le pool tech (logs du run 36297113967)
+const CONTENT_FILTERED = {
+  status: 400,
+  body: { error: { code: 400, message: 'The request was rejected because it was considered high risk', param: 'prompt', type: 'content_filter' } },
+};
+const BAD_REQUEST = {
+  status: 400,
+  body: { type: 'error', error: { type: 'invalid_request_error', message: 'max_tokens: field required' } },
 };
 const okMessage = (model: string) => ({
   status: 200,
@@ -87,6 +97,35 @@ async function main(): Promise<void> {
   const healthy = createSynthesisClient(sdk(primary), sdk(fallback), { baseDelay: 1 });
   await healthy.create(PARAMS, 'healthy');
   check('primaire sain: aucune bascule', fallback.models.length === 0 && healthy.fallbackReason() === null);
+
+  // 5. Sanity : sans secours, le refus du filtre de contenu fait bien échouer l'appel
+  primary.reply = CONTENT_FILTERED;
+  primary.models.length = 0;
+  const filteredNoFallback = createSynthesisClient(sdk(primary), null, { baseDelay: 1 });
+  const filterError = await filteredNoFallback.create(PARAMS, 'sanity filter').then(() => null, (e) => e);
+  check('sanity: content_filter sans secours → erreur', filterError !== null);
+  check('sanity: erreur reconnue comme filtre de contenu', isContentFilterError(filterError));
+  check('sanity: un filtre de contenu n\'est pas une erreur de compte', !isAccountError(filterError));
+  check('sanity: pas de retry sur un filtre de contenu', primary.models.length === 1, `appels=${primary.models.length}`);
+
+  // 6. Filtre de contenu + secours → seule cette requête part sur le secours,
+  //    la suivante revient sur le primaire (pas de bascule du run)
+  primary.models.length = 0;
+  const filtered = createSynthesisClient(sdk(primary), sdk(fallback), { baseDelay: 1 });
+  const rejected = await filtered.create(PARAMS, 'pool tech').then((m) => m, () => null);
+  check('filtre: requête rejetée servie par le secours', rejected?.model === MODELS.synthesisFallback, `model=${rejected?.model}`);
+  check('filtre: secours appelé avec le modèle de secours', fallback.models.length === 1 && fallback.models[0] === MODELS.synthesisFallback);
+  check('filtre: pas de bascule du run', filtered.fallbackReason() === null);
+  primary.reply = okMessage(MODELS.synthesis);
+  const next = await filtered.create(PARAMS, 'pool eco');
+  check('filtre: requête suivante servie par le primaire', next.model === MODELS.synthesis && primary.models.length === 2 && fallback.models.length === 1, `primaire=${primary.models.length} secours=${fallback.models.length}`);
+
+  // 7. Autre 400 (requête invalide) → erreur remontée, jamais de repli
+  primary.reply = BAD_REQUEST;
+  fallback.models.length = 0;
+  const invalid = createSynthesisClient(sdk(primary), sdk(fallback), { baseDelay: 1 });
+  const badError = await invalid.create(PARAMS, 'bad request').then(() => null, (e) => e);
+  check('400 générique: erreur remontée sans repli', badError !== null && !isContentFilterError(badError) && fallback.models.length === 0);
 
   primary.server.close();
   fallback.server.close();
