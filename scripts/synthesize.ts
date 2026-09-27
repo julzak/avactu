@@ -14,7 +14,7 @@ import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { isValidEditorialImage } from './image-validation.js';
-import { createClient } from '@supabase/supabase-js';
+import { buildFollowUpBlock, fetchRecentStories, type RecentStory } from './follow-up.js';
 
 // ES Module __dirname equivalent
 const __filename = fileURLToPath(import.meta.url);
@@ -74,40 +74,6 @@ interface Edition {
 // Constants
 const CLUSTERED_PATH = join(__dirname, '..', 'data', 'clustered-articles.json');
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
-
-/**
- * Fetch recent story titles by category from newsletter_editions (last N days)
- */
-async function fetchRecentStoryTitles(category: string, days = 7): Promise<string[]> {
-  const supabaseUrl = process.env.SUPABASE_URL;
-  const supabaseKey = process.env.SUPABASE_SERVICE_KEY;
-  if (!supabaseUrl || !supabaseKey) return [];
-
-  try {
-    const supabase = createClient(supabaseUrl, supabaseKey);
-    const since = new Date(Date.now() - days * 24 * 60 * 60 * 1000).toISOString();
-    const { data, error } = await supabase
-      .from('newsletter_editions')
-      .select('stories_json')
-      .gte('edition_date', since)
-      .order('edition_date', { ascending: false });
-
-    if (error || !data) return [];
-
-    const titles: string[] = [];
-    for (const edition of data) {
-      const stories = edition.stories_json;
-      if (Array.isArray(stories)) {
-        for (const s of stories) {
-          if (s.category === category) titles.push(s.title);
-        }
-      }
-    }
-    return titles;
-  } catch {
-    return [];
-  }
-}
 
 /**
  * Simple word-overlap similarity between two titles (0-1)
@@ -212,7 +178,8 @@ IMPORTANT : Réponds UNIQUEMENT avec le JSON, sans texte avant ou après.`;
 async function synthesizeStory(
   client: SynthesisClient,
   cluster: ArticleCluster,
-  storyIndex: number
+  storyIndex: number,
+  recentStories: RecentStory[] = []
 ): Promise<Story | null> {
   // Build detailed prompt with all articles
   const articlesDetail = cluster.articles
@@ -233,7 +200,7 @@ ${[...new Set(cluster.articles.map((a) => a.source))].join(', ')}
 
 ${articlesDetail}
 
-Génère la story au format JSON demandé. Assure-toi de croiser les perspectives des différentes sources.`;
+Génère la story au format JSON demandé. Assure-toi de croiser les perspectives des différentes sources.${buildFollowUpBlock(recentStories, 'cluster')}`;
 
   try {
     const response = await client.create(
@@ -276,6 +243,12 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     // Filter out irrelevant stories
     if (storyData.category === 'hors_sujet') {
       console.log(`   ⊘ Rejeté (hors scope): ${storyData.reason || 'pas de raison'}`);
+      return null;
+    }
+
+    // Mode suivi : sujet déjà publié, aucun fait nouveau
+    if (storyData.category === 'rien_de_nouveau') {
+      console.log(`   ⊘ Rien de nouveau depuis "${storyData.relatedTitle || '?'}": ${storyData.reason || 'pas de raison'}`);
       return null;
     }
 
@@ -344,7 +317,7 @@ Ta mission : identifier LE sujet le plus important parmi ces articles, puis prod
 ÉTAPES :
 1. Lis tous les articles
 2. Identifie les sujets couverts par PLUSIEURS sources différentes
-3. Parmi ces sujets, choisis celui qui est le plus important ET qui n'a PAS été couvert récemment (voir SUJETS INTERDITS ci-dessous si présent)
+3. Parmi ces sujets, choisis le plus important, en respectant les SUJETS INTERDITS et le MODE SUIVI s'ils sont présents
 4. Ignore les articles qui ne traitent pas de ce sujet
 5. Synthétise uniquement les articles pertinents
 
@@ -418,31 +391,33 @@ async function synthesizeFromPool(
   articles: RawArticle[],
   category: 'tech' | 'eco',
   storyIndex: number,
-  recentTitles: string[] = []
+  editionTitles: string[] = [],
+  recentStories: RecentStory[] = []
 ): Promise<Story | null> {
   let prompt = POOL_SYSTEM_PROMPT.replace(/%CATEGORY%/g, category);
 
-  // Pre-filter: remove articles too similar to recent titles (upstream filtering)
+  // Pre-filter: remove articles too similar to stories already in this edition.
+  // Les éditions précédentes relèvent du mode suivi (buildFollowUpBlock), pas d'une interdiction.
   let filteredArticles = articles;
-  if (recentTitles.length > 0) {
+  if (editionTitles.length > 0) {
     const SIMILARITY_THRESHOLD = 0.35;
     filteredArticles = articles.filter(a => {
-      const maxSim = Math.max(...recentTitles.map(t => titleSimilarity(a.title, t)));
+      const maxSim = Math.max(...editionTitles.map(t => titleSimilarity(a.title, t)));
       return maxSim < SIMILARITY_THRESHOLD;
     });
     const removed = articles.length - filteredArticles.length;
     if (removed > 0) {
-      console.log(`   🔄 ${removed} articles filtrés (trop similaires aux titres récents)`);
+      console.log(`   🔄 ${removed} articles filtrés (trop similaires aux stories de cette édition)`);
     }
     // Fallback: if all articles filtered out, keep originals
     if (filteredArticles.length === 0) filteredArticles = articles;
 
     // Add hard constraint to prompt
-    prompt += `\n\nSUJETS INTERDITS (déjà couverts ces derniers jours) :
-Les sujets suivants ont DÉJÀ été traités. Tu ne DOIS PAS les couvrir à nouveau, même s'ils apparaissent dans beaucoup de sources.
+    prompt += `\n\nSUJETS INTERDITS (déjà traités dans cette édition) :
+Les sujets suivants sont DÉJÀ dans l'édition du jour. Tu ne DOIS PAS les couvrir à nouveau, même s'ils apparaissent dans beaucoup de sources.
 Choisis un AUTRE sujet, même s'il est couvert par moins de sources.
 Si tu produis un titre similaire à l'un de ceux-ci, ta réponse sera rejetée.
-${recentTitles.map(t => `- "${t}"`).join('\n')}`;
+${editionTitles.map(t => `- "${t}"`).join('\n')}`;
   }
 
   const articlesDetail = filteredArticles
@@ -460,9 +435,9 @@ URL: ${a.url}
 
   const userPrompt = `Voici ${filteredArticles.length} articles de la catégorie "${category}" provenant de ${filteredSources.length} sources (${filteredSources.join(', ')}).
 
-Identifie le sujet le plus important qui N'A PAS été couvert récemment et synthétise-le.
+Identifie le sujet le plus important et synthétise-le.
 
-${articlesDetail}`;
+${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}`;
 
   try {
     const response = await client.create(
@@ -500,12 +475,12 @@ ${articlesDetail}`;
       return null;
     }
 
-    // Post-synthesis guard: reject if title too similar to recent titles
-    if (recentTitles.length > 0) {
+    // Post-synthesis guard: reject if title too similar to a story of this edition
+    if (editionTitles.length > 0) {
       const POST_SIMILARITY_THRESHOLD = 0.4;
-      const maxSim = Math.max(...recentTitles.map(t => titleSimilarity(storyData.title, t)));
+      const maxSim = Math.max(...editionTitles.map(t => titleSimilarity(storyData.title, t)));
       if (maxSim >= POST_SIMILARITY_THRESHOLD) {
-        const closest = recentTitles.reduce((best, t) =>
+        const closest = editionTitles.reduce((best, t) =>
           titleSimilarity(storyData.title, t) > titleSimilarity(storyData.title, best) ? t : best
         );
         console.log(`   ⚠️  Titre trop similaire à "${closest}" (sim=${maxSim.toFixed(2)}), rejeté`);
@@ -593,6 +568,10 @@ async function synthesize(): Promise<void> {
   // Initialize Anthropic client
   const client = createSynthesisClientFromEnv();
 
+  // Mode suivi : stories déjà publiées, injectées dans chaque prompt de synthèse
+  const recentStories = await fetchRecentStories();
+  console.log(`🔁 Mode suivi: ${recentStories.length} stories publiées sur les 7 derniers jours`);
+
   // Synthesize stories
   const stories: Story[] = [];
   let storyIndex = 0;
@@ -607,7 +586,7 @@ async function synthesize(): Promise<void> {
     console.log(`📝 Synthèse géopo ${storyIndex + 1}: ${cluster.topic.slice(0, 60)}`);
     console.log(`   Sources: ${sourcesList} (${cluster.articles.length} articles)`);
 
-    const story = await synthesizeStory(client, cluster, storyIndex);
+    const story = await synthesizeStory(client, cluster, storyIndex, recentStories);
     if (story) {
       stories.push(story);
       console.log(`   ✓ "${story.title}" → ${story.sources.length} sources`);
@@ -657,7 +636,7 @@ async function synthesize(): Promise<void> {
             messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.
 Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.${excludeStr}
 
-${articlesDetail}` }],
+${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}` }],
           },
           'synthesize geopo fallback'
         );
@@ -723,14 +702,10 @@ ${articlesDetail}` }],
   const techArticles = rawArticles.filter(a => a.category === 'tech');
   console.log(`\n💻 Tech: ${techArticles.length} articles dans le pool`);
   if (techArticles.length > 0) {
-    const recentTechTitles = await fetchRecentStoryTitles('tech', 7);
-    if (recentTechTitles.length > 0) {
-      console.log(`   📋 ${recentTechTitles.length} titres tech récents chargés pour diversité`);
-    }
-    // Include same-run stories: tech/eco pools can pick the same event (seen 2026-08-02,
+    // Same-run stories: tech/eco pools can pick the same event (seen 2026-08-02,
     // sujet Claude/Anthropic synthétisé deux fois, une par catégorie)
-    const techForbidden = [...recentTechTitles, ...stories.map((s) => s.title)];
-    const techStory = await synthesizeFromPool(client, techArticles, 'tech', storyIndex, techForbidden);
+    const techForbidden = stories.map((s) => s.title);
+    const techStory = await synthesizeFromPool(client, techArticles, 'tech', storyIndex, techForbidden, recentStories);
     if (techStory) {
       stories.push(techStory);
       console.log(`   ✓ "${techStory.title}" → ${techStory.sources.length} sources`);
@@ -739,21 +714,17 @@ ${articlesDetail}` }],
     await new Promise((resolve) => setTimeout(resolve, 1500));
   }
 
-  // 3. Synthesize eco from full article pool (with diversity from recent editions)
+  // 3. Synthesize eco from full article pool
   const ecoArticles = rawArticles.filter(a => a.category === 'eco');
   console.log(`\n💰 Éco: ${ecoArticles.length} articles dans le pool`);
   if (ecoArticles.length > 0) {
-    const recentEcoTitles = await fetchRecentStoryTitles('eco', 7);
-    if (recentEcoTitles.length > 0) {
-      console.log(`   📋 ${recentEcoTitles.length} titres éco récents chargés pour diversité`);
-    }
-    const ecoForbidden = [...recentEcoTitles, ...stories.map((s) => s.title)];
-    let ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, ecoForbidden);
+    const ecoForbidden = stories.map((s) => s.title);
+    let ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, ecoForbidden, recentStories);
     // Retry once if rejected by similarity guard
     if (!ecoStory && ecoForbidden.length > 0) {
       console.log(`   🔁 Retry synthèse éco avec contrainte renforcée...`);
       await new Promise((resolve) => setTimeout(resolve, 1500));
-      ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, ecoForbidden);
+      ecoStory = await synthesizeFromPool(client, ecoArticles, 'eco', storyIndex, ecoForbidden, recentStories);
     }
     if (ecoStory) {
       stories.push(ecoStory);

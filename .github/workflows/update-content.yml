@@ -87,6 +87,10 @@ jobs:
           SYNTHESIS_MODEL: kimi-k3
           # Alerte email admin si bascule sur le modèle Claude de secours
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          # Mode suivi : lecture des stories déjà publiées (newsletter_editions).
+          # Sans ces 2 variables, la synthèse tourne sans mémoire des éditions précédentes.
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: npm run synthesize
 
       # 7. Determine day info for conditional sending (use Paris timezone)
