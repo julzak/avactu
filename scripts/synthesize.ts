@@ -72,6 +72,10 @@ interface Edition {
 }
 
 // Constants
+// Le thinking compte dans max_tokens. Avec le mode suivi, kimi-k3 consomme ~7 300 tokens
+// de thinking par appel (mesuré 2026-09-27) : à 8192, la réponse n'avait plus la place
+// de s'écrire ("No text block", run 36305957430).
+const SYNTHESIS_MAX_TOKENS = 16384;
 const CLUSTERED_PATH = join(__dirname, '..', 'data', 'clustered-articles.json');
 const STORIES_PATH = join(__dirname, '..', 'public', 'data', 'stories.json');
 
@@ -205,8 +209,7 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
   try {
     const response = await client.create(
       {
-        // Opus 5 : thinking actif par defaut, compte dans max_tokens
-        max_tokens: 8192,
+        max_tokens: SYNTHESIS_MAX_TOKENS,
         system: [
           {
             type: 'text' as const,
@@ -222,7 +225,7 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     // Opus 5 : la reponse commence par un bloc thinking, le texte vient apres
     const content = response.content.find((b) => b.type === 'text');
     if (!content || content.type !== 'text') {
-      throw new Error('No text block in response');
+      throw new Error(`No text block in response (stop_reason=${response.stop_reason}, output_tokens=${response.usage?.output_tokens})`);
     }
 
     // Clean markdown code fences if present
@@ -442,8 +445,7 @@ ${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}`;
   try {
     const response = await client.create(
       {
-        // Opus 5 : thinking actif par defaut, compte dans max_tokens
-        max_tokens: 8192,
+        max_tokens: SYNTHESIS_MAX_TOKENS,
         system: [
           {
             type: 'text' as const,
@@ -459,7 +461,7 @@ ${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}`;
     // Opus 5 : la reponse commence par un bloc thinking, le texte vient apres
     const content = response.content.find((b) => b.type === 'text');
     if (!content || content.type !== 'text') {
-      throw new Error('No text block in response');
+      throw new Error(`No text block in response (stop_reason=${response.stop_reason}, output_tokens=${response.usage?.output_tokens})`);
     }
 
     let jsonText = content.text.trim();
@@ -629,9 +631,7 @@ async function synthesize(): Promise<void> {
       try {
         const response = await client.create(
           {
-            // Thinking actif par defaut (Opus 5 comme Kimi K3), compte dans max_tokens.
-            // 4096 tronquait le JSON avec kimi-k3 (teste 2026-08-06) -> aligne sur 8192.
-            max_tokens: 8192,
+            max_tokens: SYNTHESIS_MAX_TOKENS,
             system: [{ type: 'text' as const, text: geopoPoolPrompt, cache_control: { type: 'ephemeral' as const } }],
             messages: [{ role: 'user', content: `Voici ${recentGeopo.length} articles géopolitiques de ${sources.length} sources.
 Identifie le sujet le plus important couvert par PLUSIEURS sources et synthétise-le.${excludeStr}
