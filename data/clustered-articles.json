@@ -1,231 +1,187 @@
 {
-  "generatedAt": "2026-09-26T05:11:21.226Z",
+  "generatedAt": "2026-09-27T05:29:29.939Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "A Thil, en Lorraine, l’hommage à 37 travailleuses forcées soviétiques victimes d",
+      "id": "cluster-1",
+      "topic": "À Lourdes, le pape Léon XIV face à la question des violences sexuelles dans l’Ég",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-26-3e773760",
-          "title": "A Thil, en Lorraine, l’hommage à 37 travailleuses forcées soviétiques victimes des nazis annulé à cause du conflit russo-ukrainien",
-          "description": "Après quarante-huit heures de polémiques, la mairie de Thil (Meurthe-et-Moselle) a décidé de reporter sa cérémonie d’hommage, prévue dimanche, à 37 travailleuses forcées soviétiques, déportées dans un camp de concentration pendant la seconde guerre mondiale.",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/26/a-thil-en-lorraine-l-hommage-a-37-travailleuses-forcees-sovietiques-victimes-des-nazis-annule-a-cause-du-conflit-russo-ukrainien_6783059_3224.html",
+          "id": "2026-09-27-a2372dfb",
+          "title": "À Lourdes, le pape Léon XIV face à la question des violences sexuelles dans l’Église catholique",
+          "description": "Après deux jours à Paris où il a attiré plus d'un million de personnes, Léon XIV poursuit dimanche à Lourdes sa visite en France, avec une nouvelle messe et un rendez-vous très attendu avec des victimes de violences sexuelles dans l'Église.",
+          "url": "https://www.france24.com/fr/france/20260927-%C3%A0-lourdes-le-pape-l%C3%A9on-xiv-face-%C3%A0-la-question-des-violences-sexuelles-dans-l-%C3%A9glise-catholique",
+          "imageUrl": "https://s.france24.com/media/display/def54e7c-ba30-11f1-bd19-555a0aff87a4/w:1024/p:16x9/000-C8YW2LE.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T05:04:28.000Z",
+          "fetchedAt": "2026-09-27T05:25:29.465Z"
+        },
+        {
+          "id": "2026-09-27-269bd1aa",
+          "title": "Visite du pape en France : les violences sexuelles au sein de l’Eglise, une « plaie encore ouverte » pour Léon XIV",
+          "description": "Dimanche 27 septembre, le souverain pontife doit rencontrer sept victimes, à Lourdes. Alors que les évêques français ont été à la pointe sur le sujet, grâce à la reconnaissance d’un phénomène systémique, les associations déplorent aujourd’hui un recul.",
+          "url": "https://www.lemonde.fr/societe/article/2026/09/27/visite-du-pape-en-france-les-violences-sexuelles-au-sein-de-l-eglise-une-plaie-encore-ouverte-pour-leon-xiv_6783753_3224.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-26T05:00:31.000Z",
-          "fetchedAt": "2026-09-26T05:07:20.826Z"
+          "publishedAt": "2026-09-27T04:00:43.000Z",
+          "fetchedAt": "2026-09-27T05:25:29.489Z"
         },
         {
-          "id": "2026-09-25-b309e411",
-          "title": "Après des années de blocage, l'UE trouve un accord sur un financement à l'Ukraine",
-          "description": "La défaite de Viktor Orban aux élections hongroises a changé la donne. Les États membres de l'Union européenne sont parvenus a s'entendre sur un remboursement par l'UE des fonds avancés à l'Ukraine par chaque pays. Un mécanisme qui ouvre la voie à de nouvelles aides pour soutenir Kiev.",
-          "url": "https://www.france24.com/fr/europe/20260925-apr%C3%A8s-des-ann%C3%A9es-de-blocage-l-ue-trouve-un-accord-sur-un-financement-%C3%A0-l-ukraine",
-          "imageUrl": "https://s.france24.com/media/display/fe988e5c-b8fe-11f1-afb5-8f3418d01115/w:1024/p:16x9/AP26250532034091.jpg",
+          "id": "2026-09-26-095b7088",
+          "title": "Visite du pape en France : après deux jours intenses à Paris, Léon XIV est à Lourdes pour une fin de week-end qui sera marquée par la question des violences sexuelles dans l’Eglise catholique",
+          "description": "Léon XIV a effectué samedi un déplacement consacré à l’immigration et visité l’Institut catholique de Paris, parfois surnommé « la Catho », avant de descendre les Champs-Elysées en papamobile. Il a ensuite rejoint la place de la Concorde où, selon le Vatican, 700 000 personnes étaient présentes pour assister à une messe géante.",
+          "url": "https://www.lemonde.fr/societe/live/2026/09/26/visite-du-pape-en-france-apres-deux-jours-intenses-a-paris-leon-xiv-est-a-lourdes-pour-une-fin-de-week-end-qui-sera-marquee-par-la-question-des-violences-sexuelles-dans-l-eglise-catholique_6782008_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-26T17:24:50.000Z",
+          "fetchedAt": "2026-09-27T05:25:29.489Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-9",
+      "topic": "EN DIRECT, guerre en Ukraine : une attaque russe dans l’oblast de Zaporijia fait",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-27-d3acedb3",
+          "title": "EN DIRECT, guerre en Ukraine : une attaque russe dans l’oblast de Zaporijia fait au moins un mort, selon les autorités locales",
+          "description": "Une femme a également été blessée et des habitations ont été détruites ou endommagées dans cette offensive, a affirmé Ivan Fedorov, chef de l’administration militaire régionale, dans la nuit de samedi à dimanche.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-une-attaque-russe-dans-la-region-de-zaporijia-fait-au-moins-un-mort-selon-les-autorites-locales_6783795_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T04:11:00.000Z",
+          "fetchedAt": "2026-09-27T05:25:29.489Z"
+        },
+        {
+          "id": "2026-09-27-4d3c68b6",
+          "title": "À l’ONU, la “tirade enflammée” contre l’Occident du ministre russe Sergueï Lavrov",
+          "description": "Lors d’un discours à l’Assemblée générale des Nations unies, le ministère des affaires étrangères a accusé les puissances européennes et les États-Unis de jouer les va-t-en-guerre en Ukraine. Il avait auparavant rencontré son homologue allemand. Une première depuis 2022.",
+          "url": "https://www.courrierinternational.com/article/diplomatie-a-l-onu-la-tirade-enflammee-contre-l-occident-du-ministre-russe-serguei-lavrov_274497",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/26/0/0/4000/2666/1200/630/60/0/e510429_ftp-1-xf7xpbpqrmtu-2026-09-26t163423z-744681254-rc24rnadqr2l-rtrmadp-3-un-assembly.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T03:55:06.000Z",
+          "fetchedAt": "2026-09-27T05:25:29.786Z"
+        },
+        {
+          "id": "2026-09-26-6127840e",
+          "title": "Guerre en Ukraine : l’Europe « fait tout » pour contrecarrer les négociations sur l’Ukraine, accuse Sergueï Lavrov à l’ONU. Retrouvez les informations du 20 au 26 septembre.",
+          "description": "Le ministre des affaires étrangères russe s’est également entretenu avec son homologue allemand, Johann Wadephul, pour le premier entretien de ce genre depuis le début de l’invasion russe de l’Ukraine en février 2022.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-l-europe-fait-tout-pour-contrecarrer-les-negociations-sur-l-ukraine-accuse-serguei-lavrov-a-l-onu_6777944_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-26T18:17:31.000Z",
+          "fetchedAt": "2026-09-27T05:25:29.489Z"
+        },
+        {
+          "id": "2026-09-26-d94877a1",
+          "title": "La Russie accuse l'Europe de «tout faire» pour contrecarrer les plans de paix en Ukraine",
+          "description": "Le chef de la diplomatie russe, Sergueï Lavrov, a accusé samedi 26 septembre l'Europe de s'opposer systématiquement aux projets de paix en Ukraine, à rebours selon lui de la position des États-Unis.",
+          "url": "https://www.rfi.fr/fr/europe/20260926-la-russie-accuse-l-europe-de-tout-faire-pour-contrecarrer-les-plans-de-paix-en-ukraine",
+          "imageUrl": "https://s.rfi.fr/media/display/1b89779c-b9cc-11f1-8082-8f3418d01115/w:1024/p:16x9/AP26269574967954.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-26T17:43:34.000Z",
+          "fetchedAt": "2026-09-27T05:25:35.807Z"
+        },
+        {
+          "id": "2026-09-26-2f50ad91",
+          "title": "Nouvelles frappes russes et ukrainiennes, au moins 16 morts dans les deux camps",
+          "description": "Au moins 16 personnes ont été tuées, samedi, dans des frappes en Russie et en Ukraine, selon les autorités locales, dans un contexte d’intensification des attaques entre les deux pays. Des civils figurent parmi les victimes, notamment, côté ukrainien, à Zaporijia, Soumy, Dnipropetrovsk et Kiev.",
+          "url": "https://www.france24.com/fr/europe/20260926-nouvelles-frappes-russes-et-ukrainiennes-au-moins-16-morts-dans-les-deux-camps",
+          "imageUrl": "https://s.france24.com/media/display/561c25ac-b9be-11f1-8564-11fa9f8a3b4f/w:1024/p:16x9/2026-09-26T075107Z-778474444-RC2SQNAUPMBO-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-25T17:26:48.000Z",
-          "fetchedAt": "2026-09-26T05:07:20.803Z"
+          "publishedAt": "2026-09-26T15:40:48.000Z",
+          "fetchedAt": "2026-09-27T05:25:29.465Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-16",
+      "topic": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz ; Téhéran",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-27-45a3c3b2",
+          "title": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz ; Téhéran « ne reviendra pas » sur ses conditions",
+          "description": "Les dirigeants iraniens veulent cet accord car « ils sont en train de méchamment perdre », a affirmé le président américain pour justifier sa décision. Dimanche, après le rejet du plan, Téhéran a maintenu sa position sur les modalités d’une réouverture du passage maritime stratégique.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/27/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz-teheran-ne-reviendra-pas-sur-ses-conditions_6783275_3211.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T03:21:14.000Z",
+          "fetchedAt": "2026-09-27T05:25:29.489Z"
+        },
+        {
+          "id": "2026-09-26-6096d6a1",
+          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+          "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-26T22:15:59.000Z",
+          "fetchedAt": "2026-09-27T05:25:35.817Z"
+        },
+        {
+          "id": "2026-09-26-18655b86",
+          "title": "Donald Trump refuse l'offre iranienne pour rouvrir le détroit d'Ormuz",
+          "description": "Le président américain Donald Trump a refusé la proposition iranienne de rouvrir le détroit d'Ormuz sous sept jours.",
+          "url": "https://www.rfi.fr/fr/monde/20260926-donald-trump-refuse-l-offre-iranienne-pour-rouvrir-le-d%C3%A9troit-d-ormuz",
+          "imageUrl": "https://s.rfi.fr/media/display/815da8ac-b40b-11f1-83e6-ed3d9e22a40f/w:1024/p:16x9/AP26261726847272.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-26T05:49:41.000Z",
+          "fetchedAt": "2026-09-27T05:25:35.807Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Privés d’un outil destiné à récupérer des preuves numériques cruciales pour leur",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-26-f1dbc596",
-          "title": "Privés d’un outil destiné à récupérer des preuves numériques cruciales pour leurs enquêtes, des magistrats français interpellent le gouvernement",
-          "description": "Des textes européens permettant aux magistrats de solliciter de manière plus rapide, simple et fiable des éléments de preuves auprès des entreprises du numérique ne peuvent être appliqués en France. Des magistrats sonnent l’alerte.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/26/prives-d-un-outil-destine-a-recuperer-des-preuves-numeriques-cruciales-pour-leurs-enquetes-des-magistrats-francais-interpellent-le-gouvernement_6783055_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T05:00:10.000Z",
-          "fetchedAt": "2026-09-26T05:07:20.826Z"
-        },
-        {
-          "id": "2026-09-26-011286f7",
-          "title": "Visite du pape à Paris : la venue de Léon XIV, inespéré cadeau d’anniversaire pour les 150 ans de « la Catho »",
-          "description": "Le pontife se rend samedi à l’Institut catholique de Paris pour rencontrer des catéchumènes et des néophytes, et mettre l’accent sur l’importance de l’éducation. Il en profitera pour se rapprocher de son maître spirituel, Laurent de la Résurrection, qui a vécu au XVIIᵉ siècle parmi les carmes déchaux jadis installés sur le site de l’université.",
-          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/26/visite-du-pape-a-paris-la-venue-de-leon-xiv-inespere-cadeau-d-anniversaire-pour-les-150-ans-de-la-catho_6783017_6038514.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T04:00:54.000Z",
-          "fetchedAt": "2026-09-26T05:07:20.826Z"
-        },
-        {
-          "id": "2026-09-26-1443f0d0",
-          "title": "La guerre intérieure de Jérôme, ancien soldat victime de stress post-traumatique : « Cela aurait été plus simple d’avoir une jambe en moins »",
-          "description": "Le caporal-chef a pris part aux opérations extérieures de la France, notamment en Afghanistan et au Mali. Depuis la fin de sa carrière, en 2016, il multiplie accès de colère, crises d’angoisse, cauchemars… Et rien ne parvient à le guérir. Longtemps dans le déni, l’armée commence à prendre la mesure de cette blessure psychique, dévastatrice pour les militaires et leur entourage. Une unité consacrée à ces troubles doit ouvrir, en octobre, aux Invalides.",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/26/la-guerre-interieure-de-jerome-ancien-soldat-victime-de-stress-post-traumatique-cela-aurait-ete-plus-simple-d-avoir-une-jambe-en-moins_6783013_4500055.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T04:00:37.000Z",
-          "fetchedAt": "2026-09-26T05:07:20.826Z"
-        },
-        {
-          "id": "2026-09-26-54549600",
-          "title": "Le pape Léon XIV met en garde contre la menace que représente l’IA pour l’humanité, au début de sa visite en France",
-          "description": "Le souverain pontife s’est inquiété, vendredi, au premier jour de sa visite de quatre jours dans l’Hexagone, du risque de “perdre notre humanité au milieu du paradis des machines”. Il a également délivré des messages sur l’État de droit et la fin de vie.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-le-pape-leon-xiv-met-en-garde-contre-la-menace-que-represente-l-ia-pour-l-humanite-au-debut-de-sa-visite-en-france_274299",
-          "imageUrl": null,
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T04:00:14.000Z",
-          "fetchedAt": "2026-09-26T05:07:20.849Z"
-        },
-        {
-          "id": "2026-09-25-4b3a1edc",
-          "title": "Au Brésil, Lula interdit les paris sportifs en ligne à quelques jours de la présidentielle, dénonçant une « maladie » qui gagne les foyers",
-          "description": "Alors que la campagne entre dans sa dernière ligne droite avant le premier tour du 4 octobre, le sujet des paris en ligne est devenu un enjeu pour le président sortant, qui dénonce une source d’endettement massif pour les familles.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/26/au-bresil-lula-interdit-les-paris-sportifs-en-ligne-a-quelques-jours-de-la-presidentielle-denoncant-une-maladie-qui-gagne-les-foyers_6782740_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-25T22:53:11.000Z",
-          "fetchedAt": "2026-09-26T05:07:20.826Z"
-        },
-        {
-          "id": "2026-09-25-8fadae9d",
-          "title": "En Irlande, la neutralité au cœur d’un débat qui divise",
-          "description": "En Suisse, les électeurs sont appelés aux urnes dimanche pour décider jusqu’où doit aller la neutralité du pays. Une initiative populaire veut inscrire dans la Constitution suisse une neutralité « perpétuelle et armée ». Un débat qui résonne jusqu’en Irlande. À Dublin, le gouvernement muscle ses dépenses militaires et voudrait également permettre l’envoi de militaires à l’étranger sans devoir dépendre systématiquement d’un mandat de l’ONU. Pour ses détracteurs, c’est une ligne rouge, qui menace la neutralité. Un principe très cher au peuple irlandais.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260925-en-irlande-la-neutralit%C3%A9-au-c%C5%93ur-d-un-d%C3%A9bat-qui-divise",
-          "imageUrl": "https://s.rfi.fr/media/display/dad9d790-b913-11f1-b380-11fa9f8a3b4f/w:1024/p:16x9/000-C8486WA.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-25T22:01:27.000Z",
-          "fetchedAt": "2026-09-26T05:07:26.279Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-13",
-      "topic": "L’Arabie saoudite subit de nouvelles attaques des houthistes",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-26-63e4f2fa",
-          "title": "L’Arabie saoudite subit de nouvelles attaques des houthistes",
-          "description": "Des drones lancés en direction de la capitale saoudienne, Riyad, et des missiles balistiques visant une grande ville du sud-ouest qui héberge une base aérienne ont été interceptés samedi.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/26/l-arabie-saoudite-subit-de-nouvelles-attaques-des-houthistes_6782972_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T03:30:01.000Z",
-          "fetchedAt": "2026-09-26T05:07:20.826Z"
-        },
-        {
-          "id": "2026-09-25-725fb701",
-          "title": "Le Conseil de sécurité de l'ONU \"condamne\" les attaques des Houthis contre l'Arabie saoudite",
-          "description": "L'offensive des rebelles houthis pro-iraniens contre l'Arabie saoudite a été condamnée par le Conseil de sécurité de l'ONU, au lendemain de nouvelles attaques. Au Yémen, le chef du Conseil présidentiel, Rachad al-Alimi, a appelé à une mobilisation générale de la population face aux Houthis, appelant tous ceux qui feraient défection dans les rangs houthis à rejoindre les forces armées.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260925-le-conseil-de-s%C3%A9curit%C3%A9-de-l-onu-condamne-les-attaques-des-houthis-contre-l-arabie-saoudite",
-          "imageUrl": "https://s.france24.com/media/display/1ad03680-b907-11f1-add1-91cf9f3cd539/w:1024/p:16x9/2026-09-14T132010Z-886379123-RC21JNAQNIP4-RTRMADP-3-IRAN-CRISIS-YEMEN-HOUTHI.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-25T20:43:09.000Z",
-          "fetchedAt": "2026-09-26T05:07:20.803Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-1",
-      "topic": "« Chaque jour, nous prenons le risque de retarder l’arrestation d’un meurtrier o",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-26-7c37283e",
-          "title": "« Chaque jour, nous prenons le risque de retarder l’arrestation d’un meurtrier ou d’un violeur, faute d’appliquer le mécanisme européen e-Evidence »",
-          "description": "Un magistrat allemand ou italien peut désormais obtenir rapidement des preuves numériques détenues par une plateforme installée dans un autre pays de l’UE. Un juge français, non, et il est urgent d’y remédier, plaident, dans une tribune au « Monde », deux magistrats et un spécialiste de droit du numérique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/26/chaque-jour-nous-prenons-le-risque-de-retarder-l-arrestation-d-un-meurtrier-ou-d-un-violeur-faute-d-appliquer-le-mecanisme-europeen-e-evidence_6783021_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-26T04:30:15.000Z",
-          "fetchedAt": "2026-09-26T05:07:26.284Z"
-        },
-        {
-          "id": "2026-09-25-ec35b6b7",
-          "title": "Présidentielle 2027 : à Marseille, un « grand débat » sur l’IA sans grande surprise et avec peu de candidats",
-          "description": "A part Olivier Faure, aucun candidat n’avait fait le déplacement dans la cité phocéenne pour cette discussion sur un sujet pourtant présenté comme « central » par plusieurs partis",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-a-marseille-un-grand-debat-sur-l-ia-sans-grande-surprise-et-avec-peu-de-candidats_6782611_823448.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-25T16:01:50.000Z",
-          "fetchedAt": "2026-09-26T05:07:26.284Z"
-        },
-        {
-          "id": "2026-09-25-c6d35c91",
-          "title": "Starfield 2 très peu probable selon un ex-développeur de Bethesda : « Je serais très surpris » de voir une suite",
-          "description": "Malgré plus de 15 millions de joueuses et de joueurs, Starfield est loin d'avoir eu assez de succès pour justifier une suite, estime Kurt Kuhlmann, ancien responsable des systèmes de jeu chez Bethesda.",
-          "url": "https://www.numerama.com/pop-culture/2340743-starfield-2-tres-peu-probable-selon-un-ex-developpeur-de-bethesda-je-serais-tres-surpris-quil-y-ait-une-suite.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2023/08/lhzp.jpeg?resize=1600,900&key=ccd5c4c1",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-09-25T15:22:00.000Z",
-          "fetchedAt": "2026-09-26T05:07:26.379Z"
-        },
-        {
-          "id": "2026-09-25-53d17929",
-          "title": "1 338 kilomètres en une seule charge : Audi bat le record du monde d’autonomie, mais attention à la vitesse moyenne",
-          "description": "Audi a annoncé qu'une A6 Sportback e-tron performance avait parcouru 1 338 kilomètres en Pologne avec une seule charge, un record homologué par le Guinness World Records. La berline efface ainsi les 1 205 kilomètres de la Lucid Air, qui tenaient depuis juillet 2025.",
-          "url": "https://www.numerama.com/vroom/2340459-1-338-kilometres-en-une-seule-charge-audi-bat-le-record-du-monde-dautonomie-mais-attention-a-la-vitesse-moyenne.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/07/audi-a6-e-tron-sportback.jpg?resize=1600,900&key=55cda558",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-09-25T13:15:00.000Z",
-          "fetchedAt": "2026-09-26T05:07:26.379Z"
-        },
-        {
-          "id": "2026-09-25-0942ec8d",
-          "title": "Affaire Thélyson Orélien : le concepteur de Pangram, Max Spero, n’a « aucun doute » sur la présence d’IA dans le roman « C’était ça ou mourir »",
-          "description": "En trois ans, le logiciel de détection d’IA est devenu l’un des plus efficaces de son secteur, déclenchant de multiples controverses aux Etats-Unis. Pour son concepteur, « Pangram pourrait finir par ressembler à une étiquette nutritionnelle ou de certification 100 % bio » de la prose écrite.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/25/affaire-thelyson-orelien-le-concepteur-de-pangram-max-spero-n-a-aucun-doute-sur-la-presence-d-ia-dans-le-roman-c-etait-ca-ou-mourir_6782482_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-25T13:03:29.000Z",
-          "fetchedAt": "2026-09-26T05:07:26.284Z"
-        },
-        {
-          "id": "2026-09-25-e4316632",
-          "title": "Après « Backrooms », A24 annonce un film sur la Fondation SCP : la communauté contre-attaque",
-          "description": "Pour la communauté d’internautes coauteurs de la Fondation SCP, son adaptation cinématographique par la société de production A24 doit bénéficier d’une licence « creative commons », incompatible avec le modèle économique de l’industrie.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/25/apres-backrooms-a24-annonce-un-film-sur-la-fondation-scp-la-communaute-contre-attaque_6782351_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-09-25T09:30:04.000Z",
-          "fetchedAt": "2026-09-26T05:07:26.284Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Diesel prices exceed £2 a litre at hundreds of forecourts across Scotland",
+      "topic": "Dois-je prévenir mon assurance avant de faire des travaux ?",
       "category": "eco",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-09-27-08ffddb5",
+          "title": "Dois-je prévenir mon assurance avant de faire des travaux ?",
+          "description": "Certains aménagements modifient le risque assuré et doivent être déclarés à l’assureur, rappelle Olivier Moustacakis, directeur général d’Assurland.com.",
+          "url": "https://www.lemonde.fr/argent/article/2026/09/27/dois-je-prevenir-mon-assurance-avant-de-faire-des-travaux_6783754_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-09-27T04:00:45.000Z",
+          "fetchedAt": "2026-09-27T05:25:39.910Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Decap is the man behind the drums behind your favorite song",
+      "category": "tech",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-09-25-4a9db379",
-          "title": "Diesel prices exceed £2 a litre at hundreds of forecourts across Scotland",
-          "description": "Motoring organisation the RAC says it expects the average UK diesel price to hit a new record high over the weekend.",
-          "url": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d55/live/5ec72f60-b8cb-11f1-ad1f-538855f30ba1.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-09-25T21:47:48.000Z",
-          "fetchedAt": "2026-09-26T05:07:34.773Z"
+          "id": "2026-09-26-24b39785",
+          "title": "Decap is the man behind the drums behind your favorite song",
+          "description": "Drums on film. | Image: Decap\t\n\nI don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig Göransson's score for Oppenheimer. \nNicholas Piantedosi, better known as Decap, is a record producer, but perhaps more importantly, he's the man behind Drums That Knock, a series of sample packs that have found their way onto countless records across genres. The line is so successful that, after debuting in 2016, it's now on its 11th …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-09-26T19:30:00.000Z",
+          "fetchedAt": "2026-09-27T05:25:39.967Z"
         }
       ]
     }
