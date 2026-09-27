@@ -6,6 +6,9 @@
  * (solde épuisé, compte suspendu, clé révoquée), tous les appels restants du
  * run basculent sur l'API Anthropic. Incident d'origine : 2026-09-18, compte
  * Moonshot suspendu → 429 sur toutes les synthèses → édition vide.
+ *
+ * Si le primaire rejette une requête par filtre de contenu (400 content_filter),
+ * seule cette requête est rejouée sur l'API Anthropic, le run reste sur le primaire.
  */
 
 import Anthropic from '@anthropic-ai/sdk';
@@ -31,6 +34,19 @@ export function isAccountError(error: unknown): boolean {
   return (
     error.status === 429 &&
     /insufficient balance|suspended|exceeded_current_quota|billing/i.test(error.message)
+  );
+}
+
+/**
+ * Refus du filtre de contenu du fournisseur tiers (Moonshot : 400 content_filter,
+ * "considered high risk", ex. articles sur des piratages par agents IA). Propre à
+ * la requête, pas au compte : seule cette requête est rejouée sur le secours.
+ */
+export function isContentFilterError(error: unknown): boolean {
+  return (
+    error instanceof Anthropic.APIError &&
+    error.status === 400 &&
+    /content_filter/.test(error.message)
   );
 }
 
@@ -85,10 +101,14 @@ export function createSynthesisClient(
             { label, baseDelay }
           );
         } catch (error) {
-          if (!fallback || !isAccountError(error)) throw error;
-          reason = (error as Error).message.slice(0, 400);
-          console.warn(`\n🔀 Compte ${MODELS.synthesis} inutilisable : ${reason}`);
-          console.warn(`🔀 Bascule sur ${MODELS.synthesisFallback} pour le reste du run\n`);
+          if (!fallback || !(isAccountError(error) || isContentFilterError(error))) throw error;
+          if (isContentFilterError(error)) {
+            console.warn(`   🔀 Filtre de contenu ${MODELS.synthesis} : requête rejouée sur ${MODELS.synthesisFallback}`);
+          } else {
+            reason = (error as Error).message.slice(0, 400);
+            console.warn(`\n🔀 Compte ${MODELS.synthesis} inutilisable : ${reason}`);
+            console.warn(`🔀 Bascule sur ${MODELS.synthesisFallback} pour le reste du run\n`);
+          }
         }
       }
       return withRetry(

@@ -458,3 +458,9 @@ Le logo est un **A stylisé cyan** avec :
 
 ### Suppression projet source
 **FAIT** : projet source `avactu` (`siiuasvstybjbniisjac`) **supprimé** (vérifié 2026-06-26 : DNS NXDOMAIN). Migration close, rollback vers le source n'est plus possible.
+
+## Leçon : enums Supabase générés = union types stricts
+
+`.eq("category", stringVar)` échoue quand la colonne est un enum Postgres : le type généré
+est une union stricte, pas `string`. Caster avec `as never` :
+`.eq("category", filters.category as never)`.
