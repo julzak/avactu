@@ -1,13 +1,54 @@
 {
-  "generatedAt": "2026-09-27T05:29:29.939Z",
+  "generatedAt": "2026-09-27T08:26:13.081Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "À Lourdes, le pape Léon XIV face à la question des violences sexuelles dans l’Ég",
+      "topic": "Iranian minister says only negotiation can end conflict after Trump rejects Horm",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
+        {
+          "id": "2026-09-27-cb792168",
+          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+          "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T07:44:11.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.471Z"
+        },
+        {
+          "id": "2026-09-27-45a3c3b2",
+          "title": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz ; Téhéran « ne reviendra pas » sur ses conditions",
+          "description": "Les dirigeants iraniens veulent cet accord car « ils sont en train de méchamment perdre », a affirmé le président américain pour justifier sa décision. Dimanche, après le rejet du plan, Téhéran a maintenu sa position sur les modalités d’une réouverture du passage maritime stratégique.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/27/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz-teheran-ne-reviendra-pas-sur-ses-conditions_6783275_3211.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T03:21:14.000Z",
+          "fetchedAt": "2026-09-27T08:22:12.628Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-8",
+      "topic": "EN DIRECT - Le pape Léon XIV célèbre une messe à Lourdes avant une rencontre ave",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-27-f6e5c535",
+          "title": "EN DIRECT - Le pape Léon XIV célèbre une messe à Lourdes avant une rencontre avec des victimes de violences sexuelles dans l'Eglise",
+          "description": "Après deux jours à Paris où il a attiré plus de 800 000 personnes lors d'une messe géante sur la place de la Concorde, Léon XIV poursuit sa visite en France. Le souverain pontife est à Lourdes ce dimanche avec une nouvelle messe au programme et un rendez-vous très attendu avec des victimes de violences sexuelles dans l'Église.",
+          "url": "https://www.rfi.fr/fr/france/20260927-en-direct-le-pape-l%C3%A9on-xiv-c%C3%A9l%C3%A8bre-une-messe-%C3%A0-lourdes-avant-une-rencontre-avec-des-victimes-de-violences-sexuelles-dans-l-eglise",
+          "imageUrl": "https://s.rfi.fr/media/display/67268c06-ba41-11f1-8b8e-11fa9f8a3b4f/w:1024/p:16x9/000-C9FW4CQ.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T07:07:51.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.580Z"
+        },
         {
           "id": "2026-09-27-a2372dfb",
           "title": "À Lourdes, le pape Léon XIV face à la question des violences sexuelles dans l’Église catholique",
@@ -17,7 +58,29 @@
           "source": "France 24",
           "category": "geopolitique",
           "publishedAt": "2026-09-27T05:04:28.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.465Z"
+          "fetchedAt": "2026-09-27T08:22:12.778Z"
+        },
+        {
+          "id": "2026-09-27-a387f9bd",
+          "title": "« Les errements de Trump sont devenus un facteur majeur de déstabilisation des relations internationales »",
+          "description": "Les déclarations fluctuantes du président américain sont particulièrement désastreuses pour le Moyen-Orient, analyse l’historien Jean-Pierre Filiu dans sa chronique au « Monde ».",
+          "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/27/les-errements-de-trump-sont-devenus-un-facteur-majeur-de-destabilisation-des-relations-internationales_6783828_6116995.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T05:00:08.000Z",
+          "fetchedAt": "2026-09-27T08:22:12.628Z"
+        },
+        {
+          "id": "2026-09-27-7b876df5",
+          "title": "Le nord-est des Etats-Unis balayé par une puissante tempête, des « inondations côtières majeures » redoutées par les autorités",
+          "description": "La tempête doit se déplacer vers le New Jersey et Long Island dans la nuit de samedi à dimanche et toucher la région avec « toute sa force » dimanche matin, d’après les prévisionnistes.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/27/le-nord-est-des-etats-unis-balaye-par-une-puissante-tempete-des-inondations-cotieres-majeures-redoutees-par-les-autorites_6783308_3211.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T04:08:52.000Z",
+          "fetchedAt": "2026-09-27T08:22:12.628Z"
         },
         {
           "id": "2026-09-27-269bd1aa",
@@ -27,38 +90,8 @@
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-27T04:00:43.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
-        },
-        {
-          "id": "2026-09-26-095b7088",
-          "title": "Visite du pape en France : après deux jours intenses à Paris, Léon XIV est à Lourdes pour une fin de week-end qui sera marquée par la question des violences sexuelles dans l’Eglise catholique",
-          "description": "Léon XIV a effectué samedi un déplacement consacré à l’immigration et visité l’Institut catholique de Paris, parfois surnommé « la Catho », avant de descendre les Champs-Elysées en papamobile. Il a ensuite rejoint la place de la Concorde où, selon le Vatican, 700 000 personnes étaient présentes pour assister à une messe géante.",
-          "url": "https://www.lemonde.fr/societe/live/2026/09/26/visite-du-pape-en-france-apres-deux-jours-intenses-a-paris-leon-xiv-est-a-lourdes-pour-une-fin-de-week-end-qui-sera-marquee-par-la-question-des-violences-sexuelles-dans-l-eglise-catholique_6782008_3224.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T17:24:50.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "EN DIRECT, guerre en Ukraine : une attaque russe dans l’oblast de Zaporijia fait",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-27-d3acedb3",
-          "title": "EN DIRECT, guerre en Ukraine : une attaque russe dans l’oblast de Zaporijia fait au moins un mort, selon les autorités locales",
-          "description": "Une femme a également été blessée et des habitations ont été détruites ou endommagées dans cette offensive, a affirmé Ivan Fedorov, chef de l’administration militaire régionale, dans la nuit de samedi à dimanche.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-une-attaque-russe-dans-la-region-de-zaporijia-fait-au-moins-un-mort-selon-les-autorites-locales_6783795_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-27T04:11:00.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
+          "publishedAt": "2026-09-27T04:00:27.000Z",
+          "fetchedAt": "2026-09-27T08:22:12.628Z"
         },
         {
           "id": "2026-09-27-4d3c68b6",
@@ -69,119 +102,174 @@
           "source": "Courrier International",
           "category": "geopolitique",
           "publishedAt": "2026-09-27T03:55:06.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.786Z"
-        },
-        {
-          "id": "2026-09-26-6127840e",
-          "title": "Guerre en Ukraine : l’Europe « fait tout » pour contrecarrer les négociations sur l’Ukraine, accuse Sergueï Lavrov à l’ONU. Retrouvez les informations du 20 au 26 septembre.",
-          "description": "Le ministre des affaires étrangères russe s’est également entretenu avec son homologue allemand, Johann Wadephul, pour le premier entretien de ce genre depuis le début de l’invasion russe de l’Ukraine en février 2022.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-l-europe-fait-tout-pour-contrecarrer-les-negociations-sur-l-ukraine-accuse-serguei-lavrov-a-l-onu_6777944_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T18:17:31.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
-        },
-        {
-          "id": "2026-09-26-d94877a1",
-          "title": "La Russie accuse l'Europe de «tout faire» pour contrecarrer les plans de paix en Ukraine",
-          "description": "Le chef de la diplomatie russe, Sergueï Lavrov, a accusé samedi 26 septembre l'Europe de s'opposer systématiquement aux projets de paix en Ukraine, à rebours selon lui de la position des États-Unis.",
-          "url": "https://www.rfi.fr/fr/europe/20260926-la-russie-accuse-l-europe-de-tout-faire-pour-contrecarrer-les-plans-de-paix-en-ukraine",
-          "imageUrl": "https://s.rfi.fr/media/display/1b89779c-b9cc-11f1-8082-8f3418d01115/w:1024/p:16x9/AP26269574967954.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T17:43:34.000Z",
-          "fetchedAt": "2026-09-27T05:25:35.807Z"
-        },
-        {
-          "id": "2026-09-26-2f50ad91",
-          "title": "Nouvelles frappes russes et ukrainiennes, au moins 16 morts dans les deux camps",
-          "description": "Au moins 16 personnes ont été tuées, samedi, dans des frappes en Russie et en Ukraine, selon les autorités locales, dans un contexte d’intensification des attaques entre les deux pays. Des civils figurent parmi les victimes, notamment, côté ukrainien, à Zaporijia, Soumy, Dnipropetrovsk et Kiev.",
-          "url": "https://www.france24.com/fr/europe/20260926-nouvelles-frappes-russes-et-ukrainiennes-au-moins-16-morts-dans-les-deux-camps",
-          "imageUrl": "https://s.france24.com/media/display/561c25ac-b9be-11f1-8564-11fa9f8a3b4f/w:1024/p:16x9/2026-09-26T075107Z-778474444-RC2SQNAUPMBO-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T15:40:48.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.465Z"
+          "fetchedAt": "2026-09-27T08:22:12.974Z"
         }
       ]
     },
     {
-      "id": "cluster-16",
-      "topic": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz ; Téhéran",
+      "id": "cluster-27",
+      "topic": "À Los Angeles, le Lucas Museum offre un “fascinant” écrin à l’“art du peuple”",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-27-45a3c3b2",
-          "title": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz ; Téhéran « ne reviendra pas » sur ses conditions",
-          "description": "Les dirigeants iraniens veulent cet accord car « ils sont en train de méchamment perdre », a affirmé le président américain pour justifier sa décision. Dimanche, après le rejet du plan, Téhéran a maintenu sa position sur les modalités d’une réouverture du passage maritime stratégique.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/27/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz-teheran-ne-reviendra-pas-sur-ses-conditions_6783275_3211.html",
+          "id": "2026-09-27-a38a94a4",
+          "title": "À Los Angeles, le Lucas Museum offre un “fascinant” écrin à l’“art du peuple”",
+          "description": "George Lucas a cofondé et donné son nom à un musée de Los Angeles, le Lucas Museum of Narrative Art, ouvert au public depuis le 22 septembre. Plutôt qu’une plongée dans “Star Wars”, il permet d’explorer les collections éclectiques du cinéaste, dans la volonté affichée de mêler œuvres populaires et exigence artistique. Visite guidée en compagnie de Mary McNamara, chroniqueuse au “Los Angeles Times”.",
+          "url": "https://www.courrierinternational.com/long-format/inauguration-a-los-angeles-le-lucas-museum-offre-un-fascinant-ecrin-a-l-art-du-peuple_273427",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/22/1/0/4979/3319/1200/630/60/0/d4ab6b2_ftp-1-2fbrfzgr0dxu-2026-09-22t225029z-1711757085-rc2honaa7psr-rtrmadp-3-film-lucas-museum.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T03:00:21.000Z",
+          "fetchedAt": "2026-09-27T08:22:12.974Z"
+        },
+        {
+          "id": "2026-09-26-e5c17c47",
+          "title": "Belgique: faute de vaccination conforme, un chaton risque d’être renvoyé en Algérie ou euthanasié",
+          "description": "En Belgique, une propriétaire wallonne se bat pour garder son chat siamois âgé de neuf mois, né en Algérie. Mais un problème de vaccination pourrait entraîner l’euthanasie de l’animal ou son expulsion vers son pays d’origine. La propriétaire du chat était loin de s’imaginer que l’acquisition de l’animal allait entraîner autant de complications.",
+          "url": "https://www.rfi.fr/fr/europe/20260926-belgique-faute-de-vaccination-conforme-un-chaton-risque-d-%C3%AAtre-renvoy%C3%A9-en-alg%C3%A9rie-ou-euthanasi%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/4bd2cd78-aec7-11f1-97f5-005056a97e36/w:1024/p:16x9/L-%C5%93il-d-un-chat-%C3%A0-Gelsenkirchen-en-Allemagne-mercredi-8-juillet-2020.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-26T22:20:45.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.580Z"
+        },
+        {
+          "id": "2026-09-26-750d733d",
+          "title": "Espagne: une octogénaire expulsée de son logement devient le symbole d'un secteur en crise",
+          "description": "Des dizaines de milliers de personnes ont défilé samedi 26 septembre 2026 à Madrid pour protester contre l'expulsion d'une femme de 87 ans du logement qu'elle occupait depuis sept décennies, réclamant une meilleure protection pour les locataires.",
+          "url": "https://www.rfi.fr/fr/europe/20260926-espagne-une-octog%C3%A9naire-expuls%C3%A9e-de-son-logement-devient-le-symbole-d-un-secteur-en-crise",
+          "imageUrl": "https://s.rfi.fr/media/display/b3ed3ef0-b9eb-11f1-ac12-852b23529bb9/w:1024/p:16x9/AP26269737226345.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-26T22:17:53.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.580Z"
+        },
+        {
+          "id": "2026-09-26-23cf37b1",
+          "title": "Législatives en Israël: l'opposition veut faire front commun sans choisir de candidat unique",
+          "description": "À un mois tout juste des législatives du 27 octobre, les cinq principaux ténors de l’opposition israélienne se sont réunis samedi 26 septembre à Tel-Aviv. Problème de taille : ils sont incapables de désigner un leader commun pour défier Benyamin Netanyahu.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260926-l%C3%A9gislatives-en-isra%C3%ABl-l-opposition-veut-faire-front-commun-sans-choisir-de-candidat-unique",
+          "imageUrl": "https://s.rfi.fr/media/display/513f6cec-b9f5-11f1-b86c-8f3418d01115/w:1024/p:16x9/000-C9FU9NC.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-26T22:13:46.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.580Z"
+        },
+        {
+          "id": "2026-09-26-a997f41a",
+          "title": "Le chanteur marocain Saad Lamjarred condamné en appel à dix ans de prison pour le viol d'une femme en 2016",
+          "description": "Le chanteur marocain Saad Lamjarred a été condamné en appel, samedi 26 septembre 2026 à Créteil, à dix ans de réclusion criminelle pour viol aggravé. C’est quatre ans de plus que la peine prononcée en première instance, en 2023. Le parquet général avait requis huit ans. Très populaire au Maroc et dans le monde arabe, l’artiste de 41 ans a été condamné avec mandat de dépôt. Il a également été inscrit au fichier des auteurs d’infractions sexuelles.",
+          "url": "https://www.rfi.fr/fr/france/20260926-le-chanteur-marocain-saad-lamjarred-condamn%C3%A9-en-appel-%C3%A0-dix-ans-de-prison-pour-le-viol-d-une-femme-en-2016",
+          "imageUrl": "https://s.rfi.fr/media/display/a6b9761a-508a-11f1-bea6-005056bf30b7/w:1024/p:16x9/SAAD-LAMJARRED-MAROC-JUSTICE-FRANCE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-26T22:09:43.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.580Z"
+        },
+        {
+          "id": "2026-09-26-4adcd01d",
+          "title": "Au Venezuela, de nouvelles libérations de prisonniers politiques après un cycle de pourparlers entre pouvoir et opposition",
+          "description": "Le processus, engagé après la signature d’une loi d’amnistie en janvier, est jugé insuffisant par les ONG, qui dénoncent la lenteur des mesures prises par Caracas.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/26/au-venezuela-une-nouvelle-serie-de-liberations-de-prisonniers-politiques-apres-les-pourparlers-entre-le-pouvoir-et-l-opposition_6783578_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-27T03:21:14.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
-        },
-        {
-          "id": "2026-09-26-6096d6a1",
-          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-          "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T22:15:59.000Z",
-          "fetchedAt": "2026-09-27T05:25:35.817Z"
-        },
-        {
-          "id": "2026-09-26-18655b86",
-          "title": "Donald Trump refuse l'offre iranienne pour rouvrir le détroit d'Ormuz",
-          "description": "Le président américain Donald Trump a refusé la proposition iranienne de rouvrir le détroit d'Ormuz sous sept jours.",
-          "url": "https://www.rfi.fr/fr/monde/20260926-donald-trump-refuse-l-offre-iranienne-pour-rouvrir-le-d%C3%A9troit-d-ormuz",
-          "imageUrl": "https://s.rfi.fr/media/display/815da8ac-b40b-11f1-83e6-ed3d9e22a40f/w:1024/p:16x9/AP26261726847272.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T05:49:41.000Z",
-          "fetchedAt": "2026-09-27T05:25:35.807Z"
+          "publishedAt": "2026-09-26T21:50:28.000Z",
+          "fetchedAt": "2026-09-27T08:22:12.628Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Dois-je prévenir mon assurance avant de faire des travaux ?",
+      "id": "cluster-1",
+      "topic": "Star Wars : le réalisateur des films Spider-Man serait aux commandes d’une nouve",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-27-6cfb4c6a",
+          "title": "Star Wars : le réalisateur des films Spider-Man serait aux commandes d’une nouvelle trilogie Skywalker",
+          "description": "Disney et Lucasfilm n'en ont pas terminé avec la famille Skywalker. Alors que le chapitre semblait clôturé avec l'épisode IX, une nouvelle trilogie sur la lignée serait en préparation. Jon Watts, qui a réalisé trois film Spider-Man avec Tom Holland, serait à la barre.",
+          "url": "https://www.numerama.com/pop-culture/2341263-star-wars-le-realisateur-des-films-spider-man-serait-aux-commandes-dune-nouvelle-trilogie-skywalker.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/04/luke-skywalker-yelling-750x400-1.jpeg?resize=1600,900&key=1e6f2123",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-27T08:07:37.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.699Z"
+        },
+        {
+          "id": "2026-09-27-7dc56482",
+          "title": "« L’IApocalypse est une chimère qui nous fait oublier que le développement de l’intelligence artificielle est insoutenable à tous points de vue »",
+          "description": "Les dangers hautement hypothétiques de l’IA font disparaître la question des risques environnementaux, sociaux et politiques, observe, dans sa chronique, Stéphane Foucart, journaliste au service Planète.",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/27/l-iapocalypse-est-une-chimere-qui-nous-fait-oublier-que-le-developpement-de-l-intelligence-artificielle-est-insoutenable-a-tous-points-de-vue_6783758_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-27T04:00:58.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.836Z"
+        },
+        {
+          "id": "2026-09-27-6cae429f",
+          "title": "Comment, grâce à l’IA, le producteur Edward Saatchi veut recréer la fin perdue d’un chef-d’œuvre d’Orson Welles",
+          "description": "Fasciné par « La Splendeur des Amberson », d’Orson Welles, dont la fin a été dénaturée par la production, l’entrepreneur britannique souhaite ressusciter la version disparue grâce à l’intelligence artificielle. Un projet aussi ambitieux que controversé.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/27/comment-grace-a-l-ia-le-producteur-edward-saatchi-veut-recreer-la-fin-perdue-d-un-chef-d-uvre-d-orson-welles_6783680_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-27T03:00:10.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.836Z"
+        },
+        {
+          "id": "2026-09-26-94beb521",
+          "title": "Pour aider son fils dyslexique, ce père a créé un jeu gratuit qui apprend à taper au clavier",
+          "description": "Des lettres à détruire, des boss à affronter et un clavier à apprivoiser : avec Fort-Dactylo, Nicolas Drolo veut rendre l’apprentissage de la frappe plus ludique. Un jeu gratuit conçu avec son fils, à partir de ses difficultés à l’école.",
+          "url": "https://www.numerama.com/politique/2338981-pour-aider-son-fils-dyslexique-ce-pere-a-cree-un-jeu-gratuit-qui-apprend-a-taper-au-clavier.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/1-10.png?resize=1600,900&key=70fb6c57",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-26T16:28:00.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.699Z"
+        },
+        {
+          "id": "2026-09-26-fc23f668",
+          "title": "Un nouveau pays autorise le FSD, changement discret sur le Model Y L et fin du bonus sur certaines électriques : le récap’ Vroom de la semaine",
+          "description": "À la une sur Vroom cette semaine : la République Tchèque autorise le Tesla FSD, un changement discret pour camoufler un défaut sur le Model Y L et le changement de l'éco-score pourrait supprimer le bonus pour certaines voitures électriques.",
+          "url": "https://www.numerama.com/vroom/2340805-un-nouveau-pays-autorise-le-fsd-changement-discret-sur-le-model-y-l-et-fin-du-bonus-sur-certaines-electriques-le-recap-vroom-de-la-semaine.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/05/tesla-fsd-lituanie.jpg?resize=1600,900&key=993b1d90",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-26T15:41:00.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.699Z"
+        },
+        {
+          "id": "2026-09-26-f1dbc596",
+          "title": "Privés d’un outil destiné à récupérer des preuves numériques cruciales pour leurs enquêtes, des magistrats français interpellent le gouvernement",
+          "description": "Des textes européens permettant aux magistrats de solliciter de manière plus rapide, simple et fiable des éléments de preuves auprès des entreprises du numérique ne peuvent être appliqués en France. Des magistrats sonnent l’alerte.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/09/26/prives-d-un-outil-destine-a-recuperer-des-preuves-numeriques-cruciales-pour-leurs-enquetes-des-magistrats-francais-interpellent-le-gouvernement_6783055_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-26T05:00:07.000Z",
+          "fetchedAt": "2026-09-27T08:22:22.836Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "Baby bank's urgent appeal as demand for help grows",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-27-08ffddb5",
-          "title": "Dois-je prévenir mon assurance avant de faire des travaux ?",
-          "description": "Certains aménagements modifient le risque assuré et doivent être déclarés à l’assureur, rappelle Olivier Moustacakis, directeur général d’Assurland.com.",
-          "url": "https://www.lemonde.fr/argent/article/2026/09/27/dois-je-prevenir-mon-assurance-avant-de-faire-des-travaux_6783754_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-09-27-63064bdf",
+          "title": "Baby bank's urgent appeal as demand for help grows",
+          "description": "The founder of Leeds Baby Bank says the charity has seen a \"massive\" increase in referrals recently.",
+          "url": "https://www.bbc.co.uk/news/articles/c81dl1qkxg7xo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4066/live/5cd094e0-b8de-11f1-ba42-19e1456ae537.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-27T04:00:45.000Z",
-          "fetchedAt": "2026-09-27T05:25:39.910Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Decap is the man behind the drums behind your favorite song",
-      "category": "tech",
-      "importance": 6,
-      "articles": [
-        {
-          "id": "2026-09-26-24b39785",
-          "title": "Decap is the man behind the drums behind your favorite song",
-          "description": "Drums on film. | Image: Decap\t\n\nI don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig Göransson's score for Oppenheimer. \nNicholas Piantedosi, better known as Decap, is a record producer, but perhaps more importantly, he's the man behind Drums That Knock, a series of sample packs that have found their way onto countless records across genres. The line is so successful that, after debuting in 2016, it's now on its 11th …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-09-26T19:30:00.000Z",
-          "fetchedAt": "2026-09-27T05:25:39.967Z"
+          "publishedAt": "2026-09-27T07:54:19.000Z",
+          "fetchedAt": "2026-09-27T08:22:37.059Z"
         }
       ]
     }
