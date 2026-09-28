@@ -1,187 +1,176 @@
 {
-  "generatedAt": "2026-09-27T05:29:29.939Z",
+  "generatedAt": "2026-09-28T05:36:09.257Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "À Lourdes, le pape Léon XIV face à la question des violences sexuelles dans l’Ég",
+      "topic": "«On manque de tout»: les pompiers en grève campent au pied de la tour Eiffel",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-27-a2372dfb",
-          "title": "À Lourdes, le pape Léon XIV face à la question des violences sexuelles dans l’Église catholique",
-          "description": "Après deux jours à Paris où il a attiré plus d'un million de personnes, Léon XIV poursuit dimanche à Lourdes sa visite en France, avec une nouvelle messe et un rendez-vous très attendu avec des victimes de violences sexuelles dans l'Église.",
-          "url": "https://www.france24.com/fr/france/20260927-%C3%A0-lourdes-le-pape-l%C3%A9on-xiv-face-%C3%A0-la-question-des-violences-sexuelles-dans-l-%C3%A9glise-catholique",
-          "imageUrl": "https://s.france24.com/media/display/def54e7c-ba30-11f1-bd19-555a0aff87a4/w:1024/p:16x9/000-C8YW2LE.jpg",
+          "id": "2026-09-28-cf7b418e",
+          "title": "«On manque de tout»: les pompiers en grève campent au pied de la tour Eiffel",
+          "description": "Les sapeurs-pompiers en grève depuis le 8 septembre ont installé ce dimanche un campement au pied de la tour Eiffel. Objectif : une visibilité maximale pour alerter le gouvernement sur le manque de moyens après un été caniculaire qui a vu la multiplication des incendies. Venus de toutes les régions de France, ils se joindront à la grève dans le service public ce mardi. La profession ne cesse de le répéter : les pompiers sont à bout de souffle.",
+          "url": "https://www.rfi.fr/fr/france/20260928-on-manque-de-tout-les-pompiers-en-gr%C3%A8ve-campent-au-pied-de-la-tour-eiffel",
+          "imageUrl": "https://s.rfi.fr/media/display/5b8a3394-baf9-11f1-b378-555a0aff87a4/w:1024/p:16x9/000-C9GK4ED.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T05:20:22.000Z",
+          "fetchedAt": "2026-09-28T05:32:13.116Z"
+        },
+        {
+          "id": "2026-09-27-7a0e41c7",
+          "title": "Pompiers en grève : la mobilisation prend de l’ampleur au pied de la tour Eiffel",
+          "description": "Les pompiers professionnels poursuivent leur mobilisation pour dénoncer leurs conditions de travail et réclamer des moyens supplémentaires. Dimanche, huit syndicats de l’intersyndicale ont lancé à Paris leur \"colonne de renfort de la colère\", avant une déambulation et une participation à la manifestation de la fonction publique prévues les 28 et 29 septembre.",
+          "url": "https://www.france24.com/fr/france/20260927-pompiers-en-gr%C3%A8ve-la-mobilisation-prend-de-l-ampleur-au-pied-de-la-tour-eiffel",
+          "imageUrl": "https://s.france24.com/media/display/f8e5dcca-ba71-11f1-8081-11fa9f8a3b4f/w:1024/p:16x9/566195a79538088f96766fc1f35baa68293d2cd5.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-27T05:04:28.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.465Z"
+          "publishedAt": "2026-09-27T12:50:10.000Z",
+          "fetchedAt": "2026-09-28T05:32:08.903Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-6",
+      "topic": "Union européenne, Concordat… Pourquoi Léon XIV se rend-il à Metz?",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-28-595a5ee5",
+          "title": "Union européenne, Concordat… Pourquoi Léon XIV se rend-il à Metz?",
+          "description": "Après Paris et Lourdes, le pape Léon XIV termine ce lundi sa visite en France à Metz, dans le nord-est de l’Hexagone. Une étape moins attendue mais un choix chargé de sens. Sur cette terre longtemps déchirée par les guerres, Metz est devenue un symbole des prémices du projet européen. La préfecture de la Moselle jouit également d’un statut particulier au regard de l’Église : le Concordat. Ici, la loi de 1905 sur la séparation des Églises et de l’État ne s’applique pas.",
+          "url": "https://www.rfi.fr/fr/france/20260928-union-europ%C3%A9enne-concordat-pourquoi-l%C3%A9on-xiv-se-rend-il-%C3%A0-metz",
+          "imageUrl": "https://s.rfi.fr/media/display/fba64570-baf4-11f1-9fee-852b23529bb9/w:1024/p:16x9/AP26270732976043.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T04:43:35.000Z",
+          "fetchedAt": "2026-09-28T05:32:13.116Z"
         },
         {
-          "id": "2026-09-27-269bd1aa",
-          "title": "Visite du pape en France : les violences sexuelles au sein de l’Eglise, une « plaie encore ouverte » pour Léon XIV",
-          "description": "Dimanche 27 septembre, le souverain pontife doit rencontrer sept victimes, à Lourdes. Alors que les évêques français ont été à la pointe sur le sujet, grâce à la reconnaissance d’un phénomène systémique, les associations déplorent aujourd’hui un recul.",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/27/visite-du-pape-en-france-les-violences-sexuelles-au-sein-de-l-eglise-une-plaie-encore-ouverte-pour-leon-xiv_6783753_3224.html",
+          "id": "2026-09-28-155e8c09",
+          "title": "Poussée RN aux sénatoriales: \"Le plafond de verre se fendille encore un peu plus\"",
+          "description": "A la Une de la presse, ce lundi 28 septembre, la percée du Rassemblement national aux sénatoriales. L’enthousiasme des catholiques français pour la visite du pape Léon, qui a abordé, entre autres, les questions de l’euthanasie et des violences sexuelles au sein de l’Eglise. Un grand entretien avec la rabbine Delphine Horvilleur sur l’après-7-Octobre. L’inventivité des autorités chinoises pour augmenter le nombre de mariages. Et les pratiquants religieux face au sexe.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260928-pouss%C3%A9e-rn-aux-s%C3%A9natoriales-le-plafond-de-verre-se-fendille-encore-un-peu-plus",
+          "imageUrl": "https://s.france24.com/media/display/46079bee-baf2-11f1-8253-11fa9f8a3b4f/w:1024/p:16x9/1-LE-MONDE-SENAT.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T04:11:44.000Z",
+          "fetchedAt": "2026-09-28T05:32:08.903Z"
+        },
+        {
+          "id": "2026-09-28-ea658519",
+          "title": "El Niño, anatomie d’un monstre climatique",
+          "description": "Capable de provoquer des pluies diluviennes et des sécheresses intenses en divers endroits du globe, le phénomène El Niño inquiète. Et celui que nous traversons actuellement pourrait être le plus puissant jamais enregistré. Dans ce podcast, Perrine Mouterde, journaliste au « Monde », aide à comprendre cette anomalie climatique.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/09/28/el-nino-anatomie-d-un-monstre-climatique_6784764_5463015.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-27T04:00:43.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
+          "publishedAt": "2026-09-28T03:00:17.000Z",
+          "fetchedAt": "2026-09-28T05:32:08.593Z"
         },
         {
-          "id": "2026-09-26-095b7088",
-          "title": "Visite du pape en France : après deux jours intenses à Paris, Léon XIV est à Lourdes pour une fin de week-end qui sera marquée par la question des violences sexuelles dans l’Eglise catholique",
-          "description": "Léon XIV a effectué samedi un déplacement consacré à l’immigration et visité l’Institut catholique de Paris, parfois surnommé « la Catho », avant de descendre les Champs-Elysées en papamobile. Il a ensuite rejoint la place de la Concorde où, selon le Vatican, 700 000 personnes étaient présentes pour assister à une messe géante.",
-          "url": "https://www.lemonde.fr/societe/live/2026/09/26/visite-du-pape-en-france-apres-deux-jours-intenses-a-paris-leon-xiv-est-a-lourdes-pour-une-fin-de-week-end-qui-sera-marquee-par-la-question-des-violences-sexuelles-dans-l-eglise-catholique_6782008_3224.html",
+          "id": "2026-09-28-6184d308",
+          "title": "Au Sinaloa, une guerre sans fin qui “brise le cœur et l’âme d’un peuple”",
+          "description": "Le 13 septembre, des milliers de Mexicains ont bravé la peur pour manifester dans les rues de Culiacán contre la violence extrême provoquée par la guerre entre des factions rivales du cartel de Sinaloa, qui a fait près de 4 000 morts en deux ans. Autrefois vibrante, la capitale de l’État est devenue “une ville en souffrance et diminuée” où les gens se confinent, raconte cette tribune parue dans le quotidien conservateur “Excélsior”.",
+          "url": "https://www.courrierinternational.com/article/tribune-au-sinaloa-une-guerre-sans-fin-qui-brise-le-c-ur-et-l-ame-d-un-peuple_272045",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/22/193/0/2008/1338/1200/630/60/0/551d0e3_upload-1-7ndo7ay29bog-p-20-baca-copie-w.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T03:00:11.000Z",
+          "fetchedAt": "2026-09-28T05:32:08.851Z"
+        },
+        {
+          "id": "2026-09-28-b60fae4d",
+          "title": "En balayant la neutralité « totale » dans les urnes, la Suisse vote pour un pragmatisme atlantiste",
+          "description": "L’initiative de l’extrême droite a été rejetée massivement lors d’une votation dimanche 27 septembre. Les électeurs suisses ont validé le statu quo : une neutralité de façade, alignée sur le bloc occidental, et le maintien des sanctions contre la Russie.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/28/en-balayant-la-neutralite-totale-dans-les-urnes-la-suisse-vote-pour-un-pragmatisme-atlantiste_6784731_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-26T17:24:50.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
+          "publishedAt": "2026-09-28T03:00:06.000Z",
+          "fetchedAt": "2026-09-28T05:32:08.593Z"
+        },
+        {
+          "id": "2026-09-27-0bc6f308",
+          "title": "Nigeria: une fuite massive de gaz toxique menace l'existence du village de Bille dans le Delta du Niger [1/3]",
+          "description": "Le gouvernement fédéral du Nigeria a ordonné, il y a plusieurs mois, une enquête diligentée par la Commission nationale de régulation des activités d'exploration et de production pétrolières (NUPRC) dans une communauté abritant des installations de Shell. Depuis octobre 2025, du gaz s’est soudainement mis à jaillir dans le village de Bille à la surface, s’échappant à travers des canalisations vétustes, enfouies sous terre depuis des décennies. Ce qui semblait au départ être un incident isolé s’est rapidement propagé dans toute la localité : aujourd'hui un bruit constant, des bulles de gaz provenant des profondeurs sont devenus partie intégrante du quotidien. Notre correspondant au Nigeria, Moïse Gomis, s’est donc rendu à Bille, dans ce grand village de pêcheurs, accessible uniquement par bateau à 45 km de Port Harcourt.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260927-nigeria-une-fuite-massive-de-gaz-toxique-menace-l-existence-du-village-de-bille-dans-le-delta-du-niger-1-3",
+          "imageUrl": "https://s.rfi.fr/media/display/212dcdb4-bab3-11f1-a72f-852b23529bb9/w:1024/p:16x9/carte-nigeria-localisation-bille.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-27T22:02:27.000Z",
+          "fetchedAt": "2026-09-28T05:32:13.116Z"
         }
       ]
     },
     {
       "id": "cluster-9",
-      "topic": "EN DIRECT, guerre en Ukraine : une attaque russe dans l’oblast de Zaporijia fait",
+      "topic": "Cinq hommes soupçonnés de préparer un “acte terroriste” arrêtés près de la base ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-27-d3acedb3",
-          "title": "EN DIRECT, guerre en Ukraine : une attaque russe dans l’oblast de Zaporijia fait au moins un mort, selon les autorités locales",
-          "description": "Une femme a également été blessée et des habitations ont été détruites ou endommagées dans cette offensive, a affirmé Ivan Fedorov, chef de l’administration militaire régionale, dans la nuit de samedi à dimanche.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-une-attaque-russe-dans-la-region-de-zaporijia-fait-au-moins-un-mort-selon-les-autorites-locales_6783795_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-27T04:11:00.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
-        },
-        {
-          "id": "2026-09-27-4d3c68b6",
-          "title": "À l’ONU, la “tirade enflammée” contre l’Occident du ministre russe Sergueï Lavrov",
-          "description": "Lors d’un discours à l’Assemblée générale des Nations unies, le ministère des affaires étrangères a accusé les puissances européennes et les États-Unis de jouer les va-t-en-guerre en Ukraine. Il avait auparavant rencontré son homologue allemand. Une première depuis 2022.",
-          "url": "https://www.courrierinternational.com/article/diplomatie-a-l-onu-la-tirade-enflammee-contre-l-occident-du-ministre-russe-serguei-lavrov_274497",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/26/0/0/4000/2666/1200/630/60/0/e510429_ftp-1-xf7xpbpqrmtu-2026-09-26t163423z-744681254-rc24rnadqr2l-rtrmadp-3-un-assembly.JPG",
+          "id": "2026-09-28-0a008afc",
+          "title": "Cinq hommes soupçonnés de préparer un “acte terroriste” arrêtés près de la base de Fairford",
+          "description": "La police antiterroriste enquête sur un “incident majeur” survenu dimanche près de cette base militaire utilisée par l’armée de l’air américaine dans l’ouest de l’Angleterre. Selon la presse britannique, les enquêteurs cherchent à déterminer si l’Iran pourrait être lié à un possible projet d’attentat.",
+          "url": "https://www.courrierinternational.com/article/europe-au-royaume-uni-cinq-hommes-soupconnes-de-preparer-un-acte-terroriste-arretes-pres-de-la-base-de-fairford_274601",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/27/1/0/5500/3666/1200/630/60/0/d407659_ftp-1-aul7oy83usze-2026-09-27t151442z-1271387246-rc2qrnar90j1-rtrmadp-3-britain-usa-fairford.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-27T03:55:06.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.786Z"
+          "publishedAt": "2026-09-28T04:05:02.000Z",
+          "fetchedAt": "2026-09-28T05:32:08.851Z"
         },
         {
-          "id": "2026-09-26-6127840e",
-          "title": "Guerre en Ukraine : l’Europe « fait tout » pour contrecarrer les négociations sur l’Ukraine, accuse Sergueï Lavrov à l’ONU. Retrouvez les informations du 20 au 26 septembre.",
-          "description": "Le ministre des affaires étrangères russe s’est également entretenu avec son homologue allemand, Johann Wadephul, pour le premier entretien de ce genre depuis le début de l’invasion russe de l’Ukraine en février 2022.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-l-europe-fait-tout-pour-contrecarrer-les-negociations-sur-l-ukraine-accuse-serguei-lavrov-a-l-onu_6777944_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T18:17:31.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
-        },
-        {
-          "id": "2026-09-26-d94877a1",
-          "title": "La Russie accuse l'Europe de «tout faire» pour contrecarrer les plans de paix en Ukraine",
-          "description": "Le chef de la diplomatie russe, Sergueï Lavrov, a accusé samedi 26 septembre l'Europe de s'opposer systématiquement aux projets de paix en Ukraine, à rebours selon lui de la position des États-Unis.",
-          "url": "https://www.rfi.fr/fr/europe/20260926-la-russie-accuse-l-europe-de-tout-faire-pour-contrecarrer-les-plans-de-paix-en-ukraine",
-          "imageUrl": "https://s.rfi.fr/media/display/1b89779c-b9cc-11f1-8082-8f3418d01115/w:1024/p:16x9/AP26269574967954.jpg",
+          "id": "2026-09-27-6a7905f6",
+          "title": "Royaume-Uni: cinq hommes soupçonnés de préparer un «acte terroriste» arrêtés près d'une base aérienne",
+          "description": "Un incident majeur s’est produit ce dimanche 27 septembre près d’une base militaire américaine dans le sud-ouest de l’Angleterre. Cinq hommes ont été arrêtés et une partie de la population évacuée. La police antiterroriste a désormais été saisie. Que sait-on exactement de cette affaire, et quel pourrait être son lien avec l’Iran ?",
+          "url": "https://www.rfi.fr/fr/europe/20260927-royaume-uni-cinq-hommes-soup%C3%A7onn%C3%A9s-de-pr%C3%A9parer-un-acte-terroriste-arr%C3%AAt%C3%A9s-pr%C3%A8s-d-une-base-a%C3%A9rienne",
+          "imageUrl": "https://s.rfi.fr/media/display/96c6df52-ba81-11f1-8d70-11fa9f8a3b4f/w:1024/p:16x9/AP26270356408001.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-26T17:43:34.000Z",
-          "fetchedAt": "2026-09-27T05:25:35.807Z"
-        },
-        {
-          "id": "2026-09-26-2f50ad91",
-          "title": "Nouvelles frappes russes et ukrainiennes, au moins 16 morts dans les deux camps",
-          "description": "Au moins 16 personnes ont été tuées, samedi, dans des frappes en Russie et en Ukraine, selon les autorités locales, dans un contexte d’intensification des attaques entre les deux pays. Des civils figurent parmi les victimes, notamment, côté ukrainien, à Zaporijia, Soumy, Dnipropetrovsk et Kiev.",
-          "url": "https://www.france24.com/fr/europe/20260926-nouvelles-frappes-russes-et-ukrainiennes-au-moins-16-morts-dans-les-deux-camps",
-          "imageUrl": "https://s.france24.com/media/display/561c25ac-b9be-11f1-8564-11fa9f8a3b4f/w:1024/p:16x9/2026-09-26T075107Z-778474444-RC2SQNAUPMBO-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T15:40:48.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.465Z"
+          "publishedAt": "2026-09-27T15:07:50.000Z",
+          "fetchedAt": "2026-09-28T05:32:13.116Z"
         }
       ]
     },
     {
-      "id": "cluster-16",
-      "topic": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz ; Téhéran",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-27-45a3c3b2",
-          "title": "Donald Trump rejette le plan de réouverture iranien du détroit d’Ormuz ; Téhéran « ne reviendra pas » sur ses conditions",
-          "description": "Les dirigeants iraniens veulent cet accord car « ils sont en train de méchamment perdre », a affirmé le président américain pour justifier sa décision. Dimanche, après le rejet du plan, Téhéran a maintenu sa position sur les modalités d’une réouverture du passage maritime stratégique.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/27/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz-teheran-ne-reviendra-pas-sur-ses-conditions_6783275_3211.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-27T03:21:14.000Z",
-          "fetchedAt": "2026-09-27T05:25:29.489Z"
-        },
-        {
-          "id": "2026-09-26-6096d6a1",
-          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-          "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T22:15:59.000Z",
-          "fetchedAt": "2026-09-27T05:25:35.817Z"
-        },
-        {
-          "id": "2026-09-26-18655b86",
-          "title": "Donald Trump refuse l'offre iranienne pour rouvrir le détroit d'Ormuz",
-          "description": "Le président américain Donald Trump a refusé la proposition iranienne de rouvrir le détroit d'Ormuz sous sept jours.",
-          "url": "https://www.rfi.fr/fr/monde/20260926-donald-trump-refuse-l-offre-iranienne-pour-rouvrir-le-d%C3%A9troit-d-ormuz",
-          "imageUrl": "https://s.rfi.fr/media/display/815da8ac-b40b-11f1-83e6-ed3d9e22a40f/w:1024/p:16x9/AP26261726847272.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-26T05:49:41.000Z",
-          "fetchedAt": "2026-09-27T05:25:35.807Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Dois-je prévenir mon assurance avant de faire des travaux ?",
+      "id": "cluster-4",
+      "topic": "Fragilisés par les demandes de trains sur mesure, les constructeurs ferroviaires",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-27-08ffddb5",
-          "title": "Dois-je prévenir mon assurance avant de faire des travaux ?",
-          "description": "Certains aménagements modifient le risque assuré et doivent être déclarés à l’assureur, rappelle Olivier Moustacakis, directeur général d’Assurland.com.",
-          "url": "https://www.lemonde.fr/argent/article/2026/09/27/dois-je-prevenir-mon-assurance-avant-de-faire-des-travaux_6783754_1657007.html",
+          "id": "2026-09-28-c558e52e",
+          "title": "Fragilisés par les demandes de trains sur mesure, les constructeurs ferroviaires appellent leurs clients à plus de standardisation",
+          "description": "En dépit de carnets de commandes bien remplis, les constructeurs européens peinent à rentabiliser des contrats portant sur de petites séries personnalisées. En obtenant des trains plus standardisés, Alstom et CAF espèrent réduire leurs coûts et raccourcir les délais.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/28/fragilises-par-les-demandes-de-trains-sur-mesure-les-constructeurs-ferroviaires-appellent-leurs-clients-a-plus-de-standardisation_6784912_3234.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-09-27T04:00:45.000Z",
-          "fetchedAt": "2026-09-27T05:25:39.910Z"
+          "publishedAt": "2026-09-28T05:00:49.000Z",
+          "fetchedAt": "2026-09-28T05:32:15.879Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Decap is the man behind the drums behind your favorite song",
+      "topic": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
       "category": "tech",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-09-26-24b39785",
-          "title": "Decap is the man behind the drums behind your favorite song",
-          "description": "Drums on film. | Image: Decap\t\n\nI don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig Göransson's score for Oppenheimer. \nNicholas Piantedosi, better known as Decap, is a record producer, but perhaps more importantly, he's the man behind Drums That Knock, a series of sample packs that have found their way onto countless records across genres. The line is so successful that, after debuting in 2016, it's now on its 11th …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-09-27-8c713beb",
+          "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+          "description": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not graphically impressive. It's not a blast of simple arcade fun. It is basically a spreadsheet pretending to be a video game. It's fantasy baseball, but without having to wait six months to see how disappointing that sleeper draft pick will be, because you can plow through an entire season in as little as a few hours.\nYou can play individual games and dig in …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-09-26T19:30:00.000Z",
-          "fetchedAt": "2026-09-27T05:25:39.967Z"
+          "publishedAt": "2026-09-27T21:59:57.000Z",
+          "fetchedAt": "2026-09-28T05:32:15.992Z"
         }
       ]
     }
