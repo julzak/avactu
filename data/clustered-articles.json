@@ -1,176 +1,242 @@
 {
-  "generatedAt": "2026-09-28T05:36:09.257Z",
+  "generatedAt": "2026-09-29T05:54:15.145Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "«On manque de tout»: les pompiers en grève campent au pied de la tour Eiffel",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-28-cf7b418e",
-          "title": "«On manque de tout»: les pompiers en grève campent au pied de la tour Eiffel",
-          "description": "Les sapeurs-pompiers en grève depuis le 8 septembre ont installé ce dimanche un campement au pied de la tour Eiffel. Objectif : une visibilité maximale pour alerter le gouvernement sur le manque de moyens après un été caniculaire qui a vu la multiplication des incendies. Venus de toutes les régions de France, ils se joindront à la grève dans le service public ce mardi. La profession ne cesse de le répéter : les pompiers sont à bout de souffle.",
-          "url": "https://www.rfi.fr/fr/france/20260928-on-manque-de-tout-les-pompiers-en-gr%C3%A8ve-campent-au-pied-de-la-tour-eiffel",
-          "imageUrl": "https://s.rfi.fr/media/display/5b8a3394-baf9-11f1-b378-555a0aff87a4/w:1024/p:16x9/000-C9GK4ED.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-28T05:20:22.000Z",
-          "fetchedAt": "2026-09-28T05:32:13.116Z"
-        },
-        {
-          "id": "2026-09-27-7a0e41c7",
-          "title": "Pompiers en grève : la mobilisation prend de l’ampleur au pied de la tour Eiffel",
-          "description": "Les pompiers professionnels poursuivent leur mobilisation pour dénoncer leurs conditions de travail et réclamer des moyens supplémentaires. Dimanche, huit syndicats de l’intersyndicale ont lancé à Paris leur \"colonne de renfort de la colère\", avant une déambulation et une participation à la manifestation de la fonction publique prévues les 28 et 29 septembre.",
-          "url": "https://www.france24.com/fr/france/20260927-pompiers-en-gr%C3%A8ve-la-mobilisation-prend-de-l-ampleur-au-pied-de-la-tour-eiffel",
-          "imageUrl": "https://s.france24.com/media/display/f8e5dcca-ba71-11f1-8081-11fa9f8a3b4f/w:1024/p:16x9/566195a79538088f96766fc1f35baa68293d2cd5.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-27T12:50:10.000Z",
-          "fetchedAt": "2026-09-28T05:32:08.903Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "Union européenne, Concordat… Pourquoi Léon XIV se rend-il à Metz?",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-28-595a5ee5",
-          "title": "Union européenne, Concordat… Pourquoi Léon XIV se rend-il à Metz?",
-          "description": "Après Paris et Lourdes, le pape Léon XIV termine ce lundi sa visite en France à Metz, dans le nord-est de l’Hexagone. Une étape moins attendue mais un choix chargé de sens. Sur cette terre longtemps déchirée par les guerres, Metz est devenue un symbole des prémices du projet européen. La préfecture de la Moselle jouit également d’un statut particulier au regard de l’Église : le Concordat. Ici, la loi de 1905 sur la séparation des Églises et de l’État ne s’applique pas.",
-          "url": "https://www.rfi.fr/fr/france/20260928-union-europ%C3%A9enne-concordat-pourquoi-l%C3%A9on-xiv-se-rend-il-%C3%A0-metz",
-          "imageUrl": "https://s.rfi.fr/media/display/fba64570-baf4-11f1-9fee-852b23529bb9/w:1024/p:16x9/AP26270732976043.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-28T04:43:35.000Z",
-          "fetchedAt": "2026-09-28T05:32:13.116Z"
-        },
-        {
-          "id": "2026-09-28-155e8c09",
-          "title": "Poussée RN aux sénatoriales: \"Le plafond de verre se fendille encore un peu plus\"",
-          "description": "A la Une de la presse, ce lundi 28 septembre, la percée du Rassemblement national aux sénatoriales. L’enthousiasme des catholiques français pour la visite du pape Léon, qui a abordé, entre autres, les questions de l’euthanasie et des violences sexuelles au sein de l’Eglise. Un grand entretien avec la rabbine Delphine Horvilleur sur l’après-7-Octobre. L’inventivité des autorités chinoises pour augmenter le nombre de mariages. Et les pratiquants religieux face au sexe.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260928-pouss%C3%A9e-rn-aux-s%C3%A9natoriales-le-plafond-de-verre-se-fendille-encore-un-peu-plus",
-          "imageUrl": "https://s.france24.com/media/display/46079bee-baf2-11f1-8253-11fa9f8a3b4f/w:1024/p:16x9/1-LE-MONDE-SENAT.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-28T04:11:44.000Z",
-          "fetchedAt": "2026-09-28T05:32:08.903Z"
-        },
-        {
-          "id": "2026-09-28-ea658519",
-          "title": "El Niño, anatomie d’un monstre climatique",
-          "description": "Capable de provoquer des pluies diluviennes et des sécheresses intenses en divers endroits du globe, le phénomène El Niño inquiète. Et celui que nous traversons actuellement pourrait être le plus puissant jamais enregistré. Dans ce podcast, Perrine Mouterde, journaliste au « Monde », aide à comprendre cette anomalie climatique.",
-          "url": "https://www.lemonde.fr/podcasts/article/2026/09/28/el-nino-anatomie-d-un-monstre-climatique_6784764_5463015.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-28T03:00:17.000Z",
-          "fetchedAt": "2026-09-28T05:32:08.593Z"
-        },
-        {
-          "id": "2026-09-28-6184d308",
-          "title": "Au Sinaloa, une guerre sans fin qui “brise le cœur et l’âme d’un peuple”",
-          "description": "Le 13 septembre, des milliers de Mexicains ont bravé la peur pour manifester dans les rues de Culiacán contre la violence extrême provoquée par la guerre entre des factions rivales du cartel de Sinaloa, qui a fait près de 4 000 morts en deux ans. Autrefois vibrante, la capitale de l’État est devenue “une ville en souffrance et diminuée” où les gens se confinent, raconte cette tribune parue dans le quotidien conservateur “Excélsior”.",
-          "url": "https://www.courrierinternational.com/article/tribune-au-sinaloa-une-guerre-sans-fin-qui-brise-le-c-ur-et-l-ame-d-un-peuple_272045",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/22/193/0/2008/1338/1200/630/60/0/551d0e3_upload-1-7ndo7ay29bog-p-20-baca-copie-w.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-28T03:00:11.000Z",
-          "fetchedAt": "2026-09-28T05:32:08.851Z"
-        },
-        {
-          "id": "2026-09-28-b60fae4d",
-          "title": "En balayant la neutralité « totale » dans les urnes, la Suisse vote pour un pragmatisme atlantiste",
-          "description": "L’initiative de l’extrême droite a été rejetée massivement lors d’une votation dimanche 27 septembre. Les électeurs suisses ont validé le statu quo : une neutralité de façade, alignée sur le bloc occidental, et le maintien des sanctions contre la Russie.",
-          "url": "https://www.lemonde.fr/international/article/2026/09/28/en-balayant-la-neutralite-totale-dans-les-urnes-la-suisse-vote-pour-un-pragmatisme-atlantiste_6784731_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-28T03:00:06.000Z",
-          "fetchedAt": "2026-09-28T05:32:08.593Z"
-        },
-        {
-          "id": "2026-09-27-0bc6f308",
-          "title": "Nigeria: une fuite massive de gaz toxique menace l'existence du village de Bille dans le Delta du Niger [1/3]",
-          "description": "Le gouvernement fédéral du Nigeria a ordonné, il y a plusieurs mois, une enquête diligentée par la Commission nationale de régulation des activités d'exploration et de production pétrolières (NUPRC) dans une communauté abritant des installations de Shell. Depuis octobre 2025, du gaz s’est soudainement mis à jaillir dans le village de Bille à la surface, s’échappant à travers des canalisations vétustes, enfouies sous terre depuis des décennies. Ce qui semblait au départ être un incident isolé s’est rapidement propagé dans toute la localité : aujourd'hui un bruit constant, des bulles de gaz provenant des profondeurs sont devenus partie intégrante du quotidien. Notre correspondant au Nigeria, Moïse Gomis, s’est donc rendu à Bille, dans ce grand village de pêcheurs, accessible uniquement par bateau à 45 km de Port Harcourt.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260927-nigeria-une-fuite-massive-de-gaz-toxique-menace-l-existence-du-village-de-bille-dans-le-delta-du-niger-1-3",
-          "imageUrl": "https://s.rfi.fr/media/display/212dcdb4-bab3-11f1-a72f-852b23529bb9/w:1024/p:16x9/carte-nigeria-localisation-bille.png",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-27T22:02:27.000Z",
-          "fetchedAt": "2026-09-28T05:32:13.116Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "Cinq hommes soupçonnés de préparer un “acte terroriste” arrêtés près de la base ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-28-0a008afc",
-          "title": "Cinq hommes soupçonnés de préparer un “acte terroriste” arrêtés près de la base de Fairford",
-          "description": "La police antiterroriste enquête sur un “incident majeur” survenu dimanche près de cette base militaire utilisée par l’armée de l’air américaine dans l’ouest de l’Angleterre. Selon la presse britannique, les enquêteurs cherchent à déterminer si l’Iran pourrait être lié à un possible projet d’attentat.",
-          "url": "https://www.courrierinternational.com/article/europe-au-royaume-uni-cinq-hommes-soupconnes-de-preparer-un-acte-terroriste-arretes-pres-de-la-base-de-fairford_274601",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/27/1/0/5500/3666/1200/630/60/0/d407659_ftp-1-aul7oy83usze-2026-09-27t151442z-1271387246-rc2qrnar90j1-rtrmadp-3-britain-usa-fairford.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-28T04:05:02.000Z",
-          "fetchedAt": "2026-09-28T05:32:08.851Z"
-        },
-        {
-          "id": "2026-09-27-6a7905f6",
-          "title": "Royaume-Uni: cinq hommes soupçonnés de préparer un «acte terroriste» arrêtés près d'une base aérienne",
-          "description": "Un incident majeur s’est produit ce dimanche 27 septembre près d’une base militaire américaine dans le sud-ouest de l’Angleterre. Cinq hommes ont été arrêtés et une partie de la population évacuée. La police antiterroriste a désormais été saisie. Que sait-on exactement de cette affaire, et quel pourrait être son lien avec l’Iran ?",
-          "url": "https://www.rfi.fr/fr/europe/20260927-royaume-uni-cinq-hommes-soup%C3%A7onn%C3%A9s-de-pr%C3%A9parer-un-acte-terroriste-arr%C3%AAt%C3%A9s-pr%C3%A8s-d-une-base-a%C3%A9rienne",
-          "imageUrl": "https://s.rfi.fr/media/display/96c6df52-ba81-11f1-8d70-11fa9f8a3b4f/w:1024/p:16x9/AP26270356408001.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-27T15:07:50.000Z",
-          "fetchedAt": "2026-09-28T05:32:13.116Z"
-        }
-      ]
-    },
-    {
       "id": "cluster-4",
-      "topic": "Fragilisés par les demandes de trains sur mesure, les constructeurs ferroviaires",
+      "topic": "Moscou et Washington, même combat, des détecteurs de mensonge au Pentagone, et l",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-29-9e2ed774",
+          "title": "Moscou et Washington, même combat, des détecteurs de mensonge au Pentagone, et le camion d’Elon Musk",
+          "description": "L’innovation, les start-up et les Gafam… Chaque semaine, l’actualité de la Silicon Valley vue par les médias américains.",
+          "url": "https://www.courrierinternational.com/article/la-lettre-tech-moscou-et-washington-meme-combat-des-detecteurs-de-mensonge-au-pentagone-et-le-camion-d-elon-musk_274669",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/28/0/0/3881/2587/1200/630/60/0/d089d3f_upload-1-9lfpwkuomunl-pete-hegseth.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-29T05:03:14.000Z",
+          "fetchedAt": "2026-09-29T05:50:14.917Z"
+        },
+        {
+          "id": "2026-09-29-0b9ae4a9",
+          "title": "Asphyxiés par la politique de Trump, les agriculteurs de l’Iowa sont à bout de patience",
+          "description": "Les droits de douane et les prix élevés du pétrole pèsent lourd sur l’économie de cet État agricole du Midwest. Les républicains pourraient en faire les frais lors des élections de mi-mandat en novembre . Reportage du “Christian Science Monitor”.",
+          "url": "https://www.courrierinternational.com/article/reportage-asphyxies-par-la-politique-de-trump-les-agriculteurs-de-l-iowa-sont-a-bout-de-patience_269186",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/25/274/0/6207/4138/1200/630/60/0/3cbf7b1_upload-1-shcoaz7e2pft-212709-copie.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-29T03:00:26.000Z",
+          "fetchedAt": "2026-09-29T05:50:14.917Z"
+        },
+        {
+          "id": "2026-09-28-41cea34a",
+          "title": "Washington révoque les visas de responsables de quatre pays d’Amérique latine, dont des magistrats",
+          "description": "En Bolivie, 21 personnes, dont plusieurs juges, voient leurs visas révoqués ou, s’ils ne sont pas en possession d’un tel document, sont interdits d’entrée sur le sol américain.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/29/washington-revoque-les-visas-de-responsables-de-quatre-pays-d-amerique-latine-dont-des-juges_6785244_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T23:21:08.000Z",
+          "fetchedAt": "2026-09-29T05:50:14.758Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-12",
+      "topic": "Écrits antisémites attribués à Bardella : un “coup dur pour la dédiabolisation d",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-29-04a857f9",
+          "title": "Écrits antisémites attribués à Bardella : un “coup dur pour la dédiabolisation du RN”",
+          "description": "“Mediapart” a publié lundi des messages antisémites datant de 2013 attribués à Jordan Bardella alors qu’il était jeune militant du Front national. Ces révélations constituent, pour le parti d’extrême droite, “un coup de tonnerre dans un ciel jusque-là sans nuages sur le chemin de l’Élysée”, observe la presse européenne.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-ecrits-antisemites-attribues-a-bardella-un-coup-dur-pour-la-dediabolisation-du-rn_274926",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/13/2/0/3921/2614/1200/630/60/0/f0b25c3_ftp-1-jt7q0lze2sl5-2026-09-13t133229z-2062945901-rc2dinatfs4k-rtrmadp-3-france-politics-rn.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-29T04:08:43.000Z",
+          "fetchedAt": "2026-09-29T05:50:14.917Z"
+        },
+        {
+          "id": "2026-09-28-33467723",
+          "title": "France: Mediapart rapporte des écrits antisémites attribués à Bardella en 2013, le président du RN dément",
+          "description": "Mediapart a rapporté lundi des écrits antisémites datant de 2013 attribués à Jordan Bardella, alors jeune militant du Front national. Le président du RN conteste « formellement », évoquant des « faux grossiers », Marine Le Pen, la candidate du parti à l'Élysée, dénonçant pour sa part « une barbouzerie ».",
+          "url": "https://www.rfi.fr/fr/france/20260928-france-mediapart-rapporte-des-%C3%A9crits-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-bardella-en-2013-le-pr%C3%A9sident-du-rn-d%C3%A9ment",
+          "imageUrl": "https://s.rfi.fr/media/display/1f01a2ca-3c90-11ef-825e-005056a90284/w:1024/p:16x9/2024-07-07T183654Z_1952271647_UP1EK771FPGUG_RTRMADP_3_FRANCE-ELECTION.JPG",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T16:02:36.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.444Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-34",
+      "topic": "À Pontoise, un manque criant de moyens, notamment pour l'inclusion des enfants e",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-28-7ad43106",
+          "title": "À Pontoise, un manque criant de moyens, notamment pour l'inclusion des enfants en situation de handicap",
+          "description": "À deux jours de la présentation du budget pour 2027, plus de 150 manifestations sont prévues à travers la France ce mardi 29 septembre. Les défilés s'accompagneront de mouvements de grèves dans les services publics comme les établissements scolaires. À l'école élémentaire Paul Cézanne, à Pontoise, à une trentaine de kilomètres au nord-ouest de Paris, la grève est particulièrement bien suivie. Elle illustre les effets d'un budget toujours revu à la baisse.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20260928-%C3%A0-pontoise-un-manque-criant-de-moyens-notamment-pour-l-inclusion-des-enfants-en-situation-de-handicap",
+          "imageUrl": "https://s.rfi.fr/media/display/66fcdc3e-bb5f-11f1-93cd-177f79e345bf/w:1024/p:16x9/000-B8P82G3.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T22:06:01.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.444Z"
+        },
+        {
+          "id": "2026-09-28-1356dfbe",
+          "title": "Espagne: Maricarmen Abascal retrouve son logement alors que la mobilisation pour un décret-loi continue",
+          "description": "L'avocat de Maricarmen Abascal, l'octogénaire devenue symbole de la crise du logement, a annoncé ce 28 septembre qu'elle pourrait retrouver son habitation, alors que se déroule la troisième nuit consécutive sous les tentes à la Puerta del Sol en plein centre de Madrid. Les manifestants maintiennent la pression sur le gouvernement alors que va être présenté au Parlement le décret-loi sur le logement.",
+          "url": "https://www.rfi.fr/fr/europe/20260928-espagne-maricarmen-abascal-retrouve-son-logement-alors-que-la-mobilisation-pour-un-d%C3%A9cret-loi-continue",
+          "imageUrl": "https://s.rfi.fr/media/display/3bc6562a-bb7e-11f1-b810-8f3418d01115/w:1024/p:16x9/AP26271419036634.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T21:47:08.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.444Z"
+        },
+        {
+          "id": "2026-09-28-2dfb2d86",
+          "title": "Projet d’attaque à Fairford : l’IA invente un visage aux suspects",
+          "description": "Dans la foulée de la tentative d'attaque près de la base aérienne de Fairford, au Royaume-Uni, ont circulé sur les réseaux sociaux des clichés présentés comme étant ceux de l'interpellation des cinq suspects,  libérés depuis sous caution. Tirés d'une vrai photographie, ils ont été falsifiés à l'aide de l'intelligence artificielle.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260928-projet-d-attaque-%C3%A0-fairford-l-ia-invente-un-visage-aux-suspects",
+          "imageUrl": "https://s.france24.com/media/display/1d9ef020-bb7f-11f1-aa8e-177f79e345bf/w:1024/p:16x9/FRAN260928-2220-Live-CS2220.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T21:12:49.000Z",
+          "fetchedAt": "2026-09-29T05:50:14.847Z"
+        },
+        {
+          "id": "2026-09-28-99e06068",
+          "title": "Ligue des nations: Zidane réussit son premier coup d’éclat avec une équipe remaniée",
+          "description": "Avec une équipe largement remaniée et plusieurs néophytes titularisés, Zinedine Zidane a signé une victoire pleine d’audace face à la Belgique (1-0). Dominatrice mais longtemps maladroite, l’équipe de France a fait la différence en fin de match grâce à une inspiration de Michaël Olise, validant le pari gagnant de son nouveau sélectionneur.",
+          "url": "https://www.rfi.fr/fr/sports/20260928-ligue-des-nations-zidane-r%C3%A9ussit-son-premier-coup-d-%C3%A9clat-avec-une-%C3%A9quipe-remani%C3%A9e",
+          "imageUrl": "https://s.rfi.fr/media/display/eb1d5628-bb7e-11f1-b282-852b23529bb9/w:1024/p:16x9/AP26271746854370.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T20:48:00.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.444Z"
+        },
+        {
+          "id": "2026-09-28-8b2527b5",
+          "title": "Éliminatoires de la CAN 2027 : la RD Congo enchaîne un deuxième succès face au Zimbabwe",
+          "description": "La RD Congo s'est imposée face au Zimbabwe (2-1) lundi au National Sports Stadium d'Harare, pour la deuxième journée du groupe E comptant pour les éliminatoires de la CAN 2027. Comme face à la Guinée équatoriale, les Léopards ont maîtrisé leur sujet face à des Guerriers valeureux, notamment grâce à Yoane Wissa.",
+          "url": "https://www.france24.com/fr/sports/20260928-%C3%A9liminatoires-can-2027-r%C3%A9sum%C3%A9-zimbabwe-rd-congo",
+          "imageUrl": "https://s.france24.com/media/display/02ae6512-bb60-11f1-8ad1-555a0aff87a4/w:1024/p:16x9/000-B7FL2HB.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T18:02:28.000Z",
+          "fetchedAt": "2026-09-29T05:50:14.847Z"
+        },
+        {
+          "id": "2026-09-28-a450397a",
+          "title": "L'Union européenne veut renforcer sa riposte face aux attaques hybrides russes avec un protocole d'urgence",
+          "description": "Les 27 ministres de la Défense de l’Union européenne se sont penchés ce lundi sur les travaux en vue d’un protocole d’urgence pour faire face aux menaces hybrides. C’est un premier pas vers un rôle militaire accru qui donnerait à l’Union européenne des compétences qui ressemblent en partie à celles de l’Otan.",
+          "url": "https://www.rfi.fr/fr/europe/20260928-l-union-europ%C3%A9enne-veut-renforcer-sa-riposte-face-aux-attaques-hybrides-russes-avec-un-protocole-d-urgence",
+          "imageUrl": "https://s.rfi.fr/media/display/8729b222-bb62-11f1-b6c3-177f79e345bf/w:1024/p:16x9/000-C4VA3T6.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-28T17:42:54.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.444Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-15",
+      "topic": "Affaire Thélyson Orélien : « Que cette campagne virulente prenne à nouveau pour ",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-09-28-b5686fcd",
+          "title": "Affaire Thélyson Orélien : « Que cette campagne virulente prenne à nouveau pour cible une personne racisée devrait inciter à la vigilance »",
+          "description": "Un écrivain qui a recours à l’intelligence artificielle a bien agi en tant qu’auteur, retenant ou écartant certaines propositions faites par l’IA au gré de sa sensibilité et de son intelligence, estime le professeur de littérature Benjamin Hoffmann, dans une tribune au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/28/affaire-thelyson-orelien-que-cette-campagne-virulente-prenne-a-nouveau-pour-cible-une-personne-racisee-devrait-inciter-a-la-vigilance_6785105_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-09-28T18:00:09.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.408Z"
+        },
+        {
+          "id": "2026-09-28-5aa18380",
+          "title": "Starship : et s’il y a un problème autour de la Terre et que le vol orbital tourne mal ?",
+          "description": "Sur le papier, tout est censé bien se dérouler. La fusée géante Starship doit réussir son tout premier vol orbital ce lundi 28 septembre. Mais il y a aussi la possibilité d'un loupé. Voilà ce que SpaceX dit avoir prévu.",
+          "url": "https://www.numerama.com/sciences/2341985-starship-et-sil-y-a-un-probleme-autour-de-la-terre-et-que-le-vol-orbital-tourne-mal.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2023/04/explosion-starship.jpg?resize=1600,900&key=986671e3",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-28T14:56:01.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.493Z"
+        },
+        {
+          "id": "2026-09-28-5de9a934",
+          "title": "Dacia Hipster : une petite voiture électrique à 11 000 euros arrivera dès 2027",
+          "description": "Dacia produirait en 2027 en Chine sa petite voiture électrique Hipster, pour un prix visé d'environ 9 500 livres au Royaume-Uni, soit environ 11 000 euros.",
+          "url": "https://www.numerama.com/vroom/2341743-dacia-hipster-une-petite-voiture-electrique-a-11-000-euros-arrivera-des-2027.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/10/dacia-hipster-concept-5.jpg?resize=1600,900&key=1b0af420",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-28T14:43:40.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.493Z"
+        },
+        {
+          "id": "2026-09-28-e66c4510",
+          "title": "Test de FC 27 : un open world désastreux, des bugs dans tous les sens et de rares améliorations",
+          "description": "Fidèle à sa réputation de jeu qui ne change presque rien d'une année sur l'autre, EA Sports FC 27 donne une immense impression de déjà-vu tout en améliorant enfin certains modes délaissés comme le mode carrière. Mais l'héritier de FIFA incarne aussi ce qu'il y a de pire dans l'industrie du jeu vidéo : des bugs inadmissibles pour un jeu vendu comme finalisé, des nouveautés seulement pensées pour vendre des crédits et un open world, The Grounds, qui a tout d'une parodie de jeu vidéo (ou d'un remake du PlayStation Home de la PS3). J'y ai joué plus de 10 heures.",
+          "url": "https://www.numerama.com/pop-culture/2341619-test-de-fc-27-un-open-world-desastreux-des-bugs-dans-tous-les-sens-et-de-rares-ameliorations.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/fc-27-mbappe.jpg?resize=1600,900&key=e8002a8f",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-28T14:38:07.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.493Z"
+        },
+        {
+          "id": "2026-09-28-afa7e612",
+          "title": "Lanterns : James Gunn recadre sèchement les fans qui critiquent la série phare de DC",
+          "description": "James Gunn, co-CEO de DC Studios, a répondu le 21 septembre sur Threads aux fans de comics furieux du sort réservé à Hal Jordan dans Lanterns, la série DC de HBO Max. Pour lui, le héros reste la vedette de la série, et le DCU ne suivra pas les comics à la lettre.",
+          "url": "https://www.numerama.com/pop-culture/2341869-lanterns-james-gunn-recadre-sechement-les-fans-qui-critiquent-la-serie-phare-de-dc.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/05/dc-lanterns-trailer-kyle-chandler-hal-jordan-0.jpg?resize=1600,900&key=261f9450",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-28T14:13:03.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.493Z"
+        },
+        {
+          "id": "2026-09-28-be42a5d8",
+          "title": "Une fausse voix d’avocat générée par IA coûte 95 millions d’euros à une grande banque italienne",
+          "description": "Des escrocs auraient soutiré 95 millions d'euros à Fideuram, filiale de banque privée d'Intesa Sanpaolo, en usurpant l'identité de son patron sur WhatsApp puis en clonant par IA la voix d'un avocat. Plus d'un tiers de la somme reste introuvable.",
+          "url": "https://www.numerama.com/cyberguerre/2341839-une-fausse-voix-davocat-generee-par-ia-coute-95-millions-deuros-a-une-grande-banque-italienne.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/design-sans-titre-2026-09-28t150934668.png?resize=1600,900&key=0d0259df",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-09-28T13:20:20.000Z",
+          "fetchedAt": "2026-09-29T05:50:20.493Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Food waste charity gets grant for rising costs",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-28-c558e52e",
-          "title": "Fragilisés par les demandes de trains sur mesure, les constructeurs ferroviaires appellent leurs clients à plus de standardisation",
-          "description": "En dépit de carnets de commandes bien remplis, les constructeurs européens peinent à rentabiliser des contrats portant sur de petites séries personnalisées. En obtenant des trains plus standardisés, Alstom et CAF espèrent réduire leurs coûts et raccourcir les délais.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/28/fragilises-par-les-demandes-de-trains-sur-mesure-les-constructeurs-ferroviaires-appellent-leurs-clients-a-plus-de-standardisation_6784912_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-09-29-e29e8dc0",
+          "title": "Food waste charity gets grant for rising costs",
+          "description": "The charity received a £60,000 grant, over three years, from Shrewsbury Town Council.",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7kk95zxylo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f03a/live/d00e1910-b8f1-11f1-b1d1-571ed4d7ff2c.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-28T05:00:49.000Z",
-          "fetchedAt": "2026-09-28T05:32:15.879Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
-      "category": "tech",
-      "importance": 6,
-      "articles": [
-        {
-          "id": "2026-09-27-8c713beb",
-          "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
-          "description": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not graphically impressive. It's not a blast of simple arcade fun. It is basically a spreadsheet pretending to be a video game. It's fantasy baseball, but without having to wait six months to see how disappointing that sleeper draft pick will be, because you can plow through an entire season in as little as a few hours.\nYou can play individual games and dig in …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-09-27T21:59:57.000Z",
-          "fetchedAt": "2026-09-28T05:32:15.992Z"
+          "publishedAt": "2026-09-29T05:26:50.000Z",
+          "fetchedAt": "2026-09-29T05:50:27.431Z"
         }
       ]
     }
