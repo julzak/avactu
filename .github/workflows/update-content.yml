@@ -1,4 +1,6 @@
 name: Update Content & Send Newsletters
+# Titre distinct pour le run lancé par le VPS : le garde-fou anti-doublon le repère par ce titre
+run-name: ${{ inputs.trigger_source == 'vps' && 'Daily edition (vps)' || github.workflow }}
 
 on:
   # Daily at 00:17 UTC. GitHub Actions scheduled crons drift heavily under load
@@ -11,6 +13,13 @@ on:
   # This is the SINGLE workflow that sends the newsletter: generation, the 07:00
   # gate and the send all live in one job, which guarantees fresh content AND a
   # fixed send time with no possibility of a duplicate send.
+  #
+  # Depuis le 2026-09-29, le déclencheur PRINCIPAL est un timer systemd sur le VPS OVH
+  # (04:00 UTC, `avactu-trigger.timer`) qui appelle workflow_dispatch avec
+  # trigger_source=vps : la dérive du cron GitHub avait atteint 5h33 (envoi à 08:12 Paris)
+  # et on ne peut pas l'avancer avant 00:00 UTC (dates d'édition en UTC).
+  # Ce cron reste en SECOURS : le job `guard` l'annule si le run VPS du jour est en cours
+  # ou réussi. Il ne tourne donc que si le VPS n'a rien lancé ou si son run a échoué.
   schedule:
     - cron: '17 0 * * *'
   # Manual trigger for testing
@@ -35,12 +44,65 @@ on:
           - 'daily'
           - 'biweekly'
           - 'weekly'
+      trigger_source:
+        description: 'Source du déclenchement (vps = timer quotidien du VPS, soumis au garde-fou anti-doublon)'
+        required: false
+        default: ''
+        type: string
 
 permissions:
   contents: write
+  actions: read
+
+# Les runs de ce workflow passent l'un après l'autre : un run VPS et un run cron ne
+# tournent jamais en parallèle, le second voit donc l'issue du premier dans `guard`.
+concurrency:
+  group: update-content
+  cancel-in-progress: false
 
 jobs:
+  # Garde-fou anti-doublon entre le run VPS (principal) et le run cron (secours).
+  # Un run manuel sans trigger_source n'est jamais bloqué.
+  guard:
+    runs-on: ubuntu-latest
+    outputs:
+      proceed: ${{ steps.check.outputs.proceed }}
+    steps:
+      - name: Check for today's edition run
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
+          SOURCE: ${{ inputs.trigger_source }}
+        run: |
+          TODAY=$(date -u +%F)
+          if [ "$EVENT" = "schedule" ]; then
+            # Secours : on s'efface devant un run VPS du jour en cours ou réussi
+            OTHERS='.event == "workflow_dispatch" and .displayTitle == "Daily edition (vps)"'
+          elif [ "$SOURCE" = "vps" ]; then
+            # Cas rare : le cron GitHub est parti à l'heure et a déjà fait l'édition
+            OTHERS='.event == "schedule"'
+          else
+            echo "Run manuel : pas de garde-fou"
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          BLOCKING=$(gh run list -R "$GITHUB_REPOSITORY" --workflow update-content.yml \
+            --created ">=$TODAY" -L 50 \
+            --json databaseId,event,displayTitle,status,conclusion \
+            --jq "[.[] | select(.databaseId != $GITHUB_RUN_ID) | select($OTHERS)
+                  | select(.status != \"completed\" or .conclusion == \"success\")] | length")
+          echo "Runs concurrents du $TODAY en cours ou réussis : $BLOCKING"
+          if [ "$BLOCKING" -gt 0 ]; then
+            echo "⏭️  Édition du jour déjà prise en charge, ce run s'arrête"
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          fi
+
   update-and-notify:
+    needs: guard
+    if: ${{ needs.guard.outputs.proceed == 'true' }}
     runs-on: ubuntu-latest
 
     steps:
