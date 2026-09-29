@@ -1,22 +1,25 @@
 import { useState, memo } from 'react';
-import { MapPin, Globe, Cpu, TrendingUp } from 'lucide-react';
+import { MapPin, Globe, Landmark, Cpu, TrendingUp } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import type { Story, Category } from '@/types';
 
 const CATEGORY_LABELS = {
   geopolitique: 'Géopolitique',
+  politique: 'Politique',
   tech: 'Tech',
   eco: 'Éco',
 } as const;
 
 const CATEGORY_ICONS = {
   geopolitique: Globe,
+  politique: Landmark,
   tech: Cpu,
   eco: TrendingUp,
 } as const;
 
 const CATEGORY_COLORS = {
   geopolitique: 'from-rose-900/80 to-rose-950',
+  politique: 'from-violet-900/80 to-violet-950',
   tech: 'from-cyan-900/80 to-cyan-950',
   eco: 'from-emerald-900/80 to-emerald-950',
 } as const;

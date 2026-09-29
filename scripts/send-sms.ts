@@ -23,7 +23,7 @@ interface Location {
 
 interface Story {
   id: string;
-  category: 'geopolitique' | 'tech' | 'eco';
+  category: 'geopolitique' | 'politique' | 'tech' | 'eco';
   title: string;
   imageUrl: string;
   location: Location;
@@ -41,6 +41,7 @@ interface Edition {
 // Category emojis
 const CATEGORY_EMOJI = {
   geopolitique: '🔴',
+  politique: '🟣',
   tech: '🔵',
   eco: '🟢',
 } as const;

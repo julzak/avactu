@@ -46,7 +46,7 @@ interface Location {
 
 interface Story {
   id: string;
-  category: 'geopolitique' | 'tech' | 'eco';
+  category: 'geopolitique' | 'politique' | 'tech' | 'eco';
   title: string;
   imageUrl: string;
   location: Location;
@@ -91,6 +91,7 @@ const COLORS = {
 
 const CATEGORY_CONFIG = {
   geopolitique: { emoji: '🔴', label: 'Géopolitique', color: '#f43f5e' },
+  politique: { emoji: '🟣', label: 'Politique', color: '#8b5cf6' },
   tech: { emoji: '🔵', label: 'Tech', color: '#06b6d4' },
   eco: { emoji: '🟢', label: 'Éco', color: '#10b981' },
 } as const;

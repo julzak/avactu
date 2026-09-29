@@ -26,9 +26,11 @@ export default {
       },
       boxShadow: {
         'glow-geopo': '0 0 20px rgba(244, 63, 94, 0.3)',
+        'glow-politique': '0 0 20px rgba(139, 92, 246, 0.3)',
         'glow-tech': '0 0 20px rgba(6, 182, 212, 0.3)',
         'glow-eco': '0 0 20px rgba(16, 185, 129, 0.3)',
         'glow-geopo-sm': '0 0 10px rgba(244, 63, 94, 0.4)',
+        'glow-politique-sm': '0 0 10px rgba(139, 92, 246, 0.4)',
         'glow-tech-sm': '0 0 10px rgba(6, 182, 212, 0.4)',
         'glow-eco-sm': '0 0 10px rgba(16, 185, 129, 0.4)',
       },

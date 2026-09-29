@@ -14,6 +14,7 @@ Application mobile permettant à Ava (16 ans) de comprendre l'actualité mondial
 | Monde | 40% (~2-3 stories) | Tech, IA, espace, climat, science, société, santé, culture numérique — ce qui parle à un 15-22 ans |
 
 **Pas d'économie pure** (marchés, bourse, PIB) ni de **politique intérieure** (élections, partis).
+**Exception politique française** : la vie politique intérieure française (campagne présidentielle, partis, gouvernement) est gardée mais étiquetée `politique` (badge violet) ; elle occupe un créneau géopolitique (décision Julien 2026-09-29).
 **Volume par édition** : 5 stories cible, 6 max.
 
 ---
