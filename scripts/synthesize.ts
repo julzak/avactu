@@ -55,7 +55,7 @@ interface Location {
 
 interface Story {
   id: string;
-  category: 'geopolitique' | 'tech' | 'eco';
+  category: 'geopolitique' | 'politique' | 'tech' | 'eco';
   _clusterCategory?: 'geopolitique' | 'tech' | 'eco';
   title: string;
   imageUrl: string;
@@ -103,7 +103,8 @@ FILTRAGE DE PERTINENCE (CRITIQUE) :
 Avant de synthétiser, évalue si le sujet relève RÉELLEMENT de l'une des 2 catégories ci-dessous.
 
 Définitions des catégories :
-- "geopolitique" : Politique et relations internationales OU événements politiques nationaux MAJEURS (élections, résultats électoraux, changements de gouvernement). Les élections municipales/présidentielles/législatives sont TOUJOURS pertinentes.
+- "geopolitique" : Politique et relations internationales OU événements politiques nationaux MAJEURS hors de France (élections, résultats électoraux, changements de gouvernement). Les élections municipales/présidentielles/législatives sont TOUJOURS pertinentes.
+- "politique" : Vie politique intérieure française : élections françaises, campagne présidentielle, partis et figures politiques françaises, gouvernement, Parlement. Ce sujet occupe un créneau géopolitique mais s'étiquette "politique".
 - "tech" : Technologie, IA, espace, science, innovation, culture numérique, cybersécurité, réseaux sociaux, startups tech, cinéma/culture quand l'angle est tech ou phénomène de société (ex: Oscars, IA à Hollywood).
 - "eco" : Économie, business, marchés, entreprises, emploi, énergie, industrie à portée nationale ou internationale.
 
@@ -115,7 +116,7 @@ SUJETS HORS SCOPE — réponds "hors_sujet" UNIQUEMENT si :
 IMPORTANT : Les événements suivants ne sont JAMAIS hors sujet :
 - Élections (municipales, présidentielles, législatives) dans tout pays
 - Cérémonies culturelles majeures (Oscars, Cannes, etc.) → catégorie "tech"
-- Manifestations, mouvements sociaux → catégorie "geopolitique"
+- Manifestations, mouvements sociaux → catégorie "geopolitique" ("politique" s'ils relèvent de la vie politique française)
 
 En cas de doute : le sujet doit être quelque chose qu'un ado curieux partagerait avec ses amis. Garde-le.
 
@@ -151,7 +152,7 @@ FORMAT DE SORTIE (JSON strict, pas de markdown) :
 
 Si le sujet est pertinent :
 {
-  "category": "geopolitique" | "tech" | "eco",
+  "category": "geopolitique" | "politique" | "tech" | "eco",
   "title": "Titre factuel avec articles corrects (max 60 caractères)",
   "location": {
     "lat": <latitude>,
@@ -326,7 +327,8 @@ Ta mission : identifier LE sujet le plus important parmi ces articles, puis prod
 
 CATÉGORIE ATTENDUE : "%CATEGORY%"
 Définitions :
-- "geopolitique" : Politique et relations internationales OU événements politiques nationaux MAJEURS (élections, résultats électoraux, changements de gouvernement).
+- "geopolitique" : Politique et relations internationales OU événements politiques nationaux MAJEURS hors de France (élections, résultats électoraux, changements de gouvernement).
+- "politique" : Vie politique intérieure française : élections françaises, campagne présidentielle, partis et figures politiques françaises, gouvernement, Parlement. Ce sujet occupe un créneau géopolitique mais s'étiquette "politique".
 - "tech" : Technologie, IA, espace, science, innovation, culture numérique, cybersécurité, réseaux sociaux, startups tech, cinéma/culture quand l'angle est tech ou phénomène de société (ex: Oscars, IA à Hollywood).
 - "eco" : Économie, business, marchés, entreprises, emploi, énergie, industrie à portée nationale ou internationale.
 
@@ -535,6 +537,9 @@ ${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}`;
   }
 }
 
+// Une story "politique" (vie politique française) occupe un créneau géopo
+const isGeoSlot = (s: Story) => s.category === 'geopolitique' || s.category === 'politique';
+
 /**
  * Main synthesis function
  */
@@ -583,7 +588,7 @@ async function synthesize(): Promise<void> {
   console.log(`\n🌍 Géopolitique: ${geopoClusters.length} clusters`);
 
   for (const cluster of geopoClusters) {
-    if (stories.filter(s => s.category === 'geopolitique').length >= 3) break;
+    if (stories.filter(isGeoSlot).length >= 3) break;
     const sourcesList = [...new Set(cluster.articles.map((a) => a.source))].join(', ');
     console.log(`📝 Synthèse géopo ${storyIndex + 1}: ${cluster.topic.slice(0, 60)}`);
     console.log(`   Sources: ${sourcesList} (${cluster.articles.length} articles)`);
@@ -598,7 +603,7 @@ async function synthesize(): Promise<void> {
   }
 
   // If géopo clusters didn't produce enough stories, use pool-based fallback
-  const geopoCount = stories.filter(s => s.category === 'geopolitique').length;
+  const geopoCount = stories.filter(isGeoSlot).length;
   if (geopoCount < 3) {
     const geopoArticles = rawArticles.filter((a: RawArticle) => a.category === 'geopolitique');
     const needed = 3 - geopoCount;
@@ -613,11 +618,12 @@ async function synthesize(): Promise<void> {
     const coveredTopics = stories.map(s => s.title).join(', ');
 
     const geopoPoolPrompt = POOL_SYSTEM_PROMPT
+      .replace('"category": "%CATEGORY%"', '"category": "geopolitique" | "politique"')
       .replace(/%CATEGORY%/g, 'geopolitique')
       + (coveredTopics ? `\n\nSUJETS DÉJÀ COUVERTS (ne PAS les reprendre) : ${coveredTopics}` : '');
 
     for (let i = 0; i < needed; i++) {
-      const excludeTopics = stories.filter(s => s.category === 'geopolitique').map(s => s.title);
+      const excludeTopics = stories.filter(isGeoSlot).map(s => s.title);
       const excludeStr = excludeTopics.length > 0
         ? `\n\nATTENTION — SUJETS DÉJÀ COUVERTS (tu DOIS choisir un sujet COMPLÈTEMENT DIFFÉRENT, pas une variante du même conflit/événement) :\n${excludeTopics.map(t => `- ${t}`).join('\n')}`
         : '';
@@ -677,7 +683,7 @@ ${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}` }],
 
         const story: Story = {
           id,
-          category: 'geopolitique',
+          category: storyData.category === 'politique' ? 'politique' : 'geopolitique',
           title: storyData.title,
           imageUrl,
           location: storyData.location,
@@ -735,7 +741,9 @@ ${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}` }],
 
   // Enforce: revert reclassified stories back to their cluster category
   for (const story of stories) {
-    if (story._clusterCategory && story.category !== story._clusterCategory) {
+    // Exception : "politique" est un sous-type du créneau géopo (vie politique française)
+    const allowedPolitique = story.category === 'politique' && story._clusterCategory === 'geopolitique';
+    if (story._clusterCategory && story.category !== story._clusterCategory && !allowedPolitique) {
       console.log(`   ↩ "${story.title}" : ${story.category} → ${story._clusterCategory}`);
       story.category = story._clusterCategory;
     }
@@ -784,6 +792,7 @@ ${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}` }],
 
   console.log(`\nPar catégorie:`);
   console.log(`  • Géopolitique: ${byCategory.geopolitique || 0}`);
+  console.log(`  • Politique: ${byCategory.politique || 0}`);
   console.log(`  • Tech: ${byCategory.tech || 0}`);
   console.log(`  • Éco: ${byCategory.eco || 0}`);
 

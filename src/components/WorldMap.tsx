@@ -13,6 +13,7 @@ const GEO_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
 
 const CATEGORY_COLORS = {
   geopolitique: { fill: '#f43f5e', pulse: '#f43f5e' },
+  politique: { fill: '#8b5cf6', pulse: '#8b5cf6' },
   tech: { fill: '#06b6d4', pulse: '#06b6d4' },
   eco: { fill: '#10b981', pulse: '#10b981' },
 } as const;

@@ -21,7 +21,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Types
-type Category = 'geopolitique' | 'tech' | 'eco';
+type Category = 'geopolitique' | 'politique' | 'tech' | 'eco';
 
 interface Location {
   lat: number;
@@ -112,7 +112,7 @@ function selectTopStories(allStories: ScoredStory[]): Story[] {
   }
 
   // Final sort by category order then score
-  const categoryOrder: Category[] = ['geopolitique', 'tech', 'eco'];
+  const categoryOrder: Category[] = ['geopolitique', 'politique', 'tech', 'eco'];
   return selected.sort((a, b) => {
     const catDiff = categoryOrder.indexOf(a.category) - categoryOrder.indexOf(b.category);
     if (catDiff !== 0) return catDiff;

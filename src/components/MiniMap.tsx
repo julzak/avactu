@@ -4,12 +4,14 @@ import type { Location, Category } from '@/types';
 
 const CATEGORY_COLORS = {
   geopolitique: '#f43f5e',
+  politique: '#8b5cf6',
   tech: '#06b6d4',
   eco: '#10b981',
 } as const;
 
 const CATEGORY_GLOW = {
   geopolitique: '0 0 20px rgba(244, 63, 94, 0.6)',
+  politique: '0 0 20px rgba(139, 92, 246, 0.6)',
   tech: '0 0 20px rgba(6, 182, 212, 0.6)',
   eco: '0 0 20px rgba(16, 185, 129, 0.6)',
 } as const;

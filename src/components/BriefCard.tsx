@@ -6,18 +6,21 @@ import type { Story } from '@/types';
 
 const CATEGORY_LABELS = {
   geopolitique: 'Géopolitique',
+  politique: 'Politique',
   tech: 'Tech',
   eco: 'Éco',
 } as const;
 
 const BULLET_GLOW = {
   geopolitique: 'shadow-glow-geopo-sm',
+  politique: 'shadow-glow-politique-sm',
   tech: 'shadow-glow-tech-sm',
   eco: 'shadow-glow-eco-sm',
 } as const;
 
 const BULLET_TEXT = {
   geopolitique: 'text-rose-400',
+  politique: 'text-violet-400',
   tech: 'text-cyan-400',
   eco: 'text-emerald-400',
 } as const;

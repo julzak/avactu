@@ -1,4 +1,4 @@
-export type Category = "geopolitique" | "tech" | "eco";
+export type Category = "geopolitique" | "politique" | "tech" | "eco";
 
 export interface Location {
   lat: number;

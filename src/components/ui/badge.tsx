@@ -17,6 +17,8 @@ const badgeVariants = cva(
         outline: "text-foreground",
         geopolitique:
           "border-transparent bg-rose-500 text-white",
+        politique:
+          "border-transparent bg-violet-500 text-white",
         tech:
           "border-transparent bg-cyan-500 text-white",
         eco:

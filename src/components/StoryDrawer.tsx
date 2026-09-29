@@ -10,6 +10,7 @@ import type { Story } from '@/types';
 
 const CATEGORY_LABELS = {
   geopolitique: 'Géopolitique',
+  politique: 'Politique',
   tech: 'Tech',
   eco: 'Éco',
 } as const;
