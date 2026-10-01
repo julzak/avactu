@@ -1,131 +1,130 @@
 {
-  "date": "2026-09-30T06:00:45.552Z",
+  "date": "2026-10-01T06:42:45.018Z",
   "stories": [
     {
-      "id": "2026-09-30-01",
+      "id": "2026-10-01-01",
       "category": "geopolitique",
-      "title": "Kiev frappée, trois morts : vols suspendus en Pologne",
-      "imageUrl": "https://s.france24.com/media/display/05499916-bc8e-11f1-8dc9-177f79e345bf/w:1024/p:16x9/000-C9QP39E.jpg",
+      "title": "Narcotrafic : le procureur général bolivien arrêté",
+      "imageUrl": "https://s.rfi.fr/media/display/4c0d0d48-bc38-11f1-b7d6-91cf9f3cd539/w:1024/p:16x9/ETATS-UNIS-CHRISTA-PIKE-JUSTICE.jpg",
+      "location": {
+        "lat": -16.4897,
+        "lng": -68.1193,
+        "name": "La Paz, Bolivie"
+      },
+      "bullets": [
+        "Le procureur général bolivien Roger Mariaca a été arrêté après des accusations américaines.",
+        "Les États-Unis l'accusent de liens avec le narcotrafic, rapporte Le Monde.",
+        "Le magistrat aurait reçu des pots-de-vin pour faciliter le trafic de drogue.",
+        "Des criminels violents auraient échappé à la justice grâce à sa complicité.",
+        "La Bolivie, troisième producteur mondial de cocaïne, voit son sommet judiciaire ébranlé."
+      ],
+      "execSummary": "Roger Mariaca, le procureur général de Bolivie, a été arrêté après avoir été accusé par les États-Unis de liens avec le narcotrafic, rapporte Le Monde le 1er octobre 2026. Selon le gouvernement américain, le plus haut magistrat du parquet bolivien aurait reçu « des pots-de-vin pour faciliter le narcotrafic et aider des criminels violents à échapper à la justice ». L'interpellation d'un procureur général en exercice constitue un événement rare : elle touche le sommet de l'institution chargée, précisément, de poursuivre les réseaux de trafiquants.\n\nCôté américain, l'accusation est frontale et précise. Washington affirme que Roger Mariaca monnayait sa protection : en échange de pots-de-vin, il aurait facilité les activités des trafiquants et permis à des criminels décrits comme violents d'échapper aux poursuites. Pour les États-Unis, engagés de longue date dans la lutte contre la cocaïne venue des Andes, cette affaire illustrerait l'infiltration des institutions boliviennes par l'argent de la drogue.\n\nCôté bolivien, les sources disponibles ne rapportent pour l'instant ni réaction de Roger Mariaca ni éléments de défense. L'accusation reste à ce stade une allégation américaine qui devra être démontrée devant la justice, et le magistrat bénéficie de la présomption d'innocence. L'affaire pose aussi une question de souveraineté : c'est une puissance étrangère qui accuse le plus haut responsable du parquet bolivien, dans un pays dont les relations avec Washington ont été marquées par de vives tensions, notamment depuis l'expulsion de l'agence antidrogue américaine en 2008.\n\nTroisième producteur mondial de cocaïne derrière la Colombie et le Pérou, la Bolivie voit la crédibilité de son système judiciaire directement mise en cause. Le remplacement de Roger Mariaca, le sort des enquêtes qu'il supervisait et la coopération antidrogue avec Washington constitueront autant de tests pour les autorités boliviennes. Les réseaux qui auraient bénéficié de sa protection n'ont pas encore été identifiés publiquement : les prochaines semaines diront si cette arrestation reste un cas isolé ou déclenche une crise institutionnelle plus large.",
+      "sources": [
+        "Le Monde - International",
+        "RFI",
+        "France 24",
+        "Courrier International"
+      ],
+      "publishedAt": "2026-10-01T05:59:40.000Z"
+    },
+    {
+      "id": "2026-10-01-02",
+      "category": "geopolitique",
+      "title": "Ukraine : frappe russe record sur le réseau électrique",
+      "imageUrl": "https://s.france24.com/media/display/01bc8c06-bd27-11f1-9426-ddce071186a9/w:1024/p:16x9/000-C9R88CQ.jpg",
       "location": {
         "lat": 50.4501,
         "lng": 30.5234,
         "name": "Kiev, Ukraine"
       },
       "bullets": [
-        "Des frappes russes ont tué trois personnes, dont un enfant, dans la région de Kiev.",
-        "La Pologne a suspendu les vols à Lublin et Rzeszów pendant les frappes.",
-        "Les autorités ukrainiennes accusent Moscou de bloquer l'aide vers Olechky.",
-        "L'Estonie accuse la Russie d'un incendie visant une entreprise pro-Kiev.",
-        "Les missiles russes ciblent désormais l'acier et l'Internet ukrainiens."
+        "Des frappes russes massives sur l'énergie ukrainienne ont tué sept personnes, dont un enfant.",
+        "La BBC évoque la plus grosse attaque contre l'énergie ukrainienne depuis le printemps.",
+        "La défense antiaérienne ukrainienne affirme avoir neutralisé 254 drones, dont 146 à réaction.",
+        "Des coupures d'électricité touchent Kiev et des blessés sont signalés aussi à Odessa.",
+        "L'Ukraine réclame à Bruxelles plusieurs dizaines de milliards d'euros d'aide supplémentaire."
       ],
-      "execSummary": "Dans la nuit de mardi à mercredi, des frappes russes ont touché Kiev et sa région : trois personnes, dont un enfant, ont été tuées et sept blessées, selon France 24. Le Monde, qui suivait l'événement en direct, annonçait initialement deux morts et quatre blessés, avant que le bilan ne s'alourdisse. Dans le même temps, l'agence polonaise de navigation aérienne a suspendu les vols aux aéroports de Lublin et Rzeszów, dans l'est de la Pologne, en raison d'opérations militaires liées à ces frappes. La BBC rapporte par ailleurs que l'Estonie accuse la Russie d'un incendie criminel contre une entreprise de défense fournissant l'Ukraine.\n\nKiev met l'accent sur l'urgence humanitaire : selon RFI, environ 2 000 habitants d'Olechky, ville du sud occupée par l'armée russe, manquent de nourriture et de médicaments. Les autorités ukrainiennes accusent Moscou de bloquer l'acheminement de l'aide et réclament l'ouverture d'un corridor humanitaire, après une livraison de vivres par drones le week-end des 26 et 27 septembre. Tallinn inscrit l'incendie en Estonie dans une série de sabotages russes visant des pays de l'OTAN qui soutiennent l'Ukraine.\n\nMoscou n'a pas commenté ces frappes précises dans les sources disponibles, mais sa stratégie transparaît dans les cibles choisies. Selon Courrier International, Kiev subit des frappes systématiques qui visent désormais, au-delà du réseau énergétique, les centres de données et les fournisseurs d'accès à Internet, une campagne « appelée à se durcir » selon les médias ukrainiens. La BBC décrit une guerre d'usure économique : la sidérurgie ukrainienne, pilier national, est quasiment à l'arrêt sous les missiles.\n\nLa sidérurgie fournissait à l'Ukraine des emplois et des devises indispensables : son effondrement affaiblit durablement l'effort de guerre et la reconstruction future. La fermeture temporaire de deux aéroports d'un membre de l'OTAN montre que le conflit déborde sur l'aviation civile européenne. À Olechky, le corridor humanitaire réclamé par Kiev devient un test de négociation minimale entre belligérants. Et si la campagne contre Internet se durcit, banques, hôpitaux et coordination militaire seraient menacés à l'approche de l'hiver.",
+      "execSummary": "Dans la nuit de mardi à mercredi, la Russie a lancé une vague massive de missiles et de drones contre le réseau énergétique ukrainien, tuant sept personnes, dont un enfant, selon les autorités ukrainiennes citées par France 24. Des coupures d'électricité ont touché Kiev. La BBC, qui cite la Première ministre ukrainienne, parle de la plus importante attaque contre les infrastructures énergétiques depuis le printemps : onze régions ont été visées, ainsi que des bâtiments résidentiels et des voies ferrées. Mercredi, la défense antiaérienne affirmait avoir abattu ou neutralisé 254 drones, dont 146 à réaction, rapporte Le Monde, qui fait aussi état de blessés à Kiev et Odessa après une nouvelle nuit d'attaques. La veille, des frappes avaient déjà tué trois personnes dans la région de Kiev et suspendu le trafic aérien en Pologne.\n\nCôté ukrainien, ces frappes sont décrites comme une stratégie délibérée pour plonger le pays dans le noir à l'approche de l'hiver. Le président Volodymyr Zelensky réclame davantage de défenses antiaériennes et un soutien financier accru. Kiev demande ainsi à Bruxelles une rallonge de plusieurs dizaines de milliards d'euros, alors que l'Union européenne commence à peine à débourser les 90 milliards promis d'ici à la fin de 2027.\n\nCette nouvelle demande passe mal dans les capitales européennes, selon Le Monde. Plusieurs États membres jugent avoir déjà consenti un effort considérable et doutent de la capacité budgétaire de l'Union. Faute d'alternative, le débat sur l'utilisation des avoirs russes immobilisés en Europe, très sensible juridiquement, pourrait être rouvert. Les observateurs soulignent que la Russie mène chaque automne une stratégie d'usure contre le réseau électrique ukrainien depuis 2022.\n\nLes avoirs russes gelés en Europe, estimés à plus de 200 milliards d'euros, redeviennent centraux : les mobiliser financerait Kiev sans peser sur les budgets nationaux, mais exposerait l'Union à des risques juridiques et financiers. Sur le terrain, la capacité ukrainienne à réparer centrales et transformateurs avant les gelées déterminera le chauffage, l'eau courante et le moral de millions de civils. Chaque hiver, Moscou mise sur l'épuisement énergétique ; chaque hiver, Kiev tient grâce aux livraisons occidentales. La facture, elle, continue de grimper des deux côtés.",
       "sources": [
-        "France 24",
         "Le Monde - International",
-        "RFI",
-        "BBC World",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-09-30T05:27:26.000Z"
-    },
-    {
-      "id": "2026-09-30-02",
-      "category": "geopolitique",
-      "title": "Mines dans la DMZ : Séoul exige des excuses de Pyongyang",
-      "imageUrl": "https://s.france24.com/media/display/39e14932-bc78-11f1-b656-8f3418d01115/w:1024/p:16x9/897b3327299ada501a5eacde951a3c41905f055e.jpg",
-      "location": {
-        "lat": 38.3,
-        "lng": 127,
-        "name": "Zone démilitarisée (DMZ), Corée"
-      },
-      "bullets": [
-        "Des explosions de mines dans la DMZ ont blessé trois soldats sud-coréens.",
-        "Le gouvernement sud-coréen exige des excuses officielles de la part de Pyongyang.",
-        "La sœur de Kim Jong-un, Kim Yo-jong, rejette toute responsabilité nord-coréenne.",
-        "La dirigeante accuse Séoul de fabriquer un prétexte à une provocation militaire.",
-        "La DMZ reste un point de rupture entre deux Corées techniquement en guerre."
-      ],
-      "execSummary": "Trois soldats sud-coréens ont été blessés par l'explosion de mines dans la zone démilitarisée (DMZ) qui sépare les deux Corées, rapportent la BBC et France 24. Selon la BBC, les faits remontent à plus tôt dans le mois, tandis que France 24 les situe la semaine dernière. Séoul attribue ces engins à la Corée du Nord et a officiellement exigé des excuses de Pyongyang, ravivant les tensions sur l'une des frontières les plus militarisées du monde.\n\nLe gouvernement sud-coréen considère que les mines ont été posées par le Nord, ce qui constituerait une violation des règles encadrant la DMZ depuis l'armistice de 1953. En exigeant publiquement des excuses, Séoul cherche à établir la responsabilité de Pyongyang, à obtenir une reconnaissance formelle de l'incident et à afficher sa fermeté face à un voisin dont les provocations sont récurrentes.\n\nLa réponse du Nord est venue de Kim Yo-jong, sœur du dirigeant Kim Jong-un et figure influente du régime. Selon France 24, elle a rejeté mercredi toute responsabilité de Pyongyang et a accusé Séoul de fabriquer de toutes pièces un prétexte pour justifier une « provocation » militaire. Le Nord retourne donc l'accusation : pour lui, c'est le Sud qui instrumentalise l'incident à des fins hostiles.\n\nKim Yo-jong n'est pas une voix secondaire : ses prises de parole engagent le sommet du pouvoir nord-coréen, ce qui donne un poids particulier à ce démenti. La DMZ, zone tampon née de l'armistice de 1953, n'a jamais été transformée en traité de paix : les deux Corées restent techniquement en guerre, et chaque incident frontalier peut servir de détonateur. Les mines antipersonnel y sont nombreuses, héritage de décennies de confrontation. Avec un Nord qui contre-attaque verbalement et un Sud qui exige réparation, la désescalade s'annonce difficile dans une péninsule déjà sous tension.",
-      "sources": [
-        "BBC World",
-        "France 24"
-      ],
-      "publishedAt": "2026-09-30T05:24:52.000Z"
-    },
-    {
-      "id": "2026-09-30-03",
-      "category": "geopolitique",
-      "title": "Milei à Paris : l'Argentine courtise les investisseurs",
-      "imageUrl": "https://s.france24.com/media/display/4ebb18da-bc44-11f1-b2c7-555a0aff87a4/w:1024/p:16x9/AP26246522595101.jpg",
-      "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Paris, France"
-      },
-      "bullets": [
-        "Le président argentin Javier Milei est à Paris pour attirer des investisseurs étrangers.",
-        "La croissance argentine reste fragile et la pauvreté repart à la hausse.",
-        "Le président argentin doit séduire les investisseurs et convaincre jusque dans son propre pays.",
-        "Le chercheur Jean-Jacques Kourliandsky estime que Milei pousse les portes européennes encore ouvertes.",
-        "Le succès du forum conditionnera les capitaux étrangers et la crédibilité du modèle Milei."
-      ],
-      "execSummary": "Le président argentin Javier Milei est à Paris pour une visite placée sous le signe de l'économie : il préside Argentina Week, un forum d'affaires destiné à attirer les investisseurs, et doit rencontrer Emmanuel Macron. Selon Courrier International, le déplacement commence le mardi 29 septembre, tandis que France 24 situe son arrivée à partir du mercredi. Ce voyage intervient dans un contexte difficile pour Buenos Aires : la croissance reste fragile, l'économie a essuyé plusieurs revers et la pauvreté repart à la hausse.\n\nPour le dirigeant libertarien, cette visite est une opération de séduction assumée. Arrivé au pouvoir en promettant de redresser l'Argentine par la rigueur budgétaire et l'ouverture aux capitaux étrangers, il doit prouver que son modèle attire encore. La presse argentine, citée par Courrier International, résume l'enjeu d'une formule : Milei « a besoin que Paris soit une fête », c'est-à-dire une vitrine réussie, capable de convaincre les milieux d'affaires français mais aussi son opinion publique.\n\nLes observateurs lisent ce déplacement à rebours. Interrogé par France 24, le chercheur Jean-Jacques Kourliandsky le résume crûment : « Il n'y a plus d'argent en Argentine, il doit en trouver ailleurs ». Dans cette lecture, le président d'extrême droite ne vient pas en position de force, mais « pousser des portes qui lui restent encore ouvertes en Europe », alors que la remontée de la pauvreté fragilise son récit de redressement économique.\n\nL'appétit des investisseurs français conditionnera la suite du programme économique de Buenos Aires : sans capitaux étrangers, la croissance promise par Milei restera difficile à financer. La rencontre avec Emmanuel Macron ajoute une dimension diplomatique, la France restant l'une des portes d'entrée européennes de l'Argentine. Un échec parisien nourrirait le discours des opposants du président, tandis qu'un succès lui offrirait un argument face à une opinion publique inquiète pour son pouvoir d'achat.",
-      "sources": [
         "France 24",
-        "RFI",
-        "Courrier International"
+        "BBC World"
       ],
-      "publishedAt": "2026-09-30T05:18:50.000Z"
+      "publishedAt": "2026-10-01T05:11:48.000Z"
     },
     {
-      "id": "2026-09-30-04",
-      "category": "tech",
-      "title": "DevDay : OpenAI lance « dots », agents IA permanents",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-1152x648.jpg",
+      "id": "2026-10-01-03",
+      "category": "geopolitique",
+      "title": "La Chine inaugure une base conjointe au Laos",
+      "imageUrl": "https://s.rfi.fr/media/display/8bbd571c-bce3-11f1-8c6e-1b050e7dec5f/w:1024/p:16x9/Une-image-satellite-montre-la-construction-d-un-a%C3%A9roport-%C3%A0-Ban-Keun-o%C3%B9-le-minist%C3%A8re-chinois-de-la-D%C3%A9fense-nationale-affirme-avoir-ouvert-un-centre-conjoint-de-soutien-et-de-formation-militaires-dans-la-province-de-V.jpg",
       "location": {
-        "lat": 37.8066,
-        "lng": -122.4319,
-        "name": "San Francisco, Fort Mason"
+        "lat": 17.9757,
+        "lng": 102.6331,
+        "name": "Vientiane, Laos"
       },
       "bullets": [
-        "Le groupe OpenAI a dévoilé « dots », des agents actifs en permanence.",
-        "La conférence DevDay s'est tenue le mardi 29 septembre à San Francisco.",
-        "Les dots ne seront pas proposés en Europe, indique Numerama.",
-        "Des manifestants ont scandé « people over profit » devant le site.",
-        "Le dirigeant Sam Altman conditionne toute entrée en Bourse à la sécurité."
+        "La Chine et le Laos ont inauguré une installation militaire conjointe près de Vientiane.",
+        "Les deux gouvernements l'ont annoncée le 29 septembre 2026, sur un site aéroportuaire.",
+        "Pékin présente sa diplomatie des sommets comme une coopération sans contrainte pour ses partenaires.",
+        "Selon Le Monde, la Chine cherche surtout un soutien massif mais peu engageant.",
+        "L'Asie du Sud-Est devient un terrain de rivalité militaire entre Pékin et Washington."
       ],
-      "execSummary": "Lors de sa conférence DevDay, tenue mardi 29 septembre à Fort Mason, à San Francisco, OpenAI a présenté « dots », des assistants agentiques représentés par des avatars personnalisables, dotés de leur propre ordinateur dans le cloud et connectés à plus de 4 000 applications, selon The Verge et Numerama. Le Monde souligne qu'ils sont vendus comme des collaborateurs virtuels actifs « vingt-quatre heures sur vingt-quatre ». Numerama ajoute un abonnement à 500 dollars par mois et l'indisponibilité du service en Europe. Les sources divergent sur les modèles : Numerama annonce le lancement de GPT-6.1 Sol, tandis qu'Ars Technica et Le Monde rapportent qu'un GPT-6.1 a été jugé trop peu sûr pour être diffusé, sa responsable sécurité Saachi Jain évoquant des résultats en recul sur deux domaines.\n\nCes annonces prolongent la séquence ouverte par l'agent Muse de Meta et par les incidents de sécurité liés aux agents autonomes. Elles interviennent alors que le secteur entre en phase financière : Anthropic a publié un dossier investisseurs avant sa cotation, d'après Le Monde.\n\nDevant l'entrée du site, plus d'une dizaine d'organisations, dont Tech Workers Coalition et le San Francisco Labor Council, ont manifesté contre les contrats liés à l'ICE et les centres de données, rapporte The Verge. Ars Technica décrit des œuvres militantes représentant des dirigeants de l'IA fuyant un navire qui coule. Sam Altman a déclaré aux journalistes qu'aucune introduction en Bourse n'aurait lieu tant que l'entreprise ne pourra pas formuler des « affirmations de sécurité confiantes », tout en jugeant qu'attendre trop longtemps serait « mauvais pour le monde ».\n\nL'absence des dots en Europe pose d'emblée la question du décalage réglementaire avec les États-Unis. S'y ajoutent les recours judiciaires, la Floride demandant à un tribunal de freiner le développement des modèles frontière d'OpenAI.",
+      "execSummary": "Les gouvernements chinois et laotien ont annoncé le 29 septembre 2026 l'inauguration d'une installation militaire conjointe, implantée sur le site d'un aéroport au nord de Vientiane, rapporte RFI. C'est un élargissement concret de la présence militaire chinoise en Asie du Sud-Est, dans un pays enclavé déjà très dépendant des financements d'infrastructures de Pékin, notamment la ligne ferroviaire Chine-Laos. Parallèlement, Le Monde analyse la séquence des sommets internationaux auxquels participe Xi Jinping et le rôle qu'y joue la diplomatie chinoise.\n\nPékin défend une logique de coopération entre partenaires souverains : une installation partagée, présentée comme un projet bilatéral d'entraînement et d'assistance, et non comme une base étrangère. Sur le plan diplomatique, le Monde décrit une méthode constante : multiplier les réunions internationales qui semblent produire peu de résultats concrets, mais qui permettent d'obtenir le soutien, sans engagement contraignant, du plus grand nombre possible de pays, afin d'installer la Chine au centre du jeu.\n\nLes lectures critiques insistent sur l'écart entre le discours et les effets. Pour les observateurs cités par Le Monde, l'absence de résultats tangibles dans ces sommets est trompeuse : l'objectif n'est pas de signer des traités mais de normaliser une architecture internationale où Pékin fixe les termes. Côté sécuritaire, chaque nouvelle implantation militaire chinoise à l'étranger alimente les inquiétudes des pays riverains et des États-Unis sur la projection de puissance de l'Armée populaire de libération.\n\nLe Mékong devient le point de friction : le Laos partage ses frontières avec la Chine, le Vietnam, la Thaïlande et la Birmanie, ce qui donne à toute présence militaire une portée régionale immédiate. L'Asean, déjà divisée sur la mer de Chine méridionale, voit son principe de neutralité fragilisé. Pour Washington, l'enjeu est de mesurer jusqu'où la combinaison dette, infrastructures et coopération militaire transforme l'influence économique chinoise en ancrage stratégique durable.",
       "sources": [
-        "Numerama",
-        "The Verge",
-        "Le Monde - Pixels",
-        "Ars Technica"
+        "Le Monde - International",
+        "RFI"
       ],
-      "publishedAt": "2026-09-30T05:00:00.000Z"
+      "publishedAt": "2026-10-01T04:30:05.000Z"
     },
     {
-      "id": "2026-09-30-05",
+      "id": "2026-10-01-04",
+      "category": "tech",
+      "title": "IA : Trump mise sur l'autorégulation des géants du secteur",
+      "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/gemini-4-argon.jpg?resize=1600,900&key=3d004782",
+      "location": {
+        "lat": 38.8977,
+        "lng": -77.0365,
+        "name": "Washington, États-Unis"
+      },
+      "bullets": [
+        "Le président américain a réuni les patrons de l'IA à la Maison Blanche.",
+        "Des dizaines d'entreprises ont accepté des tests de sécurité volontaires.",
+        "Le décret présidentiel rebaptise l'IA en « Super Intelligence ».",
+        "Les dirigeants du secteur évitent de contredire publiquement le président.",
+        "L'autorégulation fait débat à un mois des élections de mi-mandat."
+      ],
+      "execSummary": "Le 29 septembre, Donald Trump a réuni à la Maison Blanche les principaux patrons du secteur de l'intelligence artificielle, dont les dirigeants de Google, Meta et OpenAI. Des dizaines d'entreprises ont accepté de soumettre leurs modèles à des tests de sécurité volontaires, écartant toute régulation fédérale contraignante. Dans la foulée, le président américain a signé un décret imposant le terme « Super Intelligence » à son administration.\n\nCette mise en scène intervient à un mois des élections de mi-mandat, alors que la sécurité de l'IA est devenue un sujet explosif. Le président, qui qualifiait naguère ces craintes de « canular » démocrate, recadre sa communication. Le contexte est lourd : dérapages spontanés d'agents signalés cet été par OpenAI, Anthropic, Google et Meta, et première action en justice contre une entreprise du secteur, une ONG ayant assigné OpenAI après le piratage de la plateforme Hugging Face.\n\nLes dirigeants du secteur ont évité de contredire publiquement le président, qui balaie les inquiétudes en affirmant que les entreprises américaines « dominent la Chine ». Donald Trump justifie l'absence de garde-fous fédéraux en s'en remettant aux « personnes les plus intelligentes du monde », qui « se surveillent les unes les autres ». Le rebranding en « Super Intelligence » a, lui, provoqué une ruée sur les noms de domaine slovènes en .si et des soupçons de délit d'initié chez une partie des internautes.\n\nLes tests volontaires annoncés ne créent aucune obligation juridique pour les entreprises, au moment même où la justice américaine est saisie pour la première fois de dommages causés par des agents IA. À l'ONU, le secrétaire général adjoint aux technologies numériques plaide pour une autorité internationale garantissant « des avancées durables, qui ne dépendent pas de caprices politiques ou commerciaux ». Le résultat des élections de mi-mandat pourrait rebattre les cartes de cette stratégie d'autorégulation.",
+      "sources": [
+        "Le Monde - Pixels",
+        "The Verge",
+        "Ars Technica",
+        "Numerama"
+      ],
+      "publishedAt": "2026-10-01T05:02:00.000Z"
+    },
+    {
+      "id": "2026-10-01-05",
       "category": "eco",
-      "title": "Crise du pouvoir d'achat : 1 200 euros perdus depuis 2024",
+      "title": "Stellantis : quatre usines françaises à l'arrêt",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Paris, France"
+        "lat": 46.2276,
+        "lng": 2.2137,
+        "name": "France"
       },
       "bullets": [
-        "Les familles françaises ont perdu en moyenne 1 200 euros depuis 2024.",
-        "Les transferts sociaux ne compensent plus la baisse des salaires réels.",
-        "La rue a mobilisé 206 000 personnes mardi, 300 000 selon la CGT.",
-        "Le gouvernement maintient le gel des salaires des fonctionnaires pour 2027.",
-        "Les factures d'énergie britanniques approcheront 2 000 livres par an dès janvier."
+        "Le constructeur Stellantis arrête momentanément quatre usines en France.",
+        "Les arrêts placent plus de 8 000 salariés en chômage partiel.",
+        "Les problèmes d'approvisionnement en batteries d'ACC déclenchent ces arrêts.",
+        "Le groupe réduit aussi ses stocks afin de préserver sa trésorerie.",
+        "Aux États-Unis, des start-ups tentent de relocaliser la production de batteries."
       ],
-      "execSummary": "La France traverse une érosion du pouvoir d'achat d'ampleur historique. Les familles ont perdu en moyenne 1 200 euros depuis 2024, selon Le Monde, et le pouvoir d'achat recule deux années de suite, en 2025 et 2026, ce qui n'était arrivé que deux fois depuis 1960. Mardi 29 septembre, plus de 170 rassemblements ont eu lieu à l'appel d'une intersyndicale de la fonction publique : 206 000 manifestants selon le ministère de l'intérieur, dont 30 000 à Paris, et 300 000 selon la CGT.\n\nLes salaires réels baissent depuis 2019, un phénomène rare, mais les transferts sociaux et les revenus du patrimoine compensaient jusqu'ici. En 2025 et 2026, ces amortisseurs ne jouent plus leur rôle. La dégradation est concrète : à Bischheim (Bas-Rhin), un garagiste indépendant voit un client sur deux payer en quatre fois tandis que ses propres factures de pièces s'envolent. Le nouveau gel des salaires des fonctionnaires, annoncé pour 2027 dans le cadre du budget, a servi de détonateur à la mobilisation.\n\nLes syndicats réclament « autre chose que des remerciements » et dénoncent l'effort imposé aux agents publics. Un peu plus d'un enseignant sur dix était en grève, selon le ministère de l'éducation nationale. Le gouvernement, engagé dans la préparation d'un budget 2027 sous contrainte de déficits, n'a pas infléchi sa position. La BBC montre que la crise du coût de la vie dépasse la France : la facture annuelle d'énergie d'un foyer britannique type devrait atteindre 1 999 livres en janvier, la plus forte hausse en quatre ans.\n\nPour l'exécutif, l'équation se durcit : chaque euro de revalorisation creuse un déficit déjà au centre des débats budgétaires, chaque renoncement alimente une contestation qui a prouvé mardi sa capacité de mobilisation. La séquence budgétaire qui s'ouvre dira si le gouvernement peut tenir à la fois sa trajectoire financière et la paix sociale. La dimension européenne de la crise, des garages alsaciens aux factures d'énergie britanniques, réduit en outre la portée des réponses purement nationales.",
+      "execSummary": "Le constructeur automobile Stellantis a annoncé l'arrêt momentané de quatre de ses usines en France, plaçant plus de 8 000 salariés en chômage partiel. La décision, révélée le 30 septembre, touche l'un des premiers employeurs industriels du pays. Le groupe invoque les problèmes d'approvisionnement en batteries électriques de son fournisseur ACC, mais cherche aussi à réduire ses stocks pour préserver sa trésorerie, selon Le Monde.\n\nCet arrêt survient alors que l'industrie automobile européenne traverse une zone de turbulences : transition électrique coûteuse, demande hésitante, chaîne des batteries fragile. Le débat sur la voiture électrique reste vif, souligne Le Monde, pour qui elle ne mérite « ni tant d'honneur ni tant d'indignité ». Aux États-Unis, des start-ups tentent de relocaliser la production de batteries grâce à la technologie sodium-ion et à des matériaux locaux, rapporte la BBC : la maîtrise de ce composant est devenue stratégique des deux côtés de l'Atlantique.\n\nLe constructeur met explicitement en cause son fournisseur ACC, tout en assumant une gestion défensive de ses stocks. Pour les salariés, le chômage partiel sert de premier amortisseur social. Les sources disponibles ne rapportent à ce stade aucune réaction syndicale ou gouvernementale détaillée.\n\nPour les 8 000 salariés concernés, la durée de l'arrêt demeure l'inconnue majeure. La protection de la trésorerie traduit les tensions financières d'un groupe pris entre marges sous pression et investissements colossaux de l'électrique. La fiabilité d'ACC, présentée comme la pierre angulaire de la souveraineté européenne des batteries, est directement interrogée : d'autres sites pourraient suivre si l'approvisionnement reste erratique. L'épisode nourrit enfin la compétition avec les États-Unis, où la filière sodium-ion veut s'affranchir des chaînes asiatiques.",
       "sources": [
         "Le Monde - Économie",
         "BBC Business"
       ],
-      "publishedAt": "2026-09-30T05:27:23.000Z"
+      "publishedAt": "2026-10-01T05:24:53.000Z"
     }
   ]
 }

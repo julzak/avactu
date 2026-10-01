@@ -1,242 +1,231 @@
 {
-  "generatedAt": "2026-09-30T05:44:20.216Z",
+  "generatedAt": "2026-10-01T06:09:47.077Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "En direct : trois morts dans des frappes russes en Ukraine, des vols suspendus e",
+      "topic": "Bolivie : Roger Mariaca, procureur général, a été arrêté après avoir été accusé ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-30-637c5ebe",
-          "title": "En direct : trois morts dans des frappes russes en Ukraine, des vols suspendus en Pologne",
-          "description": "Des frappes ​russes ont fait trois morts, dont un ​enfant, et sept blessés à Kiev, la capitale de l'Ukraine, et dans ses alentours tôt ​mercredi, ‌ont dit des responsables. Les ⁠vols ​ont ​été suspendus aux aéroports ​de ‌Lublin ⁠et ‌Rzeszów en ⁠Pologne en raison ​d'opération militaires ‌lors de frappes ‌russes ​en Ukraine, a annoncé ​mercredi l'agence ​des services ​de ​navigation aérienne polonaise (PANSA). Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20260930-en-direct-trois-morts-dans-des-frappes-russes-en-ukraine-des-vols-suspendus-en-pologne",
-          "imageUrl": "https://s.france24.com/media/display/05499916-bc8e-11f1-8dc9-177f79e345bf/w:1024/p:16x9/000-C9QP39E.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-30T05:27:26.000Z",
-          "fetchedAt": "2026-09-30T05:40:19.727Z"
-        },
-        {
-          "id": "2026-09-30-99ec4471",
-          "title": "EN DIRECT, guerre en Ukraine : deux personnes tuées, dont un enfant, par des frappes russes sur Kiev",
-          "description": "​Quatre personnes ont également été blessées ‌dans la capitale ukrainienne et ses alentours, dans la nuit de mardi à mercredi.",
-          "url": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-un-enfant-tue-par-des-frappes-russes-dans-la-region-de-kiev_6783795_3210.html",
+          "id": "2026-10-01-8c39b523",
+          "title": "Bolivie : Roger Mariaca, procureur général, a été arrêté après avoir été accusé de liens avec le narcotrafic  par les Etats-Unis",
+          "description": "Selon le gouvernement américain, il aurait reçu « des pots-de-vin pour faciliter le narcotrafic et aider des criminels violents à échapper à la justice ».",
+          "url": "https://www.lemonde.fr/international/article/2026/10/01/bolivie-le-procureur-general-accuse-par-washington-de-liens-avec-le-narcotrafic-a-ete-arrete_6786457_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-30T04:14:19.000Z",
-          "fetchedAt": "2026-09-30T05:40:19.586Z"
+          "publishedAt": "2026-10-01T05:59:40.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.459Z"
         },
         {
-          "id": "2026-09-30-a094dc13",
-          "title": "Ukraine: dans la ville d'Olechky occupée par l'armée russe, les habitants souffrent du manque de nourriture",
-          "description": "Les appels à la communauté internationale se multiplient pour venir en aide aux habitants d'Olechky, une ville du sud du pays occupée par l'armée russe où quelque 2 000 personnes sont prises au piège, selon les autorités ukrainiennes. Alors que nourriture et médicaments y font cruellement défaut, l'armée ukrainienne serait parvenue à y acheminer des vivres à l'aide de drones durant le week-end des 26 et 27 septembre. Kiev, qui accuse Moscou de bloquer l'acheminement de l'aide, réclame l'ouverture d'un corridor humanitaire.",
-          "url": "https://www.rfi.fr/fr/europe/20260930-ukraine-dans-la-ville-d-olechky-occup%C3%A9e-par-l-arm%C3%A9e-russe-les-habitants-souffrent-du-manque-de-nourriture",
-          "imageUrl": "https://s.rfi.fr/media/display/a3d4ab86-bc46-11f1-81ce-8f3418d01115/w:1024/p:16x9/000-C8WM89F.jpg",
+          "id": "2026-10-01-18d84821",
+          "title": "États-Unis: finalement autorisée par la Cour suprême, l'exécution de la condamnée à mort Christa Pike a échoué",
+          "description": "L'exécution de Christa Pike, condamnée à mort aux États-Unis en 1996, a échoué ce mercredi 30 septembre. Provisoirement repoussée, sa mise à mort par injection létale avait finalement été autorisée par la Cour suprême. Ses avocats ont précisé que la quinquagénaire recevait à l'heure actuelle des soins dans un hôpital du Tennessee.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261001-%C3%A9tats-unis-finalement-autoris%C3%A9e-par-la-cour-supr%C3%AAme-l-ex%C3%A9cution-de-la-condamn%C3%A9e-%C3%A0-mort-christa-pike-a-%C3%A9chou%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/4c0d0d48-bc38-11f1-b7d6-91cf9f3cd539/w:1024/p:16x9/ETATS-UNIS-CHRISTA-PIKE-JUSTICE.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-09-30T02:51:17.000Z",
-          "fetchedAt": "2026-09-30T05:40:24.440Z"
+          "publishedAt": "2026-10-01T05:45:14.000Z",
+          "fetchedAt": "2026-10-01T06:05:53.348Z"
         },
         {
-          "id": "2026-09-29-3f69e051",
-          "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-          "description": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
-          "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea31/live/c8137c70-bc28-11f1-bd53-1b67dc8fba34.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-29T23:33:34.000Z",
-          "fetchedAt": "2026-09-30T05:40:24.357Z"
-        },
-        {
-          "id": "2026-09-29-1d042355",
-          "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-          "description": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
-          "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40f7/live/b696a7d0-bbfe-11f1-90b9-913e4354ed35.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-29T19:36:41.000Z",
-          "fetchedAt": "2026-09-30T05:40:24.357Z"
-        },
-        {
-          "id": "2026-09-29-0edafd0d",
-          "title": "Comment la Russie tente de priver l’Ukraine d’Internet",
-          "description": "Kiev est désormais la cible de frappes systématiques qui ne visent plus seulement le réseau énergétique de la capitale, mais aussi les centres de traitement de données et les prestataires d’accès. Une campagne appelée à se durcir, préviennent les médias du pays.",
-          "url": "https://www.courrierinternational.com/article/vu-de-kiev-comment-la-russie-tente-de-priver-l-ukraine-d-internet_275001",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/28/125/0/3000/2000/1200/630/60/0/f38969e_ftp-1-ezwbonkiqkvt-afp-c9kl49e.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-29T15:21:14.000Z",
-          "fetchedAt": "2026-09-30T05:40:19.764Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "South Korea demands apology from Pyongyang for landmine blasts that injured thre",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-09-30-6a9f573f",
-          "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-          "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-          "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1795/live/6e65f480-bc7f-11f1-8f6a-cb544b8fa0f7.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-30T05:24:52.000Z",
-          "fetchedAt": "2026-09-30T05:40:24.357Z"
-        },
-        {
-          "id": "2026-09-30-8f3fafec",
-          "title": "Après des explosions dans la zone démilitarisée, la Corée du Sud exige des excuses de Pyongyang",
-          "description": "La Corée du Sud exige que son voisin du Nord s'excuse après que des explosions de mines ont blessé trois de ses soldats dans la zone démilitarisée (DMZ) la semaine dernière. Kim Yo-jong, la puissante soeur du dirigeant nord-coréen Kim Jong-un, a rejeté mercredi toute responsabilité et accuse Séoul de fabriquer un prétexte à une \"provocation\" militaire.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20260930-apr%C3%A8s-des-explosions-dans-la-dmz-la-cor%C3%A9e-du-sud-exige-des-excuses-de-pyongyang",
-          "imageUrl": "https://s.france24.com/media/display/39e14932-bc78-11f1-b656-8f3418d01115/w:1024/p:16x9/897b3327299ada501a5eacde951a3c41905f055e.jpg",
+          "id": "2026-10-01-0169934a",
+          "title": "États-Unis : l'exécution de Christa Pike a échoué, elle continuait de respirer et de ronfler",
+          "description": "L'exécution de Christa Pike, dans l'État du Tennessee, mercredi, a échoué, selon des témoins et son avocat qui ont affirmé aux médias que celle-ci respirait et ronflait encore de façon audible après avoir reçu l'injection létale. La Cour suprême des États-Unis avait autorisé l'exécution, quelques heures plus tôt, de cette femme condamnée il y a 30 ans.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261001-%C3%A9tats-unis-l-ex%C3%A9cution-de-christa-pike-a-%C3%A9chou%C3%A9-elle-continuait-de-respirer-et-de-ronfler",
+          "imageUrl": "https://s.france24.com/media/display/7a4f7cc8-bce1-11f1-a0fb-1b050e7dec5f/w:1024/p:16x9/2026-09-30T135639Z-1416470123-RC2PTNAYXSRM-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-30T02:39:59.000Z",
-          "fetchedAt": "2026-09-30T05:40:19.727Z"
+          "publishedAt": "2026-10-01T05:30:16.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.508Z"
+        },
+        {
+          "id": "2026-10-01-8b62c4da",
+          "title": "Christa Pike : la condamnée à mort a survécu à l’injection létale aux Etats-Unis, après un ultime sursis annulé",
+          "description": "Cette femme de 50 ans respirait encore après avoir reçu deux doses de pentobarbital dans le Tennessee, ont annoncé ses avocats, qui ont ajouté : « Christa reçoit des soins dans un hôpital à proximité. Nous n’avons pas été informés de son état ».",
+          "url": "https://www.lemonde.fr/international/article/2026/10/01/execution-ratee-de-christa-pike-aux-etats-unis-la-condamnee-a-survecu-a-l-injection-letale-apres-un-ultime-sursis-annule_6786327_3211.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-01T05:28:14.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.459Z"
+        },
+        {
+          "id": "2026-10-01-4cf8d2da",
+          "title": "Aux Etats-Unis, Pete Hegseth, le secrétaire à la défense, revendique une réduction de 20 % du nombre de hauts gradés et poursuit la reconfiguration de l’armée",
+          "description": "Dans un discours aux accents virilistes, mercredi, le chef du Pentagone a confirmé les termes de la révolution culturelle menée dans les rangs militaires et a annoncé une série de mesures visant à préparer le pays aux guerres du futur.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/01/aux-etats-unis-pete-hegseth-le-secretaire-a-la-defense-revendique-une-reduction-de-20-du-nombre-de-hauts-grades-et-poursuit-la-reconfiguration-de-l-armee_6786428_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-01T03:28:40.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.459Z"
+        },
+        {
+          "id": "2026-10-01-da44a665",
+          "title": "Paramount, projet d’attaque en Angleterre, exécution au Tennessee : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-paramount-projet-d-attaque-en-angleterre-execution-au-tennessee-les-informations-de-la-nuit_275223",
+          "imageUrl": "https://focus.courrierinternational.com/2025/12/09/56/0/7727/5151/1200/630/60/0/39343c4_ftp-1-xzmvo9weg81z-2250852998.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-01T03:00:09.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.851Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Visite de Javier Milei à Paris : \"Il n’y a plus d'argent en Argentine, il doit e",
+      "topic": "EN DIRECT, guerre en Ukraine : des blessés à Kiev et Odessa après une nouvelle n",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-30-3704bf5c",
-          "title": "Visite de Javier Milei à Paris : \"Il n’y a plus d'argent en Argentine, il doit en trouver ailleurs\"",
-          "description": "À Paris à partir de mercredi pour un forum économique, Javier Milei cherche de nouveaux investisseurs pour l’Argentine, alors que la croissance reste fragile et que la pauvreté repart à la hausse. Pour le chercheur Jean-Jacques Kourliandsky, le président d’extrême droite argentin vient surtout \"pousser des portes qui lui restent encore ouvertes en Europe\".",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260930-visite-france-javier-milei-paris-argentina-week-crise-economie-argentine-investissements-pauvrete",
-          "imageUrl": "https://s.france24.com/media/display/4ebb18da-bc44-11f1-b2c7-555a0aff87a4/w:1024/p:16x9/AP26246522595101.jpg",
+          "id": "2026-10-01-dc93cfb9",
+          "title": "EN DIRECT, guerre en Ukraine : des blessés à Kiev et Odessa après une nouvelle nuit d’attaques russes",
+          "description": "Dans un bilan provisoire, la défense anti-aérienne ukrainienne affirmait avoir abattu ou neutralisé 254 drones, dont 146 à réaction, entre 6 h 30 et 18 h 30, mercredi.",
+          "url": "https://www.lemonde.fr/international/live/2026/10/01/en-direct-guerre-en-ukraine-des-blesses-a-kiev-et-odessa-apres-une-nouvelle-nuit-d-attaques-russes_6783795_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-01T05:11:48.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.459Z"
+        },
+        {
+          "id": "2026-10-01-b24d9d43",
+          "title": "La guerre en Ukraine à travers les lettres d’Olga et de Sasha : « Je ne me suis pas encore habituée à cet aspect de la guerre, à dire adieu pour de vrai »",
+          "description": "Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Face aux frappes russes incessantes, Sasha s’étonne de sa capacité d’adaptation au danger. En France, Olga, bien que prise par son nouveau métier d’institutrice, continue de promouvoir la résistance culturelle de ses compatriotes.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/01/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-je-ne-me-suis-pas-encore-habituee-a-cet-aspect-de-la-guerre-a-dire-adieu-pour-de-vrai_6786394_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-01T03:00:15.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.459Z"
+        },
+        {
+          "id": "2026-09-30-5c746b3e",
+          "title": "La Russie cible massivement les infrastructures énergétiques en Ukraine, Kiev de nouveau endeuillée",
+          "description": "Des attaques de missiles et de drones russes ont visé, dans la nuit de mardi à mercredi, le réseau énergétique ukrainien, provoquant des coupures d'électricité à Kiev. Sept personnes, dont un enfant, ont été tuées lors de ces attaques, rapportent les autorités du pays.",
+          "url": "https://www.france24.com/fr/europe/20260930-russie-cible-massivement-infrastructures-energetiques-eletricite-ukraine-kiev-endeuillee-morts-missiles-drones-volodymyr-zelensky",
+          "imageUrl": "https://s.france24.com/media/display/01bc8c06-bd27-11f1-9426-ddce071186a9/w:1024/p:16x9/000-C9R88CQ.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-09-30T05:18:50.000Z",
-          "fetchedAt": "2026-09-30T05:40:19.727Z"
+          "publishedAt": "2026-09-30T23:40:26.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.508Z"
         },
         {
-          "id": "2026-09-30-8b33a43a",
-          "title": "France: un budget très attendu alors que la dette atteint une part record du PIB",
-          "description": "La France empruntera un montant record de 340 milliards d'euros sur les marchés en 2027, soit 28 milliards de plus qu'en 2026, a indiqué l'Agence France Trésor mardi 29 septembre, deux jours avant la présentation du budget de l'État pour l'an prochain. Celui-ci sera particulièrement scruté par les investisseurs qui prêtent à la France, alors que sa dette publique a encore grimpé au deuxième trimestre pour atteindre 3 595 milliards et demi d'euros, 119% du PIB, un niveau inédit depuis 1946.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260930-france-un-budget-tr%C3%A8s-attendu-alors-que-la-dette-atteint-une-part-record-du-pib",
-          "imageUrl": "https://s.rfi.fr/media/display/61f47634-adea-11f1-97e3-005056bfb2b6/w:1024/p:16x9/2026-09-11T093551Z-1542309202-RC2XGNA9QN8N-RTRMADP-3-FRANCE-BUDGET.jpg",
-          "source": "RFI",
+          "id": "2026-09-30-4cef3eb4",
+          "title": "Guerre en Ukraine : une nouvelle demande d’aide financière qui passe mal à Bruxelles",
+          "description": "Alors que l’UE commence à débourser 90 milliards d’euros pour soutenir Kiev d’ici à la fin de 2027, l’Ukraine demande déjà une rallonge de plusieurs dizaines de milliards d’euros. L’Europe cherche des solutions et pourrait devoir rouvrir le débat sur l’utilisation des avoirs russes immobilisés sur le Vieux Continent.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/30/guerre-en-ukraine-une-nouvelle-demande-d-aide-financiere-qui-passe-mal-a-bruxelles_6786112_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-09-30T04:42:06.000Z",
-          "fetchedAt": "2026-09-30T05:40:24.440Z"
+          "publishedAt": "2026-09-30T17:30:05.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.459Z"
         },
         {
-          "id": "2026-09-29-0753a115",
-          "title": "En Espagne, Emmanuel Macron plaide pour une \"Europe plus forte\" face à la montée des \"extrêmes\"",
-          "description": "Lors du premier jour de sa visite d'État en Espagne, le président français Emmanuel Macron a appelé mardi à un investissement massif en faveur d'une \"Europe plus forte\" et à \"reprendre le contrôle\" des réseaux sociaux et de l'IA, jugés responsables de la \"fatigue démocratique\". Cette visite a été ternie par le rejet, dans la soirée, du traité d'amitié franco-espagnol par le Sénat espagnol.",
-          "url": "https://www.france24.com/fr/europe/20260929-espagne-emmanuel-macron-visite-detat-plaide-europe-plus-forte-montee-des-extremes",
-          "imageUrl": "https://s.france24.com/media/display/6ecfe9ae-bc51-11f1-9ec3-177f79e345bf/w:1024/p:16x9/AP26272469993088.jpg",
-          "source": "France 24",
+          "id": "2026-09-30-38619c50",
+          "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+          "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+          "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-09-29T22:03:31.000Z",
-          "fetchedAt": "2026-09-30T05:40:19.727Z"
-        },
-        {
-          "id": "2026-09-29-81b0d983",
-          "title": "La dette de la France atteint 119% du PIB, la fonction publique dans la rue pour le pouvoir d'achat",
-          "description": "La dette de la France atteint 3595,5 milliards € au deuxième trimestre 2026, vient de dévoiler l'Insee, soit 119% du PIB : un niveau qui n'avait pas été atteint depuis 1946... Malgré les efforts de l'exécutif pour faire des économies, l'un des premiers postes du budget 2027 sera les intérêts de la dette : 77,4 milliards € en 2026 et 100 milliards en 2030. Parallèlement, des milliers de fonctionnaires ont protesté ce mardi contre le recul de leur pouvoir d'achat, érodé par les prix du carburant.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260929-la-dette-de-la-france-atteint-119-du-pib-la-fonction-publique-dans-la-rue-pour-le-pouvoir-d-achat",
-          "imageUrl": "https://s.france24.com/media/display/a244614c-bc48-11f1-b145-177f79e345bf/w:1024/p:16x9/XX-NW-OOV-ECO-POMPIERS-MANIF-MANENT-Laure.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-29T21:05:23.000Z",
-          "fetchedAt": "2026-09-30T05:40:19.727Z"
-        },
-        {
-          "id": "2026-09-29-7d6c7c4e",
-          "title": "Que retenir de la visite en France du pape Léon XIV ?",
-          "description": "Le 25 septembre, le pape Léon XIV est arrivé à Paris pour quatre journées intenses qui n’ont pas échappé à la presse étrangère. Entre un discours à l’Élysée, une messe géante place de la Concorde, un passage à Lourdes où il a évoqué les violences sexuelles commises au sein de l’Église, puis à Metz pour défendre les valeurs européennes, retour en vidéo sur cette première visite en France.",
-          "url": "https://www.courrierinternational.com/stories/video-que-retenir-de-la-visite-en-france-du-pape-leon-xiv_275006",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/28/0/0/6094/4063/1200/630/60/0/33cbf08_ftp-1-g1vnz3jrdwoz-afp-c9l43ga.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-29T16:56:14.000Z",
-          "fetchedAt": "2026-09-30T05:40:19.764Z"
-        },
-        {
-          "id": "2026-09-29-8bb50c52",
-          "title": "Argentine : en mission séduction en France, “Milei a besoin que Paris soit une fête”",
-          "description": "Javier Milei est, à partir de ce mardi 29 septembre, en déplacement en France, où il va rencontrer son homologue Emmanuel Macron et présider Argentina Week, un forum d’affaires. Alors que l’économie argentine a essuyé plusieurs revers, sa tâche sera d’attirer les investisseurs, mais aussi de convaincre dans son propre pays.",
-          "url": "https://www.courrierinternational.com/article/politique-argentine-en-mission-seduction-en-france-milei-a-besoin-que-paris-soit-une-fete_274992",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/29/54/0/3600/2400/1200/630/60/0/f6b65d5_ftp-1-nnidodrn4vy1-argentina-ai-1.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-09-29T16:09:25.000Z",
-          "fetchedAt": "2026-09-30T05:40:19.764Z"
+          "publishedAt": "2026-09-30T14:53:02.000Z",
+          "fetchedAt": "2026-10-01T06:05:53.271Z"
         }
       ]
     },
     {
-      "id": "cluster-26",
-      "topic": "Affaire Thélyson Orélien : qui est Samuel Fitoussi, l’essayiste à l’origine des ",
+      "id": "cluster-9",
+      "topic": "D’un sommet à l’autre, la Chine façonne un monde favorable à sa prééminence",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-10-01-b3b0628c",
+          "title": "D’un sommet à l’autre, la Chine façonne un monde favorable à sa prééminence",
+          "description": "Les réunions internationales auxquelles participe le président Xi Jinping donnent l’impression trompeuse de fournir peu de résultats. Mais Pékin cherche le soutien sans engagement du plus grand nombre de pays possible en vue d’asseoir sa place centrale.",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/01/d-un-sommet-a-l-autre-la-chine-faconne-un-monde-favorable-a-sa-preeminence_6786446_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-01T04:30:05.000Z",
+          "fetchedAt": "2026-10-01T06:05:46.459Z"
+        },
+        {
+          "id": "2026-09-30-27edbea2",
+          "title": "La Chine inaugure une installation militaire conjointe avec Vientiane au Laos",
+          "description": "La Chine et le Laos ont inauguré une installation militaire conjointe sur le site d'un aéroport au nord de Vientiane, ont annoncé, le 29 septembre 2026, les gouvernements des deux pays. Pékin élargit sa présence militaire dans la région.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20260930-la-chine-inaugure-une-installation-militaire-conjointe-avec-vientiane-au-laos",
+          "imageUrl": "https://s.rfi.fr/media/display/8bbd571c-bce3-11f1-8c6e-1b050e7dec5f/w:1024/p:16x9/Une-image-satellite-montre-la-construction-d-un-a%C3%A9roport-%C3%A0-Ban-Keun-o%C3%B9-le-minist%C3%A8re-chinois-de-la-D%C3%A9fense-nationale-affirme-avoir-ouvert-un-centre-conjoint-de-soutien-et-de-formation-militaires-dans-la-province-de-V.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-09-30T15:39:39.000Z",
+          "fetchedAt": "2026-10-01T06:05:53.348Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-43",
+      "topic": "« Nous devons essayer d’être un canal entre les industriels de l’IA et le monde ",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-09-29-b4baf996",
-          "title": "Affaire Thélyson Orélien : qui est Samuel Fitoussi, l’essayiste à l’origine des accusations d’utilisation de l’IA visant l’écrivain ?",
-          "description": "Le jeune chroniqueur du « Figaro » a reconnu être derrière le compte X à l’origine de la polémique visant Thélyson Orélien, accusé d’avoir écrit son livre « C’était ça ou mourir », sur un migrant haïtien, avec l’aide de l’IA. S’il jure avoir agi sans esprit partisan, il n’en reste pas moins proche des sphères conservatrices.",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/29/affaire-thelyson-orelien-qui-est-samuel-fitoussi-l-essayiste-a-l-origine-des-accusations-d-utilisation-de-l-ia-visant-l-ecrivain_6785657_4500055.html",
+          "id": "2026-09-30-17a00362",
+          "title": "« Nous devons essayer d’être un canal entre les industriels de l’IA et le monde mathématique universitaire »",
+          "description": "Le mathématicien français François Charles, membre du nouveau Groupe consultatif en mathématiques et intelligence artificielle annoncé par OpenAI, à la suite de polémiques dans la discipline, précise le rôle de ce comité indépendant.",
+          "url": "https://www.lemonde.fr/sciences/article/2026/09/30/nous-devons-essayer-d-etre-un-canal-entre-les-industriels-de-l-ia-et-le-monde-mathematique-universitaire_6786053_1650684.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-09-29T16:00:23.000Z",
-          "fetchedAt": "2026-09-30T05:40:24.393Z"
+          "publishedAt": "2026-09-30T11:34:43.000Z",
+          "fetchedAt": "2026-10-01T06:05:53.227Z"
         },
         {
-          "id": "2026-09-28-4faa6b89",
-          "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-          "description": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
-          "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-          "source": "Ars Technica",
+          "id": "2026-09-30-8d1d7aa0",
+          "title": "Un joueur de Metal Gear Solid 2 a fait une découverte historique",
+          "description": "Grosse découverte pour les speedrunners de Metal Gear Solid 2: Sons of Liberty, qui tentent de finir le jeu le plus vite possible. Le speedrunner apel a trouvé une faille qui permet d'éviter Olga, le tout premier boss du jeu. En 25 ans, personne n'avait réussi à sauter un combat de boss dans Metal Gear Solid 2.",
+          "url": "https://www.numerama.com/pop-culture/2343777-un-joueur-de-metal-gear-solid-2-a-fait-une-decouverte-historique.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/ss-d834fc54757d793a56f13695bc51b25128db39fd1920x1080.jpg?resize=1600,900&key=0ebb9083",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-09-28T21:49:10.000Z",
-          "fetchedAt": "2026-09-30T05:40:28.185Z"
+          "publishedAt": "2026-09-30T10:00:00.000Z",
+          "fetchedAt": "2026-10-01T06:05:53.325Z"
         },
         {
-          "id": "2026-09-28-0455b6b9",
-          "title": "Trump cuts fuel economy standards back to 2014 levels",
-          "description": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
-          "url": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-155384429-2560x1440.jpg",
-          "source": "Ars Technica",
+          "id": "2026-09-29-36c14b99",
+          "title": "OpenAI pousse la logique des agents IA en proposant un genre de collaborateur virtuel actif « vingt-quatre heures sur vingt-quatre »",
+          "description": "Dots, la fonctionnalité annoncée par la start-up lors d’une conférence, mardi, rappelle la logique d’assistants IA capables de réaliser des tâches en continu, comme Muse, de Meta, ou OpenClaw.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/30/openai-pousse-la-logique-des-agents-ia-en-proposant-un-genre-de-collaborateur-virtuel-actif-vingt-quatre-heures-sur-vingt-quatre_6785725_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-09-28T19:35:51.000Z",
-          "fetchedAt": "2026-09-30T05:40:28.185Z"
+          "publishedAt": "2026-09-29T22:15:01.000Z",
+          "fetchedAt": "2026-10-01T06:05:53.227Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Household energy bills forecast to see biggest rise in four years",
+      "id": "cluster-2",
+      "topic": "'We're still cold paying £300 a month energy bills'",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-09-30-1a6f4edd",
-          "title": "Household energy bills forecast to see biggest rise in four years",
-          "description": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b79a/live/9a0501e0-bc24-11f1-bd53-1b67dc8fba34.jpg",
+          "id": "2026-10-01-2c5d2d9b",
+          "title": "'We're still cold paying £300 a month energy bills'",
+          "description": "Redditch residents say they are worried they will not be able to afford heating.",
+          "url": "https://www.bbc.co.uk/news/articles/c9gk5v25xk5jo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cea/live/39508210-bc02-11f1-bc1f-3f186ca4140c.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-09-30T05:27:23.000Z",
-          "fetchedAt": "2026-09-30T05:40:30.614Z"
+          "publishedAt": "2026-10-01T05:23:08.000Z",
+          "fetchedAt": "2026-10-01T06:06:00.006Z"
         }
       ]
     }
