@@ -1,242 +1,231 @@
 {
-  "generatedAt": "2026-10-02T05:52:39.259Z",
+  "generatedAt": "2026-10-03T05:29:12.255Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-4",
-      "topic": "Prisonniers nord-coréens : Séoul exige des excuses de Kiev pour avoir révélé un ",
+      "id": "cluster-1",
+      "topic": "Élections au Brésil: le duel Lula-Bolsonaro, un air de déjà vu",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-02-5809395c",
-          "title": "Prisonniers nord-coréens : Séoul exige des excuses de Kiev pour avoir révélé un transfert secret",
-          "description": "La révélation unilatérale par Kiev du transfert de deux prisonniers de guerre nord-coréens en Corée du Sud a rompu, selon le président sud-coréen, Lee Jae-myung, un accord de confidentialité. Celui-ci a prévenu, vendredi, que Séoul prendra \"d'autres mesures\" si Kiev refuse de présenter des excuses officielles.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20261002-prisonniers-nord-cor%C3%A9ens-s%C3%A9oul-met-en-garde-l-ukraine-et-exige-des-excuses",
-          "imageUrl": "https://s.france24.com/media/display/e237e110-be1f-11f1-b48e-1ff0321dbbd3/w:1024/p:16x9/AP26274135799653.jpg",
-          "source": "France 24",
+          "id": "2026-10-03-4a8653cf",
+          "title": "Élections au Brésil: le duel Lula-Bolsonaro, un air de déjà vu",
+          "description": "Un scrutin décisif se joue au Brésil dimanche 4 octobre. Dans ce pays fortement polarisé, la gauche de l’actuel président Luiz Inácio Lula da Silva est aux coudes-à-coudes face à l’extrême droite de Flávio Bolsonaro, fils de l’ex-président Jair Bolsonaro. Deux visions du Brésil et de sa place à l’international s’opposent.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261003-%C3%A9lections-au-br%C3%A9sil-le-duel-lula-bolsonaro-un-air-de-d%C3%A9j%C3%A0-vu",
+          "imageUrl": "https://s.rfi.fr/media/display/8d1dddd4-be87-11f1-86f8-1ff0321dbbd3/w:1024/p:16x9/000-C9LQ3ZQ.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-02T05:31:40.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.934Z"
+          "publishedAt": "2026-10-03T05:20:53.000Z",
+          "fetchedAt": "2026-10-03T05:25:16.820Z"
         },
         {
-          "id": "2026-10-02-f88aa74f",
-          "title": "EN DIRECT, guerre en Ukraine : Séoul exige une nouvelle fois des excuses de Kiev pour avoir dévoilé le transfert de prisonniers nord-coréens",
-          "description": "La présidence sud-coréenne a averti vendredi qu’elle prendrait « d’autres mesures » si l’Ukraine ne présentait pas d’excuses officielles pour avoir révélé le transfert de deux soldats nord-coréens en Corée du Sud, après leur capture par les forces armées de Kiev pendant le conflit avec la Russie.",
-          "url": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-seoul-exige-une-nouvelle-fois-des-excuses-de-kiev-pour-avoir-devoile-le-transfert-de-prisonniers-nord-coreens_6783795_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-02T04:17:27.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.681Z"
-        },
-        {
-          "id": "2026-10-02-e90781a5",
-          "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-          "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25fd/live/4b4dfad0-be0d-11f1-92ea-016450691ea1.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-02T03:09:13.000Z",
-          "fetchedAt": "2026-10-02T05:48:43.454Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-10-02-dce3b769",
-          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-          "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-          "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-02T05:26:06.000Z",
-          "fetchedAt": "2026-10-02T05:48:43.454Z"
-        },
-        {
-          "id": "2026-10-02-b94db32f",
-          "title": "Washington fait pression sur l’Europe pour qu’elle libère ses réserves de gazole",
-          "description": "L’administration Trump a appelé jeudi les Européens à mettre “immédiatement” ce carburant sur le marché pour contrer l’envolée des prix de l’énergie. Selon plusieurs médias, Washington fait notamment pression sur la France et l’Allemagne pour qu’elles puisent dans leurs réserves stratégiques. Les pays de l’UE doivent se réunir vendredi pour tenter d’apporter une réponse unie aux demandes américaines.",
-          "url": "https://www.courrierinternational.com/article/energie-washington-fait-pression-sur-l-europe-pour-qu-elle-libere-ses-reserves-de-gazole_275520",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/30/0/0/5443/3629/1200/630/60/0/1a7c677_ftp-1-5cqagnesmx0h-2026-09-30t205758z-1909705129-rc2wtnajfslj-rtrmadp-3-usa-trump.JPG",
+          "id": "2026-10-03-2b8ea0b8",
+          "title": "Le pesto n’est plus qu’un ketchup pour frimeurs",
+          "description": "Ce journaliste du “Spiegel” cède à l’envie de pester devant les sandwichs au pesto, pizzas au pesto, et autres sushis au pesto. Il est devenu impossible d’échapper au condiment originaire de Gênes et à ses ersatz vert pâle.",
+          "url": "https://www.courrierinternational.com/article/le-courrier-des-recettes-le-pesto-n-est-plus-qu-un-ketchup-pour-frimeurs_271066",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/02/46/0/6006/4004/1200/630/60/0/20f4391_upload-1-rxoyyapza81f-049-f0440120.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-02T04:00:12.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.883Z"
+          "publishedAt": "2026-10-03T03:00:24.000Z",
+          "fetchedAt": "2026-10-03T05:25:12.204Z"
         },
         {
-          "id": "2026-10-02-a818f3d8",
-          "title": "« Le sort violent que fait subir Donald Trump au Kennedy Center est inimaginable, mais la même chose peut arriver demain à des lieux culturels en France »",
-          "description": "Depuis trois ans en Europe, les mots de dirigeants d’extrême droite, de droite aussi, parfois de gauche, ont des accents trumpistes : la culture doit être au service des élus, il faut écarter les artistes qui salissent le pays avec l’argent public, remarque Michel Guerrin, chroniqueur au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/02/le-sort-violent-que-fait-subir-donald-trump-au-kennedy-center-est-inimaginable-mais-la-meme-chose-peut-arriver-demain-a-des-lieux-culturels-en-france_6786793_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-10-03-e7eade58",
+          "title": "En Côte d’Ivoire, un fragile refuge pour les homosexuels africains persécutés",
+          "description": "En Afrique, la multiplication des lois qui criminalisent l’homosexualité entraîne des violences généralisées contre les personnes LGBTQ+. Le quotidien espagnol “El País” s’est rendu à Abidjan, en Côte d’Ivoire, où l’ONG Arc-en-ciel accueille celles et ceux qui fuient ces mauvais traitements.",
+          "url": "https://www.courrierinternational.com/article/reportage-en-cote-d-ivoire-un-fragile-refuge-pour-les-homosexuels-africains-persecutes_251826",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/29/0/106/2188/1459/1200/630/60/0/920d0f2_upload-1-81mhsshboj11-homosexuality-zambia-alta-w.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-02T03:00:31.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.681Z"
+          "publishedAt": "2026-10-03T03:00:21.000Z",
+          "fetchedAt": "2026-10-03T05:25:12.204Z"
         },
         {
-          "id": "2026-10-01-9e795029",
-          "title": "Carburants : Donald Trump dit qu’il « pourrait » demander aux Européens de puiser dans leurs réserves de gazole pour faire baisser les prix",
-          "description": "Le ministre des finances américain, Scott Bessent, a appelé jeudi les Européens à mettre « immédiatement » du gazole sur le marché pour contrer l’envolée du prix du carburant, avant une réunion d’urgence des pays de l’UE sur le sujet.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/02/carburants-donald-trump-dit-qu-il-pourrait-demander-aux-europeens-de-puiser-dans-leurs-reserves-de-gazole-pour-faire-baisser-les-prix_6786592_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-01T21:59:57.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.681Z"
-        },
-        {
-          "id": "2026-10-01-620cab3c",
-          "title": "Hausse des prix du diesel : Washington presse les Européens de puiser dans leurs réserves",
-          "description": "À la veille d'une réunion d'urgence de l'UE, les États-Unis réclament une mise sur le marché \"immédiate\" de volumes supplémentaires de diesel, tout en menaçant selon la presse d'interdire ses exportations si les Européens refusent. Le prix du gazole atteint des records des deux côtés de l'Atlantique, pénalisé par les frappes ukrainiennes sur les raffineries russes et le verrouillage du détroit d'Ormuz par l'Iran.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261001-hausse-prix-diesel-washington-presse-europeens-puiser-reserves",
-          "imageUrl": "https://s.france24.com/media/display/e08706aa-bde0-11f1-9fd7-dd51fcab6130/w:1024/p:16x9/AP26274756029238.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-01T21:49:27.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.934Z"
-        },
-        {
-          "id": "2026-10-01-c1bc23f6",
-          "title": "Exécution ratée de Christa Pike aux États-Unis: un fiasco qui ravive de nombreuses questions",
-          "description": "L'exécution programmée de Christa Pike dans le Tennessee, mercredi 30 septembre, a viré au désastre. De quoi relancer le débat sur la peine de mort.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261001-ex%C3%A9cution-rat%C3%A9e-de-christa-pike-aux-%C3%A9tats-unis-un-fiasco-qui-ravive-de-nombreuses-questions",
-          "imageUrl": "https://s.rfi.fr/media/display/31848da8-bdcc-11f1-8127-69fad0a7cb9f/w:1024/p:16x9/ETATS-UNIS-PEINE-DE-MORT.jpg",
+          "id": "2026-10-02-0b57bbb5",
+          "title": "Thaïlande: à la K-pop Academy de Bangkok, tous rêvent de devenir une idole dès le plus jeune âge",
+          "description": "En Thaïlande, le succès grandissant de la K-pop, ce style musical coréen au succès planétaire, a fait naître des vocations. À Bangkok, depuis peu, des académies de K-pop ont émergé, pour fabriquer des futures idoles. Dès l'enfance, ils et elles suivent une formation pour espérer un jour être repéré(e)s par une prestigieuse agence coréenne et partir vivre leur rêve.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261002-tha%C3%AFlande-%C3%A0-la-k-pop-academy-de-bangkok-tous-r%C3%AAvent-de-devenir-une-idole-d%C3%A8s-le-plus-jeune-%C3%A2ge",
+          "imageUrl": "https://s.rfi.fr/media/display/ced92308-bea2-11f1-be07-578a4b968fd6/w:1024/p:16x9/000-334Z3NL.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-01T19:16:44.000Z",
-          "fetchedAt": "2026-10-02T05:48:43.596Z"
+          "publishedAt": "2026-10-02T22:10:21.000Z",
+          "fetchedAt": "2026-10-03T05:25:16.820Z"
+        },
+        {
+          "id": "2026-10-02-b1d25e94",
+          "title": "Thierry Breton : « L’Europe apparaît trop souvent comme un grand marché, pas comme une puissance »",
+          "description": "Pour l’ancien commissaire européen, si le marché intérieur de l’Europe est un formidable instrument de paix et de prospérité, il est aussi le symptôme d’un renoncement : celui de penser l’Europe comme puissance stratégique autonome.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/02/thierry-breton-l-europe-apparait-trop-souvent-comme-un-grand-marche-pas-comme-une-puissance_6787205_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-02T17:00:30.000Z",
+          "fetchedAt": "2026-10-03T05:25:11.932Z"
+        },
+        {
+          "id": "2026-10-02-1d0a5756",
+          "title": "Brésil : Lula, un président candidat à 80 ans",
+          "description": "À bientôt 81 ans, Lula veut montrer qu'il a l'énergie pour présider encore le Brésil. Après de la prison, une condamnation pour corruption, un cancer de la peau, il brigue un quatrième mandat à la tête du pays. Les 4 et 25 octobre, il affrontera Flavio Bolsonaro dans un duel qui s'annonce serré.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-br%C3%A9sil-lula-un-pr%C3%A9sident-candidat-%C3%A0-80-ans",
+          "imageUrl": "https://s.france24.com/media/display/33b605c4-be7c-11f1-ade9-dd51fcab6130/w:1024/p:16x9/FR-vignette-Lula0.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-02T16:33:01.000Z",
+          "fetchedAt": "2026-10-03T05:25:12.028Z"
         }
       ]
     },
     {
-      "id": "cluster-10",
-      "topic": "Royaume-Uni : Andy Burnham ouvre la voie à un « Breturn », le retour de son pays",
+      "id": "cluster-14",
+      "topic": "«Au bord du précipice»: à Kiev, les frappes russes sur les ponts perturbent fort",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-02-74e9f154",
-          "title": "Royaume-Uni : Andy Burnham ouvre la voie à un « Breturn », le retour de son pays dans l’UE",
-          "description": "Le premier ministre travailliste insiste sur les bénéfices économiques d’un tel mouvement, mais Bruxelles reste très prudent et les formes que pourrait prendre la réintégration de Londres dans le giron européen restent floues.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/02/royaume-uni-andy-burnham-ouvre-la-voie-a-un-breturn-le-retour-de-son-pays-dans-l-ue_6786937_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-02T04:53:13.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.681Z"
-        },
-        {
-          "id": "2026-10-02-70bedb9a",
-          "title": "Blocage des lycées, projet d’attaque au Royaume-Uni, Jordan Bardella, exécution de Christa Pike : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-blocage-des-lycees-projet-d-attaque-au-royaume-uni-jordan-bardella-execution-de-christa-pike-les-informations-de-la-nuit_275487",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/01/0/0/5676/3784/1200/630/60/0/e5ff6b2_ftp-1-y8pxmdn5o1l0-afp-c9wb46p.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-02T03:00:14.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.883Z"
-        },
-        {
-          "id": "2026-10-02-b73b131b",
-          "title": "Après la crise migratoire de Ceuta, l’UE envisage un tour de vis sécuritaire à ses frontières extérieures",
-          "description": "Pour la première fois depuis la crise migratoire de Ceuta, à la fin du mois de juillet, lorsque 70 000 migrants ont afflué du Maroc vers l'enclave espagnole, les ministres de l’Intérieur de l’Union européenne se sont physiquement réunis lors d'une réunion organisée jeudi 1er octobre à Luxembourg. À cette occasion, plusieurs pays ont fait part de leur volonté de renforcer la surveillance des frontières extérieures de l’UE et évoqué des pistes qui représenteraient un sérieux tour de vis sécuritaire.",
-          "url": "https://www.rfi.fr/fr/europe/20261002-apr%C3%A8s-la-crise-migratoire-de-ceuta-l-ue-envisage-un-tour-de-vis-s%C3%A9curitaire-%C3%A0-ses-fronti%C3%A8res-ext%C3%A9rieures",
-          "imageUrl": "https://s.rfi.fr/media/display/aea6cf2e-bde2-11f1-8dbb-69fad0a7cb9f/w:1024/p:16x9/2026-09-18T010721Z-2125994934-RC2YYKASOKRW-RTRMADP-3-NEWZEALAND-EU.jpg",
+          "id": "2026-10-03-5464bb82",
+          "title": "«Au bord du précipice»: à Kiev, les frappes russes sur les ponts perturbent fortement la circulation",
+          "description": "En Ukraine, la Russie poursuit ses frappes contre Kiev et vise désormais les ponts qui relient les deux rives de la ville. Dans la nuit du jeudi 1er au vendredi 2 octobre, le pont sud a ainsi été touché, provoquant de fortes perturbations pour ceux qui ont l'habitude de traverser le Dnipro en métro ou en voiture. Un chaos routier qui devrait se poursuivre tout le week-end et constitue une nouvelle épreuve pour les habitants de la capitale.",
+          "url": "https://www.rfi.fr/fr/europe/20261003-au-bord-du-pr%C3%A9cipice-%C3%A0-kiev-les-frappes-russes-sur-les-ponts-perturbent-fortement-la-circulation",
+          "imageUrl": "https://s.rfi.fr/media/display/c409a470-beac-11f1-ae0e-578a4b968fd6/w:1024/p:16x9/2026-10-02T171530Z-269958921-RC22VNALLXER-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV-BRIDGE.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-02T02:50:43.000Z",
-          "fetchedAt": "2026-10-02T05:48:43.596Z"
+          "publishedAt": "2026-10-03T03:03:21.000Z",
+          "fetchedAt": "2026-10-03T05:25:16.820Z"
         },
         {
-          "id": "2026-10-01-316d3272",
-          "title": "Deuxième débat de la primaire de la gauche : une possible alliance avec LFI divise",
-          "description": "Lors d'un deuxième débat télévisé, jeudi soir, les cinq candidats à la primaire de la gauche sociale-démocrate, et en particulier Raphaël Glucksmann et Olivier Faure, se sont opposés sur une possible alliance avec La France insoumise et sur l'emploi du mot \"génocide\" à Gaza. Tous se sont en revanche accordés pour juger Jordan Bardella \"disqualifié\", après les accusations d'antisémitisme publiées par Mediapart.",
-          "url": "https://www.france24.com/fr/france/20261001-deuxieme-debat-primaire-gauche-possible-alliance-lfi-divise-genocide-gaza-glucksmann-faure",
-          "imageUrl": "https://s.france24.com/media/display/f760f6ae-bdec-11f1-b082-dd51fcab6130/w:1024/p:16x9/000-C9YW8PM.jpg",
-          "source": "France 24",
+          "id": "2026-10-02-8433c818",
+          "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+          "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+          "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b383/live/9bf9c6a0-be8d-11f1-bc2e-018d645d8d21.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-10-01T23:14:26.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.934Z"
-        },
-        {
-          "id": "2026-10-01-a2f1c36d",
-          "title": "Manifs étudiantes et lycéennes : les casseurs, une vieille histoire ?",
-          "description": "De Mai-68 à aujourd’hui, en passant par le mouvement contre la loi Devaquet, les étudiants ont régulièrement fait trembler le pouvoir. Et les casseurs se sont souvent invités au sein de leurs rangs. Ce jeudi, la situation a d’ailleurs fortement dégénéré au sein des manifestations lycéennes, à tel point que tous les préfets ont pris des arrêtés d’interdiction de manifester ce vendredi aux abords des lycées fermés.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261001-manifs-%C3%A9tudiantes-les-casseurs-une-vieille-histoire",
-          "imageUrl": "https://s.france24.com/media/display/00f9de68-bde5-11f1-be33-578a4b968fd6/w:1024/p:16x9/FRAN261001-2339-Live-CS2339.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-01T22:21:31.000Z",
-          "fetchedAt": "2026-10-02T05:48:38.934Z"
-        },
-        {
-          "id": "2026-10-01-8a951176",
-          "title": "Élections législatives en Lettonie: un vote sous haute tension sécuritaire et économique",
-          "description": "Les Lettons vont aux urnes ce samedi 3 octobre 2026 pour renouveler leur Parlement. Quatorze listes, près de 1 400 candidats pour 100 sièges : dans ce pays limitrophe, la défense et la sécurité sont évidemment dans le débat, mais le consensus pour la financer est assez large. Les questions de société dominent depuis les manifestations pour défendre la Convention d'Istanbul qui protège les droits des femmes. À l'issue du scrutin, la répartition des forces politiques va déterminer la nouvelle coalition gouvernementale. État des lieux avec notre correspondante dans les pays baltes.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261001-%C3%A9lections-l%C3%A9gislatives-en-lettonie-un-vote-sous-haute-tension-s%C3%A9curitaire-et-%C3%A9conomique",
-          "imageUrl": "https://s.rfi.fr/media/display/e996c354-bdbb-11f1-a846-13420ab900a2/w:1024/p:16x9/000-C9LE6CT.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-01T22:04:22.000Z",
-          "fetchedAt": "2026-10-02T05:48:43.596Z"
+          "publishedAt": "2026-10-02T15:26:37.000Z",
+          "fetchedAt": "2026-10-03T05:25:16.847Z"
         }
       ]
     },
     {
-      "id": "cluster-9",
-      "topic": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "id": "cluster-16",
+      "topic": "Éthiopie: une milice alliée au gouvernement fédéral revendique la prise de l'aér",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-10-03-0c4e673f",
+          "title": "Éthiopie: une milice alliée au gouvernement fédéral revendique la prise de l'aéroport de Mekele",
+          "description": "Faite sur le réseau social X, l'annonce intervient alors que les Forces de paix du Tigré (TPF) ont déjà repris le contrôle de plusieurs localités du sud du Tigré ces derniers jours. L'aéroport de Mekele avait été pris le 23 septembre dernier par le Front de libération du peuple du Tigré (TPLF), au début de l'offensive lancée par la nouvelle alliance d’opposition hostile au gouvernement fédéral.",
+          "url": "https://www.rfi.fr/fr/afrique/20261003-%C3%A9thiopie-une-milice-alli%C3%A9e-au-gouvernement-f%C3%A9d%C3%A9ral-revendique-la-prise-de-l-a%C3%A9roport-de-mekele",
+          "imageUrl": "https://s.rfi.fr/media/display/4848fa96-d971-11eb-8d0b-005056bf30b7/w:1024/p:16x9/mekele-statue-aeroport-ethiopie-tigre.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-03T03:01:49.000Z",
+          "fetchedAt": "2026-10-03T05:25:16.820Z"
+        },
+        {
+          "id": "2026-10-02-0a40d107",
+          "title": "Non, la police nationale n’a pas lâché un chien sur des lycéens à Lille",
+          "description": "Sur la base d’une vidéo circulant sur les réseaux sociaux, la police nationale a été accusée d’avoir lâché un chien sur les élèves qui avaient organisé mardi le blocus du lycée César Baggio, à Lille. Or, selon les journalistes qui couvraient l'événement, le chien visible dans la vidéo n'appartenait pas aux forces de l’ordre.",
+          "url": "https://www.france24.com/fr/france/20261002-non-police-nationale-pas-l%C3%A2ch%C3%A9-chien-sur-lyc%C3%A9ens-lille",
+          "imageUrl": "https://s.france24.com/media/display/fc9af240-be7e-11f1-a623-69fad0a7cb9f/w:1024/p:16x9/image2-143.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-02T17:42:33.000Z",
+          "fetchedAt": "2026-10-03T05:25:12.028Z"
+        },
+        {
+          "id": "2026-10-02-ae730710",
+          "title": "Au Pérou, la violence politique et le crime organisé gangrènent la campagne pour les élections municipales et régionales",
+          "description": "Le Jury national des élections a rapporté 83 agressions et menaces envers les candidats en amont du scrutin prévu dimanche 4 octobre. Du jamais-vu depuis le retour de la démocratie en 2001.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/02/au-perou-la-violence-politique-et-le-crime-organise-gangrenent-la-campagne-pour-les-elections-municipales-et-regionales_6787195_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-02T16:30:07.000Z",
+          "fetchedAt": "2026-10-03T05:25:11.932Z"
+        },
+        {
+          "id": "2026-10-02-4c43f3ee",
+          "title": "L’exécution ratée de Christa Pike restera “une souillure morale sur l’honneur de l’Amérique”",
+          "description": "Les souffrances endurées par la condamnée à mort Christa Pike, qui, pour l’heure, a survécu à l’injection létale qui lui a été administrée dans le Tennessee, sont une abomination, souligne ce chroniqueur de “USA Today”. Il a assisté, en tant que journaliste, à l’exécution de plusieurs condamnés à mort au début des années 2000 et estime que non seulement la peine capitale ne répare rien, mais qu’“elle ronge notre âme”.",
+          "url": "https://www.courrierinternational.com/article/opinion-l-execution-ratee-de-christa-pike-restera-une-souillure-morale-sur-l-honneur-de-l-amerique_275593",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/02/0/0/3326/2217/1200/630/60/0/1000c40_upload-1-53zui3e3ufau-206154.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-02T16:03:09.000Z",
+          "fetchedAt": "2026-10-03T05:25:12.204Z"
+        },
+        {
+          "id": "2026-10-02-37612c1f",
+          "title": "Caroline Darian, fille de Gisèle Pélicot: «La soumission chimique n'est ni un cas isolé, ni un fait divers»",
+          "description": "Caroline Darian, fille de Gisèle Pelicot à la tête de l’association #Mendors pas Stop à la soumission chimique entend lutter contre un « fléau de santé publique ». «Toute la difficulté pour les victimes est de se rendre compte qu'elles ont été droguées à leur insu et de pouvoir raconter ce qu'elles ont vécu car la soumission chimique utilisée par les agresseurs leur enlève une partie de leur histoire », alerte celle qui n'a cessé d'alerter, d'informer et de sensibiliser le grand public.",
+          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261002-caroline-darian-fille-de-gis%C3%A8le-p%C3%A9licot-la-soumission-chimique-n-est-ni-un-cas-isol%C3%A9-ni-un-fait-divers",
+          "imageUrl": "https://s.rfi.fr/media/display/03fed0c8-6c4d-11ef-aa5b-005056a90284/w:1024/p:16x9/AP24249386498636.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-02T15:39:55.000Z",
+          "fetchedAt": "2026-10-03T05:25:16.820Z"
+        },
+        {
+          "id": "2026-10-02-968f733c",
+          "title": "50 euros pour un mâle, 70 pour une femelle : le Portugal part à la chasse aux sangliers",
+          "description": "Cultures ravagées, accidents de la route, rencontres fortuites dans les villages : la prolifération des sangliers inquiète les autorités portugaises. Le gouvernement s’apprête à rémunérer les abattages, tandis que plusieurs communes ont déjà pris les devants.",
+          "url": "https://www.courrierinternational.com/article/animaux-50-euros-pour-un-male-70-pour-une-femelle-le-portugal-part-a-la-chasse-aux-sangliers_275613",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/02/0/0/6000/4000/1200/630/60/0/e064b87_upload-1-j2ukarnxkywz-mikewildadventure-wild-boar-5219653.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-02T15:27:11.000Z",
+          "fetchedAt": "2026-10-03T05:25:12.204Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-01-e5cbd7a6",
-          "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-          "description": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-          "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+          "id": "2026-10-02-4be7cfcb",
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
           "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-10-01T20:11:55.000Z",
-          "fetchedAt": "2026-10-02T05:48:47.062Z"
+          "publishedAt": "2026-10-02T23:03:16.000Z",
+          "fetchedAt": "2026-10-03T05:25:21.879Z"
         },
         {
-          "id": "2026-10-01-d4606327",
-          "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-          "description": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC and Chegg's claims don't stand up to antitrust law.\nIn lawsuits filed last year, Chegg and PMC accused Google of abusing its monopoly power by coercing publishers into supplying content for AI Overviews for free, or risk disappearing from search results. The publishers alleged Google's practices diverted …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-10-02-ac153d8f",
+          "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+          "description": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.\"\nThe change comes just weeks after Inc's Jason Aten found that Meta's Muse AI somehow knew the contents of his messages, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone pushed back on this report, saying access to Messages is \"entirely opt-in. …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-10-01T17:12:21.000Z",
-          "fetchedAt": "2026-10-02T05:48:46.936Z"
+          "publishedAt": "2026-10-02T20:08:40.000Z",
+          "fetchedAt": "2026-10-03T05:25:21.911Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Comment le cinéma a donné le beau rôle à la voiture",
+      "id": "cluster-1",
+      "topic": "L’impact du régime fiscal sur le traitement des loyers impayés en location meubl",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-10-02-18ed8443",
-          "title": "Comment le cinéma a donné le beau rôle à la voiture",
-          "description": "Surreprésentée sur grand écran, l’automobile y apparaît comme un cocon sécurisé et un vecteur de liberté. Elle se plie à tous les besoins du scénario, au détriment, parfois, du réalisme.",
-          "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/10/02/comment-le-cinema-a-donne-le-beau-role-a-la-voiture_6786971_6065879.html",
+          "id": "2026-10-03-53b87ed2",
+          "title": "L’impact du régime fiscal sur le traitement des loyers impayés en location meublée",
+          "description": "Dans certains cas, les loyers sont imposables dès lors qu’ils sont dus, rappelle Baptiste Bochart, juriste au cabinet JD2M.",
+          "url": "https://www.lemonde.fr/argent/article/2026/10/03/l-impact-du-regime-fiscal-sur-le-traitement-des-loyers-impayes-en-location-meublee_6787531_1657007.html",
           "imageUrl": null,
           "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-10-02T05:00:05.000Z",
-          "fetchedAt": "2026-10-02T05:48:46.876Z"
+          "publishedAt": "2026-10-03T04:00:25.000Z",
+          "fetchedAt": "2026-10-03T05:25:21.885Z"
         }
       ]
     }
