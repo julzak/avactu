@@ -1,286 +1,209 @@
 {
-  "generatedAt": "2026-10-04T06:05:04.364Z",
+  "generatedAt": "2026-10-05T05:54:31.863Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Présidentielle au Brésil : Lula et Flavio Bolsonaro au coude à coude à l’heure d",
+      "topic": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-04-be6a68a5",
-          "title": "Présidentielle au Brésil : Lula et Flavio Bolsonaro au coude à coude à l’heure du scrutin",
-          "description": "Les Brésiliens sont appelés aux urnes dimanche pour choisir entre le président de gauche Lula et son rival conservateur Flavio Bolsonaro, lors du premier tour d'une présidentielle qui s'annonce extrêmement serrée. Les deux candidats sont au coude à coude dans les derniers sondages, aucun n'approchant les 50 %.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261004-bresil-lula-et-flavio-bolsonaro-presidentielle-bureau-vote-campagne-sondages",
-          "imageUrl": "https://s.france24.com/media/display/5f5eaeaa-bf86-11f1-a8f4-69fad0a7cb9f/w:1024/p:16x9/97707898cdd0d617132dc122ba784bba27a5ca5d.jpg",
-          "source": "France 24",
+          "id": "2026-10-05-e7ad4bd0",
+          "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+          "description": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
+          "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3eaa/live/091199c0-c06e-11f1-9135-d3a6369912e1.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-10-04T05:18:52.000Z",
-          "fetchedAt": "2026-10-04T06:01:03.659Z"
+          "publishedAt": "2026-10-05T05:28:46.000Z",
+          "fetchedAt": "2026-10-05T05:50:39.932Z"
         },
         {
-          "id": "2026-10-04-44966872",
-          "title": "Les élections législatives au Brésil pourraient donner à la droite la majorité absolue au Sénat",
-          "description": "En cas de victoire présidentielle de Lula, son action pourrait être contrecarrée par une Assemblée et un Sénat favorables aux idées de son adversaire, Flavio Bolsonaro. Les résultats des élections générales dimanche 4 octobre revêtent donc un enjeu considérable.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/04/les-elections-legislatives-au-bresil-pourraient-donner-a-la-droite-la-majorite-absolue-au-senat_6787995_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-04T03:00:08.000Z",
-          "fetchedAt": "2026-10-04T06:01:03.596Z"
-        },
-        {
-          "id": "2026-10-03-047fe4be",
-          "title": "Les élections brésiliennes, un festival de candidats loufoques",
-          "description": "Comme à chaque scrutin, les candidats aux législatives brésiliennes, organisées ce dimanche 4 octobre, sont nombreux à jouer sur l’humour et les références à des personnalités connues pour se faire remarquer. Petit florilège avec la presse brésilienne.",
-          "url": "https://www.courrierinternational.com/article/politique-les-elections-bresiliennes-un-festival-de-candidats-loufoques_275625",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/27/0/0/6000/4000/1200/630/60/0/6015acc_ftp-1-ockq6nrd8qa4-2026-09-27t165329z-1224531896-rc2qrnaly4vc-rtrmadp-3-brazil-election-lula-supporters-rally.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-03T15:48:02.000Z",
-          "fetchedAt": "2026-10-04T06:01:03.757Z"
-        },
-        {
-          "id": "2026-10-03-9e66339f",
-          "title": "Présidentielle au Brésil : Lula et Bolsonaro au coude-à-coude",
-          "description": "Les Brésiliens votent dimanche pour le premier tour de l'élection présidentielle. Le président de gauche Luiz Inacio Lula da Silva, 80 ans, brigue un quatrième mandat non consécutif. Il a pour principal adversaire le candidat d'extrême droite Flavio Bolsonaro, 45 ans, fils de l'ancien président Jair Bolsonaro. Le président Lula compte notamment sur le soutien de la nouvelle classe moyenne, mais cela n'est pas garanti. Reportage de Valeria Saccone, avec le récit d'Antoine Fenaux.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-bolsonaro-au-coude-%C3%A0-coude",
-          "imageUrl": "https://s.france24.com/media/display/a7ad8bb6-bf0b-11f1-98ec-13420ab900a2/w:1024/p:16x9/FR-20261003-110104-110348-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-03T09:34:23.000Z",
-          "fetchedAt": "2026-10-04T06:01:03.659Z"
-        },
-        {
-          "id": "2026-10-03-4a8653cf",
-          "title": "Élections au Brésil: le duel Lula-Bolsonaro, un air de déjà vu",
-          "description": "Un scrutin décisif se joue au Brésil dimanche 4 octobre. Dans ce pays fortement polarisé, la gauche de l’actuel président Luiz Inácio Lula da Silva est aux coudes-à-coudes face à l’extrême droite de Flávio Bolsonaro, fils de l’ex-président Jair Bolsonaro. Deux visions du Brésil et de sa place à l’international s’opposent.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261003-%C3%A9lections-au-br%C3%A9sil-le-duel-lula-bolsonaro-un-air-de-d%C3%A9j%C3%A0-vu",
-          "imageUrl": "https://s.rfi.fr/media/display/8d1dddd4-be87-11f1-86f8-1ff0321dbbd3/w:1024/p:16x9/000-C9LQ3ZQ.jpg",
+          "id": "2026-10-04-2fa50003",
+          "title": "Pakistan: une marche en soutien à Imran Khan démarre dans un climat politique tendu",
+          "description": "Après l’échec de négociations entamées vendredi 2 octobre avec les autorités, le PTI, la principale force d’opposition au Pakistan, a lancé aujourd’hui une grande marche en soutien à l’ancien Premier ministre Imran Khan, incarcéré depuis 2023. Alors que l’ancien Premier ministre est régulièrement présenté par les autorités comme une menace pour la sécurité nationale, sa popularité semble demeurer intacte auprès d’une partie importante de la population.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20261004-pakistan-une-marche-en-soutien-%C3%A0-imran-khan-d%C3%A9marre-dans-un-climat-politique-tendu",
+          "imageUrl": "https://s.rfi.fr/media/display/b0ef58f8-c014-11f1-bf15-13420ab900a2/w:1024/p:16x9/000-D276664.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-03T05:20:53.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.232Z"
+          "publishedAt": "2026-10-04T14:02:32.000Z",
+          "fetchedAt": "2026-10-05T05:50:39.959Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "Conflit d'intérêt ou avancée pour l'Ukraine? La Russie prête à vendre des actifs",
+      "id": "cluster-4",
+      "topic": "Aux Etats-Unis, Jay Clayton, le nouvel homme fort de l’IA",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-04-99986491",
-          "title": "Conflit d'intérêt ou avancée pour l'Ukraine? La Russie prête à vendre des actifs de Lukoil à des proches de Trump",
-          "description": "Vladimir Poutine est en passe de vendre massivement des actifs Lukoil, l’une des plus grandes entreprises énergétiques russes, à des chefs d’entreprises proches de Donald Trump, ou de ses négociateurs Jared Kushner et Steve Witkoff. La transaction, qui pose de sérieuses questions de conflit d'intérêt, s'insérerait dans le cadre des négociations pour la fin de la guerre en Ukraine.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261004-conflit-d-int%C3%A9r%C3%AAt-ou-avanc%C3%A9e-pour-l-ukraine-la-russie-pr%C3%AAte-%C3%A0-vendre-des-actifs-de-lukoil-%C3%A0-des-proches-de-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/ffaf3e88-bfae-11f1-bdf2-1ff0321dbbd3/w:1024/p:16x9/AP22322309153734.jpg",
-          "source": "RFI",
+          "id": "2026-10-05-641a4d9f",
+          "title": "Aux Etats-Unis, Jay Clayton, le nouvel homme fort de l’IA",
+          "description": "L’actuel directeur du renseignement américain vient d’être nommé par Donald Trump au poste de référent du gouvernement sur l’intelligence artificielle. Une désignation qui intervient alors que l’inquiétude monte sur le contrôle de cette technologie.",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/05/aux-etats-unis-jay-clayton-le-nouvel-homme-fort-de-l-ia_6788485_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-04T04:55:15.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.232Z"
+          "publishedAt": "2026-10-05T05:00:02.000Z",
+          "fetchedAt": "2026-10-05T05:50:31.526Z"
         },
         {
-          "id": "2026-10-03-277996ec",
-          "title": "Ukraine: les habitants de Kiev sous tension après les frappes russes sur la ville",
-          "description": "Des frappes russes ont touché samedi un important pont de Kiev, le pont Nord, quelques jours après l'attaque du pont Sud, a annoncé le maire de la capitale ukrainienne, Vitali Klitschko. Dans le même temps, la Russie appelle les diplomates et étrangers se trouvant à Kiev à quitter la ville. La tension est permanente avec ces nouvelles déclarations.",
-          "url": "https://www.rfi.fr/fr/europe/20261003-ukraine-les-habitants-de-kiev-sous-tension-apr%C3%A8s-les-frappes-russes-sur-la-ville",
-          "imageUrl": "https://s.rfi.fr/media/display/8a0a07f2-befb-11f1-85ec-69fad0a7cb9f/w:1024/p:16x9/2026-10-02T184527Z-1435733898-RC23VNAZHLTI-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV-BRIDGES.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-03T19:30:02.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.232Z"
-        },
-        {
-          "id": "2026-10-03-12bbd5dc",
-          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-          "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-          "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg",
+          "id": "2026-10-05-15b939e1",
+          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "description": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-10-03T16:16:49.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.196Z"
+          "publishedAt": "2026-10-05T03:37:41.000Z",
+          "fetchedAt": "2026-10-05T05:50:39.932Z"
         },
         {
-          "id": "2026-10-03-440e1b70",
-          "title": "Et maintenant la Russie s’en prend aux ponts de Kiev",
-          "description": "Les ponts nord et sud qui enjambent le Dniepr dans la capitale ukrainienne ont été pris pour cibles par des drones russes ces trois derniers jours. Une première depuis le début de la guerre il y a près de cinq ans. Ces attaques s’inscriraient dans un plan plus large de Moscou visant à détruire, avant l’hiver, des infrastructures clés à travers l’Ukraine et à intensifier ses attaques contre des cibles civiles.",
-          "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-et-maintenant-la-russie-s-en-prend-aux-ponts-de-kiev_275718",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/02/0/0/2613/1742/1200/630/60/0/9d1df82_ftp-1-nyoev42uv7ai-2026-10-02t183507z-141873794-rc22vnaenara-rtrmadp-3-ukraine-crisis-attack-kyiv-bridge.JPG",
-          "source": "Courrier International",
+          "id": "2026-10-05-d52b834e",
+          "title": "Après l'accord sur le Groenland, les États-Unis poursuivent leur offensive en Islande",
+          "description": "Le chef de la diplomatie américaine Marco Rubio se rend lundi en Islande, pour y poursuivre l'offensive des États-Unis dans l'Arctique après l'accord sur le Groenland. L'Islande n'a pas d'armée et sa sécurité repose sur l'Otan ainsi que sur un accord bilatéral de défense conclu avec les États-Unis en 1951.",
+          "url": "https://www.france24.com/fr/europe/20261005-apr%C3%A8s-l-accord-sur-le-groenland-les-%C3%A9tats-unis-poursuivent-leur-offensive-dans-l-arctique",
+          "imageUrl": "https://s.france24.com/media/display/e7601934-c052-11f1-8633-dd51fcab6130/w:1024/p:16x9/ed02e85ff4747119a217e700b09bb5d268b8c296.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-10-03T07:54:08.000Z",
-          "fetchedAt": "2026-10-04T06:01:03.757Z"
+          "publishedAt": "2026-10-05T00:22:53.000Z",
+          "fetchedAt": "2026-10-05T05:50:31.614Z"
+        },
+        {
+          "id": "2026-10-04-66c16215",
+          "title": "Alerte près de la base de Fairford, en Angleterre : les États-Unis retirent leurs bombardiers",
+          "description": "Tous les bombardiers américains qui avaient été déployés sur la base britannique de Fairford ont été retirés, a annoncé dimanche le Pentagone, quelques jours après l'incident près de cette base du sud-ouest de l'Angleterre. Six personnes ont été arrêtées puis relâchées sous contrôle judiciaire dans cette affaire, et le Premier ministre britannique a dit suspecter une implication de l'Iran.",
+          "url": "https://www.france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran",
+          "imageUrl": "https://s.france24.com/media/display/fff9d25e-c04e-11f1-80c5-13e372f41e70/w:1024/p:16x9/AP26272329519514.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-04T23:56:53.000Z",
+          "fetchedAt": "2026-10-05T05:50:31.614Z"
+        },
+        {
+          "id": "2026-10-04-d2333f95",
+          "title": "Les Etats-Unis retirent leurs bombardiers de la base britannique près de laquelle a eu lieu un incident",
+          "description": "Six hommes sont sous contrôle judiciaire après que de l’essence « en quantité » a été trouvée dans des véhicules près de la base militaire de Fairford, dans le sud-ouest de l’Angleterre. De nombreux points restent à élucider autour de cette affaire sur laquelle plane l’ombre de l’Iran, estime Londres.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/05/les-etats-unis-retirent-leurs-bombardiers-de-la-base-britannique-pres-de-laquelle-a-eu-lieu-un-incident_6788399_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-04T23:56:13.000Z",
+          "fetchedAt": "2026-10-05T05:50:31.526Z"
+        },
+        {
+          "id": "2026-10-04-ce041778",
+          "title": "Aux États-Unis, de plus en plus de jeunes électeurs noirs se déclarent indépendants",
+          "description": "L’un des enjeux pour les démocrates pour les prochaines élections de mi-mandat, c'est de mobiliser les électeurs perdus à la dernière présidentielle, comme les jeunes hommes afro-américains. Donald Trump avait doublé sa part d’électeurs d’hommes afro-américains en 2024, mais de plus en plus de jeunes hommes noirs se déclarent indépendants. Un défi pour les démocrates, qui dans les années 1960 étaient devenus le parti du mouvement des droits civiques.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261004-aux-%C3%A9tats-unis-de-plus-en-plus-de-jeunes-%C3%A9lecteurs-noirs-se-d%C3%A9clarent-ind%C3%A9pendants",
+          "imageUrl": "https://s.rfi.fr/media/display/d7e8732e-c035-11f1-a9ae-13420ab900a2/w:1024/p:16x9/063-2215794481.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-04T22:08:22.000Z",
+          "fetchedAt": "2026-10-05T05:50:39.959Z"
         }
       ]
     },
     {
       "id": "cluster-9",
-      "topic": "Au Groenland, une journée avec les équipes d’un gisement de graphite, minerai st",
+      "topic": "Sous les frappes russes visant les ponts, Kiev se déplace au ralenti",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-04-04deb01e",
-          "title": "Au Groenland, une journée avec les équipes d’un gisement de graphite, minerai stratégique très convoité",
-          "description": "Etroitement dépendante de la Chine pour le graphite, essentiel à l’industrie de défense et à la transition écologique, l’Union européenne cherche à sécuriser ses approvisionnements. Ceux-ci se jouent en partie à Amitsoq, une petite île du Groenland, où une ancienne mine, abandonnée depuis plus d’un siècle, renaît progressivement avec le soutien de Bruxelles.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/04/au-groenland-une-journee-avec-les-equipes-d-un-gisement-de-graphite-minerai-strategique-tres-convoite_6788006_3210.html",
+          "id": "2026-10-05-a0ae6666",
+          "title": "Sous les frappes russes visant les ponts, Kiev se déplace au ralenti",
+          "description": "En Ukraine, Kiev continue de subir des frappes de drones russes sur les ponts qui relient les deux rives de la ville, même pendant la visite du chancelier allemand Friedrich Merz. Si le but de scinder la ville et d'en paralyser les transports n'est pas encore atteint par Moscou, ces attaques perturbent grandement la circulation des résidents, menacés par le Kremlin d'attaques encore plus lourdes.",
+          "url": "https://www.rfi.fr/fr/europe/20261005-sous-les-frappes-russes-visant-les-ponts-kiev-se-d%C3%A9place-au-ralenti",
+          "imageUrl": "https://s.rfi.fr/media/display/6eb2d400-c074-11f1-9776-13e372f41e70/w:1024/p:16x9/AP26277357934280-1.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-05T04:43:02.000Z",
+          "fetchedAt": "2026-10-05T05:50:39.959Z"
+        },
+        {
+          "id": "2026-10-04-25a3918e",
+          "title": "Bravant les menaces de la Russie, Friedrich Merz fait une visite surprise à Kiev",
+          "description": "Alors que Moscou avait déconseillé, samedi 3 octobre, aux Européens d’aller à Kiev, le chancelier allemand s’est rendu en Ukraine dimanche, où il a annoncé de nouveaux contrats d’armement et un programme d’aide militaire.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/04/bravant-les-menaces-de-la-russie-friedrich-merz-fait-une-visite-surprise-a-kiev_6788318_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-04T04:10:08.000Z",
-          "fetchedAt": "2026-10-04T06:01:03.596Z"
+          "publishedAt": "2026-10-04T16:35:39.000Z",
+          "fetchedAt": "2026-10-05T05:50:31.526Z"
         },
         {
-          "id": "2026-10-04-81df0246",
-          "title": "Génocide des Tutsis au Rwanda: Dafroza Gauthier, une vie consacrée à la traque des génocidaires rwandais",
-          "description": "Dafroza Gauthier, militante franco-rwandaise, est morte à Reims des suites d'un cancer à l'âge de 72 ans, ce samedi 3 octobre 2026. Elle aura passé près de 30 ans à poursuivre les responsables du génocide des Tutsis au Rwanda.",
-          "url": "https://www.rfi.fr/fr/afrique/20261004-g%C3%A9nocides-des-tutsis-au-rwanda-dafroza-gauthier-une-vie-consacr%C3%A9e-%C3%A0-la-traque-des-g%C3%A9nocidaires-rwandais",
-          "imageUrl": "https://s.rfi.fr/media/display/ce2eec84-bfa7-11f1-9b89-1ff0321dbbd3/w:1024/p:16x9/000-AE7O8.jpg",
+          "id": "2026-10-04-b44427dd",
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+          "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df42/live/012a8270-bff2-11f1-a64c-550be9e3c66b.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-04T14:25:32.000Z",
+          "fetchedAt": "2026-10-05T05:50:39.932Z"
+        },
+        {
+          "id": "2026-10-04-bd9526dd",
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+          "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9749/live/fb482ba0-c000-11f1-babe-4199b0e7ccea.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-04T12:09:04.000Z",
+          "fetchedAt": "2026-10-05T05:50:39.932Z"
+        },
+        {
+          "id": "2026-10-04-04eaea74",
+          "title": "Ukraine: Friedrich Merz en visite surprise à Kiev, toujours sous le feu des frappes russes",
+          "description": "Le chancelier allemand Friedrich Merz est arrivé dimanche à Kiev pour une visite non annoncée, destinée à montrer son soutien au pays dans sa guerre contre la Russie, alors même que la capitale se trouve sous le feu nourri de la Russie, qui frappe désormais les infrastructures permettant la traversée du Dniepr. Friedrich Merz a informé d'un nouveau plan de soutien à l'armement et au secteur énergétique ukrainien.",
+          "url": "https://www.rfi.fr/fr/europe/20261004-ukraine-friedrich-merz-en-visite-surprise-%C3%A0-kiev-toujours-sous-le-feu-des-frappes-russes",
+          "imageUrl": "https://s.rfi.fr/media/display/374e4898-bfbe-11f1-a2b2-578a4b968fd6/w:1024/p:16x9/AP26274315365669.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-04T04:02:16.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.232Z"
-        },
-        {
-          "id": "2026-10-04-6c225e2a",
-          "title": "Perd-on une partie de sa chaleur corporelle par la tête ?",
-          "description": "Dans sa rubrique Est-il vrai que… ?, le quotidien britannique “The Guardian” tente de répondre aux questions que l’on s’est toutes et tous déjà posées. Cette semaine, le sort du bonnet en cas de grand froid est en jeu.",
-          "url": "https://www.courrierinternational.com/article/vrai-ou-faux-perd-on-une-partie-de-sa-chaleur-corporelle-par-la-tete_240356",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/02/83/0/2200/1466/1200/630/60/0/cbb1091_upload-1-sytv3vaid0rq-heat-from-head-rgb-810c3d0f46ccb8d53ed2e7f408ce92eba632a472-w.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-04T03:00:13.000Z",
-          "fetchedAt": "2026-10-04T06:01:03.757Z"
-        },
-        {
-          "id": "2026-10-03-9b5d4b3f",
-          "title": "Comment sauver un enfant-soldat par la musique?",
-          "description": "Êtes-vous capable de voir la musique en couleurs et de transformer les bruits en musique ? Dans « L’enfant-soldat née Musique », les mots rendent hommage aux silences, aux bruits et aux sonorités. Avec sa pièce de théâtre, le metteur en scène d’origine franco-algérienne Serge Wolfsperger invente une autre langue pour nous parler de la vie d’après d’une fille enrôlée de force par des paramilitaires : « des jours de sang » jusqu’aux « enfants du néant ». La première française a eu lieu aux Zébrures, festival des écritures et des créations théâtrales francophones à Limoges.",
-          "url": "https://www.rfi.fr/fr/culture/20261003-comment-sauver-un-enfant-soldat-par-la-musique",
-          "imageUrl": "https://s.rfi.fr/media/display/4cc67a10-bf69-11f1-b60c-dd51fcab6130/w:1024/p:16x9/ES1-5-EnfantSoldat-c-CHRISTOPHE-PEAN-2026.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-03T20:39:09.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.232Z"
-        },
-        {
-          "id": "2026-10-03-cac21422",
-          "title": "Islamabad transformée en “dock pour porte-conteneurs” pour bloquer une manifestation",
-          "description": "Les autorités pakistanaises déploient les grands moyens pour sécuriser Islamabad et empêcher la tenue d’une grande marche, prévue dimanche 4 octobre, en soutien à l’ancien Premier ministre Imran Khan, incarcéré depuis 2023. La capitale se barricade avec l’installation de centaines de conteneurs pour bloquer les routes.",
-          "url": "https://www.courrierinternational.com/article/pakistan-islamabad-transformee-en-dock-pour-porte-conteneurs-pour-bloquer-une-manifestation_275553",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/24/1/0/5500/3666/1200/630/60/0/5d77a26_ftp-1-ulki78gehxim-2026-09-24t095918z-1762401488-rc2jpnaklib4-rtrmadp-3-pakistan-politics-khan.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-03T14:24:02.000Z",
-          "fetchedAt": "2026-10-04T06:01:03.757Z"
-        },
-        {
-          "id": "2026-10-03-4fa3bccb",
-          "title": "Vol flydubai : l'enquête établit que le copilote planifiait un \"acte terroriste\"",
-          "description": "L'enquête sur l'attaque dans un vol de flydubai a établi que le copilote avait utilisé la hache de secours du cockpit pour attaquer le pilote, parlant d'un \"acte terroriste\", a rapporté samedi un média officiel émirati, citant le procureur général.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-vol-flydubai-l-enqu%C3%AAte-%C3%A9tablit-que-le-copilote-planifiait-un-acte-terroriste",
-          "imageUrl": "https://s.france24.com/media/display/8deadc86-bf0d-11f1-980f-1ff0321dbbd3/w:1024/p:16x9/FR-20261003-110634-110816-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-03T09:43:50.000Z",
-          "fetchedAt": "2026-10-04T06:01:03.659Z"
+          "publishedAt": "2026-10-04T06:56:35.000Z",
+          "fetchedAt": "2026-10-05T05:50:39.959Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "« On ne peut pas abandonner la culture à l’IA » : vers l’émergence d’une labelli",
+      "id": "cluster-2",
+      "topic": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-10-04-75876f92",
-          "title": "« On ne peut pas abandonner la culture à l’IA » : vers l’émergence d’une labellisation « 100 % humain » ?",
-          "description": "Dans la course à l’intelligence artificielle générative et à la robotique, il devient difficile de distinguer le « made in human » du reste. Certains tentent de mettre en place des labels « garanti sans IA » ou de revenir à une esthétique bricolée et artisanale. Car, à l’ère du soupçon, comment protéger la « créativité humaine » ?",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/10/04/on-ne-peut-pas-abandonner-la-culture-a-l-ia-vers-l-emergence-d-une-labellisation-100-humain_6788000_4497916.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-10-05-1838985c",
+          "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+          "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+          "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egypt1-1152x648-1791134921.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-10-04T03:55:06.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.068Z"
-        },
-        {
-          "id": "2026-10-03-8963358c",
-          "title": "Sur Dofus, ce joueur relève un défi fou : atteindre le niveau 200 sans quitter Incarnam (il y est presque)",
-          "description": "Sur Dofus, « le fou d'Incarnam » s’est lancé un défi : atteindre le niveau 200 sans jamais quitter la zone des débutants. Déjà niveau 195, il raconte sa progression sur X.",
-          "url": "https://www.numerama.com/pop-culture/2345491-sur-dofus-ce-joueur-releve-un-defi-fou-atteindre-le-niveau-200-sans-quitter-incarnam-il-y-est-presque.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/1-3.png?resize=1600,900&key=fe6be4c1",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-10-03T12:04:00.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.228Z"
-        },
-        {
-          "id": "2026-10-03-6521536e",
-          "title": "Abandon de l’EQE aux États-Unis ? Mercedes prépare juste l’arrivée de son successeur",
-          "description": "Le retrait de la berline EQE du marché américain était un bon indice pour se pencher sur l’avenir de ce modèle. Alors que les ventes du modèle s’effondrent à l’échelle mondiale, Mercedes prépare en fait déjà sa succession pour 2027.",
-          "url": "https://www.numerama.com/vroom/2346131-abandon-de-leqe-aux-etats-unis-mercedes-prepare-juste-larrivee-de-son-successeur.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/09/mercedes-eqe-23.jpg?resize=1600,900&key=26b68d3a",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-10-03T08:52:01.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.228Z"
-        },
-        {
-          "id": "2026-10-03-86fd7a6b",
-          "title": "The Witcher 3 Remastered a un problème de cheveux, Mercredi a déjà sa saison 3, et le speedrun de Metal Gear Solid 2 évolue : c’est le récap pop culture de la semaine",
-          "description": "Cette semaine, il est question de poils et de vitesse dans le récap pop culture hebdomadaire de Numerama. Du côté de CD Projekt Red, on vous conseille de désactiver l'option Nvidia HairWorks dans la version Remastered de The Witcher 3. La saison 3 de Mercredi, quant à elle, a déjà terminé son tournage pour une sortie prévue à l’automne 2027. Et du côté de la communauté des speedrunners, il existe désormais un moyen de contourner un boss de Metal Gear Solid 2. On n’a plus le temps, que voulez-vous.",
-          "url": "https://www.numerama.com/pop-culture/2345851-the-witcher-3-remastered-a-un-probleme-de-cheveux-la-saison-3-de-mercredi-est-deja-tournee-et-le-speedrun-de-metal-gear-solid-2-evolue-ca-va-vite-dans-le-recap-pop-culture-de-la-semaine.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/wicther-3.png?resize=1600,900&key=d76da216",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-10-03T08:00:00.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.228Z"
-        },
-        {
-          "id": "2026-10-03-4830d09e",
-          "title": "IA et littérature : l’affaire Thélyson Orélien en huit tribunes parues dans « Le Monde »",
-          "description": "L’idée que le grand succès de la rentrée littéraire, « C’était ça ou mourir », ait pu être écrit par de l’intelligence artificielle a suscité de très nombreuses réactions. Qu’est-ce qu’un écrivain ? Quelle responsabilité pour la critique ? Quel avenir pour la littérature ? Les points de vue de spécialistes publiés par « Le Monde » alimentent la réflexion.",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/03/ia-et-litterature-l-affaire-thelyson-orelien-en-huit-tribunes-parues-dans-le-monde_6787494_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-10-03T03:30:04.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.068Z"
-        },
-        {
-          "id": "2026-10-02-5df66bf8",
-          "title": "C’est un signe de plus de la guerre du futur : les USA créent un commandement militaire dédié aux drones, robots et systèmes autonomes",
-          "description": "Pete Hegseth, secrétaire américain à la Guerre, a annoncé ce mercredi 30 septembre 2026 la création d'un commandement à quatre étoiles consacré aux drones et aux systèmes autonomes, prévu pour le 1er octobre 2027.",
-          "url": "https://www.numerama.com/tech/2345717-cest-un-signe-de-plus-de-la-guerre-du-futur-les-usa-creent-un-commandement-militaire-dedie-aux-drones-robots-et-systemes-autonomes.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/11/drone-soldat-usa.jpg?resize=1600,900&key=1e75b021",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-10-02T15:00:00.000Z",
-          "fetchedAt": "2026-10-04T06:01:08.228Z"
+          "publishedAt": "2026-10-05T04:00:52.000Z",
+          "fetchedAt": "2026-10-05T05:50:43.868Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Présidentielle 2027 : dans l’audiovisuel, les rédactions en ébullition sur la qu",
+      "topic": "How much is your salary?",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-10-04-52623800",
-          "title": "Présidentielle 2027 : dans l’audiovisuel, les rédactions en ébullition sur la question du pluralisme",
-          "description": "Les remous à Radio France et à France Télévisions, ainsi que les protestations à RTL, provoqués par la présence de représentants de la presse proche de l’extrême droite au nom du respect du pluralisme, s’exacerbent.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/04/presidentielle-2027-dans-l-audiovisuel-les-redactions-en-ebullition-sur-la-question-du-pluralisme_6788007_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-10-05-41856120",
+          "title": "How much is your salary?",
+          "description": "And would you reveal it in a job interview?",
+          "url": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd02/live/568425b0-bd8f-11f1-babe-4199b0e7ccea.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-10-04T04:20:07.000Z",
-          "fetchedAt": "2026-10-04T06:01:11.208Z"
+          "publishedAt": "2026-10-05T05:33:59.000Z",
+          "fetchedAt": "2026-10-05T05:50:47.131Z"
         }
       ]
     }

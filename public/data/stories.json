@@ -1,130 +1,155 @@
 {
-  "date": "2026-10-04T06:19:24.406Z",
+  "date": "2026-10-05T06:09:31.742Z",
   "stories": [
     {
-      "id": "2026-10-04-01",
+      "id": "2026-10-05-01",
       "category": "geopolitique",
-      "title": "Brésil : la droite vise la majorité absolue au Sénat",
-      "imageUrl": "https://s.france24.com/media/display/5f5eaeaa-bf86-11f1-a8f4-69fad0a7cb9f/w:1024/p:16x9/97707898cdd0d617132dc122ba784bba27a5ca5d.jpg",
+      "title": "Pakistan : marche massive sur Islamabad pour Imran Khan",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3eaa/live/091199c0-c06e-11f1-9135-d3a6369912e1.jpg",
       "location": {
-        "lat": -15.79,
-        "lng": -47.88,
+        "lat": 33.6844,
+        "lng": 73.0479,
+        "name": "Islamabad"
+      },
+      "bullets": [
+        "Des milliers de partisans d'Imran Khan marchent vers la capitale Islamabad.",
+        "Les négociations entre les autorités et le PTI ont échoué vendredi.",
+        "Le PTI, principale force d'opposition, exige la libération de son leader incarcéré depuis 2023.",
+        "Le gouvernement présente l'ancien Premier ministre comme une menace pour la sécurité nationale.",
+        "La popularité intacte de Khan pèse sur la stabilité politique du pays."
+      ],
+      "execSummary": "Des milliers de partisans d'Imran Khan ont lancé une grande marche en direction d'Islamabad, la capitale du Pakistan. Le mouvement, organisé par le PTI, le parti de l'ancien Premier ministre, fait suite à l'échec de négociations entamées vendredi 2 octobre entre les autorités et la formation d'opposition. Selon la BBC, ces discussions se sont soldées par une impasse, poussant des milliers de manifestants dans la rue. Imran Khan est incarcéré depuis 2023.\n\nPour le PTI, principale force d'opposition du pays, cette mobilisation vise à réclamer la libération de son leader et à démontrer que sa base électorale reste solide malgré son emprisonnement. Selon RFI, la popularité de l'ancien chef de gouvernement « semble demeurer intacte auprès d'une partie importante de la population ». Les organisateurs misent sur l'afflux de milliers de marcheurs vers la capitale pour faire pression sur le pouvoir et rouvrir le dialogue dans de meilleures conditions.\n\nDu côté des autorités, Imran Khan est régulièrement présenté comme une menace pour la sécurité nationale, rapporte RFI. Le gouvernement considère l'ancien Premier ministre et son parti comme des facteurs de déstabilisation du pays. Les discussions engagées vendredi témoignent néanmoins d'une tentative d'apaisement de la part du pouvoir, avant que le blocage des pourparlers ne renvoie l'opposition dans la rue.\n\nLa convergence de milliers de manifestants vers Islamabad place le pouvoir face à un test immédiat : contenir la foule sans embraser un climat politique déjà très tendu. Une répression musclée risquerait de renforcer la mobilisation du PTI et de valider son récit de martyre, tandis qu'une concession apparaîtrait comme un aveu de faiblesse. L'issue de cette marche pourrait déterminer si le dialogue entre le gouvernement et l'opposition reprend, ou si le Pakistan entre dans un nouveau cycle de confrontation durable entre un pouvoir affaibli et un mouvement populaire déterminé.",
+      "sources": [
+        "BBC World",
+        "RFI"
+      ],
+      "publishedAt": "2026-10-05T05:28:46.000Z"
+    },
+    {
+      "id": "2026-10-05-02",
+      "category": "geopolitique",
+      "title": "IA : Trump nomme Jay Clayton à la tête d'une task force",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+      "location": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "Washington, États-Unis"
+      },
+      "bullets": [
+        "Le président Trump nomme Jay Clayton référent du gouvernement américain sur l'intelligence artificielle.",
+        "La « Super Intelligence Force » qu'il dirigera supervise la politique IA, selon la BBC.",
+        "L'inquiétude croissante sur le contrôle de l'IA motive cette nomination, note Le Monde.",
+        "La Maison Blanche traite désormais l'IA comme un enjeu de sécurité nationale.",
+        "Le cumul du renseignement et de la supervision de l'IA concentre un pouvoir inédit."
+      ],
+      "execSummary": "Le président Donald Trump a dévoilé une « Super Intelligence Force », une task force chargée de superviser la politique américaine en matière d'intelligence artificielle, rapporte la BBC. Il en a confié la tête à Jay Clayton, actuel directeur du renseignement national, qui devient le référent du gouvernement sur l'IA, selon Le Monde. Cette désignation intervient alors que l'inquiétude monte sur le contrôle de cette technologie.\n\nPour l'administration Trump, cette nomination relève d'une logique de coordination au sommet de l'État. Confier l'IA au chef du renseignement revient à classer cette technologie parmi les dossiers de sécurité nationale. La Maison Blanche prolonge le décret du 1er octobre, qui rebaptisait l'IA en « Super Intelligence » et instaurait des tests de sécurité volontaires pour les entreprises du secteur. L'exécutif veut ainsi piloter directement une stratégie jugée trop sensible pour être laissée aux seules entreprises.\n\nDu côté des observateurs, cette concentration des pouvoirs interroge. Le Monde souligne qu'elle survient au moment où l'inquiétude grandit sur la maîtrise de cette technologie. Placer l'IA sous l'autorité du patron du renseignement, c'est soumettre un secteur économique et civil à une culture du secret. Une contradiction pointe aussi : l'administration promettait aux géants technologiques une autorégulation souple, tout en créant une structure de supervision étatique dont le périmètre reste à définir.\n\nJay Clayton cumule désormais deux fonctions rarement réunies : la tête du renseignement et le pilotage de la politique IA. Cette architecture donne à Washington un interlocuteur unique face aux laboratoires dont les agents autonomes alimentent les craintes actuelles. Elle envoie aussi un signal à la Chine, engagée dans une course technologique avec les États-Unis. À un mois des élections de mi-mandat, le contrôle de l'IA devient un sujet électoral : la « Super Intelligence Force » devra prouver qu'elle peut encadrer le secteur sans freiner l'innovation.",
+      "sources": [
+        "Le Monde - International",
+        "BBC World",
+        "France 24",
+        "RFI"
+      ],
+      "publishedAt": "2026-10-05T05:00:02.000Z"
+    },
+    {
+      "id": "2026-10-05-03",
+      "category": "geopolitique",
+      "title": "Merz brave Moscou : visite surprise à Kiev sous les drones",
+      "imageUrl": "https://s.rfi.fr/media/display/6eb2d400-c074-11f1-9776-13e372f41e70/w:1024/p:16x9/AP26277357934280-1.jpg",
+      "location": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "Kiev, Ukraine"
+      },
+      "bullets": [
+        "Le chancelier allemand Friedrich Merz a effectué dimanche une visite surprise à Kiev.",
+        "La Russie avait déconseillé samedi aux Européens de se rendre dans la capitale.",
+        "Le chancelier a annoncé de nouveaux contrats d'armement et un soutien énergétique.",
+        "Le Kremlin menace désormais les habitants de Kiev d'attaques encore plus lourdes.",
+        "Le pont nord de Kiev a été touché pour le deuxième jour consécutif."
+      ],
+      "execSummary": "Dimanche 4 octobre, le chancelier allemand Friedrich Merz est arrivé à Kiev pour une visite qui n'avait pas été annoncée, rapportent Le Monde et RFI. La veille, Moscou avait pourtant déconseillé aux dirigeants européens de se rendre dans la capitale ukrainienne. Pendant même le déplacement du chancelier, des drones russes ont de nouveau frappé les ponts qui relient les deux rives du Dniepr : le pont Pivnitchy (pont nord) a été touché pour le deuxième jour consécutif, selon la BBC, dont des images montrent un drone percutant l'ouvrage au passage de véhicules et provoquant une importante boule de feu. Cette campagne russe contre les ponts de Kiev a débuté la semaine dernière.\n\nCôté allemand, Friedrich Merz entend afficher un soutien sans faille à l'Ukraine. Le chancelier a annoncé à Kiev de nouveaux contrats d'armement ainsi qu'un programme d'aide militaire, précise Le Monde. Selon RFI, ce plan de soutien concerne à la fois l'armement et le secteur énergétique ukrainien, alors que le réseau électrique du pays subit des frappes répétées. En se déplaçant malgré la mise en garde russe, le dirigeant allemand adresse aussi un signal politique : les menaces du Kremlin ne dicteront pas l'agenda des Européens.\n\nDe son côté, le Kremlin multiplie les avertissements. Après avoir déconseillé samedi aux Européens de se rendre à Kiev, il menace désormais les habitants de la capitale d'attaques encore plus lourdes, indique RFI. Selon la même source, l'objectif de Moscou, scinder la ville en deux et paralyser ses transports, n'est pas encore atteint. Les frappes se poursuivent néanmoins : maintenir les tirs de drones pendant la visite d'un chef de gouvernement européen illustre la volonté russe de pression, quelles que soient les circonstances diplomatiques.\n\nL'aide annoncée par Berlin pourrait peser sur la durée : de nouveaux contrats d'armement renforceraient les capacités ukrainiennes, tandis que le volet énergétique prépare le pays à un hiver sous les bombes. Sur le terrain, le quotidien des Kievans se complique, la circulation entre les deux rives restant fortement perturbée sous la menace d'attaques plus massives. Chaque visite de dirigeant européen à Kiev devient désormais un bras de fer symbolique avec Moscou.",
+      "sources": [
+        "RFI",
+        "Le Monde - International",
+        "BBC World"
+      ],
+      "publishedAt": "2026-10-05T04:43:02.000Z"
+    },
+    {
+      "id": "2026-10-05-04",
+      "category": "geopolitique",
+      "title": "Brésil : Bolsonaro fils devance Lula au premier tour",
+      "imageUrl": "https://s.france24.com/media/display/9350b088-ae00-11f1-a4f0-005056a97e36/w:1280/p:16x9/2026-08-26T090003Z-1030496109-RC233NAIN4O1-RTRMADP-3-BRAZIL-ELECTION-MARKETS.jpg",
+      "location": {
+        "lat": -15.7942,
+        "lng": -47.8822,
         "name": "Brasília, Brésil"
       },
       "bullets": [
-        "Les Brésiliens renouvellent aussi leur Congrès lors du scrutin de dimanche.",
-        "La droite pourrait conquérir la majorité absolue au Sénat, selon Le Monde.",
-        "Le président Lula mise sur la nouvelle classe moyenne, sans garantie.",
-        "Aucun candidat n'approche les 50 %, ouvrant la voie à un second tour.",
-        "Même réélu, Lula verrait son action contrecarrée par un Parlement adverse."
+        "Le sénateur Flavio Bolsonaro arrive en tête du premier tour avec 47 % des voix.",
+        "Le président Lula, à 45 %, affrontera Bolsonaro au second tour le 25 octobre.",
+        "Le candidat ultraconservateur a été investi par son père, condamné à vingt-sept ans de prison.",
+        "Le président sortant a payé le mécontentement des électeurs, selon l'analyse du Monde.",
+        "Les reports de voix des petits candidats seront décisifs pour le second tour."
       ],
-      "execSummary": "Les Brésiliens votent ce dimanche 4 octobre pour le premier tour de la présidentielle, un scrutin dont Avactu a déjà présenté les protagonistes la veille. Les derniers sondages placent le président sortant Luiz Inácio Lula da Silva, 80 ans, et son rival Flávio Bolsonaro, 45 ans, au coude à coude, aucun n'approchant les 50 % nécessaires pour l'emporter dès ce dimanche, selon France 24. Le même jour, les électeurs renouvellent aussi le Congrès, dans un pays que RFI décrit comme fortement polarisé.\n\nCôté sortant, Lula s'appuie sur son bilan social. Le candidat de gauche compte notamment sur le soutien de la nouvelle classe moyenne, ces millions de Brésiliens sortis de la pauvreté sous ses précédents mandats, rapporte France 24, qui souligne toutefois que ce soutien n'est pas garanti. À 80 ans, il vise un quatrième mandat non consécutif.\n\nCôté opposition, la droite ne vise pas seulement le palais du Planalto. Selon Le Monde, elle pourrait décrocher la majorité absolue au Sénat et conforter son poids à la Chambre des députés, sur la ligne défendue par Flávio Bolsonaro. Le scrutin législatif attire aussi des candidats atypiques, qui misent sur l'humour et des références connues pour se faire remarquer, relève Courrier International.\n\nUne victoire de Lula ne garantirait pas sa capacité à gouverner : selon Le Monde, son action pourrait être contrecarrée par une Assemblée et un Sénat acquis aux idées de son adversaire. La composition du futur Congrès déterminera donc la marge de manœuvre du prochain président, quel qu'il soit. Le scrutin tranchera aussi entre deux conceptions de la place du Brésil sur la scène internationale, rappelle RFI. Si aucun candidat n'atteint 50 % dimanche, un second tour prolongera ce bras de fer de plusieurs semaines.",
+      "execSummary": "Dimanche 4 octobre, des millions de Brésiliens ont voté pour le premier tour de l'élection présidentielle. Au terme d'un dépouillement quasi complet, le sénateur ultraconservateur Flavio Bolsonaro arrive en tête avec environ 47 % des suffrages, contre près de 45 % pour le président sortant Luiz Inácio Lula da Silva. Aucun candidat n'ayant franchi la barre des 50 %, les deux hommes s'affronteront au second tour, fixé au 25 octobre.\n\nCe duel était attendu, mais le résultat surprend par son ordre d'arrivée. Flavio Bolsonaro a été désigné candidat par son père, l'ancien président Jair Bolsonaro (2019-2022), après la condamnation de ce dernier à vingt-sept ans de prison. Le score du premier tour confirme la poussée de la droite dans un pays profondément polarisé : selon Courrier International, le Parti libéral, qui compte d'autres membres de la famille Bolsonaro, remporte également des victoires importantes au Sénat comme à la Chambre des députés.\n\nLes analyses de la presse internationale convergent sur les ressorts de ce basculement. Pour Le Monde, « Lula a payé le prix du mécontentement des électeurs ». Courrier International évoque une « surprise » et souligne « l'ampleur du triomphe de la droite », l'écart s'étant resserré en fin de soirée sans effacer l'avance du sénateur. France 24 relève que, dans un pays « ultra polarisé », le fils de l'ex-président pourrait bénéficier des voix des petits candidats éliminés au premier tour.\n\nLes reports de voix des candidats éliminés deviennent la clé du scrutin du 25 octobre. Flavio Bolsonaro aborde cette dernière ligne droite en « ballottage très favorable », selon Courrier International, tandis que Lula doit reconquérir un électorat déçu par son bilan en trois semaines. Au-delà du sort des deux camps, ce second tour tranchera l'orientation du Brésil : retour du bolsonarisme au pouvoir malgré la condamnation de sa figure historique, ou maintien d'une gauche affaiblie face à un Congrès davantage conservateur.",
       "sources": [
+        "Le Monde",
         "France 24",
-        "Le Monde - International",
-        "Courrier International",
-        "RFI"
-      ],
-      "publishedAt": "2026-10-04T05:18:52.000Z"
-    },
-    {
-      "id": "2026-10-04-02",
-      "category": "geopolitique",
-      "title": "Paix en Ukraine : Moscou vendrait du Lukoil au cercle Trump",
-      "imageUrl": "https://s.rfi.fr/media/display/ffaf3e88-bfae-11f1-bdf2-1ff0321dbbd3/w:1024/p:16x9/AP22322309153734.jpg",
-      "location": {
-        "lat": 55.7558,
-        "lng": 37.6173,
-        "name": "Moscou, Russie"
-      },
-      "bullets": [
-        "La Russie s'apprête à vendre des actifs de Lukoil à des proches de Trump.",
-        "Les acheteurs évoqués gravitent autour de Jared Kushner et Steve Witkoff.",
-        "La transaction s'inscrirait dans les négociations sur la fin de la guerre.",
-        "Les critiques pointent un conflit d'intérêt entre affaires privées et négociation officielle.",
-        "Les drones russes ont aussi frappé le pont nord de Kiev, une première."
-      ],
-      "execSummary": "Vladimir Poutine serait en passe de vendre massivement des actifs de Lukoil, l'une des plus grandes entreprises énergétiques russes, à des chefs d'entreprise proches de Donald Trump et de ses négociateurs, révèle RFI. La transaction s'insérerait dans le cadre des négociations pour la fin de la guerre en Ukraine. Sur le front, l'armée russe a frappé samedi le pont Nord de Kiev, après de nouvelles attaques contre le pont Sud, selon la BBC. Moscou appelle en outre diplomates et étrangers à quitter la capitale.\n\nPour les partisans de l'opération, céder des actifs énergétiques à des investisseurs américains créerait à Washington un intérêt économique direct dans un accord de paix. La méthode des négociateurs de Trump consiste à lier affaires et diplomatie : des transactions concrètes rendraient la fin de la guerre plus attractive pour le Kremlin, qui monétiserait des actifs fragilisés par les sanctions. Dans cette lecture, la vente servirait de monnaie d'échange pour débloquer les discussions.\n\nLes critiques, relayées par RFI, soulèvent de sérieuses questions de conflit d'intérêt : des hommes d'affaires de l'entourage du président américain pourraient tirer un profit personnel d'une négociation menée au nom des États-Unis. La frontière entre intérêt national et enrichissement privé deviendrait floue, Jared Kushner et Steve Witkoff étant à la fois proches du pouvoir et acteurs du dossier ukrainien. L'opacité des montages nourrit la méfiance sur les vrais bénéficiaires de la paix.\n\nLukoil pèse lourd dans l'énergie russe : son sort redessinerait la carte pétrolière entre Moscou et l'Occident, où les sanctions restent le principal levier de pression sur le Kremlin. Une entrée d'investisseurs proches du pouvoir américain dans ce capital brouillerait le front occidental des sanctions. Courrier International décrit parallèlement un plan russe de destruction des infrastructures clés avant l'hiver et d'intensification des frappes contre des cibles civiles. Entre tractations d'affaires et ponts bombardés, Kiev aborde l'hiver sous double pression.",
-      "sources": [
-        "RFI",
         "BBC World",
+        "RFI",
         "Courrier International"
       ],
-      "publishedAt": "2026-10-04T04:55:15.000Z"
+      "publishedAt": "2026-10-05T05:44:10.000Z"
     },
     {
-      "id": "2026-10-04-03",
-      "category": "geopolitique",
-      "title": "Groenland : le graphite d'Amitsoq renaît avec Bruxelles",
-      "imageUrl": "https://s.rfi.fr/media/display/ce2eec84-bfa7-11f1-9b89-1ff0321dbbd3/w:1024/p:16x9/000-AE7O8.jpg",
-      "location": {
-        "lat": 60.2,
-        "lng": -44.3,
-        "name": "Amitsoq, Groenland"
-      },
-      "bullets": [
-        "L'ancienne mine de graphite d'Amitsoq, au Groenland, renaît après un siècle d'abandon.",
-        "L'Union européenne cherche à réduire sa forte dépendance au graphite chinois.",
-        "Le soutien de Bruxelles vise à sécuriser les approvisionnements européens en minerai.",
-        "La Chine domine la production mondiale et encadre ses exportations depuis 2023.",
-        "Le graphite est indispensable aux batteries comme à l'industrie de défense."
-      ],
-      "execSummary": "Sur l'île d'Amitsoq, au sud du Groenland, une ancienne mine de graphite abandonnée depuis plus d'un siècle renaît progressivement. Le Monde a passé une journée avec les équipes du gisement, l'un des plus prometteurs d'Europe pour ce minerai. Le graphite, indispensable aux anodes des batteries électriques comme à l'industrie de défense, est un maillon critique de la transition écologique. Or l'Union européenne en importe l'essentiel de Chine, qui domine la production et le raffinage mondiaux.\n\nDu côté de Bruxelles, la logique est assumée : il faut sécuriser les approvisionnements européens et sortir d'une dépendance jugée risquée. Le projet d'Amitsoq bénéficie du soutien de l'Union européenne, qui l'inscrit dans sa stratégie sur les matières premières critiques. Pour les exploitants, le gisement offre un minerai de haute qualité, capable de fournir directement les usines européennes de batteries et les chaînes de défense, sans passer par la transformation chinoise.\n\nDe son côté, Pékin présente ses contrôles à l'exportation de graphite, en vigueur depuis 2023, comme des mesures légitimes de gestion de ses ressources. Sur le terrain, les observateurs soulignent aussi les obstacles propres au Groenland : climat extrême, coûts logistiques élevés, exigences environnementales et long calendrier avant toute production commerciale. La renaissance d'Amitsoq reste donc un pari industriel autant qu'une évidence stratégique.\n\nLa part réelle d'Amitsoq dans l'approvisionnement européen restera limitée au départ : le défi est de transformer un projet soutenu en filière complète, de la mine jusqu'à l'anode. Bruxelles s'est fixé pour 2030 l'objectif de couvrir une part significative de ses besoins critiques sur son sol et de limiter la dépendance à tout pays tiers. Le Groenland, riche en minerais stratégiques, devient ainsi un terrain de la rivalité entre l'Europe, la Chine et les États-Unis, tout en alimentant le débat local sur l'exploitation minière comme levier d'autonomie économique.",
-      "sources": [
-        "Le Monde - International",
-        "RFI",
-        "Courrier International",
-        "France 24"
-      ],
-      "publishedAt": "2026-10-04T04:10:08.000Z"
-    },
-    {
-      "id": "2026-10-04-04",
+      "id": "2026-10-05-05",
       "category": "tech",
-      "title": "IA et littérature : l'affaire Orélien ébranle l'édition",
-      "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/programme-eternite-1.png?resize=1600,900&key=89e91891",
+      "title": "Cybersécurité : une faille 10/10 piège jusqu'à l'ANSSI",
+      "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/design-sans-titre-2026-10-02t162810281.png?resize=1600,900&key=7dbba30b",
       "location": {
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "Paris, France"
       },
       "bullets": [
-        "Le roman « C'était ça ou mourir » est soupçonné d'avoir été écrit avec l'IA.",
-        "L'accusation visant Thélyson Orélien a embrasé le monde littéraire en pleine rentrée.",
-        "La philosophe Monique Canto-Sperber réclame une déclaration d'authenticité sur les livres.",
-        "Le sociologue Fabrice Raffin y voit l'ébranlement du monopole de définir l'art.",
-        "Des labels « 100 % humain » émergent pour certifier les créations sans IA."
+        "Une faille notée 10 sur 10 a piégé l'ANSSI, gardienne française de la cybersécurité.",
+        "Un analyste de Google alerte sur le LLM-jacking, revente de comptes d'IA volés.",
+        "Le service Viginum traque les ingérences étrangères sur TikTok et au-delà.",
+        "Les attaquants sont parfois étatiques, parfois non, exigeant une approche globale.",
+        "L'économie de l'IA devient une cible, la détection des ingérences un enjeu pour 2027."
       ],
-      "execSummary": "Le roman « C'était ça ou mourir » de Thélyson Orélien, présenté comme l'un des grands succès de la rentrée littéraire 2026, est accusé d'avoir été écrit à l'aide d'une intelligence artificielle générative. La polémique a enflé entre fin septembre et début octobre, suscitant une cascade de réactions dans le milieu littéraire français. Le soupçon qu'un auteur ait pu recourir à une IA pour rédiger son livre a soulevé des questions déontologiques et philosophiques qui dépassent largement ce seul ouvrage.\n\nL'affaire touche au cœur de la définition même de la création : qu'est-ce qu'un écrivain, quelle responsabilité pour la critique, quel avenir pour la littérature ? Comme le souligne Le Monde, à l'ère des IA génératives, il devient de plus en plus difficile de distinguer le « made in human » de la production machine, installant une véritable « ère du soupçon ». La controverse éclate alors que l'IA s'immisce dans tous les secteurs culturels, de la musique au jeu vidéo.\n\nLes réponses affluent. Le Monde a rassemblé huit tribunes de spécialistes consacrées à l'affaire. La philosophe Monique Canto-Sperber estime qu'un livre écrit par une IA qui ne se désigne pas comme tel « revient à tromper le lecteur sur la nature même de l'écrit », et propose d'apposer une déclaration de l'auteur sur chaque ouvrage. Le sociologue Fabrice Raffin juge, lui, que la polémique ébranle à la fois le privilège de certains de dire ce qu'est l'art et l'image de l'artiste comme individu extraordinaire. Numerama replace le débat dans l'histoire des représentations de l'IA dans l'imaginaire collectif.\n\nLa labellisation « 100 % humain » apparaît déjà comme la piste la plus concrète : des initiatives de labels « garanti sans IA » émergent pour protéger la créativité humaine, tandis que certains artistes revendiquent un retour à une esthétique bricolée et artisanale. Si l'édition adopte des mentions d'authenticité, à l'image des labels alimentaires, la jurisprudence Orélien pourrait redéfinir durablement le contrat de confiance entre auteurs, éditeurs et lecteurs.",
+      "execSummary": "Une faille critique notée 10 sur 10 a piégé cette semaine jusqu'aux gendarmes français de la cybersécurité, l'ANSSI, rapporte Numerama dans sa synthèse hebdomadaire. Fin septembre, un analyste de Google a parallèlement alerté sur l'essor du LLM-jacking : revente à prix cassés de comptes d'intelligence artificielle volés et détournement discret de serveurs cloud. Le Monde publiait de son côté le 4 octobre une plongée dans les coulisses de Viginum, la cellule gouvernementale d'experts qui traque les ingérences étrangères sur Internet.\n\nCes trois faits dessinent un même paysage : la menace cyber se diversifie plus vite que les défenses. Les attaquants sont parfois étatiques, parfois non, ce qui impose une lecture globale de l'écosystème, de TikTok aux serveurs cloud. L'économie naissante de l'IA ouvre de nouveaux gisements pour les cybercriminels, tandis que la compromission d'un outil au sein même du gardien français rappelle qu'aucune organisation, aussi avertie soit-elle, n'est invulnérable.\n\nLes réponses s'organisent. A Viginum, les analystes cherchent à anticiper les ingérences étrangères et refusent de se limiter à la seule menace prorusse : « si on s'arrête à la menace prorusse, on se coupe d'une partie du sujet », explique le service, qui surveille l'évolution du cyberespace, sur TikTok ou ailleurs. L'alerte publique de l'analyste de Google vise, elle, à documenter les deux scénarios du LLM-jacking avant que la pratique ne s'industrialise. L'incident ayant touché l'ANSSI démontre, lui, que personne n'est épargné, pas même ceux qui conseillent les autres.\n\nLe LLM-jacking reste un marché jeune : c'est maintenant que se joue sa trajectoire, car plus les comptes et serveurs d'IA prennent de la valeur, plus ils deviennent des cibles de choix. Pour la France, l'enjeu dépasse la seule technique : à l'approche de la présidentielle de 2027, la capacité de Viginum à détecter tôt les campagnes d'ingérence conditionnera l'intégrité du débat public. La semaine a offert un dernier rappel des risques : un moteur de recherche alimenté par des données volées a exposé celles de Marine Le Pen, signe que la simple curiosité des utilisateurs peut nourrir le danger.",
       "sources": [
-        "Le Monde - Pixels",
-        "Numerama"
+        "Numerama",
+        "Le Monde - Pixels"
       ],
-      "publishedAt": "2026-10-04T03:55:06.000Z"
+      "publishedAt": "2026-10-05T04:30:11.000Z"
     },
     {
-      "id": "2026-10-04-05",
+      "id": "2026-10-05-06",
       "category": "eco",
-      "title": "Le G7 débloque 100 millions de barils de pétrole",
+      "title": "Salaires : les demandes d'acompte bondissent",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "name": "Washington"
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "Paris, France"
       },
       "bullets": [
-        "Le G7 annonce le déblocage de 100 millions de barils de pétrole.",
-        "La menace d'un embargo américain sur le gazole a précipité les discussions.",
-        "Les hausses de tarifs de l'énergie sont entrées en vigueur en Irlande du Nord.",
-        "Le déblocage coordonné vise à enrayer l'envolée mondiale des cours du brut.",
-        "La marge de manœuvre des réserves stratégiques s'amenuise à l'approche de l'hiver."
+        "Les demandes d'acompte sur salaire progressent nettement, surtout chez les bas revenus.",
+        "Le versement anticipé d'une partie de la rémunération attire de plus en plus de salariés.",
+        "La BBC décrypte la question du salaire actuel posée en entretien d'embauche.",
+        "Des experts recommandent d'esquiver cette question pour préserver sa marge de négociation.",
+        "La transparence salariale s'impose comme levier contre les écarts de rémunération."
       ],
-      "execSummary": "Le G7 a annoncé le déblocage de 100 millions de barils de pétrole issus des réserves de ses membres, rapporte Le Monde. Cette décision coordonnée intervient sous la pression directe de Donald Trump : le président américain a brandi la menace d'une interdiction des exportations de gazole des États-Unis, ce qui a précipité les discussions entre les sept pays, selon Le Monde et la BBC. L'objectif affiché est de freiner l'envolée des cours mondiaux du brut et des carburants.\n\nCette annonce marque l'aboutissement de plusieurs jours de pressions américaines sur les Européens pour qu'ils libèrent leurs réserves de gazole, dans un marché déjà tendu par un choc pétrolier durable. Les effets se font sentir des deux côtés de l'Atlantique : au Royaume-Uni, de nouvelles hausses de tarifs de l'énergie sont entrées en vigueur, notamment en Irlande du Nord où les ménages voient leur facture s'alourdir, indique la BBC. À quelques semaines des élections de mi-mandat, le prix du carburant est devenu un sujet politique majeur aux États-Unis.\n\nDu côté britannique, le syndicat professionnel Energy UK, qui représente les fournisseurs, a appelé le gouvernement à une action immédiate pour aider les ménages en difficulté cet hiver, rapporte la BBC. Les consommateurs d'Irlande du Nord font face à une pression accrue sur leur coût de la vie. À Washington, l'administration Trump assume ce rapport de force : il s'agit de contenir les prix à la pompe avant le scrutin de novembre. Les partenaires européens, qui cherchaient une réponse unie, ont finalement rejoint le dispositif coordonné du G7.\n\nCes 100 millions de barils constituent une ponction sensible dans les réserves stratégiques occidentales, et leur effet réel sur les cours reste incertain face à un choc d'offre persistant. Chaque nouveau déblocage réduit la marge de manœuvre des pays importateurs à l'approche de l'hiver, période de consommation maximale. La séquence confirme aussi la transformation des réserves énergétiques en instrument du rapport de force transatlantique, Washington conditionnant désormais sa coopération commerciale à des gestes sur les prix. Reste à savoir si les marchés jugeront le geste suffisant pour calmer durablement les cours.",
+      "execSummary": "Les demandes d'acompte sur salaire sont en nette hausse en France, révèle Le Monde ce 5 octobre 2026. Les salariés, en particulier ceux aux revenus les plus faibles, sont de plus en plus nombreux à réclamer le versement anticipé d'une partie de leur rémunération pour boucler leurs fins de mois. Au même moment, la BBC consacre deux contenus à une pratique qui agite le marché du travail : la question du salaire actuel posée en entretien d'embauche, et la manière d'y répondre.\n\nCes deux phénomènes dessinent un même arrière-plan : la rémunération est devenue un point de tension majeur dans les économies développées. En France, les familles ont perdu en moyenne 1 200 euros de pouvoir d'achat depuis 2024, un contexte déjà documenté. L'acompte sur salaire, un droit peu connu du Code du travail, sert désormais de soupape pour les ménages modestes. Outre-Manche, le débat porte sur la transparence salariale, présentée par ses partisans comme un outil pour réduire les écarts de rémunération, notamment entre femmes et hommes.\n\nLes experts interrogés par la BBC conseillent aux candidats d'esquiver la question du salaire actuel, par exemple en recentrant l'échange sur la fourchette prévue pour le poste, afin de ne pas ancrer la négociation sur un niveau bas. Côté français, la montée des demandes d'acompte est lue comme le symptôme d'une pression persistante sur les bas salaires, alors que la hausse des prix continue d'éroder les budgets des ménages les plus fragiles.\n\nPour les employeurs, la banalisation de l'acompte transforme la paie en variable d'ajustement sociale : accepter ces demandes devient un enjeu de gestion de la trésorerie autant que de fidélisation des salariés modestes. Le débat sur la transparence salariale, lui, pourrait déboucher sur de nouvelles obligations déclaratives pour les entreprises. En France, la sensibilité politique du sujet est déjà visible dans la campagne présidentielle de 2027, où la CSG et le financement de la protection sociale divisent les candidats, chaque variation de calcul se chiffrant en milliards d'euros pour la Sécurité sociale.",
       "sources": [
         "Le Monde - Économie",
         "BBC Business"
       ],
-      "publishedAt": "2026-10-04T04:20:07.000Z"
+      "publishedAt": "2026-10-05T05:33:59.000Z"
     }
   ]
 }
