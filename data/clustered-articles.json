@@ -1,209 +1,275 @@
 {
-  "generatedAt": "2026-10-05T05:54:31.863Z",
+  "generatedAt": "2026-10-06T06:33:42.227Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "topic": "Trump approuve la mise à mort par peloton d'exécution de l'auteur d'une tuerie s",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-05-e7ad4bd0",
-          "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
-          "description": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
-          "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3eaa/live/091199c0-c06e-11f1-9135-d3a6369912e1.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-05T05:28:46.000Z",
-          "fetchedAt": "2026-10-05T05:50:39.932Z"
-        },
-        {
-          "id": "2026-10-04-2fa50003",
-          "title": "Pakistan: une marche en soutien à Imran Khan démarre dans un climat politique tendu",
-          "description": "Après l’échec de négociations entamées vendredi 2 octobre avec les autorités, le PTI, la principale force d’opposition au Pakistan, a lancé aujourd’hui une grande marche en soutien à l’ancien Premier ministre Imran Khan, incarcéré depuis 2023. Alors que l’ancien Premier ministre est régulièrement présenté par les autorités comme une menace pour la sécurité nationale, sa popularité semble demeurer intacte auprès d’une partie importante de la population.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20261004-pakistan-une-marche-en-soutien-%C3%A0-imran-khan-d%C3%A9marre-dans-un-climat-politique-tendu",
-          "imageUrl": "https://s.rfi.fr/media/display/b0ef58f8-c014-11f1-bf15-13420ab900a2/w:1024/p:16x9/000-D276664.jpg",
+          "id": "2026-10-06-d2cc1cdb",
+          "title": "Trump approuve la mise à mort par peloton d'exécution de l'auteur d'une tuerie sur une base militaire",
+          "description": "Donald Trump a donné son accord pour la mise à mort par peloton d'exécution de l'auteur d'une tuerie sur une base militaire au Texas en 2009, une méthode plus employée par l'armée américaine depuis plus de 60 ans.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261006-trump-approuve-la-mise-%C3%A0-mort-par-peloton-d-ex%C3%A9cution-de-l-auteur-d-une-tuerie-sur-une-base-militaire",
+          "imageUrl": "https://s.rfi.fr/media/display/d326320e-c14d-11f1-ac52-13e372f41e70/w:1024/p:16x9/AP26279155488824.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-04T14:02:32.000Z",
-          "fetchedAt": "2026-10-05T05:50:39.959Z"
+          "publishedAt": "2026-10-06T06:20:23.000Z",
+          "fetchedAt": "2026-10-06T06:29:47.255Z"
+        },
+        {
+          "id": "2026-10-06-e4cd84d8",
+          "title": "Midterms aux États-Unis: Donald Trump, un soutien de plus en plus encombrant",
+          "description": "À trois semaines des élections de mi-mandat aux États-Unis, certains candidats républicains prennent leurs distances avec le président Donald Trump.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261006-midterms-aux-%C3%A9tats-unis-donald-trump-un-soutien-de-plus-en-plus-encombrant",
+          "imageUrl": "https://s.rfi.fr/media/display/200ac318-6e04-11ef-b924-005056bfb2b6/w:1024/p:16x9/GenElect2024Y1.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-06T06:02:48.000Z",
+          "fetchedAt": "2026-10-06T06:29:47.255Z"
+        },
+        {
+          "id": "2026-10-06-b39f0edb",
+          "title": "L’IA au mariage de Josh, les mascottes contre la terreur et les robots au tribunal",
+          "description": "",
+          "url": "https://www.courrierinternational.com/article/la-lettre-tech-l-ia-au-mariage-de-josh-les-mascottes-contre-la-terreur-et-les-robots-au-tribunal_276154",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/29/1/0/6887/4591/1200/630/60/0/46b2f06_ftp-1-ktsqimzaon4f-2297784118.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-06T05:30:09.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.744Z"
+        },
+        {
+          "id": "2026-10-06-8c744ab5",
+          "title": "Thaïlande: 50 ans après le massacre de l'université de Thammasat, se mobiliser reste difficile pour la jeunesse",
+          "description": "Il y a 50 ans, jour pour jour, la police, épaulée par des milices paramilitaires d’extrême droite, mettait à feu et à sang l’université Thammasat, à Bangkok, en Thaïlande, où était retranchée la jeunesse mobilisée pacifiquement contre le retour de l’ancien dictateur militaire Thanom Kittikachorn. Un demi-siècle plus tard, étudiants, militants et survivants commémorent les victimes de l’une des pages les plus sombres de l’histoire moderne du royaume.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20261006-tha%C3%AFlande-50-ans-apr%C3%A8s-le-massacre-de-l-universit%C3%A9-de-thammasat-se-mobiliser-reste-difficile-pour-la-jeunesse",
+          "imageUrl": "https://s.rfi.fr/media/display/f3ed7056-c143-11f1-84a5-1ff0321dbbd3/w:1024/p:16x9/000-D2BT384.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-06T05:29:09.000Z",
+          "fetchedAt": "2026-10-06T06:29:47.255Z"
+        },
+        {
+          "id": "2026-10-06-a94bdacc",
+          "title": "Sur le campus de Cornell, aux Etats-Unis, « tout le monde est révolté » par la gestion d’une affaire de viols",
+          "description": "Alors étudiante, une jeune femme avait affirmé avoir été droguée et violée en 2024 par sept membres d’une fraternité de la prestigieuse école américaine. Beaucoup d’étudiants estiment que les agresseurs présumés n’ont pas été suffisamment sanctionnés. En septembre, la plaignante a saisi la Cour suprême de l’Etat de New York.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/06/sur-le-campus-de-cornell-aux-etats-unis-tout-le-monde-est-revolte-par-la-gestion-d-une-affaire-de-viols-par-la-police-et-l-universite_6788831_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-06T03:48:30.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.621Z"
+        },
+        {
+          "id": "2026-10-06-03f5d78d",
+          "title": "Donald Trump signe un décret pour que tous les Américains puissent acheter du diesel détaxé",
+          "description": "Le président américain Donald Trump, dont la cote de popularité souffre des prix à la pompe, a signé lundi un décret visant à autoriser tous les Américains à acheter du \"diesel rouge exonéré de taxes\". Le texte se limite en réalité à reporter le paiement de la taxe sur ce gazole normalement réservé aux machines agricoles.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261006-etats-unis-petrole-donald-trump-signe-decret-tous-les-americains-acheter-diesel-rouge-detaxe",
+          "imageUrl": "https://s.france24.com/media/display/94f6472e-b2f4-11f1-95ba-61f6f55d211c/w:1024/p:16x9/2026-09-16T171401Z-792338523-RC2GKNAAXGZM-RTRMADP-3-GLOBAL-OIL.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-06T02:43:45.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.768Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Aux Etats-Unis, Jay Clayton, le nouvel homme fort de l’IA",
+      "id": "cluster-3",
+      "topic": "EN DIRECT, guerre en Ukraine : la ville de Moscou visée par une attaque d’une ra",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-05-641a4d9f",
-          "title": "Aux Etats-Unis, Jay Clayton, le nouvel homme fort de l’IA",
-          "description": "L’actuel directeur du renseignement américain vient d’être nommé par Donald Trump au poste de référent du gouvernement sur l’intelligence artificielle. Une désignation qui intervient alors que l’inquiétude monte sur le contrôle de cette technologie.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/05/aux-etats-unis-jay-clayton-le-nouvel-homme-fort-de-l-ia_6788485_3234.html",
+          "id": "2026-10-06-d9011778",
+          "title": "EN DIRECT, guerre en Ukraine : la ville de Moscou visée par une attaque d’une rare ampleur mobilisant 650 drones ukrainiens",
+          "description": "La capitale russe a été la cible, dans la nuit de lundi à mardi, d’une attaque qui a fait au moins un mort dans la périphérie, selon les autorités. Selon l’agence d’Etat TASS, il s’agit de la deuxième attaque la plus massive de ces derniers mois.",
+          "url": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-six-morts-dans-une-attaque-russe-a-kharkiv_6787996_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-05T05:00:02.000Z",
-          "fetchedAt": "2026-10-05T05:50:31.526Z"
+          "publishedAt": "2026-10-06T05:18:20.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.621Z"
         },
         {
-          "id": "2026-10-05-15b939e1",
-          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-          "description": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
-          "source": "BBC World",
+          "id": "2026-10-05-68439f0e",
+          "title": "En ciblant les ponts, “Poutine veut chasser les habitants de Kiev”",
+          "description": "En quelques jours, la Russie a touché à plusieurs reprises les ponts qui traversent le fleuve Dniepr. Une nouvelle campagne qui vise à paralyser toute activité socio-économique dans la capitale ukrainienne, dénonce Kiev.",
+          "url": "https://www.courrierinternational.com/article/vu-d-ukraine-en-ciblant-les-ponts-poutine-veut-chasser-les-habitants-de-kiev_276201",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/04/281/0/2522/1681/1200/630/60/0/5ca0a4c_ftp-1-bknxnzfcrkcd-2026-10-04t175312z-1059550731-rc2hwnablshe-rtrmadp-3-ukraine-crisis-attack-kyiv-bridge.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-05T03:37:41.000Z",
-          "fetchedAt": "2026-10-05T05:50:39.932Z"
-        },
-        {
-          "id": "2026-10-05-d52b834e",
-          "title": "Après l'accord sur le Groenland, les États-Unis poursuivent leur offensive en Islande",
-          "description": "Le chef de la diplomatie américaine Marco Rubio se rend lundi en Islande, pour y poursuivre l'offensive des États-Unis dans l'Arctique après l'accord sur le Groenland. L'Islande n'a pas d'armée et sa sécurité repose sur l'Otan ainsi que sur un accord bilatéral de défense conclu avec les États-Unis en 1951.",
-          "url": "https://www.france24.com/fr/europe/20261005-apr%C3%A8s-l-accord-sur-le-groenland-les-%C3%A9tats-unis-poursuivent-leur-offensive-dans-l-arctique",
-          "imageUrl": "https://s.france24.com/media/display/e7601934-c052-11f1-8633-dd51fcab6130/w:1024/p:16x9/ed02e85ff4747119a217e700b09bb5d268b8c296.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-05T00:22:53.000Z",
-          "fetchedAt": "2026-10-05T05:50:31.614Z"
-        },
-        {
-          "id": "2026-10-04-66c16215",
-          "title": "Alerte près de la base de Fairford, en Angleterre : les États-Unis retirent leurs bombardiers",
-          "description": "Tous les bombardiers américains qui avaient été déployés sur la base britannique de Fairford ont été retirés, a annoncé dimanche le Pentagone, quelques jours après l'incident près de cette base du sud-ouest de l'Angleterre. Six personnes ont été arrêtées puis relâchées sous contrôle judiciaire dans cette affaire, et le Premier ministre britannique a dit suspecter une implication de l'Iran.",
-          "url": "https://www.france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran",
-          "imageUrl": "https://s.france24.com/media/display/fff9d25e-c04e-11f1-80c5-13e372f41e70/w:1024/p:16x9/AP26272329519514.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-04T23:56:53.000Z",
-          "fetchedAt": "2026-10-05T05:50:31.614Z"
-        },
-        {
-          "id": "2026-10-04-d2333f95",
-          "title": "Les Etats-Unis retirent leurs bombardiers de la base britannique près de laquelle a eu lieu un incident",
-          "description": "Six hommes sont sous contrôle judiciaire après que de l’essence « en quantité » a été trouvée dans des véhicules près de la base militaire de Fairford, dans le sud-ouest de l’Angleterre. De nombreux points restent à élucider autour de cette affaire sur laquelle plane l’ombre de l’Iran, estime Londres.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/05/les-etats-unis-retirent-leurs-bombardiers-de-la-base-britannique-pres-de-laquelle-a-eu-lieu-un-incident_6788399_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-04T23:56:13.000Z",
-          "fetchedAt": "2026-10-05T05:50:31.526Z"
-        },
-        {
-          "id": "2026-10-04-ce041778",
-          "title": "Aux États-Unis, de plus en plus de jeunes électeurs noirs se déclarent indépendants",
-          "description": "L’un des enjeux pour les démocrates pour les prochaines élections de mi-mandat, c'est de mobiliser les électeurs perdus à la dernière présidentielle, comme les jeunes hommes afro-américains. Donald Trump avait doublé sa part d’électeurs d’hommes afro-américains en 2024, mais de plus en plus de jeunes hommes noirs se déclarent indépendants. Un défi pour les démocrates, qui dans les années 1960 étaient devenus le parti du mouvement des droits civiques.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261004-aux-%C3%A9tats-unis-de-plus-en-plus-de-jeunes-%C3%A9lecteurs-noirs-se-d%C3%A9clarent-ind%C3%A9pendants",
-          "imageUrl": "https://s.rfi.fr/media/display/d7e8732e-c035-11f1-a9ae-13420ab900a2/w:1024/p:16x9/063-2215794481.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-04T22:08:22.000Z",
-          "fetchedAt": "2026-10-05T05:50:39.959Z"
+          "publishedAt": "2026-10-05T17:53:08.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.744Z"
         }
       ]
     },
     {
-      "id": "cluster-9",
-      "topic": "Sous les frappes russes visant les ponts, Kiev se déplace au ralenti",
+      "id": "cluster-7",
+      "topic": "En direct : mobilisation massive attendue des lycéens en France pour l\"'acte III",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-05-a0ae6666",
-          "title": "Sous les frappes russes visant les ponts, Kiev se déplace au ralenti",
-          "description": "En Ukraine, Kiev continue de subir des frappes de drones russes sur les ponts qui relient les deux rives de la ville, même pendant la visite du chancelier allemand Friedrich Merz. Si le but de scinder la ville et d'en paralyser les transports n'est pas encore atteint par Moscou, ces attaques perturbent grandement la circulation des résidents, menacés par le Kremlin d'attaques encore plus lourdes.",
-          "url": "https://www.rfi.fr/fr/europe/20261005-sous-les-frappes-russes-visant-les-ponts-kiev-se-d%C3%A9place-au-ralenti",
-          "imageUrl": "https://s.rfi.fr/media/display/6eb2d400-c074-11f1-9776-13e372f41e70/w:1024/p:16x9/AP26277357934280-1.jpg",
+          "id": "2026-10-06-cf6e6ba0",
+          "title": "En direct : mobilisation massive attendue des lycéens en France pour l\"'acte III\"",
+          "description": "Mardi, la mobilisation des lycéens, qui signe l'\"acte III\" du mouvement, s'annonce massive. Des syndicats ont d'ores et déjà indiqué se joindre à la contestation. Hier, des centaines d'établissements étaient fermés et un jeune de 15 ans a été gravement blessé. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/france/20261006-en-direct-mobilisation-massive-attendue-des-lyc%C3%A9ens-pour-l-acte-iii-du-mouvement",
+          "imageUrl": "https://s.france24.com/media/display/c6271800-c140-11f1-bed9-13420ab900a2/w:1024/p:16x9/2026-10-05T085815Z-1919647910-MT1ZUMA000OJWPLQ-RTRMADP-3-ZUMA.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-06T04:57:52.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.768Z"
+        },
+        {
+          "id": "2026-10-06-943a68a2",
+          "title": "Houthistes, bombardiers américains, Éthiopie, match France-Belgique : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-houthistes-bombardiers-americains-ethiopie-match-france-belgique-les-informations-de-la-nuit_276246",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/05/329/0/9930/6620/1200/630/60/0/6ba3f63_ftp-1-mag6vpj13jre-2026-10-05t115125z-1435469271-rc2zwna4fx4h-rtrmadp-3-iran-crisis-saudi-aramco.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-06T03:00:03.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.744Z"
+        },
+        {
+          "id": "2026-10-06-52092b7a",
+          "title": "\"Acte III\" : nouvelle journée de mobilisation lycéenne sous haute tension en France",
+          "description": "Des dizaines de milliers de lycéens manifestent sous haute surveillance mardi à travers la France pour réclamer des moyens, un \"Acte III\" soutenu par une intersyndicale de l'Éducation nationale. Plus de 6 000 interpellations ont été effectuées depuis le 28 septembre.",
+          "url": "https://www.france24.com/fr/france/20261006-acte-iii-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-sous-haute-tension-en-france",
+          "imageUrl": "https://s.france24.com/media/display/0f19b93e-c11c-11f1-ac25-69fad0a7cb9f/w:1024/p:16x9/cbc767a3d697d5770d0894690ae5db8b076d8587.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-06T00:22:48.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.768Z"
+        },
+        {
+          "id": "2026-10-05-f66e2437",
+          "title": "Blocage des lycées en France: un mineur gravement blessé à la veille de l'«acte III» du mouvement",
+          "description": "À la veille d'un « acte III » du mouvement lycéen auquel se joindront mardi 6 octobre des syndicats, la mobilisation est restée forte lundi 5 octobre en France avec des centaines d'établissements fermés et plusieurs incidents, dont un grave concernant un jeune de 15 ans, qui a vu sa main arrachée par une grenade policière.",
+          "url": "https://www.rfi.fr/fr/france/20261005-blocage-des-lyc%C3%A9es-en-france-un-mineur-gravement-bless%C3%A9-%C3%A0-la-veille-de-l-acte-iii-du-mouvement",
+          "imageUrl": "https://s.rfi.fr/media/display/28796c5e-c10c-11f1-a0d2-1ff0321dbbd3/w:1024/p:16x9/AP26275500888422.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-05T04:43:02.000Z",
-          "fetchedAt": "2026-10-05T05:50:39.959Z"
+          "publishedAt": "2026-10-05T22:40:19.000Z",
+          "fetchedAt": "2026-10-06T06:29:47.255Z"
         },
         {
-          "id": "2026-10-04-25a3918e",
-          "title": "Bravant les menaces de la Russie, Friedrich Merz fait une visite surprise à Kiev",
-          "description": "Alors que Moscou avait déconseillé, samedi 3 octobre, aux Européens d’aller à Kiev, le chancelier allemand s’est rendu en Ukraine dimanche, où il a annoncé de nouveaux contrats d’armement et un programme d’aide militaire.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/04/bravant-les-menaces-de-la-russie-friedrich-merz-fait-une-visite-surprise-a-kiev_6788318_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-10-05-75110b10",
+          "title": "🔴 Ligue des nations : la France renverse puis punit la Belgique",
+          "description": "",
+          "url": "https://www.france24.com/fr/sports/20261005-ligue-nations-france-belgique",
+          "imageUrl": "https://s.france24.com/media/display/3e7179c6-c0fc-11f1-a708-1ff0321dbbd3/w:1280/p:16x9/000-D2BG6ER.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-10-04T16:35:39.000Z",
-          "fetchedAt": "2026-10-05T05:50:31.526Z"
+          "publishedAt": "2026-10-05T20:38:06.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.768Z"
         },
         {
-          "id": "2026-10-04-b44427dd",
-          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-          "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-          "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df42/live/012a8270-bff2-11f1-a64c-550be9e3c66b.jpg",
-          "source": "BBC World",
+          "id": "2026-10-05-cbf419a6",
+          "title": "Ligue des nations : la France de Zidane qualifiée ce lundi en quarts de finale si...",
+          "description": "Opposée à la Belgique lundi, l'équipe de France peut obtenir dès ce soir sa qualification pour les quarts de finale de la compétition. Il suffit d'une victoire face à son voisin et d'un bon résultat dans la rencontre Italie - Turquie.",
+          "url": "https://www.france24.com/fr/sports/20261005-ligue-nations-france-zidane-qualifiee-quarts-finale-conditions",
+          "imageUrl": "https://s.france24.com/media/display/bf1dda90-c0d1-11f1-87b8-578a4b968fd6/w:1024/p:16x9/000-D248929.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-10-04T14:25:32.000Z",
-          "fetchedAt": "2026-10-05T05:50:39.932Z"
-        },
-        {
-          "id": "2026-10-04-bd9526dd",
-          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-          "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-          "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9749/live/fb482ba0-c000-11f1-babe-4199b0e7ccea.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-04T12:09:04.000Z",
-          "fetchedAt": "2026-10-05T05:50:39.932Z"
-        },
-        {
-          "id": "2026-10-04-04eaea74",
-          "title": "Ukraine: Friedrich Merz en visite surprise à Kiev, toujours sous le feu des frappes russes",
-          "description": "Le chancelier allemand Friedrich Merz est arrivé dimanche à Kiev pour une visite non annoncée, destinée à montrer son soutien au pays dans sa guerre contre la Russie, alors même que la capitale se trouve sous le feu nourri de la Russie, qui frappe désormais les infrastructures permettant la traversée du Dniepr. Friedrich Merz a informé d'un nouveau plan de soutien à l'armement et au secteur énergétique ukrainien.",
-          "url": "https://www.rfi.fr/fr/europe/20261004-ukraine-friedrich-merz-en-visite-surprise-%C3%A0-kiev-toujours-sous-le-feu-des-frappes-russes",
-          "imageUrl": "https://s.rfi.fr/media/display/374e4898-bfbe-11f1-a2b2-578a4b968fd6/w:1024/p:16x9/AP26274315365669.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-04T06:56:35.000Z",
-          "fetchedAt": "2026-10-05T05:50:39.959Z"
+          "publishedAt": "2026-10-05T15:42:10.000Z",
+          "fetchedAt": "2026-10-06T06:29:41.768Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+      "topic": "Avec « Le Fondateur », Giuliano da Empoli semble  subjugué par son sujet, un pat",
       "category": "tech",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-10-05-1838985c",
-          "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-          "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
-          "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egypt1-1152x648-1791134921.jpg",
+          "id": "2026-10-06-9cbb8a4f",
+          "title": "Avec « Le Fondateur », Giuliano da Empoli semble  subjugué par son sujet, un patron de la tech inspiré de Peter Thiel",
+          "description": "Dans son nouveau roman, l’écrivain et essayiste nous plonge dans l’univers des entrepreneurs de la tech, dénonçant les menaces qu’ils représententent pour la démocratie.",
+          "url": "https://www.lemonde.fr/livres/article/2026/10/06/avec-le-fondateur-giuliano-da-empoli-semble-subjugue-par-son-sujet-un-patron-de-la-tech-inspire-de-peter-thiel_6788937_3260.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-10-06T05:00:12.000Z",
+          "fetchedAt": "2026-10-06T06:29:47.341Z"
+        },
+        {
+          "id": "2026-10-05-94a8b293",
+          "title": "IA : des associations prévoient de manifester jeudi à Paris pour réclamer une convention citoyenne",
+          "description": "Médecins urgentistes, traducteurs, familles et écrivains se retrouveront jeudi devant l’Accor Arena, à Paris, où Bpifrance réunit des entrepreneurs autour de l’IA.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/10/05/ia-des-associations-prevoient-de-manifester-jeudi-a-paris-pour-reclamer-une-convention-citoyenne_6788580_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-10-05T18:41:22.000Z",
+          "fetchedAt": "2026-10-06T06:29:47.341Z"
+        },
+        {
+          "id": "2026-10-05-c4991472",
+          "title": "Passe Navigo à 93,40 €, ticket unique à 2,45 € : la nouvelle grille tarifaire qui se prépare pour 2027",
+          "description": "Les tarifs du passe Navigo devraient encore augmenter en 2027. Le Navigo mensuel passerait de 90,80 € actuellement à 93,40 €, soit une hausse de 2,60 €.",
+          "url": "https://www.numerama.com/vroom/2346937-passe-navigo-a-9340-e-ticket-unique-a-245-e-la-nouvelle-grille-tarifaire-qui-se-prepare-pour-2027.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/passe-navigo-bus.jpg?resize=1600,900&key=557cc4d0",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-05T16:52:49.000Z",
+          "fetchedAt": "2026-10-06T06:29:47.304Z"
+        },
+        {
+          "id": "2026-10-05-aa1c53b8",
+          "title": "GPT-6 Astra devait créer un bot StarCraft : l’IA a préféré tricher en copiant le meilleur humain",
+          "description": "Le vendredi 2 octobre, GPT-6 Astra, un modèle d'OpenAI, devait écrire un bot StarCraft pour le banc d'essai StarSkirmish. Il a téléchargé à la place Stardust, le meilleur bot écrit par un humain. Le créateur du test, Kai McPheeters, a effacé le code copié. Brood War sert depuis des années de terrain d'essai à la recherche en IA.",
+          "url": "https://www.numerama.com/tech/2346707-gpt-6-astra-devait-creer-un-bot-starcraft-lia-a-prefere-tricher-en-copiant-le-meilleur-humain.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2017/04/starcraft1.jpg?resize=1600,900&key=fe7d8522",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-05T15:42:18.000Z",
+          "fetchedAt": "2026-10-06T06:29:47.304Z"
+        },
+        {
+          "id": "2026-10-05-3741b71e",
+          "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+          "description": "Unconfirmed reports have suggested there was a laboratory accident.",
+          "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2199370602-2560x1440.jpg",
           "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-10-05T04:00:52.000Z",
-          "fetchedAt": "2026-10-05T05:50:43.868Z"
+          "publishedAt": "2026-10-05T15:12:17.000Z",
+          "fetchedAt": "2026-10-06T06:29:51.206Z"
+        },
+        {
+          "id": "2026-10-05-db132f63",
+          "title": "Crédit Agricole brièvement en panne ce lundi : le site et l’application de la banque française ont rencontré des bugs",
+          "description": "Des clients du Crédit Agricole ont signalé des problèmes ce lundi 5 octobre 2026 après-midi. Une brève panne empêchait les connexions aux services de la banque française, sur l'application ou sur le site.",
+          "url": "https://www.numerama.com/tech/2346787-credit-agricole-en-panne-ce-lundi-le-site-et-lapplication-de-la-banque-francaise-rencontrent-des-bugs.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/2.jpg?resize=1600,900&key=259645a0",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-05T14:38:33.000Z",
+          "fetchedAt": "2026-10-06T06:29:47.304Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "How much is your salary?",
+      "id": "cluster-3",
+      "topic": "Irish budget to tackle childcare and energy costs",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-10-05-41856120",
-          "title": "How much is your salary?",
-          "description": "And would you reveal it in a job interview?",
-          "url": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd02/live/568425b0-bd8f-11f1-babe-4199b0e7ccea.jpg",
+          "id": "2026-10-06-0dad5698",
+          "title": "Irish budget to tackle childcare and energy costs",
+          "description": "The threshold at which people start paying the higher income tax rate is also expected to increase.",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/959c/live/5d495a00-c0c3-11f1-885f-4f9e8c6dce17.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-10-05T05:33:59.000Z",
-          "fetchedAt": "2026-10-05T05:50:47.131Z"
+          "publishedAt": "2026-10-06T05:30:06.000Z",
+          "fetchedAt": "2026-10-06T06:29:55.086Z"
         }
       ]
     }
