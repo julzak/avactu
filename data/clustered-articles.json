@@ -1,191 +1,213 @@
 {
-  "generatedAt": "2026-10-06T06:33:42.227Z",
+  "generatedAt": "2026-10-07T06:12:31.344Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Trump approuve la mise à mort par peloton d'exécution de l'auteur d'une tuerie s",
+      "topic": "Une attaque de missiles à Kiev fait deux morts, alors que Moscou intensifie ses ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-06-d2cc1cdb",
-          "title": "Trump approuve la mise à mort par peloton d'exécution de l'auteur d'une tuerie sur une base militaire",
-          "description": "Donald Trump a donné son accord pour la mise à mort par peloton d'exécution de l'auteur d'une tuerie sur une base militaire au Texas en 2009, une méthode plus employée par l'armée américaine depuis plus de 60 ans.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261006-trump-approuve-la-mise-%C3%A0-mort-par-peloton-d-ex%C3%A9cution-de-l-auteur-d-une-tuerie-sur-une-base-militaire",
-          "imageUrl": "https://s.rfi.fr/media/display/d326320e-c14d-11f1-ac52-13e372f41e70/w:1024/p:16x9/AP26279155488824.jpg",
-          "source": "RFI",
+          "id": "2026-10-07-f83c1e0d",
+          "title": "Une attaque de missiles à Kiev fait deux morts, alors que Moscou intensifie ses frappes",
+          "description": "La ​Russie a ​mené des frappes contre Kiev tôt mercredi, faisant ​deux ‌morts selon un premier bilan des autorités. L'Ukraine accuse Moscou d'intensifier les attaques contre la capitale visée presque quotidiennement et de cibler les infrastructures clés du pays.",
+          "url": "https://www.france24.com/fr/europe/20261007-ukraine-attaque-missiles-russie-kiev-deux-morts-frappes-infrastructures-%C3%A9nergie",
+          "imageUrl": "https://s.france24.com/media/display/8bc7294e-c211-11f1-8aec-ff8cff4603f0/w:1024/p:16x9/2026-10-07T053758Z-164245437-RC22YNA4P69K-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-10-06T06:20:23.000Z",
-          "fetchedAt": "2026-10-06T06:29:47.255Z"
+          "publishedAt": "2026-10-07T06:01:01.000Z",
+          "fetchedAt": "2026-10-07T06:08:31.104Z"
         },
         {
-          "id": "2026-10-06-e4cd84d8",
-          "title": "Midterms aux États-Unis: Donald Trump, un soutien de plus en plus encombrant",
-          "description": "À trois semaines des élections de mi-mandat aux États-Unis, certains candidats républicains prennent leurs distances avec le président Donald Trump.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261006-midterms-aux-%C3%A9tats-unis-donald-trump-un-soutien-de-plus-en-plus-encombrant",
-          "imageUrl": "https://s.rfi.fr/media/display/200ac318-6e04-11ef-b924-005056bfb2b6/w:1024/p:16x9/GenElect2024Y1.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-06T06:02:48.000Z",
-          "fetchedAt": "2026-10-06T06:29:47.255Z"
-        },
-        {
-          "id": "2026-10-06-b39f0edb",
-          "title": "L’IA au mariage de Josh, les mascottes contre la terreur et les robots au tribunal",
-          "description": "",
-          "url": "https://www.courrierinternational.com/article/la-lettre-tech-l-ia-au-mariage-de-josh-les-mascottes-contre-la-terreur-et-les-robots-au-tribunal_276154",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/29/1/0/6887/4591/1200/630/60/0/46b2f06_ftp-1-ktsqimzaon4f-2297784118.jpg",
+          "id": "2026-10-07-78eabc1a",
+          "title": "Un litige frontalier entre la Tchéquie et la Pologne ? Non, la guerre hybride de Moscou",
+          "description": "Vous êtes en terminale ou en 1ʳᵉ spécialité histoire-géographie, géopolitique et sciences politiques (HGGSP) ? La Lettre de l’éduc est pour vous. Chaque semaine, Benjamin Daubeuf, professeur agrégé d’histoire-géographie, vous conseille la lecture d’un article d’actualité qui résonne avec votre programme. Ce mercredi, une efficace opération de désinformation russe, qui a ciblé deux pays membres de l’UE.",
+          "url": "https://www.courrierinternational.com/article/la-lettre-de-l-educ-un-litige-frontalier-entre-la-tchequie-et-la-pologne-non-la-guerre-hybride-de-moscou_275454",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/22/0/0/2598/1732/1200/630/60/0/f870998_upload-1-os5zaruii7uz-p-22-kazanevsky-w.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-06T05:30:09.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.744Z"
+          "publishedAt": "2026-10-07T05:00:08.000Z",
+          "fetchedAt": "2026-10-07T06:08:31.139Z"
         },
         {
-          "id": "2026-10-06-8c744ab5",
-          "title": "Thaïlande: 50 ans après le massacre de l'université de Thammasat, se mobiliser reste difficile pour la jeunesse",
-          "description": "Il y a 50 ans, jour pour jour, la police, épaulée par des milices paramilitaires d’extrême droite, mettait à feu et à sang l’université Thammasat, à Bangkok, en Thaïlande, où était retranchée la jeunesse mobilisée pacifiquement contre le retour de l’ancien dictateur militaire Thanom Kittikachorn. Un demi-siècle plus tard, étudiants, militants et survivants commémorent les victimes de l’une des pages les plus sombres de l’histoire moderne du royaume.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20261006-tha%C3%AFlande-50-ans-apr%C3%A8s-le-massacre-de-l-universit%C3%A9-de-thammasat-se-mobiliser-reste-difficile-pour-la-jeunesse",
-          "imageUrl": "https://s.rfi.fr/media/display/f3ed7056-c143-11f1-84a5-1ff0321dbbd3/w:1024/p:16x9/000-D2BT384.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-06T05:29:09.000Z",
-          "fetchedAt": "2026-10-06T06:29:47.255Z"
-        },
-        {
-          "id": "2026-10-06-a94bdacc",
-          "title": "Sur le campus de Cornell, aux Etats-Unis, « tout le monde est révolté » par la gestion d’une affaire de viols",
-          "description": "Alors étudiante, une jeune femme avait affirmé avoir été droguée et violée en 2024 par sept membres d’une fraternité de la prestigieuse école américaine. Beaucoup d’étudiants estiment que les agresseurs présumés n’ont pas été suffisamment sanctionnés. En septembre, la plaignante a saisi la Cour suprême de l’Etat de New York.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/06/sur-le-campus-de-cornell-aux-etats-unis-tout-le-monde-est-revolte-par-la-gestion-d-une-affaire-de-viols-par-la-police-et-l-universite_6788831_3210.html",
+          "id": "2026-10-07-1d2e3067",
+          "title": "EN DIRECT, guerre en Ukraine : deux morts à Kiev dans une attaque de missiles russes",
+          "description": "Ce premier bilan a été donné par des autorités militaires, alors que Moscou intensifie ses frappes sur la capitale ukrainienne. La veille, le président, Volodymyr Zelensky, avait mis en garde contre le risque d’une « attaque massive » russe sur Kiev.",
+          "url": "https://www.lemonde.fr/international/live/2026/10/07/en-direct-guerre-en-ukraine-deux-morts-a-kiev-dans-une-attaque-de-missiles-russes_6787996_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-06T03:48:30.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.621Z"
+          "publishedAt": "2026-10-07T04:43:18.000Z",
+          "fetchedAt": "2026-10-07T06:08:31.011Z"
         },
         {
-          "id": "2026-10-06-03f5d78d",
-          "title": "Donald Trump signe un décret pour que tous les Américains puissent acheter du diesel détaxé",
-          "description": "Le président américain Donald Trump, dont la cote de popularité souffre des prix à la pompe, a signé lundi un décret visant à autoriser tous les Américains à acheter du \"diesel rouge exonéré de taxes\". Le texte se limite en réalité à reporter le paiement de la taxe sur ce gazole normalement réservé aux machines agricoles.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261006-etats-unis-petrole-donald-trump-signe-decret-tous-les-americains-acheter-diesel-rouge-detaxe",
-          "imageUrl": "https://s.france24.com/media/display/94f6472e-b2f4-11f1-95ba-61f6f55d211c/w:1024/p:16x9/2026-09-16T171401Z-792338523-RC2GKNAAXGZM-RTRMADP-3-GLOBAL-OIL.jpg",
-          "source": "France 24",
+          "id": "2026-10-06-48c2173d",
+          "title": "Comment la guerre a créé une nouvelle classe moyenne russe",
+          "description": "Dans les régions déshéritées de Russie, frappées de plein fouet par la désindustrialisation post-URSS, l’invasion de l’Ukraine a été un effet d’aubaine. Les ouvriers de l’armement ont vu leurs salaires exploser. Les soldats et leurs proches se sont enrichis comme jamais. Cette amélioration drastique des conditions de vie accroît le soutien au conflit, assurait en septembre 2025 “The Sunday Telegraph”, à Londres.",
+          "url": "https://www.courrierinternational.com/article/analyse-comment-la-guerre-a-cree-une-nouvelle-classe-moyenne-russe_234510_1",
+          "imageUrl": "https://focus.courrierinternational.com/2025/09/04/0/0/8203/5468/1200/630/60/0/364ec22_upload-1-f8re9iyr8nvd-000-32bz3l4.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-06T02:43:45.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.768Z"
+          "publishedAt": "2026-10-06T18:13:51.000Z",
+          "fetchedAt": "2026-10-07T06:08:31.139Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "EN DIRECT, guerre en Ukraine : la ville de Moscou visée par une attaque d’une ra",
+      "topic": "Assassinat d'Anna Politkovskaïa: «Une véritable enquête ne sera possible que si ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-06-d9011778",
-          "title": "EN DIRECT, guerre en Ukraine : la ville de Moscou visée par une attaque d’une rare ampleur mobilisant 650 drones ukrainiens",
-          "description": "La capitale russe a été la cible, dans la nuit de lundi à mardi, d’une attaque qui a fait au moins un mort dans la périphérie, selon les autorités. Selon l’agence d’Etat TASS, il s’agit de la deuxième attaque la plus massive de ces derniers mois.",
-          "url": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-six-morts-dans-une-attaque-russe-a-kharkiv_6787996_3210.html",
+          "id": "2026-10-07-82587767",
+          "title": "Assassinat d'Anna Politkovskaïa: «Une véritable enquête ne sera possible que si le régime change», estime son fils",
+          "description": "Il y a vingt ans, Anna Politkovskaïa était assassinée, tuée par balles dans la cage d’escalier de son immeuble à Moscou, le jour de l’anniversaire de Vladimir Poutine. La journaliste d’investigation de Novaya Gazeta qui dénonçait la corruption et les crimes de guerre commis lors de la deuxième guerre de Tchétchénie, était une critique virulente du président russe. Si le tireur et l’organisateur ont été condamnés, les commanditaires n’ont jamais été identifiés. Vingt ans après, son fils, Ilia Politkovski, revient sur la personnalité et les convictions de sa mère, et sur ce qu’aurait pu être son parcours si elle était encore en vie.",
+          "url": "https://www.rfi.fr/fr/europe/20261007-assassinat-d-anna-politkovska%C3%AFa-une-v%C3%A9ritable-enqu%C3%AAte-ne-sera-possible-que-si-le-r%C3%A9gime-change-estime-son-fils",
+          "imageUrl": "https://s.rfi.fr/media/display/2236ab66-127e-11ea-a8f5-005056bf7c53/w:1024/p:16x9/76411819_0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-07T05:30:03.000Z",
+          "fetchedAt": "2026-10-07T06:08:36.323Z"
+        },
+        {
+          "id": "2026-10-07-4a21f2e8",
+          "title": "États-Unis: après son exécution ratée, Christa Pike a «repris connaissance et peut parler»",
+          "description": "La condamnée qui a survécu à deux injections létales aux États-Unis, Christa Pike, a « repris connaissance et peut parler », ont annoncé mardi ses avocats, six jours après l'échec inédit de son exécution.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-%C3%A9tats-unis-apr%C3%A8s-son-ex%C3%A9cution-rat%C3%A9e-christa-pike-a-repris-connaissance-et-peut-parler",
+          "imageUrl": "https://s.rfi.fr/media/display/b07c1840-bd74-11f1-8911-098db7fa8bc7/w:1024/p:16x9/2026-10-01T075544Z-184107085-RC2PTNAYXSRM-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-07T05:16:21.000Z",
+          "fetchedAt": "2026-10-07T06:08:36.323Z"
+        },
+        {
+          "id": "2026-10-07-ddaf8561",
+          "title": "Alain Dieckhoff, sociologue : « La guerre déclenchée par l’attaque terroriste du 7-Octobre aura donné un coup de canif supplémentaire dans l’Etat de droit en Israël »",
+          "description": "Dans une tribune au « Monde », le chercheur tire le bilan, à l’international et en interne, des opérations guerrières lancées par le gouvernement israélien. Selon lui, le pays risque une « délibéralisation » accélérée, notamment si Benyamin Nétanyahou reste au pouvoir après les élections législatives du 27 octobre.",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/07/alain-dieckhoff-sociologue-la-guerre-declenchee-par-l-attaque-terroriste-du-7-octobre-aura-donne-un-coup-de-canif-supplementaire-dans-l-etat-de-droit-en-israel_6789540_3232.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-06T05:18:20.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.621Z"
+          "publishedAt": "2026-10-07T04:00:12.000Z",
+          "fetchedAt": "2026-10-07T06:08:31.011Z"
         },
         {
-          "id": "2026-10-05-68439f0e",
-          "title": "En ciblant les ponts, “Poutine veut chasser les habitants de Kiev”",
-          "description": "En quelques jours, la Russie a touché à plusieurs reprises les ponts qui traversent le fleuve Dniepr. Une nouvelle campagne qui vise à paralyser toute activité socio-économique dans la capitale ukrainienne, dénonce Kiev.",
-          "url": "https://www.courrierinternational.com/article/vu-d-ukraine-en-ciblant-les-ponts-poutine-veut-chasser-les-habitants-de-kiev_276201",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/04/281/0/2522/1681/1200/630/60/0/5ca0a4c_ftp-1-bknxnzfcrkcd-2026-10-04t175312z-1059550731-rc2hwnablshe-rtrmadp-3-ukraine-crisis-attack-kyiv-bridge.JPG",
-          "source": "Courrier International",
+          "id": "2026-10-07-5a0040a7",
+          "title": "En Allemagne, la succession de Friedrich Merz en filigrane dans le duel entre Munich et Cologne pour accueillir les JO",
+          "description": "Les deux grandes villes allemandes ont rivalisé pendant des semaines pour accueillir les futurs Jeux olympiques de 2036, 2040 ou 2044. A travers elles, se joue le face-à-face entre deux prétendants à la succession du chancelier, très affaibli politiquement.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/07/en-allemagne-la-succession-de-friedrich-merz-en-filigrane-dans-le-duel-entre-munich-et-cologne-pour-accueillir-les-jo_6789466_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-05T17:53:08.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.744Z"
+          "publishedAt": "2026-10-07T03:05:10.000Z",
+          "fetchedAt": "2026-10-07T06:08:31.011Z"
+        },
+        {
+          "id": "2026-10-07-77139ac2",
+          "title": "En Israël, trois ans après le 7-Octobre, les traumatismes et les aveuglements d’un pays",
+          "description": "En pleine campagne électorale, l’Etat hébreu commémore mardi les victimes de l’attaque terroriste du Hamas. Depuis le drame, le pays poursuit une guerre sans fin motivée par un désir de vengeance, sans s’interroger sur les failles qui ont conduit au désastre.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-07T03:00:25.000Z",
+          "fetchedAt": "2026-10-07T06:08:31.011Z"
+        },
+        {
+          "id": "2026-10-06-c8356c97",
+          "title": "Christa Pike, dont l’exécution avait échoué aux Etats-Unis, est « contre toute attente, consciente et peut parler », selon ses avocats",
+          "description": "« Son rétablissement est sans précédent sur le plan médical. Son pronostic reste incertain », ont ajouté les avocats de la condamnée à la peine capitale, dont l’exécution a été un échec sans précédent, le 30 septembre, dans le Tennessee.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle_6789231_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-06T23:22:03.000Z",
+          "fetchedAt": "2026-10-07T06:08:31.011Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "En direct : mobilisation massive attendue des lycéens en France pour l\"'acte III",
+      "id": "cluster-11",
+      "topic": "Pornhub returns to Australia but only for adults with Apple devices",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-06-cf6e6ba0",
-          "title": "En direct : mobilisation massive attendue des lycéens en France pour l\"'acte III\"",
-          "description": "Mardi, la mobilisation des lycéens, qui signe l'\"acte III\" du mouvement, s'annonce massive. Des syndicats ont d'ores et déjà indiqué se joindre à la contestation. Hier, des centaines d'établissements étaient fermés et un jeune de 15 ans a été gravement blessé. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/france/20261006-en-direct-mobilisation-massive-attendue-des-lyc%C3%A9ens-pour-l-acte-iii-du-mouvement",
-          "imageUrl": "https://s.france24.com/media/display/c6271800-c140-11f1-bed9-13420ab900a2/w:1024/p:16x9/2026-10-05T085815Z-1919647910-MT1ZUMA000OJWPLQ-RTRMADP-3-ZUMA.jpg",
-          "source": "France 24",
+          "id": "2026-10-07-95632530",
+          "title": "Pornhub returns to Australia but only for adults with Apple devices",
+          "description": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-10-06T04:57:52.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.768Z"
+          "publishedAt": "2026-10-07T04:39:59.000Z",
+          "fetchedAt": "2026-10-07T06:08:36.154Z"
         },
         {
-          "id": "2026-10-06-943a68a2",
-          "title": "Houthistes, bombardiers américains, Éthiopie, match France-Belgique : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-houthistes-bombardiers-americains-ethiopie-match-france-belgique-les-informations-de-la-nuit_276246",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/05/329/0/9930/6620/1200/630/60/0/6ba3f63_ftp-1-mag6vpj13jre-2026-10-05t115125z-1435469271-rc2zwna4fx4h-rtrmadp-3-iran-crisis-saudi-aramco.JPG",
-          "source": "Courrier International",
+          "id": "2026-10-07-9d093b0f",
+          "title": "En Australie, la justice s’oppose à l’extension d’une mine de charbon",
+          "description": "Dans un arrêt prononcé mercredi, la Haute Cour australienne s’oppose à un vaste plan d’extension d’une mine de charbon à ciel ouvert, au nord de Sydney, en raison des conséquences climatiques du projet. Une victoire pour les militants écologistes.",
+          "url": "https://www.lemonde.fr/planete/article/2026/10/07/en-australie-la-justice-s-oppose-a-l-extension-d-une-mine-de-charbon_6789397_3244.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-06T03:00:03.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.744Z"
-        },
-        {
-          "id": "2026-10-06-52092b7a",
-          "title": "\"Acte III\" : nouvelle journée de mobilisation lycéenne sous haute tension en France",
-          "description": "Des dizaines de milliers de lycéens manifestent sous haute surveillance mardi à travers la France pour réclamer des moyens, un \"Acte III\" soutenu par une intersyndicale de l'Éducation nationale. Plus de 6 000 interpellations ont été effectuées depuis le 28 septembre.",
-          "url": "https://www.france24.com/fr/france/20261006-acte-iii-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-sous-haute-tension-en-france",
-          "imageUrl": "https://s.france24.com/media/display/0f19b93e-c11c-11f1-ac25-69fad0a7cb9f/w:1024/p:16x9/cbc767a3d697d5770d0894690ae5db8b076d8587.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-06T00:22:48.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.768Z"
-        },
-        {
-          "id": "2026-10-05-f66e2437",
-          "title": "Blocage des lycées en France: un mineur gravement blessé à la veille de l'«acte III» du mouvement",
-          "description": "À la veille d'un « acte III » du mouvement lycéen auquel se joindront mardi 6 octobre des syndicats, la mobilisation est restée forte lundi 5 octobre en France avec des centaines d'établissements fermés et plusieurs incidents, dont un grave concernant un jeune de 15 ans, qui a vu sa main arrachée par une grenade policière.",
-          "url": "https://www.rfi.fr/fr/france/20261005-blocage-des-lyc%C3%A9es-en-france-un-mineur-gravement-bless%C3%A9-%C3%A0-la-veille-de-l-acte-iii-du-mouvement",
-          "imageUrl": "https://s.rfi.fr/media/display/28796c5e-c10c-11f1-a0d2-1ff0321dbbd3/w:1024/p:16x9/AP26275500888422.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-05T22:40:19.000Z",
-          "fetchedAt": "2026-10-06T06:29:47.255Z"
-        },
-        {
-          "id": "2026-10-05-75110b10",
-          "title": "🔴 Ligue des nations : la France renverse puis punit la Belgique",
-          "description": "",
-          "url": "https://www.france24.com/fr/sports/20261005-ligue-nations-france-belgique",
-          "imageUrl": "https://s.france24.com/media/display/3e7179c6-c0fc-11f1-a708-1ff0321dbbd3/w:1280/p:16x9/000-D2BG6ER.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-05T20:38:06.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.768Z"
-        },
-        {
-          "id": "2026-10-05-cbf419a6",
-          "title": "Ligue des nations : la France de Zidane qualifiée ce lundi en quarts de finale si...",
-          "description": "Opposée à la Belgique lundi, l'équipe de France peut obtenir dès ce soir sa qualification pour les quarts de finale de la compétition. Il suffit d'une victoire face à son voisin et d'un bon résultat dans la rencontre Italie - Turquie.",
-          "url": "https://www.france24.com/fr/sports/20261005-ligue-nations-france-zidane-qualifiee-quarts-finale-conditions",
-          "imageUrl": "https://s.france24.com/media/display/bf1dda90-c0d1-11f1-87b8-578a4b968fd6/w:1024/p:16x9/000-D248929.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-05T15:42:10.000Z",
-          "fetchedAt": "2026-10-06T06:29:41.768Z"
+          "publishedAt": "2026-10-07T02:36:26.000Z",
+          "fetchedAt": "2026-10-07T06:08:31.011Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Avec « Le Fondateur », Giuliano da Empoli semble  subjugué par son sujet, un pat",
+      "id": "cluster-6",
+      "topic": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
       "category": "tech",
       "importance": 10,
       "articles": [
+        {
+          "id": "2026-10-06-20623d34",
+          "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+          "description": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+          "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Drone-strikes-on-grain-cargo-ships-near-Odesa-2560x1440.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-10-06T21:31:10.000Z",
+          "fetchedAt": "2026-10-07T06:08:40.233Z"
+        },
+        {
+          "id": "2026-10-06-4130ca74",
+          "title": "Un orage aux allures de cyclone tropical : quel est ce phénomène météo qui traverse la Méditerranée ?",
+          "description": "Un imposant système orageux évolue en Méditerranée. Selon de nombreux experts, ce phénomène météorologique est très semblable aux cyclones tropicaux. Voici ce que l'on sait sur cet orage, alors que plusieurs départements français sont placés en vigilance orange par Météo-France.",
+          "url": "https://www.numerama.com/sciences/2347145-un-orage-aux-allures-de-cyclone-tropical-quel-est-ce-phenomene-meteo-qui-traverse-la-mediterranee.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/orage-cyclone-1.jpg?resize=1600,900&key=4ee08fc3",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-06T16:55:00.000Z",
+          "fetchedAt": "2026-10-07T06:08:36.364Z"
+        },
+        {
+          "id": "2026-10-06-ce5beacc",
+          "title": "C’est fait, la fusion Paramount et Warner vient d’avoir lieu, Hollywood sous choc",
+          "description": "Après un an d'une guerre d'enchères sauvage, de procès et d'épreuves de force politiques, c'est officiel. Le jeune milliardaire David Ellison et sa société Skydance viennent de finaliser l'acquisition de Warner Bros. Discovery pour 111 milliards de dollars (près de 99 milliards d'euros, dette comprise).",
+          "url": "https://www.numerama.com/pop-culture/2347969-cest-fait-la-fusion-paramount-et-warner-vient-davoir-lieu-hollywood-sous-choc.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/07/warner-paramount.jpg?resize=1600,900&key=b8ea9dfd",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-06T15:49:00.000Z",
+          "fetchedAt": "2026-10-07T06:08:36.364Z"
+        },
+        {
+          "id": "2026-10-06-c580faca",
+          "title": "« Ne payez jamais » : un moteur de données volées tend un nouveau piège à ses victimes",
+          "description": "Un moteur de recherche de données volées, très partagé sur les réseaux sociaux, propose désormais de supprimer ses fiches contre paiement.",
+          "url": "https://www.numerama.com/cyberguerre/2347737-ne-payez-jamais-un-moteur-de-donnees-volees-tend-un-nouveau-piege-a-ses-victimes.html",
+          "imageUrl": null,
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-06T15:23:00.000Z",
+          "fetchedAt": "2026-10-07T06:08:36.364Z"
+        },
         {
           "id": "2026-10-06-9cbb8a4f",
           "title": "Avec « Le Fondateur », Giuliano da Empoli semble  subjugué par son sujet, un patron de la tech inspiré de Peter Thiel",
@@ -195,81 +217,26 @@
           "source": "Le Monde - Pixels",
           "category": "tech",
           "publishedAt": "2026-10-06T05:00:12.000Z",
-          "fetchedAt": "2026-10-06T06:29:47.341Z"
-        },
-        {
-          "id": "2026-10-05-94a8b293",
-          "title": "IA : des associations prévoient de manifester jeudi à Paris pour réclamer une convention citoyenne",
-          "description": "Médecins urgentistes, traducteurs, familles et écrivains se retrouveront jeudi devant l’Accor Arena, à Paris, où Bpifrance réunit des entrepreneurs autour de l’IA.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/10/05/ia-des-associations-prevoient-de-manifester-jeudi-a-paris-pour-reclamer-une-convention-citoyenne_6788580_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-10-05T18:41:22.000Z",
-          "fetchedAt": "2026-10-06T06:29:47.341Z"
-        },
-        {
-          "id": "2026-10-05-c4991472",
-          "title": "Passe Navigo à 93,40 €, ticket unique à 2,45 € : la nouvelle grille tarifaire qui se prépare pour 2027",
-          "description": "Les tarifs du passe Navigo devraient encore augmenter en 2027. Le Navigo mensuel passerait de 90,80 € actuellement à 93,40 €, soit une hausse de 2,60 €.",
-          "url": "https://www.numerama.com/vroom/2346937-passe-navigo-a-9340-e-ticket-unique-a-245-e-la-nouvelle-grille-tarifaire-qui-se-prepare-pour-2027.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/passe-navigo-bus.jpg?resize=1600,900&key=557cc4d0",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-10-05T16:52:49.000Z",
-          "fetchedAt": "2026-10-06T06:29:47.304Z"
-        },
-        {
-          "id": "2026-10-05-aa1c53b8",
-          "title": "GPT-6 Astra devait créer un bot StarCraft : l’IA a préféré tricher en copiant le meilleur humain",
-          "description": "Le vendredi 2 octobre, GPT-6 Astra, un modèle d'OpenAI, devait écrire un bot StarCraft pour le banc d'essai StarSkirmish. Il a téléchargé à la place Stardust, le meilleur bot écrit par un humain. Le créateur du test, Kai McPheeters, a effacé le code copié. Brood War sert depuis des années de terrain d'essai à la recherche en IA.",
-          "url": "https://www.numerama.com/tech/2346707-gpt-6-astra-devait-creer-un-bot-starcraft-lia-a-prefere-tricher-en-copiant-le-meilleur-humain.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2017/04/starcraft1.jpg?resize=1600,900&key=fe7d8522",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-10-05T15:42:18.000Z",
-          "fetchedAt": "2026-10-06T06:29:47.304Z"
-        },
-        {
-          "id": "2026-10-05-3741b71e",
-          "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-          "description": "Unconfirmed reports have suggested there was a laboratory accident.",
-          "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2199370602-2560x1440.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-10-05T15:12:17.000Z",
-          "fetchedAt": "2026-10-06T06:29:51.206Z"
-        },
-        {
-          "id": "2026-10-05-db132f63",
-          "title": "Crédit Agricole brièvement en panne ce lundi : le site et l’application de la banque française ont rencontré des bugs",
-          "description": "Des clients du Crédit Agricole ont signalé des problèmes ce lundi 5 octobre 2026 après-midi. Une brève panne empêchait les connexions aux services de la banque française, sur l'application ou sur le site.",
-          "url": "https://www.numerama.com/tech/2346787-credit-agricole-en-panne-ce-lundi-le-site-et-lapplication-de-la-banque-francaise-rencontrent-des-bugs.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/2.jpg?resize=1600,900&key=259645a0",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-10-05T14:38:33.000Z",
-          "fetchedAt": "2026-10-06T06:29:47.304Z"
+          "fetchedAt": "2026-10-07T06:08:36.321Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Irish budget to tackle childcare and energy costs",
+      "id": "cluster-1",
+      "topic": "'Wear more clothes if it's cold,' schools told as energy bills rise ",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-10-06-0dad5698",
-          "title": "Irish budget to tackle childcare and energy costs",
-          "description": "The threshold at which people start paying the higher income tax rate is also expected to increase.",
-          "url": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/959c/live/5d495a00-c0c3-11f1-885f-4f9e8c6dce17.jpg",
+          "id": "2026-10-07-3a7a9588",
+          "title": "'Wear more clothes if it's cold,' schools told as energy bills rise ",
+          "description": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
+          "url": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf1b/live/dce97d60-c214-11f1-a4fd-8da478441136.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-10-06T05:30:06.000Z",
-          "fetchedAt": "2026-10-06T06:29:55.086Z"
+          "publishedAt": "2026-10-07T05:33:43.000Z",
+          "fetchedAt": "2026-10-07T06:08:44.007Z"
         }
       ]
     }
