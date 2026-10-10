@@ -1,152 +1,129 @@
 {
-  "date": "2026-10-09T06:24:39.967Z",
+  "date": "2026-10-10T06:06:34.321Z",
   "stories": [
     {
-      "id": "2026-10-09-01",
+      "id": "2026-10-10-01",
       "category": "geopolitique",
-      "title": "Nobel de la paix : cinq Norvégiens face à Trump",
-      "imageUrl": "https://s.france24.com/media/display/42cb7f66-c369-11f1-ae20-4b195755b8ed/w:1024/p:16x9/FRAN261008-2339-Live-CS2339.jpg",
+      "title": "Prix Bayeux : « Istâdegi », l'Iran qui tient debout",
+      "imageUrl": "https://s.rfi.fr/media/display/8703c692-c42d-11f1-94e3-e362370cce2e/w:1024/p:16x9/IMG-20261009-154359.jpg",
       "location": {
-        "lat": 59.9139,
-        "lng": 10.7522,
-        "name": "Oslo, Norvège"
+        "lat": 49.2764,
+        "lng": -0.7024,
+        "name": "Bayeux, France"
       },
       "bullets": [
-        "Le comité Nobel norvégien, cinq membres, tranche parmi 287 candidats cette année.",
-        "Le président Donald Trump réclame publiquement le prix de la paix.",
-        "Les cinq membres sont désignés par le Parlement norvégien, le Storting.",
-        "Le plan de paix américain pour Gaza n'est toujours pas appliqué.",
-        "L'indépendance du comité devient un test diplomatique face à Washington."
+        "L'exposition « Istâdegi » est présentée au Prix Bayeux des correspondants de guerre.",
+        "Le mot persan signifie « tenir debout, résister », selon RFI.",
+        "Les images documentent une société iranienne marquée par la répression et la guerre.",
+        "Le Prix Bayeux récompense chaque année des reportages réalisés en zone de conflit.",
+        "La protection des journalistes et la justice internationale restent au cœur des débats."
       ],
-      "execSummary": "Le prix Nobel de la paix se décide à Oslo, pas à Washington. Comme le rappelle France 24, la décision revient à un comité de cinq personnes désignées par le Storting, le Parlement norvégien, qui doit départager 287 candidatures, individus et organisations confondus, pour l'édition 2026. Donald Trump a répété ces derniers mois son souhait d'obtenir la distinction, mais ni lui ni les dirigeants des grandes puissances n'ont voix au chapitre.\n\nLe président américain fonde sa revendication sur son activité de médiateur, au premier rang de laquelle son plan de paix pour la bande de Gaza, dont la première phase a été signée il y a un an. Son entourage met en avant une diplomatie de résultats et une capacité à obtenir des signatures là où les canaux multilatéraux classiques échouaient.\n\nLe Monde apporte un contrepoint factuel : un an après, l'accord n'est toujours pas respecté et Israël n'applique pas l'ensemble du plan, les négociations restant paralysées. Côté norvégien, le comité rappelle traditionnellement son indépendance et le fait qu'une nomination, accessible à des milliers de personnes habilitées à proposer un nom, ne préjuge en rien du choix final.\n\nUn vote à huis clos de cinq personnes engage ici bien plus qu'une médaille : la Norvège, membre de l'OTAN et partenaire commercial exposé aux droits de douane américains, encaisserait la réaction d'un refus. Le comité a déjà expérimenté ce type de pression, et chaque choix est lu comme un signal politique, de la défense de la démocratie aux conflits en cours. En parallèle, Le Monde note que Donald Trump multiplie les distinctions dans son propre camp, en remettant jeudi la médaille nationale de la science à Elon Musk, qualifié de « trésor national ».",
+      "execSummary": "À Bayeux, en Normandie, le Prix des correspondants de guerre accueille cette année l'exposition « Istâdegi », un mot persan qui signifie « tenir debout, résister ». Selon RFI, le parcours plonge le visiteur dans une société iranienne décrite comme épuisée par la répression intérieure et par la guerre, mais traversée par une obstination à poursuivre une vie ordinaire. L'événement, qui se tient en octobre 2026, réunit chaque année reporters, photographes et public autour d'images venues des principales zones de conflit.\n\nPour les organisateurs et les photographes exposés, la démarche relève du témoignage : montrer non pas seulement les victimes, mais les gestes du quotidien, la musique, les visages, ce qui subsiste quand l'espace public se ferme. Le choix du titre en persan assume cette lecture : documenter une capacité de résistance plutôt qu'un effondrement, dans un pays où le travail journalistique indépendant est strictement encadré.\n\nCe type de documentation soulève aussi des objections. Travailler en Iran implique des contraintes lourdes: autorisations, autocensure, risques pour les personnes photographiées, ce qui nourrit un débat sur la représentativité des images sorties du pays. Plus largement, RFI rapporte les propos d'Agnès Callamard, secrétaire générale d'Amnesty International, qui souligne que la justice internationale est « de plus en plus contestée », au moment où le Nobel de la paix vient d'être attribué à la juge sud-africaine Navi Pillay.\n\nDerrière les cimaises de Bayeux se joue une question concrète : qui produit encore des images vérifiables des sociétés fermées, et à quel coût pour ceux qui les prennent. La contestation croissante des institutions de justice internationale réduit les recours en cas d'exactions, pendant que les rédactions réduisent leurs budgets de reportage de terrain. Un prix comme celui de Bayeux devient alors un indicateur de la santé du journalisme de guerre.",
       "sources": [
+        "RFI",
+        "Courrier International",
+        "BBC World",
+        "Le Monde - International"
+      ],
+      "publishedAt": "2026-10-10T05:50:00.000Z"
+    },
+    {
+      "id": "2026-10-10-02",
+      "category": "geopolitique",
+      "title": "Gazole russe : Trump signe un accord avec Poutine",
+      "imageUrl": "https://focus.courrierinternational.com/2025/10/16/0/0/5791/3860/1200/630/60/0/23085bf_ftp-import-images-1-xwcrzrv34jpy-afp-79337nq.jpg",
+      "location": {
+        "lat": 38.8977,
+        "lng": -77.0365,
+        "name": "Washington, États-Unis"
+      },
+      "bullets": [
+        "Le président Donald Trump annonce vendredi un accord sur le gazole russe.",
+        "La flambée des prix à la pompe pèse sur les électeurs américains.",
+        "La Maison Blanche promet des livraisons rapides aux marchés américain et mondial.",
+        "Le président Zelensky dénonce « un investissement dans la guerre » plutôt que sa fin.",
+        "Les sanctions européennes sur les hydrocarbures russes se trouvent de fait contournées."
+      ],
+      "execSummary": "Donald Trump a annoncé vendredi 10 octobre un accord conclu avec Vladimir Poutine portant sur la livraison de gazole russe aux États-Unis et aux marchés mondiaux. Les chiffres diffèrent selon les sources : Courrier International rapporte un engagement russe à fournir « immédiatement » plus de 300 000 tonnes, tandis que Le Monde évoque près de 5 millions de tonnes livrées « dans une courte période ». Ces exportations sont visées par des sanctions occidentales depuis l'invasion de l'Ukraine en février 2022. Le même jour, Le Monde publiait un reportage depuis la « maison de Tchernobyl » à Kiev, où une frappe de drone a mortellement blessé Natalia Khodemtchouk, veuve de la première victime de la catastrophe de 1986.\n\nCôté américain, l'accord est présenté comme une réponse directe à la crise énergétique : la hausse des prix du carburant érode le pouvoir d'achat et la popularité du président avant les midterms. Washington y voit aussi un levier dans les négociations sur la fin de la guerre.\n\nVolodymyr Zelensky a réagi sèchement, qualifiant l'opération, selon la BBC, d'« investissement dans une guerre qui doit être terminée, pas prolongée ». Le Monde rapporte une consternation chez les alliés européens, qui maintiennent leurs sanctions sur le pétrole russe et redoutent de voir Moscou regagner des devises.\n\nLe cœur du problème tient à l'articulation entre ce « deal » et le régime de sanctions : si Washington achète du gazole russe, la cohérence du front occidental s'effrite et chaque tonne livrée alimente le budget russe. Pour les Européens, la question devient celle de leur propre alignement. Pour les habitants de Kiev, dont ces rescapés de Tchernobyl visés par les drones, la négociation se déroule pendant que les frappes continuent.",
+      "sources": [
+        "Le Monde - International",
+        "BBC World",
+        "Courrier International"
+      ],
+      "publishedAt": "2026-10-10T05:27:23.000Z"
+    },
+    {
+      "id": "2026-10-10-03",
+      "category": "geopolitique",
+      "title": "Gaza : un an de cessez-le-feu resté sur le papier",
+      "imageUrl": "https://s.rfi.fr/media/display/40ab9f16-c460-11f1-9404-53993c5f1f18/w:1024/p:16x9/AP26282335659130.jpg",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "Gaza"
+      },
+      "bullets": [
+        "Le cessez-le-feu de Gaza signé le 10 octobre 2025 fête un an sans application.",
+        "Les forces israéliennes occupent toujours les deux tiers de l'enclave, selon RFI.",
+        "Les bombardements se poursuivent malgré l'accord conclu sous l'égide de Donald Trump.",
+        "Les restrictions israéliennes bloquent l'aide, les équipements et les matériaux de reconstruction.",
+        "La reconstruction reste à l'arrêt, un an après la fin annoncée des combats."
+      ],
+      "execSummary": "Le 10 octobre 2025, un accord de cessez-le-feu était conclu à Gaza sous l'égide du président américain Donald Trump, censé clore deux années de guerre. Un an plus tard, RFI constate que le texte « n'existe que sur le papier » : les forces israéliennes continuent leurs frappes, occupent environ les deux tiers de l'enclave et maintiennent des restrictions sur l'acheminement de l'aide humanitaire, des équipements et des matériaux de reconstruction. La situation humanitaire y est décrite comme catastrophique.\n\nDu côté israélien, la ligne défendue reste celle de la sécurité : les opérations militaires sont présentées comme des réponses à des violations attribuées au Hamas, et le contrôle des entrées de marchandises comme un moyen d'empêcher le réarmement du mouvement. Le gouvernement de Benyamin Netanyahou, déjà sous pression intérieure avant les législatives du 27 octobre, refuse par ailleurs toute commission d'enquête indépendante sur le 7-Octobre.\n\nLes organisations humanitaires et les autorités de Gaza font une lecture inverse : pour elles, l'occupation persistante de larges portions du territoire et le filtrage de l'aide vident l'accord de sa substance et transforment un cessez-le-feu en gestion durable de la pénurie. L'absence de matériaux de construction interdit toute remise en état des hôpitaux, des écoles et des logements détruits.\n\nL'échéance la plus tangible est politique : les élections israéliennes du 27 octobre peuvent redistribuer les cartes, tandis que l'administration Trump, qui a fait de ce plan un argument diplomatique majeur (y compris dans sa course au Nobel de la paix), voit son crédit de médiateur mis à l'épreuve. Pour les pays du Golfe et l'Europe, financer une reconstruction impossible sans accès au terrain reste un casse-tête, et chaque mois perdu alourdit une facture déjà estimée en dizaines de milliards de dollars.",
+      "sources": [
+        "RFI",
+        "Le Monde - International",
         "France 24",
-        "Le Monde - International",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-10-09T05:45:57.000Z"
-    },
-    {
-      "id": "2026-10-09-02",
-      "category": "geopolitique",
-      "title": "Thales en Azerbaïdjan : le PNF enquête sur les contrats",
-      "imageUrl": "https://s.rfi.fr/media/display/dee0a0ea-c38a-11f1-8cb8-27c2853ad5a5/w:1024/p:16x9/000-D2M68L3.jpg",
-      "location": {
-        "lat": 40.4093,
-        "lng": 49.8671,
-        "name": "Bakou, Azerbaïdjan"
-      },
-      "bullets": [
-        "Le Parquet national financier enquête sur les contrats de Thales en Azerbaïdjan.",
-        "Le groupe d'armement a été perquisitionné en 2024 dans ce cadre.",
-        "Le Franco-Turc Mehmet Sahan est détenu à Bakou depuis début 2022.",
-        "Sa détention a suivi une plainte déposée par Thales, selon Le Monde.",
-        "L'ex-responsable dénonce de possibles faits de corruption autour de ces marchés."
-      ],
-      "execSummary": "Le Monde publie le second volet d'une enquête consacrée à Mehmet Sahan, ressortissant franco-turc et ancien responsable lié aux activités de Thales dans le Caucase, emprisonné en Azerbaïdjan depuis le début de l'année 2022. Sa détention est intervenue après le dépôt d'une plainte par le groupe français d'armement. Depuis sa cellule de Bakou, l'homme dénonce de possibles faits de corruption entourant des contrats signés par l'entreprise dans le pays. En parallèle, le Parquet national financier français a ouvert une enquête sur ces marchés et a perquisitionné le siège du groupe en 2024.\n\nDu côté de Thales, la logique affichée reste celle d'une procédure engagée contre un ancien collaborateur, la plainte déposée par le groupe ayant précédé l'incarcération. L'entreprise, l'un des premiers industriels européens de la défense et de l'électronique, n'a été à ce stade visée par aucune mise en cause judiciaire définitive : l'enquête du PNF est une phase d'investigation, qui ne préjuge d'aucune culpabilité.\n\nPour Mehmet Sahan, la lecture est inverse : il se présente comme un lanceur d'alerte dont l'emprisonnement à l'étranger découlerait de ses révélations sur les conditions d'obtention des contrats. Son entourage décrit, selon Le Monde, un « prisonnier français oublié », peu défendu par Paris. Les deux récits s'opposent frontalement sur la nature même de l'affaire : litige commercial d'un côté, affaire de corruption de l'autre.\n\nLa perquisition de 2024 place un champion industriel français au centre d'une procédure sensible, alors que l'Azerbaïdjan est devenu un partenaire énergétique et militaire disputé depuis la guerre du Haut-Karabakh. Pour Paris, dont les relations avec Bakou se sont nettement dégradées, le dossier mêle justice financière, exportations d'armement et protection consulaire d'un binational. La suite dépendra des conclusions du PNF et de l'évolution judiciaire à Bakou.",
-      "sources": [
-        "Le Monde - International",
-        "RFI",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-10-09T04:30:04.000Z"
-    },
-    {
-      "id": "2026-10-09-03",
-      "category": "geopolitique",
-      "title": "Kramatorsk : 30 morts, Kiev face aux drones Geran-5",
-      "imageUrl": "https://s.rfi.fr/media/display/9c6c8d7e-bf38-11f1-9846-1ff0321dbbd3/w:1024/p:16x9/2026-10-02T183507Z-141873794-RC22VNAENARA-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV-BRIDGE.jpg",
-      "location": {
-        "lat": 48.7194,
-        "lng": 37.5842,
-        "name": "Kramatorsk, Ukraine"
-      },
-      "bullets": [
-        "La frappe russe sur deux bus a tué au moins 30 personnes à Kramatorsk.",
-        "Les autorités ukrainiennes dénombrent aussi dix-huit blessés et trois morts à Kiev.",
-        "Le gouvernement ukrainien accuse Moscou d'avoir visé délibérément des véhicules bondés.",
-        "Les frappes russes de longue portée s'intensifient, selon RFI, avant l'hiver.",
-        "Les drones à réaction Geran-5 sont très difficiles à intercepter."
-      ],
-      "execSummary": "Le 8 octobre, deux bus circulant dans la même rue de Kramatorsk, verrou stratégique des forces ukrainiennes dans le Donbass, ont été touchés par une frappe russe. Le bilan communiqué par les autorités ukrainiennes et repris par la BBC et RFI s'établit à au moins trente morts et dix-huit blessés, avec des images diffusées par la police montrant des véhicules en feu. Le même jour, Kiev était de nouveau visée, avec un premier bilan de trois morts. Ces attaques prolongent la campagne de bombardements déjà documentée sur la capitale ces derniers jours.\n\nMoscou, qui n'a pas commenté spécifiquement la frappe de Kramatorsk dans les articles examinés, présente habituellement ses tirs de longue portée comme dirigés contre des infrastructures militaires et industrielles. RFI relève que la ligne de front reste pour l'essentiel figée et que l'effort russe s'est déplacé vers les frappes profondes, combinant missiles balistiques et drones à réaction Geran-5, plus rapides et plus difficiles à abattre que les modèles précédents.\n\nKiev livre une lecture radicalement différente : selon les autorités ukrainiennes citées par la BBC, les deux véhicules de Kramatorsk étaient bondés et ont été ciblés pour tuer le maximum de civils. Le maire de la capitale décrit une ville passée en mode « survie » à l'approche de l'hiver, les frappes s'ajoutant aux attaques contre les ponts et les réseaux énergétiques.\n\nL'arrivée des Geran-5 modifie l'équation défensive : des engins propulsés par réacteur traversent plus vite les couches de défense antiaérienne ukrainienne, déjà sollicitées en permanence. Chaque interception coûte souvent plus cher que le drone détruit, ce qui pèse sur les stocks de munitions fournis par les alliés occidentaux. À l'approche de l'hiver, la capacité de Kiev à protéger ses civils et ses infrastructures énergétiques devient un paramètre central des discussions sur l'issue du conflit.",
-      "sources": [
-        "RFI",
         "BBC World"
       ],
-      "publishedAt": "2026-10-09T04:09:00.000Z"
+      "publishedAt": "2026-10-10T04:55:38.000Z"
     },
     {
-      "id": "2026-10-09-04",
-      "category": "geopolitique",
-      "title": "Venezuela : Machado réclame la levée de son inéligibilité",
-      "imageUrl": "https://s.france24.com/media/display/a1ef2b3e-c37b-11f1-a7a9-4b195755b8ed/w:1024/p:16x9/AP26270616119095.jpg",
-      "location": {
-        "lat": 10.4806,
-        "lng": -66.9036,
-        "name": "Caracas, Venezuela"
-      },
-      "bullets": [
-        "Une ex-magistrate affirme avoir été forcée de déclarer Maria Corina Machado inéligible",
-        "La décision d'inéligibilité avait écarté l'opposante de la présidentielle de 2024",
-        "Le parti de l'opposante exige une enquête urgente et une levée immédiate",
-        "Les proches de la magistrate auraient été arrêtés pour la contraindre à signer",
-        "La légitimité du pouvoir de Nicolas Maduro est de nouveau contestée"
-      ],
-      "execSummary": "Une ancienne magistrate du Tribunal suprême de justice du Venezuela a affirmé jeudi 8 octobre avoir été contrainte de signer le document déclarant inéligible Maria Corina Machado, cheffe de l'opposition et Prix Nobel de la paix 2025. Selon son témoignage rapporté par Le Monde, plusieurs de ses proches auraient été arrêtés afin de faire pression sur elle avant la présidentielle de 2024. Le parti de l'opposante, Vente Venezuela, a immédiatement réclamé une enquête et la levée « immédiate » de cette inéligibilité, rapporte France 24.\n\nL'inéligibilité prononcée en 2023 et confirmée par la justice vénézuélienne avait empêché Maria Corina Machado de se présenter face à Nicolas Maduro, la contraignant à soutenir un candidat de substitution. Le scrutin de juillet 2024, dont les résultats officiels n'ont jamais été accompagnés de procès-verbaux détaillés, est contesté par une large partie de la communauté internationale. Les révélations de la magistrate viennent étayer la thèse d'une instrumentalisation du Tribunal suprême par l'exécutif.\n\nL'opposition y voit la confirmation judiciaire de ce qu'elle dénonçait depuis trois ans et réclame la réhabilitation de sa dirigeante. Les autorités vénézuéliennes n'ont, à ce stade, pas apporté de démenti détaillé dans les articles consultés. Le dossier vénézuélien figure aussi parmi les actualités internationales de la nuit relevées par Courrier International, aux côtés du nom de Nicolas Maduro.\n\nLe Prix Nobel de la paix décerné en 2025 à Maria Corina Machado change l'équation : toute procédure la concernant devient immédiatement un dossier diplomatique, alors que Washington maintient une pression maximale sur Caracas. Trois issues se dessinent : une réouverture du dossier par la justice vénézuélienne, un statu quo qui alimenterait l'isolement du régime, ou une internationalisation du contentieux électoral. La parole d'une magistrate du plus haut tribunal du pays constitue, pour l'opposition, la première brèche interne depuis le scrutin contesté.",
-      "sources": [
-        "Le Monde - International",
-        "France 24",
-        "Courrier International"
-      ],
-      "publishedAt": "2026-10-09T05:49:29.000Z"
-    },
-    {
-      "id": "2026-10-09-05",
+      "id": "2026-10-10-04",
       "category": "tech",
-      "title": "OpenAI : 50 milliards de revenus, Bourse repoussée à 2027",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-security-privacy-1152x648-1736892649.jpg",
+      "title": "Primaire socialiste : une attaque DDoS prolonge le vote",
+      "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/ollage-6.png?resize=1600,900&key=de8081d7",
       "location": {
-        "lat": 37.7749,
-        "lng": -122.4194,
-        "name": "San Francisco, Californie"
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "Paris, France"
       },
       "bullets": [
-        "Le chiffre d'affaires réel d'OpenAI s'établit à 50 milliards de dollars.",
-        "Les projections de marché évoquaient 68 milliards, d'où l'inquiétude de Wall Street.",
-        "L'entrée en Bourse de la société est reportée au début 2027.",
-        "Des mathématiciens appellent au boycott après 722 manuscrits produits par son IA.",
-        "Le médaillé Fields Terence Tao a relayé l'appel sur son blog."
+        "La plateforme de vote de la primaire à gauche subit une attaque par déni de service.",
+        "Le scrutin, ouvert vendredi 9 octobre, est prolongé jusqu'à dimanche 18 heures.",
+        "La commission d'organisation assure que l'intégrité des bulletins reste garantie.",
+        "Les connexions automatisées saturent l'accès et bloquent une partie des électeurs.",
+        "Le vote ne comptait que 20 000 votants sur 140 000 inscrits vendredi soir."
       ],
-      "execSummary": "Les chiffres d'OpenAI ont semé le trouble sur les marchés cette semaine. Selon Le Monde, le chiffre d'affaires de la société créatrice de ChatGPT s'établit en réalité à 50 milliards de dollars, alors que les projections qui circulaient auprès des investisseurs lui en attribuaient 68 milliards. Dans le même mouvement, l'entreprise a reporté son introduction en Bourse au début de l'année 2027, en invoquant notamment les débats en cours sur les risques liés à l'intelligence artificielle. Parallèlement, Numerama rapporte que l'Association for Human Mathematics, collectif fondé en septembre 2026, appelle les mathématiciens à cesser toute collaboration avec l'entreprise.\n\nCet écart de 18 milliards de dollars intervient alors que l'ensemble du secteur vit sous perfusion de capitaux : Elon Musk cherche à lever 40 milliards de dollars de dette via SpaceX pour acheter des puces Nvidia destinées à ses centres de données, illustrant une course au financement que Le Monde qualifie d'imprudente. La valorisation d'OpenAI sert de référence implicite à tout l'écosystème.\n\nDu côté scientifique, la publication par OpenAI de 722 manuscrits mathématiques générés par son modèle a déclenché une riposte frontale. « Ce n'est pas une démonstration d'érudition, mais de force », résume le collectif cité par Numerama. Terence Tao, médaillé Fields, a republié le texte sur son blog, donnant un poids considérable à l'appel. La semaine précédente, Sam Altman avait déjà appelé à « accepter les dégâts » causés par l'IA.\n\nL'échéance de 2027 devient le juge de paix : d'ici là, OpenAI devra convaincre que son modèle économique justifie les capitaux engloutis. En France, une étude de la Banque de France et du laboratoire rattaché à HEC montre déjà une contraction des embauches des 21-29 ans dans les métiers exposés à l'IA générative depuis novembre 2022.",
+      "execSummary": "Depuis l'ouverture du premier tour, vendredi 9 octobre, la plateforme de vote en ligne de la primaire à gauche est la cible d'une attaque informatique. Selon Numerama, il s'agit d'une attaque par déni de service distribué (DDoS) : la plateforme est saturée de connexions automatisées, ce qui empêche une partie des électeurs d'accéder au scrutin. Le Monde rapporte que la commission d'organisation a décidé de prolonger le vote jusqu'au dimanche 18 heures, et qu'à 19 heures vendredi soir, seuls 20 000 votants sur 140 000 inscrits avaient pu se prononcer.\n\nUne primaire organisée intégralement en ligne concentre en un point unique l'ensemble du processus électoral : un blocage technique suffit à priver des dizaines de milliers d'électeurs de leur voix, sans qu'aucun bulletin n'ait été altéré. Le contexte est celui d'une année préélectorale française, alors que les services spécialisés documentent une hausse des tentatives d'ingérence et d'attaques visant des infrastructures numériques sensibles.\n\nLa commission d'organisation distingue deux questions : la disponibilité du service, dégradée, et l'intégrité des votes, qu'elle dit préservée. Numerama confirme cette lecture : les bulletins ne sont pas menacés, mais les électeurs sont bloqués. Aucune revendication n'est documentée dans les articles consultés, et les deux sources ne divergent pas sur la nature de l'attaque.\n\nLa prolongation jusqu'à dimanche 18 heures devient le test immédiat : le taux de participation final déterminera la légitimité du vainqueur, alors que le chiffre de 20 000 votants constaté vendredi soir reste très loin des 140 000 inscrits. Au-delà de ce scrutin, le dossier pose la question des moyens techniques dont disposent les partis pour protéger des plateformes de vote qu'ils opèrent souvent avec des prestataires privés, et de la judiciarisation éventuelle de l'attaque.",
       "sources": [
         "Le Monde - Pixels",
         "Numerama"
       ],
-      "publishedAt": "2026-10-09T03:00:43.000Z"
+      "publishedAt": "2026-10-10T04:30:09.000Z"
     },
     {
-      "id": "2026-10-09-06",
+      "id": "2026-10-10-05",
       "category": "eco",
-      "title": "Dette : Lescure à Londres, les Asiatiques vendent",
+      "title": "Terres rares : l'UE finance 46 projets face à Pékin",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "name": "Londres, Royaume-Uni"
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "Bruxelles, Belgique"
       },
       "bullets": [
-        "Le ministre de l'économie Roland Lescure s'est déplacé à Londres jeudi 8 octobre.",
-        "Les investisseurs asiatiques cèdent des obligations françaises et alimentent la défiance des marchés.",
-        "Le ministre français invite le Royaume-Uni à revenir « complètement » dans l'Union européenne.",
-        "Les députés de gauche ont sauvé en commission la réforme de l'apport-cession.",
-        "L'enjeu : convaincre la City avant l'adoption du budget 2027."
+        "L'Union européenne va soutenir 46 nouveaux projets sur les matières premières critiques.",
+        "Six de ces projets seront implantés en France, selon Le Monde.",
+        "Le quasi-monopole chinois sur le raffinage des terres rares motive cette décision.",
+        "Le déferlement des exportations chinoises nourrit les appels européens à une riposte.",
+        "Le Conseil européen des 16 et 17 octobre doit arbitrer les moyens."
       ],
-      "execSummary": "Roland Lescure, ministre de l'économie, s'est rendu à Londres jeudi 8 octobre pour tenter de rassurer les acteurs de la City sur la trajectoire financière de la France, rapporte Le Monde. Le déplacement n'a pas enrayé la défiance : certains investisseurs étrangers, en particulier asiatiques, préfèrent céder leurs obligations souveraines françaises. Au micro de la BBC, le ministre a par ailleurs appelé le Royaume-Uni à « revenir complètement » dans l'Union européenne, estimant que l'appartenance au bloc permet de mieux affronter les défis mondiaux.\n\nCette tournée intervient après les alertes déjà publiées du gouverneur de la Banque de France et du patron de Pimco sur la dérive budgétaire française. Le dossier se déplace désormais vers la base d'investisseurs non résidents, qui détiennent une large part de la dette française : leur retrait renchérit mécaniquement le coût de financement de l'État, alors que le projet de loi de finances pour 2027 est en cours d'examen.\n\nÀ Paris, les arbitrages budgétaires se durcissent. En commission des finances, les députés de gauche ont obtenu le maintien, quoique raboté, de la réforme de l'apport-cession, seul dispositif gouvernemental ciblant les ultrariches. Bercy, de son côté, freine les suppressions de postes dans ses propres ministères, limitées à 77 équivalents temps plein, l'effort reposant surtout sur la direction générale des finances publiques. L'Union des employeurs de l'économie sociale et solidaire redoute, elle, un budget d'« appauvrissement général ».\n\nLe calendrier commande : chaque semaine de flottement parlementaire se paie en points de base sur les taux, après un rendement à dix ans qui a frôlé 5 %. Les investisseurs asiatiques qui allègent leurs positions signalent que la question n'est plus seulement européenne. Une intersyndicale appelle à une journée de grève le 5 novembre, ajoutant une variable sociale à l'équation budgétaire.",
+      "execSummary": "L'Union européenne a annoncé jeudi 9 octobre le soutien à 46 nouveaux projets portant sur les matières premières critiques, dont six situés en France. Ces projets concernent l'extraction, le raffinage et le recyclage des terres rares, ces éléments métalliques devenus indispensables à l'industrie automobile, aux énergies renouvelables, au numérique et à la défense. L'annonce intervient à une semaine du Conseil européen des 16 et 17 octobre, qui doit aborder la relation commerciale avec la Chine.\n\nLa démarche prolonge l'effort engagé par Bruxelles pour desserrer sa dépendance à Pékin, déjà illustré par le soutien à la réouverture de la mine de graphite d'Amitsoq au Groenland. La Chine a bâti un quasi-monopole sur le raffinage des terres rares et encadre ses exportations, ce qui place des pans entiers de l'industrie européenne en situation de vulnérabilité. Le dossier se double d'un enjeu commercial : le déficit de l'Union face à la Chine se creuse, sous l'effet d'exportations chinoises qui déstabilisent le marché intérieur.\n\nLes Européens ont longtemps cherché à éviter la confrontation avec Pékin, analyse Le Monde, mais le rapport de force devient désormais une hypothèse assumée. Côté français, l'industrie et les pouvoirs publics voient dans ces financements un moyen de sécuriser des chaînes d'approvisionnement jugées stratégiques, notamment pour la défense, alors que la coopération industrielle européenne traverse des turbulences, comme l'a montré l'abandon par Berlin du projet de char franco-allemand.\n\nLe calendrier resserre la contrainte : les chefs d'État et de gouvernement devront déterminer, les 16 et 17 octobre, quels instruments commerciaux activer face aux importations chinoises, alors que les projets miniers et de raffinage soutenus par Bruxelles mettront plusieurs années à produire des volumes significatifs. Entre-temps, l'industrie européenne reste exposée à toute restriction décidée par Pékin.",
       "sources": [
-        "Le Monde - Économie",
-        "BBC Business"
+        "Le Monde - Économie"
       ],
-      "publishedAt": "2026-10-09T05:29:43.000Z"
+      "publishedAt": "2026-10-10T04:00:30.000Z"
     }
   ]
 }
