@@ -1,242 +1,253 @@
 {
-  "generatedAt": "2026-10-11T06:01:04.555Z",
+  "generatedAt": "2026-10-12T06:11:39.128Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Une attaque contre l'aéroport de Riyad fait au moins 12 morts et plus de 300 ble",
+      "id": "cluster-2",
+      "topic": "Raphaël Glucksmann enfariné après sa victoire à la primaire de la gauche sociale",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-11-5f24c915",
-          "title": "Une attaque contre l'aéroport de Riyad fait au moins 12 morts et plus de 300 blessés",
-          "description": "Au moins 12 personnes ont été tuées et 309 blessés dans une attaque samedi contre l'aéroport de Riyad. Il s'agit de l'attaque la plus meurtrière en plus de dix ans dans le royaume, ont annoncé les autorités saoudiennes, qui ont accusé les Houthis du Yémen.",
-          "url": "https://www.france24.com/fr/moyen-orient/20261011-une-attaque-contre-l-a%C3%A9roport-de-riyad-fait-au-moins-12-morts-et-plus-de-300-bless%C3%A9s",
-          "imageUrl": "https://s.france24.com/media/display/f5c423ba-b42e-11f1-9171-6f779f079bc8/w:1024/p:16x9/2026-09-19T114800Z-1100229945-RC28MNAOL58F-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
+          "id": "2026-10-12-4853c44f",
+          "title": "Raphaël Glucksmann enfariné après sa victoire à la primaire de la gauche sociale-démocrate",
+          "description": "Une personne a vidé un paquet de farine sur Raphaël Glucksmann dimanche, alors que le candidat à la présidentielle sortait d’un bar où il fêtait sa victoire à la primaire de la gauche.",
+          "url": "https://www.france24.com/fr/france/20261012-raphael-glucksmann-enfarin%C3%A9-apr%C3%A8s-victoire-primaire-gauche-sociale-d%C3%A9mocrate",
+          "imageUrl": "https://s.france24.com/media/display/5a7af842-c5ff-11f1-8552-3774aeac812a/w:1024/p:16x9/000-D2X49D8.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-10-11T05:25:37.000Z",
-          "fetchedAt": "2026-10-11T05:57:03.833Z"
+          "publishedAt": "2026-10-12T05:52:11.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.748Z"
         },
         {
-          "id": "2026-10-11-598261d4",
-          "title": "Jonathan, une tortue géante, est le plus vieil animal terrestre vivant",
-          "description": "Des généticiens tentent de percer les secrets de longévité du plus vieil animal terrestre vivant : une tortue géante de l’île de Sainte-Hélène, prénommée Jonathan, âgée de 194 ans. Soit presque 100 ans de plus que la plupart de ses congénères.",
-          "url": "https://www.rfi.fr/fr/podcasts/jusqu-o%C3%B9-va-la-science/20261011-jonathan-une-tortue-g%C3%A9ante-est-le-plus-vieil-animal-terrestre-vivant",
-          "imageUrl": "https://s.rfi.fr/media/display/0fb712f0-c52d-11f1-ba63-53993c5f1f18/w:1024/p:16x9/000-TL1A4.jpg",
+          "id": "2026-10-11-1ad07fb0",
+          "title": "Présidentielle 2027 : Raphaël Glucksmann élu dès le premier tour de la primaire à gauche",
+          "description": "Le parti socialiste a désormais son candidat officiel pour 2027, c'est l'eurodéputé Raphaël Glucksmann. On en parle avec nos invités Emilie Zapalski, éditorialiste et communicante politique, et Noé Girardot-Champsaur, expert associé à la Fondation Jean-Jaurès.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261011-pr%C3%A9sidentielle-2027-rapha%C3%ABl-glucksmann-%C3%A9lu-d%C3%A8s-le-premier-tour-de-la-primaire-%C3%A0-gauche",
+          "imageUrl": "https://s.france24.com/media/display/d903c36e-c5ba-11f1-b26e-53993c5f1f18/w:1024/p:16x9/FR-20261011-210332-212136-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-11T21:34:20.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.748Z"
+        },
+        {
+          "id": "2026-10-11-f3c8b06a",
+          "title": "Raphaël Glucksmann largement élu candidat de la gauche sociale-démocrate pour la présidentielle",
+          "description": "Raphaël Glucksmann s'est imposé dimanche dès le premier tour de la primaire de la gauche sociale-démocrate. L'eurodéputé de 46 ans, qui a promis de \"rassembler la gauche démocratique\" pour \"battre l'extrême droite\" à la présidentielle, va devoir rassembler une famille politique divisée sur la question de l'alliance avec LFI, qu'il refuse.",
+          "url": "https://www.france24.com/fr/france/20261011-glucksmann-largement-%C3%A9lu-candidat-de-la-gauche-sociale-d%C3%A9mocrate-pour-la-pr%C3%A9sidentielle-france",
+          "imageUrl": "https://s.france24.com/media/display/12f435c8-c5b0-11f1-85d2-53993c5f1f18/w:1024/p:16x9/000-D2X49DY.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-11T20:30:35.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.748Z"
+        },
+        {
+          "id": "2026-10-11-49b1211f",
+          "title": "Primaire sociale-démocrate : Raphaël Glucksmann élu dès le premier tour avec 66 % des votes",
+          "description": "Le leader de Place Publique Raphaël Glucksmann s'est imposé dimanche dès le premier tour comme le vainqueur de la gauche sociale-démocrate, devant Olivier Faure, le patron du Parti socialiste.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261011-primaire-sociale-d%C3%A9mocrate-rapha%C3%ABl-glucksmann-%C3%A9lu-d%C3%A8s-le-premier-tour-avec-66-des-votes",
+          "imageUrl": "https://s.france24.com/media/display/077215a4-c5a0-11f1-8dfa-53993c5f1f18/w:1024/p:16x9/FR-20261011-200305-200527-CS-01.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-11T19:02:23.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.748Z"
+        },
+        {
+          "id": "2026-10-11-70d092df",
+          "title": "Présidentielle 2027: Raphaël Glucksmann désigné candidat de la gauche sociale-démocrate au terme de la primaire",
+          "description": "Le leader de Place publique, Raphaël Glucksmann, a été largement désigné, dimanche 11 octobre 2026, candidat de la gauche sociale-démocrate à la présidentielle française de 2027, dès le premier tour de la primaire, ont annoncé les organisateurs.",
+          "url": "https://www.rfi.fr/fr/france/20261011-pr%C3%A9sidentielle-2027-rapha%C3%ABl-glucksmann-d%C3%A9sign%C3%A9-candidat-de-la-gauche-sociale-d%C3%A9mocrate-au-terme-de-la-primaire",
+          "imageUrl": "https://s.rfi.fr/media/display/8aac16dc-c590-11f1-a51e-53993c5f1f18/w:1024/p:16x9/FRANCE-POLITIQUE-RAPHAEL-GLUCKSMANN-GAUCHE.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-11T05:07:54.000Z",
-          "fetchedAt": "2026-10-11T05:57:17.377Z"
-        },
-        {
-          "id": "2026-10-11-3cb57f55",
-          "title": "Moyen-Orient en direct : l'attaque de l'aéroport de Riyad n'est \"pas acceptable\", affirme Trump",
-          "description": "L'attaque meurtrière contre l'aéroport de Riyad par les combattants pro-iraniens Houthis du Yémen n'est \"pas acceptable\", a affirmé le président américain Donald Trump, qui a indiqué qu'il allait s'entretenir avec le prince héritier saoudien Mohammed ben Salmane. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/moyen-orient/20261011-moyen-orient-en-direct-l-attaque-de-l-a%C3%A9roport-de-riyad-n-est-pas-acceptable-affirme-trump",
-          "imageUrl": "https://s.france24.com/media/display/41bca902-c52f-11f1-837f-3774aeac812a/w:1024/p:16x9/000-99GP6G6.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-11T04:50:49.000Z",
-          "fetchedAt": "2026-10-11T05:57:03.833Z"
-        },
-        {
-          "id": "2026-10-11-633a5ae7",
-          "title": "Pourquoi Ceuta et Melilla restent un sujet de discorde entre l’Espagne et le Maroc",
-          "description": "L’arrivée de plus de 72 000 migrants à Ceuta, en provenance du Maroc, les 30 et 31 juillet, a ravivé la question de la souveraineté de l’Espagne sur les deux villes autonomes de la côte nord-africaine. Une souveraineté revendiquée par Rabat depuis les années 1960, à laquelle la visite annoncée du roi Felipe VI, le 13 octobre, doit symboliquement opposer une énième fin de non-recevoir.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/11/pourquoi-ceuta-et-melilla-restent-un-sujet-de-discorde-entre-l-espagne-et-le-maroc_6791307_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-11T04:30:04.000Z",
-          "fetchedAt": "2026-10-11T05:57:03.755Z"
-        },
-        {
-          "id": "2026-10-11-59eeb309",
-          "title": "Arabie saoudite : 12 morts et plus de 300 blessés dans une attaque contre l’aéroport de Riyad, imputée aux houthistes",
-          "description": "Quatre Saoudiens et huit étrangers, dont un Américain, figurent parmi les personnes tuées, a précisé l’autorité de l’aviation civile saoudienne. Cette attaque est la plus meurtrière qu’ait connue le royaume depuis plus de dix ans.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-douze-morts-et-plus-de-300-blesses-dans-une-attaque-contre-l-aeroport-de-riyad-imputee-aux-houthistes_6791016_3211.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-11T03:15:02.000Z",
-          "fetchedAt": "2026-10-11T05:57:03.755Z"
-        },
-        {
-          "id": "2026-10-11-79a5e496",
-          "title": "Attaque en Arabie saoudite, Christa Pike de retour en prison, ouragan Isaias : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-attaque-en-arabie-saoudite-christa-pike-de-retour-en-prison-ouragan-isaias-les-informations-de-la-nuit_277665",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/19/0/269/2908/1939/1200/630/60/0/8379a3f_ftp-1-kle05kvfi0a3-2026-09-19t114800z-1100229945-rc28mnaol58f-rtrmadp-3-iran-crisis-saudi-yemen.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-11T03:00:14.000Z",
-          "fetchedAt": "2026-10-11T05:57:06.613Z"
+          "publishedAt": "2026-10-11T16:35:30.000Z",
+          "fetchedAt": "2026-10-12T06:07:45.016Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Ukraine: malgré la guerre, les médias veulent défendre leur rôle de contre-pouvo",
+      "topic": "Sortie mondiale pour «Naza», le documentaire choc sur les crimes de l’armée isra",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-11-4cf1307d",
-          "title": "Ukraine: malgré la guerre, les médias veulent défendre leur rôle de contre-pouvoir",
-          "description": "Même si leurs révélations peuvent ternir l'image du pays, les journalistes ukrainiens continuent d’enquêter sur des affaires internes. L'enjeu n'est pas seulement démocratique : dénoncer la corruption est aussi une manière de mieux faire face à la guerre.",
-          "url": "https://www.rfi.fr/fr/europe/20261011-ukraine-malgr%C3%A9-la-guerre-les-m%C3%A9dias-veulent-d%C3%A9fendre-leur-r%C3%B4le-de-contre-pouvoir",
-          "imageUrl": "https://s.rfi.fr/media/display/3c33d832-c496-11f1-86cd-29a2e29ae696/w:1024/p:16x9/000-D2MZ8T4.jpg",
+          "id": "2026-10-12-1d81fe9f",
+          "title": "Sortie mondiale pour «Naza», le documentaire choc sur les crimes de l’armée israélienne à Gaza",
+          "description": "Naza, réalisé par Rachel Szor et Yuval Abraham, dénonce les crimes commis contre les civils à Gaza par l’armée israélienne. « Naza » signifie d’ailleurs « dommages collatéraux » dans le jargon militaire israélien. Ce documentaire avait embrasé la Mostra de Venise, le grand festival du film en Italie, en septembre dernier, mais avait obtenu 25 minutes de standing ovation et un Prix spécial du jury.",
+          "url": "https://www.rfi.fr/fr/culture/20261012-sortie-mondiale-pour-naza-le-documentaire-choc-sur-les-crimes-de-l-arm%C3%A9e-isra%C3%A9lienne-%C3%A0-gaza",
+          "imageUrl": "https://s.rfi.fr/media/display/36ff28da-ade4-11f1-865c-005056bf30b7/w:1024/p:16x9/AP26253432443885.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-11T05:14:24.000Z",
-          "fetchedAt": "2026-10-11T05:57:17.377Z"
+          "publishedAt": "2026-10-12T05:45:23.000Z",
+          "fetchedAt": "2026-10-12T06:07:45.016Z"
         },
         {
-          "id": "2026-10-11-641c7785",
-          "title": "ENQUETE VIDEO Face aux drones ukrainiens, des navires liés à la Russie se drapent de filets en Mer Noire",
-          "description": "C’est une autre conséquence de la guerre des drones qui se joue en Ukraine et alentour : des navires russes, ou suspectés d’être liés à la flotte fantôme russe, vitaux pour Moscou, naviguent désormais sous des cages ou des filets pour se protéger.",
-          "url": "https://www.lemonde.fr/videos/video/2026/10/11/face-aux-drones-ukrainiens-des-navires-lies-a-la-russie-se-drapent-de-filets-en-mer-noire_6791267_1669088.html",
+          "id": "2026-10-12-0a6df725",
+          "title": "Que sont les « NAZA », les « dommages collatéraux » calculés par l’armée israélienne ?",
+          "description": "Cet acronyme hébreu, « NAZA », donne son titre à un documentaire réalisé par Yuval Abraham et Rachel Szor. Il désigne, au sein de l’armée israélienne, le nombre de pertes civiles estimées ou avérées en cas d’attaque aérienne.",
+          "url": "https://www.lemonde.fr/videos/video/2026/10/12/que-sont-les-naza-les-dommages-collateraux-calcules-par-l-armee-israelienne_6792416_1669088.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-11T04:00:03.000Z",
-          "fetchedAt": "2026-10-11T05:57:03.755Z"
+          "publishedAt": "2026-10-12T04:00:11.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.604Z"
         },
         {
-          "id": "2026-10-10-ae7df871",
-          "title": "Guerre en Ukraine : 15 morts dans des frappes russes sur Zaporijjia",
-          "description": "Des frappes russes sur Zaporijjia, dans le sud est de l'Ukraine, ont fait 15 morts samedi, Kiev dénonçant les \"remerciements\" meurtriers de la Russie après l'annonce d'un accord controversé entre Moscou et Washington sur des livraisonmassives de diesel.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261010-guerre-en-ukraine-15-morts-dans-des-frappes-russes-sur-zaporijjia",
-          "imageUrl": "https://s.france24.com/media/display/9b3f2cbc-c4b6-11f1-b860-77317c09f325/w:1024/p:16x9/FR-20261010-160110-160308-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-10T14:30:24.000Z",
-          "fetchedAt": "2026-10-11T05:57:03.833Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "En Cisjordanie occupée, la solitude des Palestiniens : « Filmer ce qui se passe ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-10-11-cfcc5b14",
-          "title": "En Cisjordanie occupée, la solitude des Palestiniens : « Filmer ce qui se passe à nos portes est devenu notre seul recours face à l’impuissance de la justice »",
-          "description": "Loin d’être appliquées, les rares décisions rendues par la Cour suprême israélienne, plus haute juridiction de l’Etat hébreu, en faveur de Palestiniens dépossédés de leurs terres ou de leurs foyers par les colons israéliens sont annulées par la force ou par les autorités militaires.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/11/en-cisjordanie-occupee-la-solitude-des-palestiniens-filmer-ce-qui-se-passe-a-nos-portes-est-devenu-notre-seul-recours-face-a-l-impuissance-de-la-justice_6791268_3210.html",
+          "id": "2026-10-11-61714164",
+          "title": "Benyamin Nétanyahou réclame une enquête sur les témoins du documentaire « Naza » accusant l’armée israélienne de crimes à Gaza",
+          "description": "Le bureau du premier ministre de l’Etat hébreu envisage des poursuites en justice à l’encontre des participants au film des réalisateurs Yuval Abraham et Rachel Szor, dans lequel 24 membres de l’armée et des services de renseignement israéliens témoignent anonymement.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/12/benyamin-netanyahou-reclame-une-enquete-sur-les-temoins-du-documentaire-naza-accusant-l-armee-israelienne-de-crimes-a-gaza_6792209_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-11T04:00:01.000Z",
-          "fetchedAt": "2026-10-11T05:57:03.755Z"
-        },
-        {
-          "id": "2026-10-10-11fa78a5",
-          "title": "Prix Bayeux 2026: le travail des journalistes gazaouis largement récompensé",
-          "description": "Le verdict est tombé pour le palmarès 2026 du Prix Bayeux Calvados-Normandie, samedi 10 octobre 2026. La situation désastreuse à Gaza a été mise en lumière encore une fois. Le jury international, présidé cette année par Lyse Doucet, a mis l'accent sur les souffrances des Gazaouis qui continuent, malgré le cessez-le-feu.",
-          "url": "https://www.rfi.fr/fr/culture/20261010-prix-bayeux-2026-le-travail-des-journalistes-gazaouis-largement-r%C3%A9compens%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/72f99cc4-c4e3-11f1-902c-53993c5f1f18/w:1024/p:16x9/JOURNALISME-BAYEUX-PALESTINE-IYAD-ALASTTAL.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-10T19:48:00.000Z",
-          "fetchedAt": "2026-10-11T05:57:17.377Z"
+          "publishedAt": "2026-10-11T22:17:55.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.604Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "Starlink accélère son projet de devenir un opérateur de téléphonie mobile aux Et",
-      "category": "eco",
+      "topic": "Ukraine en direct : le chef militaire de l'Otan en Europe doit adresser un avert",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-10-62ea453b",
-          "title": "Starlink accélère son projet de devenir un opérateur de téléphonie mobile aux Etats-Unis",
-          "description": "Le groupe d’Elon Musk a acquis des fréquences essentielles au déploiement d’un réseau terrestre de téléphonie mobile, avec l’ambition de mieux couvrir les métropoles, où sa constellation de satellites atteint ses limites.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/10/starlink-accelere-son-projet-de-devenir-un-operateur-de-telephonie-mobile-aux-etats-unis_6790997_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-10T13:00:10.000Z",
-          "fetchedAt": "2026-10-11T05:57:27.097Z"
+          "id": "2026-10-12-1c142df0",
+          "title": "Ukraine en direct : le chef militaire de l'Otan en Europe doit adresser un avertissement à la Russie",
+          "description": "Le commandant suprême des forces de l'Otan en Europe, le général américain Alexus Grynkewich, doit adresser lundi un avertissement à la Russie en insistant sur la capacité de l'Alliance atlantique à contrer toute attaque de Moscou. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20261012-ukraine-en-direct-chef-militaire-otan-europe-adresser-avertissement-russie-guerre",
+          "imageUrl": "https://s.france24.com/media/display/f3aadfbe-c5dc-11f1-a00a-77317c09f325/w:1024/p:16x9/37a7a837cd1d509e11c2654af36581affca3d9ea.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-12T05:24:08.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.748Z"
         },
         {
-          "id": "2026-10-10-7d60350c",
-          "title": "Le fonds pétrolier norvégien et ses 2 000 milliards d’euros d’actifs, une bénédiction pour l’Etat-providence",
-          "description": "Alimenté par les revenus de l’extraction du gaz et du pétrole, le plus grand fonds souverain du monde finance désormais un quart du budget de l’Etat norvégien. S’il a contribué à la prospérité du royaume et de ses habitants, son impact sur l’économie et la société fait aujourd’hui débat.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/10/le-fonds-petrolier-norvegien-et-ses-2-000-milliards-d-euros-d-actifs-une-benediction-pour-l-etat-providence_6790973_3234.html",
+          "id": "2026-10-12-07cdc894",
+          "title": "EN DIRECT, guerre en Ukraine : trois morts, dont un adolescent de 16 ans, dans une frappe russe près de Kharkiv",
+          "description": "Cette attaque a également fait 25 blessés, selon la police ukrainienne. Par ailleurs, Donald Trump a annoncé un « cessez-le-feu énergétique » entre la Russie et l’Ukraine. Volodymyr Zelensky a dit au média américain « Axios » n’avoir pas connaissance d’un tel accord, tandis que Moscou ne s’est pour l’heure pas exprimé.",
+          "url": "https://www.lemonde.fr/international/live/2026/10/12/en-direct-guerre-en-ukraine-trois-morts-et-25-blesses-dans-une-frappe-russe-pres-de-kharkiv_6791198_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-10T08:00:22.000Z",
-          "fetchedAt": "2026-10-11T05:57:27.097Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-12T04:30:20.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.604Z"
         },
         {
-          "id": "2026-10-10-ecccd9b6",
-          "title": "Dominique Méda, sociologue : « Alors que notre société est de plus en plus régie par la Silicon Valley, l’autoritarisme d’entreprise devient une menace croissante »",
-          "description": "Le fonctionnement de plus en plus autoritaire des fondateurs ou des dirigeants de groupes américains de la Tech, comme Elon Musk ou Peter Thiel, appelle une régulation, estime la sociologue dans sa chronique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/10/dominique-meda-sociologue-alors-que-notre-societe-est-de-plus-en-plus-regie-par-la-silicon-valley-l-autoritarisme-d-entreprise-devient-une-menace-croissante_6790972_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-10T08:00:05.000Z",
-          "fetchedAt": "2026-10-11T05:57:27.097Z"
+          "id": "2026-10-12-b00c52a2",
+          "title": "Trump crée la surprise en annonçant un “cessez-le-feu énergétique” entre Kiev et Moscou",
+          "description": "Le président américain a semé la confusion dimanche en annonçant un accord entre la Russie et l’Ukraine, prenant de court Volodymyr Zelensky. Pour la presse internationale, cette déclaration intervient alors que Trump est sous pression à l’approche des élections de mi-mandat de novembre et qu’il cherche à obtenir un succès concret en faisant baisser le prix des carburants.",
+          "url": "https://www.courrierinternational.com/article/ukraine-trump-cree-la-surprise-en-annoncant-un-cessez-le-feu-energetique-entre-kiev-et-moscou_277896",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/09/0/0/4320/2880/1200/630/60/0/d3a1592_ftp-1-hpym7d3g5ca8-2026-10-09t213346z-1147429410-rc2xznab7afx-rtrmadp-3-usa-trump.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-12T04:12:11.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.785Z"
         },
         {
-          "id": "2026-10-09-38bf8b07",
-          "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-          "description": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-          "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/146c/live/3ab50800-c33d-11f1-b521-0bbd7e4f1f2e.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-10-09T19:32:50.000Z",
-          "fetchedAt": "2026-10-11T05:57:31.640Z"
+          "id": "2026-10-12-32bd4bfb",
+          "title": "Guerre hybride : les alliés de Kiev au défi de dissuader Moscou",
+          "description": "Le chef des forces armées de l’OTAN, le général Alexus Grynkewich, doit dévoiler, lundi, une possible adaptation des plans de défense de l’Alliance atlantique pour faire face à la multiplication des incidents.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/12/guerre-hybride-les-allies-de-kiev-au-defi-de-dissuader-moscou_6792311_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-12T03:00:04.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.604Z"
         },
         {
-          "id": "2026-10-09-c4e2a4a0",
-          "title": "Le régime des microentrepreneurs atteint son objectif de simplification administrative, mais « présente des risques », selon un rapport de l’IGAS",
-          "description": "Créé en 2008, le régime des microentrepreneurs a connu un essor marqué au cours de la dernière décennie. Les microentrepreneurs en activité principale perçoivent des revenus très faibles et disposent, de ce fait, d’une protection sociale limitée.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/09/le-regime-des-microentrepreneurs-atteint-son-objectif-de-simplification-administrative-mais-presente-des-risques-selon-un-rapport-de-l-igas_6790633_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-09T19:02:00.000Z",
-          "fetchedAt": "2026-10-11T05:57:27.097Z"
+          "id": "2026-10-11-378f88be",
+          "title": "🔴 Donald Trump affirme que la Russie et l'Ukraine ont conclu un \"cessez-le-feu énergétique\" à effet immédiat",
+          "description": "",
+          "url": "https://www.france24.com/fr/europe/20261011-trump-affirme-russie-ukraine-ont-conclu-cessez-le-feu-%C3%A9nerg%C3%A9tique-imm%C3%A9diat",
+          "imageUrl": "https://s.france24.com/media/display/0873ab7c-c580-11f1-b3d3-29a2e29ae696/w:1280/p:16x9/AP26284044155459.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-11T14:38:59.000Z",
+          "fetchedAt": "2026-10-12T06:07:38.748Z"
         },
         {
-          "id": "2026-10-09-ba7cb74c",
-          "title": "L’Union européenne prête à se doter d’un gendarme boursier",
-          "description": "Le compromis a été trouvé par les ministres des finances au prix de concessions pour satisfaire l’Allemagne, le Luxembourg et les régulateurs nationaux, mais c’est une étape décisive pour unifier les marchés de capitaux.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/09/l-union-europeenne-prete-a-se-doter-d-un-gendarme-boursier-commun_6790629_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-09T18:11:21.000Z",
-          "fetchedAt": "2026-10-11T05:57:27.097Z"
+          "id": "2026-10-11-864c7490",
+          "title": "Trump assure que la Russie et l'Ukraine ont conclu un «cessez-le-feu énergétique», Zelensky tempère",
+          "description": "Le président américain Donald Trump a déclaré, dimanche 11 octobre 2026, que la Russie et l'Ukraine avaient convenu de mettre fin aux frappes contre leurs infrastructures énergétiques respectives. Le président ukrainien, Volodymyr Zelensky, a assuré ne pas être au courant de ce « cessez-le-feu énergétique » mais être prêt à l'accepter si Moscou fait de même.",
+          "url": "https://www.rfi.fr/fr/europe/20261011-donald-trump-annonce-que-la-russie-et-l-ukraine-ont-conclu-un-cessez-le-feu-%C3%A9nerg%C3%A9tique",
+          "imageUrl": "https://s.rfi.fr/media/display/3c4e44a2-c580-11f1-adc2-53993c5f1f18/w:1024/p:16x9/ETATS-UNIS-TRUMP.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-11T14:33:40.000Z",
+          "fetchedAt": "2026-10-12T06:07:45.016Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "id": "cluster-4",
+      "topic": "816 ch et un 0 à 100 km/h en 2,5 s : Peugeot ressuscite sa sportive la plus foll",
       "category": "tech",
-      "importance": 6,
+      "importance": 9,
       "articles": [
         {
-          "id": "2026-10-10-47aa66d1",
-          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-          "description": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind \"tamper-proof human readable evidence.\"\nMany of his recommendations align with what we've heard from others in the industry: timely incident disclosure, independent audits, verifiable data, and containment. It's on that last point that he appears t …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-10-11-b7c7cc07",
+          "title": "816 ch et un 0 à 100 km/h en 2,5 s : Peugeot ressuscite sa sportive la plus folle en électrique",
+          "description": "À la Renault 5 Turbo 3E, Peugeot réplique par la E-T16 Concept. L'icône des rallyes revient en 100 % électrique avec la manière : 816 ch et un 0 à… 300 km/h en 16 secondes. Au-delà des performances et du look spectaculaire, le concept préfigure surtout la prochaine génération de 208.",
+          "url": "https://www.numerama.com/vroom/2350343-816-ch-et-un-0-a-100-km-h-en-25-s-peugeot-ressuscite-sa-sportive-la-plus-folle-en-electrique.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/peugeot-e-t16-concept-1.jpg?resize=1600,900&key=bbbf0aaf",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-10-10T22:10:17.000Z",
-          "fetchedAt": "2026-10-11T05:57:27.016Z"
+          "publishedAt": "2026-10-11T18:05:00.000Z",
+          "fetchedAt": "2026-10-12T06:07:45.084Z"
+        },
+        {
+          "id": "2026-10-11-f08904e1",
+          "title": "Le Peugeot RCZ est de retour dans un concept de 500 ch complètement fou (on le veut en série)",
+          "description": "Peugeot ressuscite son coupé emblématique RCZ sous la forme d'un concept-car de 500 ch et 600 km d'autonomie. Baptisé RCZ Vision, il exprime les codes stylistiques à venir chez le constructeur au lion et préfigure ce à quoi ressemblera le cockpit des futurs modèles avec le fameux volant Hypersquare. Mais ce qu'on aimerait surtout, c'est que le RCZ revienne en série.",
+          "url": "https://www.numerama.com/vroom/2350075-le-peugeot-rcz-est-de-retour-dans-un-concept-de-500-ch-completement-fou-on-le-veut-en-serie.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/peugeot-vision-rcz-2610styp-203-fr-16-9.jpg?resize=1600,900&key=f7b387a4",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-11T18:02:00.000Z",
+          "fetchedAt": "2026-10-12T06:07:45.084Z"
+        },
+        {
+          "id": "2026-10-11-eade5107",
+          "title": "Une cafetière connectée qui envoie un téraoctet de données, 58 fausses boutiques Pokémon et OpenAI accusée de représailles contre ses chercheurs en sécurité : on vous raconte la semaine Cyberguerre",
+          "description": "Trois actualités à retenir cette semaine dans le cyberespace, une cafetière connectée qui a généré un volume de trafic impossible à expliquer, une vague d’arnaques qui profite de la ruée sur les 30 ans de Pokémon, et un bras de fer public entre OpenAI et trois chercheurs en sécurité licenciés.",
+          "url": "https://www.numerama.com/cyberguerre/2350667-une-cafetiere-connectee-qui-envoie-un-teraoctet-de-donnees-58-fausses-boutiques-pokemon-et-openai-accusee-de-represailles-contre-ses-chercheurs-en-securite-on-vous-raconte-la-semaine-cyberguerre.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/ollage-8.png?resize=1600,900&key=d5891e11",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-11T16:36:00.000Z",
+          "fetchedAt": "2026-10-12T06:07:45.084Z"
+        },
+        {
+          "id": "2026-10-11-5fc6166e",
+          "title": "On peut désormais ranger ses canettes dans un Creeper de Minecraft",
+          "description": "[Précommande] Un Creeper qui cache des canettes dans sa tête,  Master Chief qui garde vos sodas au frais et un modèle façon distributeur de Fallout : ces trois mini-frigos sont en précommande chez Micromania.",
+          "url": "https://www.numerama.com/pop-culture/2350163-on-peut-desormais-ranger-ses-canettes-dans-un-creeper-de-minecraft.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/minecraft-creeper-frigo-1.jpg?resize=1600,900&key=731ce505",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-11T10:13:20.000Z",
+          "fetchedAt": "2026-10-12T06:07:45.084Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill' ",
+      "category": "eco",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-10-12-8ce25ba1",
+          "title": "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill' ",
+          "description": "The education minister has warned it would immediately cost his department £20m a year at a time when it is already struggling to balance its budget.",
+          "url": "https://www.bbc.co.uk/news/articles/crkg78q7yz41o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c2b/live/76514b20-b87c-11f0-aa13-0b0479f6f42a.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-10-12T05:23:34.000Z",
+          "fetchedAt": "2026-10-12T06:07:52.850Z"
         }
       ]
     }
