@@ -1,187 +1,286 @@
 {
-  "generatedAt": "2026-10-13T06:56:07.799Z",
+  "generatedAt": "2026-10-14T05:05:09.179Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-5",
-      "topic": "Petit guide des marques chinoises pour s’y retrouver au Mondial de l’auto",
+      "id": "cluster-2",
+      "topic": "EN DIRECT, guerre en Ukraine : des infrastructures énergétiques de Kiev visées p",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-13-59c2c6e4",
-          "title": "Petit guide des marques chinoises pour s’y retrouver au Mondial de l’auto",
-          "description": "Les voitures chinoises sont souvent présentées comme appartenant à une seule entité partie à la conquête de l’Europe. Elles recouvrent pourtant une réalité diverse, multitechnologique et multi-alliance.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/13/petit-guide-des-marques-chinoises-pour-s-y-retrouver-au-mondial-de-l-auto_6793068_3234.html",
+          "id": "2026-10-14-eca5b586",
+          "title": "EN DIRECT, guerre en Ukraine : des infrastructures énergétiques de Kiev visées par une attaque russe « massive », selon le maire",
+          "description": "Selon Vitali Klitschko, l’offensive menée « au moyen de missiles balistiques » a provoqué des coupures d’électricité dans la capitale ukrainienne. Le maire a annoncé qu’une personne avait été tuée dans le raïon de Holossiïvsky, selon un bilan préliminaire.",
+          "url": "https://www.lemonde.fr/international/live/2026/10/14/en-direct-guerre-en-ukraine-des-infrastructures-energetiques-de-kiev-visees-par-une-attaque-russe-massive-selon-le-maire_6791198_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-13T06:00:18.000Z",
-          "fetchedAt": "2026-10-13T06:52:07.279Z"
+          "publishedAt": "2026-10-14T04:44:44.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.681Z"
         },
         {
-          "id": "2026-10-13-511915c2",
-          "title": "« Dire aux lycéens français “de retourner travailler parce que les petits copains, en Chine, travaillent dur”, c’est méconnaître totalement la situation chinoise »",
-          "description": "S’il est vrai que les élèves chinois doivent redoubler d’efforts pour préparer leur entrée à l’université, une résistance se fait de plus en plus entendre dans le pays, dont les mots rappellent ceux des lycéens français depuis le début des mobilisations, observe le sociologue Jean-Louis Rocca, dans une tribune au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/13/dire-aux-lyceens-francais-de-retourner-travailler-parce-que-les-petits-copains-en-chine-travaillent-dur-c-est-meconnaitre-totalement-la-situation-chinoise_6793066_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-10-14-a972a916",
+          "title": "Kiev craint une suspension du partage des renseignements américains après des frappes russes surprises",
+          "description": "Pour la deuxième fois depuis le début de la semaine, le président ukrainien a déploré mardi soir que ses alliés occidentaux n’aient pas alerté Kiev avant qu’un missile russe ne frappe la capitale. Ces incidents ravivent en Ukraine la crainte d’une suspension du partage des renseignements américains, après des menaces en ce sens rapportées par la presse ukrainienne.",
+          "url": "https://www.courrierinternational.com/article/ukraine-kiev-craint-une-suspension-du-partage-des-renseignements-americains-apres-des-frappes-russes-surprises_278457",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/13/0/0/5500/3666/1200/630/60/0/6f2cbd0_ftp-1-z8fvdh5bxsnh-2026-10-13t215115z-1110268469-rc2l2oaj3f27-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-13T06:00:03.000Z",
-          "fetchedAt": "2026-10-13T06:52:07.279Z"
+          "publishedAt": "2026-10-14T04:02:59.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.701Z"
         },
         {
-          "id": "2026-10-12-1098afa5",
-          "title": "Au Mondial de l'Auto de Paris, les marques chinoises présentes en masse",
-          "description": "A Paris, plus d'un tiers des constructeurs automobiles présents sont chinois. Ces marques représentent aujourd'hui 10% des ventes dans l'Union européenne. En Chine, les ventes de voiture reculent, alors pour écouler sa production excédentaire, Pékin s'est tournée vers l'UE. Mais Bruxelles croule sous les importations chinoises et veut protéger son marché automobile. Un accord UE-Chine a été annoncé, qui limite les importations de véhicules hybrides chinois importés dans l'UE à 350 000 par an.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261012-au-mondial-de-l-auto-de-paris-les-marques-chinoises-pr%C3%A9sentes-en-masse",
-          "imageUrl": "https://s.france24.com/media/display/cf30376e-c67d-11f1-94fa-29a2e29ae696/w:1024/p:16x9/FR-NW-IVS-ECO-BYD-ET-AUTRES-CONSTRUCTEURS-AUTO-CHINOIS-MANENT-Laure-transfer.jpg",
+          "id": "2026-10-14-a0393c35",
+          "title": "“Minotaure”, d’Andreï Zviaguintsev, un grand film sur la Russie en guerre",
+          "description": "Grand Prix du dernier Festival de Cannes, “Minotaure” sort en France ce 14 octobre. Ce film, qui marque le retour du cinéaste russe Andreï Zviaguintsev après neuf ans d’absence, est le premier à dépeindre la Russie à l’heure de l’“opération militaire spéciale”. Le grand critique Anton Doline explique, dans le média russe indépendant “Meduza”, à quel point il le trouve “captivant”.",
+          "url": "https://www.courrierinternational.com/article/en-salle-minotaure-d-andrei-zviaguintsev-un-grand-film-sur-la-russie-en-guerre_272194",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/06/0/902/4725/3150/1200/630/60/0/ecfd8a9_upload-1-umobri6e39mp-minotaure-23-copyright-mk-productions-cg-cinema.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-14T03:00:19.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.701Z"
+        },
+        {
+          "id": "2026-10-13-cdc7a8a3",
+          "title": "Ukraine : une centrale de Kiev touchée par une frappe russe sans alerte préalable des alliés",
+          "description": "Le président ukrainien Volodymyr Zelensky a annoncé mardi soir qu'une centrale électrique de Kiev avait été touchée par une frappe russe. \"Une fois de plus, aucun avertissement préalable de la part de nos partenaires\", a-t-il déploré. L'Ukraine est dépendante du renseignement militaire occidental, et notamment américain, pour détecter les attaques russes.",
+          "url": "https://www.france24.com/fr/europe/20261013-ukraine-russie-centrale-kiev-touchee-frappe-russe-sans-alerte-prealable-allies-zelensky",
+          "imageUrl": "https://s.france24.com/media/display/c6b4a660-c75e-11f1-98ab-77317c09f325/w:1024/p:16x9/AP26286839487353.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-10-12T20:55:09.000Z",
-          "fetchedAt": "2026-10-13T06:52:07.475Z"
+          "publishedAt": "2026-10-13T23:42:22.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.836Z"
         },
         {
-          "id": "2026-10-12-70110115",
-          "title": "La base aérienne de Ban Keun au Laos, une “victoire indéniable pour la Chine”",
-          "description": "L’ouverture d’un centre d’entraînement et d’une académie d’aviation conjoints pour les pilotes chinois et laotiens, au nord de la capitale du Laos, a suscité de nombreux commentaires. Si certains observateurs en relativisent la portée, elle peut aussi être considérée comme un nouvel indice de la vassalisation du pays vis-à-vis de Pékin.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-la-base-aerienne-de-ban-keun-au-laos-une-victoire-indeniable-pour-la-chine_277995",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/06/99/0/7334/4889/1200/630/60/0/a76c474_ftp-1-2h1eoajqzbav-2026-10-06t092105z-624899980-rc23vna6bnj6-rtrmadp-3-laos-china-defence.JPG",
-          "source": "Courrier International",
+          "id": "2026-10-13-f5b0e71a",
+          "title": "Dans «Minotaure», le cinéaste russe Andreï Zviaguintsev lie crise de couple et guerre en Ukraine",
+          "description": "Ce 14 octobre sort en salles en France le film qui portera ses couleurs dans la course à l'Oscar du meilleur film étranger : Minotaure, une production française du cinéaste russe en exil Andreï Zviaguintsev. Récompensé du Grand Prix au dernier Festival de Cannes, Minotaure mêle intime et politique à travers la figure d'un chef d'entreprise qui découvre l'adultère de sa femme.",
+          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261013-dans-minotaure-le-cin%C3%A9aste-russe-andre%C3%AF-zviaguintsev-lie-crise-de-couple-et-guerre-en-ukraine",
+          "imageUrl": "https://s.rfi.fr/media/display/d1118fb0-c71d-11f1-b2ba-e362370cce2e/w:1024/p:16x9/MINOTAURE.png",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-12T15:37:10.000Z",
-          "fetchedAt": "2026-10-13T06:52:07.438Z"
+          "publishedAt": "2026-10-13T22:12:23.000Z",
+          "fetchedAt": "2026-10-14T05:01:13.378Z"
+        },
+        {
+          "id": "2026-10-13-4889393c",
+          "title": "Des bots russes inactifs après l'attaque de datacenters par l'Ukraine ?",
+          "description": "Des frappes ukrainiennes contre les datacenters russes ont-elles fait chuter la désinformation russe en ligne ? À ce jour, aucune des données mobilisées, notamment deux graphiques devenus viraux, ne prouve une telle baisse d'activité, explique Nathan Gallo de la rédaction des Observateurs de France 24.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261013-des-bots-russes-inactifs-apr%C3%A8s-l-attaque-de-datacenters-par-l-ukraine",
+          "imageUrl": "https://s.france24.com/media/display/588de04a-c720-11f1-bd7b-53993c5f1f18/w:1024/p:16x9/FR-20261013-150835-151312-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-13T16:13:57.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.836Z"
         }
       ]
     },
     {
-      "id": "cluster-13",
-      "topic": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "id": "cluster-3",
+      "topic": "Russian strikes hit key power plant in Kyiv, Zelensky says",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-13-157b5c5b",
-          "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-          "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-          "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9618/live/c8280840-c6d0-11f1-a64c-550be9e3c66b.jpg",
+          "id": "2026-10-14-72373fdc",
+          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+          "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+          "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-10-13T05:02:34.000Z",
-          "fetchedAt": "2026-10-13T06:52:12.560Z"
+          "publishedAt": "2026-10-14T04:36:06.000Z",
+          "fetchedAt": "2026-10-14T05:01:13.364Z"
         },
         {
-          "id": "2026-10-12-ec231f3c",
-          "title": "«Trump a toujours été hostile à l'Ukraine et favorable à la Russie», selon l'historienne Nicole Bacharan",
-          "description": "Donald Trump a livré en cascade des annonces floues ces derniers jours. Le président américain a annoncé, dimanche 11 octobre, un « cessez-le-feu énergétique » entre la Russie et l'Ukraine, deux jours après l'annonce d'un accord avec Moscou pour la livraison de quantités massives de diesel russe aux marchés américain et mondial. Les principaux intéressés ne semblent ni informés, ni décidés à respecter ce cessez-le-feu. Même aux États-Unis, les déclarations du président font débat. Des sénateurs ont fait part de leurs critiques sur l'accord concernant le diesel russe. S'agit-il uniquement d'un effet d'annonce de la part d'un Donald Trump en difficulté politique dans son pays, à l'approche des élections de mi-mandat ? L'analyse de l'historienne Nicole Bacharan, spécialiste des États-Unis et co-autrice de Requiem pour le monde libre (éditions de l'Observatoire).",
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261012-trump-a-toujours-%C3%A9t%C3%A9-hostile-%C3%A0-l-ukraine-et-favorable-%C3%A0-la-russie-selon-l-historienne-nicole-bacharan",
-          "imageUrl": "https://s.rfi.fr/media/display/ee24d42e-c5b8-11f1-a7c8-3774aeac812a/w:1024/p:16x9/beymedias-brightspotcdn-6.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-12T17:16:35.000Z",
-          "fetchedAt": "2026-10-13T06:52:12.597Z"
-        },
-        {
-          "id": "2026-10-12-d928b98e",
-          "title": "L’accord sur le gazole, un “coup de cavalier” de Poutine qui fragilise l’Ukraine",
-          "description": "Après un échange avec Vladimir Poutine le 9 octobre, Donald Trump a levé pour six mois une partie des sanctions américaines visant le gazole russe. La presse proche du Kremlin savoure une victoire diplomatique qui pourrait contraindre l’Ukraine à cesser ses frappes sur les raffineries russes.",
-          "url": "https://www.courrierinternational.com/article/vu-de-russie-l-accord-sur-le-gazole-un-coup-de-cavalier-de-poutine-qui-fragilise-l-ukraine_278012",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/12/0/0/2917/1945/1200/630/60/0/a547508_ftp-1-gwerfg2zllxo-afp-d2yl932.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-12T15:01:38.000Z",
-          "fetchedAt": "2026-10-13T06:52:07.438Z"
-        },
-        {
-          "id": "2026-10-11-9c456bbe",
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-          "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-11T14:38:10.000Z",
-          "fetchedAt": "2026-10-13T06:52:12.560Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-22",
-      "topic": "Cisjordanie occupée: des Palestiniens blessés par des colons israéliens dénoncen",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-10-13-90064010",
-          "title": "Cisjordanie occupée: des Palestiniens blessés par des colons israéliens dénoncent l'impunité",
-          "description": "En Cisjordanie occupée, à quelques semaines des élections législatives en Israël, nombreux sont les Palestiniens à espérer que la nouvelle coalition issue du scrutin leur soit plus favorable. Depuis l'arrivée au pouvoir du gouvernement d'extrême droite actuel, en décembre 2022, 231 nouveaux avant-postes ont été établis sur le territoire, selon l'organisation israélienne Peace Now. La violence des colons, elle, a explosé. Selon le bureau de l'ONU pour la coordination des affaires humanitaires (Ocha), les attaques de colons ayant fait des victimes ou occasionné des dégâts matériels sont passées d'une moyenne de 1,5 par jour en 2021 à 6,7 au cours des huit premiers mois de 2026. De nombreux Palestiniens portent les conséquences de ces violences à vie. Face à une autorité palestinienne économiquement exsangue et à une justice israélienne qui leur est peu favorable, ils se retrouvent seuls et handicapés.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261013-cisjordanie-occup%C3%A9e-des-palestiniens-bless%C3%A9s-par-des-colons-isra%C3%A9liens-d%C3%A9noncent-l-impunit%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/a8d06530-c67d-11f1-82c1-53993c5f1f18/w:1024/p:16x9/Cette-photo-montre-une-vue-d-ensemble-de-la-colonie-isra%C3%A9lienne-de-Bat-Ayin-situ%C3%A9e-en-Cisjordanie-occup%C3%A9e-par-Isra%C3%ABl-le-20-septembre-2026.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-13T03:51:20.000Z",
-          "fetchedAt": "2026-10-13T06:52:12.597Z"
-        },
-        {
-          "id": "2026-10-12-f6559b93",
-          "title": "Dans le nord d’Israël, un lycéen tué par une munition non explosée lors d’une sortie scolaire près de la frontière libanaise",
-          "description": "Une vingtaine d’élèves et d’enseignants ont été blessés près de Kiryat Shmona, dans une région parsemée de munitions héritées de la guerre avec le Hezbollah, sans que l’origine de l’engin soit encore connue.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/12/dans-le-nord-d-israel-un-lyceen-tue-par-une-munition-non-explosee-lors-d-une-sortie-scolaire-pres-de-la-frontiere-libanaise_6792692_3210.html",
+          "id": "2026-10-13-ac8c5fde",
+          "title": "Les frappes ukrainiennes sur des data centers perturbent les services en ligne en Russie",
+          "description": "L’Ukraine a visé au moins trois importants centres de données appartenant à Yandex, le géant du Web russe, en une semaine.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/13/les-frappes-ukrainiennes-sur-des-data-centers-perturbent-les-services-en-ligne-en-russie_6793136_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-12T16:17:26.000Z",
-          "fetchedAt": "2026-10-13T06:52:07.279Z"
+          "publishedAt": "2026-10-13T15:04:16.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.681Z"
+        },
+        {
+          "id": "2026-10-13-8fbcb34b",
+          "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+          "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+          "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f908/live/67b69200-c708-11f1-bc2e-018d645d8d21.png",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-13T13:27:31.000Z",
+          "fetchedAt": "2026-10-14T05:01:13.364Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-      "category": "tech",
+      "id": "cluster-7",
+      "topic": "En Equateur, les pêcheurs, victimes collatérales des bombes américaines : « Cett",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-12-0cba4633",
-          "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-          "description": "You can get a universe in your pocket if you have an iPhone 11 or later.",
-          "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-10-12T20:26:14.000Z",
-          "fetchedAt": "2026-10-13T06:52:17.055Z"
+          "id": "2026-10-14-6af3c4ed",
+          "title": "En Equateur, les pêcheurs, victimes collatérales des bombes américaines : « Cette barque, c’était l’héritage de mon père, notre gagne-pain. Qu’est-ce que je vais faire maintenant ? »",
+          "description": "Au prétexte de livrer une « guerre » contre les « narcoterroristes », les Etats-Unis ciblent des palangriers au large du pays andin. Huit pêcheurs sont toujours portés disparus et Washington revendique la mort de 238 hommes dans le Pacifique et les Caraïbes depuis fin 2025. Les défenseurs des droits humains dénoncent des « assassinats illégaux ».",
+          "url": "https://www.lemonde.fr/international/article/2026/10/14/en-equateur-les-pecheurs-victimes-collaterales-des-bombes-americaines-cette-barque-c-etait-l-heritage-de-mon-pere-notre-gagne-pain-qu-est-ce-que-je-vais-faire-maintenant_6793387_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-14T03:30:15.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.681Z"
         },
         {
-          "id": "2026-10-12-6d3c2b66",
-          "title": "No Man’s Sky is coming to the iPhone and iPad",
-          "description": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th.\nAccording to Hello's Sean Murray, the mobile version of the game is essentially the full No Man's Sky experience. \"I guess I should say this is not No Man's Sky Lite,\" he wrote in a blog post. It includes all of the game's many, many updates that have come out since launch - like the gigantic Voyagers expansion from last year - and the only major features missing will be multiplayer and the  …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/No-Mans-Sky-iPhone-Screen-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-10-12T14:00:00.000Z",
-          "fetchedAt": "2026-10-13T06:52:17.039Z"
+          "id": "2026-10-14-c1a355e0",
+          "title": "Ilhan Omar, l’élue démocrate d’origine somalienne attaquée par l’administration Trump",
+          "description": "A trois semaines des élections de mi-mandat, la représentante du Minnesota au Congrès a fait l’objet, lundi 12 octobre, d’une perquisition de sa maison à Washington dans le cadre d’une enquête visant à la déchoir de sa nationalité et à l’expulser du pays.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/14/etats-unis-ilhan-omar-l-elue-democrate-d-origine-somalienne-dans-le-collimateur-de-l-administration-trump_6793318_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-14T03:00:20.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.681Z"
+        },
+        {
+          "id": "2026-10-14-d00f7d10",
+          "title": "Le démocrate Robert Garcia promet de poursuivre le “clan mafieux des Trump” après les midterms",
+          "description": "En cas de victoire des démocrates aux élections de mi-mandat du 3 novembre, c’est le député californien Robert Garcia qui prendra la tête de la commission de surveillance de la Chambre des représentants. Interrogé par le “Financial Times”, celui-ci confie vouloir s’attaquer en priorité à la corruption et aux conflits d’intérêts qui se sont multipliés sous la présidence Trump, pour “mettre fin à l’impunité”.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-le-democrate-robert-garcia-promet-de-poursuivre-le-clan-mafieux-des-trump-apres-les-midterms_273948",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/22/0/0/6000/4000/1200/630/60/0/9b0ddb9_ftp-1-r3lighyxowwb-2026-09-22t235556z-336488329-rc2kona3p67f-rtrmadp-3-usa-trump.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-14T03:00:10.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.701Z"
+        },
+        {
+          "id": "2026-10-14-18a4cd60",
+          "title": "Santé du pape, loi contre les violences sexuelles, Thélyson Orélien, États-Unis : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-sante-du-pape-loi-contre-les-violences-sexuelles-thelyson-orelien-etats-unis-les-informations-de-la-nuit_278424",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/13/0/0/2719/1813/1200/630/60/0/d1756bb_ftp-1-mwktvrxdgopr-2026-10-13t112755z-1086216303-rc2b2oaxk0i5-rtrmadp-3-pope-health.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-14T03:00:05.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.701Z"
+        },
+        {
+          "id": "2026-10-14-05435141",
+          "title": "Etats-Unis : les faux pas de Kimberly Guilfoyle et Katie Zacharia, deux femmes de pouvoir dans le monde de Trump",
+          "description": "La première a dû démissionner de son poste d’ambassadrice des Etats-Unis en Grèce, mardi 13 octobre, après des soupçons de corruption. Une décision annoncée par la seconde, qui faisait ses débuts laborieux en tant que porte-parole de la Maison Blanche.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/14/etats-unis-kimberly-guilfoyle-et-katie-zacharia-deux-femmes-de-pouvoir-a-l-epreuve-de-la-presidence-trump_6793281_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-14T02:45:08.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.681Z"
+        },
+        {
+          "id": "2026-10-13-a013ace6",
+          "title": "Sanctions américaines contre la CPI : le Japon hausse le ton mais joue les équilibristes",
+          "description": "En réagissant aux sanctions américaines contre la Cour pénale internationale, annoncées le 9 octobre, la Première ministre japonaise, Sanae Takaichi, s’est montrée ferme. Mais Washington étant le principal allié du Japon, ses marges de manœuvre restent limitées, rapporte la presse japonaise.",
+          "url": "https://www.courrierinternational.com/article/diplomatie-sanctions-americaines-contre-la-cpi-le-japon-hausse-le-ton-mais-joue-les-equilibristes_278368",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/08/0/4/2952/1968/1200/630/60/0/58481fc_ftp-1-mcphbhlusoyy-2026-10-08t050006z-542162605-rc2twnaqaji1-rtrmadp-3-japan-economy.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-13T17:10:06.000Z",
+          "fetchedAt": "2026-10-14T05:01:08.701Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+      "topic": "« Une dame a contracté 60 crédits à la consommation sans que personne l’arrête »",
       "category": "eco",
-      "importance": 7,
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-10-13-9e03930a",
-          "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-          "description": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
-          "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b4bb/live/fe9c2c50-c6c9-11f1-9a39-31b474234113.jpg",
+          "id": "2026-10-14-e6e8b08d",
+          "title": "« Une dame a contracté 60 crédits à la consommation sans que personne l’arrête » : toujours plus de Français frappés par le surendettement",
+          "description": "Le nombre de dossiers de surendettement a augmenté de 11 % sur les neuf premiers mois de l’année par rapport à la même période de l’année 2025. Les créances des personnes concernées prennent des formes variées : prêts personnels, paiements fractionnés, découverts, minicrédits…",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/14/une-dame-a-contracte-60-credits-a-la-consommation-sans-que-personne-l-arrete-toujours-plus-de-francais-frappes-par-le-surendettement_6793397_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-10-14T04:00:31.000Z",
+          "fetchedAt": "2026-10-14T05:01:17.034Z"
+        },
+        {
+          "id": "2026-10-13-7a920428",
+          "title": "Présidentielle 2027 : la conversion partielle de Marine Le Pen aux recettes économiques d’Emmanuel Macron",
+          "description": "Très critique des propositions du futur président en 2017, la candidate du Rassemblement national endosse en partie sa philosophie. Elle se fait fort de tenir ses promesses à sa place, sur la simplification, la baisse de la dépense publique et celle de la fiscalité des entreprises.",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/13/presidentielle-2027-la-conversion-partielle-de-marine-le-pen-aux-recettes-economiques-d-emmanuel-macron_6793170_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-10-13T18:55:48.000Z",
+          "fetchedAt": "2026-10-14T05:01:17.034Z"
+        },
+        {
+          "id": "2026-10-13-ce2724a2",
+          "title": "Au Nigeria, le milliardaire Aliko Dangote veut faire de l’entrée en Bourse de sa raffinerie de Lagos une opération populaire",
+          "description": "Le magnat nigérian des affaires a promis que l’entrée sur la place financière de Lagos de sa raffinerie serait « l’introduction en Bourse du peuple ». Il ambitionne de rassembler 10 millions de souscripteurs.",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/13/au-nigeria-le-milliardaire-aliko-dangote-veut-faire-de-l-entree-en-bourse-de-sa-raffinerie-de-lagos-une-operation-populaire_6793110_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-10-13T13:30:13.000Z",
+          "fetchedAt": "2026-10-14T05:01:17.034Z"
+        },
+        {
+          "id": "2026-10-13-8367d6f6",
+          "title": "Poundland in rescue talks as owners seek buyer",
+          "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-10-13T05:55:12.000Z",
-          "fetchedAt": "2026-10-13T06:52:20.008Z"
+          "publishedAt": "2026-10-13T12:17:17.000Z",
+          "fetchedAt": "2026-10-14T05:01:20.357Z"
+        },
+        {
+          "id": "2026-10-13-31edf90b",
+          "title": "Avec 20,5 milliards d’euros de plus en un an, « l’Etat actionnaire s’enrichit, mais il a moins de marge de manœuvre »",
+          "description": "Si l’Agence des participations de l’Etat a vu la valeur de son portefeuille progresser, notamment grâce aux bonnes performances boursières de multinationales comme Orange, elle doit malgré tout vendre ou réduire des participations pour financer ses prochaines opérations, observe Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/13/avec-20-5-milliards-d-euros-de-plus-en-un-an-l-etat-actionnaire-s-enrichit-mais-il-a-moins-de-marge-de-man-uvre_6793079_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-10-13T09:00:10.000Z",
+          "fetchedAt": "2026-10-14T05:01:17.034Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-35",
+      "topic": "Thélyson Orélien nie avoir utilisé une IA pour son roman « C’était ça ou mourir ",
+      "category": "tech",
+      "importance": 9,
+      "articles": [
+        {
+          "id": "2026-10-13-a196dd01",
+          "title": "Thélyson Orélien nie avoir utilisé une IA pour son roman « C’était ça ou mourir » : « Ce roman vient de mes blessures et de celles des autres migrants »",
+          "description": "Dans un texte transmis à l’AFP, l’écrivain reconnaît aussi avoir « commis des erreurs inacceptables » en plagiant des textes d’auteurs reconnus après son arrivée au Canada en 2010 « Je le regrette profondément et présente mes excuses sans réserve », écrit-il.",
+          "url": "https://www.lemonde.fr/critique-litteraire/article/2026/10/13/thelyson-orelien-nie-avoir-utilise-une-ia-pour-son-roman-c-etait-ca-ou-mourir_6793118_5473203.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-10-13T14:14:49.000Z",
+          "fetchedAt": "2026-10-14T05:01:13.284Z"
+        },
+        {
+          "id": "2026-10-12-74a1478a",
+          "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+          "description": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
+          "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-10-12T21:54:35.000Z",
+          "fetchedAt": "2026-10-14T05:01:17.159Z"
         }
       ]
     }
