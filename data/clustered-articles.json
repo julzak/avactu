@@ -1,198 +1,242 @@
 {
-  "generatedAt": "2026-10-15T04:53:44.993Z",
+  "generatedAt": "2026-10-16T04:44:05.791Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-5",
-      "topic": "Des incendies géants continuent de ravager l’Indonésie, plongeant la région dans",
+      "id": "cluster-2",
+      "topic": "Aux Etats-Unis, les virtuoses des clips vidéo qui font élire les candidats de ga",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-15-c2923d40",
-          "title": "Des incendies géants continuent de ravager l’Indonésie, plongeant la région dans un brouillard toxique",
-          "description": "Depuis des mois, des millions d’habitants sont soumis à d’épaisses fumées qui s’étendent jusqu’aux pays voisins. Attisés par El Niño, mais largement d’origine humaine, Ces mégafeux provoquent une crise sanitaire et suscitent des critiques à l’encontre de Jakarta.",
-          "url": "https://www.lemonde.fr/planete/article/2026/10/15/des-incendies-geants-continuent-de-ravager-l-indonesie-plongeant-la-region-dans-un-brouillard-toxique_6794074_3244.html",
+          "id": "2026-10-16-d6a42361",
+          "title": "Aux Etats-Unis, les virtuoses des clips vidéo qui font élire les candidats de gauche",
+          "description": "Leurs pastilles créatives et drôles sur les réseaux ont contribué à la victoire du démocrate Zohran Mamdani à la mairie de New York. Debbie Saslaw et Anthony DiMieri, à la tête de la société Melted Solids, ont mis leur imagination au service de plusieurs membres de l’aile gauche américaine en campagne pour les élections de mi-mandat, début novembre.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/16/aux-etats-unis-les-virtuoses-des-clips-video-qui-font-elire-les-candidats-de-gauche_6795183_4500055.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-15T04:17:33.000Z",
-          "fetchedAt": "2026-10-15T04:49:44.507Z"
+          "publishedAt": "2026-10-16T04:00:33.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.246Z"
         },
         {
-          "id": "2026-10-15-43b0189d",
-          "title": "A Bruxelles, Marine Le Pen isolée après avoir menacé l’Europe d’un « bras de fer »",
-          "description": "La candidate du Rassemblement national à l’élection présidentielle a défendu, mercredi, une baisse de la contribution française au budget de l’UE, mais ses propres alliés d’extrême droite européens se sont gardés d’appuyer ses promesses de rupture radicale avec les règles communautaires.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/15/a-bruxelles-marine-le-pen-bien-isolee-apres-avoir-menace-l-europe-d-un-bras-de-fer_6794068_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-15T04:00:00.000Z",
-          "fetchedAt": "2026-10-15T04:49:44.507Z"
-        },
-        {
-          "id": "2026-10-15-babad7ee",
-          "title": "Guerre en Ukraine en direct : la Roumanie enquête sur une attaque contre un pétrolier",
-          "description": "Des drones russes présumés ont frappé le Yara J, battant pavillon des Îles Comores, mercredi soir au large de Sulina. La Roumanie enquête sur cette possible nouvelle attaque, a indiqué mercredi le ministre de la Défense. Revenant sur les restrictions d'utilisation du réseau en Ukraine, Elon Musk a déclaré mercredi que tout ralentissement du réseau militaire Starshield est dû au gouvernement américain. Suivez la situation en direct.",
-          "url": "https://www.france24.com/fr/europe/20261015-guerre-ukraine-en-direct-starlink-reseau-musk-volodymyr-zelesky-roumanie-enquete-attaque-contre-petrolier-etats-unis-defense-starshield-drones",
-          "imageUrl": "https://s.france24.com/media/display/3ec22678-c84a-11f1-85e1-4dd8ac2cf3bf/w:1024/p:16x9/000-B6L73WH.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-15T03:42:51.000Z",
-          "fetchedAt": "2026-10-15T04:49:44.551Z"
-        },
-        {
-          "id": "2026-10-15-c8758d92",
-          "title": "Donald Trump évoque le Somaliland comme un «pays», Mogadiscio appelle Washington à respecter sa souveraineté",
-          "description": "Lundi 12 octobre 2026, lors d’un rassemblement dans l’Ohio pour les élections de mi-mandat, Donald Trump a évoqué le Somaliland comme un pays. Cette république autoproclamée s’est séparée de la Somalie en 1991. Pour l’heure, seul Israël la reconnaît. Mais les mots du président américain ont suscité beaucoup d’espoir au Somaliland.",
-          "url": "https://www.rfi.fr/fr/afrique/20261015-donald-trump-%C3%A9voque-le-somaliland-comme-un-pays-mogadiscio-appelle-washington-%C3%A0-respecter-sa-souverainet%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/82b74d96-b29f-11ed-b8d0-005056a90284/w:1024/p:16x9/Carte-somaliland.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-15T02:13:01.000Z",
-          "fetchedAt": "2026-10-15T04:49:49.066Z"
-        },
-        {
-          "id": "2026-10-14-fe3dc293",
-          "title": "«Le pouvoir se croit tout permis»: l’opposition turque voit dans le cas Halk TV un tournant autoritaire",
-          "description": "Les autorités turques ont pris le contrôle mercredi 14 octobre du siège de la principale chaîne de télévision d’opposition, Halk TV, connue pour sa couverture critique du président Recep Tayyip Erdogan. L’opération s’inscrit dans le cadre d’une enquête judiciaire contre les dirigeants de la chaîne. Mais elle suscite l’indignation de l'opposition politique et des syndicats de journalistes, qui y voient le signe d’une nouvelle dérive autoritaire du pouvoir.",
-          "url": "https://www.rfi.fr/fr/europe/20261014-le-pouvoir-se-croit-tout-permis-l-opposition-turque-voit-dans-le-cas-halk-tv-un-tournant-autoritaire",
-          "imageUrl": "https://s.rfi.fr/media/display/de296b32-c7c2-11f1-a090-77317c09f325/w:1024/p:16x9/AP26287258643914.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-14T22:07:08.000Z",
-          "fetchedAt": "2026-10-15T04:49:49.066Z"
-        },
-        {
-          "id": "2026-10-14-ba4964e5",
-          "title": "RDC: à Bunia, le gynécologue Leki Taji au chevet de ses patientes atteintes d'Ebola",
-          "description": "Avec plus de 4 000 morts en cinq mois, l’épidémie d’Ebola en République démocratique du Congo est devenue la plus meurtrière de l’histoire du pays. Cette 17ᵉ flambée épidémique a été qualifiée d’urgence de santé publique de portée internationale par l’Organisation mondiale de la santé (OMS). Si les efforts de riposte sur le terrain laissent entrevoir les premiers signes d’espoir, les défis restent considérables. À l’hôpital général de référence de Bunia, le docteur Leki Taji, gynécologue et survivant de cette épidémie, soigne ses patientes.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261014-rdc-%C3%A0-bunia-le-gyn%C3%A9cologue-leki-taji-au-chevet-de-ses-patientes-atteintes-d-ebola",
-          "imageUrl": "https://s.rfi.fr/media/display/684afb32-c822-11f1-a8b8-d1d2c32ebb87/w:1024/p:16x9/PHOTO-REPORTAGE-AFRIQUE-BUNIA.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-14T22:01:53.000Z",
-          "fetchedAt": "2026-10-15T04:49:49.066Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-13",
-      "topic": "White House defends new press secretary amid questions about her legal credentia",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-10-15-4ed1aa2b",
-          "title": "White House defends new press secretary amid questions about her legal credentials",
-          "description": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-          "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c7f/live/f7333c90-c838-11f1-b2e8-93da8301514e.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-15T03:03:16.000Z",
-          "fetchedAt": "2026-10-15T04:49:48.429Z"
-        },
-        {
-          "id": "2026-10-14-d381043e",
-          "title": "\"Explorer massivement le Groenland\": que peut Donald Trump?",
-          "description": "3 semaines après la signature d'un accord de sécurité entre les États-Unis et le Danemark concernant le Groenland, le président Trump annonce des explorations dans le territoire autonome. Si le Groenland dispose bien de ressources en minerais et en hydrocarbures, il y a des freins juridiques, techniques et financiers à leur exploitation. De plus, des forages sur le territoire autonome danois seraient une catastrophe environnementale.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261014-explorer-massivement-le-groenland-que-peut-donald-trump",
-          "imageUrl": "https://s.france24.com/media/display/7e13459a-c7f1-11f1-a16b-4dd8ac2cf3bf/w:1024/p:16x9/capture-7cc7c514.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-14T17:11:56.000Z",
-          "fetchedAt": "2026-10-15T04:49:44.551Z"
-        },
-        {
-          "id": "2026-10-14-076b4275",
-          "title": "Le Rwanda accueillera un Grand Prix de Formule 1 malgré les accusations de “sportwashing”",
-          "description": "Après plus de trois décennies d’absence, la Formule 1 s’apprête à faire son retour en Afrique. Le Rwanda a signé un accord de dix ans pour accueillir un Grand Prix au début des années 2030, avec l’ambition de stimuler son économie et de renforcer son attractivité internationale. Mais derrière les retombées espérées, ce projet ravive les critiques sur le “sportwashing” et le rôle de Kigali dans le conflit dans l’est de la République démocratique du Congo.",
-          "url": "https://www.courrierinternational.com/article/sport-le-rwanda-accueillera-un-grand-prix-de-formule-1-malgre-les-accusations-de-sportwashing_278523",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/13/625/1172/3546/2364/1200/630/60/0/08f0bcd_ftp-1-yvwxbkkbofra-afp-d37b7ct.jpg",
+          "id": "2026-10-16-63c66a2e",
+          "title": "Trump renonce à l’exécution publique de Nidal Hasan, un camouflet pour son ministre de la Défense",
+          "description": "Donald Trump a annoncé jeudi que l’exécution de l’ex-major Nidal Hasan, auteur de la tuerie de Fort Hood en 2009, ne serait finalement pas retransmise en direct. La décision constitue un camouflet pour le ministre américain de la Défense, Pete Hegseth, artisan du projet.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-trump-renonce-a-l-execution-publique-de-nidal-hasan-un-camouflet-pour-son-ministre-de-la-defense_279084",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/14/93/0/5500/3666/1200/630/60/0/83fd647_ftp-1-v5kkxj2hox2b-2026-10-14t023049z-1488422556-rc2q2oaye8rk-rtrmadp-3-usa-trump.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-14T15:40:07.000Z",
-          "fetchedAt": "2026-10-15T04:49:44.473Z"
+          "publishedAt": "2026-10-16T03:52:58.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.270Z"
+        },
+        {
+          "id": "2026-10-16-07d08479",
+          "title": "Fusillade aux États-Unis, tunnel sous la Manche, Albanie et houthistes : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-fusillade-aux-etats-unis-tunnel-sous-la-manche-albanie-et-houthistes-les-informations-de-la-nuit_279085",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/16/1/0/2267/1511/1200/630/60/0/87a92cf_ftp-1-xbnvzomhm7jq-2026-10-16t014353z-2057703739-rc204oaz771q-rtrmadp-3-oregon-shooting.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-16T03:52:26.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.270Z"
+        },
+        {
+          "id": "2026-10-16-d4f553c1",
+          "title": "Aux Etats-Unis, neuf agents du FBI limogés par le directeur Kash Patel portent plainte",
+          "description": "Les enquêteurs de l’agence fédérale qui travaillaient sur la rétention de documents classifiés par Donald Trump, avaient été licenciés sans préavis en février.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/16/aux-etats-unis-neuf-agents-du-fbi-limoges-par-le-directeur-kash-patel-portent-plaine_6794964_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-16T01:35:34.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.246Z"
+        },
+        {
+          "id": "2026-10-16-41cf9e79",
+          "title": "🔴 Fusillade aux États-Unis : quatre morts dont trois enfants dans une école l'Oregon, le tireur abattu",
+          "description": "",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261015-etats-unis-fusillade-plusieurs-victimes-morts-ecole-oregon-bend-tireur-abattu",
+          "imageUrl": "https://s.france24.com/media/display/0bdabf8a-c8eb-11f1-84b0-2d1c143cdef3/w:1280/p:16x9/AP26288796036302.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-16T00:39:40.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.404Z"
+        },
+        {
+          "id": "2026-10-15-5583a89a",
+          "title": "Aux Etats-Unis, trois enfants et un professeur tués lors d’une fusillade dans une école primaire de l’Oregon",
+          "description": "L’auteur des coups de feu, un adolescent âgé de 16 ans, a été abattu par un passant armé, jeudi, avant que les policiers n’arrivent sur les lieux.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/16/aux-etats-unis-une-fusillade-fait-au-moins-quatre-morts-dans-une-ecole-primaire-de-l-oregon_6794831_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-15T22:51:46.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.246Z"
         }
       ]
     },
     {
-      "id": "cluster-20",
-      "topic": "La Corée du Nord annonce procéder à des tests de missiles de croisière stratégiq",
+      "id": "cluster-4",
+      "topic": "Carburants : les Vingt-Sept peinent à s’entendre pour faire baisser les prix de ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-15-f8952c61",
-          "title": "La Corée du Nord annonce procéder à des tests de missiles de croisière stratégiques depuis des sous-marins",
-          "description": "Des photos publiées par l’agence de presse officielle KCNA montrent un missile volant horizontalement au-dessus de la mer.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/15/la-coree-du-nord-annonce-proceder-a-des-tests-de-missiles-de-croisiere-strategiques-depuis-des-sous-marins_6793897_3210.html",
+          "id": "2026-10-16-eb8e6040",
+          "title": "Carburants : les Vingt-Sept peinent à s’entendre pour faire baisser les prix de l’énergie, un cauchemar pour l’économie européenne",
+          "description": "Les chefs d’Etat et de gouvernement, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre et manquent d’outils, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’accord entre Trump et Poutine sur le gazole.",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-15T00:05:23.000Z",
-          "fetchedAt": "2026-10-15T04:49:44.507Z"
+          "publishedAt": "2026-10-16T03:30:27.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.246Z"
         },
         {
-          "id": "2026-10-14-2bc7b87d",
-          "title": "Pyongyang procède à des essais de tir de missiles de croisière depuis des sous-marins, dit KCNA",
-          "description": "Des missiles de croisière stratégiques ont été tirés depuis des sous-marins par la Corée du Nord, mercredi en direction de la mer du Japon, a annoncé jeudi KCNA. Ces essais n'ont pas eu d'\"impact négatif sur la sécurité des pays voisins\", précise l'agence officielle.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20261014-pyongyang-coree-nord-procede-essais-tir-de-missiles-croisiere-depuis-sous-marins-kcna-kim-jong-un-mer-japon",
-          "imageUrl": "https://s.france24.com/media/display/6cdbe0a4-c81c-11f1-9f21-2d1c143cdef3/w:1024/p:16x9/2026-10-14T220456Z-1512815080-RC293OA83D0C-RTRMADP-3-NORTHKOREA-MISSILES.jpg",
-          "source": "France 24",
+          "id": "2026-10-16-09659b95",
+          "title": "Au Népal, la vallée meurtrie par le « tsunami des montagnes » cherche le chemin du retour à la vie",
+          "description": "Le 26 août, un glissement de terrain emportant un glacier provoquait une crue dévastatrice et meurtrière dans la vallée de la Trishuli. Alors que plus de 5 000 personnes n’ont pas été retrouvées, beaucoup de ceux qui restent « souffrent de la culpabilité du survivant ».",
+          "url": "https://www.lemonde.fr/planete/article/2026/10/16/au-nepal-la-vallee-meurtrie-par-le-tsunami-des-montagnes-cherche-le-chemin-du-retour-a-la-vie_6795110_3244.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-14T22:15:53.000Z",
-          "fetchedAt": "2026-10-15T04:49:44.551Z"
+          "publishedAt": "2026-10-16T03:30:15.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.246Z"
+        },
+        {
+          "id": "2026-10-16-36f5d566",
+          "title": "Lycées : le gouvernement s’indigne des poubelles en feu, mais “c’est tout un système qui brûle”",
+          "description": "Dans la vie d’un lycéen en France, il y a les histoires virales sur l’algorithme de Parcoursup ou le manque de papier toilette, mais aussi le quotidien pesant, entre journées à rallonge et avenir incertain. Malheureusement, regrette cette journaliste allemande, les jeunes Français “ne trouvent que mesquinerie et autoritarisme” en réponse à leurs inquiétudes.",
+          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-lycees-le-gouvernement-s-indigne-des-poubelles-en-feu-mais-c-est-tout-un-systeme-qui-brule_278361",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/13/0/0/6000/4000/1200/630/60/0/51d6f5c_ftp-1-zhv5x1fuvaa3-2026-10-13t122637z-1119573120-rc2c2oadsswr-rtrmadp-3-france-protest.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-16T03:00:30.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.270Z"
+        },
+        {
+          "id": "2026-10-16-35258a0d",
+          "title": "A Bruxelles, frictions entre les Vingt-Sept pour donner un budget à l’Europe avant une année 2027 aux échéances électorales risquées",
+          "description": "Alors que les Etats-membres sont réunis pour un sommet européen, jeudi 15 et vendredi 16 octobre, le débat s’intensifie entre les pays qui veulent réduire l’enveloppe et ceux qui souhaitent préserver les moyens de l’UE. Toujours opposés, Emmanuel Macron et Friedrich Merz se sont accordés sur la nécessité d’aboutir avant la fin de l’année.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/16/a-bruxelles-frictions-entre-les-vingt-sept-pour-donner-un-budget-a-l-europe-avant-une-annee-2027-aux-echeances-electorales-risquees_6795066_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-16T03:00:23.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.246Z"
+        },
+        {
+          "id": "2026-10-16-996ab2b8",
+          "title": "Philippe Lazzarini, ancien patron de l’UNRWA : « Ce qui est nouveau, ce n’est pas que le droit international soit violé, c’est que l’on ne s’en cache plus et qu’on en tire presque une fierté »",
+          "description": "L’ancien commissaire général de l’Office de secours et de travaux des Nations unies pour les réfugiés de Palestine dans le Proche-Orient dénonce l’anéantissement de Gaza organisé par Israël et le fait que la communauté internationale l’ait actée. Pour lui, le salut des Palestiniens ne peut passer que par des « pressions extérieures ».",
+          "url": "https://www.lemonde.fr/international/article/2026/10/16/philippe-lazzarini-ancien-patron-de-l-unrwa-ce-qui-est-nouveau-ce-n-est-pas-que-le-droit-international-soit-viole-c-est-que-l-on-ne-s-en-cache-plus-et-qu-on-en-tire-presque-une-fierte_6795069_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-16T03:00:12.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.246Z"
+        },
+        {
+          "id": "2026-10-15-ceb3fa92",
+          "title": "Liban : le Hezbollah reconnaît qu’une demi-tonne d’explosifs saisis il y a quelques jours étaient destinés à la « résistance » contre Israël",
+          "description": "Le groupe pro-iranien a demandé au gouvernement libanais « la restitution du véhicule et de son contenu », car il s’agit de « capacités » que le parti utilise contre Israël. Le secrétaire d’Etat américain, Marco Rubio, a exhorté le président libanais à ne pas rendre ces explosifs au Hezbollah.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/15/liban-le-hezbollah-reconnait-qu-une-demi-tonne-d-explosifs-saisis-la-semaine-derniere-etaient-destines-a-la-resistance-contre-israel_6794798_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-15T20:50:49.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.246Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
-      "category": "tech",
+      "id": "cluster-19",
+      "topic": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured   ",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-14-bebdf350",
-          "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
-          "description": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
-          "url": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2213769379-1152x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-10-14T19:53:01.000Z",
-          "fetchedAt": "2026-10-15T04:49:51.618Z"
+          "id": "2026-10-15-52215fea",
+          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured   ",
+          "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+          "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4526/live/ca62a180-c8ea-11f1-8e7c-9b1d04b5a9dd.png",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-15T22:37:21.000Z",
+          "fetchedAt": "2026-10-16T04:40:09.344Z"
         },
         {
-          "id": "2026-10-14-5f526c54",
-          "title": "Un collectif réclame le rétablissement du fonds du CNC alloué aux créateurs et créatrices de contenu",
-          "description": "Le dispositif de financement avait été suspendu, le 8 avril, après une polémique impliquant la streameuse Ultia. Les conclusions d’un haut fonctionnaire sur l’adaptation de ce soutien public sont attendues à la fin du mois d’octobre.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/10/14/un-collectif-reclame-le-retablissement-du-fonds-du-cnc-alloue-aux-createurs-et-creatrices-de-contenu_6793760_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-10-14T15:00:12.000Z",
-          "fetchedAt": "2026-10-15T04:49:48.367Z"
+          "id": "2026-10-15-cc282971",
+          "title": "La France et l'Allemagne trouvent un accord provisoire sur l'avenir de l'industrie automobile",
+          "description": "La France et l’Allemagne ont trouvé jeudi un accord provisoire selon lequel Paris ferait des concessions supplémentaires sur les émissions de CO2 des voitures, confirmant l’abandon du tout-électrique. En échange, Berlin accepterait une préférence européenne resserrée pour l'industrie automobile, face à la concurrence chinoise.",
+          "url": "https://www.france24.com/fr/europe/20261015-france-allemagne-accord-provisoire-avenir-industrie-automobile-made-in-europe",
+          "imageUrl": "https://s.france24.com/media/display/af286218-c8e7-11f1-8247-2d1c143cdef3/w:1024/p:16x9/AP26270718148994.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-15T22:32:26.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.404Z"
+        },
+        {
+          "id": "2026-10-15-ddbe8d6a",
+          "title": "Manifestation du 17 octobre à Paris : le préfet interdit un parcours et propose une alternative",
+          "description": "La préfecture de police interdit le trajet demandé par l’assemblée générale Interfac IDF pour sa manifestation de samedi à Paris. En raison des \"risques sérieux de troubles à l'ordre public\", elle propose un parcours alternatif.",
+          "url": "https://www.france24.com/fr/france/20261015-manifestation-17-octobre-paris-pr%C3%A9fet-police-interdit-parcours-et-propose-alternative",
+          "imageUrl": "https://s.france24.com/media/display/97cb398e-c8d2-11f1-99ea-d1d2c32ebb87/w:1024/p:16x9/AP26286415891083.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-15T20:12:52.000Z",
+          "fetchedAt": "2026-10-16T04:40:05.404Z"
+        },
+        {
+          "id": "2026-10-15-20d5cd6d",
+          "title": "France: la mortalité infantile en hausse, un phénomène aux causes multiples",
+          "description": "Ce jeudi 15 octobre est la journée internationale de sensibilisation au deuil périnatal, la perte d'un fœtus ou d'un bébé. En France, la mortalité infantile, comptabilisée après la naissance de l'enfant, est en hausse ces dernières années. Un phénomène qui interroge les spécialistes, alors que dans le reste de l'Europe, ce chiffre a plutôt tendance à baisser.",
+          "url": "https://www.rfi.fr/fr/france/20261015-france-la-mortalit%C3%A9-infantile-en-hausse-un-ph%C3%A9nom%C3%A8ne-aux-causes-multiples",
+          "imageUrl": "https://s.rfi.fr/media/display/139e2c48-8f26-11eb-baf9-005056bff430/w:1024/p:16x9/GettyImages-1276648011.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-15T14:15:58.000Z",
+          "fetchedAt": "2026-10-16T04:40:09.605Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "How backlash against data centres could shape the US midterm elections",
+      "id": "cluster-2",
+      "topic": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-10-16-11d4fc51",
+          "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+          "description": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. \nTesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some heavy caveats and restrictions if it ever goes into production.  \nThe event was less than 30 minutes and felt more like a stunt show than a product reveal. Indeed, there was no mention of price, release date, or other such mundane details. Musk promised the hypercar would go into production in 2028, but after near …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Roadster_94.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-10-16T01:28:27.000Z",
+          "fetchedAt": "2026-10-16T04:40:12.701Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "La SNCF s’engage à améliorer la ponctualité de ses RER et de ses Transiliens",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-10-14-0dea1040",
-          "title": "How backlash against data centres could shape the US midterm elections",
-          "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-          "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg",
-          "source": "BBC Business",
+          "id": "2026-10-15-d0ac2de9",
+          "title": "La SNCF s’engage à améliorer la ponctualité de ses RER et de ses Transiliens",
+          "description": "A l’occasion du renouvellement du contrat entre Ile-de-France Mobilités et SNCF Voyageurs jusqu’en 2030, la SNCF a rehaussé ses objectifs. Le taux de ponctualité du RER B doit passer de 89 % à 90 % en 2027 et de nouvelles rames devraient améliorer la fiabilité défaillante de cette ligne.",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/16/la-sncf-s-engage-a-ameliorer-la-ponctualite-de-ses-rer-et-de-ses-transiliens_6794898_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-10-14T23:02:57.000Z",
-          "fetchedAt": "2026-10-15T04:49:53.832Z"
+          "publishedAt": "2026-10-15T23:25:50.000Z",
+          "fetchedAt": "2026-10-16T04:40:12.600Z"
         }
       ]
     }
