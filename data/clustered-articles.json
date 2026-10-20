@@ -1,275 +1,220 @@
 {
-  "generatedAt": "2026-10-19T04:54:49.252Z",
+  "generatedAt": "2026-10-20T05:03:20.809Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "France: ouverture du procès de trois meurtres liés au narcotrafic, dont celui de",
+      "id": "cluster-3",
+      "topic": "En Australie, la députée renversée intentionnellement par un conducteur est « da",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-19-49eb6fed",
-          "title": "France: ouverture du procès de trois meurtres liés au narcotrafic, dont celui de Mehdi Kessaci",
-          "description": "Le procès des assassins présumés du grand frère d'Amine Kessaci, un militant anti-narcotrafic marseillais, commence ce lundi 19 octobre. Il devra permettre de déterminer les responsabilités de chacun des accusés, sur fond de guerre de territoire. C'est un procès très attendu qui va se dérouler sous haute sécurité, car un des cadres présumés de la DZ Mafia est sur le banc des accusés. Pendant les trois semaines d'audiences, des renforts de police nationale et de gendarmerie sont prévus pour sécuriser la cour d'assises des Bouches-du-Rhône.",
-          "url": "https://www.rfi.fr/fr/france/20261019-france-ouverture-du-proc%C3%A8s-de-trois-meurtres-li%C3%A9s-au-narcotrafic-dont-celui-de-mehdi-kessaci",
-          "imageUrl": "https://s.rfi.fr/media/display/41e1d33a-c7ba-11f0-b157-005056a90284/w:1024/p:16x9/000-84UF2UW.jpg",
+          "id": "2026-10-20-15fa059b",
+          "title": "En Australie, la députée renversée intentionnellement par un conducteur est « dans un état critique »",
+          "description": "« Ce n’était pas un accident. Il s’agi[ssait] d’un acte délibéré », a déclaré lundi le premier ministre australien, Anthony Albanese, ajoutant qu’un suspect se trouvait en garde à vue. L’unité antiterroriste a été saisie, mais le mobile de l’attaque reste inconnu.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/20/en-australie-la-deputee-renversee-intentionnellement-par-un-conducteur-est-dans-un-etat-critique_6797519_3211.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-20T04:00:33.000Z",
+          "fetchedAt": "2026-10-20T04:59:20.150Z"
+        },
+        {
+          "id": "2026-10-20-50db511c",
+          "title": "La Slovaquie, nouveau pôle européen de production de munitions : « Nous nous appuyons sur l’héritage de nos ancêtres »",
+          "description": "Portées par la demande due à la guerre en Ukraine, les usines slovaques de fabrication d’obus tournent à plein régime. Notamment celles du groupe tchèque CSG, devenu un colosse européen de l’industrie de la défense.",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/20/la-slovaquie-nouveau-pole-europeen-de-production-de-munitions-nous-nous-appuyons-sur-l-heritage-de-nos-ancetres_6797866_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-20T04:00:24.000Z",
+          "fetchedAt": "2026-10-20T04:59:20.150Z"
+        },
+        {
+          "id": "2026-10-20-eb3ff0e1",
+          "title": "Le Sénégal s'achemine vers un report des élections locales prévues en janvier prochain",
+          "description": "Alors que le Premier ministre avait annoncé au début du mois de septembre que le scrutin se déroulerait le 17 janvier 2027, le président Bassirou Diomaye Faye n'a toujours pas signé le décret convoquant le corps électoral. Or, selon le Code électoral, celui-ci devait le faire 90 jours au plus tard avant la date des élections, soit lundi 19 octobre... Les mandats des maires et des conseillers départementaux expirent, eux, le 23 janvier 2027.",
+          "url": "https://www.rfi.fr/fr/afrique/20261020-le-s%C3%A9n%C3%A9gal-s-achemine-vers-un-report-des-%C3%A9lections-locales-pr%C3%A9vues-en-janvier-prochain",
+          "imageUrl": "https://s.rfi.fr/media/display/515e326a-7d66-11ec-a2c4-005056a97e36/w:1024/p:16x9/000_9WW4AH.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-19T04:44:33.000Z",
-          "fetchedAt": "2026-10-19T04:50:54.831Z"
+          "publishedAt": "2026-10-20T03:07:20.000Z",
+          "fetchedAt": "2026-10-20T04:59:26.584Z"
         },
         {
-          "id": "2026-10-19-48854aed",
-          "title": "Face à une France livrée au “chaos”, Macron apparaît “impuissant” et sans poids politique",
-          "description": "Après deux jours de “chaos”, marqués par les violences et pillages commis en marge des manifestations, Emmanuel Macron s’est adressé aux Français dimanche soir pour “tenter de reprendre la main”. Mais pour la presse internationale, l’absence d’annonces concrètes trahit un président “impuissant” et “dépouillé de tout capital politique”.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-face-a-une-france-livree-au-chaos-macron-apparait-impuissant-et-sans-poids-politique_279744",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/18/0/0/5539/3693/1200/630/60/0/cbd4a63_ftp-1-ylqast2oepry-afp-d3nf78k.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-19T04:07:14.000Z",
-          "fetchedAt": "2026-10-19T04:50:48.962Z"
-        },
-        {
-          "id": "2026-10-19-676cf5c6",
-          "title": "France: le procès pour «apologie du terrorisme» de l'eurodéputée insoumise Rima Hassan s'ouvre à Paris",
-          "description": "À la suite de son report en juillet dernier, le procès de Rima Hassan pour « apologie du terrorisme » se déroule lundi 19 et mardi 20 octobre devant le tribunal correctionnel de Paris. L'eurodéputée La France insoumise (LFI) est poursuivie pour avoir publié sur X un message reprenant les propos d'un terroriste japonais auteur d'un attentat meurtrier à l'aéroport de Tel-Aviv, en 1972. Elle encourt sept ans de prison et dix ans d'inéligibilité.",
-          "url": "https://www.rfi.fr/fr/france/20261019-france-le-proc%C3%A8s-pour-apologie-du-terrorisme-de-l-eurod%C3%A9put%C3%A9e-insoumise-rima-hassan-s-ouvre-%C3%A0-paris",
-          "imageUrl": "https://s.rfi.fr/media/display/07a33908-cb41-11f1-80c8-2d1c143cdef3/w:1024/p:16x9/AP26279587203143.jpg",
+          "id": "2026-10-19-cb754593",
+          "title": "Massacre de Shakahola au Kenya: le gourou d'une secte et ses co-accusés reconnus coupables pour le meurtre de 191 personnes",
+          "description": "Le pasteur autoproclamé de l'Église internationale de la Bonne Nouvelle et ses 29 co-accusés ont été reconnus coupables, lundi 19 octobre à Mombasa, du meurtre de 190 enfants et d'un adulte dont les corps avaient été retrouvés dans la forêt de Shakahola, dans l'est du Kenya, en 2023. Paul Mackenzie, qui dirigeait cette secte, prêchait à ses adeptes un jeûne extrême pour rejoindre Jésus. Tous connaîtront leur peine le 6 novembre.",
+          "url": "https://www.rfi.fr/fr/afrique/20261019-massacre-de-shakahola-au-kenya-le-gourou-d-une-secte-et-ses-co-accus%C3%A9s-reconnus-coupables-pour-le-meurtre-de-191-personnes",
+          "imageUrl": "https://s.rfi.fr/media/display/93de2388-cbaa-11f1-b643-638c1c1f5fd6/w:1024/p:16x9/2026-10-19T084615Z-1371474528-RC29LNA7QLX6-RTRMADP-3-KENYA-RELIGION.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-19T03:12:27.000Z",
-          "fetchedAt": "2026-10-19T04:50:54.831Z"
-        },
-        {
-          "id": "2026-10-18-3b159acc",
-          "title": "«Honte et colère»: après les violences du 17 octobre en France, Macron promet fermeté et dialogue",
-          "description": "Emmanuel Macron a pris la parole depuis l'Élysée, dimanche 18 octobre, au lendemain d'une journée de mobilisation contre la « vie chère » marquée par de graves débordements dans plusieurs villes de France. Alors que de nouveaux heurts ont éclaté dans la journée, le président de la République a assuré que les auteurs de violences et de pillages seront sévèrement punis. Il a aussi annoncé que le Premier ministre, Sébastien Lecornu, réunirait bientôt tous les acteurs de la vie sociale et politique pour « construire » des solutions quant aux revendications sociales.",
-          "url": "https://www.rfi.fr/fr/france/20261018-honte-et-col%C3%A8re-apr%C3%A8s-les-violences-du-17-octobre-en-france-macron-promet-fermet%C3%A9-et-dialogue",
-          "imageUrl": "https://s.rfi.fr/media/display/090f1360-cb2e-11f1-84f4-4dd8ac2cf3bf/w:1024/p:16x9/FRANCE-MACRON-ALLOCUTION-ELYSEE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-18T19:57:12.000Z",
-          "fetchedAt": "2026-10-19T04:50:54.831Z"
-        },
-        {
-          "id": "2026-10-18-89513b16",
-          "title": "🔴\"Colère et honte\", \"transparence\" attendue... Ce qu'il faut retenir de l'allocution d'Emmanuel Macron",
-          "description": "",
-          "url": "https://www.france24.com/fr/france/20261018-col%C3%A8re-et-honte-transparence-attendue-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron",
-          "imageUrl": "https://s.france24.com/media/display/65d6e4e8-cb23-11f1-a601-2d1c143cdef3/w:1280/p:16x9/2026-10-18T183457Z-1777343427-RC2U5OAGNYMW-RTRMADP-3-FRANCE-PROTEST.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-18T19:27:04.000Z",
-          "fetchedAt": "2026-10-19T04:50:49.110Z"
-        },
-        {
-          "id": "2026-10-18-5f01ed90",
-          "title": "Macron appelle \"partis politiques à condamner sans ambiguïté\" les violences",
-          "description": "Suivez notre édition spéciale.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261018-macron-appelle-partis-politiques-%C3%A0-condamner-sans-ambigu%C3%AFt%C3%A9-les-violences",
-          "imageUrl": "https://s.france24.com/media/display/7a7b68fc-cb22-11f1-b233-6313a763b466/w:1024/p:16x9/FR-20261018-200837-202506-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-18T18:37:12.000Z",
-          "fetchedAt": "2026-10-19T04:50:49.110Z"
+          "publishedAt": "2026-10-19T15:46:37.000Z",
+          "fetchedAt": "2026-10-20T04:59:26.584Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "EN DIRECT, guerre en Ukraine : la capitale Kiev visée par de nouvelles frappes r",
+      "topic": "Ukraine, Kenya, Yémen, États-Unis et Colombie : les informations de la nuit",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-19-abc65ba7",
-          "title": "EN DIRECT, guerre en Ukraine : la capitale Kiev visée par de nouvelles frappes russes au cours de la nuit",
-          "description": "Une femme de 21 ans a été tuée et plusieurs autres personnes ont été blessées au cours de l’offensive, a annoncé le maire de la capitale ukrainienne, Vitali Klitschko, dans la nuit de dimanche à lundi.",
-          "url": "https://www.lemonde.fr/international/live/2026/10/19/en-direct-guerre-en-ukraine-la-capitale-kiev-visee-par-de-nouvelles-frappes-russes-au-cours-de-la-nuit_6796922_3210.html",
+          "id": "2026-10-20-e9f2e7d0",
+          "title": "Ukraine, Kenya, Yémen, États-Unis et Colombie : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-ukraine-kenya-yemen-etats-unis-et-colombie-les-informations-de-la-nuit_279876",
+          "imageUrl": "https://www.courrierinternational.com/https://focus.courrierinternational.com/2026/10/19/0/0/4000/2666/1200/630/60/0/2755b57_ftp-1-c27f2c4maid5-trump-scene-14.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-20T03:55:01.000Z",
+          "fetchedAt": "2026-10-20T04:59:20.604Z"
+        },
+        {
+          "id": "2026-10-20-7b5356eb",
+          "title": "Soupçons d’espionnage chez OpenAI : un ingénieur saoudien maintenu en prison aux Etats-Unis",
+          "description": "Arrêté le 9 octobre, Abdulrahman Alfozan est accusé d’avoir dissimulé un enregistreur dans une salle de réunion de la société d’intelligence artificielle. Le juge a refusé de le libérer, redoutant que le suspect fuie en Arabie saoudite, dont le consulat s’était engagé à « couvrir le montant intégral de la caution ».",
+          "url": "https://www.lemonde.fr/international/article/2026/10/20/soupcons-d-espionnage-chez-openai-un-ingenieur-saoudien-maintenu-en-prison-aux-etats-unis_6797851_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-19T04:25:00.000Z",
-          "fetchedAt": "2026-10-19T04:50:48.977Z"
+          "publishedAt": "2026-10-20T03:15:14.000Z",
+          "fetchedAt": "2026-10-20T04:59:20.150Z"
         },
         {
-          "id": "2026-10-19-6c08ca12",
-          "title": "Canada, Guerre en Ukraine, Venezuela et pape Léon XIV : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-canada-guerre-en-ukraine-venezuela-et-pape-leon-xiv-les-informations-de-la-nuit_279745",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/18/0/0/4500/3000/1200/630/60/0/d8549cf_ftp-1-cfgpsmu9z5r4-afp-d3nb4nl.jpg",
-          "source": "Courrier International",
+          "id": "2026-10-20-c0d01f33",
+          "title": "Accord Trump-Poutine sur le gazole : un tournant dans la guerre en Ukraine ?",
+          "description": "En concluant un accord sur ce carburant avec Moscou, Donald Trump contrevient aux sanctions internationales établies depuis l’invasion russe en Ukraine et fragilise Kiev. Dans le même mouvement, le président américain concentre ses critiques sur son homologue ukrainien, Volodymyr Zelensky. Analyse d’un tournant diplomatique dans ce podcast avec Gilles Paris, éditorialiste au « Monde ».",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/10/20/accord-trump-poutine-sur-le-gazole-un-tournant-dans-la-guerre-en-ukraine_6797817_5463015.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-19T03:56:31.000Z",
-          "fetchedAt": "2026-10-19T04:50:48.962Z"
+          "publishedAt": "2026-10-20T03:00:13.000Z",
+          "fetchedAt": "2026-10-20T04:59:20.150Z"
         },
         {
-          "id": "2026-10-18-b0ce76a4",
-          "title": "En se tournant vers l’Asie, la Russie doit tenter d’éviter toute dépendance économique",
-          "description": "Visée par des sanctions occidentales, la Russie a été contrainte de trouver d’autres marchés et s’est rapprochée des pays asiatiques depuis l’invasion de l’Ukraine, en 2022. Mais le poids pris par ces partenaires, en particulier la Chine, rend Moscou vulnérable, prévient “Kommersant”, l’un des principaux quotidiens du pays.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-en-se-tournant-vers-l-asie-la-russie-doit-tenter-d-eviter-toute-dependance-economique_251287",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/08/0/0/4416/2944/1200/630/60/0/49b6cba_upload-1-yjukiychoazr-w-hs-p-36-arcadio.jpg",
-          "source": "Courrier International",
+          "id": "2026-10-19-948e232c",
+          "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+          "description": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+          "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-10-18T12:56:25.000Z",
-          "fetchedAt": "2026-10-19T04:50:48.962Z"
-        },
-        {
-          "id": "2026-10-18-2c810257",
-          "title": "Dans le «Grand Nord» de la planète, l'Ukraine protège ses semences de la guerre",
-          "description": "L'Ukraine, grande nation céréalière, veut protéger ses semences et la richesse de sa biodiversité des ravages de la guerre. Le pays a déposé des échantillons de semences pour la première fois depuis le début de l'invasion russe dans une chambre forte spécialisée de l'Arctique norvégien.",
-          "url": "https://www.rfi.fr/fr/environnement/20261018-dans-le-grand-nord-de-la-plan%C3%A8te-l-ukraine-prot%C3%A8ge-ses-semences-de-la-guerre",
-          "imageUrl": "https://s.rfi.fr/media/display/dc737666-9155-11ef-9bf0-005056a97e36/w:1024/p:16x9/Loading%20seed%20bowes%20from%20Ghana.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-18T11:48:27.000Z",
-          "fetchedAt": "2026-10-19T04:50:54.831Z"
+          "publishedAt": "2026-10-19T20:00:43.000Z",
+          "fetchedAt": "2026-10-20T04:59:26.598Z"
         }
       ]
     },
     {
-      "id": "cluster-22",
-      "topic": "Canada : quatre morts et 19 blessés dans un « état critique » après un incendie ",
+      "id": "cluster-26",
+      "topic": "Soixante-dix ans après leur arrivée en France, les rapatriés d’Indochine obtienn",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-19-966efe71",
-          "title": "Canada : quatre morts et 19 blessés dans un « état critique » après un incendie sur une base militaire en Alberta",
-          "description": "« La nation est en deuil » après « l’une des pires tragédies ayant touché les forces [armées] sur le sol canadien en temps de paix », a souligné le premier ministre canadien, Mark Carney, dans une allocution solennelle, prononcée à Ottawa.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/19/canada-quatre-morts-et-19-blesses-dans-un-etat-critique-apres-un-incendie-sur-une-base-militaire-en-alberta_6797056_3211.html",
+          "id": "2026-10-20-d455a7f7",
+          "title": "Soixante-dix ans après leur arrivée en France, les rapatriés d’Indochine obtiennent reconnaissance et réparation",
+          "description": "Après les députés en 2025, ce sont les sénateurs, lundi, qui ont adopté un texte ouvrant la voie à des « réparations de préjudices » pour le traitement réservé aux milliers de personnes placées dans des camps aux conditions indignes, après leur rapatriement à l’issue de la guerre d’Indochine.",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/20/les-rapatries-d-indochine-obtiennent-reconnaissance-et-reparation-de-la-france-soixante-dix-ans-apres_6797718_823448.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-19T00:00:11.000Z",
-          "fetchedAt": "2026-10-19T04:50:48.977Z"
+          "publishedAt": "2026-10-20T00:00:40.000Z",
+          "fetchedAt": "2026-10-20T04:59:20.150Z"
         },
         {
-          "id": "2026-10-18-1f14b8d7",
-          "title": "Au Venezuela, la Prix Nobel de la paix Maria Corina Machado reconnue leader de l’opposition lors d’un « grand accord national »",
-          "description": "Plusieurs représentants politiques ont accepté de « reconnaître et soutenir le leadership de Maria Corina Machado », en exil au Panama, selon un document publié à Caracas, près de dix mois après la capture de Nicolas Maduro par l’armée américaine.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/18/au-venezuela-la-prix-nobel-de-la-paix-maria-corina-machado-reconnue-leader-de-l-opposition-lors-d-un-grand-accord-national_6797230_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-18T18:41:48.000Z",
-          "fetchedAt": "2026-10-19T04:50:48.977Z"
-        },
-        {
-          "id": "2026-10-18-8c8023ab",
-          "title": "17 octobre : policiers et experts décrivent une situation \"dramatique\"",
-          "description": "\"Etat dépassé\", \"mauvaise anticipation\", \"dispositif policier sous-dimensionné\", défaut \"de réponse politique\": au lendemain d'une mobilisation contre la \"vie chère\" émaillée de violences et pillages, élus, policiers et experts décrivent une situation \"dramatique\" qui dépasse le seul enjeu du maintien de l'ordre en France.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261018-17-octobre-policiers-et-experts-d%C3%A9crivent-une-situation-dramatique",
-          "imageUrl": "https://s.france24.com/media/display/ea329e64-cb08-11f1-ac94-638c1c1f5fd6/w:1024/p:16x9/FR-20261018-170334-170537-CS.jpg",
+          "id": "2026-10-19-d1eac51e",
+          "title": "17 octobre : quelle reprise en main possible pour l'État français ?",
+          "description": "Á l'heure où l'exécutif est sous la pression des oppositions, le gouvernement tente de répondre à propos des violences vécus par les commerçants : \"ma détermination, à rétablir l'ordre est totale\" a d'ailleurs affirmé Sébastien Lecornu ce lundi 19 octobre. Les explications de Laurent Frajerman, sociologue et professeur agrégé d'histoire au lycée Lamartine à Paris.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261019-17-octobre-quelle-reprise-en-main-possible-pour-l-%C3%A9tat-fran%C3%A7ais",
+          "imageUrl": "https://s.france24.com/media/display/b3c6c128-cbc3-11f1-81b3-4dd8ac2cf3bf/w:1024/p:16x9/FR-20261019-130028-132726-CS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-10-18T16:15:07.000Z",
-          "fetchedAt": "2026-10-19T04:50:49.110Z"
+          "publishedAt": "2026-10-19T15:23:35.000Z",
+          "fetchedAt": "2026-10-20T04:59:20.248Z"
         },
         {
-          "id": "2026-10-18-5462ebda",
-          "title": "Pour l’essayiste états-unien Thomas Chatterton Williams, « la gauche américaine a commis une erreur majeure en défendant une politique centrée sur l’identitarisme »",
-          "description": "Dans « L’Eté de notre colère », l’auteur s’interroge sur la part de responsabilité des progressistes dans le retour de Donald Trump au pouvoir.",
-          "url": "https://www.lemonde.fr/livres/article/2026/10/18/pour-l-essayiste-etats-unien-thomas-chatterton-williams-la-gauche-americaine-a-commis-une-erreur-majeure-en-defendant-une-politique-centree-sur-l-identitarisme_6797083_3260.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-10-19-a2ff6549",
+          "title": "France : des couvre-feux \"localisés\" après les scènes de chaos du week-end",
+          "description": "Après les #violences et les #pillages du week-end, le #gouvernement français annonce des couvre-feux localisés, des aides aux commerces touchés et un renforcement des moyens judiciaires, sans exclure un état d’urgence.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261019-france-des-couvre-feux-localis%C3%A9s-apr%C3%A8s-les-sc%C3%A8nes-de-chaos-du-week-end",
+          "imageUrl": "https://s.france24.com/media/display/59e80144-cbcd-11f1-b055-638c1c1f5fd6/w:1024/p:16x9/couvrefeu-00-03-10-09-Still001.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-10-18T15:00:10.000Z",
-          "fetchedAt": "2026-10-19T04:50:48.977Z"
+          "publishedAt": "2026-10-19T15:22:03.000Z",
+          "fetchedAt": "2026-10-20T04:59:20.248Z"
         },
         {
-          "id": "2026-10-18-b31b0792",
-          "title": "Une start-up londonienne rêve de recréer les concerts des idoles disparues",
-          "description": "La société Unit1 Studio veut créer les avatars numériques de musiciens disparus ou trop âgés pour se produire sur scène. Et espère par la suite les envoyer en tournée.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/18/une-start-up-londonienne-reve-de-recreer-les-concerts-des-idoles-disparues_6797078_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-18T14:00:07.000Z",
-          "fetchedAt": "2026-10-19T04:50:48.977Z"
-        },
-        {
-          "id": "2026-10-18-0d427feb",
-          "title": "Au Soudan, la guerre civile efface un patrimoine multimillénaire",
-          "description": "Au Soudan, la guerre civile qui sévit depuis avril 2023 menace aussi des milliers d’années d’histoire. À Khartoum, le Musée national a été pillé, incendié et transformé en zone de combats, tandis que des dizaines de milliers d’antiquités ont disparu. La destruction du patrimoine soudanais met en péril la mémoire et l’identité du pays, constate le “Los Angeles Times”.",
-          "url": "https://www.courrierinternational.com/article/reportage-au-soudan-la-guerre-civile-efface-un-patrimoine-multimillenaire_274827",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/07/0/0/3691/2461/1200/630/60/0/7e5249c_upload-1-ae373wjak6bx-000-423w7zv.jpg",
+          "id": "2026-10-19-c2b0b79b",
+          "title": "Couvre-feux localisés : en France, l’exécutif tente de “rétablir l’ordre”",
+          "description": "Au sortir d’une cellule interministérielle de crise pour tirer les leçons d’un week-end marqué par de nombreux débordements en marge des manifestations contre le coût de la vie, Sébastien Lecornu a annoncé, lundi 19 octobre, la mise en place de “couvre-feux partiels” et “localisés”.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-couvre-feux-partiels-en-france-l-executif-tente-de-retablir-l-ordre_279819",
+          "imageUrl": "https://www.courrierinternational.com/https://focus.courrierinternational.com/2026/10/19/0/0/8256/5504/1200/630/60/0/c2f1481_ftp-1-kp25lvvassxd-2026-10-19t111556z-1849290791-rc2b6oawac4w-rtrmadp-3-france-protest-pm.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-18T13:30:13.000Z",
-          "fetchedAt": "2026-10-19T04:50:48.962Z"
+          "publishedAt": "2026-10-19T15:20:53.000Z",
+          "fetchedAt": "2026-10-20T04:59:20.604Z"
+        },
+        {
+          "id": "2026-10-19-ff764ad1",
+          "title": "Après les violences, des couvre-feux dans plusieurs villes de France, dont Paris, Lyon et Lille",
+          "description": "Des couvre-feux sont entrés en vigueur ce lundi 19 octobre dans plusieurs villes de France, notamment à Paris, Lyon, Lille, Nice et Bordeaux, après un week-end de mobilisation marqué par des violences et des pillages. Ces mesures, limitées à certains secteurs et concernant uniquement les mineurs dans plusieurs villes, s'accompagnent d'interdictions de manifester dans plusieurs quartiers de la capitale. Alors que le gouvernement n'a toujours pas répondu aux revendications des manifestants, la coordination des « gilets jaunes » appelle à une nouvelle journée de mobilisation samedi 24 octobre.",
+          "url": "https://www.rfi.fr/fr/france/20261019-direct-mobilisation-sociale-en-france-l-acc%C3%A8s-au-mus%C3%A9e-du-louvre-bloqu%C3%A9-par-des-manifestants",
+          "imageUrl": "https://s.rfi.fr/media/display/ea549b12-cbe0-11f1-992e-638c1c1f5fd6/w:1024/p:16x9/000-D3RC72V.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-19T09:48:22.000Z",
+          "fetchedAt": "2026-10-20T04:59:26.584Z"
         }
       ]
     },
     {
-      "id": "cluster-16",
-      "topic": "« Si nous n’étions pas aveuglés par le marché, nous pourrions tout de suite prop",
-      "category": "eco",
+      "id": "cluster-19",
+      "topic": "Pillages du 17 octobre : Vinted, eBay et Leboncoin sommés d’empêcher la revente ",
+      "category": "tech",
       "importance": 9,
       "articles": [
         {
-          "id": "2026-10-18-c0d7eac4",
-          "title": "« Si nous n’étions pas aveuglés par le marché, nous pourrions tout de suite proposer un autre horizon à la jeunesse »",
-          "description": "Etranglé par la pression des marchés financiers et de l’énergie, le gouvernement cherche à canaliser la colère de la jeunesse par la violence, signe avant-coureur de l’effondrement démocratique, analyse l’économiste Nicolas Postel dans une tribune au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/18/si-nous-n-etions-pas-aveugles-par-le-marche-nous-pourrions-tout-de-suite-proposer-un-autre-horizon-a-la-jeunesse_6797037_3232.html",
+          "id": "2026-10-19-e8ee20ba",
+          "title": "Pillages du 17 octobre : Vinted, eBay et Leboncoin sommés d’empêcher la revente d’objets volés",
+          "description": "Les ministres du commerce et du numérique ont convoqué plusieurs plateformes afin de s’assurer de leur coopération pour identifier d’éventuels revendeurs de produits provenant des boutiques attaquées lors du week-end, en parallèle des manifestations.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/10/19/pillages-du-17-octobre-vinted-ebay-et-leboncoin-sommes-d-empecher-la-revente-d-objets-voles_6797561_4408996.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-18T04:30:13.000Z",
-          "fetchedAt": "2026-10-19T04:50:58.601Z"
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-10-19T16:02:08.000Z",
+          "fetchedAt": "2026-10-20T04:59:26.680Z"
         },
         {
-          "id": "2026-10-18-d8d15df1",
-          "title": "Marché du timbre : 15 774 euros pour une feuille de 50 exemplaires du 20 francs « Pont du Gard »",
-          "description": "Un bloc de quatre du 15 centimes vert « Cérès », émis en 1850, vendu à 80 000 euros et des lettres signées Victor Hugo, Louis Pasteur ou par le général Jourdan ainsi qu’un étonnant timbre émis en janvier constituent les points forts des deux dernières ventes de rentrée, clôturées le 6 octobre.",
-          "url": "https://www.lemonde.fr/argent/article/2026/10/18/marche-du-timbre-15-774-euros-pour-une-feuille-de-50-exemplaires-du-20-francs-pont-du-gard_6796996_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-18T04:00:32.000Z",
-          "fetchedAt": "2026-10-19T04:50:58.601Z"
-        },
-        {
-          "id": "2026-10-17-8488e27f",
-          "title": "Morts au travail : en Charente, un rassemblement pour continuer d’alerter sur un fait social",
-          "description": "A l’occasion d’un séminaire, une association de familles de victimes tire le bilan de ses actions et acte le manque de prise en compte des accidents du travail mortels au niveau politique, alors que l’Assurance-maladie fait état d’une nouvelle augmentation de ces derniers en 2025.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/17/morts-au-travail-en-charente-un-rassemblement-pour-continuer-d-alerter-sur-un-fait-social_6796585_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-17T18:00:07.000Z",
-          "fetchedAt": "2026-10-19T04:50:58.601Z"
-        },
-        {
-          "id": "2026-10-17-302c5484",
-          "title": "Fin de l’ère Orban en Hongrie : « Le niveau de vie est aujourd’hui une préoccupation majeure de la population »",
-          "description": "Spécialiste des relations internationales à la Central European University, Zsuzsanna Szelényi tire, dans un entretien au « Monde », un premier bilan des six mois au pouvoir de Péter Magyar, élu sur la promesse de mettre fin à l’illibéralisme de Viktor Orban.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/17/fin-de-l-ere-orban-en-hongrie-le-niveau-de-vie-est-aujourd-hui-une-preoccupation-majeure-de-la-population_6796097_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-17T08:30:11.000Z",
-          "fetchedAt": "2026-10-19T04:50:58.601Z"
+          "id": "2026-10-19-13408d84",
+          "title": "N’achetez pas de smartphone sur Leboncoin, Vinted ou eBay après le 17 octobre",
+          "description": "Alors que des pillages de boutiques sont survenus ce week-end du 17 octobre 2026 en France, mieux vaut ne pas se précipiter sur les smartphones à prix cassé proposés sur Leboncoin, Vinted ou eBay. Certaines bonnes affaires pourraient vous coûter cher.",
+          "url": "https://www.numerama.com/tech/2355737-nachetez-pas-de-smartphone-sur-leboncoin-vinted-ou-ebay-apres-le-17-octobre.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/pillage-iphone-2.jpg?resize=1600,900&key=67305c0d",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-10-19T09:35:06.000Z",
+          "fetchedAt": "2026-10-20T04:59:26.803Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "A Savannah police officer gave her Flock login to her ICE agent husband",
-      "category": "tech",
+      "topic": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "category": "eco",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-10-18-4615586f",
-          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
-          "description": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols.\nWhile he had unauthorized access to the system, Tyler Harpe conducted 983 searches related to 97 license plates, which were overwhelmingly registered to Hispanic drivers, according to Savannah's local ABC affiliate, WJCL. The Harpes defended their actions, saying they didn't use access for personal reasons and that  …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-10-18T22:20:53.000Z",
-          "fetchedAt": "2026-10-19T04:50:58.621Z"
+          "id": "2026-10-19-713828ff",
+          "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+          "description": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+          "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-10-19T21:30:06.000Z",
+          "fetchedAt": "2026-10-20T04:59:35.955Z"
         }
       ]
     }
