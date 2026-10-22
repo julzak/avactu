@@ -1,187 +1,209 @@
 {
-  "generatedAt": "2026-10-21T05:02:12.086Z",
+  "generatedAt": "2026-10-22T05:03:15.711Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Annulation de la dette publique française : les leçons des précédents dans l’his",
+      "id": "cluster-1",
+      "topic": "En visite en Arabie saoudite, le président français affiche son soutien à son pa",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-21-7806ffdb",
-          "title": "Annulation de la dette publique française : les leçons des précédents dans l’histoire",
-          "description": "Porté par le candidat « insoumis » Jean-Luc Mélenchon, l’effacement de la dette revient dans les débats à l’approche de la présidentielle 2027. Si cette décision radicale a déjà ponctué l’histoire de la France – et de l’Allemagne –, elle n’a cependant été actée qu’à l’occasion de périodes de guerre, voire de révolution, après un long processus de négociation avec les créanciers.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/21/annulation-de-la-dette-publique-francaise-les-lecons-des-precedents-dans-l-histoire_6798197_3234.html",
+          "id": "2026-10-22-62006c18",
+          "title": "En visite en Arabie saoudite, le président français affiche son soutien à son partenaire stratégique visé par les Houthis",
+          "description": "Le président français s'est rendu mercredi 21 octobre dans le royaume pour une visite éclair. Sécurité oblige, le déplacement est resté secret jusqu'à la dernière minute. À Riyad, Emmanuel Macron, critiqué pour son absence de France après les violences en marge des manifestations contre la vie chère, est venu s'assurer de l'envoi supplémentaire de diesel par le royaume. L'Élysée est venu aussi afficher son soutien au royaume, alors que l'Arabie saoudite dit avoir déjoué de nouvelles attaques des rebelles houthis contre son territoire ce mercredi.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20261022-en-visite-en-arabie-saoudite-le-pr%C3%A9sident-fran%C3%A7ais-emmanuel-macron-affiche-son-soutien-%C3%A0-son-partenaire-strat%C3%A9gique-vis%C3%A9-par-les-houthis",
+          "imageUrl": "https://s.rfi.fr/media/display/88a16504-cdce-11f1-9daa-eb48fa034ddc/w:1024/p:16x9/000-D3YP7LQ.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-22T04:29:34.000Z",
+          "fetchedAt": "2026-10-22T04:59:20.107Z"
+        },
+        {
+          "id": "2026-10-22-429ad1a8",
+          "title": "Art Basel Paris, symbole des inégalités qui minent la France et l’Europe",
+          "description": "Les grands collectionneurs internationaux seront-ils au rendez-vous ? Le 22 octobre, la grande foire d’art contemporain Art Basel Paris doit être inaugurée dans la capitale. Mais le glamour de l’événement va être “quelque peu terni par la fumée des incendies” de ces derniers jours, prévient la “Frankfurter Allgemeine Zeitung”.",
+          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-art-basel-paris-symbole-des-inegalites-qui-minent-la-france-et-l-europe_279963",
+          "imageUrl": "https://www.courrierinternational.com/https://focus.courrierinternational.com/2026/10/08/0/0/5807/3871/1200/630/60/0/c14d10a_ftp-1-a5xkrenuhikn-2026-10-08t144109z-1291379935-rc23hhakijel-rtrmadp-3-swiss-art.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-22T03:00:18.000Z",
+          "fetchedAt": "2026-10-22T04:59:15.203Z"
+        },
+        {
+          "id": "2026-10-21-42fad333",
+          "title": "Crise sociale en France: pris pour cible, Emmanuel Macron riposte et assume son action",
+          "description": "Le déplacement d'Emmanuel Macron au Moyen-Orient, en pleine crise sociale et après les violences qui ont eu lieu en France les 17 et 18 octobre, a été vivement critiqué. Le président français a choisi de répondre, ce mercredi 21 octobre, à l'occasion d'un point presse organisé à Doha au Qatar. Le chef de l'État a manifesté une certaine exaspération face aux attaques dont il est l'objet.",
+          "url": "https://www.rfi.fr/fr/france/20261021-crise-sociale-en-france-pris-pour-cible-emmanuel-macron-riposte-et-assume-son-action",
+          "imageUrl": "https://s.rfi.fr/media/display/69d1263a-cd8f-11f1-ae40-19980254bb31/w:1024/p:16x9/FRANCE-POLITIQUE-PRESIDENT-EMMANUEL-MACRON.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-21T20:39:49.000Z",
+          "fetchedAt": "2026-10-22T04:59:20.107Z"
+        },
+        {
+          "id": "2026-10-21-824b00a3",
+          "title": "De la France à l'Albanie, les manifestations menées par la Gen Z continuent à travers l'Europe",
+          "description": "Alors que la mobilisation lycéenne et contre la vie chère continue en France malgré de nouvelles restrictions de rassemblements et des couvre-feux localisés, les manifestations se poursuivent également à travers plusieurs pays d'Europe cette semaine. Le Haut-Commissaire de l'ONU aux droits de l'homme Volker Türk a condamné mardi \"tous les actes de violence\" survenus lors de manifestations et s'est dit préoccupé par une réponse parfois \"excessive\" des forces de l'ordre.",
+          "url": "https://www.france24.com/fr/europe/20261021-les-manifestations-men%C3%A9es-par-gen-z-continuent-travers-europe",
+          "imageUrl": "https://s.france24.com/media/display/84e4e23c-cd61-11f1-b13f-4da0d2c6855d/w:1024/p:16x9/2026-10-20T190651Z-1155674728-RC227OA4WNEN-RTRMADP-3-ALBANIA-PROTEST.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-21T16:47:58.000Z",
+          "fetchedAt": "2026-10-22T04:59:15.178Z"
+        },
+        {
+          "id": "2026-10-21-82e9cc4f",
+          "title": "France: troisième nuit consécutive de couvre-feu et nouvelles interdictions de rassemblements jeudi à Paris",
+          "description": "De nouvelles interdictions de manifestations et de rassemblements ont été annoncées ce mercredi 21 octobre, notamment à Paris, à Lyon et à Toulon, à l'approche d'une nouvelle journée de mobilisation samedi 24 octobre. Dans la capitale, une troisième nuit consécutive de couvre-feu a également été décrétée. Le Premier ministre Sébastien Lecornu a reçu les principales organisations syndicales. De son côté, Emmanuel Macron, en déplacement au Qatar, a annoncé une réunion jeudi 22 octobre avec les responsables du renseignement, le Premier ministre et « les ministres concernés » pour faire la lumière sur les violences du 17 octobre.",
+          "url": "https://www.rfi.fr/fr/france/20261021-direct-france-apr%C3%A8s-une-nouvelle-nuit-sous-couvre-feu-le-premier-ministre-re%C3%A7oit-les-syndicats",
+          "imageUrl": "https://s.rfi.fr/media/display/f4f649ee-cd89-11f1-8b3a-ab78a7fed2ce/w:1024/p:16x9/AP26294415073465.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-21T06:14:10.000Z",
+          "fetchedAt": "2026-10-22T04:59:20.107Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Face à la Russie, les pays du nord et de l’est de l’Europe préparent leurs socié",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-10-22-253f0800",
+          "title": "Face à la Russie, les pays du nord et de l’est de l’Europe préparent leurs sociétés à la guerre",
+          "description": "Abris antibombes, réserves stratégiques, plans d’évacuation… Depuis 2022, les pays européens frontaliers de la Russie investissent dans la défense civile, mobilisant tous les pans de leur société.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/22/face-a-la-russie-les-pays-du-nord-et-de-l-est-de-l-europe-preparent-leurs-societes-a-la-guerre_6798568_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-21T04:25:03.000Z",
-          "fetchedAt": "2026-10-21T04:58:11.667Z"
+          "publishedAt": "2026-10-22T04:01:06.000Z",
+          "fetchedAt": "2026-10-22T04:59:15.155Z"
         },
         {
-          "id": "2026-10-20-d77a3445",
-          "title": "Ligue des champions: le Paris Saint-Germain s'offre le FC Barcelone",
-          "description": "Le PSG, double tenant du titre, faisait face au FC Barcelone au Parc des Princes lors de la troisième journée de la Ligue des champions UEFA ce mardi 20 octobre. Le Paris Saint-Germain s'est imposé 4-2.",
-          "url": "https://www.rfi.fr/fr/sports/20261020-ligue-des-champions-le-paris-saint-germain-s-offre-le-fc-barcelone",
-          "imageUrl": "https://s.rfi.fr/media/display/19f1263a-ccc0-11f1-a5ba-2d1c143cdef3/w:1024/p:16x9/000-D3WB8AW.jpg",
+          "id": "2026-10-22-7f708876",
+          "title": "EN DIRECT, guerre en Ukraine : plus de 600 drones ont été lancés en direction de Moscou, selon le maire ; quinze blessés dans des frappes sur Kiev",
+          "description": "Le maire de Moscou, Sergueï Sobianine, a rapporté que 163 drones s’étaient approchés de Moscou durant la nuit, et que deux personnes avaient été blessées.",
+          "url": "https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-plus-de-600-drones-ont-ete-lances-en-direction-de-moscou-selon-le-maire-quinze-blesses-dans-des-frappes-sur-kiev_6796922_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-22T03:47:06.000Z",
+          "fetchedAt": "2026-10-22T04:59:15.155Z"
+        },
+        {
+          "id": "2026-10-22-db0f582c",
+          "title": "Volodymyr Zelensky se dit prêt à un gel du front pour sortir de la guerre Russie-Ukraine",
+          "description": "C'est une concession que Volodymyr Zelensky a longtemps refusé : le président ukrainien s'est dit prêt à un accord de cessez-le-feu qui gèlerait la ligne de front. Une annonce faite mercredi 21 octobre sur la chaîne américaine Fox News, pour tenter de pousser Moscou vers un accord et sortir d’une guerre sans fin.",
+          "url": "https://www.rfi.fr/fr/europe/20261022-volodymyr-zelensky-se-dit-pr%C3%AAt-%C3%A0-un-gel-du-front-pour-sortir-de-la-guerre-russie-ukraine",
+          "imageUrl": "https://s.rfi.fr/media/display/512240c2-cd9b-11f1-8a11-8bea73bbe173/w:1024/p:16x9/UKRAINE-GUERRE-VOLODYMYR-ZELENSKY.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-20T20:57:30.000Z",
-          "fetchedAt": "2026-10-21T04:58:19.016Z"
+          "publishedAt": "2026-10-22T03:08:43.000Z",
+          "fetchedAt": "2026-10-22T04:59:20.107Z"
         },
         {
-          "id": "2026-10-20-f6bb6908",
-          "title": "Pourquoi faut-il être prudent sur le profil des auteurs des violences urbaines en France?",
-          "description": "Les scènes de jeunes individus attaquant commerces, véhicules et bâtiments publics durant le week-end du 17-18 octobre ont fait le tour des médias français et internationaux. À l'heure de la réponse pénale, que le ministre de la Justice Gérald Darmanin veut ferme et rapide, la question du profil des émeutiers enflamme le débat public en France, au risque de tirer des conclusions hâtives.",
-          "url": "https://www.rfi.fr/fr/france/20261020-pourquoi-faut-il-%C3%AAtre-prudent-sur-le-profil-des-auteurs-des-violences-urbaines-en-france",
-          "imageUrl": "https://s.rfi.fr/media/display/7c89e1aa-cc9e-11f1-b3ed-6313a763b466/w:1024/p:16x9/1-0-25-1-00-1.jpeg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-20T17:10:45.000Z",
-          "fetchedAt": "2026-10-21T04:58:19.016Z"
-        },
-        {
-          "id": "2026-10-20-89dad1ed",
-          "title": "Mobilisation en France: LFI sous le feu des critiques après les violences urbaines",
-          "description": "En marge des violences du week-end du 17-18 octobre en France, le parti La France insoumise (LFI) est pointé du doigt et désigné comme le coupable idéal. Certains candidats et chefs de partis politiques l'accusent d'être en partie responsable de ces débordements. Les insoumis, qui réfutent tout appel à la violence et tout lien avec les pillages, préparent leur contre-attaque.",
-          "url": "https://www.rfi.fr/fr/france/20261020-mobilisation-en-france-lfi-sous-le-feu-des-critiques-apr%C3%A8s-les-violences-urbaines",
-          "imageUrl": "https://s.rfi.fr/media/display/92a9f2fc-a05e-11f1-810c-005056a97e36/w:1024/p:16x9/AP26094612419170.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-20T16:53:57.000Z",
-          "fetchedAt": "2026-10-21T04:58:19.016Z"
-        },
-        {
-          "id": "2026-10-20-6eeea8f7",
-          "title": "Dans le Golfe, Emmanuel Macron obtient du pétrole et soigne ses alliés",
-          "description": "La presse du Golfe fait peu de cas des mouvements sociaux en France alors que le président  poursuit une tournée de trois jours dans la région. L’Élysée vante la promesse de livraisons de gazole par les pétromonarchies, et les journaux locaux soulignent l’importance croissante des relations stratégique avec Paris. Pour les Émirats arabes unis, le Koweït, Bahreïn, le Qatar et l’Arabie saoudite, la France apparaît comme un partenaire fiable, contrairement aux États-Unis.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-dans-le-golfe-emmanuel-macron-obtient-du-petrole-et-soigne-ses-allies_279960",
-          "imageUrl": "https://www.courrierinternational.com/https://focus.courrierinternational.com/2026/10/20/0/0/3003/2002/1200/630/60/0/a095b4c_ftp-1-ig8qurewcmcj-2026-10-20t081440z-1721178315-rc2v6oab34m1-rtrmadp-3-gulf-france-uae.JPG",
+          "id": "2026-10-21-fb331a3c",
+          "title": "“Cette guerre maudite” : ces langues minoritaires en Russie qui osent appeler la guerre par son nom",
+          "description": "Dans plusieurs républiques russes, les langues minoritaires permettent de parler du conflit en Ukraine autrement qu’à travers le discours officiel. Le média indépendant russe “Novaïa Gazeta Europe” révèle comment ces groupes ethniques dénoncent l’absurdité de la guerre, mettent en garde leurs proches, espèrent le retour des soldats et pleurent leurs morts dans leur langue maternelle.",
+          "url": "https://www.courrierinternational.com/article/enquete-cette-guerre-maudite-ces-langues-minoritaires-en-russie-qui-osent-appeler-la-guerre-par-son-nom_280091",
+          "imageUrl": "https://www.courrierinternational.com/https://focus.courrierinternational.com/2026/10/16/119/0/5000/3333/1200/630/60/0/e3c1d1d_ftp-1-uqhj75imovlg-fronted-7-russia-war-deaths.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-20T14:54:07.000Z",
-          "fetchedAt": "2026-10-21T04:58:12.106Z"
+          "publishedAt": "2026-10-21T17:06:38.000Z",
+          "fetchedAt": "2026-10-22T04:59:15.203Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Midterms 2026: six questions sur les milliards de dollars qui financent les élec",
+      "id": "cluster-16",
+      "topic": "« Not in my name ! » : dans les oliveraies de Cisjordanie occupée, la campagne é",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-21-2095e715",
-          "title": "Midterms 2026: six questions sur les milliards de dollars qui financent les élections américaines",
-          "description": "À l'approche des élections de mi-mandat du 3 novembre aux États-Unis, alors que la bataille pour le Congrès se resserre et que les démocrates caressent de plus en plus l'espoir de reprendre les deux chambres, l'argent afflue dans une course aux financements toujours plus effrénée.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261021-midterms-2026-six-questions-sur-les-milliards-de-dollars-qui-financent-les-%C3%A9lections-am%C3%A9ricaines",
-          "imageUrl": "https://s.rfi.fr/media/display/49c1bc32-c57a-11f1-b221-e362370cce2e/w:1024/p:16x9/2026-09-27T000123Z-1299985978-RC2KANANLHL3-RTRMADP-3-USA-ELECTION-REPUBLICAN-SPENDING.jpg",
-          "source": "RFI",
+          "id": "2026-10-22-e2eb5b21",
+          "title": "« Not in my name ! » : dans les oliveraies de Cisjordanie occupée, la campagne électorale d’une des figures juives démocrates de New York",
+          "description": "Candidat à la Chambre des représentants à l’occasion des élections américaines du 3 novembre, Brad Lander est venu apporter son soutien aux Palestiniens victimes de la violence des colons. Mercredi 21 octobre, il a été interpellé par la police israélienne dans un champ d’oliviers, près de Bethléem, avant d’être relâché quelques heures plus tard.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/22/not-in-my-name-dans-les-oliveraies-de-cisjordanie-occupee-la-campagne-electorale-d-une-des-figures-juives-democrates-de-new-york_6798549_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-21T04:05:38.000Z",
-          "fetchedAt": "2026-10-21T04:58:19.016Z"
+          "publishedAt": "2026-10-22T03:00:16.000Z",
+          "fetchedAt": "2026-10-22T04:59:15.155Z"
         },
         {
-          "id": "2026-10-20-1b54169e",
-          "title": "Trump sued over Canadian tariffs in latest legal challenge",
-          "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-          "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg",
-          "source": "BBC World",
+          "id": "2026-10-21-9108c73c",
+          "title": "Cisjordanie occupée: un candidat démocrate au Congrès américain brièvement arrêté lors d'une récolte d'olives",
+          "description": "Brad Lander, candidat démocrate au Congrès américain, a été brièvement arrêté, mercredi 21 octobre, par l'armée israélienne alors qu'il participait à une cueillette d'olives près de Bethléem, en Cisjordanie occupée. Cet épisode intervient dans un contexte de fortes tensions autour de la récolte des olives, marqué ces derniers jours par de violentes attaques de colons israéliens contre des Palestiniens dans leurs champs.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20261021-cisjordanie-occup%C3%A9e-un-candidat-d%C3%A9mocrate-au-congr%C3%A8s-am%C3%A9ricain-bri%C3%A8vement-arr%C3%AAt%C3%A9-lors-d-une-r%C3%A9colte-d-olives",
+          "imageUrl": "https://s.rfi.fr/media/display/71a6cb1c-cd8f-11f1-b9ae-19980254bb31/w:1024/p:16x9/2026-10-21T190949Z-1432205324-RC2O7OAP55OF-RTRMADP-3-ISRAEL-PALESTINIANS-WEST-BANK-LANDER.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-20T19:30:05.000Z",
-          "fetchedAt": "2026-10-21T04:58:18.771Z"
+          "publishedAt": "2026-10-21T21:31:06.000Z",
+          "fetchedAt": "2026-10-22T04:59:20.107Z"
+        },
+        {
+          "id": "2026-10-21-5b8edb6d",
+          "title": "Ben Gvir déporte un Gazaoui vers un Paris dévasté ... et généré par IA",
+          "description": "Itamar Ben Gvir, ministre israélien de la Sécurité nationale, a partagé sur X une vidéo générée par IA où il prend les traits d'un génie, accédant au \"voeu\" d'un Gazaoui en le déportant par magie vers un Paris en ruines après les manifestations du 17 octobre. Une provocation qui a déclenché une joute en ligne avec le Quai d'Orsay, et qui illustre l'omniprésence de l'IA dans la campagne électorale israélienne à l'aube du scrutin du 27 octobre.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261021-ben-gvir-d%C3%A9porte-un-gazaoui-vers-un-paris-d%C3%A9vast%C3%A9-et-g%C3%A9n%C3%A9r%C3%A9-par-ia",
+          "imageUrl": "https://s.france24.com/media/display/c63cf422-cd8e-11f1-90ba-4da0d2c6855d/w:1024/p:16x9/FR-20261021-221856-222450-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-21T21:19:00.000Z",
+          "fetchedAt": "2026-10-22T04:59:15.178Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works no",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-10-21-c038aa98",
-          "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-          "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-          "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9998/live/a337cac0-cd01-11f1-9999-4d9f447f1e4c.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-21T03:59:18.000Z",
-          "fetchedAt": "2026-10-21T04:58:18.771Z"
-        },
-        {
-          "id": "2026-10-21-eedb070c",
-          "title": "Les centres de données russes vulnérables face aux attaques ukrainiennes",
-          "description": "C'est une nouvelle donne dans la guerre entre la Russie et l'Ukraine, ses conséquences sur le territoire russe et le quotidien des habitants. Après les perturbations liées aux frappes ukrainiennes sur les raffineries et autres entrepôts de stockage, ce sont les grands centres de données qui sont à leur tour ciblés. Depuis début octobre, plusieurs sites du géant Yandex ont a par exemple été touchés, avec de multiples répercussions sur des services publics et privés. Leur vulnérabilité pose problème en Russie.",
-          "url": "https://www.rfi.fr/fr/europe/20261021-les-centres-de-donn%C3%A9es-russes-vuln%C3%A9rables-face-aux-attaques-ukrainiennes",
-          "imageUrl": "https://s.rfi.fr/media/display/2f08b4a0-ccd6-11f1-b36d-6313a763b466/w:1024/p:16x9/RUSSIE-YANDEX-NUMERIQUE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-21T03:06:19.000Z",
-          "fetchedAt": "2026-10-21T04:58:19.016Z"
-        },
-        {
-          "id": "2026-10-21-77ee6f16",
-          "title": "En Ukraine avec le commando de soldats chinois qui se battent contre les Russes",
-          "description": "Ils sont une dizaine de ressortissants chinois à combattre au sein d’une unité de reconnaissance aux côtés de soldats ukrainiens. En plus de l’ennemi russe, ils doivent composer avec les autorités de leur pays d’origine, la Chine, qui reste un partenaire privilégié de Moscou. Reportage.",
-          "url": "https://www.courrierinternational.com/article/reportage-en-ukraine-avec-le-commando-de-soldats-chinois-qui-se-battent-contre-les-russes_275194",
-          "imageUrl": "https://www.courrierinternational.com/https://focus.courrierinternational.com/2026/10/06/0/0/4999/3333/1200/630/60/0/12f78d2_upload-1-p0a6pwa9zg0i-ukraine-china-drones-2.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-21T03:00:20.000Z",
-          "fetchedAt": "2026-10-21T04:58:12.106Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+      "id": "cluster-36",
+      "topic": "Mercedes sera le premier à proposer une conduite assistée de point à point en Al",
       "category": "tech",
-      "importance": 10,
+      "importance": 9,
       "articles": [
         {
-          "id": "2026-10-20-5df9a1ff",
-          "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-          "description": "\"I do think there's a lot of merit to combining the companies.\"",
-          "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space-1152x648.jpg",
-          "source": "Ars Technica",
+          "id": "2026-10-21-2399b97b",
+          "title": "Mercedes sera le premier à proposer une conduite assistée de point à point en Allemagne dès fin 2026",
+          "description": "Mercedes ouvrira au premier semestre 2027 les commandes de MB.Drive Assist Pro, sa conduite assistée « de point à point », en Allemagne, avec un accès anticipé dès fin 2026 à Stuttgart et Munich. Le constructeur s'appuie sur un règlement de l'ONU qui pourrait lui ouvrir toute l'Union européenne, alors que le FSD de Tesla attend encore un vote à Bruxelles.",
+          "url": "https://www.numerama.com/vroom/2358121-mercedes-sera-le-premier-a-proposer-une-conduite-assistee-de-point-a-point-en-allemagne-des-fin-2026.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/mercedes-mb-drive-assist-pro-5.jpg?resize=1600,900&key=755f77e2",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-10-20T22:04:54.000Z",
-          "fetchedAt": "2026-10-21T04:58:23.382Z"
+          "publishedAt": "2026-10-21T14:00:22.000Z",
+          "fetchedAt": "2026-10-22T04:59:20.335Z"
         },
         {
-          "id": "2026-10-20-db29f378",
-          "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-          "description": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. \nMusk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also noted that he is not a member of either committee, nor involved in any of the discussions. \n\"Because I'm a conflicted party, I can't actually be in the discussions of the special committees,\" Musk said. \"So it's an odd kabuki dance where two groups of people are talking and I can't be in the conversation. …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-10-20-7aea481e",
+          "title": "Le parti d’extrême droite allemand AfD victime d’une cyberattaque et d’une fuite de données",
+          "description": "L’affaire a été rendue publique par le quotidien « Bild » mardi, qui évalue à plus de 421 000 le nombre d’e-mails ayant fuité.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/10/20/le-parti-d-extreme-droite-allemand-afd-victime-d-une-cyberattaque-et-d-une-fuite-de-donnees_6797951_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-10-20T21:30:24.000Z",
-          "fetchedAt": "2026-10-21T04:58:23.512Z"
+          "publishedAt": "2026-10-20T15:59:24.000Z",
+          "fetchedAt": "2026-10-22T04:59:20.269Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "UK government expected to approve Jackdaw gas field",
+      "topic": "Grand âge et bail à nourriture : quand l’acquéreur des biens n’exécute pas son o",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-10-21-ccbd23d1",
-          "title": "UK government expected to approve Jackdaw gas field",
-          "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
-          "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f31e/live/85d6bcc0-ccac-11f1-8789-fd6bb060c3f9.jpg",
-          "source": "BBC Business",
+          "id": "2026-10-22-f9e1ec40",
+          "title": "Grand âge et bail à nourriture : quand l’acquéreur des biens n’exécute pas son obligation d’entretien",
+          "description": "La maison et les terres peuvent être restituées au vendeur qui n’a pas reçu les soins promis en contrepartie du prix.",
+          "url": "https://www.lemonde.fr/argent/article/2026/10/22/grand-age-et-bail-a-nourriture-quand-l-acquereur-des-biens-n-execute-pas-son-obligation-d-entretien_6798563_1657007.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-10-21T04:41:04.000Z",
-          "fetchedAt": "2026-10-21T04:58:28.307Z"
+          "publishedAt": "2026-10-22T04:00:38.000Z",
+          "fetchedAt": "2026-10-22T04:59:26.785Z"
         }
       ]
     }
