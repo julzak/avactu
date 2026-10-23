@@ -1,209 +1,220 @@
 {
-  "generatedAt": "2026-10-22T05:03:15.711Z",
+  "generatedAt": "2026-10-23T05:04:20.529Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "En visite en Arabie saoudite, le président français affiche son soutien à son pa",
+      "id": "cluster-2",
+      "topic": "EN DIRECT, guerre en Ukraine : Donald Trump affirme qu’Elon Musk a relancé son r",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-22-62006c18",
-          "title": "En visite en Arabie saoudite, le président français affiche son soutien à son partenaire stratégique visé par les Houthis",
-          "description": "Le président français s'est rendu mercredi 21 octobre dans le royaume pour une visite éclair. Sécurité oblige, le déplacement est resté secret jusqu'à la dernière minute. À Riyad, Emmanuel Macron, critiqué pour son absence de France après les violences en marge des manifestations contre la vie chère, est venu s'assurer de l'envoi supplémentaire de diesel par le royaume. L'Élysée est venu aussi afficher son soutien au royaume, alors que l'Arabie saoudite dit avoir déjoué de nouvelles attaques des rebelles houthis contre son territoire ce mercredi.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20261022-en-visite-en-arabie-saoudite-le-pr%C3%A9sident-fran%C3%A7ais-emmanuel-macron-affiche-son-soutien-%C3%A0-son-partenaire-strat%C3%A9gique-vis%C3%A9-par-les-houthis",
-          "imageUrl": "https://s.rfi.fr/media/display/88a16504-cdce-11f1-9daa-eb48fa034ddc/w:1024/p:16x9/000-D3YP7LQ.jpg",
-          "source": "RFI",
+          "id": "2026-10-23-586d35bf",
+          "title": "EN DIRECT, guerre en Ukraine : Donald Trump affirme qu’Elon Musk a relancé son réseau satellitaire Starlink pour Kiev",
+          "description": "Le « Wall Street Journal » a rapporté que, selon des responsables américains, le président républicain avait appelé Elon Musk, mercredi, pour lui demander de lever le bridage du système. L’Ukraine avait fait état de limitations dans sa capacité de connexion à ce service crucial dans la guerre contre la Russie.",
+          "url": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-kiev_6796922_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-22T04:29:34.000Z",
-          "fetchedAt": "2026-10-22T04:59:20.107Z"
+          "publishedAt": "2026-10-23T04:39:42.000Z",
+          "fetchedAt": "2026-10-23T05:00:19.991Z"
         },
         {
-          "id": "2026-10-22-429ad1a8",
-          "title": "Art Basel Paris, symbole des inégalités qui minent la France et l’Europe",
-          "description": "Les grands collectionneurs internationaux seront-ils au rendez-vous ? Le 22 octobre, la grande foire d’art contemporain Art Basel Paris doit être inaugurée dans la capitale. Mais le glamour de l’événement va être “quelque peu terni par la fumée des incendies” de ces derniers jours, prévient la “Frankfurter Allgemeine Zeitung”.",
-          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-art-basel-paris-symbole-des-inegalites-qui-minent-la-france-et-l-europe_279963",
-          "imageUrl": "https://www.courrierinternational.com/https://focus.courrierinternational.com/2026/10/08/0/0/5807/3871/1200/630/60/0/c14d10a_ftp-1-a5xkrenuhikn-2026-10-08t144109z-1291379935-rc23hhakijel-rtrmadp-3-swiss-art.JPG",
+          "id": "2026-10-23-9c4f9bdc",
+          "title": "Trump affirme que Musk a levé les restrictions sur le réseau satellitaire Starshield en Ukraine",
+          "description": "Selon une information du Wall Street Journal, le président républicain avait appelé le patron de SpaceX mercredi pour lui demander de lever le bridage de ce système de communication crucial pour l’armée ukrainienne. À Kiev, les restrictions constatées ont renforcé les inquiétudes face à l’affaiblissement du soutien américain à l’Ukraine.",
+          "url": "https://www.courrierinternational.com/article/trump-affirme-que-musk-a-leve-les-restrictions-sur-le-reseau-satellitaire-starshield-en-ukraine_280703",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/15/167/0/7879/5252/1200/630/60/0/2c7514c_ftp-1-ys4fuxoidc1e-2026-10-15t222626z-799024124-rc2zudaqsorp-rtrmadp-3-ukraine-crisis-starshield.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-22T03:00:18.000Z",
-          "fetchedAt": "2026-10-22T04:59:15.203Z"
+          "publishedAt": "2026-10-23T04:13:33.000Z",
+          "fetchedAt": "2026-10-23T05:00:20.046Z"
         },
         {
-          "id": "2026-10-21-42fad333",
-          "title": "Crise sociale en France: pris pour cible, Emmanuel Macron riposte et assume son action",
-          "description": "Le déplacement d'Emmanuel Macron au Moyen-Orient, en pleine crise sociale et après les violences qui ont eu lieu en France les 17 et 18 octobre, a été vivement critiqué. Le président français a choisi de répondre, ce mercredi 21 octobre, à l'occasion d'un point presse organisé à Doha au Qatar. Le chef de l'État a manifesté une certaine exaspération face aux attaques dont il est l'objet.",
-          "url": "https://www.rfi.fr/fr/france/20261021-crise-sociale-en-france-pris-pour-cible-emmanuel-macron-riposte-et-assume-son-action",
-          "imageUrl": "https://s.rfi.fr/media/display/69d1263a-cd8f-11f1-ae40-19980254bb31/w:1024/p:16x9/FRANCE-POLITIQUE-PRESIDENT-EMMANUEL-MACRON.jpg",
-          "source": "RFI",
+          "id": "2026-10-22-2fc55096",
+          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4438/live/13dc7b20-ce53-11f1-a7e5-1bf3b637cfc1.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-10-21T20:39:49.000Z",
-          "fetchedAt": "2026-10-22T04:59:20.107Z"
+          "publishedAt": "2026-10-22T21:42:39.000Z",
+          "fetchedAt": "2026-10-23T05:00:24.051Z"
         },
         {
-          "id": "2026-10-21-824b00a3",
-          "title": "De la France à l'Albanie, les manifestations menées par la Gen Z continuent à travers l'Europe",
-          "description": "Alors que la mobilisation lycéenne et contre la vie chère continue en France malgré de nouvelles restrictions de rassemblements et des couvre-feux localisés, les manifestations se poursuivent également à travers plusieurs pays d'Europe cette semaine. Le Haut-Commissaire de l'ONU aux droits de l'homme Volker Türk a condamné mardi \"tous les actes de violence\" survenus lors de manifestations et s'est dit préoccupé par une réponse parfois \"excessive\" des forces de l'ordre.",
-          "url": "https://www.france24.com/fr/europe/20261021-les-manifestations-men%C3%A9es-par-gen-z-continuent-travers-europe",
-          "imageUrl": "https://s.france24.com/media/display/84e4e23c-cd61-11f1-b13f-4da0d2c6855d/w:1024/p:16x9/2026-10-20T190651Z-1155674728-RC227OA4WNEN-RTRMADP-3-ALBANIA-PROTEST.jpg",
-          "source": "France 24",
+          "id": "2026-10-22-2c599b14",
+          "title": "Midterms 2026 : comment Donald Trump profite de la crise politique en France",
+          "description": "« L’insistance de Donald Trump à évoquer les événements en France correspond à une stratégie politique », explique notre correspondant à Washington, Piotr Smolar.",
+          "url": "https://www.lemonde.fr/international/video/2026/10/22/midterms-2026-comment-donald-trump-profite-de-la-crise-politique-en-france_6798637_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-21T16:47:58.000Z",
-          "fetchedAt": "2026-10-22T04:59:15.178Z"
-        },
-        {
-          "id": "2026-10-21-82e9cc4f",
-          "title": "France: troisième nuit consécutive de couvre-feu et nouvelles interdictions de rassemblements jeudi à Paris",
-          "description": "De nouvelles interdictions de manifestations et de rassemblements ont été annoncées ce mercredi 21 octobre, notamment à Paris, à Lyon et à Toulon, à l'approche d'une nouvelle journée de mobilisation samedi 24 octobre. Dans la capitale, une troisième nuit consécutive de couvre-feu a également été décrétée. Le Premier ministre Sébastien Lecornu a reçu les principales organisations syndicales. De son côté, Emmanuel Macron, en déplacement au Qatar, a annoncé une réunion jeudi 22 octobre avec les responsables du renseignement, le Premier ministre et « les ministres concernés » pour faire la lumière sur les violences du 17 octobre.",
-          "url": "https://www.rfi.fr/fr/france/20261021-direct-france-apr%C3%A8s-une-nouvelle-nuit-sous-couvre-feu-le-premier-ministre-re%C3%A7oit-les-syndicats",
-          "imageUrl": "https://s.rfi.fr/media/display/f4f649ee-cd89-11f1-8b3a-ab78a7fed2ce/w:1024/p:16x9/AP26294415073465.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-21T06:14:10.000Z",
-          "fetchedAt": "2026-10-22T04:59:20.107Z"
+          "publishedAt": "2026-10-22T15:10:19.000Z",
+          "fetchedAt": "2026-10-23T05:00:19.991Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Face à la Russie, les pays du nord et de l’est de l’Europe préparent leurs socié",
+      "id": "cluster-10",
+      "topic": "Dans le Pacifique, la bataille entre la Chine et l’Australie se joue aux îles Sa",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-22-253f0800",
-          "title": "Face à la Russie, les pays du nord et de l’est de l’Europe préparent leurs sociétés à la guerre",
-          "description": "Abris antibombes, réserves stratégiques, plans d’évacuation… Depuis 2022, les pays européens frontaliers de la Russie investissent dans la défense civile, mobilisant tous les pans de leur société.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/22/face-a-la-russie-les-pays-du-nord-et-de-l-est-de-l-europe-preparent-leurs-societes-a-la-guerre_6798568_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-22T04:01:06.000Z",
-          "fetchedAt": "2026-10-22T04:59:15.155Z"
-        },
-        {
-          "id": "2026-10-22-7f708876",
-          "title": "EN DIRECT, guerre en Ukraine : plus de 600 drones ont été lancés en direction de Moscou, selon le maire ; quinze blessés dans des frappes sur Kiev",
-          "description": "Le maire de Moscou, Sergueï Sobianine, a rapporté que 163 drones s’étaient approchés de Moscou durant la nuit, et que deux personnes avaient été blessées.",
-          "url": "https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-plus-de-600-drones-ont-ete-lances-en-direction-de-moscou-selon-le-maire-quinze-blesses-dans-des-frappes-sur-kiev_6796922_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-22T03:47:06.000Z",
-          "fetchedAt": "2026-10-22T04:59:15.155Z"
-        },
-        {
-          "id": "2026-10-22-db0f582c",
-          "title": "Volodymyr Zelensky se dit prêt à un gel du front pour sortir de la guerre Russie-Ukraine",
-          "description": "C'est une concession que Volodymyr Zelensky a longtemps refusé : le président ukrainien s'est dit prêt à un accord de cessez-le-feu qui gèlerait la ligne de front. Une annonce faite mercredi 21 octobre sur la chaîne américaine Fox News, pour tenter de pousser Moscou vers un accord et sortir d’une guerre sans fin.",
-          "url": "https://www.rfi.fr/fr/europe/20261022-volodymyr-zelensky-se-dit-pr%C3%AAt-%C3%A0-un-gel-du-front-pour-sortir-de-la-guerre-russie-ukraine",
-          "imageUrl": "https://s.rfi.fr/media/display/512240c2-cd9b-11f1-8a11-8bea73bbe173/w:1024/p:16x9/UKRAINE-GUERRE-VOLODYMYR-ZELENSKY.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-22T03:08:43.000Z",
-          "fetchedAt": "2026-10-22T04:59:20.107Z"
-        },
-        {
-          "id": "2026-10-21-fb331a3c",
-          "title": "“Cette guerre maudite” : ces langues minoritaires en Russie qui osent appeler la guerre par son nom",
-          "description": "Dans plusieurs républiques russes, les langues minoritaires permettent de parler du conflit en Ukraine autrement qu’à travers le discours officiel. Le média indépendant russe “Novaïa Gazeta Europe” révèle comment ces groupes ethniques dénoncent l’absurdité de la guerre, mettent en garde leurs proches, espèrent le retour des soldats et pleurent leurs morts dans leur langue maternelle.",
-          "url": "https://www.courrierinternational.com/article/enquete-cette-guerre-maudite-ces-langues-minoritaires-en-russie-qui-osent-appeler-la-guerre-par-son-nom_280091",
-          "imageUrl": "https://www.courrierinternational.com/https://focus.courrierinternational.com/2026/10/16/119/0/5000/3333/1200/630/60/0/e3c1d1d_ftp-1-uqhj75imovlg-fronted-7-russia-war-deaths.jpg",
+          "id": "2026-10-23-7a91626b",
+          "title": "Dans le Pacifique, la bataille entre la Chine et l’Australie se joue aux îles Salomon",
+          "description": "En compétition avec Pékin dans toute la zone, Canberra prépare un accord de partenariat avec les îles Salomon. Un pacte qui symbolise la compétition permanente à laquelle se livrent les deux pays pour obtenir les bonnes grâces des États insulaires d’une région hautement stratégique.",
+          "url": "https://www.courrierinternational.com/article/analyse-dans-le-pacifique-la-bataille-entre-la-chine-et-l-australie-se-joue-aux-iles-salomon_278372",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/06/0/0/5724/3816/1200/630/60/0/11fd851_ftp-1-fydqmynh3h95-2026-10-06t035213z-293465224-rc2axnak9x2n-rtrmadp-3-climate-cop31.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-21T17:06:38.000Z",
-          "fetchedAt": "2026-10-22T04:59:15.203Z"
+          "publishedAt": "2026-10-23T03:00:09.000Z",
+          "fetchedAt": "2026-10-23T05:00:20.046Z"
+        },
+        {
+          "id": "2026-10-22-0ef39768",
+          "title": "Chine : un séisme de magnitude 7 fait de nombreux morts au Tibet",
+          "description": "Au moins 16 personnes, selon un premier bilan donné vendredi, ont été tuées dans un séisme de magnitude 7 dans une région montagneuse du Tibet. Plus de 32 personnes ont été blessées et plus de 300 maisons se sont effondrées.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20261022-chine-un-s%C3%A9isme-de-magnitude-7-fait-de-nombreux-morts-au-tibet",
+          "imageUrl": "https://s.france24.com/media/display/fbbd82cc-ce5d-11f1-97a6-23d55109f116/w:1024/p:16x9/ac629e79b049c0c45210a347ff86908be3a86cb3.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-22T21:17:28.000Z",
+          "fetchedAt": "2026-10-23T05:00:20.073Z"
+        },
+        {
+          "id": "2026-10-22-11c66063",
+          "title": "Moment man rescued from sinking car by Australian TV reporter",
+          "description": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.",
+          "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4a2/live/9b70e050-ce1f-11f1-a64c-550be9e3c66b.png",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-22T11:08:33.000Z",
+          "fetchedAt": "2026-10-23T05:00:24.051Z"
         }
       ]
     },
     {
-      "id": "cluster-16",
-      "topic": "« Not in my name ! » : dans les oliveraies de Cisjordanie occupée, la campagne é",
+      "id": "cluster-11",
+      "topic": "Couvre-feux en France, séisme au Tibet, virus Shamonda, BBC : les informations d",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-22-e2eb5b21",
-          "title": "« Not in my name ! » : dans les oliveraies de Cisjordanie occupée, la campagne électorale d’une des figures juives démocrates de New York",
-          "description": "Candidat à la Chambre des représentants à l’occasion des élections américaines du 3 novembre, Brad Lander est venu apporter son soutien aux Palestiniens victimes de la violence des colons. Mercredi 21 octobre, il a été interpellé par la police israélienne dans un champ d’oliviers, près de Bethléem, avant d’être relâché quelques heures plus tard.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/22/not-in-my-name-dans-les-oliveraies-de-cisjordanie-occupee-la-campagne-electorale-d-une-des-figures-juives-democrates-de-new-york_6798549_3210.html",
+          "id": "2026-10-23-79b701bc",
+          "title": "Couvre-feux en France, séisme au Tibet, virus Shamonda, BBC : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-couvre-feux-en-france-seisme-en-chine-virus-shamonda-bbc-les-informations-de-la-nuit_280702",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/20/0/0/5014/3342/1200/630/60/0/a670b77_ftp-1-kvketwgzkynb-afp-d3wc3ky.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T03:00:04.000Z",
+          "fetchedAt": "2026-10-23T05:00:20.046Z"
+        },
+        {
+          "id": "2026-10-22-bf128800",
+          "title": "Manifestations en France: chez la jeunesse, une mobilisation entre références culturelles et humour acide",
+          "description": "Sur les pancartes, les snaps ou les réels Instagram, la jeunesse française fait preuve d'une très grande créativité pour exprimer ses revendications. Lycéens et étudiants, mobilisés depuis début octobre, ont massivement recours à des références de la culture d'internet, des films, des animes, ainsi qu'à l'histoire et à la littérature.",
+          "url": "https://www.rfi.fr/fr/france/20261022-chez-les-jeunes-fran%C3%A7ais-une-mobilisation-entre-r%C3%A9f%C3%A9rences-culturelles-et-humour-acide",
+          "imageUrl": "https://s.rfi.fr/media/display/6f633d40-ce52-11f1-bab0-23d55109f116/w:1024/p:16x9/2026-10-08T000000Z-1559194778-MT1ABCPR1022229069-RTRMADP-3-FRANCE-EDUCATION-PROTEST.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-22T19:56:34.000Z",
+          "fetchedAt": "2026-10-23T05:00:24.070Z"
+        },
+        {
+          "id": "2026-10-22-a282a0a3",
+          "title": "\"La Chute, France 1940\", autopsie d'un effondrement 1940 : que revèle la défaite française ?",
+          "description": "En mai 1940, la France s’effondre face à l’Allemagne nazie en quelques semaines. Comment expliquer une défaite aussi rapide ? Erreurs militaires, responsabilités politiques et divisions de la société française : dans son nouveau livre, La Chute, France 1940, l’historien britannique Julian Jackson revient sur les causes de cette débâcle et interroge les leçons que l’Europe peut en tirer aujourd’hui, face aux nouvelles menaces qui pèsent sur sa sécurité.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261022-la-chute-france-1940-autopsie-d-un-effondrement-1940-que-rev%C3%A8le-la-d%C3%A9faite-fran%C3%A7aise",
+          "imageUrl": "https://s.france24.com/media/display/6ff6fb66-ce3e-11f1-90b9-23d55109f116/w:1024/p:16x9/FR-20261022-181808-182822-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-22T18:49:32.000Z",
+          "fetchedAt": "2026-10-23T05:00:20.073Z"
+        },
+        {
+          "id": "2026-10-22-f094f50e",
+          "title": "France, Grèce, Italie... Gen Z : un vent de colère en Europe ?",
+          "description": "La génération Z se mobilise massivement en France mais aussi en Grèce, en Espagne, au Portugal et en Italie. Hier, c’était à Athènes et à Thessalonique que lycéens et professeurs ont battu le pavé contre le coût de la vie et l’état des écoles en s’inspirant de la France. Dans l'Hexagone, le gouvernement tente de trouver une réponse politique : Sébastien Lecornu a reçu les partis politiques et les maires de Paris, Lyon et Bordeaux. Le Premier ministre prévoit un dispositif de sécurité massif pour les manifestations de samedi, alors qu'Emmanuel Macron a annoncé que seules celles organisées par des syndicats seront autorisées. Que se passe-t-il en France et en Europe ? Que demande la jeunesse ? Gen Z : un vent de colère en Europe ?",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261022-france-gr%C3%A8ce-italie-gen-z-un-vent-de-col%C3%A8re-en-europe",
+          "imageUrl": "https://s.france24.com/media/display/d9bcbde0-cd5a-11f1-89c8-ab78a7fed2ce/w:1024/p:16x9/2026-10-21T123954Z-770228045-RC2K7OA8CUCO-RTRMADP-3-GREECE-PROTEST-STUDENTS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-22T18:25:38.000Z",
+          "fetchedAt": "2026-10-23T05:00:20.073Z"
+        },
+        {
+          "id": "2026-10-22-a1643d9c",
+          "title": "En Inde, les émeutes du 17 octobre en France instrumentalisées par les médias progouvernementaux et la fachosphère",
+          "description": "Les nationalistes hindous du Bharatiya Janata Party et leurs soutiens, tout comme de nombreuses chaînes de télévision, utilisent les violences en France pour s’attaquer au mouvement des « cafards » en Inde.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/22/en-inde-les-emeutes-du-17-octobre-en-france-instrumentalisees-par-les-medias-progouvernement-et-la-fachosphere_6798642_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-22T03:00:16.000Z",
-          "fetchedAt": "2026-10-22T04:59:15.155Z"
+          "publishedAt": "2026-10-22T16:00:09.000Z",
+          "fetchedAt": "2026-10-23T05:00:19.991Z"
         },
         {
-          "id": "2026-10-21-9108c73c",
-          "title": "Cisjordanie occupée: un candidat démocrate au Congrès américain brièvement arrêté lors d'une récolte d'olives",
-          "description": "Brad Lander, candidat démocrate au Congrès américain, a été brièvement arrêté, mercredi 21 octobre, par l'armée israélienne alors qu'il participait à une cueillette d'olives près de Bethléem, en Cisjordanie occupée. Cet épisode intervient dans un contexte de fortes tensions autour de la récolte des olives, marqué ces derniers jours par de violentes attaques de colons israéliens contre des Palestiniens dans leurs champs.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20261021-cisjordanie-occup%C3%A9e-un-candidat-d%C3%A9mocrate-au-congr%C3%A8s-am%C3%A9ricain-bri%C3%A8vement-arr%C3%AAt%C3%A9-lors-d-une-r%C3%A9colte-d-olives",
-          "imageUrl": "https://s.rfi.fr/media/display/71a6cb1c-cd8f-11f1-b9ae-19980254bb31/w:1024/p:16x9/2026-10-21T190949Z-1432205324-RC2O7OAP55OF-RTRMADP-3-ISRAEL-PALESTINIANS-WEST-BANK-LANDER.jpg",
-          "source": "RFI",
+          "id": "2026-10-22-3b010da4",
+          "title": "Après les débordements du 17 octobre, les médias étrangers étrillent Emmanuel Macron",
+          "description": "Le président français est largement critiqué à l’international pour sa gestion de la crise politique, sociale et économique en cours dans le pays.",
+          "url": "https://www.courrierinternational.com/video/video-apres-les-debordements-du-17-octobre-les-medias-etrangers-etrillent-emmanuel-macron_280606",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/21/0/0/6000/4000/1200/630/60/0/c92b15e_ftp-1-infqprrl1pux-2026-10-21t100728z-1180730329-rc2l7oajms37-rtrmadp-3-gulf-france-qatar.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-21T21:31:06.000Z",
-          "fetchedAt": "2026-10-22T04:59:20.107Z"
-        },
-        {
-          "id": "2026-10-21-5b8edb6d",
-          "title": "Ben Gvir déporte un Gazaoui vers un Paris dévasté ... et généré par IA",
-          "description": "Itamar Ben Gvir, ministre israélien de la Sécurité nationale, a partagé sur X une vidéo générée par IA où il prend les traits d'un génie, accédant au \"voeu\" d'un Gazaoui en le déportant par magie vers un Paris en ruines après les manifestations du 17 octobre. Une provocation qui a déclenché une joute en ligne avec le Quai d'Orsay, et qui illustre l'omniprésence de l'IA dans la campagne électorale israélienne à l'aube du scrutin du 27 octobre.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261021-ben-gvir-d%C3%A9porte-un-gazaoui-vers-un-paris-d%C3%A9vast%C3%A9-et-g%C3%A9n%C3%A9r%C3%A9-par-ia",
-          "imageUrl": "https://s.france24.com/media/display/c63cf422-cd8e-11f1-90ba-4da0d2c6855d/w:1024/p:16x9/FR-20261021-221856-222450-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-21T21:19:00.000Z",
-          "fetchedAt": "2026-10-22T04:59:15.178Z"
+          "publishedAt": "2026-10-22T15:50:05.000Z",
+          "fetchedAt": "2026-10-23T05:00:20.046Z"
         }
       ]
     },
     {
-      "id": "cluster-36",
-      "topic": "Mercedes sera le premier à proposer une conduite assistée de point à point en Al",
+      "id": "cluster-41",
+      "topic": "Des rafales à plus de 100 km/h : la tempête Austen s’apprête à balayer le nord-o",
       "category": "tech",
       "importance": 9,
       "articles": [
         {
-          "id": "2026-10-21-2399b97b",
-          "title": "Mercedes sera le premier à proposer une conduite assistée de point à point en Allemagne dès fin 2026",
-          "description": "Mercedes ouvrira au premier semestre 2027 les commandes de MB.Drive Assist Pro, sa conduite assistée « de point à point », en Allemagne, avec un accès anticipé dès fin 2026 à Stuttgart et Munich. Le constructeur s'appuie sur un règlement de l'ONU qui pourrait lui ouvrir toute l'Union européenne, alors que le FSD de Tesla attend encore un vote à Bruxelles.",
-          "url": "https://www.numerama.com/vroom/2358121-mercedes-sera-le-premier-a-proposer-une-conduite-assistee-de-point-a-point-en-allemagne-des-fin-2026.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/mercedes-mb-drive-assist-pro-5.jpg?resize=1600,900&key=755f77e2",
+          "id": "2026-10-22-46e1e7f7",
+          "title": "Des rafales à plus de 100 km/h : la tempête Austen s’apprête à balayer le nord-ouest de la France",
+          "description": "La tempête Austen approche de la France. Ce mercredi 21 octobre 2026, Météo-France a prévenu que cette « première tempête de l'automne » s'accompagnerait de rafales supérieures à 100 km/h en Bretagne, en Normandie et dans les Hauts-de-France. 15 départements seront en vigilance orange vent vendredi, dont 3 dès ce jeudi soir.",
+          "url": "https://www.numerama.com/sciences/2358595-des-rafales-a-plus-de-100-km-h-la-tempete-austen-sapprete-a-balayer-le-nord-ouest-de-la-france.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/tempete-austen-meteo-france-vigilance.png?resize=1600,900&key=a0aa8aee",
           "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-10-21T14:00:22.000Z",
-          "fetchedAt": "2026-10-22T04:59:20.335Z"
+          "publishedAt": "2026-10-22T09:50:57.000Z",
+          "fetchedAt": "2026-10-23T05:00:24.113Z"
         },
         {
-          "id": "2026-10-20-7aea481e",
-          "title": "Le parti d’extrême droite allemand AfD victime d’une cyberattaque et d’une fuite de données",
-          "description": "L’affaire a été rendue publique par le quotidien « Bild » mardi, qui évalue à plus de 421 000 le nombre d’e-mails ayant fuité.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/10/20/le-parti-d-extreme-droite-allemand-afd-victime-d-une-cyberattaque-et-d-une-fuite-de-donnees_6797951_4408996.html",
+          "id": "2026-10-22-76dd94d3",
+          "title": "A la Paris Games Week, le grand paradoxe du jeu vidéo en France : une demande dynamique mais des studios en souffrance",
+          "description": "Le plus grand salon français consacré au jeu vidéo ouvre ses portes jeudi 22 octobre. Alors que la pratique reste très répandue dans le pays, les professionnels subissent de plein fouet une violente crise économique, qui ébranle même les champions du secteur.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/10/22/a-la-paris-games-week-le-grand-paradoxe-du-jeu-video-en-france-une-demande-dynamique-mais-des-studios-en-souffrance_6798556_4408996.html",
           "imageUrl": null,
           "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-10-20T15:59:24.000Z",
-          "fetchedAt": "2026-10-22T04:59:20.269Z"
+          "publishedAt": "2026-10-22T04:00:06.000Z",
+          "fetchedAt": "2026-10-23T05:00:23.918Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "Grand âge et bail à nourriture : quand l’acquéreur des biens n’exécute pas son o",
+      "id": "cluster-3",
+      "topic": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-10-22-f9e1ec40",
-          "title": "Grand âge et bail à nourriture : quand l’acquéreur des biens n’exécute pas son obligation d’entretien",
-          "description": "La maison et les terres peuvent être restituées au vendeur qui n’a pas reçu les soins promis en contrepartie du prix.",
-          "url": "https://www.lemonde.fr/argent/article/2026/10/22/grand-age-et-bail-a-nourriture-quand-l-acquereur-des-biens-n-execute-pas-son-obligation-d-entretien_6798563_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-10-22-76f9674c",
+          "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+          "description": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+          "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c74/live/1831c620-ce40-11f1-9a39-31b474234113.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-10-22T04:00:38.000Z",
-          "fetchedAt": "2026-10-22T04:59:26.785Z"
+          "publishedAt": "2026-10-22T23:20:38.000Z",
+          "fetchedAt": "2026-10-23T05:00:28.527Z"
         }
       ]
     }
