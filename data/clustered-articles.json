@@ -1,220 +1,242 @@
 {
-  "generatedAt": "2026-10-23T05:04:20.529Z",
+  "generatedAt": "2026-10-24T04:49:13.663Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "EN DIRECT, guerre en Ukraine : Donald Trump affirme qu’Elon Musk a relancé son r",
+      "topic": "États-Unis: le redécoupage électoral peut-il sauver les midterms de Donald Trump",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-23-586d35bf",
-          "title": "EN DIRECT, guerre en Ukraine : Donald Trump affirme qu’Elon Musk a relancé son réseau satellitaire Starlink pour Kiev",
-          "description": "Le « Wall Street Journal » a rapporté que, selon des responsables américains, le président républicain avait appelé Elon Musk, mercredi, pour lui demander de lever le bridage du système. L’Ukraine avait fait état de limitations dans sa capacité de connexion à ce service crucial dans la guerre contre la Russie.",
-          "url": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-kiev_6796922_3210.html",
+          "id": "2026-10-24-ed85a2fc",
+          "title": "États-Unis: le redécoupage électoral peut-il sauver les midterms de Donald Trump?",
+          "description": "Vieux de plus de deux siècles, le « gerrymandering » – le redécoupage des cartes électorales à des fins partisanes – est fréquemment utilisé aux États-Unis à l’approche des élections de mi-mandat du 3 novembre pour chercher à grapiller quelques sièges au Congrès. Depuis l’année dernière, Donald Trump tente de mettre le stratagème à profit autant que faire se peut… sans garantie qu'il porte ses fruits.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-%C3%A9tats-unis-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-sauver-les-midterms-de-donald-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/ea4b9c72-b4f9-11f1-8e27-0730212ba17f/w:1024/p:16x9/2026-09-16T224957Z-1146010495-RC2MKNA3LMF0-RTRMADP-3-USA-FED-TRUMP.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-24T04:14:00.000Z",
+          "fetchedAt": "2026-10-24T04:45:18.761Z"
+        },
+        {
+          "id": "2026-10-24-14ce75d9",
+          "title": "Donald Trump a fait déposer un recours préventif en cas de défaite du candidat républicain lors du scrutin sénatorial en Alaska",
+          "description": "Le président américain a dit avoir demandé à son administration de bloquer la validation des résultats en cas de succès démocrate, arguant que la présence d’un candidat homonyme au sénateur républicain sortant pouvait induire en erreur les électeurs.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-23T04:39:42.000Z",
-          "fetchedAt": "2026-10-23T05:00:19.991Z"
+          "publishedAt": "2026-10-24T01:26:30.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.273Z"
         },
         {
-          "id": "2026-10-23-9c4f9bdc",
-          "title": "Trump affirme que Musk a levé les restrictions sur le réseau satellitaire Starshield en Ukraine",
-          "description": "Selon une information du Wall Street Journal, le président républicain avait appelé le patron de SpaceX mercredi pour lui demander de lever le bridage de ce système de communication crucial pour l’armée ukrainienne. À Kiev, les restrictions constatées ont renforcé les inquiétudes face à l’affaiblissement du soutien américain à l’Ukraine.",
-          "url": "https://www.courrierinternational.com/article/trump-affirme-que-musk-a-leve-les-restrictions-sur-le-reseau-satellitaire-starshield-en-ukraine_280703",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/15/167/0/7879/5252/1200/630/60/0/2c7514c_ftp-1-ys4fuxoidc1e-2026-10-15t222626z-799024124-rc2zudaqsorp-rtrmadp-3-ukraine-crisis-starshield.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T04:13:33.000Z",
-          "fetchedAt": "2026-10-23T05:00:20.046Z"
-        },
-        {
-          "id": "2026-10-22-2fc55096",
-          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-          "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4438/live/13dc7b20-ce53-11f1-a7e5-1bf3b637cfc1.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-22T21:42:39.000Z",
-          "fetchedAt": "2026-10-23T05:00:24.051Z"
-        },
-        {
-          "id": "2026-10-22-2c599b14",
-          "title": "Midterms 2026 : comment Donald Trump profite de la crise politique en France",
-          "description": "« L’insistance de Donald Trump à évoquer les événements en France correspond à une stratégie politique », explique notre correspondant à Washington, Piotr Smolar.",
-          "url": "https://www.lemonde.fr/international/video/2026/10/22/midterms-2026-comment-donald-trump-profite-de-la-crise-politique-en-france_6798637_3210.html",
+          "id": "2026-10-23-9d198683",
+          "title": "Argentine : non-lieu pour le président Javier Milei dans l’affaire d’une cryptomonnaie effondrée",
+          "description": "Le dirigeant ultralibéral avait relayé, sur X, le lancement de la $LIBRA en 2025, avant d’effacer son message. Entretemps, la monnaie avait bondi puis s’était effondrée, provoquant des pertes pour plus de 114 000 portefeuilles virtuels, et l’ouverture d’une enquête pour escroquerie présumée.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/24/argentine-non-lieu-pour-le-president-javier-milei-dans-l-affaire-d-une-cryptomonnaie-effondree_6799280_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-22T15:10:19.000Z",
-          "fetchedAt": "2026-10-23T05:00:19.991Z"
+          "publishedAt": "2026-10-23T23:44:16.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.273Z"
+        },
+        {
+          "id": "2026-10-23-4657249b",
+          "title": "Ebola en RDC : un essai clinique du vaccin Tumaini a débuté, selon l’OMS",
+          "description": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaïre, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
+          "url": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T23:07:05.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.273Z"
+        },
+        {
+          "id": "2026-10-23-557530c5",
+          "title": "Kenya: un immeuble de 18 étages en construction s'effondre à Nairobi",
+          "description": "Au Kenya, inquiétudes après l’effondrement d’un immeuble en construction à Nairobi, la capitale. L’immeuble faisait environ 16 étages selon les autorités et s’est effondré dans le quartier populaire et très dense d’Eastleigh, dans l’est de Nairobi aux alentours de 13h40 heure locale. Le bilan humain n’est pas encore connu, mais sept personnes sont portées disparues et deux blessés ont déjà été secourus selon la Croix-Rouge kényane. Les autorités craignent que plusieurs personnes soient coincées sous les gravats. Les opérations de sauvetage se poursuivent.",
+          "url": "https://www.rfi.fr/fr/afrique/20261023-kenya-un-immeuble-de-18-%C3%A9tages-en-construction-s-effondre-%C3%A0-nairobi",
+          "imageUrl": "https://s.rfi.fr/media/display/803b6a44-cf28-11f1-97a2-4d317af013fd/w:1024/p:16x9/ee6a854c-8565-4a80-a464-f1f106fd10e0.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T21:31:19.000Z",
+          "fetchedAt": "2026-10-24T04:45:18.761Z"
+        },
+        {
+          "id": "2026-10-23-8667f372",
+          "title": "Les États-Unis pourraient frapper l'Iran dès ce week-end, avance un diplomate américain",
+          "description": "L'émissaire américain Tom Barrack a déclaré vendredi lors d'un entretien que les États-Unis pourraient frapper l'Iran dès ce week-end. Des propos qui interviennent après de nombreuses menaces en ce sens de Washington et d'Israël ces derniers jours.",
+          "url": "https://www.france24.com/fr/moyen-orient/20261023-les-%C3%A9tats-unis-pourraient-frapper-l-iran-d%C3%A8s-ce-week-end-avance-un-diplomate-am%C3%A9ricain",
+          "imageUrl": "https://s.france24.com/media/display/12cc8c8a-cf1f-11f1-a70f-5b4a75578ebb/w:1024/p:16x9/2026-07-08T184511Z-354446009-MT1ZUMA000QICAX7-RTRMADP-3-ZUMA.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T20:42:44.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.365Z"
         }
       ]
     },
     {
       "id": "cluster-10",
-      "topic": "Dans le Pacifique, la bataille entre la Chine et l’Australie se joue aux îles Sa",
+      "topic": "Les partisans du Grand Israël avancent leurs pions, à la veille des élections lé",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-23-7a91626b",
-          "title": "Dans le Pacifique, la bataille entre la Chine et l’Australie se joue aux îles Salomon",
-          "description": "En compétition avec Pékin dans toute la zone, Canberra prépare un accord de partenariat avec les îles Salomon. Un pacte qui symbolise la compétition permanente à laquelle se livrent les deux pays pour obtenir les bonnes grâces des États insulaires d’une région hautement stratégique.",
-          "url": "https://www.courrierinternational.com/article/analyse-dans-le-pacifique-la-bataille-entre-la-chine-et-l-australie-se-joue-aux-iles-salomon_278372",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/06/0/0/5724/3816/1200/630/60/0/11fd851_ftp-1-fydqmynh3h95-2026-10-06t035213z-293465224-rc2axnak9x2n-rtrmadp-3-climate-cop31.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T03:00:09.000Z",
-          "fetchedAt": "2026-10-23T05:00:20.046Z"
-        },
-        {
-          "id": "2026-10-22-0ef39768",
-          "title": "Chine : un séisme de magnitude 7 fait de nombreux morts au Tibet",
-          "description": "Au moins 16 personnes, selon un premier bilan donné vendredi, ont été tuées dans un séisme de magnitude 7 dans une région montagneuse du Tibet. Plus de 32 personnes ont été blessées et plus de 300 maisons se sont effondrées.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20261022-chine-un-s%C3%A9isme-de-magnitude-7-fait-de-nombreux-morts-au-tibet",
-          "imageUrl": "https://s.france24.com/media/display/fbbd82cc-ce5d-11f1-97a6-23d55109f116/w:1024/p:16x9/ac629e79b049c0c45210a347ff86908be3a86cb3.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-22T21:17:28.000Z",
-          "fetchedAt": "2026-10-23T05:00:20.073Z"
-        },
-        {
-          "id": "2026-10-22-11c66063",
-          "title": "Moment man rescued from sinking car by Australian TV reporter",
-          "description": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.",
-          "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4a2/live/9b70e050-ce1f-11f1-a64c-550be9e3c66b.png",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-22T11:08:33.000Z",
-          "fetchedAt": "2026-10-23T05:00:24.051Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-11",
-      "topic": "Couvre-feux en France, séisme au Tibet, virus Shamonda, BBC : les informations d",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-10-23-79b701bc",
-          "title": "Couvre-feux en France, séisme au Tibet, virus Shamonda, BBC : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-couvre-feux-en-france-seisme-en-chine-virus-shamonda-bbc-les-informations-de-la-nuit_280702",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/20/0/0/5014/3342/1200/630/60/0/a670b77_ftp-1-kvketwgzkynb-afp-d3wc3ky.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T03:00:04.000Z",
-          "fetchedAt": "2026-10-23T05:00:20.046Z"
-        },
-        {
-          "id": "2026-10-22-bf128800",
-          "title": "Manifestations en France: chez la jeunesse, une mobilisation entre références culturelles et humour acide",
-          "description": "Sur les pancartes, les snaps ou les réels Instagram, la jeunesse française fait preuve d'une très grande créativité pour exprimer ses revendications. Lycéens et étudiants, mobilisés depuis début octobre, ont massivement recours à des références de la culture d'internet, des films, des animes, ainsi qu'à l'histoire et à la littérature.",
-          "url": "https://www.rfi.fr/fr/france/20261022-chez-les-jeunes-fran%C3%A7ais-une-mobilisation-entre-r%C3%A9f%C3%A9rences-culturelles-et-humour-acide",
-          "imageUrl": "https://s.rfi.fr/media/display/6f633d40-ce52-11f1-bab0-23d55109f116/w:1024/p:16x9/2026-10-08T000000Z-1559194778-MT1ABCPR1022229069-RTRMADP-3-FRANCE-EDUCATION-PROTEST.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-22T19:56:34.000Z",
-          "fetchedAt": "2026-10-23T05:00:24.070Z"
-        },
-        {
-          "id": "2026-10-22-a282a0a3",
-          "title": "\"La Chute, France 1940\", autopsie d'un effondrement 1940 : que revèle la défaite française ?",
-          "description": "En mai 1940, la France s’effondre face à l’Allemagne nazie en quelques semaines. Comment expliquer une défaite aussi rapide ? Erreurs militaires, responsabilités politiques et divisions de la société française : dans son nouveau livre, La Chute, France 1940, l’historien britannique Julian Jackson revient sur les causes de cette débâcle et interroge les leçons que l’Europe peut en tirer aujourd’hui, face aux nouvelles menaces qui pèsent sur sa sécurité.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261022-la-chute-france-1940-autopsie-d-un-effondrement-1940-que-rev%C3%A8le-la-d%C3%A9faite-fran%C3%A7aise",
-          "imageUrl": "https://s.france24.com/media/display/6ff6fb66-ce3e-11f1-90b9-23d55109f116/w:1024/p:16x9/FR-20261022-181808-182822-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-22T18:49:32.000Z",
-          "fetchedAt": "2026-10-23T05:00:20.073Z"
-        },
-        {
-          "id": "2026-10-22-f094f50e",
-          "title": "France, Grèce, Italie... Gen Z : un vent de colère en Europe ?",
-          "description": "La génération Z se mobilise massivement en France mais aussi en Grèce, en Espagne, au Portugal et en Italie. Hier, c’était à Athènes et à Thessalonique que lycéens et professeurs ont battu le pavé contre le coût de la vie et l’état des écoles en s’inspirant de la France. Dans l'Hexagone, le gouvernement tente de trouver une réponse politique : Sébastien Lecornu a reçu les partis politiques et les maires de Paris, Lyon et Bordeaux. Le Premier ministre prévoit un dispositif de sécurité massif pour les manifestations de samedi, alors qu'Emmanuel Macron a annoncé que seules celles organisées par des syndicats seront autorisées. Que se passe-t-il en France et en Europe ? Que demande la jeunesse ? Gen Z : un vent de colère en Europe ?",
-          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261022-france-gr%C3%A8ce-italie-gen-z-un-vent-de-col%C3%A8re-en-europe",
-          "imageUrl": "https://s.france24.com/media/display/d9bcbde0-cd5a-11f1-89c8-ab78a7fed2ce/w:1024/p:16x9/2026-10-21T123954Z-770228045-RC2K7OA8CUCO-RTRMADP-3-GREECE-PROTEST-STUDENTS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-22T18:25:38.000Z",
-          "fetchedAt": "2026-10-23T05:00:20.073Z"
-        },
-        {
-          "id": "2026-10-22-a1643d9c",
-          "title": "En Inde, les émeutes du 17 octobre en France instrumentalisées par les médias progouvernementaux et la fachosphère",
-          "description": "Les nationalistes hindous du Bharatiya Janata Party et leurs soutiens, tout comme de nombreuses chaînes de télévision, utilisent les violences en France pour s’attaquer au mouvement des « cafards » en Inde.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/22/en-inde-les-emeutes-du-17-octobre-en-france-instrumentalisees-par-les-medias-progouvernement-et-la-fachosphere_6798642_3210.html",
+          "id": "2026-10-24-639f5298",
+          "title": "Les partisans du Grand Israël avancent leurs pions, à la veille des élections législatives",
+          "description": "A l’approche du scrutin du 27 octobre, des militants israéliens rêvent de repousser les frontières de leur pays au Liban, en Syrie et à Gaza. Ils cherchent à transformer les avancées militaires du pays en nouvelles colonies juives.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/24/les-partisans-du-grand-israel-avancent-leurs-pions-a-la-veille-des-elections-legislatives_6799481_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-22T16:00:09.000Z",
-          "fetchedAt": "2026-10-23T05:00:19.991Z"
+          "publishedAt": "2026-10-24T03:30:22.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.273Z"
         },
         {
-          "id": "2026-10-22-3b010da4",
-          "title": "Après les débordements du 17 octobre, les médias étrangers étrillent Emmanuel Macron",
-          "description": "Le président français est largement critiqué à l’international pour sa gestion de la crise politique, sociale et économique en cours dans le pays.",
-          "url": "https://www.courrierinternational.com/video/video-apres-les-debordements-du-17-octobre-les-medias-etrangers-etrillent-emmanuel-macron_280606",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/21/0/0/6000/4000/1200/630/60/0/c92b15e_ftp-1-infqprrl1pux-2026-10-21t100728z-1180730329-rc2l7oajms37-rtrmadp-3-gulf-france-qatar.JPG",
+          "id": "2026-10-23-bf90d810",
+          "title": "Attaque à Hébron: avec une opération militaire, Benyamin Netanyahu joue la carte de la fermeté avant les législatives",
+          "description": "Israël annonce une opération militaire majeure en Cisjordanie occupée après une attaque ce vendredi 23 octobre 2026 dans la matinée à Hébron, contre un point de contrôle israélien.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20261023-attaque-%C3%A0-h%C3%A9bron-avec-une-op%C3%A9ration-militaire-benyamin-netanyahu-joue-la-carte-de-la-fermet%C3%A9-avant-les-l%C3%A9gislatives",
+          "imageUrl": "https://s.rfi.fr/media/display/69995c96-cf1a-11f1-94be-5b4a75578ebb/w:1024/p:16x9/2026-10-23T114848Z-689698360-RC2Y8OA7V0ZY-RTRMADP-3-ISRAEL-PALESTINIANS-ATTACK-WEST-BANK.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T19:55:54.000Z",
+          "fetchedAt": "2026-10-24T04:45:18.761Z"
+        },
+        {
+          "id": "2026-10-23-e8063272",
+          "title": "Fausse image d'un couple agressé : quel est le site d'actualité pro-israélien derrière cette intox ?",
+          "description": "L'image générée par intelligence artificielle d'un couple de seniors, qui aurait été agressé lors de la journée de manifestations du 17 octobre en France, a été créée par un site israélien francophone, Infos Israel News. Ce site d'actualité, au discours pro-israélien et ultra-conservateur, produit une grande partie de ses contenus avec l'IA.",
+          "url": "https://www.france24.com/fr/france/20261023-fausse-image-couple-agress%C3%A9-quel-est-site-d-actualit%C3%A9-pro-isra%C3%A9lien-derri%C3%A8re-intox",
+          "imageUrl": "https://s.france24.com/media/display/d2fe96c0-ceec-11f1-8290-bdb9616e85cf/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-27-1.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T16:06:38.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.365Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-14",
+      "topic": "Pourquoi la rue française s’embrase perpétuellement",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-10-24-07c4098f",
+          "title": "Pourquoi la rue française s’embrase perpétuellement",
+          "description": "Au-delà des clichés et des commentaires effarés sur le 17 octobre, cet historien de l’université d’Édimbourg cherche les raisons qui font de la France une terre de contestation. Pour lui, cette tradition se perpétue en réponse à un État centralisé et autoritaire, qui a souvent le plus grand mal à réagir aux mobilisations.",
+          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-pourquoi-la-rue-francaise-s-embrase-perpetuellement_279982",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/22/0/0/3000/2000/1200/630/60/0/742e144_upload-1-5pyab1epkduh-chappatte-2026-10-15-7325.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-22T15:50:05.000Z",
-          "fetchedAt": "2026-10-23T05:00:20.046Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-41",
-      "topic": "Des rafales à plus de 100 km/h : la tempête Austen s’apprête à balayer le nord-o",
-      "category": "tech",
-      "importance": 9,
-      "articles": [
-        {
-          "id": "2026-10-22-46e1e7f7",
-          "title": "Des rafales à plus de 100 km/h : la tempête Austen s’apprête à balayer le nord-ouest de la France",
-          "description": "La tempête Austen approche de la France. Ce mercredi 21 octobre 2026, Météo-France a prévenu que cette « première tempête de l'automne » s'accompagnerait de rafales supérieures à 100 km/h en Bretagne, en Normandie et dans les Hauts-de-France. 15 départements seront en vigilance orange vent vendredi, dont 3 dès ce jeudi soir.",
-          "url": "https://www.numerama.com/sciences/2358595-des-rafales-a-plus-de-100-km-h-la-tempete-austen-sapprete-a-balayer-le-nord-ouest-de-la-france.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/tempete-austen-meteo-france-vigilance.png?resize=1600,900&key=a0aa8aee",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-10-22T09:50:57.000Z",
-          "fetchedAt": "2026-10-23T05:00:24.113Z"
+          "publishedAt": "2026-10-24T03:00:13.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.289Z"
         },
         {
-          "id": "2026-10-22-76dd94d3",
-          "title": "A la Paris Games Week, le grand paradoxe du jeu vidéo en France : une demande dynamique mais des studios en souffrance",
-          "description": "Le plus grand salon français consacré au jeu vidéo ouvre ses portes jeudi 22 octobre. Alors que la pratique reste très répandue dans le pays, les professionnels subissent de plein fouet une violente crise économique, qui ébranle même les champions du secteur.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/10/22/a-la-paris-games-week-le-grand-paradoxe-du-jeu-video-en-france-une-demande-dynamique-mais-des-studios-en-souffrance_6798556_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-10-22T04:00:06.000Z",
-          "fetchedAt": "2026-10-23T05:00:23.918Z"
+          "id": "2026-10-23-487e5ed6",
+          "title": "Manifestations en France: un «acte II» sous haute surveillance, les manifestants entre peur et détermination",
+          "description": "Une nouvelle manifestation nationale est prévue samedi 24 octobre en France, mais par peur des débordements de la semaine précédente, le gouvernement et les préfectures ont pris des mesures fortes. Interdictions de manifester à Lyon, Toulon, Rouen et au Mans. Un dispositif policier massif, et surtout le déploiement des militaires Sentinelle pour sécuriser certains sites, de quoi refroidir ou du moins inquiéter certains manifestants.",
+          "url": "https://www.rfi.fr/fr/france/20261023-manifestations-en-france-un-acte-ii-sous-haute-surveillance-les-manifestants-entre-peur-et-d%C3%A9termination",
+          "imageUrl": "https://s.rfi.fr/media/display/1784ed84-cf2a-11f1-b188-4d317af013fd/w:1024/p:16x9/AP26296411437511.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T22:00:49.000Z",
+          "fetchedAt": "2026-10-24T04:45:18.761Z"
+        },
+        {
+          "id": "2026-10-23-59ac5c61",
+          "title": "Attentat à Trappes: Emmanuel Macron tente d'unir plutôt que de diviser, la gauche fustige le racisme décomplexé",
+          "description": "C’est un attentat terroriste raciste qui s’est produit à Trappes, en région parisienne, ce vendredi 23 octobre, faisant un mort et cinq blessés. L’auteur présumé, âgé d’une trentaine d’années, a tiré en rafale à divers endroits avec une arme semi-automatique pour atteindre des personnes issues de l’immigration. Face à la gravité des faits, le président Macron s’est rendu sur place dans la soirée.",
+          "url": "https://www.rfi.fr/fr/france/20261023-attentat-%C3%A0-trappes-emmanuel-macron-tente-d-unir-plut%C3%B4t-que-de-diviser-la-gauche-fustige-le-racisme-d%C3%A9complex%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/26f34320-cf0b-11f1-a3e4-5b4a75578ebb/w:1024/p:16x9/089585c2c4a326211739ce6cc6dc83c5d925c1d1.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T21:46:08.000Z",
+          "fetchedAt": "2026-10-24T04:45:18.761Z"
+        },
+        {
+          "id": "2026-10-23-3c12bb8b",
+          "title": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappes",
+          "description": "Le président Emmanuel Macron a dénoncé vendredi soir à Trappes un \"attentat terroriste raciste\" et a appelé à l'unité, après la fusillade survenue dans la matinée, qui a fait un mort et plusieurs blessés. Une enquête a été ouverte par le Parquet national antiterroriste.",
+          "url": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+          "imageUrl": "https://s.france24.com/media/display/10d79bd4-cf08-11f1-a815-bba4eee3dc72/w:1024/p:16x9/c72450042ec681bdd95a3809c927a4b194b1bef3.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T19:57:19.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.365Z"
+        },
+        {
+          "id": "2026-10-23-34ca37fd",
+          "title": "🔴 En direct : Macron évoque \"un tournant\" et dénonce un \"attentat\" commis \"sur la base d'une idéologie raciste\"",
+          "description": "",
+          "url": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
+          "imageUrl": "https://s.france24.com/media/display/372fce96-cf0d-11f1-aa6c-4d317af013fd/w:1280/p:16x9/2026-10-23T175259Z-461403659-RC259OAJEEHX-RTRMADP-3-FRANCE-SECURITY-SHOOTING-MACRON.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T18:15:49.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.365Z"
+        },
+        {
+          "id": "2026-10-23-63405af5",
+          "title": "Détrompez-vous, ces jeunes Français savent très bien ce qu’ils font",
+          "description": "À la suite des manifestations du 17 octobre, le quotidien communiste italien “Il Manifesto” signe un éditorial chargé d’émotion. Les jeunes qui sont descendus dans la rue, loin d’être des “professionnels du chaos”, ont montré qu’ils avaient les idées parfaitement claires. Des idées politiques, un antifascisme affirmé et une conscience d’être face à un tournant décisif pour la France.",
+          "url": "https://www.courrierinternational.com/article/vu-d-italie-detrompez-vous-ces-jeunes-francais-savent-tres-bien-ce-qu-ils-font_280616",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/23/262/0/5968/3978/1200/630/60/0/7b2484a_upload-1-bgty0usok5st-080-hl-mtirler-3348461.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-23T17:04:02.000Z",
+          "fetchedAt": "2026-10-24T04:45:13.289Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "id": "cluster-6",
+      "topic": "L’agence Moody’s ne dégrade pas la note de la France malgré l’incertitude budgét",
       "category": "eco",
-      "importance": 7,
+      "importance": 8,
       "articles": [
         {
-          "id": "2026-10-22-76f9674c",
-          "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-          "description": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-          "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c74/live/1831c620-ce40-11f1-9a39-31b474234113.jpg",
-          "source": "BBC Business",
+          "id": "2026-10-23-341e54c4",
+          "title": "L’agence Moody’s ne dégrade pas la note de la France malgré l’incertitude budgétaire et politique",
+          "description": "Contrairement aux prévisions de beaucoup d’économistes, l’entreprise américaine de notation a maintenu, vendredi, la note de la dette souveraine à Aa3, se démarquant de l’appréciation portée par les agences S&P et Fitch sur la solvabilité française.",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/24/l-agence-moody-s-ne-degrade-pas-la-note-de-la-france-malgre-l-incertitude-budgetaire-et-politique_6799214_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
           "category": "eco",
-          "publishedAt": "2026-10-22T23:20:38.000Z",
-          "fetchedAt": "2026-10-23T05:00:28.527Z"
+          "publishedAt": "2026-10-23T22:52:22.000Z",
+          "fetchedAt": "2026-10-24T04:45:22.745Z"
+        },
+        {
+          "id": "2026-10-23-e7813fb3",
+          "title": "Tempête Austen : les transports dans le nord-ouest de la France fortement perturbés vendredi",
+          "description": "La circulation de nombreux trains est interrompue en Normandie, en Ile-de-France, en Bretagne et dans les Hauts-de-France, et des restrictions de circulation ont été mises en place sur le réseau routier dans l’ouest du pays.",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/23/tempete-austen-les-transports-dans-le-nord-ouest-de-la-france-fortement-perturbes-vendredi_6799037_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-10-23T08:04:26.000Z",
+          "fetchedAt": "2026-10-24T04:45:22.745Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "NASA updates lander plans for Moon landings, finally solves long-festering Orion",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-10-23-94538d59",
+          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+          "description": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+          "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-10-23T22:48:25.000Z",
+          "fetchedAt": "2026-10-24T04:45:22.762Z"
         }
       ]
     }
