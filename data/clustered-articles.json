@@ -1,242 +1,176 @@
 {
-  "generatedAt": "2026-10-24T04:49:13.663Z",
+  "generatedAt": "2026-10-25T04:56:34.869Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "États-Unis: le redécoupage électoral peut-il sauver les midterms de Donald Trump",
+      "id": "cluster-3",
+      "topic": "A Gaza, au Liban et en Syrie, comment Israël utilise les « zones tampons » pour ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-24-ed85a2fc",
-          "title": "États-Unis: le redécoupage électoral peut-il sauver les midterms de Donald Trump?",
-          "description": "Vieux de plus de deux siècles, le « gerrymandering » – le redécoupage des cartes électorales à des fins partisanes – est fréquemment utilisé aux États-Unis à l’approche des élections de mi-mandat du 3 novembre pour chercher à grapiller quelques sièges au Congrès. Depuis l’année dernière, Donald Trump tente de mettre le stratagème à profit autant que faire se peut… sans garantie qu'il porte ses fruits.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-%C3%A9tats-unis-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-sauver-les-midterms-de-donald-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/ea4b9c72-b4f9-11f1-8e27-0730212ba17f/w:1024/p:16x9/2026-09-16T224957Z-1146010495-RC2MKNA3LMF0-RTRMADP-3-USA-FED-TRUMP.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-24T04:14:00.000Z",
-          "fetchedAt": "2026-10-24T04:45:18.761Z"
-        },
-        {
-          "id": "2026-10-24-14ce75d9",
-          "title": "Donald Trump a fait déposer un recours préventif en cas de défaite du candidat républicain lors du scrutin sénatorial en Alaska",
-          "description": "Le président américain a dit avoir demandé à son administration de bloquer la validation des résultats en cas de succès démocrate, arguant que la présence d’un candidat homonyme au sénateur républicain sortant pouvait induire en erreur les électeurs.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html",
+          "id": "2026-10-25-a2017fe8",
+          "title": "A Gaza, au Liban et en Syrie, comment Israël utilise les « zones tampons » pour étendre sa domination régionale",
+          "description": "Depuis le « cessez-le-feu » d’octobre 2025, l’Etal hébreu présente les territoires qu’il occupe sur ces trois fronts comme des ceintures de sécurité, destinées à protéger ses frontières. Dans ces zones, le déploiement de l’armée s’accompagne de destructions massives, de déplacements de population et de nouvelles infrastructures militaires dont rien ne garantit le caractère provisoire.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/25/a-gaza-au-liban-et-en-syrie-comment-israel-utilise-les-zones-tampons-pour-etendre-sa-domination-regionale_6800032_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-24T01:26:30.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.273Z"
+          "publishedAt": "2026-10-25T04:30:15.000Z",
+          "fetchedAt": "2026-10-25T04:52:34.309Z"
         },
         {
-          "id": "2026-10-23-9d198683",
-          "title": "Argentine : non-lieu pour le président Javier Milei dans l’affaire d’une cryptomonnaie effondrée",
-          "description": "Le dirigeant ultralibéral avait relayé, sur X, le lancement de la $LIBRA en 2025, avant d’effacer son message. Entretemps, la monnaie avait bondi puis s’était effondrée, provoquant des pertes pour plus de 114 000 portefeuilles virtuels, et l’ouverture d’une enquête pour escroquerie présumée.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/24/argentine-non-lieu-pour-le-president-javier-milei-dans-l-affaire-d-une-cryptomonnaie-effondree_6799280_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-10-24-3fcd6f10",
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+          "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+          "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-10-23T23:44:16.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.273Z"
-        },
-        {
-          "id": "2026-10-23-4657249b",
-          "title": "Ebola en RDC : un essai clinique du vaccin Tumaini a débuté, selon l’OMS",
-          "description": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaïre, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
-          "url": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T23:07:05.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.273Z"
-        },
-        {
-          "id": "2026-10-23-557530c5",
-          "title": "Kenya: un immeuble de 18 étages en construction s'effondre à Nairobi",
-          "description": "Au Kenya, inquiétudes après l’effondrement d’un immeuble en construction à Nairobi, la capitale. L’immeuble faisait environ 16 étages selon les autorités et s’est effondré dans le quartier populaire et très dense d’Eastleigh, dans l’est de Nairobi aux alentours de 13h40 heure locale. Le bilan humain n’est pas encore connu, mais sept personnes sont portées disparues et deux blessés ont déjà été secourus selon la Croix-Rouge kényane. Les autorités craignent que plusieurs personnes soient coincées sous les gravats. Les opérations de sauvetage se poursuivent.",
-          "url": "https://www.rfi.fr/fr/afrique/20261023-kenya-un-immeuble-de-18-%C3%A9tages-en-construction-s-effondre-%C3%A0-nairobi",
-          "imageUrl": "https://s.rfi.fr/media/display/803b6a44-cf28-11f1-97a2-4d317af013fd/w:1024/p:16x9/ee6a854c-8565-4a80-a464-f1f106fd10e0.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T21:31:19.000Z",
-          "fetchedAt": "2026-10-24T04:45:18.761Z"
-        },
-        {
-          "id": "2026-10-23-8667f372",
-          "title": "Les États-Unis pourraient frapper l'Iran dès ce week-end, avance un diplomate américain",
-          "description": "L'émissaire américain Tom Barrack a déclaré vendredi lors d'un entretien que les États-Unis pourraient frapper l'Iran dès ce week-end. Des propos qui interviennent après de nombreuses menaces en ce sens de Washington et d'Israël ces derniers jours.",
-          "url": "https://www.france24.com/fr/moyen-orient/20261023-les-%C3%A9tats-unis-pourraient-frapper-l-iran-d%C3%A8s-ce-week-end-avance-un-diplomate-am%C3%A9ricain",
-          "imageUrl": "https://s.france24.com/media/display/12cc8c8a-cf1f-11f1-a70f-5b4a75578ebb/w:1024/p:16x9/2026-07-08T184511Z-354446009-MT1ZUMA000QICAX7-RTRMADP-3-ZUMA.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T20:42:44.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.365Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-10",
-      "topic": "Les partisans du Grand Israël avancent leurs pions, à la veille des élections lé",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-10-24-639f5298",
-          "title": "Les partisans du Grand Israël avancent leurs pions, à la veille des élections législatives",
-          "description": "A l’approche du scrutin du 27 octobre, des militants israéliens rêvent de repousser les frontières de leur pays au Liban, en Syrie et à Gaza. Ils cherchent à transformer les avancées militaires du pays en nouvelles colonies juives.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/24/les-partisans-du-grand-israel-avancent-leurs-pions-a-la-veille-des-elections-legislatives_6799481_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-24T03:30:22.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.273Z"
-        },
-        {
-          "id": "2026-10-23-bf90d810",
-          "title": "Attaque à Hébron: avec une opération militaire, Benyamin Netanyahu joue la carte de la fermeté avant les législatives",
-          "description": "Israël annonce une opération militaire majeure en Cisjordanie occupée après une attaque ce vendredi 23 octobre 2026 dans la matinée à Hébron, contre un point de contrôle israélien.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20261023-attaque-%C3%A0-h%C3%A9bron-avec-une-op%C3%A9ration-militaire-benyamin-netanyahu-joue-la-carte-de-la-fermet%C3%A9-avant-les-l%C3%A9gislatives",
-          "imageUrl": "https://s.rfi.fr/media/display/69995c96-cf1a-11f1-94be-5b4a75578ebb/w:1024/p:16x9/2026-10-23T114848Z-689698360-RC2Y8OA7V0ZY-RTRMADP-3-ISRAEL-PALESTINIANS-ATTACK-WEST-BANK.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T19:55:54.000Z",
-          "fetchedAt": "2026-10-24T04:45:18.761Z"
-        },
-        {
-          "id": "2026-10-23-e8063272",
-          "title": "Fausse image d'un couple agressé : quel est le site d'actualité pro-israélien derrière cette intox ?",
-          "description": "L'image générée par intelligence artificielle d'un couple de seniors, qui aurait été agressé lors de la journée de manifestations du 17 octobre en France, a été créée par un site israélien francophone, Infos Israel News. Ce site d'actualité, au discours pro-israélien et ultra-conservateur, produit une grande partie de ses contenus avec l'IA.",
-          "url": "https://www.france24.com/fr/france/20261023-fausse-image-couple-agress%C3%A9-quel-est-site-d-actualit%C3%A9-pro-isra%C3%A9lien-derri%C3%A8re-intox",
-          "imageUrl": "https://s.france24.com/media/display/d2fe96c0-ceec-11f1-8290-bdb9616e85cf/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-27-1.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T16:06:38.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.365Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-14",
-      "topic": "Pourquoi la rue française s’embrase perpétuellement",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-10-24-07c4098f",
-          "title": "Pourquoi la rue française s’embrase perpétuellement",
-          "description": "Au-delà des clichés et des commentaires effarés sur le 17 octobre, cet historien de l’université d’Édimbourg cherche les raisons qui font de la France une terre de contestation. Pour lui, cette tradition se perpétue en réponse à un État centralisé et autoritaire, qui a souvent le plus grand mal à réagir aux mobilisations.",
-          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-pourquoi-la-rue-francaise-s-embrase-perpetuellement_279982",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/22/0/0/3000/2000/1200/630/60/0/742e144_upload-1-5pyab1epkduh-chappatte-2026-10-15-7325.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-24T03:00:13.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.289Z"
-        },
-        {
-          "id": "2026-10-23-487e5ed6",
-          "title": "Manifestations en France: un «acte II» sous haute surveillance, les manifestants entre peur et détermination",
-          "description": "Une nouvelle manifestation nationale est prévue samedi 24 octobre en France, mais par peur des débordements de la semaine précédente, le gouvernement et les préfectures ont pris des mesures fortes. Interdictions de manifester à Lyon, Toulon, Rouen et au Mans. Un dispositif policier massif, et surtout le déploiement des militaires Sentinelle pour sécuriser certains sites, de quoi refroidir ou du moins inquiéter certains manifestants.",
-          "url": "https://www.rfi.fr/fr/france/20261023-manifestations-en-france-un-acte-ii-sous-haute-surveillance-les-manifestants-entre-peur-et-d%C3%A9termination",
-          "imageUrl": "https://s.rfi.fr/media/display/1784ed84-cf2a-11f1-b188-4d317af013fd/w:1024/p:16x9/AP26296411437511.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T22:00:49.000Z",
-          "fetchedAt": "2026-10-24T04:45:18.761Z"
-        },
-        {
-          "id": "2026-10-23-59ac5c61",
-          "title": "Attentat à Trappes: Emmanuel Macron tente d'unir plutôt que de diviser, la gauche fustige le racisme décomplexé",
-          "description": "C’est un attentat terroriste raciste qui s’est produit à Trappes, en région parisienne, ce vendredi 23 octobre, faisant un mort et cinq blessés. L’auteur présumé, âgé d’une trentaine d’années, a tiré en rafale à divers endroits avec une arme semi-automatique pour atteindre des personnes issues de l’immigration. Face à la gravité des faits, le président Macron s’est rendu sur place dans la soirée.",
-          "url": "https://www.rfi.fr/fr/france/20261023-attentat-%C3%A0-trappes-emmanuel-macron-tente-d-unir-plut%C3%B4t-que-de-diviser-la-gauche-fustige-le-racisme-d%C3%A9complex%C3%A9",
-          "imageUrl": "https://s.rfi.fr/media/display/26f34320-cf0b-11f1-a3e4-5b4a75578ebb/w:1024/p:16x9/089585c2c4a326211739ce6cc6dc83c5d925c1d1.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T21:46:08.000Z",
-          "fetchedAt": "2026-10-24T04:45:18.761Z"
-        },
-        {
-          "id": "2026-10-23-3c12bb8b",
-          "title": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappes",
-          "description": "Le président Emmanuel Macron a dénoncé vendredi soir à Trappes un \"attentat terroriste raciste\" et a appelé à l'unité, après la fusillade survenue dans la matinée, qui a fait un mort et plusieurs blessés. Une enquête a été ouverte par le Parquet national antiterroriste.",
-          "url": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
-          "imageUrl": "https://s.france24.com/media/display/10d79bd4-cf08-11f1-a815-bba4eee3dc72/w:1024/p:16x9/c72450042ec681bdd95a3809c927a4b194b1bef3.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T19:57:19.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.365Z"
-        },
-        {
-          "id": "2026-10-23-34ca37fd",
-          "title": "🔴 En direct : Macron évoque \"un tournant\" et dénonce un \"attentat\" commis \"sur la base d'une idéologie raciste\"",
-          "description": "",
-          "url": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
-          "imageUrl": "https://s.france24.com/media/display/372fce96-cf0d-11f1-aa6c-4d317af013fd/w:1280/p:16x9/2026-10-23T175259Z-461403659-RC259OAJEEHX-RTRMADP-3-FRANCE-SECURITY-SHOOTING-MACRON.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T18:15:49.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.365Z"
-        },
-        {
-          "id": "2026-10-23-63405af5",
-          "title": "Détrompez-vous, ces jeunes Français savent très bien ce qu’ils font",
-          "description": "À la suite des manifestations du 17 octobre, le quotidien communiste italien “Il Manifesto” signe un éditorial chargé d’émotion. Les jeunes qui sont descendus dans la rue, loin d’être des “professionnels du chaos”, ont montré qu’ils avaient les idées parfaitement claires. Des idées politiques, un antifascisme affirmé et une conscience d’être face à un tournant décisif pour la France.",
-          "url": "https://www.courrierinternational.com/article/vu-d-italie-detrompez-vous-ces-jeunes-francais-savent-tres-bien-ce-qu-ils-font_280616",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/23/262/0/5968/3978/1200/630/60/0/7b2484a_upload-1-bgty0usok5st-080-hl-mtirler-3348461.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-23T17:04:02.000Z",
-          "fetchedAt": "2026-10-24T04:45:13.289Z"
+          "publishedAt": "2026-10-24T23:02:06.000Z",
+          "fetchedAt": "2026-10-25T04:52:39.378Z"
         }
       ]
     },
     {
       "id": "cluster-6",
-      "topic": "L’agence Moody’s ne dégrade pas la note de la France malgré l’incertitude budgét",
-      "category": "eco",
-      "importance": 8,
+      "topic": "Nous, les Brésiliens, sommes beaucoup à avoir peur",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-10-23-341e54c4",
-          "title": "L’agence Moody’s ne dégrade pas la note de la France malgré l’incertitude budgétaire et politique",
-          "description": "Contrairement aux prévisions de beaucoup d’économistes, l’entreprise américaine de notation a maintenu, vendredi, la note de la dette souveraine à Aa3, se démarquant de l’appréciation portée par les agences S&P et Fitch sur la solvabilité française.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/24/l-agence-moody-s-ne-degrade-pas-la-note-de-la-france-malgre-l-incertitude-budgetaire-et-politique_6799214_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-23T22:52:22.000Z",
-          "fetchedAt": "2026-10-24T04:45:22.745Z"
+          "id": "2026-10-25-f4a150ae",
+          "title": "Nous, les Brésiliens, sommes beaucoup à avoir peur",
+          "description": "Dans une tribune parue dans “El País América”, la journaliste brésilienne Eliane Brum lance un cri d’alerte sur les risques de destruction de la démocratie brésilienne, de l’Amazonie, et de la vie de nombreuses personnes, en cas de victoire de Flavio Bolsonaro face à Lula au second tour de l’élection présidentielle, ce dimanche 25 octobre.",
+          "url": "https://www.courrierinternational.com/article/opinion-nous-les-bresiliens-sommes-beaucoup-a-avoir-peur_280371",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/21/0/0/4723/3149/1200/630/60/0/563c11f_ftp-1-nulz6pj66ede-afp-d3zf3b7.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-25T04:00:32.000Z",
+          "fetchedAt": "2026-10-25T04:52:34.340Z"
         },
         {
-          "id": "2026-10-23-e7813fb3",
-          "title": "Tempête Austen : les transports dans le nord-ouest de la France fortement perturbés vendredi",
-          "description": "La circulation de nombreux trains est interrompue en Normandie, en Ile-de-France, en Bretagne et dans les Hauts-de-France, et des restrictions de circulation ont été mises en place sur le réseau routier dans l’ouest du pays.",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/23/tempete-austen-les-transports-dans-le-nord-ouest-de-la-france-fortement-perturbes-vendredi_6799037_3234.html",
+          "id": "2026-10-25-e09723a7",
+          "title": "Au Brésil, Lula et Flavio Bolsonaro sont au coude-à-coude après une campagne de l’entre-deux-tours à couteaux tirés",
+          "description": "En retard sur le candidat d’extrême droite à l’issue du premier tour de la présidentielle, le 4 octobre, le président a depuis bénéficié de la mobilisation massive de ses partisans. Et a pris quelques mesures de dernière minute pour tenter de remporter un quatrième mandat à l’issue du second tour, ce dimanche.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-lula-et-flavio-bolsonaro-sont-au-coude-a-coude-apres-une-campagne-de-l-entre-deux-tours-a-couteaux-tires_6799995_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-10-23T08:04:26.000Z",
-          "fetchedAt": "2026-10-24T04:45:22.745Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-25T04:00:13.000Z",
+          "fetchedAt": "2026-10-25T04:52:34.309Z"
+        },
+        {
+          "id": "2026-10-25-138eb7e1",
+          "title": "Brésil: ultimes démonstrations de force dans la rue pour Bolsonaro et Lula",
+          "description": "Une marée rouge a déferlé samedi 24 octobre le long de la plage de Copacabana, à Rio de Janeiro, puis à São Paulo, en soutien au président brésilien Lula. Le conservateur Flavio Bolsonaro a aussi mobilisé en masse à la veille d'un second tour à suspense.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261025-br%C3%A9sil-ultimes-d%C3%A9monstrations-de-force-dans-la-rue-pour-bolsonaro-et-lula",
+          "imageUrl": "https://s.rfi.fr/media/display/d8324d08-d00e-11f1-86a5-4b25c96ec90e/w:1024/p:16x9/meetings-bolsonaro-lula.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-25T03:30:49.000Z",
+          "fetchedAt": "2026-10-25T04:52:39.302Z"
+        },
+        {
+          "id": "2026-10-24-38f7b1c8",
+          "title": "Des réseaux sociaux aux sièges d’élus : l’ascension des influenceurs politiques au Brésil",
+          "description": "Les législatives brésiliennes du 4 octobre ont vu plusieurs jeunes personnalités, souvent novices en politique mais très populaires sur les réseaux sociaux, réaliser des scores spectaculaires, surtout chez les conservateurs. À l’approche du second tour de la présidentielle, dimanche 25 octobre, le camp du président de gauche Lula, devancé au premier tour par le candidat d’extrême droite Flávio Bolsonaro, cherche à rattraper son retard sur le terrain numérique.",
+          "url": "https://www.courrierinternational.com/article/politique-des-reseaux-sociaux-aux-sieges-d-elus-l-ascension-des-influenceurs-politiques-au-bresil_280081",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/18/0/0/2125/1417/1200/630/60/0/0bcbc9f_ftp-1-0a34qmhcayge-2026-10-18t164834z-1091818045-rc2q5oa1zeu4-rtrmadp-3-brazil-election-bolsonaro.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-24T11:27:04.000Z",
+          "fetchedAt": "2026-10-25T04:52:34.340Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-8",
+      "topic": "Une photographe au royaume des bigoudis : Janet Delaney, son père et les salons ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-10-25-b1959010",
+          "title": "Une photographe au royaume des bigoudis : Janet Delaney, son père et les salons de coiffure américains des années 1980",
+          "description": "Toute sa vie, le père de Janet Delaney, représentant de commerce, a sillonné les salons de coiffure de Los Angeles au volant de sa Plymouth. En 1980, alors qu’il approche de la retraite, sa fille, devenue photographe, l’accompagne dans sa tournée pendant une semaine, à la découverte d’un univers dont elle s’est longtemps moquée.",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/25/une-photographe-au-royaume-des-bigoudis-janet-delaney-son-pere-et-les-salons-de-coiffure-americains-des-annees-1980_6799996_4500055.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-25T04:00:17.000Z",
+          "fetchedAt": "2026-10-25T04:52:34.309Z"
+        },
+        {
+          "id": "2026-10-25-43637583",
+          "title": "Tuer pour se défendre : ce droit qui n’en finit pas de s’étendre aux États-Unis",
+          "description": "Non seulement les Américains ont de plus en plus d’armes, mais ils ont toujours plus de justifications pour abattre une personne, affirme “The New York Times Magazine”. Les lois “Défendez votre territoire” se sont multipliées, ancrées dans l’obsession de ne pas se laisser marcher dessus. À l’origine, une profonde rupture dans la conception de la légitime défense.",
+          "url": "https://www.courrierinternational.com/article/idees-tuer-pour-se-defendre-ce-droit-qui-n-en-finit-pas-de-s-etendre-aux-etats-unis_273944",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/22/172/6/2119/1413/1200/630/60/0/e731cf7_upload-1-uewo8l06vvz8-cote-2013-11-13-0163-w.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-25T04:00:16.000Z",
+          "fetchedAt": "2026-10-25T04:52:34.340Z"
+        },
+        {
+          "id": "2026-10-25-6f8aab15",
+          "title": "Face à la flambée du prix du chocolat, la facture d’Halloween s’annonce salée aux États-Unis",
+          "description": "Alors que le pays est confronté à une forte poussée de l’inflation, aggravée par la guerre en Iran, le prix des friandises n’est pas épargné. Face à cette envolée, certains ménages ont décidé de revoir leur budget d’Halloween à la baisse tandis que d’autres envisagent de s’endetter, rapporte la presse américaine.",
+          "url": "https://www.courrierinternational.com/article/inflation-face-a-la-flambee-du-prix-du-chocolat-la-facture-d-halloween-s-annonce-salee-aux-etats-unis_281097",
+          "imageUrl": null,
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-25T04:00:05.000Z",
+          "fetchedAt": "2026-10-25T04:52:34.340Z"
+        },
+        {
+          "id": "2026-10-24-e169efb7",
+          "title": "«Trump est l'aboutissement, même s'il n'est pas le seul, des mouvements fascistes aux États-Unis»",
+          "description": "À dix jours des midterms, les élections de mi-mandat aux États-Unis, la crainte existe d'une crise démocratique, si les Républicains perdent la Chambre des représentants, comme les sondages le prédisent, et le Sénat, c'est moins sûr, et surtout si Donald Trump refuse les résultats du scrutin. Certains observateurs parlent d'un coup d'État larvé, d'une entrave à la validation des résultats. Les États-Unis sont-ils menacés de virer au régime fasciste ? Et d'ailleurs, le fascisme est-il compatible avec cette « nation exceptionnelle », dont la République ne peut jamais tomber aux mains d'un dictateur ? C'est le cliché que bat en brèche Olivier Burtin, maître de conférences à l'université Picardie-Jules Verne, dans sa Petite histoire du fascisme américain (Éditions Payot).",
+          "url": "https://www.rfi.fr/fr/podcasts/livre-international/20261024-trump-est-l-aboutissement-m%C3%AAme-s-il-n-est-pas-le-seul-des-mouvements-fascistes-aux-%C3%A9tats-unis",
+          "imageUrl": "https://s.rfi.fr/media/display/c0d5ff10-cfc3-11f1-b679-bdb9616e85cf/w:1024/p:16x9/petite-histoire-du-fascisme-am%C3%A9ricain.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-24T17:05:43.000Z",
+          "fetchedAt": "2026-10-25T04:52:39.302Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "NASA updates lander plans for Moon landings, finally solves long-festering Orion",
+      "topic": "Mobilisation sociale : « Les syndicats, qui devaient canaliser la colère, ne jou",
+      "category": "eco",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-10-25-e53971af",
+          "title": "Mobilisation sociale : « Les syndicats, qui devaient canaliser la colère, ne jouent plus leur rôle »",
+          "description": "Les débordements observés dans les manifestations s’expliquent d’abord par la dérive de notre modèle social, qui a entraîné une baisse du taux de syndicalisation, rappellent les économistes Pierre Cahuc et André Zylberberg, dans une tribune au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/25/mobilisation-sociale-les-syndicats-qui-devaient-canaliser-la-colere-ne-jouent-plus-leur-role_6800034_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-10-25T04:30:19.000Z",
+          "fetchedAt": "2026-10-25T04:52:43.087Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Pennsylvania will require labels on AI-generated ads",
       "category": "tech",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-10-23-94538d59",
-          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-          "description": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
-          "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg",
-          "source": "Ars Technica",
+          "id": "2026-10-24-c7aa9b7d",
+          "title": "Pennsylvania will require labels on AI-generated ads",
+          "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as the ad itself. That applies to TV commercials from multi-billion-dollar companies, as well as restaurants' ugly, crowded flyers about their wing specials.\nPennsylvania is one of the first states to require disclosures on AI content. And it requires those labels regardless of where an ad  …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-10-23T22:48:25.000Z",
-          "fetchedAt": "2026-10-24T04:45:22.762Z"
+          "publishedAt": "2026-10-24T18:32:21.000Z",
+          "fetchedAt": "2026-10-25T04:52:43.234Z"
         }
       ]
     }
