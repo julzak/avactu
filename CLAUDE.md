@@ -15,6 +15,7 @@ Application mobile permettant à Ava (16 ans) de comprendre l'actualité mondial
 
 **Pas d'économie pure** (marchés, bourse, PIB) ni de **politique intérieure** (élections, partis).
 **Exception politique française** : la vie politique intérieure française (campagne présidentielle, partis, gouvernement) est gardée mais étiquetée `politique` (badge violet) ; elle occupe un créneau géopolitique (décision Julien 2026-09-29).
+**Exception culture et société** : un sujet culturel très repris (décès ou consécration d'une figure culturelle majeure, Oscars, Cannes, phénomène de société) est publié avec l'étiquette `culture` (badge ambre) à une condition : au moins 3 sources distinctes dans son cluster, sinon il est écarté. Une story culture max par édition, ajoutée en 6e story sans toucher aux 3 créneaux géopo. Règle dans `scripts/category-rules.ts` (décision Julien 2026-10-30, origine : mort de Patrick Stewart publiée en géopolitique).
 **Volume par édition** : 5 stories cible, 6 max.
 
 ---

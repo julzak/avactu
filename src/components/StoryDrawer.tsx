@@ -13,6 +13,7 @@ const CATEGORY_LABELS = {
   politique: 'Politique',
   tech: 'Tech',
   eco: 'Éco',
+  culture: 'Culture & société',
 } as const;
 
 interface StoryDrawerProps {

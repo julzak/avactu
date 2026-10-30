@@ -14,6 +14,7 @@ import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { isValidEditorialImage } from './image-validation.js';
+import { resolveStoryCategory } from './category-rules.js';
 import { buildFollowUpBlock, fetchRecentStories, type RecentStory } from './follow-up.js';
 
 // ES Module __dirname equivalent
@@ -55,8 +56,7 @@ interface Location {
 
 interface Story {
   id: string;
-  category: 'geopolitique' | 'politique' | 'tech' | 'eco';
-  _clusterCategory?: 'geopolitique' | 'tech' | 'eco';
+  category: 'geopolitique' | 'politique' | 'tech' | 'eco' | 'culture';
   title: string;
   imageUrl: string;
   location: Location;
@@ -100,22 +100,23 @@ const SYSTEM_PROMPT = `Tu es un analyste senior. Tu reçois plusieurs articles d
 Ta mission : produire UNE synthèse qui croise ces sources de manière neutre et analytique. Le public cible a entre 15 et 22 ans — ne simplifie pas, mais rends le sujet captivant et pertinent.
 
 FILTRAGE DE PERTINENCE (CRITIQUE) :
-Avant de synthétiser, évalue si le sujet relève RÉELLEMENT de l'une des 2 catégories ci-dessous.
+Avant de synthétiser, évalue si le sujet relève RÉELLEMENT de l'une des catégories ci-dessous.
 
 Définitions des catégories :
 - "geopolitique" : Politique et relations internationales OU événements politiques nationaux MAJEURS hors de France (élections, résultats électoraux, changements de gouvernement). Les élections municipales/présidentielles/législatives sont TOUJOURS pertinentes.
 - "politique" : Vie politique intérieure française : élections françaises, campagne présidentielle, partis et figures politiques françaises, gouvernement, Parlement. Ce sujet occupe un créneau géopolitique mais s'étiquette "politique".
-- "tech" : Technologie, IA, espace, science, innovation, culture numérique, cybersécurité, réseaux sociaux, startups tech, cinéma/culture quand l'angle est tech ou phénomène de société (ex: Oscars, IA à Hollywood).
+- "tech" : Technologie, IA, espace, science, innovation, culture numérique, cybersécurité, réseaux sociaux, startups tech, cinéma/culture uniquement quand l'angle est technologique (ex: IA à Hollywood).
 - "eco" : Économie, business, marchés, entreprises, emploi, énergie, industrie à portée nationale ou internationale.
+- "culture" : Culture et société : décès ou consécration d'une figure culturelle majeure (cinéma, musique, littérature, arts), cérémonies majeures (Oscars, Cannes, Nobel de littérature), phénomènes de société largement repris par la presse généraliste. Ce sujet ne paraît que s'il est repris par plusieurs sources ; le pipeline vérifie ce seuil, contente-toi de classer.
 
 SUJETS HORS SCOPE — réponds "hors_sujet" UNIQUEMENT si :
 - Sport pur (résultats de matchs, transferts, compétitions sportives)
 - Faits divers locaux sans portée nationale
-- People/célébrités sans dimension politique, tech ou économique
+- People/célébrités : potins, vie privée, sans portée culturelle majeure (le décès ou la consécration d'une figure culturelle majeure relève de "culture")
 
 IMPORTANT : Les événements suivants ne sont JAMAIS hors sujet :
 - Élections (municipales, présidentielles, législatives) dans tout pays
-- Cérémonies culturelles majeures (Oscars, Cannes, etc.) → catégorie "tech"
+- Cérémonies culturelles majeures (Oscars, Cannes, etc.) → catégorie "culture"
 - Manifestations, mouvements sociaux → catégorie "geopolitique" ("politique" s'ils relèvent de la vie politique française)
 
 En cas de doute : le sujet doit être quelque chose qu'un ado curieux partagerait avec ses amis. Garde-le.
@@ -152,7 +153,7 @@ FORMAT DE SORTIE (JSON strict, pas de markdown) :
 
 Si le sujet est pertinent :
 {
-  "category": "geopolitique" | "politique" | "tech" | "eco",
+  "category": "geopolitique" | "politique" | "tech" | "eco" | "culture",
   "title": "Titre factuel avec articles corrects (max 60 caractères)",
   "location": {
     "lat": <latitude>,
@@ -263,6 +264,16 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
     // Get all unique sources
     const allSources = [...new Set(cluster.articles.map((a) => a.source))];
 
+    // Catégorie finale : le modèle propose, les règles de créneau tranchent
+    const decision = resolveStoryCategory(storyData.category, cluster.category, allSources.length);
+    if (decision.action === 'drop') {
+      console.log(`   ⊘ Rejeté: ${decision.reason}`);
+      return null;
+    }
+    if (decision.reverted) {
+      console.log(`   ↩ Catégorie ${storyData.category} → ${decision.category} (cluster ${cluster.category})`);
+    }
+
     // Find best image: prefer article whose title is most relevant to the synthesized story
     // Filter out logos, placeholders, and generic images
     const articlesWithValidImage = cluster.articles
@@ -295,8 +306,7 @@ Génère la story au format JSON demandé. Assure-toi de croiser les perspective
 
     const story: Story = {
       id,
-      category: storyData.category || cluster.category,
-      _clusterCategory: cluster.category, // Keep original for post-synthesis enforcement
+      category: decision.category,
       title: storyData.title,
       imageUrl,
       location: storyData.location,
@@ -329,13 +339,14 @@ CATÉGORIE ATTENDUE : "%CATEGORY%"
 Définitions :
 - "geopolitique" : Politique et relations internationales OU événements politiques nationaux MAJEURS hors de France (élections, résultats électoraux, changements de gouvernement).
 - "politique" : Vie politique intérieure française : élections françaises, campagne présidentielle, partis et figures politiques françaises, gouvernement, Parlement. Ce sujet occupe un créneau géopolitique mais s'étiquette "politique".
-- "tech" : Technologie, IA, espace, science, innovation, culture numérique, cybersécurité, réseaux sociaux, startups tech, cinéma/culture quand l'angle est tech ou phénomène de société (ex: Oscars, IA à Hollywood).
+- "tech" : Technologie, IA, espace, science, innovation, culture numérique, cybersécurité, réseaux sociaux, startups tech, cinéma/culture uniquement quand l'angle est technologique (ex: IA à Hollywood).
 - "eco" : Économie, business, marchés, entreprises, emploi, énergie, industrie à portée nationale ou internationale.
 
 SUJETS HORS SCOPE — réponds "hors_sujet" UNIQUEMENT si AUCUN sujet pertinent n'émerge :
 - Sport pur (résultats de matchs)
 - Faits divers locaux sans portée nationale
 - People/célébrités sans dimension politique, tech ou économique
+- Culture et société (décès d'artiste, cérémonies, phénomènes de société) : ce pool ne les publie pas, ne force pas un sujet culturel dans la catégorie attendue
 
 RÈGLES DE NEUTRALITÉ ABSOLUE :
 1. Cite au moins 2 sources différentes quand disponibles
@@ -594,9 +605,12 @@ async function synthesize(): Promise<void> {
     console.log(`   Sources: ${sourcesList} (${cluster.articles.length} articles)`);
 
     const story = await synthesizeStory(client, cluster, storyIndex, recentStories);
-    if (story) {
+    if (story && story.category === 'culture' && stories.some((s) => s.category === 'culture')) {
+      // Une story culture max par édition : elle s'ajoute aux 3 géopo + tech + éco (plafond 6)
+      console.log(`   ⊘ Rejeté: créneau culture déjà pourvu ("${story.title}")`);
+    } else if (story) {
       stories.push(story);
-      console.log(`   ✓ "${story.title}" → ${story.sources.length} sources`);
+      console.log(`   ✓ "${story.title}" → ${story.sources.length} sources${story.category === 'culture' ? ' [culture]' : ''}`);
       storyIndex++;
     }
     await new Promise((resolve) => setTimeout(resolve, 1500));
@@ -739,18 +753,7 @@ ${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}` }],
     }
   }
 
-  // Enforce: revert reclassified stories back to their cluster category
-  for (const story of stories) {
-    // Exception : "politique" est un sous-type du créneau géopo (vie politique française)
-    const allowedPolitique = story.category === 'politique' && story._clusterCategory === 'geopolitique';
-    if (story._clusterCategory && story.category !== story._clusterCategory && !allowedPolitique) {
-      console.log(`   ↩ "${story.title}" : ${story.category} → ${story._clusterCategory}`);
-      story.category = story._clusterCategory;
-    }
-  }
-
-  // Strip internal _clusterCategory before output
-  const cleanStories = stories.map(({ _clusterCategory, ...rest }) => rest);
+  const cleanStories = stories;
 
   // Alerte admin si le fournisseur primaire a lâché (avant le garde-fou : l'alerte
   // doit partir même si le modèle de secours n'a rien produit)
@@ -795,6 +798,7 @@ ${articlesDetail}${buildFollowUpBlock(recentStories, 'pool')}` }],
   console.log(`  • Politique: ${byCategory.politique || 0}`);
   console.log(`  • Tech: ${byCategory.tech || 0}`);
   console.log(`  • Éco: ${byCategory.eco || 0}`);
+  console.log(`  • Culture: ${byCategory.culture || 0}`);
 
   // Sources stats
   const avgSources = stories.reduce((sum, s) => sum + s.sources.length, 0) / stories.length;

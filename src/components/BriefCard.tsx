@@ -9,6 +9,7 @@ const CATEGORY_LABELS = {
   politique: 'Politique',
   tech: 'Tech',
   eco: 'Éco',
+  culture: 'Culture & société',
 } as const;
 
 const BULLET_GLOW = {
@@ -16,6 +17,7 @@ const BULLET_GLOW = {
   politique: 'shadow-glow-politique-sm',
   tech: 'shadow-glow-tech-sm',
   eco: 'shadow-glow-eco-sm',
+  culture: 'shadow-glow-culture-sm',
 } as const;
 
 const BULLET_TEXT = {
@@ -23,6 +25,7 @@ const BULLET_TEXT = {
   politique: 'text-violet-400',
   tech: 'text-cyan-400',
   eco: 'text-emerald-400',
+  culture: 'text-amber-400',
 } as const;
 
 interface BriefCardProps {
