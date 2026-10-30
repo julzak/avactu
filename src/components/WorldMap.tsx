@@ -16,6 +16,7 @@ const CATEGORY_COLORS = {
   politique: { fill: '#8b5cf6', pulse: '#8b5cf6' },
   tech: { fill: '#06b6d4', pulse: '#06b6d4' },
   eco: { fill: '#10b981', pulse: '#10b981' },
+  culture: { fill: '#f59e0b', pulse: '#f59e0b' },
 } as const;
 
 interface WorldMapProps {

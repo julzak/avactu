@@ -23,6 +23,8 @@ const badgeVariants = cva(
           "border-transparent bg-cyan-500 text-white",
         eco:
           "border-transparent bg-emerald-500 text-white",
+        culture:
+          "border-transparent bg-amber-500 text-white",
       },
     },
     defaultVariants: {

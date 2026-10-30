@@ -1,5 +1,5 @@
 import { useState, memo } from 'react';
-import { MapPin, Globe, Landmark, Cpu, TrendingUp } from 'lucide-react';
+import { MapPin, Globe, Landmark, Cpu, TrendingUp, Palette } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import type { Story, Category } from '@/types';
 
@@ -8,6 +8,7 @@ const CATEGORY_LABELS = {
   politique: 'Politique',
   tech: 'Tech',
   eco: 'Éco',
+  culture: 'Culture & société',
 } as const;
 
 const CATEGORY_ICONS = {
@@ -15,6 +16,7 @@ const CATEGORY_ICONS = {
   politique: Landmark,
   tech: Cpu,
   eco: TrendingUp,
+  culture: Palette,
 } as const;
 
 const CATEGORY_COLORS = {
@@ -22,6 +24,7 @@ const CATEGORY_COLORS = {
   politique: 'from-violet-900/80 to-violet-950',
   tech: 'from-cyan-900/80 to-cyan-950',
   eco: 'from-emerald-900/80 to-emerald-950',
+  culture: 'from-amber-900/80 to-amber-950',
 } as const;
 
 interface StoryCardProps {
