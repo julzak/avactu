@@ -1,176 +1,242 @@
 {
-  "generatedAt": "2026-10-31T05:58:14.009Z",
+  "generatedAt": "2026-11-01T06:23:12.854Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Sénégal : pourquoi la colère enfle à l’ouverture des Jeux olympiques de la jeune",
+      "id": "cluster-1",
+      "topic": "États-Unis: Nithya Raman, une socialiste à l'assaut de la mairie de Los Angeles?",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-31-6e41d171",
-          "title": "Sénégal : pourquoi la colère enfle à l’ouverture des Jeux olympiques de la jeunesse ?",
-          "description": "Alors que c’est la première fois que l’Afrique accueille des JO, les Jeux olympiques de la jeunesse peinent à susciter l’engouement au Sénégal.",
-          "url": "https://www.lemonde.fr/videos/video/2026/10/31/senegal-pourquoi-la-colere-enfle-a-l-ouverture-des-jeux-olympiques-de-la-jeunesse_6803396_1669088.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-31T05:00:40.000Z",
-          "fetchedAt": "2026-10-31T05:54:13.317Z"
-        },
-        {
-          "id": "2026-10-31-fca4c55f",
-          "title": "Deux mois de détention de Moussa Kaka au Niger: «Sa place est devant un micro»",
-          "description": "Le 31 août, Moussa Kaka quittait les locaux de son média à Niamey pour regagner son domicile. Mais il n'y est jamais arrivé. Début octobre, après plusieurs semaines de silence, le ministre nigérien de la Justice avait affirmé à Reporters sans frontières (RSF) que le journaliste, que vous avez entendu raconter l'actualité nigérienne pendant des années sur notre antenne, était détenu et en vie. Deux mois après cette disparition, organisations de défenses des droits humains, confrères et consœurs, tous réitèrent leurs appels à sa libération. À ce jour, notre confrère n'a toujours pas pu voir sa famille, ni son avocat.",
-          "url": "https://www.rfi.fr/fr/afrique/20261031-deux-mois-de-d%C3%A9tention-de-moussa-kaka-au-niger-sa-place-est-devant-un-micro",
-          "imageUrl": "https://s.rfi.fr/media/display/9c13fafc-bd7a-11f1-958f-d367a0468893/w:1024/p:16x9/000-Par2201169.jpg",
+          "id": "2026-11-01-67bb2a76",
+          "title": "États-Unis: Nithya Raman, une socialiste à l'assaut de la mairie de Los Angeles?",
+          "description": "Officiellement adoubée par les Socialistes démocrates d’Amérique, Nithya Raman est en bonne position face à sa concurrente démocrate pour briguer la mairie de la cité des anges. Avec elle, les deux plus grandes villes du pays pourraient avoir un édile progressiste, après la victoire de Zohran Mamdani, à New York.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261101-%C3%A9tats-unis-nithya-raman-une-socialiste-%C3%A0-l-assaut-de-la-mairie-de-los-angeles",
+          "imageUrl": "https://s.rfi.fr/media/display/a253a880-d158-11f1-b48a-bba4eee3dc72/w:1024/p:16x9/2026-10-19T195803Z-936227280-RC2J6OASP316-RTRMADP-3-USA-ELECTION-CALIFORNIA.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-31T05:00:24.000Z",
-          "fetchedAt": "2026-10-31T05:54:21.694Z"
+          "publishedAt": "2026-11-01T06:05:08.000Z",
+          "fetchedAt": "2026-11-01T06:19:18.872Z"
         },
         {
-          "id": "2026-10-31-3fdf2a3b",
-          "title": "Pour la première fois de son histoire, l’Afrique accueille une compétition olympique",
-          "description": "Les Jeux olympiques de la jeunesse se déroulent au Sénégal du 31 octobre au 13 novembre. La relation entre le mouvement olympique et le continent africain a souvent été tourmentée, voire teintée de racisme.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/10/31/pour-la-premiere-fois-de-son-histoire-l-afrique-accueille-une-competition-olympique_6803375_3212.html",
+          "id": "2026-11-01-7c100e48",
+          "title": "États-Unis: au Texas, la vie en suspens des migrants menacés par l'ICE",
+          "description": "Le Texas concentre un quart des arrestations de la police de la migration américaine, l’ICE. Alors que la question migratoire est au cœur de la campagne de ces élections de mi-mandat, qui auront lieu le 3 novembre, les personnes en situation illégale et les demandeurs d’asile vivent dans la crainte des raides et des arrestations.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261101-%C3%A9tats-unis-au-texas-la-vie-en-suspens-des-migrants-menac%C3%A9s-par-l-ice",
+          "imageUrl": "https://s.rfi.fr/media/display/5fa6429e-a1f7-11f1-b647-005056bfb2b6/w:1024/p:16x9/AP26073045221789.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-01T05:34:58.000Z",
+          "fetchedAt": "2026-11-01T06:19:18.872Z"
+        },
+        {
+          "id": "2026-11-01-2ab9f45b",
+          "title": "Sahara occidental : la Russie et les Etats-Unis s’opposent au Conseil de sécurité sur l’avenir de la mission de l’ONU, qui ne sera pas reconduite après 35 ans sur le terrain",
+          "description": "La mission onusienne chargée de veiller au respect du cessez-le-feu dans l’ex-colonie espagnole, que se disputent le Maroc et le Front Polisario, va cesser d’exister à compter du 1ᵉʳ novembre. Le Conseil de sécurité a échoué à en prolonger le mandat, suscitant la crainte d’une reprise des hostilités.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/01/sahara-occidental-la-disparition-annoncee-de-la-mission-de-l-onu-ouvre-une-periode-d-incertitudes_6804008_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-31T04:00:32.000Z",
-          "fetchedAt": "2026-10-31T05:54:13.317Z"
+          "publishedAt": "2026-11-01T04:15:09.000Z",
+          "fetchedAt": "2026-11-01T06:19:12.497Z"
         },
         {
-          "id": "2026-10-31-7179f76a",
-          "title": "“Comme dans une Cocotte-Minute” : chez les agriculteurs dans une France en ébullition",
-          "description": "Alors que les images de Paris, Marseille ou Limoges en flammes ont fait le tour du monde, le reste de la France n’a pas été remarqué par le public international. Quel regard porte-t-on en province sur les mouvements de protestation ? Ce journaliste s’est rendu en Alsace, dans deux petites exploitations agricoles.",
-          "url": "https://www.courrierinternational.com/article/reportage-comme-dans-une-cocotte-minute-chez-les-agriculteurs-dans-une-france-en-ebullition_282261",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/30/0/0/2622/1748/1200/630/60/0/3a655e4_upload-1-mbvuh7dihscb-w-sondron-2024-03-01-0336-copie-2.jpg",
+          "id": "2026-11-01-f7241589",
+          "title": "Le projet d’arc de triomphe de Trump visé par une nouvelle plainte",
+          "description": "Après la plainte d’anciens combattants et de défenseurs du patrimoine, la ville de Washington et l’État de Virginie ont à leur tour saisi la justice américaine, samedi 31 octobre, pour tenter de bloquer la construction de l’arc de triomphe monumental que Donald Trump souhaite ériger dans la capitale fédérale.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-le-projet-d-arc-de-triomphe-de-trump-vise-par-une-nouvelle-plainte_283838",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/01/0/0/5731/3820/1200/630/60/0/25a1ad7_ftp-1-gkvolx4b2if1-2026-10-01t161048z-114750617-rc2cuna501ye-rtrmadp-3-usa-trump-arch-protest.JPG",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-31T04:00:26.000Z",
-          "fetchedAt": "2026-10-31T05:54:13.554Z"
+          "publishedAt": "2026-11-01T01:01:22.000Z",
+          "fetchedAt": "2026-11-01T06:19:12.679Z"
         },
         {
-          "id": "2026-10-31-3242f934",
-          "title": "Le cocido de Madrid, plus qu’une recette, c’est tout un rituel",
-          "description": "Ce plat qui met le pois chiche à l’honneur est inscrit depuis des siècles dans le quotidien de la capitale espagnole, décrit le correspondant en Espagne du quotidien britannique “The Times”. Recette hivernale et bon marché, le cocido demande du temps et invite au partage, pour le préparer et pour le déguster.",
-          "url": "https://www.courrierinternational.com/article/le-courrier-des-recettes-le-cocido-de-madrid-plus-qu-une-recette-c-est-tout-un-rituel_245705",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/26/0/0/2599/1733/1200/630/60/0/2f49882_upload-1-ije0edwrohyy-2016-05-15t120000z-1439491040-s1betegbqxab-rtrmadp-3-spain-culture-web.jpg",
-          "source": "Courrier International",
+          "id": "2026-11-01-949668a6",
+          "title": "La justice rejette la plainte en diffamation de Donald Trump contre le « Wall Street Journal » au sujet d’une lettre à Jeffrey Epstein",
+          "description": "Dans sa décision, le juge Darrin P. Gayles se garde de trancher sur l’authenticité du courrier aux tonalités salaces, daté de 2003 et attribué au milliardaire républicain par le média. Il considère en revanche que les journalistes ont dûment enquêté et agi de bonne foi, en publiant son contenu.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/01/lettre-a-jeffrey-epstein-la-justice-rejette-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal_6803834_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-31T04:00:25.000Z",
-          "fetchedAt": "2026-10-31T05:54:13.554Z"
+          "publishedAt": "2026-11-01T00:34:34.000Z",
+          "fetchedAt": "2026-11-01T06:19:12.497Z"
         },
         {
-          "id": "2026-10-31-35cab64a",
-          "title": "Le Michigan va-t-il élire le premier sénateur musulman des États-Unis, Abdul El-Sayed ?",
-          "description": "MIDTERMS J-3. Progressiste décomplexé, le candidat démocrate Abdul El-Sayed pourrait entrer dans l’histoire à l’occasion des élections de mi-mandat du 3 novembre en devenant le premier élu musulman au Sénat de Washington, souligne le “Financial Times”. Mais il a encore bien des obstacles à surmonter pour rallier une majorité d’électeurs.",
-          "url": "https://www.courrierinternational.com/long-format/politique-le-michigan-va-t-il-elire-le-premier-senateur-musulman-des-etats-unis-abdul-el-sayed_280416",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/22/0/0/4000/2666/1200/630/60/0/272a3a5_ftp-1-pbahj7dsss54-afp-d46c99g.jpg",
-          "source": "Courrier International",
+          "id": "2026-10-31-64abb6f2",
+          "title": "Affaire Epstein: la justice américaine rejette une plainte de Trump contre le «Wall Street Journal»",
+          "description": "Un juge fédéral américain a rejeté samedi 31 octobre une plainte en diffamation de Donald Trump contre le Wall Street Journal pour un article lui attribuant une lettre destinée au criminel sexuel Jeffrey Epstein en 2003.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261031-affaire-epstein-la-justice-am%C3%A9ricaine-rejette-une-plainte-de-trump-contre-le-wall-street-journal",
+          "imageUrl": "https://s.rfi.fr/media/display/dde96882-e043-11f0-b60c-005056bf30b7/w:1024/p:16x9/1200x680-4.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-31T04:00:16.000Z",
-          "fetchedAt": "2026-10-31T05:54:13.554Z"
+          "publishedAt": "2026-10-31T21:06:46.000Z",
+          "fetchedAt": "2026-11-01T06:19:18.872Z"
         }
       ]
     },
     {
-      "id": "cluster-13",
-      "topic": "Derrière les attaques de Benyamin Nétanyahou contre les partis arabes, la vision",
+      "id": "cluster-14",
+      "topic": "Un prix Albert Londres pour saluer les reportages de Bruno Meyerfeld sur les peu",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-10-31-4e16355a",
-          "title": "Derrière les attaques de Benyamin Nétanyahou contre les partis arabes, la vision raciste de la droite israélienne",
-          "description": "Privé de majorité à la Knesset à l’issue des législatives du 27 octobre, Benyamin Nétanyahou cherche à disqualifier le vote arabe, désormais décisif. Après la tentative d’exclure les listes arabes du scrutin, le Likoud conteste les résultats en multipliant les allégations de fraude et d’ingérence étrangère.",
-          "url": "https://www.lemonde.fr/international/article/2026/10/31/derriere-les-attaques-de-benyamin-netanyahou-contre-les-partis-arabes-la-vision-raciste-de-la-droite-israelienne_6803373_3210.html",
+          "id": "2026-11-01-2d761ea9",
+          "title": "Un prix Albert Londres pour saluer les reportages de Bruno Meyerfeld sur les peuples autochtones d’Amazonie",
+          "description": "Bruno Meyerfeld, ancien correspondant du « Monde » au Brésil, est le nouveau lauréat du prestigieux prix, dans la catégorie presse écrite, pour ses nombreux articles publiés dans le journal, documentant la vie et la fragilité des peuples d’Amazonie. L’occasion de redécouvrir ce podcast dans lequel il alertait sur la disparition progressive des langues indigènes.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/11/01/un-prix-albert-londres-pour-saluer-les-reportages-de-bruno-meyerfeld-sur-les-peuples-autochtones-d-amazonie_6803968_5463015.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-10-31T04:00:25.000Z",
-          "fetchedAt": "2026-10-31T05:54:13.317Z"
+          "publishedAt": "2026-11-01T04:00:13.000Z",
+          "fetchedAt": "2026-11-01T06:19:12.497Z"
         },
         {
-          "id": "2026-10-30-5823301c",
-          "title": "Pour la presse israélienne de droite, seul un “consensus sioniste” sortira le pays de l’impasse",
-          "description": "Après des législatives n’ayant fait émerger aucune majorité, les journaux israéliens de droite penchent en faveur de la formation d’un gouvernement d’union réunissant le Likoud et l’opposition sioniste sans les partis arabes, l’extrême droite ou les ultraorthodoxes. Une perspective encouragée par le président du pays, Isaac Herzog, mais qui se heurte aux promesses électorales et aux profondes divisions entre les deux camps.",
-          "url": "https://www.courrierinternational.com/article/politique-pour-la-presse-israelienne-de-droite-seul-un-consensus-sioniste-sortira-le-pays-de-l-impasse_283446",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/28/0/0/2889/1926/1200/630/60/0/114c292_ftp-1-j2wmfekk4fj7-afp-d4mv8t3.jpg",
-          "source": "Courrier International",
+          "id": "2026-10-31-3eefaacd",
+          "title": "Royaume-Uni: le Premier ministre se dit ouvert à des excuses officielles sur l'esclavage",
+          "description": "Le Premier ministre britannique Andy Burnham a assuré au quotidien The Guardian qu'il était ouvert à ce que son pays présente des excuses officielles pour son rôle dans la traite transatlantique d'esclaves, mais exclut toute réparation financière aux descendants. Des propos tenus avant un déplacement dans les Caraïbes, la semaine prochaine. À Antigua-et-Barbuda, le chef de file des travaillistes doit rencontrer les dirigeants du Commonwealth et le sujet des réparations sera à nouveau abordé.",
+          "url": "https://www.rfi.fr/fr/europe/20261031-royaume-uni-le-premier-ministre-se-dit-ouvert-%C3%A0-des-excuses-officielles-sur-l-esclavage",
+          "imageUrl": "https://s.rfi.fr/media/display/a25f9d68-d575-11f1-9541-a575454bc579/w:1024/p:16x9/AP26301366795879.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-10-30T15:47:48.000Z",
-          "fetchedAt": "2026-10-31T05:54:13.554Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-32",
-      "topic": "US approves sale of 500 Patriot missiles to Ukraine",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
+          "publishedAt": "2026-10-31T22:47:29.000Z",
+          "fetchedAt": "2026-11-01T06:19:18.872Z"
+        },
         {
-          "id": "2026-10-31-736c0e05",
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
+          "id": "2026-10-31-4f16e608",
+          "title": "Cinq Britanniques d’ultradroite interpellés près de Dunkerque pour des « actions d’intimidation » contre des migrants",
+          "description": "A l’issue de leurs gardes à vue, ces militants, qui étaient notamment en possession de quatre bombes lacrymogènes, devraient être placés en rétention dans la perspective de leur expulsion du territoire français, selon la préfecture.",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-31T20:44:54.000Z",
+          "fetchedAt": "2026-11-01T06:19:12.497Z"
+        },
+        {
+          "id": "2026-10-31-1fe1034c",
+          "title": "Sénégal : les Jeux olympiques de la jeunesse sont officiellement ouverts",
+          "description": "",
+          "url": "https://www.france24.com/fr/afrique/20261031-les-jeux-olympiques-de-la-jeunesse-premier-%C3%A9v%C3%A8nement-olympique-en-afrique-s-ouvrent-%C3%A0-dakar",
+          "imageUrl": "https://s.france24.com/media/display/8d5d1a48-d55d-11f1-bb7b-1beafce15fea/w:1280/p:16x9/000-D62C6E3.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-31T19:14:02.000Z",
+          "fetchedAt": "2026-11-01T06:19:12.456Z"
+        },
+        {
+          "id": "2026-10-31-17556172",
+          "title": "JOJ Dakar 2026:  une cérémonie d'ouverture sous les acclamations de plus de 30 000 spectateurs, revivez le direct",
+          "description": "Le Sénégal accueille ce samedi 31 octobre la 4e édition des Jeux de la jeunesse (JOJ) d’été, le tout premier événement olympique organisé sur le continent africain. Quinze jours de compétition et 2700 athlètes qui vont s’affronter à Dakar, Saly et Diamniado. C’est dans cette ville que la cérémonie d’ouverture se déroule, au stade Abdoulaye Wade. Revivez la cérémonie.",
+          "url": "https://www.rfi.fr/fr/sports/20261031-en-direct-jeux-olympiques-de-la-jeunesse-2026-suivez-la-c%C3%A9r%C3%A9monie-d-ouverture",
+          "imageUrl": "https://s.rfi.fr/media/display/09a0e508-d568-11f1-b656-a575454bc579/w:1024/p:16x9/AP26304724782988.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-31T17:59:06.000Z",
+          "fetchedAt": "2026-11-01T06:19:18.872Z"
+        },
+        {
+          "id": "2026-10-31-eda8479e",
+          "title": "Emotional reunions with loved ones for Oleshky evacuees",
+          "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+          "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-10-31T00:40:43.000Z",
-          "fetchedAt": "2026-10-31T05:54:21.653Z"
-        },
-        {
-          "id": "2026-10-30-e6c7f929",
-          "title": "EN DIRECT, guerre en Ukraine : Washington approuve la vente de 500 missiles Patriot à Kiev",
-          "description": "Cette vente d’armement, équivalente à plus de 2 milliards de dollars, doit être entérinée par le Congrès américain. Mais le président ukrainien s’inquiète de la date de livraison des missiles, qui pourrait être « dans quelques années ».",
-          "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-washington-approuve-la-vente-de-500-missiles-patriot-a-kiev_6799896_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-10-30T22:58:56.000Z",
-          "fetchedAt": "2026-10-31T05:54:13.317Z"
+          "publishedAt": "2026-10-31T16:55:47.000Z",
+          "fetchedAt": "2026-11-01T06:19:18.811Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "id": "cluster-39",
+      "topic": "Législatives en Israël: des manifestations en faveur d'une alliance entre l'oppo",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-10-31-67b971a3",
+          "title": "Législatives en Israël: des manifestations en faveur d'une alliance entre l'opposition et les partis arabes",
+          "description": "En Israël, plusieurs places du pays ont vibré, samedi 31 octobre, d’une exigence claire : voir les formations politiques arabes s'asseoir, de plein droit, à la table du futur pouvoir. Porté par le collectif Standing Together, ce sursaut citoyen entend peser de tout son poids sur les tractations en cours et bousculer les réflexes de l'opposition pour barrer la route au Likoud de Benyamin Netanyahu.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20261031-l%C3%A9gislatives-en-isra%C3%ABl-des-manifestations-en-faveur-d-une-alliance-entre-l-opposition-et-les-partis-arabes",
+          "imageUrl": "https://s.rfi.fr/media/display/8fc76874-d571-11f1-b895-bf1914cabd52/w:1024/p:16x9/AP26304669154535.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-31T22:10:09.000Z",
+          "fetchedAt": "2026-11-01T06:19:18.872Z"
+        },
+        {
+          "id": "2026-10-31-19f8067b",
+          "title": "Transformer Israël en “super-Sparte” ? Une fausse bonne idée",
+          "description": "Alors que l’industrie de défense israélienne tourne à plein régime et que le pouvoir cherche à renforcer l’autonomie militaire, le quotidien économique israélien “Calcalist” s’interroge sur le bien-fondé de cette orientation stratégique. Il explique que d’autres secteurs risquent d’être délaissés au profit d’une industrie locale au coût économique élevé et dont le succès reste incertain.",
+          "url": "https://www.courrierinternational.com/article/opinion-transformer-israel-en-super-sparte-une-fausse-bonne-idee_280615",
+          "imageUrl": "https://focus.courrierinternational.com/2023/10/09/0/0/5076/3384/1200/630/60/0/0331b8f_afp-33xu9vm.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-10-31T15:29:11.000Z",
+          "fetchedAt": "2026-11-01T06:19:12.679Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-17",
+      "topic": "Binance's $6.3bn crypto hack biggest in history",
+      "category": "eco",
+      "importance": 8,
+      "articles": [
+        {
+          "id": "2026-10-30-34d8a5d5",
+          "title": "Binance's $6.3bn crypto hack biggest in history",
+          "description": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
+          "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e1fa/live/c7f7b2b0-d474-11f1-93e1-3b657b665bcf.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-10-30T17:41:10.000Z",
+          "fetchedAt": "2026-11-01T06:19:27.407Z"
+        },
+        {
+          "id": "2026-10-30-d9af3468",
+          "title": "What we know about Binance's $6.3bn hack",
+          "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+          "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-10-30T12:27:28.000Z",
+          "fetchedAt": "2026-11-01T06:19:27.407Z"
+        },
+        {
+          "id": "2026-10-30-8e8e4f8e",
+          "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+          "description": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1177/live/15f26510-d4f1-11f1-9df7-95635b0b4a0d.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-10-30T09:33:51.000Z",
+          "fetchedAt": "2026-11-01T06:19:27.407Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "« Je ne voudrais pas qu’ils tombent là-dessus » : en préparation du jour où ils ",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-10-31-429a9895",
-          "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-          "description": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-          "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
-          "source": "Ars Technica",
+          "id": "2026-11-01-e93e3ce4",
+          "title": "« Je ne voudrais pas qu’ils tombent là-dessus » : en préparation du jour où ils vont disparaître, ils font le ménage dans leur téléphone",
+          "description": "Messages, photos, notes… Nos smartphones conservent des années de vie privée susceptibles de tomber entre les mains de nos proches après notre mort. Pour éviter les découvertes embarrassantes, certains font du tri dans leurs traces numériques.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/01/je-ne-voudrais-pas-qu-ils-tombent-la-dessus-en-preparation-du-jour-ou-ils-vont-disparaitre-ils-font-le-menage-dans-leur-telephone_6803967_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
           "category": "tech",
-          "publishedAt": "2026-10-31T00:07:22.000Z",
-          "fetchedAt": "2026-10-31T05:54:26.561Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Soaring cost of Halloween treats spooks shoppers",
-      "category": "eco",
-      "importance": 6,
-      "articles": [
-        {
-          "id": "2026-10-30-2af7125a",
-          "title": "Soaring cost of Halloween treats spooks shoppers",
-          "description": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
-          "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c99c/live/3a5ebbf0-d4a7-11f1-9604-3bd90d268f1f.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-10-30T21:34:32.000Z",
-          "fetchedAt": "2026-10-31T05:54:32.372Z"
+          "publishedAt": "2026-11-01T04:00:09.000Z",
+          "fetchedAt": "2026-11-01T06:19:18.952Z"
         }
       ]
     }
