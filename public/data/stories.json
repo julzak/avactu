@@ -1,129 +1,150 @@
 {
-  "date": "2026-11-03T07:16:31.172Z",
+  "date": "2026-11-04T06:58:41.936Z",
   "stories": [
     {
-      "id": "2026-11-03-01",
+      "id": "2026-11-04-01",
+      "category": "culture",
+      "title": "L'Unesco à 80 ans : les guerres effacent aussi le passé",
+      "imageUrl": "https://s.rfi.fr/media/display/623ef520-3026-11f1-98b6-005056a97e36/w:1024/p:16x9/2026-04-04T115037Z-1063655061-RC27IKAL18B0-RTRMADP-3-IRAN-CRISIS.jpg",
+      "location": {
+        "lat": 48.8489,
+        "lng": 2.3058,
+        "name": "Paris, France"
+      },
+      "bullets": [
+        "L'Unesco fête ses 80 ans dans un monde où les guerres se multiplient.",
+        "Les conflits détruisent le patrimoine pour effacer l'identité des peuples.",
+        "L'organisation lutte plus que jamais pour sauver les sites menacés.",
+        "Les belligérants ciblent le passé pour nier le présent des populations.",
+        "Chaque site détruit représente une perte irréversible pour la mémoire collective."
+      ],
+      "execSummary": "L'Unesco fête ses 80 ans dans un contexte particulièrement sombre. Selon RFI, huit décennies après sa création, l'Organisation des Nations unies pour l'éducation, la science et la culture lutte plus que jamais pour sauver le patrimoine dans un monde où les guerres se multiplient. Ces conflits tuent des hommes, mais ils effacent aussi des identités et des cultures en détruisant le passé de certains peuples.\n\nPour l'Unesco, la protection du patrimoine fait partie de sa mission fondatrice : construire la paix par la culture et l'éducation. L'organisation rappelle que les monuments, les musées et les sites historiques ne sont pas de simples pierres, mais les témoins de l'histoire et de l'identité des communautés. Sauver ces biens, c'est préserver la mémoire collective et garder ouverte la possibilité d'une réconciliation une fois les armes tues.\n\nFace à elle, les logiques de guerre suivent un raisonnement inverse : effacer le passé pour nier le présent. La destruction de temples, de bibliothèques ou de quartiers anciens vise à déraciner des populations et à réécrire l'histoire d'un territoire. Les observateurs soulignent aussi les limites de l'action de l'Unesco, dont les conventions et les listes de protection peinent à contraindre des belligérants déterminés à tout raser.\n\nChaque site détruit constitue une perte irréversible : les reconstructions, quand elles sont possibles, coûtent des millions et ne rendent jamais l'original. Pour les pays en guerre, la disparition du patrimoine compromet aussi l'avenir du tourisme, souvent une ressource économique essentielle à la reconstruction. Huit décennies après sa naissance, l'Unesco voit sa mission plus nécessaire que jamais, mais aussi plus difficile, à mesure que les conflits se multiplient sur la planète.",
+      "sources": [
+        "RFI",
+        "Le Monde - International",
+        "Courrier International"
+      ],
+      "publishedAt": "2026-11-04T06:32:17.000Z"
+    },
+    {
+      "id": "2026-11-04-02",
       "category": "geopolitique",
-      "title": "Midterms : la Cour suprême déboute Trump en Californie",
-      "imageUrl": "https://s.rfi.fr/media/display/a91e07b0-d74c-11f1-b99e-695cb59fade5/w:1024/p:16x9/AP26305784872939.jpg",
+      "title": "Guerre en Ukraine : le géant russe Ozon visé par des drones",
+      "imageUrl": "https://s.rfi.fr/media/display/9513401a-d7c3-11f1-902e-a575454bc579/w:1024/p:16x9/AP26307430133753.jpg",
+      "location": {
+        "lat": 47.2357,
+        "lng": 39.7015,
+        "name": "Sud-ouest de la Russie"
+      },
+      "bullets": [
+        "Des drones ukrainiens ont incendié un entrepôt d'Ozon dans le sud-ouest russe.",
+        "La frappe intervient pendant que la diplomatie s'active entre Berlin et Washington.",
+        "Le président Zelensky espère une rencontre avec Poutine grâce à la médiation américaine.",
+        "Le chancelier Merz et Zelensky revendiquent un rôle essentiel pour l'Europe.",
+        "Le géant russe du e-commerce voit sa logistique devenir une cible de guerre."
+      ],
+      "execSummary": "Dans la nuit de mardi à mercredi, des drones ukrainiens ont visé un entrepôt du géant russe du commerce en ligne Ozon, dans le sud-ouest de la Russie, provoquant un incendie, selon Le Monde. C'est l'entreprise elle-même qui a annoncé l'attaque. Le même mardi, Volodymyr Zelensky se trouvait à Berlin, où il a participé à une conférence sur la sécurité et rencontré le chancelier Friedrich Merz, rapporte RFI.\n\nCôté ukrainien, la stratégie se déploie sur deux fronts simultanés. Militairement, Kiev continue de frapper des infrastructures économiques et logistiques en territoire russe, comme en témoigne l'attaque contre Ozon. Diplomatiquement, le président Zelensky dit espérer que les discussions menées sous médiation américaine aboutiront à une rencontre directe avec Vladimir Poutine, ce qui marquerait un tournant dans le conflit.\n\nCôté européen, Berlin et Kiev affichent un message commun : l'Europe doit jouer un rôle essentiel dans la recherche d'une issue à la guerre, alors que Washington tient les rênes de la médiation. La Russie, qui avait accepté le principe de discussions tout en poursuivant ses bombardements, n'a pas commenté la frappe contre Ozon dans les informations disponibles.\n\nOzon n'est pas une cible anodine : l'entreprise est l'un des piliers du e-commerce russe, souvent comparée à Amazon, et ses entrepôts irriguent l'économie quotidienne du pays. La frappe montre que Kiev entend éroder l'arrière logistique russe, y compris civil, pendant que se négocie la paix. Reste à voir si cette double séquence, pression militaire et dialogue, rapproche une rencontre Zelensky-Poutine ou au contraire raidit Moscou avant la prochaine session de pourparlers annoncée.",
+      "sources": [
+        "Le Monde - International",
+        "RFI"
+      ],
+      "publishedAt": "2026-11-04T05:56:28.000Z"
+    },
+    {
+      "id": "2026-11-04-03",
+      "category": "geopolitique",
+      "title": "Congrès américain : les démocrates reprennent le contrôle",
+      "imageUrl": "https://s.france24.com/media/display/3cc698cc-d817-11f1-ac45-bf1914cabd52/w:1280/p:16x9/000-D6CH4VG.jpg",
       "location": {
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "Washington, États-Unis"
       },
       "bullets": [
-        "Les Américains votent ce mardi pour des midterms à valeur de référendum sur Trump.",
-        "La Cour suprême refuse à Trump le blocage de bulletins californiens contestés.",
-        "Les démocrates espèrent une vague qui reprendrait le Congrès aux républicains.",
-        "Selon RFI et Courrier International, une défaite laisserait Trump libre à l'international.",
-        "La guerre en Iran, l'essence et les rafles de l'ICE ont érodé sa popularité."
+        "Les démocrates s'emparent du Congrès américain lors des élections de mi-mandat.",
+        "Le camp de Donald Trump subit une déroute, selon le direct de France 24.",
+        "Le scrutin du 3 novembre portait aussi sur de nombreux sièges de gouverneurs.",
+        "Le parti démocrate obtient un pouvoir de blocage sur les réformes de Trump.",
+        "La nouvelle majorité démocrate pourra lancer des enquêtes et tenir le budget."
       ],
-      "execSummary": "Les Américains votent ce mardi 3 novembre pour renouveler la Chambre des représentants et un tiers du Sénat, un scrutin que Le Monde qualifie de « référendum » sur Donald Trump. À la veille du vote, la Cour suprême a rejeté la demande de l'administration d'empêcher la Californie de comptabiliser des bulletins contestés, mettant fin à cette tentative, rapporte la BBC. Le président aborde le rendez-vous au plus bas : selon Le Monde, la guerre en Iran, la hausse des carburants, des soupçons de corruption et les rafles de la police de l'immigration ont érodé sa popularité en deux ans.\n\nDu côté démocrate, l'espoir est affiché : transformer le rejet du président en « vague » capable de reprendre le Congrès et d'entraver sérieusement ses deux dernières années de mandat. L'opposition veut enfin « s'opposer aux excès du président », résume Courrier International, et disposer d'un vrai contre-pouvoir institutionnel.\n\nPlusieurs voix jugent pourtant cet espoir illusoire. Maud Quessard, de l'Institut de recherche stratégique de l'école militaire, affirme sur RFI que Donald Trump « pourra continuer de passer en force » sur les dossiers internationaux, même battu. Dans The Times, relayé par Courrier International, l'ancien directeur de la rédaction du Wall Street Journal estime que le scrutin « risque de déchaîner » le président au lieu de le freiner. Le politologue Seth Masket renchérit dans Le Monde : une victoire démocrate n'entamerait pas l'emprise de Donald Trump sur le Parti républicain.\n\nLa politique étrangère cristallise l'enjeu : la Constitution réserve au président une large autonomie sur la guerre, les traités et les sanctions, qu'un Congrès hostile ne peut guère entamer. Une défaite républicaine pourrait donc paradoxalement déboucher sur davantage de décisions unilatérales, de l'Iran à l'Ukraine. Sur le plan intérieur, le camouflet judiciaire en Californie fixe un premier cadre pour les contestations de résultats qui s'annoncent. Les deux prochaines années s'ouvrent sous le signe d'un bras de fer institutionnel.",
+      "execSummary": "Selon le suivi en direct de France 24, les démocrates se sont emparés du Congrès américain à l'issue des élections de mi-mandat du mardi 3 novembre 2026, tandis que le camp de Donald Trump a subi une déroute. Le scrutin portait sur le renouvellement du Congrès ainsi que sur de nombreux postes de gouverneurs dans tout le pays. Attendu comme un référendum sur le président républicain, ce vote s'est soldé par un désaveu net de sa majorité sortante au Capitole.\n\nLe parti démocrate transforme son avance dans les urnes en pouvoir institutionnel : la nouvelle majorité fixera l'agenda législatif des chambres, pourra lancer des enquêtes parlementaires et tiendra les cordons du budget fédéral. Les dirigeants démocrates présentent ce basculement comme la sanction du bilan de Donald Trump, sur le plan économique comme sur celui des libertés, et comptent s'en servir de tremplin pour préparer la présidentielle de 2028.\n\nDans le camp républicain, l'ampleur de la déroute impose un examen sans complaisance. La perte du Congrès à mi-mandat affaiblit directement la capacité de Donald Trump à faire adopter ses réformes et relance les questions sur son autorité au sein de son propre parti. Certains cadres pourraient être tentés de prendre leurs distances pour préparer l'après-Trump, même si le président conserve une base fidèle et fortement mobilisée.\n\nDonald Trump finira son mandat en cohabitation : chaque réforme, chaque budget et chaque nomination devra désormais composer avec une majorité hostile au Congrès. Le risque de blocages budgétaires et d'enquêtes à répétition pèsera sur les deux dernières années du président. Les gouvernorats remportés offrent en outre aux démocrates des bastions locaux et de futures figures nationales, alors que les deux camps ont déjà la présidentielle de 2028 en ligne de mire.",
       "sources": [
-        "RFI",
-        "Le Monde - International",
-        "Courrier International",
-        "BBC World"
+        "France 24"
       ],
-      "publishedAt": "2026-11-03T06:14:31.000Z"
+      "publishedAt": "2026-11-04T06:25:56.000Z"
     },
     {
-      "id": "2026-11-03-02",
+      "id": "2026-11-04-04",
       "category": "geopolitique",
-      "title": "Zaporijjia bombardée, pourparlers annoncés à Abou Dhabi",
-      "imageUrl": "https://focus.courrierinternational.com/2026/11/02/52/0/5548/3698/1200/630/60/0/2e1158c_ftp-1-ck5j90gk5vop-2026-11-02t213053z-3438278-rc2rfoa2zcqz-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia-region.JPG",
+      "title": "Afrique du Sud : l'ANC joue gros aux municipales",
+      "imageUrl": "https://s.rfi.fr/media/display/719aa35c-d80f-11f1-b735-695cb59fade5/w:1024/p:16x9/000-D6B8697.jpg",
       "location": {
-        "lat": 47.8388,
-        "lng": 35.1396,
-        "name": "Zaporijjia, Ukraine"
+        "lat": -26.2041,
+        "lng": 28.0473,
+        "name": "Johannesburg, Afrique du Sud"
       },
       "bullets": [
-        "Des frappes russes ont tué au moins 26 civils dans un centre d'aide humanitaire lundi.",
-        "L'émissaire américain Steve Witkoff annonce des négociations les 10 et 11 novembre à Abou Dhabi.",
-        "Le président Zelensky accuse Moscou de torpiller tout progrès vers la paix.",
-        "La Russie, qui n'a pas commenté les frappes, a accepté le principe des discussions.",
-        "Le processus de paix sous médiation américaine se heurte à la poursuite des bombardements."
+        "Les Sud-Africains votent ce mercredi pour élire quelque 10 000 conseillers municipaux.",
+        "Le chômage, la criminalité et la corruption ont érodé l'électorat du parti au pouvoir.",
+        "L'Alliance démocratique est annoncée au coude-à-coude avec l'ANC dans les métropoles.",
+        "L'ANC, au pouvoir depuis 1994, subit le désamour de sa base, note RFI.",
+        "Les grandes villes pourraient basculer durablement vers l'opposition après ce scrutin."
       ],
-      "execSummary": "Une frappe russe a tué au moins 26 personnes lundi lors d'une distribution d'aide humanitaire dans un village de l'oblast de Zaporijjia, dans le sud-est de l'Ukraine. Le Monde, Courrier International et la BBC avancent ce bilan, tandis que France 24 fait état d'au moins 29 morts. Selon la BBC, au moins neuf bombes aériennes de 3 000 kilos ont visé le village, une attaque que Volodymyr Zelensky a qualifiée d'« absolument horrible ». Le même jour, l'émissaire américain Steve Witkoff a annoncé des « négociations de travail » entre Kiev et Moscou les 10 et 11 novembre à Abou Dhabi, sous médiation américaine.\n\nVolodymyr Zelensky accuse la Russie de torpiller tout « progrès vers la paix ». Pour Kiev, bombarder une distribution d'aide à quelques jours de pourparlers annoncés prouve que Moscou ne veut pas la désescalade qu'il prétend négocier. Cette accusation s'inscrit dans une séquence déjà tendue : la trêve humanitaire d'Olechky vient d'expirer sans prolongation et les applications d'alerte des deux pays ont été piratées dimanche.\n\nAucune réaction russe à cette accusation ne figure dans les sources disponibles. Moscou a néanmoins accepté le principe des discussions, selon Steve Witkoff. Washington s'impose comme médiateur direct du conflit : l'administration américaine fixe le lieu, la date et l'ordre du jour, qui couvrira « les dispositions de sécurité d'après-guerre, la désescalade, les efforts humanitaires et les prochaines étapes vers la paix ».\n\nRendez-vous dans une semaine aux Émirats arabes unis : la médiation américaine jouera sa crédibilité. Si les bombardements se poursuivent d'ici le 10 novembre, la capacité de Washington à arracher une désescalade sera directement mise en cause. Pour les civils du sud-est ukrainien, les « efforts humanitaires » inscrits à l'agenda constituent l'enjeu le plus immédiat, les files d'aide étant devenues des cibles. L'ordre du jour dessine aussi les contours de l'après-guerre : garanties de sécurité, désescalade, reconstruction.",
-      "sources": [
-        "France 24",
-        "Le Monde - International",
-        "Courrier International",
-        "BBC World"
-      ],
-      "publishedAt": "2026-11-03T05:51:55.000Z"
-    },
-    {
-      "id": "2026-11-03-03",
-      "category": "geopolitique",
-      "title": "Mali : six mois de silence sur l'enlèvement de Mountaga Tall",
-      "imageUrl": "https://s.rfi.fr/media/display/7977362a-5b51-11f1-ac29-005056a90284/w:1024/p:16x9/Mountaga-Tall-AFPTV.jpg",
-      "location": {
-        "lat": 12.6392,
-        "lng": -8.0029,
-        "name": "Bamako, Mali"
-      },
-      "bullets": [
-        "Les autorités maliennes gardent le silence six mois après l'enlèvement de Mountaga Tall.",
-        "L'ancien ministre de la Justice Mamadou Ismaïla Konaté dénonce ce silence sur RFI.",
-        "La Sécurité d'État a aussi enlevé son fils, détenu dans un lieu inconnu.",
-        "Les avocats de la famille dénoncent une détention hors de toute procédure légale.",
-        "L'état de droit et la transition démocratique au Mali restent en question."
-      ],
-      "execSummary": "Six mois après l'enlèvement de Mountaga Tall, les autorités maliennes de transition n'ont toujours rien dit. L'avocat et ancien ministre, figure de la défense de la démocratie au Mali, a été enlevé à son domicile dans la nuit du 2 au 3 mai par des hommes encagoulés de la Sécurité d'État. Quelques jours plus tard, les services maliens ont aussi enlevé son fils, détenu depuis dans un lieu inconnu et hors de toute procédure légale. Selon RFI, les démarches des avocats de la famille sont restées sans réponse.\n\nDu côté du pouvoir, le silence est la seule position officielle. Aucune charge n'a été rendue publique, aucune localisation de détention n'a été communiquée, aucun juge n'a été saisi. L'intervention nocturne de la Sécurité d'État signe néanmoins l'implication des services du régime de transition, au pouvoir depuis les coups d'État de 2020 et 2021. En gardant une figure juridique reconnue dans une détention secrète et sans explication, la junte semble placer ses critiques hors du champ de la loi.\n\nFace à ce mur, Mamadou Ismaïla Konaté, avocat et ancien ministre malien de la Justice, a pris la parole sur RFI. Il rappelle que le silence « n'efface ni les compétences de la justice, ni les obligations de l'État ». Pour les avocats de la famille, la détention de Mountaga Tall et de son fils s'apparente à une disparition forcée : aucune procédure légale n'a été engagée et les proches ignorent où ils sont retenus. Ils exigent que l'État rende des comptes et que la justice exerce pleinement son rôle.\n\nL'affaire Tall teste directement l'indépendance de la justice malienne, cinq ans après le premier putsch. Tant que le régime refuse de s'expliquer, la transition censée ramener le pays vers un ordre constitutionnel perd en crédibilité. Chaque semaine de silence supplémentaire érode l'état de droit et risque de décourager les voix démocratiques encore actives au Mali. La mobilisation des juristes maliens et l'attention des médias internationaux maintiennent néanmoins la pression sur Bamako, où le sort de l'avocat et de son fils reste inconnu.",
+      "execSummary": "Les Sud-Africains votent ce mercredi 4 novembre 2026 pour des élections locales aux allures de test national. Plus de 500 partis sont enregistrés auprès de la Commission électorale pour briguer quelque 10 000 sièges de conseillers municipaux, selon RFI. Le Congrès national africain (ANC), au pouvoir sans interruption depuis 1994, arrive affaibli : Le Monde l'annonce au coude-à-coude avec l'Alliance démocratique dans plusieurs grandes villes du pays.\n\nLe scrutin se déroule dans un pays rongé par de multiples crises : chômage massif, criminalité, déliquescence des infrastructures et scandales de corruption, énumère Le Monde. Le parti qui a porté Nelson Mandela au pouvoir et conduit le pays à la fin de l'apartheid voit son électorat s'éroder d'élection en élection. La gestion dégradée des grandes métropoles, où les services publics pâtissent du sous-investissement, cristallise le mécontentement des électeurs urbains, autrefois fidèles à l'ANC.\n\nL'Alliance démocratique entend transformer ce scrutin municipal en tremplin et ravir plusieurs métropoles au parti au pouvoir. L'ANC aborde de son côté ce rendez-vous marqué par le désamour et l'érosion de sa base, souligne RFI, qui y voit un nouveau test pour la formation historique. Les analystes cités par la presse internationale évoquent une déconfiture annoncée, tant les indicateurs sociaux et économiques pèsent contre les sortants.\n\nUne défaite dans les métropoles priverait l'ANC de ses derniers bastions urbains et accélérerait la recomposition du paysage politique sud-africain. Les coalitions locales, déjà monnaie courante, deviendraient la norme dans la plupart des grandes villes, compliquant la gouvernance quotidienne. Pour l'opposition, chaque municipalité conquise offrirait une vitrine de gestion alternative avant les prochaines échéances nationales. Pour l'ANC, ce scrutin pose la question de sa survie comme force politique dominante, trente-deux ans après la fin de l'apartheid.",
       "sources": [
         "RFI",
-        "BBC World"
+        "Le Monde"
       ],
-      "publishedAt": "2026-11-03T05:44:10.000Z"
+      "publishedAt": "2026-11-04T06:32:17.000Z"
     },
     {
-      "id": "2026-11-03-04",
+      "id": "2026-11-04-05",
       "category": "tech",
-      "title": "Cyberattaque des frigos : six pays européens touchés",
-      "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/ollage-12.png?resize=1600,900&key=7829d00c",
+      "title": "Jeux vidéo : l'IA accélère les clones malgré les garde-fous",
+      "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/07/capture-decran-2026-05-05-a-160716.jpg?resize=1600,900&key=162ed2f5",
       "location": {
-        "lat": 50.85,
-        "lng": 4.35,
-        "name": "Bruxelles, Belgique"
+        "lat": 37.7749,
+        "lng": -122.4194,
+        "name": "San Francisco"
       },
       "bullets": [
-        "Des frigos connectés de supermarchés piratés dans la nuit du 1er au 2 novembre.",
-        "La Belgique, la Suède, la Finlande, l'Estonie, le Luxembourg et l'Irlande sont touchés.",
-        "Le logiciel de l'équipementier danois Danfoss a de nouveau été ciblé.",
-        "Le mode opératoire belge est identique à l'attaque française d'octobre, selon Numerama.",
-        "La chaîne du froid alimentaire devient une cible de cyberattaques à l'échelle européenne."
+        "L'IA permet désormais de décompiler, fusionner ou copier des jeux bien plus vite.",
+        "Les nouvelles règles de Claude interdisent de l'utiliser pour cloner des jeux.",
+        "Des communautés de passionnés adoptent ces outils entre enthousiasme et vertige, selon Le Monde.",
+        "La vague d'imitateurs dépasse les moyens d'un seul acteur, estime Ars Technica.",
+        "Le droit d'auteur des créateurs se retrouve bousculé par cette copie de masse."
       ],
-      "execSummary": "Dans la nuit du 1er au 2 novembre 2026, des pirates informatiques ont pris le contrôle de systèmes de régulation frigorifiques connectés à Internet dans plusieurs supermarchés européens. Selon Le Monde, six pays sont concernés : la Belgique, la Suède, la Finlande, l'Estonie, le Luxembourg et l'Irlande. Numerama précise que des dizaines de magasins ont vu la température de leurs réfrigérateurs et de leurs congélateurs grimper le 2 novembre. Un logiciel de l'équipementier danois Danfoss a été ciblé, comme lors de l'attaque contre des magasins d'alimentation en France en octobre.\n\nCette vague marque un élargissement inédit. Ce qui ressemblait, avec l'attaque française d'octobre, à un incident national prend une dimension européenne, qualifiée de « changement d'échelle » par Numerama. Or la chaîne du froid est un maillon sensible de l'approvisionnement alimentaire : une hausse de température prolongée peut rendre des denrées impropres à la consommation et forcer les enseignes à détruire leurs stocks. Les systèmes visés sont des équipements industriels connectés, pilotés à distance et exposés aux intrusions.\n\nLes deux rédactions restent prudentes sur l'origine des attaques, dont les auteurs ne sont pas identifiés à ce stade. Numerama relève toutefois que le mode opératoire décrit en Belgique est le même que celui de l'attaque française d'octobre, ce qui suggère l'action d'un même groupe ou d'un même outil. Le Monde souligne que le logiciel de Danfoss a « de nouveau » été ciblé, ce qui place l'équipementier au centre des interrogations.\n\nDanfoss va devoir expliquer comment ses équipements ont pu être piratés deux fois en un mois, et quelles protections il compte déployer. Pour les distributeurs, la facture des marchandises perdues et la confiance des clients sont en jeu. Cette série d'attaques illustre surtout la vulnérabilité des équipements industriels connectés et pourrait accélérer l'adoption de règles de cybersécurité plus strictes pour ces matériels en Europe.",
+      "execSummary": "Anthropic a durci les règles d'usage de son modèle Claude pour interdire le clonage de jeux vidéo, révèle Ars Technica. Cette décision intervient alors que les copies générées par intelligence artificielle se multiplient sur les boutiques en ligne. En parallèle, Le Monde documente comment l'IA transforme le travail des communautés qui déchiffrent et reproduisent le code des jeux : des opérations de décompilation, de fusion ou de copie qui prenaient des années se règlent désormais en une fraction de ce temps.\n\nLa décompilation relevait jusqu'ici d'un patient travail d'orfèvre, mené par des passionnés soucieux de préserver des classiques ou de les faire tourner sur d'autres machines. L'arrivée fulgurante de l'IA effondre le temps et le niveau de compétence nécessaires, faisant passer la copie de jeux d'une pratique de niche à une capacité quasi industrielle. Le phénomène déborde la seule préservation : des imitateurs s'en emparent pour inonder le marché de clones opportunistes.\n\nLes acteurs du secteur réagissent en ordre dispersé. Anthropic pose un garde-fou contractuel, mais Ars Technica estime que le tsunami d'imitateurs dépasse largement ce qu'un seul fabricant de modèle peut endiguer. Le Monde décrit des communautés de bidouilleurs tiraillées entre enthousiasme et vertige face à ces outils. La plateforme Nexus Mods, premier dépôt de modifications de jeux sur PC, impose de son côté aux auteurs de déclarer tout usage de l'IA, rapporte The Verge.\n\nPour les ayants droit, la contrefaçon change d'échelle : prouver l'atteinte à une œuvre face à des copies produites en série devient un défi juridique autant que technique. La frontière entre préservation légitime et piratage se brouille, et la responsabilité des concepteurs de modèles reste à définir. Si les règles d'Anthropic font école, elles ne suffiront pas : tant que les outils restent librement accessibles, la copie courra plus vite que le droit.",
       "sources": [
+        "Ars Technica",
         "Le Monde - Pixels",
-        "Numerama"
+        "The Verge"
       ],
-      "publishedAt": "2026-11-02T23:30:16.000Z"
+      "publishedAt": "2026-11-04T01:15:34.000Z"
     },
     {
-      "id": "2026-11-03-05",
+      "id": "2026-11-04-06",
       "category": "eco",
-      "title": "Smic : une revalorisation anticipée envisagée dès décembre",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "title": "La flambée du carburant frappe Ryanair et les ménages",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
       "location": {
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "name": "Paris, France"
+        "lat": 53.3498,
+        "lng": -6.2603,
+        "name": "Dublin"
       },
       "bullets": [
-        "Le gouvernement envisage d'avancer au 1er décembre la revalorisation du smic.",
-        "Les mobilisations sociales contre la vie chère poussent l'exécutif à réagir.",
-        "Le gazole a baissé de 12 à 18 centimes dans la moitié des stations-service.",
-        "Les préfets doivent faciliter l'ouverture dominicale des commerces après les pillages.",
-        "Le montant du geste social sera le premier test de crédibilité de l'exécutif."
+        "Le prix des carburants flambe et frappe les compagnies aériennes comme les ménages.",
+        "La guerre entre les États-Unis, Israël et l'Iran entretient la tension sur les cours.",
+        "La compagnie Ryanair prévoit deux milliards d'euros de surcoût carburant en 2028.",
+        "Les 200 passagers de l'Odyssey ont été débarqués au Cambodge, la croisière stoppée.",
+        "La hausse des billets d'avion et du fioul menace le pouvoir d'achat des ménages."
       ],
-      "execSummary": "L'exécutif français a multiplié les gestes sur le pouvoir d'achat lundi 2 novembre. Le ministre du travail, Jean-Pierre Farandou, s'est dit ouvert à une anticipation au 1er décembre de la revalorisation automatique du smic, prévue au 1er janvier, et a évoqué un éventuel « coup de pouce ». Le ministre du commerce, Serge Papin, a annoncé une baisse du gazole de 12 à 18 centimes le litre dans plus de la moitié des stations-service. Les préfets ont aussi été chargés de faciliter l'ouverture dominicale des commerces, après les violences du 17 octobre qui ont touché 3 000 magasins, dont près de 400 pillés.\n\nCes annonces répondent aux mobilisations sociales contre la vie chère. La croissance française reste très faible et la consommation s'essouffle, alerte Pascal Le Merrer, directeur des Journées de l'économie qui se tiennent à Lyon. La gêne budgétaire se lit jusque dans les jeux radiophoniques : sur RTL, les candidats de « Quitte ou double » jouent désormais la sécurité pour repartir avec un peu d'argent. Outre-Manche, la BBC rapporte une demande accrue de dons de Noël pour les familles en difficulté et de nouvelles règles encadrant l'accès au paiement fractionné.\n\nEmmanuel Macron s'est félicité de « solutions concrètes qui portent leurs fruits », obtenues « sans toucher aux taxes ». Le gouvernement reste évasif sur l'ampleur du geste envisagé pour le smic, entre simple avance du calendrier et revalorisation réelle. Pascal Le Merrer appelle, lui, les candidats à la présidentielle à s'emparer des travaux des économistes pour sortir le pays du déclin.\n\nLe montant du coup de pouce constituera le premier test de crédibilité sociale de l'exécutif, à quelques semaines des fêtes et dans un budget contraint. L'élargissement du travail dominical, décidé sans consultation des partenaires sociaux, devrait raviver la fronde syndicale. La séquence dessine déjà le terrain de la présidentielle de 2027 : pouvoir d'achat, croissance et modèle social s'annoncent comme les lignes de fracture de la campagne.",
+      "execSummary": "La flambée des prix des carburants se répercute désormais sur le transport et les ménages. Ryanair a prévenu que sa facture de carburant pourrait enfler de deux milliards d'euros en 2028 si la guerre entre les États-Unis, Israël et l'Iran ne s'arrête pas, évoquant un possible gel des salaires de ses personnels et une hausse de ses tarifs. Le même choc a contraint l'Odyssey, paquebot proposant une « croisière sans fin », à interrompre brutalement son périple au Cambodge et à débarquer ses 200 passagers, qui sillonnaient les mers depuis 2024. En Alsace, les factures de fioul domestique ont fortement grimpé en un an.\n\nCe renchérissement s'inscrit dans un marché pétrolier tendu par le conflit au Moyen-Orient, qui maintient les cours des hydrocarbures à des niveaux élevés. Près de 9 % des résidences principales françaises restent chauffées au fioul, ce qui expose directement ces foyers à la volatilité des cours. Pour les compagnies aériennes, le kérosène constitue le premier poste de coût : toute tension durable sur le marché se traduit mécaniquement dans le prix des billets.\n\nLes réactions montrent la diffusion du choc à toute l'économie. Ryanair conditionne explicitement sa politique salariale et tarifaire à une désescalade au Moyen-Orient. L'opérateur de l'Odyssey a jeté l'éponge, faute de pouvoir absorber la hausse des prix, laissant ses résidents chercher une porte de sortie. Dans le Bas-Rhin, les clients confient leurs appréhensions aux livreurs de fioul lors des tournées et redoutent un hiver coûteux.\n\nRyanair donne l'échelle du phénomène : deux milliards d'euros de surcoût potentiel en une seule année, pour une seule compagnie. Si les cours restent élevés, la hausse des billets d'avion et des factures de chauffage rognera le pouvoir d'achat des ménages européens et entretiendra une inflation importée. Les secteurs les plus exposés, transport aérien et maritime en tête, devront arbitrer entre marges, salaires et tarifs. Toute accalmie durable dépend d'une issue au conflit au Moyen-Orient, que les acteurs économiques scrutent désormais comme un indicateur de leurs coûts à venir.",
       "sources": [
-        "Le Monde - Économie",
-        "BBC Business"
+        "BBC Business",
+        "Le Monde - Économie"
       ],
-      "publishedAt": "2026-11-03T06:10:07.000Z"
+      "publishedAt": "2026-11-04T06:13:19.000Z"
     }
   ]
 }
