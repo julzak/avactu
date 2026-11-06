@@ -1,187 +1,231 @@
 {
-  "generatedAt": "2026-11-05T07:01:47.747Z",
+  "generatedAt": "2026-11-06T07:01:13.448Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Ligue des champions : Lens subit une défaite historique face à Côme",
+      "id": "cluster-3",
+      "topic": "Accord sur le gazole mort-né : pourquoi les pétroliers russes se détournent des ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-05-0bc6870a",
-          "title": "Ligue des champions : Lens subit une défaite historique face à Côme",
-          "description": "Le RC Lens a subi la plus lourde défaite de l'histoire du football français en Coupe d'Europe, en s'inclinant à domicile face à Côme (9-1) en Ligue des champions. Déjà battus par Bruges (0-3) et le Sporting (0-2), les Sang et Or enchaînent un troisième revers européen consécutif.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261105-ligue-champions-lens-subit-d%C3%A9faite-historique-face-c%C3%B4me-football-real-madrid-europa-joj-dakar-tennis",
-          "imageUrl": "https://s.france24.com/media/display/3f65db44-d8d8-11f1-abb9-695cb59fade5/w:1024/p:16x9/lens-1.jpg",
+          "id": "2026-11-06-a838332f",
+          "title": "Accord sur le gazole mort-né : pourquoi les pétroliers russes se détournent des États-Unis",
+          "description": "Les premiers pétroliers qui devaient livrer du gazole russe aux États-Unis ont changé de cap et ne se dirigent plus vers les côtes américaines. Une décision qui enterre, sans doute, l’accord entre Donald Trump et Vladimir Poutine conclu avant les élections de mi-mandat.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261106-accord-sur-le-gazole-mort-n%C3%A9-pourquoi-les-p%C3%A9troliers-russes-se-d%C3%A9tournent-des-%C3%A9tats-unis",
+          "imageUrl": "https://s.france24.com/media/display/583fe45e-d93a-11f1-9d4e-bf1914cabd52/w:1024/p:16x9/image-tanker-diesel3.png",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-05T06:46:07.000Z",
-          "fetchedAt": "2026-11-05T06:57:47.311Z"
+          "publishedAt": "2026-11-06T06:37:01.000Z",
+          "fetchedAt": "2026-11-06T06:57:13.067Z"
         },
         {
-          "id": "2026-11-05-4e10896e",
-          "title": "En Turquie, une COP31 tout électrique",
-          "description": "Agir face au dérèglement climatique et s’adapter : chaque semaine, les pistes de la presse étrangère.",
-          "url": "https://www.courrierinternational.com/article/climatiques-en-turquie-une-cop31-tout-electrique_285139",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/04/0/2/4528/3019/1200/630/60/0/869f5e2_upload-1-mnvtyzmaxkgg-cop31.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-05T06:00:03.000Z",
-          "fetchedAt": "2026-11-05T06:57:47.443Z"
-        },
-        {
-          "id": "2026-11-05-812dd5bb",
-          "title": "En Angleterre, Crowborough, ville meurtrie par un an de manifestations anti-migrants",
-          "description": "La petite ville anglaise de 22 000 habitants autrefois saluée pour son accueil des réfugiés ukrainiens est le théâtre, chaque dimanche, depuis un an, de défilés d’extrême droite. Militants et résidents protestent contre l’hébergement provisoire de demandeurs d’asile dans un camp militaire.",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/05/en-angleterre-crowborough-ville-meurtrie-par-un-an-de-manifestations-anti-migrants_6806814_4500055.html",
+          "id": "2026-11-05-f36eb511",
+          "title": "Midterms 2026 : retrouvez notre direct consacré aux élections de mi-mandat aux Etats-Unis",
+          "description": "Les Américains ont infligé une sanction historique au président Donald Trump et à son parti, mardi 3 novembre, en élisant en masse des démocrates jusque dans des bastions conservateurs tels que le Kansas et le Texas, à des postes de sénateurs, gouverneurs ou aux Parlements locaux.",
+          "url": "https://www.lemonde.fr/international/live/2026/11/06/en-direct-midterms-2026-apres-avoir-accepte-les-resultats-donald-trump-denonce-a-present-des-elections-truquees_6805528_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-05T05:00:41.000Z",
-          "fetchedAt": "2026-11-05T06:57:47.282Z"
+          "publishedAt": "2026-11-05T23:18:11.000Z",
+          "fetchedAt": "2026-11-06T06:57:13.002Z"
         },
         {
-          "id": "2026-11-05-76424e10",
-          "title": "Afrique du Sud: un vote dans le calme, l’ANC contesté à Johannesburg et Durban",
-          "description": "Les bureaux de vote ont fermé en Afrique du Sud. À 15h TU, la participation s'élevait à 12 millions de votants selon la commission électorale. Le dépouillement est en cours. Ces élections locales sont un test crucial pour le Congrès national africain (ANC) qui ne cesse de perdre en influence au profit d’autres partis.",
-          "url": "https://www.rfi.fr/fr/afrique/20261105-afrique-du-sud-un-vote-dans-le-calme-l-anc-contest%C3%A9-%C3%A0-johannesburg-et-durban",
-          "imageUrl": "https://s.rfi.fr/media/display/0f333b22-d8a3-11f1-b8b8-1beafce15fea/w:1024/p:16x9/2026-11-04T071633Z-1229212996-RC2VGOAB7D4P-RTRMADP-3-SAFRICA-ELECTION.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-05T04:23:48.000Z",
-          "fetchedAt": "2026-11-05T06:57:57.920Z"
-        },
-        {
-          "id": "2026-11-05-12f145d5",
-          "title": "Ce qui lie la jeunesse européenne ? Son manque de foi en l’avenir",
-          "description": "Les revendications des jeunes qui manifestent en Europe diffèrent d’un pays à l’autre. Mais, pour cette journaliste de l’hebdomadaire allemand “Die Zeit”, les membres de la génération Z se retrouvent au moins sur un point : leur avenir s’annonce sombre et, si rien n’est fait, il le restera.",
-          "url": "https://www.courrierinternational.com/article/analyse-ce-qui-lie-la-jeunesse-europeenne-son-manque-de-foi-en-l-avenir_281999",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/02/156/86/6731/4487/1200/630/60/0/77c5c49_upload-1-gm6oifbivfj0-cf2170030.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-05T04:00:13.000Z",
-          "fetchedAt": "2026-11-05T06:57:47.443Z"
-        },
-        {
-          "id": "2026-11-04-165ec0d5",
-          "title": "EN DIRECT, midterms 2026 : dans son premier discours après une défaite historique, Trump parle de sa salle de bal à la Maison Blanche",
-          "description": "Le président américain a réservé ses premières remarques, mercredi, à son projet de rénovation. Quelques heures avant, son vice-président a déclaré que « la véritable raison pour laquelle nous avons perdu est évidente pour presque tout le monde », à savoir la guerre lancée par son administration et Israël contre l’Iran.",
-          "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-dans-son-premier-discours-apres-une-defaite-historique-trump-parle-de-sa-salle-de-bal-a-la-maison-blanche_6805528_3210.html",
+          "id": "2026-11-05-b58937d8",
+          "title": "Etats-Unis : le gouverneur démocrate de Californie commue la peine de 548 condamnés à mort",
+          "description": "Gavin Newsom, candidat probable à l’investiture démocrate pour la présidentielle de 2028, dénonce un système incapable d’être « mis en œuvre de manière équitable ». Sa décision, annoncée jeudi, concerne un quart des condamnés à mort aux Etats-Unis.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-04T22:31:27.000Z",
-          "fetchedAt": "2026-11-05T06:57:47.282Z"
+          "publishedAt": "2026-11-05T21:55:04.000Z",
+          "fetchedAt": "2026-11-06T06:57:13.002Z"
+        },
+        {
+          "id": "2026-11-05-224d4271",
+          "title": "Midterms 2026 : à Los Angeles, la victoire de Nithya Raman à la mairie illustre la montée en puissance d’une nouvelle gauche aux Etats-Unis",
+          "description": "La démocrate, 45 ans, a battu l’actuelle maire de la ville de Los Angeles, Karen Bass, 73 ans, une responsable politique pourtant chevronnée. Comme Zohran Mamdani, maire de New York, Nithya Raman se concentre sur les préoccupations sociales des électeurs.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-a-los-angeles-la-victoire-de-nithya-raman-a-la-mairie-illustre-la-montee-en-puissance-d-une-nouvelle-gauche-aux-etats-unis_6807341_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-05T19:57:12.000Z",
+          "fetchedAt": "2026-11-06T06:57:13.002Z"
+        },
+        {
+          "id": "2026-11-05-60e62a24",
+          "title": "L’accord américano-russe sur le gazole vanté par Donald Trump bat de l’aile",
+          "description": "Plusieurs navires russes chargés de gazole destiné au marché américain ont brusquement changé de cap en haute mer, ces derniers jours. Craignant les risques réputationnels et les sanctions, les entreprises américaines rechignent à en acheter.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-05T18:38:21.000Z",
+          "fetchedAt": "2026-11-06T06:57:13.002Z"
+        },
+        {
+          "id": "2026-11-05-c9e9d848",
+          "title": "Midterms aux États-Unis : “Même les démocrates ne sont pas nos amis”",
+          "description": "Célébré par une grande partie de la presse européenne, le succès démocrate aux élections de mi-mandat américaines ne mettra pas un terme aux tensions commerciales entre les États-Unis et l’Europe, estime “Die Zeit”. Pour l’hebdomadaire de gauche allemand, la hache de guerre est loin d’être enterrée.",
+          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-midterms-aux-etats-unis-meme-les-democrates-ne-sont-pas-nos-amis_285270",
+          "imageUrl": "https://focus.courrierinternational.com/2026/11/04/0/98/5220/3480/1200/630/60/0/fccdd6f_ftp-1-6wouojpkepme-afp-d6cw6qy.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-05T14:25:17.000Z",
+          "fetchedAt": "2026-11-06T06:57:13.026Z"
         }
       ]
     },
     {
-      "id": "cluster-2",
-      "topic": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "id": "cluster-9",
+      "topic": "En Israël, Eisenkot apparaît en position de force pour former un gouvernement",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-05-b1a7a370",
-          "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-          "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
-          "source": "BBC World",
+          "id": "2026-11-06-c0eceed7",
+          "title": "En Israël, Eisenkot apparaît en position de force pour former un gouvernement",
+          "description": "Dans un message diffusé jeudi soir, le président israélien Isaac Herzog a indiqué que le chef du parti centriste Yashar avait reçu le soutien de 67 députés contre 46 pour l’actuel Premier ministre Benyamin Nétanyahou. Si Eisenkot bénéficie d’une dynamique favorable, sa capacité à réunir une majorité pour gouverner reste toutefois incertaine, prévient la presse israélienne.",
+          "url": "https://www.courrierinternational.com/article/politique-en-israel-eisenkot-apparait-en-position-de-force-pour-former-un-gouvernement_285354",
+          "imageUrl": "https://focus.courrierinternational.com/2026/10/27/0/3/5494/3663/1200/630/60/0/13548ad_ftp-1-kegcwzdj0j5t-2026-10-27t234936z-337143780-rc2zboavpw2l-rtrmadp-3-israel-election.JPG",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-05T06:35:25.000Z",
-          "fetchedAt": "2026-11-05T06:57:57.824Z"
+          "publishedAt": "2026-11-06T05:11:31.000Z",
+          "fetchedAt": "2026-11-06T06:57:13.026Z"
         },
         {
-          "id": "2026-11-05-c41690c0",
-          "title": "À Hong Kong, le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires",
-          "description": "Déjà détenu depuis près de six ans, le militant Joshua Wong encourait la prison à perpétuité pour collusion avec des pays étrangers, en vertu de la loi de sécurité nationale. Un tribunal hongkongais l'a finalement condamné jeudi à 10 ans de prison supplémentaires.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20261105-hong-kong-militant-prodemocratie-joshua-wong-condamne-10-ans-prison-supplementaires-loi-securite-nationale-chine-justice",
-          "imageUrl": "https://s.france24.com/media/display/d6dea070-d8c7-11f1-85d5-1beafce15fea/w:1024/p:16x9/2026-11-05T012225Z-2132652381-RC2DHOAGINB9-RTRMADP-3-HONGKONG-SECURITY-JOSHUAWONG.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-05T04:15:17.000Z",
-          "fetchedAt": "2026-11-05T06:57:47.311Z"
-        },
-        {
-          "id": "2026-11-05-c5f109ee",
-          "title": "Hong Kong: le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires",
-          "description": "Un tribunal hongkongais a condamné jeudi le militant prodémocratie Joshua Wong à 10 ans de prison supplémentaires pour collusion, à l'issue d'un nouveau procès en vertu de la loi de sécurité nationale.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20261105-hong-kong-le-militant-prod%C3%A9mocratie-joshua-wong-condamn%C3%A9-%C3%A0-10-ans-de-prison-suppl%C3%A9mentaires",
-          "imageUrl": "https://s.rfi.fr/media/display/9de60370-d8c8-11f1-a3a4-695cb59fade5/w:1024/p:16x9/2026-11-04T031345Z-2037239602-RC2RGOATJWFS-RTRMADP-3-HONGKONG-SECURITY-JOSHUAWONG.jpg",
+          "id": "2026-11-05-e297be18",
+          "title": "Israël: Gadi Eisenkot en position favorable pour former le prochain gouvernement",
+          "description": "En Israël, le président Herzog poursuit ce jeudi 5 novembre ses consultations. À qui va-t-il confier la charge de former un gouvernement ? Les élections législatives qui se sont déroulées la semaine dernière dans le pays n’ont pas permis de dégager une majorité claire.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20261105-isra%C3%ABl-gadi-eisenkot-en-position-favorable-pour-former-le-prochain-gouvernement",
+          "imageUrl": "https://s.rfi.fr/media/display/a40e8bcc-d91e-11f1-837c-695cb59fade5/w:1024/p:16x9/AP26300840925311.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-05T03:28:35.000Z",
-          "fetchedAt": "2026-11-05T06:57:57.920Z"
+          "publishedAt": "2026-11-05T14:10:11.000Z",
+          "fetchedAt": "2026-11-06T06:57:17.535Z"
         }
       ]
     },
     {
       "id": "cluster-12",
-      "topic": "France: les syndicats dans la rue pour les salaires, le gouvernement sous pressi",
+      "topic": "Trump signs order preventing future presidents from changing Oval Office ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-05-de161e18",
-          "title": "France: les syndicats dans la rue pour les salaires, le gouvernement sous pression et «vigilant»",
-          "description": "La journée interprofessionnelle de grèves et de manifestations pour les salaires de ce jeudi 5 novembre va-t-elle faire tourner le pays au ralenti ? Tour d'horizon des principaux impacts attendus, alors que les syndicats, rejoints par les jeunes et les gilets jaunes, appellent secteurs public et privé à se mobiliser.",
-          "url": "https://www.rfi.fr/fr/france/20261105-france-les-syndicats-dans-la-rue-pour-les-salaires-le-gouvernement-sous-pression-et-vigilant",
-          "imageUrl": "https://s.rfi.fr/media/display/45f6e334-2261-11ea-9ec1-005056a98db9/w:1024/p:16x9/2019-12-17t132205z_1417530923_rc21xd9si3ho_rtrmadp_3_france-protests-pensions-demo_0_0.jpg",
-          "source": "RFI",
+          "id": "2026-11-06-89b5f6f0",
+          "title": "Trump signs order preventing future presidents from changing Oval Office ",
+          "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/330b/live/697ff880-d9ad-11f1-a701-fddedf244c16.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-05T04:15:00.000Z",
-          "fetchedAt": "2026-11-05T06:57:57.920Z"
+          "publishedAt": "2026-11-06T04:29:25.000Z",
+          "fetchedAt": "2026-11-06T06:57:17.677Z"
         },
         {
-          "id": "2026-11-05-76268e2e",
-          "title": "Les forces de l’ordre françaises, impitoyables et “fières de leur réputation”",
-          "description": "La grève interprofessionnelle de ce 5 novembre s’annonce comme une journée de forte mobilisation. Pour l’encadrer, une police et une gendarmerie françaises qui comptent parmi les plus sévères d’Europe, écrit “The New Statesman” dans un article critique. Selon le magazine de gauche britannique, cette réputation est assumée et non sans lien avec l’espoir d’une partie des forces de l’ordre de voir Marine Le Pen élue à la prochaine présidentielle.",
-          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-les-forces-de-l-ordre-francaises-impitoyables-et-fieres-de-leur-reputation_284848",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/22/0/0/6000/4000/1200/630/60/0/11b027d_ftp-1-gmaelf4flghw-2026-10-22t144648z-214123398-rc2e8oaimy4s-rtrmadp-3-france-protest.JPG",
-          "source": "Courrier International",
+          "id": "2026-11-05-51d5d222",
+          "title": "Midterms : le vice-président américain prend ses distances avec Donald Trump",
+          "description": "Le vice-président américain J.D. Vance a pris ⁠mercredi 4 novembre ses distances ​avec la guerre en Iran menée par le président Donald Trump, s'interrogeant sur la pertinence d'une telle décision et imputant au conflit les lourds ​revers subis la veille par les républicains lors des élections de mi-mandat au Congrès. Les précisions de Matthieu Mabin, chroniqueur international à France 24.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-midterms-le-vice-pr%C3%A9sident-am%C3%A9ricain-prend-ses-distances-avec-donald-trump",
+          "imageUrl": "https://s.france24.com/media/display/75ac6b56-d936-11f1-9415-a575454bc579/w:1024/p:16x9/FR-20261105-162215-162740-CS.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-05T04:00:15.000Z",
-          "fetchedAt": "2026-11-05T06:57:47.443Z"
+          "publishedAt": "2026-11-05T16:37:38.000Z",
+          "fetchedAt": "2026-11-06T06:57:13.067Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une",
+      "category": "eco",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-06-03241251",
+          "title": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une crise budgétaire »",
+          "description": "L’ancien économiste en chef du FMI estime que le RN défend un programme économique incohérent et que celui de La France insoumise est « terrorisant pour les investisseurs ».",
+          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-06T05:00:30.000Z",
+          "fetchedAt": "2026-11-06T06:57:20.991Z"
+        },
+        {
+          "id": "2026-11-05-e1f775d5",
+          "title": "Le ciel européen en état d’alerte après des menaces visant une vingtaine de vols commerciaux",
+          "description": "Plusieurs pays, dont la France, ont dû mobiliser leur armée de l’air pour escorter des avions de ligne menacés par des alertes à la bombe. Une vingtaine de vols étaient concernés, ce qui laisse supposer une opération coordonnée.",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/le-ciel-europeen-en-etat-d-alerte-apres-des-menaces-visant-une-vingtaine-de-vols-commerciaux_6807344_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-05T20:57:03.000Z",
+          "fetchedAt": "2026-11-06T06:57:20.991Z"
+        },
+        {
+          "id": "2026-11-05-674c8970",
+          "title": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
+          "description": "Avec la forte hausse des prix, l’Etat doit payer des intérêts très élevés aux détenteurs d’obligations indexées. Le mécanisme risque de lui coûter plus de 10 milliards d’euros en 2026. Une majorité de députés a demandé, mercredi 4 novembre, la fin de ce système.",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-05T17:30:03.000Z",
+          "fetchedAt": "2026-11-06T06:57:20.991Z"
+        },
+        {
+          "id": "2026-11-05-07da20dd",
+          "title": "« Il faudrait une augmentation du smic de plus de 130 euros par mois pour un temps plein uniquement pour retrouver le niveau de 2012 »",
+          "description": "En réponse à la mobilisation sociale, le gouvernement a évoqué la piste d’une revalorisation du smic. L’économiste Clément Carbonnier rappelle, dans une tribune au « Monde », que le salaire minimum n’a pas connu de coup de pouce depuis quatorze ans et que les salariés qui le touchent se sont appauvris par rapport à l’ensemble du pays.",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/05/il-faudrait-une-augmentation-du-smic-de-plus-de-130-euros-par-mois-pour-un-temps-plein-uniquement-pour-retrouver-le-niveau-de-2012_6806861_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-05T12:30:09.000Z",
+          "fetchedAt": "2026-11-06T06:57:20.991Z"
+        },
+        {
+          "id": "2026-11-05-4ad9529c",
+          "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
+          "description": "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie.",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-05T12:00:07.000Z",
+          "fetchedAt": "2026-11-06T06:57:20.991Z"
+        },
+        {
+          "id": "2026-11-05-b2b7f559",
+          "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+          "description": "A little-known investment group has made a bid to buy the business.",
+          "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99f8/live/fbd28350-d904-11f1-a701-fddedf244c16.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-11-05T09:46:32.000Z",
+          "fetchedAt": "2026-11-06T06:57:23.845Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Democrats won on affordability. Can they deliver it?",
-      "category": "eco",
+      "topic": "Coffret Pokémon UPC Noctali 30 ans : les liens à surveiller pour trouver du stoc",
+      "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-05-8069ec72",
-          "title": "Democrats won on affordability. Can they deliver it?",
-          "description": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
-          "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8753/live/9c318140-d8e0-11f1-a29a-a9d0e73b6c24.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-11-05T06:01:05.000Z",
-          "fetchedAt": "2026-11-05T06:58:09.411Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-      "category": "tech",
-      "importance": 6,
-      "articles": [
-        {
-          "id": "2026-11-04-7d01c5c4",
-          "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-          "description": "And what that could mean for physical Switch game costs.",
-          "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
-          "source": "Ars Technica",
+          "id": "2026-11-06-eeeae4e1",
+          "title": "Coffret Pokémon UPC Noctali 30 ans : les liens à surveiller pour trouver du stock",
+          "description": "Le coffret Ultra-Premium Noctali des 30 ans de Pokémon sort ce 6 novembre, et le stock s’annonce rare et très disputé. Voici les liens à surveiller pour tenter d’en décrocher un.",
+          "url": "https://www.numerama.com/pop-culture/2364287-coffret-pokemon-upc-noctali-30-ans-les-liens-a-surveiller-pour-trouver-du-stock.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/07/coffret-ultra-premium-pokemon-30eme-anniversaire-journee.jpg?resize=1600,900&key=12cf6ecd",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-11-04T22:47:51.000Z",
-          "fetchedAt": "2026-11-05T06:58:02.057Z"
+          "publishedAt": "2026-11-06T06:45:06.000Z",
+          "fetchedAt": "2026-11-06T06:57:17.624Z"
         }
       ]
     }
