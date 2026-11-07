@@ -1,231 +1,176 @@
 {
-  "generatedAt": "2026-11-06T07:01:13.448Z",
+  "generatedAt": "2026-11-07T06:13:29.555Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-3",
-      "topic": "Accord sur le gazole mort-né : pourquoi les pétroliers russes se détournent des ",
+      "topic": "De l'occupation russe à Kiev: le long périple des animaux d'Olechky",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-06-a838332f",
-          "title": "Accord sur le gazole mort-né : pourquoi les pétroliers russes se détournent des États-Unis",
-          "description": "Les premiers pétroliers qui devaient livrer du gazole russe aux États-Unis ont changé de cap et ne se dirigent plus vers les côtes américaines. Une décision qui enterre, sans doute, l’accord entre Donald Trump et Vladimir Poutine conclu avant les élections de mi-mandat.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261106-accord-sur-le-gazole-mort-n%C3%A9-pourquoi-les-p%C3%A9troliers-russes-se-d%C3%A9tournent-des-%C3%A9tats-unis",
-          "imageUrl": "https://s.france24.com/media/display/583fe45e-d93a-11f1-9d4e-bf1914cabd52/w:1024/p:16x9/image-tanker-diesel3.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-06T06:37:01.000Z",
-          "fetchedAt": "2026-11-06T06:57:13.067Z"
-        },
-        {
-          "id": "2026-11-05-f36eb511",
-          "title": "Midterms 2026 : retrouvez notre direct consacré aux élections de mi-mandat aux Etats-Unis",
-          "description": "Les Américains ont infligé une sanction historique au président Donald Trump et à son parti, mardi 3 novembre, en élisant en masse des démocrates jusque dans des bastions conservateurs tels que le Kansas et le Texas, à des postes de sénateurs, gouverneurs ou aux Parlements locaux.",
-          "url": "https://www.lemonde.fr/international/live/2026/11/06/en-direct-midterms-2026-apres-avoir-accepte-les-resultats-donald-trump-denonce-a-present-des-elections-truquees_6805528_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-05T23:18:11.000Z",
-          "fetchedAt": "2026-11-06T06:57:13.002Z"
-        },
-        {
-          "id": "2026-11-05-b58937d8",
-          "title": "Etats-Unis : le gouverneur démocrate de Californie commue la peine de 548 condamnés à mort",
-          "description": "Gavin Newsom, candidat probable à l’investiture démocrate pour la présidentielle de 2028, dénonce un système incapable d’être « mis en œuvre de manière équitable ». Sa décision, annoncée jeudi, concerne un quart des condamnés à mort aux Etats-Unis.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-05T21:55:04.000Z",
-          "fetchedAt": "2026-11-06T06:57:13.002Z"
-        },
-        {
-          "id": "2026-11-05-224d4271",
-          "title": "Midterms 2026 : à Los Angeles, la victoire de Nithya Raman à la mairie illustre la montée en puissance d’une nouvelle gauche aux Etats-Unis",
-          "description": "La démocrate, 45 ans, a battu l’actuelle maire de la ville de Los Angeles, Karen Bass, 73 ans, une responsable politique pourtant chevronnée. Comme Zohran Mamdani, maire de New York, Nithya Raman se concentre sur les préoccupations sociales des électeurs.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-a-los-angeles-la-victoire-de-nithya-raman-a-la-mairie-illustre-la-montee-en-puissance-d-une-nouvelle-gauche-aux-etats-unis_6807341_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-05T19:57:12.000Z",
-          "fetchedAt": "2026-11-06T06:57:13.002Z"
-        },
-        {
-          "id": "2026-11-05-60e62a24",
-          "title": "L’accord américano-russe sur le gazole vanté par Donald Trump bat de l’aile",
-          "description": "Plusieurs navires russes chargés de gazole destiné au marché américain ont brusquement changé de cap en haute mer, ces derniers jours. Craignant les risques réputationnels et les sanctions, les entreprises américaines rechignent à en acheter.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-05T18:38:21.000Z",
-          "fetchedAt": "2026-11-06T06:57:13.002Z"
-        },
-        {
-          "id": "2026-11-05-c9e9d848",
-          "title": "Midterms aux États-Unis : “Même les démocrates ne sont pas nos amis”",
-          "description": "Célébré par une grande partie de la presse européenne, le succès démocrate aux élections de mi-mandat américaines ne mettra pas un terme aux tensions commerciales entre les États-Unis et l’Europe, estime “Die Zeit”. Pour l’hebdomadaire de gauche allemand, la hache de guerre est loin d’être enterrée.",
-          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-midterms-aux-etats-unis-meme-les-democrates-ne-sont-pas-nos-amis_285270",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/04/0/98/5220/3480/1200/630/60/0/fccdd6f_ftp-1-6wouojpkepme-afp-d6cw6qy.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-05T14:25:17.000Z",
-          "fetchedAt": "2026-11-06T06:57:13.026Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-9",
-      "topic": "En Israël, Eisenkot apparaît en position de force pour former un gouvernement",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-06-c0eceed7",
-          "title": "En Israël, Eisenkot apparaît en position de force pour former un gouvernement",
-          "description": "Dans un message diffusé jeudi soir, le président israélien Isaac Herzog a indiqué que le chef du parti centriste Yashar avait reçu le soutien de 67 députés contre 46 pour l’actuel Premier ministre Benyamin Nétanyahou. Si Eisenkot bénéficie d’une dynamique favorable, sa capacité à réunir une majorité pour gouverner reste toutefois incertaine, prévient la presse israélienne.",
-          "url": "https://www.courrierinternational.com/article/politique-en-israel-eisenkot-apparait-en-position-de-force-pour-former-un-gouvernement_285354",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/27/0/3/5494/3663/1200/630/60/0/13548ad_ftp-1-kegcwzdj0j5t-2026-10-27t234936z-337143780-rc2zboavpw2l-rtrmadp-3-israel-election.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-06T05:11:31.000Z",
-          "fetchedAt": "2026-11-06T06:57:13.026Z"
-        },
-        {
-          "id": "2026-11-05-e297be18",
-          "title": "Israël: Gadi Eisenkot en position favorable pour former le prochain gouvernement",
-          "description": "En Israël, le président Herzog poursuit ce jeudi 5 novembre ses consultations. À qui va-t-il confier la charge de former un gouvernement ? Les élections législatives qui se sont déroulées la semaine dernière dans le pays n’ont pas permis de dégager une majorité claire.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20261105-isra%C3%ABl-gadi-eisenkot-en-position-favorable-pour-former-le-prochain-gouvernement",
-          "imageUrl": "https://s.rfi.fr/media/display/a40e8bcc-d91e-11f1-837c-695cb59fade5/w:1024/p:16x9/AP26300840925311.jpg",
+          "id": "2026-11-07-176243ef",
+          "title": "De l'occupation russe à Kiev: le long périple des animaux d'Olechky",
+          "description": "Les 31 octobre et 1er novembre 2026, ils ont été les premiers à franchir la frontière nord de l'Ukraine, après avoir parcouru plus de 2 200 kilomètres pour quitter les territoires occupés par la Russie. Plus d'une centaine d'animaux de compagnie, que leurs familles ont refusé d'abandonner, ont ainsi quitté l'enfer d'Olechky, dans le cadre d'une opération humanitaire inédite qui témoigne aussi des conditions de vie extrêmes dans les territoires occupés.",
+          "url": "https://www.rfi.fr/fr/europe/20261107-de-l-occupation-russe-%C3%A0-kiev-le-long-p%C3%A9riple-des-animaux-d-olechky",
+          "imageUrl": "https://s.rfi.fr/media/display/291fde0c-d9d2-11f1-b439-1beafce15fea/w:1024/p:16x9/Evacuated-Pets-Oleshky-RFI.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-05T14:10:11.000Z",
-          "fetchedAt": "2026-11-06T06:57:17.535Z"
+          "publishedAt": "2026-11-07T05:57:01.000Z",
+          "fetchedAt": "2026-11-07T06:09:35.761Z"
+        },
+        {
+          "id": "2026-11-06-8a6070e2",
+          "title": "Derrière l'évacuation de la ville ukrainienne d'Olechky, une opération de propagande russe ?",
+          "description": "Entre le 27 octobre et le 1er novembre, un cessez-le-feu a été instauré dans la ville ukrainienne d'Olechky, occupée par les Russes depuis le début de la guerre à grande échelle en 2022. Le but : permettre l'évacuation d'habitants pris au piège des combats et de la famine, dans une ville dévastée. Mais en marge de l'action humanitaire, la Russie a monté une vaste opération de propagande avec, pour invitée vedette, une certaine Melania Trump...",
+          "url": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20261106-derri%C3%A8re-l-%C3%A9vacuation-de-la-ville-ukrainienne-d-olechky-une-op%C3%A9ration-de-propagande-russe",
+          "imageUrl": "https://s.france24.com/media/display/72729f5c-da0b-11f1-9edd-d18c5759e759/w:1024/p:16x9/FR-20261106-181521-182542-CS-01.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-06T18:04:57.000Z",
+          "fetchedAt": "2026-11-07T06:09:28.967Z"
         }
       ]
     },
     {
-      "id": "cluster-12",
-      "topic": "Trump signs order preventing future presidents from changing Oval Office ",
+      "id": "cluster-16",
+      "topic": "Élections locales en Afrique du Sud: l'ANC signe le pire résultat électoral de s",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-06-89b5f6f0",
-          "title": "Trump signs order preventing future presidents from changing Oval Office ",
-          "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/330b/live/697ff880-d9ad-11f1-a701-fddedf244c16.jpg",
-          "source": "BBC World",
+          "id": "2026-11-07-6a69320f",
+          "title": "Élections locales en Afrique du Sud: l'ANC signe le pire résultat électoral de son histoire",
+          "description": "Alors que plus de 95% des bulletins de vote des élections locales organisées mercredi 4 novembre en Afrique du Sud ont été dépouillés, le parti au pouvoir recueille à peine plus de 30% des voix, selon la Commission électorale. Un net recul par rapport aux scrutins précédents qui traduit la déception et la frustration des électeurs face au manque de services de base et à la corruption généralisée à l’échelle locale dans le pays.",
+          "url": "https://www.rfi.fr/fr/afrique/20261107-%C3%A9lections-locales-en-afrique-du-sud-l-anc-signe-le-pire-r%C3%A9sultat-%C3%A9lectoral-de-son-histoire",
+          "imageUrl": "https://s.rfi.fr/media/display/a347da82-da44-11f1-b5c1-695cb59fade5/w:1024/p:16x9/2026-11-06T063817Z-555642155-RC2YCOA1MHOU-RTRMADP-3-SAFRICA-ELECTION.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-06T04:29:25.000Z",
-          "fetchedAt": "2026-11-06T06:57:17.677Z"
+          "publishedAt": "2026-11-07T03:54:07.000Z",
+          "fetchedAt": "2026-11-07T06:09:35.761Z"
         },
         {
-          "id": "2026-11-05-51d5d222",
-          "title": "Midterms : le vice-président américain prend ses distances avec Donald Trump",
-          "description": "Le vice-président américain J.D. Vance a pris ⁠mercredi 4 novembre ses distances ​avec la guerre en Iran menée par le président Donald Trump, s'interrogeant sur la pertinence d'une telle décision et imputant au conflit les lourds ​revers subis la veille par les républicains lors des élections de mi-mandat au Congrès. Les précisions de Matthieu Mabin, chroniqueur international à France 24.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-midterms-le-vice-pr%C3%A9sident-am%C3%A9ricain-prend-ses-distances-avec-donald-trump",
-          "imageUrl": "https://s.france24.com/media/display/75ac6b56-d936-11f1-9415-a575454bc579/w:1024/p:16x9/FR-20261105-162215-162740-CS.jpg",
-          "source": "France 24",
+          "id": "2026-11-06-20c1df93",
+          "title": "En Afrique du Sud, “l’aura d’invincibilité de l’ANC s’est brisée”",
+          "description": "Alors que le décompte des voix se poursuit, les résultats compilés à l’issue des élections municipales sud-africaines qui se sont déroulées le 4 novembre indiquent un fort recul du parti de libération, le Congrès national africain. Après des années de déclin, la domination du parti de Nelson Mandela sur l’Afrique du Sud s’éteint.",
+          "url": "https://www.courrierinternational.com/article/politique-en-afrique-du-sud-l-aura-d-invincibilite-de-l-anc-s-est-brisee_285496",
+          "imageUrl": "https://focus.courrierinternational.com/2026/11/04/0/0/4200/2800/1200/630/60/0/95e2b03_ftp-1-sjnkj1ilq4t1-afp-d6fy7lu.jpg",
+          "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-05T16:37:38.000Z",
-          "fetchedAt": "2026-11-06T06:57:13.067Z"
+          "publishedAt": "2026-11-06T17:05:24.000Z",
+          "fetchedAt": "2026-11-07T06:09:29.070Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une",
-      "category": "eco",
+      "id": "cluster-48",
+      "topic": "Au Pakistan, un couple d’avocats « défenseurs des sans-voix » persécuté par les ",
+      "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-06-03241251",
-          "title": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une crise budgétaire »",
-          "description": "L’ancien économiste en chef du FMI estime que le RN défend un programme économique incohérent et que celui de La France insoumise est « terrorisant pour les investisseurs ».",
-          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/06/olivier-blanchard-economiste-il-n-est-pas-sur-que-nous-puissions-eviter-une-crise-budgetaire_6807723_1656968.html",
+          "id": "2026-11-06-dc4ce5e9",
+          "title": "Au Pakistan, un couple d’avocats « défenseurs des sans-voix » persécuté par les autorités",
+          "description": "Engagés dans la défense des minorités ethniques, des journalistes poursuivis pour diffamation et des personnes accusées de blasphème, Imaan Mazari et son époux, Hadi Ali Chattha, ont été condamnés, le 29 octobre, à une peine de prison de dix ans pour terrorisme.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/06/au-pakistan-un-couple-d-avocats-defenseurs-des-sans-voix-persecute-par-les-autorites_6807851_3210.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-06T05:00:30.000Z",
-          "fetchedAt": "2026-11-06T06:57:20.991Z"
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-06T18:09:42.000Z",
+          "fetchedAt": "2026-11-07T06:09:28.996Z"
         },
         {
-          "id": "2026-11-05-e1f775d5",
-          "title": "Le ciel européen en état d’alerte après des menaces visant une vingtaine de vols commerciaux",
-          "description": "Plusieurs pays, dont la France, ont dû mobiliser leur armée de l’air pour escorter des avions de ligne menacés par des alertes à la bombe. Une vingtaine de vols étaient concernés, ce qui laisse supposer une opération coordonnée.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/le-ciel-europeen-en-etat-d-alerte-apres-des-menaces-visant-une-vingtaine-de-vols-commerciaux_6807344_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-05T20:57:03.000Z",
-          "fetchedAt": "2026-11-06T06:57:20.991Z"
+          "id": "2026-11-06-6b292988",
+          "title": "JOJ Dakar 2026 : Une équipe de réfugiés, une première dans l’histoire des JO de la jeunesse",
+          "description": "C'est une première dans l'histoire des Jeux olympiques de la jeunesse. Une équipe olympique de réfugiés prend part à la compétition. Six jeunes, six parcours différents et une même fierté. Celle de porter les couleurs de l'équipe olympique des réfugiés et de prendre leur place parmi les meilleurs jeunes sportifs du monde.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-une-%C3%A9quipe-de-r%C3%A9fugi%C3%A9s-une-premi%C3%A8re-dans-l-histoire-des-jo-de-la-jeunesse",
+          "imageUrl": "https://s.france24.com/media/display/767f6548-d9e4-11f1-af92-1beafce15fea/w:1024/p:16x9/Couv-JOJ-REFUGIES.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-06T18:03:17.000Z",
+          "fetchedAt": "2026-11-07T06:09:28.967Z"
         },
         {
-          "id": "2026-11-05-674c8970",
-          "title": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
-          "description": "Avec la forte hausse des prix, l’Etat doit payer des intérêts très élevés aux détenteurs d’obligations indexées. Le mécanisme risque de lui coûter plus de 10 milliards d’euros en 2026. Une majorité de députés a demandé, mercredi 4 novembre, la fin de ce système.",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-05T17:30:03.000Z",
-          "fetchedAt": "2026-11-06T06:57:20.991Z"
+          "id": "2026-11-06-1da15fba",
+          "title": "Vols menacés : les fausses alertes à la bombe, une arme redoutable pour la guerre hybride ?",
+          "description": "La multiplication des fausses alertes à la bombe a créé de la confusion à travers toute l’Europe. Ces incidents ressemblent à de nouveaux épisodes de la guerre hybride menée par certains États comme la Russie en Europe, mais rien ne permet d’accuser formellement Moscou. Et puis, il y a cette étrange revendication des \"combattants de l’État masculin\", un groupuscule masculiniste qui semble lié à un obscur réseau d’extrême droite russe...",
+          "url": "https://www.france24.com/fr/europe/20261106-vols-menac%C3%A9s-fausses-alertes-bombe-arme-redoutable-guerre-hybride",
+          "imageUrl": "https://s.france24.com/media/display/7322cd02-d9ff-11f1-90c4-d18c5759e759/w:1024/p:16x9/avion-bombe-menace.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-06T17:17:38.000Z",
+          "fetchedAt": "2026-11-07T06:09:28.967Z"
         },
         {
-          "id": "2026-11-05-07da20dd",
-          "title": "« Il faudrait une augmentation du smic de plus de 130 euros par mois pour un temps plein uniquement pour retrouver le niveau de 2012 »",
-          "description": "En réponse à la mobilisation sociale, le gouvernement a évoqué la piste d’une revalorisation du smic. L’économiste Clément Carbonnier rappelle, dans une tribune au « Monde », que le salaire minimum n’a pas connu de coup de pouce depuis quatorze ans et que les salariés qui le touchent se sont appauvris par rapport à l’ensemble du pays.",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/05/il-faudrait-une-augmentation-du-smic-de-plus-de-130-euros-par-mois-pour-un-temps-plein-uniquement-pour-retrouver-le-niveau-de-2012_6806861_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-05T12:30:09.000Z",
-          "fetchedAt": "2026-11-06T06:57:20.991Z"
+          "id": "2026-11-06-4ff96310",
+          "title": "La mobilisation lycéenne fait école en Europe : l'Union européenne face aux colères sociales",
+          "description": "L'Europe est en pleine ébullition sociale. À l'instar de la France, d'où sont partis les premiers mouvements lycéens, plusieurs pays de l'Union font face à des vagues de contestation dans la rue. L'Italie, la Belgique, la Grèce ou encore l'Allemagne connaissent des manifestations de plus ou moins grande ampleur.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261106-la-mobilisation-lyc%C3%A9enne-fait-%C3%A9cole-en-europe-l-union-europ%C3%A9enne-face-aux-col%C3%A8res-sociales",
+          "imageUrl": "https://s.france24.com/media/display/6337dd0c-d922-11f1-b6fa-1beafce15fea/w:1024/p:16x9/PHOTO-DEBAT-FR-2.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-06T17:00:52.000Z",
+          "fetchedAt": "2026-11-07T06:09:28.967Z"
         },
         {
-          "id": "2026-11-05-4ad9529c",
-          "title": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
-          "description": "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la vie.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-05T12:00:07.000Z",
-          "fetchedAt": "2026-11-06T06:57:20.991Z"
+          "id": "2026-11-06-3b4c1ac4",
+          "title": "Israël : Eisenkot évoque des \"progrès importants\" dans les discussions pour former un gouvernement",
+          "description": "Le centriste Gadi Eisenkot, adversaire de Benjamin Netanyahu, fait état vendredi de \"progrès importants\" dans les discussions pour former le prochain gouvernement israélien après les élections législatives. La veille, il avait annoncé avoir obtenu le soutien notoire de la principale liste arabe.",
+          "url": "https://www.france24.com/fr/moyen-orient/20261106-isra%C3%ABl-eisenkot-fait-part-progr%C3%A8s-importants-but-former-gouvernement",
+          "imageUrl": "https://s.france24.com/media/display/9ff0f7b4-d9f0-11f1-85f8-695cb59fade5/w:1024/p:16x9/AP26300857503629.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-06T16:47:14.000Z",
+          "fetchedAt": "2026-11-07T06:09:28.967Z"
         },
         {
-          "id": "2026-11-05-b2b7f559",
-          "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-          "description": "A little-known investment group has made a bid to buy the business.",
-          "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99f8/live/fbd28350-d904-11f1-a701-fddedf244c16.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-11-05T09:46:32.000Z",
-          "fetchedAt": "2026-11-06T06:57:23.845Z"
+          "id": "2026-11-06-bdec2948",
+          "title": "Une nouvelle “vague d’e-mails malveillants” perturbe le trafic aérien européen",
+          "description": "Le fonctionnement de plusieurs aéroports du Vieux Continent a été chamboulé, vendredi 6 novembre, en raison de nouvelles alertes à la bombe. Pour l’instant, aucun engin explosif n’a été retrouvé dans les avions inspectés, précise la presse européenne.",
+          "url": "https://www.courrierinternational.com/article/destabilisation-une-nouvelle-vague-d-e-mails-malveillants-perturbe-le-trafic-aerien-europeen_285486",
+          "imageUrl": "https://focus.courrierinternational.com/2026/11/06/11/0/5500/3666/1200/630/60/0/af648a7_ftp-1-bn2ruerx3h8s-2026-11-06t120748z-300355677-rc2bioarx3mw-rtrmadp-3-europe-flights-czech.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-06T16:39:38.000Z",
+          "fetchedAt": "2026-11-07T06:09:29.070Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Coffret Pokémon UPC Noctali 30 ans : les liens à surveiller pour trouver du stoc",
-      "category": "tech",
+      "topic": "Pourquoi personne ne semble satisfait de l’augmentation du SMIC ? Comprendre en ",
+      "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-06-eeeae4e1",
-          "title": "Coffret Pokémon UPC Noctali 30 ans : les liens à surveiller pour trouver du stock",
-          "description": "Le coffret Ultra-Premium Noctali des 30 ans de Pokémon sort ce 6 novembre, et le stock s’annonce rare et très disputé. Voici les liens à surveiller pour tenter d’en décrocher un.",
-          "url": "https://www.numerama.com/pop-culture/2364287-coffret-pokemon-upc-noctali-30-ans-les-liens-a-surveiller-pour-trouver-du-stock.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/07/coffret-ultra-premium-pokemon-30eme-anniversaire-journee.jpg?resize=1600,900&key=12cf6ecd",
-          "source": "Numerama",
+          "id": "2026-11-07-d488f274",
+          "title": "Pourquoi personne ne semble satisfait de l’augmentation du SMIC ? Comprendre en trois minutes",
+          "description": "Depuis 2017, le salaire minimum a augmenté de plus de 28 % en France. Mais cette hausse, qui correspond aux 14 revalorisations automatiques du SMIC, a en réalité suivi l’inflation sans véritable gain de pouvoir d’achat pour les salariés concernés.",
+          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/11/07/pourquoi-personne-ne-semble-satisfait-de-l-augmentation-du-smic-comprendre-en-trois-minutes_6808237_6176282.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-07T05:00:17.000Z",
+          "fetchedAt": "2026-11-07T06:09:40.733Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-11-06-b6f2bcab",
+          "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+          "description": "It's the exact path, not the apparent severity that matters most, doctors say.",
+          "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-11-06T06:45:06.000Z",
-          "fetchedAt": "2026-11-06T06:57:17.624Z"
+          "publishedAt": "2026-11-06T23:09:45.000Z",
+          "fetchedAt": "2026-11-07T06:09:40.763Z"
         }
       ]
     }
