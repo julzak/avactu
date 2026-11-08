@@ -1,176 +1,275 @@
 {
-  "generatedAt": "2026-11-07T06:13:29.555Z",
+  "generatedAt": "2026-11-08T06:18:37.827Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-3",
-      "topic": "De l'occupation russe à Kiev: le long périple des animaux d'Olechky",
+      "id": "cluster-5",
+      "topic": "Le « super El Niño » inquiète les horticulteurs kényans, qui fournissent un tier",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-07-176243ef",
-          "title": "De l'occupation russe à Kiev: le long périple des animaux d'Olechky",
-          "description": "Les 31 octobre et 1er novembre 2026, ils ont été les premiers à franchir la frontière nord de l'Ukraine, après avoir parcouru plus de 2 200 kilomètres pour quitter les territoires occupés par la Russie. Plus d'une centaine d'animaux de compagnie, que leurs familles ont refusé d'abandonner, ont ainsi quitté l'enfer d'Olechky, dans le cadre d'une opération humanitaire inédite qui témoigne aussi des conditions de vie extrêmes dans les territoires occupés.",
-          "url": "https://www.rfi.fr/fr/europe/20261107-de-l-occupation-russe-%C3%A0-kiev-le-long-p%C3%A9riple-des-animaux-d-olechky",
-          "imageUrl": "https://s.rfi.fr/media/display/291fde0c-d9d2-11f1-b439-1beafce15fea/w:1024/p:16x9/Evacuated-Pets-Oleshky-RFI.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-07T05:57:01.000Z",
-          "fetchedAt": "2026-11-07T06:09:35.761Z"
-        },
-        {
-          "id": "2026-11-06-8a6070e2",
-          "title": "Derrière l'évacuation de la ville ukrainienne d'Olechky, une opération de propagande russe ?",
-          "description": "Entre le 27 octobre et le 1er novembre, un cessez-le-feu a été instauré dans la ville ukrainienne d'Olechky, occupée par les Russes depuis le début de la guerre à grande échelle en 2022. Le but : permettre l'évacuation d'habitants pris au piège des combats et de la famine, dans une ville dévastée. Mais en marge de l'action humanitaire, la Russie a monté une vaste opération de propagande avec, pour invitée vedette, une certaine Melania Trump...",
-          "url": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20261106-derri%C3%A8re-l-%C3%A9vacuation-de-la-ville-ukrainienne-d-olechky-une-op%C3%A9ration-de-propagande-russe",
-          "imageUrl": "https://s.france24.com/media/display/72729f5c-da0b-11f1-9edd-d18c5759e759/w:1024/p:16x9/FR-20261106-181521-182542-CS-01.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-06T18:04:57.000Z",
-          "fetchedAt": "2026-11-07T06:09:28.967Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-16",
-      "topic": "Élections locales en Afrique du Sud: l'ANC signe le pire résultat électoral de s",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-07-6a69320f",
-          "title": "Élections locales en Afrique du Sud: l'ANC signe le pire résultat électoral de son histoire",
-          "description": "Alors que plus de 95% des bulletins de vote des élections locales organisées mercredi 4 novembre en Afrique du Sud ont été dépouillés, le parti au pouvoir recueille à peine plus de 30% des voix, selon la Commission électorale. Un net recul par rapport aux scrutins précédents qui traduit la déception et la frustration des électeurs face au manque de services de base et à la corruption généralisée à l’échelle locale dans le pays.",
-          "url": "https://www.rfi.fr/fr/afrique/20261107-%C3%A9lections-locales-en-afrique-du-sud-l-anc-signe-le-pire-r%C3%A9sultat-%C3%A9lectoral-de-son-histoire",
-          "imageUrl": "https://s.rfi.fr/media/display/a347da82-da44-11f1-b5c1-695cb59fade5/w:1024/p:16x9/2026-11-06T063817Z-555642155-RC2YCOA1MHOU-RTRMADP-3-SAFRICA-ELECTION.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-07T03:54:07.000Z",
-          "fetchedAt": "2026-11-07T06:09:35.761Z"
-        },
-        {
-          "id": "2026-11-06-20c1df93",
-          "title": "En Afrique du Sud, “l’aura d’invincibilité de l’ANC s’est brisée”",
-          "description": "Alors que le décompte des voix se poursuit, les résultats compilés à l’issue des élections municipales sud-africaines qui se sont déroulées le 4 novembre indiquent un fort recul du parti de libération, le Congrès national africain. Après des années de déclin, la domination du parti de Nelson Mandela sur l’Afrique du Sud s’éteint.",
-          "url": "https://www.courrierinternational.com/article/politique-en-afrique-du-sud-l-aura-d-invincibilite-de-l-anc-s-est-brisee_285496",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/04/0/0/4200/2800/1200/630/60/0/95e2b03_ftp-1-sjnkj1ilq4t1-afp-d6fy7lu.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-06T17:05:24.000Z",
-          "fetchedAt": "2026-11-07T06:09:29.070Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-48",
-      "topic": "Au Pakistan, un couple d’avocats « défenseurs des sans-voix » persécuté par les ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-06-dc4ce5e9",
-          "title": "Au Pakistan, un couple d’avocats « défenseurs des sans-voix » persécuté par les autorités",
-          "description": "Engagés dans la défense des minorités ethniques, des journalistes poursuivis pour diffamation et des personnes accusées de blasphème, Imaan Mazari et son époux, Hadi Ali Chattha, ont été condamnés, le 29 octobre, à une peine de prison de dix ans pour terrorisme.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/06/au-pakistan-un-couple-d-avocats-defenseurs-des-sans-voix-persecute-par-les-autorites_6807851_3210.html",
+          "id": "2026-11-08-457cd85d",
+          "title": "Le « super El Niño » inquiète les horticulteurs kényans, qui fournissent un tiers des fleurs importées de l’UE",
+          "description": "Ce pays d’Afrique de l’Est fournit aux étals européens de nombreux produits agricoles et horticoles. Les producteurs se préparent à un El Niño d’une puissance peut-être jamais vue.",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/08/le-super-el-nino-inquiete-les-horticulteurs-kenyans-qui-fournissent-un-tiers-des-fleurs-importees-de-l-ue_6808402_3234.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-06T18:09:42.000Z",
-          "fetchedAt": "2026-11-07T06:09:28.996Z"
+          "publishedAt": "2026-11-08T05:25:07.000Z",
+          "fetchedAt": "2026-11-08T06:14:37.446Z"
         },
         {
-          "id": "2026-11-06-6b292988",
-          "title": "JOJ Dakar 2026 : Une équipe de réfugiés, une première dans l’histoire des JO de la jeunesse",
-          "description": "C'est une première dans l'histoire des Jeux olympiques de la jeunesse. Une équipe olympique de réfugiés prend part à la compétition. Six jeunes, six parcours différents et une même fierté. Celle de porter les couleurs de l'équipe olympique des réfugiés et de prendre leur place parmi les meilleurs jeunes sportifs du monde.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-une-%C3%A9quipe-de-r%C3%A9fugi%C3%A9s-une-premi%C3%A8re-dans-l-histoire-des-jo-de-la-jeunesse",
-          "imageUrl": "https://s.france24.com/media/display/767f6548-d9e4-11f1-af92-1beafce15fea/w:1024/p:16x9/Couv-JOJ-REFUGIES.jpg",
+          "id": "2026-11-08-e6a5bd64",
+          "title": "En Europe, la menace d’une lassitude grandissante des citoyens à l’égard de la guerre en Ukraine",
+          "description": "Les Européens sont majoritairement convaincus que la Russie constitue une menace pour le Vieux Continent, et continuent à soutenir Kiev. Cependant, à l’heure où le pouvoir d’achat des ménages est rogné par l’inflation, le coût de l’aide militaire à Kiev est de plus en plus montré du doigt, notamment par les partis d’extrême droite ou au sein de la gauche radicale.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-08T05:00:09.000Z",
+          "fetchedAt": "2026-11-08T06:14:37.446Z"
+        },
+        {
+          "id": "2026-11-08-b7203c5b",
+          "title": "« La fronde américaine contre les data centers a bouleversé les midterms comme aucune question environnementale ne l’avait fait jusqu’à présent »",
+          "description": "Dans sa chronique, le journaliste au « Monde » Stéphane Foucart revient sur les centres de données, dont le développement massif aux Etats-Unis a pesé en partie sur le vote des Américains, lors des élections de mi-mandat du 3 novembre.",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/08/la-fronde-americaine-contre-les-data-centers-a-bouleverse-les-midterms-comme-aucune-question-environnementale-ne-l-avait-fait-jusqu-a-present_6808392_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-08T04:30:11.000Z",
+          "fetchedAt": "2026-11-08T06:14:37.446Z"
+        },
+        {
+          "id": "2026-11-07-217cf667",
+          "title": "Jaojoby, un artiste majeur, une vie dédiée à Madagascar et au salegy",
+          "description": "Rencontre en tête-à-tête à Antananarivo avec un prince de la musique malgache. Jaojoby règne depuis près de 50 ans, avec d'autres rares élus, sur un patrimoine culturel de la grande île : le salegy.",
+          "url": "https://www.rfi.fr/fr/podcasts/les-p%C3%A9pites-musicales-de-rfi/20261107-jaojoby-un-artiste-majeur-une-vie-d%C3%A9di%C3%A9e-%C3%A0-madagascar-et-au-salegy",
+          "imageUrl": "https://s.rfi.fr/media/display/ec26d004-dab3-11f1-acce-1beafce15fea/w:1024/p:16x9/IMG-9912.jpeg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-07T23:04:31.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.281Z"
+        },
+        {
+          "id": "2026-11-07-d6714799",
+          "title": "Municipales en Afrique du Sud: déroute historique de l'ANC qui passe à peine les 30%",
+          "description": "Municipales en Afrique du Sud. Plus de 99 % des bulletins ont été dépouillés. Les résultats seront annoncés demain, après vérification de près de 200 contestations. Mais les tendances sont claires : l’ANC est en recul historique, en passant à peine la barre des 30 %. Avec 24,6 %, l’Alliance démocratique de Geordin Hill-Lewis, maire du Cap, s’impose comme la deuxième force politique du pays.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261107-municipales-en-afrique-du-sud-d%C3%A9route-historique-de-l-anc-qui-passe-%C3%A0-peine-les-30",
+          "imageUrl": "https://s.france24.com/media/display/59367a78-daf0-11f1-beae-695cb59fade5/w:1024/p:16x9/WB285009-O-01-20261107-01.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-06T18:03:17.000Z",
-          "fetchedAt": "2026-11-07T06:09:28.967Z"
+          "publishedAt": "2026-11-07T21:30:18.000Z",
+          "fetchedAt": "2026-11-08T06:14:37.424Z"
         },
         {
-          "id": "2026-11-06-1da15fba",
-          "title": "Vols menacés : les fausses alertes à la bombe, une arme redoutable pour la guerre hybride ?",
-          "description": "La multiplication des fausses alertes à la bombe a créé de la confusion à travers toute l’Europe. Ces incidents ressemblent à de nouveaux épisodes de la guerre hybride menée par certains États comme la Russie en Europe, mais rien ne permet d’accuser formellement Moscou. Et puis, il y a cette étrange revendication des \"combattants de l’État masculin\", un groupuscule masculiniste qui semble lié à un obscur réseau d’extrême droite russe...",
-          "url": "https://www.france24.com/fr/europe/20261106-vols-menac%C3%A9s-fausses-alertes-bombe-arme-redoutable-guerre-hybride",
-          "imageUrl": "https://s.france24.com/media/display/7322cd02-d9ff-11f1-90c4-d18c5759e759/w:1024/p:16x9/avion-bombe-menace.png",
+          "id": "2026-11-07-f39d6742",
+          "title": "Robi Morder : \"ce qu'il s'est passé en Serbie encourage cette idée du possible chez les jeunes\"",
+          "description": "Acte IV de la mobilisation en France. Salariés du public et du privé, lycéens, étudiants, gilets jaunes se sont une nouvelle fois rassemblés dans plusieurs villes de France pour maintenir la pression, à 2 jours d'une conférence sociale à Matignon. Un mouvement social initié par la jeunesse, dont certains parmi nos voisins européens s'inspirent. Existe-t-il un mal être générationnel, qui s'exprime à l'échelle européenne? Le chercheur Robi Morder était l'invité d'Au Cœur de l'Info.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261107-robi-morder-ce-qu-il-s-est-pass%C3%A9-en-serbie-encourage-cette-id%C3%A9e-du-possible-chez-les-jeunes",
+          "imageUrl": "https://s.france24.com/media/display/e5187432-dae7-11f1-9ee0-d18c5759e759/w:1024/p:16x9/Francais-2026-11-07T19-07-02-746Z.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-06T17:17:38.000Z",
-          "fetchedAt": "2026-11-07T06:09:28.967Z"
-        },
+          "publishedAt": "2026-11-07T20:38:31.000Z",
+          "fetchedAt": "2026-11-08T06:14:37.424Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-7",
+      "topic": "Jensen Huang, le patron de Nvidia, soupçonné aux Etats-Unis d’avoir été espionné",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
         {
-          "id": "2026-11-06-4ff96310",
-          "title": "La mobilisation lycéenne fait école en Europe : l'Union européenne face aux colères sociales",
-          "description": "L'Europe est en pleine ébullition sociale. À l'instar de la France, d'où sont partis les premiers mouvements lycéens, plusieurs pays de l'Union font face à des vagues de contestation dans la rue. L'Italie, la Belgique, la Grèce ou encore l'Allemagne connaissent des manifestations de plus ou moins grande ampleur.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261106-la-mobilisation-lyc%C3%A9enne-fait-%C3%A9cole-en-europe-l-union-europ%C3%A9enne-face-aux-col%C3%A8res-sociales",
-          "imageUrl": "https://s.france24.com/media/display/6337dd0c-d922-11f1-b6fa-1beafce15fea/w:1024/p:16x9/PHOTO-DEBAT-FR-2.png",
-          "source": "France 24",
+          "id": "2026-11-08-5da81263",
+          "title": "Jensen Huang, le patron de Nvidia, soupçonné aux Etats-Unis d’avoir été espionné par une entrepreneuse chinoise dans le cadre d’une relation sentimentale",
+          "description": "Selon des révélations du « New York Times », Jensen Huang, dont l’entreprise fabrique des puces de pointe indispensables au développement de l’intelligence artificielle, aurait entretenu des rapports avec une cheffe d’entreprise, Alice Huang, recrutée par Pékin. Il a été invité à s’en expliquer devant des parlementaires.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-06T17:00:52.000Z",
-          "fetchedAt": "2026-11-07T06:09:28.967Z"
+          "publishedAt": "2026-11-08T04:55:15.000Z",
+          "fetchedAt": "2026-11-08T06:14:37.446Z"
         },
         {
-          "id": "2026-11-06-3b4c1ac4",
-          "title": "Israël : Eisenkot évoque des \"progrès importants\" dans les discussions pour former un gouvernement",
-          "description": "Le centriste Gadi Eisenkot, adversaire de Benjamin Netanyahu, fait état vendredi de \"progrès importants\" dans les discussions pour former le prochain gouvernement israélien après les élections législatives. La veille, il avait annoncé avoir obtenu le soutien notoire de la principale liste arabe.",
-          "url": "https://www.france24.com/fr/moyen-orient/20261106-isra%C3%ABl-eisenkot-fait-part-progr%C3%A8s-importants-but-former-gouvernement",
-          "imageUrl": "https://s.france24.com/media/display/9ff0f7b4-d9f0-11f1-85f8-695cb59fade5/w:1024/p:16x9/AP26300857503629.jpg",
-          "source": "France 24",
+          "id": "2026-11-08-15548e43",
+          "title": "Plus de 5000 cas de rougeole enregistrés aux États-Unis en 2026, un niveau inédit depuis 35 ans",
+          "description": "Selon les chiffres rapportés vendredi 6 novembre par l'Agence fédérale américaine de contrôle et de prévention des maladies, plus de 5 000 cas de rougeole ont déjà été recensés cette année aux États-Unis, soit un niveau jamais atteint depuis 35 ans. Très contagieuse, cette infection virale touche principalement les jeunes enfants et peut entraîner de graves complications, voire la mort. Plusieurs spécialistes estiment toutefois que cette épidémie aurait pu être évitée.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261108-plus-de-5000-cas-de-rougeole-enregistr%C3%A9s-aux-%C3%A9tats-unis-en-2026-un-niveau-in%C3%A9dit-depuis-35-ans",
+          "imageUrl": "https://s.rfi.fr/media/display/9835268a-dafe-11f1-9914-d18c5759e759/w:1024/p:16x9/063-2290372400.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-06T16:47:14.000Z",
-          "fetchedAt": "2026-11-07T06:09:28.967Z"
+          "publishedAt": "2026-11-08T03:58:49.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.281Z"
         },
         {
-          "id": "2026-11-06-bdec2948",
-          "title": "Une nouvelle “vague d’e-mails malveillants” perturbe le trafic aérien européen",
-          "description": "Le fonctionnement de plusieurs aéroports du Vieux Continent a été chamboulé, vendredi 6 novembre, en raison de nouvelles alertes à la bombe. Pour l’instant, aucun engin explosif n’a été retrouvé dans les avions inspectés, précise la presse européenne.",
-          "url": "https://www.courrierinternational.com/article/destabilisation-une-nouvelle-vague-d-e-mails-malveillants-perturbe-le-trafic-aerien-europeen_285486",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/06/11/0/5500/3666/1200/630/60/0/af648a7_ftp-1-bn2ruerx3h8s-2026-11-06t120748z-300355677-rc2bioarx3mw-rtrmadp-3-europe-flights-czech.JPG",
+          "id": "2026-11-07-e58bd6cd",
+          "title": "États-Unis: motion de défiance contre la direction de l'université Cornell, après des accusations de viols",
+          "description": "L'université de Cornell, dans l'État de New York, est toujours dans la tourmente après des accusations de viols en réunion sur une étudiante. Les professeurs de ce prestigieux établissement états-unien ont voté, vendredi 6 novembre, une motion de défiance contre le conseil d'administration. Un vote symbolique mais qui fragilise encore plus la direction de l'université.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261107-%C3%A9tats-unis-motion-de-d%C3%A9fiance-contre-le-pr%C3%A9sident-de-l-universit%C3%A9-cornell-apr%C3%A8s-des-accusations-de-viols",
+          "imageUrl": "https://s.rfi.fr/media/display/aa39cd5e-dad6-11f1-8660-a575454bc579/w:1024/p:16x9/ETATS-UNIS-UNIVERSITE-CORNELL-NEW-YORK.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-07T18:11:47.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.281Z"
+        },
+        {
+          "id": "2026-11-07-0bd327e0",
+          "title": "« L’Europe et le Canada se sont mis d’accord pour essayer de vivre dans un monde post-Trump avant même qu’il ait quitté la Maison Blanche »",
+          "description": "L’Union européenne et Ottawa s’inspirent de la stratégie de la « révolution autolimitée », pensée par les dissidents d’Europe de l’Est dans les années 1970 pour bâtir une société parallèle à côté de la société officielle, sans chercher à la réformer, note le politiste bulgare Ivan Krastev, dans une tribune au « Monde ».",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/07/l-europe-et-le-canada-se-sont-mis-d-accord-pour-essayer-de-vivre-dans-un-monde-post-trump-avant-meme-qu-il-ait-quitte-la-maison-blanche_6808298_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-07T17:00:13.000Z",
+          "fetchedAt": "2026-11-08T06:14:37.446Z"
+        },
+        {
+          "id": "2026-11-07-50af7914",
+          "title": "Union européenne: «Chine, la défaite de l'Occident», de Pierre-Antoine Donnet",
+          "description": "L'Europe est-elle en voie de vassalisation industrielle par la Chine ? Lundi 12 octobre, l'Union européenne a annoncé un accord avec Pékin pour plafonner à 350 000 le nombre de véhicules hybrides importés de Chine chaque année. Le dossier des véhicules hybrides est un des plus sensibles entre l'Union européenne et la Chine. Ces modèles sont devenus l'un des principaux canaux par lesquels les constructeurs chinois pénètrent le marché européen, où ils livrent une très rude concurrence à leurs rivaux locaux, menaçant l'emploi dans l'UE. Mais est-ce qu'un accord suffira à protéger l'industrie européenne ? Dans son dernier essai Chine : la défaite de l'Occident, Pierre-Antoine Donnet, journaliste spécialiste de la Chine et ancien rédacteur en chef de l'AFP, avertit les Européens.",
+          "url": "https://www.rfi.fr/fr/podcasts/livre-international/20261107-union-europ%C3%A9enne-chine-la-d%C3%A9faite-de-l-occident-de-pierre-antoine-donnet",
+          "imageUrl": "https://s.rfi.fr/media/display/16d0b808-dab7-11f1-9215-a575454bc579/w:1024/p:16x9/Couverture-du-livre-Chine-la-d%C3%A9faite-de-l-Occident-de-Pierre-Antoine-Donnet-1.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-07T14:47:02.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.281Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-15",
+      "topic": "Café, bistrot ou brasserie : le dédale de la restauration française expliqué aux",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-08-c787b987",
+          "title": "Café, bistrot ou brasserie : le dédale de la restauration française expliqué aux Britanniques",
+          "description": "Qu’il s’agisse de savoir comment s’habiller ou quoi commander, les restaurants français peuvent receler quelques pièges pour les clients non initiés, observe ce journaliste britannique et francophile. Dans le “Daily Telegraph”, il propose un petit guide des établissements de restauration à la française.",
+          "url": "https://www.courrierinternational.com/article/societe-cafe-bistrot-ou-brasserie-le-dedale-de-la-restauration-francaise-explique-aux-britanniques_265686",
+          "imageUrl": "https://focus.courrierinternational.com/2026/11/03/0/0/4999/3333/1200/630/60/0/20269d0_upload-1-1t9zkwaxmrad-paris-boutique-hotel-5.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-06T16:39:38.000Z",
-          "fetchedAt": "2026-11-07T06:09:29.070Z"
+          "publishedAt": "2026-11-08T04:00:08.000Z",
+          "fetchedAt": "2026-11-08T06:14:37.563Z"
+        },
+        {
+          "id": "2026-11-07-1cae41f2",
+          "title": "Le Large, nouveau paquebot culturel, amarre sur l'île Seguin aux portes de Paris",
+          "description": "Plus de 30 ans après la fermeture des usines Renault, l'île Seguin entame un nouveau chapitre de son histoire. Un nouveau centre d'art contemporain vient d'y jeter l'ancre. Son nom : le Large. Dans un bâtiment spectaculaire de 5 000 m² imaginé comme un vaste lieu de création et de partage, l'exposition inaugurale Moteur imaginaire explore la mémoire ouvrière et industrielle du site. Réunissant 122 œuvres de 55 artistes venus d'une vingtaine de pays, elle fait dialoguer près d'un siècle de création, entre voitures devenues sculptures, souvenirs d'immigration et archives ouvrières.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-culture/20261107-le-large-nouveau-paquebot-culturel-amarre-sur-l-%C3%AEle-seguin-aux-portes-de-paris",
+          "imageUrl": "https://s.rfi.fr/media/display/77d01d28-da0e-11f1-98e7-a575454bc579/w:1024/p:16x9/260727-NT-DSC08826-Panorama-2.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-07T23:27:23.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.281Z"
+        },
+        {
+          "id": "2026-11-07-68729954",
+          "title": "France-Fidji : les Flying Fijians doivent-ils sacrifier leur magie pour gagner ?",
+          "description": "Appréciés pour leur talent offensif et leurs actions spectaculaires, les rugbymen fidjiens ont aussi la réputation de manquer de discipline et de rigueur défensive. Les Flying Fijians, qui défient le XV de France ce samedi 7 novembre à Lyon, dans le cadre du Championnat des nations, ont désormais Jake White à leur tête. La presse internationale se demande si le sélectionneur de renom sud-africain arrivera à leur faire franchir un cap sans dénaturer leur jeu.",
+          "url": "https://www.courrierinternational.com/article/rugby-france-fidji-les-flying-fijians-doivent-ils-sacrifier-leur-magie-pour-gagner_285468",
+          "imageUrl": "https://focus.courrierinternational.com/2026/11/06/0/0/8256/5504/1200/630/60/0/f0a8d3b_upload-1-vgtuvxcrkha1-000-846n44v.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-07T15:47:08.000Z",
+          "fetchedAt": "2026-11-08T06:14:37.563Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Pourquoi personne ne semble satisfait de l’augmentation du SMIC ? Comprendre en ",
-      "category": "eco",
-      "importance": 7,
+      "topic": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix co",
+      "category": "tech",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-11-07-d488f274",
-          "title": "Pourquoi personne ne semble satisfait de l’augmentation du SMIC ? Comprendre en trois minutes",
-          "description": "Depuis 2017, le salaire minimum a augmenté de plus de 28 % en France. Mais cette hausse, qui correspond aux 14 revalorisations automatiques du SMIC, a en réalité suivi l’inflation sans véritable gain de pouvoir d’achat pour les salariés concernés.",
-          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/11/07/pourquoi-personne-ne-semble-satisfait-de-l-augmentation-du-smic-comprendre-en-trois-minutes_6808237_6176282.html",
+          "id": "2026-11-08-8fa62ddf",
+          "title": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+          "description": "Face à la crise financière et sociale, l’ancien gouverneur de la Banque de France, qui a quitté son poste en juin, plaide, dans un entretien au « Monde », pour un redressement fondé sur l’efficacité des dépenses publiques et sur trois grands projets concrets européens à l’horizon 2029 : IA, énergie et défense.",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html",
           "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-07T05:00:17.000Z",
-          "fetchedAt": "2026-11-07T06:09:40.733Z"
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-08T05:30:11.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.184Z"
+        },
+        {
+          "id": "2026-11-07-5e12bbe8",
+          "title": "Des sportifs et créateurs de contenus français courent pendant vingt-cinq heures pour soutenir une association",
+          "description": "Cent quarante coureurs ont récolté près de 1,5 million d’euros pour l’association Rêves, qui réalise les vœux d’enfants gravement malades.",
+          "url": "https://www.lemonde.fr/videos/article/2026/11/07/des-sportifs-et-createurs-de-contenus-francais-courent-pendant-vingt-cinq-heures-pour-soutenir-une-association_6808306_1669088.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-07T17:50:19.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.184Z"
+        },
+        {
+          "id": "2026-11-07-467d7385",
+          "title": "Dans les cabinets d’affaires, l’inquiétude des jeunes avocats : « D’ici à cinq ans, l’IA sera capable d’exécuter la quasi-totalité des tâches aujourd’hui confiées à un stagiaire ou à un jeune collaborateur »",
+          "description": "Alors que l’intelligence artificielle générative déferle dans le monde du droit, une partie de la jeune génération d’avocats s’interroge sur ses perspectives de carrière.",
+          "url": "https://www.lemonde.fr/campus/article/2026/11/07/dans-les-cabinets-d-affaires-l-inquietude-des-jeunes-avocats-d-ici-a-cinq-ans-l-ia-sera-capable-d-executer-la-quasi-totalite-des-taches-aujourd-hui-confiees-a-un-stagiaire-ou-a-un-jeune-collaborateur_6808299_4401467.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-07T17:00:14.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.184Z"
+        },
+        {
+          "id": "2026-11-07-3448e4ae",
+          "title": "Une marque pénalisé par l’Europe sans le vouloir, Electra change ses abonnements et BYD bat le record de vitesse : le récap Vroom de la semaine",
+          "description": "À la une sur Vroom cette semaine : Toyota pourra se retrouver pénaliser par un projet de loi européen qui vise des marques chinoises, Electra brise sa promesse de ne pas toucher à ses forfaits et BYD fixe le nouveau record de vitesse pour une voiture de route à 503,17 km/h.",
+          "url": "https://www.numerama.com/vroom/2369813-une-marque-penalise-par-leurope-sans-le-vouloir-electra-change-ses-abonnements-et-byd-bat-le-record-de-vitesse-le-recap-vroom-de-la-semaine.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/03/essai-toyota-c-hr-plus-5.jpg?resize=1600,900&key=58269ed5",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-11-07T15:14:00.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.292Z"
+        },
+        {
+          "id": "2026-11-07-936650e9",
+          "title": "Netflix : les 10 meilleures comédies en 2026 pour une fin d’année plus joyeuse",
+          "description": "Parce qu'on a tous besoin de débrancher le cerveau après une semaine éreintante, voici notre sélection des meilleures comédies disponibles actuellement sur Netflix. Blockbusters survitaminés, parodies cultes, pépites françaises et comédies romantiques : de quoi soigner toutes vos pannes de rire.",
+          "url": "https://www.numerama.com/pop-culture/2368699-netflix-les-10-meilleures-comedies-en-2026-pour-une-fin-dannee-plus-joyeuse.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/capture-decran-2026-11-05-a-172802.png?resize=1600,900&key=68fedf5d",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-11-07T14:30:00.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.292Z"
+        },
+        {
+          "id": "2026-11-07-f7179380",
+          "title": "Dragon Ball Super ne reviendra peut-être pas, tout comme certains studios d’EA, tandis que Nicolas Cage revient dans l’un de ses meilleurs rôles, c’est le récap pop culture de la semaine",
+          "description": "La suite de Dragon Ball Super se fait toujours attendre depuis le décès d'Akira Toriyama, et les fans du manga ont de moins en moins d'espoir de découvrir un nouveau chapitre un jour. Du côté d'EA, les joueuses et les joueurs font déjà le deuil des studios qu'ils ont tant aimés et qui ont fermé leurs portes. Nicolas Cage, lui, est toujours bien présent et revient dans la suite de Lord of War. Voici le récap pop culture de la semaine !",
+          "url": "https://www.numerama.com/pop-culture/2369591-dragon-ball-super-ne-reviendra-peut-etre-pas-tout-comme-certains-studios-dea-tandis-que-nicolas-cage-revient-dans-lun-de-ses-meilleurs-roles-cest-le-recap-pop-culture-de-la-semaine.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/dbsuper.png?resize=1600,900&key=bcfb439b",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-11-07T12:15:00.000Z",
+          "fetchedAt": "2026-11-08T06:14:44.292Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "category": "tech",
+      "id": "cluster-2",
+      "topic": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "category": "eco",
       "importance": 6,
       "articles": [
         {
-          "id": "2026-11-06-b6f2bcab",
-          "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-          "description": "It's the exact path, not the apparent severity that matters most, doctors say.",
-          "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-11-06T23:09:45.000Z",
-          "fetchedAt": "2026-11-07T06:09:40.763Z"
+          "id": "2026-11-07-eef14a3b",
+          "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+          "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-11-07T23:02:35.000Z",
+          "fetchedAt": "2026-11-08T06:14:54.717Z"
         }
       ]
     }
