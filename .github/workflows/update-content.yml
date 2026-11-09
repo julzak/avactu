@@ -14,8 +14,8 @@ on:
   # gate and the send all live in one job, which guarantees fresh content AND a
   # fixed send time with no possibility of a duplicate send.
   #
-  # Depuis le 2026-09-29, le déclencheur PRINCIPAL est un timer systemd sur le VPS OVH
-  # (04:00 UTC, `avactu-trigger.timer`) qui appelle workflow_dispatch avec
+  # Depuis le 2026-11-09, le déclencheur PRINCIPAL est un timer systemd sur le VPS Scaleway
+  # (05:00 Europe/Paris, `avactu-trigger.timer`, /opt/avactu-trigger) qui appelle workflow_dispatch avec
   # trigger_source=vps : la dérive du cron GitHub avait atteint 5h33 (envoi à 08:12 Paris)
   # et on ne peut pas l'avancer avant 00:00 UTC (dates d'édition en UTC).
   # Ce cron reste en SECOURS : le job `guard` l'annule si le run VPS du jour est en cours
