@@ -9,6 +9,7 @@
 import { readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { getExtraLine, parisDate, smsSegments } from './sms-extra.js';
 
 // ES Module __dirname equivalent
 const __filename = fileURLToPath(import.meta.url);
@@ -95,7 +96,7 @@ function formatDate(dateString: string): string {
 
 /**
  * Build SMS message from stories
- * Format compact sur 3 lignes (compatibilité OVH : pas de virgules)
+ * Format compact sur 4 lignes (compatibilité OVH : pas de virgules)
  */
 function buildMessage(edition: Edition): string {
   const dateFormatted = formatDate(edition.date);
@@ -107,7 +108,12 @@ function buildMessage(edition: Edition): string {
   // Ensure URL has https:// for clickability
   const fullUrl = APP_URL.startsWith('http') ? APP_URL : `https://${APP_URL}`;
 
-  return `Avactu du ${dateFormatted}\n${keywordsLine}\nLire: ${fullUrl}`;
+  // Mot du matin : mot perso de la date sinon phrase de la banque (scripts/sms-extra.ts)
+  const extra = getExtraLine(parisDate(edition.date));
+  const extraLine = extra ? `\n${extra.text}` : '';
+  if (extra) console.log(`💬 Mot du matin (${extra.source}) : ${extra.text}`);
+
+  return `Avactu du ${dateFormatted}\n${keywordsLine}${extraLine}\nLire: ${fullUrl}`;
 }
 
 /**
@@ -196,7 +202,7 @@ async function main(): Promise<void> {
   console.log('─'.repeat(40));
   console.log(message);
   console.log('─'.repeat(40));
-  console.log(`\n📊 ${message.length} caractères`);
+  console.log(`\n📊 ${message.length} caractères, ${smsSegments(message)} segment(s) SMS`);
 
   if (isDryRun) {
     console.log('\n🔸 Mode dry-run: SMS non envoyé');
