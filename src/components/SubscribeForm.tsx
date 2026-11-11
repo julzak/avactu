@@ -16,6 +16,17 @@ const FREQUENCY_OPTIONS: FrequencyOption[] = [
   { value: 'weekly', label: 'Hebdo', description: 'Chaque samedi' },
 ];
 
+/** Origine de la visite (?src=email, ?src=linkedin...), gardée le temps de la session */
+function getSource(): string {
+  try {
+    const fromUrl = new URLSearchParams(window.location.search).get('src');
+    if (fromUrl) sessionStorage.setItem('avactu_src', fromUrl);
+    return sessionStorage.getItem('avactu_src') || 'site';
+  } catch {
+    return 'site';
+  }
+}
+
 export function SubscribeForm() {
   const [email, setEmail] = useState('');
   const [frequency, setFrequency] = useState<Frequency>('biweekly');
@@ -48,6 +59,7 @@ export function SubscribeForm() {
         body: JSON.stringify({
           email: email.toLowerCase().trim(),
           frequency,
+          source: getSource(),
         }),
       });
 

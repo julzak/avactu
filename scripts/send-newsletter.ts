@@ -206,6 +206,14 @@ function generateEmailHtml(stories: Story[], editionDate: string): string {
                   </td>
                 </tr>
                 <tr>
+                  <td align="center" style="padding-bottom: 16px;">
+                    <p style="margin: 0; font-family: Georgia, serif; font-size: 14px; line-height: 1.6; color: ${COLORS.textSecondary};">
+                      Ça peut plaire à quelqu'un ? Transfère-lui cet email.<br />
+                      On te l'a transféré ? <a href="${APP_URL}/?src=email" style="color: #22d3ee; text-decoration: underline;">Abonne-toi ici</a>, c'est gratuit.
+                    </p>
+                  </td>
+                </tr>
+                <tr>
                   <td align="center">
                     <p style="margin: 0; font-family: 'SF Mono', SFMono-Regular, Consolas, monospace; font-size: 10px; color: ${COLORS.textMuted};">
                       Tu reçois cet email car tu t'es abonné sur avactu.com
@@ -262,6 +270,9 @@ ${storiesText}
 Lire l'analyse complète : ${APP_URL}
 
 Avactu — L'essentiel, sans le bruit.
+
+Ça peut plaire à quelqu'un ? Transfère-lui cet email.
+On te l'a transféré ? Abonne-toi ici, c'est gratuit : ${APP_URL}/?src=email
 
 Modifier mes préférences : ${APP_URL}/preferences
 Se désabonner : ${APP_URL}/unsubscribe

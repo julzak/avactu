@@ -9,6 +9,7 @@ type Frequency = 'daily' | 'biweekly' | 'weekly';
 interface SubscribeRequest {
   email: string;
   frequency: Frequency;
+  source?: string;
 }
 
 // Constants
@@ -146,7 +147,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   }
 
   // Parse request body
-  const { email, frequency } = req.body as SubscribeRequest;
+  const { email, frequency, source } = req.body as SubscribeRequest;
+  // Origine de l'inscription (site, archives, email, linkedin...) : mesure de l'acquisition
+  const normalizedSource =
+    String(source ?? '').toLowerCase().replace(/[^a-z0-9_-]/g, '').slice(0, 40) || null;
 
   if (!email || !frequency) {
     return res.status(400).json({ error: 'Email and frequency are required' });
@@ -210,6 +214,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
           pending_frequency: frequency,
           confirmation_token: confirmationToken,
           token_expires_at: tokenExpiresAt,
+          source: normalizedSource,
         });
 
       if (insertError) {

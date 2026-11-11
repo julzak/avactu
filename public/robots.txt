@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /confirm
+Disallow: /preferences
+Disallow: /unsubscribe
+
+Sitemap: https://avactu.com/sitemap.xml
