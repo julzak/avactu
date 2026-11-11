@@ -1,242 +1,264 @@
 {
-  "generatedAt": "2026-11-10T04:05:04.290Z",
+  "generatedAt": "2026-11-11T04:04:39.474Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-4",
-      "topic": "Etats-Unis : les électeurs de Californie rejettent un avatar de la taxe Zucman s",
+      "id": "cluster-3",
+      "topic": "Au Brésil, Meta condamnée à une lourde amende pour un traitement jugé inégal ent",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-10-3b2dd1c3",
-          "title": "Etats-Unis : les électeurs de Californie rejettent un avatar de la taxe Zucman sur les milliardaires",
-          "description": "La taxation ponctuelle de 5 % des milliardaires, qui était soumise à référendum le 3 novembre, a été repoussée selon les résultats proclamés dans la nuit de lundi à mardi. Après la victoire des démocrates aux midterms, le débat sur l’imposition des grandes fortunes devrait néanmoins revenir sur le devant de la scène.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/etats-unis-les-electeurs-de-californie-rejettent-un-avatar-de-la-taxe-zucman-sur-les-milliardaires_6808768_3210.html",
+          "id": "2026-11-11-8316952f",
+          "title": "Au Brésil, Meta condamnée à une lourde amende pour un traitement jugé inégal entre Lula et Flavio Bolsonaro durant la présidentielle",
+          "description": "Au cours de la campagne, l’équipe de Lula avait accusé la maison mère de Facebook, d’Instagram et de WhatsApp de s’être livrée à une « manipulation algorithmique » destinée à avantager son rival de droite.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-10T02:57:41.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.742Z"
+          "publishedAt": "2026-11-11T03:16:31.000Z",
+          "fetchedAt": "2026-11-11T04:00:39.021Z"
         },
         {
-          "id": "2026-11-10-4a165afd",
-          "title": "La Cour suprême américaine autorise la reprise de travaux de l’administration Trump à la frontière avec le Mexique dans un parc national au Texas",
-          "description": "Le chantier dans le parc national de Big Bend, auquel s’opposent les associations environnementales, peut désormais redémarrer à tout moment.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/la-cour-supreme-americaine-autorise-la-reprise-de-travaux-de-l-administration-trump-a-la-frontiere-avec-le-mexique-dans-un-parc-national-au-texas_6808766_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-10T02:34:30.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.742Z"
-        },
-        {
-          "id": "2026-11-10-512bdfe1",
-          "title": "En Argentine, le pape Léon XIV célèbre une messe devant 2,5 millions de fidèles et rencontre des victimes de violences sexuelles",
-          "description": "L’affluence, lors de cette messe à Buenos Aires, est la plus massive en dix-huit mois de pontificat du pape américain.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/en-argentine-le-pape-leon-xiv-celebre-une-messe-devant-2-5-millions-de-fideles-et-rencontre-des-victimes-de-violences-sexuelles_6808764_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-10T01:14:34.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.742Z"
-        },
-        {
-          "id": "2026-11-09-c6d6ba2e",
-          "title": "Donald Trump évoque un « élan positif » vers un accord de paix avec l’Iran après sa rencontre avec le premier ministre du Qatar",
-          "description": "Le président américain a ajouté sur son réseau Truth Social que si une reprise des frappes contre l’Iran était « peu probable », les Etats-Unis restaient « prêts à intervenir ».",
-          "url": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-evoque-un-elan-positif-vers-un-accord-de-paix-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-09T23:26:10.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.742Z"
-        },
-        {
-          "id": "2026-11-09-85bc4878",
-          "title": "Afrique du Sud : la déroute de l'ANC, parti de Nelson Mandela, aux municipales",
-          "description": "Le Congrès national africain (ANC), parti dominant la politique sud-africaine depuis la fin de l'apartheid, a obtenu 30,76 % des voix aux élections municipales, le pire score de son histoire, selon les résultats définitifs annoncés dimanche par la commission électorale. Aucun parti n'ayant remporté la majorité absolue dans de nombreuses municipalités, ces résultats ouvrent la voie à des négociations ardues pour former des coalitions à la tête de plusieurs grandes villes.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261109-afrique-du-sud-la-d%C3%A9route-de-l-anc-parti-de-nelson-mandela-aux-municipales",
-          "imageUrl": "https://s.france24.com/media/display/8c3f209e-dc82-11f1-aee4-a575454bc579/w:1024/p:16x9/FRAN261109-2141-Live-01.jpg",
+          "id": "2026-11-11-37f4b9bb",
+          "title": "Présidentielle au Brésil : Meta écope d'une amende pour traitement inégal entre Lula et Bolsonaro",
+          "description": "Le Tribunal supérieur électoral du Brésil a infligé mardi à Meta une amende de 7,5 millions de réais (environ 1,2 million d’euros) pour n'avoir pas respecté l'égalité de traitement entre les candidats à la présidentielle Lula et Flavio Bolsonaro.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-presidentielle-bresil-meta-ecope-amende-traitement-inegal-lula-bolsonaro",
+          "imageUrl": "https://s.france24.com/media/display/fc2552f4-cd9e-11f1-a37c-19980254bb31/w:1024/p:16x9/AFP-20261014-D39K34J-v1-HighRes-IrelandEuAiSummit.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-09T22:20:53.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.838Z"
-        },
-        {
-          "id": "2026-11-09-c6b0fe86",
-          "title": "Sahara occidental: l'épineux dossier de la Minurso à nouveau en discussion à l'ONU",
-          "description": "Le dossier de la mission des Nations unies au Sahara occidental (Minurso) sera discuté à l'Assemblée générale mardi 10 novembre, près de dix jours après le véto russe au Conseil de sécurité, qui a précipité la fin de la Minurso. La Russie devra notamment expliquer pourquoi elle s'est opposée au projet de résolution renouvelant le mandat de la mission, porté par les États-Unis. Des réactions vives sont également attendues du côté du Maroc et de l'Algérie.",
-          "url": "https://www.rfi.fr/fr/afrique/20261109-sahara-occidental-l-%C3%A9pineux-dossier-de-la-minurso-%C3%A0-nouveau-en-discussion-%C3%A0-l-onu",
-          "imageUrl": "https://s.rfi.fr/media/display/496ff4dc-d69c-11f1-b9d2-695cb59fade5/w:1024/p:16x9/000-8VV7ZZ.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-09T22:08:43.000Z",
-          "fetchedAt": "2026-11-10T04:01:12.145Z"
+          "publishedAt": "2026-11-11T02:40:41.000Z",
+          "fetchedAt": "2026-11-11T04:00:38.994Z"
         }
       ]
     },
     {
-      "id": "cluster-17",
-      "topic": "EN DIRECT, guerre en Ukraine : reprise mardi des négociations entre l’Ukraine et",
+      "id": "cluster-6",
+      "topic": "En direct : poursuite des pourparlers entre l'Ukraine et la Russie à Abu Dhabi",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-09-0e23ab73",
-          "title": "EN DIRECT, guerre en Ukraine : reprise mardi des négociations entre l’Ukraine et la Russie à Abou Dhabi, Kiev insistera sur les échanges de prisonniers",
-          "description": "« Nous allons accorder une grande attention à la dimension humanitaire », écrit sur Telegram Kyrylo Boudanov, chef de cabinet de Volodymyr Zelensky, et membre de la délégation dépêchée aux Emirats arabes unis mardi et mercredi. Russes et Ukrainiens « ont montré un peu de souplesse en privé », a estimé un responsable américain.",
-          "url": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-reprise-mardi-des-negociations-entre-l-ukraine-et-la-russie-a-abou-dhabi-kiev-insistera-sur-les-echanges-de-prisonniers_6808609_3210.html",
+          "id": "2026-11-11-b673d2e3",
+          "title": "En direct : poursuite des pourparlers entre l'Ukraine et la Russie à Abu Dhabi",
+          "description": "Le président ukrainien Volodymyr Zelensky s'est dit \"satisfait\" du changement d'approche de Washington dans les pourparlers avec Moscou qui doivent se poursuivre mercredi à Abu Dhabi, insistant toutefois sur la nécessité de garanties de sécurité pour son pays. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20261111-en-direct-poursuite-pourparlers-ukraine-russie-abu-dhabi-zelensky-poutine-kushner",
+          "imageUrl": "https://s.france24.com/media/display/467b32a0-dd77-11f1-9a39-5f54d898a954/w:1024/p:16x9/AP26314365694784.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-11T02:32:05.000Z",
+          "fetchedAt": "2026-11-11T04:00:38.994Z"
+        },
+        {
+          "id": "2026-11-10-1e207fd8",
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce que Kiev travaille sur un possible « grand échange » de prisonniers avec Moscou",
+          "description": "Le sujet a été évoqué mardi lors des pourparlers entre les deux pays à Abou Dhabi, a déclaré le président ukrainien, lors d’une conférence de presse à Copenhague.",
+          "url": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-que-kiev-travaille-sur-un-possible-grand-echange-de-prisonniers-avec-moscou_6808609_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-09T23:32:14.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.742Z"
+          "publishedAt": "2026-11-10T23:24:59.000Z",
+          "fetchedAt": "2026-11-11T04:00:39.021Z"
         },
         {
-          "id": "2026-11-09-ae838fec",
-          "title": "Torture en Ukraine : que dit la photo de cet adolescent ?",
-          "description": "Des publications faites dans les sphères pro-russes ont relayé une photo et des vidéos devenues virales, dans lesquelles un adolescent ukrainien, l'air terrifié, est escorté. Le jeune homme est présenté comme la victime d'un centre de torture ukrainien. Or les images sont trompeuses et aucune preuve de torture n'a pu être apportée.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261109-torture-en-ukraine-que-dit-la-photo-de-cet-adolescent",
-          "imageUrl": "https://s.france24.com/media/display/3dcbd7ca-dc89-11f1-8209-d18c5759e759/w:1024/p:16x9/FRAN261109-2115-Live-CS2115.jpg",
+          "id": "2026-11-10-7339dd0e",
+          "title": "Pourparlers Ukraine-Russie : Washington plaide pour un \"nouveau\" cadre de sécurité avec l'Europe",
+          "description": "Les pourparlers sous médiation américaine entamés mardi entre Kiev et Moscou à Abu Dhabi ont été \"constructifs\", selon le président ukrainien Volodymyr Zelensky. Washington a, en outre, évoqué la possibilité de travailler à un \"nouveau\" cadre de sécurité incluant l'Europe. France 24 fait le point sur cette première journée de discussions.",
+          "url": "https://www.france24.com/fr/europe/20261110-pourparlers-ukraine-russie-washington-plaide-nouveau-cadre-s%C3%A9curit%C3%A9-europe",
+          "imageUrl": "https://s.france24.com/media/display/121a87b4-dd03-11f1-aa06-5f54d898a954/w:1024/p:16x9/capture-46a35800.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-09T22:08:24.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.838Z"
+          "publishedAt": "2026-11-10T21:57:11.000Z",
+          "fetchedAt": "2026-11-11T04:00:38.994Z"
         },
         {
-          "id": "2026-11-09-8587a979",
-          "title": "Guerre en Ukraine : 400 000 morts russes, le bilan que Vladimir Poutine voulait cacher",
-          "description": "Des hackeurs biélorusses et ukrainiens ont réussi à infiltrer les ordinateurs de Rosstat, l’agence russe des statistiques. Leurs chiffres, publiés par Bloomberg, prennent en compte les certificats de décès liés à l’« opération militaire spéciale ». Un bilan qui sous-estime l’ampleur réelle des pertes.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/09/le-bilan-que-vladimir-poutine-voulait-cacher-400-000-morts-russes-dans-la-guerre-en-ukraine_6808679_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-09T17:05:37.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.742Z"
-        },
-        {
-          "id": "2026-11-09-175b6698",
-          "title": "Le comédien Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles",
-          "description": "Acteur et humoriste devenu influenceur complotiste, le Britannique Russell Brand a été condamné lundi à dix ans de prison pour viol et agressions sexuelles par un tribunal de Londres.",
-          "url": "https://www.france24.com/fr/europe/20261109-com%C3%A9dien-russell-brand-condamn%C3%A9-dix-ans-prison-viol-agressions-sexuelles",
-          "imageUrl": "https://s.france24.com/media/display/53ca4e84-d924-11f1-a998-695cb59fade5/w:1024/p:16x9/000-D6FC68G.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-09T17:00:01.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.838Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-21",
-      "topic": "Ni la guerre, ni une pandémie : en France, le dérèglement climatique perçue comm",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-09-428cae4c",
-          "title": "Ni la guerre, ni une pandémie : en France, le dérèglement climatique perçue comme la première menace",
-          "description": "Après un été 2026 marqué par des canicules, des sécheresses et des incendies, une étude du laboratoire d'idées Destin Commun révèle que l'aggravation du dérèglement climatique est désormais la menace extérieure qui préoccupe le plus les Français, avant le terrorisme, une crise économique ou encore un conflit armé.",
-          "url": "https://www.france24.com/fr/plan%C3%A8te/20261109-ni-la-guerre-ni-une-pand%C3%A9mie-en-france-le-d%C3%A9r%C3%A8glement-climatique-per%C3%A7ue-comme-la-premi%C3%A8re-menace",
-          "imageUrl": "https://s.france24.com/media/display/9e45da44-dc5f-11f1-9055-1beafce15fea/w:1024/p:16x9/000-C3HD7CU.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-09T23:02:51.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.838Z"
-        },
-        {
-          "id": "2026-11-09-19c7cb64",
-          "title": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur Mensch",
-          "description": "A la veille du Forum de Paris sur la paix, Emmanuel Macron a organisé une déclaration plaidant pour des standards communs de classement des incidents liés à l’intelligence artificielle et à des évaluations indépendantes.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/09/securite-de-l-ia-l-elysee-fait-signer-un-appel-de-paris-a-huit-pays-ainsi-qu-a-sam-altman-dario-amodei-et-arthur-mensch_6808706_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-09T22:35:00.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.742Z"
-        },
-        {
-          "id": "2026-11-09-eb0bbf2e",
-          "title": "Cameroun : après des reports, le président, Paul Biya, convoque des élections législatives et municipales le 7 février",
-          "description": "Paul Biya, 93 ans et doyen mondial des chefs d’Etat, a été réélu président du Cameroun pour la huitième fois en 2025. Cette dernière élection, contestée par l’opposition, avait été réprimée dans le sang.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/09/cameroun-apres-des-reports-le-president-paul-biya-convoque-des-elections-legislatives-et-municipales-le-7-fevrier_6808705_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-09T22:06:32.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.742Z"
-        },
-        {
-          "id": "2026-11-09-8ad6fc71",
-          "title": "Au Cameroun, le président Biya fixe au 7 février la tenue de législatives et municipales",
-          "description": "Le président Paul Biya a annoncé lundi convoquer des élections législatives et municipales le 7 février 2027. Un scrutin qui sera organisé dans un contexte tendu, marqué par la répression de l'opposition qui conteste les résultats de la présidentielle d'octobre 2025.",
-          "url": "https://www.france24.com/fr/afrique/20261109-cameroun-pr%C3%A9sident-biya-fixe-7-f%C3%A9vrier-%C3%A9lections-l%C3%A9gislatives-municipales",
-          "imageUrl": "https://s.france24.com/media/display/5069aaa4-dc81-11f1-8780-a575454bc579/w:1024/p:16x9/000-78H89WF.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-09T21:22:49.000Z",
-          "fetchedAt": "2026-11-10T04:01:03.838Z"
-        },
-        {
-          "id": "2026-11-09-4ebf19f8",
-          "title": "Présidentielle en France: Raphaël Glucksmann présente son projet de «révolution écologique»",
-          "description": "Raphaël Glucksmann veut faire de l'écologie l'un des piliers de son projet pour la présidentielle de 2027 en France. Le candidat de Place publique a présenté, lundi 9 novembre, son programme des 100 premiers jours pour sortir des énergies fossiles. Il entend porter une véritable « révolution écologique », avec un objectif : accélérer la transition tout en faisant de la justice sociale une priorité.",
-          "url": "https://www.rfi.fr/fr/france/20261109-pr%C3%A9sidentielle-en-france-rapha%C3%ABl-glucksmann-pr%C3%A9sente-son-projet-de-r%C3%A9volution-%C3%A9cologique",
-          "imageUrl": "https://s.rfi.fr/media/display/188ac9b0-dc5e-11f1-9fb5-d18c5759e759/w:1024/p:16x9/000-D6K38CW.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-09T17:59:50.000Z",
-          "fetchedAt": "2026-11-10T04:01:12.145Z"
-        },
-        {
-          "id": "2026-11-09-e573ed39",
-          "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal ",
-          "description": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-          "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png",
+          "id": "2026-11-10-793fbc27",
+          "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+          "description": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+          "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a97e/live/c6e282c0-dd33-11f1-ab46-9fae224bbf6f.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-09T16:33:55.000Z",
-          "fetchedAt": "2026-11-10T04:01:11.939Z"
+          "publishedAt": "2026-11-10T17:00:11.000Z",
+          "fetchedAt": "2026-11-11T04:00:46.536Z"
+        },
+        {
+          "id": "2026-11-10-1bf9063a",
+          "title": "Pourparlers Ukraine-Russie: Washington appelle à un «nouveau» cadre de sécurité avec l'Europe",
+          "description": "Kiev et Moscou ont entamé mardi 10 novembre à Abou Dhabi des pourparlers sous médiation américaine, avec l'espoir de progresser vers un règlement du conflit et, selon Washington, de travailler à un « nouveau » cadre de sécurité incluant l'Europe.",
+          "url": "https://www.rfi.fr/fr/europe/20261110-pourparlers-ukraine-russie-washington-appelle-%C3%A0-un-nouveau-cadre-de-s%C3%A9curit%C3%A9-avec-l-europe",
+          "imageUrl": "https://s.rfi.fr/media/display/f9d8d308-dd21-11f1-8f11-3f371022a770/w:1024/p:16x9/AP26314375234616.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-10T16:24:57.000Z",
+          "fetchedAt": "2026-11-11T04:00:46.579Z"
         }
       ]
     },
     {
-      "id": "cluster-1",
-      "topic": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "category": "tech",
-      "importance": 7,
+      "id": "cluster-9",
+      "topic": "Un militaire américain arrêté en Angleterre, soupçonné d’espionnage au profit de",
+      "category": "geopolitique",
+      "importance": 10,
       "articles": [
         {
-          "id": "2026-11-10-05e31abb",
-          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-          "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said:\n\"I think when you zoom out and look at production, AI really has the potential to be the biggest creative unlock in modern history. The last time we saw anything close to this was really the, you know, advent of CGI and digital composites in the early 90s. That technology gave birth to amazing stories like Jurassic Park and Terminator 2, and it's hard to imagine that AI is not going to have a more significant i …\n\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
+          "id": "2026-11-11-6c0b8ecb",
+          "title": "Un militaire américain arrêté en Angleterre, soupçonné d’espionnage au profit de la Russie",
+          "description": "Le suspect de 41 ans est soupçonné d’avoir enfreint plusieurs articles de la loi britannique de 2023 sur la sécurité nationale, qui concernent l’obtention ou la divulgation d’informations protégées et l’assistance à un service de renseignement étranger.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/un-militaire-americain-arrete-en-angleterre-soupconne-d-espionnage-au-profit-de-la-russie_6808915_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-11T01:55:06.000Z",
+          "fetchedAt": "2026-11-11T04:00:39.021Z"
+        },
+        {
+          "id": "2026-11-11-f378e38a",
+          "title": "Aux Etats-Unis, un juge refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC, permettant à la procédure de se poursuivre",
+          "description": "Le président américain reproche au groupe audiovisuel public britannique d’avoir réalisé un montage vidéo trompeur de ses propos. « La question de savoir s’il a subi des dommages est remise à plus tard », lors d’un jugement sur le fond, écrit le juge.",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/11/un-juge-americain-refuse-de-rejeter-la-plainte-pour-diffamation-de-donald-trump-contre-la-bbc-permettant-a-la-procedure-de-se-poursuivre_6808914_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-11T01:34:12.000Z",
+          "fetchedAt": "2026-11-11T04:00:39.021Z"
+        },
+        {
+          "id": "2026-11-11-87329c10",
+          "title": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès",
+          "description": "Mis en cause par le républicain Thomas Massie pour huit motifs, dont la guerre en Iran et les exécutions extrajudiciaires dans les Caraïbes, le secrétaire à la défense a vivement contre-attaqué, dans un avant-goût de la bataille qu’entend lui livrer la future majorité démocrate.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/11/etats-unis-pete-hegseth-defiant-et-offensif-echappe-a-une-tentative-de-destitution-au-congres_6808912_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-11T00:28:21.000Z",
+          "fetchedAt": "2026-11-11T04:00:39.021Z"
+        },
+        {
+          "id": "2026-11-10-2265c3e2",
+          "title": "Le Royaume-Uni arrête un militaire américain soupçonné d'espionnage au profit de la Russie",
+          "description": "La police antiterroriste britannique a annoncé mardi l'arrestation d'un militaire américain de 41 ans soupçonné d'espionnage au profit de la Russie, après une enquête en \"collaboration étroite\" avec les autorités américaines.",
+          "url": "https://www.france24.com/fr/europe/20261110-royaume-uni-arrete-militaire-americain-soup%C3%A7onne-espionnage-russie",
+          "imageUrl": "https://s.france24.com/media/display/3007de5c-dd58-11f1-96d8-f71d22e7fea9/w:1024/p:16x9/AP26312349679429.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-10T22:46:05.000Z",
+          "fetchedAt": "2026-11-11T04:00:38.994Z"
+        },
+        {
+          "id": "2026-11-10-d7d77ef1",
+          "title": "Un militaire américain arrêté au Royaume-Uni, soupçonné d'espionnage au profit de la Russie",
+          "description": "Un militaire américain de 41 ans, soupçonné d'espionnage au profit de la Russie, a été arrêté mardi 10 novembre dans le sud-ouest de l'Angleterre par la police antiterroriste britannique, a annoncé la police londonienne.",
+          "url": "https://www.rfi.fr/fr/europe/20261110-un-militaire-am%C3%A9ricain-arr%C3%AAt%C3%A9-au-royaume-uni-soup%C3%A7onn%C3%A9-d-espionnage-au-profit-de-la-russie",
+          "imageUrl": "https://s.rfi.fr/media/display/4b332cd4-dd46-11f1-96c8-f71d22e7fea9/w:1024/p:16x9/iStock-2233353232.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-10T20:49:06.000Z",
+          "fetchedAt": "2026-11-11T04:00:46.579Z"
+        },
+        {
+          "id": "2026-11-10-f1d206b2",
+          "title": "Avec la « Petite Histoire du fascisme américain », Olivier Burtin retrace le long passé de cette idéologie aux Etats-Unis",
+          "description": "Le pays de l’Oncle Sam, qui se rêve en héraut de la liberté, doit pourtant composer avec un fort courant fasciste sur son territoire, observe l’historien dans un nouvel ouvrage.",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/10/avec-la-petite-histoire-du-fascisme-americain-olivier-burtin-retrace-le-long-passe-de-cette-ideologie-aux-etats-unis_6808889_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-10T18:00:10.000Z",
+          "fetchedAt": "2026-11-11T04:00:39.021Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-34",
+      "topic": "GTA 6 : une très mauvaise nouvelle technique se confirme",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-10-cc7c4ead",
+          "title": "GTA 6 : une très mauvaise nouvelle technique se confirme",
+          "description": "C'est le grand jour pour les joueurs impatients : Rockstar Games vient officiellement d'ouvrir le pré-téléchargement de GTA 6. Mais derrière cette étape clé avant le lancement officiel du 19 novembre se cache une douche froide technique.",
+          "url": "https://www.numerama.com/pop-culture/2371667-gta-6-une-tres-mauvaise-nouvelle-technique-se-confirme.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/gta-6-new-pics-6.png?resize=1600,900&key=431110d9",
+          "source": "Numerama",
           "category": "tech",
-          "publishedAt": "2026-11-10T00:28:49.000Z",
-          "fetchedAt": "2026-11-10T04:01:17.078Z"
+          "publishedAt": "2026-11-10T14:31:14.000Z",
+          "fetchedAt": "2026-11-11T04:00:46.640Z"
+        },
+        {
+          "id": "2026-11-10-8b5f0f70",
+          "title": "Un raté, une réussite historique et déjà le troisième vol : l’Europe s’apprête à accueillir un nouveau tir orbital",
+          "description": "Isar Aerospace pourrait tenter le troisième vol de sa fusée Spectrum dès le 26 novembre 2026, depuis la base norvégienne d'Andøya, d'après un avis aéronautique publié le 28 octobre. La fenêtre de tir reste ouverte jusqu'au 17 février 2027.",
+          "url": "https://www.numerama.com/sciences/2371613-un-rate-une-reussite-historique-et-deja-le-troisieme-vol-leurope-sapprete-a-accueillir-un-nouveau-tir-orbital.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/spectrum-isar-aerospace.jpg?resize=1600,900&key=f000410d",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-11-10T13:57:06.000Z",
+          "fetchedAt": "2026-11-11T04:00:46.640Z"
+        },
+        {
+          "id": "2026-11-10-c1fa9eee",
+          "title": "HBO Max et Paramount+ : à quand la réunion des deux plateformes ? On a un début de réponse",
+          "description": "David Ellison, CEO de Skydance, a annoncé ce lundi 9 novembre une offre groupée réunissant HBO Max et Paramount+, qui sera lancée début 2027. Il la présente comme une première étape vers la fusion des deux plateformes.",
+          "url": "https://www.numerama.com/pop-culture/2371509-hbo-max-et-paramount-a-quand-la-reunion-des-deux-plateformes-on-a-un-debut-de-reponse.html",
+          "imageUrl": null,
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-11-10T12:17:00.000Z",
+          "fetchedAt": "2026-11-11T04:00:46.640Z"
+        },
+        {
+          "id": "2026-11-10-5a46494e",
+          "title": "Mauvaise surprise, Notion découvre que des conversations avec son IA ont été volées chez un prestataire",
+          "description": "Le logiciel de travail collaboratif a reconnu que des conversations de ses utilisateurs avec Notion AI se sont retrouvées entre les mains de pirates. La fuite ne vient pas de Notion lui-même, mais d'un prestataire victime d’une intrusion en octobre.",
+          "url": "https://www.numerama.com/cyberguerre/2371399-mauvaise-surprise-notion-decouvre-que-des-conversations-avec-son-ia-ont-ete-volees-chez-un-prestataire.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/sans-titre-9.png?resize=1600,900&key=5f811221",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-11-10T11:45:00.000Z",
+          "fetchedAt": "2026-11-11T04:00:46.640Z"
+        },
+        {
+          "id": "2026-11-10-bdab848f",
+          "title": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
+          "description": "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris. Cette unité est connue pour ses attaques contre les systèmes industriels.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-10T10:30:17.000Z",
+          "fetchedAt": "2026-11-11T04:00:46.705Z"
+        },
+        {
+          "id": "2026-11-09-ad1b5856",
+          "title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
+          "description": "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement. Pour ce faire, il a annoncé renoncer à l’introduction de portes dérobées dans les messageries chiffrées.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-09T05:00:31.000Z",
+          "fetchedAt": "2026-11-11T04:00:46.705Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Headteachers say families will struggle after another rise in school dinner pric",
+      "topic": "Robot vessels take on the dangerous work of mine hunting",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-10-262d4f98",
-          "title": "Headteachers say families will struggle after another rise in school dinner prices ",
-          "description": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
-          "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ca3/live/100121b0-dc75-11f1-bbe9-83c09cc9b23f.jpg",
+          "id": "2026-11-11-b2f23fe6",
+          "title": "Robot vessels take on the dangerous work of mine hunting",
+          "description": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+          "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-11-10T00:00:22.000Z",
-          "fetchedAt": "2026-11-10T04:01:21.458Z"
+          "publishedAt": "2026-11-11T00:19:13.000Z",
+          "fetchedAt": "2026-11-11T04:00:55.744Z"
         }
       ]
     }
