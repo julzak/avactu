@@ -29,6 +29,27 @@ export function isGsm7(text: string): boolean {
   return [...text].every((c) => GSM7.includes(c));
 }
 
+const GSM7_REPLACEMENTS: Record<string, string> = {
+  'œ': 'oe', 'Œ': 'OE', '’': "'", '‘': "'", '“': '"', '”': '"', '«': '"', '»': '"',
+  '–': '-', '—': '-', '…': '...', '\u00a0': ' ', '\u202f': ' ',
+};
+
+/**
+ * Ramène un texte à l'alphabet GSM-7 : é è à ù restent, les accents hors alphabet
+ * (ë ê ç î ô û...) sont retirés (décision Julien 2026-11-11 : « Israël » faisait
+ * passer le texto de 1 à 3 segments). Un caractère sans équivalent est laissé tel quel.
+ */
+export function toGsm7(text: string): string {
+  return [...text]
+    .map((c) => {
+      if (GSM7.includes(c)) return c;
+      if (GSM7_REPLACEMENTS[c] !== undefined) return GSM7_REPLACEMENTS[c];
+      const bare = c.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+      return bare && isGsm7(bare) ? bare : c;
+    })
+    .join('');
+}
+
 /** Nombre de segments facturés pour un message */
 export function smsSegments(text: string): number {
   const len = text.length;
