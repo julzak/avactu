@@ -9,6 +9,7 @@ import { readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import {
+  buildCountries, countryOf, navFromFacets, renderList, slugify, type Facet,
   esc, frDate, frMonth, monthsBetween, renderEdition, renderIndex, renderNotFound, renderSitemap, renderStory,
   type Story,
 } from '../api/archive.js';
@@ -63,6 +64,33 @@ const sm = renderSitemap([date], months);
 check('sitemap : édition et mois', sm.includes(`<loc>https://avactu.com/edition/${date}</loc>`) && sm.includes('/archives/2026-10'));
 const nf = renderNotFound();
 check('404 : noindex et pas de canonical', nf.includes('content="noindex"') && !nf.includes('rel="canonical"'));
+
+console.log('--- Rubriques et pays ---');
+check('slugify : accents et espaces', slugify('États-Unis') === 'etats-unis' && slugify("Détroit d'Ormuz") === 'detroit-d-ormuz');
+check('countryOf : alias et lieu inconnu', countryOf('Californie') === 'États-Unis' && countryOf('Gaza') === 'Territoires palestiniens' && countryOf('Kenya') === 'Kenya');
+check('countryOf : lieux contestés non rattachés', countryOf('Jérusalem') === 'Jérusalem' && countryOf('Crimée') === 'Crimée');
+const facets: Facet[] = [
+  { kind: 'category', key: 'geopolitique', n: 887 }, { kind: 'category', key: 'culture', n: 3 },
+  { kind: 'place', key: 'États-Unis', n: 186 }, { kind: 'place', key: 'Californie', n: 41 }, { kind: 'place', key: 'Etats-Unis', n: 4 },
+  { kind: 'place', key: 'Kenya', n: 4 }, { kind: 'place', key: 'Cisjordanie', n: 13 },
+];
+const countries = buildCountries(facets);
+const us = countries.find((c) => c.slug === 'etats-unis');
+check('États-Unis regroupe ses lieux (186+41+4)', us?.n === 231 && us.places.length === 3);
+check('pays sous le seuil exclu (Kenya, 4 sujets)', !countries.some((c) => c.name === 'Kenya'));
+check('tri par nombre de sujets', countries[0].name === 'États-Unis');
+const nav = navFromFacets(facets);
+check('nav : rubriques présentes, vides absentes', nav.rubriques.some((r) => r.slug === 'culture') && !nav.rubriques.some((r) => r.slug === 'tech'));
+const items = stories.map((s) => ({ edition_date: date, id: s.id, category: s.category, title: s.title }));
+const list = renderList({ kind: 'pays', slug: 'etats-unis', label: 'États-Unis', intro: 'Intro.', items, page: 1, total: 231 });
+check('liste pays : titres et liens', stories.every((s) => list.includes(`href="/s/${s.id}"`)));
+check('liste pays : page suivante, pas de précédente', list.includes('href="/pays/etats-unis/2"') && !list.includes('Plus récents'));
+const list3 = renderList({ kind: 'pays', slug: 'etats-unis', label: 'États-Unis', intro: 'Intro.', items, page: 3, total: 231 });
+check('liste pays : dernière page, retour vers page 2, canonical /3', list3.includes('href="/pays/etats-unis/2"') && !list3.includes('Plus anciens') && list3.includes('href="https://avactu.com/pays/etats-unis/3" />'));
+const smNav = renderSitemap([date], months, nav);
+check('sitemap : rubriques et pays', smNav.includes('/rubrique/geopolitique</loc>') && smNav.includes('/pays/etats-unis</loc>'));
+const edLinks = renderEdition(date, stories, null, null, new Set(countries.map((c) => c.slug)));
+check('édition : badge lié à la rubrique', edLinks.includes('href="/rubrique/'));
 
 console.log(failures ? `\n❌ ${failures} échec(s)` : '\n✅ Tout passe');
 process.exit(failures ? 1 : 0);
