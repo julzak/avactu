@@ -124,6 +124,10 @@ function App() {
                     day: 'numeric',
                     month: 'long',
                   })}
+                  {' · '}
+                  <a href="/archives" className="underline hover:text-slate-300">
+                    Archives
+                  </a>
                 </p>
               )}
             </div>

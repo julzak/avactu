@@ -5,7 +5,23 @@
   "rewrites": [
     {
       "source": "/s/:id",
-      "destination": "/api/s/:id"
+      "destination": "/api/archive?view=story&id=:id"
+    },
+    {
+      "source": "/edition/:date",
+      "destination": "/api/archive?view=edition&date=:date"
+    },
+    {
+      "source": "/archives",
+      "destination": "/api/archive?view=index"
+    },
+    {
+      "source": "/archives/:month",
+      "destination": "/api/archive?view=index&month=:month"
+    },
+    {
+      "source": "/sitemap.xml",
+      "destination": "/api/archive?view=sitemap"
     },
     {
       "source": "/api/(.*)",

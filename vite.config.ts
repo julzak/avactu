@@ -34,6 +34,8 @@ export default defineConfig({
       workbox: {
         // Precache all assets
         globPatterns: ['**/*.{js,css,html,ico,png,svg,woff,woff2}'],
+        // Pages rendues côté serveur (api/archive.ts) : jamais remplacées par index.html
+        navigateFallbackDenylist: [/^\/api\//, /^\/s\//, /^\/edition\//, /^\/archives/, /^\/sitemap\.xml$/],
         // Runtime caching strategies
         runtimeCaching: [
           {
