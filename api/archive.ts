@@ -7,6 +7,8 @@
  *                                   qui ne marchait que pour l'édition du jour)
  *   /rubrique/:slug[/:page]       → view=list&kind=rubrique (catégorie du sujet)
  *   /pays/:slug[/:page]           → view=list&kind=pays (lieu du sujet, regroupé par pays)
+ *   /dossier/:slug[/:page]        → view=list&kind=dossier (dossier thématique classé par Jev,
+ *                                   vues dossier_stories et dossier_counts, scripts/classify-dossiers.ts)
  *   /sitemap.xml                  → view=sitemap
  * Source : table newsletter_editions (une ligne par édition, stories_json).
  */
@@ -53,6 +55,8 @@ export const RUBRIQUES: Record<string, { label: string; intro: string }> = {
 
 /** Un pays ou une zone n'a sa page qu'à partir de ce nombre de sujets (pas de page quasi vide) */
 export const MIN_COUNTRY_STORIES = 5;
+/** Même règle pour les dossiers thématiques */
+export const MIN_DOSSIER_STORIES = 5;
 export const PAGE_SIZE = 100;
 
 /**
@@ -114,6 +118,10 @@ export function slugify(text: string): string {
 }
 
 export interface Facet { kind: string; key: string; n: number }
+/** Dossier thématique (vue dossier_counts) : n = sujets retenus au seuil du dossier */
+export interface Dossier { slug: string; label: string; intro: string; n: number }
+/** Dossiers d'un sujet, pour les liens sous son lieu */
+export type StoryDossiers = Map<string, Dossier[]>;
 export interface Country { name: string; slug: string; n: number; places: string[] }
 
 /** Pays et zones ayant assez de sujets pour une page, du plus fourni au moins fourni */
@@ -197,6 +205,7 @@ ul.bullets{padding-left:20px;margin:12px 0;color:#cbd5e1}
 ul.bullets li{margin:4px 0}
 .summary p{margin:12px 0;color:#e2e8f0}
 .sources{font-size:13px;color:#64748b}
+.dossiers{margin:6px 0 0;font-size:13px;color:#94a3b8}
 ul.plain{list-style:none;padding:0;margin:0}
 ul.plain li{padding:6px 0}
 .day{padding:16px 0;border-bottom:1px solid rgba(148,163,184,.2)}
@@ -312,7 +321,12 @@ function locationHtml(story: Story, countrySlugs: Set<string>): string {
   return countrySlugs.has(slug) ? `<a href="/pays/${slug}" style="color:inherit">${name}</a>` : name;
 }
 
-function storyArticle(story: Story, opts: { headingLink: boolean; lazy: boolean; countrySlugs: Set<string> }): string {
+function dossierLinks(dossiers: Dossier[] | undefined): string {
+  if (!dossiers?.length) return '';
+  return `<p class="dossiers">Dossier${dossiers.length > 1 ? 's' : ''} : ${dossiers.map((d) => `<a href="/dossier/${d.slug}">${esc(d.label)}</a>`).join(' · ')}</p>`;
+}
+
+function storyArticle(story: Story, opts: { headingLink: boolean; lazy: boolean; countrySlugs: Set<string>; dossiers?: StoryDossiers }): string {
   const paragraphs = String(story.execSummary || '')
     .split(/\n{2,}/)
     .map((p) => p.trim())
@@ -326,6 +340,7 @@ function storyArticle(story: Story, opts: { headingLink: boolean; lazy: boolean;
   ${story.imageUrl ? `<img src="${esc(story.imageUrl)}" alt="" ${opts.lazy ? 'loading="lazy"' : ''} referrerpolicy="no-referrer" />` : ''}
   <p class="meta" style="margin:14px 0 0">${badge(story.category)}${locationHtml(story, opts.countrySlugs)}</p>
   ${title}
+  ${dossierLinks(opts.dossiers?.get(story.id))}
   <ul class="bullets">${(story.bullets || []).map((b) => `<li>${esc(b)}</li>`).join('')}</ul>
   <div class="summary">${paragraphs}</div>
   ${story.sources?.length ? `<p class="sources">Sources : ${esc(story.sources.join(', '))}</p>` : ''}
@@ -333,7 +348,8 @@ function storyArticle(story: Story, opts: { headingLink: boolean; lazy: boolean;
 }
 
 export function renderEdition(
-  date: string, stories: Story[], prev: string | null, next: string | null, countrySlugs: Set<string> = new Set()
+  date: string, stories: Story[], prev: string | null, next: string | null, countrySlugs: Set<string> = new Set(),
+  dossiers: StoryDossiers = new Map()
 ): string {
   const titles = stories.map((s) => s.title).join(' · ');
   return page({
@@ -345,7 +361,7 @@ export function renderEdition(
     body: `<p class="meta" style="margin-top:32px">Édition du ${esc(frDate(date))}</p>
 <h1 style="margin-top:8px">L'actualité mondiale du ${esc(frDate(date))}</h1>
 <p class="lead">${stories.length} sujets pour comprendre ce qui s'est passé, avec les points de vue de chaque acteur.</p>
-${stories.map((s, i) => storyArticle(s, { headingLink: true, lazy: i > 0, countrySlugs })).join('\n')}
+${stories.map((s, i) => storyArticle(s, { headingLink: true, lazy: i > 0, countrySlugs, dossiers })).join('\n')}
 <div class="pager">
   <span>${prev ? `<a href="/edition/${prev}">← ${esc(frDate(prev))}</a>` : ''}</span>
   <span>${next ? `<a href="/edition/${next}">${esc(frDate(next))} →</a>` : ''}</span>
@@ -353,7 +369,9 @@ ${stories.map((s, i) => storyArticle(s, { headingLink: true, lazy: i > 0, countr
   });
 }
 
-export function renderStory(date: string, story: Story, others: Story[], countrySlugs: Set<string> = new Set()): string {
+export function renderStory(
+  date: string, story: Story, others: Story[], countrySlugs: Set<string> = new Set(), dossiers: StoryDossiers = new Map()
+): string {
   return page({
     title: `${story.title} | Avactu`,
     description: (story.bullets || []).slice(0, 2).join(' ').slice(0, 300),
@@ -373,28 +391,34 @@ export function renderStory(date: string, story: Story, others: Story[], country
     },
     body: `<p class="meta" style="margin-top:32px"><a href="/edition/${date}">Édition du ${esc(frDate(date))}</a></p>
 <h1 style="margin-top:8px">${esc(story.title)}</h1>
-${storyArticle(story, { headingLink: false, lazy: false, countrySlugs })}
+${storyArticle(story, { headingLink: false, lazy: false, countrySlugs, dossiers })}
 ${others.length ? `<h2 style="margin-top:28px">Dans la même édition</h2>
 <ul class="plain">${others.map((s) => `<li>${badge(s.category)}<a href="/s/${esc(s.id)}">${esc(s.title)}</a></li>`).join('')}</ul>` : ''}`,
   });
 }
 
-export interface ArchiveNav { rubriques: { slug: string; label: string; n: number }[]; countries: Country[] }
+export interface ArchiveNav { rubriques: { slug: string; label: string; n: number }[]; countries: Country[]; dossiers: Dossier[] }
 
-export function navFromFacets(facets: Facet[]): ArchiveNav {
+export function navFromFacets(facets: Facet[], dossiers: Dossier[] = []): ArchiveNav {
   const counts = new Map(facets.filter((f) => f.kind === 'category').map((f) => [f.key, f.n]));
   return {
     rubriques: Object.entries(RUBRIQUES)
       .map(([slug, r]) => ({ slug, label: r.label, n: counts.get(slug) ?? 0 }))
       .filter((r) => r.n > 0),
     countries: buildCountries(facets),
+    dossiers: dossiers.filter((d) => d.n >= MIN_DOSSIER_STORIES),
   };
 }
 
 function navHtml(nav: ArchiveNav | undefined): string {
   if (!nav || (nav.rubriques.length === 0 && nav.countries.length === 0)) return '';
   const chip = (href: string, label: string, n: number) => `<a href="${href}">${esc(label)} <small>${n}</small></a>`;
-  return `<h2 style="margin-top:28px">Par rubrique</h2>
+  const dossiers = nav.dossiers.length
+    ? `<h2 style="margin-top:28px">Les dossiers</h2>
+<div class="months">${nav.dossiers.map((d) => chip(`/dossier/${d.slug}`, d.label, d.n)).join('')}</div>
+`
+    : '';
+  return `${dossiers}<h2 style="margin-top:28px">Par rubrique</h2>
 <div class="months">${nav.rubriques.map((r) => chip(`/rubrique/${r.slug}`, r.label, r.n)).join('')}</div>
 <h2>Par pays</h2>
 <div class="months">${nav.countries.map((c) => chip(`/pays/${c.slug}`, c.name, c.n)).join('')}</div>
@@ -405,13 +429,14 @@ export interface ListItem { edition_date: string; id: string; category: string; 
 
 /** Page d'une rubrique ou d'un pays : sujets du plus récent au plus ancien, 100 par page */
 export function renderList(o: {
-  kind: 'rubrique' | 'pays'; slug: string; label: string; intro: string;
+  kind: 'rubrique' | 'pays' | 'dossier'; slug: string; label: string; intro: string;
   items: ListItem[]; page: number; total: number;
 }): string {
   const totalPages = Math.max(1, Math.ceil(o.total / PAGE_SIZE));
   const base = `/${o.kind}/${o.slug}`;
   const pageUrl = (n: number) => (n === 1 ? base : `${base}/${n}`);
-  const heading = o.kind === 'pays' ? `${o.label} : l'actualité expliquée` : `${o.label} : tous les sujets`;
+  const heading = o.kind === 'pays' ? `${o.label} : l'actualité expliquée`
+    : o.kind === 'dossier' ? `${o.label} : le dossier` : `${o.label} : tous les sujets`;
   return page({
     title: `${heading}${o.page > 1 ? `, page ${o.page}` : ''} | Avactu`,
     description: `${o.intro} ${o.total} sujets expliqués par Avactu, avec les points de vue de chaque acteur.`.slice(0, 300),
@@ -419,7 +444,7 @@ export function renderList(o: {
     body: `<p class="meta" style="margin-top:32px"><a href="/archives">Archives</a></p>
 <h1 style="margin-top:8px">${esc(heading)}</h1>
 <p class="lead">${esc(o.intro)} ${o.total} sujets, du plus récent au plus ancien.</p>
-<ul class="plain">${o.items.map((s) => `<li><span class="meta" style="display:inline-block;min-width:118px">${esc(frDate(s.edition_date))}</span>${o.kind === 'pays' ? badge(s.category) : ''}<a href="/s/${esc(s.id)}" style="color:#e2e8f0">${esc(s.title)}</a></li>`).join('')}</ul>
+<ul class="plain">${o.items.map((s) => `<li><span class="meta" style="display:inline-block;min-width:118px">${esc(frDate(s.edition_date))}</span>${o.kind !== 'rubrique' ? badge(s.category) : ''}<a href="/s/${esc(s.id)}" style="color:#e2e8f0">${esc(s.title)}</a></li>`).join('')}</ul>
 <div class="pager">
   <span>${o.page > 1 ? `<a href="${pageUrl(o.page - 1)}">← Plus récents</a>` : ''}</span>
   <span>${o.page < totalPages ? `<a href="${pageUrl(o.page + 1)}">Plus anciens →</a>` : ''}</span>
@@ -463,6 +488,7 @@ export function renderSitemap(dates: string[], months: string[], nav?: ArchiveNa
     `<url><loc>${APP_URL}/</loc><changefreq>daily</changefreq></url>`,
     `<url><loc>${APP_URL}/archives</loc><changefreq>daily</changefreq></url>`,
     ...months.slice(1).map((m) => `<url><loc>${APP_URL}/archives/${m}</loc></url>`),
+    ...(nav?.dossiers ?? []).map((d) => `<url><loc>${APP_URL}/dossier/${d.slug}</loc><changefreq>daily</changefreq></url>`),
     ...(nav?.rubriques ?? []).map((r) => `<url><loc>${APP_URL}/rubrique/${r.slug}</loc><changefreq>daily</changefreq></url>`),
     ...(nav?.countries ?? []).map((c) => `<url><loc>${APP_URL}/pays/${c.slug}</loc><changefreq>weekly</changefreq></url>`),
     ...dates.map((d) => `<url><loc>${APP_URL}/edition/${d}</loc><lastmod>${d}</lastmod></url>`),
@@ -512,12 +538,55 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       return (data || []) as Facet[];
     };
 
+    /** Dossiers et leurs effectifs. Une panne ici ne doit pas casser les autres pages d'archives. */
+    const listDossiers = async (): Promise<Dossier[]> => {
+      const { data, error } = await supabase.from('dossier_counts').select('slug, label, intro, n').order('position');
+      if (error) {
+        console.error('archive: dossier_counts', error.message);
+        return [];
+      }
+      return (data || []) as Dossier[];
+    };
+
+    const dossiersOfStories = async (ids: string[], all: Dossier[]): Promise<StoryDossiers> => {
+      const map: StoryDossiers = new Map();
+      const shown = new Map(all.filter((d) => d.n >= MIN_DOSSIER_STORIES).map((d) => [d.slug, d]));
+      if (ids.length === 0 || shown.size === 0) return map;
+      const { data, error } = await supabase.from('dossier_stories').select('id, dossier').in('id', ids);
+      if (error) {
+        console.error('archive: dossier_stories', error.message);
+        return map;
+      }
+      for (const r of (data || []) as { id: string; dossier: string }[]) {
+        const d = shown.get(r.dossier);
+        if (d) map.set(r.id, [...(map.get(r.id) ?? []), d]);
+      }
+      return map;
+    };
+
     if (view === 'list') {
       const kind = one(req.query.kind);
       const slug = one(req.query.slug);
       const pageNum = Number(one(req.query.page) || '1');
-      if ((kind !== 'rubrique' && kind !== 'pays') || !Number.isInteger(pageNum) || pageNum < 1) {
+      if ((kind !== 'rubrique' && kind !== 'pays' && kind !== 'dossier') || !Number.isInteger(pageNum) || pageNum < 1) {
         return html(404, renderNotFound());
+      }
+      if (kind === 'dossier') {
+        const dossier = (await listDossiers()).find((d) => d.slug === slug && d.n >= MIN_DOSSIER_STORIES);
+        if (!dossier) return html(404, renderNotFound());
+        const from = (pageNum - 1) * PAGE_SIZE;
+        if (from >= dossier.n) return html(404, renderNotFound());
+        const { data, error } = await supabase
+          .from('dossier_stories')
+          .select('edition_date, id, category, title')
+          .eq('dossier', slug)
+          .order('edition_date', { ascending: false })
+          .order('id', { ascending: true })
+          .range(from, from + PAGE_SIZE - 1);
+        if (error) throw new Error(error.message);
+        return html(200, renderList({
+          kind, slug, label: dossier.label, intro: dossier.intro, items: (data || []) as ListItem[], page: pageNum, total: dossier.n,
+        }));
       }
       const facets = await listFacets();
       let label: string, intro: string, total: number;
@@ -547,16 +616,16 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     }
 
     if (view === 'sitemap') {
-      const [dates, facets] = await Promise.all([listDates(), listFacets()]);
+      const [dates, facets, dossiers] = await Promise.all([listDates(), listFacets(), listDossiers()]);
       if (dates.length === 0) return res.status(503).send('No editions');
       const months = monthsBetween(dates[0].slice(0, 7), dates[dates.length - 1].slice(0, 7));
       res.setHeader('Content-Type', 'application/xml; charset=utf-8');
       res.setHeader('Cache-Control', CACHE);
-      return res.status(200).send(renderSitemap(dates, months, navFromFacets(facets)));
+      return res.status(200).send(renderSitemap(dates, months, navFromFacets(facets, dossiers)));
     }
 
     if (view === 'index') {
-      const [dates, facets] = await Promise.all([listDates(), listFacets()]);
+      const [dates, facets, dossiers] = await Promise.all([listDates(), listFacets(), listDossiers()]);
       if (dates.length === 0) return html(404, renderNotFound());
       const months = monthsBetween(dates[0].slice(0, 7), dates[dates.length - 1].slice(0, 7));
       const month = one(req.query.month) || months[0];
@@ -568,7 +637,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         .lt('edition_date', nextMonthStart(month))
         .order('edition_date', { ascending: false });
       if (error) throw new Error(error.message);
-      return html(200, renderIndex(month, months, (data || []) as EditionRow[], navFromFacets(facets)));
+      return html(200, renderIndex(month, months, (data || []) as EditionRow[], navFromFacets(facets, dossiers)));
     }
 
     if (view === 'edition' || view === 'story') {
@@ -586,17 +655,19 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       const stories = ((data as EditionRow | null)?.stories_json || []) as Story[];
       if (stories.length === 0) return html(404, renderNotFound());
 
-      const countrySlugs = new Set(buildCountries(await listFacets()).map((c) => c.slug));
+      const [facets, allDossiers] = await Promise.all([listFacets(), listDossiers()]);
+      const countrySlugs = new Set(buildCountries(facets).map((c) => c.slug));
 
       if (view === 'story') {
         const story = stories.find((s) => s.id === id);
         if (!story) return html(404, renderNotFound());
-        return html(200, renderStory(date, story, stories.filter((s) => s.id !== id), countrySlugs));
+        const dossiers = await dossiersOfStories([story.id], allDossiers);
+        return html(200, renderStory(date, story, stories.filter((s) => s.id !== id), countrySlugs, dossiers));
       }
 
-      const dates = await listDates();
+      const [dates, dossiers] = await Promise.all([listDates(), dossiersOfStories(stories.map((s) => s.id), allDossiers)]);
       const i = dates.indexOf(date);
-      return html(200, renderEdition(date, stories, i > 0 ? dates[i - 1] : null, i >= 0 && i < dates.length - 1 ? dates[i + 1] : null, countrySlugs));
+      return html(200, renderEdition(date, stories, i > 0 ? dates[i - 1] : null, i >= 0 && i < dates.length - 1 ? dates[i + 1] : null, countrySlugs, dossiers));
     }
 
     return html(404, renderNotFound());

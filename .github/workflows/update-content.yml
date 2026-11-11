@@ -226,6 +226,24 @@ jobs:
           APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-newsletter:weekly
 
+      # 12b. Classement des sujets dans les dossiers thématiques (Jev, TypeSafe) pour /dossier/:slug.
+      # Après l'envoi : l'édition du jour est enregistrée dans newsletter_editions par l'étape daily.
+      # Non bloquant : si TypeSafe ou Supabase échoue, l'édition est déjà partie ; le script reprend
+      # au run suivant tous les sujets des 14 derniers jours qui n'ont pas encore de probabilité.
+      - name: Classify stories into dossiers
+        id: dossiers
+        continue-on-error: true
+        timeout-minutes: 10
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+        run: npm run classify-dossiers
+
+      - name: Report dossier classification failure
+        if: ${{ steps.dossiers.outcome == 'failure' }}
+        run: echo "::warning title=Dossiers non classés::L'étape Classify stories into dossiers a échoué (voir son log). Newsletter envoyée normalement ; rattrapage automatique au prochain run."
+
       # 13. Commit and push changes
       - name: Commit and push
         run: |

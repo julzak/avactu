@@ -9,7 +9,7 @@ import { readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import {
-  buildCountries, countryOf, navFromFacets, renderList, slugify, type Facet,
+  buildCountries, countryOf, navFromFacets, renderList, slugify, type Facet, type Dossier, MIN_DOSSIER_STORIES,
   esc, frDate, frMonth, monthsBetween, renderEdition, renderIndex, renderNotFound, renderSitemap, renderStory,
   type Story,
 } from '../api/archive.js';
@@ -91,6 +91,29 @@ const smNav = renderSitemap([date], months, nav);
 check('sitemap : rubriques et pays', smNav.includes('/rubrique/geopolitique</loc>') && smNav.includes('/pays/etats-unis</loc>'));
 const edLinks = renderEdition(date, stories, null, null, new Set(countries.map((c) => c.slug)));
 check('édition : badge lié à la rubrique', edLinks.includes('href="/rubrique/'));
+
+console.log('--- Dossiers thématiques ---');
+const dossiers: Dossier[] = [
+  { slug: 'guerre-en-ukraine', label: 'Guerre en Ukraine', intro: "L'invasion russe.", n: 174 },
+  { slug: 'presque-vide', label: 'Presque vide', intro: 'x', n: MIN_DOSSIER_STORIES - 1 },
+  { slug: 'evil', label: '<script>alert(1)</script>', intro: 'x', n: 50 },
+];
+const navD = navFromFacets(facets, dossiers);
+check('nav : dossier sous le seuil exclu', navD.dossiers.some((d) => d.slug === 'guerre-en-ukraine') && !navD.dossiers.some((d) => d.slug === 'presque-vide'));
+const idxD = renderIndex('2026-11', months, [{ edition_date: date, stories_json: stories }], navD);
+check('archives : section Les dossiers avec lien', idxD.includes('Les dossiers') && idxD.includes('href="/dossier/guerre-en-ukraine"'));
+check('archives : libellé de dossier échappé', !idxD.includes('<script>alert(1)</script>') && idxD.includes('&lt;script&gt;'));
+const smD = renderSitemap([date], months, navD);
+check('sitemap : dossiers retenus seulement', smD.includes('/dossier/guerre-en-ukraine</loc>') && !smD.includes('/dossier/presque-vide'));
+const listD = renderList({ kind: 'dossier', slug: 'guerre-en-ukraine', label: 'Guerre en Ukraine', intro: "L'invasion russe.", items, page: 2, total: 174 });
+check('liste dossier : titre, canonical page 2, retour page 1', listD.includes('Guerre en Ukraine : le dossier') && listD.includes('href="https://avactu.com/dossier/guerre-en-ukraine/2" />') && listD.includes('href="/dossier/guerre-en-ukraine"'));
+check('liste dossier : sujets avec badge de rubrique', stories.every((s) => listD.includes(`href="/s/${s.id}"`)) && listD.includes('class="badge"'));
+const sd = new Map([[stories[0].id, [dossiers[0]]]]);
+const stD = renderStory(date, stories[0], stories.slice(1), new Set(), sd);
+check('sujet : lien vers son dossier', stD.includes('<p class="dossiers">Dossier : <a href="/dossier/guerre-en-ukraine">Guerre en Ukraine</a></p>'));
+const edD = renderEdition(date, stories, null, null, new Set(), sd);
+check('édition : lien dossier sur le seul sujet classé', (edD.match(/class="dossiers"/g) || []).length === 1);
+check('sujet sans dossier : pas de ligne vide', !renderStory(date, stories[1], []).includes('class="dossiers"'));
 
 console.log(failures ? `\n❌ ${failures} échec(s)` : '\n✅ Tout passe');
 process.exit(failures ? 1 : 0);

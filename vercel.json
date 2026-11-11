@@ -36,6 +36,14 @@
       "destination": "/api/archive?view=list&kind=pays&slug=:slug&page=:page"
     },
     {
+      "source": "/dossier/:slug",
+      "destination": "/api/archive?view=list&kind=dossier&slug=:slug"
+    },
+    {
+      "source": "/dossier/:slug/:page",
+      "destination": "/api/archive?view=list&kind=dossier&slug=:slug&page=:page"
+    },
+    {
       "source": "/sitemap.xml",
       "destination": "/api/archive?view=sitemap"
     },
