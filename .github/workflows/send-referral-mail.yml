@@ -1,0 +1,36 @@
+name: Send referral mail (one-off)
+
+# Mail ponctuel « recommande Avactu à tes proches » aux abonnés confirmés.
+# Par défaut : essai à blanc (liste et aperçu, aucun envoi). Cocher `send` pour envoyer.
+on:
+  workflow_dispatch:
+    inputs:
+      send:
+        description: 'Envoyer réellement (sinon essai à blanc)'
+        type: boolean
+        default: false
+
+jobs:
+  referral-mail:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: Referral mail
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
+          SEND_FLAG: ${{ inputs.send && '--send' || '' }}
+        run: ./node_modules/.bin/tsx scripts/send-referral-mail.ts $SEND_FLAG
