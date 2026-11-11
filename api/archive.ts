@@ -5,6 +5,8 @@
  *   /edition/:date                → view=edition
  *   /s/:id                        → view=story (remplace l'ancienne redirection vers l'app,
  *                                   qui ne marchait que pour l'édition du jour)
+ *   /rubrique/:slug[/:page]       → view=list&kind=rubrique (catégorie du sujet)
+ *   /pays/:slug[/:page]           → view=list&kind=pays (lieu du sujet, regroupé par pays)
  *   /sitemap.xml                  → view=sitemap
  * Source : table newsletter_editions (une ligne par édition, stories_json).
  */
@@ -39,6 +41,96 @@ const CATEGORIES: Record<string, { label: string; color: string }> = {
   economie: { label: 'Éco', color: '#34d399' },
   culture: { label: 'Culture', color: '#f59e0b' },
 };
+
+/** Rubriques : une page par catégorie existante (aucun classement à faire) */
+export const RUBRIQUES: Record<string, { label: string; intro: string }> = {
+  geopolitique: { label: 'Géopolitique', intro: 'Conflits, alliances, diplomatie et rapports de force entre États.' },
+  politique: { label: 'Politique française', intro: 'La vie politique française : gouvernement, partis, campagne présidentielle.' },
+  tech: { label: 'Tech', intro: 'Intelligence artificielle, numérique, espace et science.' },
+  eco: { label: 'Éco', intro: 'Énergie, commerce, entreprises et grands équilibres économiques.' },
+  culture: { label: 'Culture', intro: 'Les sujets culturels et de société très repris.' },
+};
+
+/** Un pays ou une zone n'a sa page qu'à partir de ce nombre de sujets (pas de page quasi vide) */
+export const MIN_COUNTRY_STORIES = 5;
+export const PAGE_SIZE = 100;
+
+/**
+ * Lieux rattachés à un pays ou une zone. Le lieu d'un sujet est le dernier segment de
+ * `location.name` (« Kiev, Ukraine » → « Ukraine »), donc seules les exceptions sont listées.
+ * Un lieu absent de la table reste tel quel. Statuts contestés (Jérusalem, Crimée, Golan) :
+ * volontairement non rattachés.
+ */
+const ALIAS_GROUPS: Record<string, string[]> = {
+  'États-Unis': ['Etats-Unis', 'Californie', 'San Francisco', 'Washington', 'D.C.', 'Washington D.C.', 'Floride', 'Silicon Valley', 'Texas', 'New York', 'Nouveau-Mexique', 'Los Angeles', 'Arizona', 'Apple Park', 'Cap Canaveral', 'État de New York', 'Fort Mason', 'Maison Blanche', 'Menlo Park', 'New York (Rockstar Games)', 'New York / Marchés mondiaux', 'Pennsylvanie', 'San Francisco / Washington', 'Seattle', 'siège de Google', 'siège du FMI', 'Wall Street', 'Wyoming'],
+  France: ['Paris', 'Hauts-de-France', 'Paris - Charles-de-Gaulle', 'Strasbourg', 'France / International'],
+  'Royaume-Uni': ['Londres', "aéroport d'Heathrow", 'Londres / Europe'],
+  Iran: ['Irã', "Sud de l'Iran", 'Iran / Moyen-Orient'],
+  "Détroit d'Ormuz": ["Détroit d'Hormuz", 'Golfe Persique', "Golfe d'Oman", "Côtes d'Oman", "Mer d'Arabie"],
+  Liban: ['Sud du Liban', 'sud du Liban', 'Liban Sud', 'Sud-Liban', 'Beyrouth', 'Liban / Moyen-Orient'],
+  'Territoires palestiniens': ['Cisjordanie', 'Gaza', 'Bande de Gaza', 'Cisjordanie occupée', 'Jérusalem-Est'],
+  Russie: ['Moscou', 'Sud-ouest de la Russie'],
+  Chine: ['China', 'Côte est de la Chine'],
+  'Hong Kong': ['Hongkong'],
+  Allemagne: ['Francfort', 'Tiergarten'],
+  'Union européenne': ['Europe', 'Bruxelles', 'Francfort / Europe'],
+  Japon: ['Tokyo'],
+  Inde: ['New Delhi'],
+  Pakistan: ['Islamabad'],
+  Taïwan: ['Taipei'],
+  Irak: ['Iraq'],
+  'République démocratique du Congo': ['RDC'],
+  Centrafrique: ['République centrafricaine'],
+  Birmanie: ['Myanmar'],
+  Mali: ['Nord du Mali'],
+  Venezuela: ['Nord du Venezuela'],
+  Nigeria: ['Nord-est du Nigeria'],
+  Brésil: ['Brasília'],
+  Irlande: ['Dublin'],
+  'Émirats arabes unis': ['Dubaï'],
+  'Mer Rouge': ['mer Rouge', 'Mer Rouge / Moyen-Orient'],
+  'Moyen-Orient': ['Moyen-Orient / Iran'],
+};
+const PLACE_TO_COUNTRY: Record<string, string> = Object.fromEntries(
+  Object.entries(ALIAS_GROUPS).flatMap(([country, places]) => places.map((p) => [p, country]))
+);
+
+export function countryOf(place: string): string {
+  return PLACE_TO_COUNTRY[place] ?? place;
+}
+
+/** Lieu d'un sujet : dernier segment de location.name (même règle que la vue stories_flat) */
+export function placeOf(story: Story): string {
+  return String(story.location?.name || '').split(',').pop()!.trim();
+}
+
+export function slugify(text: string): string {
+  return text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+export interface Facet { kind: string; key: string; n: number }
+export interface Country { name: string; slug: string; n: number; places: string[] }
+
+/** Pays et zones ayant assez de sujets pour une page, du plus fourni au moins fourni */
+export function buildCountries(facets: Facet[]): Country[] {
+  const byCountry = new Map<string, Country>();
+  for (const f of facets) {
+    if (f.kind !== 'place' || !f.key) continue;
+    const name = countryOf(f.key);
+    const c = byCountry.get(name) ?? { name, slug: slugify(name), n: 0, places: [] };
+    c.n += f.n;
+    c.places.push(f.key);
+    byCountry.set(name, c);
+  }
+  return [...byCountry.values()]
+    .filter((c) => c.n >= MIN_COUNTRY_STORIES && c.slug)
+    .sort((a, b) => b.n - a.n || a.name.localeCompare(b.name, 'fr'));
+}
 
 export function esc(value: unknown): string {
   return String(value ?? '')
@@ -77,7 +169,9 @@ export function monthsBetween(first: string, last: string): string[] {
 
 function badge(category: string): string {
   const c = CATEGORIES[category] ?? { label: category, color: '#94a3b8' };
-  return `<span class="badge" style="color:${c.color};border-color:${c.color}55">${esc(c.label)}</span>`;
+  const key = category === 'economie' ? 'eco' : category;
+  const span = `<span class="badge" style="color:${c.color};border-color:${c.color}55">${esc(c.label)}</span>`;
+  return RUBRIQUES[key] ? `<a href="/rubrique/${key}" style="text-decoration:none">${span}</a>` : span;
 }
 
 const CSS = `
@@ -109,6 +203,7 @@ ul.plain li{padding:6px 0}
 .day>a{font-family:'JetBrains Mono',monospace;font-size:13px;text-transform:uppercase;letter-spacing:1px}
 .day li a{color:#e2e8f0}
 .months{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0}
+.months small{opacity:.6}
 .months a,.months span{font-family:'JetBrains Mono',monospace;font-size:12px;border:1px solid rgba(148,163,184,.3);border-radius:6px;padding:4px 10px;color:#94a3b8}
 .months span{color:#05070A;background:#22d3ee;border-color:#22d3ee}
 .pager{display:flex;justify-content:space-between;gap:12px;padding:24px 0;font-size:14px}
@@ -210,7 +305,14 @@ ${SUBSCRIBE_SCRIPT}
 </html>`;
 }
 
-function storyArticle(story: Story, opts: { headingLink: boolean; lazy: boolean }): string {
+/** Lieu d'un sujet, lié à la page de son pays quand elle existe */
+function locationHtml(story: Story, countrySlugs: Set<string>): string {
+  const name = esc(story.location?.name || '');
+  const slug = slugify(countryOf(placeOf(story)));
+  return countrySlugs.has(slug) ? `<a href="/pays/${slug}" style="color:inherit">${name}</a>` : name;
+}
+
+function storyArticle(story: Story, opts: { headingLink: boolean; lazy: boolean; countrySlugs: Set<string> }): string {
   const paragraphs = String(story.execSummary || '')
     .split(/\n{2,}/)
     .map((p) => p.trim())
@@ -222,7 +324,7 @@ function storyArticle(story: Story, opts: { headingLink: boolean; lazy: boolean 
     : '';
   return `<article>
   ${story.imageUrl ? `<img src="${esc(story.imageUrl)}" alt="" ${opts.lazy ? 'loading="lazy"' : ''} referrerpolicy="no-referrer" />` : ''}
-  <p class="meta" style="margin:14px 0 0">${badge(story.category)}${esc(story.location?.name || '')}</p>
+  <p class="meta" style="margin:14px 0 0">${badge(story.category)}${locationHtml(story, opts.countrySlugs)}</p>
   ${title}
   <ul class="bullets">${(story.bullets || []).map((b) => `<li>${esc(b)}</li>`).join('')}</ul>
   <div class="summary">${paragraphs}</div>
@@ -230,7 +332,9 @@ function storyArticle(story: Story, opts: { headingLink: boolean; lazy: boolean 
 </article>`;
 }
 
-export function renderEdition(date: string, stories: Story[], prev: string | null, next: string | null): string {
+export function renderEdition(
+  date: string, stories: Story[], prev: string | null, next: string | null, countrySlugs: Set<string> = new Set()
+): string {
   const titles = stories.map((s) => s.title).join(' · ');
   return page({
     title: `Actualité du ${frDate(date)} : ${stories[0].title} | Avactu`,
@@ -241,7 +345,7 @@ export function renderEdition(date: string, stories: Story[], prev: string | nul
     body: `<p class="meta" style="margin-top:32px">Édition du ${esc(frDate(date))}</p>
 <h1 style="margin-top:8px">L'actualité mondiale du ${esc(frDate(date))}</h1>
 <p class="lead">${stories.length} sujets pour comprendre ce qui s'est passé, avec les points de vue de chaque acteur.</p>
-${stories.map((s, i) => storyArticle(s, { headingLink: true, lazy: i > 0 })).join('\n')}
+${stories.map((s, i) => storyArticle(s, { headingLink: true, lazy: i > 0, countrySlugs })).join('\n')}
 <div class="pager">
   <span>${prev ? `<a href="/edition/${prev}">← ${esc(frDate(prev))}</a>` : ''}</span>
   <span>${next ? `<a href="/edition/${next}">${esc(frDate(next))} →</a>` : ''}</span>
@@ -249,7 +353,7 @@ ${stories.map((s, i) => storyArticle(s, { headingLink: true, lazy: i > 0 })).joi
   });
 }
 
-export function renderStory(date: string, story: Story, others: Story[]): string {
+export function renderStory(date: string, story: Story, others: Story[], countrySlugs: Set<string> = new Set()): string {
   return page({
     title: `${story.title} | Avactu`,
     description: (story.bullets || []).slice(0, 2).join(' ').slice(0, 300),
@@ -269,13 +373,61 @@ export function renderStory(date: string, story: Story, others: Story[]): string
     },
     body: `<p class="meta" style="margin-top:32px"><a href="/edition/${date}">Édition du ${esc(frDate(date))}</a></p>
 <h1 style="margin-top:8px">${esc(story.title)}</h1>
-${storyArticle(story, { headingLink: false, lazy: false })}
+${storyArticle(story, { headingLink: false, lazy: false, countrySlugs })}
 ${others.length ? `<h2 style="margin-top:28px">Dans la même édition</h2>
 <ul class="plain">${others.map((s) => `<li>${badge(s.category)}<a href="/s/${esc(s.id)}">${esc(s.title)}</a></li>`).join('')}</ul>` : ''}`,
   });
 }
 
-export function renderIndex(month: string, months: string[], editions: EditionRow[]): string {
+export interface ArchiveNav { rubriques: { slug: string; label: string; n: number }[]; countries: Country[] }
+
+export function navFromFacets(facets: Facet[]): ArchiveNav {
+  const counts = new Map(facets.filter((f) => f.kind === 'category').map((f) => [f.key, f.n]));
+  return {
+    rubriques: Object.entries(RUBRIQUES)
+      .map(([slug, r]) => ({ slug, label: r.label, n: counts.get(slug) ?? 0 }))
+      .filter((r) => r.n > 0),
+    countries: buildCountries(facets),
+  };
+}
+
+function navHtml(nav: ArchiveNav | undefined): string {
+  if (!nav || (nav.rubriques.length === 0 && nav.countries.length === 0)) return '';
+  const chip = (href: string, label: string, n: number) => `<a href="${href}">${esc(label)} <small>${n}</small></a>`;
+  return `<h2 style="margin-top:28px">Par rubrique</h2>
+<div class="months">${nav.rubriques.map((r) => chip(`/rubrique/${r.slug}`, r.label, r.n)).join('')}</div>
+<h2>Par pays</h2>
+<div class="months">${nav.countries.map((c) => chip(`/pays/${c.slug}`, c.name, c.n)).join('')}</div>
+<h2>Par date</h2>`;
+}
+
+export interface ListItem { edition_date: string; id: string; category: string; title: string }
+
+/** Page d'une rubrique ou d'un pays : sujets du plus récent au plus ancien, 100 par page */
+export function renderList(o: {
+  kind: 'rubrique' | 'pays'; slug: string; label: string; intro: string;
+  items: ListItem[]; page: number; total: number;
+}): string {
+  const totalPages = Math.max(1, Math.ceil(o.total / PAGE_SIZE));
+  const base = `/${o.kind}/${o.slug}`;
+  const pageUrl = (n: number) => (n === 1 ? base : `${base}/${n}`);
+  const heading = o.kind === 'pays' ? `${o.label} : l'actualité expliquée` : `${o.label} : tous les sujets`;
+  return page({
+    title: `${heading}${o.page > 1 ? `, page ${o.page}` : ''} | Avactu`,
+    description: `${o.intro} ${o.total} sujets expliqués par Avactu, avec les points de vue de chaque acteur.`.slice(0, 300),
+    path: pageUrl(o.page),
+    body: `<p class="meta" style="margin-top:32px"><a href="/archives">Archives</a></p>
+<h1 style="margin-top:8px">${esc(heading)}</h1>
+<p class="lead">${esc(o.intro)} ${o.total} sujets, du plus récent au plus ancien.</p>
+<ul class="plain">${o.items.map((s) => `<li><span class="meta" style="display:inline-block;min-width:118px">${esc(frDate(s.edition_date))}</span>${o.kind === 'pays' ? badge(s.category) : ''}<a href="/s/${esc(s.id)}" style="color:#e2e8f0">${esc(s.title)}</a></li>`).join('')}</ul>
+<div class="pager">
+  <span>${o.page > 1 ? `<a href="${pageUrl(o.page - 1)}">← Plus récents</a>` : ''}</span>
+  <span>${o.page < totalPages ? `<a href="${pageUrl(o.page + 1)}">Plus anciens →</a>` : ''}</span>
+</div>`,
+  });
+}
+
+export function renderIndex(month: string, months: string[], editions: EditionRow[], nav?: ArchiveNav): string {
   const days = editions
     .filter((e) => Array.isArray(e.stories_json) && e.stories_json.length > 0)
     .map((e) => `<div class="day">
@@ -290,6 +442,7 @@ export function renderIndex(month: string, months: string[], editions: EditionRo
     path: isLatest ? '/archives' : `/archives/${month}`,
     body: `<h1>Archives : ${esc(frMonth(month))}</h1>
 <p class="lead">Chaque édition résume l'actualité mondiale en cinq ou six sujets, sans la simplifier.</p>
+${navHtml(nav)}
 <div class="months">${months.map((m) => (m === month ? `<span>${esc(frMonth(m))}</span>` : `<a href="/archives/${m}">${esc(frMonth(m))}</a>`)).join('')}</div>
 ${days || '<p class="lead">Aucune édition ce mois-ci.</p>'}`,
   });
@@ -305,11 +458,13 @@ export function renderNotFound(): string {
   });
 }
 
-export function renderSitemap(dates: string[], months: string[]): string {
+export function renderSitemap(dates: string[], months: string[], nav?: ArchiveNav): string {
   const urls = [
     `<url><loc>${APP_URL}/</loc><changefreq>daily</changefreq></url>`,
     `<url><loc>${APP_URL}/archives</loc><changefreq>daily</changefreq></url>`,
     ...months.slice(1).map((m) => `<url><loc>${APP_URL}/archives/${m}</loc></url>`),
+    ...(nav?.rubriques ?? []).map((r) => `<url><loc>${APP_URL}/rubrique/${r.slug}</loc><changefreq>daily</changefreq></url>`),
+    ...(nav?.countries ?? []).map((c) => `<url><loc>${APP_URL}/pays/${c.slug}</loc><changefreq>weekly</changefreq></url>`),
     ...dates.map((d) => `<url><loc>${APP_URL}/edition/${d}</loc><lastmod>${d}</lastmod></url>`),
   ];
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join('\n')}\n</urlset>`;
@@ -351,17 +506,57 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         .map((r) => r.edition_date);
     };
 
+    const listFacets = async (): Promise<Facet[]> => {
+      const { data, error } = await supabase.from('stories_facets').select('kind, key, n');
+      if (error) throw new Error(error.message);
+      return (data || []) as Facet[];
+    };
+
+    if (view === 'list') {
+      const kind = one(req.query.kind);
+      const slug = one(req.query.slug);
+      const pageNum = Number(one(req.query.page) || '1');
+      if ((kind !== 'rubrique' && kind !== 'pays') || !Number.isInteger(pageNum) || pageNum < 1) {
+        return html(404, renderNotFound());
+      }
+      const facets = await listFacets();
+      let label: string, intro: string, total: number;
+      let query = supabase.from('stories_flat').select('edition_date, id, category, title');
+      if (kind === 'rubrique') {
+        const rubrique = RUBRIQUES[slug];
+        total = facets.find((f) => f.kind === 'category' && f.key === slug)?.n ?? 0;
+        if (!rubrique || total === 0) return html(404, renderNotFound());
+        ({ label, intro } = rubrique);
+        query = query.eq('category', slug);
+      } else {
+        const country = buildCountries(facets).find((c) => c.slug === slug);
+        if (!country) return html(404, renderNotFound());
+        label = country.name;
+        intro = `Tous les sujets d'Avactu liés à ${country.name}.`;
+        total = country.n;
+        query = query.in('place', country.places);
+      }
+      const from = (pageNum - 1) * PAGE_SIZE;
+      if (from >= total) return html(404, renderNotFound());
+      const { data, error } = await query
+        .order('edition_date', { ascending: false })
+        .order('id', { ascending: true })
+        .range(from, from + PAGE_SIZE - 1);
+      if (error) throw new Error(error.message);
+      return html(200, renderList({ kind, slug, label, intro, items: (data || []) as ListItem[], page: pageNum, total }));
+    }
+
     if (view === 'sitemap') {
-      const dates = await listDates();
+      const [dates, facets] = await Promise.all([listDates(), listFacets()]);
       if (dates.length === 0) return res.status(503).send('No editions');
       const months = monthsBetween(dates[0].slice(0, 7), dates[dates.length - 1].slice(0, 7));
       res.setHeader('Content-Type', 'application/xml; charset=utf-8');
       res.setHeader('Cache-Control', CACHE);
-      return res.status(200).send(renderSitemap(dates, months));
+      return res.status(200).send(renderSitemap(dates, months, navFromFacets(facets)));
     }
 
     if (view === 'index') {
-      const dates = await listDates();
+      const [dates, facets] = await Promise.all([listDates(), listFacets()]);
       if (dates.length === 0) return html(404, renderNotFound());
       const months = monthsBetween(dates[0].slice(0, 7), dates[dates.length - 1].slice(0, 7));
       const month = one(req.query.month) || months[0];
@@ -373,7 +568,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         .lt('edition_date', nextMonthStart(month))
         .order('edition_date', { ascending: false });
       if (error) throw new Error(error.message);
-      return html(200, renderIndex(month, months, (data || []) as EditionRow[]));
+      return html(200, renderIndex(month, months, (data || []) as EditionRow[], navFromFacets(facets)));
     }
 
     if (view === 'edition' || view === 'story') {
@@ -391,15 +586,17 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       const stories = ((data as EditionRow | null)?.stories_json || []) as Story[];
       if (stories.length === 0) return html(404, renderNotFound());
 
+      const countrySlugs = new Set(buildCountries(await listFacets()).map((c) => c.slug));
+
       if (view === 'story') {
         const story = stories.find((s) => s.id === id);
         if (!story) return html(404, renderNotFound());
-        return html(200, renderStory(date, story, stories.filter((s) => s.id !== id)));
+        return html(200, renderStory(date, story, stories.filter((s) => s.id !== id), countrySlugs));
       }
 
       const dates = await listDates();
       const i = dates.indexOf(date);
-      return html(200, renderEdition(date, stories, i > 0 ? dates[i - 1] : null, i >= 0 && i < dates.length - 1 ? dates[i + 1] : null));
+      return html(200, renderEdition(date, stories, i > 0 ? dates[i - 1] : null, i >= 0 && i < dates.length - 1 ? dates[i + 1] : null, countrySlugs));
     }
 
     return html(404, renderNotFound());

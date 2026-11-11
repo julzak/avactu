@@ -20,6 +20,22 @@
       "destination": "/api/archive?view=index&month=:month"
     },
     {
+      "source": "/rubrique/:slug",
+      "destination": "/api/archive?view=list&kind=rubrique&slug=:slug"
+    },
+    {
+      "source": "/rubrique/:slug/:page",
+      "destination": "/api/archive?view=list&kind=rubrique&slug=:slug&page=:page"
+    },
+    {
+      "source": "/pays/:slug",
+      "destination": "/api/archive?view=list&kind=pays&slug=:slug"
+    },
+    {
+      "source": "/pays/:slug/:page",
+      "destination": "/api/archive?view=list&kind=pays&slug=:slug&page=:page"
+    },
+    {
       "source": "/sitemap.xml",
       "destination": "/api/archive?view=sitemap"
     },
