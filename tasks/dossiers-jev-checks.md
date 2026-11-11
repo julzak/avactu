@@ -43,12 +43,29 @@ Limites du score, à garder en tête :
 | Seuil réglé sur le jeu, pas deviné | pass | balayage du seuil dans `scripts/eval-dossiers.ts`, 0.7 retenu | |
 | 1 467 sujets historiques classés en base | pass | `story_dossiers` : 13 203 lignes (1 467 × 9), relance `--all` : « 0 à classer » | plafond PostgREST de 1 000 lignes dans la lecture des couples déjà classés : 623 sujets reclassés au 2e passage, corrigé (paquets de 100 sujets) |
 | Pipeline : classement après la synthèse, non bloquant, avertissement, rattrapage | pass en code, non résolu en CI | étape `Classify stories into dossiers` (`continue-on-error`, `::warning`), script relancé sur 14 jours | à confirmer au premier run du matin après merge |
-| Pages `/dossier/:slug` paginées | pass en local, prod : voir plus bas | handler local contre la vraie base : Ukraine p1 100 sujets, p2 74, p3 404, slug inconnu 404 | |
+| Pages `/dossier/:slug` paginées | pass (confirmé en production) | handler local contre la vraie base : Ukraine p1 100 sujets, p2 74, p3 404, slug inconnu 404 | |
 | Liens depuis chaque sujet et depuis `/archives` | pass en local | `/s/2026-08-24-03` → Présidentielle française ; `/edition/2026-07-14` : 3 sujets liés ; `/archives` : 9 dossiers | |
 | Sitemap, denylist du service worker | pass | 9 URL `/dossier/` dans le sitemap local ; `/^\/dossier\//` dans `dist/sw.js` | |
 | Tests, build | pass | `scripts/test-archive-render.ts` (9 nouveaux checks), `npm run build`, `tsc` strict sur API et scripts, ESLint | |
 
 Effectifs au seuil 0.7 sur l'historique : Ukraine 174, Iran et Ormuz 218, Israël Gaza Liban 103, Politique américaine 204, Présidentielle 10, IA 153, Énergie 156, Climat 49, Chine 55. Présidentielle : seulement une dizaine de sujets français sur la campagne dans le corpus (les autres « présidentielles » sont étrangères, à 0.01-0.03).
+
+## Contrôle en production (avactu.com, 2026-11-11, après merge de julzak/avactu#31)
+
+| URL | HTTP | Constat |
+|---|---|---|
+| `/dossier/guerre-en-ukraine` | 200 | « Guerre en Ukraine : le dossier », 100 sujets |
+| `/dossier/guerre-en-ukraine/2` | 200 | 74 sujets |
+| `/dossier/guerre-en-ukraine/3` | 404 | page introuvable |
+| `/dossier/inconnu` | 404 | page introuvable |
+| `/dossier/presidentielle-francaise` | 200 | 10 sujets |
+| `/dossier/chine` | 200 | 55 sujets |
+| `/archives` | 200 | section « Les dossiers », 9 liens |
+| `/s/2026-08-24-03` | 200 | lien vers Présidentielle française |
+| `/edition/2026-07-14` | 200 | 4 dossiers liés depuis ses sujets |
+| `/sitemap.xml` | 200 | 9 URL `/dossier/` |
+
+Non résolu : le classement par le pipeline du matin n'a pas encore tourné en CI (premier run attendu le 2026-11-12 vers 07:00 Paris). À vérifier : log de l'étape `Classify stories into dossiers` et sujets du jour présents dans `story_dossiers`.
 
 ## Suites (non faites)
 
