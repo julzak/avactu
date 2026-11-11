@@ -9,7 +9,7 @@
 import { readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { getExtraLine, parisDate, smsSegments } from './sms-extra.js';
+import { getExtraLine, parisDate, smsSegments, toGsm7 } from './sms-extra.js';
 
 // ES Module __dirname equivalent
 const __filename = fileURLToPath(import.meta.url);
@@ -113,7 +113,11 @@ function buildMessage(edition: Edition): string {
   const extraLine = extra ? `\n${extra.text}` : '';
   if (extra) console.log(`💬 Mot du matin (${extra.source}) : ${extra.text}`);
 
-  return `Avactu du ${dateFormatted}\n${keywordsLine}${extraLine}\nLire: ${fullUrl}`;
+  // Date et lieux ramenés à l'alphabet GSM-7 (coût : 160 car. par segment au lieu de 67).
+  // Le mot du matin n'est pas touché : la banque est déjà en GSM-7 et un mot perso reste tel qu'écrit.
+  const header = toGsm7(`Avactu du ${dateFormatted}\n${keywordsLine}`);
+
+  return `${header}${extraLine}\nLire: ${fullUrl}`;
 }
 
 /**

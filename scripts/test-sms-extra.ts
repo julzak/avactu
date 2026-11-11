@@ -8,7 +8,7 @@
  */
 
 import {
-  MAX_PHRASE_LENGTH, getExtraLine, isGsm7, loadNotes, loadPhrases, parisDate, pickPhrase, smsSegments,
+  MAX_PHRASE_LENGTH, getExtraLine, isGsm7, loadNotes, loadPhrases, parisDate, pickPhrase, smsSegments, toGsm7,
 } from './sms-extra.js';
 
 let failures = 0;
@@ -24,8 +24,18 @@ check('message du 2026-11-11 (99 car. avec "Israël") = 2 segments',
   smsSegments('Avactu du 11 novembre\nMadrid - Israël - Washington - Koléa - Santa - Paris\nLire: https://avactu.com') === 2);
 check('160 car. GSM-7 = 1 segment, 161 = 2', smsSegments('a'.repeat(160)) === 1 && smsSegments('a'.repeat(161)) === 2);
 
+console.log('--- Translittération des lieux ---');
+check('Israël → Israel (le cas du 2026-11-11)', toGsm7('Israël') === 'Israel');
+check('é è à ù conservés', toGsm7('Téhéran - Koléa - Genève') === 'Téhéran - Koléa - Genève');
+check('ç ô î û œ retirés', toGsm7('Besançon Côte Nîmes août Œuvre') === 'Besancon Cote Nimes aout OEuvre');
+check('résultat en GSM-7', isGsm7(toGsm7('1 août\nIsraël - São Paulo - Côte d’Ivoire')));
+check('caractère sans équivalent laissé tel quel', toGsm7('Łódź') === 'Łodz');
+check('en-tête du 2026-11-11 + phrase + lien = 1 segment',
+  smsSegments(`${toGsm7('Avactu du 11 novembre\nMadrid - Israël - Washington - Koléa - Santa - Paris')}\n15 minutes et tu en sais plus que ton prof.\nLire: https://avactu.com`) === 1);
+
 console.log('--- Banque ---');
 const phrases = loadPhrases();
+const failuresBeforeBank = failures;
 check('au moins 30 phrases', phrases.length >= 30, `(${phrases.length})`);
 check('pas de doublon', new Set(phrases).size === phrases.length);
 for (const p of phrases) {
@@ -36,7 +46,7 @@ for (const p of phrases) {
   ].filter(Boolean);
   if (problems.length) check(`"${p}"`, false, `→ ${problems.join(', ')}`);
 }
-check('toutes les phrases : GSM-7, sans virgule, longueur max respectée', failures === 0);
+check('toutes les phrases : GSM-7, sans virgule, longueur max respectée', failures === failuresBeforeBank);
 
 console.log('--- Rotation ---');
 // Tous les jours impairs sur 6 mois, y compris 31 → 1 (deux envois consécutifs)
