@@ -255,8 +255,13 @@ jobs:
           done
 
       # 16. Send SMS notification to VIPs via OVH HTTP2SMS (odd days only, like biweekly)
+      # Non bloquant : un échec SMS (ex. crédit OVH épuisé) ne doit pas marquer le run en
+      # échec, sinon le job `guard` du cron de secours ne voit pas le run VPS comme réussi
+      # et relance toute l'édition (double envoi du 2026-11-11, 07:00 et 07:56 Paris).
       - name: Send SMS to VIPs
+        id: sms
         if: ${{ github.event.inputs.skip_sms != 'true' && steps.day_info.outputs.is_odd_day == '1' }}
+        continue-on-error: true
         env:
           OVH_SMS_SERVICE: ${{ secrets.OVH_SMS_SERVICE }}
           OVH_SMS_LOGIN: ${{ secrets.OVH_SMS_LOGIN }}
@@ -267,3 +272,7 @@ jobs:
           # n'envoie qu'aux numéros définis. Ré-ajouter la ligne pour réactiver.
           APP_URL: ${{ vars.APP_URL || 'https://avactu.com' }}
         run: npm run send-sms
+
+      - name: Report SMS failure
+        if: ${{ steps.sms.outcome == 'failure' }}
+        run: echo "::warning title=SMS non envoyés::L'étape Send SMS to VIPs a échoué (voir son log, souvent crédit OVH épuisé). Newsletter envoyée normalement."
