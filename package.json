@@ -18,7 +18,9 @@
     "send-newsletter:weekly": "tsx scripts/send-newsletter.ts --frequency=weekly",
     "generate-weekly": "tsx scripts/generate-weekly-edition.ts",
     "generate-og-image": "tsx scripts/generate-og-image.ts",
-    "send-sms": "tsx scripts/send-sms.ts"
+    "send-sms": "tsx scripts/send-sms.ts",
+    "classify-dossiers": "tsx scripts/classify-dossiers.ts",
+    "eval-dossiers": "tsx scripts/eval-dossiers.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.2",

@@ -1,0 +1,70 @@
+{
+  "_doc": "Dossiers thématiques des archives (niveau 3, décision Julien 2026-11-11). Chaque dossier est une question Noul posée à Jev (TypeSafe) sur chaque sujet ; un sujet peut relever de plusieurs dossiers ou d'aucun. Le seuil est réglé sur data/dossiers-gold.json (scripts/eval-dossiers.ts), jamais deviné. Ajouter un dossier = l'ajouter ici puis lancer scripts/classify-dossiers.ts --all --only=<slug>. Changer un seuil = modifier ici puis lancer scripts/classify-dossiers.ts --sync (aucun appel à Jev).",
+  "model": "jev-latest",
+  "threshold": 0.7,
+  "dossiers": [
+    {
+      "slug": "guerre-en-ukraine",
+      "label": "Guerre en Ukraine",
+      "intro": "L'invasion russe de l'Ukraine, le front, les négociations, les sanctions et le soutien occidental.",
+      "relevant": "La guerre entre la Russie et l'Ukraine et tout ce qu'elle entraîne directement : combats, frappes, front, négociations de paix ou de cessez-le-feu, aide militaire ou financière à l'Ukraine, sanctions contre la Russie liées à la guerre, avoirs russes gelés, mobilisation, réfugiés ukrainiens, menaces russes contre l'OTAN ou l'Europe nées de cette guerre (drones, sabotages, flotte fantôme).",
+      "not_relevant": "Un sujet sur la Russie sans lien avec la guerre en Ukraine (politique intérieure russe, Arctique, relations avec l'Asie), ou un sujet qui ne cite l'Ukraine qu'en passant."
+    },
+    {
+      "slug": "iran-detroit-ormuz",
+      "label": "Iran et détroit d'Ormuz",
+      "intro": "Le programme nucléaire iranien, les frappes et la confrontation avec Israël et les États-Unis, le régime, la navigation dans le détroit d'Ormuz.",
+      "relevant": "L'Iran est un acteur central du sujet : programme nucléaire, frappes contre l'Iran ou venant de l'Iran, confrontation avec Israël ou les États-Unis, négociations, sanctions, régime et contestation intérieure, et la sécurité de la navigation dans le détroit d'Ormuz ou le golfe Persique (blocus, pétroliers, escortes).",
+      "not_relevant": "Un sujet où l'Iran n'est que mentionné comme arrière-plan (par exemple une guerre au Liban centrée sur le Hezbollah et Israël sans action iranienne), ou un sujet pétrolier sans lien avec l'Iran ou Ormuz."
+    },
+    {
+      "slug": "israel-gaza-liban",
+      "label": "Israël, Gaza et Liban",
+      "intro": "La guerre à Gaza, la Cisjordanie, le front libanais avec le Hezbollah, la question palestinienne et la vie politique israélienne.",
+      "relevant": "Le conflit israélo-palestinien et ses fronts voisins : guerre et situation humanitaire à Gaza, otages, cessez-le-feu, Cisjordanie et colonisation, reconnaissance de l'État palestinien, Hezbollah et front libanais, Liban, et la politique intérieure israélienne (élections, gouvernement, coalition, opposition à Nétanyahou).",
+      "not_relevant": "Un sujet centré sur l'Iran (nucléaire, Ormuz) où Israël n'intervient que comme adversaire de l'Iran, sans lien avec Gaza, la Cisjordanie ou le Liban ; un sujet sur un autre pays du Moyen-Orient (Syrie, Yémen, Arabie saoudite) sans lien avec ce conflit."
+    },
+    {
+      "slug": "politique-americaine",
+      "label": "Politique américaine",
+      "intro": "Le pouvoir à Washington : la Maison Blanche, le Congrès, la Cour suprême, les élections et les grandes décisions de l'administration américaine.",
+      "relevant": "La politique intérieure et les institutions des États-Unis : présidence et administration américaine, décisions de la Maison Blanche (décrets, droits de douane, immigration, budget, shutdown), Congrès, Cour suprême et justice fédérale, élections américaines, partis, polarisation, politique étrangère quand le sujet porte sur la décision américaine elle-même.",
+      "not_relevant": "Un sujet sur un autre pays où les États-Unis ne sont qu'un acteur parmi d'autres (par exemple une négociation sur l'Ukraine racontée du point de vue du front), ou un sujet sur une entreprise américaine sans dimension politique."
+    },
+    {
+      "slug": "presidentielle-francaise",
+      "label": "Présidentielle française",
+      "intro": "La course à l'Élysée : candidats, partis, alliances, sondages et campagne de l'élection présidentielle française.",
+      "relevant": "L'élection présidentielle française et sa préparation : candidatures déclarées ou pressenties, primaires, alliances et stratégies des partis en vue de la présidentielle, sondages d'intentions de vote, programmes de campagne, débats, inéligibilité d'un candidat potentiel.",
+      "not_relevant": "La vie politique française sans lien avec l'élection présidentielle (budget, motion de censure, remaniement, réforme votée au Parlement), ou une élection dans un autre pays."
+    },
+    {
+      "slug": "intelligence-artificielle",
+      "label": "Intelligence artificielle",
+      "intro": "Les modèles d'IA, les entreprises qui les construisent, les puces, la régulation et les effets de l'IA sur le travail et la société.",
+      "relevant": "L'intelligence artificielle est le sujet principal : nouveaux modèles et assistants, entreprises de l'IA (OpenAI, Anthropic, Google, Mistral, Nvidia…), puces et centres de données pour l'IA, régulation de l'IA, effets de l'IA sur l'emploi, l'école, la création, la désinformation ou la sécurité, course technologique entre pays sur l'IA.",
+      "not_relevant": "Un sujet tech sans IA (spatial, réseaux sociaux, cybersécurité classique, smartphones), ou un sujet qui ne cite l'IA qu'en passant."
+    },
+    {
+      "slug": "energie-carburants",
+      "label": "Énergie et carburants",
+      "intro": "Pétrole, gaz, électricité, nucléaire civil et prix des carburants : qui produit l'énergie, qui la paie, et comment.",
+      "relevant": "L'énergie est le sujet principal ou l'enjeu central : prix du pétrole, du gaz ou de l'électricité, prix des carburants à la pompe, OPEP, approvisionnement et pénuries, oléoducs et gazoducs, nucléaire civil, énergies renouvelables vues sous l'angle de la production d'énergie, sanctions sur les exportations d'hydrocarbures, transition énergétique.",
+      "not_relevant": "Un sujet où l'énergie n'est qu'une conséquence évoquée en une phrase (par exemple une guerre avec une mention du prix du baril), le nucléaire militaire, ou le climat sans dimension énergétique."
+    },
+    {
+      "slug": "climat",
+      "label": "Climat et environnement",
+      "intro": "Le réchauffement climatique, les catastrophes qu'il aggrave, les négociations climatiques et la biodiversité.",
+      "relevant": "Le climat ou l'environnement est le sujet principal : réchauffement, records de température, canicules, sécheresses, inondations, incendies et ouragans liés au climat, COP et négociations climatiques, émissions de CO2, politiques climatiques, biodiversité, pollution, océans, glaciers et pôles.",
+      "not_relevant": "Une catastrophe sans lien avec le climat (séisme, accident industriel sans dimension environnementale), ou un sujet énergétique traité seulement sous l'angle des prix et de l'approvisionnement."
+    },
+    {
+      "slug": "chine",
+      "label": "Chine",
+      "intro": "La puissance chinoise : rivalité avec les États-Unis, Taïwan, commerce, technologie et politique de Pékin.",
+      "relevant": "La Chine est un acteur central du sujet : politique de Pékin, Xi Jinping, rivalité sino-américaine, guerre commerciale et droits de douane entre la Chine et d'autres pays, Taïwan, mer de Chine méridionale, Hong Kong, Xinjiang, économie et technologie chinoises, terres rares, influence chinoise en Afrique ou ailleurs.",
+      "not_relevant": "Un sujet où la Chine n'est que citée parmi d'autres pays sans y jouer un rôle central, ou une catastrophe naturelle survenue en Chine sans enjeu politique pour Pékin."
+    }
+  ]
+}
