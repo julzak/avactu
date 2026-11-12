@@ -1,264 +1,187 @@
 {
-  "generatedAt": "2026-11-11T06:43:29.931Z",
+  "generatedAt": "2026-11-12T04:00:47.346Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "L'Espagne en grève générale pour défendre l'accès au logement à l'approche des l",
+      "id": "cluster-3",
+      "topic": "A New York, au moins deux morts dans l’effondrement d’un immeuble de Brooklyn",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-11-83a287b0",
-          "title": "L'Espagne en grève générale pour défendre l'accès au logement à l'approche des législatives",
-          "description": "Ce mercredi a lieu une grève générale de 24 heures dans tout le pays. Elle se fait à l’appel des principaux syndicats espagnols, dont CCOO et la CGT. Et aussi du syndicat des locataires, à l’origine d’immenses manifestations ces dernières semaines. C’est en effet surtout le problème du logement qui est à l’origine de la colère citoyenne. Paradoxalement, cette grève générale n’embarrasse pas le gouvernement en place.",
-          "url": "https://www.rfi.fr/fr/europe/20261111-espagne-gr%C3%A8ve-g%C3%A9n%C3%A9rale-pour-d%C3%A9fendre-l-acc%C3%A8s-au-logement-%C3%A0-l-approche-des-l%C3%A9gislatives",
-          "imageUrl": "https://s.rfi.fr/media/display/28112856-dd90-11f1-b360-5f54d898a954/w:1024/p:16x9/AP26276473734442.jpg",
-          "source": "RFI",
+          "id": "2026-11-12-89a50078",
+          "title": "A New York, au moins deux morts dans l’effondrement d’un immeuble de Brooklyn",
+          "description": "Dix-sept personnes, dont sept enfants, ont été blessées, alors que les pompiers continuent de rechercher d’éventuelles personnes sous les décombres. Les causes de l’effondrement sont pour l’heure inconnues.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-deux-morts-dans-l-effondrement-d-un-immeuble-de-brooklyn_6809041_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-11T06:09:28.000Z",
-          "fetchedAt": "2026-11-11T06:39:35.820Z"
+          "publishedAt": "2026-11-12T02:41:29.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.260Z"
         },
         {
-          "id": "2026-11-10-ba8e9f79",
-          "title": "En Espagne, une grève générale “atypique” à l’approche des législatives",
-          "description": "L’Espagne se prépare à vivre, ce mercredi 11 novembre, sa première grève générale depuis quatorze ans. Née de la colère suscitée par l’expulsion de Maricarmen Abascal, la mobilisation vise la crise du logement. À la veille de la campagne pour les élections du 29 novembre, elle divise la classe politique.",
-          "url": "https://www.courrierinternational.com/article/social-en-espagne-une-greve-generale-atypique-a-l-approche-des-legislatives_286214",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/05/1/0/7222/4814/1200/630/60/0/1a3069a_ftp-1-bmkpq5h6ulnc-2026-11-05t223917z-128344706-rc2zgoa0qynu-rtrmadp-3-spain-strike.JPG",
-          "source": "Courrier International",
+          "id": "2026-11-12-3c1fa434",
+          "title": "Le Paraguay rembourse une partie de leurs avoirs à tous les épargnants de Ueno Bank",
+          "description": "La Banque centrale du Paraguay a annoncé mercredi avoir partiellement remboursé la totalité des clients de Ueno Bank bénéficiant d'une garantie de l'État, après la faillite de cette dernière qui a provoqué la destitution du président Santiago Peña.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-paraguay-rembourse-une-partie-de-leurs-avoirs-epargnants-ueno-bank",
+          "imageUrl": "https://s.france24.com/media/display/fe9ccf8c-de3b-11f1-9318-5f54d898a954/w:1024/p:16x9/AP26313615647131.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-10T16:24:44.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.633Z"
+          "publishedAt": "2026-11-12T02:09:07.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.245Z"
+        },
+        {
+          "id": "2026-11-12-5d4562a2",
+          "title": "États-Unis: le démocrate Scott Colom devient le premier sénateur noir du Mississippi depuis 150 ans",
+          "description": "Le démocrate Scott Colom a remporté un siège au Sénat américain dans le Mississippi, selon les projections de l'agence américaine AP. Il devient ainsi le premier sénateur noir à être élu en près de 150 ans dans cet État du Sud.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-%C3%A9tats-unis-le-d%C3%A9mocrate-scott-colom-devient-le-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans",
+          "imageUrl": "https://s.rfi.fr/media/display/4bf6b938-de2c-11f1-97a3-29048b396e03/w:1024/p:16x9/2026-11-04T061009Z-400192983-RC2NGOAD05HX-RTRMADP-3-USA-ELECTION-MISSISSIPPI.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-12T00:14:07.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.360Z"
+        },
+        {
+          "id": "2026-11-12-b9da2c11",
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky juge une avancée possible avant la fin de l’année dans les pourparlers de paix",
+          "description": "« Aujourd’hui, cette fenêtre d’opportunité existe réellement, où tous les participants actuellement engagés dans le processus de négociation souhaitent véritablement obtenir un résultat avant 2027 », a estimé mercredi le président ukrainien. En visite en Irlande, il doit s’entretenir jeudi avec les émissaires américains, Jared Kushner et Steve Witkoff, qui auront au préalable rencontré son homologue russe Vladimir Poutine.",
+          "url": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-juge-une-avancee-possible-avant-la-fin-de-l-annee-dans-les-pourparlers-de-paix_6808609_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-12T00:10:19.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.260Z"
+        },
+        {
+          "id": "2026-11-11-c6e9b930",
+          "title": "🔴 États-Unis : après une victoire au Mississippi, les démocrates renforcent leur majorité au Sénat",
+          "description": "",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
+          "imageUrl": "https://s.france24.com/media/display/e7807fc4-de27-11f1-b242-f71d22e7fea9/w:1280/p:16x9/AP26314768923953.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-11T23:39:43.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.245Z"
+        },
+        {
+          "id": "2026-11-11-4be20f86",
+          "title": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
+          "description": "Selon le « Wall Street Jounal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces nécessaires à la révolution de l’intelligence artificielle.",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-11T23:30:03.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.260Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "« Voyage en Israël » rassemble les articles sur le jeune Etat hébreu de l’écriva",
+      "topic": "Un représentant des colonies juives en Cisjordanie refoulé à son arrivée en Fran",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-11-6f99030c",
-          "title": "« Voyage en Israël » rassemble les articles sur le jeune Etat hébreu de l’écrivain Isaac Bashevis Singer, enfin traduits",
-          "description": "Ses portraits et tableaux riche d’émotions sur le pays que l’écrivain découvre, en 1955, ont été écrits pour « Forverts », le journal yiddish new-yorkais.",
-          "url": "https://www.lemonde.fr/livres/article/2026/11/11/voyage-en-israel-rassemble-les-articles-sur-le-jeune-etat-hebreu-de-l-ecrivain-isaac-bashevis-singer-enfin-traduits_6808942_3260.html",
+          "id": "2026-11-12-d2e124b9",
+          "title": "Un représentant des colonies juives en Cisjordanie refoulé à son arrivée en France, Israël dénonce une mesure « inacceptable »",
+          "description": "Cet incident intervient dans un climat de tensions entre l’Etat hébreu et les pays européens. « Israël va exiger des explications au gouvernement français et envisagera les suites à donner en conséquence », a réagi, mercredi, le ministère des affaires étrangères israélien.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-refoule-a-son-arrivee-en-france-israel-denonce-une-mesure-inacceptable_6809040_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-11T06:00:13.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.540Z"
+          "publishedAt": "2026-11-12T02:36:03.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.260Z"
         },
         {
-          "id": "2026-11-11-10131f86",
-          "title": "En Israël, Eisenkot lance une offensive législative contre Nétanyahou",
-          "description": "Le parti du leader centriste a annoncé mardi le dépôt d’un projet de loi visant à créer une commission d’enquête sur le 7-Octobre, dès l’ouverture de la nouvelle session de la Knesset qui s’est déroulée dans une ambiance houleuse, raconte la presse israélienne. Yashar a annulé les discussions prévues avec des représentants du Likoud, après un discours virulent de Benyamin Nétanyahou.",
-          "url": "https://www.courrierinternational.com/article/politique-en-israel-eisenkot-lance-une-offensive-legislative-contre-netanyahou_286311",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/10/0/0/3972/2648/1200/630/60/0/9699bcc_ftp-1-bciubeiysuc3-afp-d7276g7.jpg",
-          "source": "Courrier International",
+          "id": "2026-11-11-e8a6eff8",
+          "title": "Cisjordanie occupée : un responsable des colons israélien refoulé à son arrivée en France",
+          "description": "Yossi Dagan, qui dirige une structure représentant les colonies juives en Samarie, au nord de la Cisjordanie occupée, s'est vu refuser l'entrée sur le territoire français à cause de son \"rôle actif dans la mise en uvre de la politique de colonisation de la Cisjordanie\", selon le ministère français des Affaires étrangères.",
+          "url": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
+          "imageUrl": "https://s.france24.com/media/display/00bc1290-de10-11f1-ab90-3f371022a770/w:1024/p:16x9/000-A8BM2T9.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-11T05:04:37.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.633Z"
-        },
-        {
-          "id": "2026-11-11-5ea87efb",
-          "title": "« Un programme sérieux de développement social et écologique peut réduire le ratio dette/PIB »",
-          "description": "Alors que les choix de la Banque centrale européenne sont très attendus, l’économiste Alain Grandjean et le spécialiste de l’énergie Pierre Jérémie rappellent, dans une tribune au « Monde », que le relèvement des taux renchérirait forcément le financement de la transition énergétique et ralentirait la sortie des énergies fossiles.",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/11/un-programme-serieux-de-developpement-social-et-ecologique-peut-reduire-le-ratio-dette-pib_6808935_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-11T05:00:42.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.540Z"
-        },
-        {
-          "id": "2026-11-11-4e01e3e0",
-          "title": "Guinée: plus de 1200 orpailleurs illégaux passent devant les tribunaux de Basse-Guinée",
-          "description": "Sur les 1412 orpailleurs interpellés en Haute-Guinée ces derniers jours, 1 263 exactement sont répartis entre différents tribunaux de Conakry et de la Basse-Guinée. Selon le gouvernement, ils ont été arrêtés car ils sont « récalcitrants ». Parmi eux figurent non seulement des Guinéens, mais aussi des Burkinabè, des Maliens, des Togolais, des Nigériens, des Ivoiriens ou encore des Ghanéens. Certains d'entre eux étaient jugés à la Cour de répression des infractions économiques et financières (CRIEF) à Conakry.",
-          "url": "https://www.rfi.fr/fr/afrique/20261111-guin%C3%A9e-plus-de-1200-orpailleurs-ill%C3%A9gaux-passent-devant-les-tribunaux-de-basse-guin%C3%A9e",
-          "imageUrl": "https://s.rfi.fr/media/display/a6da80c0-dd12-11f1-b233-f71d22e7fea9/w:1024/p:16x9/IMG-2229-1.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-11T04:11:25.000Z",
-          "fetchedAt": "2026-11-11T06:39:35.820Z"
-        },
-        {
-          "id": "2026-11-11-49217d0c",
-          "title": "«Nous gaspillons plus que notre propre poids»: comment l’ONU compte diviser par deux les déchets alimentaires avant 2030",
-          "description": "L’initiative Food Waste Breakthrough, lancée par le Programme des Nations unies pour l’environnement (PNUE) à la COP30 l’an dernier, vise à baisser les émissions mondiales mais aussi à faire des économies. À la COP31 qui vient de s'ouvrir en Turquie, ce 11 novembre est consacrée à la lutte contre le gaspillage. Responsable des systèmes alimentaires dans le cadre du changement climatique, Clémentine O’Connor pilote cette grande ambition, qu'elle juge « réalisable ».",
-          "url": "https://www.rfi.fr/fr/environnement/20261111-nous-gaspillons-plus-que-notre-propre-poids-comment-l-onu-compte-diviser-par-deux-les-d%C3%A9chets-alimentaires-avant-2030",
-          "imageUrl": "https://s.rfi.fr/media/display/2dbf352a-8b8c-11ef-bde4-005056a97e36/w:1024/p:16x9/GettyImages-1463546392.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-11T04:06:03.000Z",
-          "fetchedAt": "2026-11-11T06:39:35.820Z"
-        },
-        {
-          "id": "2026-11-11-5350e87c",
-          "title": "“Everytime”, de Sandra Wollner : un film inventif et poétique sur le vertige du deuil",
-          "description": "C’est un film plein de fulgurances et de mystères, dont l’héroïne est une mère qui perd tragiquement l’une de ses deux filles. Primé au dernier Festival de Cannes et salué par la presse allemande, “Everytime”, de l’Autrichienne Sandra Wollner, sort ce 11 novembre en France.",
-          "url": "https://www.courrierinternational.com/article/en-salle-everytime-de-sandra-wollner-un-film-inventif-et-poetique-sur-le-vertige-du-deuil_279966",
-          "imageUrl": "https://focus.courrierinternational.com/2026/10/21/0/1275/10936/7291/1200/630/60/0/2b86b56_upload-1-0tmjilv4h7tp-300dpi-everytime-still02-thebarricadespanamafilm-gregoryoke-1.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-11T04:00:05.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.633Z"
+          "publishedAt": "2026-11-11T21:12:37.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.245Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "« Aux Etats-Unis, les démocrates ont deux ans pour redessiner une politique étra",
+      "id": "cluster-9",
+      "topic": "Paraguay : la Banque centrale rembourse en partie tous les clients de Ueno Bank ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-11-cd805935",
-          "title": "« Aux Etats-Unis, les démocrates ont deux ans pour redessiner une politique étrangère à partir d’un champ de ruines »",
-          "description": "Les élections de mi-mandat ont été l’occasion, pour le Parti démocrate, d’un exercice de droit d’inventaire sur le bilan diplomatique de Joe Biden. Et si l’un des principaux clivages internes à ce camp, concernant Israël, a été éliminé, des dissensions sont en revanche à attendre sur la relation avec la Chine, analyse Gilles Paris, éditorialiste au « Monde », dans sa chronique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/11/aux-etats-unis-les-democrates-ont-deux-ans-pour-redessiner-une-politique-etrangere-a-partir-d-un-champ-de-ruines_6808933_3232.html",
+          "id": "2026-11-12-5e61e0ae",
+          "title": "Paraguay : la Banque centrale rembourse en partie tous les clients de Ueno Bank dont l’effondrement a provoqué la chute du président",
+          "description": "L’institution a partiellement remboursé des fonds à plus de 1,8 million d’épargnants de cette banque en ligne placée sous administration judiciaire début novembre en raison de problèmes de solvabilité. Les plus gros déposants devront patienter pour espérer récupérer l’intégralité de leurs fonds.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/12/paraguay-la-banque-centrale-rembourse-en-partie-tous-les-clients-de-ueno-bank-dont-l-effondrement-a-provoque-la-chute-du-president_6809038_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-11T05:00:29.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.540Z"
+          "publishedAt": "2026-11-12T01:40:31.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.260Z"
         },
         {
-          "id": "2026-11-11-7b05503a",
-          "title": "Comment Nvidia s’est retrouvé au cœur d’un scandale international, entre espionne chinoise, guerre des puces et indifférence de Donald Trump",
-          "description": "Le fondateur du géant américain des microprocesseurs a reconnu une liaison avec une entrepreneuse soupçonnée d’avoir travaillé pour Pékin, alors placé sous embargo, en pleine course à l’intelligence artificielle entre les deux pays.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/11/comment-nvidia-s-est-retrouve-au-c-ur-d-un-scandale-international-entre-espionne-chinoise-guerre-des-puces-et-indifference-de-donald-trump_6808922_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-11-11-065e82fb",
+          "title": "Le Paraguay restitue une partie de leurs avoirs à tous les clients de Ueno Bank",
+          "description": "La Banque centrale du Paraguay (BCP) a annoncé mercredi 11 novembre avoir restitué au moins une partie de leurs avoirs à la totalité des épargnants de Ueno Bank, même si la plus grande partie des fonds déposés reste en attente de récupération.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261111-le-paraguay-restitue-une-partie-de-leurs-avoirs-%C3%A0-tous-les-clients-de-ueno-bank",
+          "imageUrl": "https://s.rfi.fr/media/display/64e26aba-de26-11f1-bffe-29048b396e03/w:1024/p:16x9/000-D76X7G9.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-11T04:00:02.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.540Z"
-        },
-        {
-          "id": "2026-11-11-54ac8b12",
-          "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-          "description": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-11T03:44:06.000Z",
-          "fetchedAt": "2026-11-11T06:39:35.811Z"
-        },
-        {
-          "id": "2026-11-11-d73bc025",
-          "title": "A Buenos Aires, devant un million de jeunes, le pape Léon XIV exhorte à résister « aux idoles de notre temps » : succès, apparence, plaisir effréné",
-          "description": "Le souverain pontife a aussi évoqué, mardi, en Argentine, son opération en octobre pour un cancer du poumon, mais pour faire l’éloge de la « persévérance » pastorale.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/a-buenos-aires-devant-un-million-de-jeunes-le-pape-leon-xiv-exhorte-a-resister-aux-idoles-de-notre-temps-succes-apparence-plaisir-effrene_6808916_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-11T02:17:06.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.540Z"
-        },
-        {
-          "id": "2026-11-11-f378e38a",
-          "title": "Aux Etats-Unis, un juge refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC, permettant à la procédure de se poursuivre",
-          "description": "Le président américain reproche au groupe audiovisuel public britannique d’avoir réalisé un montage vidéo trompeur de ses propos. « La question de savoir s’il a subi des dommages est remise à plus tard », lors d’un jugement sur le fond, écrit le juge.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/11/un-juge-americain-refuse-de-rejeter-la-plainte-pour-diffamation-de-donald-trump-contre-la-bbc-permettant-a-la-procedure-de-se-poursuivre_6808914_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-11T01:34:12.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.540Z"
-        },
-        {
-          "id": "2026-11-11-87329c10",
-          "title": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès",
-          "description": "Mis en cause par le républicain Thomas Massie pour huit motifs, dont la guerre en Iran et les exécutions extrajudiciaires dans les Caraïbes, le secrétaire à la défense a vivement contre-attaqué, dans un avant-goût de la bataille qu’entend lui livrer la future majorité démocrate.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/11/etats-unis-pete-hegseth-defiant-et-offensif-echappe-a-une-tentative-de-destitution-au-congres_6808912_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-11T00:28:21.000Z",
-          "fetchedAt": "2026-11-11T06:39:29.540Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-35",
-      "topic": "GTA 6 : une très mauvaise nouvelle technique se confirme",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-10-cc7c4ead",
-          "title": "GTA 6 : une très mauvaise nouvelle technique se confirme",
-          "description": "C'est le grand jour pour les joueurs impatients : Rockstar Games vient officiellement d'ouvrir le pré-téléchargement de GTA 6. Mais derrière cette étape clé avant le lancement officiel du 19 novembre se cache une douche froide technique.",
-          "url": "https://www.numerama.com/pop-culture/2371667-gta-6-une-tres-mauvaise-nouvelle-technique-se-confirme.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/gta-6-new-pics-6.png?resize=1600,900&key=431110d9",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-11-10T14:31:14.000Z",
-          "fetchedAt": "2026-11-11T06:39:35.840Z"
-        },
-        {
-          "id": "2026-11-10-8b5f0f70",
-          "title": "Un raté, une réussite historique et déjà le troisième vol : l’Europe s’apprête à accueillir un nouveau tir orbital",
-          "description": "Isar Aerospace pourrait tenter le troisième vol de sa fusée Spectrum dès le 26 novembre 2026, depuis la base norvégienne d'Andøya, d'après un avis aéronautique publié le 28 octobre. La fenêtre de tir reste ouverte jusqu'au 17 février 2027.",
-          "url": "https://www.numerama.com/sciences/2371613-un-rate-une-reussite-historique-et-deja-le-troisieme-vol-leurope-sapprete-a-accueillir-un-nouveau-tir-orbital.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/spectrum-isar-aerospace.jpg?resize=1600,900&key=f000410d",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-11-10T13:57:06.000Z",
-          "fetchedAt": "2026-11-11T06:39:35.840Z"
-        },
-        {
-          "id": "2026-11-10-c1fa9eee",
-          "title": "HBO Max et Paramount+ : à quand la réunion des deux plateformes ? On a un début de réponse",
-          "description": "David Ellison, CEO de Skydance, a annoncé ce lundi 9 novembre une offre groupée réunissant HBO Max et Paramount+, qui sera lancée début 2027. Il la présente comme une première étape vers la fusion des deux plateformes.",
-          "url": "https://www.numerama.com/pop-culture/2371509-hbo-max-et-paramount-a-quand-la-reunion-des-deux-plateformes-on-a-un-debut-de-reponse.html",
-          "imageUrl": null,
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-11-10T12:17:00.000Z",
-          "fetchedAt": "2026-11-11T06:39:35.840Z"
-        },
-        {
-          "id": "2026-11-10-5a46494e",
-          "title": "Mauvaise surprise, Notion découvre que des conversations avec son IA ont été volées chez un prestataire",
-          "description": "Le logiciel de travail collaboratif a reconnu que des conversations de ses utilisateurs avec Notion AI se sont retrouvées entre les mains de pirates. La fuite ne vient pas de Notion lui-même, mais d'un prestataire victime d’une intrusion en octobre.",
-          "url": "https://www.numerama.com/cyberguerre/2371399-mauvaise-surprise-notion-decouvre-que-des-conversations-avec-son-ia-ont-ete-volees-chez-un-prestataire.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/sans-titre-9.png?resize=1600,900&key=5f811221",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-11-10T11:45:00.000Z",
-          "fetchedAt": "2026-11-11T06:39:35.840Z"
-        },
-        {
-          "id": "2026-11-10-bdab848f",
-          "title": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
-          "description": "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris. Cette unité est connue pour ses attaques contre les systèmes industriels.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-11-10T10:30:17.000Z",
-          "fetchedAt": "2026-11-11T06:39:35.856Z"
+          "publishedAt": "2026-11-11T22:54:16.000Z",
+          "fetchedAt": "2026-11-12T04:00:31.360Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Electricity bills to rise by 2.5% from March",
+      "topic": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-11-0ed1017d",
+          "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+          "description": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+          "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-11-11T23:10:17.000Z",
+          "fetchedAt": "2026-11-12T04:00:41.689Z"
+        },
+        {
+          "id": "2026-11-11-a6547f8c",
+          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+          "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times. \nThe Nvidia board will meet as soon as today to decide on Huang's future at the company, according to the Journal. Nvidia did not immediately respond to a request for comment from The Verge.\nHuang and Powell, who are both marri …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
+          "category": "tech",
+          "publishedAt": "2026-11-11T22:44:36.000Z",
+          "fetchedAt": "2026-11-12T04:00:37.025Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "From Paris to DC - why offices are being turned into apartments",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-11-9d0e6a68",
-          "title": "Electricity bills to rise by 2.5% from March",
-          "description": "The increase will add just over £1 per week for a typical all-electric home, Jersey Electricity says.",
-          "url": "https://www.bbc.co.uk/news/articles/c6x292elgnm5o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d97/live/86cad140-dd35-11f1-ab86-698de9f28d28.png",
+          "id": "2026-11-12-bef7280a",
+          "title": "From Paris to DC - why offices are being turned into apartments",
+          "description": "Office buildings with low occupancy rates are being transformed into flats.",
+          "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-11-11T06:24:15.000Z",
-          "fetchedAt": "2026-11-11T06:39:43.603Z"
+          "publishedAt": "2026-11-12T00:05:40.000Z",
+          "fetchedAt": "2026-11-12T04:00:41.547Z"
         }
       ]
     }
