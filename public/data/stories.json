@@ -1,128 +1,155 @@
 {
-  "date": "2026-11-12T04:09:29.818Z",
+  "date": "2026-11-13T04:13:51.906Z",
   "stories": [
     {
-      "id": "2026-11-12-01",
+      "id": "2026-11-13-01",
       "category": "geopolitique",
-      "title": "La France refoule Yossi Dagan, chef des colons de Samarie",
-      "imageUrl": "https://s.france24.com/media/display/00bc1290-de10-11f1-ab90-3f371022a770/w:1024/p:16x9/000-A8BM2T9.jpg",
+      "title": "Zelensky associe les Européens aux pourparlers de paix",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+      "location": {
+        "lat": 53.3498,
+        "lng": -6.2603,
+        "name": "Dublin, Irlande"
+      },
+      "bullets": [
+        "Les Européens participeront aux prochaines négociations de paix, annonce Volodymyr Zelensky.",
+        "Les émissaires américains ont rencontré Poutine à Moscou puis Zelensky à Dublin jeudi.",
+        "Le président ukrainien justifie cette présence par l'ambition d'adhérer à l'Union européenne.",
+        "Le président russe reste inflexible et Moscou raille des Européens « venus en touristes ».",
+        "Un drone ukrainien a frappé un navire de guerre russe dans le golfe de Finlande."
+      ],
+      "execSummary": "Jared Kushner et Steve Witkoff, les émissaires américains chargés du dossier, ont d'abord rencontré Vladimir Poutine à Moscou jeudi 12 novembre, avant de rejoindre le soir même Volodymyr Zelensky à Dublin, où étaient réunis les responsables politiques européens, selon Le Monde. À l'issue de cette rencontre, le président ukrainien et les émissaires américains ont annoncé que les Européens participeraient aux prochaines négociations de paix. Cette annonce fait suite aux pourparlers d'Abou Dhabi des 10 et 11 novembre, qui s'étaient soldés par la promesse d'un vaste échange de prisonniers.\n\nVolodymyr Zelensky a salué cette décision : il est logique, selon lui, que les dirigeants européens siègent à la table des négociations, puisque l'Ukraine espère à terme adhérer à l'Union européenne, rapporte la BBC. Pour Kiev, associer l'Europe permet aussi d'éviter que son avenir se décide uniquement entre Washington et Moscou.\n\nLa Russie affiche une tout autre posture. Selon RFI, Vladimir Poutine s'est montré inflexible sur ses exigences pour mettre fin au conflit face aux envoyés américains. La presse russe, citée par Courrier International, rapporte que la délégation de Moscou à Abou Dhabi a raillé des Européens « venus en touristes » et juge la perspective d'une paix durable encore lointaine.\n\nSur le terrain, la guerre continue : un drone ukrainien a frappé un navire de guerre russe dans le golfe de Finlande, une première en pleine mer Baltique selon la BBC. Parallèlement, des données dérobées à l'agence russe des statistiques portent à environ 500 000 le bilan des soldats russes tués, selon Courrier International. Pour les Européens, entrer dans la négociation, c'est défendre leur propre sécurité au moment où se jouent les conditions d'un cessez-le-feu et l'avenir de l'Ukraine au sein du continent.",
+      "sources": [
+        "BBC World",
+        "Le Monde - International",
+        "Courrier International",
+        "RFI"
+      ],
+      "publishedAt": "2026-11-13T02:01:35.000Z"
+    },
+    {
+      "id": "2026-11-13-02",
+      "category": "geopolitique",
+      "title": "Trump menace de doubler les droits de douane sur le Mexique",
+      "imageUrl": "https://s.france24.com/media/display/e525a938-deaf-11f1-8a80-29048b396e03/w:1024/p:16x9/FR-20261112-160327-160936-CS.jpg",
+      "location": {
+        "lat": 16.75,
+        "lng": -93.12,
+        "name": "Chiapas, Mexique"
+      },
+      "bullets": [
+        "Le président américain menace de doubler les droits de douane imposés au Mexique.",
+        "Une caravane de migrants partie du Honduras a franchi dimanche la frontière mexicaine.",
+        "Donald Trump présente la surtaxe comme un moyen de pression contre les flux migratoires.",
+        "Les migrants du convoi, au Chiapas, espèrent malgré tout rejoindre les États-Unis.",
+        "Un doublement des tarifs frapperait l'automobile et l'agroalimentaire, filières très intégrées."
+      ],
+      "execSummary": "Une caravane de migrants partie du Honduras a franchi sans difficulté la frontière mexicaine dimanche et traverse actuellement l'État du Chiapas, dans le sud du Mexique, rapporte Le Monde. Le groupe espère rejoindre les États-Unis. En réponse, Donald Trump a menacé de doubler les droits de douane imposés à son voisin du sud. L'avertissement intervient quelques jours après la défaite écrasante du Parti républicain aux élections de mi-mandat, où l'immigration était un thème central.\n\nDans la logique du président, le passage sans encombre de cette caravane prouve que le Mexique ne contrôle pas sa frontière sud. Les droits de douane deviennent un instrument de pression pour contraindre Mexico à arrêter les migrants bien avant la frontière américaine. Donald Trump a déjà utilisé cette arme commerciale lors de son premier mandat, obtenant alors le déploiement de forces mexicaines contre les caravanes. La fermeté migratoire reste aussi son meilleur levier pour remobiliser sa base après la déroute électorale.\n\nDu côté des organisations humanitaires et des critiques de cette politique, la menace est perçue comme un chantage confondant droit d'asile et guerre tarifaire. Les membres de ces caravanes fuient la pauvreté et les violences au Honduras, et demander l'asile reste un droit reconnu par les conventions internationales. Le gouvernement mexicain se retrouve coincé : céder reviendrait à adopter une posture de soumission, résister exposerait son économie à un conflit coûteux avec son principal client.\n\nLe Mexique est devenu le premier partenaire commercial des États-Unis : un doublement des tarifs frapperait d'abord l'automobile, l'agroalimentaire et l'électronique, des filières où les pièces franchissent plusieurs fois la frontière. Les économistes préviennent que les consommateurs américains paieraient une partie de la facture. La suite dépendra de la progression de la caravane, encore à plusieurs semaines de marche de la frontière, et de la réponse officielle de Mexico.",
+      "sources": [
+        "Le Monde - International",
+        "France 24",
+        "RFI"
+      ],
+      "publishedAt": "2026-11-13T00:01:12.000Z"
+    },
+    {
+      "id": "2026-11-13-03",
+      "category": "culture",
+      "title": "Mois sans tabac : la cigarette fait son retour à l'écran",
+      "imageUrl": "https://s.rfi.fr/media/display/f438ff10-ded2-11f1-9b25-29048b396e03/w:1024/p:16x9/gettyimages-631428334.jpg",
       "location": {
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "Paris, France"
       },
       "bullets": [
-        "La France a refusé mercredi l'entrée du territoire à Yossi Dagan.",
-        "Le dirigeant représente les colonies juives de Samarie, au nord de la Cisjordanie.",
-        "Le Quai d'Orsay invoque son « rôle actif » dans la politique de colonisation.",
-        "Le ministère israélien des affaires étrangères dénonce une mesure « inacceptable ».",
-        "L'incident survient dans un climat de tensions entre Israël et l'Europe."
+        "La cigarette, longtemps moins présente à l'écran, fait son retour au cinéma.",
+        "Le Mois sans tabac, organisé chaque novembre en France, relance ce débat.",
+        "Les études montrent que les contenus glamourisant la cigarette influencent le comportement des jeunes.",
+        "Le cinéma associe encore la cigarette à la liberté, la rébellion ou l'élégance.",
+        "Les campagnes antitabac doivent désormais contrer l'image positive véhiculée à l'écran."
       ],
-      "execSummary": "Yossi Dagan, dirigeant du conseil régional de Samarie, la structure qui représente les colonies juives du nord de la Cisjordanie occupée, s'est vu refuser l'entrée sur le territoire français à son arrivée, mercredi 11 novembre. Le ministère français des affaires étrangères a justifié cette décision par son « rôle actif dans la mise en œuvre de la politique de colonisation de la Cisjordanie », rapporte France 24. Selon Le Monde, cet incident intervient dans un climat de tensions entre l'État hébreu et les pays européens.\n\nCôté français, la décision s'inscrit dans une position constante : la colonisation des territoires palestiniens est illégale au regard du droit international. En interdisant de territoire un élu qui incarne cette politique, le Quai d'Orsay passe du principe diplomatique à la mesure concrète. Paris vise nommément le rôle joué par Dagan dans l'expansion des colonies, sans viser Israël en tant qu'État.\n\nCôté israélien, la réponse a été immédiate. Le ministère des affaires étrangères a dénoncé une mesure « inacceptable » et prévenu qu'« Israël va exiger des explications au gouvernement français et envisagera les suites à donner en conséquence ». Pour les colons que représente Dagan, la Samarie est un territoire biblique revendiqué, et leurs élus sont des représentants légitimes, pas des indésirables.\n\nLes « suites » évoquées par Israël pourraient aller de la convocation de l'ambassadeur de France à des mesures de réciprocité visant des responsables français. Au-delà de l'incident, ce refoullement marque un tournant : l'Europe glisse de la condamnation verbale de la colonisation vers des sanctions ciblées contre ses promoteurs. Ce précédent tracé par Paris pourrait faire école dans d'autres capitales européennes et alourdir encore des relations déjà tendues entre Israël et le continent, à moins qu'un compromis diplomatique n'éteigne la crise.",
+      "execSummary": "Chaque mois de novembre, la France organise le Mois sans tabac, une opération nationale qui encourage les fumeurs à arrêter. Cette année, la campagne s'accompagne d'un constat mis en avant par RFI : la cigarette fait son retour à l'écran. Longtemps très présente au cinéma, elle s'était raréfiée sous l'effet des politiques de lutte contre le tabagisme menées ces dernières décennies. Depuis quelques années, la tendance s'inverse et les personnages fumeurs se multiplient à nouveau dans les films et les contenus audiovisuels.\n\nDu côté de la santé publique, le message est clair. De nombreuses études montrent que voir des personnages fumer à l'écran banalise ou valorise la cigarette. Ces contenus agissent comme un facteur d'influence, en particulier auprès des jeunes, encore en train de construire leurs repères. Pour les spécialistes cités par RFI, les contenus qui glamourisent la cigarette ont un impact mesurable sur le comportement des adolescents et des jeunes adultes, ce qui fragilise les efforts de prévention menés depuis des années.\n\nDu côté du cinéma, la cigarette n'a jamais été un simple accessoire. Elle a longtemps occupé une place iconique, associée à la liberté, à la rébellion ou à l'élégance, des valeurs que certains réalisateurs continuent d'exploiter. Le retour actuel s'explique en partie par la nostalgie de cet âge d'or du cinéma, où la fumée faisait partie du langage visuel. Pour les défenseurs de la liberté artistique, montrer un personnage en train de fumer relève d'un choix esthétique, pas d'une publicité déguisée pour le tabac.\n\nPour les autorités sanitaires, la partie se joue d'abord auprès des plus jeunes, le public le plus sensible à ces images. Chaque retour de la cigarette à l'écran complique le travail des campagnes comme le Mois sans tabac, qui doivent déconstruire une imagerie positive diffusée à grande échelle. Le débat dépasse la France : il interroge la responsabilité des studios, des plateformes de streaming et des réseaux sociaux dans la normalisation du tabac. Entre liberté de création et protection des mineurs, la frontière reste à tracer.",
       "sources": [
-        "Le Monde - International",
-        "France 24"
+        "RFI",
+        "France 24",
+        "Le Monde - International"
       ],
-      "publishedAt": "2026-11-12T02:36:03.000Z"
+      "publishedAt": "2026-11-12T23:05:18.000Z"
     },
     {
-      "id": "2026-11-12-02",
+      "id": "2026-11-13-04",
       "category": "geopolitique",
-      "title": "Paraguay : les épargnants de Ueno Bank en partie remboursés",
-      "imageUrl": "https://s.rfi.fr/media/display/64e26aba-de26-11f1-bffe-29048b396e03/w:1024/p:16x9/000-D76X7G9.jpg",
+      "title": "Éthiopie : le Tigré entre nouveau conflit et sécheresse",
+      "imageUrl": "https://s.rfi.fr/media/display/de147084-dee1-11f1-a9bd-3f371022a770/w:1024/p:16x9/Aragure1-s%C3%A9cheresse.jpg",
       "location": {
-        "lat": -25.2637,
-        "lng": -57.5759,
-        "name": "Asunción, Paraguay"
+        "lat": 13.4967,
+        "lng": 39.4769,
+        "name": "Tigré, Éthiopie"
       },
       "bullets": [
-        "La Banque centrale rembourse partiellement plus de 1,8 million d'épargnants de Ueno Bank.",
-        "La banque en ligne était sous administration judiciaire depuis début novembre pour insolvabilité.",
-        "L'effondrement de Ueno Bank a provoqué la chute du président paraguayen.",
-        "Les plus gros déposants devront patienter avant de récupérer l'intégralité de leurs fonds.",
-        "La majeure partie des fonds déposés reste bloquée, selon RFI et Le Monde."
+        "L'armée éthiopienne contrôle désormais la plupart des grandes villes du Tigré.",
+        "Le nouveau conflit a éclaté le 23 septembre dans cette région du nord.",
+        "Le TPLF ne semble plus capable de riposter, selon la BBC.",
+        "La sécheresse a détruit plus de 252 500 hectares de cultures en 2026.",
+        "La région, meurtrie par la guerre de 2020-2022, risque une crise alimentaire."
       ],
-      "execSummary": "La Banque centrale du Paraguay (BCP) a annoncé mercredi 11 novembre avoir restitué au moins une partie de leurs avoirs à la totalité des épargnants de Ueno Bank, soit plus de 1,8 million de personnes. Cette banque en ligne avait été placée sous administration judiciaire début novembre en raison de problèmes de solvabilité. Selon Le Monde comme RFI, la plus grande partie des fonds déposés reste toutefois en attente de récupération, et les plus gros déposants devront patienter avant d'espérer retrouver l'intégralité de leur argent.\n\nDu côté des autorités monétaires, l'opération est présentée comme un geste de protection des épargnants et de stabilisation du système financier. En remboursant partiellement tous les clients, y compris les plus modestes, la Banque centrale cherche à éviter une crise de confiance généralisée qui pourrait déclencher des retraits massifs dans d'autres établissements. La priorité donnée aux petits déposants traduit une logique sociale : ce sont eux qui dépendent le plus de ces économies au quotidien.\n\nL'affaire a néanmoins révélé de graves défaillances de supervision. L'effondrement de Ueno Bank a provoqué une crise politique majeure qui a entraîné la chute du président du Paraguay, signe que le scandale dépasse largement la sphère bancaire. Les critiques pointent les carences du contrôle des banques en ligne, qui ont attiré des millions de clients sans que les autorités n'anticipent la faillite. Les gros déposants, entreprises ou particuliers fortunés, restent pour l'instant les grands perdants de la séquence.\n\nPlus de 1,8 million de comptes concernés : l'ampleur du remboursement illustre à quel point la finance numérique s'est diffusée dans un pays où la banque en ligne séduisait une population jeune et peu bancarisée. Pour la Banque centrale, la facture de l'intervention pourrait peser lourd sur ses réserves, et la question du financement du reliquat reste entière. La crise laissera aussi des traces politiques durables : la succession présidentielle et la réforme de la supervision bancaire s'annoncent comme les prochains fronts, sous la surveillance d'une opinion publique échaudée.",
-      "sources": [
-        "Le Monde - International",
-        "RFI"
-      ],
-      "publishedAt": "2026-11-12T01:40:31.000Z"
-    },
-    {
-      "id": "2026-11-12-03",
-      "category": "geopolitique",
-      "title": "Scott Colom, premier sénateur noir du Mississippi en 150 ans",
-      "imageUrl": "https://s.rfi.fr/media/display/4bf6b938-de2c-11f1-97a3-29048b396e03/w:1024/p:16x9/2026-11-04T061009Z-400192983-RC2NGOAD05HX-RTRMADP-3-USA-ELECTION-MISSISSIPPI.jpg",
-      "location": {
-        "lat": 32.2988,
-        "lng": -90.1848,
-        "name": "Jackson, Mississippi, États-Unis"
-      },
-      "bullets": [
-        "Le démocrate Scott Colom remporte le siège de sénateur du Mississippi.",
-        "Le procureur de 43 ans a battu de justesse la républicaine sortante Cindy Hyde-Smith.",
-        "Le Mississippi n'avait pas élu de sénateur noir depuis près de 150 ans.",
-        "Les démocrates renforcent leur majorité au Sénat grâce à cette victoire historique.",
-        "Aucun démocrate ne représentait cet État conservateur au Sénat depuis 1989."
-      ],
-      "execSummary": "Le démocrate Scott Colom a remporté le siège de sénateur du Mississippi, selon les projections de l'agence Associated Press relayées mercredi. Ce procureur de district de 43 ans a battu de justesse la sénatrice républicaine sortante, Cindy Hyde-Smith, dans cet État du Sud traditionnellement conservateur. Il devient le premier Noir élu au Sénat par le Mississippi depuis près de 150 ans, aucun Afro-Américain n'ayant représenté cet État à la chambre haute depuis la Reconstruction, au lendemain de la guerre de Sécession.\n\nLa portée du scrutin dépasse le seul Mississippi. L'État compte la plus forte proportion de population noire du pays, sans avoir jamais élu de sénateur noir depuis le XIXe siècle. Aucun démocrate ne le représentait plus au Sénat depuis 1989. Cette victoire prolonge la vague démocrate des élections de mi-mandat de novembre 2026, qui avait déjà permis à l'opposition de consolider son emprise sur le Congrès face à l'administration républicaine.\n\nLes rédactions internationales insistent sur le caractère historique du résultat. La BBC rappelle qu'aucun Noir n'avait été élu sénateur de cet État depuis plus de 140 ans. Le Monde souligne l'étroitesse de l'écart face à la sortante républicaine dans un bastion conservateur. France 24 constate que les démocrates renforcent leur majorité au Sénat grâce à ce siège, tandis que RFI relève la dimension symbolique de cette victoire dans un État du Sud marqué par son passé ségrégationniste.\n\nLa majorité démocrate élargie à la chambre haute réduit d'autant la marge de manœuvre de l'administration Trump: nominations, budgets et engagements militaires devront composer avec un Sénat renforcé jusqu'à la présidentielle de 2028. La victoire de Scott Colom offre aussi aux démocrates une tête d'affiche inédite dans le Sud profond, une région longtemps jugée imperméable au parti, et nourrit le débat sur la recomposition électorale des États du Sud américain.",
+      "execSummary": "Un nouveau conflit a éclaté le 23 septembre dans le Tigré, région du nord de l'Éthiopie, et l'armée fédérale a depuis pris le contrôle de la plupart des grandes villes de la région, selon la BBC. Parallèlement, le Tigré subit cette année une sécheresse particulièrement grave : entre juin et août, les précipitations ont représenté moins de 60 % de la moyenne saisonnière. Selon les autorités régionales citées par RFI, plus de 252 500 hectares de cultures ont été brûlés ou détruits en 2026, avec un bilan particulièrement critique dans l'est de la région.\n\nCette double crise frappe une région encore meurtrie par la guerre de 2020-2022 entre le gouvernement fédéral et le Front de libération du peuple du Tigré (TPLF), qui a fait des centaines de milliers de morts et plongé la population dans des conditions proches de la famine. L'accord de Pretoria, signé en novembre 2022, avait mis fin aux combats majeurs sans restaurer une stabilité durable. La reprise des hostilités, combinée à l'effondrement des récoltes, menace directement la sécurité alimentaire d'une population déjà fragilisée par des années de crise.\n\nLa BBC décrit une situation de « ni guerre ni paix », soulignant qu'il est impossible de savoir si le TPLF conserve la capacité de riposter face à l'avancée de l'armée fédérale. Côté humanitaire, RFI rapporte les témoignages d'agriculteurs de l'est du Tigré dont les cultures ont brûlé faute de pluie, avec un bilan jugé très préoccupant par les autorités régionales. Aucune réaction internationale majeure n'a encore été signalée par les sources disponibles.\n\nPour les paysans tigréens, l'équation est immédiate : sans récoltes, la dépendance à l'aide alimentaire va s'aggraver dans les prochains mois. Au-delà de la crise humanitaire, une reprise durable des combats dans cette région stratégique de la Corne de l'Afrique pourrait déstabiliser l'Éthiopie tout entière et raviver les tensions avec l'Érythrée voisine, impliquée dans la guerre précédente. L'acheminement de l'aide humanitaire, déjà âprement négocié entre 2020 et 2022, constituera le premier test de la réponse internationale.",
       "sources": [
         "BBC World",
-        "Le Monde",
-        "RFI",
-        "France 24"
+        "RFI"
       ],
-      "publishedAt": "2026-11-12T03:57:58.000Z"
+      "publishedAt": "2026-11-13T03:57:01.000Z"
     },
     {
-      "id": "2026-11-12-04",
+      "id": "2026-11-13-05",
       "category": "tech",
-      "title": "Nvidia : le conseil s'apprête à licencier Jensen Huang",
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Jensen Huang quitte Nvidia, Colette Kress assure l'intérim",
+      "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/nvidia-jensen-huang-2.png?resize=1600,900&key=231c7260",
       "location": {
-        "lat": 37.3707,
-        "lng": -121.9637,
+        "lat": 37.3688,
+        "lng": -121.9689,
         "name": "Santa Clara, Californie"
       },
       "bullets": [
-        "Le conseil d'administration de Nvidia se réunit pour décider du sort de Jensen Huang",
-        "Le FBI enquête pendant que le conseil tient des discussions urgentes",
-        "Une seconde liaison présumée vise la vice-présidente de Nvidia, Kimberly Powell",
-        "La direction de Nvidia refuse tout commentaire, Donald Trump affiche son indifférence",
-        "L'avenir du leader mondial des puces d'IA se joue en interne"
+        "Le cofondateur Jensen Huang a démissionné de Nvidia le 12 novembre.",
+        "La directrice financière Colette Kress assure l'intérim à la tête du groupe.",
+        "Le président Trump propose l'ancien patron d'Apple Tim Cook comme successeur.",
+        "Des figures de la tech défendent Huang, qualifiant sa démission d'erreur.",
+        "La succession permanente du premier fabricant mondial de puces d'IA reste ouverte."
       ],
-      "execSummary": "Le conseil d'administration de Nvidia se prépare à limoger son cofondateur et directeur général Jensen Huang, selon des informations du Wall Street Journal relayées par The Verge. La réunion décisive pourrait se tenir dès aujourd'hui. Ars Technica précise que le FBI enquête de son côté. Ce coup de théâtre fait suite aux révélations du New York Times sur une seconde liaison extraconjugale présumée du patron, cette fois avec Kimberly Powell, vice-présidente de Nvidia en charge de la santé, qui lui rapporte directement. Quelques jours plus tôt, Jensen Huang avait reconnu une première liaison avec une femme d'affaires chinoise soupçonnée par les services américains d'espionner pour Pékin.\n\nL'affaire a déjà coûté plus de 400 milliards de dollars de capitalisation au géant des semi-conducteurs. Fondé en 1993, Nvidia est devenu sous la houlette de Jensen Huang l'entreprise la plus stratégique de la guerre technologique que se livrent les États-Unis et la Chine, analyse Le Monde. La nouvelle relation présumée, interne et hiérarchiquement subordonnée, pose en outre un problème de gouvernance classique, distinct du volet d'espionnage.\n\nSollicitée par The Verge, la direction de Nvidia n'a pas répondu aux demandes de commentaires. Selon Le Monde, Donald Trump affiche pour l'instant une forme d'indifférence face à la tourmente qui frappe le champion américain des puces, alors que son administration a fait de la domination sur l'intelligence artificielle une priorité. Les discussions du conseil se déroulent dans l'urgence, signe que la crise est jugée existentielle en interne.\n\nLa décision du conseil pourrait tomber dans les prochaines heures et dessiner l'après-Huang chez le premier fabricant mondial de puces d'IA. Un départ du fondateur, encore incarnation de la marque, plongerait l'entreprise dans une transition inédite en pleine course aux investissements dans l'intelligence artificielle. Sur le plan géopolitique, l'affaire fragilise la position américaine dans le contrôle des exportations de puces vers la Chine, dossier où la crédibilité de Nvidia était déjà mise à rude épreuve. Les investisseurs, échaudés par une semaine noire en Bourse, attendent un signal clair sur la gouvernance du groupe.",
+      "execSummary": "Jensen Huang, cofondateur et visage historique de Nvidia, a démissionné jeudi 12 novembre 2026 de ses fonctions de directeur général et quitte le conseil d'administration avec effet immédiat. Colette Kress, directrice financière du groupe depuis 2013, prend les commandes du géant de l'intelligence artificielle par intérim, selon Numerama et Ars Technica. L'annonce fait suite aux révélations de presse sur deux liaisons extraconjugales du dirigeant, dont une avec une cheffe d'entreprise soupçonnée d'espionnage pour le compte de Pékin.\n\nCette démission clôt une semaine de crise déjà documentée : soupçons d'espionnage chinois, enquête du FBI confirmée par Donald Trump, convocation au Congrès et 400 milliards de dollars de capitalisation envolés. La chute est spectaculaire pour celui qui avait fait de Nvidia le premier fournisseur mondial de puces pour l'IA et l'une des plus grosses valorisations boursières de la planète. L'entreprise se retrouve pour la première fois en trois décennies sans son cofondateur à la barre, au moment où la demande mondiale en puces d'IA n'a jamais été aussi forte.\n\nLes réactions n'ont pas tardé. Sur Truth Social, Donald Trump a affirmé qu'« un seul homme » pouvait reprendre Nvidia : Tim Cook, l'ancien patron d'Apple, qui a quitté la direction du groupe le 1er septembre pour un rôle de président exécutif. Le président américain a salué le « travail fantastique » accompli par Jensen Huang malgré le scandale. Dans la Silicon Valley, plusieurs voix éminentes ont pris la défense du dirigeant déchu, certains qualifiant sa démission d'« erreur », rapporte The Verge.\n\nColette Kress hérite d'une succession que rien ne préparait : forte de treize ans aux finances du groupe, elle devra rassurer des investisseurs ébranlés pendant que le conseil d'administration cherche un dirigeant permanent. L'appui présidentiel à Tim Cook introduit une ingérence politique inédite dans la gouvernance d'une entreprise jugée stratégique pour la sécurité américaine. Le choix final conditionnera la suite de la course mondiale aux puces d'IA, où toute paralysie prolongée de Nvidia profiterait à ses concurrents directs comme à Pékin.",
       "sources": [
         "The Verge",
+        "Numerama",
         "Ars Technica",
         "Le Monde - Pixels"
       ],
-      "publishedAt": "2026-11-11T23:10:17.000Z"
+      "publishedAt": "2026-11-13T00:46:07.000Z"
     },
     {
-      "id": "2026-11-12-05",
+      "id": "2026-11-13-06",
       "category": "eco",
-      "title": "Trump confirme que le FBI enquête sur le patron de Nvidia",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+      "title": "L'économie britannique croît au plus vite depuis deux ans",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
       "location": {
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "name": "Washington"
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "Londres, Royaume-Uni"
       },
       "bullets": [
-        "Le président Trump affirme que le FBI enquête sur la liaison de Jensen Huang.",
-        "Le chef de l'Etat dit avoir interrogé le patron de Nvidia lundi.",
-        "Le groupe Nvidia a engagé un grand cabinet d'avocats pour enquêter.",
-        "Des crises semblables ont déjà ébranlé Nestlé et McDonald's, selon RFI.",
-        "L'enquête fragilise le premier fournisseur mondial de puces pour l'IA."
+        "Le PIB britannique a progressé de 0,7 % au troisième trimestre.",
+        "La croissance trimestrielle est la plus rapide du Royaume-Uni depuis plus de deux ans.",
+        "L'économiste Faisal Islam juge cette résilience surprenante mais potentiellement fragile.",
+        "Le Conseil allemand des experts économiques alerte Berlin sur l'envolée de la dette publique.",
+        "L'économie allemande va mieux que l'économie française mais la dette inquiète les experts."
       ],
-      "execSummary": "Donald Trump a annoncé que le FBI enquête sur la relation entre Jensen Huang, le patron de Nvidia, et une femme soupçonnée d'être un agent chinois. Le président américain a précisé s'être entretenu directement avec le dirigeant lundi pour l'interroger sur cette liaison. Dans le même temps, Nvidia a engagé un grand cabinet d'avocats américain pour conduire une investigation interne sur cette affaire.\n\nL'affaire, qui a déjà provoqué la convocation du dirigeant au Congrès et une chute historique du titre en Bourse, touche le coeur de la puissance technologique américaine. Nvidia fabrique les puces de pointe indispensables au développement mondial de l'intelligence artificielle, ce qui confère à son patron une position unique. Selon l'analyse de Faisal Islam pour la BBC, Jensen Huang compte désormais davantage pour l'ordre mondial que n'importe quel autre dirigeant de la tech, tant son entreprise cristallise la rivalité entre Washington et Pékin.\n\nL'intervention publique de Donald Trump marque une montée en puissance : la Maison-Blanche s'implique directement dans un dossier de sécurité nationale. Nvidia tente de son côté de reprendre la main en confiant une enquête à un cabinet d'avocats extérieur, un signal destiné aux investisseurs comme aux parlementaires. RFI replace cette crise dans une série plus large où la vie privée des dirigeants menace leur entreprise, citant les précédents de Nestlé et de McDonald's, où des relations personnelles ont provoqué de véritables crises de gouvernance.\n\nL'enquête du FBI déterminera si Jensen Huang peut conserver la confiance du Congrès et des marchés. Si les soupçons d'espionnage se confirmaient, les ventes de puces de Nvidia vers la Chine, déjà encadrées, pourraient être encore restreintes, avec un impact lourd sur ses revenus. Toute la filière américaine de l'intelligence artificielle dépend de la stabilité de son premier fournisseur de semi-conducteurs, et les investisseurs scrutent chaque développement d'une affaire devenue sujet d'Etat.",
+      "execSummary": "L'économie britannique a progressé de 0,7 % au cours des trois mois jusqu'à septembre, selon les chiffres officiels publiés cette semaine. Il s'agit du rythme de croissance trimestrielle le plus rapide enregistré par le Royaume-Uni depuis plus de deux ans. De l'autre côté de la Manche, le rapport annuel du Conseil allemand des experts économiques, remis jeudi au chancelier Friedrich Merz, confirme également une reprise de l'activité outre-Rhin, où l'économie se porte désormais mieux qu'en France.\n\nCes performances surprennent dans un environnement monétaire restrictif : la Banque d'Angleterre a relevé récemment son taux directeur à 4 %, une première en trois ans. La résilience britannique tranche avec les anticipations de ralentissement qui dominaient après le resserrement monétaire. En Allemagne, la reprise s'accompagne toutefois d'une envolée des dépenses publiques, en particulier dans le secteur de la défense, qui alimente une progression rapide de l'endettement.\n\nSur la BBC, le chef économiste Faisal Islam salue une croissance impressionnante tout en s'interrogeant ouvertement sur sa pérennité. À Berlin, les experts économiques qui conseillent le gouvernement tirent la sonnette d'alarme : ils redoutent que la hausse des dépenses publiques ne débouche sur une « crise budgétaire » d'envergure, malgré des fondamentaux économiques en amélioration.\n\nPour le chancelier Merz, ce rapport transforme l'équation budgétaire allemande en dossier politique prioritaire, à l'heure où le réarmement absorbe une part croissante des finances publiques. À Londres, la question est de savoir si l'élan actuel survivra au maintien de taux élevés qui renchérissent le crédit immobilier et l'investissement. La divergence entre un Royaume-Uni et une Allemagne en accélération et une France à la traîne pourrait enfin rebattre les cartes du débat économique européen, alors que les marges budgétaires se réduisent partout.",
       "sources": [
         "BBC Business",
-        "RFI - Économie"
+        "Le Monde - Économie"
       ],
-      "publishedAt": "2026-11-12T04:00:13.000Z"
+      "publishedAt": "2026-11-13T01:30:31.000Z"
     }
   ]
 }
