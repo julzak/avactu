@@ -1,308 +1,242 @@
 {
-  "generatedAt": "2026-11-13T04:01:17.507Z",
+  "generatedAt": "2026-11-14T04:00:52.253Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-4",
-      "topic": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "id": "cluster-1",
+      "topic": "Après plusieurs heures de suspension des vols, les États-Unis rouvrent leur espa",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-13-c4e104b7",
-          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
-          "source": "BBC World",
+          "id": "2026-11-14-bdc914da",
+          "title": "Après plusieurs heures de suspension des vols, les États-Unis rouvrent leur espace aérien",
+          "description": "Des milliers de vols ont été annulés vendredi après-midi aux États-Unis après la fermeture de l'espace aérien au niveau national. Les vols ont de nouveau été autorisés dans la soirée, mais le retour à la normale sera progressif. Écartant la piste d'une cyberattaque, le ministre des Transports a pointé vers la responsabilité de \"vieux matériel\" informatique, en réclamant de nouveaux moyens au Congrès.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261114-etats-unis-suspension-des-vols-reouverture-espace-aerien-faa",
+          "imageUrl": "https://s.france24.com/media/display/5694e280-dfd4-11f1-9e3b-5f54d898a954/w:1024/p:16x9/AP26196667132088.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-13T02:01:35.000Z",
-          "fetchedAt": "2026-11-13T04:01:09.336Z"
+          "publishedAt": "2026-11-14T02:42:17.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.696Z"
         },
         {
-          "id": "2026-11-13-762b07df",
-          "title": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
-          "description": "Jared Kushner et Steve Witkoff, les émissaires des Etats-Unis pour les négociations sur le conflit entre la Russie et l’Ukraine, ont rencontré le président ukrainien, jeudi soir à Dublin, après avoir fait étape à Moscou pour des entretiens avec son homologue russe, Vladimir Poutine.",
-          "url": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-presence-des-europeens-dans-les-prochaines-negociations-de-paix-annoncee-par-volodymyr-zelensky-et-les-emissaires-americains_6808609_3210.html",
+          "id": "2026-11-14-db3b5544",
+          "title": "Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »",
+          "description": "Un dysfonctionnement affectant les centres régionaux de contrôle aérien a conduit les autorités à suspendre les vols dans tout le pays, vendredi, pendant plusieurs heures. Le secrétaire aux transports, Sean Duffy, a accusé du « vieux matériel » des « années 1980 » d’être responsable de cet incident.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-13T01:06:43.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.557Z"
+          "publishedAt": "2026-11-14T02:31:51.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.656Z"
         },
         {
-          "id": "2026-11-12-88784d92",
-          "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-          "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
-          "source": "BBC World",
+          "id": "2026-11-14-958c9f3b",
+          "title": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, jeudi en Chine",
+          "description": "Washington a précisé que les discussions des trois présidents, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire. Selon un responsable américain s’exprimant sous couvert d’anonymat, l’Iran sera aussi au menu de la rencontre, mais pas l’Ukraine.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-12T20:09:16.000Z",
-          "fetchedAt": "2026-11-13T04:01:09.336Z"
+          "publishedAt": "2026-11-14T01:49:53.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.656Z"
         },
         {
-          "id": "2026-11-12-1f0398a7",
-          "title": "Pour la délégation russe à Abou Dhabi, les Européens sont “venus en touristes”",
-          "description": "Les pourparlers entre Russes et Ukrainiens à Abou Dhabi, organisés les 10 et 11 novembre sous l’égide des États-Unis, ont abouti à la promesse d’un vaste échange de prisonniers entre les deux pays. Pour le reste, la perspective d’une paix durable demeure bien lointaine, observe la presse russe. Ce jeudi 12 novembre, deux émissaires américains se sont rendus à Moscou pour s’entretenir avec Vladimir Poutine.",
-          "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-pour-la-delegation-russe-a-abou-dhabi-les-europeens-sont-venus-en-touristes_286643",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/12/0/0/1023/682/1200/630/60/0/f0cbc5f_upload-1-x17tu4qfj8rq-000-d7a96c3.jpg",
+          "id": "2026-11-13-9431ba48",
+          "title": "Rugby : les Bleus signent un succès majeur face aux Springboks",
+          "description": "Le XV de France a remporté une victoire majuscule, la plus marquante depuis le Mondial 2023, en battant les doubles champions du monde sud-africains vendredi au Stade de France (21-19). Malgré de nombreuses blessures, l'équipe de France a su rivaliser, en conservant jusqu'au bout l'avance acquise lors d'une première mi-temps flamboyante.",
+          "url": "https://www.france24.com/fr/sports/20261113-rugby-les-bleus-signent-un-succ%C3%A8s-majeur-face-aux-springboks",
+          "imageUrl": "https://s.france24.com/media/display/7b82380c-dfb3-11f1-bd1e-5f54d898a954/w:1024/p:16x9/000-D7FG2AX.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-13T23:03:59.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.696Z"
+        },
+        {
+          "id": "2026-11-13-17019da0",
+          "title": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
+          "description": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’ont été touchés », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se situe à Lakenheath, dans l’est de l’Angleterre.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-13T22:51:25.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.656Z"
+        },
+        {
+          "id": "2026-11-13-611e1377",
+          "title": "JOJ de Dakar, clap de fin : succès et satisfaction pour une première en Afrique",
+          "description": "Clap de fin aux 4e Jeux Olympique de la Jeunesse Dakar 2026. Après deux semaines de compétition 5 pays africains se sont classés dans le top 10 du classement des médailles à savoir l'Egypte, l'Ethiopie, le Senegal, le Kenya et l'Afrique du Sud, une première dans l'histoire des jeux. Les athlètes et encadreurs ont manifesté leur entière satisfaction sur l'organisation de ce premier évènement olympique en Afrique.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261113-joj-de-dakar-clap-de-fin-succ%C3%A8s-et-satisfaction-pour-une-premi%C3%A8re-en-afrique",
+          "imageUrl": "https://s.france24.com/media/display/6d0a012e-dfae-11f1-9ea5-695cb59fade5/w:1024/p:16x9/DN197996-A-01-20261103-01.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-13T22:30:04.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.696Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-5",
+      "topic": "Après la Finlande et la Norvège, la Suède veut à son tour empêcher les athlètes ",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-14-6cefc102",
+          "title": "Après la Finlande et la Norvège, la Suède veut à son tour empêcher les athlètes russes de concourir sur son sol",
+          "description": "Stockholm souhaite présenter prochainement une « solution consistant à refuser l’entrée de son territoire aux athlètes russes », a annoncé le ministre des affaires sociales et de la santé publique, Jakob Forssmed. La mesure devrait être effective avant les championnats du monde de ski nordique, en février.",
+          "url": "https://www.lemonde.fr/sport/article/2026/11/14/apres-la-finlande-et-la-norvege-la-suede-veut-a-son-tour-empecher-les-athletes-russes-de-concourir-sur-son-sol_6809422_3242.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-14T00:21:48.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.656Z"
+        },
+        {
+          "id": "2026-11-13-42d3dbb6",
+          "title": "Russie : comment le FSB est devenu encore plus puissant que ses ancêtres, le KGB et la Tcheka",
+          "description": "Successeur du KGB soviétique, le FSB, service fédéral chargé officiellement d’assurer la sécurité intérieure, exerce aujourd’hui un pouvoir inégalé dans l’histoire de la Russie moderne, constate cet avocat dans le média russe indépendant “Republic”. Il décrit le fonctionnement d’un organe omniscient qui a fait du procès pour haute trahison un impitoyable instrument de répression politique.",
+          "url": "https://www.courrierinternational.com/article/decryptage-russie-comment-le-fsb-est-devenu-encore-plus-puissant-que-ses-ancetres-le-kgb-et-la-tcheka_256380_1",
+          "imageUrl": "https://focus.courrierinternational.com/2026/09/29/0/0/4771/3180/1200/630/60/0/1019719_upload-1-6znk6kbtvckz-00028312-haysom-ok.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-12T16:54:37.000Z",
-          "fetchedAt": "2026-11-13T04:01:03.184Z"
-        },
-        {
-          "id": "2026-11-12-c246e6ba",
-          "title": "Une fuite de données massive révèle l’ampleur des pertes militaires russe en Ukraine",
-          "description": "Des pirates informatiques affirment avoir dérobé des millions de certificats de décès à l’agence russe des statistiques. Leur publication, examinée par plusieurs médias internationaux, suggère qu’environ 500 000 soldats russes ont été tués en Ukraine depuis le début de l’invasion.",
-          "url": "https://www.courrierinternational.com/article/guerre-une-fuite-de-donnees-massive-revele-l-ampleur-des-pertes-militaires-russe-en-ukraine_286749",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/12/168/0/4032/2688/1200/630/60/0/d500203_upload-1-krxc6bjrwagr-000-79hg2nq.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-12T15:43:05.000Z",
-          "fetchedAt": "2026-11-13T04:01:03.184Z"
-        },
-        {
-          "id": "2026-11-12-6d08e473",
-          "title": "Guerre en Ukraine: Vladimir Poutine se montre inflexible lors de sa rencontre avec les envoyés étatsuniens",
-          "description": "Au lendemain de deux journées de discussions à Abou Dhabi entre représentants de la Russie et de l’Ukraine sous médiation des États-Unis, les émissaires de Donald Trump sont à Moscou jeudi 12 novembre. Le président russe Vladimir Poutine s'est toutefois montré inflexible sur ses exigences pour mettre fin au conflit en Ukraine. Les émissaires doivent désormais se rendre à Dublin où sont réunis les responsables politiques européens et le président ukrainien. Une nouvelle séquence diplomatique avec en toile de fond non seulement la guerre en Ukraine mais aussi la sécurité européenne.",
-          "url": "https://www.rfi.fr/fr/europe/20261112-guerre-ukraine-mediateurs-etats-unis-moscou-dublin-conseil-politique-ue-zelensky",
-          "imageUrl": "https://s.rfi.fr/media/display/4555714c-dead-11f1-a770-5f54d898a954/w:1024/p:16x9/2026-11-12T132354Z-567071639-RC2DMOAP8WV6-RTRMADP-3-UKRAINE-CRISIS-TALKS-MOSCOW.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-12T13:27:06.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.802Z"
+          "publishedAt": "2026-11-13T11:46:30.000Z",
+          "fetchedAt": "2026-11-14T04:00:30.487Z"
         }
       ]
     },
     {
-      "id": "cluster-7",
-      "topic": "Donald Trump menace de doubler les droits de douane imposés au Mexique après l’a",
+      "id": "cluster-21",
+      "topic": "Éliminatoires CAN 2027: le Mali renverse le Rwanda, le Maroc domine le Niger ave",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-13-9f044020",
-          "title": "Donald Trump menace de doubler les droits de douane imposés au Mexique après l’arrivée d’une caravane de migrants",
-          "description": "Parti du Honduras, le groupe a franchi sans difficulté la frontière mexicaine dimanche et traverse actuellement l’Etat du Chiapas, dans le sud du pays. Il espère rejoindre les Etats-Unis, où le Parti républicain du président a subi une défaite écrasante aux midterms.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/donald-trump-menace-de-doubler-les-droits-de-douane-imposes-au-mexique-apres-l-arrivee-d-une-caravane-de-migrants_6809192_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-13T00:01:12.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.557Z"
-        },
-        {
-          "id": "2026-11-12-a5179f3d",
-          "title": "États-Unis : Donald Trump retire le dossier de la guerre en Iran à JD Vance",
-          "description": "Le président américain a affirmé jeudi 12 novembre ne pas \"avoir besoin d'un accord avec l'Iran\". Dans le même message, Donald Trump dit avoir demandé à son vice-président JD Vance de concentrer ses efforts sur \"la corruption et le crime massifs\" dans les États et villes gérés par les démocrates, qu'il qualifie de \"désastres corrompus\". Les précisions de Matthieu Mabin, correspondant France 24 à Washington.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-donald-trump-retire-le-dossier-de-la-guerre-en-iran-%C3%A0-jd-vance",
-          "imageUrl": "https://s.france24.com/media/display/e525a938-deaf-11f1-8a80-29048b396e03/w:1024/p:16x9/FR-20261112-160327-160936-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-12T16:38:21.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.780Z"
-        },
-        {
-          "id": "2026-11-12-3b79486b",
-          "title": "États-Unis: un tireur fait au moins un mort et quatre blessés à Washington",
-          "description": "Un tireur a fait un mort et quatre blessés jeudi 12 novembre dans un quartier commerçant et résidentiel de la capitale américaine, Washington, situé non loin de la Maison Blanche, a indiqué la police locale.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-%C3%A9tats-unis-un-tireur-fait-au-moins-un-mort-et-quatre-bless%C3%A9s-%C3%A0-washington",
-          "imageUrl": "https://s.rfi.fr/media/display/7e59b642-deb2-11f1-b391-29048b396e03/w:1024/p:16x9/AP26316520660293.jpg",
+          "id": "2026-11-13-088bbab3",
+          "title": "Éliminatoires CAN 2027: le Mali renverse le Rwanda, le Maroc domine le Niger avec un doublé d'Hakimi",
+          "description": "Le Maroc n'est plus très loin de valider son billet pour la CAN 2027 grâce à sa victoire à domicile 5-1 contre le Niger, ce vendredi. Dans le groupe K, le Mali aussi a fait un pas vers la qualification en arrachant une victoire contre le Rwanda 3-2, au bout d'un scénario mal embarqué.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-mali-renverse-le-rwanda-le-maroc-domine-le-niger-avec-un-doubl%C3%A9-d-hakimi",
+          "imageUrl": "https://s.rfi.fr/media/display/fa36701e-dfae-11f1-ae73-f71d22e7fea9/w:1024/p:16x9/000-73KP6WZ.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-12T16:10:43.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.802Z"
+          "publishedAt": "2026-11-13T22:11:25.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.619Z"
+        },
+        {
+          "id": "2026-11-13-61655f15",
+          "title": "Éliminatoires de la CAN 2027 : le Mali arrache la victoire au Rwanda et prend déjà une option",
+          "description": "Le Mali a battu le Rwanda 3 à 2, vendredi, à Bamako, lors de la troisième journée des éliminatoires de la CAN 2027. Une victoire qui place les Aigles en tête du groupe K et dans un fauteuil pour se qualifier pour la Coupe d'Afrique.",
+          "url": "https://www.france24.com/fr/sports/20261113-eliminatoires-can-2027-mali-rwanda-groupe-k",
+          "imageUrl": "https://s.france24.com/media/display/2ed3c45e-dfa3-11f1-9c37-29048b396e03/w:1024/p:16x9/000-893R9D7.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-13T20:59:38.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.696Z"
+        },
+        {
+          "id": "2026-11-13-509ca94d",
+          "title": "Éliminatoires CAN 2027: le Burkina Faso gagne sur le fil, le Gabon enchaîne, la Tunisie s'enfonce",
+          "description": "Les éliminatoires de la CAN 2027 se poursuivent ce vendredi avec des victoires importantes du Gabon et du Burkina Faso contre le Lesotho et la Mauritanie. La Tunisie, en revanche, continue de montrer de grosses difficultés et s'est inclinée 2-0 à domicile contre la Libye. Pas de quoi mettre fin à tout espoir de qualification, mais assez pour tirer la sonnette d'alarme.",
+          "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-burkina-faso-gagne-sur-le-fil-le-gabon-encha%C3%AEne-la-tunisie-s-enfonce",
+          "imageUrl": "https://s.rfi.fr/media/display/997c0cc0-df8b-11f1-9add-29048b396e03/w:1024/p:16x9/000-89DB78D.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-13T18:20:24.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.619Z"
+        },
+        {
+          "id": "2026-11-13-ad18920f",
+          "title": "Éliminatoires de la CAN 2027 : le Nigeria se relance, la Tunisie chute et se met en danger",
+          "description": "La troisième journée des éliminatoires de la CAN 2027 continue. Le Nigeria s'est imposé à domicile face à la Tanzanie (3-1) tandis que la Tunisie s'est inclinée contre la Libye (0-2).",
+          "url": "https://www.france24.com/fr/sports/20261113-eliminatoires-can-2027-nigeria-relance-tunisie",
+          "imageUrl": "https://s.france24.com/media/display/645611f8-df8b-11f1-a5d4-695cb59fade5/w:1024/p:16x9/000-B7RD76R.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-13T18:01:57.000Z",
+          "fetchedAt": "2026-11-14T04:00:29.696Z"
         }
       ]
     },
     {
-      "id": "cluster-11",
-      "topic": "Mois sans tabac: «Les contenus qui glamourisent la cigarette ont un impact sur l",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-12-14de160e",
-          "title": "Mois sans tabac: «Les contenus qui glamourisent la cigarette ont un impact sur le comportement des jeunes»",
-          "description": "De nombreuses études montrent que voir des personnages fumer à l'écran banalise ou valorise la cigarette, agissant comme un facteur d'influence, en particulier auprès des jeunes. La cigarette a longtemps occupé une place iconique au cinéma, souvent associée à un symbole de liberté, de rébellion ou d'élégance. Si les politiques de lutte contre le tabagisme avaient permis d'en voir moins ces dernières décennies, elles reviennent depuis quelques années, notamment par nostalgie de cet âge d'or du cinéma.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261112-mois-sans-tabac-les-contenus-qui-glamourisent-la-cigarette-ont-un-impact-sur-le-comportement-des-jeunes",
-          "imageUrl": "https://s.rfi.fr/media/display/f438ff10-ded2-11f1-9b25-29048b396e03/w:1024/p:16x9/gettyimages-631428334.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-12T23:05:18.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.802Z"
-        },
-        {
-          "id": "2026-11-12-832db9e5",
-          "title": "À New York, l'effondrement d'un immeuble fait de nombreux morts et blessés",
-          "description": "Au moins huit personnes ont péri et 19 ont été blessées mercredi soir dans un quartier populaire de New York quand un immeuble de trois étages comptant quatre appartements et un local commercial est tombé sur un chantier d'excavation voisin, pendant que des ouvriers étaient en train de creuser.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-new-york-flatbush-effondrement-immeuble-morts-blesses",
-          "imageUrl": "https://s.france24.com/media/display/82abc90a-deea-11f1-8c96-29048b396e03/w:1024/p:16x9/AP26316296072440.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-12T22:48:09.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.780Z"
-        },
-        {
-          "id": "2026-11-12-669d6d31",
-          "title": "Eurovision Asia: 11 nations, un seul gagnant, et des sempiternelles frictions géopolitiques?",
-          "description": "Samedi 14 novembre marque le coup d'envoi de la toute première édition d'Eurovision Asie. Le concours de la chanson débarque en Thaïlande. Bangkok se prépare à accueillir 6 000 spectateurs et verra s'affronter 11 nations, principalement de l'Asie du Sud-Est. Mais la politique va-t-elle s'immiscer comme c'est le cas pour le concours européen ?",
-          "url": "https://www.rfi.fr/fr/musique/20261112-eurovision-asia-11-nations-un-seul-gagnant-et-des-sempiternelles-frictions-g%C3%A9opolitiques",
-          "imageUrl": "https://s.rfi.fr/media/display/94d3b30c-ded3-11f1-a986-5f54d898a954/w:1024/p:16x9/ESCA-GF-Stage-02.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-12T20:30:55.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.802Z"
-        },
-        {
-          "id": "2026-11-12-7e418438",
-          "title": "La Finlande annonce bloquer les visas des athlètes russes, la Norvège prévoit une mesure similaire",
-          "description": "Le ministère des affaires étrangères finlandais juge que « leur entrée sur le territoire constituerait une menace pour les relations internationales ». La Finlande accueillera les championnats du monde de patinage artistique en mars 2027, auxquels les athlètes concourant sous bannière neutre devaient initialement pouvoir prendre part.",
-          "url": "https://www.lemonde.fr/sport/article/2026/11/12/helsinki-annonce-bloquer-les-visas-des-athletes-russes-qui-n-ont-rien-a-faire-en-finlande-alors-que-s-y-profilent-les-championnats-du-monde-de-patinage-artistique_6809152_3242.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-12T18:31:25.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.557Z"
-        },
-        {
-          "id": "2026-11-12-cdddd33c",
-          "title": "Midterms dans le Mississipi : quand un électron libre du Parti démocrate marque l'Histoire",
-          "description": "Le candidat démocrate Scott Colom a remporté la course sénatoriale dans le Mississipi, devenant le premier sénateur noir de cet État ultra-conservateur depuis près de 150 ans. Une victoire historique pour ce procureur réputé pour son franc-parler, qui avait axé sa campagne sur le pouvoir d'achat et la \"reconquête\" de l'Amérique rurale.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-victoire-de-colom-dans-le-mississipi-quand-un-%C3%A9lectron-libre-du-parti-d%C3%A9mocrate-marque-l-histoire",
-          "imageUrl": "https://s.france24.com/media/display/47875b72-debe-11f1-b5c6-695cb59fade5/w:1024/p:16x9/AP26316221150293.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-12T18:18:50.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.780Z"
-        },
-        {
-          "id": "2026-11-12-68e10246",
-          "title": "Au Royaume-Uni, deux affaires de violences sexuelles interrogent à nouveau la « culture du silence » dans les médias et la culture",
-          "description": "La ministre de la culture britannique va recevoir des dirigeants du monde culturel et médiatique afin de leur demander de mieux protéger « les femmes et les lanceurs d’alerte » contre les « abus de pouvoir ». La BBC, qui a employé Russell Brand et David Walliams, deux hommes mis en cause à des degrés divers, a renouvelé ses excuses pour les « manquements » passés.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/12/au-royaume-uni-deux-affaires-de-violences-sexuelles-interrogent-a-nouveau-la-culture-du-silence-dans-les-medias-et-la-culture_6809149_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-12T18:00:20.000Z",
-          "fetchedAt": "2026-11-13T04:01:02.557Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-10",
-      "topic": "Google’s new Gemini model is better at understanding complicated questions",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-12-a3e1afb4",
-          "title": "Google’s new Gemini model is better at understanding complicated questions",
-          "description": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it's \"now the new default model in AI Mode & being used for your hardest questions in AI Overviews.\"\nGoogle says Gemini 4 Hydrog …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-11-12T21:55:32.000Z",
-          "fetchedAt": "2026-11-13T04:01:09.305Z"
-        },
-        {
-          "id": "2026-11-12-4be00f58",
-          "title": "« Les actes ont des conséquences » : un bras de fer secoue l’usine Volkswagen de la future Golf électrique",
-          "description": "Quelques jours après les mises en garde de Thomas Schäfer sur le dérapage des coûts à Wolfsburg, Volkswagen abandonne le gigacasting pour une fabrication plus conventionnelle de sa future ID. Golf.",
-          "url": "https://www.numerama.com/vroom/2373127-les-actes-ont-des-consequences-un-bras-de-fer-secoue-lusine-volkswagen-de-la-future-golf-electrique.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/thomas-schafer-vw-id-tiguan-1.jpg?resize=1600,900&key=6086d4c1",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-11-12T17:16:48.000Z",
-          "fetchedAt": "2026-11-13T04:01:09.433Z"
-        },
-        {
-          "id": "2026-11-12-79fb9c1e",
-          "title": "Les cinq raisons pour lesquelles les IA ne sont pas (encore) un risque pour l’humanité",
-          "description": "Avant que ne s’accomplissent les scénarios les plus pessimistes, les intelligences artificielles devront apprendre à récolter de l’argent, à se répliquer, à se débrider et à s’améliorer, estiment chercheurs et experts. Et surtout à se découvrir l’instinct de préservation qui leur manque.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/12/les-cinq-raisons-pour-lesquelles-les-ia-ne-sont-pas-encore-un-risque-pour-l-humanite_6809114_4408996.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-11-12T15:00:09.000Z",
-          "fetchedAt": "2026-11-13T04:01:09.291Z"
-        },
-        {
-          "id": "2026-11-12-2ce5ef5c",
-          "title": "Superman : Henry Cavill de retour ? L’acteur fait une déclaration",
-          "description": "Ce mercredi 11 novembre, deux jours après l'annonce du départ de James Gunn et Peter Safran de la tête de DC Studios, Henry Cavill a été interrogé sur un éventuel retour dans le costume de l'Homme d'Acier. L'acteur britannique ne ferme plus la porte.",
-          "url": "https://www.numerama.com/pop-culture/2372845-superman-henry-cavill-de-retour-dans-le-role-lacteur-sexprime.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/henry-cavill-man-of-steel-wallpaper-hd-142654.jpg?resize=1600,900&key=cd6e7606",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-11-12T13:22:00.000Z",
-          "fetchedAt": "2026-11-13T04:01:09.433Z"
-        },
-        {
-          "id": "2026-11-12-749886b0",
-          "title": "Comment les jobs d’appoint deviennent une nécessité pour des salariés ou chômeurs en quête de pouvoir d’achat",
-          "description": "Les plateformes de « jobbing » séduisent de nombreux particuliers, que ce soit pour les services entre voisins (bricolage, jardinage), la livraison de courses ou le gardiennage de colis. Et ce malgré des montants faibles.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/12/le-jobbing-ce-microtravail-qui-prend-de-plus-en-plus-de-poids-pour-boucler-les-fins-de-mois_6809052_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-11-12T05:00:07.000Z",
-          "fetchedAt": "2026-11-13T04:01:09.291Z"
-        },
-        {
-          "id": "2026-11-11-4be20f86",
-          "title": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
-          "description": "Selon le « Wall Street Journal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces électroniques nécessaires à la révolution de l’intelligence artificielle.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-11-11T23:30:03.000Z",
-          "fetchedAt": "2026-11-13T04:01:09.291Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-20",
-      "topic": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingu",
+      "id": "cluster-3",
+      "topic": "Afrique : les récits confisqués d'une histoire économique",
       "category": "eco",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-12-98ed5a0f",
-          "title": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
-          "description": "Le projet de budget 2027 ne prévoit pas de réforme du CIR ou du pacte Dutreil, malgré les critiques récurrentes sur leur coût et leur efficacité, déplorent l’économiste Maxime Combes et le journaliste Olivier Petitjean, dans une tribune au « Monde ».",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/12/credit-d-impot-recherche-pacte-dutreil-quitte-a-mettre-un-pognon-de-dingue-dans-les-aides-publiques-aux-entreprises-encore-faudrait-il-que-la-collectivite-en-ait-pour-son-argent_6809058_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-12T05:00:42.000Z",
-          "fetchedAt": "2026-11-13T04:01:13.765Z"
-        },
-        {
-          "id": "2026-11-12-03e562ac",
-          "title": "Donation d’argent investie dans une société : quel rapport à la succession ?",
-          "description": "Le donataire doit la valeur actuelle – bien supérieure à la valeur d’origine – des titres acquis, déduction faite de la plus-value liée à son travail de dirigeant.",
-          "url": "https://www.lemonde.fr/argent/article/2026/11/12/donation-d-argent-investie-dans-une-societe-quel-rapport-a-la-succession_6809054_1657007.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-12T05:00:28.000Z",
-          "fetchedAt": "2026-11-13T04:01:13.765Z"
-        },
-        {
-          "id": "2026-11-11-88cf02b5",
-          "title": "La Birmanie veut attirer les investissements étatsuniens vers ses gisements de terres rares",
-          "description": "Le gouvernement birman, dirigé par les militaires, exhorte les États-Unis à intensifier leurs efforts de rapprochement et à accélérer leurs investissements dans les mines de terres rares de ce pays ravagé par la guerre. La Birmanie est devenue l'un des principaux fournisseurs mondiaux de terres rares lourdes, ces minerais indispensables à la fabrication de nombreux équipements de haute technologie. Un secteur stratégique qui est aujourd'hui dominé par son puissant voisin chinois.",
-          "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261111-la-birmanie-veut-attirer-les-investissements-%C3%A9tatsuniens-vers-ses-gisements-de-terres-rares",
-          "imageUrl": "https://s.rfi.fr/media/display/cd915a40-de11-11f1-a2f2-29048b396e03/w:1024/p:16x9/AP26117283322191.jpg",
+          "id": "2026-11-13-2a84286b",
+          "title": "Afrique : les récits confisqués d'une histoire économique",
+          "description": "L'Afrique est-elle vraiment maîtresse de son passé économique ? De l'esclavage à la colonisation, du franc CFA aux rivalités entre puissances étrangères, les héritages de l'histoire continuent de peser sur son développement. Comment reprendre le contrôle du récit historique, de ses ressources et de ses choix économiques ? Avec trois regards différents, cette émission interroge les rapports de dépendance et les conditions d'une véritable souveraineté africaine.",
+          "url": "https://www.rfi.fr/fr/podcasts/%C3%A9co-d-ici-%C3%A9co-d-ailleurs/20261113-afrique-les-r%C3%A9cits-confisqu%C3%A9s-d-une-histoire-%C3%A9conomique",
+          "imageUrl": "https://s.rfi.fr/media/display/30ab85b0-df89-11f1-9861-5f54d898a954/w:1024/p:16x9/Capture-d-%C3%A9cran-2026-11-13-133947.jpg",
           "source": "RFI - Économie",
           "category": "eco",
-          "publishedAt": "2026-11-11T23:09:50.000Z",
-          "fetchedAt": "2026-11-13T04:01:13.763Z"
+          "publishedAt": "2026-11-13T17:43:33.000Z",
+          "fetchedAt": "2026-11-14T04:00:47.715Z"
+        },
+        {
+          "id": "2026-11-13-3b5e1fe7",
+          "title": "Lunettes connectées : la concurrence accrue devrait « pousser les fabricants à redoubler d’efforts en matière de respect de la vie privée »",
+          "description": "L’arrivée de Google et Samsung, jeudi 12 novembre, sur un marché ultradominé par les Ray-Ban Meta, peut être l’occasion de davantage réguler les usages de ces objets et d’éduquer les acheteurs, estime Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/13/lunettes-connectees-la-concurrence-accrue-devrait-pousser-les-fabricants-a-redoubler-d-efforts-en-matiere-de-respect-de-la-vie-privee_6809306_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-13T10:00:07.000Z",
+          "fetchedAt": "2026-11-14T04:00:47.592Z"
+        },
+        {
+          "id": "2026-11-13-e1914867",
+          "title": "Gaz : la piste d’une réserve stratégique à l’étude pour anticiper de futures crises",
+          "description": "La France réfléchit à la possibilité de disposer d’un stock d’urgence, comme pour le pétrole, afin de prévenir tout risque de rupture des approvisionnements. Un tel projet est désormais mis en œuvre en Allemagne.",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/13/gaz-la-piste-d-une-reserve-strategique-a-l-etude-pour-anticiper-de-futures-crises_6809277_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-13T05:00:32.000Z",
+          "fetchedAt": "2026-11-14T04:00:47.592Z"
+        },
+        {
+          "id": "2026-11-12-e01b3e4b",
+          "title": "Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique",
+          "description": "Annie Genevard, ministre de l’agriculture, accompagnée du premier ministre, Sébastien Lecornu, a présenté, jeudi, un plan censé porter la « reconquête » de la souveraineté alimentaire française sur dix ans, mais peu orienté vers la transition écologique.",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/12/agriculture-un-plan-de-relance-tiraille-entre-souverainete-alimentaire-et-urgence-climatique_6809161_3244.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-12T21:10:52.000Z",
+          "fetchedAt": "2026-11-14T04:00:47.592Z"
+        },
+        {
+          "id": "2026-11-12-763502d0",
+          "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+          "description": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+          "source": "BBC Business",
+          "category": "eco",
+          "publishedAt": "2026-11-12T14:29:59.000Z",
+          "fetchedAt": "2026-11-14T04:00:47.608Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-11-14-7b8ef8b8",
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "description": "One way or another, the company will get some more data on Saturday.",
+          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-11-14T00:49:13.000Z",
+          "fetchedAt": "2026-11-14T04:00:47.651Z"
         }
       ]
     }
