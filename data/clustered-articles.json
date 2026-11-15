@@ -1,242 +1,154 @@
 {
-  "generatedAt": "2026-11-14T04:00:52.253Z",
+  "generatedAt": "2026-11-15T04:00:45.810Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "Après plusieurs heures de suspension des vols, les États-Unis rouvrent leur espa",
+      "topic": "COP31: plusieurs milliers de personnes manifestent pour faire converger droits h",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-14-bdc914da",
-          "title": "Après plusieurs heures de suspension des vols, les États-Unis rouvrent leur espace aérien",
-          "description": "Des milliers de vols ont été annulés vendredi après-midi aux États-Unis après la fermeture de l'espace aérien au niveau national. Les vols ont de nouveau été autorisés dans la soirée, mais le retour à la normale sera progressif. Écartant la piste d'une cyberattaque, le ministre des Transports a pointé vers la responsabilité de \"vieux matériel\" informatique, en réclamant de nouveaux moyens au Congrès.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261114-etats-unis-suspension-des-vols-reouverture-espace-aerien-faa",
-          "imageUrl": "https://s.france24.com/media/display/5694e280-dfd4-11f1-9e3b-5f54d898a954/w:1024/p:16x9/AP26196667132088.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-14T02:42:17.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.696Z"
-        },
-        {
-          "id": "2026-11-14-db3b5544",
-          "title": "Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »",
-          "description": "Un dysfonctionnement affectant les centres régionaux de contrôle aérien a conduit les autorités à suspendre les vols dans tout le pays, vendredi, pendant plusieurs heures. Le secrétaire aux transports, Sean Duffy, a accusé du « vieux matériel » des « années 1980 » d’être responsable de cet incident.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-14T02:31:51.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.656Z"
-        },
-        {
-          "id": "2026-11-14-958c9f3b",
-          "title": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, jeudi en Chine",
-          "description": "Washington a précisé que les discussions des trois présidents, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire. Selon un responsable américain s’exprimant sous couvert d’anonymat, l’Iran sera aussi au menu de la rencontre, mais pas l’Ukraine.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-14T01:49:53.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.656Z"
-        },
-        {
-          "id": "2026-11-13-9431ba48",
-          "title": "Rugby : les Bleus signent un succès majeur face aux Springboks",
-          "description": "Le XV de France a remporté une victoire majuscule, la plus marquante depuis le Mondial 2023, en battant les doubles champions du monde sud-africains vendredi au Stade de France (21-19). Malgré de nombreuses blessures, l'équipe de France a su rivaliser, en conservant jusqu'au bout l'avance acquise lors d'une première mi-temps flamboyante.",
-          "url": "https://www.france24.com/fr/sports/20261113-rugby-les-bleus-signent-un-succ%C3%A8s-majeur-face-aux-springboks",
-          "imageUrl": "https://s.france24.com/media/display/7b82380c-dfb3-11f1-bd1e-5f54d898a954/w:1024/p:16x9/000-D7FG2AX.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-13T23:03:59.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.696Z"
-        },
-        {
-          "id": "2026-11-13-17019da0",
-          "title": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
-          "description": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’ont été touchés », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se situe à Lakenheath, dans l’est de l’Angleterre.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-13T22:51:25.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.656Z"
-        },
-        {
-          "id": "2026-11-13-611e1377",
-          "title": "JOJ de Dakar, clap de fin : succès et satisfaction pour une première en Afrique",
-          "description": "Clap de fin aux 4e Jeux Olympique de la Jeunesse Dakar 2026. Après deux semaines de compétition 5 pays africains se sont classés dans le top 10 du classement des médailles à savoir l'Egypte, l'Ethiopie, le Senegal, le Kenya et l'Afrique du Sud, une première dans l'histoire des jeux. Les athlètes et encadreurs ont manifesté leur entière satisfaction sur l'organisation de ce premier évènement olympique en Afrique.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261113-joj-de-dakar-clap-de-fin-succ%C3%A8s-et-satisfaction-pour-une-premi%C3%A8re-en-afrique",
-          "imageUrl": "https://s.france24.com/media/display/6d0a012e-dfae-11f1-9ea5-695cb59fade5/w:1024/p:16x9/DN197996-A-01-20261103-01.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-13T22:30:04.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.696Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-5",
-      "topic": "Après la Finlande et la Norvège, la Suède veut à son tour empêcher les athlètes ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-14-6cefc102",
-          "title": "Après la Finlande et la Norvège, la Suède veut à son tour empêcher les athlètes russes de concourir sur son sol",
-          "description": "Stockholm souhaite présenter prochainement une « solution consistant à refuser l’entrée de son territoire aux athlètes russes », a annoncé le ministre des affaires sociales et de la santé publique, Jakob Forssmed. La mesure devrait être effective avant les championnats du monde de ski nordique, en février.",
-          "url": "https://www.lemonde.fr/sport/article/2026/11/14/apres-la-finlande-et-la-norvege-la-suede-veut-a-son-tour-empecher-les-athletes-russes-de-concourir-sur-son-sol_6809422_3242.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-14T00:21:48.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.656Z"
-        },
-        {
-          "id": "2026-11-13-42d3dbb6",
-          "title": "Russie : comment le FSB est devenu encore plus puissant que ses ancêtres, le KGB et la Tcheka",
-          "description": "Successeur du KGB soviétique, le FSB, service fédéral chargé officiellement d’assurer la sécurité intérieure, exerce aujourd’hui un pouvoir inégalé dans l’histoire de la Russie moderne, constate cet avocat dans le média russe indépendant “Republic”. Il décrit le fonctionnement d’un organe omniscient qui a fait du procès pour haute trahison un impitoyable instrument de répression politique.",
-          "url": "https://www.courrierinternational.com/article/decryptage-russie-comment-le-fsb-est-devenu-encore-plus-puissant-que-ses-ancetres-le-kgb-et-la-tcheka_256380_1",
-          "imageUrl": "https://focus.courrierinternational.com/2026/09/29/0/0/4771/3180/1200/630/60/0/1019719_upload-1-6znk6kbtvckz-00028312-haysom-ok.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-13T11:46:30.000Z",
-          "fetchedAt": "2026-11-14T04:00:30.487Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-21",
-      "topic": "Éliminatoires CAN 2027: le Mali renverse le Rwanda, le Maroc domine le Niger ave",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-13-088bbab3",
-          "title": "Éliminatoires CAN 2027: le Mali renverse le Rwanda, le Maroc domine le Niger avec un doublé d'Hakimi",
-          "description": "Le Maroc n'est plus très loin de valider son billet pour la CAN 2027 grâce à sa victoire à domicile 5-1 contre le Niger, ce vendredi. Dans le groupe K, le Mali aussi a fait un pas vers la qualification en arrachant une victoire contre le Rwanda 3-2, au bout d'un scénario mal embarqué.",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-mali-renverse-le-rwanda-le-maroc-domine-le-niger-avec-un-doubl%C3%A9-d-hakimi",
-          "imageUrl": "https://s.rfi.fr/media/display/fa36701e-dfae-11f1-ae73-f71d22e7fea9/w:1024/p:16x9/000-73KP6WZ.jpg",
+          "id": "2026-11-15-c182dc10",
+          "title": "COP31: plusieurs milliers de personnes manifestent pour faire converger droits humains et justice climatique",
+          "description": "Quelque 10 000 personnes, selon les autorités turques, ont manifesté samedi 14 novembre dans le centre d’Antalya, la station balnéaire où se déroule la 31e Conférence des Nations unies sur le climat. Sous étroite surveillance policière, des groupes ont porté les droits de l’homme et la crise climatique au cœur de leur message. Du Bangladesh à l’Ouganda, du Pakistan à l’Indonésie, petit florilège de témoignages recueillis dans le cortège.",
+          "url": "https://www.rfi.fr/fr/environnement/20261115-cop31-les-droits-humains-et-la-justice-climatique-au-coeur-d-une-marche-de-plusieurs-milliers-de-personnes",
+          "imageUrl": "https://s.rfi.fr/media/display/ab30a1c0-e07a-11f1-ad7f-695cb59fade5/w:1024/p:16x9/GBD-9075.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-13T22:11:25.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.619Z"
+          "publishedAt": "2026-11-15T03:37:29.000Z",
+          "fetchedAt": "2026-11-15T04:00:32.171Z"
         },
         {
-          "id": "2026-11-13-61655f15",
-          "title": "Éliminatoires de la CAN 2027 : le Mali arrache la victoire au Rwanda et prend déjà une option",
-          "description": "Le Mali a battu le Rwanda 3 à 2, vendredi, à Bamako, lors de la troisième journée des éliminatoires de la CAN 2027. Une victoire qui place les Aigles en tête du groupe K et dans un fauteuil pour se qualifier pour la Coupe d'Afrique.",
-          "url": "https://www.france24.com/fr/sports/20261113-eliminatoires-can-2027-mali-rwanda-groupe-k",
-          "imageUrl": "https://s.france24.com/media/display/2ed3c45e-dfa3-11f1-9c37-29048b396e03/w:1024/p:16x9/000-893R9D7.jpg",
+          "id": "2026-11-14-db2dcf84",
+          "title": "Victorin Lurel, sénateur PS de la Guadeloupe : \"L'oisiveté est la mère de tous les vices\"",
+          "description": "Chaque semaine, Judith Grimaldi reçoit un invité dans son émission \"Avec Judith.\" Cette fois-ci, c'est le sénateur PS de la Guadeloupe Victorin Lurel. Il revient sur son parcours de vie, et réagit notamment au taux de chômage élevé en Guadeloupe ainsi qu'à la candidature à l'élection présidentielle de Teddy Riner.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261114-victorin-lurel-s%C3%A9nateur-ps-de-la-guadeloupe-l-oisivet%C3%A9-est-la-m%C3%A8re-de-tous-les-vices",
+          "imageUrl": "https://s.france24.com/media/display/b33063e2-dec7-11f1-9b9b-29048b396e03/w:1024/p:16x9/Vignette-finale-Victorin.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-13T20:59:38.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.696Z"
-        },
-        {
-          "id": "2026-11-13-509ca94d",
-          "title": "Éliminatoires CAN 2027: le Burkina Faso gagne sur le fil, le Gabon enchaîne, la Tunisie s'enfonce",
-          "description": "Les éliminatoires de la CAN 2027 se poursuivent ce vendredi avec des victoires importantes du Gabon et du Burkina Faso contre le Lesotho et la Mauritanie. La Tunisie, en revanche, continue de montrer de grosses difficultés et s'est inclinée 2-0 à domicile contre la Libye. Pas de quoi mettre fin à tout espoir de qualification, mais assez pour tirer la sonnette d'alarme.",
-          "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-burkina-faso-gagne-sur-le-fil-le-gabon-encha%C3%AEne-la-tunisie-s-enfonce",
-          "imageUrl": "https://s.rfi.fr/media/display/997c0cc0-df8b-11f1-9add-29048b396e03/w:1024/p:16x9/000-89DB78D.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-13T18:20:24.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.619Z"
-        },
-        {
-          "id": "2026-11-13-ad18920f",
-          "title": "Éliminatoires de la CAN 2027 : le Nigeria se relance, la Tunisie chute et se met en danger",
-          "description": "La troisième journée des éliminatoires de la CAN 2027 continue. Le Nigeria s'est imposé à domicile face à la Tanzanie (3-1) tandis que la Tunisie s'est inclinée contre la Libye (0-2).",
-          "url": "https://www.france24.com/fr/sports/20261113-eliminatoires-can-2027-nigeria-relance-tunisie",
-          "imageUrl": "https://s.france24.com/media/display/645611f8-df8b-11f1-a5d4-695cb59fade5/w:1024/p:16x9/000-B7RD76R.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-13T18:01:57.000Z",
-          "fetchedAt": "2026-11-14T04:00:29.696Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "Afrique : les récits confisqués d'une histoire économique",
-      "category": "eco",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-13-2a84286b",
-          "title": "Afrique : les récits confisqués d'une histoire économique",
-          "description": "L'Afrique est-elle vraiment maîtresse de son passé économique ? De l'esclavage à la colonisation, du franc CFA aux rivalités entre puissances étrangères, les héritages de l'histoire continuent de peser sur son développement. Comment reprendre le contrôle du récit historique, de ses ressources et de ses choix économiques ? Avec trois regards différents, cette émission interroge les rapports de dépendance et les conditions d'une véritable souveraineté africaine.",
-          "url": "https://www.rfi.fr/fr/podcasts/%C3%A9co-d-ici-%C3%A9co-d-ailleurs/20261113-afrique-les-r%C3%A9cits-confisqu%C3%A9s-d-une-histoire-%C3%A9conomique",
-          "imageUrl": "https://s.rfi.fr/media/display/30ab85b0-df89-11f1-9861-5f54d898a954/w:1024/p:16x9/Capture-d-%C3%A9cran-2026-11-13-133947.jpg",
-          "source": "RFI - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-13T17:43:33.000Z",
-          "fetchedAt": "2026-11-14T04:00:47.715Z"
-        },
-        {
-          "id": "2026-11-13-3b5e1fe7",
-          "title": "Lunettes connectées : la concurrence accrue devrait « pousser les fabricants à redoubler d’efforts en matière de respect de la vie privée »",
-          "description": "L’arrivée de Google et Samsung, jeudi 12 novembre, sur un marché ultradominé par les Ray-Ban Meta, peut être l’occasion de davantage réguler les usages de ces objets et d’éduquer les acheteurs, estime Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/13/lunettes-connectees-la-concurrence-accrue-devrait-pousser-les-fabricants-a-redoubler-d-efforts-en-matiere-de-respect-de-la-vie-privee_6809306_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-13T10:00:07.000Z",
-          "fetchedAt": "2026-11-14T04:00:47.592Z"
-        },
-        {
-          "id": "2026-11-13-e1914867",
-          "title": "Gaz : la piste d’une réserve stratégique à l’étude pour anticiper de futures crises",
-          "description": "La France réfléchit à la possibilité de disposer d’un stock d’urgence, comme pour le pétrole, afin de prévenir tout risque de rupture des approvisionnements. Un tel projet est désormais mis en œuvre en Allemagne.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/13/gaz-la-piste-d-une-reserve-strategique-a-l-etude-pour-anticiper-de-futures-crises_6809277_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-13T05:00:32.000Z",
-          "fetchedAt": "2026-11-14T04:00:47.592Z"
-        },
-        {
-          "id": "2026-11-12-e01b3e4b",
-          "title": "Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique",
-          "description": "Annie Genevard, ministre de l’agriculture, accompagnée du premier ministre, Sébastien Lecornu, a présenté, jeudi, un plan censé porter la « reconquête » de la souveraineté alimentaire française sur dix ans, mais peu orienté vers la transition écologique.",
-          "url": "https://www.lemonde.fr/planete/article/2026/11/12/agriculture-un-plan-de-relance-tiraille-entre-souverainete-alimentaire-et-urgence-climatique_6809161_3244.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-12T21:10:52.000Z",
-          "fetchedAt": "2026-11-14T04:00:47.592Z"
-        },
-        {
-          "id": "2026-11-12-763502d0",
-          "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-          "description": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
-          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-          "source": "BBC Business",
-          "category": "eco",
-          "publishedAt": "2026-11-12T14:29:59.000Z",
-          "fetchedAt": "2026-11-14T04:00:47.608Z"
+          "publishedAt": "2026-11-14T16:28:10.000Z",
+          "fetchedAt": "2026-11-15T04:00:32.181Z"
         }
       ]
     },
     {
       "id": "cluster-2",
-      "topic": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "topic": "Le Kremlin confirme une rencontre trilatérale entre Donald Trump, Vladimir Pouti",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-15-17dc14a9",
+          "title": "Le Kremlin confirme une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, le 19 novembre en Chine",
+          "description": "La Maison Blanche a annoncé, vendredi, que les discussions des trois chefs d’Etat, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire. Selon un responsable américain, s’exprimant sous couvert d’anonymat, l’Iran sera aussi au menu de la rencontre, mais pas l’Ukraine.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/15/le-kremlin-confirme-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-le-19-novembre-en-chine_6809488_3211.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-15T03:22:58.000Z",
+          "fetchedAt": "2026-11-15T04:00:32.475Z"
+        },
+        {
+          "id": "2026-11-14-c680cb90",
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-14T15:53:55.000Z",
+          "fetchedAt": "2026-11-15T04:00:38.862Z"
+        },
+        {
+          "id": "2026-11-14-50078ff1",
+          "title": "L'affaire Nvidia s'invite dans les discussions sur la sécurité de l'IA entre la Chine et les États-Unis",
+          "description": "Le président américain Donald Trump et son homologue chinois Xi Jinping tenteront la semaine prochaine de dépasser l'affaire Nvidia pour trouver un terrain d'entente sur la sécurité en matière d'IA, lors du sommet de la Coopération économique Asie-Pacifique (Apec), alors que les craintes enflent quant aux risques liés à l'IA.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261114-affaire-nvidia-invite-dans-discussions-s%C3%A9curit%C3%A9-ia-entre-chine-%C3%A9tats-unis",
+          "imageUrl": "https://s.france24.com/media/display/2b26f062-e01e-11f1-a680-695cb59fade5/w:1024/p:16x9/AP26281674389128.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-14T13:18:56.000Z",
+          "fetchedAt": "2026-11-15T04:00:32.181Z"
+        },
+        {
+          "id": "2026-11-14-e9adbc14",
+          "title": "Rugby, réunion Trump-Xi-Poutine et Léon XIV au Pérou : les informations de la nuit",
+          "description": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-rugby-reunion-trump-xi-poutine-et-leon-xiv-au-perou-les-informations-de-la-nuit_287170",
+          "imageUrl": "https://focus.courrierinternational.com/2026/11/13/0/0/2779/1853/1200/630/60/0/0800894_ftp-1-6s44cg6vmerl-2026-11-13t231822z-799969740-up1embd1rkttp-rtrmadp-3-rugby-union-nationschamp-fra-zaf.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-14T04:48:25.000Z",
+          "fetchedAt": "2026-11-15T04:00:32.318Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-12",
+      "topic": "Au Cambodge, la langue française durement concurrencée par le chinois et l'angla",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-14-8ac34fa8",
+          "title": "Au Cambodge, la langue française durement concurrencée par le chinois et l'anglais",
+          "description": "Phonm Penh, capitale du Cambodge, accueille dimanche 15 et lundi 16 novembre le XXᵉ sommet de l'Organisation internationale de la francophonie (OIF). Première mission de cette institution : promouvoir la langue française. Au Cambodge, celle-ci s'est implantée puis développée sous le protectorat français à partir de 1863. Plus de 160 ans après, elle est enseignée à plus de 22 000 apprenants selon l'Institut français. Mais à l'école et à l'université, l'anglais et le chinois ne cessent de gagner du terrain.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261114-au-cambodge-la-langue-fran%C3%A7aise-durement-concurrenc%C3%A9e-par-le-chinois-et-l-anglais",
+          "imageUrl": "https://s.rfi.fr/media/display/cf0319be-e004-11f1-a0e2-3f371022a770/w:1024/p:16x9/000-D7FU3WE.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-14T23:27:45.000Z",
+          "fetchedAt": "2026-11-15T04:00:32.171Z"
+        },
+        {
+          "id": "2026-11-14-9be18a5a",
+          "title": "Au Québec, la contestation étudiante prend de la vigueur, inspirée par la mobilisation en France",
+          "description": "Des milliers d’étudiants québécois ont pris part cette semaine à un mouvement de grève pour dénoncer la précarité de leurs conditions de vie. Motivés par le mouvement social français, les jeunes réclament également de meilleures conditions d’enseignement.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/14/au-quebec-la-contestation-etudiante-prend-de-la-vigueur-inspiree-par-la-mobilisation-en-france_6810214_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-14T12:00:03.000Z",
+          "fetchedAt": "2026-11-15T04:00:32.475Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-14-7b8ef8b8",
-          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-          "description": "One way or another, the company will get some more data on Saturday.",
-          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
+          "id": "2026-11-15-f6b407f9",
+          "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+          "description": "It felt like stepping into the future.",
+          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
           "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-11-14T00:49:13.000Z",
-          "fetchedAt": "2026-11-14T04:00:47.651Z"
+          "publishedAt": "2026-11-15T00:40:59.000Z",
+          "fetchedAt": "2026-11-15T04:00:42.286Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-2",
+      "topic": "Prix littéraires : l’hégémonie de Gallimard fait grincer des dents dans l’éditio",
+      "category": "eco",
+      "importance": 5,
+      "articles": [
+        {
+          "id": "2026-11-14-173cca4d",
+          "title": "Prix littéraires : l’hégémonie de Gallimard fait grincer des dents dans l’édition",
+          "description": "Le Goncourt, le Renaudot, le Femina et le Médicis ont couronné, en 2026, des auteurs de Madrigall, la maison mère de Gallimard, ce qui irrite les éditeurs concurrents, qui critiquent la composition des jurys.",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/14/prix-litteraires-l-hegemonie-de-gallimard-fait-grincer-des-dents-dans-l-edition_6810249_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - Économie",
+          "category": "eco",
+          "publishedAt": "2026-11-14T12:54:18.000Z",
+          "fetchedAt": "2026-11-15T04:00:42.472Z"
         }
       ]
     }
