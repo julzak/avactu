@@ -1,209 +1,264 @@
 {
-  "generatedAt": "2026-11-16T04:01:18.402Z",
+  "generatedAt": "2026-11-17T04:01:07.404Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "id": "cluster-2",
+      "topic": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-16-cdf05ed2",
-          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-          "description": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-          "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e43a/live/4a4493e0-e169-11f1-89b7-092cfa4897c7.jpg",
-          "source": "BBC World",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T03:21:56.000Z",
-          "fetchedAt": "2026-11-16T04:01:10.036Z"
-        },
-        {
-          "id": "2026-11-15-688d4130",
-          "title": "Le baron de la drogue mexicain Miguel Ángel Félix Gallardo est mort",
-          "description": "Considéré comme l'un des plus puissants chefs du narcotrafic, Miguel Ángel Félix Gallardo est décédé dimanche dans un hôpital, où il avait été transféré en urgence, rapportent les autorités. Depuis 1989, il purgeait deux peines totalisant 77 ans de prison.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261115-baron-de-drogue-mexicain-miguel-angel-felix-gallardo-mort-narcotrafic-hopital-prison-guadalajara",
-          "imageUrl": "https://s.france24.com/media/display/a3174496-e145-11f1-ae4a-f71d22e7fea9/w:1024/p:16x9/000-D7JM9ZV.jpg",
+          "id": "2026-11-17-259acb77",
+          "title": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
+          "description": "Des frappes russes ont touché deux ponts importants de Kiev lundi soir, a déclaré le maire de la capitale ukrainienne, Vitali Klitschko, ajoutant que des \"systèmes d'infrastructures critiques\" avaient été endommagés. La Russie a de son côté confirmé que le pont de Crimée avait été frappé pour la deuxième journée consécutive. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
+          "imageUrl": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-15T22:42:26.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.354Z"
+          "publishedAt": "2026-11-17T00:22:05.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.650Z"
+        },
+        {
+          "id": "2026-11-17-280062de",
+          "title": "EN DIRECT, guerre en Ukraine : des frappes russes ont touché deux importants ponts de Kiev, annonce le maire, Vitali Klitschko",
+          "description": "« A la suite de l’attaque ennemie, des systèmes d’infrastructures critiques ont été endommagés », a fait savoir, lundi soir, le maire de la capitale ukrainienne, faisant état de frappes russes ayant « touché les ponts Nord et Sud » de la ville.",
+          "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T00:13:59.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.659Z"
+        },
+        {
+          "id": "2026-11-16-fda86912",
+          "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+          "description": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+          "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T14:58:12.000Z",
+          "fetchedAt": "2026-11-17T04:00:50.902Z"
+        },
+        {
+          "id": "2026-11-16-04c271b5",
+          "title": "Ukraine: il faut arrêter la «boucherie», soutient Andréa Kotarac, porte-parole du RN, qui veut stopper les aides à Kiev",
+          "description": "Andréa Kotarac, porte-parole de campagne de Marine Le Pen et du Rassemblement national, justifie la décision de Marine Le Pen de couper l'aide financière à l'Ukraine si elle accède à l'Élysée. « Dix ans de macronisme ont ruiné la France », plaide Andréa Kotarac, qui soutient que le RN « adorerait financer Kiev, mais que la France n'en a plus les moyens ». Face aux accusations de l'Élysée de « jouer contre la France et l'Europe », Andréa Kotarac défend la nécessité d'organiser à Paris « une conférence de paix » pour mettre fin « à la boucherie » qui a déjà fait deux millions de victimes en Ukraine.",
+          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261116-ukraine-il-faut-arr%C3%AAter-la-boucherie-soutient-andr%C3%A9a-kotarac-porte-parole-du-rn-qui-veut-stopper-les-aides-%C3%A0-kiev",
+          "imageUrl": "https://s.rfi.fr/media/display/2cfeabfc-c0b4-11ec-b219-005056a90284/w:1024/p:16x9/000_9BB9MA.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T14:54:13.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.685Z"
+        },
+        {
+          "id": "2026-11-16-c57a1752",
+          "title": "L'Ukraine frappe le pont reliant la Russie à la Crimée annexée par Moscou",
+          "description": "L'Ukraine a « frappé » le pont reliant la Russie à la péninsule de Crimée annexée par Moscou en 2014, restreignant la circulation sur cet ouvrage stratégique, a annoncé lundi 16 novembre le chef des autorités locales nommé par Moscou.",
+          "url": "https://www.rfi.fr/fr/europe/20261116-l-ukraine-frappe-le-pont-reliant-la-russie-%C3%A0-la-crim%C3%A9e-annex%C3%A9e-par-moscou",
+          "imageUrl": "https://s.rfi.fr/media/display/e6618ed8-e18f-11f1-a857-f71d22e7fea9/w:1024/p:16x9/000-D7KG3ZQ.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T07:42:37.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.685Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Five EU countries announce migrant deportation centre in Rwanda",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-16-1c8dfbcb",
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "description": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T23:20:45.000Z",
+          "fetchedAt": "2026-11-17T04:00:50.902Z"
+        },
+        {
+          "id": "2026-11-16-4a6c1ca0",
+          "title": "17 novembre : comment une rumeur a propagé l'idée d'une panne en France",
+          "description": "Depuis plusieurs semaines, des publications mettent en garde contre une panne générale d'Internet, d'électricité et de transports en France notamment, pour le 17 novembre. Une rumeur basée sur l'exagération de certains faits véridiques couplés à des théories complotistes et à des évènements récents bien réels qui alimentent l'inquiétude.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261116-17-novembre-comment-une-rumeur-a-propag%C3%A9-l-id%C3%A9e-d-une-panne-en-france",
+          "imageUrl": "https://s.france24.com/media/display/dfbdf7d8-e1fd-11f1-9350-3f371022a770/w:1024/p:16x9/FRAN261116-2115-Live-CS2115.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T20:53:33.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.650Z"
+        },
+        {
+          "id": "2026-11-16-77155c8e",
+          "title": "Le projet de cinq pays de l’UE d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
+          "description": "L’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ont annoncé, lundi 16 novembre, la création d’une plateforme au Rwanda, où pourront être renvoyés les demandeurs d’asile déboutés.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T20:52:34.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.659Z"
+        },
+        {
+          "id": "2026-11-16-f49a63c0",
+          "title": "Maileva : nouvelle cyberattaque contre une société française",
+          "description": "C'est le plus récent piratage informatique d'une société française : Maileva, filiale de La Poste, s'est vu dérober les coordonnées de 22 millions de clients (nom, prénom et adresse postale). Elle est la dernière victime d'une longue liste de victimes de cyberattaques en France, après le Crédit Mutuel Arkéa la semaine dernière, le Trésor public l'été dernier ou les frigos de supermarchés les 11 et 12 octobre. En 2025, la CNIL a compté 6 000 violations de données, en hausse de 50% sur 3 ans.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-maileva-nouvelle-cyberattaque-contre-une-soci%C3%A9t%C3%A9-fran%C3%A7aise",
+          "imageUrl": "https://s.france24.com/media/display/42cd69b6-e1eb-11f1-9f5b-3f371022a770/w:1024/p:16x9/XX-NW-OOV-ECO-MAILEVA-PIRATAGE-MANENT-Laure-transfer.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T19:57:51.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.650Z"
+        },
+        {
+          "id": "2026-11-16-bbbfc992",
+          "title": "En images : cinq pays de l’UE annoncent un projet de centre pour migrants au Rwanda",
+          "description": "A en croire les architectes de ce projet, aucune exception n’a été faite en matière de nationalité. Les mineurs sont quant à eux exclus du dispositif.",
+          "url": "https://www.lemonde.fr/international/video/2026/11/16/en-images-cinq-pays-de-l-ue-annoncent-un-projet-de-centre-pour-migrants-au-rwanda_6812261_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T18:43:28.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.659Z"
+        },
+        {
+          "id": "2026-11-16-42cc597e",
+          "title": "La primaire de la droite, \"un aveu d’échec\" pour Gabriel Attal et Bruno Retailleau",
+          "description": "Après y avoir longtemps été opposés, Gabriel Attal et Bruno Retailleau appellent désormais de leurs vœux à l’organisation d’une primaire pour désigner un candidat unique de la droite et du centre. L'objectif : éviter un second tour de la présidentielle opposant Marine Le Pen et Jean-Luc Mélenchon. Un revirement qui coïncide avec leur chute conjointe dans les sondages.",
+          "url": "https://www.france24.com/fr/france/20261116-france-presidentielle-2027-primaire-de-la-droite-un-aveu-dechec-pour-gabriel-attal-et-bruno-retailleau",
+          "imageUrl": "https://s.france24.com/media/display/6c364b1c-e1da-11f1-a9d7-f71d22e7fea9/w:1024/p:16x9/main-primaire-candidats.png",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T17:57:20.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.650Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "Israël, République tchèque, Cap-Vert, Yémen, Vulcan : les informations de la nui",
+      "topic": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-16-0574d0f2",
-          "title": "Israël, République tchèque, Cap-Vert, Yémen, Vulcan : les informations de la nuit",
-          "description": "Les principales actualités de ces dernières heures vues par la presse internationale",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-israel-republique-tcheque-cap-vert-yemen-vulcan-les-informations-de-la-nuit_287400",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/10/0/0/5814/3876/1200/630/60/0/ed6550a_ftp-1-m3kmfsk3pczc-2026-11-10t163351z-530446047-rc23loapb4ol-rtrmadp-3-israel-politics.JPG",
-          "source": "Courrier International",
+          "id": "2026-11-16-648abca4",
+          "title": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
+          "description": "Au Cambodge, le sommet de la Francophonie s’est achevé ce lundi sur le report d’un an de l’élection à la tête de l’organisation. En cause notamment : les tensions entre la République démocratique du Congo et le Rwanda. La secrétaire générale, la Rwandaise Louise Mushikiwabo, reste donc en poste jusqu’au prochain scrutin. L'occasion de parler de la francophonie et de son avenir qui se joue d'ailleurs principalement sur le continent africain.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
+          "imageUrl": "https://s.france24.com/media/display/9d28d0dc-e211-11f1-98c2-5f54d898a954/w:1024/p:16x9/FRAN261116-2339-Live-CS2339.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-16T03:03:59.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.603Z"
+          "publishedAt": "2026-11-16T23:11:50.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.650Z"
         },
         {
-          "id": "2026-11-15-084bc4c6",
-          "title": "Benyamin Nétanyahou ne peut pas rester « une minute de plus » à la tête du gouvernement israélien, estime Gadi Eisenkot",
-          "description": "Selon un reportage diffusé dimanche soir, le chef de cabinet du premier ministre sortant a transmis à la police, la veille des législatives, une plainte concernant des militants du parti arabe Raam qui s’est avérée infondée.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/15/benyamin-netanyahou-ne-peut-pas-rester-une-minute-de-plus-a-la-tete-du-gouvernement-israelien-estime-gadi-eisenkot_6811061_3210.html",
+          "id": "2026-11-16-294aaa8e",
+          "title": "France: deux condamnations à perpétuité à l'issue du procès du triple narchomicide près de Marseille",
+          "description": "Après un mois d'un procès sous haute tension, deux figures du narcotrafic en France, jugées pour un triple assassinat ultraviolent, ont été condamnées lundi 16 novembre à des peines de prison à perpétuité à Aix-en-Provence. Le verdict a été qualifié de « message à la narcocratie » par le militant Amine Kessaci, dont un frère a été tué dans ce guet-apens meurtrier.",
+          "url": "https://www.rfi.fr/fr/france/20261116-france-deux-condamnations-%C3%A0-perp%C3%A9tuit%C3%A9-%C3%A0-l-issue-du-proc%C3%A8s-du-triple-narchomicide-pr%C3%A8s-de-marseille",
+          "imageUrl": "https://s.rfi.fr/media/display/643239e4-e1ee-11f1-a552-5f54d898a954/w:1024/p:16x9/000-D3QA9QV.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T19:38:46.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.685Z"
+        },
+        {
+          "id": "2026-11-16-ad1996f6",
+          "title": "Emmanuel Macron assure avoir fait de son mieux malgré des \"erreurs\"",
+          "description": "Emmanuel Macron a posté, lundi, un message sur X en forme de bilan pour les 10 ans de l'annonce de sa première candidature à l'Élysée. \"J'ai fait de mon mieux\", a-t-il assuré, tout en concédant \"parfois des erreurs\", à six mois de la fin de son second mandat.",
+          "url": "https://www.france24.com/fr/france/20261116-macron-assure-avoir-fait-de-son-mieux-malgr%C3%A9-des-erreurs",
+          "imageUrl": "https://s.france24.com/media/display/7f1d673a-e1ec-11f1-9596-f71d22e7fea9/w:1024/p:16x9/7f6d81c95ab87a584e5082fe94983065fe1e7685.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T18:35:29.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.650Z"
+        },
+        {
+          "id": "2026-11-16-73c9c16a",
+          "title": "Quelle riposte pour la France après la cyberattaque contre les réfrigérateurs de supermarché attribuée à l’Iran ?",
+          "description": "L’attribution de l’attaque contre les systèmes de froid de nombreux supermarchés français à l’Iran n’est qu’une première réponse de Paris. Elle s’inscrit dans une stratégie précise, et était un préalable nécessaire à d’éventuelles contre-mesures.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/16/quelle-riposte-pour-la-france-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-attribuee-a-l-iran_6812232_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-15T21:27:40.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.295Z"
+          "publishedAt": "2026-11-16T17:52:41.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.659Z"
         },
         {
-          "id": "2026-11-15-1e799b41",
-          "title": "Gaza: attaque ciblée israélienne contre le commandant de la brigade de Rafah",
-          "description": "Dans l’actualité au Proche-Orient, une nouvelle attaque ciblée israélienne. Un chef du Hamas, Samir Abou Younis, le commandant de la brigade de Rafah, a été tué cette nuit dans une frappe israélienne dans le sud de la bande de Gaza. Une élimination qui intervient en plein cessez-le-feu et en pleine transition politique en Israël.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20261115-gaza-attaque-cibl%C3%A9e-isra%C3%A9lienne-contre-le-commandant-de-la-brigade-de-rafah",
-          "imageUrl": "https://s.rfi.fr/media/display/e90ea7ac-e0f8-11f1-b2f8-3f371022a770/w:1024/p:16x9/000-Nic6163190.jpg",
+          "id": "2026-11-16-9131ac05",
+          "title": "Sommets de l'Asean et de l'Apec: la France et les Européens à l'écart des grandes rencontres en Asie",
+          "description": "L'Asie est le centre de gravité de la diplomatie mondiale cette semaine. Le président chinois Xi Jinping, ses homologues russe Vladimir Poutine et états-unien Donald Trump se retrouvent en Chine, jeudi 19 novembre, pour une rencontre trilatérale historique. Avant cela, le président Trump sera à Manille pour le sommet des pays d'Asie du Sud-Est, aux côtés des dirigeants brésilien, indien, japonais et canadien. Les Européens, en revanche, manquent à l'appel.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20261116-sommets-de-l-asean-et-de-l-apec-la-france-et-les-europ%C3%A9ens-%C3%A0-l-%C3%A9cart-des-grandes-rencontres-en-asie",
+          "imageUrl": "https://s.rfi.fr/media/display/4db85672-e1de-11f1-95a9-5f54d898a954/w:1024/p:16x9/2026-11-16T033506Z-1018486305-RC2QOOAWSXJA-RTRMADP-3-CAMBODIA-FRANCOPHONIE.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-15T13:32:31.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.390Z"
+          "publishedAt": "2026-11-16T17:35:23.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.685Z"
+        },
+        {
+          "id": "2026-11-16-6ee62f26",
+          "title": "Triple narchomicide en France : l'heure du verdict pour la DZ Mafia",
+          "description": "Les cinq accusés ont tour à tour présenté leurs \"condoléances\" aux familles des victimes lundi 16 novembre, sous le regard notamment d'Amine Kessaci et de sa mère, Ouassila, qui portait un pull blanc orné du portrait de son fils cadet Mehdi, lui aussi assassiné. Ce jeune homme de 20 ans, étranger au narcotrafic, a été abattu en plein jour à Marseille il y a un an, en novembre 2025. Le verdict du procès pour triple narchomicide est attendu dans la journée.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-triple-narchomicide-en-france-l-heure-du-verdict-pour-la-dz-mafia",
+          "imageUrl": "https://s.france24.com/media/display/97d75578-e1cf-11f1-828f-695cb59fade5/w:1024/p:16x9/FR-20261116-151542-151730-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-16T16:06:48.000Z",
+          "fetchedAt": "2026-11-17T04:00:41.650Z"
         }
       ]
     },
     {
-      "id": "cluster-12",
-      "topic": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une r",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-16-69dc176c",
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »",
-          "description": "L’objectif présenté par le président ukrainien est de définir la position européenne dans de futurs pourparlers avec Moscou. Par ailleurs, l’Estonie a annoncé la fermeture de ses frontières avec la Russie à compter du 1er décembre, après une nouvelle tentative de sabotage.",
-          "url": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T00:20:00.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.295Z"
-        },
-        {
-          "id": "2026-11-15-5b6f3664",
-          "title": "Les Émirats arabes unis, plaque tournante de l'or exporté illégalement d'Afrique",
-          "description": "C'est une étude qui montre l'ampleur de la contrebande de l'or africain. Plus de 450 tonnes d'or sorties illégalement des pays producteurs ont transité par les Émirats arabes unis en 2024, révèle l'enquête de l'ONG Swissaid.",
-          "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261115-les-%C3%A9mirats-arabes-unis-plaque-tournante-de-l-or-export%C3%A9-ill%C3%A9galement-d-afrique",
-          "imageUrl": "https://s.rfi.fr/media/display/7f20c3a2-e0f8-11f1-b2c9-29048b396e03/w:1024/p:16x9/Un-ne%CC%81gociant-en-or-e%CC%81mirati-tient-des-lingots-d-or-dans-une-boutique-du-Souk-de-l-Or-de-Dubai%CC%88-le-13-avril-2026.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-15T23:27:54.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.390Z"
-        },
-        {
-          "id": "2026-11-15-ad6e487b",
-          "title": "Présidentielle 2027 : un champion olympique à l'Elysée ?",
-          "description": "Au menu de Présidentielle 2027 : la candidature de Teddy Riner, Marine Le Pen toujours en tête des sondages, et pas de candidat unique pour la droite et le centre…\n \nAvec Emilie Zapalski, éditorialiste politique et conseillère en communication, et Mathieu Doiret, analyste à l'Institut Ipsos.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-pr%C3%A9sidentielle-2027-un-champion-olympique-%C3%A0-l-elys%C3%A9e",
-          "imageUrl": "https://s.france24.com/media/display/a59a62b0-e137-11f1-8779-29048b396e03/w:1024/p:16x9/FR-20261115-211039-212744-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-15T21:48:27.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.354Z"
-        },
-        {
-          "id": "2026-11-15-d396a3d9",
-          "title": "Ariane Chemin: \"ce bannissement, c'est mélanger une influenceuse propagandiste, et des journalistes\"",
-          "description": "Parallèlement à sa guerre en Ukraine et ses attaques hybrides à l'encontre de nombreux pays européens, la Russie mène une guerre informationnelle. C'est dans ce contexte que s'inscrivent les dernières restrictions imposées par Moscou aux  journalistes étrangers. Les derniers à en avoir fait les frais sont les journalistes français Ariane Chemin et Paul Gogo, qui aux côtés de deux députés, Sacha Houlié et Arthur Delaporte, ont été déclarés personae non gratae par le Kremlin.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-ariane-chemin-ce-bannissement-c-est-m%C3%A9langer-une-influenceuse-propagandiste-et-des-journalistes",
-          "imageUrl": "https://s.france24.com/media/display/bf995bb8-e12c-11f1-a1b3-f71d22e7fea9/w:1024/p:16x9/FR-20261115-201106-202437-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-15T20:50:09.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.354Z"
-        },
-        {
-          "id": "2026-11-15-3a6ee4b2",
-          "title": "La marine nationale intercepte un semi-submersible chargé de plusieurs tonnes de cocaïne dans l’Atlantique ; quatre suspects interpellés",
-          "description": "Lorsque la frégate de la marine s’est approchée de l’embarcation, trois personnes se sont jetées à l’eau, avant d’être repêchées. Un quatrième suspect, qui a eu le temps de saborder l’engin, a été appréhendé à bord du navire semi-submersible, qui a coulé.",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/15/la-marine-nationale-intercepte-un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-dans-l-atlantique-quatre-suspects-interpelles_6811045_3224.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-15T18:00:35.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.295Z"
-        },
-        {
-          "id": "2026-11-15-9d9c0374",
-          "title": "Adama Barrow brigue un troisième mandat face à quatre adversaires en Gambie",
-          "description": "La Gambie se prépare à une nouvelle élection présidentielle avec cinq candidats en lice. Le président sortant Adama Barrow brigue un troisième mandat, face à quatre adversaires qui espèrent lui ravir le pouvoir. Un scrutin suivi de près dans un pays encore marqué par les années de régime de Yahya Jammeh. Récit d'Olivia Bizot.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-adama-barrow-brigue-un-troisi%C3%A8me-mandat-face-%C3%A0-quatre-adversaires-en-gambie",
-          "imageUrl": "https://s.france24.com/media/display/e8530950-e104-11f1-8add-5f54d898a954/w:1024/p:16x9/FR-20261114-214729-214921-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-15T17:11:04.000Z",
-          "fetchedAt": "2026-11-16T04:01:01.354Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-20",
-      "topic": "Cette app française connaît mieux votre Tesla que l’app Tesla",
+      "id": "cluster-7",
+      "topic": "Hyperscale data centers use 2% of US electricity",
       "category": "tech",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-15-d671c60b",
-          "title": "Cette app française connaît mieux votre Tesla que l’app Tesla",
-          "description": "Vous trouvez votre app Tesla trop limitée ? Un Français lance Copeel, une application iPhone destinée aux propriétaires de Tesla et nous avons eu la chance de la bêta-tester. Elle enregistre trajets, recharges, stationnement et santé de la batterie, ajoute un assistant IA et plusieurs features malines.",
-          "url": "https://www.numerama.com/tech/2373571-cette-app-francaise-connait-mieux-votre-tesla-que-lapp-tesla.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/sans-titre-6-1.png?resize=1600,900&key=7a2c8d07",
-          "source": "Numerama",
+          "id": "2026-11-16-0e75ab5e",
+          "title": "Hyperscale data centers use 2% of US electricity",
+          "description": "Study attempts to tally hyperscalers’ energy use and emissions.",
+          "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
+          "source": "Ars Technica",
           "category": "tech",
-          "publishedAt": "2026-11-15T09:03:00.000Z",
-          "fetchedAt": "2026-11-16T04:01:10.246Z"
+          "publishedAt": "2026-11-16T20:52:10.000Z",
+          "fetchedAt": "2026-11-17T04:00:57.729Z"
         },
         {
-          "id": "2026-11-14-746f1d22",
-          "title": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
-          "description": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste.",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
+          "id": "2026-11-16-616d362b",
+          "title": "US data centers now burn more electricity than a midsized country",
+          "description": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.\nThe study homes in on hyperscale facilities - the massive structures spanning millions of square feet that developers are racing to build in large part to support generative AI. Researchers say the findings show that there's a lot of work left to do to cut down pollution stemming from AI's reliance on fossil fuels.\n\"We tend to discuss AI's envir …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-11-14T17:00:08.000Z",
-          "fetchedAt": "2026-11-16T04:01:10.161Z"
-        },
-        {
-          "id": "2026-11-14-80ae1590",
-          "title": "Ce que l’on sait de la cyberattaque contre des frigos de supermarchés en France",
-          "description": "Ces dernières semaines, des centaines de réfrigérateurs de supermarchés en France et en Europe ont été piratés. Les hackers sont parvenus à prendre le contrôle des logiciels de gestion à distance des appareils.",
-          "url": "https://www.lemonde.fr/videos/video/2026/11/14/ce-que-l-on-sait-des-cyberattaques-contre-des-refrigerateurs-de-supermarches_6809687_1669088.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-11-14T05:00:08.000Z",
-          "fetchedAt": "2026-11-16T04:01:10.161Z"
+          "publishedAt": "2026-11-16T20:27:58.000Z",
+          "fetchedAt": "2026-11-17T04:00:50.862Z"
         }
       ]
     },
     {
-      "id": "cluster-3",
-      "topic": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "id": "cluster-1",
+      "topic": "Customers report service outages at major US banks",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-15-5a8aa761",
-          "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
-          "description": "The report being launched this week will suggest gradually reducing employment costs over five years.",
-          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png",
+          "id": "2026-11-17-63bd91bd",
+          "title": "Customers report service outages at major US banks",
+          "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-11-15T22:30:03.000Z",
-          "fetchedAt": "2026-11-16T04:01:14.165Z"
+          "publishedAt": "2026-11-17T00:18:01.000Z",
+          "fetchedAt": "2026-11-17T04:00:57.893Z"
         }
       ]
     }
