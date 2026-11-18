@@ -1,264 +1,242 @@
 {
-  "generatedAt": "2026-11-17T04:01:07.404Z",
+  "generatedAt": "2026-11-18T04:00:47.090Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-2",
-      "topic": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
+      "id": "cluster-1",
+      "topic": "🔴 Sénat américain : en prenant l'Alaska, les démocrates étendent leur majorité ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-17-259acb77",
-          "title": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
-          "description": "Des frappes russes ont touché deux ponts importants de Kiev lundi soir, a déclaré le maire de la capitale ukrainienne, Vitali Klitschko, ajoutant que des \"systèmes d'infrastructures critiques\" avaient été endommagés. La Russie a de son côté confirmé que le pont de Crimée avait été frappé pour la deuxième journée consécutive. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
-          "imageUrl": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg",
+          "id": "2026-11-18-5b14b961",
+          "title": "🔴 Sénat américain : en prenant l'Alaska, les démocrates étendent leur majorité à 56 sièges contre 44",
+          "description": "",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261118-etats-unis-midterms-senat-americain-alaska-peltola-victoire-democrates-etendent-leur-majorite-56-sieges",
+          "imageUrl": "https://s.france24.com/media/display/90f6b112-e301-11f1-8d0c-7908c4e1a3c7/w:1280/p:16x9/AP26308242860566.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-17T00:22:05.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.650Z"
+          "publishedAt": "2026-11-18T03:47:07.000Z",
+          "fetchedAt": "2026-11-18T04:00:32.290Z"
         },
         {
-          "id": "2026-11-17-280062de",
-          "title": "EN DIRECT, guerre en Ukraine : des frappes russes ont touché deux importants ponts de Kiev, annonce le maire, Vitali Klitschko",
-          "description": "« A la suite de l’attaque ennemie, des systèmes d’infrastructures critiques ont été endommagés », a fait savoir, lundi soir, le maire de la capitale ukrainienne, faisant état de frappes russes ayant « touché les ponts Nord et Sud » de la ville.",
-          "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html",
+          "id": "2026-11-18-5a954ea3",
+          "title": "Etats-Unis : un Pakistanais condamné à plus de vingt-sept ans de prison pour tentative d’assassinat sur des personnalités politiques, dont Donald Trump",
+          "description": "Selon l’enquête, Asif Merchant a été recruté par Téhéran pour venger la mort du général iranien Soleimani, tué en 2020 dans une frappe ordonnée par le président américain.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/18/etats-unis-un-pakistanais-condamne-a-plus-de-vingt-sept-ans-de-prison-pour-tentative-d-assassinat-sur-des-personnalites-politiques-dont-donald-trump_6813059_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-17T00:13:59.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.659Z"
+          "publishedAt": "2026-11-18T03:45:21.000Z",
+          "fetchedAt": "2026-11-18T04:00:31.914Z"
         },
         {
-          "id": "2026-11-16-fda86912",
-          "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-          "description": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-          "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+          "id": "2026-11-17-6b78930c",
+          "title": "RDC: un an après l'accord stratégique avec les États-Unis, du cuivre livré et de grands chantiers encore à négocier",
+          "description": "Près d'un an après la signature de l'accord stratégique entre Kinshasa et Washington, une première cargaison de cuivre congolais a rejoint la réserve américaine de minerais critiques. La RDC a aussi réformé sa fiscalité et signé une concession ferroviaire sur le corridor de Lobito. Mais la réhabilitation du rail reste à engager et le financement du barrage d'Inga 3 à réunir. Et dans l'est du pays, Kinshasa attend toujours les résultats espérés sur le plan sécuritaire.",
+          "url": "https://www.rfi.fr/fr/afrique/20261117-rdc-un-an-apr%C3%A8s-l-accord-strat%C3%A9gique-avec-les-%C3%A9tats-unis-du-cuivre-livr%C3%A9-et-de-grands-chantiers-encore-%C3%A0-n%C3%A9gocier",
+          "imageUrl": "https://s.rfi.fr/media/display/de556d5e-e289-11f1-8317-6d75ed565170/w:1024/p:16x9/000-876H3CN.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T21:13:59.000Z",
+          "fetchedAt": "2026-11-18T04:00:32.151Z"
+        },
+        {
+          "id": "2026-11-17-f5916c65",
+          "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+          "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+          "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-16T14:58:12.000Z",
-          "fetchedAt": "2026-11-17T04:00:50.902Z"
+          "publishedAt": "2026-11-17T18:58:57.000Z",
+          "fetchedAt": "2026-11-18T04:00:37.757Z"
         },
         {
-          "id": "2026-11-16-04c271b5",
-          "title": "Ukraine: il faut arrêter la «boucherie», soutient Andréa Kotarac, porte-parole du RN, qui veut stopper les aides à Kiev",
-          "description": "Andréa Kotarac, porte-parole de campagne de Marine Le Pen et du Rassemblement national, justifie la décision de Marine Le Pen de couper l'aide financière à l'Ukraine si elle accède à l'Élysée. « Dix ans de macronisme ont ruiné la France », plaide Andréa Kotarac, qui soutient que le RN « adorerait financer Kiev, mais que la France n'en a plus les moyens ». Face aux accusations de l'Élysée de « jouer contre la France et l'Europe », Andréa Kotarac défend la nécessité d'organiser à Paris « une conférence de paix » pour mettre fin « à la boucherie » qui a déjà fait deux millions de victimes en Ukraine.",
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261116-ukraine-il-faut-arr%C3%AAter-la-boucherie-soutient-andr%C3%A9a-kotarac-porte-parole-du-rn-qui-veut-stopper-les-aides-%C3%A0-kiev",
-          "imageUrl": "https://s.rfi.fr/media/display/2cfeabfc-c0b4-11ec-b219-005056a90284/w:1024/p:16x9/000_9BB9MA.jpg",
-          "source": "RFI",
+          "id": "2026-11-17-c814c375",
+          "title": "Rougeole : les États-Unis perdent leur statut de pays ayant éliminé la maladie",
+          "description": "Les États-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé, mardi, l'Organisation panaméricaine de la Santé. Alors qu'elle avait été éradiquée depuis 25 ans dans le pays, cette maladie grave et très contagieuse a signé sous Donald Trump un retour en force, sur fond de baisse des taux de vaccination.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261117-les-%C3%A9tats-unis-perdent-leur-statut-de-pays-qui-a-%C3%A9limin%C3%A9-la-rougeole",
+          "imageUrl": "https://s.france24.com/media/display/00aff864-da20-11f1-a9b8-1beafce15fea/w:1024/p:16x9/c89ced2680a79004e7d22261ff1eb160cfe10c46.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-16T14:54:13.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.685Z"
+          "publishedAt": "2026-11-17T16:59:32.000Z",
+          "fetchedAt": "2026-11-18T04:00:32.290Z"
         },
         {
-          "id": "2026-11-16-c57a1752",
-          "title": "L'Ukraine frappe le pont reliant la Russie à la Crimée annexée par Moscou",
-          "description": "L'Ukraine a « frappé » le pont reliant la Russie à la péninsule de Crimée annexée par Moscou en 2014, restreignant la circulation sur cet ouvrage stratégique, a annoncé lundi 16 novembre le chef des autorités locales nommé par Moscou.",
-          "url": "https://www.rfi.fr/fr/europe/20261116-l-ukraine-frappe-le-pont-reliant-la-russie-%C3%A0-la-crim%C3%A9e-annex%C3%A9e-par-moscou",
-          "imageUrl": "https://s.rfi.fr/media/display/e6618ed8-e18f-11f1-a857-f71d22e7fea9/w:1024/p:16x9/000-D7KG3ZQ.jpg",
-          "source": "RFI",
+          "id": "2026-11-17-b088e697",
+          "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, annonce l’Organisation panaméricaine de la santé",
+          "description": "Le Mexique et la Bolivie ont subi le même sort, un an après que le Canada a déjà perdu ce statut en raison d’une épidémie persistante de rougeole.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/17/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-annonce-l-organisation-panamericaine-de-la-sante_6813011_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-16T07:42:37.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.685Z"
+          "publishedAt": "2026-11-17T16:58:59.000Z",
+          "fetchedAt": "2026-11-18T04:00:31.914Z"
         }
       ]
     },
     {
-      "id": "cluster-4",
-      "topic": "Five EU countries announce migrant deportation centre in Rwanda",
+      "id": "cluster-6",
+      "topic": "« Un abandon flagrant de responsabilité et d’humanité » : HRW dénonce le projet ",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-16-1c8dfbcb",
-          "title": "Five EU countries announce migrant deportation centre in Rwanda",
-          "description": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+          "id": "2026-11-18-76799f3e",
+          "title": "« Un abandon flagrant de responsabilité et d’humanité » : HRW dénonce le projet de cinq pays européens d’expulser des migrants vers le Rwanda",
+          "description": "L’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ont présenté un projet inédit visant à transférer vers le Rwanda des demandeurs d’asile dont les recours ont été définitivement rejetés.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/18/un-abandon-flagrant-de-responsabilite-et-d-humanite-hrw-denonce-le-projet-de-cinq-pays-europeens-d-expulser-des-migrants-vers-le-rwanda_6813055_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-18T01:06:57.000Z",
+          "fetchedAt": "2026-11-18T04:00:31.914Z"
+        },
+        {
+          "id": "2026-11-17-ec79277e",
+          "title": "Certains clients n’ont aucun problème à franchir les limites fixées par une travailleuse du sexe",
+          "description": "Chaque semaine, la chronique phénomène du “New York Times” sur l’amour vous est proposée en exclusivité, traduite en français, par “Courrier international”. Ce dimanche, une travailleuse du sexe raconte comment elle a dû apprendre à savoir dire non.",
+          "url": "https://www.courrierinternational.com/article/modern-love-certains-clients-n-ont-aucun-probleme-a-franchir-les-limites-fixees-par-une-travailleuse-du-sexe_201397_1",
+          "imageUrl": "https://focus.courrierinternational.com/2023/02/09/535/0/1995/1330/1200/630/60/0/b5818ae_1675937479454-modern-love-sex-worker-jan27-0.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T20:22:11.000Z",
+          "fetchedAt": "2026-11-18T04:00:32.409Z"
+        },
+        {
+          "id": "2026-11-17-b2adcd01",
+          "title": "COP31: un projet de déclaration finale qui fait polémique",
+          "description": "À la COP, les ministres de l'environnement négocient la déclaration finale. Le projet de texte reprend toutes les propositions des différentes parties et se contredit parfois. Une exhaustivité contre-productive qui pourrait conduire à un échec des négociations. L'Union Européenne, par la voix de son commissaire au climat, se dit prête à renoncer à la mention de l'origine décarbonnée de l'électricité dans le paragraphe sur l'électrification, dans le but de trouver un accord.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261117-cop31-un-projet-de-d%C3%A9claration-finale-qui-fait-pol%C3%A9mique",
+          "imageUrl": "https://s.france24.com/media/display/cbe23658-e2bf-11f1-be73-7908c4e1a3c7/w:1024/p:16x9/capture-d1149adc.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T19:58:23.000Z",
+          "fetchedAt": "2026-11-18T04:00:32.290Z"
+        },
+        {
+          "id": "2026-11-17-08abaabc",
+          "title": "Royaume-Uni : une réforme « radicale » pour remettre dans l’emploi « une génération perdue »",
+          "description": "Un rapport a été publié, mardi, qui propose des mesures pour les près d’un million de jeunes Britanniques âgés de 16 à 24 ans qui ne sont ni en emploi, ni en études, ni en formation. Le gouvernement s’en inspirera pour présenter ses propositions en 2027.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/17/royaume-uni-une-reforme-radicale-pour-remettre-dans-l-emploi-une-generation-perdue_6813035_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T18:48:40.000Z",
+          "fetchedAt": "2026-11-18T04:00:31.914Z"
+        },
+        {
+          "id": "2026-11-17-32a41cec",
+          "title": "Banque centrale européenne : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
+          "description": "La France décrocherait le poste en charge des marchés financiers et nommerait Laurence Boone. Reste aux autres pays de la zone euro à accepter ces nominations.",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/17/banque-centrale-europeenne-l-allemagne-propose-l-economiste-markus-brunnermeier-au-directoire-la-presidence-de-pablo-hernandez-de-cos-se-profile_6813020_3234.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T17:37:13.000Z",
+          "fetchedAt": "2026-11-18T04:00:31.914Z"
+        },
+        {
+          "id": "2026-11-17-7567100f",
+          "title": "Guerre en Ukraine : une partie du pont de Crimée s’effondre après des frappes de Kiev",
+          "description": "L'attaque ukrainienne sur le pont reliant la Russie à la Crimée, annexée par Moscou, a été qualifiée d'\"opération sans précédent\" par Volodymyr Zelensky ce mardi 17 novembre. Des bombardements menés en \"réponse aux frappes russes\" contre les infrastructures du pays, selon le président ukrainien.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-guerre-en-ukraine-une-partie-du-pont-de-crim%C3%A9e-s-effondre-apr%C3%A8s-des-frappes-de-kiev",
+          "imageUrl": "https://s.france24.com/media/display/f13b7294-e2a5-11f1-9a94-1ba7ddfab527/w:1024/p:16x9/guerreenukraine.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T17:05:50.000Z",
+          "fetchedAt": "2026-11-18T04:00:32.290Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-8",
+      "topic": "EN DIRECT, guerre en Ukraine : Moscou rappelle que des troupes étrangères seraie",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-17-a889d731",
+          "title": "EN DIRECT, guerre en Ukraine : Moscou rappelle que des troupes étrangères seraient des « cibles légitimes », à propos de la présence de militaires français en Ukraine",
+          "description": "Selon la porte-parole du ministère des affaires étrangères russe, « l’implication directe de Paris dans le conflit en Ukraine est “un secret de Polichinelle” ». Par ailleurs, Vladimir Poutine est arrivé, mardi, en Chine où il doit rencontrer Donald Trump et Xi Jinping.",
+          "url": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-moscou-rappelle-que-des-troupes-etrangeres-seraient-des-cibles-legitimes-a-propos-de-la-presence-de-militaires-francais-en-ukraine_6810982_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T23:59:42.000Z",
+          "fetchedAt": "2026-11-18T04:00:31.914Z"
+        },
+        {
+          "id": "2026-11-17-09249ac0",
+          "title": "Les Français «ne sont pas cobelligérants en Ukraine» malgré la présence de soldats, martèle le gouvernement",
+          "description": "La ministre française déléguée auprès des Armées, Alice Rufo, a assuré, mardi 17 novembre, que les Français n'étaient « pas cobelligérants en Ukraine ». La veille, RFI avait révélé que des militaires français sont présents en Ukraine pour des missions de « formation » et de « maintenance ». La Russie a accusé la France de « participation directe à la guerre ». Une accusation que Paris a qualifiée d'« absurde ».",
+          "url": "https://www.rfi.fr/fr/france/20261117-les-fran%C3%A7ais-ne-sont-pas-cobellig%C3%A9rants-en-ukraine-malgr%C3%A9-la-pr%C3%A9sence-de-soldats-mart%C3%A8le-le-gouvernement",
+          "imageUrl": "https://s.rfi.fr/media/display/8be28144-e2aa-11f1-807d-ff16da94d1fe/w:1024/p:16x9/000-D7QQ7C9.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T17:47:27.000Z",
+          "fetchedAt": "2026-11-18T04:00:32.151Z"
+        },
+        {
+          "id": "2026-11-17-26b63dc0",
+          "title": "Soldats français déployés en Ukraine: Moscou y voit une «participation directe» au conflit",
+          "description": "Ce mardi 17 novembre, le ministre russe des Affaires étrangères a qualifié de « participation directe » au conflit en Ukraine le déploiement de soldats français opérant en Ukraine pour des missions de formation et d'entretien de matériels, révélé lundi par RFI.",
+          "url": "https://www.rfi.fr/fr/europe/20261117-soldats-fran%C3%A7ais-d%C3%A9ploy%C3%A9s-en-ukraine-moscou-y-voit-une-participation-directe-au-conflit",
+          "imageUrl": "https://s.rfi.fr/media/display/5112e664-3a74-11f1-904f-005056a97e36/w:1024/p:16x9/AP26062382346034.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-17T11:14:54.000Z",
+          "fetchedAt": "2026-11-18T04:00:32.151Z"
+        },
+        {
+          "id": "2026-11-17-15833b01",
+          "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+          "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+          "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f253/live/e4451260-e2a1-11f1-99b6-a35a62fa4264.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-16T23:20:45.000Z",
-          "fetchedAt": "2026-11-17T04:00:50.902Z"
-        },
-        {
-          "id": "2026-11-16-4a6c1ca0",
-          "title": "17 novembre : comment une rumeur a propagé l'idée d'une panne en France",
-          "description": "Depuis plusieurs semaines, des publications mettent en garde contre une panne générale d'Internet, d'électricité et de transports en France notamment, pour le 17 novembre. Une rumeur basée sur l'exagération de certains faits véridiques couplés à des théories complotistes et à des évènements récents bien réels qui alimentent l'inquiétude.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261116-17-novembre-comment-une-rumeur-a-propag%C3%A9-l-id%C3%A9e-d-une-panne-en-france",
-          "imageUrl": "https://s.france24.com/media/display/dfbdf7d8-e1fd-11f1-9350-3f371022a770/w:1024/p:16x9/FRAN261116-2115-Live-CS2115.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T20:53:33.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.650Z"
-        },
-        {
-          "id": "2026-11-16-77155c8e",
-          "title": "Le projet de cinq pays de l’UE d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
-          "description": "L’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ont annoncé, lundi 16 novembre, la création d’une plateforme au Rwanda, où pourront être renvoyés les demandeurs d’asile déboutés.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T20:52:34.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.659Z"
-        },
-        {
-          "id": "2026-11-16-f49a63c0",
-          "title": "Maileva : nouvelle cyberattaque contre une société française",
-          "description": "C'est le plus récent piratage informatique d'une société française : Maileva, filiale de La Poste, s'est vu dérober les coordonnées de 22 millions de clients (nom, prénom et adresse postale). Elle est la dernière victime d'une longue liste de victimes de cyberattaques en France, après le Crédit Mutuel Arkéa la semaine dernière, le Trésor public l'été dernier ou les frigos de supermarchés les 11 et 12 octobre. En 2025, la CNIL a compté 6 000 violations de données, en hausse de 50% sur 3 ans.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-maileva-nouvelle-cyberattaque-contre-une-soci%C3%A9t%C3%A9-fran%C3%A7aise",
-          "imageUrl": "https://s.france24.com/media/display/42cd69b6-e1eb-11f1-9f5b-3f371022a770/w:1024/p:16x9/XX-NW-OOV-ECO-MAILEVA-PIRATAGE-MANENT-Laure-transfer.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T19:57:51.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.650Z"
-        },
-        {
-          "id": "2026-11-16-bbbfc992",
-          "title": "En images : cinq pays de l’UE annoncent un projet de centre pour migrants au Rwanda",
-          "description": "A en croire les architectes de ce projet, aucune exception n’a été faite en matière de nationalité. Les mineurs sont quant à eux exclus du dispositif.",
-          "url": "https://www.lemonde.fr/international/video/2026/11/16/en-images-cinq-pays-de-l-ue-annoncent-un-projet-de-centre-pour-migrants-au-rwanda_6812261_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T18:43:28.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.659Z"
-        },
-        {
-          "id": "2026-11-16-42cc597e",
-          "title": "La primaire de la droite, \"un aveu d’échec\" pour Gabriel Attal et Bruno Retailleau",
-          "description": "Après y avoir longtemps été opposés, Gabriel Attal et Bruno Retailleau appellent désormais de leurs vœux à l’organisation d’une primaire pour désigner un candidat unique de la droite et du centre. L'objectif : éviter un second tour de la présidentielle opposant Marine Le Pen et Jean-Luc Mélenchon. Un revirement qui coïncide avec leur chute conjointe dans les sondages.",
-          "url": "https://www.france24.com/fr/france/20261116-france-presidentielle-2027-primaire-de-la-droite-un-aveu-dechec-pour-gabriel-attal-et-bruno-retailleau",
-          "imageUrl": "https://s.france24.com/media/display/6c364b1c-e1da-11f1-a9d7-f71d22e7fea9/w:1024/p:16x9/main-primaire-candidats.png",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T17:57:20.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.650Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-5",
-      "topic": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-16-648abca4",
-          "title": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
-          "description": "Au Cambodge, le sommet de la Francophonie s’est achevé ce lundi sur le report d’un an de l’élection à la tête de l’organisation. En cause notamment : les tensions entre la République démocratique du Congo et le Rwanda. La secrétaire générale, la Rwandaise Louise Mushikiwabo, reste donc en poste jusqu’au prochain scrutin. L'occasion de parler de la francophonie et de son avenir qui se joue d'ailleurs principalement sur le continent africain.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
-          "imageUrl": "https://s.france24.com/media/display/9d28d0dc-e211-11f1-98c2-5f54d898a954/w:1024/p:16x9/FRAN261116-2339-Live-CS2339.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T23:11:50.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.650Z"
-        },
-        {
-          "id": "2026-11-16-294aaa8e",
-          "title": "France: deux condamnations à perpétuité à l'issue du procès du triple narchomicide près de Marseille",
-          "description": "Après un mois d'un procès sous haute tension, deux figures du narcotrafic en France, jugées pour un triple assassinat ultraviolent, ont été condamnées lundi 16 novembre à des peines de prison à perpétuité à Aix-en-Provence. Le verdict a été qualifié de « message à la narcocratie » par le militant Amine Kessaci, dont un frère a été tué dans ce guet-apens meurtrier.",
-          "url": "https://www.rfi.fr/fr/france/20261116-france-deux-condamnations-%C3%A0-perp%C3%A9tuit%C3%A9-%C3%A0-l-issue-du-proc%C3%A8s-du-triple-narchomicide-pr%C3%A8s-de-marseille",
-          "imageUrl": "https://s.rfi.fr/media/display/643239e4-e1ee-11f1-a552-5f54d898a954/w:1024/p:16x9/000-D3QA9QV.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T19:38:46.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.685Z"
-        },
-        {
-          "id": "2026-11-16-ad1996f6",
-          "title": "Emmanuel Macron assure avoir fait de son mieux malgré des \"erreurs\"",
-          "description": "Emmanuel Macron a posté, lundi, un message sur X en forme de bilan pour les 10 ans de l'annonce de sa première candidature à l'Élysée. \"J'ai fait de mon mieux\", a-t-il assuré, tout en concédant \"parfois des erreurs\", à six mois de la fin de son second mandat.",
-          "url": "https://www.france24.com/fr/france/20261116-macron-assure-avoir-fait-de-son-mieux-malgr%C3%A9-des-erreurs",
-          "imageUrl": "https://s.france24.com/media/display/7f1d673a-e1ec-11f1-9596-f71d22e7fea9/w:1024/p:16x9/7f6d81c95ab87a584e5082fe94983065fe1e7685.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T18:35:29.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.650Z"
-        },
-        {
-          "id": "2026-11-16-73c9c16a",
-          "title": "Quelle riposte pour la France après la cyberattaque contre les réfrigérateurs de supermarché attribuée à l’Iran ?",
-          "description": "L’attribution de l’attaque contre les systèmes de froid de nombreux supermarchés français à l’Iran n’est qu’une première réponse de Paris. Elle s’inscrit dans une stratégie précise, et était un préalable nécessaire à d’éventuelles contre-mesures.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/16/quelle-riposte-pour-la-france-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-attribuee-a-l-iran_6812232_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T17:52:41.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.659Z"
-        },
-        {
-          "id": "2026-11-16-9131ac05",
-          "title": "Sommets de l'Asean et de l'Apec: la France et les Européens à l'écart des grandes rencontres en Asie",
-          "description": "L'Asie est le centre de gravité de la diplomatie mondiale cette semaine. Le président chinois Xi Jinping, ses homologues russe Vladimir Poutine et états-unien Donald Trump se retrouvent en Chine, jeudi 19 novembre, pour une rencontre trilatérale historique. Avant cela, le président Trump sera à Manille pour le sommet des pays d'Asie du Sud-Est, aux côtés des dirigeants brésilien, indien, japonais et canadien. Les Européens, en revanche, manquent à l'appel.",
-          "url": "https://www.rfi.fr/fr/asie-pacifique/20261116-sommets-de-l-asean-et-de-l-apec-la-france-et-les-europ%C3%A9ens-%C3%A0-l-%C3%A9cart-des-grandes-rencontres-en-asie",
-          "imageUrl": "https://s.rfi.fr/media/display/4db85672-e1de-11f1-95a9-5f54d898a954/w:1024/p:16x9/2026-11-16T033506Z-1018486305-RC2QOOAWSXJA-RTRMADP-3-CAMBODIA-FRANCOPHONIE.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T17:35:23.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.685Z"
-        },
-        {
-          "id": "2026-11-16-6ee62f26",
-          "title": "Triple narchomicide en France : l'heure du verdict pour la DZ Mafia",
-          "description": "Les cinq accusés ont tour à tour présenté leurs \"condoléances\" aux familles des victimes lundi 16 novembre, sous le regard notamment d'Amine Kessaci et de sa mère, Ouassila, qui portait un pull blanc orné du portrait de son fils cadet Mehdi, lui aussi assassiné. Ce jeune homme de 20 ans, étranger au narcotrafic, a été abattu en plein jour à Marseille il y a un an, en novembre 2025. Le verdict du procès pour triple narchomicide est attendu dans la journée.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-triple-narchomicide-en-france-l-heure-du-verdict-pour-la-dz-mafia",
-          "imageUrl": "https://s.france24.com/media/display/97d75578-e1cf-11f1-828f-695cb59fade5/w:1024/p:16x9/FR-20261116-151542-151730-CS.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-16T16:06:48.000Z",
-          "fetchedAt": "2026-11-17T04:00:41.650Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-7",
-      "topic": "Hyperscale data centers use 2% of US electricity",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-16-0e75ab5e",
-          "title": "Hyperscale data centers use 2% of US electricity",
-          "description": "Study attempts to tally hyperscalers’ energy use and emissions.",
-          "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-11-16T20:52:10.000Z",
-          "fetchedAt": "2026-11-17T04:00:57.729Z"
-        },
-        {
-          "id": "2026-11-16-616d362b",
-          "title": "US data centers now burn more electricity than a midsized country",
-          "description": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.\nThe study homes in on hyperscale facilities - the massive structures spanning millions of square feet that developers are racing to build in large part to support generative AI. Researchers say the findings show that there's a lot of work left to do to cut down pollution stemming from AI's reliance on fossil fuels.\n\"We tend to discuss AI's envir …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-11-16T20:27:58.000Z",
-          "fetchedAt": "2026-11-17T04:00:50.862Z"
+          "publishedAt": "2026-11-17T05:59:01.000Z",
+          "fetchedAt": "2026-11-18T04:00:37.757Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Customers report service outages at major US banks",
+      "topic": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "category": "tech",
+      "importance": 7,
+      "articles": [
+        {
+          "id": "2026-11-18-26a444a0",
+          "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+          "description": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+          "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-11-18T00:27:29.000Z",
+          "fetchedAt": "2026-11-18T04:00:42.384Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "Waymo temporarily pulls driverless taxis from all US freeways",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-17-63bd91bd",
-          "title": "Customers report service outages at major US banks",
-          "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+          "id": "2026-11-18-ccc4389d",
+          "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+          "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+          "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-11-17T00:18:01.000Z",
-          "fetchedAt": "2026-11-17T04:00:57.893Z"
+          "publishedAt": "2026-11-18T03:07:22.000Z",
+          "fetchedAt": "2026-11-18T04:00:42.297Z"
         }
       ]
     }
