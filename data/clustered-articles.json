@@ -1,242 +1,209 @@
 {
-  "generatedAt": "2026-11-18T04:00:47.090Z",
+  "generatedAt": "2026-11-19T04:01:08.323Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-1",
-      "topic": "🔴 Sénat américain : en prenant l'Alaska, les démocrates étendent leur majorité ",
+      "topic": "Interdire le commerce avec les colonies israéliennes : des députés veulent place",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-18-5b14b961",
-          "title": "🔴 Sénat américain : en prenant l'Alaska, les démocrates étendent leur majorité à 56 sièges contre 44",
-          "description": "",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261118-etats-unis-midterms-senat-americain-alaska-peltola-victoire-democrates-etendent-leur-majorite-56-sieges",
-          "imageUrl": "https://s.france24.com/media/display/90f6b112-e301-11f1-8d0c-7908c4e1a3c7/w:1280/p:16x9/AP26308242860566.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-18T03:47:07.000Z",
-          "fetchedAt": "2026-11-18T04:00:32.290Z"
-        },
-        {
-          "id": "2026-11-18-5a954ea3",
-          "title": "Etats-Unis : un Pakistanais condamné à plus de vingt-sept ans de prison pour tentative d’assassinat sur des personnalités politiques, dont Donald Trump",
-          "description": "Selon l’enquête, Asif Merchant a été recruté par Téhéran pour venger la mort du général iranien Soleimani, tué en 2020 dans une frappe ordonnée par le président américain.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/18/etats-unis-un-pakistanais-condamne-a-plus-de-vingt-sept-ans-de-prison-pour-tentative-d-assassinat-sur-des-personnalites-politiques-dont-donald-trump_6813059_3210.html",
+          "id": "2026-11-19-10f0f9db",
+          "title": "Interdire le commerce avec les colonies israéliennes : des députés veulent placer la France face à ses engagements",
+          "description": "Une proposition de loi du Parti socialiste, examinée jeudi 19 novembre à l’Assemblée, veut interdire le commerce avec les colonies israéliennes, y compris les services financiers, alors que deux mois après avoir annoncé des sanctions, le gouvernement n’agit pas.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/19/interdire-le-commerce-avec-les-colonies-israeliennes-des-deputes-veulent-placer-la-france-face-a-ses-engagements_6813220_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-18T03:45:21.000Z",
-          "fetchedAt": "2026-11-18T04:00:31.914Z"
+          "publishedAt": "2026-11-19T04:00:10.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.387Z"
         },
         {
-          "id": "2026-11-17-6b78930c",
-          "title": "RDC: un an après l'accord stratégique avec les États-Unis, du cuivre livré et de grands chantiers encore à négocier",
-          "description": "Près d'un an après la signature de l'accord stratégique entre Kinshasa et Washington, une première cargaison de cuivre congolais a rejoint la réserve américaine de minerais critiques. La RDC a aussi réformé sa fiscalité et signé une concession ferroviaire sur le corridor de Lobito. Mais la réhabilitation du rail reste à engager et le financement du barrage d'Inga 3 à réunir. Et dans l'est du pays, Kinshasa attend toujours les résultats espérés sur le plan sécuritaire.",
-          "url": "https://www.rfi.fr/fr/afrique/20261117-rdc-un-an-apr%C3%A8s-l-accord-strat%C3%A9gique-avec-les-%C3%A9tats-unis-du-cuivre-livr%C3%A9-et-de-grands-chantiers-encore-%C3%A0-n%C3%A9gocier",
-          "imageUrl": "https://s.rfi.fr/media/display/de556d5e-e289-11f1-8317-6d75ed565170/w:1024/p:16x9/000-876H3CN.jpg",
+          "id": "2026-11-19-da5dd63a",
+          "title": "Entre impatience et attentes très fortes, les joueurs français prêts pour la sortie de GTA VI",
+          "description": "Imaginez un produit culturel capable de faire poser des congés à des milliers de personnes et de générer plus de revenus en 24 heures que les plus gros blockbusters du cinéma. Ce produit, c'est un jeu vidéo : Grand Theft Auto VI. Treize ans après le précédent volet, le titre le plus attendu de la décennie sort ce jeudi 19 novembre 2026. En France, l'impatience est à son comble. Des boutiques spécialisées aux forums de fans, c'est toute une communauté qui est prête à mettre sa vie sur pause.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261119-entre-impatience-et-attentes-tr%C3%A8s-fortes-les-joueurs-fran%C3%A7ais-pr%C3%AAts-pour-la-sortie-de-gta-vi",
+          "imageUrl": "https://s.rfi.fr/media/display/83f8c334-e396-11f1-a581-ff16da94d1fe/w:1024/p:16x9/000-D6ZV23C.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-17T21:13:59.000Z",
-          "fetchedAt": "2026-11-18T04:00:32.151Z"
+          "publishedAt": "2026-11-19T00:12:08.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.321Z"
         },
         {
-          "id": "2026-11-17-f5916c65",
-          "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-          "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-          "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
-          "source": "BBC World",
+          "id": "2026-11-18-0a4d8585",
+          "title": "Trois « revenantes » françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l’organisation Etat islamique",
+          "description": "La cour d’assises spéciale de Paris a condamné deux ex-épouses d’Adrien Guihal, haut cadre de l’EI qui avait revendiqué en 2016 les attentats de Nice et de Magnanville (Yvelines), ainsi qu’une ancienne militaire jugée à leurs côtés depuis le 9 novembre.",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/18/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique_6813211_3224.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-17T18:58:57.000Z",
-          "fetchedAt": "2026-11-18T04:00:37.757Z"
+          "publishedAt": "2026-11-18T21:00:35.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.387Z"
         },
         {
-          "id": "2026-11-17-c814c375",
-          "title": "Rougeole : les États-Unis perdent leur statut de pays ayant éliminé la maladie",
-          "description": "Les États-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé, mardi, l'Organisation panaméricaine de la Santé. Alors qu'elle avait été éradiquée depuis 25 ans dans le pays, cette maladie grave et très contagieuse a signé sous Donald Trump un retour en force, sur fond de baisse des taux de vaccination.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261117-les-%C3%A9tats-unis-perdent-leur-statut-de-pays-qui-a-%C3%A9limin%C3%A9-la-rougeole",
-          "imageUrl": "https://s.france24.com/media/display/00aff864-da20-11f1-a9b8-1beafce15fea/w:1024/p:16x9/c89ced2680a79004e7d22261ff1eb160cfe10c46.jpg",
+          "id": "2026-11-18-5d45e730",
+          "title": "France : le comté du Fort des Rousses élu meilleure fromage du monde",
+          "description": "Le meilleur fromage du monde a été désigné hier parmi les 5 000 produits en lice, une la quarantaine de pays en compétition. La médaille d'or a été décernée à un fromage français : le comté du fort des Rousses, petite commune près de la frontière suisse. Une consécration qui fait la fierté de toute la région.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-le-comt%C3%A9-du-fort-des-rousses-%C3%A9lu-meilleure-fromage-du-monde",
+          "imageUrl": "https://s.france24.com/media/display/396b2754-e36d-11f1-8c50-7908c4e1a3c7/w:1024/p:16x9/FR-20261118-171130-171324-CS.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-17T16:59:32.000Z",
-          "fetchedAt": "2026-11-18T04:00:32.290Z"
+          "publishedAt": "2026-11-18T16:42:17.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.362Z"
         },
         {
-          "id": "2026-11-17-b088e697",
-          "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, annonce l’Organisation panaméricaine de la santé",
-          "description": "Le Mexique et la Bolivie ont subi le même sort, un an après que le Canada a déjà perdu ce statut en raison d’une épidémie persistante de rougeole.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/17/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-annonce-l-organisation-panamericaine-de-la-sante_6813011_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-17T16:58:59.000Z",
-          "fetchedAt": "2026-11-18T04:00:31.914Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-6",
-      "topic": "« Un abandon flagrant de responsabilité et d’humanité » : HRW dénonce le projet ",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-18-76799f3e",
-          "title": "« Un abandon flagrant de responsabilité et d’humanité » : HRW dénonce le projet de cinq pays européens d’expulser des migrants vers le Rwanda",
-          "description": "L’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ont présenté un projet inédit visant à transférer vers le Rwanda des demandeurs d’asile dont les recours ont été définitivement rejetés.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/18/un-abandon-flagrant-de-responsabilite-et-d-humanite-hrw-denonce-le-projet-de-cinq-pays-europeens-d-expulser-des-migrants-vers-le-rwanda_6813055_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-18T01:06:57.000Z",
-          "fetchedAt": "2026-11-18T04:00:31.914Z"
-        },
-        {
-          "id": "2026-11-17-ec79277e",
-          "title": "Certains clients n’ont aucun problème à franchir les limites fixées par une travailleuse du sexe",
-          "description": "Chaque semaine, la chronique phénomène du “New York Times” sur l’amour vous est proposée en exclusivité, traduite en français, par “Courrier international”. Ce dimanche, une travailleuse du sexe raconte comment elle a dû apprendre à savoir dire non.",
-          "url": "https://www.courrierinternational.com/article/modern-love-certains-clients-n-ont-aucun-probleme-a-franchir-les-limites-fixees-par-une-travailleuse-du-sexe_201397_1",
-          "imageUrl": "https://focus.courrierinternational.com/2023/02/09/535/0/1995/1330/1200/630/60/0/b5818ae_1675937479454-modern-love-sex-worker-jan27-0.jpg",
+          "id": "2026-11-18-b893aa4d",
+          "title": "La France championne de l’égalité femmes-hommes dans l’UE en 2026",
+          "description": "Selon l’Institut européen pour l’égalité entre les hommes et les femmes, la France prend en 2026 pour la première fois la tête du classement sur l’égalité des sexes. Un bond que l’Hexagone doit surtout à la présence de femmes à des postes de décision, explique la presse étrangère.",
+          "url": "https://www.courrierinternational.com/article/classement-la-france-championne-de-l-egalite-femmes-hommes-dans-l-ue-en-2026_288435",
+          "imageUrl": "https://focus.courrierinternational.com/2026/11/18/0/0/4999/3333/1200/630/60/0/c291345_upload-1-bss3v9vsnvvc-egalite.jpg",
           "source": "Courrier International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-17T20:22:11.000Z",
-          "fetchedAt": "2026-11-18T04:00:32.409Z"
-        },
-        {
-          "id": "2026-11-17-b2adcd01",
-          "title": "COP31: un projet de déclaration finale qui fait polémique",
-          "description": "À la COP, les ministres de l'environnement négocient la déclaration finale. Le projet de texte reprend toutes les propositions des différentes parties et se contredit parfois. Une exhaustivité contre-productive qui pourrait conduire à un échec des négociations. L'Union Européenne, par la voix de son commissaire au climat, se dit prête à renoncer à la mention de l'origine décarbonnée de l'électricité dans le paragraphe sur l'électrification, dans le but de trouver un accord.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261117-cop31-un-projet-de-d%C3%A9claration-finale-qui-fait-pol%C3%A9mique",
-          "imageUrl": "https://s.france24.com/media/display/cbe23658-e2bf-11f1-be73-7908c4e1a3c7/w:1024/p:16x9/capture-d1149adc.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-17T19:58:23.000Z",
-          "fetchedAt": "2026-11-18T04:00:32.290Z"
-        },
-        {
-          "id": "2026-11-17-08abaabc",
-          "title": "Royaume-Uni : une réforme « radicale » pour remettre dans l’emploi « une génération perdue »",
-          "description": "Un rapport a été publié, mardi, qui propose des mesures pour les près d’un million de jeunes Britanniques âgés de 16 à 24 ans qui ne sont ni en emploi, ni en études, ni en formation. Le gouvernement s’en inspirera pour présenter ses propositions en 2027.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/17/royaume-uni-une-reforme-radicale-pour-remettre-dans-l-emploi-une-generation-perdue_6813035_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-17T18:48:40.000Z",
-          "fetchedAt": "2026-11-18T04:00:31.914Z"
-        },
-        {
-          "id": "2026-11-17-32a41cec",
-          "title": "Banque centrale européenne : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
-          "description": "La France décrocherait le poste en charge des marchés financiers et nommerait Laurence Boone. Reste aux autres pays de la zone euro à accepter ces nominations.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/17/banque-centrale-europeenne-l-allemagne-propose-l-economiste-markus-brunnermeier-au-directoire-la-presidence-de-pablo-hernandez-de-cos-se-profile_6813020_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-17T17:37:13.000Z",
-          "fetchedAt": "2026-11-18T04:00:31.914Z"
-        },
-        {
-          "id": "2026-11-17-7567100f",
-          "title": "Guerre en Ukraine : une partie du pont de Crimée s’effondre après des frappes de Kiev",
-          "description": "L'attaque ukrainienne sur le pont reliant la Russie à la Crimée, annexée par Moscou, a été qualifiée d'\"opération sans précédent\" par Volodymyr Zelensky ce mardi 17 novembre. Des bombardements menés en \"réponse aux frappes russes\" contre les infrastructures du pays, selon le président ukrainien.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-guerre-en-ukraine-une-partie-du-pont-de-crim%C3%A9e-s-effondre-apr%C3%A8s-des-frappes-de-kiev",
-          "imageUrl": "https://s.france24.com/media/display/f13b7294-e2a5-11f1-9a94-1ba7ddfab527/w:1024/p:16x9/guerreenukraine.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-17T17:05:50.000Z",
-          "fetchedAt": "2026-11-18T04:00:32.290Z"
+          "publishedAt": "2026-11-18T16:05:24.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.487Z"
         }
       ]
     },
     {
-      "id": "cluster-8",
-      "topic": "EN DIRECT, guerre en Ukraine : Moscou rappelle que des troupes étrangères seraie",
+      "id": "cluster-2",
+      "topic": "Rencontre trilatérale à Shenzhen : les intérêts de Xi, Trump et Poutine",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-17-a889d731",
-          "title": "EN DIRECT, guerre en Ukraine : Moscou rappelle que des troupes étrangères seraient des « cibles légitimes », à propos de la présence de militaires français en Ukraine",
-          "description": "Selon la porte-parole du ministère des affaires étrangères russe, « l’implication directe de Paris dans le conflit en Ukraine est “un secret de Polichinelle” ». Par ailleurs, Vladimir Poutine est arrivé, mardi, en Chine où il doit rencontrer Donald Trump et Xi Jinping.",
-          "url": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-moscou-rappelle-que-des-troupes-etrangeres-seraient-des-cibles-legitimes-a-propos-de-la-presence-de-militaires-francais-en-ukraine_6810982_3210.html",
+          "id": "2026-11-19-6694e66b",
+          "title": "Rencontre trilatérale à Shenzhen : les intérêts de Xi, Trump et Poutine",
+          "description": "Les thèmes de discussions de la rencontre trilatérale à Shenzhen, historique, restent très flous. Donald Trump a annoncé qu'il voulait aborder la dénucléarisation (le traité New Start a expiré), quand la Chine a évoqué des discussions sur \"la paix dans le monde\". Il sera aussi question de l'Iran, soutenu par Pékin et Moscou, mais aussi de la guerre en Ukraine, deux sujets voulus par le président américain, renseigne Baptiste Fallevoz, le correspondant de France 24.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-rencontre-trilat%C3%A9rale-%C3%A0-shenzhen-les-int%C3%A9r%C3%AAts-de-xi-trump-et-poutine",
+          "imageUrl": "https://s.france24.com/media/display/e0667f6e-e3cb-11f1-914b-c5c0357b2a0c/w:1024/p:16x9/FR-20261119-040451-040722-CS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-19T03:50:38.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.362Z"
+        },
+        {
+          "id": "2026-11-19-cbdfa9e7",
+          "title": "Sommet de Shenzen en direct : une rencontre historique entre Trump, Poutine et Xi",
+          "description": "Les trois chefs d'État les plus puissants au monde s'affichent ensemble, jeudi, à Shenzen, en Chine, où s'est ouvert le sommet de la Coopération économique Asie-Pacifique (Apec). En marge de cet événement, une réunion tripartite est prévue dans la journée entre Donald Trump, Vladimir Poutine et Xi Jinping. Une première historique. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20261119-sommet-apec-en-direct-rencontres-diplomatiques-attendues-shenzhen-trump-poutine-xi-jinping",
+          "imageUrl": "https://s.france24.com/media/display/9734827a-e3c9-11f1-8ccd-ff16da94d1fe/w:1024/p:16x9/2026-11-19T030408Z-2074341856-RC2RQOAJQ487-RTRMADP-3-APEC-SUMMIT.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-19T00:00:34.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.362Z"
+        },
+        {
+          "id": "2026-11-18-b018a6ef",
+          "title": "Vladimir Poutine savoure son retour au cœur de la diplomatie mondiale, aux côtés de Donald Trump et Xi Jinping à Shenzhen",
+          "description": "Le président russe doit rencontrer ses homologues chinois et américain, jeudi, en marge du sommet de la Coopération économique pour l’Asie-Pacifique. Alors que le chef du Kremlin est visé par un mandat d’arrêt de la Cour pénale internationale, ce sommet fait craindre que l’avenir de l’Ukraine soit discuté entre les trois hommes, sans considération pour les intérêts des Européens.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/18/vladimir-poutine-savoure-son-retour-au-c-ur-de-la-diplomatie-mondiale-aux-cotes-de-donald-trump-et-xi-jinping-a-shenzhen_6813174_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-17T23:59:42.000Z",
-          "fetchedAt": "2026-11-18T04:00:31.914Z"
+          "publishedAt": "2026-11-18T17:00:08.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.387Z"
         },
         {
-          "id": "2026-11-17-09249ac0",
-          "title": "Les Français «ne sont pas cobelligérants en Ukraine» malgré la présence de soldats, martèle le gouvernement",
-          "description": "La ministre française déléguée auprès des Armées, Alice Rufo, a assuré, mardi 17 novembre, que les Français n'étaient « pas cobelligérants en Ukraine ». La veille, RFI avait révélé que des militaires français sont présents en Ukraine pour des missions de « formation » et de « maintenance ». La Russie a accusé la France de « participation directe à la guerre ». Une accusation que Paris a qualifiée d'« absurde ».",
-          "url": "https://www.rfi.fr/fr/france/20261117-les-fran%C3%A7ais-ne-sont-pas-cobellig%C3%A9rants-en-ukraine-malgr%C3%A9-la-pr%C3%A9sence-de-soldats-mart%C3%A8le-le-gouvernement",
-          "imageUrl": "https://s.rfi.fr/media/display/8be28144-e2aa-11f1-807d-ff16da94d1fe/w:1024/p:16x9/000-D7QQ7C9.jpg",
+          "id": "2026-11-18-93f5660f",
+          "title": "À Shenzhen, Trump veut briller, Poutine retrouver sa place et Xi imposer la sienne",
+          "description": "Les présidents américain, russe et chinois doivent se retrouver jeudi 19 novembre en Chine pour le sommet de la Coopération économique pour l’Asie-Pacifique (Apec). Si les trois dirigeants veulent afficher leurs ambitions, chacun espère tirer son épingle du jeu de cette rencontre, même si aucune percée majeure ne se profile, analyse la presse internationale.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-a-shenzhen-trump-veut-briller-poutine-retrouver-sa-place-et-xi-imposer-la-sienne_288425",
+          "imageUrl": "https://focus.courrierinternational.com/2026/11/18/0/0/2283/1522/1200/630/60/0/4f4e75e_ftp-1-fwk0ekym36q7-2026-11-18t113906z-1386858333-rc2bqoaa6ep9-rtrmadp-3-apec-summit.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-18T16:47:13.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.487Z"
+        },
+        {
+          "id": "2026-11-18-7b149bff",
+          "title": "Sommet de l'Apec: première rencontre entre Trump, Xi et Poutine avant leur réunion tripartite",
+          "description": "Le président américain Donald Trump est arrivé mercredi 18 novembre pour le sommet de la Coopération économique Asie-Pacifique (Apec) à Shenzhen, dans le sud de la Chine. Mais c'est le rendez-vous prévu jeudi 19 novembre qui capte l'attention : pour la première fois, Donald Trump, le président russe Vladimir Poutine et le président chinois Xi Jinping se retrouveront autour de la même table. Ce dernier en a donné le ton dès cette première journée.",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20261118-sommet-de-l-apec-premi%C3%A8re-rencontre-entre-trump-xi-et-poutine-avant-leur-r%C3%A9union-tripartite",
+          "imageUrl": "https://s.rfi.fr/media/display/b9d9065e-e359-11f1-bd30-ff16da94d1fe/w:1024/p:16x9/000-D7V43GP.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-17T17:47:27.000Z",
-          "fetchedAt": "2026-11-18T04:00:32.151Z"
+          "publishedAt": "2026-11-18T15:00:38.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.321Z"
         },
         {
-          "id": "2026-11-17-26b63dc0",
-          "title": "Soldats français déployés en Ukraine: Moscou y voit une «participation directe» au conflit",
-          "description": "Ce mardi 17 novembre, le ministre russe des Affaires étrangères a qualifié de « participation directe » au conflit en Ukraine le déploiement de soldats français opérant en Ukraine pour des missions de formation et d'entretien de matériels, révélé lundi par RFI.",
-          "url": "https://www.rfi.fr/fr/europe/20261117-soldats-fran%C3%A7ais-d%C3%A9ploy%C3%A9s-en-ukraine-moscou-y-voit-une-participation-directe-au-conflit",
-          "imageUrl": "https://s.rfi.fr/media/display/5112e664-3a74-11f1-904f-005056a97e36/w:1024/p:16x9/AP26062382346034.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-17T11:14:54.000Z",
-          "fetchedAt": "2026-11-18T04:00:32.151Z"
-        },
-        {
-          "id": "2026-11-17-15833b01",
-          "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-          "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-          "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f253/live/e4451260-e2a1-11f1-99b6-a35a62fa4264.jpg",
+          "id": "2026-11-18-9f587a01",
+          "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+          "description": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+          "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-17T05:59:01.000Z",
-          "fetchedAt": "2026-11-18T04:00:37.757Z"
+          "publishedAt": "2026-11-18T10:53:21.000Z",
+          "fetchedAt": "2026-11-19T04:00:57.009Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "«Génocide» des Rohingya en Birmanie: une décision historique attendue de la Cour",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-19-b047bb04",
+          "title": "«Génocide» des Rohingya en Birmanie: une décision historique attendue de la Cour internationale de justice",
+          "description": "La Cour internationale de justice (CIJ), plus haute instance judiciaire de l'ONU, doit rendre ce jeudi 19 novembre sa décision sur les accusations de « génocide » visant la Birmanie pour les atrocités commises contre la minorité musulmane des Rohingya en 2017. Un jugement particulièrement attendu, qui pourrait avoir des conséquences sur d'autres affaires examinées par la Cour, notamment celles concernant Gaza et l'Est de la République démocratique du Congo (RDC).",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20261119-g%C3%A9nocide-des-rohingya-en-birmanie-une-d%C3%A9cision-historique-attendue-de-la-cour-internationale-de-justice",
+          "imageUrl": "https://s.rfi.fr/media/display/778c655c-e3a4-11f1-910e-1ba7ddfab527/w:1024/p:16x9/000-92DP8YQ.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-19T03:24:57.000Z",
+          "fetchedAt": "2026-11-19T04:00:52.321Z"
+        },
+        {
+          "id": "2026-11-18-5a9c64a2",
+          "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+          "description": "No state has ever been found guilty by an international court of committing genocide.",
+          "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-18T23:04:06.000Z",
+          "fetchedAt": "2026-11-19T04:00:57.009Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "topic": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
       "category": "tech",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-18-26a444a0",
-          "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-          "description": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-          "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
-          "source": "Ars Technica",
+          "id": "2026-11-19-b863bb1d",
+          "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+          "description": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he tried to explain the conflict following weeks of back and forth between Zelenskyy, Musk, and the US government.\n\"From the beginning, I've said that Starlink is a civilian system,\" Musk said. \"It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the  …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-11-18T00:27:29.000Z",
-          "fetchedAt": "2026-11-18T04:00:42.384Z"
+          "publishedAt": "2026-11-19T01:39:45.000Z",
+          "fetchedAt": "2026-11-19T04:00:57.150Z"
         }
       ]
     },
     {
       "id": "cluster-1",
-      "topic": "Waymo temporarily pulls driverless taxis from all US freeways",
+      "topic": "Who are the investors ready to jump on Anthropic?",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-18-ccc4389d",
-          "title": "Waymo temporarily pulls driverless taxis from all US freeways",
-          "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-          "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+          "id": "2026-11-19-0e74cf8e",
+          "title": "Who are the investors ready to jump on Anthropic?",
+          "description": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
+          "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d1a/live/8e8f8740-e3b6-11f1-a094-5fdc692f3e33.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-11-18T03:07:22.000Z",
-          "fetchedAt": "2026-11-18T04:00:42.297Z"
+          "publishedAt": "2026-11-19T01:22:38.000Z",
+          "fetchedAt": "2026-11-19T04:01:02.119Z"
         }
       ]
     }
