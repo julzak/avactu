@@ -1,231 +1,264 @@
 {
-  "generatedAt": "2026-11-20T04:01:14.681Z",
+  "generatedAt": "2026-11-21T04:00:42.374Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Donald Trump limoge le directeur de la cybersécurité de la Maison Blanche",
+      "id": "cluster-3",
+      "topic": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tus",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-20-989b8913",
-          "title": "Donald Trump limoge le directeur de la cybersécurité de la Maison Blanche",
-          "description": "Le directeur de la cybersécurité de la Maison Blanche Sean Cairncross, jugé dépourvu des compétences nécessaires pour occuper ce poste, a été limogé jeudi, après des incidents techniques en série ces derniers jours aux États-Unis.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261120-etats-unis-donald-trump-limoge-directeur-cybersecurite-maison-blanche",
-          "imageUrl": "https://s.france24.com/media/display/bf531e5a-e492-11f1-8763-6b451f569414/w:1024/p:16x9/AP26320828805068.jpg",
-          "source": "France 24",
+          "id": "2026-11-21-b1ffe06b",
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-20T03:31:39.000Z",
-          "fetchedAt": "2026-11-20T04:00:59.953Z"
+          "publishedAt": "2026-11-21T02:09:46.000Z",
+          "fetchedAt": "2026-11-21T04:00:33.955Z"
         },
         {
-          "id": "2026-11-20-5cd07cd1",
-          "title": "Emmanuel Macron va rencontrer à Paris Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
-          "description": "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la demande de certains anciens dirigeants ».",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
+          "id": "2026-11-20-c520d2a1",
+          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+          "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-20T00:03:49.000Z",
-          "fetchedAt": "2026-11-20T04:00:59.936Z"
+          "publishedAt": "2026-11-20T21:57:07.000Z",
+          "fetchedAt": "2026-11-21T04:00:33.955Z"
         },
         {
-          "id": "2026-11-19-1855e013",
-          "title": "Visite de Pete Hegseth au Venezuela: «Caracas est sous pression militaire de Washington»",
-          "description": "En tournée au Venezuela, en Colombie et en Équateur, le secrétaire américain à la Défense, Pete Hegseth, entend renforcer la coopération militaire régionale dans la lutte contre le narcotrafic. Sa visite surprise à Caracas marque un rapprochement spectaculaire avec le Venezuela, quelques mois après la capture de Nicolás Maduro par les forces américaines. Un accord de coopération militaire a été signé avec la présidente par intérim Delcy Rodríguez. Un rapprochement qui, sous la pression de Washington, place de facto le pays sous tutelle américaine, sans nécessairement profiter à sa population, estime le spécialiste Thomas Posado, maître de conférences à l’université de Rouen Normandie.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261119-viste-de-pete-hegseth-au-venezuela-caracas-est-sous-pression-militaire-de-washington",
-          "imageUrl": "https://s.rfi.fr/media/display/8e23dda0-e42a-11f1-9625-ebb478925cf0/w:1024/p:16x9/AP26322638447243.jpg",
+          "id": "2026-11-20-0417e0a9",
+          "title": "What we know about the latest Russian missile strikes on Ukraine",
+          "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+          "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-20T15:14:01.000Z",
+          "fetchedAt": "2026-11-21T04:00:33.955Z"
+        },
+        {
+          "id": "2026-11-20-57f7a6ca",
+          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+          "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-20T13:01:16.000Z",
+          "fetchedAt": "2026-11-21T04:00:33.955Z"
+        },
+        {
+          "id": "2026-11-20-dc26c8fc",
+          "title": "Ukraine: des frappes russes font neuf morts, deux ponts endommagés à Kiev",
+          "description": "Vladimir Poutine avait promis une « réponse douloureuse » après la destruction du pont de Crimée par l’armée ukrainienne. Kiev et toute une partie de l’Ukraine ont été en effet sous une pluie de missiles cette nuit. Plusieurs dizaines de fusées balistiques ont touché des infrastructures énergétiques. Volodymyr Zelensky parle de plus de 110 missiles russes lancés dans la nuit. La cible principale semble bien avoir été les ponts de la capitale. Des attaques qui ont fait neuf morts ainsi que quinze blessés. La France a demandé une réunion du Conseil de sécurité de l’ONU.",
+          "url": "https://www.rfi.fr/fr/europe/20261120-ukraine-des-frappes-russes-font-trois-morts-deux-ponts-endommag%C3%A9s-%C3%A0-kiev",
+          "imageUrl": "https://s.rfi.fr/media/display/b2c2f962-e4ab-11f1-9717-e56ab3dc0809/w:1024/p:16x9/AP26322686786767.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-19T15:44:16.000Z",
-          "fetchedAt": "2026-11-20T04:01:00.199Z"
-        },
-        {
-          "id": "2026-11-19-9f7d8248",
-          "title": "Assassinat de Jovenel Moïse en Haïti: le pasteur Christian Sanon reconnu coupable aux États-Unis",
-          "description": "Cinq ans après l’assassinat du président haïtien Jovenel Moïse, un tribunal des États-Unis a déclaré, mercredi 18 novembre, le pasteur américano-haïtien Christian Sanon coupable d’avoir participé au complot qui a conduit à la mort du chef de l’État, en 2021.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261119-assassinat-de-jovenel-mo%C3%AFse-en-ha%C3%AFti-le-pasteur-christian-sanon-reconnu-coupable-aux-%C3%A9tats-unis",
-          "imageUrl": "https://s.rfi.fr/media/display/d183a902-ebb7-11eb-8dff-005056a90284/w:1024/p:16x9/Soldiers%20of%20the%20Armed%20Forces%20of%20Haiti%20guard%20the%20casket%20of%20slain%20President%20Jovenel%20Mo%C3%AFse%20at%20his%20funeral%20.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-19T15:40:39.000Z",
-          "fetchedAt": "2026-11-20T04:01:00.199Z"
-        },
-        {
-          "id": "2026-11-19-4e4de71f",
-          "title": "Seize pêcheurs équatoriens accusent l’armée américaine d’avoir bombardé leur bateau",
-          "description": "Une plainte déposée par des pêcheurs équatoriens devant un tribunal fédéral de Pennsylvanie, révélée le 18 novembre, met en cause la campagne de frappes lancée par Washington contre les navires accusés de transporter de la drogue dans le Pacifique et les Caraïbes.",
-          "url": "https://www.courrierinternational.com/article/justice-seize-pecheurs-equatoriens-accusent-l-armee-americaine-d-avoir-bombarde-leur-bateau_288690",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/17/0/3/3594/2396/1200/630/60/0/decb82e_ftp-1-f90qmlaeyfk4-us-boat-strikes-lawsuit.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-19T14:51:25.000Z",
-          "fetchedAt": "2026-11-20T04:01:00.148Z"
+          "publishedAt": "2026-11-20T06:44:45.000Z",
+          "fetchedAt": "2026-11-21T04:00:28.307Z"
         }
       ]
     },
     {
-      "id": "cluster-9",
-      "topic": "EN DIRECT, guerre en Ukraine : Donald Trump est « ouvert à l’idée » d’une protec",
+      "id": "cluster-4",
+      "topic": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-19-d3a67bad",
-          "title": "EN DIRECT, guerre en Ukraine : Donald Trump est « ouvert à l’idée » d’une protection de l’Ukraine par l’OTAN, assure l’émissaire américain Jared Kushner",
-          "description": "A l’issue d’une ‌réunion ‌des membres de la coalition des volontaires, à Berlin, Emmanuel Macron a avancé l’idée de « rouvrir la question de l’adhésion à l’OTAN ». L’émissaire américain a déclaré que Washington serait disposé à accorder à l’Ukraine une protection de type OTAN, si « cela doit servir les intérêts des Etats-Unis », a-t-il précisé.",
-          "url": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-donald-trump-est-ouvert-a-l-idee-d-une-protection-de-l-ukraine-par-l-otan-assure-l-emissaire-americain-jared-kushner_6810982_3210.html",
+          "id": "2026-11-21-a6490048",
+          "title": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
+          "description": "Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient initialement avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades.",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-19T23:51:35.000Z",
-          "fetchedAt": "2026-11-20T04:00:59.936Z"
+          "publishedAt": "2026-11-21T01:35:32.000Z",
+          "fetchedAt": "2026-11-21T04:00:28.132Z"
         },
         {
-          "id": "2026-11-19-ad8f0f61",
-          "title": "Macron demande aux alliés de l'Ukraine de \"rouvrir la question de son adhésion à l'Otan\"",
-          "description": "Appelant les alliés de Kiev réunis à Berlin, dont les États-Unis, à faire le \"maximum\" pour lui livrer \"maintenant\" les moyens de défense antiaériens dont elle a besoin, le président français a demandé jeudi à \"rouvrir la question de l'adhésion de l'Ukraine à l'Otan\".",
-          "url": "https://www.france24.com/fr/europe/20261119-macron-demande-alli%C3%A9s-ukraine-rouvrir-question-son-adh%C3%A9sion-otan",
-          "imageUrl": "https://s.france24.com/media/display/1caca7f6-e44d-11f1-80ec-e56ab3dc0809/w:1024/p:16x9/2026-11-19T181939Z-2056306323-RC23ROA5DSK2-RTRMADP-3-UKRAINE-CRISIS-GERMANY-BRITAIN.jpg",
+          "id": "2026-11-20-e96e92f9",
+          "title": "Une jeune génération d'artistes renouvelle la musique zimbabwéenne",
+          "description": "Le Zimbabwe voit sa scène musicale se renouveler avec une jeune génération d’artistes qui n’hésite pas à expérimenter différents genres, tout en s’inspirant de sons traditionnels et avec des messages à faire passer. Une musique présente fin octobre lors du grand événement panafricain consacré à l'industrie musicale africaine, ACCES Africa, qui s’est tenu à Johannesburg, en Afrique du Sud voisine.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261120-une-jeune-g%C3%A9n%C3%A9ration-d-artistes-renouvelle-la-musique-zimbabw%C3%A9enne",
+          "imageUrl": "https://s.rfi.fr/media/display/1b825340-e519-11f1-8da1-6b451f569414/w:1024/p:16x9/1-395.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-20T23:00:24.000Z",
+          "fetchedAt": "2026-11-21T04:00:28.307Z"
+        },
+        {
+          "id": "2026-11-20-afba63ed",
+          "title": "Procès Zecler : les trois policiers condamnés à des peines de un à deux ans de prison ferme",
+          "description": "Les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020 ont été condamnés à des peines de un à deux ans de prison ferme. L'accusation avait de son côté requis, jeudi, entre quatre et six ans de prison ferme.",
+          "url": "https://www.france24.com/fr/france/20261120-proc%C3%A8s-zecler-les-trois-policiers-condamn%C3%A9s-%C3%A0-des-peines-de-un-%C3%A0-deux-ans-de-prison-ferme",
+          "imageUrl": "https://s.france24.com/media/display/0daede70-e445-11f1-aa9e-13439ca2fe89/w:1024/p:16x9/6eafad5bb555456f4505bd99516b8a173e5764e7.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-19T19:49:02.000Z",
-          "fetchedAt": "2026-11-20T04:00:59.953Z"
+          "publishedAt": "2026-11-20T21:54:13.000Z",
+          "fetchedAt": "2026-11-21T04:00:28.073Z"
         },
         {
-          "id": "2026-11-19-a74e040d",
-          "title": "Guerre en Ukraine: réunie à Berlin, la «coalition des volontaires» réaffirme son soutien à Kiev",
-          "description": "Une trentaine de chefs d’États et de gouvernements, alliés de l’Ukraine, se sont retrouvés ce jeudi 19 novembre 2026 à Berlin autour du président ukrainien Volodymyr Zelensky. Cette réunion de la « coalition des volontaires », initiative lancée début 2025, se déroulait juste après une rencontre des dirigeants chinois, américain et russe à Shenzhen. À Berlin, l’Europe voulait prouver qu’elle souhaite peser dans les négociations de paix et tenait à afficher son soutien à Kiev.",
-          "url": "https://www.rfi.fr/fr/europe/20261119-guerre-en-ukraine-la-coalition-des-volontaires-r%C3%A9unie-%C3%A0-berlin-pour-r%C3%A9affirmer-son-soutien-%C3%A0-kiev",
-          "imageUrl": "https://s.rfi.fr/media/display/d47c424a-e431-11f1-af48-1bac47ab2f5d/w:1024/p:16x9/AP26323516655296.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-19T16:05:02.000Z",
-          "fetchedAt": "2026-11-20T04:01:00.199Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-12",
-      "topic": "Présidentielle 2027: Tondelier fait un pas vers Mélenchon, Jadot claque la porte",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-19-efffdef6",
-          "title": "Présidentielle 2027: Tondelier fait un pas vers Mélenchon, Jadot claque la porte des Écologistes",
-          "description": "La candidate des Écologistes pour l'élection présidentielle, Marine Tondelier, a indiqué mercredi qu'elle était « prête » à travailler à une coalition avec le candidat insoumis Jean-Luc Mélenchon. Une annonce qui a provoqué la colère de Yannick Jadot, ex-candidat du parti écologiste, suspendu du parti depuis l'annonce de son soutien à Raphaël Glucksmann. Il a annoncé quitter le parti ce jeudi 19 novembre.",
-          "url": "https://www.rfi.fr/fr/france/20261119-pr%C3%A9sidentielle-2027-tondelier-fait-un-pas-vers-m%C3%A9lenchon-jadot-claque-la-porte-des-%C3%A9cologistes",
-          "imageUrl": "https://s.rfi.fr/media/display/d6c1dc40-e46d-11f1-8c02-e56ab3dc0809/w:1024/p:16x9/000-D44F2VT.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-19T23:13:14.000Z",
-          "fetchedAt": "2026-11-20T04:01:00.199Z"
-        },
-        {
-          "id": "2026-11-19-367e2bb7",
-          "title": "Yannick Jadot quitte les Écologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon",
-          "description": "Les fractures deviennent apparentes chez les Écologistes, au lendemain de la main tendue de Marine Tondelier à Jean-Luc Mélenchon : Yannick Jadot, sénateur et ex-candidat écologiste à la présidentielle, a annoncé qu'il quittait le parti, tout comme le député Jérémie Iordanoff. Tous les deux préfèrent soutenir Raphaël Glucksmann.",
-          "url": "https://www.france24.com/fr/france/20261119-france-presidentielle-yannick-jadot-quitte-les-ecologistes-marine-tondelier-jean-luc-melenchon-glucksmann",
-          "imageUrl": "https://s.france24.com/media/display/2434c0c2-b5b2-11ec-ac2b-005056a97e36/w:1024/p:16x9/France-Elysee2022-YannickJadot.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-19T23:04:16.000Z",
-          "fetchedAt": "2026-11-20T04:00:59.953Z"
-        },
-        {
-          "id": "2026-11-19-230f41e4",
-          "title": "La Tunisie devient le deuxième producteur mondial d'huile d'olive",
-          "description": "La Tunisie prend la deuxième place au classement des producteurs d'huile d'olive, juste derrière l'Espagne. Les chiffres officiels le confirment, la récolte tunisienne a été exceptionnelle cette année : 500 000 tonnes, soit 50 % de plus que l'année dernière, et plus que la moyenne quinquennale de 320 000 tonnes. Cela fait des années que la Tunisie n'avait pas été aussi performante.",
-          "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261119-la-tunisie-devient-le-deuxi%C3%A8me-producteur-mondial-d-huile-d-olive",
-          "imageUrl": "https://s.rfi.fr/media/display/bde533f8-8fce-11ee-b070-005056bfb2b6/w:1024/p:16x9/GettyImages-453274150.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-19T23:00:26.000Z",
-          "fetchedAt": "2026-11-20T04:01:00.199Z"
-        },
-        {
-          "id": "2026-11-19-77a9c735",
-          "title": "Sud du Liban: les agriculteurs et les commerçants en difficulté face à la «ligne jaune» tracée par Israël",
-          "description": "Au Liban, alors que l’ambassadeur des États-Unis aux Nations unies, Mike Waltz, a rencontré cette semaine les autorités du pays pour aborder le départ de la Force intérimaire des Nations unies au Liban et le désarmement du Hezbollah, la situation est de plus en plus catastrophique pour les habitants du sud du pays. Notamment ceux qui sont proches de la « ligne jaune », tracée unilatéralement par l’armée israélienne dès l’entrée en vigueur du cessez-le-feu en avril dernier. Les habitants de Kfarchouba, village d'environ 1 000 habitants à majorité sunnite, à la frontière, témoignent.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20261119-sud-du-liban-les-agriculteurs-et-les-commer%C3%A7ants-en-difficult%C3%A9-face-%C3%A0-la-ligne-jaune-trac%C3%A9e-par-isra%C3%ABl",
-          "imageUrl": "https://s.rfi.fr/media/display/5b3baee0-a190-11f1-8de9-005056bfb2b6/w:1024/p:16x9/Les-collines-de-Kfarchouba-dans-la-zone-des-fermes-de-Shebaa-dans-la-r%C3%A9gion-frontali%C3%A8re-entre-le-Liban-et-Isra%C3%ABl-le-27-juillet-2020.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-19T22:22:18.000Z",
-          "fetchedAt": "2026-11-20T04:01:00.199Z"
-        },
-        {
-          "id": "2026-11-19-9ab8f669",
-          "title": "Royaume-Uni: Andy Burnham tente un rapprochement risqué avec l'UE",
-          "description": "Andy Burnham est attendu ce vendredi 20 novembre à Bruxelles. Le Premier ministre britannique participe au deuxième sommet Union européenne–Royaume-Uni. Une nouvelle étape du rapprochement économique et politique entre l'UE et son ancien État membre entamé l'an dernier. Plusieurs accords vont être signés sur les exportations alimentaires, les émissions de carbone et la mobilité des jeunes. Mais 10 ans après le Brexit, la question reste inflammable et alimente les rumeurs les plus folles.",
-          "url": "https://www.rfi.fr/fr/europe/20261119-royaume-uni-andy-burnham-tente-un-rapprochement-risqu%C3%A9-avec-l-ue",
-          "imageUrl": "https://s.rfi.fr/media/display/8bfc34f0-e45c-11f1-8d7f-e56ab3dc0809/w:1024/p:16x9/AP26322414753525.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-19T21:25:04.000Z",
-          "fetchedAt": "2026-11-20T04:01:00.199Z"
-        },
-        {
-          "id": "2026-11-19-ce33bbd6",
-          "title": "« Les éléments démontrant la commission d’actes de violence sexuelle d’une grande brutalité au sein des communautés rohingya confortent la déduction d’une volonté de détruire les fondements du groupe »",
-          "description": "« Le Monde » publie des extraits de l’arrêt du 19 novembre 2026 rendu par la Cour internationale de justice, dans l’affaire opposant la Gambie à la Birmanie sur la violation de la convention sur la prévention et la répression du génocide.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/19/les-elements-demontrant-la-commission-d-actes-de-violence-sexuelle-d-une-grande-brutalite-et-de-violences-specifiquement-exercees-contre-des-enfants-au-sein-des-communautes-rohingya-confortent-egalement-la-deduction-d-une-volonte-de-detruire-_6813381_3210.html",
+          "id": "2026-11-20-cf0fe4cd",
+          "title": "En Suisse aussi, la jeunesse descend dans la rue contre « un avenir bouché »",
+          "description": "Plusieurs dizaines de milliers de jeunes ont manifesté vendredi 20 novembre dans les grandes villes du pays alpin. Austérité budgétaire, coupes dans les services publics, pouvoir d’achat, coût du logement et crise climatique alimentaient les slogans.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/en-suisse-aussi-la-jeunesse-descend-dans-la-rue-contre-un-avenir-bouche_6813714_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-19T21:12:28.000Z",
-          "fetchedAt": "2026-11-20T04:00:59.936Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-1",
-      "topic": "Intelligence artificielle : l’action Anthropic finit sa première journée en haus",
-      "category": "tech",
-      "importance": 8,
-      "articles": [
-        {
-          "id": "2026-11-19-30155851",
-          "title": "Intelligence artificielle : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
-          "description": "L’introduction en Bourse spectaculaire du leader de l’IA n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le modèle économique de ces sociétés.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-11-19T23:30:58.000Z",
-          "fetchedAt": "2026-11-20T04:01:06.420Z"
+          "publishedAt": "2026-11-20T21:12:29.000Z",
+          "fetchedAt": "2026-11-21T04:00:28.132Z"
         },
         {
-          "id": "2026-11-19-a6a03e32",
-          "title": "Intelligence artificielle : avec une action mise en vente à 83 dollars, Anthropic est valorisée à 1 500 milliards de dollars, à la veille de son entrée en Bourse",
-          "description": "Face à l’importance de la demande, le leader de l’IA a réévalué à la hausse le prix de son introduction en Bourse, mercredi soir. La firme doit financer ses engagements à long terme, liés à la puissance de calcul et aux centres de données.",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-avec-une-action-mise-en-vente-a-83-dollars-anthropic-valorisee-1-500-milliards-de-dollars-a-la-veille-de-son-entree-en-bourse_6813215_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-11-19T00:20:21.000Z",
-          "fetchedAt": "2026-11-20T04:01:06.420Z"
+          "id": "2026-11-20-e2e37d3b",
+          "title": "Russie: six personnes placées en détention provisoire dans une affaire de «veuves noires»",
+          "description": "C'est une affaire de « veuves noires » qui choque la Russie : dans la région de Volgograd, neuf personnes sont accusées d'avoir organisé un réseau pour récupérer les primes de militaires blessés ou tués en Ukraine, grâce à des mariages fictifs conclus avant l'engagement des soldats dans l'armée. L'enquête vient d'être bouclée : les prévenus risquent jusqu'à 20 ans de prison. Six des neuf accusés ont été placés en détention provisoire dans l'attente du procès.",
+          "url": "https://www.rfi.fr/fr/europe/20261120-russie-six-personnes-plac%C3%A9es-en-d%C3%A9tention-provisoire-dans-une-affaire-de-veuves-noires",
+          "imageUrl": "https://s.rfi.fr/media/display/ec5628ba-dfe4-11f0-9eaa-005056bf30b7/w:1024/p:16x9/AP25351567398088.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-20T18:36:49.000Z",
+          "fetchedAt": "2026-11-21T04:00:28.307Z"
+        },
+        {
+          "id": "2026-11-20-1eafc0db",
+          "title": "Contre la guerre, pour la jeunesse: vague de manifestations à travers l'Europe",
+          "description": "Contre la « militarisation » de la société et la vie chère, pour l'avenir des jeunes, l'éducation, le droit au logement, le climat : des dizaines de milliers de manifestants se mobilisent à travers l'Europe vendredi 20 novembre, sur fond de rejet des institutions.",
+          "url": "https://www.rfi.fr/fr/europe/20261120-contre-la-guerre-pour-la-jeunesse-vague-de-manifestations-%C3%A0-travers-l-europe",
+          "imageUrl": "https://s.rfi.fr/media/display/c4918b74-e50d-11f1-94fe-1bac47ab2f5d/w:1024/p:16x9/GettyImages-2306076594.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-20T18:25:27.000Z",
+          "fetchedAt": "2026-11-21T04:00:28.307Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "Tens of thousands of UK fridges secured from hackers in secret nationwide operat",
+      "topic": "Gaza: six morts dans des frappes israéliennes selon la Défense civile et des hôp",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-21-effb1757",
+          "title": "Gaza: six morts dans des frappes israéliennes selon la Défense civile et des hôpitaux",
+          "description": "Des frappes israéliennes ont tué six personnes dans la bande de Gaza vendredi 20 novembre 2026, a indiqué à l'AFP la Défense civile du territoire palestinien, l'armée israélienne affirmant y avoir ciblé des combattants du Hamas, en dépit du cessez-le-feu théoriquement en vigueur.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20261121-gaza-six-morts-dans-des-frappes-isra%C3%A9liennes-selon-la-d%C3%A9fense-civile-et-des-h%C3%B4pitaux",
+          "imageUrl": "https://s.rfi.fr/media/display/8beeb64a-e547-11f1-a18e-ebb478925cf0/w:1024/p:16x9/AP26324574525412.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-21T01:12:32.000Z",
+          "fetchedAt": "2026-11-21T04:00:28.307Z"
+        },
+        {
+          "id": "2026-11-20-d6847c68",
+          "title": "Cisjordanie occupée : un Palestinien tué par un garde de sécurité d’une colonie israélienne près de Ramallah",
+          "description": "L’armée israélienne a annoncé l’interpellation d’un homme qui se trouvait avec la victime.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/cisjordanie-occupee-un-palestinien-tue-par-un-garde-de-securite-d-une-colonie-israelienne-pres-de-ramallah_6813716_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-20T22:38:27.000Z",
+          "fetchedAt": "2026-11-21T04:00:28.132Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-19",
+      "topic": "Comment El Niño bouleverse le climat : les explications d’un climatologue (VIDÉO",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-20-cac655a1",
+          "title": "Comment El Niño bouleverse le climat : les explications d’un climatologue (VIDÉO)",
+          "description": "Alors que l'épisode El Niño bouscule les moyennes thermiques globales, le climatologue Éric Guilyardi décrypte auprès de Numerama le fonctionnement de cette anomalie océanique majeure.",
+          "url": "https://www.numerama.com/sciences/2380449-comment-el-nino-bouleverse-le-climat-les-explications-dun-climatologue-video.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/el-nino-2.jpg?resize=1600,900&key=08cefbca",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-11-20T17:35:02.000Z",
+          "fetchedAt": "2026-11-21T04:00:33.882Z"
+        },
+        {
+          "id": "2026-11-20-01acc5bd",
+          "title": "A Blois, dix-huit mois de prison dont neuf avec sursis requis contre l’influenceur Mounim Sabhi : « Je n’ai voulu humilier personne »",
+          "description": "L’homme de 46 ans se voit reprocher des comportements humiliants et violents par des membres de la « Team du Château », sorte d’émission de téléréalité diffusée sur Kick et TikTok. La décision du tribunal sera rendue le 17 décembre.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/20/a-blois-dix-huit-mois-de-prison-dont-neuf-avec-sursis-requis-contre-l-influenceur-mounim-sabhi-je-n-ai-voulu-humilier-personne_6813676_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-20T17:03:05.000Z",
+          "fetchedAt": "2026-11-21T04:00:33.929Z"
+        },
+        {
+          "id": "2026-11-20-7dbdce0b",
+          "title": "Un Graal des maths vacille : un chercheur d’Anthropic revendique avoir résolu l’hypothèse de Riemann avec l’IA Claude",
+          "description": "Un problème à un million de dollars, ouvert depuis 1859, résolu avec une IA ? Levent Alpöge, mathématicien employé par Anthropic, affirme ce vendredi 20 novembre avoir démontré l'hypothèse de Riemann avec Claude. Pour toute preuve, il livre quatorze archives de code que personne n'a encore vérifiées, au lendemain de l'entrée en Bourse de son employeur.",
+          "url": "https://www.numerama.com/tech/2380265-un-graal-des-maths-tombe-un-chercheur-danthropic-revendique-avoir-resolu-lhypothese-de-riemann-avec-lia-claude.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/riemann.jpg?resize=1600,900&key=e3ae2763",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-11-20T16:08:44.000Z",
+          "fetchedAt": "2026-11-21T04:00:33.882Z"
+        },
+        {
+          "id": "2026-11-19-2f808e19",
+          "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+          "description": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+          "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-11-19T20:19:28.000Z",
+          "fetchedAt": "2026-11-21T04:00:37.721Z"
+        },
+        {
+          "id": "2026-11-19-554afe66",
+          "title": "Une cyberattaque assistée par l’IA a ciblé la Commission européenne en octobre",
+          "description": "L’exécutif européen a dit avoir été victime d’une « cyber campagne générée par l’IA », liée à un « usage abusif d’un outil d’IA » et détectée le 22 octobre. Mais aucune violation de données n’a été prouvée à ce stade, selon un porte-parole.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/19/une-cyberattaque-assistee-par-l-ia-a-cible-la-commission-europeenne-en-octobre_6813314_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-19T14:27:52.000Z",
+          "fetchedAt": "2026-11-21T04:00:33.929Z"
+        },
+        {
+          "id": "2026-11-19-fb490584",
+          "title": "Nos premières impressions après avoir joué à « GTA VI » : un jeu aussi riche que sensible, aussi beau qu’intime",
+          "description": "« Grand Theft Auto VI » offre au moins une centaine d’heures de contenu, et si elles ne permettent pas de se faire un avis définitif, les dix premières heures laissent entrapercevoir un univers de gangsters tout en nuances.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/19/gta-vi-nos-premieres-impressions-un-jeu-aussi-riche-que-sensible-aussi-beau-qu-intime_6813313_4408996.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-19T14:14:18.000Z",
+          "fetchedAt": "2026-11-21T04:00:33.929Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-1",
+      "topic": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in his",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-20-4bbafec6",
-          "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-          "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-          "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+          "id": "2026-11-20-5ef06037",
+          "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+          "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-11-20T00:02:07.000Z",
-          "fetchedAt": "2026-11-20T04:01:10.523Z"
+          "publishedAt": "2026-11-20T22:53:24.000Z",
+          "fetchedAt": "2026-11-21T04:00:37.620Z"
         }
       ]
     }
