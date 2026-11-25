@@ -1,209 +1,220 @@
 {
-  "generatedAt": "2026-11-24T04:01:10.917Z",
+  "generatedAt": "2026-11-25T04:00:48.753Z",
   "clusterCount": 5,
   "clusters": [
     {
-      "id": "cluster-1",
-      "topic": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudienne",
+      "id": "cluster-2",
+      "topic": "Libye: deux militaires libyens morts des suites des attaques ukrainiennes contre",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-24-50e32830",
-          "title": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
-          "description": "Une agence de presse houthie fait état mardi de 25 morts ou disparus après des frappes aériennes de l'Arabie saoudite contre des autocars et des camions dans le sud du Yémen. Cette attaque fait suite à des bombardements dans la province côtière voisine de Hodeïda, contrôlée par les Houthis, qui ont fait au moins 17 morts.",
-          "url": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
-          "imageUrl": "https://s.france24.com/media/display/da0d532e-e7b6-11f1-9de5-e56ab3dc0809/w:1024/p:16x9/000-D8D692D.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-24T03:30:10.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.792Z"
-        },
-        {
-          "id": "2026-11-23-381d2441",
-          "title": "Yémen: frappes saoudiennes meurtrières dans la ville portuaire de Hodeïda",
-          "description": "Des bâtiments administratifs, des logements d'employés, une mosquée, ainsi qu'un site et une tour de télécommunications ont été détruits dans la ville portuaire de Hodeida, au Yémen. Pas de revendication pour l'heure du côté de Riyad, mais cette attaque intervient trois jours après une offensive revendiquée par l'Arabie saoudite et sa coalition dans cette même ville yéménite.",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20261123-y%C3%A9men-frappes-saoudiennes-meurtri%C3%A8res-dans-la-ville-portuaire-de-hode%C3%AFda",
-          "imageUrl": "https://s.rfi.fr/media/display/f5b209da-e74d-11f1-8445-e56ab3dc0809/w:1024/p:16x9/2026-11-23T135619Z-813476343-RC2CTOA128C2-RTRMADP-3-IRAN-CRISIS-YEMEN.jpg",
+          "id": "2026-11-25-3658ff4f",
+          "title": "Libye: deux militaires libyens morts des suites des attaques ukrainiennes contre des navires russes à Benghazi",
+          "description": "Deux militaires libyens ont succombé à leurs blessures à la suite des attaques contre des navires russes à Benghazi, le 22 novembre, revendiquées par l'Ukraine, ont annoncé dans la nuit de mardi à mercredi les autorités de l'Est libyen.",
+          "url": "https://www.rfi.fr/fr/afrique/20261125-libye-deux-militaires-libyens-morts-des-suites-des-attaques-ukrainiennes-contre-des-navires-russes-%C3%A0-benghazi",
+          "imageUrl": "https://s.rfi.fr/media/display/c95037ee-e730-11f1-8e5e-1bac47ab2f5d/w:1024/p:16x9/AP26327310059538.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-23T16:01:26.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.631Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-4",
-      "topic": "Donald Trump demande au ministère de la justice de requérir la peine de mort pou",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
+          "publishedAt": "2026-11-25T03:41:28.000Z",
+          "fetchedAt": "2026-11-25T04:00:36.227Z"
+        },
         {
-          "id": "2026-11-24-68049a74",
-          "title": "Donald Trump demande au ministère de la justice de requérir la peine de mort pour les meurtriers d’enfants",
-          "description": "La requête du président américain concerne également les violeurs et trafiquants d’êtres humains ayant tué leurs victimes. Il a, en outre, annoncé avoir demandé à « accélérer l’exécution des condamnations à mort fédérales ».",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/donald-trump-demande-au-ministere-de-la-justice-de-requerir-la-peine-de-mort-pour-les-meurtriers-d-enfants_6814537_3210.html",
+          "id": "2026-11-25-b7bfcae6",
+          "title": "Ukraine en direct : deux militaires libyens tués dans les attaques de navires russes à Benghazi",
+          "description": "Deux militaires libyens ont succombé à leurs blessures à la suite des attaques contre des navires russes à Benghazi en Libye le 22 novembre, revendiquées par l'Ukraine, ont annoncé dans la nuit de mardi à mercredi les autorités de l'Est libyen. Suivez notre direct.",
+          "url": "https://www.france24.com/fr/europe/20261125-en-direct-ukraine-russie-libye-benghazi-union-europeenne-zelensky-poutine",
+          "imageUrl": "https://s.france24.com/media/display/dd313f6c-e76f-11f1-85b8-e56ab3dc0809/w:1024/p:16x9/2026-11-23T102302Z-464352545-RC2MTOAS4A1W-RTRMADP-3-UKRAINE-CRISIS.jpg",
+          "source": "France 24",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-25T03:02:35.000Z",
+          "fetchedAt": "2026-11-25T04:00:35.863Z"
+        },
+        {
+          "id": "2026-11-25-2adfa55f",
+          "title": "EN DIRECT, guerre en Ukraine : deux militaires libyens succombent à leurs blessures après les frappes revendiquées par Kiev contre des navires russes à Benghazi",
+          "description": "Saddam Haftar, commandant en chef adjoint des Forces armées arabes libyennes, a dénoncé l’« attaque criminelle [ayant visé] la base navale de Benghazi », une opération revendiquée par l’Ukraine, au cours de laquelle une corvette a été coulée et un cargo a été touché.",
+          "url": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-les-dirigeants-ukrainien-et-hongrois-affichent-leur-volonte-de-rechauffer-les-relations-entre-kiev-et-budapest_6814183_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-24T01:31:59.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.517Z"
+          "publishedAt": "2026-11-25T00:03:37.000Z",
+          "fetchedAt": "2026-11-25T04:00:35.904Z"
         },
         {
-          "id": "2026-11-23-1d4a872e",
-          "title": "🔴 Nvidia : les démocrates assurent que l'administration Trump et Jensen Huang feront l'objet d'enquêtes approfondies",
-          "description": "",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261123-jensen-huang-r%C3%A9tabli-son-poste-directeur-g%C3%A9n%C3%A9ral-nvidia",
-          "imageUrl": "https://s.france24.com/media/display/a7c7662a-e75c-11f1-8aa9-1bac47ab2f5d/w:1280/p:16x9/2026-11-14T002154Z-1599363360-RC27ZNA5MQUU-RTRMADP-3-NVIDIA-CEO-RELATIONSHIPS.jpg",
+          "id": "2026-11-24-953f0de1",
+          "title": "Plus de 700 000 soldats russes morts en Ukraine : ce que l'on sait de cette nouvelle estimation",
+          "description": "À partir d'une fuite de données de l'agence russe des statistiques, les médias indépendants Meduza et Mediazona estiment à plus de 700 000 le nombre de militaires russes morts depuis février 2022, selon une nouvelle enquête publiée lundi. France 24 fait le point sur ce que l'on sait.",
+          "url": "https://www.france24.com/fr/europe/20261124-plus-700-000-soldats-russes-morts-ukraine-sait-cette-nouvelle-estimation",
+          "imageUrl": "https://s.france24.com/media/display/4ba02a30-e81f-11f1-8d3d-95e072ff0a91/w:1024/p:16x9/AP26047518697244.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-23T16:34:30.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.792Z"
+          "publishedAt": "2026-11-24T17:06:20.000Z",
+          "fetchedAt": "2026-11-25T04:00:35.863Z"
         },
         {
-          "id": "2026-11-23-ed3bfc33",
-          "title": "Requin ou serviteur de l’État ? Le suicide de l’ancien chef de la police italienne interroge",
-          "description": "Gianni De Gennaro, ancien chef de la police italienne, a été retrouvé mort samedi 21 novembre en Toscane, quelques jours après avoir été mis en examen pour avoir entravé l’enquête sur l’assassinat du juge anti-mafia Paolo Borsellino, commis en 1992. Un suicide qui alimente le débat de l’autre côté des Alpes entre ceux qui y voient un aveu et ceux qui dénoncent l’acharnement médiatico-judiciaire contre un fidèle défenseur de l’État.",
-          "url": "https://www.courrierinternational.com/article/justice-requin-ou-serviteur-de-l-etat-le-suicide-de-l-ancien-chef-de-la-police-italienne-interroge_289383",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/21/64/0/3500/2333/1200/630/60/0/b3666b5_ftp-1-wtqa9afpux70-2026-11-21t104209z-30619825-rc2asoaxgo4d-rtrmadp-3-italy-mafia.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-23T16:03:52.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.713Z"
-        },
-        {
-          "id": "2026-11-23-1220a5cb",
-          "title": "Génocide des Rohingya : « Le champ d’action de la Cour internationale de justice s’est orienté vers les enjeux liés aux droits humains »",
-          "description": "Le juriste William Schabas souligne, dans une tribune au « Monde », la nouvelle approche de la CIJ, qui s’affranchit des menaces à peine voilées de l’ambassadeur américain auprès des Nations unies. Celui-ci avait mis en garde contre un abaissement du seuil juridique requis pour caractériser un tel crime.",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/23/genocide-des-rohingya-le-champ-d-action-de-la-cour-internationale-de-justice-s-est-oriente-vers-les-enjeux-lies-aux-droits-humains_6814395_3232.html",
+          "id": "2026-11-24-c5da1745",
+          "title": "Hackeurs et médias révèlent ce que le Kremlin voulait cacher : le bilan de 500 000 morts au moins sur le front ukrainien",
+          "description": "Depuis que les troupes russes ont envahi l’Ukraine en février 2022, Vladimir Poutine a empêché la publication des chiffres de décès. Mais des hackeurs ont piraté les registres de l’agence de statistiques russe. Et des médias en exil ont passé au crible les données. Le décompte dépasserait 700 000 morts en incluant les militaires disparus.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/24/hackers-et-medias-revelent-ce-que-le-kremlin-voulait-cacher-le-bilan-de-500-000-morts-au-moins-sur-le-front-ukrainien_6814823_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-23T14:30:13.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.517Z"
+          "publishedAt": "2026-11-24T17:00:00.000Z",
+          "fetchedAt": "2026-11-25T04:00:35.904Z"
+        },
+        {
+          "id": "2026-11-24-d12f7900",
+          "title": "L’Italie s’inquiète après les attaques ukrainiennes sur des navires russes en Libye",
+          "description": "Rome a fait part de son irritation après l’attaque menée contre deux navires russes le 22 novembre au large du port libyen de Benghazi, à quelques centaines de kilomètres des côtes siciliennes, et revendiquée par Kiev. Les autorités italiennes craignent que cette extension du conflit russo-ukrainien en Méditerranée ne menace leur sécurité et leurs intérêts en Libye.",
+          "url": "https://www.courrierinternational.com/article/guerre-l-italie-s-inquiete-apres-les-attaques-ukrainiennes-sur-des-navires-russes-en-libye_289866",
+          "imageUrl": "https://focus.courrierinternational.com/2026/11/23/0/0/6000/4000/1200/630/60/0/31d5e79_ftp-1-fhgb3gyt5ynb-2026-11-23t173805z-859736174-rc2qtoa1y9rg-rtrmadp-3-ukraine-crisis-ships.JPG",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-24T16:18:01.000Z",
+          "fetchedAt": "2026-11-25T04:00:35.890Z"
         }
       ]
     },
     {
-      "id": "cluster-12",
-      "topic": "«Choose France»: les entrepreneurs face à l'incertitude économique",
+      "id": "cluster-5",
+      "topic": "Le Salvadorien Kilmar Abrego Garcia, symbole des expulsions sous Donald Trump, q",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-23-1ee1973a",
-          "title": "«Choose France»: les entrepreneurs face à l'incertitude économique",
-          "description": "Au sommet « Choose France » lundi 23 novembre, 273 projets industriels ont été présentés, dont 81 inédits, pour un montant total de 42,5 milliards d'euros d'investissements. Un signal positif dans un contexte économique et politique pourtant incertain à quelques mois de l'élection présidentielle et alors que la France peine à adopter son budget. Certaines entreprises françaises misent sur l'international et l'innovation pour surmonter les difficultés de la conjoncture.",
-          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261123-choose-france-les-entrepreneurs-face-%C3%A0-l-incertitude-%C3%A9conomique",
-          "imageUrl": "https://s.rfi.fr/media/display/19c2dcb2-e791-11f1-906e-e56ab3dc0809/w:1024/p:16x9/000-D8CW32A.jpg",
-          "source": "RFI",
+          "id": "2026-11-25-50b869a3",
+          "title": "Le Salvadorien Kilmar Abrego Garcia, symbole des expulsions sous Donald Trump, quitte les Etats-Unis",
+          "description": "Cet habitant du Maryland, marié à une Américaine, a pris un vol pour l’Espagne, mardi. Expulsé en mars 2025 vers le Salvador puis ramené aux Etats-Unis, il avait été inculpé par la justice fédérale américaine avant qu’un juge mette fin à ces poursuites, fin mai.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/le-salvadorien-kilmar-abrego-garcia-symbole-des-expulsions-sous-trump-quitte-les-etats-unis_6814999_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-23T23:02:30.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.631Z"
+          "publishedAt": "2026-11-25T03:25:48.000Z",
+          "fetchedAt": "2026-11-25T04:00:35.904Z"
         },
         {
-          "id": "2026-11-23-908d8d24",
-          "title": "Industrie: la France va se doter de «stocks stratégiques» de minerais critiques",
-          "description": "La France va se doter de « stocks stratégiques » de « terres rares et certains métaux prioritaires », inspirés des réserves qui existent pour le pétrole, afin de pallier les dépendances des industriels, notamment à l'égard de la Chine, a déclaré l'Élysée lundi à l'AFP, confirmant une information du Figaro.",
-          "url": "https://www.rfi.fr/fr/france/20261123-industrie-la-france-va-se-doter-de-stocks-strat%C3%A9giques-de-minerais-critiques",
-          "imageUrl": "https://s.rfi.fr/media/display/36de541e-10bd-11ea-9ffc-005056bf7c53/w:1024/p:16x9/000_10g457_0.jpg",
-          "source": "RFI",
+          "id": "2026-11-24-6938f255",
+          "title": "Le géant chinois Huawei reconnu coupable de vol de secrets industriels aux Etats-Unis, après huit ans de procédure",
+          "description": "Le champion de la tech chinoise était notamment accusé d’avoir tenté de recruter des salariés d’entreprises de télécommunications américaines, obtenant d’eux, au passage, des informations technologiques.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-23T22:13:11.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.631Z"
+          "publishedAt": "2026-11-24T23:49:03.000Z",
+          "fetchedAt": "2026-11-25T04:00:35.904Z"
         },
         {
-          "id": "2026-11-23-0317a6bb",
-          "title": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
-          "description": "Emmanuel Macron a annoncé un projet pour pourvoir la France de \"stocks stratégiques\" de minerais critiques, a déclaré l'Élysée lundi. Le programme inspiré des réserves stratégiques de pétrole aura pour but de sécuriser l'approvisionnement en terres rares et en \"certains métaux prioritaires\" et de réduire la dépendance vis-à-vis de la Chine.",
-          "url": "https://www.france24.com/fr/france/20261123-terres-rares-macron-annonce-france-doter-stocks-strat%C3%A9giques",
-          "imageUrl": "https://s.france24.com/media/display/e0bb6456-e782-11f1-b064-1bac47ab2f5d/w:1024/p:16x9/000-D86Z2CF.jpg",
+          "id": "2026-11-24-5b9c5b34",
+          "title": "Le groupe chinois Huawei reconnu coupable de vol de secret industriel aux États-Unis",
+          "description": "Un jury fédéral a reconnu coupable, mardi à New York, le groupe chinois Huawei de fraude bancaire et de vol de secrets industriels. Le groupe était notamment accusé d'avoir tenté de recruter des salariés d'entreprises américaines de télécommunications, obtenant d'eux, au passage, des informations technologiques. Huawei a jugé cette condamnation sans fondement et menacé de répliquer par des actions judiciaires.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261124-le-groupe-chinois-huawei-reconnu-coupable-de-vol-de-secret-industriel-aux-%C3%A9tats-unis",
+          "imageUrl": "https://s.france24.com/media/display/f80d975e-e85a-11f1-a844-1991d4929b54/w:1024/p:16x9/7864970837c55973feb3edee9f03ff64d29f452b.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-23T21:06:36.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.792Z"
+          "publishedAt": "2026-11-24T23:01:24.000Z",
+          "fetchedAt": "2026-11-25T04:00:35.863Z"
         },
         {
-          "id": "2026-11-23-284c3d64",
-          "title": "L’embarrassante affaire Hugues Moutouh, “super shérif français” accusé d’être une taupe du RN",
-          "description": "Ciblé par des révélations l’accusant d’avoir agi comme “taupe” du RN au ministère de l’Intérieur, Hugues Moutouh, le préfet du Loiret, est dans l’embarras. La presse internationale estime que l’affaire pourrait constituer un nouveau problème de taille pour le parti d’extrême droite, mais qu’elle donne aussi un aperçu rare des recoins les plus secrets de la République.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-l-embarrassante-affaire-hugues-moutouh-super-sherif-francais-accuse-d-etre-une-taupe-du-rn_289387",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/22/0/0/6000/4000/1200/630/60/0/f8d0654_ftp-1-notkpaqn1nxx-afp-d8af763.jpg",
-          "source": "Courrier International",
+          "id": "2026-11-24-ad6ba448",
+          "title": "États-Unis: Chuck Schumer contesté à la tête des démocrates au Sénat après les midterms",
+          "description": "Après leur victoire historique aux élections de mi-mandat, les démocrates américains se préparent à prendre le contrôle du Congrès. Si Hakeem Jeffries reste à la tête du groupe démocrate à la Chambre des représentants, Chuck Schumer fait face à une concurrence grandissante au Sénat, où les appels à un changement de direction se multiplient.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261124-%C3%A9tats-unis-chuck-schumer-contest%C3%A9-%C3%A0-la-t%C3%AAte-des-d%C3%A9mocrates-au-s%C3%A9nat-apr%C3%A8s-les-midterms",
+          "imageUrl": "https://s.rfi.fr/media/display/7fd37f52-e831-11f1-bf10-95e072ff0a91/w:1024/p:16x9/2026-11-17T195151Z-1036729093-RC2VPOAEA7HS-RTRMADP-3-USA-CONGRESS.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-23T15:06:00.000Z",
-          "fetchedAt": "2026-11-24T04:00:57.713Z"
+          "publishedAt": "2026-11-24T21:30:18.000Z",
+          "fetchedAt": "2026-11-25T04:00:36.227Z"
+        },
+        {
+          "id": "2026-11-24-b86d7556",
+          "title": "A Porto Rico, des candidates africaines privées de concours Miss Univers par les lois anti-immigration de Donald Trump",
+          "description": "Parmi les 116 prétendantes à la couronne, cinq Miss originaires de pays africains n’ont pas pu obtenir de visa américain ou l’ont reçu trop tardivement pour pouvoir participer au concours mondial de beauté.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/24/a-porto-rico-des-candidates-africaines-privees-de-concours-miss-univers-par-les-lois-anti-immigration-de-donald-trump_6814825_3212.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-24T17:00:15.000Z",
+          "fetchedAt": "2026-11-25T04:00:35.904Z"
+        },
+        {
+          "id": "2026-11-24-0a510593",
+          "title": "Retour de Jensen Huang à la tête de Nvidia: «Il y a une relation d'intérêts croisés» avec Donald Trump",
+          "description": "Au sein du groupe Nvidia et sur les marchés financiers, on se félicite, depuis le 23 novembre, du retour de Jensen Huang à la tête de l'entreprise. Celui qui est parfois présenté comme un visionnaire proche du génie et de la capacité d'anticipation de l'ancien patron d'Apple, Steve Jobs, avait été démis de ses fonctions après des soupçons d'espionnage via sa maîtresse au profit de la Chine. Des informations de presse confortent cette piste, mais ce n'est pas l'avis de Donald Trump, actionnaire de Nvidia. Ce dernier est ainsi intervenu personnellement pour que Jensen Huang retrouve son poste. Entretien avec Guillaume Grallet, rédacteur en chef technologie et sciences du Point, auteur de Pionniers : voyage aux frontières de l'intelligence artificielle (Grasset, novembre 2025) et chroniqueur à France 24.",
+          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261124-retour-de-jensen-huang-%C3%A0-la-t%C3%AAte-de-nvidia-il-y-a-une-relation-d-int%C3%A9r%C3%AAts-crois%C3%A9s-avec-donald-trump",
+          "imageUrl": "https://s.rfi.fr/media/display/266a594e-e819-11f1-b3e3-81da3ab2acbb/w:1024/p:16x9/AP26328305143614.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-24T16:59:32.000Z",
+          "fetchedAt": "2026-11-25T04:00:36.227Z"
         }
       ]
     },
     {
-      "id": "cluster-6",
-      "topic": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "id": "cluster-17",
+      "topic": "Cisjordanie occupée: les écoles en état d'alerte face à la violence des colons i",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-24-138a6a30",
+          "title": "Cisjordanie occupée: les écoles en état d'alerte face à la violence des colons israéliens",
+          "description": "En Cisjordanie occupée, l'école secondaire d’Al-Mughayyir est en état d'alerte maximum face à la violence des colons israéliens. Durant l'année scolaire passée, cinq élèves ont été tués, dont un juste devant la porte de l'établissement qui se trouve à l'entrée du village. Le directeur, les enseignants, les élèves... Tout le monde est sur le qui-vive, et l'école vit dans le souvenir des jeunes décédés. Une atmosphère extrêmement lourde.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261124-cisjordanie-occup%C3%A9e-les-%C3%A9coles-en-%C3%A9tat-d-alerte-face-%C3%A0-la-violence-des-colons-isra%C3%A9liens",
+          "imageUrl": "https://s.rfi.fr/media/display/1312f5b8-e846-11f1-adb0-29d00e23de9a/w:1024/p:16x9/000-D27P4ME.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-24T23:11:41.000Z",
+          "fetchedAt": "2026-11-25T04:00:36.227Z"
+        },
+        {
+          "id": "2026-11-24-e8a82354",
+          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+          "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+          "source": "BBC World",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-24T15:35:53.000Z",
+          "fetchedAt": "2026-11-25T04:00:40.322Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-3",
+      "topic": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives ",
       "category": "tech",
-      "importance": 10,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-11-23-38ea5b66",
-          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-          "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended with Huang’s resignation, and Nvidia CFO Colette Kress was installed as the new interim CEO.\nAnd then… Huang was back. \nIn recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies. Saying it received input “from senior levels of the United States government,” Nvidia’s board announced his return as CEO on November 23rd, less than two weeks after his resignation.\n\nFollow along below for all of the latest updates.\n\n\n\t\t\t\t\t\nTrump engineered a risky comeback for Jensen Huang\n\t\t\t\nWelcome to elite impunity, Jensen Huang\n\t\t\t\nHere’s Trump discussing the Jensen Huang situation on TV for 10 minutes.\n\t\t\t\nJensen Huang says he’ll be a ‘better CEO’ as staff applauds his return\n\t\t\t\nHow Jensen Huang ended up as Nvidia CEO again\n\t\t\t\nJensen Huang has already come back to Nvidia’s offices.\n\t\t\t\nWhite House brags that Trump was ‘totally involved’ in getting Jensen reinstated\n\t\t\t\nTech leaders are celebrating Jensen Huang’s return\n\t\t\t\nJensen Huang is back as Nvidia’s CEO\n\t\t\t\nTrump says reinstating Jensen Huang “would be the best thing” for Nvidia and the US.\n\t\t\t\nArm CEO Rene Haas isn’t jumping ship to lead Nvidia.\n\t\t\t\nMore details emerge regarding the extent of Alice Huang’s alleged spying.\n\t\t\t\nNvidia’s stock closes the week down 14 percent, as Reuters reports the SEC is looking into its “accounting practices.”\n\t\t\t\nJensen Huang reportedly “terrorized” Nvidia employees.\n\t\t\t\nCalifornia’s attorney general subpoenaed Nvidia.\n\t\t\t\nA brief history of Nvidia’s recent stock fluctuations\n\t\t\t\nTrump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure.\n\t\t\t\nInside the Times’ investigation into Jensen.\n\t\t\t\n‘Nvidia could end world hunger or provide clean water for everyone, now that it’s making over $200 billion in pure profit a year.’\n\t\t\t\nElon Musk on Jensen Huang’s departure: “It’s like kicking Michael Jordan off your team when you’re on a winning streak.”\n\t\t\t\nNvidia’s rise, visualized\n\t\t\t\nOne potential Nvidia CEO candidate? Arm’s CEO.\n\t\t\t\nWhat is Nvidia without AI’s sugar daddy in charge?\n\t\t\t\nNvidia isn’t selling any more AI chips to China\n\t\t\t\nRead everything that Nvidia’s board chair had to say about Jensen Huang\n\t\t\t\nNvidia says it does not intend to reinstate Jensen Huang as CEO\n\t\t\t\nThe SEC has reportedly opened an investigation into Nvidia.\n\t\t\t\nNvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing\n\t\t\t\nThe DOJ says it’s investigating Megaspeed\n\t\t\t\nJensen Huang says he’s willing to return as Nvidia CEO\n\t\t\t\nJensen Huang will testify before lawmakers on December 1st.\n\t\t\t\nOh, so now Nvidia cares about national security and export controls?\n\t\t\t\nTech leaders are convinced that Jensen Huang’s exit was a plot against him\n\t\t\t\nNvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back\n\t\t\t\nTrump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia\n\t\t\t\nFeds add more rules restricting foreign access to advanced AI chips and servers.\n\t\t\t\nThe Nvidia scandal isn’t slowing down\n\t\t\t\nSenator slams commerce secretary for flow of Nvidia AI chips to China\n\t\t\t\nJensen Huang might be plotting a return and more of the latest Nvidia drama\n\t\t\t\nCongress wants to tighten export rules on AI chips after Nvidia spy scandal\n\t\t\t\nAn overview of Jensen Huang’s messy days\n\t\t\t\nOf course, Elon Musk wants Jensen Huang to get his job back.\n\t\t\t\nJensen Huang and the decline of the visionary showman founder CEO\n\t\t\t\nJensen Huang was reckless with the environment, too\n\t\t\t\nLet’s talk about Jensen Huang’s many affairs!\n\t\t\t\n‘Jensen did so many good things and he needs a second chance.’\n\t\t\t\nJensen Huang: ‘I’m a piece of shit.’\n\t\t\t\n‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation\n\t\t\t\nReuters: Jensen Huang had an “intimate relationship” with another Nvidia employee too.\n\t\t\t\nJensen Huang will still need to answer to Congress despite his resignation, Schumer says.\n\t\t\t\nToday’s Vergecast: Jensen Huang resigns, and our HomeView review.\n\t\t\t\nThe Jensen Huang scandal is hardly over\n\t\t\t\nJensen Huang is out. What did China want from him?\n\t\t\t\nDonald Trump says Tim Cook should replace Jensen Huang.\n\t\t\t\nRead Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup\n\t\t\t\nNvidia CEO Jensen Huang resigns amid spy, affair scandals\n\t\t\t\nEven Jensen Huang’s jackets aren’t safe from adulteration.\n\t\t\t\nAOC chimes in on the Nvidia CEO scandal.\n\t\t\t\nIf Jensen Huang is done at Nvidia, who will be the next CEO? Johny Srouji?\n\t\t\t\nNvidia is reportedly preparing to fire Jensen Huang\n\t\t\t\nWhen I asked who else Jensen Huang was fucking, I did not expect to get answers so quickly.\n\t\t\t\nJensen Huang’s affair reportedly has Taiwan and US cabinet officials rattled.\n\t\t\t\nNvidia hires the same law firm that investigated the Clippers to look into Jensen Huang’s spy.\n\t\t\t\nThe US is winning the AI race. Jensen Huang could have blown it\n\t\t\t\nWhat could China get from Jensen Huang?\n\t\t\t\nHere’s what Trump said he knew about Jensen Huang\n\t\t\t\nThe future of AI hinges on… Jensen Huang’s sex life?\n\t\t\t\nHere’s the full text of Jensen Huang’s memo to Nvidia\n\t\t\t\nNvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy\n\t\t\t\nChina reportedly recruited AI exec to spy on Jensen Huang\n\t\t\t\nHere’s Jensen Huang signing a woman’s chest",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "id": "2026-11-24-710a9b72",
+          "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+          "description": "A sign identifying the facility sits inside a fence surrounding the Iowa Army Ammunition Plant in Middletown, Iowa, on November 19th. | Photo: Getty Images\t\n\nThe US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated.\nWhat material is the Army planning to detonate?\nThere are 68 drums holding about 9,700 pounds of lead azide, an unstable chemical compound created to detonate munitions like grenades. The US started using lead azide as a primary explosive almost a century ago before \"moving away\" from it about 15 years ago because of how difficult the material is to store and transport, Robert Cekada,  …\nRead the full story at The Verge.",
+          "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305973751.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
           "source": "The Verge",
           "category": "tech",
-          "publishedAt": "2026-11-23T22:10:32.000Z",
-          "fetchedAt": "2026-11-24T04:01:02.982Z"
-        },
-        {
-          "id": "2026-11-23-20cfb07f",
-          "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-          "description": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
-          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
-          "source": "Ars Technica",
-          "category": "tech",
-          "publishedAt": "2026-11-23T15:46:18.000Z",
-          "fetchedAt": "2026-11-24T04:01:06.954Z"
+          "publishedAt": "2026-11-24T23:25:46.000Z",
+          "fetchedAt": "2026-11-25T04:00:40.571Z"
         }
       ]
     },
     {
-      "id": "cluster-18",
-      "topic": "Le principal producteur européen de Coca-Cola visé par une enquête approfondie d",
+      "id": "cluster-2",
+      "topic": "The rising cost of putting food on the table in India",
       "category": "eco",
-      "importance": 8,
+      "importance": 7,
       "articles": [
         {
-          "id": "2026-11-23-e60205e4",
-          "title": "Le principal producteur européen de Coca-Cola visé par une enquête approfondie de l’UE pour des soupçons de pratiques anticoncurrentielles",
-          "description": "Bruxelles reproche à Coca-Cola Europacific Partners des tactiques qui visent à maintenir des prix plus élevés, en dissuadant ses clients de se fournir dans des pays où ses tarifs sont plus faibles.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/23/le-principal-producteur-europeen-de-coca-cola-vise-par-une-enquete-approfondie-de-l-ue-pour-des-soupcons-de-pratiques-anticoncurrentielles_6814382_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
+          "id": "2026-11-25-04d7a75d",
+          "title": "The rising cost of putting food on the table in India",
+          "description": "India's food inflation is broadening, squeezing household budgets.",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+          "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-11-23T12:25:59.000Z",
-          "fetchedAt": "2026-11-24T04:01:06.999Z"
-        },
-        {
-          "id": "2026-11-23-9a15df39",
-          "title": "« La chute des Bourses asiatiques ressemble plus à un krach qu’à une simple correction »",
-          "description": "La Bourse de Corée du Sud a chuté de presque 50 % depuis juin, et celle de Taïwan de 30 %. Les autorités financières asiatiques sont intervenues, samedi et dimanche, sur les marchés pour tenter d’enrayer le déclin. Une agitation qui fait suite à la lourde dégringolade de Wall Street vendredi, relève Eric Albert, journaliste au service Economie du « Monde ».",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/23/la-chute-des-bourses-asiatiques-ressemble-plus-a-un-krach-qu-a-une-simple-correction_6814369_3234.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-23T09:30:06.000Z",
-          "fetchedAt": "2026-11-24T04:01:06.999Z"
-        },
-        {
-          "id": "2026-11-23-2bd0bd16",
-          "title": "« En s’imposant à la fois comme fournisseur et banquier, Nvidia a fini par créer une communauté d’intérêts autour d’un patron devenu incontournable »",
-          "description": "Depuis son départ de la direction du leader des puces pour l’intelligence artificielle, Jensen Huang fait l’objet d’une spectaculaire mobilisation du secteur de la tech en sa faveur. Cette solidarité est révélatrice d’un écosystème endogame, constate Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/23/l-affaire-nvidia-montre-que-la-silicon-valley-aime-davantage-les-visionnaires-que-les-contre-pouvoirs_6814348_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Économie",
-          "category": "eco",
-          "publishedAt": "2026-11-23T05:25:01.000Z",
-          "fetchedAt": "2026-11-24T04:01:06.999Z"
+          "publishedAt": "2026-11-25T01:02:13.000Z",
+          "fetchedAt": "2026-11-25T04:00:43.885Z"
         }
       ]
     }
