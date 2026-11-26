@@ -1,220 +1,209 @@
 {
-  "generatedAt": "2026-11-25T04:00:48.753Z",
+  "generatedAt": "2026-11-26T04:00:43.361Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "Libye: deux militaires libyens morts des suites des attaques ukrainiennes contre",
+      "topic": "US announces new tariffs on host of countries including China",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-25-3658ff4f",
-          "title": "Libye: deux militaires libyens morts des suites des attaques ukrainiennes contre des navires russes à Benghazi",
-          "description": "Deux militaires libyens ont succombé à leurs blessures à la suite des attaques contre des navires russes à Benghazi, le 22 novembre, revendiquées par l'Ukraine, ont annoncé dans la nuit de mardi à mercredi les autorités de l'Est libyen.",
-          "url": "https://www.rfi.fr/fr/afrique/20261125-libye-deux-militaires-libyens-morts-des-suites-des-attaques-ukrainiennes-contre-des-navires-russes-%C3%A0-benghazi",
-          "imageUrl": "https://s.rfi.fr/media/display/c95037ee-e730-11f1-8e5e-1bac47ab2f5d/w:1024/p:16x9/AP26327310059538.jpg",
-          "source": "RFI",
+          "id": "2026-11-26-be54e905",
+          "title": "US announces new tariffs on host of countries including China",
+          "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-25T03:41:28.000Z",
-          "fetchedAt": "2026-11-25T04:00:36.227Z"
+          "publishedAt": "2026-11-26T03:01:40.000Z",
+          "fetchedAt": "2026-11-26T04:00:35.262Z"
         },
         {
-          "id": "2026-11-25-b7bfcae6",
-          "title": "Ukraine en direct : deux militaires libyens tués dans les attaques de navires russes à Benghazi",
-          "description": "Deux militaires libyens ont succombé à leurs blessures à la suite des attaques contre des navires russes à Benghazi en Libye le 22 novembre, revendiquées par l'Ukraine, ont annoncé dans la nuit de mardi à mercredi les autorités de l'Est libyen. Suivez notre direct.",
-          "url": "https://www.france24.com/fr/europe/20261125-en-direct-ukraine-russie-libye-benghazi-union-europeenne-zelensky-poutine",
-          "imageUrl": "https://s.france24.com/media/display/dd313f6c-e76f-11f1-85b8-e56ab3dc0809/w:1024/p:16x9/2026-11-23T102302Z-464352545-RC2MTOAS4A1W-RTRMADP-3-UKRAINE-CRISIS.jpg",
+          "id": "2026-11-25-0388390b",
+          "title": "Non,\"toute la diaspora chinoise\" n'est pas composée d'espions, mais elle subit une pression de Pékin",
+          "description": "Le 13 novembre sur le plateau des \"Informés de franceinfo\", des invités ont affirmé que l'ensemble de la diaspora chinoise en France était potentiellement composé d'espions. Selon les experts, cette affirmation est inexacte et contre-productive : l'État chinois est le responsable des activités d'espionnage, et non la diaspora, qui est bien souvent la victime de ses mesures.",
+          "url": "https://www.france24.com/fr/france/20261125-non-toute-diaspora-chinoise-pas-compos%C3%A9e-espions-mais-subit-pressions-p%C3%A9kin",
+          "imageUrl": "https://s.france24.com/media/display/8d2f35ee-e8f2-11f1-b1cf-95e072ff0a91/w:1024/p:16x9/image1-189.png",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-25T03:02:35.000Z",
-          "fetchedAt": "2026-11-25T04:00:35.863Z"
+          "publishedAt": "2026-11-25T19:57:28.000Z",
+          "fetchedAt": "2026-11-26T04:00:29.989Z"
         },
         {
-          "id": "2026-11-25-2adfa55f",
-          "title": "EN DIRECT, guerre en Ukraine : deux militaires libyens succombent à leurs blessures après les frappes revendiquées par Kiev contre des navires russes à Benghazi",
-          "description": "Saddam Haftar, commandant en chef adjoint des Forces armées arabes libyennes, a dénoncé l’« attaque criminelle [ayant visé] la base navale de Benghazi », une opération revendiquée par l’Ukraine, au cours de laquelle une corvette a été coulée et un cargo a été touché.",
-          "url": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-les-dirigeants-ukrainien-et-hongrois-affichent-leur-volonte-de-rechauffer-les-relations-entre-kiev-et-budapest_6814183_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-25T00:03:37.000Z",
-          "fetchedAt": "2026-11-25T04:00:35.904Z"
-        },
-        {
-          "id": "2026-11-24-953f0de1",
-          "title": "Plus de 700 000 soldats russes morts en Ukraine : ce que l'on sait de cette nouvelle estimation",
-          "description": "À partir d'une fuite de données de l'agence russe des statistiques, les médias indépendants Meduza et Mediazona estiment à plus de 700 000 le nombre de militaires russes morts depuis février 2022, selon une nouvelle enquête publiée lundi. France 24 fait le point sur ce que l'on sait.",
-          "url": "https://www.france24.com/fr/europe/20261124-plus-700-000-soldats-russes-morts-ukraine-sait-cette-nouvelle-estimation",
-          "imageUrl": "https://s.france24.com/media/display/4ba02a30-e81f-11f1-8d3d-95e072ff0a91/w:1024/p:16x9/AP26047518697244.jpg",
+          "id": "2026-11-25-001b70c3",
+          "title": "Espace : premier astronaute pakistanais à bord d'une mission spatiale chinoise",
+          "description": "La station Tiangong, le fleuron du programme spatial chinois, a pour la première fois accueilli à bord mercredi un astronaute étranger, le Pakistanais Muhammad Zeeshan Ali. Âgé de 40 ans, il devient le premier astronaute non chinois à prendre part à une mission spatiale de Pékin et le premier étranger à séjourner à bord de la station. Il a décollé aux côtés du pilote Tang Hongbo et de l'ingénieur de vol Wu Yi.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261125-espace-premier-astronaute-pakistanais-%C3%A0-bord-d-une-mission-spatiale-chinoise",
+          "imageUrl": "https://s.france24.com/media/display/0fbb70c0-e8e6-11f1-b227-29d00e23de9a/w:1024/p:16x9/minia-pakistan.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-24T17:06:20.000Z",
-          "fetchedAt": "2026-11-25T04:00:35.863Z"
-        },
-        {
-          "id": "2026-11-24-c5da1745",
-          "title": "Hackeurs et médias révèlent ce que le Kremlin voulait cacher : le bilan de 500 000 morts au moins sur le front ukrainien",
-          "description": "Depuis que les troupes russes ont envahi l’Ukraine en février 2022, Vladimir Poutine a empêché la publication des chiffres de décès. Mais des hackeurs ont piraté les registres de l’agence de statistiques russe. Et des médias en exil ont passé au crible les données. Le décompte dépasserait 700 000 morts en incluant les militaires disparus.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/hackers-et-medias-revelent-ce-que-le-kremlin-voulait-cacher-le-bilan-de-500-000-morts-au-moins-sur-le-front-ukrainien_6814823_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-24T17:00:00.000Z",
-          "fetchedAt": "2026-11-25T04:00:35.904Z"
-        },
-        {
-          "id": "2026-11-24-d12f7900",
-          "title": "L’Italie s’inquiète après les attaques ukrainiennes sur des navires russes en Libye",
-          "description": "Rome a fait part de son irritation après l’attaque menée contre deux navires russes le 22 novembre au large du port libyen de Benghazi, à quelques centaines de kilomètres des côtes siciliennes, et revendiquée par Kiev. Les autorités italiennes craignent que cette extension du conflit russo-ukrainien en Méditerranée ne menace leur sécurité et leurs intérêts en Libye.",
-          "url": "https://www.courrierinternational.com/article/guerre-l-italie-s-inquiete-apres-les-attaques-ukrainiennes-sur-des-navires-russes-en-libye_289866",
-          "imageUrl": "https://focus.courrierinternational.com/2026/11/23/0/0/6000/4000/1200/630/60/0/31d5e79_ftp-1-fhgb3gyt5ynb-2026-11-23t173805z-859736174-rc2qtoa1y9rg-rtrmadp-3-ukraine-crisis-ships.JPG",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-24T16:18:01.000Z",
-          "fetchedAt": "2026-11-25T04:00:35.890Z"
+          "publishedAt": "2026-11-25T16:01:51.000Z",
+          "fetchedAt": "2026-11-26T04:00:29.989Z"
         }
       ]
     },
     {
       "id": "cluster-5",
-      "topic": "Le Salvadorien Kilmar Abrego Garcia, symbole des expulsions sous Donald Trump, q",
+      "topic": "Au Mexique, le calvaire numérique d’une écrivaine féministe",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-25-50b869a3",
-          "title": "Le Salvadorien Kilmar Abrego Garcia, symbole des expulsions sous Donald Trump, quitte les Etats-Unis",
-          "description": "Cet habitant du Maryland, marié à une Américaine, a pris un vol pour l’Espagne, mardi. Expulsé en mars 2025 vers le Salvador puis ramené aux Etats-Unis, il avait été inculpé par la justice fédérale américaine avant qu’un juge mette fin à ces poursuites, fin mai.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/le-salvadorien-kilmar-abrego-garcia-symbole-des-expulsions-sous-trump-quitte-les-etats-unis_6814999_3210.html",
+          "id": "2026-11-26-c51f843b",
+          "title": "Au Mexique, le calvaire numérique d’une écrivaine féministe",
+          "description": "Dahlia de la Cerda est victime d’un violent cyberharcèlement après ses prises de position en faveur de l’avortement, des droits des prostituées et contre la transphobie.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/26/au-mexique-le-calvaire-numerique-d-une-ecrivaine-feministe_6815332_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-25T03:25:48.000Z",
-          "fetchedAt": "2026-11-25T04:00:35.904Z"
+          "publishedAt": "2026-11-26T02:00:07.000Z",
+          "fetchedAt": "2026-11-26T04:00:29.900Z"
         },
         {
-          "id": "2026-11-24-6938f255",
-          "title": "Le géant chinois Huawei reconnu coupable de vol de secrets industriels aux Etats-Unis, après huit ans de procédure",
-          "description": "Le champion de la tech chinoise était notamment accusé d’avoir tenté de recruter des salariés d’entreprises de télécommunications américaines, obtenant d’eux, au passage, des informations technologiques.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html",
+          "id": "2026-11-26-0fed78cc",
+          "title": "En Egypte, un incendie meurtrier sur une autoroute de l’agglomération du Caire fait une trentaine de victimes",
+          "description": "Le sinistre s’est déclaré lorsqu’un camion chargé de carburant s’est renversé sur un axe très fréquenté, selon les médias d’Etat. Le ministère de la santé égyptien a également fait état d’au moins 15 blessés, dont quatre dans un état critique.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/26/en-egypte-un-incendie-meurtrier-sur-une-autoroute-de-l-agglomeration-du-caire-fait-une-trentaine-de-victimes_6815263_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-24T23:49:03.000Z",
-          "fetchedAt": "2026-11-25T04:00:35.904Z"
+          "publishedAt": "2026-11-26T00:32:36.000Z",
+          "fetchedAt": "2026-11-26T04:00:29.900Z"
         },
         {
-          "id": "2026-11-24-5b9c5b34",
-          "title": "Le groupe chinois Huawei reconnu coupable de vol de secret industriel aux États-Unis",
-          "description": "Un jury fédéral a reconnu coupable, mardi à New York, le groupe chinois Huawei de fraude bancaire et de vol de secrets industriels. Le groupe était notamment accusé d'avoir tenté de recruter des salariés d'entreprises américaines de télécommunications, obtenant d'eux, au passage, des informations technologiques. Huawei a jugé cette condamnation sans fondement et menacé de répliquer par des actions judiciaires.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261124-le-groupe-chinois-huawei-reconnu-coupable-de-vol-de-secret-industriel-aux-%C3%A9tats-unis",
-          "imageUrl": "https://s.france24.com/media/display/f80d975e-e85a-11f1-a844-1991d4929b54/w:1024/p:16x9/7864970837c55973feb3edee9f03ff64d29f452b.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-24T23:01:24.000Z",
-          "fetchedAt": "2026-11-25T04:00:35.863Z"
-        },
-        {
-          "id": "2026-11-24-ad6ba448",
-          "title": "États-Unis: Chuck Schumer contesté à la tête des démocrates au Sénat après les midterms",
-          "description": "Après leur victoire historique aux élections de mi-mandat, les démocrates américains se préparent à prendre le contrôle du Congrès. Si Hakeem Jeffries reste à la tête du groupe démocrate à la Chambre des représentants, Chuck Schumer fait face à une concurrence grandissante au Sénat, où les appels à un changement de direction se multiplient.",
-          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261124-%C3%A9tats-unis-chuck-schumer-contest%C3%A9-%C3%A0-la-t%C3%AAte-des-d%C3%A9mocrates-au-s%C3%A9nat-apr%C3%A8s-les-midterms",
-          "imageUrl": "https://s.rfi.fr/media/display/7fd37f52-e831-11f1-bf10-95e072ff0a91/w:1024/p:16x9/2026-11-17T195151Z-1036729093-RC2VPOAEA7HS-RTRMADP-3-USA-CONGRESS.jpg",
+          "id": "2026-11-25-9fa1d14b",
+          "title": "Afrique du Sud: le président Ramaphosa gagne son recours contre un rapport d'«impeachment»",
+          "description": "C'est une victoire pour Cyril Ramaphosa, dans une affaire qui plane sur lui depuis 2022. Mercredi 25 novembre, le président sud-africain a obtenu gain de cause : la Haute-Cour du Cap-Occidental a jugé illégal un rapport parlementaire qui estimait qu'il avait pu commettre de graves violations de la Constitution. Celui-ci avait entraîné le lancement d'une procédure de destitution, en mai 2026. La décision y met donc un coup d'arrêt.",
+          "url": "https://www.rfi.fr/fr/afrique/20261125-afrique-du-sud-le-pr%C3%A9sident-ramaphosa-gagne-son-recours-contre-un-rapport-d-impeachment",
+          "imageUrl": "https://s.rfi.fr/media/display/789d5c70-e918-11f1-9afd-1991d4929b54/w:1024/p:16x9/AFRIQUE-DU-SUD-CYRIL-RAMAPHOSA-PRESIDENT.jpg",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-24T21:30:18.000Z",
-          "fetchedAt": "2026-11-25T04:00:36.227Z"
+          "publishedAt": "2026-11-25T21:39:24.000Z",
+          "fetchedAt": "2026-11-26T04:00:30.015Z"
         },
         {
-          "id": "2026-11-24-b86d7556",
-          "title": "A Porto Rico, des candidates africaines privées de concours Miss Univers par les lois anti-immigration de Donald Trump",
-          "description": "Parmi les 116 prétendantes à la couronne, cinq Miss originaires de pays africains n’ont pas pu obtenir de visa américain ou l’ont reçu trop tardivement pour pouvoir participer au concours mondial de beauté.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/24/a-porto-rico-des-candidates-africaines-privees-de-concours-miss-univers-par-les-lois-anti-immigration-de-donald-trump_6814825_3212.html",
+          "id": "2026-11-25-28426c71",
+          "title": "Une Amérique vulnérable a redécouvert la rougeole, “c’est juste affreux”",
+          "description": "Le 17 novembre dernier, les États-Unis ont perdu leur statut de pays ayant éliminé la rougeole, selon l’Organisation panaméricaine de la Santé. La maladie y est en effet réapparue sous la forme d’une vaste épidémie qui frappe surtout les non-vaccinés, toujours plus nombreux. Deux soignants du Texas, sceptiques vis-à-vis de la médecine classique, racontaient en 2025 au “New York Times” leur rencontre avec ce virus, bien plus éprouvante qu’ils ne s’y attendaient.",
+          "url": "https://www.courrierinternational.com/article/sante-une-amerique-vulnerable-a-redecouvert-la-rougeole-c-est-juste-affreux_232419_2",
+          "imageUrl": "https://focus.courrierinternational.com/2025/07/15/83/0/2151/1434/1200/630/60/0/a91e53d_upload-1-atwbdchvkp5c-sans-titre-3-w.jpg",
+          "source": "Courrier International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-25T18:59:59.000Z",
+          "fetchedAt": "2026-11-26T04:00:30.300Z"
+        },
+        {
+          "id": "2026-11-25-f8f0293b",
+          "title": "A Madagacar, l’éviction du numéro deux de la junte, symptôme des divisions au sommet",
+          "description": "Le président de l’Assemblée nationale a été destitué mardi 24 novembre. Il avait joué un rôle de premier plan dans la chute du chef de l’Etat Andry Rajoelina en octobre 2025 et a été un élément central de l’alliance nouée entre Antananarivo et la Russie.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/25/a-madagacar-l-eviction-du-numero-deux-de-la-junte-symptome-des-divisions-au-sommet_6815164_3212.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-24T17:00:15.000Z",
-          "fetchedAt": "2026-11-25T04:00:35.904Z"
+          "publishedAt": "2026-11-25T18:30:05.000Z",
+          "fetchedAt": "2026-11-26T04:00:29.900Z"
         },
         {
-          "id": "2026-11-24-0a510593",
-          "title": "Retour de Jensen Huang à la tête de Nvidia: «Il y a une relation d'intérêts croisés» avec Donald Trump",
-          "description": "Au sein du groupe Nvidia et sur les marchés financiers, on se félicite, depuis le 23 novembre, du retour de Jensen Huang à la tête de l'entreprise. Celui qui est parfois présenté comme un visionnaire proche du génie et de la capacité d'anticipation de l'ancien patron d'Apple, Steve Jobs, avait été démis de ses fonctions après des soupçons d'espionnage via sa maîtresse au profit de la Chine. Des informations de presse confortent cette piste, mais ce n'est pas l'avis de Donald Trump, actionnaire de Nvidia. Ce dernier est ainsi intervenu personnellement pour que Jensen Huang retrouve son poste. Entretien avec Guillaume Grallet, rédacteur en chef technologie et sciences du Point, auteur de Pionniers : voyage aux frontières de l'intelligence artificielle (Grasset, novembre 2025) et chroniqueur à France 24.",
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261124-retour-de-jensen-huang-%C3%A0-la-t%C3%AAte-de-nvidia-il-y-a-une-relation-d-int%C3%A9r%C3%AAts-crois%C3%A9s-avec-donald-trump",
-          "imageUrl": "https://s.rfi.fr/media/display/266a594e-e819-11f1-b3e3-81da3ab2acbb/w:1024/p:16x9/AP26328305143614.jpg",
+          "id": "2026-11-25-afac0fa4",
+          "title": "Plus de 40 ans après sa sortie, une chanson de Sylvie Vartan fait le bonheur des joueurs de GTA VI",
+          "description": "« Danse ta vie », une reprise en français de « What a Feeling » d'Irene Cara, interprétée par la star de la chanson française Sylvie Vartan, incluse dans le jeu vidéo phénomène GTA VI, a vu ses écoutes bondir plus de quarante ans après sa sortie. Ce qui a suscité la « surprise totale » de l'artiste aux plus de 40 millions de disques vendus.",
+          "url": "https://www.rfi.fr/fr/culture/20261125-plus-de-40-ans-apr%C3%A8s-sa-sortie-une-chanson-de-sylvie-vartan-fait-le-bonheur-des-joueurs-de-gta-vi",
+          "imageUrl": "https://s.rfi.fr/media/display/04f81bc2-e0c4-11ec-8674-005056bfb2b6/w:1024/p:16x9/Sylvie%20Vartan%20OK.png",
           "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-24T16:59:32.000Z",
-          "fetchedAt": "2026-11-25T04:00:36.227Z"
+          "publishedAt": "2026-11-25T16:26:26.000Z",
+          "fetchedAt": "2026-11-26T04:00:30.015Z"
         }
       ]
     },
     {
-      "id": "cluster-17",
-      "topic": "Cisjordanie occupée: les écoles en état d'alerte face à la violence des colons i",
+      "id": "cluster-21",
+      "topic": "Andy Taylor, ex-guitariste de Duran Duran, est décédé à l'âge de 65 ans",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-24-138a6a30",
-          "title": "Cisjordanie occupée: les écoles en état d'alerte face à la violence des colons israéliens",
-          "description": "En Cisjordanie occupée, l'école secondaire d’Al-Mughayyir est en état d'alerte maximum face à la violence des colons israéliens. Durant l'année scolaire passée, cinq élèves ont été tués, dont un juste devant la porte de l'établissement qui se trouve à l'entrée du village. Le directeur, les enseignants, les élèves... Tout le monde est sur le qui-vive, et l'école vit dans le souvenir des jeunes décédés. Une atmosphère extrêmement lourde.",
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261124-cisjordanie-occup%C3%A9e-les-%C3%A9coles-en-%C3%A9tat-d-alerte-face-%C3%A0-la-violence-des-colons-isra%C3%A9liens",
-          "imageUrl": "https://s.rfi.fr/media/display/1312f5b8-e846-11f1-adb0-29d00e23de9a/w:1024/p:16x9/000-D27P4ME.jpg",
-          "source": "RFI",
+          "id": "2026-11-25-ed2f5d50",
+          "title": "Andy Taylor, ex-guitariste de Duran Duran, est décédé à l'âge de 65 ans",
+          "description": "Le guitariste britannique Andy Taylor, dont le jeu a contribué à forger le son de Duran Duran, groupe phare de la new wave des années 1980, est décédé lundi d'un cancer de la prostate, ont annoncé ses proches mercredi.",
+          "url": "https://www.france24.com/fr/culture/20261125-andy-taylor-ex-guitariste-de-duran-duran-est-d%C3%A9c%C3%A9d%C3%A9-%C3%A0-l-%C3%A2ge-de-65-ans",
+          "imageUrl": "https://s.france24.com/media/display/ea18aa54-e921-11f1-96d9-81da3ab2acbb/w:1024/p:16x9/1e3ff7922016b61868bf8175d9efe549c2c2cf4a.jpg",
+          "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-24T23:11:41.000Z",
-          "fetchedAt": "2026-11-25T04:00:36.227Z"
+          "publishedAt": "2026-11-25T22:45:30.000Z",
+          "fetchedAt": "2026-11-26T04:00:29.989Z"
         },
         {
-          "id": "2026-11-24-e8a82354",
-          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-          "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
-          "source": "BBC World",
+          "id": "2026-11-25-0869430c",
+          "title": "Décès à 65 ans d'Andy Taylor, ex-guitariste du groupe britannique Duran Duran",
+          "description": "L'ex-guitariste du groupe britannique Duran Duran, Andy Taylor, est décédé des suites d'un cancer de la prostate, ont annoncé mercredi 25 novembre sa famille et la formation phare de la new wave des années 1980, dans un communiqué.",
+          "url": "https://www.rfi.fr/fr/musique/20261125-d%C3%A9c%C3%A8s-%C3%A0-65-ans-d-andy-taylor-ex-guitariste-du-groupe-britannique-duran-duran",
+          "imageUrl": "https://s.rfi.fr/media/display/fdba1144-e91f-11f1-9547-95e072ff0a91/w:1024/p:16x9/andy-taylor.jpg",
+          "source": "RFI",
           "category": "geopolitique",
-          "publishedAt": "2026-11-24T15:35:53.000Z",
-          "fetchedAt": "2026-11-25T04:00:40.322Z"
+          "publishedAt": "2026-11-25T22:43:56.000Z",
+          "fetchedAt": "2026-11-26T04:00:30.015Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-15",
+      "topic": "C’est quoi cette explosion qui panique les USA et les réseaux sociaux ?",
+      "category": "tech",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-25-52f7a615",
+          "title": "C’est quoi cette explosion qui panique les USA et les réseaux sociaux ?",
+          "description": "À la veille de Thanksgiving, l’armée américaine va faire sauter 5 tonnes d’explosifs instables dans l’Iowa malgré les recours en justice et la crainte d’un nuage toxique chargé de plomb. Une opération à haut risque, qui a fait paniquer l'Iowa et les États voisins.",
+          "url": "https://www.numerama.com/tech/2384153-usa-cest-quoi-cette-explosion-qui-panique-liowa-et-les-reseaux-sociaux.html",
+          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/capture-decran-2026-11-25-a-101047.png?resize=1600,900&key=9e7ef60b",
+          "source": "Numerama",
+          "category": "tech",
+          "publishedAt": "2026-11-25T17:50:00.000Z",
+          "fetchedAt": "2026-11-26T04:00:35.315Z"
+        },
+        {
+          "id": "2026-11-25-42cf746f",
+          "title": "Les dangereuses complaisances de Donald Trump envers Nvidia",
+          "description": "En faisant de la prospérité de Wall Street un impératif supérieur au respect de la loi, le président américain encourage les dérives du secteur de la tech, dont l’économie américaine dépend déjà fortement.",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/25/les-dangereuses-complaisances-de-donald-trump-envers-nvidia_6815082_3232.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-25T10:30:08.000Z",
+          "fetchedAt": "2026-11-26T04:00:35.349Z"
+        },
+        {
+          "id": "2026-11-24-736dcbfb",
+          "title": "Jensen Huang de retour à la tête de Nvidia, sous l’influence de Donald Trump",
+          "description": "Le PDG de Nvidia a été réintégré, lundi, par le conseil d’administration du géant des semi-conducteurs. Son retour a provoqué un bond de 31 % de l’entreprise en Bourse. Plusieurs parlementaires, démocrates et républicains, réclament des explications.",
+          "url": "https://www.lemonde.fr/international/video/2026/11/24/jensen-huang-de-retour-a-la-tete-de-nvidia-sous-l-influence-de-donald-trump_6814742_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - Pixels",
+          "category": "tech",
+          "publishedAt": "2026-11-24T10:22:54.000Z",
+          "fetchedAt": "2026-11-26T04:00:35.349Z"
         }
       ]
     },
     {
       "id": "cluster-3",
-      "topic": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives ",
-      "category": "tech",
-      "importance": 7,
-      "articles": [
-        {
-          "id": "2026-11-24-710a9b72",
-          "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
-          "description": "A sign identifying the facility sits inside a fence surrounding the Iowa Army Ammunition Plant in Middletown, Iowa, on November 19th. | Photo: Getty Images\t\n\nThe US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated.\nWhat material is the Army planning to detonate?\nThere are 68 drums holding about 9,700 pounds of lead azide, an unstable chemical compound created to detonate munitions like grenades. The US started using lead azide as a primary explosive almost a century ago before \"moving away\" from it about 15 years ago because of how difficult the material is to store and transport, Robert Cekada,  …\nRead the full story at The Verge.",
-          "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305973751.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-          "source": "The Verge",
-          "category": "tech",
-          "publishedAt": "2026-11-24T23:25:46.000Z",
-          "fetchedAt": "2026-11-25T04:00:40.571Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-2",
-      "topic": "The rising cost of putting food on the table in India",
+      "topic": "US approves SpaceX plan to send a million data satellites to space",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-25-04d7a75d",
-          "title": "The rising cost of putting food on the table in India",
-          "description": "India's food inflation is broadening, squeezing household budgets.",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+          "id": "2026-11-26-29f2b2d8",
+          "title": "US approves SpaceX plan to send a million data satellites to space",
+          "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-11-25T01:02:13.000Z",
-          "fetchedAt": "2026-11-25T04:00:43.885Z"
+          "publishedAt": "2026-11-26T00:07:51.000Z",
+          "fetchedAt": "2026-11-26T04:00:39.239Z"
         }
       ]
     }
