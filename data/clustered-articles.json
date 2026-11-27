@@ -1,209 +1,209 @@
 {
-  "generatedAt": "2026-11-26T04:00:43.361Z",
+  "generatedAt": "2026-11-27T04:01:06.346Z",
   "clusterCount": 5,
   "clusters": [
     {
       "id": "cluster-2",
-      "topic": "US announces new tariffs on host of countries including China",
+      "topic": "Football : Emmanuel Macron condamne fermement les violences contre des supporteu",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-26-be54e905",
-          "title": "US announces new tariffs on host of countries including China",
-          "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+          "id": "2026-11-27-e590fb91",
+          "title": "Football : Emmanuel Macron condamne fermement les violences contre des supporteurs bulgares à Marseille, Sofia réclame une enquête",
+          "description": "Les affrontements survenus avant la rencontre de Ligue Europa entre l’Olympique de Marseille et le Levski Sofia, jeudi, au Stade-Vélodrome, ont fait une douzaine de blessés parmi les supporteurs bulgares, selon la préfecture de police des Bouches-du-Rhône.",
+          "url": "https://www.lemonde.fr/sport/article/2026/11/27/football-emmanuel-macron-condamne-fermement-les-violences-contre-des-supporteurs-bulgares-a-marseille-sofia-reclame-une-enquete_6815725_3242.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-27T02:27:04.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.210Z"
+        },
+        {
+          "id": "2026-11-26-fc540505",
+          "title": "Les évolutions de la littérature jeunesse, reflets de la société",
+          "description": "C'est le rendez-vous annuel des enfants, des ados, et de celles et ceux qui leur racontent des histoires et leur font découvrir le monde : le Salon du livre et de la presse jeunesse à Montreuil. La littérature jeunesse bouge avec son temps. Elle a beaucoup évolué, en laissant une plus grande place aux sujets de société, tels que les questions d'identité, de genre, d'orientation sexuelle, de modèle familial ou encore de l'inceste.",
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261126-les-%C3%A9volutions-de-la-litt%C3%A9rature-jeunesse-reflets-de-la-soci%C3%A9t%C3%A9",
+          "imageUrl": "https://s.rfi.fr/media/display/74ded598-e9c5-11f1-ae9d-77d069279b82/w:1024/p:16x9/michel-est-un-chien-et-l-inceste-2.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-26T23:15:49.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.188Z"
+        },
+        {
+          "id": "2026-11-26-e959a4f1",
+          "title": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »",
+          "description": "La candidate du Rassemblement national a accusé le président de la République de s’adonner à de « basses manœuvres politiciennes » visant à conclure, d’ici à la fin de l’année, un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’élection présidentielle.",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-26T21:31:24.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.210Z"
+        },
+        {
+          "id": "2026-11-26-88ab2fe4",
+          "title": "«Une mare de sang le long de mon corps»: la létalité des grenades de la police française en question",
+          "description": "Depuis le début de la mobilisation sociale en France, des centaines de personnes ont été blessées – des jeunes, des personnels de l'éducation ou encore des forces de l'ordre. Certains manifestants ont été blessés par des grenades lancées par la police. Le gouvernement l'assure : les grenades assourdissantes ou de désencerclement ne sont pas des armes létales, mais des armes intermédiaires. Pourtant, des personnes ont été gravement blessées. Certaines ont même échappé de peu à la mort. C'est le cas de Jonathan, qui témoigne.",
+          "url": "https://www.rfi.fr/fr/france/20261126-une-mare-de-sang-le-long-de-mon-corps-la-l%C3%A9talit%C3%A9-des-grenades-de-la-police-fran%C3%A7aise-en-question",
+          "imageUrl": "https://s.rfi.fr/media/display/708740a2-e9d4-11f1-8135-77d069279b82/w:1024/p:16x9/FRANCE-POLICE-GRENADE-MANIFESTATION.jpg",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-26T20:04:27.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.188Z"
+        },
+        {
+          "id": "2026-11-26-ceb322fc",
+          "title": "Dix ans de l’accord de paix en Colombie : « Se taire n’était pas une option, c’est pourquoi l’Eglise catholique a décidé de s’impliquer »",
+          "description": "Le 24 novembre 2016, le gouvernement colombien signait un accord de paix avec les Forces armées révolutionnaires de Colombie (FARC), la plus ancienne guérilla d’Amérique latine. L’Eglise catholique s’est également beaucoup investie dans ce processus, comme l’explique l’évêque Hector Fabio Henao, dans un entretien au « Monde ».",
+          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/26/dix-ans-de-l-accord-de-paix-en-colombie-se-taire-n-etait-pas-une-option-c-est-pourquoi-l-eglise-catholique-a-decide-de-s-impliquer_6815575_6038514.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-26T17:00:19.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.210Z"
+        },
+        {
+          "id": "2026-11-26-1b3ac0d6",
+          "title": "Législatives en Espagne : les cartes et graphiques pour comprendre comment la crise du logement est devenue un enjeu de la campagne",
+          "description": "« Le modèle espagnol sous pression » (1/3). La flambée des prix de l’immobilier cristallise les angoisses des électeurs, à la veille du scrutin du 29 novembre. Depuis dix ans, il devient de plus en plus difficile de se loger en Espagne, les jeunes en sont les premières victimes.",
+          "url": "https://www.lemonde.fr/international/visuel/2026/11/26/legislatives-en-espagne-les-cartes-et-graphiques-pour-comprendre-comment-la-crise-du-logement-est-devenue-un-enjeu-de-la-campagne_6815566_3210.html",
+          "imageUrl": null,
+          "source": "Le Monde - International",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-26T16:30:10.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.210Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-16",
+      "topic": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells",
+      "category": "geopolitique",
+      "importance": 10,
+      "articles": [
+        {
+          "id": "2026-11-26-2eccc11d",
+          "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+          "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
           "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-26T03:01:40.000Z",
-          "fetchedAt": "2026-11-26T04:00:35.262Z"
+          "publishedAt": "2026-11-26T22:49:27.000Z",
+          "fetchedAt": "2026-11-27T04:00:55.670Z"
         },
         {
-          "id": "2026-11-25-0388390b",
-          "title": "Non,\"toute la diaspora chinoise\" n'est pas composée d'espions, mais elle subit une pression de Pékin",
-          "description": "Le 13 novembre sur le plateau des \"Informés de franceinfo\", des invités ont affirmé que l'ensemble de la diaspora chinoise en France était potentiellement composé d'espions. Selon les experts, cette affirmation est inexacte et contre-productive : l'État chinois est le responsable des activités d'espionnage, et non la diaspora, qui est bien souvent la victime de ses mesures.",
-          "url": "https://www.france24.com/fr/france/20261125-non-toute-diaspora-chinoise-pas-compos%C3%A9e-espions-mais-subit-pressions-p%C3%A9kin",
-          "imageUrl": "https://s.france24.com/media/display/8d2f35ee-e8f2-11f1-b1cf-95e072ff0a91/w:1024/p:16x9/image1-189.png",
-          "source": "France 24",
+          "id": "2026-11-26-84c0a249",
+          "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+          "description": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+          "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-25T19:57:28.000Z",
-          "fetchedAt": "2026-11-26T04:00:29.989Z"
+          "publishedAt": "2026-11-26T22:06:20.000Z",
+          "fetchedAt": "2026-11-27T04:00:55.670Z"
         },
         {
-          "id": "2026-11-25-001b70c3",
-          "title": "Espace : premier astronaute pakistanais à bord d'une mission spatiale chinoise",
-          "description": "La station Tiangong, le fleuron du programme spatial chinois, a pour la première fois accueilli à bord mercredi un astronaute étranger, le Pakistanais Muhammad Zeeshan Ali. Âgé de 40 ans, il devient le premier astronaute non chinois à prendre part à une mission spatiale de Pékin et le premier étranger à séjourner à bord de la station. Il a décollé aux côtés du pilote Tang Hongbo et de l'ingénieur de vol Wu Yi.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261125-espace-premier-astronaute-pakistanais-%C3%A0-bord-d-une-mission-spatiale-chinoise",
-          "imageUrl": "https://s.france24.com/media/display/0fbb70c0-e8e6-11f1-b227-29d00e23de9a/w:1024/p:16x9/minia-pakistan.jpg",
+          "id": "2026-11-26-0d7ecc89",
+          "title": "Navires russes ciblés en Libye : les frappes ukrainiennes étaient-elles légales ?",
+          "description": "Après la spectaculaire attaque de l'Ukraine dimanche contre deux navires russes en Libye, les autorités de l'est du pays ont dénoncé une violation de la souveraineté libyenne et promis une réponse à cette offensive qui a causé la mort de deux de leurs soldats. L'Ukraine était-elle dans son bon droit en orchestrant une telle attaque aussi loin de la ligne de front ? Eléments de réponse.",
+          "url": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-les-frappes-ukrainiennes-%C3%A9taient-elles-l%C3%A9gales",
+          "imageUrl": "https://s.france24.com/media/display/659e3cc8-e6a9-11f1-ae55-1bac47ab2f5d/w:1024/p:16x9/AP26326649718247.jpg",
           "source": "France 24",
           "category": "geopolitique",
-          "publishedAt": "2026-11-25T16:01:51.000Z",
-          "fetchedAt": "2026-11-26T04:00:29.989Z"
+          "publishedAt": "2026-11-26T17:56:11.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.107Z"
+        },
+        {
+          "id": "2026-11-26-666021dc",
+          "title": "Ukraine: la propagande russe invente la mort de Volodymyr Zelensky",
+          "description": "Alors que les frappes de drones et de missiles se poursuivent entre l’Ukraine et la Russie, une rumeur mensongère revient avec insistance sur les réseaux sociaux. Certains affirment, à tort, que le président ukrainien, Volodymyr Zelensky, aurait été tué dans une frappe russe. Cette fausse information repose sur une vidéo sortie de son contexte.",
+          "url": "https://www.rfi.fr/fr/europe/20261126-ukraine-la-propagande-russe-invente-la-mort-de-volodymyr-zelensky",
+          "imageUrl": "https://s.rfi.fr/media/display/f168e080-e980-11f1-aab3-1991d4929b54/w:1024/p:16x9/Ukraine-Russie-infox-Zelensky-Une.png",
+          "source": "RFI",
+          "category": "geopolitique",
+          "publishedAt": "2026-11-26T11:00:45.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.188Z"
         }
       ]
     },
     {
-      "id": "cluster-5",
-      "topic": "Au Mexique, le calvaire numérique d’une écrivaine féministe",
+      "id": "cluster-36",
+      "topic": "Gaza : Israel Katz, le ministre de la défense israélien, menace de déplacer un m",
       "category": "geopolitique",
       "importance": 10,
       "articles": [
         {
-          "id": "2026-11-26-c51f843b",
-          "title": "Au Mexique, le calvaire numérique d’une écrivaine féministe",
-          "description": "Dahlia de la Cerda est victime d’un violent cyberharcèlement après ses prises de position en faveur de l’avortement, des droits des prostituées et contre la transphobie.",
-          "url": "https://www.lemonde.fr/international/article/2026/11/26/au-mexique-le-calvaire-numerique-d-une-ecrivaine-feministe_6815332_3210.html",
+          "id": "2026-11-26-62e3958d",
+          "title": "Gaza : Israel Katz, le ministre de la défense israélien, menace de déplacer un million de Palestiniens si le Hamas ne se désarme pas « volontairement »",
+          "description": "Par ailleurs, l’armée israélienne intensifie ses frappes contre des responsables du mouvement islamiste, malgré le cessez-le-feu officiellement en vigueur.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/26/gaza-israel-katz-le-ministre-de-la-defense-israelien-menace-de-deplacer-un-million-de-palestiniens-si-le-hamas-ne-se-desarme-pas-volontairement_6815583_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-26T02:00:07.000Z",
-          "fetchedAt": "2026-11-26T04:00:29.900Z"
+          "publishedAt": "2026-11-26T17:52:48.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.210Z"
         },
         {
-          "id": "2026-11-26-0fed78cc",
-          "title": "En Egypte, un incendie meurtrier sur une autoroute de l’agglomération du Caire fait une trentaine de victimes",
-          "description": "Le sinistre s’est déclaré lorsqu’un camion chargé de carburant s’est renversé sur un axe très fréquenté, selon les médias d’Etat. Le ministère de la santé égyptien a également fait état d’au moins 15 blessés, dont quatre dans un état critique.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/26/en-egypte-un-incendie-meurtrier-sur-une-autoroute-de-l-agglomeration-du-caire-fait-une-trentaine-de-victimes_6815263_3212.html",
+          "id": "2026-11-26-d0e49998",
+          "title": "Gaza : un nouveau haut responsable du Hamas, Khaled Abou Nada, tué dans un bombardement israélien",
+          "description": "Le « responsable de la gestion des banques du Hamas », selon Israël, a été tué dans une frappe, avec son épouse. Six personnes au total ont été tuées dans des attaques israéliennes, jeudi, sur l’enclave palestinienne.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/26/gaza-un-nouveau-haut-responsable-du-hamas-khaled-abou-nada-tue-dans-un-bombardement-israelien_6815551_3210.html",
           "imageUrl": null,
           "source": "Le Monde - International",
           "category": "geopolitique",
-          "publishedAt": "2026-11-26T00:32:36.000Z",
-          "fetchedAt": "2026-11-26T04:00:29.900Z"
+          "publishedAt": "2026-11-26T15:06:14.000Z",
+          "fetchedAt": "2026-11-27T04:00:50.210Z"
         },
         {
-          "id": "2026-11-25-9fa1d14b",
-          "title": "Afrique du Sud: le président Ramaphosa gagne son recours contre un rapport d'«impeachment»",
-          "description": "C'est une victoire pour Cyril Ramaphosa, dans une affaire qui plane sur lui depuis 2022. Mercredi 25 novembre, le président sud-africain a obtenu gain de cause : la Haute-Cour du Cap-Occidental a jugé illégal un rapport parlementaire qui estimait qu'il avait pu commettre de graves violations de la Constitution. Celui-ci avait entraîné le lancement d'une procédure de destitution, en mai 2026. La décision y met donc un coup d'arrêt.",
-          "url": "https://www.rfi.fr/fr/afrique/20261125-afrique-du-sud-le-pr%C3%A9sident-ramaphosa-gagne-son-recours-contre-un-rapport-d-impeachment",
-          "imageUrl": "https://s.rfi.fr/media/display/789d5c70-e918-11f1-9afd-1991d4929b54/w:1024/p:16x9/AFRIQUE-DU-SUD-CYRIL-RAMAPHOSA-PRESIDENT.jpg",
-          "source": "RFI",
+          "id": "2026-11-26-dd4c603c",
+          "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+          "description": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg",
+          "source": "BBC World",
           "category": "geopolitique",
-          "publishedAt": "2026-11-25T21:39:24.000Z",
-          "fetchedAt": "2026-11-26T04:00:30.015Z"
-        },
-        {
-          "id": "2026-11-25-28426c71",
-          "title": "Une Amérique vulnérable a redécouvert la rougeole, “c’est juste affreux”",
-          "description": "Le 17 novembre dernier, les États-Unis ont perdu leur statut de pays ayant éliminé la rougeole, selon l’Organisation panaméricaine de la Santé. La maladie y est en effet réapparue sous la forme d’une vaste épidémie qui frappe surtout les non-vaccinés, toujours plus nombreux. Deux soignants du Texas, sceptiques vis-à-vis de la médecine classique, racontaient en 2025 au “New York Times” leur rencontre avec ce virus, bien plus éprouvante qu’ils ne s’y attendaient.",
-          "url": "https://www.courrierinternational.com/article/sante-une-amerique-vulnerable-a-redecouvert-la-rougeole-c-est-juste-affreux_232419_2",
-          "imageUrl": "https://focus.courrierinternational.com/2025/07/15/83/0/2151/1434/1200/630/60/0/a91e53d_upload-1-atwbdchvkp5c-sans-titre-3-w.jpg",
-          "source": "Courrier International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-25T18:59:59.000Z",
-          "fetchedAt": "2026-11-26T04:00:30.300Z"
-        },
-        {
-          "id": "2026-11-25-f8f0293b",
-          "title": "A Madagacar, l’éviction du numéro deux de la junte, symptôme des divisions au sommet",
-          "description": "Le président de l’Assemblée nationale a été destitué mardi 24 novembre. Il avait joué un rôle de premier plan dans la chute du chef de l’Etat Andry Rajoelina en octobre 2025 et a été un élément central de l’alliance nouée entre Antananarivo et la Russie.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/25/a-madagacar-l-eviction-du-numero-deux-de-la-junte-symptome-des-divisions-au-sommet_6815164_3212.html",
-          "imageUrl": null,
-          "source": "Le Monde - International",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-25T18:30:05.000Z",
-          "fetchedAt": "2026-11-26T04:00:29.900Z"
-        },
-        {
-          "id": "2026-11-25-afac0fa4",
-          "title": "Plus de 40 ans après sa sortie, une chanson de Sylvie Vartan fait le bonheur des joueurs de GTA VI",
-          "description": "« Danse ta vie », une reprise en français de « What a Feeling » d'Irene Cara, interprétée par la star de la chanson française Sylvie Vartan, incluse dans le jeu vidéo phénomène GTA VI, a vu ses écoutes bondir plus de quarante ans après sa sortie. Ce qui a suscité la « surprise totale » de l'artiste aux plus de 40 millions de disques vendus.",
-          "url": "https://www.rfi.fr/fr/culture/20261125-plus-de-40-ans-apr%C3%A8s-sa-sortie-une-chanson-de-sylvie-vartan-fait-le-bonheur-des-joueurs-de-gta-vi",
-          "imageUrl": "https://s.rfi.fr/media/display/04f81bc2-e0c4-11ec-8674-005056bfb2b6/w:1024/p:16x9/Sylvie%20Vartan%20OK.png",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-25T16:26:26.000Z",
-          "fetchedAt": "2026-11-26T04:00:30.015Z"
+          "publishedAt": "2026-11-26T10:14:08.000Z",
+          "fetchedAt": "2026-11-27T04:00:55.670Z"
         }
       ]
     },
     {
-      "id": "cluster-21",
-      "topic": "Andy Taylor, ex-guitariste de Duran Duran, est décédé à l'âge de 65 ans",
-      "category": "geopolitique",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-25-ed2f5d50",
-          "title": "Andy Taylor, ex-guitariste de Duran Duran, est décédé à l'âge de 65 ans",
-          "description": "Le guitariste britannique Andy Taylor, dont le jeu a contribué à forger le son de Duran Duran, groupe phare de la new wave des années 1980, est décédé lundi d'un cancer de la prostate, ont annoncé ses proches mercredi.",
-          "url": "https://www.france24.com/fr/culture/20261125-andy-taylor-ex-guitariste-de-duran-duran-est-d%C3%A9c%C3%A9d%C3%A9-%C3%A0-l-%C3%A2ge-de-65-ans",
-          "imageUrl": "https://s.france24.com/media/display/ea18aa54-e921-11f1-96d9-81da3ab2acbb/w:1024/p:16x9/1e3ff7922016b61868bf8175d9efe549c2c2cf4a.jpg",
-          "source": "France 24",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-25T22:45:30.000Z",
-          "fetchedAt": "2026-11-26T04:00:29.989Z"
-        },
-        {
-          "id": "2026-11-25-0869430c",
-          "title": "Décès à 65 ans d'Andy Taylor, ex-guitariste du groupe britannique Duran Duran",
-          "description": "L'ex-guitariste du groupe britannique Duran Duran, Andy Taylor, est décédé des suites d'un cancer de la prostate, ont annoncé mercredi 25 novembre sa famille et la formation phare de la new wave des années 1980, dans un communiqué.",
-          "url": "https://www.rfi.fr/fr/musique/20261125-d%C3%A9c%C3%A8s-%C3%A0-65-ans-d-andy-taylor-ex-guitariste-du-groupe-britannique-duran-duran",
-          "imageUrl": "https://s.rfi.fr/media/display/fdba1144-e91f-11f1-9547-95e072ff0a91/w:1024/p:16x9/andy-taylor.jpg",
-          "source": "RFI",
-          "category": "geopolitique",
-          "publishedAt": "2026-11-25T22:43:56.000Z",
-          "fetchedAt": "2026-11-26T04:00:30.015Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-15",
-      "topic": "C’est quoi cette explosion qui panique les USA et les réseaux sociaux ?",
-      "category": "tech",
-      "importance": 10,
-      "articles": [
-        {
-          "id": "2026-11-25-52f7a615",
-          "title": "C’est quoi cette explosion qui panique les USA et les réseaux sociaux ?",
-          "description": "À la veille de Thanksgiving, l’armée américaine va faire sauter 5 tonnes d’explosifs instables dans l’Iowa malgré les recours en justice et la crainte d’un nuage toxique chargé de plomb. Une opération à haut risque, qui a fait paniquer l'Iowa et les États voisins.",
-          "url": "https://www.numerama.com/tech/2384153-usa-cest-quoi-cette-explosion-qui-panique-liowa-et-les-reseaux-sociaux.html",
-          "imageUrl": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/capture-decran-2026-11-25-a-101047.png?resize=1600,900&key=9e7ef60b",
-          "source": "Numerama",
-          "category": "tech",
-          "publishedAt": "2026-11-25T17:50:00.000Z",
-          "fetchedAt": "2026-11-26T04:00:35.315Z"
-        },
-        {
-          "id": "2026-11-25-42cf746f",
-          "title": "Les dangereuses complaisances de Donald Trump envers Nvidia",
-          "description": "En faisant de la prospérité de Wall Street un impératif supérieur au respect de la loi, le président américain encourage les dérives du secteur de la tech, dont l’économie américaine dépend déjà fortement.",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/25/les-dangereuses-complaisances-de-donald-trump-envers-nvidia_6815082_3232.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-11-25T10:30:08.000Z",
-          "fetchedAt": "2026-11-26T04:00:35.349Z"
-        },
-        {
-          "id": "2026-11-24-736dcbfb",
-          "title": "Jensen Huang de retour à la tête de Nvidia, sous l’influence de Donald Trump",
-          "description": "Le PDG de Nvidia a été réintégré, lundi, par le conseil d’administration du géant des semi-conducteurs. Son retour a provoqué un bond de 31 % de l’entreprise en Bourse. Plusieurs parlementaires, démocrates et républicains, réclament des explications.",
-          "url": "https://www.lemonde.fr/international/video/2026/11/24/jensen-huang-de-retour-a-la-tete-de-nvidia-sous-l-influence-de-donald-trump_6814742_3210.html",
-          "imageUrl": null,
-          "source": "Le Monde - Pixels",
-          "category": "tech",
-          "publishedAt": "2026-11-24T10:22:54.000Z",
-          "fetchedAt": "2026-11-26T04:00:35.349Z"
-        }
-      ]
-    },
-    {
-      "id": "cluster-3",
-      "topic": "US approves SpaceX plan to send a million data satellites to space",
+      "id": "cluster-1",
+      "topic": "I spend £200 a month on fancy meals by myself - would you dine solo?",
       "category": "eco",
       "importance": 7,
       "articles": [
         {
-          "id": "2026-11-26-29f2b2d8",
-          "title": "US approves SpaceX plan to send a million data satellites to space",
-          "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg",
+          "id": "2026-11-27-5dbdf30e",
+          "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+          "description": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d8d/live/b5d26cb0-e9cd-11f1-a094-5fdc692f3e33.jpg",
           "source": "BBC Business",
           "category": "eco",
-          "publishedAt": "2026-11-26T00:07:51.000Z",
-          "fetchedAt": "2026-11-26T04:00:39.239Z"
+          "publishedAt": "2026-11-27T00:54:45.000Z",
+          "fetchedAt": "2026-11-27T04:01:01.015Z"
+        }
+      ]
+    },
+    {
+      "id": "cluster-4",
+      "topic": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "category": "tech",
+      "importance": 6,
+      "articles": [
+        {
+          "id": "2026-11-26-cd2ffd2b",
+          "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+          "description": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+          "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ford-GT41-and-GT40_06-1152x648.jpg",
+          "source": "Ars Technica",
+          "category": "tech",
+          "publishedAt": "2026-11-26T18:00:29.000Z",
+          "fetchedAt": "2026-11-27T04:01:00.946Z"
         }
       ]
     }
